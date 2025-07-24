@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
-  left: [],
+  left: [Component.TableOfContents()],
   right: [],
 }
 
