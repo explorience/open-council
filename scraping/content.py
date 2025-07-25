@@ -19,27 +19,31 @@ class Content:
       return Bill(e)
     if e.name == "p":
       return Paragraph(e)
-    if not e.has_attr("class"):
-      return Content()
-    if "MotionVoters" in e["class"]:
-      return Vote(e)
-    if "MotionResult" in e["class"]:
-      return MotionResult(e)
-    if "MovedBy" in e["class"] or "SecondedBy" in e["class"]:
-      return Mover(e)
-    return Content()
+    return Content() # empty, will be filtered out
 
   @staticmethod
   def parse_contents(content_row):
     if not content_row: return []
 
     content = []
-    for e in content_row.find_all(True):
-      c = Content.parse_content(e)
-      if not c.is_empty():
-        content.append(c)
+    for c in content_row.contents:
+      if isinstance(c, NavigableString): continue
+      if c.has_attr("class") and "AgendaItemMotions" in c["class"]:
+        content += Content.parse_motions(c)
+      else:
+        for e in [c, *c.find_all(True)]:
+          con = Content.parse_content(e)
+          if not con.is_empty():
+            content.append(con)
 
     return content
+
+  @staticmethod
+  def parse_motions(agenda_item_motions):
+    motions = []
+    for agenda_item_motion in agenda_item_motions.contents:
+      motions.append(Motion(agenda_item_motion))
+    return motions
 
 
 class Paragraph(Content):
@@ -73,6 +77,8 @@ class MotionResult(Paragraph):
 
   @staticmethod
   def get_text(e):
+    if e == None: return ""
+
     if len(e.contents) == 1:
       if len(e.contents[0]) == 0:
         # <div class="MotionResult"><br/></div>
@@ -88,11 +94,37 @@ class MotionResult(Paragraph):
     return f"> **{super().format_markdown()}**"
 
 
+class Motion(Content):
+  def __init__(self, agenda_item_motion):
+    self.pre_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PreMotionText"))
+    self.moved_by = Mover(agenda_item_motion.find(class_="MovedBy"))
+    self.seconded_by = Mover(agenda_item_motion.find(class_="SecondedBy"))
+    self.motion_texts = Content.parse_contents(agenda_item_motion.find(class_="MotionText"))
+    self.vote = Vote(agenda_item_motion.find(class_="MotionVoters"))
+    self.result = MotionResult(agenda_item_motion.find(class_="MotionResult"))
+    self.post_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PostMotionText"))
+
+  def is_empty(self):
+    return False
+
+  def format_markdown(self):
+    output = ""
+    parts = [*self.pre_motion_texts, self.moved_by, self.seconded_by, *self.motion_texts]
+    parts += [self.vote, self.result, *self.post_motion_texts]
+    for item in parts:
+      if not item.is_empty():
+        output += f"{item.format_markdown()}\n\n"
+    # horizontal line after the motion to help visually group
+    return output + "****"
+
+
 # moved by, seconded by
 class Mover(Paragraph):
 
   @staticmethod
   def get_text(e):
+    if not e: return ""
+
     """
       <div class="MovedBy">
        <span class="Label">

@@ -72,6 +72,8 @@ A matter pertaining to information explicitly supplied in confidence to the muni
 
 That Council convenes In Closed Session from 1:18 PM to 1:25 PM.
 
+****
+
 ## 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ### 5.1&nbsp;&nbsp;&nbsp;9th and 10th Meetings held on June 3, 2025 and June 17, 2025
@@ -102,6 +104,8 @@ That the Minutes of the 9th and 10th Meetings of the Municipal Council, from the
 > |C. Rahman|
 
 > **Motion Passed (15 to 0)**
+
+****
 
 ## 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
@@ -160,6 +164,8 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 > **Motion Passed (15 to 0)**
 
+****
+
 ## 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
@@ -193,6 +199,8 @@ That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED
 
 > **Motion Passed (15 to 0)**
 
+****
+
 #### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by S. Lewis
@@ -200,6 +208,8 @@ That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED
 That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
+
+****
 
 #### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
 
@@ -217,6 +227,8 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 > **Motion Passed**
 
+****
+
 #### 8.1.4&nbsp;&nbsp;&nbsp;(2.3) Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
 
 > Motion made by S. Lewis
@@ -233,6 +245,8 @@ it being noted that the Strategic Priorities and Policy Committee received commu
 
 > **Motion Passed**
 
+****
+
 #### 8.1.5&nbsp;&nbsp;&nbsp;(3.1) Not to be heard before 1:00 PM - Presentation - Introduction to the Interim Integrity Commissioner - John Mascarin, Aird & Berlis LLP
 
 > Motion made by S. Lewis
@@ -240,6 +254,8 @@ it being noted that the Strategic Priorities and Policy Committee received commu
 That it BE NOTED that the Strategic Priorities and Policy Committee heard a verbal delegation from J. Mascarin, Aird & Berlis, Interim Integrity Commissioner with respect to the role of the Integrity Commissioner. 
 
 > **Motion Passed**
+
+****
 
 #### 8.1.7&nbsp;&nbsp;&nbsp;(3.3) Housing and Development Corporation, London 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -254,6 +270,8 @@ b)  the 2024 Year End Report to the Shareholder BE RECEIVED; and
 c)  the 2024 Financial Statements BE RECEIVED.
 
 > **Motion Passed**
+
+****
 
 #### 8.1.3&nbsp;&nbsp;&nbsp;(2.2) Corporate Growth Projections Update
 
@@ -278,6 +296,8 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 > |C. Rahman||
 
 > **Motion Passed (12 to 3)**
+
+****
 
 #### 8.1.6&nbsp;&nbsp;&nbsp;(3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
 
@@ -317,6 +337,8 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 > **Motion Passed (14 to 1)**
 
+****
+
 ### 8.2&nbsp;&nbsp;&nbsp;11th Report of the Infrastructure and Corporate Services Committee
 
 > Motion made by C. Rahman
@@ -344,6 +366,8 @@ That the 11th Report of the Infrastructure and Corporate Services Committee BE A
 
 > **Motion Passed (15 to 0)**
 
+****
+
 #### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by C. Rahman
@@ -351,6 +375,8 @@ That the 11th Report of the Infrastructure and Corporate Services Committee BE A
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 2.10, having to do with an Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement by indicating that his wife owns and operates a day care.
 
 > **Motion Passed**
+
+****
 
 #### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Time and Attendance Software, Single Source 25-135 Purchase (Relates to Bill No. 252)
 
@@ -367,6 +393,8 @@ c)    the approvals given herein BE CONDITIONAL upon the Corporation entering 
 d)    the proposed revised by-law (as appended to the added agenda as Appendix ‘B’) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to delegate authority to the Deputy City Manager, Enterprise Supports to approve, and execute a Master Services Agreement, and any other documents or ancillary agreements required to enter into agreement with The Ultimate Software Group of Canada, Inc., including options to renew, in a form or forms acceptable to the Deputy City Manager, Enterprise Supports.
 
 > **Motion Passed**
+
+****
 
 #### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award
 
@@ -388,6 +416,8 @@ f)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 > **Motion Passed**
 
+****
+
 #### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth
 
 > Motion made by C. Rahman
@@ -405,6 +435,8 @@ d)    the approvals given herein BE CONDITIONAL upon the Corporation entering 
 e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
+
+****
 
 #### 8.2.5&nbsp;&nbsp;&nbsp;(2.4) Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects
 
@@ -430,6 +462,8 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 > **Motion Passed**
 
+****
+
 #### 8.2.6&nbsp;&nbsp;&nbsp;(2.5) Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project
 
 > Motion made by C. Rahman
@@ -449,6 +483,8 @@ e)    the approval given, herein, BE CONDITIONAL upon the Corporation entering
 f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
 
 > **Motion Passed**
+
+****
 
 #### 8.2.8&nbsp;&nbsp;&nbsp;(2.7) Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
 
@@ -482,6 +518,8 @@ Surcharges are as follows: 
 
 > **Motion Passed**
 
+****
+
 #### 8.2.9&nbsp;&nbsp;&nbsp;(2.8) Declare Surplus – 47 Outer Drive
 
 > Motion made by C. Rahman
@@ -493,6 +531,8 @@ a)    the subject property outlined on the Location Map in “Appendix A,” B
 b)    the subject property (“Surplus Lands”) BE SOLD in accordance with the City’s Sale of Other Disposition of Land Policy.
 
 > **Motion Passed**
+
+****
 
 #### 8.2.10&nbsp;&nbsp;&nbsp;(2.9) Declare Surplus - City-Owned Property - 2528 Main Street
 
@@ -506,11 +546,15 @@ b)    the subject property (“Surplus Lands”) BE SOLD to the abutting prope
 
 > **Motion Passed**
 
+****
+
 #### 8.2.7&nbsp;&nbsp;&nbsp;(2.6) Procurement of Goods & Services Policy Update
 
 > Motion made by S. Franke
 
 That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law (appended to the staff report dated June 16, 2025 as Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to amend By-law No. A.-6151-17, as amended, being “A by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001”, by deleting Schedule “C” – Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule “C” – Procurement of Goods and Services Policy, to update the Policy to further align with applicable trade agreements, support Council’s Strategic Plan, and to modernize language and community expectations.
+
+****
 
 At 2:06 PM, Councillor P. Van Meerbergen leaves the meeting.
 
@@ -545,6 +589,8 @@ That the staff report dated June 16, 2025, with respect to the Procurement of Go
 
 > **Motion Failed (6 to 9)**
 
+****
+
 At 2:30 PM, Councillor H. McAlister leaves the meeting.
 
 At 2:31 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
@@ -576,6 +622,8 @@ That the motion be amended to include a direction to staff to provide a report b
 > |C. Rahman||
 
 > **Motion Passed (12 to 3)**
+
+****
 
 > Motion made by D. Ferreira
 
@@ -609,6 +657,8 @@ That the following actions be taken with respect to the Procurement of Goods and
 a)    on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law (appended to the staff report dated June 16, 2025 as Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to amend By-law No. A.-6151-17, as amended, being “A by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001”, by deleting Schedule “C” – Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule “C” – Procurement of Goods and Services Policy, to update the Policy to further align with applicable trade agreements, support Council’s Strategic Plan, and to modernize language and community expectations; and
 
 b)    the Civic Administration BE DIRECTED to provide a report back to the Infrastructure and Corporate Services Committee following the first summary report with respect to quarterly summary report on procurement activities, including the resourcing required.
+
+****
 
 #### 8.2.11&nbsp;&nbsp;&nbsp;(2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
 
@@ -644,6 +694,8 @@ c)    the proposed by-law, as appended to the staff report dated June 16, 2025
 > |C. Rahman|
 
 > **Motion Passed (15 to 0)**
+
+****
 
 At 2:42 PM, Councillor H. McAlister leaves the meeting.
 
@@ -686,6 +738,8 @@ d)    the proposed by-law, as appended to the staff report dated June 16, 2025
 
 At 2:44 PM, Councillor H. McAlister enters the meeting.
 
+****
+
 ### 8.3&nbsp;&nbsp;&nbsp;10th Report of the Community and Protective Services Committee
 
 > Motion made by D. Ferreira
@@ -713,6 +767,8 @@ That the 10th Report of the Community and Protective Services Committee BE APPRO
 
 > **Motion Passed (15 to 0)**
 
+****
+
 #### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by D. Ferreira
@@ -720,6 +776,8 @@ That the 10th Report of the Community and Protective Services Committee BE APPRO
 That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
+
+****
 
 #### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) 2nd Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -736,6 +794,8 @@ ii)    the Civic Administration BE REQUESTED to attend the June 26, 2025 Envir
 b)    clauses 1.1, 3.1, 5.1 and 5.2 BE RECEIVED.
 
 > **Motion Passed**
+
+****
 
 #### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 262)
 
@@ -765,6 +825,8 @@ d)    the 2023 Pedestrian Crossover contract value with Maple City Electric BE
 
 > **Motion Passed**
 
+****
+
 #### 8.3.5&nbsp;&nbsp;&nbsp;(2.4) Contract Extension - Installation of Park Infrastructure (C21-054)
 
 > Motion made by D. Ferreira
@@ -781,6 +843,8 @@ it being noted that the contract extension does not obligate the Corporation to 
 
 > **Motion Passed**
 
+****
+
 #### 8.3.6&nbsp;&nbsp;&nbsp;(2.5) Blue Box Transition Final Year - Part A Update
 
 > Motion made by D. Ferreira
@@ -792,6 +856,8 @@ a)    the Part A Update (Blue Box Transition Final Year), as appended to the a
 b)    the Civic Administration BE DIRECTED to provide a Part B Update as soon as answers to the majority of remaining Blue Box transition items are available from Circular Materials, a Producer Responsibility Organization and/or separate reports if individual items require a Council decision. (2025-E07)
 
 > **Motion Passed**
+
+****
 
 #### 8.3.8&nbsp;&nbsp;&nbsp;(2.7) Housing Stability for All Plan - 2024 Update
 
@@ -806,6 +872,8 @@ b)    the Civic Administration BE DIRECTED to circulate this report to communi
 c)    the above-noted staff report BE RECEIVED. (2025-S11)
 
 > **Motion Passed**
+
+****
 
 #### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
 
@@ -826,6 +894,8 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 > |D. Ferreira||
 
 > **Motion Passed (8 to 7)**
+
+****
 
 #### 8.3.7&nbsp;&nbsp;&nbsp;(2.6) London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report
 
@@ -852,6 +922,8 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 > |C. Rahman||
 
 > **Motion Passed (14 to 0)**
+
+****
 
 #### 8.3.9&nbsp;&nbsp;&nbsp;(2.8) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
 
@@ -894,6 +966,8 @@ d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering
 
 At 3:05 PM, Deputy Mayor S. Lewis enters the meeting.
 
+****
+
 #### 8.3.10&nbsp;&nbsp;&nbsp;(2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
 > Motion made by S. Stevenson
@@ -917,6 +991,8 @@ That the staff report dated June 9, 2025 with respect to the Updated Highly Supp
 > ||C. Rahman|
 
 > **Motion Failed (5 to 10)**
+
+****
 
 > Motion made by D. Ferreira
 
@@ -942,6 +1018,8 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 > **Motion Passed (14 to 1)**
 
+****
+
 #### 8.3.11&nbsp;&nbsp;&nbsp;(4.1) City of London's Municipal Rent Assistance Program (MRAP)
 
 > Motion made by H. McAlister
@@ -953,6 +1031,8 @@ a)    the Civic Administration BE DIRECTED to allocate up to 30% of the 2025 m
 b)    the Civic Administration BE DIRECTED to engage with Indigenous-led housing providers, including but not limited to, Ontario Aboriginal Housing Services (OAHS) and the Native Inter-Tribal Housing Co-op, and Atlohsa Family Healing Services with the intent to support expanded partner-led delivery of MRAP portable housing benefits beginning in 2026, and to develop appropriate administrative pathways for such partnerships;
 
 it being noted that a communication from Councillor D. Ferreira, dated June 1, 2025, and a communication from A. Jibb, R. Joseph, J. Manidokaa Bradley and E. Gafney-Ladd, Atlohsa, related to this matter, were received. (2025-S11/C09/S14)
+
+****
 
 > Motion made by D. Ferreira
 
@@ -980,6 +1060,8 @@ That the communication dated June 2, 2025, from Councillor D. Ferreira regarding
 > |C. Rahman|
 
 > **Motion Passed (15 to 0)**
+
+****
 
 #### 8.3.12&nbsp;&nbsp;&nbsp;(4.2) Request for Update on 2021 Reaching Home
 
@@ -1013,6 +1095,8 @@ iii) And where applicable, the "Final Report" (as required in 13.1 of the agreem
 
 > **Motion Failed (3 to 12)**
 
+****
+
 > Motion made by D. Ferreira
 
 > Seconded by H. McAlister
@@ -1040,6 +1124,8 @@ That it BE NOTED that the Community and Protective Services Committee received c
 
 > **Motion Passed (15 to 0)**
 
+****
+
 > Motion made by D. Ferreira
 
 That the Council recess at this time, for 20 minutes.
@@ -1049,6 +1135,8 @@ That the Council recess at this time, for 20 minutes.
 The Council recesses at 3:45 PM and reconvenes at 4:06 PM.
 
 At 3:45 PM, Councillors H. McAlister and S. Trosow leave the meeting.
+
+****
 
 ### 8.4&nbsp;&nbsp;&nbsp;9th Report of the Planning and Environment Committee
 
@@ -1075,6 +1163,8 @@ That the 9th Report of the Planning and Environment Committee BE APPROVED, with 
 
 > **Motion Passed (13 to 0)**
 
+****
+
 #### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by S. Lehman
@@ -1082,6 +1172,8 @@ That the 9th Report of the Planning and Environment Committee BE APPROVED, with 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
+
+****
 
 #### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) Downtown London: Momentum Report 2025
 
@@ -1092,6 +1184,8 @@ That the Downtown London: Momentum Report BE RECEIVED;
 it being noted that the verbal delegation from K. Neilsen, Board Chair, Downtown London, with respect to this matter, was received.
 
 > **Motion Passed**
+
+****
 
 #### 8.4.4&nbsp;&nbsp;&nbsp;(3.1) 35 Jim Ashton Street (OZ-25042) (Relates to Bill No.'s 259 and 270) 
 
@@ -1114,6 +1208,8 @@ iii) the recommended amendment would permit a complementary use that is consider
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
 > **Motion Passed**
+
+****
 
 #### 8.4.5&nbsp;&nbsp;&nbsp;(3.2) 415 Oxford Street West (OZ-25046) (Relates to Bill No.'s 260 and 271) 
 
@@ -1151,6 +1247,8 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed**
 
+****
+
 #### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
 
 > Motion made by S. Lehman
@@ -1180,6 +1278,8 @@ it being noted that the Planning and Environment Committee received the followin
 > ||C. Rahman||
 
 > **Motion Failed (1 to 12)**
+
+****
 
 At 4:19 PM, Councillor S. Franke leaves the meeting.
 
@@ -1215,6 +1315,8 @@ it being noted that the Planning and Environment Committee received the followin
 > |C. Rahman||
 
 > **Motion Passed (13 to 0)**
+
+****
 
 #### 8.4.6&nbsp;&nbsp;&nbsp;(3.3) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
 
@@ -1268,6 +1370,8 @@ it being acknowledged that any and all oral and written submissions from the pub
 > |C. Rahman|||
 
 > **Motion Passed (11 to 2)**
+
+****
 
 #### 8.4.7&nbsp;&nbsp;&nbsp;(3.4) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273) 
 
@@ -1367,6 +1471,8 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (12 to 1)**
 
+****
+
 ### 8.5&nbsp;&nbsp;&nbsp;3rd Report of the Budget Committee
 
 > Motion made by E. Peloza
@@ -1392,6 +1498,8 @@ That the 3rd Report of the Budget Committee BE APPROVED, with the exception of i
 
 > **Motion Passed (13 to 0)**
 
+****
+
 #### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by E. Peloza
@@ -1399,6 +1507,8 @@ That the 3rd Report of the Budget Committee BE APPROVED, with the exception of i
 That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
+
+****
 
 #### 8.5.2&nbsp;&nbsp;&nbsp;(2.1) 2026 Annual Budget Update - Next Steps
 
@@ -1408,6 +1518,8 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 > **Motion Passed**
 
+****
+
 #### 8.5.3&nbsp;&nbsp;&nbsp;(4.1) Communication - Museum London - J. Bevan, Executive Director
 
 > Motion made by E. Peloza
@@ -1416,6 +1528,8 @@ That the communication dated June 2, 2025 from J. Bevan, Executive Director, Mus
 
 > **Motion Passed**
 
+****
+
 #### 8.5.4&nbsp;&nbsp;&nbsp;(4.2) Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
 
 > Motion made by E. Peloza
@@ -1423,6 +1537,8 @@ That the communication dated June 2, 2025 from J. Bevan, Executive Director, Mus
 That the communication dated May 27, 2025 from E. Williams, Chief Executive Officer, Middlesex-London Health Unit regarding the 2026 Budget BE RECEIVED; it being noted that the Budget Committee heard a verbal delegation from E. Williams, Chief Executive Officer, Middlesex-London Health Unit regarding the 2026 Budget.
 
 > **Motion Passed**
+
+****
 
 #### 8.5.5&nbsp;&nbsp;&nbsp;(4.3) Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
 
@@ -1442,6 +1558,8 @@ That the communication dated June 1, 2025 from Councillor S. Stevenson regarding
 
 > **Motion Passed**
 
+****
+
 #### 8.5.6&nbsp;&nbsp;&nbsp;(4.4) Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
 
 > Motion made by E. Peloza
@@ -1450,6 +1568,8 @@ That the communication dated June 1, 2025 from Councillor S. Stevenson regarding
 
 > **Motion Passed**
 
+****
+
 #### 8.5.7&nbsp;&nbsp;&nbsp;(4.5) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
 
 > Motion made by E. Peloza
@@ -1457,6 +1577,8 @@ That the communication dated June 1, 2025 from Councillor S. Stevenson regarding
 That the communication dated May 23, 2025 from E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair, Kettle Creek Conservation Authority with respect to the City of London 2026 Budget Request BE RECEIVED; it being noted that the Budget Committee heard a verbal delegation from E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair, Kettle Creek Conservation Authority with respect to the City of London 2026 Budget.
 
 > **Motion Passed**
+
+****
 
 #### 8.5.8&nbsp;&nbsp;&nbsp;(4.6) Budget Updates Requested by the Mayor and the Budget Chair
 
@@ -1479,6 +1601,8 @@ That the following communications with respect to the Budget Updates Requested b
 -    a communication from R. Gauss, Chair, London Police Services Board. 
 
 > **Motion Passed**
+
+****
 
 #### 8.5.9&nbsp;&nbsp;&nbsp;(4.7) Development Charges Act - Mayor J. Morgan
 
@@ -1503,6 +1627,8 @@ That it BE NOTED that the Budget Committee received a communication and presenta
 > |C. Rahman|||
 
 > **Motion Passed (12 to 1)**
+
+****
 
 ### 8.6&nbsp;&nbsp;&nbsp;3rd Report of the Audit Committee
 
@@ -1529,6 +1655,8 @@ That the 3rd Report of the Audit Committee BE APPROVED, with the exception of it
 
 > **Motion Passed (13 to 0)**
 
+****
+
 #### 8.6.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by E. Peloza
@@ -1536,6 +1664,8 @@ That the 3rd Report of the Audit Committee BE APPROVED, with the exception of it
 That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
+
+****
 
 #### 8.6.2&nbsp;&nbsp;&nbsp;(4.1) 2024 Financial Audit
 
@@ -1549,6 +1679,8 @@ b) the Audit Findings Report as prepared by KPMG for the year ending December 31
 
 > **Motion Passed**
 
+****
+
 #### 8.6.3&nbsp;&nbsp;&nbsp;(4.2) Internal Audit Follow Up Activities Dashboard - MNP
 
 > Motion made by E. Peloza
@@ -1557,6 +1689,8 @@ That the communication from MNP, with respect to the internal audit follow up ac
 
 > **Motion Passed**
 
+****
+
 #### 8.6.4&nbsp;&nbsp;&nbsp;(4.3) Community Grants Program Value for Money (VfM) Audit - MNP
 
 > Motion made by E. Peloza
@@ -1564,6 +1698,8 @@ That the communication from MNP, with respect to the internal audit follow up ac
 That the communication dated June 3, 2025 from MNP with respect to the community grants program value for money ("VfM") audit BE RECEIVED and in relation to the Community Grants Program, the Civic Administration BE DIRECTED to report recipient outcomes and results to Council on an annual basis, effective 2026.
 
 > **Motion Passed**
+
+****
 
 #### 8.6.5&nbsp;&nbsp;&nbsp;(4.4) Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
 
@@ -1588,6 +1724,8 @@ That the communication dated June 5, 2025 from MNP with respect to safe London f
 > |C. Rahman|||
 
 > **Motion Passed (12 to 1)**
+
+****
 
 ### 8.7&nbsp;&nbsp;&nbsp;10th Special Planning and Environment Committee
 
@@ -1618,6 +1756,8 @@ At 4:35 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Cha
 
 At 4:40 PM, His Worship Mayor J. Morgan resumes the Chair. 
 
+****
+
 #### 8.7.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
 > Motion made by S. Lehman
@@ -1625,6 +1765,8 @@ At 4:40 PM, His Worship Mayor J. Morgan resumes the Chair. 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
+
+****
 
 #### 8.7.2&nbsp;&nbsp;&nbsp;(2.1) Ontario Building Faster Fund: London's 2024 Housing Target Performance
 
@@ -1639,6 +1781,8 @@ b)    the Mayor and the Clerk BE AUTHORIZED to execute the Agreement; and, 
 c)    the Deputy City Manager, Housing and Community Growth, or their written designate, BE AUTHORIZED to sign the reports required under the Agreement.
 
 > **Motion Passed**
+
+****
 
 ## 9.&nbsp;&nbsp;&nbsp;Added Reports
 
@@ -1677,6 +1821,8 @@ That progress was made with respect to item 4.2 as noted on the public agenda, (
 
 At 4:47 PM, Councillor E. Peloza enters the meeting.
 
+****
+
 ## 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
@@ -1714,6 +1860,8 @@ That Introduction and First Reading of Bill No. 251, BE APPROVED.
 
 > **Motion Passed (11 to 1)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -1736,6 +1884,8 @@ That Second Reading of Bill No. 251, BE APPROVED.
 > |C. Rahman|||
 
 > **Motion Passed (11 to 1)**
+
+****
 
 > Motion made by S. Franke
 
@@ -1760,6 +1910,8 @@ That Third Reading and Enactment of Bill No. 251, BE APPROVED.
 
 > **Motion Passed (11 to 1)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -1782,6 +1934,8 @@ That Introduction and First Reading of Bill No. 256, BE APPROVED.
 > |C. Rahman|||
 
 > **Motion Passed (11 to 0)**
+
+****
 
 > Motion made by S. Franke
 
@@ -1806,6 +1960,8 @@ That Second Reading of Bill No. 256, BE APPROVED.
 
 > **Motion Passed (11 to 0)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -1828,6 +1984,8 @@ That Third Reading and Enactment of Bill No. 256, BE APPROVED.
 > |C. Rahman|||
 
 > **Motion Passed (11 to 0)**
+
+****
 
 > Motion made by S. Franke
 
@@ -1852,6 +2010,8 @@ That Introduction and First Reading of Bill No. 258, BE APPROVED.
 
 > **Motion Passed (11 to 1)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -1874,6 +2034,8 @@ That Second Reading of Bill No. 258, BE APPROVED.
 > |D. Ferreira|||
 
 > **Motion Passed (11 to 1)**
+
+****
 
 > Motion made by S. Franke
 
@@ -1898,6 +2060,8 @@ That Third Reading and Enactment of Bill No. 258, BE APPROVED.
 
 > **Motion Passed (11 to 1)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -1920,6 +2084,8 @@ That Introduction and First Reading of Bill No.'s 261 and 273, BE APPROVED.
 > |C. Rahman|||
 
 > **Motion Passed (11 to 1)**
+
+****
 
 > Motion made by S. Franke
 
@@ -1944,6 +2110,8 @@ That Second Reading of Bill No.'s 261 and 273, BE APPROVED.
 
 > **Motion Passed (11 to 1)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -1966,6 +2134,8 @@ That Third Reading and Enactment of Bill No.'s 261 and 273, BE APPROVED.
 > |C. Rahman|||
 
 > **Motion Passed (11 to 1)**
+
+****
 
 > Motion made by S. Franke
 
@@ -1990,6 +2160,8 @@ That Introduction and First Reading of Bill No. 272, BE APPROVED.
 
 > **Motion Passed (11 to 1)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -2013,6 +2185,8 @@ That Second Reading of Bill No. 272, BE APPROVED.
 
 > **Motion Passed (11 to 1)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -2035,6 +2209,8 @@ That Third Reading and Enactment of Bill No. 272, BE APPROVED.
 > |C. Rahman|||
 
 > **Motion Passed (11 to 1)**
+
+****
 
 > Motion made by S. Franke
 
@@ -2060,6 +2236,8 @@ That Introduction and First Reading of Bill No. 250 to Bill No. 271 and Added Bi
 
 > **Motion Passed (12 to 0)**
 
+****
+
 > Motion made by S. Franke
 
 > Seconded by Mayor J. Morgan
@@ -2083,6 +2261,8 @@ That Second Reading of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with
 > |C. Rahman||
 
 > **Motion Passed (12 to 0)**
+
+****
 
 > Motion made by S. Franke
 
@@ -2187,6 +2367,8 @@ The following Bills are enacted as By-laws of The Corporation of the City of Lon
 
  
 
+****
+
 ## 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
@@ -2198,4 +2380,6 @@ That the meeting BE ADJOURNED.
 > **Motion Passed**
 
 The meeting adjourned at 4:55 PM.
+
+****
 
