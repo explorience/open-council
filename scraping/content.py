@@ -1,4 +1,5 @@
 from bs4 import element
+from callout import callout
 
 class Content:
   def __init__(self):
@@ -145,12 +146,7 @@ class Vote(Content):
         current_row += "|"
       table_body += current_row + "\n"
 
-    output = ""
-    output += "> [!abstract]- Vote:\n"
-    output += f"> {table_header}\n"
-    output += f"> {header_divider}\n"
-    output += f"> {table_body.replace('\n', '\n> ')}"
-    return output
+    return callout("Vote:", f"{table_header}\n{header_divider}\n{table_body}")
 
   def is_empty(self):
     return len(self.rows) == 0

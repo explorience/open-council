@@ -67,7 +67,6 @@ A matter pertaining to information explicitly supplied in confidence to the muni
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -101,7 +100,6 @@ That the Minutes of the 9th and 10th Meetings of the Municipal Council, from the
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -159,7 +157,6 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -193,7 +190,6 @@ That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -280,7 +276,6 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 > |J. Pribil||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (12 to 3)**
 
@@ -319,7 +314,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (14 to 1)**
 
@@ -347,7 +341,6 @@ That the 11th Report of the Infrastructure and Corporate Services Committee BE A
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -549,7 +542,6 @@ That the staff report dated June 16, 2025, with respect to the Procurement of Go
 > ||S. Trosow|
 > ||S. Franke|
 > ||D. Ferreira|
-> 
 
 **Motion Failed (6 to 9)**
 
@@ -582,7 +574,6 @@ That the motion be amended to include a direction to staff to provide a report b
 > |J. Pribil||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (12 to 3)**
 
@@ -608,7 +599,6 @@ That item 7, clause 2.6, as amended, BE APPROVED.
 > |S. Trosow||
 > |S. Franke||
 > |D. Ferreira||
-> 
 
 **Motion Passed (13 to 2)**
 
@@ -652,7 +642,6 @@ c)    the proposed by-law, as appended to the staff report dated June 16, 2025
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -680,7 +669,6 @@ d)    the proposed by-law, as appended to the staff report dated June 16, 2025
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (13 to 0)**
 
@@ -722,7 +710,6 @@ That the 10th Report of the Community and Protective Services Committee BE APPRO
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -837,7 +824,6 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 > |S. Trosow|J. Pribil|
 > |S. Franke|C. Rahman|
 > |D. Ferreira||
-> 
 
 **Motion Passed (8 to 7)**
 
@@ -864,7 +850,6 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (14 to 0)**
 
@@ -904,7 +889,6 @@ d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (13 to 1)**
 
@@ -931,7 +915,6 @@ That the staff report dated June 9, 2025 with respect to the Updated Highly Supp
 > ||S. Franke|
 > ||D. Ferreira|
 > ||C. Rahman|
-> 
 
 **Motion Failed (5 to 10)**
 
@@ -956,7 +939,6 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (14 to 1)**
 
@@ -996,7 +978,6 @@ That the communication dated June 2, 2025, from Councillor D. Ferreira regarding
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -1029,7 +1010,6 @@ iii) And where applicable, the "Final Report" (as required in 13.1 of the agreem
 > ||S. Franke|
 > ||D. Ferreira|
 > ||C. Rahman|
-> 
 
 **Motion Failed (3 to 12)**
 
@@ -1057,7 +1037,6 @@ That it BE NOTED that the Community and Protective Services Committee received c
 > |S. Franke|
 > |D. Ferreira|
 > |C. Rahman|
-> 
 
 **Motion Passed (15 to 0)**
 
@@ -1093,7 +1072,6 @@ That the 9th Report of the Planning and Environment Committee BE APPROVED, with 
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (13 to 0)**
 
@@ -1200,7 +1178,6 @@ it being noted that the Planning and Environment Committee received the followin
 > ||S. Franke||
 > ||D. Ferreira||
 > ||C. Rahman||
-> 
 
 **Motion Failed (1 to 12)**
 
@@ -1236,7 +1213,6 @@ it being noted that the Planning and Environment Committee received the followin
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (13 to 0)**
 
@@ -1290,7 +1266,6 @@ it being acknowledged that any and all oral and written submissions from the pub
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 2)**
 
@@ -1389,7 +1364,6 @@ it being acknowledged that any and all oral and written submissions from the pub
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (12 to 1)**
 
@@ -1415,7 +1389,6 @@ That the 3rd Report of the Budget Committee BE APPROVED, with the exception of i
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (13 to 0)**
 
@@ -1528,7 +1501,6 @@ That it BE NOTED that the Budget Committee received a communication and presenta
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (12 to 1)**
 
@@ -1554,7 +1526,6 @@ That the 3rd Report of the Audit Committee BE APPROVED, with the exception of it
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (13 to 0)**
 
@@ -1615,7 +1586,6 @@ That the communication dated June 5, 2025 from MNP with respect to safe London f
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (12 to 1)**
 
@@ -1641,7 +1611,6 @@ That the 10th Special Report of the Planning and Environment Committee, BE APPRO
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (13 to 0)**
 
@@ -1695,7 +1664,6 @@ That the 11th Report of the Council, In Closed Session BE APPROVED.
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (11 to 0)**
 
@@ -1743,7 +1711,6 @@ That Introduction and First Reading of Bill No. 251, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -1767,7 +1734,6 @@ That Second Reading of Bill No. 251, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -1791,7 +1757,6 @@ That Third Reading and Enactment of Bill No. 251, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -1815,7 +1780,6 @@ That Introduction and First Reading of Bill No. 256, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 0)**
 
@@ -1839,7 +1803,6 @@ That Second Reading of Bill No. 256, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 0)**
 
@@ -1863,7 +1826,6 @@ That Third Reading and Enactment of Bill No. 256, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 0)**
 
@@ -1887,7 +1849,6 @@ That Introduction and First Reading of Bill No. 258, BE APPROVED.
 > |J. Pribil|||
 > |S. Franke|||
 > |D. Ferreira|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -1911,7 +1872,6 @@ That Second Reading of Bill No. 258, BE APPROVED.
 > |J. Pribil|||
 > |S. Franke|||
 > |D. Ferreira|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -1935,7 +1895,6 @@ That Third Reading and Enactment of Bill No. 258, BE APPROVED.
 > |J. Pribil|||
 > |S. Franke|||
 > |D. Ferreira|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -1959,7 +1918,6 @@ That Introduction and First Reading of Bill No.'s 261 and 273, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -1983,7 +1941,6 @@ That Second Reading of Bill No.'s 261 and 273, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -2007,7 +1964,6 @@ That Third Reading and Enactment of Bill No.'s 261 and 273, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -2031,7 +1987,6 @@ That Introduction and First Reading of Bill No. 272, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -2055,7 +2010,6 @@ That Second Reading of Bill No. 272, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -2079,7 +2033,6 @@ That Third Reading and Enactment of Bill No. 272, BE APPROVED.
 > |S. Franke|||
 > |D. Ferreira|||
 > |C. Rahman|||
-> 
 
 **Motion Passed (11 to 1)**
 
@@ -2104,7 +2057,6 @@ That Introduction and First Reading of Bill No. 250 to Bill No. 271 and Added Bi
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (12 to 0)**
 
@@ -2129,7 +2081,6 @@ That Second Reading of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (12 to 0)**
 
@@ -2154,7 +2105,6 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 > |S. Franke||
 > |D. Ferreira||
 > |C. Rahman||
-> 
 
 **Motion Passed (12 to 0)**
 

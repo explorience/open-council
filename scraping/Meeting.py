@@ -1,4 +1,5 @@
 from bs4 import element
+from callout import callout
 from content import Content
 from datetime import datetime
 from MeetingItem import MeetingItem
@@ -76,14 +77,9 @@ class Meeting:
     output += f"# {self.title}\n\n"
     output += "{d:%B} {d.day}, {d.year}, at {d:%l}:{d.minute:02} {d:%p}\n\n".format(d=self.datetime)
 
-    output += f"> [!abstract]- Present:\n"
-    output += f"> {', '.join(self.present)}\n\n"
-
-    output += f"> [!abstract]- Also Present:\n"
-    output += f"> {', '.join(self.also_present)}\n\n"
-
-    output += f"> [!abstract]- Remote Attendance:\n"
-    output += f"> {', '.join(self.remote_attendance)}\n\n"
+    output += f"{callout('Present:', ', '.join(self.present))}\n\n"
+    output += f"{callout('Also Present:', ', '.join(self.also_present))}\n\n"
+    output += f"{callout('Remote Attendance:', ', '.join(self.remote_attendance))}\n\n"
 
     output += f"{self.content.format_markdown()}\n\n"
 
