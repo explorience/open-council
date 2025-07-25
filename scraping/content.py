@@ -99,7 +99,11 @@ class Mover(Paragraph):
        </span>
       </div>
     """
-    return f"{e.find(class_='Label').contents[0]} {e.find(class_='Value').contents[0]}"
+    # remove colon
+    return f"{e.find(class_='Label').contents[0][:-1]} {e.find(class_='Value').contents[0]}"
+
+  def format_markdown(self):
+    return f"> {super().format_markdown()}"
 
 
 class Vote(Content):
