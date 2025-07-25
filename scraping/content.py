@@ -10,23 +10,31 @@ class Content:
   def is_empty(self):
     return True
 
-  def parse_content(content_row):
+  @staticmethod
+  def parse_content(e):
+    if e.name == "p":
+      return Paragraph(e)
+    if not e.has_attr("class"):
+      return Content()
+    if "MotionVoters" in e["class"]:
+      return Vote(e)
+    if "MotionResult" in e["class"]:
+      return MotionResult(e)
+    if "MovedBy" in e["class"] or "SecondedBy" in e["class"]:
+      return Mover(e)
+    return Content()
+
+  @staticmethod
+  def parse_contents(content_row):
     if not content_row: return []
 
     content = []
     for e in content_row.find_all(True):
-      if e.name == "p":
-        content.append(Paragraph(e))
-      elif not e.has_attr("class"):
-        continue
-      elif "MotionVoters" in e["class"]:
-        content.append(Vote(e))
-      elif "MotionResult" in e["class"]:
-        content.append(MotionResult(e))
-      elif "MovedBy" in e["class"] or "SecondedBy" in e["class"]:
-        content.append(Mover(e))
+      c = Content.parse_content(e)
+      if not c.is_empty():
+        content.append(c)
 
-    return [c for c in content if not c.is_empty()]
+    return content
 
 
 class Paragraph(Content):
@@ -42,9 +50,9 @@ class Paragraph(Content):
     output = ""
     for c in e.contents:
       if type(c) is element.NavigableString:
-        output += str(c)
+        output += c
       elif c.name in ["em", "span"]:
-        output += str(c.contents[0])
+        output += c.contents[0]
       elif c.name == "br":
         output += "\n\n"
     return output
@@ -66,10 +74,10 @@ class MotionResult(Paragraph):
         return ""
 
       # <div class="MotionResult"><br>Motion Passed (15 to 0)</br></div>
-      return str(e.contents[0].contents[0])
+      return e.contents[0].contents[0]
 
     # <div class="MotionResult"><br/>Motion Passed (15 to 0)</div>
-    return str(e.contents[1])
+    return e.contents[1]
 
   def format_markdown(self):
     return f"**{super().format_markdown()}**"
@@ -137,7 +145,12 @@ class Vote(Content):
         current_row += "|"
       table_body += current_row + "\n"
 
-    return f"{table_header}\n{header_divider}\n{table_body}".strip()
+    output = ""
+    output += "> [!abstract]- Vote:\n"
+    output += f"> {table_header}\n"
+    output += f"> {header_divider}\n"
+    output += f"> {table_body.replace('\n', '\n> ')}"
+    return output
 
   def is_empty(self):
     return len(self.rows) == 0

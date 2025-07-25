@@ -1,20 +1,39 @@
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+---
+title: 11th Council Meeting
+
+---
+# 11th Council Meeting
+
+June 24, 2025, at  1:00 PM
+
+> [!abstract]- Present:
+> Mayor J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
+
+> [!abstract]- Also Present:
+> S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, D. Ennett, C. Goodall, A. Hagan, A. Hovius, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith
+
+> [!abstract]- Remote Attendance:
+> V. Arora, I. Collins, M. Daley, S. Glover, E. Hunt, K. Murray, A. Roseburgh, J. Senese, K. Pawelec, B. Warner, R. Wilcox
+
+The meeting is called to order at 1:04 PM; it being noted that Councillor S. Hillier was in remote attendance.
+
+## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 11, clause 2.10 of the 11th Report of the Infrastructure and Corporate Services Committee and related Bill No. 256, having to do with an Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement by indicating that his wife owns and operates a day care.
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 7, clause 2.6 of the 10th Report of the Community and Protective Services Committee having to do with London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
+## 2.&nbsp;&nbsp;&nbsp;Recognitions
 
-## 2.1&nbsp;&nbsp;&nbsp;His Worship the Mayor will recognize the recipient of the 2025 Tim Hickman Health and Safety Scholarship: David Perez Medina 
+### 2.1&nbsp;&nbsp;&nbsp;His Worship the Mayor will recognize the recipient of the 2025 Tim Hickman Health and Safety Scholarship: David Perez Medina 
 
 That it BE NOTED his Worship the Mayor recognized David Perez Medina as the recipient of the 2025 Tim Hickman Health and Safety Scholarship.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
+## 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
+## 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 Motion made by: P. Cuddy
 
@@ -30,31 +49,33 @@ A matter pertaining to reports, advice and recommendations of officers and emplo
 
 A matter pertaining to information explicitly supplied in confidence to the municipality by the Ministry of Municipal Affairs and Housing pursuant to subsection 239(2)(h) of the Municipal Act, 2001. (6.1/10/PEC)
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
 That Council convenes In Closed Session from 1:18 PM to 1:25 PM.
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
+## 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
-## 5.1&nbsp;&nbsp;&nbsp;9th and 10th Meetings held on June 3, 2025 and June 17, 2025
+### 5.1&nbsp;&nbsp;&nbsp;9th and 10th Meetings held on June 3, 2025 and June 17, 2025
 
 Motion made by: P. Van Meerbergen
 
@@ -62,27 +83,29 @@ Seconded by: D. Ferreira
 
 That the Minutes of the 9th and 10th Meetings of the Municipal Council, from the meetings held on June 3, 2025 and June 17, 2025, respectively, BE APPROVED.
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
+## 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 Motion made by: S. Stevenson
 
@@ -118,59 +141,63 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 1.    D. Szpakowski and T. Delaney, Hyde Park BIA
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
+## 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
+## 8.&nbsp;&nbsp;&nbsp;Reports
 
-## 8.1&nbsp;&nbsp;&nbsp;8th Report of the Strategic Priorities and Policy Committee
+### 8.1&nbsp;&nbsp;&nbsp;8th Report of the Strategic Priorities and Policy Committee
 
 Motion made by: S. Lewis
 
 That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 3 (2.2) and 6 (3.2).
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
-### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+#### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Motion made by: S. Lewis
 
@@ -178,7 +205,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 **Motion Passed**
 
-### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
+#### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
 
 Motion made by: S. Lewis
 
@@ -194,7 +221,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 **Motion Passed**
 
-### 8.1.4&nbsp;&nbsp;&nbsp;(2.3) Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
+#### 8.1.4&nbsp;&nbsp;&nbsp;(2.3) Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
 
 Motion made by: S. Lewis
 
@@ -210,7 +237,7 @@ it being noted that the Strategic Priorities and Policy Committee received commu
 
 **Motion Passed**
 
-### 8.1.5&nbsp;&nbsp;&nbsp;(3.1) Not to be heard before 1:00 PM - Presentation - Introduction to the Interim Integrity Commissioner - John Mascarin, Aird & Berlis LLP
+#### 8.1.5&nbsp;&nbsp;&nbsp;(3.1) Not to be heard before 1:00 PM - Presentation - Introduction to the Interim Integrity Commissioner - John Mascarin, Aird & Berlis LLP
 
 Motion made by: S. Lewis
 
@@ -218,7 +245,7 @@ That it BE NOTED that the Strategic Priorities and Policy Committee heard a verb
 
 **Motion Passed**
 
-### 8.1.7&nbsp;&nbsp;&nbsp;(3.3) Housing and Development Corporation, London 2024 Annual General Meeting of the Shareholder Annual Resolutions
+#### 8.1.7&nbsp;&nbsp;&nbsp;(3.3) Housing and Development Corporation, London 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
 Motion made by: S. Lewis
 
@@ -232,30 +259,32 @@ c)  the 2024 Financial Statements BE RECEIVED.
 
 **Motion Passed**
 
-### 8.1.3&nbsp;&nbsp;&nbsp;(2.2) Corporate Growth Projections Update
+#### 8.1.3&nbsp;&nbsp;&nbsp;(2.2) Corporate Growth Projections Update
 
 Motion made by: S. Lewis
 
 That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the Deputy City Manager, Finance Supports, and the Deputy City Manager, Environment and Infrastructure, the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED for information.
 
-|Yeas:|Nays:|
-|-|-|
-|Mayor J. Morgan|A. Hopkins|
-|S. Lewis|S. Trosow|
-|S. Hillier|S. Franke|
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|H. McAlister||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|A. Hopkins|
+> |S. Lewis|S. Trosow|
+> |S. Hillier|S. Franke|
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (12 to 3)**
 
-### 8.1.6&nbsp;&nbsp;&nbsp;(3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
+#### 8.1.6&nbsp;&nbsp;&nbsp;(3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
 
 Motion made by: S. Lewis
 
@@ -273,52 +302,56 @@ e)  the communication dated April 30, 2025 from A. Forrest BE RECEIVED;
 
 it being noted that the Strategic Priorities and Policy Committee received a communication from Councillor S. Trosow with respect to this matter.
 
-|Yeas:|Nays:|
-|-|-|
-|Mayor J. Morgan|S. Trosow|
-|A. Hopkins||
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|H. McAlister||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Trosow|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (14 to 1)**
 
-## 8.2&nbsp;&nbsp;&nbsp;11th Report of the Infrastructure and Corporate Services Committee
+### 8.2&nbsp;&nbsp;&nbsp;11th Report of the Infrastructure and Corporate Services Committee
 
 Motion made by: C. Rahman
 
 That the 11th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 7 (2.6) and item 11 (2.10).
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
-### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+#### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Motion made by: C. Rahman
 
@@ -326,7 +359,7 @@ That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in 
 
 **Motion Passed**
 
-### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Time and Attendance Software, Single Source 25-135 Purchase (Relates to Bill No. 252)
+#### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Time and Attendance Software, Single Source 25-135 Purchase (Relates to Bill No. 252)
 
 Motion made by: C. Rahman
 
@@ -342,7 +375,7 @@ d)    the proposed revised by-law (as appended to the added agenda as Appendix
 
 **Motion Passed**
 
-### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award
+#### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award
 
 Motion made by: C. Rahman
 
@@ -362,7 +395,7 @@ f)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 **Motion Passed**
 
-### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth
+#### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth
 
 Motion made by: C. Rahman
 
@@ -380,7 +413,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 **Motion Passed**
 
-### 8.2.5&nbsp;&nbsp;&nbsp;(2.4) Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects
+#### 8.2.5&nbsp;&nbsp;&nbsp;(2.4) Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects
 
 Motion made by: C. Rahman
 
@@ -404,7 +437,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 **Motion Passed**
 
-### 8.2.6&nbsp;&nbsp;&nbsp;(2.5) Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project
+#### 8.2.6&nbsp;&nbsp;&nbsp;(2.5) Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project
 
 Motion made by: C. Rahman
 
@@ -424,7 +457,7 @@ f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 **Motion Passed**
 
-### 8.2.8&nbsp;&nbsp;&nbsp;(2.7) Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
+#### 8.2.8&nbsp;&nbsp;&nbsp;(2.7) Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
 
 Motion made by: C. Rahman
 
@@ -456,7 +489,7 @@ Surcharges are as follows: 
 
 **Motion Passed**
 
-### 8.2.9&nbsp;&nbsp;&nbsp;(2.8) Declare Surplus – 47 Outer Drive
+#### 8.2.9&nbsp;&nbsp;&nbsp;(2.8) Declare Surplus – 47 Outer Drive
 
 Motion made by: C. Rahman
 
@@ -468,7 +501,7 @@ b)    the subject property (“Surplus Lands”) BE SOLD in accordance with th
 
 **Motion Passed**
 
-### 8.2.10&nbsp;&nbsp;&nbsp;(2.9) Declare Surplus - City-Owned Property - 2528 Main Street
+#### 8.2.10&nbsp;&nbsp;&nbsp;(2.9) Declare Surplus - City-Owned Property - 2528 Main Street
 
 Motion made by: C. Rahman
 
@@ -480,7 +513,7 @@ b)    the subject property (“Surplus Lands”) BE SOLD to the abutting prope
 
 **Motion Passed**
 
-### 8.2.7&nbsp;&nbsp;&nbsp;(2.6) Procurement of Goods & Services Policy Update
+#### 8.2.7&nbsp;&nbsp;&nbsp;(2.6) Procurement of Goods & Services Policy Update
 
 Motion made by: S. Franke
 
@@ -504,17 +537,19 @@ Seconded by: S. Stevenson
 
 That the staff report dated June 16, 2025, with respect to the Procurement of Goods & Services Policy Update, BE REFFERED to a future meeting of the Infrastructure and Corporate Services Committee for Civic Administration to report back on the inclusion of providing quarterly summary reporting on procurement activities, including contract awards, and limited tendering within the policy.
 
-|Yeas:|Nays:|
-|-|-|
-|S. Lewis|Mayor J. Morgan|
-|S. Hillier|A. Hopkins|
-|P. Van Meerbergen|E. Peloza|
-|S. Lehman|H. McAlister|
-|S. Stevenson|P. Cuddy|
-|C. Rahman|J. Pribil|
-||S. Trosow|
-||S. Franke|
-||D. Ferreira|
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |S. Lewis|Mayor J. Morgan|
+> |S. Hillier|A. Hopkins|
+> |P. Van Meerbergen|E. Peloza|
+> |S. Lehman|H. McAlister|
+> |S. Stevenson|P. Cuddy|
+> |C. Rahman|J. Pribil|
+> ||S. Trosow|
+> ||S. Franke|
+> ||D. Ferreira|
+> 
 
 **Motion Failed (6 to 9)**
 
@@ -532,20 +567,22 @@ Seconded by: J. Pribil
 
 That the motion be amended to include a direction to staff to provide a report back to the Infrastructure and Corporate Services Committee following the first summary report with respect to quarterly summary report on procurement activities, including the resourcing required.
 
-|Yeas:|Nays:|
-|-|-|
-|Mayor J. Morgan|H. McAlister|
-|A. Hopkins|S. Trosow|
-|S. Lewis|S. Franke|
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins|S. Trosow|
+> |S. Lewis|S. Franke|
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (12 to 3)**
 
@@ -555,21 +592,23 @@ Seconded by: S. Lewis
 
 That item 7, clause 2.6, as amended, BE APPROVED.
 
-|Yeas:|Nays:|
-|-|-|
-|Mayor J. Morgan|S. Stevenson|
-|A. Hopkins|C. Rahman|
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|H. McAlister||
-|P. Cuddy||
-|J. Pribil||
-|S. Trosow||
-|S. Franke||
-|D. Ferreira||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Stevenson|
+> |A. Hopkins|C. Rahman|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> 
 
 **Motion Passed (13 to 2)**
 
@@ -581,7 +620,7 @@ a)    on the recommendation of the Deputy City Manager, Finance Supports, the 
 
 b)    the Civic Administration BE DIRECTED to provide a report back to the Infrastructure and Corporate Services Committee following the first summary report with respect to quarterly summary report on procurement activities, including the resourcing required.
 
-### 8.2.11&nbsp;&nbsp;&nbsp;(2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
+#### 8.2.11&nbsp;&nbsp;&nbsp;(2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
 
 Motion made by: C. Rahman
 
@@ -595,23 +634,25 @@ b)    the proposed by-law, as appended to the staff report dated June 16, 2025
 
 c)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (“Schedule C”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and 
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
@@ -623,21 +664,23 @@ Motion to approve part d) to read as follows:
 
 d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement (“Schedule D”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement.
 
-|Yeas:|Recuse:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|P. Van Meerbergen|H. McAlister|
-|A. Hopkins|||
-|S. Lewis|||
-|S. Hillier|||
-|E. Peloza|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Trosow|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|H. McAlister|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (13 to 0)**
 
@@ -655,33 +698,35 @@ d)    the proposed by-law, as appended to the staff report dated June 16, 2025
 
 At 2:44 PM, Councillor H. McAlister enters the meeting.
 
-## 8.3&nbsp;&nbsp;&nbsp;10th Report of the Community and Protective Services Committee
+### 8.3&nbsp;&nbsp;&nbsp;10th Report of the Community and Protective Services Committee
 
 Motion made by: D. Ferreira
 
 That the 10th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.2), 7 (2.6), 9, (2.8), 10 (2.9), 11 (4.1), 12 (4.2).
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
-### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+#### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Motion made by: D. Ferreira
 
@@ -689,7 +734,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 **Motion Passed**
 
-### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) 2nd Report of the Environmental Stewardship and Action Community Advisory Committee
+#### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) 2nd Report of the Environmental Stewardship and Action Community Advisory Committee
 
 Motion made by: D. Ferreira
 
@@ -705,7 +750,7 @@ b)    clauses 1.1, 3.1, 5.1 and 5.2 BE RECEIVED.
 
 **Motion Passed**
 
-### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 262)
+#### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 262)
 
 Motion made by: D. Ferreira
 
@@ -733,7 +778,7 @@ d)    the 2023 Pedestrian Crossover contract value with Maple City Electric BE
 
 **Motion Passed**
 
-### 8.3.5&nbsp;&nbsp;&nbsp;(2.4) Contract Extension - Installation of Park Infrastructure (C21-054)
+#### 8.3.5&nbsp;&nbsp;&nbsp;(2.4) Contract Extension - Installation of Park Infrastructure (C21-054)
 
 Motion made by: D. Ferreira
 
@@ -749,7 +794,7 @@ it being noted that the contract extension does not obligate the Corporation to 
 
 **Motion Passed**
 
-### 8.3.6&nbsp;&nbsp;&nbsp;(2.5) Blue Box Transition Final Year - Part A Update
+#### 8.3.6&nbsp;&nbsp;&nbsp;(2.5) Blue Box Transition Final Year - Part A Update
 
 Motion made by: D. Ferreira
 
@@ -761,7 +806,7 @@ b)    the Civic Administration BE DIRECTED to provide a Part B Update as soon 
 
 **Motion Passed**
 
-### 8.3.8&nbsp;&nbsp;&nbsp;(2.7) Housing Stability for All Plan - 2024 Update
+#### 8.3.8&nbsp;&nbsp;&nbsp;(2.7) Housing Stability for All Plan - 2024 Update
 
 Motion made by: D. Ferreira
 
@@ -775,51 +820,55 @@ c)    the above-noted staff report BE RECEIVED. (2025-S11)
 
 **Motion Passed**
 
-### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
+#### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
 
 Motion made by: D. Ferreira
 
 That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the staff report dated June 9, 2025, with respect to the City of London Community Grants Program Grassroots, Innovation and Capital Funding Allocations (2025) BE RECEIVED. (2025-F11A)
 
-|Yeas:|Nays:|
-|-|-|
-|Mayor J. Morgan|S. Lewis|
-|A. Hopkins|E. Peloza|
-|S. Hillier|P. Van Meerbergen|
-|S. Lehman|P. Cuddy|
-|H. McAlister|S. Stevenson|
-|S. Trosow|J. Pribil|
-|S. Franke|C. Rahman|
-|D. Ferreira||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Lewis|
+> |A. Hopkins|E. Peloza|
+> |S. Hillier|P. Van Meerbergen|
+> |S. Lehman|P. Cuddy|
+> |H. McAlister|S. Stevenson|
+> |S. Trosow|J. Pribil|
+> |S. Franke|C. Rahman|
+> |D. Ferreira||
+> 
 
 **Motion Passed (8 to 7)**
 
-### 8.3.7&nbsp;&nbsp;&nbsp;(2.6) London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report
+#### 8.3.7&nbsp;&nbsp;&nbsp;(2.6) London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report
 
 Motion made by: D. Ferreira
 
 That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated June 9, 2025, with respect to the London-Middlesex Child Care and Early Years Service System Plan Update 2024 Progress Report, BE RECEIVED. (2025-S01)
 
-|Yeas:|Recuse:|
-|-|-|
-|Mayor J. Morgan|P. Van Meerbergen|
-|A. Hopkins||
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|S. Lehman||
-|H. McAlister||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Trosow||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (14 to 0)**
 
-### 8.3.9&nbsp;&nbsp;&nbsp;(2.8) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
+#### 8.3.9&nbsp;&nbsp;&nbsp;(2.8) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
 
 At 2:55 PM, Deputy Mayor S. Lewis leaves the meeting.
 
@@ -839,27 +888,29 @@ c)    the Civic Administration BE AUTHORIZED to undertake all administrative a
 
 d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a Purchase of Service Agreement with the selected provider. (2025-S04)
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Stevenson|S. Lewis|
-|A. Hopkins|||
-|S. Hillier|||
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|H. McAlister|||
-|P. Cuddy|||
-|J. Pribil|||
-|S. Trosow|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|S. Lewis|
+> |A. Hopkins|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (13 to 1)**
 
 At 3:05 PM, Deputy Mayor S. Lewis enters the meeting.
 
-### 8.3.10&nbsp;&nbsp;&nbsp;(2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
+#### 8.3.10&nbsp;&nbsp;&nbsp;(2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
 Motion made by: S. Stevenson
 
@@ -867,18 +918,20 @@ Seconded by: J. Pribil
 
 That the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule BE REFERRED to the July 14, 2025 meeting of the Community and Protective Services Committee in order to provide cost breakdowns or draft operational budgets for the approved Highly Supportive Housing funding amounts of $1,335,531 for 2024 and 2025 and $1,372,449 for 2025 and 2026.
 
-|Yeas:|Nays:|
-|-|-|
-|S. Hillier|Mayor J. Morgan|
-|P. Van Meerbergen|A. Hopkins|
-|S. Lehman|S. Lewis|
-|S. Stevenson|E. Peloza|
-|J. Pribil|H. McAlister|
-||P. Cuddy|
-||S. Trosow|
-||S. Franke|
-||D. Ferreira|
-||C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |S. Hillier|Mayor J. Morgan|
+> |P. Van Meerbergen|A. Hopkins|
+> |S. Lehman|S. Lewis|
+> |S. Stevenson|E. Peloza|
+> |J. Pribil|H. McAlister|
+> ||P. Cuddy|
+> ||S. Trosow|
+> ||S. Franke|
+> ||D. Ferreira|
+> ||C. Rahman|
+> 
 
 **Motion Failed (5 to 10)**
 
@@ -886,26 +939,28 @@ Motion made by: D. Ferreira
 
 That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule, BE RECEIVED; it being noted that a communication from Councillor S. Stevenson, dated June 5, 2025, with respect to this matter, was received. (2025-S11)
 
-|Yeas:|Nays:|
-|-|-|
-|Mayor J. Morgan|S. Stevenson|
-|A. Hopkins||
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|H. McAlister||
-|P. Cuddy||
-|J. Pribil||
-|S. Trosow||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Stevenson|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (14 to 1)**
 
-### 8.3.11&nbsp;&nbsp;&nbsp;(4.1) City of London's Municipal Rent Assistance Program (MRAP)
+#### 8.3.11&nbsp;&nbsp;&nbsp;(4.1) City of London's Municipal Rent Assistance Program (MRAP)
 
 Motion made by: H. McAlister
 
@@ -923,27 +978,29 @@ Seconded by: Mayor J. Morgan
 
 That the communication dated June 2, 2025, from Councillor D. Ferreira regarding the City of London’s Municipal Rent Assistance Program (MRAP) BE REFERRED to Civic Administration to collaborate with Atlohsa Family Healing Services and report back to the next meeting of the Community and Protective Services Committee with a proposed implementation strategy, including administrative details required to support the allocation and delivery of portable housing benefits.
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
-### 8.3.12&nbsp;&nbsp;&nbsp;(4.2) Request for Update on 2021 Reaching Home
+#### 8.3.12&nbsp;&nbsp;&nbsp;(4.2) Request for Update on 2021 Reaching Home
 
 Motion made by: S. Stevenson
 
@@ -957,20 +1014,22 @@ ii) Any "Fiscal Statistical Data Reports" and/or revised "Expected Results Repor
 
 iii) And where applicable, the "Final Report" (as required in 13.1 of the agreements)
 
-|Yeas:|Nays:|
-|-|-|
-|S. Hillier|Mayor J. Morgan|
-|P. Van Meerbergen|A. Hopkins|
-|S. Stevenson|S. Lewis|
-||E. Peloza|
-||S. Lehman|
-||H. McAlister|
-||P. Cuddy|
-||J. Pribil|
-||S. Trosow|
-||S. Franke|
-||D. Ferreira|
-||C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |S. Hillier|Mayor J. Morgan|
+> |P. Van Meerbergen|A. Hopkins|
+> |S. Stevenson|S. Lewis|
+> ||E. Peloza|
+> ||S. Lehman|
+> ||H. McAlister|
+> ||P. Cuddy|
+> ||J. Pribil|
+> ||S. Trosow|
+> ||S. Franke|
+> ||D. Ferreira|
+> ||C. Rahman|
+> 
 
 **Motion Failed (3 to 12)**
 
@@ -980,23 +1039,25 @@ Seconded by: H. McAlister
 
 That it BE NOTED that the Community and Protective Services Committee received communications from Councillor S. Stevenson, dated June 1, 2025 and June 5, 2025, with respect to a Request for an Update on 2021 Reaching Home.
 
-|Yeas:|
-|-|
-|Mayor J. Morgan|
-|A. Hopkins|
-|S. Lewis|
-|S. Hillier|
-|E. Peloza|
-|P. Van Meerbergen|
-|S. Lehman|
-|H. McAlister|
-|P. Cuddy|
-|S. Stevenson|
-|J. Pribil|
-|S. Trosow|
-|S. Franke|
-|D. Ferreira|
-|C. Rahman|
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+> 
 
 **Motion Passed (15 to 0)**
 
@@ -1010,31 +1071,33 @@ The Council recesses at 3:45 PM and reconvenes at 4:06 PM.
 
 At 3:45 PM, Councillors H. McAlister and S. Trosow leave the meeting.
 
-## 8.4&nbsp;&nbsp;&nbsp;9th Report of the Planning and Environment Committee
+### 8.4&nbsp;&nbsp;&nbsp;9th Report of the Planning and Environment Committee
 
 Motion made by: S. Lehman
 
 That the 9th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 2 (2.1), 6 (3.3) and 7 (3.4).
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|H. McAlister|
-|A. Hopkins|S. Trosow|
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins|S. Trosow|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (13 to 0)**
 
-### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+#### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Motion made by: S. Lehman
 
@@ -1042,7 +1105,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 **Motion Passed**
 
-### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) Downtown London: Momentum Report 2025
+#### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) Downtown London: Momentum Report 2025
 
 Motion made by: S. Lehman
 
@@ -1052,7 +1115,7 @@ it being noted that the verbal delegation from K. Neilsen, Board Chair, Downtown
 
 **Motion Passed**
 
-### 8.4.4&nbsp;&nbsp;&nbsp;(3.1) 35 Jim Ashton Street (OZ-25042) (Relates to Bill No.'s 259 and 270) 
+#### 8.4.4&nbsp;&nbsp;&nbsp;(3.1) 35 Jim Ashton Street (OZ-25042) (Relates to Bill No.'s 259 and 270) 
 
 Motion made by: S. Lehman
 
@@ -1074,7 +1137,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 **Motion Passed**
 
-### 8.4.5&nbsp;&nbsp;&nbsp;(3.2) 415 Oxford Street West (OZ-25046) (Relates to Bill No.'s 260 and 271) 
+#### 8.4.5&nbsp;&nbsp;&nbsp;(3.2) 415 Oxford Street West (OZ-25046) (Relates to Bill No.'s 260 and 271) 
 
 Motion made by: S. Lehman
 
@@ -1110,7 +1173,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 **Motion Passed**
 
-### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
+#### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
 
 Motion made by: S. Lehman
 
@@ -1122,20 +1185,22 @@ it being noted that the Planning and Environment Committee received the followin
 
 - a communication dated June 7, 2025, from S. Disney, Partner, Canadian Commercial (Sherwood Forest) Inc.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|A. Hopkins|Mayor J. Morgan|H. McAlister|
-||S. Lewis|S. Trosow|
-||S. Hillier||
-||E. Peloza||
-||P. Van Meerbergen||
-||S. Lehman||
-||P. Cuddy||
-||S. Stevenson||
-||J. Pribil||
-||S. Franke||
-||D. Ferreira||
-||C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |A. Hopkins|Mayor J. Morgan|H. McAlister|
+> ||S. Lewis|S. Trosow|
+> ||S. Hillier||
+> ||E. Peloza||
+> ||P. Van Meerbergen||
+> ||S. Lehman||
+> ||P. Cuddy||
+> ||S. Stevenson||
+> ||J. Pribil||
+> ||S. Franke||
+> ||D. Ferreira||
+> ||C. Rahman||
+> 
 
 **Motion Failed (1 to 12)**
 
@@ -1155,25 +1220,27 @@ it being noted that the Planning and Environment Committee received the followin
 
 - a communication dated June 7, 2025, from S. Disney, Partner, Canadian Commercial (Sherwood Forest) Inc.
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|H. McAlister|
-|A. Hopkins|S. Trosow|
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins|S. Trosow|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (13 to 0)**
 
-### 8.4.6&nbsp;&nbsp;&nbsp;(3.3) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
+#### 8.4.6&nbsp;&nbsp;&nbsp;(3.3) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
 
 Motion made by: S. Lehman
 
@@ -1209,23 +1276,25 @@ iii) the recommended amendment would permit residential intensification that is 
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|E. Peloza|H. McAlister|
-|A. Hopkins|S. Lehman|S. Trosow|
-|S. Lewis|||
-|S. Hillier|||
-|P. Van Meerbergen|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|E. Peloza|H. McAlister|
+> |A. Hopkins|S. Lehman|S. Trosow|
+> |S. Lewis|||
+> |S. Hillier|||
+> |P. Van Meerbergen|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 2)**
 
-### 8.4.7&nbsp;&nbsp;&nbsp;(3.4) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273) 
+#### 8.4.7&nbsp;&nbsp;&nbsp;(3.4) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273) 
 
 At 4:25 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
 
@@ -1305,48 +1374,52 @@ iv) the recommended amendments would permit a 35-storey, 512-unit mixed-use apar
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Hillier|H. McAlister|
-|A. Hopkins||S. Trosow|
-|S. Lewis|||
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|H. McAlister|
+> |A. Hopkins||S. Trosow|
+> |S. Lewis|||
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (12 to 1)**
 
-## 8.5&nbsp;&nbsp;&nbsp;3rd Report of the Budget Committee
+### 8.5&nbsp;&nbsp;&nbsp;3rd Report of the Budget Committee
 
 Motion made by: E. Peloza
 
 That the 3rd Report of the Budget Committee BE APPROVED, with the exception of item 9 (4.7).
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|H. McAlister|
-|A. Hopkins|S. Trosow|
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins|S. Trosow|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (13 to 0)**
 
-### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+#### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Motion made by: E. Peloza
 
@@ -1354,7 +1427,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 **Motion Passed**
 
-### 8.5.2&nbsp;&nbsp;&nbsp;(2.1) 2026 Annual Budget Update - Next Steps
+#### 8.5.2&nbsp;&nbsp;&nbsp;(2.1) 2026 Annual Budget Update - Next Steps
 
 Motion made by: E. Peloza
 
@@ -1362,7 +1435,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 **Motion Passed**
 
-### 8.5.3&nbsp;&nbsp;&nbsp;(4.1) Communication - Museum London - J. Bevan, Executive Director
+#### 8.5.3&nbsp;&nbsp;&nbsp;(4.1) Communication - Museum London - J. Bevan, Executive Director
 
 Motion made by: E. Peloza
 
@@ -1370,7 +1443,7 @@ That the communication dated June 2, 2025 from J. Bevan, Executive Director, Mus
 
 **Motion Passed**
 
-### 8.5.4&nbsp;&nbsp;&nbsp;(4.2) Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
+#### 8.5.4&nbsp;&nbsp;&nbsp;(4.2) Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
 
 Motion made by: E. Peloza
 
@@ -1378,7 +1451,7 @@ That the communication dated May 27, 2025 from E. Williams, Chief Executive Offi
 
 **Motion Passed**
 
-### 8.5.5&nbsp;&nbsp;&nbsp;(4.3) Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
+#### 8.5.5&nbsp;&nbsp;&nbsp;(4.3) Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
 
 Motion made by: E. Peloza
 
@@ -1396,7 +1469,7 @@ That the communication dated June 1, 2025 from Councillor S. Stevenson regarding
 
 **Motion Passed**
 
-### 8.5.6&nbsp;&nbsp;&nbsp;(4.4) Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
+#### 8.5.6&nbsp;&nbsp;&nbsp;(4.4) Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
 
 Motion made by: E. Peloza
 
@@ -1404,7 +1477,7 @@ That the communication dated June 1, 2025 from Councillor S. Stevenson regarding
 
 **Motion Passed**
 
-### 8.5.7&nbsp;&nbsp;&nbsp;(4.5) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
+#### 8.5.7&nbsp;&nbsp;&nbsp;(4.5) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
 
 Motion made by: E. Peloza
 
@@ -1412,7 +1485,7 @@ That the communication dated May 23, 2025 from E. VanHooren, General Manager/Sec
 
 **Motion Passed**
 
-### 8.5.8&nbsp;&nbsp;&nbsp;(4.6) Budget Updates Requested by the Mayor and the Budget Chair
+#### 8.5.8&nbsp;&nbsp;&nbsp;(4.6) Budget Updates Requested by the Mayor and the Budget Chair
 
 Motion made by: E. Peloza
 
@@ -1434,54 +1507,58 @@ That the following communications with respect to the Budget Updates Requested b
 
 **Motion Passed**
 
-### 8.5.9&nbsp;&nbsp;&nbsp;(4.7) Development Charges Act - Mayor J. Morgan
+#### 8.5.9&nbsp;&nbsp;&nbsp;(4.7) Development Charges Act - Mayor J. Morgan
 
 Motion made by: E. Peloza
 
 That it BE NOTED that the Budget Committee received a communication and presentation from Mayor J. Morgan regarding the Development Charges Act.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Stevenson|H. McAlister|
-|A. Hopkins||S. Trosow|
-|S. Lewis|||
-|S. Hillier|||
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|H. McAlister|
+> |A. Hopkins||S. Trosow|
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (12 to 1)**
 
-## 8.6&nbsp;&nbsp;&nbsp;3rd Report of the Audit Committee
+### 8.6&nbsp;&nbsp;&nbsp;3rd Report of the Audit Committee
 
 Motion made by: E. Peloza
 
 That the 3rd Report of the Audit Committee BE APPROVED, with the exception of item 5 (4.4).
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|H. McAlister|
-|A. Hopkins|S. Trosow|
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins|S. Trosow|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (13 to 0)**
 
-### 8.6.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+#### 8.6.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Motion made by: E. Peloza
 
@@ -1489,7 +1566,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 **Motion Passed**
 
-### 8.6.2&nbsp;&nbsp;&nbsp;(4.1) 2024 Financial Audit
+#### 8.6.2&nbsp;&nbsp;&nbsp;(4.1) 2024 Financial Audit
 
 Motion made by: E. Peloza
 
@@ -1501,7 +1578,7 @@ b) the Audit Findings Report as prepared by KPMG for the year ending December 31
 
 **Motion Passed**
 
-### 8.6.3&nbsp;&nbsp;&nbsp;(4.2) Internal Audit Follow Up Activities Dashboard - MNP
+#### 8.6.3&nbsp;&nbsp;&nbsp;(4.2) Internal Audit Follow Up Activities Dashboard - MNP
 
 Motion made by: E. Peloza
 
@@ -1509,7 +1586,7 @@ That the communication from MNP, with respect to the internal audit follow up ac
 
 **Motion Passed**
 
-### 8.6.4&nbsp;&nbsp;&nbsp;(4.3) Community Grants Program Value for Money (VfM) Audit - MNP
+#### 8.6.4&nbsp;&nbsp;&nbsp;(4.3) Community Grants Program Value for Money (VfM) Audit - MNP
 
 Motion made by: E. Peloza
 
@@ -1517,50 +1594,54 @@ That the communication dated June 3, 2025 from MNP with respect to the community
 
 **Motion Passed**
 
-### 8.6.5&nbsp;&nbsp;&nbsp;(4.4) Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
+#### 8.6.5&nbsp;&nbsp;&nbsp;(4.4) Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
 
 Motion made by: E. Peloza
 
 That the communication dated June 5, 2025 from MNP with respect to safe London for women, girls and gender-diverse and trans people compliance audit BE RECEIVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Stevenson|H. McAlister|
-|A. Hopkins||S. Trosow|
-|S. Lewis|||
-|S. Hillier|||
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|H. McAlister|
+> |A. Hopkins||S. Trosow|
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (12 to 1)**
 
-## 8.7&nbsp;&nbsp;&nbsp;10th Special Planning and Environment Committee
+### 8.7&nbsp;&nbsp;&nbsp;10th Special Planning and Environment Committee
 
 Motion made by: S. Lehman
 
 That the 10th Special Report of the Planning and Environment Committee, BE APPROVED.
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|H. McAlister|
-|A. Hopkins|S. Trosow|
-|S. Lewis||
-|S. Hillier||
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins|S. Trosow|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (13 to 0)**
 
@@ -1568,7 +1649,7 @@ At 4:35 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Cha
 
 At 4:40 PM, His Worship Mayor J. Morgan resumes the Chair. 
 
-### 8.7.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
+#### 8.7.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
 Motion made by: S. Lehman
 
@@ -1576,7 +1657,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 **Motion Passed**
 
-### 8.7.2&nbsp;&nbsp;&nbsp;(2.1) Ontario Building Faster Fund: London's 2024 Housing Target Performance
+#### 8.7.2&nbsp;&nbsp;&nbsp;(2.1) Ontario Building Faster Fund: London's 2024 Housing Target Performance
 
 Motion made by: S. Lehman
 
@@ -1590,7 +1671,7 @@ c)    the Deputy City Manager, Housing and Community Growth, or their written 
 
 **Motion Passed**
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
+## 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 At 4:42 PM, Councillor A. Hopkins leaves the meeting.
 
@@ -1600,19 +1681,21 @@ Motion made by: C. Rahman
 
 That the 11th Report of the Council, In Closed Session BE APPROVED.
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|A. Hopkins|
-|S. Lewis|E. Peloza|
-|S. Hillier|H. McAlister|
-|P. Van Meerbergen|S. Trosow|
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|A. Hopkins|
+> |S. Lewis|E. Peloza|
+> |S. Hillier|H. McAlister|
+> |P. Van Meerbergen|S. Trosow|
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (11 to 0)**
 
@@ -1626,19 +1709,19 @@ That progress was made with respect to item 4.2 as noted on the public agenda, (
 
 At 4:47 PM, Councillor E. Peloza enters the meeting.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
+## 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
+## 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
+## 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
+## 13.&nbsp;&nbsp;&nbsp;By-laws
 
 Motion made by: S. Franke
 
@@ -1646,19 +1729,21 @@ Seconded by: Mayor J. Morgan
 
 That Introduction and First Reading of Bill No. 251, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Stevenson|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1668,19 +1753,21 @@ Seconded by: Mayor J. Morgan
 
 That Second Reading of Bill No. 251, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Stevenson|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1690,19 +1777,21 @@ Seconded by: Mayor J. Morgan
 
 That Third Reading and Enactment of Bill No. 251, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Stevenson|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1712,19 +1801,21 @@ Seconded by: Mayor J. Morgan
 
 That Introduction and First Reading of Bill No. 256, BE APPROVED.
 
-|Yeas:|Recuse:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 0)**
 
@@ -1734,19 +1825,21 @@ Seconded by: Mayor J. Morgan
 
 That Second Reading of Bill No. 256, BE APPROVED.
 
-|Yeas:|Recuse:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 0)**
 
@@ -1756,19 +1849,21 @@ Seconded by: Mayor J. Morgan
 
 That Third Reading and Enactment of Bill No. 256, BE APPROVED.
 
-|Yeas:|Recuse:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 0)**
 
@@ -1778,19 +1873,21 @@ Seconded by: Mayor J. Morgan
 
 That Introduction and First Reading of Bill No. 258, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|C. Rahman|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|C. Rahman|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1800,19 +1897,21 @@ Seconded by: Mayor J. Morgan
 
 That Second Reading of Bill No. 258, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|C. Rahman|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|C. Rahman|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1822,19 +1921,21 @@ Seconded by: Mayor J. Morgan
 
 That Third Reading and Enactment of Bill No. 258, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|C. Rahman|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|C. Rahman|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1844,19 +1945,21 @@ Seconded by: Mayor J. Morgan
 
 That Introduction and First Reading of Bill No.'s 261 and 273, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Hillier|A. Hopkins|
-|S. Lewis||H. McAlister|
-|E. Peloza||S. Trosow|
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |E. Peloza||S. Trosow|
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1866,19 +1969,21 @@ Seconded by: Mayor J. Morgan
 
 That Second Reading of Bill No.'s 261 and 273, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Hillier|A. Hopkins|
-|S. Lewis||H. McAlister|
-|E. Peloza||S. Trosow|
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |E. Peloza||S. Trosow|
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1888,19 +1993,21 @@ Seconded by: Mayor J. Morgan
 
 That Third Reading and Enactment of Bill No.'s 261 and 273, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Hillier|A. Hopkins|
-|S. Lewis||H. McAlister|
-|E. Peloza||S. Trosow|
-|P. Van Meerbergen|||
-|S. Lehman|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |E. Peloza||S. Trosow|
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1910,19 +2017,21 @@ Seconded by: Mayor J. Morgan
 
 That Introduction and First Reading of Bill No. 272, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Lehman|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Lehman|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1932,19 +2041,21 @@ Seconded by: Mayor J. Morgan
 
 That Second Reading of Bill No. 272, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Lehman|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Lehman|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1954,19 +2065,21 @@ Seconded by: Mayor J. Morgan
 
 That Third Reading and Enactment of Bill No. 272, BE APPROVED.
 
-|Yeas:|Nays:|Absent:|
-|-|-|-|
-|Mayor J. Morgan|S. Lehman|A. Hopkins|
-|S. Lewis||H. McAlister|
-|S. Hillier||S. Trosow|
-|E. Peloza|||
-|P. Van Meerbergen|||
-|P. Cuddy|||
-|S. Stevenson|||
-|J. Pribil|||
-|S. Franke|||
-|D. Ferreira|||
-|C. Rahman|||
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Lehman|A. Hopkins|
+> |S. Lewis||H. McAlister|
+> |S. Hillier||S. Trosow|
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+> 
 
 **Motion Passed (11 to 1)**
 
@@ -1976,20 +2089,22 @@ Seconded by: Mayor J. Morgan
 
 That Introduction and First Reading of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with the exception of Bill No.'s 251, 256, 258, and 261, BE APPROVED.
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|A. Hopkins|
-|S. Lewis|H. McAlister|
-|S. Hillier|S. Trosow|
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|A. Hopkins|
+> |S. Lewis|H. McAlister|
+> |S. Hillier|S. Trosow|
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (12 to 0)**
 
@@ -1999,20 +2114,22 @@ Seconded by: Mayor J. Morgan
 
 That Second Reading of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with the exception of Bill No.'s 251, 256, 258, and 261, BE APPROVED. 
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|A. Hopkins|
-|S. Lewis|H. McAlister|
-|S. Hillier|S. Trosow|
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|A. Hopkins|
+> |S. Lewis|H. McAlister|
+> |S. Hillier|S. Trosow|
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (12 to 0)**
 
@@ -2022,20 +2139,22 @@ Seconded by: Mayor J. Morgan
 
 That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with the exception of Bill No.'s 251, 256, 258, and 261, BE APPROVED.
 
-|Yeas:|Absent:|
-|-|-|
-|Mayor J. Morgan|A. Hopkins|
-|S. Lewis|H. McAlister|
-|S. Hillier|S. Trosow|
-|E. Peloza||
-|P. Van Meerbergen||
-|S. Lehman||
-|P. Cuddy||
-|S. Stevenson||
-|J. Pribil||
-|S. Franke||
-|D. Ferreira||
-|C. Rahman||
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|A. Hopkins|
+> |S. Lewis|H. McAlister|
+> |S. Hillier|S. Trosow|
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+> 
 
 **Motion Passed (12 to 0)**
 
@@ -2093,7 +2212,7 @@ The following Bills are enacted as By-laws of The Corporation of the City of Lon
 
  
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
+## 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 Motion made by: P. Van Meerbergen
 
