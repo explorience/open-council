@@ -1,21 +1,25 @@
 from content import Content
 
 class MeetingItem:
-  # call with subheadings to create root node,
+  # call with soup to create root node,
   # otherwise call with agenda_item_container
-  def __init__(self, agenda_item_container, subheadings=None):
+  def __init__(self, agenda_item_container, soup=None):
     self.root = True
     self.title = None
     self.number = 0
     self.content = []
     self.subitems = {}
 
-    if not subheadings:
+    if not soup:
       self.root = False
       agenda_item = agenda_item_container.contents[0]
       self.set_attributes(agenda_item)
+    else:
+      # root node
+      pass
 
-    for child in subheadings or agenda_item_container.contents[1]:
+    content = soup.find(class_="AgendaItems") if soup else agenda_item_container.contents[1]
+    for child in content:
       subitem = MeetingItem(child)
       self.subitems[subitem.number] = subitem
 

@@ -133,8 +133,8 @@ class Vote(Content):
       current_row = "|"
       for row in self.rows:
         voters = row["voters"]
-        item = voters[i] if i < len(voters) else " "
-        current_row += f"{item}|"
+        if i < len(voters): current_row += voters[i]
+        current_row += "|"
       table_body += current_row + "\n"
 
     return f"{table_header}\n{header_divider}\n{table_body}".strip()

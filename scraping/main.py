@@ -8,10 +8,8 @@ from download_meeting import get_minutes
 async def item_info(target_date):
   minutes = await get_minutes(target_date)
   soup = BeautifulSoup(minutes, "html.parser")
-  agenda_items = soup.find(class_="AgendaItems")
-  items = MeetingItem(None, agenda_items)
+  items = MeetingItem(None, soup)
   m = items.format_markdown()
-  print(m)
   with open("../content/meeting.md", "w") as f:
     f.write(m)
 

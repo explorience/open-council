@@ -243,15 +243,15 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 |Mayor J. Morgan|A. Hopkins|
 |S. Lewis|S. Trosow|
 |S. Hillier|S. Franke|
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|H. McAlister| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|D. Ferreira| |
-|C. Rahman| |
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|H. McAlister||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (12 to 3)**
 
@@ -276,19 +276,19 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 |Yeas:|Nays:|
 |-|-|
 |Mayor J. Morgan|S. Trosow|
-|A. Hopkins| |
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|H. McAlister| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|A. Hopkins||
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|H. McAlister||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (14 to 1)**
 
@@ -512,9 +512,9 @@ That the staff report dated June 16, 2025, with respect to the Procurement of Go
 |S. Lehman|H. McAlister|
 |S. Stevenson|P. Cuddy|
 |C. Rahman|J. Pribil|
-| |S. Trosow|
-| |S. Franke|
-| |D. Ferreira|
+||S. Trosow|
+||S. Franke|
+||D. Ferreira|
 
 **Motion Failed (6 to 9)**
 
@@ -537,15 +537,15 @@ That the motion be amended to include a direction to staff to provide a report b
 |Mayor J. Morgan|H. McAlister|
 |A. Hopkins|S. Trosow|
 |S. Lewis|S. Franke|
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|D. Ferreira| |
-|C. Rahman| |
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (12 to 3)**
 
@@ -559,17 +559,17 @@ That item 7, clause 2.6, as amended, BE APPROVED.
 |-|-|
 |Mayor J. Morgan|S. Stevenson|
 |A. Hopkins|C. Rahman|
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|H. McAlister| |
-|P. Cuddy| |
-|J. Pribil| |
-|S. Trosow| |
-|S. Franke| |
-|D. Ferreira| |
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|H. McAlister||
+|P. Cuddy||
+|J. Pribil||
+|S. Trosow||
+|S. Franke||
+|D. Ferreira||
 
 **Motion Passed (13 to 2)**
 
@@ -626,18 +626,18 @@ d)    the proposed by-law, as appended to the staff report dated June 16, 2025
 |Yeas:|Recuse:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|P. Van Meerbergen|H. McAlister|
-|A. Hopkins| | |
-|S. Lewis| | |
-|S. Hillier| | |
-|E. Peloza| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Trosow| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|A. Hopkins|||
+|S. Lewis|||
+|S. Hillier|||
+|E. Peloza|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Trosow|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (13 to 0)**
 
@@ -790,7 +790,7 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 |H. McAlister|S. Stevenson|
 |S. Trosow|J. Pribil|
 |S. Franke|C. Rahman|
-|D. Ferreira| |
+|D. Ferreira||
 
 **Motion Passed (8 to 7)**
 
@@ -803,19 +803,19 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 |Yeas:|Recuse:|
 |-|-|
 |Mayor J. Morgan|P. Van Meerbergen|
-|A. Hopkins| |
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|S. Lehman| |
-|H. McAlister| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Trosow| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|A. Hopkins||
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|S. Lehman||
+|H. McAlister||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Trosow||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (14 to 0)**
 
@@ -842,18 +842,18 @@ d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Stevenson|S. Lewis|
-|A. Hopkins| | |
-|S. Hillier| | |
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|H. McAlister| | |
-|P. Cuddy| | |
-|J. Pribil| | |
-|S. Trosow| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|A. Hopkins|||
+|S. Hillier|||
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|H. McAlister|||
+|P. Cuddy|||
+|J. Pribil|||
+|S. Trosow|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (13 to 1)**
 
@@ -874,11 +874,11 @@ That the staff report dated June 9, 2025 with respect to the Updated Highly Supp
 |S. Lehman|S. Lewis|
 |S. Stevenson|E. Peloza|
 |J. Pribil|H. McAlister|
-| |P. Cuddy|
-| |S. Trosow|
-| |S. Franke|
-| |D. Ferreira|
-| |C. Rahman|
+||P. Cuddy|
+||S. Trosow|
+||S. Franke|
+||D. Ferreira|
+||C. Rahman|
 
 **Motion Failed (5 to 10)**
 
@@ -889,19 +889,19 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 |Yeas:|Nays:|
 |-|-|
 |Mayor J. Morgan|S. Stevenson|
-|A. Hopkins| |
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|H. McAlister| |
-|P. Cuddy| |
-|J. Pribil| |
-|S. Trosow| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|A. Hopkins||
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|H. McAlister||
+|P. Cuddy||
+|J. Pribil||
+|S. Trosow||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (14 to 1)**
 
@@ -962,15 +962,15 @@ iii) And where applicable, the "Final Report" (as required in 13.1 of the agreem
 |S. Hillier|Mayor J. Morgan|
 |P. Van Meerbergen|A. Hopkins|
 |S. Stevenson|S. Lewis|
-| |E. Peloza|
-| |S. Lehman|
-| |H. McAlister|
-| |P. Cuddy|
-| |J. Pribil|
-| |S. Trosow|
-| |S. Franke|
-| |D. Ferreira|
-| |C. Rahman|
+||E. Peloza|
+||S. Lehman|
+||H. McAlister|
+||P. Cuddy|
+||J. Pribil|
+||S. Trosow|
+||S. Franke|
+||D. Ferreira|
+||C. Rahman|
 
 **Motion Failed (3 to 12)**
 
@@ -1020,17 +1020,17 @@ That the 9th Report of the Planning and Environment Committee BE APPROVED, with 
 |-|-|
 |Mayor J. Morgan|H. McAlister|
 |A. Hopkins|S. Trosow|
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (13 to 0)**
 
@@ -1125,17 +1125,17 @@ it being noted that the Planning and Environment Committee received the followin
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |A. Hopkins|Mayor J. Morgan|H. McAlister|
-| |S. Lewis|S. Trosow|
-| |S. Hillier| |
-| |E. Peloza| |
-| |P. Van Meerbergen| |
-| |S. Lehman| |
-| |P. Cuddy| |
-| |S. Stevenson| |
-| |J. Pribil| |
-| |S. Franke| |
-| |D. Ferreira| |
-| |C. Rahman| |
+||S. Lewis|S. Trosow|
+||S. Hillier||
+||E. Peloza||
+||P. Van Meerbergen||
+||S. Lehman||
+||P. Cuddy||
+||S. Stevenson||
+||J. Pribil||
+||S. Franke||
+||D. Ferreira||
+||C. Rahman||
 
 **Motion Failed (1 to 12)**
 
@@ -1159,17 +1159,17 @@ it being noted that the Planning and Environment Committee received the followin
 |-|-|
 |Mayor J. Morgan|H. McAlister|
 |A. Hopkins|S. Trosow|
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (13 to 0)**
 
@@ -1213,15 +1213,15 @@ it being acknowledged that any and all oral and written submissions from the pub
 |-|-|-|
 |Mayor J. Morgan|E. Peloza|H. McAlister|
 |A. Hopkins|S. Lehman|S. Trosow|
-|S. Lewis| | |
-|S. Hillier| | |
-|P. Van Meerbergen| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis|||
+|S. Hillier|||
+|P. Van Meerbergen|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 2)**
 
@@ -1308,17 +1308,17 @@ it being acknowledged that any and all oral and written submissions from the pub
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Hillier|H. McAlister|
-|A. Hopkins| |S. Trosow|
-|S. Lewis| | |
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|A. Hopkins||S. Trosow|
+|S. Lewis|||
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (12 to 1)**
 
@@ -1332,17 +1332,17 @@ That the 3rd Report of the Budget Committee BE APPROVED, with the exception of i
 |-|-|
 |Mayor J. Morgan|H. McAlister|
 |A. Hopkins|S. Trosow|
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (13 to 0)**
 
@@ -1443,17 +1443,17 @@ That it BE NOTED that the Budget Committee received a communication and presenta
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Stevenson|H. McAlister|
-|A. Hopkins| |S. Trosow|
-|S. Lewis| | |
-|S. Hillier| | |
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|A. Hopkins||S. Trosow|
+|S. Lewis|||
+|S. Hillier|||
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (12 to 1)**
 
@@ -1467,17 +1467,17 @@ That the 3rd Report of the Audit Committee BE APPROVED, with the exception of it
 |-|-|
 |Mayor J. Morgan|H. McAlister|
 |A. Hopkins|S. Trosow|
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (13 to 0)**
 
@@ -1526,17 +1526,17 @@ That the communication dated June 5, 2025 from MNP with respect to safe London f
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Stevenson|H. McAlister|
-|A. Hopkins| |S. Trosow|
-|S. Lewis| | |
-|S. Hillier| | |
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|A. Hopkins||S. Trosow|
+|S. Lewis|||
+|S. Hillier|||
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (12 to 1)**
 
@@ -1550,17 +1550,17 @@ That the 10th Special Report of the Planning and Environment Committee, BE APPRO
 |-|-|
 |Mayor J. Morgan|H. McAlister|
 |A. Hopkins|S. Trosow|
-|S. Lewis| |
-|S. Hillier| |
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|S. Lewis||
+|S. Hillier||
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (13 to 0)**
 
@@ -1606,13 +1606,13 @@ That the 11th Report of the Council, In Closed Session BE APPROVED.
 |S. Lewis|E. Peloza|
 |S. Hillier|H. McAlister|
 |P. Van Meerbergen|S. Trosow|
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (11 to 0)**
 
@@ -1649,16 +1649,16 @@ That Introduction and First Reading of Bill No. 251, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Stevenson|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1671,16 +1671,16 @@ That Second Reading of Bill No. 251, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Stevenson|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1693,16 +1693,16 @@ That Third Reading and Enactment of Bill No. 251, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Stevenson|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1715,16 +1715,16 @@ That Introduction and First Reading of Bill No. 256, BE APPROVED.
 |Yeas:|Recuse:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 0)**
 
@@ -1737,16 +1737,16 @@ That Second Reading of Bill No. 256, BE APPROVED.
 |Yeas:|Recuse:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 0)**
 
@@ -1759,16 +1759,16 @@ That Third Reading and Enactment of Bill No. 256, BE APPROVED.
 |Yeas:|Recuse:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|P. Van Meerbergen|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 0)**
 
@@ -1781,16 +1781,16 @@ That Introduction and First Reading of Bill No. 258, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|C. Rahman|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
 
 **Motion Passed (11 to 1)**
 
@@ -1803,16 +1803,16 @@ That Second Reading of Bill No. 258, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|C. Rahman|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
 
 **Motion Passed (11 to 1)**
 
@@ -1825,16 +1825,16 @@ That Third Reading and Enactment of Bill No. 258, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|C. Rahman|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
 
 **Motion Passed (11 to 1)**
 
@@ -1847,16 +1847,16 @@ That Introduction and First Reading of Bill No.'s 261 and 273, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Hillier|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|E. Peloza| |S. Trosow|
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|E. Peloza||S. Trosow|
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1869,16 +1869,16 @@ That Second Reading of Bill No.'s 261 and 273, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Hillier|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|E. Peloza| |S. Trosow|
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|E. Peloza||S. Trosow|
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1891,16 +1891,16 @@ That Third Reading and Enactment of Bill No.'s 261 and 273, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Hillier|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|E. Peloza| |S. Trosow|
-|P. Van Meerbergen| | |
-|S. Lehman| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|E. Peloza||S. Trosow|
+|P. Van Meerbergen|||
+|S. Lehman|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1913,16 +1913,16 @@ That Introduction and First Reading of Bill No. 272, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Lehman|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1935,16 +1935,16 @@ That Second Reading of Bill No. 272, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Lehman|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1957,16 +1957,16 @@ That Third Reading and Enactment of Bill No. 272, BE APPROVED.
 |Yeas:|Nays:|Absent:|
 |-|-|-|
 |Mayor J. Morgan|S. Lehman|A. Hopkins|
-|S. Lewis| |H. McAlister|
-|S. Hillier| |S. Trosow|
-|E. Peloza| | |
-|P. Van Meerbergen| | |
-|P. Cuddy| | |
-|S. Stevenson| | |
-|J. Pribil| | |
-|S. Franke| | |
-|D. Ferreira| | |
-|C. Rahman| | |
+|S. Lewis||H. McAlister|
+|S. Hillier||S. Trosow|
+|E. Peloza|||
+|P. Van Meerbergen|||
+|P. Cuddy|||
+|S. Stevenson|||
+|J. Pribil|||
+|S. Franke|||
+|D. Ferreira|||
+|C. Rahman|||
 
 **Motion Passed (11 to 1)**
 
@@ -1981,15 +1981,15 @@ That Introduction and First Reading of Bill No. 250 to Bill No. 271 and Added Bi
 |Mayor J. Morgan|A. Hopkins|
 |S. Lewis|H. McAlister|
 |S. Hillier|S. Trosow|
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (12 to 0)**
 
@@ -2004,15 +2004,15 @@ That Second Reading of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with
 |Mayor J. Morgan|A. Hopkins|
 |S. Lewis|H. McAlister|
 |S. Hillier|S. Trosow|
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (12 to 0)**
 
@@ -2027,15 +2027,15 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 |Mayor J. Morgan|A. Hopkins|
 |S. Lewis|H. McAlister|
 |S. Hillier|S. Trosow|
-|E. Peloza| |
-|P. Van Meerbergen| |
-|S. Lehman| |
-|P. Cuddy| |
-|S. Stevenson| |
-|J. Pribil| |
-|S. Franke| |
-|D. Ferreira| |
-|C. Rahman| |
+|E. Peloza||
+|P. Van Meerbergen||
+|S. Lehman||
+|P. Cuddy||
+|S. Stevenson||
+|J. Pribil||
+|S. Franke||
+|D. Ferreira||
+|C. Rahman||
 
 **Motion Passed (12 to 0)**
 
