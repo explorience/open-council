@@ -2110,55 +2110,80 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 
 The following Bills are enacted as By-laws of The Corporation of the City of London:
 
- - A by-law to confirm the proceedings of the Council Meeting held on the 24 day of June, 2025 (City Clerk)
+> [!abstract]- Bill No. 250
+> By-law No. A.-8613-194 - A by-law to confirm the proceedings of the Council Meeting held on the 24th day of June, 2025 (City Clerk)
 
- - A by-law to authorize and approve the Agreement with Goodwill Industries, Ontario Great Lakes, for the implementation and administration of a Lived Experience Community Table initiative for Ontario Works. (2.8/10/CPSC)
+> [!abstract]- Bill No. 251
+> By-law No. A.-8614-195 - A by-law to authorize and approve the Agreement with Goodwill Industries, Ontario Great Lakes, for the implementation and administration of a Lived Experience Community Table initiative for Ontario Works. (2.8/10/CPSC)
 
- - A by-law to authorize the Deputy City Manager, Enterprise Supports, to approve a Master Services Agreement and related documents with The Ultimate Software Group of Canada, Inc., and to authorize the Mayor and City Clerk to execute the agreement and related documents. (2.1/11/ICSC)
+> [!abstract]- Bill No. 252
+> By-law No. A.-8615-196 - A by-law to authorize the Deputy City Manager, Enterprise Supports, to approve a Master Services Agreement and related documents with The Ultimate Software Group of Canada, Inc., and to authorize the Mayor and City Clerk to execute the agreement and related documents. (2.1/11/ICSC)
 
- - A by-law to authorize and approve an Amending Agreement to the 2018 Land Ambulance Services Cost Apportionment Agreement between The Corporation of the County of Middlesex and The Corporation of the City of London and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10a/11/ICSC)
+> [!abstract]- Bill No. 253
+> By-law No. A.-8616-197 - A by-law to authorize and approve an Amending Agreement to the 2018 Land Ambulance Services Cost Apportionment Agreement between The Corporation of the County of Middlesex and The Corporation of the City of London and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10a/11/ICSC)
 
- - A by-law to authorize and approve an Amending Agreement to the 2018 Ontario Works Services Cost Apportionment and Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10b/11/ICSC)
+> [!abstract]- Bill No. 254
+> By-law No. A.-8617-198 - A by-law to authorize and approve an Amending Agreement to the 2018 Ontario Works Services Cost Apportionment and Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10b/11/ICSC)
 
- - A by-law to authorize and approve an Amending Agreement to the 2018 Housing Services Cost Apportionment and CHPI Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10c/11/ICSC)
+> [!abstract]- Bill No. 255
+> By-law No. A.-8618-199 - A by-law to authorize and approve an Amending Agreement to the 2018 Housing Services Cost Apportionment and CHPI Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10c/11/ICSC)
 
- - A by-law to authorize and approve an Amending Agreement to the 2018 Child Care Services Cost Apportionment and Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10d/11/ICSC)
+> [!abstract]- Bill No. 256
+> By-law No. A.-8619-200 - A by-law to authorize and approve an Amending Agreement to the 2018 Child Care Services Cost Apportionment and Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10d/11/ICSC)
 
- - A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing Inc. (3.2/8/SPPC)
+> [!abstract]- Bill No. 257
+> By-law No. A.-8620-201 - A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing Inc. (3.2/8/SPPC)
 
- - A by-law to amend By-law No. A.-6151-17, as amended, being “A by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001”, by deleting Schedule “C” – Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule “C” – Procurement of Goods and Services Policy, to update the Policy, to further align with applicable trade agreements, support Council’s Strategic Plan, and to modernize language and community expectations. (2.6/11/ICSC)
+> [!abstract]- Bill No. 258
+> By-law No. A.-6151(as)-202 - A by-law to amend By-law No. A.-6151-17, as amended, being “A by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001”, by deleting Schedule “C” – Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule “C” – Procurement of Goods and Services Policy, to update the Policy, to further align with applicable trade agreements, support Council’s Strategic Plan, and to modernize language and community expectations. (2.6/11/ICSC)
 
- - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 35 Jim Ashton Street. (3.1a/9/PEC)
+> [!abstract]- Bill No. 259
+> By-law No. C.P.-1512(eo)-203 - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 35 Jim Ashton Street. (3.1a/9/PEC)
 
- - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 415 Oxford Street West. (3.2a/9/PEC)
+> [!abstract]- Bill No. 260
+> By-law No. C.P.-1512(ep)-204 - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 415 Oxford Street West. (3.2a/9/PEC)
 
- - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 743 Richmond Street. (3.4a/9/PEC)
+> [!abstract]- Bill No. 261
+> By-law No. C.P.-1512(eq)-205 - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 743 Richmond Street. (3.4a/9/PEC)
 
- - A by-law to amend By-law PS-114 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City of London.” (2.3/10/CPSC)
+> [!abstract]- Bill No. 262
+> By-law No. PS-114-25019 - A by-law to amend By-law PS-114 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City of London.” (2.3/10/CPSC)
 
- - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Bradley Avenue, west of Old Victoria Road) (City Surveyor – for road dedication purposes)
+> [!abstract]- Bill No. 263
+> By-law No. S.-6377-206 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Bradley Avenue, west of Old Victoria Road) (City Surveyor – for road dedication purposes)
 
- - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Commissioners Road West, east of Reynolds Road) (City Surveyor – for road dedication purposes)
+> [!abstract]- Bill No. 264
+> By-law No. S.-6378-207 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Commissioners Road West, east of Reynolds Road) (City Surveyor – for road dedication purposes)
 
- - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Meadowlily Road North, at the intersection of Meadowlily Road North and Norlan Avenue) (City Surveyor – for road dedication purposes)
+> [!abstract]- Bill No. 265
+> By-law No. S.-6379-208 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Meadowlily Road North, at the intersection of Meadowlily Road North and Norlan Avenue) (City Surveyor – for road dedication purposes)
 
- - A by-law to lay out, constitute, establish and assume certain reserves in the City of London as public highway. (as part of Morgan Avenue) (City Surveyor – approval of Site Plan Control at 1467 Wharncliffe Road South requires 0.3m Reserve on abutting plan 33M-661 to be dedicated as public highway for unobstructed legal access)
+> [!abstract]- Bill No. 266
+> By-law No. S.-6380-209 - A by-law to lay out, constitute, establish and assume certain reserves in the City of London as public highway. (as part of Morgan Avenue) (City Surveyor – approval of Site Plan Control at 1467 Wharncliffe Road South requires 0.3m Reserve on abutting plan 33M-661 to be dedicated as public highway for unobstructed legal access)
 
- - A by-law to repeal By-law No. W.-5242-77, entitled “A by-law to authorize the UTRCA – Flood & Erosion Control Infrastructure Program Project. (Project No. ES2474)” (City Clerk)
+> [!abstract]- Bill No. 267
+> By-law No. W.-5719-210 - A by-law to repeal By-law No. W.-5242-77, entitled “A by-law to authorize the UTRCA – Flood & Erosion Control Infrastructure Program Project. (Project No. ES2474)” (City Clerk)
 
- - A by-law to authorize the White Oaks Channel Complete Corridor (Project No. ES2499) (2.9/10/CWC)
+> [!abstract]- Bill No. 268
+> By-law No. W.-5720-211 - A by-law to authorize the White Oaks Channel Complete Corridor (Project No. ES2499) (2.9/10/CWC)
 
- - A by-law to amend by-law No. W.-5704-174, entitled “A by-law to authorize the Wetland Restoration and SWM Treatment Enhancement (project ES3220).” (2.9/10/CWC)
+> [!abstract]- Bill No. 269
+> By-law No. W.-5704(a)-212 - A by-law to amend by-law No. W.-5704-174, entitled “A by-law to authorize the Wetland Restoration and SWM Treatment Enhancement (project ES3220).” (2.9/10/CWC)
 
- - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 35 Jim Ashton Street (3.1b/9/PEC)
+> [!abstract]- Bill No. 270
+> By-law No. Z.-1-253328 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 35 Jim Ashton Street (3.1b/9/PEC)
 
- - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 415 Oxford Street West. (3.2b/9/PEC)
+> [!abstract]- Bill No. 271
+> By-law No. Z.-1-253329 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 415 Oxford Street West. (3.2b/9/PEC)
 
- - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 928 & 934 Oxford Street West. (3.3/9/PEC)
+> [!abstract]- Bill No. 272
+> By-law No. Z.-1-253330 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 928 & 934 Oxford Street West. (3.3/9/PEC)
 
- - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 743 Richmond Street. (3.4b/9/PEC)
+> [!abstract]- Bill No. 273
+> By-law No. Z.-1-253331 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 743 Richmond Street. (3.4b/9/PEC)
 
- - A by-law to approve the Ontario Transfer Payment Agreement between His Majesty the King in right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London. (2.1/10/PEC)
+> [!abstract]- Bill No. 274
+> By-law No. A.-8621-213 - A by-law to approve the Ontario Transfer Payment Agreement between His Majesty the King in right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London. (2.1/10/PEC)
 
  
 

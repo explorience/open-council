@@ -1,4 +1,3 @@
-from bs4 import element
 from callout import callout
 from content import Content
 from datetime import datetime

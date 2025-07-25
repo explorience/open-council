@@ -1,5 +1,6 @@
-from bs4 import element
+import re
 from callout import callout
+from bs4 import NavigableString
 
 class Content:
   def __init__(self):
@@ -13,6 +14,9 @@ class Content:
 
   @staticmethod
   def parse_content(e):
+    # order is important - see commentary in Bill class
+    if Bill.is_bill(e):
+      return Bill(e)
     if e.name == "p":
       return Paragraph(e)
     if not e.has_attr("class"):
@@ -50,9 +54,9 @@ class Paragraph(Content):
   def get_text(e):
     output = ""
     for c in e.contents:
-      if type(c) is element.NavigableString:
+      if isinstance(c, NavigableString):
         output += c
-      elif c.name in ["em", "span"]:
+      elif c.name in ["em", "span", "strong", "sup"]:
         output += c.contents[0]
       elif c.name == "br":
         output += "\n\n"
@@ -105,6 +109,63 @@ class Mover(Paragraph):
   def format_markdown(self):
     return f"> {super().format_markdown()}"
 
+
+bill_name_regex = re.compile("^Bill No. \\d+$")
+bill_desc_regex = re.compile("^By-law No. ")
+class Bill(Content):
+
+  """
+  When grouping bill, each one is counted twice because of the HTML layout, once for each <p>.
+  Then, we set each description <p> to empty, so that it will be filtered out
+  We need to do it this way because parse_content will categorize all <p>s as text, and we
+  don't want it to could each <p> in a bill as a Paragraph in addition to the bill being parsed
+  """
+
+  @staticmethod
+  def is_bill(e):
+    if e.name != "p": return False
+    if len(e.contents) == 0: return False
+    s = e.contents[0]
+    if s.name != "strong": return False
+    if not bill_name_regex.match(s.contents[0]) and not bill_desc_regex.match(s.contents[0]): return False
+    return True
+
+  def __init__(self, p):
+    tr = p.parent.parent
+    """
+    <tr>
+     <td width="115">
+      <p>
+       <strong>Bill No. 250</strong>
+      </p>
+     </td>
+     <td width="557">
+      <p>
+       <strong>By-law No. A.-8613-194</strong>
+       - A by-law to confirm the proceedings of the Council Meeting held on the 24
+       <sup>th</sup>
+       day of June, 2025 (City Clerk)
+      </p>
+     </td>
+    </tr>
+    """
+
+    self.name = p.contents[0].contents[0]
+
+    self.empty = False
+    if bill_desc_regex.match(str(self.name)):
+      self.empty = True
+      return
+
+    tds = tr.find_all("td")
+    p_desc = tds[1].find("p")
+    self.desc = Paragraph.get_text(p_desc)
+
+  def is_empty(self):
+    return self.empty
+
+  def format_markdown(self):
+    return callout(self.name, self.desc)
 
 class Vote(Content):
   def __init__(self, motion_voters):
