@@ -486,8 +486,6 @@ Motion made by: S. Franke
 
 That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law (appended to the staff report dated June 16, 2025 as Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to amend By-law No. A.-6151-17, as amended, being “A by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001”, by deleting Schedule “C” – Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule “C” – Procurement of Goods and Services Policy, to update the Policy to further align with applicable trade agreements, support Council’s Strategic Plan, and to modernize language and community expectations.
 
-****
-
 At 2:06 PM, Councillor P. Van Meerbergen leaves the meeting.
 
 At 2:07 PM, Councillor P. Van Meerbergen enters the meeting.
@@ -918,8 +916,6 @@ a)    the Civic Administration BE DIRECTED to allocate up to 30% of the 2025 m
 b)    the Civic Administration BE DIRECTED to engage with Indigenous-led housing providers, including but not limited to, Ontario Aboriginal Housing Services (OAHS) and the Native Inter-Tribal Housing Co-op, and Atlohsa Family Healing Services with the intent to support expanded partner-led delivery of MRAP portable housing benefits beginning in 2026, and to develop appropriate administrative pathways for such partnerships;
 
 it being noted that a communication from Councillor D. Ferreira, dated June 1, 2025, and a communication from A. Jibb, R. Joseph, J. Manidokaa Bradley and E. Gafney-Ladd, Atlohsa, related to this matter, were received. (2025-S11/C09/S14)
-
-****
 
 Motion made by: D. Ferreira
 
@@ -2045,103 +2041,53 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 
 The following Bills are enacted as By-laws of The Corporation of the City of London:
 
-
-
  - A by-law to confirm the proceedings of the Council Meeting held on the 24 day of June, 2025 (City Clerk)
-
-
 
  - A by-law to authorize and approve the Agreement with Goodwill Industries, Ontario Great Lakes, for the implementation and administration of a Lived Experience Community Table initiative for Ontario Works. (2.8/10/CPSC)
 
-
-
  - A by-law to authorize the Deputy City Manager, Enterprise Supports, to approve a Master Services Agreement and related documents with The Ultimate Software Group of Canada, Inc., and to authorize the Mayor and City Clerk to execute the agreement and related documents. (2.1/11/ICSC)
-
-
 
  - A by-law to authorize and approve an Amending Agreement to the 2018 Land Ambulance Services Cost Apportionment Agreement between The Corporation of the County of Middlesex and The Corporation of the City of London and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10a/11/ICSC)
 
-
-
  - A by-law to authorize and approve an Amending Agreement to the 2018 Ontario Works Services Cost Apportionment and Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10b/11/ICSC)
-
-
 
  - A by-law to authorize and approve an Amending Agreement to the 2018 Housing Services Cost Apportionment and CHPI Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10c/11/ICSC)
 
-
-
  - A by-law to authorize and approve an Amending Agreement to the 2018 Child Care Services Cost Apportionment and Agency Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and the City Clerk to execute the Amending Agreement. (2.10d/11/ICSC)
-
-
 
  - A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing Inc. (3.2/8/SPPC)
 
-
-
  - A by-law to amend By-law No. A.-6151-17, as amended, being “A by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001”, by deleting Schedule “C” – Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule “C” – Procurement of Goods and Services Policy, to update the Policy, to further align with applicable trade agreements, support Council’s Strategic Plan, and to modernize language and community expectations. (2.6/11/ICSC)
-
-
 
  - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 35 Jim Ashton Street. (3.1a/9/PEC)
 
-
-
  - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 415 Oxford Street West. (3.2a/9/PEC)
-
-
 
  - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 743 Richmond Street. (3.4a/9/PEC)
 
-
-
  - A by-law to amend By-law PS-114 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City of London.” (2.3/10/CPSC)
-
-
 
  - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Bradley Avenue, west of Old Victoria Road) (City Surveyor – for road dedication purposes)
 
-
-
  - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Commissioners Road West, east of Reynolds Road) (City Surveyor – for road dedication purposes)
-
-
 
  - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Meadowlily Road North, at the intersection of Meadowlily Road North and Norlan Avenue) (City Surveyor – for road dedication purposes)
 
-
-
  - A by-law to lay out, constitute, establish and assume certain reserves in the City of London as public highway. (as part of Morgan Avenue) (City Surveyor – approval of Site Plan Control at 1467 Wharncliffe Road South requires 0.3m Reserve on abutting plan 33M-661 to be dedicated as public highway for unobstructed legal access)
-
-
 
  - A by-law to repeal By-law No. W.-5242-77, entitled “A by-law to authorize the UTRCA – Flood & Erosion Control Infrastructure Program Project. (Project No. ES2474)” (City Clerk)
 
-
-
  - A by-law to authorize the White Oaks Channel Complete Corridor (Project No. ES2499) (2.9/10/CWC)
-
-
 
  - A by-law to amend by-law No. W.-5704-174, entitled “A by-law to authorize the Wetland Restoration and SWM Treatment Enhancement (project ES3220).” (2.9/10/CWC)
 
-
-
  - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 35 Jim Ashton Street (3.1b/9/PEC)
-
-
 
  - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 415 Oxford Street West. (3.2b/9/PEC)
 
-
-
  - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 928 & 934 Oxford Street West. (3.3/9/PEC)
 
-
-
  - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 743 Richmond Street. (3.4b/9/PEC)
-
-
 
  - A by-law to approve the Ontario Transfer Payment Agreement between His Majesty the King in right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London. (2.1/10/PEC)
 
