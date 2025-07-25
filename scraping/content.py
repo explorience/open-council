@@ -81,7 +81,7 @@ class MotionResult(Paragraph):
     return e.contents[1]
 
   def format_markdown(self):
-    return f"**{super().format_markdown()}**"
+    return f"> **{super().format_markdown()}**"
 
 
 # moved by, seconded by
