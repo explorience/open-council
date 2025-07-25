@@ -58,9 +58,6 @@ class Paragraph(Content):
 
 class MotionResult(Paragraph):
 
-  def __init__(self, e):
-    super().__init__(e)
-
   @staticmethod
   def get_text(e):
     if len(e.contents) == 1:
@@ -80,9 +77,6 @@ class MotionResult(Paragraph):
 
 # moved by, seconded by
 class Mover(Paragraph):
-
-  def __init__(self, e):
-    super().__init__(e)
 
   @staticmethod
   def get_text(e):
