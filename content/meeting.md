@@ -2290,6 +2290,8 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 
 > **Motion Passed (12 to 0)**
 
+****
+
 The following Bills are enacted as By-laws of The Corporation of the City of London:
 
 > [!abstract]- Bill No. 250
@@ -2368,8 +2370,6 @@ The following Bills are enacted as By-laws of The Corporation of the City of Lon
 > By-law No. A.-8621-213 - A by-law to approve the Ontario Transfer Payment Agreement between His Majesty the King in right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London. (2.1/10/PEC)
 
  
-
-****
 
 ## 14.&nbsp;&nbsp;&nbsp;Adjournment
 

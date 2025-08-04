@@ -14,9 +14,10 @@ class Content:
 
   @staticmethod
   def parse_content(e):
-    # order is important - see commentary in Bill class
     if Bill.is_bill(e):
       return Bill(e)
+    if Bill.within_bill(e):
+      return Content()
     if e.name == "p":
       return Paragraph(e)
     return Content() # empty, will be filtered out
@@ -42,7 +43,10 @@ class Content:
   def parse_motions(agenda_item_motions):
     motions = []
     for agenda_item_motion in agenda_item_motions.contents:
-      motions.append(Motion(agenda_item_motion))
+      motion = Motion(agenda_item_motion)
+      motions.append(motion)
+      if motion.higher_content:
+        motions += motion.higher_content
     return motions
 
 
@@ -104,6 +108,14 @@ class Motion(Content):
     self.result = MotionResult(agenda_item_motion.find(class_="MotionResult"))
     self.post_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PostMotionText"))
 
+    # self.higher_content, if present, shouldn't be in the Motion, but instead raised to the next level after it.
+    self.higher_content = None
+
+    # raise new bills
+    if len(self.post_motion_texts) >= 2 and isinstance(self.post_motion_texts[1], Bill):
+      self.higher_content = self.post_motion_texts
+      self.post_motion_texts = []
+
   def is_empty(self):
     return False
 
@@ -154,13 +166,17 @@ class Bill(Content):
   """
 
   @staticmethod
-  def is_bill(e):
+  def within_bill(e):
     if e.name != "p": return False
     if len(e.contents) == 0: return False
     s = e.contents[0]
     if s.name != "strong": return False
     if not bill_name_regex.match(s.contents[0]) and not bill_desc_regex.match(s.contents[0]): return False
     return True
+
+  @staticmethod
+  def is_bill(e):
+    return Bill.within_bill(e) and bill_name_regex.match(e.contents[0].contents[0])
 
   def __init__(self, p):
     tr = p.parent.parent
@@ -184,17 +200,12 @@ class Bill(Content):
 
     self.name = p.contents[0].contents[0]
 
-    self.empty = False
-    if bill_desc_regex.match(str(self.name)):
-      self.empty = True
-      return
-
     tds = tr.find_all("td")
     p_desc = tds[1].find("p")
     self.desc = Paragraph.get_text(p_desc)
 
   def is_empty(self):
-    return self.empty
+    return False
 
   def format_markdown(self):
     return callout(self.name, self.desc)
