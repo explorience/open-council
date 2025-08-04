@@ -1,13 +1,19 @@
-import asyncio
+import json
 from pathlib import Path
 from Meeting import Meeting
 from bs4 import BeautifulSoup
 from datetime import datetime
 from download_meeting import get_minutes
 
-# item_info(datetime(2025, 6, 24))
-async def item_info(target_date):
-  download_data = await get_minutes(target_date)
+def format_json(x):
+  if hasattr(x, "__dict__"):
+    # it's a custom class, add it and its name
+    return { **x.__dict__, "__class__": x.__class__.__name__ }
+  return str(x)
+
+# item_info(datetime(2025, 6, 24), meeting_type)
+def item_info(target_date, meeting_type):
+  download_data = get_minutes(target_date, meeting_type)
   minutes = download_data["minutes"]
   url = download_data["url"]
   soup = BeautifulSoup(minutes, "html.parser")
@@ -18,4 +24,8 @@ async def item_info(target_date):
   output.parent.mkdir(parents=True, exist_ok=True)
   output.write_text(markdown)
 
-asyncio.run(item_info(datetime(2025, 6, 24)))
+  output_json = Path(f"../data/{meeting.yyyy_mm()}/{meeting.format_title()}.json")
+  output_json.parent.mkdir(parents=True, exist_ok=True)
+  output_json.write_text(json.dumps(meeting, default=format_json))
+
+item_info(datetime(2025, 6, 24), "Council")

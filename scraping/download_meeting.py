@@ -1,20 +1,30 @@
 import json
-import asyncio
 import requests
+from bs4 import BeautifulSoup
 from datetime import datetime
 
-async def get_from_web(url: str) -> str:
-  """Get a single file from its URL using curl"""
-  process = await asyncio.create_subprocess_exec(
-    "curl", url, "--insecure",
-    stdout=asyncio.subprocess.PIPE,
-    stderr=asyncio.subprocess.PIPE
-  )
-
-  stdout, stderr = await process.communicate()
-  return stdout
+def get_from_web(url: str) -> str:
+  response = requests.get(url, verify=False)
+  return response.content
 
 BASE_URL = "https://pub-london.escribemeetings.com/"
+
+def is_meeting_name(e):
+  if not e.has_attr("class"): return False
+  if "MeetingTypeMeetingCount" in e["class"]: return False
+  return "MeetingTypeNameText" in e["class"]
+
+def get_meeting_type(year):
+  html = get_from_web(f"{BASE_URL}?MeetingViewId=1&Year={year}")
+  soup = BeautifulSoup(html, "html.parser")
+  name_spans = soup.find_all(is_meeting_name)
+  return [span.contents[0].strip() for span in name_spans]
+
+def get_meeting_types():
+  year = datetime.now().year
+  this_year = get_meeting_type(year)
+  last_year = get_meeting_type(year-1)
+  return list(set(this_year + last_year))
 
 def get_meetings(meeting_type):
   url = BASE_URL + "MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year=2025"
@@ -39,9 +49,9 @@ def meeting_minutes(m):
   minutes_package = [link for link in m["AllCategorizedMeetingLinks"] if link["Name"] == "Minutes"][0]["Package"]
   return BASE_URL + [p["Url"] for p in minutes_package if p["Format"] == "HTML"][0]
 
-# item_info(datetime(2025, 6, 24))
-async def get_minutes(target_date):
-  meetings = get_meetings("Council")
+# get_minutes(datetime(2025, 6, 24), meeting_type)
+def get_minutes(target_date, meeting_type):
+  meetings = get_meetings(meeting_type)
   right_dates = [m for m in meetings if meeting_date(m) == target_date]
   if len(right_dates) == 0:
     print("Meeting not found")
@@ -54,7 +64,7 @@ async def get_minutes(target_date):
   print(f"Found minutes: {minutes_url}")
 
   print(f"Downloading minutes...")
-  minutes = await get_from_web(minutes_url)
+  minutes = get_from_web(minutes_url)
   print(f"Downloaded minutes")
 
   return {

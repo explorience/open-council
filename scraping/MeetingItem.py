@@ -59,6 +59,10 @@ class MeetingItem:
 
     # use non-breaking space because markdown collapses other whitespace into a single space
     output += f"{'#'*level} {number_prefix}&nbsp;&nbsp;&nbsp;{self.title}\n\n"
+
+    for a in self.attachments:
+      output += a.format_markdown()
+
     contents = self.format_content_markdown()
     if contents: output += contents + "\n\n"
 
