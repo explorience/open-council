@@ -5,9 +5,10 @@ from MeetingItem import MeetingItem
 
 
 class Meeting:
-  def __init__(self, soup):
+  def __init__(self, soup, url):
     self.title = soup.find(class_="AgendaMeetingNumberText").contents[0]
     self.datetime = self.get_time(soup.find("time"))
+    self.url = url
 
     self.present = []
     self.also_present = []
@@ -75,6 +76,7 @@ class Meeting:
 
     output += f"# {self.title}\n\n"
     output += "{d:%B} {d.day}, {d.year}, at {d:%l}:{d.minute:02} {d:%p}\n\n".format(d=self.datetime)
+    output += f"[Original link]({self.url})\n\n"
 
     output += f"{callout('Present:', ', '.join(self.present))}\n\n"
     output += f"{callout('Also Present:', ', '.join(self.also_present))}\n\n"

@@ -6,7 +6,7 @@ from datetime import datetime
 async def get_from_web(url: str) -> str:
   """Get a single file from its URL using curl"""
   process = await asyncio.create_subprocess_exec(
-    "curl", url,
+    "curl", url, "--insecure",
     stdout=asyncio.subprocess.PIPE,
     stderr=asyncio.subprocess.PIPE
   )
@@ -22,7 +22,7 @@ def get_meetings(meeting_type):
     "type": meeting_type
   }
   print(f"Fetching {meeting_type} meetings...")
-  x = requests.post(url, json=data)
+  x = requests.post(url, json=data, verify=False)
   print(f"Data for {meeting_type} meetings retrieved")
   data = json.loads(x.text)
   return data["d"]
@@ -57,4 +57,7 @@ async def get_minutes(target_date):
   minutes = await get_from_web(minutes_url)
   print(f"Downloaded minutes")
 
-  return minutes
+  return {
+    "minutes": minutes,
+    "url":     minutes_url
+  }
