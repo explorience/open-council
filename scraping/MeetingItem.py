@@ -4,17 +4,18 @@ from Attachment import Attachment
 class MeetingItem:
   def __init__(self, agenda_item_container):
     self.title = None
-    self.number = 0
+    self.number = ""
     self.content = []
     self.subitems = {}
 
     agenda_item = agenda_item_container.contents[0]
     self.set_attributes(agenda_item)
 
-    subitems = agenda_item_container.contents[1]
-    for child in subitems:
-      subitem = MeetingItem(child)
-      self.subitems[subitem.number] = subitem
+    if len(agenda_item_container.contents) > 1:
+      subitems = agenda_item_container.contents[1]
+      for child in subitems:
+        subitem = MeetingItem(child)
+        self.subitems[subitem.number] = subitem
 
 
   def set_attributes(self, agenda_item):
@@ -33,7 +34,7 @@ class MeetingItem:
     # "1." -> 1, "3.4" -> 4
     number_str = agenda_item.find(class_="AgendaItemCounter").contents[0]
     if number_str[-1] == ".": number_str = number_str[:-1]
-    self.number = int(number_str.split(".")[-1])
+    self.number = number_str.split(".")[-1]
 
 
   def set_title(self, agenda_item_title):
@@ -54,7 +55,7 @@ class MeetingItem:
     # "" -> "1." -> "1.1" -> "1.1.1" etc
     empty_prefix = number_prefix == ""
     if number_prefix and number_prefix[-1] != ".": number_prefix += "."
-    number_prefix += str(self.number)
+    number_prefix += self.number
     if empty_prefix: number_prefix += "."
 
     # use non-breaking space because markdown collapses other whitespace into a single space

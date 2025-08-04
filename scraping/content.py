@@ -14,10 +14,6 @@ class Content:
 
   @staticmethod
   def parse_content(e):
-    if Bill.is_bill(e):
-      return Bill(e)
-    if Bill.within_bill(e):
-      return Content()
     if e.name == "p":
       return Paragraph(e)
     return Content() # empty, will be filtered out
@@ -46,7 +42,7 @@ class Content:
       motion = Motion(agenda_item_motion)
       motions.append(motion)
       if motion.higher_content:
-        motions += motion.higher_content
+        motions.append(motion.higher_content)
     return motions
 
 
@@ -98,6 +94,8 @@ class MotionResult(Paragraph):
     return f"> **{super().format_markdown()}**"
 
 
+BILL_TEXT = "The following Bills are enacted as By-laws of The Corporation of the City of London:" 
+
 class Motion(Content):
   def __init__(self, agenda_item_motion):
     self.pre_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PreMotionText"))
@@ -111,9 +109,11 @@ class Motion(Content):
     # self.higher_content, if present, shouldn't be in the Motion, but instead raised to the next level after it.
     self.higher_content = None
 
-    # raise new bills
-    if len(self.post_motion_texts) >= 2 and isinstance(self.post_motion_texts[1], Bill):
-      self.higher_content = self.post_motion_texts
+    if len(self.post_motion_texts) >= 1 and BILL_TEXT in self.post_motion_texts[0].string:
+      bills_descs = []
+      for paragraph in self.post_motion_texts:
+        bills_descs += paragraph.string.split("\n")
+      self.higher_content = Bills(bills_descs)
       self.post_motion_texts = []
 
   def is_empty(self):
@@ -153,68 +153,28 @@ class Mover(Paragraph):
   def format_markdown(self):
     return f"> {super().format_markdown()}"
 
+BILL_PAT = re.compile("(Bill No\. \\d+)")
+TWO_PLUS_NEWLINES_PAT = re.compile("\n\n+")
 
-bill_name_regex = re.compile("^Bill No. \\d+$")
-bill_desc_regex = re.compile("^By-law No. ")
-class Bill(Content):
-
-  """
-  When grouping bill, each one is counted twice because of the HTML layout, once for each <p>.
-  Then, we set each description <p> to empty, so that it will be filtered out
-  We need to do it this way because parse_content will categorize all <p>s as text, and we
-  don't want it to could each <p> in a bill as a Paragraph in addition to the bill being parsed
-  """
-
-  @staticmethod
-  def within_bill(e):
-    if e.name != "p": return False
-    if len(e.contents) == 0: return False
-    s = e.contents[0]
-    if s.name != "strong": return False
-    if not bill_name_regex.match(s.contents[0]) and not bill_desc_regex.match(s.contents[0]): return False
-    return True
-
-  @staticmethod
-  def is_bill(e):
-    return Bill.within_bill(e) and bill_name_regex.match(e.contents[0].contents[0])
-
-  def __init__(self, p):
-    tr = p.parent.parent
-    """
-    <tr>
-     <td width="115">
-      <p>
-       <strong>Bill No. 250</strong>
-      </p>
-     </td>
-     <td width="557">
-      <p>
-       <strong>By-law No. A.-8613-194</strong>
-       - A by-law to confirm the proceedings of the Council Meeting held on the 24
-       <sup>th</sup>
-       day of June, 2025 (City Clerk)
-      </p>
-     </td>
-    </tr>
-    """
-
-    self.name = p.contents[0].contents[0]
-
-    tds = tr.find_all("td")
-    p_desc = tds[1].find("p")
-    self.desc = Paragraph.get_text(p_desc)
+class Bills(Content):
+  def __init__(self, bills_descs):
+    joined_desc = "\n\n".join([p for p in bills_descs if not BILL_TEXT in p and p.strip()])
+    # newlines are inconsistent, so sometimes we add too many. normalize by replacing 2+ with 2
+    bolded_desc = BILL_PAT.sub("**\\1**\n\n", joined_desc)
+    self.desc = re.sub(TWO_PLUS_NEWLINES_PAT, "\n\n", bolded_desc)
 
   def is_empty(self):
     return False
 
   def format_markdown(self):
-    return callout(self.name, self.desc)
+    return callout(BILL_TEXT, self.desc)
 
 class Vote(Content):
   def __init__(self, motion_voters):
     self.rows = []
-    for row in motion_voters.contents:
-      self.add_row(row)
+    if motion_voters:
+      for row in motion_voters.contents:
+        self.add_row(row)
 
   def add_row(self, row):
     """

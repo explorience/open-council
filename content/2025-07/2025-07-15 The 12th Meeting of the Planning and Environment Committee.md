@@ -1,0 +1,988 @@
+---
+title: The 12th Meeting of the Planning and Environment Committee
+
+---
+# The 12th Meeting of the Planning and Environment Committee
+
+July 15, 2025, at  1:00 PM
+
+[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=726e7178-10d1-4557-8b39-51743e8b5cef&Agenda=PostMinutes&lang=English)
+
+> [!abstract]- Present:
+> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier, Mayor J. Morgan
+
+> [!abstract]- Also Present:
+> Councillors J. Pribil, A. Hopkins; M. Butlin, C. Cernanec, M. Corby, I. de Ceuster, D. Escobar, M. Feldberg, K. Gonyou, T. Hitchons, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, C. Maton, C. McCreery, McNeely, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, S. Purhar, A. Rammeloo, A. Riley, J. Senese, A. Shaw, M. Sundercock, E. Williamson and K. Mason (Committee Clerk)
+
+> [!abstract]- Remote Attendance:
+> Councillors S. Stevenson, S. Trosow; S. Datars Bere, E. Bennett, K. Dickins, S. Grady, E. Hunt, E. Skalski
+
+The meeting was called to order at 1:00 PM. 
+
+## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+That it BE NOTED that no pecuniary interests were disclosed. 
+
+## 2.&nbsp;&nbsp;&nbsp;Consent
+
+> Moved by E. Peloza
+
+> Seconded by P. Cuddy
+
+That Items 2.1 and 2.2 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+### 2.1&nbsp;&nbsp;&nbsp;Bill 17, Protect Ontario by Building Faster and Smarter Act, 2025
+
+[2025-07-15 (2.1) Staff Report - Bill 17 Information Report.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117939)
+
+> Moved by E. Peloza
+
+> Seconded by P. Cuddy
+
+That, on the recommendation of the Director, Planning and Development, the following report with respect to Bill 17, Protect Ontario by Building Faster and Smarter Act, 2025, BE RECEIVED. 
+
+> **Motion Passed**
+
+****
+
+#### 2.1.a&nbsp;&nbsp;&nbsp;(ADDED) Revised Staff Report 
+
+[(ADDED) (2.1) - FINAL REVISED Bill 17 Information Report.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117942)
+
+### 2.2&nbsp;&nbsp;&nbsp;Quick Communities Update
+
+[(ADDED) 2025-07-15 (2.2) Staff Report - Quick Communities Update.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117943)
+
+> Moved by E. Peloza
+
+> Seconded by P. Cuddy
+
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the Quick Communities Update:
+
+a)    the staff report dated July 15, 2025, which incorporates comments from relevant stakeholders related to the Quick Communities motion, BE RECEIVED; and, 
+
+b)    the Civic Administration BE DIRECTED to forward the above-mentioned staff report to the ReThink Zoning team to consider options for future zones that support temporary and permanent uses with this form of construction.
+
+> **Motion Passed**
+
+****
+
+## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+
+### 3.1&nbsp;&nbsp;&nbsp;15 Capulet Walk (O-25061)
+
+[2025-07-15 (3.1) Staff Report - 15 Capulet Walk.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117938)
+
+> Moved by S. Lewis
+
+> Seconded by P. Cuddy
+
+That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Paul Kitson relating to the property located at 15 Capulet Walk, the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Transit Village Place Type and by ADDING the subject lands to Map 7 – Specific Policy Areas – of the Official Plan;
+
+
+
+it being noted that the Planning and Environment Committee received the following communications with respect to these matters: 
+
+
+
+-    a communication dated June 18, 2025, from R. Coates;
+
+it being pointed out that the following individual made a verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    S. Allen, MHBC Planning; 
+
+
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);
+
+-    the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Design Policies, Transit Village Place Type policies, and the Our Tools policies; and,
+
+-    the recommended amendment would permit residential intensification within the Built-Area Boundary and Primary Transit Area that is appropriate for the existing and planned context of the site and surrounding neighbourhood; 
+
+
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Lehman|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Cuddy||
+
+> **Motion Passed (5 to 1)**
+
+Additional Votes: 
+
+****
+
+> Moved by S. Hillier
+
+> Seconded by P. Cuddy
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by S. Hillier
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+### 3.2&nbsp;&nbsp;&nbsp;555 - 559 & 567 Commissioners Road West (Z-25058)
+
+[2025-07-15 (3.2) Staff Report - 555-569 and 567 Commissioners Rd W.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117935)
+
+> Moved by S. Lewis
+
+> Seconded by E. Peloza
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Tricar Properties Ltd. (c/o Siv-ik Planning and Design) relating to the properties located at 555-559 & 567 Commissioners Rd W:
+
+a)    the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject lands FROM a Residential R1 (R1-9) Zone TO a Residential R9 Special Provision (R9-4(_)*H21 Zone);
+
+b)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:
+
+i)    ensure the proposed building has a distinct base by providing a minimum ground floor height of 4.0m to allow large windows and a high proportion of transparent glazing to promote an active frontage and passive surveillance;
+
+ii)    avoid retaining walls along the public street frontage to ensure the street-level façade is active and comfortable for pedestrians; and, 
+
+iii)    as per the proposed site concept, submitted as part of this application, carry forward the following:
+
+-    provide the walkway network within site design connecting proposed building entrances, parking areas and the public sidewalk;
+
+-    locate the parking behind the building, at the rear of the property;
+
+-    locate the retaining wall to the rear of the site to adjust grade changes and creating a comfortable pedestrian environment along the street frontage; and, 
+
+-    provide entrances with front style lockable doors provided at the front façade of the building's ground storey the public street; 
+
+iv)    consider relocating all above-ground mechanical equipment (e.g. gas meter, electric transformer, etc.) away from the building frontages, entrances and the street facing facade at the rear of the proposed building, or screen it with all-season landscaping; 
+
+it being noted that the Planning and Environment Committee received the following communication with respect to these matters: 
+
+
+
+-    a communication dated July 11, 2025, from M. Davis, Siv-ik Planning and Design;
+
+
+
+it being pointed out that the following individual made a verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    M. Davis, Siv-ik Planning and Design;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS), which encourages growth in settlements areas and land use patterns based on densities and a mix of land uses that provide for a range of uses and opportunities for intensification and redevelopment;
+
+-    the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and, 
+
+-    the recommended amendment would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding neighbourhood; 
+
+
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes: 
+
+****
+
+> Moved by S. Hillier
+
+> Seconded by P. Cuddy
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by E. Peloza
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+### 3.3&nbsp;&nbsp;&nbsp;1658-1678 Evangeline Street (Z-25049)
+
+[2025-07-15 (3.3) Staff Report -1658-1678 Evangeline Street.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117941)
+
+> Moved by E. Peloza
+
+> Seconded by P. Cuddy
+
+That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Younger Homes Holding Inc. (c/o Monteith Brown Planning Consultants) relating to the properties located at 1658-1678 Evangeline Street, the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend Zoning Bylaw No. Z.-1 (in conformity with the Official Plan for the City of London, 2026), to change the zoning of the subject lands FROM a Residential R2 (R2-3) Zone TO a Holding Residential R4 Special Provision (h-8*R4-6( )) Zone; 
+
+it being noted to the applicant that that the following comments have been received:
+
+a)    Planning and Development supports the inclusion of principal entrances with canopies fronting Evangeline Street, as well as the walkway connections from individual townhouse units to the street and recommends that these features be carried forward;
+
+b)    CPKC Rail recommends the following conditions:
+
+i)    all construction, continued maintenance, access, ingress and egress must be done without entering railroad right of way; this includes but is not limited to maintenance of any equipment, lawn care, snow plowing and emergency exits via windows or doors; and, 
+
+ii)    a condition be inserted in all property and tenancy agreements and offers of purchase and sale for all dwelling units in the proposed building(s):
+
+“CPKC and/or its assigns or successors in interest has or have a railway right-of-way and/or yard located adjacent to the subject land hereof with operations conducted 24 hours a day, 7 days a week, including the shunting of trains and the idling of locomotives; there may be alterations to, or expansions of, the railway facilities and/or operations in the future, which alterations or expansions may affect the living environment of the residents in the vicinity; notwithstanding the inclusion of any noise and/or vibration attenuating measures in the design of the development and individual dwellings, CPKC will not be responsible for complaints or claims arising from the use of its facilities and/or its operations on, over, or under the aforesaid right-of-way and/or yard.”
+
+
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    T. Legrew, Monteith Brown Planning Consultants; 
+
+
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS), which encourages growth in settlements areas and land use patterns based on densities and a mix of land uses that provide for a range of uses and opportunities for intensification and redevelopment;
+
+-    the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and, 
+
+-    the recommended amendment would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding neighbourhood;
+
+
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes: 
+
+****
+
+> Moved by S. Hillier
+
+> Seconded by P. Cuddy
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by S. Lewis
+
+> Seconded by P. Cuddy
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+### 3.4&nbsp;&nbsp;&nbsp;523 First Street (Z-25053)
+
+[2025-07-15 (3.4) Staff Report - 523 First Street.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117934)
+
+> Moved by P. Cuddy
+
+> Seconded by S. Lewis
+
+That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Chryssoulis Holdings Inc. (c/o MHBC Planning) relating to the property located at 523 First Street, the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016) to amend the zoning of the subject property FROM Light Industrial (LI1) Zone TO a Light Industrial Special Provision (LI1(_)) Zone;
+
+it being noted to the applicant that that the following comments have been received:
+
+a)    CN Rail encourages the following conditions:
+
+i)    undertake an analysis of noise; and, 
+
+ii)    a warning clause be inserted on land title, in all development agreements, offers to purchase, and agreements of Purchase and Sale or Lease within 300m of the railway right-of-way; 
+
+
+
+it being pointed out that the following individual made a verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    J. Gaudet, MHBC Planning; and, 
+
+-    A. Chryssoulis, AMTEL; 
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);
+
+-    the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, Place Type policies, and the Our Tools policies; and, 
+
+-    the recommended amendment would facilitate the reuse of an otherwise underutilized building with an appropriate range of uses at an intensity that can be accommodated within the existing building; 
+
+
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes: 
+
+****
+
+> Moved by S. Hillier
+
+> Seconded by S. Lewis
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by S. Hillier
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+### 3.5&nbsp;&nbsp;&nbsp;376-390 Hewitt Street and 748 King Street (Z-25054)
+
+[2025-07-15 (3.5) Staff Report - 376-390 Hewitt Street  748 King Street.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117936)
+
+> Moved by Mayor J. Morgan
+
+> Seconded by P. Cuddy
+
+That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Stantec Consulting Ltd. relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street, the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property by extending the Temporary Use (T-79) Zone for a temporary period of two (2) years, BE ACCEPTED with the considerations for additional extension as outlined in the Council Resolution dated May 14, 2024.  
+
+it being noted that an updated by-law will be brought forward to the Municipal Council meeting on July 22, 2025 for approval; 
+
+it being pointed out that the following individual made a verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    B. Blackwell, Stantec Consulting Ltd.; 
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes: 
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by S. Lewis
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by S. Hillier
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+### 3.6&nbsp;&nbsp;&nbsp;2034 Wilton Grove Road (Z-25051)
+
+[2025-07-15 (3.6) Staff Report - 2034 Wilton Grove Road.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117944)
+
+> Moved by E. Peloza
+
+> Seconded by S. Hillier
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Mt. Elgin Dairy Farms Ltd. (c/o Zelinka Priamo Ltd.) relating to the property located at 2034 Wilton Grove Road, the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016), to change the zoning of a portion of the subject property FROM an Agricultural (AG2) Zone TO an Agricultural Special Provision (AG2(*)) Zone and Agricultural Special Provision (AG2(**)) Zone;
+
+
+
+it being pointed out that the following individual made a verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    D. Sikelero Elsenbruch, Zelinka Priamo;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);
+
+-    the recommended amendment conforms to The London Plan, including, but not limited to the Key Directions, City Design and Building policies, and the Farmland Place Type & Environmental Review policies; and,
+
+-    the proposed use is considered appropriate within the adjacent land uses and considers both the long-term protection of agricultural resources and the long-term compatibility of uses; 
+
+
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes: 
+
+****
+
+> Moved by S. Hillier
+
+> Seconded by P. Cuddy
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by S. Hillier
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+### 3.7&nbsp;&nbsp;&nbsp;1225 Wonderland Road North (OZ-25050)
+
+[2025-07-15 (3.7) Staff Report - 1225 Wonderland Road North.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117937)
+
+> Moved by S. Lewis
+
+> Seconded by P. Cuddy
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Canadian Commercial Development (c/o Zelinka Priamo Ltd.) relating to the property located at 1225 Wonderland Road North:
+
+a)    the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Shopping Area Place Type and by ADDING the subject lands to Map 7 – Specific Policy Areas – of the Official Plan;
+
+b)    the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016, as amended in part a) above), to change the zoning of the subject property FROM a Community Shopping Area (CSA4) Zone to a Residential R9 Special Provision (R9-7(_)*H30) Zone and a Community Shopping Area Special Provision (CSA4(_)) Zone;
+
+c)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:
+
+i)    provide transparent glazing for the active uses at-grade (e.g., lobby area, amenity spaces etc.) to create an active interface and alleviate potential Crime Prevention Through Environmental Design (CPTED) concerns; and, 
+
+ii)    ensure there is a safe and continuous pedestrian connection throughout the site connecting the proposed building to Sherwood Forest Mall, parking areas, amenity spaces, and the public sidewalks along Gainsborough Road and Wonderland Road North;
+
+d)    pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law as the purpose of the recommended special provisions to the Community Shopping Area (CSA4) Zone is to recognize existing site conditions;
+
+
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    M. Campbell, Zelinka Priamo;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+
+
+-    the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);
+
+-    the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Design Policies, Shopping Area Place Type policies, and the Our Tools policies; and,
+
+-    the recommended amendments would permit residential intensification within the Built-Area Boundary and Primary Transit Area that is appropriate for the existing and planned context of the site and surrounding neighbourhood;
+
+
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+Additional Vote: 
+
+****
+
+> Moved by S. Lewis
+
+> Seconded by P. Cuddy
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by E. Peloza
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|S. Hillier|
+> |S. Lewis||
+> |E. Peloza||
+> |S. Lehman||
+> |P. Cuddy||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+### 3.8&nbsp;&nbsp;&nbsp;6309 Pack Road (39T-25502/OZ-25023)
+
+[2025-07-15 (3.8) Staff Report -6309 Pack Road.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117940)
+
+> Moved by Mayor J. Morgan
+
+> Seconded by S. Lewis
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Southside Construction Ltd. relating to the property located at 6309 Pack Road:
+
+a)    the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend the Official Plan for the City of London, 2016, to:
+
+i)    REVISE Map 1 – Place Types to change the designation on a portion of the subject lands FROM Neighbourhoods Place Type TO Green Space Place Type;
+
+ii)    REVISE Map 3 – Street Classifications of The London Plan to REALIGN the Neighbourhood Connector Street classification for Pioneer Parkway;
+
+iii)    ADD a new Specific Policy to the Neighbourhoods Place Type applicable to the subject lands identified as the north portions of Blocks 244-247 on the proposed Draft Plan of Subdivision to permit a maximum height of up to twelve (12) storeys and a maximum height of sixteen (16) storeys with a maximum of 300 units per hectare on the northeast portion of Block 247; and ADD the subject lands to Map 7 – Specific Policy Areas;
+
+iv)    REVISE Schedules 4, 8 and 9 of the Southwest Area Secondary Plan to redesignate the subject lands FROM Low Density Residential and Medium Density Residential TO Low Density Residential, High Density Residential, Open Space and Environmental Review to align with the lot and block layout, and road configuration within the applicant’s proposed Draft Plan of Subdivision; and to REALIGN the Neighbourhood Connector Street classification for Pioneer Parkway;
+
+v)    REVISE the Southwest Area Secondary Plan by ADDING a sitespecific policy to the North Lambeth Residential Neighbourhood to permit a maximum height of twelve (12) storeys and up to maximum density of 300 units per hectare for the north portion of Blocks 244 to 247 of the proposed Draft Plan of Subdivision; and,
+
+vi)    REVISE the Southwest Area Secondary Plan by ADDING a sitespecific policy to the Bostwick Residential Neighbourhood to permit a maximum height nine (9) stories with a maximum density of 200 units per hectare may be permitted for Block 243 and a maximum height of sixteen (16) storeys with a maximum density of 300 units per hectare may be permitted on the northeast portion of Block 247;
+
+b)    the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone and Environmental Review (ER) Zone, TO a Residential R2 Special Provision (R2-2(_)) Zone, Holding Residential R2 Special Provision (h-1*R2-2(_)) Zone, Residential R4 Special Provision (R4-6(_)) Zone, Holding Neighbourhood Facility and Residential R6/R9 Special Provision (h-8*NF1/R6-5(_)/R9-7(_)*H20*D200) Zone, Holding Neighbourhood Facility NF1 and Residential R9 Special Provision (h-8*NF1/R9-7(_)*H30*D200) Zone, Holding Residential R9 Special Provision (h-8*R9-7(_)*H30*D300) Zone, Holding Residential R9 Special Provision (h-8*R9- 7(_)*H30*D250) Zone, Holding Residential R9 Special Provision (h-1*h-8*R9-7(_)*H30*D250) Zone, Holding Residential R9 Special Provision (h-1*h-8*R9-7(_)*H38*D250) Zone, Holding Residential R9 Special Provision (h-8*R9-7(_)*H38*D250) Zone, Holding Residential R9 Special Provision (h-8*R9-
+
+7(_)*H38*D300) Zone, Holding Residential R9 Special Provision (h-8*R9-7(_)*H50*D300) Zone, Holding Open Space (h-1*OS5) Zone and two Open Space (OS5) Zones;
+
+c)    the Planning and Environment Committee REPORT TO the Subdivision Approval Authority the issues, if any, raised at the public meeting;
+
+d)    the Site Plan Approval Authority BE REQUESTED to consider the following:
+
+i)    provision of short-term public bicycle parking in the development of each block through the site plan process;
+
+ii)    street oriented design and safe and accessible pedestrian connections; and,
+
+iii)    screen any surface parking from the street by buildings or an all-season landscape buffer; and,
+
+iv)    an updated shadow study for each block as it develops to assess and further minimize potential impacts on surrounding properties;
+
+
+
+it being pointed out that the Planning and Environment Committee received the following communications with respect to these matters: 
+
+
+
+-    a communication dated June 30, 2025, from A. Essak; 
+
+-    a communication dated July 3, 2025, from J. Liu; 
+
+-    a communication dated July 6, 2025, from A. and R. Hey; 
+
+-    a communication dated July 8, 2025, from L. Huang and D. Allen;
+
+-    a communication dated July 6, 2025, from North Talbot Homeowers Association (NTHA); and, 
+
+-    a communication dated July 11, 2025, from N. Ooms, Sifton Properties Limited;
+
+
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    L. Jamieson, Zelinka Priamo; 
+
+-    L. Grabowski, AGM; 
+
+-    J. Kononiuk;
+
+-    R. Wimperis; 
+
+-    J. Madagan;
+
+-    S. Wimperis;
+
+-    P. Antonio;
+
+-    J. Whitlock;
+
+-    P. Ball;
+
+-    C. Richardson;
+
+-    S. Gray;
+
+-    A. Gidwards;
+
+-    J. Rossco;
+
+-    A. Essak;
+
+-    J. Mitsopolous;
+
+-    M. Pepe;
+
+-    E. Mayo;
+
+-    N. Ooms;
+
+-    M. Steen; and,
+
+-    Resident; 
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendment is consistent with the Provincial Planning Statement 2024;
+
+-    the recommended amendment conforms to The London Plan;
+
+-    the recommended amendment conforms to the Southwest Area Secondary Plan; and,
+
+-    the recommended amendment will permit development that is considered appropriate and compatible with the existing and future land uses surrounding the subject lands. The proposed height increase is strategically located on Pack Road, a Civic Boulevard, in proximity to the intersecting streets of Pack Road, Bostwick Road and the future Bradley Avenue West extension, which is classified as an Urban Thoroughfare; applying increased height and intensity closest to the node supports higher-density, transit-supportive development within the broader street corridor with a deliberate transition in building height along Pack Road and within the plan of subdivision to ensure compatibility with the existing and planned neighbourhoods;
+
+
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+Additional Votes: 
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by S. Hillier
+
+Motion to open the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by P. Cuddy
+
+> Seconded by S. Hillier
+
+Motion to close the public participation meeting. 
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by E. Peloza
+
+> Seconded by S. Hillier
+
+That the motion BE AMENDED to include a new part d) iv) that reads as follows:
+
+ 
+
+iv) an updated shadow study for each block as it develops to assess and further minimize potential impacts on surrounding properties.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by Mayor J. Morgan
+
+> Seconded by S. Lewis
+
+That the motion, as amended, BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|E. Peloza|
+> |S. Lewis||
+> |S. Hillier||
+> |S. Lehman||
+> |P. Cuddy||
+
+> **Motion Passed (5 to 1)**
+
+****
+
+## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+
+None. 
+
+## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+
+None. 
+
+## 6.&nbsp;&nbsp;&nbsp;Confidential
+
+> Moved by S. Hillier
+
+> Seconded by E. Peloza
+
+That the Planning and Environment Committee convenes in Closed Session to consider the following: 
+
+A matter being considered pertains to information explicitly supplied in confidence to the municipality by the Ministry of Municipal Affairs and Housing pursuant to subsection 239(2)(h) of the Municipal Act, 2001.
+
+A matter being considered pertains to advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers or employees of the Corporation; the subject matter pertains to litigation or potential litigation with respect to appeals of Council’s decision to designate pursuant to Part IV of the Ontario Heritage Act the properties at 183 & 197 Ann Street (the “Subject Property”) at the Ontario Land Tribunal (“OLT”), and for the purpose of providing instructions and directions to officers and employees of the Corporation.  
+
+A matter being considered pertains to advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers or employees of the Corporation; the subject matter pertains to litigation or potential litigation with respect to appeals of Council’s decision to refuse an application for zoning by-law amendment regarding 1494 Commissioners Road West (the “Subject Property”) at the Ontario Land Tribunal (“OLT”), and for the purpose of providing instructions and directions to officers and employees of the Corporation.  
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |S. Lehman|
+> |P. Cuddy|
+
+> **Motion Passed (6 to 0)**
+
+That committee convene In Closed Session, from 4:32 PM to 4:55 PM. 
+
+****
+
+## 7.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Moved by S. Hillier
+
+> Seconded by E. Peloza
+
+That the meeting BE ADJOURNED. 
+
+> **Motion Passed**
+
+The meeting adjourned at 4:58 PM. 
+
+****
+

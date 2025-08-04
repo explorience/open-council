@@ -1,5 +1,6 @@
 from callout import callout
 from content import Content
+from bs4 import BeautifulSoup
 from datetime import datetime
 from MeetingItem import MeetingItem
 
@@ -31,9 +32,28 @@ class Meeting:
     return datetime.strptime(elt["datetime"], "%Y-%m-%d %H:%M")
 
   def add_attendance(self, agenda_header_attendance_table):
-    [present, extra] = agenda_header_attendance_table.contents
+    present = extra = absent = None
+    if len(agenda_header_attendance_table.contents) == 2:
+      [present, extra] = agenda_header_attendance_table.contents
+    else:
+      [present, absent, extra] = agenda_header_attendance_table.contents
     self.add_present(present.find("ul"))
-    [also_present, remote_attendance, content] = extra.find("li").find_all("p")
+
+    self.absent = []
+    if absent: self.add_absent(absent.find("ul"))
+
+    also_present = remote_attendance = content = None
+    extra_info = extra.find("li").find_all("p")
+    if len(extra_info) == 3:
+      [also_present, remote_attendance, content] = extra_info
+    else:
+      [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br"]
+      # we need to wrap them in <p> for the adding functions
+      soup = BeautifulSoup("<html></html>", 'html.parser')
+      also_present = soup.new_tag("p", string=also_present)
+      remote_attendance = soup.new_tag("p", string=remote_attendance)
+      content = soup.new_tag("p", string=content)
+
     self.add_also_present(also_present)
     self.add_remote_attendance(remote_attendance)
     self.add_content(content)
@@ -43,6 +63,10 @@ class Meeting:
       # <li>Mayor J. Morgan,&nbsp;</li>
       # <li> and S. Hillier&nbsp;</li>
       self.present.append(li.contents[0].replace(",", "").replace("and", "").strip())
+
+  def add_absent(self, ul):
+    for li in ul.contents:
+      self.absent.append(li.contents[0].replace(",", "").replace("and", "").strip())
 
   def add_also_present(self, also_present):
     """
@@ -79,6 +103,7 @@ class Meeting:
     output += f"[Original link]({self.url})\n\n"
 
     output += f"{callout('Present:', ', '.join(self.present))}\n\n"
+    if self.absent != []: output += f"{callout('Absent:', ', '.join(self.absent))}\n\n"
     output += f"{callout('Also Present:', ', '.join(self.also_present))}\n\n"
     output += f"{callout('Remote Attendance:', ', '.join(self.remote_attendance))}\n\n"
 

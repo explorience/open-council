@@ -1,5 +1,6 @@
 import json
 import requests
+import functools
 from bs4 import BeautifulSoup
 from datetime import datetime
 
@@ -20,12 +21,14 @@ def get_meeting_type(year):
   name_spans = soup.find_all(is_meeting_name)
   return [span.contents[0].strip() for span in name_spans]
 
+@functools.cache
 def get_meeting_types():
   year = datetime.now().year
   this_year = get_meeting_type(year)
   last_year = get_meeting_type(year-1)
   return list(set(this_year + last_year))
 
+@functools.cache
 def get_meetings(meeting_type):
   url = BASE_URL + "MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year=2025"
   data = {
@@ -46,7 +49,9 @@ def meeting_date(m):
   return datetime.strptime(m["MeetingDate"], "%B %d, %Y")
 
 def meeting_minutes(m):
-  minutes_package = [link for link in m["AllCategorizedMeetingLinks"] if link["Name"] == "Minutes"][0]["Package"]
+  minutes = [link for link in m["AllCategorizedMeetingLinks"] if link["Name"] == "Minutes"]
+  if len(minutes) == 0: return None
+  minutes_package = minutes[0]["Package"]
   return BASE_URL + [p["Url"] for p in minutes_package if p["Format"] == "HTML"][0]
 
 # get_minutes(datetime(2025, 6, 24), meeting_type)
@@ -55,12 +60,16 @@ def get_minutes(target_date, meeting_type):
   right_dates = [m for m in meetings if meeting_date(m) == target_date]
   if len(right_dates) == 0:
     print("Meeting not found")
-    return
+    return None
 
-  m = right_dates[0]
-  print(f"Found meeting: {meeting_name(m)}")
+  print(f"Found meeting possibilities: {', '.join([meeting_name(m) for m in right_dates])}")
 
-  minutes_url = meeting_minutes(m)
+  minutes_urls = [meeting_minutes(m) for m in right_dates if meeting_minutes(m)]
+  if minutes_urls == []:
+    print("Minutes not found")
+    return None
+
+  minutes_url = minutes_urls[0]
   print(f"Found minutes: {minutes_url}")
 
   print(f"Downloading minutes...")

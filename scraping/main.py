@@ -14,6 +14,8 @@ def format_json(x):
 # item_info(datetime(2025, 6, 24), meeting_type)
 def item_info(target_date, meeting_type):
   download_data = get_minutes(target_date, meeting_type)
+  if not download_data: return False
+
   minutes = download_data["minutes"]
   url = download_data["url"]
   soup = BeautifulSoup(minutes, "html.parser")
@@ -28,4 +30,6 @@ def item_info(target_date, meeting_type):
   output_json.parent.mkdir(parents=True, exist_ok=True)
   output_json.write_text(json.dumps(meeting, default=format_json))
 
-item_info(datetime(2025, 6, 24), "Council")
+  return True
+
+item_info(datetime(2025, 4, 1), "Council")
