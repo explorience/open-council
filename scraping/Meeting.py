@@ -87,3 +87,9 @@ class Meeting:
     for item in self.items.values():
       output += item.format_markdown(2, "")
     return output
+
+  def yyyy_mm(self):
+    return "{d.year}-{d.month:02}".format(d=self.datetime)
+
+  def format_title(self):
+    return "{d.year}-{d.month:02}-{d.day:02}".format(d=self.datetime) + " " + self.title

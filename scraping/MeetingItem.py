@@ -1,4 +1,5 @@
 from content import Content
+from Attachment import Attachment
 
 class MeetingItem:
   def __init__(self, agenda_item_container):
@@ -17,7 +18,16 @@ class MeetingItem:
 
 
   def set_attributes(self, agenda_item):
-    self.set_title(agenda_item.find(class_="AgendaItemTitle"))
+    title_row = agenda_item.find(class_="AgendaItemTitleRow")
+    self.set_title(title_row.find(class_="AgendaItemTitle"))
+
+    self.attachments = []
+    attachments = title_row.find(class_="AgendaItemAttachmentsList")
+    if attachments:
+      agenda_item_attachments = attachments.find_all(class_="AgendaItemAttachment")
+      for a in agenda_item_attachments:
+        self.attachments.append(Attachment(a))
+
     self.content = Content.parse_contents(agenda_item.find(class_="AgendaItemContentRow"))
 
     # "1." -> 1, "3.4" -> 4

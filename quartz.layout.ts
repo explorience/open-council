@@ -21,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: Component.Explorer(),
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
