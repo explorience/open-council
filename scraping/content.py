@@ -14,7 +14,8 @@ class Content:
 
   @staticmethod
   def parse_content(e):
-    if e.name == "p":
+    # sometimes, there are random tables (like lists of communications)
+    if e.name == "p" or e.name == "li":
       return Paragraph(e)
     return Content() # empty, will be filtered out
 
@@ -57,6 +58,7 @@ class Paragraph(Content):
   @staticmethod
   def get_text(e):
     output = ""
+    if e.name == "li": output += "- "
     for c in e.contents:
       if isinstance(c, NavigableString):
         output += c
@@ -94,7 +96,7 @@ class MotionResult(Paragraph):
     return f"> **{super().format_markdown()}**"
 
 
-BILL_TEXT = "The following Bills are enacted as By-laws of The Corporation of the City of London:" 
+BILL_TEXT = "The following Bills are enacted as By-laws of The Corporation of the City of London:"
 
 class Motion(Content):
   def __init__(self, agenda_item_motion):

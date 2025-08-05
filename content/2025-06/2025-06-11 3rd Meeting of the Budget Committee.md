@@ -231,6 +231,14 @@ That the delegation request from E. Williams, Chief Executive Officer, Middlesex
 
 That the communication dated June 1, 2025 from Councillor S. Stevenson regarding Cost Saving Opportunities within Heritage BE RECEIVED; it being noted that the Budget Committee received the following communications related to this matter
 
+- a communication from Councillor S. Stevenson, dated June 9, 2025
+
+- a communication from A. Kaplansky, Kap Holdings Inc, dated June 8, 2025
+
+- a communication from C. Taylor, dated June 10, 2025, and
+
+- a communication from B. Vazquez, Chair of the Board, ACO London Region Branch, dated June 6, 2025.
+
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -261,6 +269,14 @@ Additional Votes:
 > Seconded by P. Van Meerbergen
 
 That the Civic Administration BE DIRECTED to prepare a Business Case for Council's consideration reducing the annual budget of the Heritage Department. This report will include the options available to Council and the related cost savings and staffing impacts; it being noted that the Budget Committee received the following communications related to this matter
+
+- a communication from Councillor S. Stevenson, dated June 9, 2025
+
+- a communication from A. Kaplansky, Kap Holdings Inc, dated June 8, 2025
+
+- a communication from C. Taylor, dated June 10, 2025, and
+
+- a communication from B. Vazquez, Chair of the Board, ACO London Region Branch, dated June 6, 2025.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -438,6 +454,18 @@ That the delegation request from E. VanHooren, General Manager/Secretary Treasur
 > Seconded by C. Rahman
 
 That the following communications with respect to the Budget Updates Requested by the Mayor and the Budget Chair BE RECEIVED.
+
+- a communication and verbal delegation from C. Finn, General Manager, Tourism London and A. Shatil, President, Tourism London Board of Directors;
+
+- a communication from Councillor S. Franke, Commission Chair, London Transit Commission;
+
+- a communication from S. Judd, Chair, RBC Place London;
+
+- a communication from B. Gibson, London Public Library Board Chair and M. Ciccone, CEO and Chief Librarian;
+
+- a communication from P. Squire, Board Chair, London & Middlesex Community Housing; and
+
+- a communication from R. Gauss, Chair, London Police Services Board.
 
 > [!abstract]- Vote:
 > |Yeas:|
