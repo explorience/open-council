@@ -153,21 +153,43 @@ class Mover(Paragraph):
   def format_markdown(self):
     return f"> {super().format_markdown()}"
 
-BILL_PAT = re.compile("(Bill No\. \\d+)")
-TWO_PLUS_NEWLINES_PAT = re.compile("\n\n+")
+
+BILL_PAT = re.compile("(Bill No\\. \\d+)")
+
+# the regex inserts these special strings so we can split on them
+BILL_TITLE_START = "<BILL_NUMBER>"
+BILL_TITLE_END = "</BILL_NUMBER>"
+
+class Bill(Content):
+  def __init__(self, text):
+    self.empty_flag = False
+    if not text.split():
+      self.empty_flag = True
+      return
+
+    [title, desc] = text.split(BILL_TITLE_END)
+    self.title = title.strip()
+    self.desc = desc.strip()
+
+  def is_empty(self):
+    return self.empty_flag
+
+  def format_markdown(self):
+    return f"**{self.title}**\n\n{self.desc}"
 
 class Bills(Content):
   def __init__(self, bills_descs):
     joined_desc = "\n\n".join([p for p in bills_descs if not BILL_TEXT in p and p.strip()])
-    # newlines are inconsistent, so sometimes we add too many. normalize by replacing 2+ with 2
-    bolded_desc = BILL_PAT.sub("**\\1**\n\n", joined_desc)
-    self.desc = re.sub(TWO_PLUS_NEWLINES_PAT, "\n\n", bolded_desc)
+    marked_desc = BILL_PAT.sub(f"{BILL_TITLE_START}\\1{BILL_TITLE_END}", joined_desc)
+    bills = [Bill(p) for p in marked_desc.split(BILL_TITLE_START)]
+    self.bills = [b for b in bills if not b.is_empty()]
 
   def is_empty(self):
     return False
 
   def format_markdown(self):
-    return callout(BILL_TEXT, self.desc)
+    bills_markdown = "\n\n".join([b.format_markdown() for b in self.bills])
+    return callout(BILL_TEXT, bills_markdown)
 
 class Vote(Content):
   def __init__(self, motion_voters):
