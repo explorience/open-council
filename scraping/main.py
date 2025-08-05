@@ -14,7 +14,7 @@ for m in sorted_meetings:
 
 latest_meeting_date = meeting_date(latest_meeting)
 if council_meeting_local_copy(latest_meeting_date):
-  print("\nUp to date!")
+  print("\nAlready up to date!")
   exit()
 
 process_meeting(latest_meeting_date, "Council")

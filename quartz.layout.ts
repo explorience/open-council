@@ -16,7 +16,14 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ArticleTitle()
+    Component.ConditionalRender({
+      component: Component.OpenCouncilHeader(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    })
   ],
   afterBody: [
     Component.ConditionalRender({
@@ -53,15 +60,25 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
-  left: [Component.TableOfContents()],
+  left: [
+    Component.ConditionalRender({
+      component: Component.OpenCouncilHeader(),
+      condition: (page) => page.fileData.slug !== "index"
+    }),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index"
+    }),
+    Component.TableOfContents()
+  ],
   right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
+    Component.OpenCouncilHeader(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
