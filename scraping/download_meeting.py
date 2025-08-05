@@ -1,6 +1,7 @@
 import json
 import requests
 import functools
+from pathlib import Path
 from bs4 import BeautifulSoup
 from datetime import datetime
 
@@ -15,6 +16,7 @@ def is_meeting_name(e):
   if "MeetingTypeMeetingCount" in e["class"]: return False
   return "MeetingTypeNameText" in e["class"]
 
+@functools.cache
 def get_meeting_type(year):
   html = get_from_web(f"{BASE_URL}?MeetingViewId=1&Year={year}")
   soup = BeautifulSoup(html, "html.parser")
@@ -29,16 +31,23 @@ def get_meeting_types():
   return list(set(this_year + last_year))
 
 @functools.cache
-def get_meetings(meeting_type):
-  url = BASE_URL + "MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year=2025"
+def get_meetings_year(meeting_type, year):
+  url = f"{BASE_URL}MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year={year}"
   data = {
     "type": meeting_type
   }
-  print(f"Fetching {meeting_type} meetings...")
+  print(f"Fetching {year} {meeting_type} meetings...")
   x = requests.post(url, json=data, verify=False)
-  print(f"Data for {meeting_type} meetings retrieved")
+  print(f"Data for {year} {meeting_type} meetings retrieved")
   data = json.loads(x.text)
   return data["d"]
+
+@functools.cache
+def get_meetings(meeting_type):
+  year = datetime.now().year
+  this_year = get_meetings_year(meeting_type, year)
+  last_year = get_meetings_year(meeting_type, year-1)
+  return this_year + last_year
 
 def meeting_name(m):
   if m["HasLinks"]:
@@ -80,3 +89,16 @@ def get_minutes(target_date, meeting_type):
     "minutes": minutes,
     "url":     minutes_url
   }
+
+# do we already have a copy of this council meeting?
+def council_meeting_local_copy(target_date):
+  yyyy_mm = target_date.strftime("%Y-%m")
+  folder = Path(f"../content/{yyyy_mm}/")
+  if not folder.exists(): return None
+
+  folder_contents = [path.name for path in folder.iterdir()]
+  yyyy_mm_dd = target_date.strftime("%Y-%m-%d")
+  for meeting in folder_contents:
+    if "Council" in meeting and yyyy_mm_dd in meeting:
+      return f"{yyyy_mm}/{meeting}"
+  return None

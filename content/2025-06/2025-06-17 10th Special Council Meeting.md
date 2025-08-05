@@ -1,6 +1,6 @@
 ---
 title: 10th Special Council Meeting
-
+date: 2025-06-17
 ---
 # 10th Special Council Meeting
 
@@ -20,7 +20,7 @@ June 17, 2025, at 11:00 AM
 > [!abstract]- Remote Attendance:
 > E. Bennett, S. Corman, E. Hunt,
 
-The meeting is called to order at 11:05 AM; it being noted that Councillors S. Trosow, C. Rahman, P. Van Meerbergen, and S. Hillier were in remote attendance. 
+The meeting is called to order at 11:05 AM; it being noted that Councillors S. Trosow, C. Rahman, P. Van Meerbergen, and S. Hillier were in remote attendance.
 
 ## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -52,7 +52,7 @@ None.
 
 At 11:09 AM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
 
-At 11:11 AM, His Worship Mayor J. Morgan resumes the Chair. 
+At 11:11 AM, His Worship Mayor J. Morgan resumes the Chair.
 
 > Motion made by H. McAlister
 

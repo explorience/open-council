@@ -14,9 +14,14 @@ def format_json(x):
     return { **x.__dict__, "__class__": x.__class__.__name__ }
   return str(x)
 
+meetings_processed = 0
+meetings_processed_errors = []
+
 # process_meeting(datetime(2025, 6, 24), meeting_type)
 # returns None (meeting not found) or a path
 def process_meeting(target_date, meeting_type):
+  global meetings_processed, meetings_processed_errors
+
   try:
     download_data = get_minutes(target_date, meeting_type)
     if not download_data: return None
@@ -35,8 +40,13 @@ def process_meeting(target_date, meeting_type):
     output_json.parent.mkdir(parents=True, exist_ok=True)
     output_json.write_text(json.dumps(meeting, default=format_json))
 
+    meetings_processed += 1
     return f"{meeting.yyyy_mm()}/{meeting.format_title()}"
   except Exception as e:
     print(f"Error processing meeting {meeting_type} ({target_date})", e)
     traceback.print_exc()
+    meetings_processed_errors.append({ "date": target_date, "meeting_type": meeting_type })
     return None
+
+def get_processing_stats():
+  return (meetings_processed, meetings_processed_errors)

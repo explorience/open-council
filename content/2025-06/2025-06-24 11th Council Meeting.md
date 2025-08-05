@@ -80,9 +80,9 @@ That Council convenes In Closed Session from 1:18 PM to 1:25 PM.
 
 ### 5.1&nbsp;&nbsp;&nbsp;9th and 10th Meetings held on June 3, 2025 and June 17, 2025
 
-[2025-06-03 Council Minutes](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117890>)
+[2025-06-03 Council Minutes](</2025-06/2025-06-03 9th Council Meeting>)
 
-[2025-06-17 Special Council Minutes 10](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117891>)
+[2025-06-17 Special Council Minutes 10](</2025-06/2025-06-17 10th Special Council Meeting>)
 
 > Motion made by P. Van Meerbergen
 

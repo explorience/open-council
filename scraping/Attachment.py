@@ -2,8 +2,7 @@ import re
 import process_meeting # don't use from to resolve circular dependency
 from pathlib import Path
 from datetime import datetime
-# from process_meeting import process_meeting
-from download_meeting import get_meeting_types, get_minutes
+from download_meeting import get_meeting_types, get_minutes, council_meeting_local_copy
 
 def meeting_type_part(s):
   if not s[0].isupper(): return False
@@ -26,19 +25,6 @@ def get_meeting_type(title):
       acronym = "".join(c for c in meeting_type if c.isupper())
       if part == acronym: return meeting_type
 
-  return None
-
-
-def council_meeting_local_copy(target_date):
-  yyyy_mm = target_date.strftime("%Y-%m")
-  folder = Path(f"../content/{yyyy_mm}/")
-  if not folder.exists(): return None
-
-  folder_contents = [path.name for path in folder.iterdir()]
-  yyyy_mm_dd = target_date.strftime("%Y-%m-%d")
-  for meeting in folder_contents:
-    if "Council" in meeting and yyyy_mm_dd in meeting:
-      return f"{yyyy_mm}/{meeting}"
   return None
 
 
@@ -66,8 +52,8 @@ class Attachment:
       if meeting_type == "Council":
         # only create council meetings if they don't exist
         # otherwise, we would recursively create every single council meeting (since they link back to the previous)
-        # exists = council_meeting_local_copy(self.date)
-        # self.local_page = exists or process_meeting.process_meeting(self.date, meeting_type)
+        exists = council_meeting_local_copy(self.date)
+        self.local_page = exists or process_meeting.process_meeting(self.date, meeting_type)
         pass
       else:
         self.local_page = process_meeting.process_meeting(self.date, meeting_type)

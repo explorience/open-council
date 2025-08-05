@@ -1,6 +1,6 @@
 ---
 title: 8th Council Meeting
-
+date: 2025-05-13
 ---
 # 8th Council Meeting
 
@@ -21,7 +21,7 @@ The meeting is called to order at 1:01 PM
 
 ## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 2, clause 2.1 of the 8th Report of the Community and Protective Services Committee and Bill No. 156, having to do with the Child Care and Early Years Master Funding Agreement, by indicating that his wife owns and operates a day care. 
+That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 2, clause 2.1 of the 8th Report of the Community and Protective Services Committee and Bill No. 156, having to do with the Child Care and Early Years Master Funding Agreement, by indicating that his wife owns and operates a day care.
 
 ## 2.&nbsp;&nbsp;&nbsp;Recognitions
 
@@ -76,7 +76,7 @@ That Council convenes In Closed Session, from 1:07 PM to 1:13 PM.
 
 ### 5.1&nbsp;&nbsp;&nbsp;7th Meeting held on April 22, 2025
 
-[2025-04-22 Council Minutes - for Council agenda.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116847)
+[2025-04-22 Council Minutes - for Council agenda](</2025-04/2025-04-22 7th Council Meeting.md>)
 
 > Motion made by P. Cuddy
 
@@ -116,11 +116,11 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 6.1    Whole of Community System Response Q1 2025 Quarterly Report        
 
-1.    Councillor S. Stevenson        
+1.    Councillor S. Stevenson
 
 6.2    Municipal Diversity Plan for Appointments to the London Police Service Board        
 
-1.    Councillor S. Stevenson        
+1.    Councillor S. Stevenson
 
 6.3    Commemorative Naming of Streets and City Assets - Status Update        
 
@@ -142,7 +142,7 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 9.    (ADDED) C. Cadogan        
 
-10.    (ADDED) C. Lord        
+10.    (ADDED) C. Lord
 
 6.4    (ADDED) 2024 Year-End Operating Budget Monitoring Report        
 
@@ -185,7 +185,7 @@ None.
 
 ### 8.1&nbsp;&nbsp;&nbsp;8th Report of the Community and Protective Services Committee
 
-[2025-04-28 CPSC Report.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116848)
+[2025-04-28 CPSC Report](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by D. Ferreira
 
@@ -224,7 +224,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.1.3&nbsp;&nbsp;&nbsp;(2.3) Amendments to the Traffic and Parking By-law (Relates to Bill No. 170)
+#### 8.1.3&nbsp;&nbsp;&nbsp;[(2.3)](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee#23amendments-to-the-traffic-and-parking-by-law>) Amendments to the Traffic and Parking By-law (Relates to Bill No. 170)
 
 > Motion made by D. Ferreira
 
@@ -234,7 +234,7 @@ That on the recommendation of the Deputy City Manager, Environment and Infrastru
 
 ****
 
-#### 8.1.7&nbsp;&nbsp;&nbsp;(4.1) Request for Report Back on Quick Communities
+#### 8.1.7&nbsp;&nbsp;&nbsp;[(4.1)](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee#41request-for-report-back-on-quick-communities>) Request for Report Back on Quick Communities
 
 > Motion made by D. Ferreira
 
@@ -244,7 +244,7 @@ That the Civic Administration BE DIRECTED to prepare a report summarizing their 
 
 ****
 
-#### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) Child Care and Early Years Master Funding Agreement (Relates to Bill No. 156)
+#### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee#21child-care-and-early-years-master-funding-agreement>) Child Care and Early Years Master Funding Agreement (Relates to Bill No. 156)
 
 > Motion made by D. Ferreira
 
@@ -304,7 +304,7 @@ iv)    By-law No. A.- 7027-316, as amended, (2013), A By-law to approve and ad
 
 ****
 
-#### 8.1.4&nbsp;&nbsp;&nbsp;(2.4) Program Changes to the Ontario Renovates Program (Relates to Bill No. 157)
+#### 8.1.4&nbsp;&nbsp;&nbsp;[(2.4)](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee#24program-changes-to-the-ontario-renovates-program>) Program Changes to the Ontario Renovates Program (Relates to Bill No. 157)
 
 > Motion made by D. Ferreira
 
@@ -348,7 +348,7 @@ iv)    repeal By-law No. A.-7749-244, being “A by-law to approve the Ontario
 
 ****
 
-#### 8.1.5&nbsp;&nbsp;&nbsp;(2.2) Whole of Community System Response Q1 2025 Quarterly Report
+#### 8.1.5&nbsp;&nbsp;&nbsp;[(2.2)](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee#22whole-of-community-system-response-q1-2025-quarterly-report>) Whole of Community System Response Q1 2025 Quarterly Report
 
 > Motion made by D. Ferreira
 
@@ -495,13 +495,13 @@ c)    the above-noted staff report BE RECEIVED. (2025-S14)
 
 ****
 
-#### 8.1.6&nbsp;&nbsp;&nbsp;(2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)
+#### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee#25approval-of-the-template-contribution-agreement-for-affordable-housing-projects>) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)
 
 > Motion made by D. Ferreira
 
 That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated April 28, 2025, related to Approval of the Template Contribution Agreement for Affordable Housing Projects:
 
-a)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at Municipal Council on May 13, 2025 to: 
+a)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at Municipal Council on May 13, 2025 to:
 
 i)    authorize and approve the template Contribution Agreement, as appended to the above-noted by-law;
 
@@ -563,7 +563,7 @@ ii)    authorize the Deputy City Manager, Housing and Community Growth, or the
 
 That the motion be further amended in part a) ii) to read as follows:
 
-ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of 
+ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -593,7 +593,7 @@ ii)    authorize the Deputy City Manager, Housing and Community Growth, or the
 
 That the motion be further amended in part a) ii) to read as follows:
 
-ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of 
+ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -676,7 +676,7 @@ That the staff report dated April 28, 2025, related to Approval of the Template 
 
 ### 8.2&nbsp;&nbsp;&nbsp;7th Report of the Planning and Environment Committee
 
-[2025-04-29 - PEC REPORT.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116849)
+[2025-04-29 - PEC REPORT](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee >)
 
 > Motion made by S. Lehman
 
@@ -709,13 +709,13 @@ That the 7th Report of the Planning and Environment Committee BE APPROVED, with 
 
 > Motion made by S. Lehman
 
-That it BE NOTED that no pecuniary interests were disclosed. 
+That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Business Improvement Areas Information Review
+#### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #21business-improvement-areas-information-review>) Business Improvement Areas Information Review
 
 > Motion made by S. Lehman
 
@@ -725,7 +725,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) Proposed Amendments to the Business Improvement Area By-laws (Relates to Bill No.'s 161, 164, 165, 168 and 169) 
+#### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #22proposed-amendments-to-the-business-improvement-area-by-laws>) Proposed Amendments to the Business Improvement Area By-laws (Relates to Bill No.'s 161, 164, 165, 168 and 169) 
 
 > Motion made by S. Lehman
 
@@ -737,7 +737,7 @@ b)    the proposed by-law as appended to the staff report dated April 29, 2025
 
 c)    the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "C" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend By-law No. C.P.-1528- 486, A by-law to designate an area as an improvement area and to establish the board of management for the purposes of managing the Hamilton Road Business Improvement Area;
 
-d)    the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "D" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend By-law No. C.P.-1519(a)- 11, Hyde Park Business Improvement Association Board of Management By-law; and, 
+d)    the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "D" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend By-law No. C.P.-1519(a)- 11, Hyde Park Business Improvement Association Board of Management By-law; and,
 
 e)    the proposed by-law as appended on the staff report dated April 29, 2025, as Appendix "E" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend By-law No. CP-1, Old East Village Business Improvement Area By-law.
 
@@ -745,11 +745,11 @@ e)    the proposed by-law as appended on the staff report dated April 29, 2025
 
 ****
 
-#### 8.2.5&nbsp;&nbsp;&nbsp;(2.4) Fast-Tracking Housing - Mayoral Direction 2025-001
+#### 8.2.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #24fast-tracking-housing---mayoral-direction-2025-001>) Fast-Tracking Housing - Mayoral Direction 2025-001
 
 > Motion made by S. Lehman
 
-That, on the recommendation of the Deputy City Manager, Housing and Community Growth the following report on the ongoing work to action Mayoral Direction 2025-001 Fast-tracking New Housing, BE RECEIVED; 
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth the following report on the ongoing work to action Mayoral Direction 2025-001 Fast-tracking New Housing, BE RECEIVED;
 
 it being noted that the verbal delegation from M. Wallace, London Development Institute, with respect to this matter was received.
 
@@ -757,7 +757,7 @@ it being noted that the verbal delegation from M. Wallace, London Development In
 
 ****
 
-#### 8.2.6&nbsp;&nbsp;&nbsp;(2.5) Housing Accelerator Fund: Completion of the City of London Housing Needs Assessment 
+#### 8.2.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #25housing-accelerator-fund-completion-of-the-city-of-london-housing-needs-assessment>) Housing Accelerator Fund: Completion of the City of London Housing Needs Assessment 
 
 > Motion made by S. Lehman
 
@@ -771,7 +771,7 @@ b)    the Housing Needs Assessment as appended to the staff report dated April
 
 ****
 
-#### 8.2.7&nbsp;&nbsp;&nbsp;(2.6) Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
+#### 8.2.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #26housing-accelerator-fund-initiative-5-city-land-disposal-process-review-for-increasing-affordable-housing>) Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
 
 > Motion made by S. Lehman
 
@@ -811,7 +811,7 @@ Internally;
 
 ****
 
-#### 8.2.8&nbsp;&nbsp;&nbsp;(3.1) 3095 Bostwick Road (OZ-25018) (Relates to Bill No.'s 166 and 175) 
+#### 8.2.8&nbsp;&nbsp;&nbsp;[(3.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #313095-bostwick-road-oz-25018>) 3095 Bostwick Road (OZ-25018) (Relates to Bill No.'s 166 and 175) 
 
 > Motion made by S. Lehman
 
@@ -837,7 +837,7 @@ c)    that the Site Plan Approval Authority BE REQUESTED to consider the follo
 
 i)    to orient higher built forms to higher order streets with entrances and walkway connections to sidewalks. (TLP 291, 268);
 
-ii)    to enhance corners with massing, entrances, signage, and glazing for pedestrian focus (TLP 290, 261); and, 
+ii)    to enhance corners with massing, entrances, signage, and glazing for pedestrian focus (TLP 290, 261); and,
 
 d)    that the Planning and Environment Committee REPORT TO the Approval Authority the issues, if any, raised through the application review process for Talbot Village Phase 9 Subdivision located at 3095 Bostwick Road;
 
@@ -861,7 +861,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.2.9&nbsp;&nbsp;&nbsp;(3.2) 1176 Crumlin Side Road (Z-9601) (Relates to Bill No. 176) 
+#### 8.2.9&nbsp;&nbsp;&nbsp;[(3.2)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #321176-crumlin-side-road-z-9601>) 1176 Crumlin Side Road (Z-9601) (Relates to Bill No. 176) 
 
 > Motion made by S. Lehman
 
@@ -887,7 +887,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.2.10&nbsp;&nbsp;&nbsp;(3.3) 1140 Fanshawe Park Road East (Z-25027) (Relates to Bill No. 177)
+#### 8.2.10&nbsp;&nbsp;&nbsp;[(3.3)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #331140-fanshawe-park-road-east-z-25027>) 1140 Fanshawe Park Road East (Z-25027) (Relates to Bill No. 177)
 
 > Motion made by S. Lehman
 
@@ -903,7 +903,7 @@ it being further noted that the Municipal Council approves this application for 
 
 -    the recommended amendment conforms to The London Plan, including, but not limited to the Neighbourhoods Place Type and City Building policies; and, 
 
--    the recommended amendment facilitates development of an appropriate intensity, compatible with the surrounding and planned neighbourhood context; 
+-    the recommended amendment facilitates development of an appropriate intensity, compatible with the surrounding and planned neighbourhood context;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -911,11 +911,11 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.2.11&nbsp;&nbsp;&nbsp;(3.4) 459 Hales Street (Z-25026) (Relates to Bill No. 178)
+#### 8.2.11&nbsp;&nbsp;&nbsp;[(3.4)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #34459-hales-street-z-25026>) 459 Hales Street (Z-25026) (Relates to Bill No. 178)
 
 > Motion made by S. Lehman
 
-That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Grand Oak Homes relating to the property located at 459 Hale Street, the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential R6 Special Provision (R6-2(15)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone to allow for a 10-unit cluster townhouse development; 
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Grand Oak Homes relating to the property located at 459 Hale Street, the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential R6 Special Provision (R6-2(15)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone to allow for a 10-unit cluster townhouse development;
 
 it being noted to the applicant that the following comments have been received:
 
@@ -933,7 +933,7 @@ offers to purchase, and agreements of Purchase and Sale or Lease of each dwellin
 
 it being pointed out that the following individual made verbal presentations at the public participation meeting held in conjunction with these matters:
 
--    S. Condon, SBM Ltd.; 
+-    S. Condon, SBM Ltd.;
 
 it being further noted that the Municipal Council approves this application for the following reasons:
 
@@ -941,7 +941,7 @@ it being further noted that the Municipal Council approves this application for 
 
 -    the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Design policies, Neighbourhood Place Type policies and Our Tools policies; and,
 
--    the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood; 
+-    the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -949,7 +949,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.2.13&nbsp;&nbsp;&nbsp;(3.6) City-Wide: Revised Requirements for Notice of Application and Notice of Public Participation Meetings (O-25007) (Relates to Bill No. 167)
+#### 8.2.13&nbsp;&nbsp;&nbsp;[(3.6)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #36city-wide-revised-requirements-for-notice-of-application-and-notice-of-public-participation-meetings-o-25007>) City-Wide: Revised Requirements for Notice of Application and Notice of Public Participation Meetings (O-25007) (Relates to Bill No. 167)
 
 > Motion made by S. Lehman
 
@@ -963,7 +963,7 @@ it being further noted that the Municipal Council approves this application for 
 
 -    the recommended amendments are consistent with regulations under the Planning Act; and,
 
--    the recommended amendments conform to the general intent of The London Plan, including but not limited to Our Tools part of the Plan; 
+-    the recommended amendments conform to the general intent of The London Plan, including but not limited to Our Tools part of the Plan;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -971,25 +971,25 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.2.14&nbsp;&nbsp;&nbsp;(5.1) Deferred Matters List 
+#### 8.2.14&nbsp;&nbsp;&nbsp;[(5.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #51deferred-matters-list>) Deferred Matters List 
 
 > Motion made by S. Lehman
 
-That the Deferred Matters List BE RECEIVED. 
+That the Deferred Matters List BE RECEIVED.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
+#### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #23communication---d-r-schmidt---referred-to-pec-sppc441>) Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
 > Motion made by S. Lehman
 
-That the following actions be taken: 
+That the following actions be taken:
 
-a)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd., referred to the Planning and Environment Committee from the Strategic Priorities and Policy Committee meeting held on March 25, 2025, related to the Mobility Master Plan – Cycling Network Maps BE RECEIVED; 
+a)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd., referred to the Planning and Environment Committee from the Strategic Priorities and Policy Committee meeting held on March 25, 2025, related to the Mobility Master Plan – Cycling Network Maps BE RECEIVED;
 
-b)    the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee with respect to the existing traffic calming policy standards through the design specification guidelines through Plans of Subdivision approvals with respect to neighbourhood connectors; 
+b)    the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee with respect to the existing traffic calming policy standards through the design specification guidelines through Plans of Subdivision approvals with respect to neighbourhood connectors;
 
 it being noted that a verbal delegation from D. R. Schmidt, with respect to this matter was received.
 
@@ -1055,7 +1055,7 @@ That item 4, clause 2.3, as amended BE APPROVED.
 
 Item 4, clause 2.3, as amended, reads as follows:
 
-That the following actions be taken: 
+That the following actions be taken:
 
 a)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd., referred to the Planning and Environment Committee from the Strategic Priorities and Policy Committee meeting held on March 25, 2025, related to the Mobility Master Plan – Cycling Network Maps BE RECEIVED; and
 
@@ -1065,19 +1065,19 @@ it being noted that a verbal delegation from D. R. Schmidt, with respect to this
 
 ****
 
-#### 8.2.12&nbsp;&nbsp;&nbsp;(3.5) 3849 Campbell Street North (Z-9614) (Relates to Bill No. 179)
+#### 8.2.12&nbsp;&nbsp;&nbsp;[(3.5)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #353849-campbell-street-north-z-9614>) 3849 Campbell Street North (Z-9614) (Relates to Bill No. 179)
 
 > Motion made by S. Lehman
 
 That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Colonel Talbot Developments relating to the property located at 3849 Campbell Street North:
 
-a)    the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025 to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM an Urban Reserve (UR4) TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone; and, 
+a)    the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025 to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM an Urban Reserve (UR4) TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone; and,
 
-b)    the Site Plan Approval Authority BE REQUESTED to consider design and layout issues through the site plan process that incorporates measures to provide: an enhanced landscaped open space strip adjacent to the OS5 zone to minimize impacts on the natural heritage system; and public access through the site from the proposed terminus of Savoy Street to the future extension of Hayward Drive; 
+b)    the Site Plan Approval Authority BE REQUESTED to consider design and layout issues through the site plan process that incorporates measures to provide: an enhanced landscaped open space strip adjacent to the OS5 zone to minimize impacts on the natural heritage system; and public access through the site from the proposed terminus of Savoy Street to the future extension of Hayward Drive;
 
 it being pointed out that the following individual made verbal presentations at the public participation meeting held in conjunction with these matters:
 
--    A. Vandersluis, Auburn Developments; 
+-    A. Vandersluis, Auburn Developments;
 
 it being further noted that the Municipal Council approves this application for the following reasons:
 
@@ -1111,7 +1111,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ### 8.3&nbsp;&nbsp;&nbsp;6th Report of the Strategic Priorities and Policy Committee
 
-[2025-05-01 SPPC Report 6.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116850)
+[2025-05-01 SPPC Report 6](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee>)
 
 > Motion made by S. Lewis
 
@@ -1150,7 +1150,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) Request for a Shareholder's Meeting - London Hydro Inc.
+#### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee#21request-for-a-shareholders-meeting---london-hydro-inc>) Request for a Shareholder's Meeting - London Hydro Inc.
 
 > Motion made by S. Lewis
 
@@ -1166,7 +1166,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-#### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) Request for a Shareholder's Meeting - London & Middlesex Community Housing
+#### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee#22request-for-a-shareholders-meeting---london--middlesex-community-housing>) Request for a Shareholder's Meeting - London & Middlesex Community Housing
 
 > Motion made by S. Lewis
 
@@ -1182,7 +1182,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-#### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) ReconciliAction Plan
+#### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee#23reconciliaction-plan>) ReconciliAction Plan
 
 > Motion made by S. Lewis
 
@@ -1196,13 +1196,13 @@ b)    the Civic Administration BE DIRECTED to forward the ReconciliAction Plan
 
 ****
 
-#### 8.3.5&nbsp;&nbsp;&nbsp;(4.1) London & Middlesex Community Housing Board of Directors Request for Extension of Terms
+#### 8.3.5&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee#41london--middlesex-community-housing-board-of-directors-request-for-extension-of-terms>) London & Middlesex Community Housing Board of Directors Request for Extension of Terms
 
 > Motion made by S. Lewis
 
 That the following actions be taken with respect to the London & Middlesex Community Housing Board of Directors:
 
-a)  the term for Phil Squire, Chair, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2024 to September 30, 2027; 
+a)  the term for Phil Squire, Chair, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2024 to September 30, 2027;
 
 b)  the term for Greg Thompson, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2024 to September 30, 2027; and
 
@@ -1214,7 +1214,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-#### 8.3.6&nbsp;&nbsp;&nbsp;(4.2) Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
+#### 8.3.6&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee#42canada-disability-benefit---councillors-h-mcalister-p-cuddy-and-s-lewis>) Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
 
 > Motion made by S. Lewis
 
@@ -1252,7 +1252,7 @@ it being further noted that the Strategic Priorities and Policy Committee heard 
 
 ****
 
-#### 8.3.7&nbsp;&nbsp;&nbsp;(5.1) 1st Report of the Governance Working Group
+#### 8.3.7&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee#51added-1st-report-of-the-governance-working-group>) 1st Report of the Governance Working Group
 
 > Motion made by S. Lewis
 
@@ -1270,13 +1270,13 @@ i)    the Civic Administration BE DIRECTED to report back to Council, as soon 
 
 ii)    the above-noted document BE REFERRED to the next meeting of the Governance Working Group for further consideration;
 
-c)    clauses 1.1, 4.2 and 5.1 BE RECEIVED for information. 
+c)    clauses 1.1, 4.2 and 5.1 BE RECEIVED for information.
 
 > **Motion Passed**
 
 ****
 
-#### 8.3.8&nbsp;&nbsp;&nbsp;(5.2) Municipal Diversity Plan for Appointments to the London Police Service Board (Relates to Bill No. 163)
+#### 8.3.8&nbsp;&nbsp;&nbsp;[(5.2)](</2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee#52added-municipal-diversity-plan-for-appointments-to-the-london-police-service-board>) Municipal Diversity Plan for Appointments to the London Police Service Board (Relates to Bill No. 163)
 
 > Motion made by S. Lewis
 
@@ -1322,7 +1322,7 @@ The Council recesses at 3:23 PM and reconvenes at 3:36 PM.
 
 ### 8.4&nbsp;&nbsp;&nbsp;8th Report of the Infrastructure and Corporate Services Committee
 
-[2025-04-30 ICSC Report 8.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116846)
+[2025-04-30 ICSC Report 8](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -1361,7 +1361,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) 1st Report of the County City Liaison Committee
+#### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#211st-report-of-the-county-city-liaison-committee>) 1st Report of the County City Liaison Committee
 
 > Motion made by C. Rahman
 
@@ -1379,7 +1379,7 @@ b)   clauses 1.1, 4.1, 4.2, 4.3, 4.5 and 4.6 BE RECEIVED.
 
 ****
 
-#### 8.4.3&nbsp;&nbsp;&nbsp;(2.3) Court Security and Prisoner Transportation Program Transfer Payment Agreement (Relates to Bill No. 159)
+#### 8.4.3&nbsp;&nbsp;&nbsp;[(2.3)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#23court-security-and-prisoner-transportation-program-transfer-payment-agreement>) Court Security and Prisoner Transportation Program Transfer Payment Agreement (Relates to Bill No. 159)
 
 > Motion made by C. Rahman
 
@@ -1399,17 +1399,17 @@ e)    authorize the Deputy City Manager, Finance Supports (or designate) to ex
 
 ****
 
-#### 8.4.4&nbsp;&nbsp;&nbsp;(2.6) Employee Attendance 2024
+#### 8.4.4&nbsp;&nbsp;&nbsp;[(2.6)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#26employee-attendance-2024>) Employee Attendance 2024
 
 > Motion made by C. Rahman
 
-That, on the recommendation of the Deputy City Manager, Enterprise Supports, the report with respect to the Employee Attendance 2024 BE RECEIVED for information purposes. 
+That, on the recommendation of the Deputy City Manager, Enterprise Supports, the report with respect to the Employee Attendance 2024 BE RECEIVED for information purposes.
 
 > **Motion Passed**
 
 ****
 
-#### 8.4.5&nbsp;&nbsp;&nbsp;(2.8) Amendments to the Waste Discharge By-law WM-16 and the Wastewater and Stormwater By-law WM-28 (Relates to Bill No.'s 173 and 174)
+#### 8.4.5&nbsp;&nbsp;&nbsp;[(2.8)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#28amendments-to-the-waste-discharge-by-law-wm-16-and-the-wastewater-and-stormwater-by-law-wm-28>) Amendments to the Waste Discharge By-law WM-16 and the Wastewater and Stormwater By-law WM-28 (Relates to Bill No.'s 173 and 174)
 
 > Motion made by C. Rahman
 
@@ -1423,7 +1423,7 @@ b)    the proposed amending by-law, appended to the staff report dated April 3
 
 ****
 
-#### 8.4.6&nbsp;&nbsp;&nbsp;(2.9) Springbank Dam Contract Amendment 
+#### 8.4.6&nbsp;&nbsp;&nbsp;[(2.9)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#29springbank-dam-contract-amendment>) Springbank Dam Contract Amendment 
 
 > Motion made by C. Rahman
 
@@ -1441,13 +1441,13 @@ e)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 f)     the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.4.9&nbsp;&nbsp;&nbsp;(2.5) 2024 Year-End Capital Budget Monitoring Report
+#### 8.4.9&nbsp;&nbsp;&nbsp;[(2.5)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#252024-year-end-capital-budget-monitoring-report>) 2024 Year-End Capital Budget Monitoring Report
 
 > Motion made by C. Rahman
 
@@ -1485,7 +1485,7 @@ E) other net non-rate supported funding sources of $0.4 million BE ADJUSTED in o
 
 ****
 
-#### 8.4.10&nbsp;&nbsp;&nbsp;(2.7) Delegation of Authority By-law Update (Relates to Bill No. 162)
+#### 8.4.10&nbsp;&nbsp;&nbsp;[(2.7)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#27delegation-of-authority-by-law-update>) Delegation of Authority By-law Update (Relates to Bill No. 162)
 
 > Motion made by C. Rahman
 
@@ -1495,7 +1495,7 @@ That, on the recommendation of the Deputy City Manager, Environment and Infrastr
 
 ****
 
-#### 8.4.7&nbsp;&nbsp;&nbsp;(2.2) Commemorative Naming of Streets and City Assets - Status Update
+#### 8.4.7&nbsp;&nbsp;&nbsp;[(2.2)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#22commemorative-naming-of-streets-and-city-assets---status-update>) Commemorative Naming of Streets and City Assets - Status Update
 
 > Motion made by C. Rahman
 
@@ -1661,7 +1661,7 @@ d)    the Civic Administration BE DIRECTED to rename Trooper Wilson Place to P
 
 ****
 
-#### 8.4.8&nbsp;&nbsp;&nbsp;(2.4) 2024 Year-End Operating Budget Monitoring Report
+#### 8.4.8&nbsp;&nbsp;&nbsp;[(2.4)](</2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee#242024-year-end-operating-budget-monitoring-report>) 2024 Year-End Operating Budget Monitoring Report
 
 At 4:52 PM, Councillor S. Franke leaves the meeting.
 
@@ -1695,9 +1695,9 @@ it being noted that the reported year-end position is subject to completion of t
 
 it being further noted that the Infrastructure and Corporate Services Committee received a communication dated April 26, 2025 from C. Butler and a communication from Mayor J. Morgan and Deputy Mayor S. Lewis with respect to this matter.
 
-At 4:59 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 4:59 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 5:03 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 5:03 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
@@ -1782,7 +1782,7 @@ it being further noted that the Infrastructure and Corporate Services Committee 
 
 ### 8.5&nbsp;&nbsp;&nbsp;9th Report of the Infrastructure and Corporate Services Committee
 
-[2025-05-12 Special ICSC Report 9.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116851)
+[2025-05-12 Special ICSC Report 9](</2025-05/2025-05-12 9th Special Meeting of the Infrastructure and Corporate Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -1861,7 +1861,7 @@ None.
 
 > Seconded by P. Cuddy
 
-That Introduction and First Reading of Bill No. 156 BE APPROVED. 
+That Introduction and First Reading of Bill No. 156 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Recuse:|
@@ -1889,7 +1889,7 @@ That Introduction and First Reading of Bill No. 156 BE APPROVED. 
 
 > Seconded by P. Cuddy
 
-That Second Reading of Bill No. 156 BE APPROVED. 
+That Second Reading of Bill No. 156 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Recuse:|
@@ -1945,7 +1945,7 @@ That Third Reading and Enactment of Bill No. 156 BE APPROVED.
 
 > Seconded by J. Pribil
 
-That Introduction and First Reading of Bill No. 157 BE APPROVED. 
+That Introduction and First Reading of Bill No. 157 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -1973,7 +1973,7 @@ That Introduction and First Reading of Bill No. 157 BE APPROVED. 
 
 > Seconded by J. Pribil
 
-That Second Reading of Bill No. 157 BE APPROVED. 
+That Second Reading of Bill No. 157 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2029,7 +2029,7 @@ That Third Reading and Enactment of Bill No. 157 BE APPROVED.
 
 > Seconded by P. Van Meerbergen
 
-That Introduction and First Reading of Bill No. 163 BE APPROVED. 
+That Introduction and First Reading of Bill No. 163 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2057,7 +2057,7 @@ That Introduction and First Reading of Bill No. 163 BE APPROVED. 
 
 > Seconded by P. Van Meerbergen
 
-That Second Reading of Bill No. 163 BE APPROVED. 
+That Second Reading of Bill No. 163 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2113,7 +2113,7 @@ That Third Reading and Enactment of Bill No. 163 BE APPROVED.
 
 > Seconded by S. Stevenson
 
-That Introduction and First Reading of Bill No. 179 BE APPROVED. 
+That Introduction and First Reading of Bill No. 179 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2140,7 +2140,7 @@ That Introduction and First Reading of Bill No. 179 BE APPROVED. 
 
 > Seconded by S. Stevenson
 
-That Second Reading of Bill No. 179 BE APPROVED. 
+That Second Reading of Bill No. 179 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2194,7 +2194,7 @@ That Third Reading and Enactment of Bill No. 179 BE APPROVED.
 
 > Seconded by A. Hopkins
 
-That Introduction and First Reading of Bill No.’s 155 to Bill No. 178, excluding Bill No.’s 156, 157, 158 and 163 BE APPROVED. 
+That Introduction and First Reading of Bill No.’s 155 to Bill No. 178, excluding Bill No.’s 156, 157, 158 and 163 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2222,7 +2222,7 @@ That Introduction and First Reading of Bill No.’s 155 to Bill No. 178, excludi
 
 > Seconded by A. Hopkins
 
-That Second Reading of Bill No.’s 155 to Bill No. 178, excluding Bill No.’s 156, 157, 158 and 163 BE APPROVED. 
+That Second Reading of Bill No.’s 155 to Bill No. 178, excluding Bill No.’s 156, 157, 158 and 163 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|

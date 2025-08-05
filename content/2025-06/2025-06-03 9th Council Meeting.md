@@ -141,7 +141,7 @@ That Council convenes in Closed Session from 4:22 PM to 4:41 PM.
 
 ### 5.1&nbsp;&nbsp;&nbsp;8th Meeting held on May 13, 2025
 
-[2025-05-13 Council Minutes](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117363>)
+[2025-05-13 Council Minutes](</2025-05/2025-05-13 8th Council Meeting>)
 
 > Motion made by D. Ferreira
 
@@ -1003,6 +1003,12 @@ A. Valastro;
 
 it being further noted that the Municipal Council approves this application for the following reasons:
 
+- the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);
+
+- the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighborhood Place Type policies; and,
+
+- the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;
+
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2025-D09) (3.5/8/PEC)
 
 > [!abstract]- Vote:
@@ -1088,6 +1094,12 @@ A. Van Amerongen; and,
 A. Valastro;
 
 it being further noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);
+
+- the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighborhood Place Type policies; and,
+
+- the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2025-D09) (3.5/8/PEC)
 
