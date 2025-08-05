@@ -46,11 +46,11 @@ async function mouseEnterHandler(
   const popoverId = `popover-${link.pathname}`
   const prevPopoverElement = document.getElementById(popoverId)
 
-  // dont refetch if there's already a popover
-  if (!!document.getElementById(popoverId)) {
-    showPopover(prevPopoverElement as HTMLElement)
-    return
-  }
+  // if there's already a popover, remove it to force a refresh
+  // since it's probably for a new section
+   if (!!document.getElementById(popoverId)) {
+     document.getElementById(popoverId).remove()
+   }
 
   const response = await fetchCanonical(targetUrl).catch((err) => {
     console.error(err)
