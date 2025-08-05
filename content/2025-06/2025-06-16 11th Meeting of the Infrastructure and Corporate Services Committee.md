@@ -1,6 +1,6 @@
 ---
 title: 11th Meeting of the Infrastructure and Corporate Services Committee
-
+date: 2025-06-16
 ---
 # 11th Meeting of the Infrastructure and Corporate Services Committee
 
@@ -52,7 +52,7 @@ That Consent Items 2.1 to 2.9 BE APPROVED.
 
 > Seconded by P. Van Meerbergen
 
-That, on the recommendation of the Deputy City Manager, Enterprise Supports and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the single source procurement of time and attendance software: 
+That, on the recommendation of the Deputy City Manager, Enterprise Supports and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the single source procurement of time and attendance software:
 
 a)    a single source procurement BE APPROVED for the acquisition of The Ultimate Software Group of Canada, Inc., (144 Bloor St. West, Suite 400, Toronto, Ontario, M5S 1M4) software subscription licensing estimated at up to $1,700,000 (excluding HST) over five years ($340,000 per year) with options to renew and the one-time professional services fee associated with the implementation of the software estimated at up to $485,285 (excluding HST), in accordance with section 14.4(d) of the Procurement of Goods and Services Policy;
 
@@ -140,7 +140,7 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
@@ -166,7 +166,7 @@ d)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 e)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (RFT-2025-003); and
 
-f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
@@ -204,11 +204,11 @@ b)    NO ACTION BE TAKEN at this time to adjust the current pricing of City-ow
 
 
 
-Innovation Park (Phases 1 to 4) and Huron Industrial Park (all phases):  
+Innovation Park (Phases 1 to 4) and Huron Industrial Park (all phases):
 
 -    Lots up to 4.99 acres: $325,000 per acre 
 
--    5.00 acres and up:  $300,000 per acre 
+-    5.00 acres and up:  $300,000 per acre
 
 Pricing for serviced industrial land in Trafalgar Industrial Park:
 
@@ -304,7 +304,7 @@ a)    the proposed by-law, as appended to the staff report dated June 16, 2025
 
 b)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “B” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Ontario Works Cost Apportionment and Agency Agreement (“Schedule B”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;
 
-c)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (“Schedule C”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and 
+c)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (“Schedule C”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and
 
 > [!abstract]- Vote:
 > |Yeas:|

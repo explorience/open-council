@@ -24,7 +24,7 @@ The meeting is called to order at 10:03 AM; it being noted that Councillors S. H
 
 ## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-That it BE NOTED that no pecuniary interests were disclosed. 
+That it BE NOTED that no pecuniary interests were disclosed.
 
 ## 2.&nbsp;&nbsp;&nbsp;Consent
 
@@ -98,7 +98,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the fo
 
 a)    the report providing an update on development of the 2026 Annual Budget Update and the budget reduction options identified to date BE RECEIVED for information;
 
-b)    the Civic Administration BE DIRECTED to continue to include identified budget right-sizing opportunities in a business case for inclusion in the Mayor’s proposed 2026 Budget Update; 
+b)    the Civic Administration BE DIRECTED to continue to include identified budget right-sizing opportunities in a business case for inclusion in the Mayor’s proposed 2026 Budget Update;
 
 c)    the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix "A", as appended to the staff report dated May 22, 2025, and to bring forward the corresponding business case for inclusion in the Mayor’s proposed 2026 Budget Update; and
 
@@ -116,9 +116,9 @@ v)   Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residentia
 
 vi)  Appendix C, Ref # - 3    Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)
 
-vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands; 
+vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands;
 
-it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter. 
+it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter.
 
 ADDITIONAL VOTES:
 
@@ -134,7 +134,7 @@ a)    the report providing an update on development of the 2026 Annual Budget 
 
 b)    the Civic Administration BE DIRECTED to continue to include identified budget right-sizing opportunities in a business case for inclusion in the Mayor’s proposed 2026 Budget Update;
 
-it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter. 
+it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -340,7 +340,7 @@ Appendix B, Ref # - 6    Corporate Management – Resident Satisfaction Survey
 
 That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update:
 
-Appendix B, Ref # - 7    Human Resources – Internships 
+Appendix B, Ref # - 7    Human Resources – Internships
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -369,7 +369,7 @@ Appendix B, Ref # - 7    Human Resources – Internships 
 
 That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update:
 
-Appendix B, Ref # - 8    Information Technology – Digital Transformation 
+Appendix B, Ref # - 8    Information Technology – Digital Transformation
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -741,7 +741,7 @@ MA Hodge and B. Morrison, Climate Action London.
 
 > **Motion Passed (14 to 0)**
 
-ADDITIONAL VOTES: 
+ADDITIONAL VOTES:
 
 ****
 
@@ -750,8 +750,6 @@ ADDITIONAL VOTES: 
 > Seconded by P. Van Meerbergen
 
 That the Civic Administration BE DIRECTED to report back to a future meeting of the Budget Committee with a list of all approved future cycling lane projects, their location, timeline, budgeted capital costs, source of funding and estimated annual maintenance costs;
-
- 
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|

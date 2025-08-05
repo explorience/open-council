@@ -1,6 +1,6 @@
 ---
 title: 8th Meeting of the Strategic Priorities and Policy Committee
-
+date: 2025-06-17
 ---
 # 8th Meeting of the Strategic Priorities and Policy Committee
 
@@ -109,7 +109,7 @@ a)    the City-owned Parking Lot Redevelopment update provided in the report d
 
 b)    the Civic Administration BE DIRECTED to take no further action regarding the City-owned parking lots located at 434 Elizabeth Street and 824 Dundas Street; and
 
-c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct new dwelling units, to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs to report back to a meeting of Strategic Priorities and Policy Committee in Q4 2025. 
+c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct new dwelling units, to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs to report back to a meeting of Strategic Priorities and Policy Committee in Q4 2025.
 
 it be noted that the Strategic Priorities and Policy Committee received communications and heard delegations from K. Morrison, General Manager, Old East Village BIA and J. Herb with respect to this matter.
 
@@ -176,7 +176,7 @@ a)    the City-owned Parking Lot Redevelopment update provided in the report d
 
 b)    the Civic Administration BE DIRECTED to take no further action regarding the City-owned parking lots located at 434 Elizabeth Street and 824 Dundas Street; and
 
-c)  all pre-development land assembly activities to prepare the City-owned parking lot located at 641 Queens Avenue for a mid-rise form of redevelopment and related procurement processes related to this action BE REFERRED for consideration at the October 28, 2025 meeting of Strategic Priorities and Policy Committee in order to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs. 
+c)  all pre-development land assembly activities to prepare the City-owned parking lot located at 641 Queens Avenue for a mid-rise form of redevelopment and related procurement processes related to this action BE REFERRED for consideration at the October 28, 2025 meeting of Strategic Priorities and Policy Committee in order to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs.
 
 it be noted that the Strategic Priorities and Policy Committee received communications and heard delegations from K. Morrison, General Manager, Old East Village BIA and J. Herb with respect to this matter.
 
@@ -188,7 +188,7 @@ it be noted that the Strategic Priorities and Policy Committee received communic
 
 That part c) be amended to read as follows:
 
-c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct new dwelling units, to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs to report back to a meeting of Strategic Priorities and Policy Committee in Q4 2025 
+c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct new dwelling units, to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs to report back to a meeting of Strategic Priorities and Policy Committee in Q4 2025
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -245,7 +245,7 @@ That the motion, as amended, BE APPROVED.
 
 > Seconded by S. Trosow
 
-That it BE NOTED that the Strategic Priorities and Policy Committee heard a verbal delegation from J. Mascarin, Aird & Berlis, Interim Integrity Commissioner with respect to the role of the Integrity Commissioner. 
+That it BE NOTED that the Strategic Priorities and Policy Committee heard a verbal delegation from J. Mascarin, Aird & Berlis, Interim Integrity Commissioner with respect to the role of the Integrity Commissioner.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -283,7 +283,7 @@ a)  on the recommendation of the City Manager, the proposed by-law as appended 
 
 b)  the presentation by P. Squire, Board Chair and P. Chisholm, CEO, London & Middlesex Community Housing BE RECEIVED;
 
-c)  the 2024 Annual Report BE RECEIVED; 
+c)  the 2024 Annual Report BE RECEIVED;
 
 d)  the 2024 Financial Statements BE RECEIVED; and
 
@@ -359,7 +359,7 @@ Motion to approve parts a) and c):
 
 a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing”, BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025;
 
-c)  the 2024 Annual Report BE RECEIVED; 
+c)  the 2024 Annual Report BE RECEIVED;
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|

@@ -1,6 +1,6 @@
 ---
 title: 3rd Meeting of the Audit Committee
-
+date: 2025-06-18
 ---
 # 3rd Meeting of the Audit Committee
 
@@ -41,7 +41,7 @@ None.
 
 > Seconded by J. Pribil
 
-That pursuant to section 31.6 of the Council Procedure By-law, KPMG BE PERMITTED to speak an additional ten (10) minutes with respect to this matter. 
+That pursuant to section 31.6 of the Council Procedure By-law, KPMG BE PERMITTED to speak an additional ten (10) minutes with respect to this matter.
 
 > **Motion Passed**
 

@@ -139,7 +139,7 @@ ADDITIONAL VOTES:
 
 > Seconded by P. Van Meerbergen
 
-That pursuant to section 36.6 of the Council Procedure By-law, London Hydro Inc. BE PERMITTED to speak an additional five (5) minutes with respect to the London Hydro Inc. presentation and 2024 Annual Report.  
+That pursuant to section 36.6 of the Council Procedure By-law, London Hydro Inc. BE PERMITTED to speak an additional five (5) minutes with respect to the London Hydro Inc. presentation and 2024 Annual Report.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -312,7 +312,7 @@ b) the “2025 London and Middlesex Community Housing Asset Management Plan”, 
 
 i) a breakdown of the facilities conditions as noted in Figure 3.4 "Overall Condition" on a property-by-property basis; and
 
-ii) additional information addressing the infrastructure gap, as listed in section 4.2.2, including exploring the opportunity to obtain a loan (including a mortgage) on London and Middlesex Community Housing properties to secure additional funds; 
+ii) additional information addressing the infrastructure gap, as listed in section 4.2.2, including exploring the opportunity to obtain a loan (including a mortgage) on London and Middlesex Community Housing properties to secure additional funds;
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -345,11 +345,11 @@ That the following actions be taken with respect to Eldon House Board of Directo
 
 a)  the communication dated May 8, 2025 from J. O'Neil, Chair, Eldon House Board of Directors BE RECEIVED;
 
-b)  the appointment to the Eldon House Board of Directors of Devinder Luthra BE RESCINDED; 
+b)  the appointment to the Eldon House Board of Directors of Devinder Luthra BE RESCINDED;
 
-c)  a vacancy on the Eldon House Board of Directors BE DECLARED; 
+c)  a vacancy on the Eldon House Board of Directors BE DECLARED;
 
-d)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit applications for appointment to Eldon House with applications to be brought forward to a future meeting of the Strategic Priorities and Policy Committee for consideration. 
+d)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit applications for appointment to Eldon House with applications to be brought forward to a future meeting of the Strategic Priorities and Policy Committee for consideration.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|

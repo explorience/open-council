@@ -66,8 +66,9 @@ class Attachment:
       if meeting_type == "Council":
         # only create council meetings if they don't exist
         # otherwise, we would recursively create every single council meeting (since they link back to the previous)
-        exists = council_meeting_local_copy(self.date)
-        self.local_page = exists or process_meeting.process_meeting(self.date, meeting_type)
+        # exists = council_meeting_local_copy(self.date)
+        # self.local_page = exists or process_meeting.process_meeting(self.date, meeting_type)
+        pass
       else:
         self.local_page = process_meeting.process_meeting(self.date, meeting_type)
 

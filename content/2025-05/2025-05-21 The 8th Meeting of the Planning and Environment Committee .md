@@ -20,11 +20,11 @@ May 21, 2025, at  1:00 PM
 > [!abstract]- Remote Attendance:
 > Councillor S. Trosow; E. Bennett, E. Hunt, J. Stanford, E. Skalski, A. Yousfani
 
-This meeting was called to order at 1:06 PM. 
+This meeting was called to order at 1:06 PM.
 
 ## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-That it BE NOTED that no pecuniary interests were disclosed. 
+That it BE NOTED that no pecuniary interests were disclosed.
 
 ## 2.&nbsp;&nbsp;&nbsp;Consent
 
@@ -32,7 +32,7 @@ That it BE NOTED that no pecuniary interests were disclosed. 
 
 > Seconded by S. Hillier
 
-That Items 2.1 to 2.5 and 2.7 to 2.12 BE APPROVED. 
+That Items 2.1 to 2.5 and 2.7 to 2.12 BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -88,7 +88,7 @@ That the 1st Report of the Community Advisory Committee on Planning from its mee
 
 > Seconded by S. Hillier
 
-That the 2024 Canadian Home Builder’s Association Benchmarking Study referencing the highlights related to the City of London, BE RECEIVED. 
+That the 2024 Canadian Home Builder’s Association Benchmarking Study referencing the highlights related to the City of London, BE RECEIVED.
 
 > **Motion Passed**
 
@@ -102,7 +102,7 @@ That the 2024 Canadian Home Builder’s Association Benchmarking Study referenci
 
 > Seconded by S. Hillier
 
-That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the attached report on building permit fees collected and costs of administration and enforcement of the Building Code Act and Regulation for the year 2024, BE RECEIVED. 
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the attached report on building permit fees collected and costs of administration and enforcement of the Building Code Act and Regulation for the year 2024, BE RECEIVED.
 
 > **Motion Passed**
 
@@ -136,7 +136,7 @@ a)    the proposed by-law as appended to the staff report dated May 21, 2025, 
 
 b)    the City Clerk BE DIRECTED to provide notice of the by-law passing and undertake registration of the Deeming By-law, in accordance with the provisions in subsections 50(28) and 50(29) of the Planning Act.
 
-it being noted that the communication dated May 15, 2025, from D. Szpakowski, HPBIA related to this matter, was received. 
+it being noted that the communication dated May 15, 2025, from D. Szpakowski, HPBIA related to this matter, was received.
 
 > **Motion Passed**
 
@@ -226,9 +226,9 @@ b)    the Civic Administration BE DIRECTED to initiate a procurement process t
 
 
 
-c)    the funding for the Green Development Framework BE APPROVED as set out in the Source of Financing Report, as appended to the above-noted staff report as Appendix ‘A’; 
+c)    the funding for the Green Development Framework BE APPROVED as set out in the Source of Financing Report, as appended to the above-noted staff report as Appendix ‘A’;
 
-it being noted that the communication dated May 19, 2025, from B. Samuels related to this matter, was received. 
+it being noted that the communication dated May 19, 2025, from B. Samuels related to this matter, was received.
 
 > **Motion Passed**
 
@@ -250,7 +250,7 @@ a)    the Civic Administration BE DIRECTED to express an interest in these lan
 
 
 
-b)    this report BE RECEIVED. 
+b)    this report BE RECEIVED.
 
 > **Motion Passed**
 
@@ -282,7 +282,7 @@ b)    the proposed replacement of the east façade (Wellington Street) bronze 
 
 c)    the proposed like-for-like replacement of the east (Wellington Street), west, and south façade (Queens Avenue) aluminum frame plate glass windows on Building 4, BE APPROVED;
 
-d)    the proposed replacement of the west façade aluminum frame sash windows on Buildings 2 and 3, as submitted and shown in the drawings provided as appended to the above-noted staff report as Appendix E, Figures 19-23, BE APPROVED; and, 
+d)    the proposed replacement of the west façade aluminum frame sash windows on Buildings 2 and 3, as submitted and shown in the drawings provided as appended to the above-noted staff report as Appendix E, Figures 19-23, BE APPROVED; and,
 
 e)    the samples of the proposed replacement window finishes be provided to the Heritage Planner for review prior to installation;
 
@@ -294,7 +294,7 @@ it being further noted that a verbal delegation from D. Lecuyer, E. van der Maar
 
 
 
-it being also noted that the visual presentation as appended to the added agenda was received. 
+it being also noted that the visual presentation as appended to the added agenda was received.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -307,7 +307,7 @@ it being also noted that the visual presentation as appended to the added agenda
 
 > **Motion Passed (5 to 0)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -315,7 +315,7 @@ Additional Votes: 
 
 > Seconded by S. Hillier
 
-That the delegation requests from D. Lecuyer and E. van der Maarel, as appended to the Added Agenda BE APPROVED, to be heard at this time. 
+That the delegation requests from D. Lecuyer and E. van der Maarel, as appended to the Added Agenda BE APPROVED, to be heard at this time.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -338,9 +338,9 @@ That the delegation requests from D. Lecuyer and E. van der Maarel, as appended 
 
 > Seconded by S. Hillier
 
-That the 2nd Report of the Community Advisory Committee on Planning from its meeting held on May 15, 2025, BE RECEIVED; 
+That the 2nd Report of the Community Advisory Committee on Planning from its meeting held on May 15, 2025, BE RECEIVED;
 
-it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning and M. Wallace, with respect to this matter was received. 
+it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning and M. Wallace, with respect to this matter was received.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -352,7 +352,7 @@ it being noted that the verbal delegation from J. M. Metrailler, Chair, Communit
 
 > **Motion Passed (4 to 0)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -360,7 +360,7 @@ Additional Votes: 
 
 > Seconded by P. Cuddy
 
-That the delegation requests from J.M. Metrailler and M. Wallace, as appended to the Added Agenda BE APPROVED, to be heard at this time. 
+That the delegation requests from J.M. Metrailler and M. Wallace, as appended to the Added Agenda BE APPROVED, to be heard at this time.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -387,7 +387,7 @@ That the delegation requests from J.M. Metrailler and M. Wallace, as appended to
 
 That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2823522 Ontario Inc. (c/o Randy Mackay) relating to the property located at 20 Clarke Road:
 
-a)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject property FROM an Urban Reserve (UR1) Zone and a Restricted Service Commercial (RSC6) Zone, TO a Residential R5 Special Provision (R5-7(*)) Zone, a Holding Residential R5 Special Provision (h-8*h-(_)*R5-7(**)) Zone, a Holding Residential R4 Special Provision (h-(_)*R4-6(*)) Zone, a Residential R1 (R1-3) Zone, a Holding Residential R1 Special Provision (h-(_)*R1-1(3)) Zone, and a Urban Reserve (UR1) Zone; and, 
+a)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject property FROM an Urban Reserve (UR1) Zone and a Restricted Service Commercial (RSC6) Zone, TO a Residential R5 Special Provision (R5-7(*)) Zone, a Holding Residential R5 Special Provision (h-8*h-(_)*R5-7(**)) Zone, a Holding Residential R4 Special Provision (h-(_)*R4-6(*)) Zone, a Residential R1 (R1-3) Zone, a Holding Residential R1 Special Provision (h-(_)*R1-1(3)) Zone, and a Urban Reserve (UR1) Zone; and,
 
 b)    the Subdivision Approval Authority BE REQUESTED to consider the following issues through the subdivision approval process as draft plan condition(s):
 
@@ -439,7 +439,7 @@ it being pointed out that the following individuals made verbal presentations at
 
 -    L. Gerrard; and, 
 
--    V. Warwick; 
+-    V. Warwick;
 
 it being noted that the Municipal Council approves this application for the following reasons:
 
@@ -453,7 +453,7 @@ it being noted that the Municipal Council approves this application for the foll
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -461,7 +461,7 @@ Additional Votes: 
 
 > Seconded by P. Cuddy
 
-That the motion be amended to include new subclauses iv) and v) to part b) to read as follows: 
+That the motion be amended to include new subclauses iv) and v) to part b) to read as follows:
 
 iv)    a road access to Clarke Road from the western limit of the draft plan and that the road access arrangements be reviewed by the Applicant to determine if a full access or restricted access is permitted in this location; and, 
 
@@ -485,7 +485,7 @@ v)    the road access be constructed as part of the proposed development at 20
 
 > Seconded by S. Hillier
 
-That the motion, as amended, be approved. 
+That the motion, as amended, be approved.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -504,7 +504,7 @@ That the motion, as amended, be approved. 
 
 > Seconded by E. Peloza
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -522,7 +522,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by S. Hillier
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -549,7 +549,7 @@ That, on the recommendation of the Director, Planning and Development, the follo
 
 Road:
 
-a)    the revised by-law, attached as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend the Southwest Area Plan (SWAP), by ADDING a site-specific policy to the Medium Density Residential policies in the North Lambeth Residential Neighbourhood; and, 
+a)    the revised by-law, attached as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend the Southwest Area Plan (SWAP), by ADDING a site-specific policy to the Medium Density Residential policies in the North Lambeth Residential Neighbourhood; and,
 
 b)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No.Z.-1, (in conformity with the Official Plan for the City of London, 2016) to amend the zoning of the subject property FROM a Holding Residential R8 Special Provision (h-9*R8-4(76)) Zone TO a Residential R8 Special Provision (R8-4(76)) Zone;
 
@@ -590,7 +590,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (5 to 0)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -598,7 +598,7 @@ Additional Votes: 
 
 > Seconded by P. Cuddy
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -617,7 +617,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by S. Hillier
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -672,7 +672,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (4 to 1)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -680,7 +680,7 @@ Additional Votes: 
 
 > Seconded by S. Hillier
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -699,7 +699,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by S. Hillier
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -744,7 +744,7 @@ ii)    revise Map 4 – Active Mobility Network of The London Plan to realign 
 
 iii)    add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys; and, 
 
-iv)    add Block 2, Block 3 and Block 4 of the subject lands to Map 7 – Specific Policy Areas of The London Plan; 
+iv)    add Block 2, Block 3 and Block 4 of the subject lands to Map 7 – Specific Policy Areas of The London Plan;
 
 b)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016, as amended in part a) above) to change the zoning of the subject property FROM a Holding Urban Reserve (h- 1*UR1) Zone TO Residential R5 Special Provision (R5-7(*)) Zone, Residential R5/R6 Special Provision (R5-7(**)/R6-5(*)) Zones, Residential R4/R5/R6/R9 Special Provision (R4-4(*)/R5-7(**)/R6-5(**)/R9-5(*)) Zones, Residential R10 Special provision (R10-4(*)) Zone, Open Space OS1 and Open Space OS5 Zones;
 
@@ -797,7 +797,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (3 to 2)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -805,7 +805,7 @@ Additional Votes: 
 
 > Seconded by P. Cuddy
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -824,7 +824,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by P. Cuddy
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -898,7 +898,7 @@ it being further noted that the Municipal Council approves this application for 
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -906,11 +906,11 @@ Additional Votes: 
 
 > Seconded by P. Cuddy
 
-That the motion be amended to include a new subclause vi) in part c), and a new part d) to read as follows: 
+That the motion be amended to include a new subclause vi) in part c), and a new part d) to read as follows:
 
 vi)    Explore opportunities for fencing, including the retention or repair of existing fencing, along mutual property lines and designated snow storage areas.
 
-d)    The applicant BE REQUESTED to ensure existing fencing along the west property boundary of 17-19 Wistow Street is repaired, as necessary. 
+d)    The applicant BE REQUESTED to ensure existing fencing along the west property boundary of 17-19 Wistow Street is repaired, as necessary.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -928,7 +928,7 @@ d)    The applicant BE REQUESTED to ensure existing fencing along the west pro
 
 > Seconded by P. Cuddy
 
-That the motion, as amended, be approved. 
+That the motion, as amended, be approved.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -946,7 +946,7 @@ That the motion, as amended, be approved. 
 
 > Seconded by P. Cuddy
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -964,7 +964,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by S. Hillier
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -1006,47 +1006,47 @@ Motion to close the public participation meeting. 
 
 > Seconded by S. Hillier
 
-That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 Ann Street), Brewer’s House (183 Ann Street), and workers’ cottages (179 Ann Street, 175 Ann Street, 86 St George Street, and 84 St George Street) on the heritage designated property at 197 Ann Street BE CONSENTED TO the following terms and conditions: 
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 Ann Street), Brewer’s House (183 Ann Street), and workers’ cottages (179 Ann Street, 175 Ann Street, 86 St George Street, and 84 St George Street) on the heritage designated property at 197 Ann Street BE CONSENTED TO the following terms and conditions:
 
-a)    regarding salvage that will be applied to future commemoration and interpretation for a proposed development on the subject lands: 
+a)    regarding salvage that will be applied to future commemoration and interpretation for a proposed development on the subject lands:
 
- i)    prior to demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025): 
+i)    prior to demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025):
 
-A) two (2) light fixtures on the Kent Brewery building at 197 Ann Street; 
+A) two (2) light fixtures on the Kent Brewery building at 197 Ann Street;
 
-B) two (2) wood windows, including frames from the existing building at 197 Ann Street; 
+B) two (2) wood windows, including frames from the existing building at 197 Ann Street;
 
-C) double-leaf door and carved jamb moulding from the principal entrance on the north  façade of the Brewer’s House at 183 Ann Street; 
+C) double-leaf door and carved jamb moulding from the principal entrance on the north  façade of the Brewer’s House at 183 Ann Street;
 
-D) stained glass transom above the principal entrance on the north façade of the Brewer’s House at 183 Ann Street; and,  
+D) stained glass transom above the principal entrance on the north façade of the Brewer’s House at 183 Ann Street; and,
 
-E) wood panelled secondary entrance door on the east façade of the Brewer’s House at 183 Ann Street; 
+E) wood panelled secondary entrance door on the east façade of the Brewer’s House at 183 Ann Street;
 
-ii)    during demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025): 
+ii)    during demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025):
 
 A) stone masonry from the Kent Brewery building at 197 Ann Street; 
 
 
 
-B) wood corbels, modillions, and dentil moulding, and other wood detailing including the east gable and west bay window from the exterior of the Brewer’s House at 183 Ann Street; 
+B) wood corbels, modillions, and dentil moulding, and other wood detailing including the east gable and west bay window from the exterior of the Brewer’s House at 183 Ann Street;
 
-C) wooden banister and newel post from the interior of the Brewer’s House at 183 Ann Street; 
+C) wooden banister and newel post from the interior of the Brewer’s House at 183 Ann Street;
 
-D) a minimum of 900 square feet of brick masonry that is of suitable quality and finish to accomplish the proposed commemorative installations shall be salvaged from the existing buildings on the subject property, i. A minimum of 250 square feet of brick masonry salvaged from the Kent Brewery building at 197 Ann Street is required; 
+D) a minimum of 900 square feet of brick masonry that is of suitable quality and finish to accomplish the proposed commemorative installations shall be salvaged from the existing buildings on the subject property, i. A minimum of 250 square feet of brick masonry salvaged from the Kent Brewery building at 197 Ann Street is required;
 
-b)    regarding commemoration and interpretation: 
+b)    regarding commemoration and interpretation:
 
-i)    the following commemorative and interpretive features shall be installed by the owner at the completion of construction and prior to the release of any securities held by the City of London in conjunction with the Development Agreement required for the proposed development on the subject lands: 
+i)    the following commemorative and interpretive features shall be installed by the owner at the completion of construction and prior to the release of any securities held by the City of London in conjunction with the Development Agreement required for the proposed development on the subject lands:
 
-A) commemorative and interpretive concepts and text be revised, to the satisfaction of the Director, Planning and Development, to include direct and specific reference to the Kent Brewery, the Brewer’s House, and the workers’ cottages, as well as their interrelationship as a Victorian industrial complex; 
+A) commemorative and interpretive concepts and text be revised, to the satisfaction of the Director, Planning and Development, to include direct and specific reference to the Kent Brewery, the Brewer’s House, and the workers’ cottages, as well as their interrelationship as a Victorian industrial complex;
 
-B) at least one interpretive panel and a reproduction of the circa 1905 photograph of the Kent Brewery as a perforated and illuminated stainless-steel panel be installed on the crash wall of the north elevation of the proposed building, along Ann Street, in a location accessible and visible to the public as shown as appended to the above mentioned staff report as Appendix “E”; 
+B) at least one interpretive panel and a reproduction of the circa 1905 photograph of the Kent Brewery as a perforated and illuminated stainless-steel panel be installed on the crash wall of the north elevation of the proposed building, along Ann Street, in a location accessible and visible to the public as shown as appended to the above mentioned staff report as Appendix “E”;
 
-C) reclaimed brick masonry be installed in the internal courtyard as shown in the above-mentioned staff report as Appendix “E”; 
+C) reclaimed brick masonry be installed in the internal courtyard as shown in the above-mentioned staff report as Appendix “E”;
 
-D) reclaimed brick masonry, as well as light fixtures, double-leaf doors, and transom, be installed as part of the entrance along the west elevation of the proposed building as shown in the above-noted staff report as Appendix “E”; 
+D) reclaimed brick masonry, as well as light fixtures, double-leaf doors, and transom, be installed as part of the entrance along the west elevation of the proposed building as shown in the above-noted staff report as Appendix “E”;
 
-E) at least one interpretive panel be installed on the west elevation of the proposed building, in a location accessible and visible to the public; and, 
+E) at least one interpretive panel be installed on the west elevation of the proposed building, in a location accessible and visible to the public; and,
 
 F) items and materials salvaged from the existing buildings be prioritized for reuse in the proposed building; 
 
@@ -1084,7 +1084,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (4 to 1)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -1092,7 +1092,7 @@ Additional Votes: 
 
 > Seconded by P. Cuddy
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -1110,7 +1110,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by P. Cuddy
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -1135,7 +1135,7 @@ Motion to close the public participation meeting. 
 
 That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kimko Inc. and 20223388 Holdings Inc. (c/o Zelinka Priamo) relating to the properties located at 299-307 Sarnia Road:
 
-a)    the revised by-law, attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject lands FROM a Residential R1 (R1-10) Zone TO a Holding Residential R9 Special Provision (h-8*R9-7(_)*H20 Zone); to include an h-101 holding provision - Public Site Plan Non- Statutory meeting; 
+a)    the revised by-law, attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject lands FROM a Residential R1 (R1-10) Zone TO a Holding Residential R9 Special Provision (h-8*R9-7(_)*H20 Zone); to include an h-101 holding provision - Public Site Plan Non- Statutory meeting;
 
 b)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:
 
@@ -1183,7 +1183,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (4 to 0)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -1191,7 +1191,7 @@ Additional Votes: 
 
 > Seconded by S. Hillier
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -1210,7 +1210,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by P. Cuddy
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -1240,7 +1240,7 @@ b)    a nominal fee BE TAKEN for the new application to cover notice requireme
 
 
 
-it being noted that the Planning and Environment Committee received the following communication with respect to this matter: 
+it being noted that the Planning and Environment Committee received the following communication with respect to this matter:
 
 -    L. Jamieson, Zelinka Priamo; 
 
@@ -1248,7 +1248,25 @@ it being noted that the Planning and Environment Committee received the followin
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
- 
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |S. Hillier|Mayor J. Morgan|
+> |E. Peloza|S. Lewis|
+> |S. Lehman||
+> |P. Cuddy||
+
+> **Motion Passed (4 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Hillier
+
+> Seconded by P. Cuddy
+
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -1260,33 +1278,13 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (4 to 0)**
 
-Additional Votes: 
-
 ****
 
 > Moved by S. Hillier
 
 > Seconded by P. Cuddy
 
-Motion to open the public participation meeting. 
-
-> [!abstract]- Vote:
-> |Yeas:|Absent:|
-> |-|-|
-> |S. Hillier|Mayor J. Morgan|
-> |E. Peloza|S. Lewis|
-> |S. Lehman||
-> |P. Cuddy||
-
-> **Motion Passed (4 to 0)**
-
-****
-
-> Moved by S. Hillier
-
-> Seconded by P. Cuddy
-
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -1332,11 +1330,11 @@ That the Deferred Matters List BE REVEIVED.
 
 > Seconded by P. Cuddy
 
-That the meeting BE ADJOURNED. 
+That the meeting BE ADJOURNED.
 
 > **Motion Passed**
 
-The meeting adjourned at 5:15 PM. 
+The meeting adjourned at 5:15 PM.
 
 ****
 

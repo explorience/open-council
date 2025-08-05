@@ -1,6 +1,6 @@
 ---
 title: 3rd Meeting of the Budget Committee
-
+date: 2025-06-11
 ---
 # 3rd Meeting of the Budget Committee
 
@@ -344,7 +344,7 @@ Additional Votes:
 
 > Seconded by P. Van Meerbergen
 
-That the Civic Administration BE DIRECTED to prepare a Business Case for Council’s consideration that reduces the annual budget for the Advisory Committees. This report will include a detailed breakdown of the new recommended budget amount and any options available for cost savings; it being noted that the Budget Committee received a communication dated June 1, 2025 from Councillor S. Stevenson and a communication dated June 10, 2025 from B. Samuels, Member, Environmental Stewardship and Action Community Advisory Committee with respect to this matter. 
+That the Civic Administration BE DIRECTED to prepare a Business Case for Council’s consideration that reduces the annual budget for the Advisory Committees. This report will include a detailed breakdown of the new recommended budget amount and any options available for cost savings; it being noted that the Budget Committee received a communication dated June 1, 2025 from Councillor S. Stevenson and a communication dated June 10, 2025 from B. Samuels, Member, Environmental Stewardship and Action Community Advisory Committee with respect to this matter.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -574,7 +574,7 @@ That the meeting BE ADJOURNED.
 
 > **Motion Passed**
 
-The meeting adjourned at 1:24 PM. 
+The meeting adjourned at 1:24 PM.
 
 ****
 

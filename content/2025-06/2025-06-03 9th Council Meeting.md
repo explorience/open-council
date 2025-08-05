@@ -20,11 +20,11 @@ June 3, 2025, at  1:00 PM
 > [!abstract]- Remote Attendance:
 > S. Lewis; E. Bennett, I. Collins, C. Cooper, S. Glover, K. Gonyou, E. Hunt, J. Ireland, K. Murray
 
-The meeting is called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis was in remote attendance. 
+The meeting is called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis was in remote attendance.
 
 ## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-That it BE NOTED Councillor H. McAlister discloses a pecuniary interest in item 7, clause 2.6 of the 8th Report of the Planning and Environment Committee, having to do with the Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District HAP2 by indicating that he is on leave from his employer, Canada Life. 
+That it BE NOTED Councillor H. McAlister discloses a pecuniary interest in item 7, clause 2.6 of the 8th Report of the Planning and Environment Committee, having to do with the Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District HAP2 by indicating that he is on leave from his employer, Canada Life.
 
 That it BE FURTHER NOTED Councillor S. Franke discloses a pecuniary interest in item 13, clause 2.12 of the 8th Report of the Planning and Environment Committee, having to do with Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School) by indicating that her spouse is employed by the TVDSB.
 
@@ -82,7 +82,7 @@ That Council convenes in Closed Session from 1:17 PM to 1:28 PM.
 
 That Council rise and go into Council, In Closed Session, for the purpose of considering the following:
 
-4.2    Litigation/Potential Litigation / Solicitor-Client Privileged Advice  
+4.2    Litigation/Potential Litigation / Solicitor-Client Privileged Advice
 
 A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with respect to the London and Middlesex Community Housing Asset Management Plan. (4.2/7/SPPC)
 
@@ -112,7 +112,7 @@ That Council convenes in Closed Session from 2:30 PM to 2:41 PM.
 
 That Council convenes In Closed session for the purpose of considering the following:
 
-4.3    Litigation/Potential Litigation / Solicitor-Client Privileged Advice  
+4.3    Litigation/Potential Litigation / Solicitor-Client Privileged Advice
 
 A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with respect to the Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street. (4.3/9/CPSC)
 
@@ -141,7 +141,7 @@ That Council convenes in Closed Session from 4:22 PM to 4:41 PM.
 
 ### 5.1&nbsp;&nbsp;&nbsp;8th Meeting held on May 13, 2025
 
-[2025-05-13 Council Minutes](</2025-05/2025-05-13 8th Council Meeting.md>)
+[2025-05-13 Council Minutes](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117363>)
 
 > Motion made by D. Ferreira
 
@@ -167,7 +167,7 @@ That the Minutes of the 8th Meeting of the Municipal Council, held on May 13, 20
 > |D. Ferreira||
 > |C. Rahman||
 
-> ** (14 to 0)**
+> **(14 to 0)**
 
 ****
 
@@ -179,7 +179,7 @@ That the Minutes of the 8th Meeting of the Municipal Council, held on May 13, 20
 
 That the following communications BE RECEIVED, and BE REFERRED as noted on the Added Agenda:
 
-6.3    Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block  
+6.3    Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block
 
 1.    C. Ryan        
 
@@ -201,19 +201,19 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
    
 
-6.4    Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson        
+6.4    Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
 
 1.    R. Stevens, Mobility 1st     
 
    
 
-6.5    (ADDED) 20 Clarke Road (Z-25038)    
+6.5    (ADDED) 20 Clarke Road (Z-25038)
 
 1.    D. Litt        
 
 
 
-6.6    (ADDED) 1890 and 1900 Kilgorman Way (Z-25045)  
+6.6    (ADDED) 1890 and 1900 Kilgorman Way (Z-25045)
 
 1.    M. Moussa 
 
@@ -287,7 +287,7 @@ i)    the subject lands are required by The Corporation of the City of London 
 
 ii)    the design of the project will address the current and future transportation demands along the corridor; and
 
-iii)    the design is in accordance with the Municipal Class Environmental Assessment Study recommendations for the Wellington Gateway Project approved by Municipal Council at the meeting held on May 21, 2019; 
+iii)    the design is in accordance with the Municipal Class Environmental Assessment Study recommendations for the Wellington Gateway Project approved by Municipal Council at the meeting held on May 21, 2019;
 
 b)    subject to the approval of a) above, a certificate of approval BE ISSUED by the City Clerk on behalf of the Approving Authority in the prescribed form.
 
@@ -354,7 +354,7 @@ a)    the proposed by-law, as appended to the staff report dated June 3, 2025 
 
 b)    the Civic Administration BE DIRECTED to take all necessary steps to prepare a plan or plans showing the Expropriated Lands and to register such plan or plans in the appropriate registry or land titles office, pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, within three (3) months of the Approving Authority granting approval of the said expropriation;
 
-c)    the Mayor and the City Clerk BE AUTHORIZED to sign on behalf of the Expropriating Authority, the plan or plans as signed by an Ontario Land Surveyor showing the Expropriated Lands; and    
+c)    the Mayor and the City Clerk BE AUTHORIZED to sign on behalf of the Expropriating Authority, the plan or plans as signed by an Ontario Land Surveyor showing the Expropriated Lands; and
 
 d)    the City Clerk BE AUTHORIZED AND DIRECTED to execute and serve the notices of expropriation required by the Expropriations Act, R.S.O. 1990, c. E.26 and such notices of possession that may be required to obtain possession of the Expropriated Lands.
 
@@ -419,13 +419,13 @@ That the 8th Report of the Planning and Environment Committee BE APPROVED with t
 
 > Motion made by S. Lehman
 
-That it BE NOTED that no pecuniary interests were disclosed. 
+That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) 1st Report of the Community Advisory Committee on Planning
+#### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211st-report-of-the-community-advisory-committee-on-planning>) 1st Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -435,27 +435,27 @@ That the 1st Report of the Community Advisory Committee on Planning from its mee
 
 ****
 
-#### 8.1.3&nbsp;&nbsp;&nbsp;(2.2) 2024 Canadian Home Builders’ Association Benchmarking Study 
+#### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #222024-canadian-home-builders-association-benchmarking-study>) 2024 Canadian Home Builders’ Association Benchmarking Study 
 
 > Motion made by S. Lehman
 
-That the 2024 Canadian Home Builder’s Association Benchmarking Study referencing the highlights related to the City of London, BE RECEIVED. 
+That the 2024 Canadian Home Builder’s Association Benchmarking Study referencing the highlights related to the City of London, BE RECEIVED.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.4&nbsp;&nbsp;&nbsp;(2.3) 2024 Annual Report on Building Permit Fees
+#### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #232024-annual-report-on-building-permit-fees>) 2024 Annual Report on Building Permit Fees
 
 > Motion made by S. Lehman
 
-That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the attached report on building permit fees collected and costs of administration and enforcement of the Building Code Act and Regulation for the year 2024, BE RECEIVED. 
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the attached report on building permit fees collected and costs of administration and enforcement of the Building Code Act and Regulation for the year 2024, BE RECEIVED.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.5&nbsp;&nbsp;&nbsp;(2.4) Administrative Monetary Penalty System By-Law -Site Alteration (Relates to Bill No. 193) 
+#### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #24administrative-monetary-penalty-system-by-law---site-alteration>) Administrative Monetary Penalty System By-Law -Site Alteration (Relates to Bill No. 193) 
 
 > Motion made by S. Lehman
 
@@ -465,7 +465,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.6&nbsp;&nbsp;&nbsp;(2.5) 1364-1408 Hyde Park Road Deeming By-law (Relates to Bill No. 194) 
+#### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #251364-1408-hyde-park-road-deeming-by-law>) 1364-1408 Hyde Park Road Deeming By-law (Relates to Bill No. 194) 
 
 > Motion made by S. Lehman
 
@@ -481,13 +481,13 @@ b)    the City Clerk BE DIRECTED to provide notice of the by-law passing and u
 
 
 
-it being noted that the communication dated May 15, 2025, from D. Szpakowski, HPBIA related to this matter, was received. 
+it being noted that the communication dated May 15, 2025, from D. Szpakowski, HPBIA related to this matter, was received.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.8&nbsp;&nbsp;&nbsp;(2.7) Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
+#### 8.1.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #27housing-accelerator-fund--amendment-to-contribution-agreement-and-additional-initiatives>) Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
 
 > Motion made by S. Lehman
 
@@ -497,7 +497,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.9&nbsp;&nbsp;&nbsp;(2.8) Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
+#### 8.1.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #28housing-and-community-growth-climate-emergency-action-plan-action-tracker-update>) Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
 
 > Motion made by S. Lehman
 
@@ -511,7 +511,7 @@ b)    the listed Climate Emergency Action Plan Action Items as appended to the
 
 ****
 
-#### 8.1.10&nbsp;&nbsp;&nbsp;(2.9) Building Services Report - Quarter 1 2025
+#### 8.1.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #29building-services-report---quarter-1-2025>) Building Services Report - Quarter 1 2025
 
 > Motion made by S. Lehman
 
@@ -521,7 +521,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.11&nbsp;&nbsp;&nbsp;(2.10) Quarterly Heritage Report – Q1 2025
+#### 8.1.11&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #210quarterly-heritage-report--q1-2025>) Quarterly Heritage Report – Q1 2025
 
 > Motion made by S. Lehman
 
@@ -531,7 +531,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.14&nbsp;&nbsp;&nbsp;(2.13) 2nd Report of the Community Advisory Committee on Planning
+#### 8.1.14&nbsp;&nbsp;&nbsp;[(2.13)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #213added-2nd-report-of-the-community-advisory-committee-on-planning>) 2nd Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -539,13 +539,13 @@ That the 2nd Report of the Community Advisory Committee on Planning from its mee
 
  
 
-it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning and M. Wallace, with respect to this matter was received. 
+it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning and M. Wallace, with respect to this matter was received.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.16&nbsp;&nbsp;&nbsp;(3.2) 3510-3524 Colonel Talbot Road (OZ-25033) (Relates to Bill No.'s 195 and 241) 
+#### 8.1.16&nbsp;&nbsp;&nbsp;[(3.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #323510-3524-colonel-talbot-road-oz-25033>) 3510-3524 Colonel Talbot Road (OZ-25033) (Relates to Bill No.'s 195 and 241) 
 
 > Motion made by S. Lehman
 
@@ -553,7 +553,7 @@ That, on the recommendation of the Director, Planning and Development, the follo
 
 Road:
 
-a)    the revised by-law, attached as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend the Southwest Area Plan (SWAP), by ADDING a site-specific policy to the Medium Density Residential policies in the North Lambeth Residential Neighbourhood; and, 
+a)    the revised by-law, attached as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend the Southwest Area Plan (SWAP), by ADDING a site-specific policy to the Medium Density Residential policies in the North Lambeth Residential Neighbourhood; and,
 
 b)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No.Z.-1, (in conformity with the Official Plan for the City of London, 2016) to amend the zoning of the subject property FROM a Holding Residential R8 Special Provision (h-9*R8-4(76)) Zone TO a Residential R8 Special Provision (R8-4(76)) Zone;
 
@@ -581,7 +581,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.22&nbsp;&nbsp;&nbsp;(3.8) 3334-3354 Wonderland Road South (OZ-25034)
+#### 8.1.22&nbsp;&nbsp;&nbsp;[(3.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #383334-3354-wonderland-road-south-oz-25034>) 3334-3354 Wonderland Road South (OZ-25034)
 
 > Motion made by S. Lehman
 
@@ -589,11 +589,11 @@ That, on the recommendation of the Director, Planning and Development, the follo
 
 a)    that the Civic Administration BE DIRECTRED to work with the applicant on a new application; and,
 
-b)    a nominal fee BE TAKEN for the new application to cover notice requirements only; 
+b)    a nominal fee BE TAKEN for the new application to cover notice requirements only;
 
-it being noted that the Planning and Environment Committee received the following communication with respect to this matter: 
+it being noted that the Planning and Environment Committee received the following communication with respect to this matter:
 
--    L. Jamieson, Zelinka Priamo; 
+-    L. Jamieson, Zelinka Priamo;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -601,7 +601,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.23&nbsp;&nbsp;&nbsp;(5.1) Deferred Matters List
+#### 8.1.23&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #51deferred-matters-list>) Deferred Matters List
 
 > Motion made by S. Lehman
 
@@ -611,7 +611,7 @@ That the Deferred Matters List BE REVEIVED.
 
 ****
 
-#### 8.1.7&nbsp;&nbsp;&nbsp;(2.6) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+#### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #26heritage-alteration-permit-application-by-the-canada-life-assurance-company-for-255-dufferin-avenue-downtown-heritage-conservation-district-hap25-024-l>) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
 
 > Motion made by S. Lehman
 
@@ -623,13 +623,13 @@ b)    the proposed replacement of the east façade (Wellington Street) bronze 
 
 c)    the proposed like-for-like replacement of the east (Wellington Street), west, and south façade (Queens Avenue) aluminum frame plate glass windows on Building 4, BE APPROVED;
 
-d)    the proposed replacement of the west façade aluminum frame sash windows on Buildings 2 and 3, as submitted and shown in the drawings provided as appended to the above-noted staff report as Appendix E, Figures 19-23, BE APPROVED; and, 
+d)    the proposed replacement of the west façade aluminum frame sash windows on Buildings 2 and 3, as submitted and shown in the drawings provided as appended to the above-noted staff report as Appendix E, Figures 19-23, BE APPROVED; and,
 
 e)    the samples of the proposed replacement window finishes be provided to the Heritage Planner for review prior to installation;
 
 it being noted that the proposed replacement of the west façade aluminum frame sash windows on Buildings 2 and 3 do not comply with the Principles, Goals & Objectives, and Design Guidelines of the Downtown Heritage Conservation District Plan, do not conform to the policy direction of The London Plan, and are not consistent with the Provincial Planning Statement (2024).
 
-it being further noted that a verbal delegation from D. Lecuyer, E. van der Maarel and M. Wallace, with respect to this matter was received; 
+it being further noted that a verbal delegation from D. Lecuyer, E. van der Maarel and M. Wallace, with respect to this matter was received;
 
 it being also noted that the visual presentation as appended to the added agenda was received.
 
@@ -653,7 +653,7 @@ it being also noted that the visual presentation as appended to the added agenda
 
 ****
 
-#### 8.1.12&nbsp;&nbsp;&nbsp;(2.11) Update on Green Development Guidelines (Framework)
+#### 8.1.12&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211update-on-green-development-guidelines-framework>) Update on Green Development Guidelines (Framework)
 
 > Motion made by S. Lehman
 
@@ -693,15 +693,15 @@ it being noted that the communication dated May 19, 2025, from B. Samuels relate
 
 ****
 
-#### 8.1.13&nbsp;&nbsp;&nbsp;(2.12) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
+#### 8.1.13&nbsp;&nbsp;&nbsp;[(2.12)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #212added-surplus-school-sites-expression-of-interest-70-jacqueline-street-former-ga-wheable-adult-and-continuing-education-centre-and-1366-huron-street-severance-of-surplus-land-from-st-anne-catholic-school>) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
 
 > Motion made by S. Lehman
 
-That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, related to the communication from the Ministry of Municipal Affairs & Housing for the surplus school sites at 70 Jacqueline Street and 1366 Huron Street: 
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, related to the communication from the Ministry of Municipal Affairs & Housing for the surplus school sites at 70 Jacqueline Street and 1366 Huron Street:
 
-a)    the Civic Administration BE DIRECTED to express an interest in these lands for the purposes of providing the identified municipal needs of affordable housing, community facilities, and parkland; and, 
+a)    the Civic Administration BE DIRECTED to express an interest in these lands for the purposes of providing the identified municipal needs of affordable housing, community facilities, and parkland; and,
 
-b)    this report BE RECEIVED. 
+b)    this report BE RECEIVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Recuse:|Absent:|
@@ -724,13 +724,13 @@ b)    this report BE RECEIVED. 
 
 ****
 
-#### 8.1.15&nbsp;&nbsp;&nbsp;(3.1) 20 Clarke Road (Z-25038) (Relates to Bill No. 240) 
+#### 8.1.15&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #3120-clarke-road-z-25038>) 20 Clarke Road (Z-25038) (Relates to Bill No. 240) 
 
 > Motion made by S. Lehman
 
 That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2823522 Ontario Inc. (c/o Randy Mackay) relating to the property located at 20 Clarke Road:
 
-a)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject property FROM an Urban Reserve (UR1) Zone and a Restricted Service Commercial (RSC6) Zone, TO a Residential R5 Special Provision (R5-7(*)) Zone, a Holding Residential R5 Special Provision (h-8*h-(_)*R5-7(**)) Zone, a Holding Residential R4 Special Provision (h-(_)*R4-6(*)) Zone, a Residential R1 (R1-3) Zone, a Holding Residential R1 Special Provision (h-(_)*R1-1(3)) Zone, and a Urban Reserve (UR1) Zone; and, 
+a)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject property FROM an Urban Reserve (UR1) Zone and a Restricted Service Commercial (RSC6) Zone, TO a Residential R5 Special Provision (R5-7(*)) Zone, a Holding Residential R5 Special Provision (h-8*h-(_)*R5-7(**)) Zone, a Holding Residential R4 Special Provision (h-(_)*R4-6(*)) Zone, a Residential R1 (R1-3) Zone, a Holding Residential R1 Special Provision (h-(_)*R1-1(3)) Zone, and a Urban Reserve (UR1) Zone; and,
 
 b)    the Subdivision Approval Authority BE REQUESTED to consider the following issues through the subdivision approval process as draft plan condition(s):
 
@@ -750,9 +750,9 @@ Plan to ensure protection;
 
 ii)    the Applicant shall prepare and submit an Ecological Replacement and Compensation Plan, as a condition of draft approval during detailed design, to the satisfaction of the City of London; and,
 
-iii)    the Applicant shall prepare and submit an Environmental Management Plan as a condition of draft approval during detailed design, to the satisfaction of the City of London; 
+iii)    the Applicant shall prepare and submit an Environmental Management Plan as a condition of draft approval during detailed design, to the satisfaction of the City of London;
 
-iv)    a road access to Clarke Road from the western limit of the draft plan and that the road access arrangements be reviewed by the Applicant to determine if a full access or restricted access is permitted in this location; and, 
+iv)    a road access to Clarke Road from the western limit of the draft plan and that the road access arrangements be reviewed by the Applicant to determine if a full access or restricted access is permitted in this location; and,
 
 v)    the road access be constructed as part of the proposed development at 20 Clarke Road;
 
@@ -778,7 +778,7 @@ it being pointed out that the following individuals made verbal presentations at
 
 -    L. Gerrard; and, 
 
--    V. Warwick; 
+-    V. Warwick;
 
 it being noted that the Municipal Council approves this application for the following reasons:
 
@@ -786,7 +786,7 @@ it being noted that the Municipal Council approves this application for the foll
 
 -    the recommended amendment conforms to The London Plan, including, but not limited to the Neighbourhoods Place Type, City Building, and Environmental Policies; and, 
 
--    the recommended amendment facilitates residential intensification within the Built-Area Boundary and will ensure no net loss to the Natural Heritage System, if the Significant Woodland compensation measures noted above are implemented; 
+-    the recommended amendment facilitates residential intensification within the Built-Area Boundary and will ensure no net loss to the Natural Heritage System, if the Significant Woodland compensation measures noted above are implemented;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -808,7 +808,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.17&nbsp;&nbsp;&nbsp;(3.3) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
+#### 8.1.17&nbsp;&nbsp;&nbsp;[(3.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #331890--1900-kilgorman-way-z-25045>) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
 
 > Motion made by S. Lehman
 
@@ -818,7 +818,7 @@ it being pointed out that the following individuals made verbal presentations at
 
 -    J. Gaudet, MHBC; and, 
 
--    M. Mousa; 
+-    M. Mousa;
 
 it being noted that the Municipal Council approves this application for the following reasons:
 
@@ -848,7 +848,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.18&nbsp;&nbsp;&nbsp;(3.4) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243) 
+#### 8.1.18&nbsp;&nbsp;&nbsp;[(3.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #34168-meadowlily-road-south-oz-9763>) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243) 
 
 > Motion made by S. Lehman
 
@@ -860,9 +860,9 @@ i)    change designation on a portion of the subject lands on Map 1 – Place 
 
 ii)    revise Map 4 – Active Mobility Network of The London Plan to realign the Multi-use Pathway;
 
-iii)    add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys; and, 
+iii)    add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys; and,
 
-iv)    add Block 2, Block 3 and Block 4 of the subject lands to Map 7 – Specific Policy Areas of The London Plan; 
+iv)    add Block 2, Block 3 and Block 4 of the subject lands to Map 7 – Specific Policy Areas of The London Plan;
 
 b)    the proposed by-law as appended to the staff report dated May 21, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016, as amended in part a) above) to change the zoning of the subject property FROM a Holding Urban Reserve (h- 1*UR1) Zone TO Residential R5 Special Provision (R5-7(*)) Zone, Residential R5/R6 Special Provision (R5-7(**)/R6-5(*)) Zones, Residential R4/R5/R6/R9 Special Provision (R4-4(*)/R5-7(**)/R6-5(**)/R9-5(*)) Zones, Residential R10 Special provision (R10-4(*)) Zone, Open Space OS1 and Open Space OS5 Zones;
 
@@ -880,9 +880,9 @@ iv)    enhancement of the landscape design through the inclusion of additional
 
 v)    incorporate step-backs above the 3rd storey on the east, west, and south sides to enhance the pedestrian environment;
 
-vi)    support landscaped spaces between the high-rise and mid-rise buildings, with walkways connecting the landscaped areas to improve accessibility (TLP 255, 237, 281, 282); and, 
+vi)    support landscaped spaces between the high-rise and mid-rise buildings, with walkways connecting the landscaped areas to improve accessibility (TLP 255, 237, 281, 282); and,
 
-vii)    demonstrate how the proposed 8-storey apartment building in Block 3 achieves a human-scale relationship with the existing and planned context of the area along Commissioners Road East (TLP 286, 288, 289_1); 
+vii)    demonstrate how the proposed 8-storey apartment building in Block 3 achieves a human-scale relationship with the existing and planned context of the area along Commissioners Road East (TLP 286, 288, 289_1);
 
 it being pointed out that the following individual made a verbal presentations at the public participation meeting held in conjunction with these matters:
 
@@ -915,7 +915,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.19&nbsp;&nbsp;&nbsp;(3.5) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
+#### 8.1.19&nbsp;&nbsp;&nbsp;[(3.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #351206-oxford-street-east--17-19-wistow-street-z-25036>) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
 
 > Motion made by S. Lehman
 
@@ -937,7 +937,7 @@ iv)    the building design which addresses the street, is sympathetic to, and 
 
 v)     self-storage units are to be located within and accessed internally from the main building; and, 
 
-vi)    explore opportunities for fencing, including the retention or repair of existing fencing, along mutual property lines and designated snow storage areas; 
+vi)    explore opportunities for fencing, including the retention or repair of existing fencing, along mutual property lines and designated snow storage areas;
 
 d)    the applicant BE REQUESTED to ensure existing fencing along the west property boundary of 17-19 Wistow Street is repaired, as necessary;
 
@@ -949,7 +949,7 @@ it being pointed out that the following individuals made verbal presentations at
 
 -    A. Van Amerongen; and, 
 
--    A. Valastro;  
+-    A. Valastro;
 
 it being further noted that the Municipal Council approves this application for the following reasons:
 
@@ -973,7 +973,7 @@ That, on the recommendation of the Director, Planning and Development, the follo
 
 a)    being consistent with Policy 43_ of the Official Plan, The London Plan, for the subject lands representing 17-19 Wistow Street and a portion of 1206 Oxford Street East, BE INTERPRETED to be located within the Neighbourhoods Place Type;
 
-b)    the revised proposed by-law attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of 17 & 19 Wistow Street FROM a Holding Restricted Service Commercial Special Provision (h-101*RSC4(22)/RSC6(6)) Zone and Restricted Service Commercial (RSC4/RSC6) Zone TO a  Residential R5 Special Provision (R5-7(_)) Zone and a Residential R9 Special Provision/Restricted Service Commercial Special Provision (R9-7(_)*H25/RSC4(_)/RSC6) Zone; and, 
+b)    the revised proposed by-law attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of 17 & 19 Wistow Street FROM a Holding Restricted Service Commercial Special Provision (h-101*RSC4(22)/RSC6(6)) Zone and Restricted Service Commercial (RSC4/RSC6) Zone TO a  Residential R5 Special Provision (R5-7(_)) Zone and a Residential R9 Special Provision/Restricted Service Commercial Special Provision (R9-7(_)*H25/RSC4(_)/RSC6) Zone; and,
 
 c)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process for the property at 1206 Oxford Street East:
 
@@ -991,7 +991,7 @@ vi)    explore opportunities for fencing, including the retention or repair of
 
 d)    the applicant BE REQUESTED to ensure existing fencing along the west property boundary of 17-19 Wistow Street is repaired, as necessary;
 
-it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters: 
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
 
 M. Litwinchuk, Zelinka Priamo;
 
@@ -1059,7 +1059,7 @@ That, on the recommendation of the Director, Planning and Development, the follo
 
 a)    being consistent with Policy 43_ of the Official Plan, The London Plan, for the subject lands representing 17-19 Wistow Street and a portion of 1206 Oxford Street East, BE INTERPRETED to be located within the Neighbourhoods Place Type;
 
-b)    the revised proposed by-law attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of 17 & 19 Wistow Street FROM a Holding Restricted Service Commercial Special Provision (h-101*RSC4(22)/RSC6(6)) Zone and Restricted Service Commercial (RSC4/RSC6) Zone TO a  Residential R5 Special Provision (R5-7(_)) Zone and a Residential R9 Special Provision/Restricted Service Commercial Special Provision (R9-7(_)*H25/RSC4(_)/RSC6) Zone; and, 
+b)    the revised proposed by-law attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of 17 & 19 Wistow Street FROM a Holding Restricted Service Commercial Special Provision (h-101*RSC4(22)/RSC6(6)) Zone and Restricted Service Commercial (RSC4/RSC6) Zone TO a  Residential R5 Special Provision (R5-7(_)) Zone and a Residential R9 Special Provision/Restricted Service Commercial Special Provision (R9-7(_)*H25/RSC4(_)/RSC6) Zone; and,
 
 c)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process for the property at 1206 Oxford Street East:
 
@@ -1077,7 +1077,7 @@ vi)    explore opportunities for fencing, including the retention or repair of
 
 d)    the applicant BE REQUESTED to ensure existing fencing along the west property boundary of 17-19 Wistow Street is repaired, as necessary;
 
-it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters: 
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
 
 M. Litwinchuk, Zelinka Priamo;
 
@@ -1093,15 +1093,15 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.20&nbsp;&nbsp;&nbsp;(3.6) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
+#### 8.1.20&nbsp;&nbsp;&nbsp;[(3.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #36demolition-request---197-183-179-175-ann-street-86-84-st-george-street-on-heritage-designated-property-by-street-george-and-ann-block>) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
 
 > Motion made by S. Lehman
 
-That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 Ann Street), Brewer’s House (183 Ann Street), and workers’ cottages (179 Ann Street, 175 Ann Street, 86 St George Street, and 84 St George Street) on the heritage designated property at 197 Ann Street BE CONSENTED TO the following terms and conditions: 
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 Ann Street), Brewer’s House (183 Ann Street), and workers’ cottages (179 Ann Street, 175 Ann Street, 86 St George Street, and 84 St George Street) on the heritage designated property at 197 Ann Street BE CONSENTED TO the following terms and conditions:
 
-a)    regarding salvage that will be applied to future commemoration and interpretation for a proposed development on the subject lands: 
+a)    regarding salvage that will be applied to future commemoration and interpretation for a proposed development on the subject lands:
 
- i)    prior to demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025): 
+i)    prior to demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025):
 
 A)    two (2) light fixtures on the Kent Brewery building at 197 Ann Street; 
 
@@ -1111,9 +1111,9 @@ C)    double-leaf door and carved jamb moulding from the principal entrance on
 
 D)    stained glass transom above the principal entrance on the north façade of the Brewer’s House at 183 Ann Street; and,  
 
-E)    wood panelled secondary entrance door on the east façade of the Brewer’s House at 183 Ann Street; 
+E)    wood panelled secondary entrance door on the east façade of the Brewer’s House at 183 Ann Street;
 
-ii)    during demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025): 
+ii)    during demolition, the following items and materials shall be carefully removed and stored in a secure, interior space by the owner for future reuse in the proposed development on the subject lands, in accordance with the minimum requirements of Canadian Standards Association (CSA) Standard Z-7812 Deconstruction of Buildings and their Relocated Parts and the recommendations of the Heritage Impact Assessment (MHBC 2021) and Final Documentation, Salvage and Commemoration Plan (MHBC 2025):
 
 A)    stone masonry from the Kent Brewery building at 197 Ann Street; 
 
@@ -1121,11 +1121,11 @@ B)    wood corbels, modillions, and dentil moulding, and other wood detailing 
 
 C)    wooden banister and newel post from the interior of the Brewer’s House at 183 Ann Street; 
 
-D)    a minimum of 900 square feet of brick masonry that is of suitable quality and finish to accomplish the proposed commemorative installations shall be salvaged from the existing buildings on the subject property, i. A minimum of 250 square feet of brick masonry salvaged from the Kent Brewery building at 197 Ann Street is required; 
+D)    a minimum of 900 square feet of brick masonry that is of suitable quality and finish to accomplish the proposed commemorative installations shall be salvaged from the existing buildings on the subject property, i. A minimum of 250 square feet of brick masonry salvaged from the Kent Brewery building at 197 Ann Street is required;
 
-b)    regarding commemoration and interpretation: 
+b)    regarding commemoration and interpretation:
 
-i)     the following commemorative and interpretive features shall be installed by the owner at the completion of construction and prior to the release of any securities held by the City of London in conjunction with the Development Agreement required for the proposed development on the subject lands: 
+i)     the following commemorative and interpretive features shall be installed by the owner at the completion of construction and prior to the release of any securities held by the City of London in conjunction with the Development Agreement required for the proposed development on the subject lands:
 
 A)    commemorative and interpretive concepts and text be revised, to the satisfaction of the Director, Planning and Development, to include direct and specific reference to the Kent Brewery, the Brewer’s House, and the workers’ cottages, as well as their interrelationship as a Victorian industrial complex; 
 
@@ -1137,9 +1137,9 @@ D)    reclaimed brick masonry, as well as light fixtures, double-leaf doors, a
 
 E)    at least one interpretive panel be installed on the west elevation of the proposed building, in a location accessible and visible to the public; and, 
 
-F)    items and materials salvaged from the existing buildings be prioritized for reuse in the proposed building; 
+F)    items and materials salvaged from the existing buildings be prioritized for reuse in the proposed building;
 
-it being noted that the Planning and Environment Committee received the following communications with respect to these matters: 
+it being noted that the Planning and Environment Committee received the following communications with respect to these matters:
 
 -    a communication dated May 13, 2025, from ACO London Region; 
 
@@ -1147,7 +1147,7 @@ it being noted that the Planning and Environment Committee received the followin
 
 -    a communication dated May 20, 2025, from J. Reaney; and, 
 
--    a communication dated May 19, 2025, from J. Fyfe-Millar; 
+-    a communication dated May 19, 2025, from J. Fyfe-Millar;
 
 it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
 
@@ -1176,13 +1176,13 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.21&nbsp;&nbsp;&nbsp;(3.7) 299-307 Sarnia Road (Z-25039) (Relates to Bill No. 245) 
+#### 8.1.21&nbsp;&nbsp;&nbsp;[(3.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #37299-307-sarnia-road-z-25039>) 299-307 Sarnia Road (Z-25039) (Relates to Bill No. 245) 
 
 > Motion made by S. Lehman
 
 That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kimko Inc. and 20223388 Holdings Inc. (c/o Zelinka Priamo) relating to the properties located at 299-307 Sarnia Road:
 
-a)    the revised by-law, attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject lands FROM a Residential R1 (R1-10) Zone TO a Holding Residential R9 Special Provision (h-8*R9-7(_)*H20 Zone); to include an h-101 holding provision - Public Site Plan Non- Statutory meeting; 
+a)    the revised by-law, attached as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) to change the zoning of the subject lands FROM a Residential R1 (R1-10) Zone TO a Holding Residential R9 Special Provision (h-8*R9-7(_)*H20 Zone); to include an h-101 holding provision - Public Site Plan Non- Statutory meeting;
 
 b)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:
 
@@ -1190,7 +1190,7 @@ i)    the lay-by is to be located fully on the subject lands with no encroachm
 
 ii)    provide connections from the ground floor units to the public sidewalk along Sarnia Road and provide active uses are at grade along the majority of the building frontage; and,
 
-iii)    utilize the natural grade variation of the site to integrate parking that appears as underground at the rear; 
+iii)    utilize the natural grade variation of the site to integrate parking that appears as underground at the rear;
 
 it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
 
@@ -1200,7 +1200,7 @@ it being pointed out that the following individuals made verbal presentations at
 
 -    H. Xie; and, 
 
--    J. M. Metrailler; 
+-    J. M. Metrailler;
 
 it being further noted that the Municipal Council approves this application for the following reasons:
 
@@ -1274,7 +1274,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) 2025 Corporate Asset Management Plan Progress Review
+#### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#212025-corporate-asset-management-plan-progress-review>) 2025 Corporate Asset Management Plan Progress Review
 
 > Motion made by C. Rahman
 
@@ -1284,7 +1284,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-#### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Request for a Shareholder's Meeting - Housing Development Corporation, London
+#### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#23request-for-a-shareholders-meeting---housing-development-corporation-london>) Request for a Shareholder's Meeting - Housing Development Corporation, London
 
 > Motion made by C. Rahman
 
@@ -1306,7 +1306,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-#### 8.2.5&nbsp;&nbsp;&nbsp;(3.1) London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 183)
+#### 8.2.5&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#31not-to-be-heard-before-105-pm---london-hydro-inc---2024-annual-general-meeting-of-the-shareholder-annual-resolutions>) London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 183)
 
 > Motion made by C. Rahman
 
@@ -1348,7 +1348,7 @@ h)    that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors,
 
 ****
 
-#### 8.2.6&nbsp;&nbsp;&nbsp;(4.1) London Hydro Proposed Amendments to the Shareholder Declaration
+#### 8.2.6&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#41london-hydro-proposed-amendments-to-the-shareholder-declaration>) London Hydro Proposed Amendments to the Shareholder Declaration
 
 > Motion made by C. Rahman
 
@@ -1358,7 +1358,7 @@ That the communication dated May 15, 2025 from C. Graham, Chair, Board of Direct
 
 ****
 
-#### 8.2.8&nbsp;&nbsp;&nbsp;(4.3) Notification of Removal of a Board of Director from Eldon House
+#### 8.2.8&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#43notification-of-removal-of-a-board-of-director-from-eldon-house>) Notification of Removal of a Board of Director from Eldon House
 
 > Motion made by C. Rahman
 
@@ -1378,13 +1378,13 @@ c)  a vacancy on the Eldon House Board of Directors BE DECLARED; 
 
 
 
-d)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit applications for appointment to Eldon House with applications to be brought forward to a future meeting of the Strategic Priorities and Policy Committee for consideration. 
+d)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit applications for appointment to Eldon House with applications to be brought forward to a future meeting of the Strategic Priorities and Policy Committee for consideration.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) Strategic Plan Implementation Update: Mid-Year 2025
+#### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#22strategic-plan-implementation-update-mid-year-2025>) Strategic Plan Implementation Update: Mid-Year 2025
 
 > Motion made by C. Rahman
 
@@ -1411,7 +1411,7 @@ That, on the recommendation of the City Manager, the report regarding 2025 Mid-Y
 
 ****
 
-#### 8.2.7&nbsp;&nbsp;&nbsp;(4.2) 2025 London and Middlesex Community Housing Asset Management Plan
+#### 8.2.7&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#422025-london-and-middlesex-community-housing-asset-management-plan>) 2025 London and Middlesex Community Housing Asset Management Plan
 
 > Motion made by C. Rahman
 
@@ -1486,7 +1486,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) Standing Committee Meetings and Annual Meeting Calendar
+#### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#21standing-committee-meetings-and-annual-meeting-calendar>) Standing Committee Meetings and Annual Meeting Calendar
 
 > Motion made by C. Rahman
 
@@ -1496,17 +1496,17 @@ That, on the recommendation of the City Clerk, the annual meeting calendar for t
 
 ****
 
-#### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) Enwave Update - London District Energy
+#### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#22enwave-update---london-district-energy>) Enwave Update - London District Energy
 
 > Motion made by C. Rahman
 
-That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 26, 2025, titled “Enwave Update – London District Energy” BE RECEIVED for information. 
+That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 26, 2025, titled “Enwave Update – London District Energy” BE RECEIVED for information.
 
 > **Motion Passed**
 
 ****
 
-#### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) Junior Achievement Centre, 15 Wharncliffe Road North
+#### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#23junior-achievement-centre-15-wharncliffe-road-north>) Junior Achievement Centre, 15 Wharncliffe Road North
 
 > Motion made by C. Rahman
 
@@ -1526,13 +1526,13 @@ c)    the Civic Administration BE DIRECTED to negotiate an updated modernized 
 
 
 
-d)    the Civic Administration BE AUTHORIZED to undertake all actions necessary to implement these recommendations. 
+d)    the Civic Administration BE AUTHORIZED to undertake all actions necessary to implement these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.3.7&nbsp;&nbsp;&nbsp;(2.6) 2024 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
+#### 8.3.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#262024-parkland-reserve-fund-annual-financial-statement-and-reporting-of-former-section-37-planning-act-bonusing-funds>) 2024 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
 
 > Motion made by C. Rahman
 
@@ -1554,7 +1554,7 @@ c)    the Deputy City Manager, Finance Supports BE DIRECTED to make the 2024 P
 
 ****
 
-#### 8.3.8&nbsp;&nbsp;&nbsp;(2.7) Agreement Between the City of London and Donald Jones Management Services Inc. for Management of Centennial Hall (Relates to Bill No. 185)
+#### 8.3.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#27agreement-between-the-city-of-london-and-donald-jones-management-services-inc-for-management-of-centennial-hall>) Agreement Between the City of London and Donald Jones Management Services Inc. for Management of Centennial Hall (Relates to Bill No. 185)
 
 > Motion made by C. Rahman
 
@@ -1578,7 +1578,7 @@ b)    the Mayor and the City Clerk BE AUTHORIZED to execute the agreement appr
 
 ****
 
-#### 8.3.9&nbsp;&nbsp;&nbsp;(2.9) Contract Award: Tender RFT-2025-087-Bradley Avenue Extension and White Oaks Tributary Complete Corridor from Wharncliffe Road South to Jalna Boulevard (West Leg) 
+#### 8.3.9&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#29contract-award-tender-rft-2025-087-bradley-avenue-extension-and-white-oaks-tributary-complete-corridor-from-wharncliffe-road-south-to-jalna-boulevard-west-leg>) Contract Award: Tender RFT-2025-087-Bradley Avenue Extension and White Oaks Tributary Complete Corridor from Wharncliffe Road South to Jalna Boulevard (West Leg) 
 
 > Motion made by C. Rahman
 
@@ -1624,7 +1624,7 @@ i)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.3.10&nbsp;&nbsp;&nbsp;(2.10) 2024 Annual Update on Budweiser Gardens
+#### 8.3.10&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#2102024-annual-update-on-budweiser-gardens>) 2024 Annual Update on Budweiser Gardens
 
 > Motion made by C. Rahman
 
@@ -1634,7 +1634,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the 20
 
 ****
 
-#### 8.3.11&nbsp;&nbsp;&nbsp;(2.11) Procurement Strategy: Prioritizing Canadian Businesses
+#### 8.3.11&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#211procurement-strategy-prioritizing-canadian-businesses>) Procurement Strategy: Prioritizing Canadian Businesses
 
 > Motion made by C. Rahman
 
@@ -1644,7 +1644,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the Pr
 
 ****
 
-#### 8.3.12&nbsp;&nbsp;&nbsp;(2.8) Appointment of Consulting Engineers for the Infrastructure Renewal Program: Round 5
+#### 8.3.12&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#28appointment-of-consulting-engineers-for-the-infrastructure-renewal-program-round-5>) Appointment of Consulting Engineers for the Infrastructure Renewal Program: Round 5
 
 > Motion made by C. Rahman
 
@@ -1688,13 +1688,13 @@ d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering
 
 
 
-e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.3.15&nbsp;&nbsp;&nbsp;(5.1) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
+#### 8.3.15&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#51added-proposed-road-rehabilitation-project---gainsborough-and-hyde-park---councillor-c-rahman>) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
 
 > Motion made by C. Rahman
 
@@ -1716,7 +1716,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ****
 
-#### 8.3.5&nbsp;&nbsp;&nbsp;(2.4) 2025 Reserve and Reserve Fund Monitoring and Housekeeping Report (Relates to Bill No.'s 184, 191 and 192)
+#### 8.3.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#242025-reserve-and-reserve-fund-monitoring-and-housekeeping-report>) 2025 Reserve and Reserve Fund Monitoring and Housekeeping Report (Relates to Bill No.'s 184, 191 and 192)
 
 > Motion made by C. Rahman
 
@@ -1760,7 +1760,7 @@ d)    the proposed by-law, as appended to the staff report dated May 26, 2025 
 
 ****
 
-#### 8.3.6&nbsp;&nbsp;&nbsp;(2.5) 2024 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring
+#### 8.3.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#252024-annual-report-on-development-charges-reserve-funds-and-development-charges-monitoring>) 2024 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring
 
 > Motion made by C. Rahman
 
@@ -1796,7 +1796,7 @@ b)    the Deputy City Manager, Finance Supports BE DIRECTED to make the 2024 A
 
 ****
 
-#### 8.3.13&nbsp;&nbsp;&nbsp;(4.1) 2025 Council Policy Review (Relates to Bill No.'s 186 to 190, 197 to 237)
+#### 8.3.13&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#412025-council-policy-review>) 2025 Council Policy Review (Relates to Bill No.'s 186 to 190, 197 to 237)
 
 > Motion made by C. Rahman
 
@@ -1952,7 +1952,7 @@ ii)      review and report back to a future meeting of the Infrastructure and
 
 ****
 
-#### 8.3.14&nbsp;&nbsp;&nbsp;(4.2) Bad Debts - Aspire Food Group - Councillor S. Stevenson
+#### 8.3.14&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#42bad-debts---aspire-food-group---councillor-s-stevenson>) Bad Debts - Aspire Food Group - Councillor S. Stevenson
 
 > Motion made by C. Rahman
 
@@ -1978,7 +1978,7 @@ That it BE NOTED that the Infrastructure and Corporate Services Committee receiv
 
 ****
 
-#### 8.3.16&nbsp;&nbsp;&nbsp;(5.2) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
+#### 8.3.16&nbsp;&nbsp;&nbsp;[(5.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#52added-concern-regarding-an-infrastructure-renewal-project---councillor-s-stevenson>) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
 
 > Motion made by C. Rahman
 
@@ -2010,7 +2010,7 @@ That it BE NOTED that the Infrastructure and Corporate Services Committee receiv
 
 > Seconded by S. Trosow
 
-That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 16 (5.2) having to do with Councillor Stevenson's Communication BE RECONSIDERED to provide for Councillor Stevenson to recast her vote. 
+That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 16 (5.2) having to do with Councillor Stevenson's Communication BE RECONSIDERED to provide for Councillor Stevenson to recast her vote.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -2110,7 +2110,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) 1st Report of the Environmental Stewardship and Action Community Advisory Committee
+#### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#211st-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 1st Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by D. Ferreira
 
@@ -2120,7 +2120,7 @@ That the 1st Report of the Environmental Stewardship and Action Community Adviso
 
 ****
 
-#### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) 1st Report of the Accessibility Community Advisory Committee
+#### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#221st-report-of-the-accessibility-community-advisory-committee>) 1st Report of the Accessibility Community Advisory Committee
 
 > Motion made by D. Ferreira
 
@@ -2130,7 +2130,7 @@ That the 1st Report of the Accessibility Community Advisory Committee, from the 
 
 ****
 
-#### 8.4.4&nbsp;&nbsp;&nbsp;(2.3) Single Source SS-2024-074 Bulk White Field Marking Paint
+#### 8.4.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#23single-source-ss-2024-074-bulk-white-field-marking-paint>) Single Source SS-2024-074 Bulk White Field Marking Paint
 
 > Motion made by D. Ferreira
 
@@ -2146,7 +2146,7 @@ c)    the approval and authorization provided for in a) and b) above, BE CONDI
 
 ****
 
-#### 8.4.5&nbsp;&nbsp;&nbsp;(2.4) London Fire Department Fire Master Plan Annual Update
+#### 8.4.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#24london-fire-department-fire-master-plan-annual-update>) London Fire Department Fire Master Plan Annual Update
 
 > Motion made by D. Ferreira
 
@@ -2156,11 +2156,11 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-#### 8.4.9&nbsp;&nbsp;&nbsp;WITHDRAWN - (4.4) 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024
+#### 8.4.9&nbsp;&nbsp;&nbsp;WITHDRAWN - [(4.4)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#44added-2023-2024-long-term-care-home-service-accountability-agreement-between-the-corporation-of-the-city-of-london-dearness-home-and-ontario-health---declaration-of-compliance-2024>) 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024
 
 It being noted that the staff report, dated May 20, 2025, with respect to the 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024, was withdrawn from the agenda by the Civic Administration.
 
-#### 8.4.6&nbsp;&nbsp;&nbsp;(4.1) Whole of Community System Response Overview
+#### 8.4.6&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#41whole-of-community-system-response-overview>) Whole of Community System Response Overview
 
 > Motion made by D. Ferreira
 
@@ -2184,13 +2184,13 @@ That the communication from Councillor S. Stevenson, dated May 12, 2025, with re
 
 ****
 
-#### 8.4.7&nbsp;&nbsp;&nbsp;(4.2) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
+#### 8.4.7&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#42added-memo---affordable-and-supportive-housing-agreement-templates>) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
 
 > Motion made by D. Ferreira
 
 That the following actions be taken with respect to the memo, dated May 20, 2025, related to Affordable and Supportive Housing Agreement Templates:
 
-a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to: 
+a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to:
 
 i)          authorize and approve the template Contribution Agreement, as appended to the above-noted by-law;
 
@@ -2264,7 +2264,7 @@ Item 7, clause 4.2, as amended, reads as follows:
 
 That the following actions be taken with respect to the memo, dated May 20, 2025, related to Affordable and Supportive Housing Agreement Templates:
 
-a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to: 
+a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to:
 
 i)          authorize and approve the template Contribution Agreement, as appended to the above-noted by-law;
 
@@ -2282,15 +2282,13 @@ c)         the Deputy City Manager, Finance Supports, or their written desig
 
 d)        the Civic Administration BE DIRECTED to seek Council approval for contribution agreements, including loan agreements under the Affordable Housing Community Improvement Plan, for any highly supportive housing projects.
 
- 
-
 ****
 
-#### 8.4.8&nbsp;&nbsp;&nbsp;(4.3) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
+#### 8.4.8&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#43added-rfp-2024-227-approval-of-the-template-contribution-agreement-for-highly-supportive-housing-projects-at-248-256-hill-street-and-644-646-huron-street>) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
 
 At 4:49 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. 
 
-At 4:51 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 4:51 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 > Motion made by D. Ferreira
 
@@ -2298,9 +2296,9 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 a)    a grant of $1,485,000, in the form of a forgivable loan, to the Canadian Mental Health Association Thames Valley Addiction & Mental Health Services for the development and operation of 33 highly supportive housing units at 248-256 Hill Street be AUTHORIZED AND APPROVED;
 
-b)    a grant of $3,690,000, in the form of a forgivable loan, to the Canadian Mental Health Association Thames Valley Addiction & Mental Health Services for the development and operation of 82 highly supportive housing units at 644-646 Huron Street BE AUTHORIZED AND APPROVED; 
+b)    a grant of $3,690,000, in the form of a forgivable loan, to the Canadian Mental Health Association Thames Valley Addiction & Mental Health Services for the development and operation of 82 highly supportive housing units at 644-646 Huron Street BE AUTHORIZED AND APPROVED;
 
-c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at Municipal Council on June 3, 2025 to: 
+c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at Municipal Council on June 3, 2025 to:
 
 i)    authorize and approve the template Contribution Agreement, as appended to the above-noted by-law;
 
@@ -2395,13 +2393,13 @@ That the 2nd Report of the Budget Committee BE APPROVED with the exception of it
 
 > Motion made by E. Peloza
 
-That it BE NOTED that no pecuniary interests were disclosed. 
+That it BE NOTED that no pecuniary interests were disclosed.
 
 > **Motion Passed**
 
 ****
 
-#### 8.5.2&nbsp;&nbsp;&nbsp;(2.1) 2026 Budget Request - D. Trentowsky, Chair and T. Annett, General Manager, Upper Thames River Conservation Authority
+#### 8.5.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#212026-budget-request---d-trentowsky-chair-and-t-annett-general-manager-upper-thames-river-conservation-authority>) 2026 Budget Request - D. Trentowsky, Chair and T. Annett, General Manager, Upper Thames River Conservation Authority
 
 > Motion made by E. Peloza
 
@@ -2411,7 +2409,7 @@ That the communication dated April 29, 2025 from D. Trentowsky, Chair and T. Ann
 
 ****
 
-#### 8.5.3&nbsp;&nbsp;&nbsp;(2.2) Update on Budget Engagement with Agencies, Boards and Commissions - Budget Chair/Councillor E. Peloza
+#### 8.5.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#22update-on-budget-engagement-with-agencies-boards-and-commissions---budget-chaircouncillor-e-peloza>) Update on Budget Engagement with Agencies, Boards and Commissions - Budget Chair/Councillor E. Peloza
 
 > Motion made by E. Peloza
 
@@ -2421,7 +2419,7 @@ That the communication dated May 9, 2025 from Budget Chair/Councillor E. Peloza 
 
 ****
 
-#### 8.5.5&nbsp;&nbsp;&nbsp;(4.2) Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
+#### 8.5.5&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#42budget-2026-cost-savings-opportunities---london-economic-development-corporation-ledc-review---councillor-s-stevenson>) Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
 
 > Motion made by E. Peloza
 
@@ -2431,7 +2429,7 @@ That the communication dated May 11, 2025 from Councillor S. Stevenson regarding
 
 ****
 
-#### 8.5.6&nbsp;&nbsp;&nbsp;(4.3) Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
+#### 8.5.6&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#43budget-2026-cost-savings-opportunities---cycling-lane-projects---councillor-s-stevenson>) Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
 
 > Motion made by E. Peloza
 
@@ -2585,7 +2583,7 @@ MA Hodge and B. Morrison, Climate Action London.
 
 ****
 
-#### 8.5.4&nbsp;&nbsp;&nbsp;(4.1) 2026 Annual Budget Update - Status Update
+#### 8.5.4&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update>) 2026 Annual Budget Update - Status Update
 
 > Motion made by E. Peloza
 
@@ -2625,7 +2623,7 @@ vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Ro
 
 
 
-it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter. 
+it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter.
 
 ****
 
@@ -2638,8 +2636,6 @@ ii)   Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Net
 v)   Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion
 
 vi)  Appendix C, Ref # - 3    Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)
-
- 
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -2661,8 +2657,6 @@ vi)  Appendix C, Ref # - 3    Recycling & Composting - Stop Collecting Blue B
 d)   the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update:
 
 i)    Appendix B, Ref # - 1    Roadway Maintenance – Reduced Summer Sidewalk Maintenance
-
- 
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -2689,7 +2683,7 @@ iii)  Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trai
 
 iv)  Appendix B, Ref # - 5    Aquatics – Closure of 5 Wading Pools
 
-vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands; 
+vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands;
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -2715,7 +2709,7 @@ vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Ro
 
 At 5:03 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair. 
 
-At 5:04 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 5:04 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 > Motion made by E. Peloza
 
@@ -2723,11 +2717,11 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the fo
 
 a)    the report providing an update on development of the 2026 Annual Budget Update and the budget reduction options identified to date BE RECEIVED for information;
 
-b)    the Civic Administration BE DIRECTED to continue to include identified budget right-sizing opportunities in a business case for inclusion in the Mayor’s proposed 2026 Budget Update; 
+b)    the Civic Administration BE DIRECTED to continue to include identified budget right-sizing opportunities in a business case for inclusion in the Mayor’s proposed 2026 Budget Update;
 
 c)    the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix "A", as appended to the staff report dated May 22, 2025, and to bring forward the corresponding business case for inclusion in the Mayor’s proposed 2026 Budget Update; and
 
-it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter. 
+it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|
@@ -2751,13 +2745,11 @@ it being noted that the Budget Committee received a communication dated May 18, 
 
 Item 4, clause 4.1, as amended, reads as follows:
 
-
-
 That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:
 
 a)    the report providing an update on development of the 2026 Annual Budget Update and the budget reduction options identified to date BE RECEIVED for information;
 
-b)    the Civic Administration BE DIRECTED to continue to include identified budget right-sizing opportunities in a business case for inclusion in the Mayor’s proposed 2026 Budget Update; 
+b)    the Civic Administration BE DIRECTED to continue to include identified budget right-sizing opportunities in a business case for inclusion in the Mayor’s proposed 2026 Budget Update;
 
 c)    the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix "A", as appended to the staff report dated May 22, 2025, and to bring forward the corresponding business case for inclusion in the Mayor’s proposed 2026 Budget Update; and
 
@@ -2769,9 +2761,9 @@ iii)  Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trai
 
 iv)  Appendix B, Ref # - 5    Aquatics – Closure of 5 Wading Pools
 
-vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands; 
+vii)  Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands;
 
-it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter. 
+it being noted that the Budget Committee received a communication dated May 18, 2025 from C. Butler with respect to this matter.
 
 ****
 

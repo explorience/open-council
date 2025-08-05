@@ -17,7 +17,7 @@ May 26, 2025, at  1:00 PM
 > [!abstract]- Remote Attendance:
 > Deputy Mayor S. Lewis, Councillors S. Stevenson, E. Peloza and S. Hillier; S. Corman, R. Danter, J. Davies, K. Dickins, P. Lupa, M. Macaulay, J. McMillan, P. Yeoman, B. Warner.
 
-The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance. 
+The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
 ## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -66,7 +66,7 @@ That, on the recommendation of the City Clerk, the annual meeting calendar for t
 
 > Seconded by P. Van Meerbergen
 
-That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 26, 2025, titled “Enwave Update – London District Energy” BE RECEIVED for information. 
+That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 26, 2025, titled “Enwave Update – London District Energy” BE RECEIVED for information.
 
 > **Motion Passed**
 
@@ -88,7 +88,7 @@ b)    the funding for this procurement BE APPROVED as set out in the Sources o
 
 c)    the Civic Administration BE DIRECTED to negotiate an updated modernized agreement between the City and the Junior Achievement of Southwestern Ontario Inc.; and
 
-d)    the Civic Administration BE AUTHORIZED to undertake all actions necessary to implement these recommendations. 
+d)    the Civic Administration BE AUTHORIZED to undertake all actions necessary to implement these recommendations.
 
 > **Motion Passed**
 
@@ -272,7 +272,7 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -301,7 +301,7 @@ That, on the recommendation of the City Clerk, the following actions be taken wi
 
 a)    the proposed by-law (as appended to the staff report dated May 26, 2025 as Appendix "B") BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to introduce a new Council Policy entitled Centennial Hall Policy;
 
-b)    the proposed by-laws (as appended to the staff report as Appendices C1 to C43) BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to make the specified amendments to the following Council Policies: 
+b)    the proposed by-laws (as appended to the staff report as Appendices C1 to C43) BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to make the specified amendments to the following Council Policies:
 
 1.    Access and Privacy Policy
 
@@ -401,7 +401,7 @@ d)    By-law No. CPOL.-54-286, being the “Appointment of Deputy Mayor Policy
 
 e)    the Civic Administration BE DIRECTED to amend By-law No. CPOL.-231-555, being the “Policy for the Establishment and Maintenance of Council Policies” for the next Council Policy review cycle to include a requirement to review Council Policies using a Climate Lens;
 
-f)    the Civic Administration BE DIRECTED to consult with the school boards with respect to the applicability of By-law No. CPOL.-17-213, being the “Queen Elizabeth Scholarship Policy”, extending to Conseil scolaire catholique Providence and Conseil Scolaire Viamonde and bring forward any necessary changes to the Policy to a future meeting of the Infrastructure and Corporate Services Committee; and 
+f)    the Civic Administration BE DIRECTED to consult with the school boards with respect to the applicability of By-law No. CPOL.-17-213, being the “Queen Elizabeth Scholarship Policy”, extending to Conseil scolaire catholique Providence and Conseil Scolaire Viamonde and bring forward any necessary changes to the Policy to a future meeting of the Infrastructure and Corporate Services Committee; and
 
 g)    the Civic Administration BE DIRECTED to:
 
@@ -533,7 +533,7 @@ c)    the proposed by-laws (as appended to the staff report as Appendices D1 t
 
 > Seconded by J. Pribil
 
-That By-law No. CPOL.-273-251, being the “Public Access During Council and Standing Committee Meetings Policy” BE AMENDED in section 4.2.5 to replace the word "Protest" with "Intentional Disruption". 
+That By-law No. CPOL.-273-251, being the “Public Access During Council and Standing Committee Meetings Policy” BE AMENDED in section 4.2.5 to replace the word "Protest" with "Intentional Disruption".
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -552,7 +552,7 @@ That By-law No. CPOL.-273-251, being the “Public Access During Council and Sta
 
 > Seconded by A. Hopkins
 
-That the motion BE AMENDED to include a new part to read as follows: 
+That the motion BE AMENDED to include a new part to read as follows:
 
 The Civic Administration BE DIRECTED to amend By-law No. CPOL.-231-555, being the “Policy for the Establishment and Maintenance of Council Policies” for the next Council Policy review cycle to include a requirement to review Council Policies using a Climate Lens.
 
@@ -572,7 +572,7 @@ The Civic Administration BE DIRECTED to amend By-law No. CPOL.-231-555, being th
 
 > Seconded by J. Pribil
 
-That By-law No. CPOL.-54-286, being the “Appointment of Deputy Mayor Policy” BE REFERRED to the Governance Working Group for review. 
+That By-law No. CPOL.-54-286, being the “Appointment of Deputy Mayor Policy” BE REFERRED to the Governance Working Group for review.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -614,9 +614,9 @@ ii)      review and report back to a future meeting of the Infrastructure and
 
 > Seconded by A. Hopkins
 
-That the motion BE AMENDED to include a new part to read as follows: 
+That the motion BE AMENDED to include a new part to read as follows:
 
-That Civic Administration BE DIRECTED to consult with the school boards with respect to the applicability of By-law No. CPOL.-17-213, being the “Queen Elizabeth Scholarship Policy”, extending to Conseil scolaire catholique Providence and Conseil Scolaire Viamonde and bring forward any necessary changes to the Policy to a future meeting of the Infrastructure and Corporate Services Committee. 
+That Civic Administration BE DIRECTED to consult with the school boards with respect to the applicability of By-law No. CPOL.-17-213, being the “Queen Elizabeth Scholarship Policy”, extending to Conseil scolaire catholique Providence and Conseil Scolaire Viamonde and bring forward any necessary changes to the Policy to a future meeting of the Infrastructure and Corporate Services Committee.
 
 > [!abstract]- Vote:
 > |Yeas:|

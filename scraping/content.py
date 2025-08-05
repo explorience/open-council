@@ -48,7 +48,7 @@ class Content:
 
 class Paragraph(Content):
   def __init__(self, e):
-    self.string = self.get_text(e)
+    self.string = self.get_text(e).strip()
 
     # convert lists to markdown
     self.string = self.string.replace("•", "-")

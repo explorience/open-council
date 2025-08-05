@@ -1,6 +1,7 @@
 # process_meeting finds, downloads, and formats a meeting
 
 import json
+import traceback
 from pathlib import Path
 from Meeting import Meeting
 from bs4 import BeautifulSoup
@@ -37,4 +38,5 @@ def process_meeting(target_date, meeting_type):
     return f"{meeting.yyyy_mm()}/{meeting.format_title()}"
   except Exception as e:
     print(f"Error processing meeting {meeting_type} ({target_date})", e)
+    traceback.print_exc()
     return None

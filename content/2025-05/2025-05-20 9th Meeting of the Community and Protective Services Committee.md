@@ -139,7 +139,7 @@ Additional Votes:
 
 > Seconded by H. McAlister
 
-That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.  
+That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -167,7 +167,7 @@ That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pri
 
 That the following actions be taken with respect to the memo, dated May 20, 2025, related to Affordable and Supportive Housing Agreement Templates:
 
-a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to: 
+a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to:
 
 i)          authorize and approve the template Contribution Agreement, as appended to the above-noted by-law;
 
@@ -212,9 +212,9 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 a)    a grant of $1,485,000, in the form of a forgivable loan, to the Canadian Mental Health Association Thames Valley Addiction & Mental Health Services for the development and operation of 33 highly supportive housing units at 248-256 Hill Street be AUTHORIZED AND APPROVED;
 
-b)    a grant of $3,690,000, in the form of a forgivable loan, to the Canadian Mental Health Association Thames Valley Addiction & Mental Health Services for the development and operation of 82 highly supportive housing units at 644-646 Huron Street BE AUTHORIZED AND APPROVED; 
+b)    a grant of $3,690,000, in the form of a forgivable loan, to the Canadian Mental Health Association Thames Valley Addiction & Mental Health Services for the development and operation of 82 highly supportive housing units at 644-646 Huron Street BE AUTHORIZED AND APPROVED;
 
-c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at Municipal Council on June 3, 2025 to: 
+c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at Municipal Council on June 3, 2025 to:
 
 i)    authorize and approve the template Contribution Agreement, as appended to the above-noted by-law;
 

@@ -1,6 +1,6 @@
 ---
 title: 10th Meeting of the Community and Protective Services Committee
-
+date: 2025-06-09
 ---
 # 10th Meeting of the Community and Protective Services Committee
 
@@ -104,7 +104,7 @@ iii)    Quebec Street at Queens Avenue;
 
 iv)    Wellington Road at Tourist Information Centre;
 
-v)    Highbury Avenue N at Townsend Drive; 
+v)    Highbury Avenue N at Townsend Drive;
 
 c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025, for the purpose of amending the Traffic and Parking By-law (PS-114) related to the new pedestrian crossovers planned to be installed in 2025; and,
 
@@ -184,7 +184,7 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 That, on the recommendation of the Deputy City Manager, Social and Health Development, and with the concurrence of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated June 9, 2025, related to the Housing Stability for All Plan 2024 Update:
 
-a)    the Civic Administration BE DIRECTED to submit the Housing Stability for All Plan (HSAP) 2024 Update to the Ontario Ministry of Municipal Affairs and Housing as the annual update to the local homeless prevention and housing plan, in accordance with the Housing Services Act, 2011 (HSA); 
+a)    the Civic Administration BE DIRECTED to submit the Housing Stability for All Plan (HSAP) 2024 Update to the Ontario Ministry of Municipal Affairs and Housing as the annual update to the local homeless prevention and housing plan, in accordance with the Housing Services Act, 2011 (HSA);
 
 b)    the Civic Administration BE DIRECTED to circulate this report to community partners and interest holders, agencies, and community groups including, but not limited to, Middlesex County, the London Homeless Coalition and on the City of London website; and,
 
@@ -210,7 +210,7 @@ c)    the above-noted staff report BE RECEIVED. (2025-S11)
 
 That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 9, 2025, related to Life Stabilization Purchase of Service Agreements Single Source Procurement – SS-2025-112:
 
-a)    a Single Source Procurement (SS-2025-112) BE APPROVED at a total estimated cost of up to $185,478 (excluding HST) for the period of June 1, 2025, to June 30, 2027, with the opportunity to extend for additional four one (1) year terms, to support Goodwill Industries with the implementation and administration of the Lived Experience Community Table (LECT) initiative, as per the Corporation of the City of London Procurement Policy Section 14.4 d) and e); 
+a)    a Single Source Procurement (SS-2025-112) BE APPROVED at a total estimated cost of up to $185,478 (excluding HST) for the period of June 1, 2025, to June 30, 2027, with the opportunity to extend for additional four one (1) year terms, to support Goodwill Industries with the implementation and administration of the Lived Experience Community Table (LECT) initiative, as per the Corporation of the City of London Procurement Policy Section 14.4 d) and e);
 
 b)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025, to:
 
@@ -308,7 +308,7 @@ Additional Votes:
 
 > Seconded by S. Trosow
 
-That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 1 minute with respect to this matter.  
+That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 1 minute with respect to this matter.
 
 > [!abstract]- Vote:
 > |Yeas:|

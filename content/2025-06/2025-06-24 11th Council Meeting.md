@@ -1,6 +1,6 @@
 ---
 title: 11th Council Meeting
-
+date: 2025-06-24
 ---
 # 11th Council Meeting
 
@@ -80,9 +80,9 @@ That Council convenes In Closed Session from 1:18 PM to 1:25 PM.
 
 ### 5.1&nbsp;&nbsp;&nbsp;9th and 10th Meetings held on June 3, 2025 and June 17, 2025
 
-[2025-06-03 Council Minutes](</2025-06/2025-06-03 9th Council Meeting.md>)
+[2025-06-03 Council Minutes](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117890>)
 
-[2025-06-17 Special Council Minutes 10](</2025-06/2025-06-17 10th Special Council Meeting.md>)
+[2025-06-17 Special Council Minutes 10](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117891>)
 
 > Motion made by P. Van Meerbergen
 
@@ -121,15 +121,15 @@ That the Minutes of the 9th and 10th Meetings of the Municipal Council, from the
 
 That the following communications BE RECEIVED and BE REFERRED as noted on the Added Agenda:
 
-6.1    Updated Highly Supportive Housing Plan Cost Breakdown Schedule        
+6.1    Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
-1.    Councillor S. Stevenson        
+1.    Councillor S. Stevenson
 
-6.2    Communication - Middlesex-London Health Unit        
+6.2    Communication - Middlesex-London Health Unit
 
 1.    E. Williams, Middlesex-London Health Unit
 
-6.3    (ADDED) City of London's Municipal Rent Assistance Program (MRAP)        
+6.3    (ADDED) City of London's Municipal Rent Assistance Program (MRAP)
 
 1.    A. Ager-White, Co-operative Housing Federation of Canada        
 
@@ -141,11 +141,11 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 5.    C. Moss, London Cares, S. Courtice, London InterCommunity Health Centre, J. Younger, St. Joseph's Health Care London, N. Thuemler, Indwell, Dr. V Mehta, St. Joseph's Health Care London, A. Blanchard, Homelessness Coalition, P. Tobin, CMHA Thames Valley
 
-6.4    (ADDED) Request for Update on 2021 Reaching Home        
+6.4    (ADDED) Request for Update on 2021 Reaching Home
 
-1.    Councillor S. Stevenson  
+1.    Councillor S. Stevenson
 
-6.5    (ADDED) Intention to Expand the Hyde Park Business Improvement Area (BIA)        
+6.5    (ADDED) Intention to Expand the Hyde Park Business Improvement Area (BIA)
 
 1.    D. Szpakowski and T. Delaney, Hyde Park BIA
 
@@ -219,7 +219,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
+#### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee#21london-transit-commission-governance-review-appointment-of-consultant-for-rfp-2025-035>) London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
 
 > Motion made by S. Lewis
 
@@ -237,7 +237,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.1.4&nbsp;&nbsp;&nbsp;(2.3) Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
+#### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee#23mayoral-direction-2024-001-city-owned-parking-lot-redevelopment>) Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
 
 > Motion made by S. Lewis
 
@@ -247,7 +247,7 @@ a)    the City-owned Parking Lot Redevelopment update provided in the report d
 
 b)    the Civic Administration BE DIRECTED to take no further action regarding the City-owned parking lots located at 434 Elizabeth Street and 824 Dundas Street; and
 
-c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct new dwelling units, to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs to report back to a meeting of Strategic Priorities and Policy Committee in Q4 2025; 
+c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct new dwelling units, to fully complete the public engagement consultations, review the long term strategic plan for the Old East Village BIA, and evaluate the associated parking needs to report back to a meeting of Strategic Priorities and Policy Committee in Q4 2025;
 
 it being noted that the Strategic Priorities and Policy Committee received communications and heard delegations from K. Morrison, General Manager, Old East Village BIA and J. Herb with respect to this matter.
 
@@ -255,17 +255,17 @@ it being noted that the Strategic Priorities and Policy Committee received commu
 
 ****
 
-#### 8.1.5&nbsp;&nbsp;&nbsp;(3.1) Not to be heard before 1:00 PM - Presentation - Introduction to the Interim Integrity Commissioner - John Mascarin, Aird & Berlis LLP
+#### 8.1.5&nbsp;&nbsp;&nbsp;[(3.1)](</2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee#31not-to-be-heard-before-100-pm---presentation---introduction-to-the-interim-integrity-commissioner---john-mascarin-aird--berlis-llp>) Not to be heard before 1:00 PM - Presentation - Introduction to the Interim Integrity Commissioner - John Mascarin, Aird & Berlis LLP
 
 > Motion made by S. Lewis
 
-That it BE NOTED that the Strategic Priorities and Policy Committee heard a verbal delegation from J. Mascarin, Aird & Berlis, Interim Integrity Commissioner with respect to the role of the Integrity Commissioner. 
+That it BE NOTED that the Strategic Priorities and Policy Committee heard a verbal delegation from J. Mascarin, Aird & Berlis, Interim Integrity Commissioner with respect to the role of the Integrity Commissioner.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.7&nbsp;&nbsp;&nbsp;(3.3) Housing and Development Corporation, London 2024 Annual General Meeting of the Shareholder Annual Resolutions
+#### 8.1.7&nbsp;&nbsp;&nbsp;[(3.3)](</2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee#33housing-and-development-corporation-london-2024-annual-general-meeting-of-the-shareholder-annual-resolutions>) Housing and Development Corporation, London 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
 > Motion made by S. Lewis
 
@@ -281,7 +281,7 @@ c)  the 2024 Financial Statements BE RECEIVED.
 
 ****
 
-#### 8.1.3&nbsp;&nbsp;&nbsp;(2.2) Corporate Growth Projections Update
+#### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee#22corporate-growth-projections-update>) Corporate Growth Projections Update
 
 > Motion made by S. Lewis
 
@@ -307,7 +307,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.6&nbsp;&nbsp;&nbsp;(3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
+#### 8.1.6&nbsp;&nbsp;&nbsp;[(3.2)](</2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee#32not-to-be-heard-before-200-pm---london--middlesex-community-housing---2024-annual-general-meeting-of-the-shareholder-annual-resolutions>) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
 
 > Motion made by S. Lewis
 
@@ -317,7 +317,7 @@ a)  on the recommendation of the City Manager, the proposed by-law as appended 
 
 b)  the presentation by P. Squire, Board Chair and P. Chisholm, CEO, London & Middlesex Community Housing BE RECEIVED;
 
-c)  the 2024 Annual Report BE RECEIVED; 
+c)  the 2024 Annual Report BE RECEIVED;
 
 d)  the 2024 Financial Statements BE RECEIVED; and
 
@@ -388,7 +388,7 @@ That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in 
 
 ****
 
-#### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Time and Attendance Software, Single Source 25-135 Purchase (Relates to Bill No. 252)
+#### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#21time-and-attendance-software-single-source-25-135-purchase>) Time and Attendance Software, Single Source 25-135 Purchase (Relates to Bill No. 252)
 
 > Motion made by C. Rahman
 
@@ -406,7 +406,7 @@ d)    the proposed revised by-law (as appended to the added agenda as Appendix
 
 ****
 
-#### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award
+#### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#22rft-2024-215-adelaide-flood-protection-and-section-1-upgrades-tender-award>) RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award
 
 > Motion made by C. Rahman
 
@@ -428,7 +428,7 @@ f)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth
+#### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#23appointment-of-consulting-engineer-rfp-2025-079-anguish-drain-embankment-stabilization-in-lambeth>) Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth
 
 > Motion made by C. Rahman
 
@@ -448,7 +448,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.2.5&nbsp;&nbsp;&nbsp;(2.4) Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects
+#### 8.2.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#24funding-to-support-upper-thames-river-conservation-authority-utrca-capitalmaintenance-projects>) Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects
 
 > Motion made by C. Rahman
 
@@ -468,13 +468,13 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.6&nbsp;&nbsp;&nbsp;(2.5) Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project
+#### 8.2.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#25contract-award-and-consultant-appointment-london-downtown-sewer-capacity-expansion-project>) Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project
 
 > Motion made by C. Rahman
 
@@ -490,13 +490,13 @@ d)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 e)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (RFT-2025-003); and
 
-f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.8&nbsp;&nbsp;&nbsp;(2.7) Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
+#### 8.2.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#27industrial-land-development-strategy-annual-monitoring-and-pricing-report---city-owned-industrial-land>) Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
 
 > Motion made by C. Rahman
 
@@ -504,13 +504,13 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, with c
 
 a)    the staff report dated June 16, 2025, entitled “Industrial Land Development Strategy Annual Monitoring and Pricing Report – City-Owned Industrial Land”, BE RECEIVED; and
 
-b)    NO ACTION BE TAKEN at this time to adjust the current pricing of City-owned industrial land from the following prices that were established on August 1st, 2024: 
+b)    NO ACTION BE TAKEN at this time to adjust the current pricing of City-owned industrial land from the following prices that were established on August 1st, 2024:
 
 Innovation Park (Phases 1 to 4) and Huron Industrial Park (all phases):  
 
 -    Lots up to 4.99 acres: $325,000 per acre 
 
--    5.00 acres and up:  $300,000 per acre 
+-    5.00 acres and up:  $300,000 per acre
 
 Pricing for serviced industrial land in Trafalgar Industrial Park:
 
@@ -530,7 +530,7 @@ Surcharges are as follows: 
 
 ****
 
-#### 8.2.9&nbsp;&nbsp;&nbsp;(2.8) Declare Surplus – 47 Outer Drive
+#### 8.2.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#28declare-surplus--47-outer-drive>) Declare Surplus – 47 Outer Drive
 
 > Motion made by C. Rahman
 
@@ -544,7 +544,7 @@ b)    the subject property (“Surplus Lands”) BE SOLD in accordance with th
 
 ****
 
-#### 8.2.10&nbsp;&nbsp;&nbsp;(2.9) Declare Surplus - City-Owned Property - 2528 Main Street
+#### 8.2.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#29declare-surplus---city-owned-property---2528-main-street>) Declare Surplus - City-Owned Property - 2528 Main Street
 
 > Motion made by C. Rahman
 
@@ -558,7 +558,7 @@ b)    the subject property (“Surplus Lands”) BE SOLD to the abutting prope
 
 ****
 
-#### 8.2.7&nbsp;&nbsp;&nbsp;(2.6) Procurement of Goods & Services Policy Update
+#### 8.2.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#26procurement-of-goods--services-policy-update>) Procurement of Goods & Services Policy Update
 
 > Motion made by S. Franke
 
@@ -570,9 +570,9 @@ At 2:06 PM, Councillor P. Van Meerbergen leaves the meeting.
 
 At 2:07 PM, Councillor P. Van Meerbergen enters the meeting.
 
-At 2:15 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 2:15 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 2:18 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 2:18 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 At 2:18 PM, Councillor H. McAlister leaves the meeting.
 
@@ -603,9 +603,9 @@ That the staff report dated June 16, 2025, with respect to the Procurement of Go
 
 At 2:30 PM, Councillor H. McAlister leaves the meeting.
 
-At 2:31 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 2:31 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 2:32 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 2:32 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 At 2:33 PM, Councillor H. McAlister enters the meeting.
 
@@ -670,7 +670,7 @@ b)    the Civic Administration BE DIRECTED to provide a report back to the Inf
 
 ****
 
-#### 8.2.11&nbsp;&nbsp;&nbsp;(2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
+#### 8.2.11&nbsp;&nbsp;&nbsp;[(2.10)](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee#210citycounty-cost-apportionment-agreements-for-land-ambulance-ontario-works-housing-and-child-care---amending-agreement>) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
 
 > Motion made by C. Rahman
 
@@ -682,7 +682,7 @@ a)    the proposed by-law, as appended to the staff report dated June 16, 2025
 
 b)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “B” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Ontario Works Cost Apportionment and Agency Agreement (“Schedule B”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;
 
-c)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (“Schedule C”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and 
+c)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (“Schedule C”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -742,7 +742,7 @@ a)    the proposed by-law, as appended to the staff report dated June 16, 2025
 
 b)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “B” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Ontario Works Cost Apportionment and Agency Agreement (“Schedule B”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;
 
-c)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (“Schedule C”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and 
+c)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (“Schedule C”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and
 
 d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement (“Schedule D”) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement.
 
@@ -791,7 +791,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) 2nd Report of the Environmental Stewardship and Action Community Advisory Committee
+#### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#212nd-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 2nd Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by D. Ferreira
 
@@ -809,7 +809,7 @@ b)    clauses 1.1, 3.1, 5.1 and 5.2 BE RECEIVED.
 
 ****
 
-#### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 262)
+#### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#23new-traffic-signals-pedestrian-signals-and-pedestrian-crossovers>) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 262)
 
 > Motion made by D. Ferreira
 
@@ -829,7 +829,7 @@ iii)    Quebec Street at Queens Avenue;
 
 iv)    Wellington Road at Tourist Information Centre;
 
-v)    Highbury Avenue N at Townsend Drive; 
+v)    Highbury Avenue N at Townsend Drive;
 
 c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025, for the purpose of amending the Traffic and Parking By-law (PS-114) related to the new pedestrian crossovers planned to be installed in 2025; and,
 
@@ -839,7 +839,7 @@ d)    the 2023 Pedestrian Crossover contract value with Maple City Electric BE
 
 ****
 
-#### 8.3.5&nbsp;&nbsp;&nbsp;(2.4) Contract Extension - Installation of Park Infrastructure (C21-054)
+#### 8.3.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#24contract-extension---installation-of-park-infrastructure-c21-054>) Contract Extension - Installation of Park Infrastructure (C21-054)
 
 > Motion made by D. Ferreira
 
@@ -857,7 +857,7 @@ it being noted that the contract extension does not obligate the Corporation to 
 
 ****
 
-#### 8.3.6&nbsp;&nbsp;&nbsp;(2.5) Blue Box Transition Final Year - Part A Update
+#### 8.3.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#25blue-box-transition-final-year---part-a-update>) Blue Box Transition Final Year - Part A Update
 
 > Motion made by D. Ferreira
 
@@ -871,13 +871,13 @@ b)    the Civic Administration BE DIRECTED to provide a Part B Update as soon 
 
 ****
 
-#### 8.3.8&nbsp;&nbsp;&nbsp;(2.7) Housing Stability for All Plan - 2024 Update
+#### 8.3.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#27housing-stability-for-all-plan---2024-update>) Housing Stability for All Plan - 2024 Update
 
 > Motion made by D. Ferreira
 
 That, on the recommendation of the Deputy City Manager, Social and Health Development, and with the concurrence of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated June 9, 2025, related to the Housing Stability for All Plan 2024 Update:
 
-a)    the Civic Administration BE DIRECTED to submit the Housing Stability for All Plan (HSAP) 2024 Update to the Ontario Ministry of Municipal Affairs and Housing as the annual update to the local homeless prevention and housing plan, in accordance with the Housing Services Act, 2011 (HSA); 
+a)    the Civic Administration BE DIRECTED to submit the Housing Stability for All Plan (HSAP) 2024 Update to the Ontario Ministry of Municipal Affairs and Housing as the annual update to the local homeless prevention and housing plan, in accordance with the Housing Services Act, 2011 (HSA);
 
 b)    the Civic Administration BE DIRECTED to circulate this report to community partners and interest holders, agencies, and community groups including, but not limited to, Middlesex County, the London Homeless Coalition and on the City of London website; and,
 
@@ -887,7 +887,7 @@ c)    the above-noted staff report BE RECEIVED. (2025-S11)
 
 ****
 
-#### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
+#### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#22city-of-london-community-grants-program-grassroots-innovation-and-capital-funding-allocations-2025>) City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
 
 > Motion made by D. Ferreira
 
@@ -909,7 +909,7 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-#### 8.3.7&nbsp;&nbsp;&nbsp;(2.6) London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report
+#### 8.3.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#26london-middlesex-child-care-and-early-years-service-system-plan-update---2024-progress-report>) London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report
 
 > Motion made by D. Ferreira
 
@@ -937,7 +937,7 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-#### 8.3.9&nbsp;&nbsp;&nbsp;(2.8) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
+#### 8.3.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#28life-stabilization-purchase-of-service-agreements---single-source-procurement---ss-2025-112>) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
 
 At 2:55 PM, Deputy Mayor S. Lewis leaves the meeting.
 
@@ -945,7 +945,7 @@ At 2:55 PM, Deputy Mayor S. Lewis leaves the meeting.
 
 That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 9, 2025, related to Life Stabilization Purchase of Service Agreements Single Source Procurement – SS-2025-112:
 
-a)    a Single Source Procurement (SS-2025-112) BE APPROVED at a total estimated cost of up to $185,478 (excluding HST) for the period of June 1, 2025, to June 30, 2027, with the opportunity to extend for additional four one (1) year terms, to support Goodwill Industries with the implementation and administration of the Lived Experience Community Table (LECT) initiative, as per the Corporation of the City of London Procurement Policy Section 14.4 d) and e); 
+a)    a Single Source Procurement (SS-2025-112) BE APPROVED at a total estimated cost of up to $185,478 (excluding HST) for the period of June 1, 2025, to June 30, 2027, with the opportunity to extend for additional four one (1) year terms, to support Goodwill Industries with the implementation and administration of the Lived Experience Community Table (LECT) initiative, as per the Corporation of the City of London Procurement Policy Section 14.4 d) and e);
 
 b)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025, to:
 
@@ -980,7 +980,7 @@ At 3:05 PM, Deputy Mayor S. Lewis enters the meeting.
 
 ****
 
-#### 8.3.10&nbsp;&nbsp;&nbsp;(2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
+#### 8.3.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#29updated-highly-supportive-housing-plan-cost-breakdown-schedule>) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
 > Motion made by S. Stevenson
 
@@ -1032,7 +1032,7 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-#### 8.3.11&nbsp;&nbsp;&nbsp;(4.1) City of London's Municipal Rent Assistance Program (MRAP)
+#### 8.3.11&nbsp;&nbsp;&nbsp;[(4.1)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#41communication---city-of-londons-municipal-rent-assistance-program-mrap---councillor-d-ferreira>) City of London's Municipal Rent Assistance Program (MRAP)
 
 > Motion made by H. McAlister
 
@@ -1075,7 +1075,7 @@ That the communication dated June 2, 2025, from Councillor D. Ferreira regarding
 
 ****
 
-#### 8.3.12&nbsp;&nbsp;&nbsp;(4.2) Request for Update on 2021 Reaching Home
+#### 8.3.12&nbsp;&nbsp;&nbsp;[(4.2)](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee#42communication---request-for-update-on-2021-reaching-home---councillor-s-stevenson>) Request for Update on 2021 Reaching Home
 
 > Motion made by S. Stevenson
 
@@ -1189,7 +1189,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) Downtown London: Momentum Report 2025
+#### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee#22downtown-london-momentum-report-2025>) Downtown London: Momentum Report 2025
 
 > Motion made by S. Lehman
 
@@ -1201,7 +1201,7 @@ it being noted that the verbal delegation from K. Neilsen, Board Chair, Downtown
 
 ****
 
-#### 8.4.4&nbsp;&nbsp;&nbsp;(3.1) 35 Jim Ashton Street (OZ-25042) (Relates to Bill No.'s 259 and 270) 
+#### 8.4.4&nbsp;&nbsp;&nbsp;[(3.1)](</2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee#3135-jim-ashton-street-oz-25042>) 35 Jim Ashton Street (OZ-25042) (Relates to Bill No.'s 259 and 270) 
 
 > Motion made by S. Lehman
 
@@ -1217,7 +1217,7 @@ i) the recommended amendment is consistent with the Provincial Planning Statemen
 
 ii) the recommended amendment conforms to The London Plan, including, but not limited to the Key Directions, City Design and Building policies, and the Neighbourhoods Place Type policies; and, 
 
-iii) the recommended amendment would permit a complementary use that is considered appropriate within the surrounding context; 
+iii) the recommended amendment would permit a complementary use that is considered appropriate within the surrounding context;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -1225,7 +1225,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.4.5&nbsp;&nbsp;&nbsp;(3.2) 415 Oxford Street West (OZ-25046) (Relates to Bill No.'s 260 and 271) 
+#### 8.4.5&nbsp;&nbsp;&nbsp;[(3.2)](</2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee#32415-oxford-street-west-oz-25046>) 415 Oxford Street West (OZ-25046) (Relates to Bill No.'s 260 and 271) 
 
 > Motion made by S. Lehman
 
@@ -1243,7 +1243,7 @@ ii) prohibit parking between the buildings and public streets;
 
 iii) commercial entrances shall be provided on the south façade oriented to Oxford Street West; and, 
 
-iv) publicly accessible entrance shall be provided on the south and north façade oriented to Oxford Street West and the future street; 
+iv) publicly accessible entrance shall be provided on the south and north façade oriented to Oxford Street West and the future street;
 
 it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
 
@@ -1255,7 +1255,7 @@ i) the recommended amendment is consistent with the Provincial Planning Statemen
 
 ii) the recommended amendment conforms to The London Plan, including but not limited to the evaluation criteria for Specific Policy Areas, the Neighbourhoods Place Type, and the Mud Creek EA and 415 Oxford St W Specific Policy Area policies; and, 
 
-iii) the recommended amendment facilitates the development of an underutilized site at an appropriate scale and intensity within the Built- Area Boundary and the Primary Transit Area and will contribute to achieving a range and mix of housing types within the neighbourhood; 
+iii) the recommended amendment facilitates the development of an underutilized site at an appropriate scale and intensity within the Built- Area Boundary and the Primary Transit Area and will contribute to achieving a range and mix of housing types within the neighbourhood;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -1263,7 +1263,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
+#### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee#21intention-to-expand-the-hyde-park-business-improvement-area-bia>) Intention to Expand the Hyde Park Business Improvement Area (BIA)
 
 > Motion made by S. Lehman
 
@@ -1332,7 +1332,7 @@ it being noted that the Planning and Environment Committee received the followin
 
 ****
 
-#### 8.4.6&nbsp;&nbsp;&nbsp;(3.3) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
+#### 8.4.6&nbsp;&nbsp;&nbsp;[(3.3)](</2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee#33928-934-oxford-street-west-z-25044>) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
 
 > Motion made by S. Lehman
 
@@ -1348,7 +1348,7 @@ ii) explore opportunities to move the bike parking closer to the building and re
 
 iii) explore opportunities to retain as many existing mature trees as possible, especially along the south property line; and, 
 
-iv) explore opportunities for an increased parking setback; 
+iv) explore opportunities for an increased parking setback;
 
 AND BE IT FURTHER RESOLVED that pursuant to subsection 34(17) of the Planning Act, no further notice be given; it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
 
@@ -1387,11 +1387,11 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.4.7&nbsp;&nbsp;&nbsp;(3.4) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273) 
+#### 8.4.7&nbsp;&nbsp;&nbsp;[(3.4)](</2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee#34743-richmond-street-oz-25048>) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273) 
 
-At 4:25 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 4:25 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 4:27 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 4:27 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 > Motion made by S. Lehman
 
@@ -1526,7 +1526,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.5.2&nbsp;&nbsp;&nbsp;(2.1) 2026 Annual Budget Update - Next Steps
+#### 8.5.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#212026-annual-budget-update---next-steps>) 2026 Annual Budget Update - Next Steps
 
 > Motion made by E. Peloza
 
@@ -1536,7 +1536,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-#### 8.5.3&nbsp;&nbsp;&nbsp;(4.1) Communication - Museum London - J. Bevan, Executive Director
+#### 8.5.3&nbsp;&nbsp;&nbsp;[(4.1)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#41communication---museum-london---j-bevan-executive-director>) Communication - Museum London - J. Bevan, Executive Director
 
 > Motion made by E. Peloza
 
@@ -1546,7 +1546,7 @@ That the communication dated June 2, 2025 from J. Bevan, Executive Director, Mus
 
 ****
 
-#### 8.5.4&nbsp;&nbsp;&nbsp;(4.2) Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
+#### 8.5.4&nbsp;&nbsp;&nbsp;[(4.2)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#42communication---middlesex-london-health-unit---e-williams-chief-executive-officer>) Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
 
 > Motion made by E. Peloza
 
@@ -1556,7 +1556,7 @@ That the communication dated May 27, 2025 from E. Williams, Chief Executive Offi
 
 ****
 
-#### 8.5.5&nbsp;&nbsp;&nbsp;(4.3) Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
+#### 8.5.5&nbsp;&nbsp;&nbsp;[(4.3)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#43communication---cost-saving-opportunities-within-heritage---councillor-s-stevenson>) Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
 
 > Motion made by E. Peloza
 
@@ -1576,7 +1576,7 @@ That the communication dated June 1, 2025 from Councillor S. Stevenson regarding
 
 ****
 
-#### 8.5.6&nbsp;&nbsp;&nbsp;(4.4) Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
+#### 8.5.6&nbsp;&nbsp;&nbsp;[(4.4)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#44communication---cost-savings-opportunities-within-advisory-committee-budget---councillor-s-stevenson>) Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
 
 > Motion made by E. Peloza
 
@@ -1586,7 +1586,7 @@ That the communication dated June 1, 2025 from Councillor S. Stevenson regarding
 
 ****
 
-#### 8.5.7&nbsp;&nbsp;&nbsp;(4.5) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
+#### 8.5.7&nbsp;&nbsp;&nbsp;[(4.5)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#45added-communication-and-presentation---kettle-creek-conservation-authority---e-vanhooren-general-managersecretary-treasurer-and-t-noble-chair>) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
 
 > Motion made by E. Peloza
 
@@ -1596,7 +1596,7 @@ That the communication dated May 23, 2025 from E. VanHooren, General Manager/Sec
 
 ****
 
-#### 8.5.8&nbsp;&nbsp;&nbsp;(4.6) Budget Updates Requested by the Mayor and the Budget Chair
+#### 8.5.8&nbsp;&nbsp;&nbsp;[(4.6)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#46added-budget-updates-requested-by-the-mayor-and-the-budget-chair>) Budget Updates Requested by the Mayor and the Budget Chair
 
 > Motion made by E. Peloza
 
@@ -1614,13 +1614,13 @@ That the following communications with respect to the Budget Updates Requested b
 
 -    a communication from P. Squire, Board Chair, London & Middlesex Community Housing; and
 
--    a communication from R. Gauss, Chair, London Police Services Board. 
+-    a communication from R. Gauss, Chair, London Police Services Board.
 
 > **Motion Passed**
 
 ****
 
-#### 8.5.9&nbsp;&nbsp;&nbsp;(4.7) Development Charges Act - Mayor J. Morgan
+#### 8.5.9&nbsp;&nbsp;&nbsp;[(4.7)](</2025-06/2025-06-11 3rd Meeting of the Budget Committee#47added-development-charges-act---mayor-j-morgan>) Development Charges Act - Mayor J. Morgan
 
 > Motion made by E. Peloza
 
@@ -1685,7 +1685,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.6.2&nbsp;&nbsp;&nbsp;(4.1) 2024 Financial Audit
+#### 8.6.2&nbsp;&nbsp;&nbsp;[(4.1)](</2025-06/2025-06-18 3rd Meeting of the Audit Committee#412024-financial-audit>) 2024 Financial Audit
 
 > Motion made by E. Peloza
 
@@ -1699,7 +1699,7 @@ b) the Audit Findings Report as prepared by KPMG for the year ending December 31
 
 ****
 
-#### 8.6.3&nbsp;&nbsp;&nbsp;(4.2) Internal Audit Follow Up Activities Dashboard - MNP
+#### 8.6.3&nbsp;&nbsp;&nbsp;[(4.2)](</2025-06/2025-06-18 3rd Meeting of the Audit Committee#42internal-audit-follow-up-activities-dashboard---mnp>) Internal Audit Follow Up Activities Dashboard - MNP
 
 > Motion made by E. Peloza
 
@@ -1709,7 +1709,7 @@ That the communication from MNP, with respect to the internal audit follow up ac
 
 ****
 
-#### 8.6.4&nbsp;&nbsp;&nbsp;(4.3) Community Grants Program Value for Money (VfM) Audit - MNP
+#### 8.6.4&nbsp;&nbsp;&nbsp;[(4.3)](</2025-06/2025-06-18 3rd Meeting of the Audit Committee#43community-grants-program-value-for-money-vfm-audit---mnp>) Community Grants Program Value for Money (VfM) Audit - MNP
 
 > Motion made by E. Peloza
 
@@ -1719,7 +1719,7 @@ That the communication dated June 3, 2025 from MNP with respect to the community
 
 ****
 
-#### 8.6.5&nbsp;&nbsp;&nbsp;(4.4) Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
+#### 8.6.5&nbsp;&nbsp;&nbsp;[(4.4)](</2025-06/2025-06-18 3rd Meeting of the Audit Committee#44safe-london-for-women-girls-and-gender-diverse-and-trans-people-compliance-audit---mnp>) Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
 
 > Motion made by E. Peloza
 
@@ -1772,9 +1772,9 @@ That the 10th Special Report of the Planning and Environment Committee, BE APPRO
 
 > **Motion Passed (13 to 0)**
 
-At 4:35 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 4:35 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 4:40 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 4:40 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
@@ -1788,15 +1788,15 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.7.2&nbsp;&nbsp;&nbsp;(2.1) Ontario Building Faster Fund: London's 2024 Housing Target Performance
+#### 8.7.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-23 Special 10th Meeting of the Planning and Environment Committee#21ontario-building-faster-fund-londons-2024-housing-target-performance>) Ontario Building Faster Fund: London's 2024 Housing Target Performance
 
 > Motion made by S. Lehman
 
-That, on the recommendation of the Deputy City Manager, Housing and Community Growth, and with the concurrence of the Deputy City Manager, Finance Supports, the proposed by-law appended to the staff report dated June 23, 2025, as Appendix “A” BE INTRODUCED at Municipal Council to be held on June 24, 2025, to: 
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, and with the concurrence of the Deputy City Manager, Finance Supports, the proposed by-law appended to the staff report dated June 23, 2025, as Appendix “A” BE INTRODUCED at Municipal Council to be held on June 24, 2025, to:
 
 a)    the Ontario Transfer Payment Agreement between His Majesty the King in right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London appended as Schedule “1” (the “Agreement”) BE APPROVED;
 
-b)    the Mayor and the Clerk BE AUTHORIZED to execute the Agreement; and, 
+b)    the Mayor and the Clerk BE AUTHORIZED to execute the Agreement; and,
 
 c)    the Deputy City Manager, Housing and Community Growth, or their written designate, BE AUTHORIZED to sign the reports required under the Agreement.
 
@@ -2262,7 +2262,7 @@ That Introduction and First Reading of Bill No. 250 to Bill No. 271 and Added Bi
 
 > Seconded by Mayor J. Morgan
 
-That Second Reading of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with the exception of Bill No.'s 251, 256, 258, and 261, BE APPROVED. 
+That Second Reading of Bill No. 250 to Bill No. 271 and Added Bill No. 274, with the exception of Bill No.'s 251, 256, 258, and 261, BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Absent:|

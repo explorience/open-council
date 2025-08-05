@@ -1,6 +1,6 @@
 ---
 title: The 9th Meeting of the Planning and Environment Committee
-
+date: 2025-06-10
 ---
 # The 9th Meeting of the Planning and Environment Committee
 
@@ -17,11 +17,11 @@ June 10, 2025, at  1:00 PM
 > [!abstract]- Remote Attendance:
 > Councillor S. Trosow; E. Hunt, E. Skalski, S. Tatavarti
 
-The meeting was called to order at 1:00 PM. 
+The meeting was called to order at 1:00 PM.
 
 ## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-That it BE NOTED that no pecuniary interests were disclosed. 
+That it BE NOTED that no pecuniary interests were disclosed.
 
 ## 2.&nbsp;&nbsp;&nbsp;Consent
 
@@ -35,7 +35,7 @@ That it BE NOTED that no pecuniary interests were disclosed. 
 
 That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engagement specifically with the businesses located within the staff recommended expansion area;
 
-it being noted that the Planning and Environment received the following communications with respect to these matters: 
+it being noted that the Planning and Environment received the following communications with respect to these matters:
 
 -    a communication dated June 4, 2025, from T. Delany, President and D. Szpakowski, GM & CEO, Hyde Park BIA; and, 
 
@@ -43,7 +43,7 @@ it being noted that the Planning and Environment received the following communic
 
 > **Motion Passed**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -80,8 +80,6 @@ That the referral motion BE AMENDED to read as follows:
 
 That the referral, as amended, BE APPROVED
 
- 
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -103,9 +101,9 @@ That the referral, as amended, BE APPROVED
 
 > Seconded by S. Lewis
 
-That the Downtown London: Momentum Report, BE RECEIVED; 
+That the Downtown London: Momentum Report, BE RECEIVED;
 
-it being noted that the verbal delegation from K. Neilsen, Board Chair, Downtown London, with respect to this matter, was received.  
+it being noted that the verbal delegation from K. Neilsen, Board Chair, Downtown London, with respect to this matter, was received.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -118,7 +116,7 @@ it being noted that the verbal delegation from K. Neilsen, Board Chair, Downtown
 
 > **Motion Passed (5 to 0)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -126,7 +124,7 @@ Additional Votes: 
 
 > Seconded by S. Hillier
 
-That the delegation request from K. Nielsen, as appended to the agenda BE APPROVED, to be heard at this time. 
+That the delegation request from K. Nielsen, as appended to the agenda BE APPROVED, to be heard at this time.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -180,7 +178,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (5 to 0)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -188,7 +186,7 @@ Additional Votes: 
 
 > Seconded by S. Hillier
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -207,7 +205,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by S. Hillier
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -234,7 +232,7 @@ That, on the recommendation of the Director, Planning and Development, the follo
 
 a)    the proposed by-law as appended to the staff report dated June 10, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025, to amend the Official Plan for the City of London, 2016, by AMENDING policy 1067B_ in the Specific Policies for the Neighbourhoods Place Type;
 
-b)    the proposed by-law as appended to the staff report dated June 10, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025,  to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016 as amended in part a) above) to change the zoning of the subject properties FROM a Commercial Recreational (CR) Zone and Open Space (OS4) Zone TO a Holding Residential R10 Special Provision (h-8*h-125*R10-3(_)) Zone and Open Space (OS4) Zone; and, 
+b)    the proposed by-law as appended to the staff report dated June 10, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025,  to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016 as amended in part a) above) to change the zoning of the subject properties FROM a Commercial Recreational (CR) Zone and Open Space (OS4) Zone TO a Holding Residential R10 Special Provision (h-8*h-125*R10-3(_)) Zone and Open Space (OS4) Zone; and,
 
 c)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:
 
@@ -250,7 +248,7 @@ iv)    publicly accessible entrance shall be provided on the south and north f
 
 it being pointed out that the following individual made a verbal presentations at the public participation meeting held in conjunction with these matters:
 
--    T. Whitney, Zelinka Priamo Ltd.; 
+-    T. Whitney, Zelinka Priamo Ltd.;
 
 it being noted that the Municipal Council approves this application for the following reasons:
 
@@ -275,7 +273,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (5 to 0)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -283,7 +281,7 @@ Additional Votes: 
 
 > Seconded by E. Peloza
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -302,7 +300,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by E. Peloza
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -349,7 +347,7 @@ it being pointed out that the following individuals made verbal presentations at
 
 -    S. Aziz; and, 
 
--    A. Palmateer; 
+-    A. Palmateer;
 
 it being noted that the Municipal Council approves this application for the following reasons:
 
@@ -372,7 +370,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (3 to 2)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -380,7 +378,7 @@ Additional Votes: 
 
 > Seconded by P. Cuddy
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -399,7 +397,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by S. Hillier
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -426,7 +424,7 @@ That, on the recommendation of the Director, Planning and Development, the follo
 
 a)    the proposed by-law as appended to the staff report dated June 10, 2025, as Appendix "A" BE INTRODUCED at the Municipal Council meeting on June 24, 2025, to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Rapid Transit and Urban Corridors Place Type and by ADDING the subject lands to Map 7 – Specific Policy Areas – of the Official Plan;
 
-b)    the proposed by-law as appended to the staff report dated June 10, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016, as amended in part a) above) to change the zoning of the subject properties FROM an Office Residential/Business District Commercial Special Provision (OR*D350*H52/BDC(1)) Zone TO a Business District Commercial Special Provision (BDC(_)*D3930*H125) Zone; and, 
+b)    the proposed by-law as appended to the staff report dated June 10, 2025, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016, as amended in part a) above) to change the zoning of the subject properties FROM an Office Residential/Business District Commercial Special Provision (OR*D350*H52/BDC(1)) Zone TO a Business District Commercial Special Provision (BDC(_)*D3930*H125) Zone; and,
 
 c)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:
 
@@ -454,13 +452,13 @@ it being pointed out that the following individuals made verbal presentations at
 
 -    M. Jarazecko; and, 
 
--    J. Pepe; 
+-    J. Pepe;
 
-it being noted that the Planning and Environment received the following communications with respect to these matters: 
+it being noted that the Planning and Environment received the following communications with respect to these matters:
 
 -    a communication dated June 6, 2025, from M. Tovey, President SGGNA
 
--    a communication dated June 9, 2025, from C. Butler; 
+-    a communication dated June 9, 2025, from C. Butler;
 
 it being further noted that the Municipal Council approves this application for the following reasons:
 
@@ -470,7 +468,7 @@ ii)    the recommended amendment conforms to The London Plan, including but no
 
  iii)    the recommended amendments facilitate the development of a site within the Built-Area Boundary and the Primary Transit Area with an appropriate scale and intensity that will contribute to achieving a compact City; and, 
 
-iv)    the recommended amendments would permit a 35-storey, 512-unit mixed-use apartment building in a form that is appropriate for the site and will contribute to achieving a range and mix of housing types within the neighbourhood; 
+iv)    the recommended amendments would permit a 35-storey, 512-unit mixed-use apartment building in a form that is appropriate for the site and will contribute to achieving a range and mix of housing types within the neighbourhood;
 
 it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
 
@@ -484,7 +482,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 > **Motion Passed (4 to 1)**
 
-Additional Votes: 
+Additional Votes:
 
 ****
 
@@ -492,7 +490,7 @@ Additional Votes: 
 
 > Seconded by S. Hillier
 
-Motion to open the public participation meeting. 
+Motion to open the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -511,7 +509,7 @@ Motion to open the public participation meeting. 
 
 > Seconded by P. Cuddy
 
-Motion to close the public participation meeting. 
+Motion to close the public participation meeting.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -528,11 +526,11 @@ Motion to close the public participation meeting. 
 
 ## 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-None. 
+None.
 
 ## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
-None. 
+None.
 
 ## 6.&nbsp;&nbsp;&nbsp;Adjournment
 
@@ -540,11 +538,11 @@ None. 
 
 > Seconded by S. Hillier
 
-That the meeting BE ADJOURNED. 
+That the meeting BE ADJOURNED.
 
 > **Motion Passed**
 
-The meeting Adjourned at 4:04 PM. 
+The meeting Adjourned at 4:04 PM.
 
 ****
 
