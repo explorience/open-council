@@ -2,8 +2,6 @@
 title: 6th Meeting of the Strategic Priorities and Policy Committee
 date: 2025-05-01
 ---
-# 6th Meeting of the Strategic Priorities and Policy Committee
-
 May 1, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2ee633ea-45b7-41df-aa09-d099cd5baf46&Agenda=PostMinutes&lang=English)
@@ -22,13 +20,13 @@ May 1, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Lehman and P. Van Meerbergen were in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
-### 2.1&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - London Hydro Inc.
+## 2.1&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - London Hydro Inc.
 
 [2025-05-01 Submission - Shareholders Request-Hydro](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116056>)
 
@@ -66,7 +64,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - London & Middlesex Community Housing
+## 2.2&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - London & Middlesex Community Housing
 
 [2025-05-01 Submission - Shareholders Request-LMCH](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116059>)
 
@@ -104,7 +102,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;ReconciliAction Plan
+## 2.3&nbsp;&nbsp;&nbsp;ReconciliAction Plan
 
 [2025-05-01 Staff Report - ReconciliAction Plan](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116060>)
 
@@ -140,13 +138,13 @@ b)    that Civic Administration BE DIRECTED to forward the ReconciliAction Pla
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;London & Middlesex Community Housing Board of Directors Request for Extension of Terms
+## 4.1&nbsp;&nbsp;&nbsp;London & Middlesex Community Housing Board of Directors Request for Extension of Terms
 
 [2025-05-01 Submission - LMCH Extension of Board Member Terms](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116057>)
 
@@ -236,7 +234,7 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-### 4.2&nbsp;&nbsp;&nbsp;Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
+## 4.2&nbsp;&nbsp;&nbsp;Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
 
 [2025-05-01 Submission - Canada Disability Benefit](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116058>)
 
@@ -326,9 +324,9 @@ That the delegation requests from J. Salisbury and A. Roberts BE APPROVED to be 
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
-### 5.1&nbsp;&nbsp;&nbsp;(ADDED) 1st Report of the Governance Working Group
+## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 1st Report of the Governance Working Group
 
 [2025-05-01Staff Report - (5.1) GWG Report 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116062>)
 
@@ -374,7 +372,7 @@ c)    clauses 1.1, 4.2 and 5.1 BE RECEIVED for information.
 
 ****
 
-### 5.2&nbsp;&nbsp;&nbsp;(ADDED) Municipal Diversity Plan for Appointments to the London Police Service Board
+## 5.2&nbsp;&nbsp;&nbsp;(ADDED) Municipal Diversity Plan for Appointments to the London Police Service Board
 
 [2025-05-01 Staff Report - (5.2) Municipal Diversity Plan for Appointments-LPSB](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116061>)
 
@@ -410,7 +408,7 @@ b)    the proposed by-law, as appended to the staff report dated May 1, 2025 a
 
 ****
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
+# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by D. Ferreira
 
@@ -454,7 +452,7 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 2:
 
 ****
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

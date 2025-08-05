@@ -2,8 +2,6 @@
 title: 8th Meeting of the Community and Protective Services Committee
 date: 2025-04-28
 ---
-# 8th Meeting of the Community and Protective Services Committee
-
 April 28, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ec02877-3b5a-4563-bc85-108cfbc3b4c8&Agenda=PostMinutes&lang=English)
@@ -19,11 +17,11 @@ April 28, 2025, at  1:00 PM
 
 The meeting was called to order at 1:01 PM.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -71,7 +69,7 @@ That the motion to approve Items 2.1, 2.3, 2.4 and 2.5 BE WITHDRAWN.
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;Child Care and Early Years Master Funding Agreement
+## 2.1&nbsp;&nbsp;&nbsp;Child Care and Early Years Master Funding Agreement
 
 > Moved by P. Cuddy
 
@@ -115,7 +113,7 @@ iv)    By-law No. A.- 7027-316, as amended, (2013), A By-law to approve and ad
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;Amendments to the Traffic and Parking By-law
+## 2.3&nbsp;&nbsp;&nbsp;Amendments to the Traffic and Parking By-law
 
 [2025-04-28 SR Amendments to the Traffic and Parking By-law](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115854>)
 
@@ -129,7 +127,7 @@ That on the recommendation of the Deputy City Manager, Environment and Infrastru
 
 ****
 
-### 2.4&nbsp;&nbsp;&nbsp;Program Changes to the Ontario Renovates Program
+## 2.4&nbsp;&nbsp;&nbsp;Program Changes to the Ontario Renovates Program
 
 [2025-04-28 SR Program Changes to the Ontario Renovates Program - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115855>)
 
@@ -161,7 +159,7 @@ iv)    repeal By-law No. A.-7749-244, being “A by-law to approve the Ontario
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Whole of Community System Response Q1 2025 Quarterly Report
+## 2.2&nbsp;&nbsp;&nbsp;Whole of Community System Response Q1 2025 Quarterly Report
 
 [2025-04-28 SR Whole of Community System Response - Q1 2025](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115861>)
 
@@ -219,7 +217,7 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-### 2.5&nbsp;&nbsp;&nbsp;Approval of the Template Contribution Agreement for Affordable Housing Projects
+## 2.5&nbsp;&nbsp;&nbsp;Approval of the Template Contribution Agreement for Affordable Housing Projects
 
 [2025-04-28 SR Approval of the Template Contribution Agreement for Affordable Housing Projects - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115857>)
 
@@ -261,13 +259,13 @@ c)    the Deputy City Manager, Finance Supports, or their written designate, B
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;Request for Report Back on Quick Communities
+## 4.1&nbsp;&nbsp;&nbsp;Request for Report Back on Quick Communities
 
 [2025-04-28 Sub. Quick Communities - Franke and Pribil](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115860>)
 
@@ -289,11 +287,11 @@ That the Civic Administration BE DIRECTED to prepare a report summarizing their 
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Adjournment
+# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

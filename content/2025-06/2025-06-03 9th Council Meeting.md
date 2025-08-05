@@ -2,8 +2,6 @@
 title: 9th Council Meeting
 date: 2025-06-03
 ---
-# 9th Council Meeting
-
 June 3, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=9efb28db-f939-48e9-928b-23e4a414ed08&Agenda=PostMinutes&lang=English)
@@ -22,21 +20,21 @@ June 3, 2025, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis was in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor H. McAlister discloses a pecuniary interest in item 7, clause 2.6 of the 8th Report of the Planning and Environment Committee, having to do with the Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District HAP2 by indicating that he is on leave from his employer, Canada Life.
 
 That it BE FURTHER NOTED Councillor S. Franke discloses a pecuniary interest in item 13, clause 2.12 of the 8th Report of the Planning and Environment Committee, having to do with Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School) by indicating that her spouse is employed by the TVDSB.
 
-## 2.&nbsp;&nbsp;&nbsp;Recognitions
+# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-## 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
+# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
+# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Stevenson
 
@@ -137,9 +135,9 @@ That Council convenes in Closed Session from 4:22 PM to 4:41 PM.
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
+# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
-### 5.1&nbsp;&nbsp;&nbsp;8th Meeting held on May 13, 2025
+## 5.1&nbsp;&nbsp;&nbsp;8th Meeting held on May 13, 2025
 
 [2025-05-13 Council Minutes](</2025-05/2025-05-13 8th Council Meeting>)
 
@@ -171,7 +169,7 @@ That the Minutes of the 8th Meeting of the Municipal Council, held on May 13, 20
 
 ****
 
-## 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
+# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by C. Rahman
 
@@ -244,7 +242,7 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-### 6.1&nbsp;&nbsp;&nbsp;Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority")
+## 6.1&nbsp;&nbsp;&nbsp;Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority")
 
 [2025-06-03 SR Expropriation of Lands - Wellington Gateway Project - Report 2 of 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117358>)
 
@@ -340,7 +338,7 @@ That the meeting of the Approving Authority BE ADJOURNED and that Council reconv
 
 ****
 
-### 6.2&nbsp;&nbsp;&nbsp;Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Expropriating Authority") (Relates to Bill No. 247)
+## 6.2&nbsp;&nbsp;&nbsp;Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Expropriating Authority") (Relates to Bill No. 247)
 
 [2025-06-03 SR Expropriation of Lands - Wellington Gateway Project - Report 3 of 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117359>)
 
@@ -379,13 +377,13 @@ d)    the City Clerk BE AUTHORIZED AND DIRECTED to execute and serve the notic
 
 ****
 
-## 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
+# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-## 8.&nbsp;&nbsp;&nbsp;Reports
+# 8.&nbsp;&nbsp;&nbsp;Reports
 
-### 8.1&nbsp;&nbsp;&nbsp;8th Report of the Planning and Environment Committee
+## 8.1&nbsp;&nbsp;&nbsp;8th Report of the Planning and Environment Committee
 
 [2025-05-21 - PEC REPORT](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee >)
 
@@ -415,7 +413,7 @@ That the 8th Report of the Planning and Environment Committee BE APPROVED with t
 
 ****
 
-#### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by S. Lehman
 
@@ -425,7 +423,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211st-report-of-the-community-advisory-committee-on-planning>) 1st Report of the Community Advisory Committee on Planning
+### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211st-report-of-the-community-advisory-committee-on-planning>) 1st Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -435,7 +433,7 @@ That the 1st Report of the Community Advisory Committee on Planning from its mee
 
 ****
 
-#### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #222024-canadian-home-builders-association-benchmarking-study>) 2024 Canadian Home Builders’ Association Benchmarking Study 
+### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #222024-canadian-home-builders-association-benchmarking-study>) 2024 Canadian Home Builders’ Association Benchmarking Study 
 
 > Motion made by S. Lehman
 
@@ -445,7 +443,7 @@ That the 2024 Canadian Home Builder’s Association Benchmarking Study referenci
 
 ****
 
-#### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #232024-annual-report-on-building-permit-fees>) 2024 Annual Report on Building Permit Fees
+### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #232024-annual-report-on-building-permit-fees>) 2024 Annual Report on Building Permit Fees
 
 > Motion made by S. Lehman
 
@@ -455,7 +453,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #24administrative-monetary-penalty-system-by-law---site-alteration>) Administrative Monetary Penalty System By-Law -Site Alteration (Relates to Bill No. 193) 
+### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #24administrative-monetary-penalty-system-by-law---site-alteration>) Administrative Monetary Penalty System By-Law -Site Alteration (Relates to Bill No. 193) 
 
 > Motion made by S. Lehman
 
@@ -465,7 +463,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #251364-1408-hyde-park-road-deeming-by-law>) 1364-1408 Hyde Park Road Deeming By-law (Relates to Bill No. 194) 
+### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #251364-1408-hyde-park-road-deeming-by-law>) 1364-1408 Hyde Park Road Deeming By-law (Relates to Bill No. 194) 
 
 > Motion made by S. Lehman
 
@@ -487,7 +485,7 @@ it being noted that the communication dated May 15, 2025, from D. Szpakowski, HP
 
 ****
 
-#### 8.1.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #27housing-accelerator-fund--amendment-to-contribution-agreement-and-additional-initiatives>) Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
+### 8.1.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #27housing-accelerator-fund--amendment-to-contribution-agreement-and-additional-initiatives>) Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
 
 > Motion made by S. Lehman
 
@@ -497,7 +495,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #28housing-and-community-growth-climate-emergency-action-plan-action-tracker-update>) Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
+### 8.1.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #28housing-and-community-growth-climate-emergency-action-plan-action-tracker-update>) Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
 
 > Motion made by S. Lehman
 
@@ -511,7 +509,7 @@ b)    the listed Climate Emergency Action Plan Action Items as appended to the
 
 ****
 
-#### 8.1.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #29building-services-report---quarter-1-2025>) Building Services Report - Quarter 1 2025
+### 8.1.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #29building-services-report---quarter-1-2025>) Building Services Report - Quarter 1 2025
 
 > Motion made by S. Lehman
 
@@ -521,7 +519,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.11&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #210quarterly-heritage-report--q1-2025>) Quarterly Heritage Report – Q1 2025
+### 8.1.11&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #210quarterly-heritage-report--q1-2025>) Quarterly Heritage Report – Q1 2025
 
 > Motion made by S. Lehman
 
@@ -531,7 +529,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-#### 8.1.14&nbsp;&nbsp;&nbsp;[(2.13)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #213added-2nd-report-of-the-community-advisory-committee-on-planning>) 2nd Report of the Community Advisory Committee on Planning
+### 8.1.14&nbsp;&nbsp;&nbsp;[(2.13)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #213added-2nd-report-of-the-community-advisory-committee-on-planning>) 2nd Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -545,7 +543,7 @@ it being noted that the verbal delegation from J. M. Metrailler, Chair, Communit
 
 ****
 
-#### 8.1.16&nbsp;&nbsp;&nbsp;[(3.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #323510-3524-colonel-talbot-road-oz-25033>) 3510-3524 Colonel Talbot Road (OZ-25033) (Relates to Bill No.'s 195 and 241) 
+### 8.1.16&nbsp;&nbsp;&nbsp;[(3.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #323510-3524-colonel-talbot-road-oz-25033>) 3510-3524 Colonel Talbot Road (OZ-25033) (Relates to Bill No.'s 195 and 241) 
 
 > Motion made by S. Lehman
 
@@ -581,7 +579,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.22&nbsp;&nbsp;&nbsp;[(3.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #383334-3354-wonderland-road-south-oz-25034>) 3334-3354 Wonderland Road South (OZ-25034)
+### 8.1.22&nbsp;&nbsp;&nbsp;[(3.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #383334-3354-wonderland-road-south-oz-25034>) 3334-3354 Wonderland Road South (OZ-25034)
 
 > Motion made by S. Lehman
 
@@ -601,7 +599,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.23&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #51deferred-matters-list>) Deferred Matters List
+### 8.1.23&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #51deferred-matters-list>) Deferred Matters List
 
 > Motion made by S. Lehman
 
@@ -611,7 +609,7 @@ That the Deferred Matters List BE REVEIVED.
 
 ****
 
-#### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #26heritage-alteration-permit-application-by-the-canada-life-assurance-company-for-255-dufferin-avenue-downtown-heritage-conservation-district-hap25-024-l>) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #26heritage-alteration-permit-application-by-the-canada-life-assurance-company-for-255-dufferin-avenue-downtown-heritage-conservation-district-hap25-024-l>) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
 
 > Motion made by S. Lehman
 
@@ -653,7 +651,7 @@ it being also noted that the visual presentation as appended to the added agenda
 
 ****
 
-#### 8.1.12&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211update-on-green-development-guidelines-framework>) Update on Green Development Guidelines (Framework)
+### 8.1.12&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211update-on-green-development-guidelines-framework>) Update on Green Development Guidelines (Framework)
 
 > Motion made by S. Lehman
 
@@ -693,7 +691,7 @@ it being noted that the communication dated May 19, 2025, from B. Samuels relate
 
 ****
 
-#### 8.1.13&nbsp;&nbsp;&nbsp;[(2.12)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #212added-surplus-school-sites-expression-of-interest-70-jacqueline-street-former-ga-wheable-adult-and-continuing-education-centre-and-1366-huron-street-severance-of-surplus-land-from-st-anne-catholic-school>) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
+### 8.1.13&nbsp;&nbsp;&nbsp;[(2.12)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #212added-surplus-school-sites-expression-of-interest-70-jacqueline-street-former-ga-wheable-adult-and-continuing-education-centre-and-1366-huron-street-severance-of-surplus-land-from-st-anne-catholic-school>) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
 
 > Motion made by S. Lehman
 
@@ -724,7 +722,7 @@ b)    this report BE RECEIVED.
 
 ****
 
-#### 8.1.15&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #3120-clarke-road-z-25038>) 20 Clarke Road (Z-25038) (Relates to Bill No. 240) 
+### 8.1.15&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #3120-clarke-road-z-25038>) 20 Clarke Road (Z-25038) (Relates to Bill No. 240) 
 
 > Motion made by S. Lehman
 
@@ -808,7 +806,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.17&nbsp;&nbsp;&nbsp;[(3.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #331890--1900-kilgorman-way-z-25045>) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
+### 8.1.17&nbsp;&nbsp;&nbsp;[(3.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #331890--1900-kilgorman-way-z-25045>) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
 
 > Motion made by S. Lehman
 
@@ -848,7 +846,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.18&nbsp;&nbsp;&nbsp;[(3.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #34168-meadowlily-road-south-oz-9763>) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243) 
+### 8.1.18&nbsp;&nbsp;&nbsp;[(3.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #34168-meadowlily-road-south-oz-9763>) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243) 
 
 > Motion made by S. Lehman
 
@@ -915,7 +913,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.19&nbsp;&nbsp;&nbsp;[(3.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #351206-oxford-street-east--17-19-wistow-street-z-25036>) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
+### 8.1.19&nbsp;&nbsp;&nbsp;[(3.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #351206-oxford-street-east--17-19-wistow-street-z-25036>) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
 
 > Motion made by S. Lehman
 
@@ -1105,7 +1103,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.20&nbsp;&nbsp;&nbsp;[(3.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #36demolition-request---197-183-179-175-ann-street-86-84-st-george-street-on-heritage-designated-property-by-street-george-and-ann-block>) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
+### 8.1.20&nbsp;&nbsp;&nbsp;[(3.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #36demolition-request---197-183-179-175-ann-street-86-84-st-george-street-on-heritage-designated-property-by-street-george-and-ann-block>) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
 
 > Motion made by S. Lehman
 
@@ -1188,7 +1186,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.1.21&nbsp;&nbsp;&nbsp;[(3.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #37299-307-sarnia-road-z-25039>) 299-307 Sarnia Road (Z-25039) (Relates to Bill No. 245) 
+### 8.1.21&nbsp;&nbsp;&nbsp;[(3.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #37299-307-sarnia-road-z-25039>) 299-307 Sarnia Road (Z-25039) (Relates to Bill No. 245) 
 
 > Motion made by S. Lehman
 
@@ -1246,7 +1244,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2&nbsp;&nbsp;&nbsp;7th Report of the Strategic Priorities and Policy Committee
+## 8.2&nbsp;&nbsp;&nbsp;7th Report of the Strategic Priorities and Policy Committee
 
 [2025-05-27 SPPC Report 7](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee>)
 
@@ -1276,7 +1274,7 @@ That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED
 
 ****
 
-#### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by C. Rahman
 
@@ -1286,7 +1284,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#212025-corporate-asset-management-plan-progress-review>) 2025 Corporate Asset Management Plan Progress Review
+### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#212025-corporate-asset-management-plan-progress-review>) 2025 Corporate Asset Management Plan Progress Review
 
 > Motion made by C. Rahman
 
@@ -1296,7 +1294,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-#### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#23request-for-a-shareholders-meeting---housing-development-corporation-london>) Request for a Shareholder's Meeting - Housing Development Corporation, London
+### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#23request-for-a-shareholders-meeting---housing-development-corporation-london>) Request for a Shareholder's Meeting - Housing Development Corporation, London
 
 > Motion made by C. Rahman
 
@@ -1318,7 +1316,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-#### 8.2.5&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#31not-to-be-heard-before-105-pm---london-hydro-inc---2024-annual-general-meeting-of-the-shareholder-annual-resolutions>) London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 183)
+### 8.2.5&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#31not-to-be-heard-before-105-pm---london-hydro-inc---2024-annual-general-meeting-of-the-shareholder-annual-resolutions>) London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 183)
 
 > Motion made by C. Rahman
 
@@ -1360,7 +1358,7 @@ h)    that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors,
 
 ****
 
-#### 8.2.6&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#41london-hydro-proposed-amendments-to-the-shareholder-declaration>) London Hydro Proposed Amendments to the Shareholder Declaration
+### 8.2.6&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#41london-hydro-proposed-amendments-to-the-shareholder-declaration>) London Hydro Proposed Amendments to the Shareholder Declaration
 
 > Motion made by C. Rahman
 
@@ -1370,7 +1368,7 @@ That the communication dated May 15, 2025 from C. Graham, Chair, Board of Direct
 
 ****
 
-#### 8.2.8&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#43notification-of-removal-of-a-board-of-director-from-eldon-house>) Notification of Removal of a Board of Director from Eldon House
+### 8.2.8&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#43notification-of-removal-of-a-board-of-director-from-eldon-house>) Notification of Removal of a Board of Director from Eldon House
 
 > Motion made by C. Rahman
 
@@ -1396,7 +1394,7 @@ d)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit appl
 
 ****
 
-#### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#22strategic-plan-implementation-update-mid-year-2025>) Strategic Plan Implementation Update: Mid-Year 2025
+### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#22strategic-plan-implementation-update-mid-year-2025>) Strategic Plan Implementation Update: Mid-Year 2025
 
 > Motion made by C. Rahman
 
@@ -1423,7 +1421,7 @@ That, on the recommendation of the City Manager, the report regarding 2025 Mid-Y
 
 ****
 
-#### 8.2.7&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#422025-london-and-middlesex-community-housing-asset-management-plan>) 2025 London and Middlesex Community Housing Asset Management Plan
+### 8.2.7&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee#422025-london-and-middlesex-community-housing-asset-management-plan>) 2025 London and Middlesex Community Housing Asset Management Plan
 
 > Motion made by C. Rahman
 
@@ -1458,7 +1456,7 @@ b)    the “2025 London and Middlesex Community Housing Asset Management Plan
 
 ****
 
-### 8.3&nbsp;&nbsp;&nbsp;10th Report of the Infrastructure and Corporate Services Committee
+## 8.3&nbsp;&nbsp;&nbsp;10th Report of the Infrastructure and Corporate Services Committee
 
 [2025-05-26 ICSC Report 10](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee>)
 
@@ -1488,7 +1486,7 @@ That the 10th Report of the Infrastructure and Corporate Services Committee BE A
 
 ****
 
-#### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
+### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
 > Motion made by C. Rahman
 
@@ -1498,7 +1496,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#21standing-committee-meetings-and-annual-meeting-calendar>) Standing Committee Meetings and Annual Meeting Calendar
+### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#21standing-committee-meetings-and-annual-meeting-calendar>) Standing Committee Meetings and Annual Meeting Calendar
 
 > Motion made by C. Rahman
 
@@ -1508,7 +1506,7 @@ That, on the recommendation of the City Clerk, the annual meeting calendar for t
 
 ****
 
-#### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#22enwave-update---london-district-energy>) Enwave Update - London District Energy
+### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#22enwave-update---london-district-energy>) Enwave Update - London District Energy
 
 > Motion made by C. Rahman
 
@@ -1518,7 +1516,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-#### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#23junior-achievement-centre-15-wharncliffe-road-north>) Junior Achievement Centre, 15 Wharncliffe Road North
+### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#23junior-achievement-centre-15-wharncliffe-road-north>) Junior Achievement Centre, 15 Wharncliffe Road North
 
 > Motion made by C. Rahman
 
@@ -1544,7 +1542,7 @@ d)    the Civic Administration BE AUTHORIZED to undertake all actions necessar
 
 ****
 
-#### 8.3.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#262024-parkland-reserve-fund-annual-financial-statement-and-reporting-of-former-section-37-planning-act-bonusing-funds>) 2024 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
+### 8.3.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#262024-parkland-reserve-fund-annual-financial-statement-and-reporting-of-former-section-37-planning-act-bonusing-funds>) 2024 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
 
 > Motion made by C. Rahman
 
@@ -1566,7 +1564,7 @@ c)    the Deputy City Manager, Finance Supports BE DIRECTED to make the 2024 P
 
 ****
 
-#### 8.3.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#27agreement-between-the-city-of-london-and-donald-jones-management-services-inc-for-management-of-centennial-hall>) Agreement Between the City of London and Donald Jones Management Services Inc. for Management of Centennial Hall (Relates to Bill No. 185)
+### 8.3.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#27agreement-between-the-city-of-london-and-donald-jones-management-services-inc-for-management-of-centennial-hall>) Agreement Between the City of London and Donald Jones Management Services Inc. for Management of Centennial Hall (Relates to Bill No. 185)
 
 > Motion made by C. Rahman
 
@@ -1590,7 +1588,7 @@ b)    the Mayor and the City Clerk BE AUTHORIZED to execute the agreement appr
 
 ****
 
-#### 8.3.9&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#29contract-award-tender-rft-2025-087-bradley-avenue-extension-and-white-oaks-tributary-complete-corridor-from-wharncliffe-road-south-to-jalna-boulevard-west-leg>) Contract Award: Tender RFT-2025-087-Bradley Avenue Extension and White Oaks Tributary Complete Corridor from Wharncliffe Road South to Jalna Boulevard (West Leg) 
+### 8.3.9&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#29contract-award-tender-rft-2025-087-bradley-avenue-extension-and-white-oaks-tributary-complete-corridor-from-wharncliffe-road-south-to-jalna-boulevard-west-leg>) Contract Award: Tender RFT-2025-087-Bradley Avenue Extension and White Oaks Tributary Complete Corridor from Wharncliffe Road South to Jalna Boulevard (West Leg) 
 
 > Motion made by C. Rahman
 
@@ -1636,7 +1634,7 @@ i)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.3.10&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#2102024-annual-update-on-budweiser-gardens>) 2024 Annual Update on Budweiser Gardens
+### 8.3.10&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#2102024-annual-update-on-budweiser-gardens>) 2024 Annual Update on Budweiser Gardens
 
 > Motion made by C. Rahman
 
@@ -1646,7 +1644,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the 20
 
 ****
 
-#### 8.3.11&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#211procurement-strategy-prioritizing-canadian-businesses>) Procurement Strategy: Prioritizing Canadian Businesses
+### 8.3.11&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#211procurement-strategy-prioritizing-canadian-businesses>) Procurement Strategy: Prioritizing Canadian Businesses
 
 > Motion made by C. Rahman
 
@@ -1656,7 +1654,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the Pr
 
 ****
 
-#### 8.3.12&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#28appointment-of-consulting-engineers-for-the-infrastructure-renewal-program-round-5>) Appointment of Consulting Engineers for the Infrastructure Renewal Program: Round 5
+### 8.3.12&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#28appointment-of-consulting-engineers-for-the-infrastructure-renewal-program-round-5>) Appointment of Consulting Engineers for the Infrastructure Renewal Program: Round 5
 
 > Motion made by C. Rahman
 
@@ -1706,7 +1704,7 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-#### 8.3.15&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#51added-proposed-road-rehabilitation-project---gainsborough-and-hyde-park---councillor-c-rahman>) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
+### 8.3.15&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#51added-proposed-road-rehabilitation-project---gainsborough-and-hyde-park---councillor-c-rahman>) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
 
 > Motion made by C. Rahman
 
@@ -1728,7 +1726,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ****
 
-#### 8.3.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#242025-reserve-and-reserve-fund-monitoring-and-housekeeping-report>) 2025 Reserve and Reserve Fund Monitoring and Housekeeping Report (Relates to Bill No.'s 184, 191 and 192)
+### 8.3.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#242025-reserve-and-reserve-fund-monitoring-and-housekeeping-report>) 2025 Reserve and Reserve Fund Monitoring and Housekeeping Report (Relates to Bill No.'s 184, 191 and 192)
 
 > Motion made by C. Rahman
 
@@ -1772,7 +1770,7 @@ d)    the proposed by-law, as appended to the staff report dated May 26, 2025 
 
 ****
 
-#### 8.3.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#252024-annual-report-on-development-charges-reserve-funds-and-development-charges-monitoring>) 2024 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring
+### 8.3.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#252024-annual-report-on-development-charges-reserve-funds-and-development-charges-monitoring>) 2024 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring
 
 > Motion made by C. Rahman
 
@@ -1808,7 +1806,7 @@ b)    the Deputy City Manager, Finance Supports BE DIRECTED to make the 2024 A
 
 ****
 
-#### 8.3.13&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#412025-council-policy-review>) 2025 Council Policy Review (Relates to Bill No.'s 186 to 190, 197 to 237)
+### 8.3.13&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#412025-council-policy-review>) 2025 Council Policy Review (Relates to Bill No.'s 186 to 190, 197 to 237)
 
 > Motion made by C. Rahman
 
@@ -1964,7 +1962,7 @@ ii)      review and report back to a future meeting of the Infrastructure and
 
 ****
 
-#### 8.3.14&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#42bad-debts---aspire-food-group---councillor-s-stevenson>) Bad Debts - Aspire Food Group - Councillor S. Stevenson
+### 8.3.14&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#42bad-debts---aspire-food-group---councillor-s-stevenson>) Bad Debts - Aspire Food Group - Councillor S. Stevenson
 
 > Motion made by C. Rahman
 
@@ -1990,7 +1988,7 @@ That it BE NOTED that the Infrastructure and Corporate Services Committee receiv
 
 ****
 
-#### 8.3.16&nbsp;&nbsp;&nbsp;[(5.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#52added-concern-regarding-an-infrastructure-renewal-project---councillor-s-stevenson>) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
+### 8.3.16&nbsp;&nbsp;&nbsp;[(5.2)](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee#52added-concern-regarding-an-infrastructure-renewal-project---councillor-s-stevenson>) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
 
 > Motion made by C. Rahman
 
@@ -2070,7 +2068,7 @@ That it BE NOTED that the Infrastructure and Corporate Services Committee receiv
 
 ****
 
-### 8.4&nbsp;&nbsp;&nbsp;9th Report of the Community and Protective Services Committee
+## 8.4&nbsp;&nbsp;&nbsp;9th Report of the Community and Protective Services Committee
 
 [2025-05-20 CPSC Report](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee>)
 
@@ -2112,7 +2110,7 @@ The Council recesses at 3:27 PM and reconvenes at 3:47 PM.
 
 ****
 
-#### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by D. Ferreira
 
@@ -2122,7 +2120,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#211st-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 1st Report of the Environmental Stewardship and Action Community Advisory Committee
+### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#211st-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 1st Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by D. Ferreira
 
@@ -2132,7 +2130,7 @@ That the 1st Report of the Environmental Stewardship and Action Community Adviso
 
 ****
 
-#### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#221st-report-of-the-accessibility-community-advisory-committee>) 1st Report of the Accessibility Community Advisory Committee
+### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#221st-report-of-the-accessibility-community-advisory-committee>) 1st Report of the Accessibility Community Advisory Committee
 
 > Motion made by D. Ferreira
 
@@ -2142,7 +2140,7 @@ That the 1st Report of the Accessibility Community Advisory Committee, from the 
 
 ****
 
-#### 8.4.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#23single-source-ss-2024-074-bulk-white-field-marking-paint>) Single Source SS-2024-074 Bulk White Field Marking Paint
+### 8.4.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#23single-source-ss-2024-074-bulk-white-field-marking-paint>) Single Source SS-2024-074 Bulk White Field Marking Paint
 
 > Motion made by D. Ferreira
 
@@ -2158,7 +2156,7 @@ c)    the approval and authorization provided for in a) and b) above, BE CONDI
 
 ****
 
-#### 8.4.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#24london-fire-department-fire-master-plan-annual-update>) London Fire Department Fire Master Plan Annual Update
+### 8.4.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#24london-fire-department-fire-master-plan-annual-update>) London Fire Department Fire Master Plan Annual Update
 
 > Motion made by D. Ferreira
 
@@ -2168,11 +2166,11 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-#### 8.4.9&nbsp;&nbsp;&nbsp;WITHDRAWN - [(4.4)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#44added-2023-2024-long-term-care-home-service-accountability-agreement-between-the-corporation-of-the-city-of-london-dearness-home-and-ontario-health---declaration-of-compliance-2024>) 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024
+### 8.4.9&nbsp;&nbsp;&nbsp;WITHDRAWN - [(4.4)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#44added-2023-2024-long-term-care-home-service-accountability-agreement-between-the-corporation-of-the-city-of-london-dearness-home-and-ontario-health---declaration-of-compliance-2024>) 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024
 
 It being noted that the staff report, dated May 20, 2025, with respect to the 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024, was withdrawn from the agenda by the Civic Administration.
 
-#### 8.4.6&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#41whole-of-community-system-response-overview>) Whole of Community System Response Overview
+### 8.4.6&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#41whole-of-community-system-response-overview>) Whole of Community System Response Overview
 
 > Motion made by D. Ferreira
 
@@ -2196,7 +2194,7 @@ That the communication from Councillor S. Stevenson, dated May 12, 2025, with re
 
 ****
 
-#### 8.4.7&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#42added-memo---affordable-and-supportive-housing-agreement-templates>) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
+### 8.4.7&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#42added-memo---affordable-and-supportive-housing-agreement-templates>) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
 
 > Motion made by D. Ferreira
 
@@ -2296,7 +2294,7 @@ d)        the Civic Administration BE DIRECTED to seek Council approval for 
 
 ****
 
-#### 8.4.8&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#43added-rfp-2024-227-approval-of-the-template-contribution-agreement-for-highly-supportive-housing-projects-at-248-256-hill-street-and-644-646-huron-street>) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
+### 8.4.8&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee#43added-rfp-2024-227-approval-of-the-template-contribution-agreement-for-highly-supportive-housing-projects-at-248-256-hill-street-and-644-646-huron-street>) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
 
 At 4:49 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. 
 
@@ -2371,7 +2369,7 @@ The Civic Administration BE DIRECTED to include provisions in all future agreeme
 
 ****
 
-### 8.5&nbsp;&nbsp;&nbsp;2nd Report of the Budget Committee
+## 8.5&nbsp;&nbsp;&nbsp;2nd Report of the Budget Committee
 
 [2025-05-22 Budget Report 2](</2025-05/2025-05-22 2nd Meeting of the Budget Committee>)
 
@@ -2401,7 +2399,7 @@ That the 2nd Report of the Budget Committee BE APPROVED with the exception of it
 
 ****
 
-#### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by E. Peloza
 
@@ -2411,7 +2409,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.5.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#212026-budget-request---d-trentowsky-chair-and-t-annett-general-manager-upper-thames-river-conservation-authority>) 2026 Budget Request - D. Trentowsky, Chair and T. Annett, General Manager, Upper Thames River Conservation Authority
+### 8.5.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#212026-budget-request---d-trentowsky-chair-and-t-annett-general-manager-upper-thames-river-conservation-authority>) 2026 Budget Request - D. Trentowsky, Chair and T. Annett, General Manager, Upper Thames River Conservation Authority
 
 > Motion made by E. Peloza
 
@@ -2421,7 +2419,7 @@ That the communication dated April 29, 2025 from D. Trentowsky, Chair and T. Ann
 
 ****
 
-#### 8.5.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#22update-on-budget-engagement-with-agencies-boards-and-commissions---budget-chaircouncillor-e-peloza>) Update on Budget Engagement with Agencies, Boards and Commissions - Budget Chair/Councillor E. Peloza
+### 8.5.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#22update-on-budget-engagement-with-agencies-boards-and-commissions---budget-chaircouncillor-e-peloza>) Update on Budget Engagement with Agencies, Boards and Commissions - Budget Chair/Councillor E. Peloza
 
 > Motion made by E. Peloza
 
@@ -2431,7 +2429,7 @@ That the communication dated May 9, 2025 from Budget Chair/Councillor E. Peloza 
 
 ****
 
-#### 8.5.5&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#42budget-2026-cost-savings-opportunities---london-economic-development-corporation-ledc-review---councillor-s-stevenson>) Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
+### 8.5.5&nbsp;&nbsp;&nbsp;[(4.2)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#42budget-2026-cost-savings-opportunities---london-economic-development-corporation-ledc-review---councillor-s-stevenson>) Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
 
 > Motion made by E. Peloza
 
@@ -2441,7 +2439,7 @@ That the communication dated May 11, 2025 from Councillor S. Stevenson regarding
 
 ****
 
-#### 8.5.6&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#43budget-2026-cost-savings-opportunities---cycling-lane-projects---councillor-s-stevenson>) Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
+### 8.5.6&nbsp;&nbsp;&nbsp;[(4.3)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#43budget-2026-cost-savings-opportunities---cycling-lane-projects---councillor-s-stevenson>) Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
 
 > Motion made by E. Peloza
 
@@ -2595,7 +2593,7 @@ MA Hodge and B. Morrison, Climate Action London.
 
 ****
 
-#### 8.5.4&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update>) 2026 Annual Budget Update - Status Update
+### 8.5.4&nbsp;&nbsp;&nbsp;[(4.1)](</2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update>) 2026 Annual Budget Update - Status Update
 
 > Motion made by E. Peloza
 
@@ -2779,19 +2777,19 @@ it being noted that the Budget Committee received a communication dated May 18, 
 
 ****
 
-## 9.&nbsp;&nbsp;&nbsp;Added Reports
+# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED that Councillor C. Rahman presented the 9th Report of the Council in Closed Session, by noting progress was made with respect to the items noted on the Agenda.
 
-## 10.&nbsp;&nbsp;&nbsp;Deferred Matters
+# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-## 11.&nbsp;&nbsp;&nbsp;Enquiries
+# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Franke enquires with respect to the position of the Association of Municipalities of Ontario (AMO) on Bill No. 5, Protect Ontario by Unleashing our Economy Act. Councillor A. Hopkins provides information on AMO’s position.
 
-## 12.&nbsp;&nbsp;&nbsp;Emergent Motions
+# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 > Motion made by S. Trosow
 
@@ -2816,7 +2814,7 @@ That pursuant to section 20.1 of the Council Procedure By-law, leave be granted 
 
 ****
 
-## 13.&nbsp;&nbsp;&nbsp;By-laws
+# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -3890,7 +3888,7 @@ That Third Reading and Enactment of Bill No.’s 180 to Revised Bill No. 245, ex
 > 
 > By-law No. L.S.P.-3525-191 - A by-law to expropriate lands in the City of London, in the County of Middlesex, for the Wellington Gateway Project. (Director, Realty Services)
 
-## 14.&nbsp;&nbsp;&nbsp;Adjournment
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by H. McAlister
 

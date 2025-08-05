@@ -2,8 +2,6 @@
 title: 10th Meeting of the Community and Protective Services Committee
 date: 2025-06-09
 ---
-# 10th Meeting of the Community and Protective Services Committee
-
 June 9, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=cce54c48-08f4-48b4-b419-cd7debd139e2&Agenda=PostMinutes&lang=English)
@@ -19,11 +17,11 @@ June 9, 2025, at  1:00 PM
 
 The meeting was called to order at 1:00 PM.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -44,7 +42,7 @@ That Items 2.1 to 2.8 BE APPROVED.
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;2nd Report of the Environmental Stewardship and Action Community Advisory Committee
+## 2.1&nbsp;&nbsp;&nbsp;2nd Report of the Environmental Stewardship and Action Community Advisory Committee
 
 [2025-05-22 ESACAC Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117337>)
 
@@ -66,7 +64,7 @@ b)    clauses 1.1, 3.1, 5.1 and 5.2 BE RECEIVED.
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
+## 2.2&nbsp;&nbsp;&nbsp;City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
 
 [2025-06-09 SR Community Grants Program Grassroots Innovation and Capital Funding Allocations 2025](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117338>)
 
@@ -80,7 +78,7 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers
+## 2.3&nbsp;&nbsp;&nbsp;New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers
 
 [2025-06-09 SR New Traffic Signals Pedestrian Signals and Pedestrian Crossovers](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117339>)
 
@@ -114,7 +112,7 @@ d)    the 2023 Pedestrian Crossover contract value with Maple City Electric BE
 
 ****
 
-### 2.4&nbsp;&nbsp;&nbsp;Contract Extension - Installation of Park Infrastructure (C21-054)
+## 2.4&nbsp;&nbsp;&nbsp;Contract Extension - Installation of Park Infrastructure (C21-054)
 
 [2025-06-09 SR Contract Extension - Installation of Park Infrastructure C21-054](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117340>)
 
@@ -136,7 +134,7 @@ it being noted that the contract extension does not obligate the Corporation to 
 
 ****
 
-### 2.5&nbsp;&nbsp;&nbsp;Blue Box Transition Final Year - Part A Update
+## 2.5&nbsp;&nbsp;&nbsp;Blue Box Transition Final Year - Part A Update
 
 [2025-06-09 SR Blue Box Transition Final Year](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117341>)
 
@@ -154,7 +152,7 @@ b)    the Civic Administration BE DIRECTED to provide a Part B Update as soon 
 
 ****
 
-### 2.6&nbsp;&nbsp;&nbsp;London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report
+## 2.6&nbsp;&nbsp;&nbsp;London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report
 
 [2025-06-09 SR London Middlesex Child Care and Early Years Service 2024 Progress Report - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117347>)
 
@@ -170,7 +168,7 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-### 2.7&nbsp;&nbsp;&nbsp;Housing Stability for All Plan - 2024 Update
+## 2.7&nbsp;&nbsp;&nbsp;Housing Stability for All Plan - 2024 Update
 
 [2025-06-09 SR Housing Stability Plan for All Plan 2024 Update - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117349>)
 
@@ -194,11 +192,11 @@ c)    the above-noted staff report BE RECEIVED. (2025-S11)
 
 ****
 
-#### 2.7.a&nbsp;&nbsp;&nbsp;(ADDED) Revised Appendix B
+### 2.7.a&nbsp;&nbsp;&nbsp;(ADDED) Revised Appendix B
 
 [2025-06-09 SR Housing Stability for All Plan 2024 Update - Revised Appendix B](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117352>)
 
-### 2.8&nbsp;&nbsp;&nbsp;Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112
+## 2.8&nbsp;&nbsp;&nbsp;Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112
 
 [2025-06-09 SR Life Stabilization Purchase of Service Agreements SS-2025-112 - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117342>)
 
@@ -226,7 +224,7 @@ d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering
 
 ****
 
-### 2.9&nbsp;&nbsp;&nbsp;Updated Highly Supportive Housing Plan Cost Breakdown Schedule
+## 2.9&nbsp;&nbsp;&nbsp;Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
 [2025-06-09 SR Updated Highly Supportive Housing Estimated Cost Breakdown](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117346>)
 
@@ -268,13 +266,13 @@ That the staff report dated June 9, 2025 with respect to the Updated Highly Supp
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
+## 4.1&nbsp;&nbsp;&nbsp;Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
 
 [2025-06-09 Sub. Portable Housing Benefits - Atlohsa - D. Ferreira](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117344>)
 
@@ -335,17 +333,17 @@ The Committee recesses at 2:47 PM and reconvenes at 2:52 PM.
 
 ****
 
-### 4.2&nbsp;&nbsp;&nbsp;Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
+## 4.2&nbsp;&nbsp;&nbsp;Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
 
 [2025-06-09 Sub. Request for Update on 2021 Reaching Home - S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117345>)
 
 That it BE NOTED that the Community and Protective Services Committee received communications from Councillor S. Stevenson, dated June 1, 2025 and June 5, 2025, with respect to a Request for an Update on 2021 Reaching Home.
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Adjournment
+# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Trosow
 

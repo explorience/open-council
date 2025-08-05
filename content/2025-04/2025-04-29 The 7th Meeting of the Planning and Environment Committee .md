@@ -2,8 +2,6 @@
 title: The 7th Meeting of the Planning and Environment Committee 
 date: 2025-04-29
 ---
-# The 7th Meeting of the Planning and Environment Committee 
-
 April 29, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0c2a26da-7dd8-4636-8a27-1deabb75907e&Agenda=PostMinutes&lang=English)
@@ -19,11 +17,11 @@ April 29, 2025, at  1:00 PM
 
 The meeting was called to order at 1:00 PM.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -44,7 +42,7 @@ That Items 2.1 to 2.2 BE APPROVED.
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;Business Improvement Areas Information Review
+## 2.1&nbsp;&nbsp;&nbsp;Business Improvement Areas Information Review
 
 [2025-04-29 - (2.1) Staff Report - Business Improvement Areas Information Review](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115924>)
 
@@ -58,7 +56,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Proposed Amendments to the Business Improvement Area By-laws
+## 2.2&nbsp;&nbsp;&nbsp;Proposed Amendments to the Business Improvement Area By-laws
 
 [2025-04-29 - (2.2) Staff Report - Proposed Amendments to the BIA By-laws](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115913>)
 
@@ -82,7 +80,7 @@ e)    the proposed by-law as appended on the staff report dated April 29, 2025
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
+## 2.3&nbsp;&nbsp;&nbsp;Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
 [2025-04-29 - (2.3) Submission - Mobility Master Plan Mobility-D. Schmidt](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115914>)
 
@@ -182,7 +180,7 @@ That the motion, as amended, be approved.
 
 ****
 
-### 2.4&nbsp;&nbsp;&nbsp;Fast-Tracking Housing - Mayoral Direction 2025-001
+## 2.4&nbsp;&nbsp;&nbsp;Fast-Tracking Housing - Mayoral Direction 2025-001
 
 [2025-04-29 - (2.4) Staff Report - Fast-Tracking Housing - Mayor Direction Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115920>)
 
@@ -230,7 +228,7 @@ That the delegation request from M. Wallace, as appended to the Added Agenda BE 
 
 ****
 
-### 2.5&nbsp;&nbsp;&nbsp;Housing Accelerator Fund: Completion of the City of London Housing Needs Assessment 
+## 2.5&nbsp;&nbsp;&nbsp;Housing Accelerator Fund: Completion of the City of London Housing Needs Assessment 
 
 [2025-04-29 - (2.5) Staff Report - SR Housing Acc. Fund - Completion of the CoL Housing Needs Assessment](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115922>)
 
@@ -257,7 +255,7 @@ b)    the Housing Needs Assessment as appended to the staff report dated April
 
 ****
 
-### 2.6&nbsp;&nbsp;&nbsp;Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
+## 2.6&nbsp;&nbsp;&nbsp;Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
 
 [2025-04-29 - (2.6) Staff Report - SR Housing Acc. Fund Initiative 5 - Land Disposal for Increasing Aff. Housing](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115923>)
 
@@ -310,9 +308,9 @@ Internally;
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
-### 3.1&nbsp;&nbsp;&nbsp;3095 Bostwick Road (OZ-25018)
+## 3.1&nbsp;&nbsp;&nbsp;3095 Bostwick Road (OZ-25018)
 
 [2025-04-29 - (3.1) Staff Report - 3095 Bostwick Road - Talbot Village Ph9 - OZ-25018](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115917>)
 
@@ -417,7 +415,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.2&nbsp;&nbsp;&nbsp;1176 Crumlin Side Road (Z-9601)
+## 3.2&nbsp;&nbsp;&nbsp;1176 Crumlin Side Road (Z-9601)
 
 [2025-04-29 - (3.2) Staff Report - 1176 Crumlin Sideroad - Z-9601](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115921>)
 
@@ -500,7 +498,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.3&nbsp;&nbsp;&nbsp;1140 Fanshawe Park Road East (Z-25027)
+## 3.3&nbsp;&nbsp;&nbsp;1140 Fanshawe Park Road East (Z-25027)
 
 [2025-04-29 - (3.3) Staff Report - 1140 Fanshawe Park Road East - Z-25027](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115916>)
 
@@ -581,7 +579,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.4&nbsp;&nbsp;&nbsp;459 Hales Street (Z-25026)
+## 3.4&nbsp;&nbsp;&nbsp;459 Hales Street (Z-25026)
 
 [2025-04-29 - (3.4) Staff Report - 459 Hale Street](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115919>)
 
@@ -672,7 +670,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.5&nbsp;&nbsp;&nbsp;3849 Campbell Street North (Z-9614)
+## 3.5&nbsp;&nbsp;&nbsp;3849 Campbell Street North (Z-9614)
 
 [2025-04-29 - (3.5) Staff Report - 3849 Campbell Street - Z-9614](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115925>)
 
@@ -759,7 +757,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.6&nbsp;&nbsp;&nbsp;City-Wide: Revised Requirements for Notice of Application and Notice of Public Participation Meetings (O-25007)
+## 3.6&nbsp;&nbsp;&nbsp;City-Wide: Revised Requirements for Notice of Application and Notice of Public Participation Meetings (O-25007)
 
 [2025-04-29 - (3.6) Staff Report - Revised Notice Requirements - O-25007](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115918>)
 
@@ -836,9 +834,9 @@ Motion to close the public participation meeting.
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
-### 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
+## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
 [2025-04-29 PEC Deferred Matters List](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115915>)
 
@@ -861,7 +859,7 @@ That the Deferred Matters List BE RECEIVED.
 
 ****
 
-## 6.&nbsp;&nbsp;&nbsp;Adjournment
+# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

@@ -99,7 +99,7 @@ class Meeting:
     output += f"date: {self.yyyy_mm_dd()}\n"
     output += "---\n"
 
-    output += f"# {self.title}\n\n"
+    # We don't need to add a title, it's covered by Quartz (ArticleTitle)
     output += "{d:%B} {d.day}, {d.year}, at {d:%l}:{d.minute:02} {d:%p}\n\n".format(d=self.datetime)
     output += f"[Original link]({self.url})\n\n"
 
@@ -111,7 +111,7 @@ class Meeting:
     output += f"{self.content.format_markdown()}\n\n"
 
     for item in self.items.values():
-      output += item.format_markdown(2, "")
+      output += item.format_markdown(1, "")
     return output
 
   def yyyy_mm(self):

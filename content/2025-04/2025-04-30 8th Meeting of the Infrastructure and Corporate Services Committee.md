@@ -2,8 +2,6 @@
 title: 8th Meeting of the Infrastructure and Corporate Services Committee
 date: 2025-04-30
 ---
-# 8th Meeting of the Infrastructure and Corporate Services Committee
-
 April 30, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=93a8828f-cb4f-4c01-80d4-4d9fd370c150&Agenda=PostMinutes&lang=English)
@@ -22,11 +20,11 @@ April 30, 2025, at  1:00 PM
 
 The meeting is called to order at 1:02 PM.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -47,7 +45,7 @@ That Consent Items 2.1 to 2.9 BE APPROVED with the exception of items 2.2, 2.4, 
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;1st Report of the County City Liaison Committee
+## 2.1&nbsp;&nbsp;&nbsp;1st Report of the County City Liaison Committee
 
 [2025-04-04 CCLC Report 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116044>)
 
@@ -69,7 +67,7 @@ b)   clauses 1.1, 4.1, 4.2, 4.3, 4.5 and 4.6 BE RECEIVED.
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;Court Security and Prisoner Transportation Program Transfer Payment Agreement
+## 2.3&nbsp;&nbsp;&nbsp;Court Security and Prisoner Transportation Program Transfer Payment Agreement
 
 [2025-04-30 Staff Report - Court Security and Prisoner Transportation](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116048>)
 
@@ -93,7 +91,7 @@ e)    authorize the Deputy City Manager, Finance Supports (or designate) to ex
 
 ****
 
-### 2.6&nbsp;&nbsp;&nbsp;Employee Attendance 2024
+## 2.6&nbsp;&nbsp;&nbsp;Employee Attendance 2024
 
 [2025-04-30 Staff Report - Employee Attendance Report 2024](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116052>)
 
@@ -107,7 +105,7 @@ That, on the recommendation of the Deputy City Manager, Enterprise Supports, the
 
 ****
 
-### 2.8&nbsp;&nbsp;&nbsp;Amendments to the Waste Discharge By-law WM-16 and the Wastewater and Stormwater By-law WM-28
+## 2.8&nbsp;&nbsp;&nbsp;Amendments to the Waste Discharge By-law WM-16 and the Wastewater and Stormwater By-law WM-28
 
 [2025-04-30 Staff Report - Amendments to the Waste Discharge](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116046>)
 
@@ -125,7 +123,7 @@ b)    the proposed amending by-law, appended to the staff report dated April 3
 
 ****
 
-### 2.9&nbsp;&nbsp;&nbsp;Springbank Dam Contract Amendment 
+## 2.9&nbsp;&nbsp;&nbsp;Springbank Dam Contract Amendment 
 
 [2025-04-30 Staff Report - Springbank Dam Contract Amendment](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116047>)
 
@@ -153,7 +151,7 @@ g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Commemorative Naming of Streets and City Assets - Status Update
+## 2.2&nbsp;&nbsp;&nbsp;Commemorative Naming of Streets and City Assets - Status Update
 
 [2025-04-30 Staff Report - Commemorative Naming of Streets](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116049>)
 
@@ -271,7 +269,7 @@ d)    the Civic Administration BE DIRECTED to rename Trooper Wilson Place to P
 
 ****
 
-### 2.4&nbsp;&nbsp;&nbsp;2024 Year-End Operating Budget Monitoring Report
+## 2.4&nbsp;&nbsp;&nbsp;2024 Year-End Operating Budget Monitoring Report
 
 [2025-04-30 Staff Report - 2024 Year-End Operating Budget](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116050>)
 
@@ -318,7 +316,7 @@ it being further noted that the Infrastructure and Corporate Services Committee 
 
 ****
 
-### 2.5&nbsp;&nbsp;&nbsp;2024 Year-End Capital Budget Monitoring Report
+## 2.5&nbsp;&nbsp;&nbsp;2024 Year-End Capital Budget Monitoring Report
 
 [2025-04-30 Staff Report - 2024 Year-End Capital Budget](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116051>)
 
@@ -368,7 +366,7 @@ E) other net non-rate supported funding sources of $0.4 million BE ADJUSTED in o
 
 ****
 
-### 2.7&nbsp;&nbsp;&nbsp;Delegation of Authority By-law Update
+## 2.7&nbsp;&nbsp;&nbsp;Delegation of Authority By-law Update
 
 [2025-04-30 Staff Report - Delegation of Authority](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116045>)
 
@@ -390,23 +388,23 @@ That, on the recommendation of the Deputy City Manager, Environment and Infrastr
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential 
+# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

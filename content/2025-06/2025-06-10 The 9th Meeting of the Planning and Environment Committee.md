@@ -2,8 +2,6 @@
 title: The 9th Meeting of the Planning and Environment Committee
 date: 2025-06-10
 ---
-# The 9th Meeting of the Planning and Environment Committee
-
 June 10, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=6771e286-ecd1-4ee9-b866-48a963f9d733&Agenda=PostMinutes&lang=English)
@@ -19,13 +17,13 @@ June 10, 2025, at  1:00 PM
 
 The meeting was called to order at 1:00 PM.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
-### 2.1&nbsp;&nbsp;&nbsp;Intention to Expand the Hyde Park Business Improvement Area (BIA) 
+## 2.1&nbsp;&nbsp;&nbsp;Intention to Expand the Hyde Park Business Improvement Area (BIA) 
 
 [2025-06-10 - (2.1) Staff Report - Hyde Park BIA Expansion](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117586>)
 
@@ -93,7 +91,7 @@ That the referral, as amended, BE APPROVED
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Downtown London: Momentum Report 2025 
+## 2.2&nbsp;&nbsp;&nbsp;Downtown London: Momentum Report 2025 
 
 [2025-06-10 - (2.2) Downtown London Momentum Report 2025](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117587>)
 
@@ -139,9 +137,9 @@ That the delegation request from K. Nielsen, as appended to the agenda BE APPROV
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
-### 3.1&nbsp;&nbsp;&nbsp;35 Jim Ashton Street (OZ-25042) 
+## 3.1&nbsp;&nbsp;&nbsp;35 Jim Ashton Street (OZ-25042) 
 
 [2025-06-10 - (3.1) Staff Report - 35 Jim Ashton St](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117588>)
 
@@ -220,7 +218,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.2&nbsp;&nbsp;&nbsp;415 Oxford Street West (OZ-25046)
+## 3.2&nbsp;&nbsp;&nbsp;415 Oxford Street West (OZ-25046)
 
 [2025-06-10 - (3.2) Staff Report - 415 Oxford Street West](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117584>)
 
@@ -315,7 +313,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.3&nbsp;&nbsp;&nbsp;928-934 Oxford Street West (Z-25044)
+## 3.3&nbsp;&nbsp;&nbsp;928-934 Oxford Street West (Z-25044)
 
 [2025-06-10 - (3.3) Staff Report - 928-934 Oxford Street West](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117583>)
 
@@ -412,7 +410,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.4&nbsp;&nbsp;&nbsp;743 Richmond Street (OZ-25048) 
+## 3.4&nbsp;&nbsp;&nbsp;743 Richmond Street (OZ-25048) 
 
 [2025-06-10 - (3.4) Staff Report - 743 Richmond Street](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117585>)
 
@@ -524,15 +522,15 @@ Motion to close the public participation meeting.
 
 ****
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Adjournment
+# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

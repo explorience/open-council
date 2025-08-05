@@ -2,8 +2,6 @@
 title: The 8th Meeting of the Planning and Environment Committee 
 date: 2025-05-21
 ---
-# The 8th Meeting of the Planning and Environment Committee 
-
 May 21, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=12e446d7-95cd-45ad-8dc4-8e95c0d95771&Agenda=PostMinutes&lang=English)
@@ -22,11 +20,11 @@ May 21, 2025, at  1:00 PM
 
 This meeting was called to order at 1:06 PM.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -66,7 +64,7 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;1st Report of the Community Advisory Committee on Planning 
+## 2.1&nbsp;&nbsp;&nbsp;1st Report of the Community Advisory Committee on Planning 
 
 [2025-04-17 CACP Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116722>)
 
@@ -80,7 +78,7 @@ That the 1st Report of the Community Advisory Committee on Planning from its mee
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;2024 Canadian Home Builders’ Association Benchmarking Study 
+## 2.2&nbsp;&nbsp;&nbsp;2024 Canadian Home Builders’ Association Benchmarking Study 
 
 [2025-05-21 - (2.2) Staff Report - CHBA Benchmarking Study](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116695>)
 
@@ -94,7 +92,7 @@ That the 2024 Canadian Home Builder’s Association Benchmarking Study referenci
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;2024 Annual Report on Building Permit Fees
+## 2.3&nbsp;&nbsp;&nbsp;2024 Annual Report on Building Permit Fees
 
 [2025-05-21 - (2.3) Staff Report - 2024 Annual Report on Building Permit Fees](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116719>)
 
@@ -108,7 +106,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 2.4&nbsp;&nbsp;&nbsp;Administrative Monetary Penalty System By-Law - Site Alteration
+## 2.4&nbsp;&nbsp;&nbsp;Administrative Monetary Penalty System By-Law - Site Alteration
 
 [2025-05-21 - (2.4) Staff Report - AMPS By-law - Site Alteration](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116720>)
 
@@ -122,7 +120,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 2.5&nbsp;&nbsp;&nbsp;1364-1408 Hyde Park Road Deeming By-law
+## 2.5&nbsp;&nbsp;&nbsp;1364-1408 Hyde Park Road Deeming By-law
 
 [2025-05-21 - (2.5) Staff Report -1364-1408 Hyde Park Road  Deeming By-law](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116716>)
 
@@ -142,7 +140,7 @@ it being noted that the communication dated May 15, 2025, from D. Szpakowski, HP
 
 ****
 
-### 2.7&nbsp;&nbsp;&nbsp;Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
+## 2.7&nbsp;&nbsp;&nbsp;Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
 
 [2025-05-21 - (2.7) Staff Report - Housing Accelerator Fund Update Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116717>)
 
@@ -156,7 +154,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 2.8&nbsp;&nbsp;&nbsp;Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
+## 2.8&nbsp;&nbsp;&nbsp;Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
 
 [2025-05-21 - (2.8) Staff Report - Housing and Community Growth CEAP Action Tracker Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116718>)
 
@@ -178,7 +176,7 @@ b)    the listed Climate Emergency Action Plan Action Items as appended to the
 
 ****
 
-### 2.9&nbsp;&nbsp;&nbsp;Building Services Report - Quarter 1 2025
+## 2.9&nbsp;&nbsp;&nbsp;Building Services Report - Quarter 1 2025
 
 [2025-05-21 - (2.9) Staff Report - Building Services Report - Q1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116715>)
 
@@ -192,7 +190,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 2.10&nbsp;&nbsp;&nbsp;Quarterly Heritage Report – Q1 2025
+## 2.10&nbsp;&nbsp;&nbsp;Quarterly Heritage Report – Q1 2025
 
 [2025-05-21 - (2.10) Staff Report - Heritage Report Q1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116721>)
 
@@ -206,7 +204,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 2.11&nbsp;&nbsp;&nbsp;Update on Green Development Guidelines (Framework)
+## 2.11&nbsp;&nbsp;&nbsp;Update on Green Development Guidelines (Framework)
 
 [2025-05-21 - (2.11) Staff Report - Green Development Project Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116697>)
 
@@ -234,7 +232,7 @@ it being noted that the communication dated May 19, 2025, from B. Samuels relate
 
 ****
 
-### 2.12&nbsp;&nbsp;&nbsp;(ADDED) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
+## 2.12&nbsp;&nbsp;&nbsp;(ADDED) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
 
 [(ADDED) 2025-05-21 - (2.12) Staff Report - Surplus School Site](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116724>)
 
@@ -256,7 +254,7 @@ b)    this report BE RECEIVED.
 
 ****
 
-### 2.6&nbsp;&nbsp;&nbsp;Heritage Alteration Permit application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+## 2.6&nbsp;&nbsp;&nbsp;Heritage Alteration Permit application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
 
 [2025-05-21 - (2.6) Staff Report - 255 Dufferin Avenue](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116709>)
 
@@ -330,7 +328,7 @@ That the delegation requests from D. Lecuyer and E. van der Maarel, as appended 
 
 ****
 
-### 2.13&nbsp;&nbsp;&nbsp;(ADDED) 2nd Report of the Community Advisory Committee on Planning
+## 2.13&nbsp;&nbsp;&nbsp;(ADDED) 2nd Report of the Community Advisory Committee on Planning
 
 [(ADDED) 2025-05-21 - (2.13)  CACP Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116725>)
 
@@ -375,9 +373,9 @@ That the delegation requests from J.M. Metrailler and M. Wallace, as appended to
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
-### 3.1&nbsp;&nbsp;&nbsp;20 Clarke Road (Z-25038)
+## 3.1&nbsp;&nbsp;&nbsp;20 Clarke Road (Z-25038)
 
 [2025-05-21 - (3.1) Staff Report - 20 Clarke Rd - Z-25038](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116723>)
 
@@ -537,7 +535,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.2&nbsp;&nbsp;&nbsp;3510-3524 Colonel Talbot Road (OZ-25033)
+## 3.2&nbsp;&nbsp;&nbsp;3510-3524 Colonel Talbot Road (OZ-25033)
 
 [2025-05-21 - (3.2) Staff Report - 3510-3524 Colonel Talbot Road](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116693>)
 
@@ -632,7 +630,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.3&nbsp;&nbsp;&nbsp;1890 & 1900 Kilgorman Way (Z-25045)
+## 3.3&nbsp;&nbsp;&nbsp;1890 & 1900 Kilgorman Way (Z-25045)
 
 [2025-05-21 - (3.3) Staff Report - 1890  1900 Kilgorman Way](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116690>)
 
@@ -726,7 +724,7 @@ The Committee recesses at 3:27 PM and reconvenes at 3:40 PM.
 
 ****
 
-### 3.4&nbsp;&nbsp;&nbsp;168 Meadowlily Road South (OZ-9763)
+## 3.4&nbsp;&nbsp;&nbsp;168 Meadowlily Road South (OZ-9763)
 
 [2025-05-21 - (3.4) Staff Report - 168 Meadowlily Road South - OZ-9763](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116694>)
 
@@ -838,7 +836,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.5&nbsp;&nbsp;&nbsp;1206 Oxford Street East & 17-19 Wistow Street (Z-25036)
+## 3.5&nbsp;&nbsp;&nbsp;1206 Oxford Street East & 17-19 Wistow Street (Z-25036)
 
 [2025-05-21 - (3.5) Staff Report - 1206 Oxford 17-19 Wistow](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116691>)
 
@@ -978,7 +976,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.6&nbsp;&nbsp;&nbsp;Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
+## 3.6&nbsp;&nbsp;&nbsp;Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
 
 [2025-05-21 - (3.6) Staff Report DEMO Request Ann Block and St George Block](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116698>)
 
@@ -1125,7 +1123,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.7&nbsp;&nbsp;&nbsp;299-307 Sarnia Road (Z-25039)
+## 3.7&nbsp;&nbsp;&nbsp;299-307 Sarnia Road (Z-25039)
 
 [2025-05-21 - (3.7) Staff Report - 299-307 Sarnia Road](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116696>)
 
@@ -1224,7 +1222,7 @@ Motion to close the public participation meeting.
 
 ****
 
-### 3.8&nbsp;&nbsp;&nbsp;3334-3354 Wonderland Road South (OZ-25034)
+## 3.8&nbsp;&nbsp;&nbsp;3334-3354 Wonderland Road South (OZ-25034)
 
 [2025-05-21 - (3.8) Staff Report - 3334  3354 Wonderland Road South](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116692>)
 
@@ -1298,11 +1296,11 @@ Motion to close the public participation meeting.
 
 ****
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
-### 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
+## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
 [2025-05-21 - (5.1) Deferred Matters List](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116689>)
 
@@ -1324,7 +1322,7 @@ That the Deferred Matters List BE REVEIVED.
 
 ****
 
-## 6.&nbsp;&nbsp;&nbsp;Adjournment
+# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Hillier
 

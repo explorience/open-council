@@ -2,8 +2,6 @@
 title: 10th Special Council Meeting
 date: 2025-06-17
 ---
-# 10th Special Council Meeting
-
 June 17, 2025, at 11:00 AM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2156130b-525b-4f64-aade-d2eccfa62979&Agenda=PostMinutes&lang=English)
@@ -22,29 +20,29 @@ June 17, 2025, at 11:00 AM
 
 The meeting is called to order at 11:05 AM; it being noted that Councillors S. Trosow, C. Rahman, P. Van Meerbergen, and S. Hillier were in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED the no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Recognitions
+# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-## 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
+# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
+# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 None.
 
-## 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
+# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
+# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
-### 6.1&nbsp;&nbsp;&nbsp;Highly Supportive Housing Contribution Agreement for Indwell Community Homes Development at 346 South Street, London
+## 6.1&nbsp;&nbsp;&nbsp;Highly Supportive Housing Contribution Agreement for Indwell Community Homes Development at 346 South Street, London
 
 [2025-06-17 Staff Report - Highly Supportive Housing Contribution-Schedule l](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117368>)
 
@@ -95,31 +93,31 @@ it being noted that the Contribution Agreement for the War Memorial building und
 
 ****
 
-## 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
+# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-## 8.&nbsp;&nbsp;&nbsp;Reports
+# 8.&nbsp;&nbsp;&nbsp;Reports
 
 None.
 
-## 9.&nbsp;&nbsp;&nbsp;Added Reports
+# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-## 10.&nbsp;&nbsp;&nbsp;Deferred Matters
+# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-## 11.&nbsp;&nbsp;&nbsp;Enquiries
+# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-## 12.&nbsp;&nbsp;&nbsp;Emergent Motions
+# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-## 13.&nbsp;&nbsp;&nbsp;By-laws
+# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lehman
 
@@ -215,7 +213,7 @@ That Third Reading and Enactment of Bill No.'s 248 and 249 BE APPROVED.
 > 
 > A by-law to approve a template Contribution Agreement between The Corporation of the City of London and Indwell Community Homes for the highly supportive housing project located at 346 South Street.
 
-## 14.&nbsp;&nbsp;&nbsp;Adjournment
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
 

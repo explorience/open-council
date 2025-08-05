@@ -2,8 +2,6 @@
 title: 8th Meeting of the Strategic Priorities and Policy Committee
 date: 2025-06-17
 ---
-# 8th Meeting of the Strategic Priorities and Policy Committee
-
 June 17, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=1367e6a8-0346-4102-9179-79debdefe382&Agenda=PostMinutes&lang=English)
@@ -22,13 +20,13 @@ June 17, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
-### 2.1&nbsp;&nbsp;&nbsp;London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
+## 2.1&nbsp;&nbsp;&nbsp;London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
 
 [2025-06-17 Staff Report - LTC Governance Review](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117449>)
 
@@ -68,7 +66,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Corporate Growth Projections Update
+## 2.2&nbsp;&nbsp;&nbsp;Corporate Growth Projections Update
 
 [2025-06-17 Staff Report - Corporate Growth Projections Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117447>)
 
@@ -95,7 +93,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
+## 2.3&nbsp;&nbsp;&nbsp;Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
 
 [2025-06-17 Staff Report - City-Owned Parking Lot Redevelopment Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117448>)
 
@@ -237,9 +235,9 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
-### 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:00 PM - Presentation - Introduction to the Interim Integrity Commissioner - John Mascarin, Aird & Berlis LLP
+## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:00 PM - Presentation - Introduction to the Interim Integrity Commissioner - John Mascarin, Aird & Berlis LLP
 
 > Moved by P. Cuddy
 
@@ -269,7 +267,7 @@ That it BE NOTED that the Strategic Priorities and Policy Committee heard a verb
 
 ****
 
-### 3.2&nbsp;&nbsp;&nbsp;Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+## 3.2&nbsp;&nbsp;&nbsp;Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
 [2025-06-17 Staff Report -  AGM-LMCH](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117450>)
 
@@ -410,7 +408,7 @@ Motion to approve the balance of the motion.
 
 ****
 
-### 3.3&nbsp;&nbsp;&nbsp;Housing and Development Corporation, London 2024 Annual General Meeting of the Shareholder Annual Resolutions 
+## 3.3&nbsp;&nbsp;&nbsp;Housing and Development Corporation, London 2024 Annual General Meeting of the Shareholder Annual Resolutions 
 
 [2025-06-17 Staff Report - AGM - HDC](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117451>)
 
@@ -447,19 +445,19 @@ c)  the 2024 Financial Statements BE RECEIVED.
 
 ****
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential 
+# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

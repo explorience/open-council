@@ -2,8 +2,6 @@
 title: 2nd Meeting of the Budget Committee
 date: 2025-05-22
 ---
-# 2nd Meeting of the Budget Committee
-
 May 22, 2025, at 10:00 AM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English)
@@ -22,11 +20,11 @@ May 22, 2025, at 10:00 AM
 
 The meeting is called to order at 10:03 AM; it being noted that Councillors S. Hillier and P. Van Meerbergen were in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -56,7 +54,7 @@ That Consent Items 2.1 and 2.2 BE APPROVED.
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;2026 Budget Request - D. Trentowsky, Chair and T. Annett, General Manager, Upper Thames River Conservation Authority
+## 2.1&nbsp;&nbsp;&nbsp;2026 Budget Request - D. Trentowsky, Chair and T. Annett, General Manager, Upper Thames River Conservation Authority
 
 [2025-05-22 Submission - UTRCA](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116664>)
 
@@ -70,7 +68,7 @@ That the communication dated April 29, 2025 from D. Trentowsky, Chair and T. Ann
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Update on Budget Engagement with Agencies, Boards and Commissions - Budget Chair/Councillor E. Peloza
+## 2.2&nbsp;&nbsp;&nbsp;Update on Budget Engagement with Agencies, Boards and Commissions - Budget Chair/Councillor E. Peloza
 
 [2025-05-22 Submission - Update on Budget Engagement with ABC](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116665>)
 
@@ -84,13 +82,13 @@ That the communication dated May 9, 2025 from Budget Chair/Councillor E. Peloza 
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;2026 Annual Budget Update - Status Update
+## 4.1&nbsp;&nbsp;&nbsp;2026 Annual Budget Update - Status Update
 
 [2025-05-22 Staff Report - 2026 Annual Budget Update–Status Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116666>)
 
@@ -513,7 +511,7 @@ Appendix C, Ref # - 5    Capital Financing – Climate Change Reserve Fund Con
 
 ****
 
-### 4.2&nbsp;&nbsp;&nbsp;Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
+## 4.2&nbsp;&nbsp;&nbsp;Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
 
 [2025-05-22 Submission - Budget LEDC-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116667>)
 
@@ -571,7 +569,7 @@ That the communication dated May 11, 2025 from Councillor S. Stevenson regarding
 
 ****
 
-### 4.3&nbsp;&nbsp;&nbsp;Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
+## 4.3&nbsp;&nbsp;&nbsp;Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
 
 [2025-05-22 Submission - Budget Cycling Lanes-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116668>)
 
@@ -769,15 +767,15 @@ That the Civic Administration BE DIRECTED to report back to a future meeting of 
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential 
+# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

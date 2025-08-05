@@ -2,8 +2,6 @@
 title: 3rd Meeting of the Budget Committee
 date: 2025-06-11
 ---
-# 3rd Meeting of the Budget Committee
-
 June 11, 2025, at 10:00 AM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=1c92b4d5-0907-497a-b5a9-6c15e10f2919&Agenda=PostMinutes&lang=English)
@@ -19,13 +17,13 @@ June 11, 2025, at 10:00 AM
 
 The meeting is called to order at 10:01 AM; it being noted that Deputy Mayor S. Lewis and Councillors P. Van Meerbergen, D. Ferreira, and S. Hillier; were in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
-### 2.1&nbsp;&nbsp;&nbsp;2026 Annual Budget Update - Next Steps
+## 2.1&nbsp;&nbsp;&nbsp;2026 Annual Budget Update - Next Steps
 
 [2025-06-11 Staff Report - 2026 Annual Budget Update Next Steps](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117423>)
 
@@ -58,11 +56,11 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by C. Rahman
 
@@ -93,7 +91,7 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-### 4.1&nbsp;&nbsp;&nbsp;Communication - Museum London - J. Bevan, Executive Director
+## 4.1&nbsp;&nbsp;&nbsp;Communication - Museum London - J. Bevan, Executive Director
 
 [2025-06-11 Submission - Museum London](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117424>)
 
@@ -157,7 +155,7 @@ That the delegation request from J. Bevan, Executive Director, Museum London BE 
 
 ****
 
-### 4.2&nbsp;&nbsp;&nbsp;Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
+## 4.2&nbsp;&nbsp;&nbsp;Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
 
 [2025-06-11 Submission - Middlesex-London Health Unit](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117422>)
 
@@ -221,7 +219,7 @@ That the delegation request from E. Williams, Chief Executive Officer, Middlesex
 
 ****
 
-### 4.3&nbsp;&nbsp;&nbsp;Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
+## 4.3&nbsp;&nbsp;&nbsp;Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
 
 [2025-06-11 Submission - Heritage Budget-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117425>)
 
@@ -322,7 +320,7 @@ That this matter BE REFERRED to Civic Administration to bring forward a report t
 
 ****
 
-### 4.4&nbsp;&nbsp;&nbsp;Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
+## 4.4&nbsp;&nbsp;&nbsp;Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
 
 [2025-06-11 Submission - Advisory Budget-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117426>)
 
@@ -381,7 +379,7 @@ That the Civic Administration BE DIRECTED to prepare a Business Case for Council
 
 ****
 
-### 4.5&nbsp;&nbsp;&nbsp;(ADDED) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
+## 4.5&nbsp;&nbsp;&nbsp;(ADDED) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
 
 [2025-06-11 Submission - (4.5) Kettle Creek](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117427>)
 
@@ -447,7 +445,7 @@ That the delegation request from E. VanHooren, General Manager/Secretary Treasur
 
 ****
 
-### 4.6&nbsp;&nbsp;&nbsp;(ADDED) Budget Updates Requested by the Mayor and the Budget Chair
+## 4.6&nbsp;&nbsp;&nbsp;(ADDED) Budget Updates Requested by the Mayor and the Budget Chair
 
 > Moved by J. Morgan
 
@@ -551,7 +549,7 @@ That the London & Middlesex Housing Corporation BE REQUESTED to prepare a busine
 
 ****
 
-### 4.7&nbsp;&nbsp;&nbsp;(ADDED) Development Charges Act - Mayor J. Morgan
+## 4.7&nbsp;&nbsp;&nbsp;(ADDED) Development Charges Act - Mayor J. Morgan
 
 [2025-06-11 Submission - Development Charges Act-Mayor](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117429>)
 
@@ -584,15 +582,15 @@ That it BE NOTED that the Budget Committee received a communication and presenta
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential 
+# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

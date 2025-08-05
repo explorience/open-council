@@ -2,8 +2,6 @@
 title: 9th Meeting of the Community and Protective Services Committee
 date: 2025-05-20
 ---
-# 9th Meeting of the Community and Protective Services Committee
-
 May 20, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=47230f37-cf06-4b2f-8a2f-e67ccc151b58&Agenda=PostMinutes&lang=English)
@@ -19,11 +17,11 @@ May 20, 2025, at  1:00 PM
 
 The meeting was called to order at 1:01 PM.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -44,7 +42,7 @@ That Items 2.1 to 2.4 BE APPROVED.
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;1st Report of the Environmental Stewardship and Action Community Advisory Committee
+## 2.1&nbsp;&nbsp;&nbsp;1st Report of the Environmental Stewardship and Action Community Advisory Committee
 
 [2025-04-25 ESACAC Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116672>)
 
@@ -58,7 +56,7 @@ That the 1st Report of the Environmental Stewardship and Action Community Adviso
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;1st Report of the Accessibility Community Advisory Committee
+## 2.2&nbsp;&nbsp;&nbsp;1st Report of the Accessibility Community Advisory Committee
 
 [2025-05-08 ACAC Report 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116673>)
 
@@ -72,7 +70,7 @@ That the 1st Report of the Accessibility Community Advisory Committee, from the 
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;Single Source SS-2024-074 Bulk White Field Marking Paint
+## 2.3&nbsp;&nbsp;&nbsp;Single Source SS-2024-074 Bulk White Field Marking Paint
 
 [2025-05-20 SR SS 2024-074 - Bulk White Field Marking Paint](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116674>)
 
@@ -92,7 +90,7 @@ c)    the approval and authorization provided for in a) and b) above, BE CONDI
 
 ****
 
-### 2.4&nbsp;&nbsp;&nbsp;London Fire Department Fire Master Plan Annual Update
+## 2.4&nbsp;&nbsp;&nbsp;London Fire Department Fire Master Plan Annual Update
 
 [2025-05-20 SR Fire Master Plan Action Plan Annual Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116675>)
 
@@ -106,13 +104,13 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;Whole of Community System Response Overview
+## 4.1&nbsp;&nbsp;&nbsp;Whole of Community System Response Overview
 
 [2025-05-20 Sub. Overview of Whole of Community Response - Councillor Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116676>)
 
@@ -153,7 +151,7 @@ That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pri
 
 ****
 
-### 4.2&nbsp;&nbsp;&nbsp;(ADDED) Memo - Affordable and Supportive Housing Agreement Templates
+## 4.2&nbsp;&nbsp;&nbsp;(ADDED) Memo - Affordable and Supportive Housing Agreement Templates
 
 [2025-05-20 Memo Affordable and Supportive Housing Agreement Templates - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116677>)
 
@@ -196,7 +194,7 @@ c)         the Deputy City Manager, Finance Supports, or their written desig
 
 ****
 
-### 4.3&nbsp;&nbsp;&nbsp;(ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
+## 4.3&nbsp;&nbsp;&nbsp;(ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
 
 [2025-05-20 SR RFP-2024-227 - Approveal of Temp Contribution Agmts - Hill Street and Huron Street - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116680>)
 
@@ -262,7 +260,7 @@ That the delegation request from D. Astolfi, as appended to the added agenda, BE
 
 ****
 
-### 4.4&nbsp;&nbsp;&nbsp;(ADDED) 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024
+## 4.4&nbsp;&nbsp;&nbsp;(ADDED) 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024
 
 [2025-05-20 SR Dearness Home Declaration of Compliance 2024 - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116683>)
 
@@ -272,11 +270,11 @@ That the delegation request from D. Astolfi, as appended to the added agenda, BE
 
 It being noted that the staff report, dated May 20, 2025, with respect to the 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024, was withdrawn from the agenda by the Civic Administration.
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Adjournment
+# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Trosow
 

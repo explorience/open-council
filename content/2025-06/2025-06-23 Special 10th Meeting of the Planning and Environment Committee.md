@@ -2,8 +2,6 @@
 title: Special 10th Meeting of the Planning and Environment Committee
 date: 2025-06-23
 ---
-# Special 10th Meeting of the Planning and Environment Committee
-
 June 23, 2025, at 12:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0dfecc31-197f-4939-91d8-46e42f7d2ecc&Agenda=PostMinutes&lang=English)
@@ -19,13 +17,13 @@ June 23, 2025, at 12:00 PM
 
 The meeting was called to order at 12:00 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
-### 2.1&nbsp;&nbsp;&nbsp;Ontario Building Faster Fund: London's 2024 Housing Target Performance
+## 2.1&nbsp;&nbsp;&nbsp;Ontario Building Faster Fund: London's 2024 Housing Target Performance
 
 [2025-06-23 Staff Report - London](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117463>)
 
@@ -55,21 +53,21 @@ c)    AUTHORIZE the Deputy City Manager, Housing and Community Growth, or thei
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential
+# 6.&nbsp;&nbsp;&nbsp;Confidential
 
-### 6.1&nbsp;&nbsp;&nbsp;Confidential Information Supplied by Canada/Province/Territory/Crown Agency of Same              
+## 6.1&nbsp;&nbsp;&nbsp;Confidential Information Supplied by Canada/Province/Territory/Crown Agency of Same              
 
 > Moved by P. Cuddy
 
@@ -95,7 +93,7 @@ That Committee convenes In Closed Session, from 12:07 PM to 12:16 PM.
 
 ****
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

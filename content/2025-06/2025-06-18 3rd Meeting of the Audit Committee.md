@@ -2,8 +2,6 @@
 title: 3rd Meeting of the Audit Committee
 date: 2025-06-18
 ---
-# 3rd Meeting of the Audit Committee
-
 June 18, 2025, at 12:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5df3ac01-8e45-4909-928b-20f0cd036743&Agenda=PostMinutes&lang=English)
@@ -19,21 +17,21 @@ June 18, 2025, at 12:00 PM
 
 Remote Attendance:  E. Bennett, E. Hunt.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;2024 Financial Audit
+## 4.1&nbsp;&nbsp;&nbsp;2024 Financial Audit
 
 [2025-06-18 Submission - 2024 Financial Audit](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117460>)
 
@@ -61,15 +59,15 @@ b) the Audit Findings Report as prepared by KPMG for the year ending December 31
 
 ****
 
-#### 4.1.a&nbsp;&nbsp;&nbsp;Presentation - 2024 Consolidated Financial Report
+### 4.1.a&nbsp;&nbsp;&nbsp;Presentation - 2024 Consolidated Financial Report
 
 [2025-06-18 Presentation - 2024 Presentation](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117457>)
 
-#### 4.1.b&nbsp;&nbsp;&nbsp;Presentation - Audit Findings Report for the Year Ending December 31, 2024 - KPMG 
+### 4.1.b&nbsp;&nbsp;&nbsp;Presentation - Audit Findings Report for the Year Ending December 31, 2024 - KPMG 
 
 [2025-06-18 Submission - Audit Findings Report-KPMG](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117458>)
 
-### 4.2&nbsp;&nbsp;&nbsp;Internal Audit Follow Up Activities Dashboard - MNP
+## 4.2&nbsp;&nbsp;&nbsp;Internal Audit Follow Up Activities Dashboard - MNP
 
 [2025-06-18 Submission - Internal Audit Follow-Up Activities Dashboard](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117455>)
 
@@ -83,7 +81,7 @@ That the communication from MNP, with respect to the internal audit follow up ac
 
 ****
 
-### 4.3&nbsp;&nbsp;&nbsp;Community Grants Program Value for Money (VfM) Audit - MNP
+## 4.3&nbsp;&nbsp;&nbsp;Community Grants Program Value for Money (VfM) Audit - MNP
 
 [2025-06-18 Submission - Community Grants Program VFM](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117459>)
 
@@ -107,7 +105,7 @@ That in relation to the Community Grants Program, Civic Administration BE DIRECT
 
 ****
 
-### 4.4&nbsp;&nbsp;&nbsp;Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
+## 4.4&nbsp;&nbsp;&nbsp;Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
 
 [2025-06-18 Submission - Safe London for Women, Girls](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117456>)
 
@@ -125,15 +123,15 @@ Nays: (1) S. Stevenson
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential 
+# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

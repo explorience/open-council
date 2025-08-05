@@ -2,8 +2,6 @@
 title: 10th Meeting of the Infrastructure and Corporate Services Committee
 date: 2025-05-26
 ---
-# 10th Meeting of the Infrastructure and Corporate Services Committee
-
 May 26, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0b38af7-bef4-4c5e-8418-f62a726b307d&Agenda=PostMinutes&lang=English)
@@ -19,11 +17,11 @@ May 26, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -44,7 +42,7 @@ That Consent Items 2.1 to 2.11 BE APPROVED with the exception of item 2.8.
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;Standing Committee Meetings and Annual Meeting Calendar
+## 2.1&nbsp;&nbsp;&nbsp;Standing Committee Meetings and Annual Meeting Calendar
 
 [2025-05-26 Staff Report - Annual Meeting Calendar](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116634>)
 
@@ -58,7 +56,7 @@ That, on the recommendation of the City Clerk, the annual meeting calendar for t
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Enwave Update - London District Energy
+## 2.2&nbsp;&nbsp;&nbsp;Enwave Update - London District Energy
 
 [2025-05-26 Staff Report - Enwave Services](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116640>)
 
@@ -72,7 +70,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;Junior Achievement Centre, 15 Wharncliffe Road North
+## 2.3&nbsp;&nbsp;&nbsp;Junior Achievement Centre, 15 Wharncliffe Road North
 
 [2025-05-26 Staff Report - Junior Achievement Centre](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116639>)
 
@@ -94,7 +92,7 @@ d)    the Civic Administration BE AUTHORIZED to undertake all actions necessar
 
 ****
 
-### 2.4&nbsp;&nbsp;&nbsp;2025 Reserve and Reserve Fund Monitoring and Housekeeping Report
+## 2.4&nbsp;&nbsp;&nbsp;2025 Reserve and Reserve Fund Monitoring and Housekeeping Report
 
 [2025-05-26 Staff Report - 2025 Reserve and Reserve Fund Monitoring](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116644>)
 
@@ -116,7 +114,7 @@ d)    the proposed by-law, as appended to the staff report dated May 26, 2025 
 
 ****
 
-### 2.5&nbsp;&nbsp;&nbsp;2024 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring
+## 2.5&nbsp;&nbsp;&nbsp;2024 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring
 
 [2025-05-26 Staff Report - 2024 Annual Report on DC Reserve Funds and DC Monitoring](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116636>)
 
@@ -134,7 +132,7 @@ b)    the Deputy City Manager, Finance Supports BE DIRECTED to make the 2024 A
 
 ****
 
-### 2.6&nbsp;&nbsp;&nbsp;2024 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
+## 2.6&nbsp;&nbsp;&nbsp;2024 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
 
 [2025-05-26 Staff Report - 2024 Annual Report on Parkland Reserve Fund](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116637>)
 
@@ -154,7 +152,7 @@ c)    the Deputy City Manager, Finance Supports BE DIRECTED to make the 2024 P
 
 ****
 
-### 2.7&nbsp;&nbsp;&nbsp;Agreement Between the City of London and Donald Jones Management Services Inc. for Management of Centennial Hall
+## 2.7&nbsp;&nbsp;&nbsp;Agreement Between the City of London and Donald Jones Management Services Inc. for Management of Centennial Hall
 
 [2025-05-26 Staff Report - Agreement Between the City and Donald Jones Management](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116635>)
 
@@ -178,7 +176,7 @@ b)    the Mayor and the City Clerk BE AUTHORIZED to execute the agreement appr
 
 ****
 
-### 2.9&nbsp;&nbsp;&nbsp;Contract Award: Tender RFT-2025-087-Bradley Avenue Extension and White Oaks Tributary Complete Corridor from Wharncliffe Road South to Jalna Boulevard (West Leg)
+## 2.9&nbsp;&nbsp;&nbsp;Contract Award: Tender RFT-2025-087-Bradley Avenue Extension and White Oaks Tributary Complete Corridor from Wharncliffe Road South to Jalna Boulevard (West Leg)
 
 [2025-05-26 Staff Report - RFT-2025-087-Bradley-Ave-White-Oaks-Tributary](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116641>)
 
@@ -210,7 +208,7 @@ i)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 2.10&nbsp;&nbsp;&nbsp;2024 Annual Update on Budweiser Gardens
+## 2.10&nbsp;&nbsp;&nbsp;2024 Annual Update on Budweiser Gardens
 
 [2025-05-26 Staff Report - 2024 Annual Update on Budweiser Gardens](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116642>)
 
@@ -224,7 +222,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the 20
 
 ****
 
-### 2.11&nbsp;&nbsp;&nbsp;Procurement Strategy: Prioritizing Canadian Businesses
+## 2.11&nbsp;&nbsp;&nbsp;Procurement Strategy: Prioritizing Canadian Businesses
 
 [2025-05-26 Staff Report - Procurement Strategy Prioritizing Canadian Business](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116643>)
 
@@ -238,7 +236,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the Pr
 
 ****
 
-### 2.8&nbsp;&nbsp;&nbsp;Appointment of Consulting Engineers for the Infrastructure Renewal Program: Round 5
+## 2.8&nbsp;&nbsp;&nbsp;Appointment of Consulting Engineers for the Infrastructure Renewal Program: Round 5
 
 [2025-05-26 Staff Report - Appointment of Consulting Engineers for the Infrastructure Renewal](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116638>)
 
@@ -287,13 +285,13 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;2025 Council Policy Review
+## 4.1&nbsp;&nbsp;&nbsp;2025 Council Policy Review
 
 [2025-05-26 Staff Report - 2025 Council Policy Review](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116646>)
 
@@ -650,7 +648,7 @@ That the motion, as amended, BE APPROVED
 
 ****
 
-### 4.2&nbsp;&nbsp;&nbsp;Bad Debts - Aspire Food Group - Councillor S. Stevenson
+## 4.2&nbsp;&nbsp;&nbsp;Bad Debts - Aspire Food Group - Councillor S. Stevenson
 
 [2025-05-26 Submission - Bad Debts – Aspire Food Group-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116645>)
 
@@ -676,9 +674,9 @@ That the Civic Administration BE DIRECTED to prepare an information report summa
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
-### 5.1&nbsp;&nbsp;&nbsp;(ADDED) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
+## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
 
 [2025-05-26 Submission - Gainsborough and Hyde Park-C. Rahman](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116647>)
 
@@ -707,7 +705,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ****
 
-### 5.2&nbsp;&nbsp;&nbsp;(ADDED) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
+## 5.2&nbsp;&nbsp;&nbsp;(ADDED) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
 
 [2025-05-26 Submission - Infrastructure Renewal Project-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116648>)
 
@@ -736,7 +734,7 @@ b)    Civic Administration BE REQUESTED to prepare a new rendering that addres
 
 ****
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential
+# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by J. Pribil
 
@@ -760,7 +758,7 @@ The Infrastructure and Corporate Services Committee convenes In Closed session f
 
 ****
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

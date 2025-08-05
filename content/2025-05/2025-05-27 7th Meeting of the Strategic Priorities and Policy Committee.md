@@ -2,8 +2,6 @@
 title: 7th Meeting of the Strategic Priorities and Policy Committee
 date: 2025-05-27
 ---
-# 7th Meeting of the Strategic Priorities and Policy Committee
-
 May 27, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e3f739a4-d0aa-4557-86da-d2b2ff4154fd&Agenda=PostMinutes&lang=English)
@@ -22,11 +20,11 @@ May 27, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Deputy Mayor S. Lewis and Councillors E. Peloza and S. Hillier were in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -55,7 +53,7 @@ That Consent Items 2.1 to 2.3 BE APPROVED.
 
 ****
 
-### 2.1&nbsp;&nbsp;&nbsp;2025 Corporate Asset Management Plan Progress Review
+## 2.1&nbsp;&nbsp;&nbsp;2025 Corporate Asset Management Plan Progress Review
 
 [2025-05-27 Staff Report - 2025 Corporate Asset Management Plan](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116656>)
 
@@ -69,7 +67,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-### 2.2&nbsp;&nbsp;&nbsp;Strategic Plan Implementation Update: Mid-Year 2025
+## 2.2&nbsp;&nbsp;&nbsp;Strategic Plan Implementation Update: Mid-Year 2025
 
 [2025-05-27 Staff Report - Strategic Plan Implementation Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116659>)
 
@@ -83,7 +81,7 @@ That, on the recommendation of the City Manager, the report regarding 2025 Mid-Y
 
 ****
 
-### 2.3&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - Housing Development Corporation, London
+## 2.3&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - Housing Development Corporation, London
 
 [2025-05-27 Submission - Request for Shareholders Meeting-HDC](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116655>)
 
@@ -103,9 +101,9 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
-### 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
 [2025-05-27 Staff Report - AGM - London Hydro](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116657>)
 
@@ -232,9 +230,9 @@ h)    that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors,
 
 ****
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-### 4.1&nbsp;&nbsp;&nbsp;London Hydro Proposed Amendments to the Shareholder Declaration
+## 4.1&nbsp;&nbsp;&nbsp;London Hydro Proposed Amendments to the Shareholder Declaration
 
 [2025-05-27 Submission - Proposed Amendements to Declaration-London Hydro](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116658>)
 
@@ -264,7 +262,7 @@ That the communication dated May 15, 2025 from C. Graham, Chair, Board of Direct
 
 ****
 
-### 4.2&nbsp;&nbsp;&nbsp;2025 London and Middlesex Community Housing Asset Management Plan
+## 4.2&nbsp;&nbsp;&nbsp;2025 London and Middlesex Community Housing Asset Management Plan
 
 [2025-05-27 Staff Report - (4.2) 2025 LMCH Asset Management Plan](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116660>)
 
@@ -333,7 +331,7 @@ ii) additional information addressing the infrastructure gap, as listed in secti
 
 ****
 
-### 4.3&nbsp;&nbsp;&nbsp;Notification of Removal of a Board of Director from Eldon House
+## 4.3&nbsp;&nbsp;&nbsp;Notification of Removal of a Board of Director from Eldon House
 
 [2025-05-27 Submission - Notification of Removal of Board Director](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116654>)
 
@@ -372,15 +370,15 @@ d)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit appl
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential
+# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

@@ -2,8 +2,6 @@
 title: 9th Special Meeting of the Infrastructure and Corporate Services Committee
 date: 2025-05-12
 ---
-# 9th Special Meeting of the Infrastructure and Corporate Services Committee
-
 May 12, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0995fefa-bfc9-42cc-a466-ce0660170fa1&Agenda=PostMinutes&lang=English)
@@ -22,13 +20,13 @@ May 12, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor S. Franke was in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Consent
+# 2.&nbsp;&nbsp;&nbsp;Consent
 
-### 2.1&nbsp;&nbsp;&nbsp;Spring 2025 Debenture Issuance Update
+## 2.1&nbsp;&nbsp;&nbsp;Spring 2025 Debenture Issuance Update
 
 [2025-05-12 Staff Report - Spring 2025 Debenture Issuance Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116066>)
 
@@ -54,23 +52,23 @@ b)    the proposed by-law, as appended to the staff report dated May 12, 2025 
 
 ****
 
-## 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Items for Direction
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-## 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-## 6.&nbsp;&nbsp;&nbsp;Confidential 
+# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-## 7.&nbsp;&nbsp;&nbsp;Adjournment
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 
