@@ -1,6 +1,6 @@
 ---
 title: 9th Meeting of the Community and Protective Services Committee
-
+date: 2025-05-20
 ---
 # 9th Meeting of the Community and Protective Services Committee
 

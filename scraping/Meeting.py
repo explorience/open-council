@@ -95,7 +95,8 @@ class Meeting:
   def format_markdown(self):
     output = ""
     output += "---\n"
-    output += f"title: {self.title}\n\n"
+    output += f"title: {self.title}\n"
+    output += f"date: {self.yyyy_mm_dd()}\n"
     output += "---\n"
 
     output += f"# {self.title}\n\n"
@@ -114,7 +115,10 @@ class Meeting:
     return output
 
   def yyyy_mm(self):
-    return "{d.year}-{d.month:02}".format(d=self.datetime)
+    return self.datetime.strftime("%Y-%m")
+
+  def yyyy_mm_dd(self):
+    return self.datetime.strftime("%Y-%m-%d")
 
   def format_title(self):
-    return "{d.year}-{d.month:02}-{d.day:02}".format(d=self.datetime) + " " + self.title
+    return f"{self.yyyy_mm_dd()} {self.title}"

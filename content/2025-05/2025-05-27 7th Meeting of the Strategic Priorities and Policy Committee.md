@@ -1,6 +1,6 @@
 ---
 title: 7th Meeting of the Strategic Priorities and Policy Committee
-
+date: 2025-05-27
 ---
 # 7th Meeting of the Strategic Priorities and Policy Committee
 

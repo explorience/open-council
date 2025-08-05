@@ -1,6 +1,6 @@
 ---
 title: 9th Council Meeting
-
+date: 2025-06-03
 ---
 # 9th Council Meeting
 

@@ -1,6 +1,6 @@
 ---
 title: 10th Meeting of the Infrastructure and Corporate Services Committee
-
+date: 2025-05-26
 ---
 # 10th Meeting of the Infrastructure and Corporate Services Committee
 

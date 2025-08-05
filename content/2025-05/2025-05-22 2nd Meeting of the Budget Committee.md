@@ -1,6 +1,6 @@
 ---
 title: 2nd Meeting of the Budget Committee
-
+date: 2025-05-22
 ---
 # 2nd Meeting of the Budget Committee
 
