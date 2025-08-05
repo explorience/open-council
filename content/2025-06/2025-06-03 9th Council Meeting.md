@@ -141,7 +141,7 @@ That Council convenes in Closed Session from 4:22 PM to 4:41 PM.
 
 ### 5.1&nbsp;&nbsp;&nbsp;8th Meeting held on May 13, 2025
 
-[2025-05-13 Council Minutes.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117363)
+[2025-05-13 Council Minutes](</2025-05/2025-05-13 8th Council Meeting.md>)
 
 > Motion made by D. Ferreira
 
@@ -246,7 +246,7 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ### 6.1&nbsp;&nbsp;&nbsp;Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority")
 
-[2025-06-03 SR Expropriation of Lands - Wellington Gateway Project - Report 2 of 3.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117358)
+[2025-06-03 SR Expropriation of Lands - Wellington Gateway Project - Report 2 of 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117358>)
 
 > Motion made by P. Cuddy
 
@@ -342,7 +342,7 @@ That the meeting of the Approving Authority BE ADJOURNED and that Council reconv
 
 ### 6.2&nbsp;&nbsp;&nbsp;Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Expropriating Authority") (Relates to Bill No. 247)
 
-[2025-06-03 SR Expropriation of Lands - Wellington Gateway Project - Report 3 of 3.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117359)
+[2025-06-03 SR Expropriation of Lands - Wellington Gateway Project - Report 3 of 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117359>)
 
 > Motion made by S. Hillier
 
@@ -387,7 +387,7 @@ None.
 
 ### 8.1&nbsp;&nbsp;&nbsp;8th Report of the Planning and Environment Committee
 
-[2025-05-21 - PEC REPORT.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117356)
+[2025-05-21 - PEC REPORT](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee >)
 
 > Motion made by S. Lehman
 
@@ -1236,7 +1236,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ### 8.2&nbsp;&nbsp;&nbsp;7th Report of the Strategic Priorities and Policy Committee
 
-[2025-05-27 SPPC Report 7.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117361)
+[2025-05-27 SPPC Report 7](</2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee>)
 
 > Motion made by C. Rahman
 
@@ -1448,7 +1448,7 @@ b)    the “2025 London and Middlesex Community Housing Asset Management Plan
 
 ### 8.3&nbsp;&nbsp;&nbsp;10th Report of the Infrastructure and Corporate Services Committee
 
-[2025-05-26 ICSC Report 10.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117360)
+[2025-05-26 ICSC Report 10](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -2060,7 +2060,7 @@ That it BE NOTED that the Infrastructure and Corporate Services Committee receiv
 
 ### 8.4&nbsp;&nbsp;&nbsp;9th Report of the Community and Protective Services Committee
 
-[2025-05-20 CPSC Report.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117357)
+[2025-05-20 CPSC Report](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by D. Ferreira
 
@@ -2363,7 +2363,7 @@ The Civic Administration BE DIRECTED to include provisions in all future agreeme
 
 ### 8.5&nbsp;&nbsp;&nbsp;2nd Report of the Budget Committee
 
-[2025-05-22 Budget Report 2.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117362)
+[2025-05-22 Budget Report 2](</2025-05/2025-05-22 2nd Meeting of the Budget Committee>)
 
 > Motion made by E. Peloza
 
@@ -3856,7 +3856,7 @@ That Third Reading and Enactment of Bill No.’s 180 to Revised Bill No. 245, ex
 > 
 > **Bill No. 240**
 > 
->  By-law No. Z.-1-253320 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 20 Clarke Road (3.1/8/PEC)
+> By-law No. Z.-1-253320 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 20 Clarke Road (3.1/8/PEC)
 > 
 > **Bill No. 241**
 > 

@@ -80,9 +80,9 @@ That Council convenes In Closed Session from 1:18 PM to 1:25 PM.
 
 ### 5.1&nbsp;&nbsp;&nbsp;9th and 10th Meetings held on June 3, 2025 and June 17, 2025
 
-[2025-06-03 Council Minutes.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117890)
+[2025-06-03 Council Minutes](</2025-06/2025-06-03 9th Council Meeting.md>)
 
-[2025-06-17 Special Council Minutes 10.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117891)
+[2025-06-17 Special Council Minutes 10](</2025-06/2025-06-17 10th Special Council Meeting.md>)
 
 > Motion made by P. Van Meerbergen
 
@@ -180,7 +180,7 @@ None.
 
 ### 8.1&nbsp;&nbsp;&nbsp;8th Report of the Strategic Priorities and Policy Committee
 
-[2025-06-17 SPPC Report 8.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117886)
+[2025-06-17 SPPC Report 8](</2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee>)
 
 > Motion made by S. Lewis
 
@@ -349,7 +349,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ### 8.2&nbsp;&nbsp;&nbsp;11th Report of the Infrastructure and Corporate Services Committee
 
-[2025-06-16 ICSC Report 11.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117887)
+[2025-06-16 ICSC Report 11](</2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -752,7 +752,7 @@ At 2:44 PM, Councillor H. McAlister enters the meeting.
 
 ### 8.3&nbsp;&nbsp;&nbsp;10th Report of the Community and Protective Services Committee
 
-[2025-06-09 CPSC Report.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117888)
+[2025-06-09 CPSC Report](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by D. Ferreira
 
@@ -1152,7 +1152,7 @@ At 3:45 PM, Councillors H. McAlister and S. Trosow leave the meeting.
 
 ### 8.4&nbsp;&nbsp;&nbsp;9th Report of the Planning and Environment Committee
 
-[2025-06-10 - PEC REPORT.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117885)
+[2025-06-10 - PEC REPORT](</2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -1489,7 +1489,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ### 8.5&nbsp;&nbsp;&nbsp;3rd Report of the Budget Committee
 
-[2025-06-11 Budget Report 3.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117889)
+[2025-06-11 Budget Report 3](</2025-06/2025-06-11 3rd Meeting of the Budget Committee>)
 
 > Motion made by E. Peloza
 
@@ -1648,7 +1648,7 @@ That it BE NOTED that the Budget Committee received a communication and presenta
 
 ### 8.6&nbsp;&nbsp;&nbsp;3rd Report of the Audit Committee
 
-[2025-06-18 Audit Report 3.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117892)
+[2025-06-18 Audit Report 3](</2025-06/2025-06-18 3rd Meeting of the Audit Committee>)
 
 > Motion made by E. Peloza
 
@@ -1747,7 +1747,7 @@ That the communication dated June 5, 2025 from MNP with respect to safe London f
 
 ### 8.7&nbsp;&nbsp;&nbsp;10th Special Planning and Environment Committee
 
-[2025-06-23 PEC Report 10.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117893)
+[2025-06-23 PEC Report 10](</2025-06/2025-06-23 Special 10th Meeting of the Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 

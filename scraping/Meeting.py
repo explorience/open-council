@@ -20,7 +20,7 @@ class Meeting:
     self.items = {}
     agenda = soup.find(class_="AgendaItems")
     for container in agenda:
-      item = MeetingItem(container)
+      item = MeetingItem(container, self.datetime)
       self.items[item.number] = item
 
   def get_time(self, elt):
@@ -47,7 +47,7 @@ class Meeting:
     if len(extra_info) == 3:
       [also_present, remote_attendance, content] = extra_info
     else:
-      [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br"]
+      [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
       # we need to wrap them in <p> for the adding functions
       soup = BeautifulSoup("<html></html>", 'html.parser')
       also_present = soup.new_tag("p", string=also_present)

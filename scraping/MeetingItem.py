@@ -2,11 +2,12 @@ from content import Content
 from Attachment import Attachment
 
 class MeetingItem:
-  def __init__(self, agenda_item_container):
+  def __init__(self, agenda_item_container, datetime):
     self.title = None
     self.number = ""
     self.content = []
     self.subitems = {}
+    self.datetime = datetime
 
     agenda_item = agenda_item_container.contents[0]
     self.set_attributes(agenda_item)
@@ -14,7 +15,7 @@ class MeetingItem:
     if len(agenda_item_container.contents) > 1:
       subitems = agenda_item_container.contents[1]
       for child in subitems:
-        subitem = MeetingItem(child)
+        subitem = MeetingItem(child, datetime)
         self.subitems[subitem.number] = subitem
 
 
@@ -27,7 +28,7 @@ class MeetingItem:
     if attachments:
       agenda_item_attachments = attachments.find_all(class_="AgendaItemAttachment")
       for a in agenda_item_attachments:
-        self.attachments.append(Attachment(a))
+        self.attachments.append(Attachment(a, self.datetime))
 
     self.content = Content.parse_contents(agenda_item.find(class_="AgendaItemContentRow"))
 

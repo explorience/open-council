@@ -27,7 +27,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ### 2.1&nbsp;&nbsp;&nbsp;2026 Annual Budget Update - Next Steps
 
-[2025-06-11 Staff Report - 2026 Annual Budget Update Next Steps.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117423)
+[2025-06-11 Staff Report - 2026 Annual Budget Update Next Steps](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117423>)
 
 > Moved by P. Cuddy
 
@@ -95,7 +95,7 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ### 4.1&nbsp;&nbsp;&nbsp;Communication - Museum London - J. Bevan, Executive Director
 
-[2025-06-11 Submission - Museum London.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117424)
+[2025-06-11 Submission - Museum London](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117424>)
 
 > Moved by S. Trosow
 
@@ -159,7 +159,7 @@ That the delegation request from J. Bevan, Executive Director, Museum London BE 
 
 ### 4.2&nbsp;&nbsp;&nbsp;Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
 
-[2025-06-11 Submission - Middlesex-London Health Unit.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117422)
+[2025-06-11 Submission - Middlesex-London Health Unit](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117422>)
 
 > Moved by S. Franke
 
@@ -223,7 +223,7 @@ That the delegation request from E. Williams, Chief Executive Officer, Middlesex
 
 ### 4.3&nbsp;&nbsp;&nbsp;Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
 
-[2025-06-11 Submission - Heritage Budget-S. Stevenson.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117425)
+[2025-06-11 Submission - Heritage Budget-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117425>)
 
 > Moved by S. Franke
 
@@ -308,7 +308,7 @@ That this matter BE REFERRED to Civic Administration to bring forward a report t
 
 ### 4.4&nbsp;&nbsp;&nbsp;Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
 
-[2025-06-11 Submission - Advisory Budget-S. Stevenson.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117426)
+[2025-06-11 Submission - Advisory Budget-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117426>)
 
 > Moved by P. Cuddy
 
@@ -367,9 +367,9 @@ That the Civic Administration BE DIRECTED to prepare a Business Case for Council
 
 ### 4.5&nbsp;&nbsp;&nbsp;(ADDED) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
 
-[2025-06-11 Submission - (4.5) Kettle Creek.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117427)
+[2025-06-11 Submission - (4.5) Kettle Creek](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117427>)
 
-[2025-06-11 Submission - (4.5) Kettle Creek-Presentation1.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117428)
+[2025-06-11 Submission - (4.5) Kettle Creek-Presentation1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117428>)
 
 > Moved by S. Franke
 
@@ -525,9 +525,9 @@ That the London & Middlesex Housing Corporation BE REQUESTED to prepare a busine
 
 ### 4.7&nbsp;&nbsp;&nbsp;(ADDED) Development Charges Act - Mayor J. Morgan
 
-[2025-06-11 Submission - Development Charges Act-Mayor.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117429)
+[2025-06-11 Submission - Development Charges Act-Mayor](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117429>)
 
-[2025-06-11 Submission - Development Charges Act-Ministry of Municipal Affairs.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117430)
+[2025-06-11 Submission - Development Charges Act-Ministry of Municipal Affairs](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117430>)
 
 > Moved by P. Cuddy
 

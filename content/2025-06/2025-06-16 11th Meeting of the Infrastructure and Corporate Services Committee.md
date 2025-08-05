@@ -46,7 +46,7 @@ That Consent Items 2.1 to 2.9 BE APPROVED.
 
 ### 2.1&nbsp;&nbsp;&nbsp;Time and Attendance Software, Single Source 25-135 Purchase
 
-[2025-06-16 Staff Report - Time and Attendance.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117435)
+[2025-06-16 Staff Report - Time and Attendance](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117435>)
 
 > Moved by A. Hopkins
 
@@ -68,7 +68,7 @@ d)    the proposed revised by-law (as appended to the added agenda as Appendix
 
 ### 2.2&nbsp;&nbsp;&nbsp;RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award
 
-[2025-06-16 Staff Report - RFT-2024-215 Adelaide Flood Protection.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117438)
+[2025-06-16 Staff Report - RFT-2024-215 Adelaide Flood Protection](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117438>)
 
 > Moved by A. Hopkins
 
@@ -94,7 +94,7 @@ f)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ### 2.3&nbsp;&nbsp;&nbsp;Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth
 
-[2025-06-16 Staff Report - Appointment of Consulting Engineer RFP 2025-079.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117439)
+[2025-06-16 Staff Report - Appointment of Consulting Engineer RFP 2025-079](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117439>)
 
 > Moved by A. Hopkins
 
@@ -118,7 +118,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ### 2.4&nbsp;&nbsp;&nbsp;Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects
 
-[2025-06-16 Staff Report - Funding to Support UTRCA.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117437)
+[2025-06-16 Staff Report - Funding to Support UTRCA](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117437>)
 
 > Moved by A. Hopkins
 
@@ -148,7 +148,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ### 2.5&nbsp;&nbsp;&nbsp;Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project
 
-[2025-06-16 Staff Report - Contract Award-London Downtown Sewer.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117436)
+[2025-06-16 Staff Report - Contract Award-London Downtown Sewer](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117436>)
 
 > Moved by A. Hopkins
 
@@ -174,7 +174,7 @@ f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ### 2.6&nbsp;&nbsp;&nbsp;Procurement of Goods & Services Policy Update
 
-[2025-06-16 Staff Report - Procurement of Goods and Services Policy.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117434)
+[2025-06-16 Staff Report - Procurement of Goods and Services Policy](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117434>)
 
 > Moved by A. Hopkins
 
@@ -188,7 +188,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the pr
 
 ### 2.7&nbsp;&nbsp;&nbsp;Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
 
-[2025-06-16 Staff Report - (2.7) Industrial Land Dev. Strategy.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117443)
+[2025-06-16 Staff Report - (2.7) Industrial Land Dev. Strategy](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117443>)
 
 > Moved by A. Hopkins
 
@@ -230,7 +230,7 @@ Surcharges are as follows: 
 
 ### 2.8&nbsp;&nbsp;&nbsp;Declare Surplus – 47 Outer Drive
 
-[2025-06-16 Staff Report - Declare Surplus-47 Outer Dr.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117440)
+[2025-06-16 Staff Report - Declare Surplus-47 Outer Dr](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117440>)
 
 > Moved by A. Hopkins
 
@@ -248,7 +248,7 @@ b)    the subject property (“Surplus Lands”) BE SOLD in accordance with th
 
 ### 2.9&nbsp;&nbsp;&nbsp;Declare Surplus - City-Owned Property - 2528 Main Street
 
-[2025-06-16 Staff Report - Declare Surplus-2528 Main St.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117441)
+[2025-06-16 Staff Report - Declare Surplus-2528 Main St](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117441>)
 
 > Moved by A. Hopkins
 
@@ -266,7 +266,7 @@ b)    the subject property (“Surplus Lands”) BE SOLD to the abutting prope
 
 ### 2.10&nbsp;&nbsp;&nbsp;City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement
 
-[2025-06-16 Staff Report - City-County Cost Apportionment Agreements.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117442)
+[2025-06-16 Staff Report - City-County Cost Apportionment Agreements](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117442>)
 
 > Moved by S. Franke
 

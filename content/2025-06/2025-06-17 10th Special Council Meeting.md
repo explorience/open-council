@@ -46,9 +46,9 @@ None.
 
 ### 6.1&nbsp;&nbsp;&nbsp;Highly Supportive Housing Contribution Agreement for Indwell Community Homes Development at 346 South Street, London
 
-[2025-06-17 Staff Report - Highly Supportive Housing Contribution-Schedule l.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117368)
+[2025-06-17 Staff Report - Highly Supportive Housing Contribution-Schedule l](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117368>)
 
-[2025-06-17 Staff Report - Highly Supportive Housing Contribution.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117371)
+[2025-06-17 Staff Report - Highly Supportive Housing Contribution](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117371>)
 
 At 11:09 AM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
 
@@ -204,12 +204,14 @@ That Third Reading and Enactment of Bill No.'s 248 and 249 BE APPROVED.
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 248**
->  By-law No. A.-8611-192        
+> 
+> By-law No. A.-8611-192        
 > 
 > A by-law to confirm the proceedings of the Special Council Meeting held on the 17th day of June 2025. (City Clerk)
 > 
 > **Bill No. 249**
->  By-law No. A.-8612-193       
+> 
+> By-law No. A.-8612-193       
 > 
 > A by-law to approve a template Contribution Agreement between The Corporation of the City of London and Indwell Community Homes for the highly supportive housing project located at 346 South Street.
 

@@ -35,7 +35,7 @@ None.
 
 ### 4.1&nbsp;&nbsp;&nbsp;2024 Financial Audit
 
-[2025-06-18 Submission - 2024 Financial Audit.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117460)
+[2025-06-18 Submission - 2024 Financial Audit](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117460>)
 
 > Moved by P. Cuddy
 
@@ -63,15 +63,15 @@ b) the Audit Findings Report as prepared by KPMG for the year ending December 31
 
 #### 4.1.a&nbsp;&nbsp;&nbsp;Presentation - 2024 Consolidated Financial Report
 
-[2025-06-18 Presentation - 2024 Presentation.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117457)
+[2025-06-18 Presentation - 2024 Presentation](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117457>)
 
 #### 4.1.b&nbsp;&nbsp;&nbsp;Presentation - Audit Findings Report for the Year Ending December 31, 2024 - KPMG 
 
-[2025-06-18 Submission - Audit Findings Report-KPMG.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117458)
+[2025-06-18 Submission - Audit Findings Report-KPMG](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117458>)
 
 ### 4.2&nbsp;&nbsp;&nbsp;Internal Audit Follow Up Activities Dashboard - MNP
 
-[2025-06-18 Submission - Internal Audit Follow-Up Activities Dashboard.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117455)
+[2025-06-18 Submission - Internal Audit Follow-Up Activities Dashboard](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117455>)
 
 > Moved by P. Cuddy
 
@@ -85,7 +85,7 @@ That the communication from MNP, with respect to the internal audit follow up ac
 
 ### 4.3&nbsp;&nbsp;&nbsp;Community Grants Program Value for Money (VfM) Audit - MNP
 
-[2025-06-18 Submission - Community Grants Program VFM.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117459)
+[2025-06-18 Submission - Community Grants Program VFM](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117459>)
 
 > Moved by P. Cuddy
 
@@ -109,7 +109,7 @@ That in relation to the Community Grants Program, Civic Administration BE DIRECT
 
 ### 4.4&nbsp;&nbsp;&nbsp;Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
 
-[2025-06-18 Submission - Safe London for Women, Girls.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117456)
+[2025-06-18 Submission - Safe London for Women, Girls](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117456>)
 
 > Moved by P. Cuddy
 
