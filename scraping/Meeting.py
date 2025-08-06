@@ -55,7 +55,10 @@ class Meeting:
       extra_info = extra.find("li").find_all("p")
       if len(extra_info) == 3:
         [also_present, remote_attendance, content] = extra_info
+      elif len(extra_info) == 2:
+        [also_present, remote_attendance] = extra_info
       else:
+        # bare text
         [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
         # we need to wrap them in <p> for the adding functions
         soup = BeautifulSoup("<html></html>", 'html.parser')
@@ -102,6 +105,7 @@ class Meeting:
     <p>
      The meeting is called to order at 1:04 PM; it being noted that Councillor S. Hillier was in remote attendance.
     </p>
+    or sometimes nothing, because why not be inconsistent?
     """
     self.content = Content.parse_content(content)
 

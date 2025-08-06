@@ -1,12 +1,23 @@
 import sys
 from datetime import datetime
 from process_meeting import process_meeting, get_processing_stats
-from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types
+from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types, get_meetings
 
 target_meetings = [] # { meeting_type, date }
 
+# process specific meeting
 if len(sys.argv) == 3:
   target_meetings = [{ "meeting_type": sys.argv[1], "date": datetime.strptime(sys.argv[2], "%Y-%m-%d") }]
+
+# special option to test all meetings from this year
+# mostly to test parsing with random edge cases and inconsistencies
+elif len(sys.argv) == 2 and sys.argv[1] == "TEST_ALL_MEETINGS":
+  for meeting_type in get_meeting_types():
+    for m in get_meetings(meeting_type, 2025):
+      target_meetings.append({ "meeting_type": meeting_type, "date": meeting_date(m) })
+  target_meetings.sort(key=lambda m: m["date"])
+
+# stay up to date on council meetings
 else:
   current_year = datetime.now().year
   # check last year as well (for ex. if it's january, we might have some missed meetings in december)
@@ -25,7 +36,6 @@ if target_meetings == []:
   exit()
 
 for m in target_meetings:
-  print("Processing", m)
   process_meeting(m["meeting_type"], m["date"])
 (processed_num, error_list) = get_processing_stats()
 print(f"\nFinished processing {processed_num} meeting(s).")
@@ -34,4 +44,4 @@ if len(error_list) > 0:
   for m in error_list:
     date = m["date"]
     meeting_type = m["meeting_type"]
-    print(f"- {date.strftime('%Y-%m-%d')} {meeting_type}")
+    print(f"- '{meeting_type}' '{date.strftime('%Y-%m-%d')}'")

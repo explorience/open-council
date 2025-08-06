@@ -14,6 +14,8 @@ class Content:
 
   @staticmethod
   def parse_content(e):
+    if not e: return Content()
+
     # sometimes, there are random tables (like lists of communications)
     if e.name == "p" or e.name == "li":
       return Paragraph(e)

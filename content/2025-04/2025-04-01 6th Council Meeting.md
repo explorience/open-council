@@ -98,9 +98,9 @@ That Council convenes In Closed Session, from 1:10 PM to 1:19 PM.
 
 ## 5.1&nbsp;&nbsp;&nbsp;4th and 5th Meetings held on March 4, 2025 and March 25, 2025
 
-[2025-03-04 Council Minutes - Full](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115573>)
+[2025-03-04 Council Minutes - Full](</2025-03/2025-03-04 4th Meeting of City Council>)
 
-[2025-03-25 Special Council Minutes](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115574>)
+[2025-03-25 Special Council Minutes](</2025-03/2025-03-25 5th Special Council Meeting>)
 
 > Motion made by P. Van Meerbergen
 
