@@ -61,7 +61,7 @@ def get_minutes(target_date, meeting_type):
   meetings = get_meetings(meeting_type, target_date.year)
   right_dates = [m for m in meetings if meeting_date(m) == target_date]
   if len(right_dates) == 0:
-    print("Meeting not found")
+    print(f"Meeting {meeting_type} ({target_date.strftime('%Y-%m-%d')}) not found")
     return None
 
   print(f"Found meeting possibilities: {', '.join([meeting_name(m) for m in right_dates])}")

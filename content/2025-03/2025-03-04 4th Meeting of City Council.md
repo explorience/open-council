@@ -1449,7 +1449,7 @@ That the staff report, dated February 18, 2025, related to an Adult Entertainmen
 
 ## 8.5&nbsp;&nbsp;&nbsp;1st Report of the Audit Committee
 
-[2025-02-12 Audit Report 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115339>)
+[2025-02-12 Audit Report 1](</2025-02/2025-02-12 1st Meeting of the Audit Committee>)
 
 > Motion made by E. Peloza
 
@@ -1478,7 +1478,7 @@ That the 1st Report of the Audit Committee BE APPROVED with the exception of ite
 
 ****
 
-### 8.5.1&nbsp;&nbsp;&nbsp;(1.1) Disclosures of Pecuniary Interest
+### 8.5.1&nbsp;&nbsp;&nbsp;[(1.1)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#11disclosures-of-pecuniary-interest>) Disclosures of Pecuniary Interest
 
 > Motion made by E. Peloza
 
@@ -1498,7 +1498,7 @@ That Councillor S. Stevenson BE APPOINTED Vice Chair for the term ending Novembe
 
 ****
 
-### 8.5.3&nbsp;&nbsp;&nbsp;(4.1) Briefing Note From Internal Audit - MNP
+### 8.5.3&nbsp;&nbsp;&nbsp;[(4.1)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#41briefing-note-from-internal-audit---mnp>) Briefing Note From Internal Audit - MNP
 
 > Motion made by E. Peloza
 
@@ -1508,7 +1508,7 @@ That the communication from MNP, with respect to the briefing note from the inte
 
 ****
 
-### 8.5.4&nbsp;&nbsp;&nbsp;(4.2) Internal Audit Follow Up Activities Dashboard - MNP
+### 8.5.4&nbsp;&nbsp;&nbsp;[(4.2)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#42internal-audit-follow-up-activities-dashboard---mnp>) Internal Audit Follow Up Activities Dashboard - MNP
 
 > Motion made by E. Peloza
 
@@ -1518,7 +1518,7 @@ That the communication from MNP, with respect to the internal audit follow up ac
 
 ****
 
-### 8.5.6&nbsp;&nbsp;&nbsp;(4.4) Proposed Risk-Based Internal Audit Plan for Years 2025 and 2026 - MNP
+### 8.5.6&nbsp;&nbsp;&nbsp;[(4.4)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#44proposed-risk-based-internal-audit-plan-for-years-2025-and-2026---mnp>) Proposed Risk-Based Internal Audit Plan for Years 2025 and 2026 - MNP
 
 > Motion made by E. Peloza
 
@@ -1528,7 +1528,7 @@ That the communication dated February 12, 2025 from MNP with respect to the Prop
 
 ****
 
-### 8.5.7&nbsp;&nbsp;&nbsp;(4.5) Audit Planning Report for the Year Ending December 31, 2024 - KPMG
+### 8.5.7&nbsp;&nbsp;&nbsp;[(4.5)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#45audit-planning-report-for-the-year-ending-december-31-2024---kpmg>) Audit Planning Report for the Year Ending December 31, 2024 - KPMG
 
 > Motion made by E. Peloza
 
@@ -1538,7 +1538,7 @@ That the KPMG Audit Planning Report, for the year ending December 31, 2024, BE A
 
 ****
 
-### 8.5.8&nbsp;&nbsp;&nbsp;(4.6) London Downtown Closed-Circuit Television Program for the Year Ending December 31, 2024 - KPMG
+### 8.5.8&nbsp;&nbsp;&nbsp;[(4.6)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#46london-downtown-closed-circuit-television-program-for-the-year-ending-december-31-2024---kpmg>) London Downtown Closed-Circuit Television Program for the Year Ending December 31, 2024 - KPMG
 
 > Motion made by E. Peloza
 
@@ -1548,7 +1548,7 @@ That the KPMG Report on Specified Auditing Procedures for the London Downtown Cl
 
 ****
 
-### 8.5.9&nbsp;&nbsp;&nbsp;(4.7) 2023 Audited Board Financial Statements – Old East Village Business Improvement Area Board of Management
+### 8.5.9&nbsp;&nbsp;&nbsp;[(4.7)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#472023-audited-board-financial-statements--old-east-village-business-improvement-area-board-of-management>) 2023 Audited Board Financial Statements – Old East Village Business Improvement Area Board of Management
 
 > Motion made by E. Peloza
 
@@ -1558,7 +1558,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-### 8.5.5&nbsp;&nbsp;&nbsp;(4.3) London Housing Development Projects - Lessons Learned Review - MNP
+### 8.5.5&nbsp;&nbsp;&nbsp;[(4.3)](</2025-02/2025-02-12 1st Meeting of the Audit Committee#43london-housing-development-projects---lessons-learned-review---mnp>) London Housing Development Projects - Lessons Learned Review - MNP
 
 > Motion made by E. Peloza
 

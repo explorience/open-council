@@ -59,6 +59,10 @@ That the staff report dated June 10, 2025, related to the Hyde Park Business Imp
 
 That the referral motion BE AMENDED to read as follows:
 
+
+
+That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engagement specifically with the businesses located within the staff recommended expansion area.
+
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|

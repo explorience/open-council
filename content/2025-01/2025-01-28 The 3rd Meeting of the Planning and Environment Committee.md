@@ -16,9 +16,9 @@ January 28, 2025, at  1:00 PM
 > Councillor D. Ferreira; M. Butlin, M. Corby, L. Dent, K. Edwards, M Espinoza, D. Escobar, K. Gonyou, K. Hodgins, A. Hovius, P. Kavcic, M. Macaulay, S. Mathers, H. McNeely, B. Page, A. Shaw and K. Mason (Committee Clerk)
 
 > [!abstract]- Remote Attendance:
-> 
+> S. Corman, E. Skalski
 
-
+The meeting was called to order at 1:02 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

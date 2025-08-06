@@ -65,7 +65,8 @@ class Paragraph(Content):
       if isinstance(c, NavigableString):
         output += c
       elif c.name in ["em", "span", "strong", "sup"]:
-        output += c.contents[0]
+        # sometimes we have nested spans
+        output += Paragraph.get_text(c)
       elif c.name == "br":
         output += "\n\n"
     return output

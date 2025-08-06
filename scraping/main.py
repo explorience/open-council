@@ -5,17 +5,17 @@ from download_meeting import get_meetings, meeting_date, meeting_local_copy, mee
 
 target_meetings = [] # { meeting_type, date }
 
-# process specific meeting
 if len(sys.argv) == 3:
-  target_meetings = [{ "meeting_type": sys.argv[1], "date": datetime.strptime(sys.argv[2], "%Y-%m-%d") }]
+  # special option to test all meetings from this year
+  # mostly to test parsing with random edge cases and inconsistencies
+  if sys.argv[1] == "TEST_ALL_MEETINGS":
+    for meeting_type in get_meeting_types():
+      for m in get_meetings(meeting_type, int(sys.argv[2])):
+        target_meetings.append({ "meeting_type": meeting_type, "date": meeting_date(m) })
+    target_meetings.sort(key=lambda m: m["date"])
 
-# special option to test all meetings from this year
-# mostly to test parsing with random edge cases and inconsistencies
-elif len(sys.argv) == 2 and sys.argv[1] == "TEST_ALL_MEETINGS":
-  for meeting_type in get_meeting_types():
-    for m in get_meetings(meeting_type, 2025):
-      target_meetings.append({ "meeting_type": meeting_type, "date": meeting_date(m) })
-  target_meetings.sort(key=lambda m: m["date"])
+  # process specific meeting
+  else: target_meetings = [{ "meeting_type": sys.argv[1], "date": datetime.strptime(sys.argv[2], "%Y-%m-%d") }]
 
 # stay up to date on council meetings
 else:
@@ -35,13 +35,17 @@ if target_meetings == []:
   print("\nAlready up to date!")
   exit()
 
+def print_processing_results(text, meeting_list):
+  if len(meeting_list) > 0:
+    print(f"\n{len(meeting_list)} meeting{'' if len(meeting_list) == 1 else 's'} {text}:")
+    for m in meeting_list:
+      date = m["date"]
+      meeting_type = m["meeting_type"]
+      print(f"- '{meeting_type}' '{date.strftime('%Y-%m-%d')}'")
+    print("")
+
 for m in target_meetings:
   process_meeting(m["meeting_type"], m["date"])
-(processed_num, error_list) = get_processing_stats()
-print(f"\nFinished processing {processed_num} meeting(s).")
-if len(error_list) > 0:
-  print(f"{len(error_list)} meeting(s) could not be processed:")
-  for m in error_list:
-    date = m["date"]
-    meeting_type = m["meeting_type"]
-    print(f"- '{meeting_type}' '{date.strftime('%Y-%m-%d')}'")
+(processed_list, error_list) = get_processing_stats()
+print_processing_results("successfully processed", processed_list)
+print_processing_results("could not be processed", error_list)

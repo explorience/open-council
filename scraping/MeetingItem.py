@@ -44,7 +44,7 @@ class MeetingItem:
 
 
   def set_attributes(self, agenda_item, report):
-    title_row = agenda_item.find(class_="AgendaItemTitleRow")
+    title_row = agenda_item.find(class_="AgendaItemTitleRow") or agenda_item.find(class_="LateClosedAgendaItemTitleRow")
     self.set_title(title_row.find(class_="AgendaItemTitle"))
 
     attachments = title_row.find(class_="AgendaItemAttachmentsList")

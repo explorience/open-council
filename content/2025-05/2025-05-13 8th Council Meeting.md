@@ -561,7 +561,7 @@ ii)    authorize the Deputy City Manager, Housing and Community Growth, or the
 
 That the motion be further amended in part a) ii) to read as follows:
 
-ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of
+ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of any changes to tenancy profiles or for supportive or highly supportive housing;
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -591,7 +591,7 @@ ii)    authorize the Deputy City Manager, Housing and Community Growth, or the
 
 That the motion be further amended in part a) ii) to read as follows:
 
-ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of
+ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of supportive or highly supportive housing;
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|

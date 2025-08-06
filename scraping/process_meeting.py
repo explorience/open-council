@@ -14,7 +14,7 @@ def format_json(x):
     return { **x.__dict__, "__class__": x.__class__.__name__ }
   return str(x)
 
-meetings_processed = 0
+meetings_processed = []
 meetings_processed_errors = []
 
 # process_meeting("Council", datetime(2025, 6, 24))
@@ -40,7 +40,7 @@ def process_meeting(meeting_type, target_date):
     output_json.parent.mkdir(parents=True, exist_ok=True)
     output_json.write_text(json.dumps(meeting, default=format_json))
 
-    meetings_processed += 1
+    meetings_processed.append({ "date": target_date, "meeting_type": meeting_type })
     return f"{meeting.yyyy_mm()}/{meeting.format_title()}"
   except Exception as e:
     print(f"Error processing meeting {meeting_type} ({target_date})", e)

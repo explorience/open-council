@@ -7,7 +7,11 @@ from bs4 import BeautifulSoup, NavigableString
 
 class Meeting:
   def __init__(self, soup, url, meeting_type):
-    self.title = soup.find(class_="AgendaMeetingNumberText").contents[0].strip()
+    # sometimes, the meeting doesn't have a title...
+    # https://pub-london.escribemeetings.com/Meeting.aspx?Id=283e9a80-c195-4484-9f89-0f8f377ef14b&Agenda=PostMinutes&lang=English
+    probable_title = soup.find(class_="AgendaMeetingNumberText")
+    self.title = probable_title.contents[0].strip() if len(probable_title.contents) else meeting_type
+
     self.datetime = self.get_time(soup.find("time"))
     self.url = url
     self.meeting_type = meeting_type
@@ -32,6 +36,9 @@ class Meeting:
     """
     return datetime.strptime(elt["datetime"], "%Y-%m-%d %H:%M")
 
+  # XXX this function is absolutely nasty, due to the number of different attendance formats
+  # it also probably occasionally miscategorizes present/also present/absent/remote_attendance -
+  # it should really check for those keywords rather than assuming their order
   def add_attendance(self, agenda_header_attendance_table):
     present = extra = absent = None
     also_present = remote_attendance = content = None
@@ -52,11 +59,13 @@ class Meeting:
     if absent: self.add_absent(absent.find("ul"))
 
     if not content:
-      extra_info = extra.find("li").find_all("p")
+      extra_info = [p for p in extra.find("li").find_all("p") if str(p.contents[0]).strip()]
       if len(extra_info) == 3:
         [also_present, remote_attendance, content] = extra_info
       elif len(extra_info) == 2:
         [also_present, remote_attendance] = extra_info
+      elif len(extra_info) == 1 and "Remote Attendance" in str(extra_info[0].contents[0]):
+        [remote_attendance] = extra_info
       else:
         # bare text
         [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
@@ -73,7 +82,7 @@ class Meeting:
   def add_present(self, e):
     if e.name == "p":
       # <p>Present: Mayor J. Morgan, Warden B. Ropp, Deputy Warden A. DeViet, Councillors H. McAlister, J. Pribil, and C. Grantham</p>
-      self.present = e.contents[0][len("Present: "):].replace("and", "").split(", ")
+      self.present = e.contents[0].replace("Present: ", "").replace("and", "").split(", ")
     else: # <ul>
       for li in e.contents:
         # <li>Mayor J. Morgan,&nbsp;</li>
@@ -98,6 +107,9 @@ class Meeting:
      Remote Attendance: V. Arora, I. Collins, M. Daley, S. Glover, E. Hunt, K. Murray, A. Roseburgh, J. Senese, K. Pawelec, B. Warner, R. Wilcox
     </p>
     """
+    # sometimes there's a span in between the <p> and the names, because why not
+    if not isinstance(remote_attendance.contents[0], NavigableString):
+      remote_attendance = remote_attendance.contents[0]
     self.remote_attendance = remote_attendance.contents[0].strip().replace("Remote Attendance: ", "").split(", ")
 
   def add_content(self, content):
