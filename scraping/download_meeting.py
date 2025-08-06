@@ -31,7 +31,7 @@ def get_meeting_types():
   return list(set(this_year + last_year))
 
 @functools.cache
-def get_meetings_year(meeting_type, year):
+def get_meetings(meeting_type, year):
   url = f"{BASE_URL}MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year={year}"
   data = {
     "type": meeting_type
@@ -41,13 +41,6 @@ def get_meetings_year(meeting_type, year):
   print(f"Data for {year} {meeting_type} meetings retrieved")
   data = json.loads(x.text)
   return data["d"]
-
-@functools.cache
-def get_meetings(meeting_type):
-  year = datetime.now().year
-  this_year = get_meetings_year(meeting_type, year)
-  last_year = get_meetings_year(meeting_type, year-1)
-  return this_year + last_year
 
 def meeting_name(m):
   if m["HasLinks"]:
@@ -65,7 +58,7 @@ def meeting_minutes(m):
 
 # get_minutes(datetime(2025, 6, 24), meeting_type)
 def get_minutes(target_date, meeting_type):
-  meetings = get_meetings(meeting_type)
+  meetings = get_meetings(meeting_type, target_date.year)
   right_dates = [m for m in meetings if meeting_date(m) == target_date]
   if len(right_dates) == 0:
     print("Meeting not found")

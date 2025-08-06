@@ -54,9 +54,12 @@ class Attachment:
         # otherwise, we would recursively create every single council meeting (since they link back to the previous)
         exists = council_meeting_local_copy(self.date)
         self.local_page = exists or process_meeting.process_meeting(self.date, meeting_type)
-        pass
       else:
         self.local_page = process_meeting.process_meeting(self.date, meeting_type)
+
+      # the path ends in .md, remove it
+      # can't use stem here because there might be a folder that we want to keep
+      if self.local_page and self.local_page[-3:] == ".md": self.local_page = self.local_page[:-3]
 
   def format_markdown(self):
     url = f"/{self.local_page}" if self.local_page else self.url

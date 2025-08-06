@@ -2,7 +2,7 @@ from datetime import datetime
 from process_meeting import process_meeting, get_processing_stats
 from download_meeting import get_meetings, meeting_date, council_meeting_local_copy, meeting_minutes
 
-council_meetings = get_meetings("Council")
+council_meetings = get_meetings("Council", datetime.now().year)
 sorted_meetings = sorted(council_meetings, key=meeting_date, reverse=True)
 
 # find most recent meeting with minutes published
