@@ -1,18 +1,15 @@
-# Quartz v4
+# Open Council
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Open Council scrapes London council meetings, nicely formats them, and parses the data into an easy-to-work-with JSON format.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Folders
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- `scraping/`: Python scraping scripts
+- `data/`: outputted JSON data
+- `content/`: formatted markdown
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Scripts
 
-## Sponsors
+To serve the site, run `npm run dev` in this directory.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+To scrape, run `uv run main.py` in the `scraping/` directory. This will find new council meetings since the last scrape, and format them. You can also run something like `uv run main.py 'Community and Protective Services Committee' '2025-05-20'` to scrape a specific meeting from its meeting type and date.
