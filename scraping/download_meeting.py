@@ -32,7 +32,7 @@ def get_meeting_types():
 
 @functools.cache
 def get_meetings(meeting_type, year):
-  url = f"{BASE_URL}MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year={year}"
+  url = f"{BASE_URL}MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year={year}&Expanded={meeting_type}"
   data = {
     "type": meeting_type
   }

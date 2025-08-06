@@ -1,8 +1,8 @@
 from callout import callout
 from content import Content
-from bs4 import BeautifulSoup
 from datetime import datetime
 from MeetingItem import MeetingItem
+from bs4 import BeautifulSoup, NavigableString
 
 
 class Meeting:
@@ -34,36 +34,48 @@ class Meeting:
 
   def add_attendance(self, agenda_header_attendance_table):
     present = extra = absent = None
-    if len(agenda_header_attendance_table.contents) == 2:
+    also_present = remote_attendance = content = None
+
+    if len(agenda_header_attendance_table.contents) == 1:
+      # bruh i hate this format, why are these so inconsistent
+      stuff = agenda_header_attendance_table.contents[0].contents[1].contents[0].contents[0].contents
+      [present, also_present, content] = [elem for elem in stuff if not isinstance(elem, NavigableString)]
+    elif len(agenda_header_attendance_table.contents) == 2:
       [present, extra] = agenda_header_attendance_table.contents
     else:
       [present, absent, extra] = agenda_header_attendance_table.contents
-    self.add_present(present.find("ul"))
+
+    present_list = present.find("ul")
+    self.add_present(present_list or present)
 
     self.absent = []
     if absent: self.add_absent(absent.find("ul"))
 
-    also_present = remote_attendance = content = None
-    extra_info = extra.find("li").find_all("p")
-    if len(extra_info) == 3:
-      [also_present, remote_attendance, content] = extra_info
-    else:
-      [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
-      # we need to wrap them in <p> for the adding functions
-      soup = BeautifulSoup("<html></html>", 'html.parser')
-      also_present = soup.new_tag("p", string=also_present)
-      remote_attendance = soup.new_tag("p", string=remote_attendance)
-      content = soup.new_tag("p", string=content)
+    if not content:
+      extra_info = extra.find("li").find_all("p")
+      if len(extra_info) == 3:
+        [also_present, remote_attendance, content] = extra_info
+      else:
+        [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
+        # we need to wrap them in <p> for the adding functions
+        soup = BeautifulSoup("<html></html>", 'html.parser')
+        also_present = soup.new_tag("p", string=also_present)
+        remote_attendance = soup.new_tag("p", string=remote_attendance)
+        content = soup.new_tag("p", string=content)
 
-    self.add_also_present(also_present)
-    self.add_remote_attendance(remote_attendance)
+    if also_present: self.add_also_present(also_present)
+    if remote_attendance: self.add_remote_attendance(remote_attendance)
     self.add_content(content)
 
-  def add_present(self, ul):
-    for li in ul.contents:
-      # <li>Mayor J. Morgan,&nbsp;</li>
-      # <li> and S. Hillier&nbsp;</li>
-      self.present.append(li.contents[0].replace(",", "").replace("and", "").strip())
+  def add_present(self, e):
+    if e.name == "p":
+      # <p>Present: Mayor J. Morgan, Warden B. Ropp, Deputy Warden A. DeViet, Councillors H. McAlister, J. Pribil, and C. Grantham</p>
+      self.present = e.contents[0][len("Present: "):].replace("and", "").split(", ")
+    else: # <ul>
+      for li in e.contents:
+        # <li>Mayor J. Morgan,&nbsp;</li>
+        # <li> and S. Hillier&nbsp;</li>
+        self.present.append(li.contents[0].replace(",", "").replace("and", "").strip())
 
   def add_absent(self, ul):
     for li in ul.contents:
@@ -106,8 +118,8 @@ class Meeting:
 
     output += f"{callout('Present:', ', '.join(self.present))}\n\n"
     if self.absent != []: output += f"{callout('Absent:', ', '.join(self.absent))}\n\n"
-    output += f"{callout('Also Present:', ', '.join(self.also_present))}\n\n"
-    output += f"{callout('Remote Attendance:', ', '.join(self.remote_attendance))}\n\n"
+    if self.also_present != []: output += f"{callout('Also Present:', ', '.join(self.also_present))}\n\n"
+    if self.remote_attendance != []: output += f"{callout('Remote Attendance:', ', '.join(self.remote_attendance))}\n\n"
 
     output += f"{self.content.format_markdown()}\n\n"
 

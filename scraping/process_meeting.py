@@ -32,11 +32,11 @@ def process_meeting(meeting_type, target_date):
     meeting = Meeting(soup, url, meeting_type)
     markdown = meeting.format_markdown()
 
-    output = Path(f"../content/{meeting.yyyy_mm()}/{meeting.format_title()}.md")
+    output = Path(f"../content/{meeting.yyyy_mm()}/{meeting.format_title().replace('/', '-')}.md")
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(markdown)
 
-    output_json = Path(f"../data/{meeting.yyyy_mm()}/{meeting.format_title()}.json")
+    output_json = Path(f"../data/{meeting.yyyy_mm()}/{meeting.format_title().replace('/', '-')}.json")
     output_json.parent.mkdir(parents=True, exist_ok=True)
     output_json.write_text(json.dumps(meeting, default=format_json))
 
