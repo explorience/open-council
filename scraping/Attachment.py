@@ -1,8 +1,9 @@
 import re
 import process_meeting # don't use from to resolve circular dependency
 from pathlib import Path
+from content import Content
 from datetime import datetime
-from download_meeting import get_meeting_types, get_minutes, council_meeting_local_copy
+from download_meeting import get_meeting_types, get_minutes, meeting_local_copy
 
 def meeting_type_part(s):
   if not s[0].isupper(): return False
@@ -30,9 +31,13 @@ def get_meeting_type(title):
 
 DATE_PAT = re.compile("\\d{4}\\-\\d{2}\\-\\d{2}")
 
-class Attachment:
+class Attachment(Content):
   def __init__(self, agenda_item_attachment, orig_datetime):
-    attrs = agenda_item_attachment.find("a").attrs
+    a = agenda_item_attachment.find("a")
+    self.nothing_here = not a
+    if not a: return
+
+    attrs = a.attrs
     self.url = f"https://pub-london.escribemeetings.com/{attrs['href']}"
 
     # remove extension (like .pdf)
@@ -46,20 +51,16 @@ class Attachment:
     self.local_page = None
     d1 = self.date
     d2 = orig_datetime
-    # make sure that we don't recursively process the same meeting
+
+    # make sure that we don't try to recursively process the same meeting
     # this can occur if another document from the same day is miscategorized
     if self.date and ((d1.day, d1.month, d1.year) != (d2.day, d2.month, d2.year)) and meeting_type:
-      if meeting_type == "Council":
-        # only create council meetings if they don't exist
-        # otherwise, we would recursively create every single council meeting (since they link back to the previous)
-        exists = council_meeting_local_copy(self.date)
-        self.local_page = exists or process_meeting.process_meeting(self.date, meeting_type)
-      else:
-        self.local_page = process_meeting.process_meeting(self.date, meeting_type)
+      # don't make if we already have the meeting
+      already_processed = meeting_local_copy(meeting_type, self.date)
+      self.local_page = already_processed or process_meeting.process_meeting(meeting_type, self.date)
 
-      # the path ends in .md, remove it
-      # can't use stem here because there might be a folder that we want to keep
-      if self.local_page and self.local_page[-3:] == ".md": self.local_page = self.local_page[:-3]
+  def is_empty(self):
+    return self.nothing_here
 
   def format_markdown(self):
     url = f"/{self.local_page}" if self.local_page else self.url

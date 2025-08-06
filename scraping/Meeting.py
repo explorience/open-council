@@ -6,10 +6,11 @@ from MeetingItem import MeetingItem
 
 
 class Meeting:
-  def __init__(self, soup, url):
-    self.title = soup.find(class_="AgendaMeetingNumberText").contents[0]
+  def __init__(self, soup, url, meeting_type):
+    self.title = soup.find(class_="AgendaMeetingNumberText").contents[0].strip()
     self.datetime = self.get_time(soup.find("time"))
     self.url = url
+    self.meeting_type = meeting_type
 
     self.present = []
     self.also_present = []

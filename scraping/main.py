@@ -1,6 +1,6 @@
 from datetime import datetime
 from process_meeting import process_meeting, get_processing_stats
-from download_meeting import get_meetings, meeting_date, council_meeting_local_copy, meeting_minutes
+from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes
 
 current_year = datetime.now().year
 # check last year as well (for ex. if it's january, we might have some missed meetings in december)
@@ -15,11 +15,11 @@ for m in sorted_meetings:
     break
 
 latest_meeting_date = meeting_date(latest_meeting)
-if council_meeting_local_copy(latest_meeting_date):
+if meeting_local_copy("Council", latest_meeting_date):
   print("\nAlready up to date!")
   exit()
 
-process_meeting(latest_meeting_date, "Council")
+process_meeting("Council", latest_meeting_date)
 (processed_num, error_list) = get_processing_stats()
 print(f"\nFinished processing {processed_num} meetings.")
 if len(error_list) > 0:

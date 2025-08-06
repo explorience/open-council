@@ -1,9 +1,7 @@
 ---
 title: 6th Council Meeting
-
+date: 2025-04-01
 ---
-# 6th Council Meeting
-
 April 1, 2025, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b4e4a4d9-7c35-4803-8a11-a266aa5c4172&Agenda=PostMinutes&lang=English)
@@ -19,19 +17,19 @@ April 1, 2025, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillor H. McAlister was in remote attendance.
 
-## 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-## 2.&nbsp;&nbsp;&nbsp;Recognitions
+# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-## 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
+# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-## 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
+# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -96,13 +94,13 @@ That Council convenes In Closed Session, from 1:10 PM to 1:19 PM.
 
 ****
 
-## 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
+# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
-### 5.1&nbsp;&nbsp;&nbsp;4th and 5th Meetings held on March 4, 2025 and March 25, 2025
+## 5.1&nbsp;&nbsp;&nbsp;4th and 5th Meetings held on March 4, 2025 and March 25, 2025
 
-[2025-03-04 Council Minutes - Full.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115573)
+[2025-03-04 Council Minutes - Full](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115573>)
 
-[2025-03-25 Special Council Minutes.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115574)
+[2025-03-25 Special Council Minutes](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115574>)
 
 > Motion made by P. Van Meerbergen
 
@@ -133,7 +131,7 @@ That the Minutes of the 4th and 5th Meetings of the Municipal Council, held on M
 
 ****
 
-## 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
+# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Cuddy
 
@@ -173,15 +171,11 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
  15. (ADDED) J. Fraser, Old North East Neighbourhood Association
 
- 
-
 6.2 Primary Care Recruitment and Retention Program Report
 
  1. S. Courtice, London InterCommunity Health Centre 
 
  2. (ADDED) A. Alpaugh-Bishop, Middlesex London Ontario Health Team
-
- 
 
 6.3 Additional Emergency Shelter and Day Drop-in Space Update Report 
 
@@ -192,8 +186,6 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
  3. (ADDED) K. Morrison, Old East Village BIA 
 
  4. (ADDED) A. Walsh
-
- 
 
 6.4 415-421 Boler Road (Z-9536)
 
@@ -302,15 +294,15 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-## 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
+# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-## 8.&nbsp;&nbsp;&nbsp;Reports
+# 8.&nbsp;&nbsp;&nbsp;Reports
 
-### 8.1&nbsp;&nbsp;&nbsp;4th Report of the Strategic Priorities and Policy Committee
+## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Strategic Priorities and Policy Committee
 
-[2025-03-25 SPPC Report 4.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115575)
+[2025-03-25 SPPC Report 4](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee>)
 
 > Motion made by S. Lewis
 
@@ -339,7 +331,7 @@ That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED
 
 ****
 
-#### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by S. Lewis
 
@@ -349,7 +341,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) 2nd Report of the Integrated Transportation Community Advisory Committee
+### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#212nd-report-of-the-integrated-transportation-community-advisory-committee>) 2nd Report of the Integrated Transportation Community Advisory Committee
 
 > Motion made by S. Lewis
 
@@ -359,17 +351,17 @@ That the 2nd Report of the Integrated Transportation Community Advisory Committe
 
 ****
 
-#### 8.1.3&nbsp;&nbsp;&nbsp;(2.3) 2023-2027 Strategic Advocacy Framework - Annual Report
+### 8.1.3&nbsp;&nbsp;&nbsp;[(2.3)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#232023-2027-strategic-advocacy-framework---annual-report>) 2023-2027 Strategic Advocacy Framework - Annual Report
 
 > Motion made by S. Lewis
 
-That, on the recommendation of the City Manager, the 2023-2027 Strategic Advocacy Framework – Annual Report BE RECEIVED for information. 
+That, on the recommendation of the City Manager, the 2023-2027 Strategic Advocacy Framework – Annual Report BE RECEIVED for information.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.4&nbsp;&nbsp;&nbsp;(2.4) Downtown Master Plan: Quick-Start Actions
+### 8.1.4&nbsp;&nbsp;&nbsp;[(2.4)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#24downtown-master-plan-quick-start-actions>) Downtown Master Plan: Quick-Start Actions
 
 > Motion made by S. Lewis
 
@@ -393,19 +385,19 @@ d)    the staff report BE RECEIVED for information;
 
 
 
-it being noted that the Strategic Priorities and Policy Committee received a communication dated March 22, 2025 from C. Watson, W. Thomas, D. Brown, Coordinators, Midtown Community Organization with respect to this matter.    
+it being noted that the Strategic Priorities and Policy Committee received a communication dated March 22, 2025 from C. Watson, W. Thomas, D. Brown, Coordinators, Midtown Community Organization with respect to this matter.
 
 > **Motion Passed**
 
 ****
 
-#### 8.1.6&nbsp;&nbsp;&nbsp;(2.6) London Hydro Board of Directors Replacement
+### 8.1.6&nbsp;&nbsp;&nbsp;[(2.6)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#26london-hydro-board-of-directors-replacement>) London Hydro Board of Directors Replacement
 
 > Motion made by S. Lewis
 
 That the following actions be taken with respect London Hydro Board of Directors Replacement:
 
-a)      the communication dated March 3, 2025 from A. Hrymak, Vice Chair, London Hydro Board of Directors BE RECEIVED; 
+a)      the communication dated March 3, 2025 from A. Hrymak, Vice Chair, London Hydro Board of Directors BE RECEIVED;
 
 b)      the resignation of C. Graham, Chair, London Hydro Board of Directors BE ACCEPTED; and
 
@@ -415,7 +407,7 @@ c)      the City Clerk BE DIRECTED to continue the recruitment process.
 
 ****
 
-#### 8.1.7&nbsp;&nbsp;&nbsp;(2.2) Secondary School Transit Pass Pilot Program Update
+### 8.1.7&nbsp;&nbsp;&nbsp;[(2.2)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#22secondary-school-transit-pass-pilot-program-update>) Secondary School Transit Pass Pilot Program Update
 
 > Motion made by S. Lewis
 
@@ -447,13 +439,13 @@ it being noted that the Civic Administration has completed a significant portion
 
 ****
 
-#### 8.1.8&nbsp;&nbsp;&nbsp;(3.1) Integrity Commissioner's Annual Report - Resubmitted
+### 8.1.8&nbsp;&nbsp;&nbsp;[(3.1)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#31integrity-commissioners-annual-report---resubmitted>) Integrity Commissioner's Annual Report - Resubmitted
 
 > Motion made by S. Lewis
 
 That the following actions be taken with respect to the submission dated February 26, 2025 from Principles Integrity - Integrity Commissioner's Annual Report:
 
-a) the Integrity Commissioner's Annual Report BE RECEIVED; 
+a) the Integrity Commissioner's Annual Report BE RECEIVED;
 
 b) the City Clerk BE DIRECTED to provide Principles Integrity with 30 days’ notice in writing of termination of their services pursuant to the agreement between The Corporation of the City of London and Principles Integrity;
 
@@ -467,7 +459,7 @@ it being noted that the Strategic Priorities and Policy Committee received a mem
 
 ****
 
-#### 8.1.10&nbsp;&nbsp;&nbsp;(4.2) Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+### 8.1.10&nbsp;&nbsp;&nbsp;[(4.2)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#42consideration-of-appointment-to-the-accessibility-community-advisory-committee-requires-up-to-11-members>) Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
 > Motion made by S. Lewis
 
@@ -499,7 +491,7 @@ Natalie Judges
 
 ****
 
-#### 8.1.13&nbsp;&nbsp;&nbsp;(4.5) Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
+### 8.1.13&nbsp;&nbsp;&nbsp;[(4.5)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#45consideration-of-appointment-to-the-covent-garden-market-board-of-directors-requires-1-member>) Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
 
 > Motion made by S. Lewis
 
@@ -509,7 +501,7 @@ That William Westgate BE APPOINTED to the Covent Garden Market Board of Director
 
 ****
 
-#### 8.1.15&nbsp;&nbsp;&nbsp;(5.1) Council Resourcing Review Task Force - Terms of Reference - City Clerk
+### 8.1.15&nbsp;&nbsp;&nbsp;[(5.1)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#51added-council-resourcing-review-task-force---terms-of-reference---city-clerk>) Council Resourcing Review Task Force - Terms of Reference - City Clerk
 
 > Motion made by S. Lewis
 
@@ -519,7 +511,7 @@ a)   the Council Resourcing Review Task Force BE ADVISED that a review of the M
 
 b)   the Council Resourcing Review Task Force BE ADVISED that a review of the Councillors’ Office administrative staff support model to be in scope of the 2025 review;
 
-c)   the Terms of Reference BE AMENDED to include a new part within section 1.6 to read “Councillors’ Office administrative staff support model”; and 
+c)   the Terms of Reference BE AMENDED to include a new part within section 1.6 to read “Councillors’ Office administrative staff support model”; and
 
 d)   the memo from the City Clerk, dated March 25, 2025, BE RECEIVED.
 
@@ -527,7 +519,7 @@ d)   the memo from the City Clerk, dated March 25, 2025, BE RECEIVED.
 
 ****
 
-#### 8.1.5&nbsp;&nbsp;&nbsp;(2.5) Downtown Master Plan: Appointment of Consultant for RFP 2025-001
+### 8.1.5&nbsp;&nbsp;&nbsp;[(2.5)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#25downtown-master-plan-appointment-of-consultant-for-rfp-2025-001>) Downtown Master Plan: Appointment of Consultant for RFP 2025-001
 
 > Motion made by S. Lewis
 
@@ -535,7 +527,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 a)    the Canadian Urban Institute, BE APPOINTED as the Consultant to undertake the development of the Downtown Master Plan, in the amount of $415,000.00 (excluding HST), in accordance with section 15.2 of the Procurement of Goods and Services Policy;
 
-b)    the funding for this assignment BE APPROVED as set out in the Source of Financing Report as appended to the staff report dated March 25, 2025 as Appendix ‘A’; 
+b)    the funding for this assignment BE APPROVED as set out in the Source of Financing Report as appended to the staff report dated March 25, 2025 as Appendix ‘A’;
 
 c)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;
 
@@ -565,7 +557,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.1.9&nbsp;&nbsp;&nbsp;(4.1) Mobility Master Plan Mobility Networks Maps
+### 8.1.9&nbsp;&nbsp;&nbsp;[(4.1)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#41mobility-master-plan-mobility-networks-maps>) Mobility Master Plan Mobility Networks Maps
 
 > Motion made by S. Lewis
 
@@ -599,7 +591,7 @@ f)    the Mayor and Civic Administration BE REQUESTED to engage in discussions
 
 g)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd. BE REFERRED to a future meeting of Planning and Environment Committee;
 
-it being noted that the maps will form part of the Mobility Master Plan final report; 
+it being noted that the maps will form part of the Mobility Master Plan final report;
 
 it being further noted that the maps will inform the creation of the 2028 Development Charges Background Study currently underway and budgeting processes may influence project prioritization;
 
@@ -856,7 +848,7 @@ ii) Huron Street BE CHANGED to medium-term cycling project;
 
 Motion to approve part c) ii) B.:
 
-B. Taylor Street, McNay Street and Gammage Street; 
+B. Taylor Street, McNay Street and Gammage Street;
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -988,7 +980,7 @@ Motion to approve part g) and it being noted statements:
 
 g)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd. BE REFERRED to a future meeting of Planning and Environment Committee;
 
-it being noted that the maps will form part of the Mobility Master Plan final report; 
+it being noted that the maps will form part of the Mobility Master Plan final report;
 
 it being further noted that the maps will inform the creation of the 2028 Development Charges Background Study currently underway and budgeting processes may influence project prioritization;
 
@@ -1049,7 +1041,7 @@ it being further pointed out that the Strategic Priorities and Policy Committee 
 
 > Seconded by A. Hopkins
 
-Item 9, clause 4.1, as amended, BE APPROVED. 
+Item 9, clause 4.1, as amended, BE APPROVED.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -1106,7 +1098,7 @@ f)    the Mayor and Civic Administration BE REQUESTED to engage in discussions
 
 g)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd. BE REFERRED to a future meeting of Planning and Environment Committee;
 
-it being noted that the maps will form part of the Mobility Master Plan final report; 
+it being noted that the maps will form part of the Mobility Master Plan final report;
 
 it being further noted that the maps will inform the creation of the 2028 Development Charges Background Study currently underway and budgeting processes may influence project prioritization;
 
@@ -1142,7 +1134,7 @@ it being further pointed out that the Strategic Priorities and Policy Committee 
 
 ****
 
-#### 8.1.11&nbsp;&nbsp;&nbsp;(4.3) Consideration of Appointment to the Community Advisory Committee on Planning (Requires up to 11 Members)
+### 8.1.11&nbsp;&nbsp;&nbsp;[(4.3)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#43consideration-of-appointment-to-the-community-advisory-committee-on-planning-requires-up-to-11-members>) Consideration of Appointment to the Community Advisory Committee on Planning (Requires up to 11 Members)
 
 > Motion made by S. Lewis
 
@@ -1177,7 +1169,7 @@ That notwithstanding the Selection Process Policy for Appointing Members to Comm
 
 > Seconded by D. Ferreira
 
-That the following individuals BE APPOINTED to the Community Advisory Committee on Planning for the term ending March 31, 2027: 
+That the following individuals BE APPOINTED to the Community Advisory Committee on Planning for the term ending March 31, 2027:
 
 Mark C. Ambrogio 
 
@@ -1310,7 +1302,7 @@ Majority Winner: Mark C. Ambrogio, Carl L. Cadogan, Jeff Gard, Heather Garrett, 
 
 ****
 
-#### 8.1.12&nbsp;&nbsp;&nbsp;(4.4) Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 11 Members)
+### 8.1.12&nbsp;&nbsp;&nbsp;[(4.4)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#44consideration-of-appointment-to-the-environmental-stewardship-and-action-community-advisory-committee-requires-up-to-11-members>) Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 11 Members)
 
 > Motion made by S. Franke
 
@@ -1345,7 +1337,7 @@ That notwithstanding the Selection Process Policy for Appointing Members to Comm
 
 > Seconded by S. Hillier
 
-That the following individuals BE APPOINTED to the Environmental Stewardship and Action Community Advisory Committee for the term ending March 31, 2027: 
+That the following individuals BE APPOINTED to the Environmental Stewardship and Action Community Advisory Committee for the term ending March 31, 2027:
 
 Andrea Butnari
 
@@ -1458,7 +1450,7 @@ Northey, Brendon Samuels, and Lillian Skinner (Youth)
 
 ****
 
-#### 8.1.14&nbsp;&nbsp;&nbsp;(4.6) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)
+### 8.1.14&nbsp;&nbsp;&nbsp;[(4.6)](</2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee#46london-transit-commission-assessment-growth-business-case>) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)
 
 > Motion made by S. Lewis
 
@@ -1466,9 +1458,9 @@ That with respect to the communication from London Transit Commission regarding 
 
 a)   the communication dated March 3, 2025 from S. Marentette, Board Chair, London Transit Commission BE RECEIVED;
 
-b)   the current London Transit Commission membership BE VACATED, effective April 1, 2025; 
+b)   the current London Transit Commission membership BE VACATED, effective April 1, 2025;
 
-c)   the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on April 1, 2025, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that the London Transit Commission shall consist of five (5) members of Council, recognizing this as an interim measure pending the outcome of the ongoing governance review; 
+c)   the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on April 1, 2025, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that the London Transit Commission shall consist of five (5) members of Council, recognizing this as an interim measure pending the outcome of the ongoing governance review;
 
 d)   the Council Member appointments to the London Transit Commission BE REFERRED to the April 1, 2025 Council meeting;
 
@@ -1508,13 +1500,13 @@ it being further noted the Strategic Priorities and Policy Committee heard deleg
 
 > **Motion Passed (10 to 5)**
 
-At 3:22 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 3:22 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 3:26 PM, Deputy Mayor S. Lewis, places Councillor C. Rahman in the Chair. 
+At 3:26 PM, Deputy Mayor S. Lewis, places Councillor C. Rahman in the Chair.
 
-At 3:29 PM, Deputy Mayor S. Lewis resumes the Chair. 
+At 3:29 PM, Deputy Mayor S. Lewis resumes the Chair.
 
-At 3:37 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 3:37 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
@@ -1615,7 +1607,7 @@ That with respect to the communication from London Transit Commission regarding 
 
 a)   the communication dated March 3, 2025 from S. Marentette, Board Chair, London Transit Commission BE RECEIVED;
 
-b)   the current London Transit Commission membership BE VACATED, effective April 1, 2025; 
+b)   the current London Transit Commission membership BE VACATED, effective April 1, 2025;
 
 c)   the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on April 1, 2025, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that the London Transit Commission shall consist of seven (7) members of Council, recognizing this as an interim measure pending the outcome of the ongoing governance review; it being noted that the quorum in Section 4 of the by-law will be four (4) members;
 
@@ -1697,9 +1689,9 @@ The Council recesses at 3:41 PM and reconvenes at 3:56 PM.
 
 ****
 
-### 8.4&nbsp;&nbsp;&nbsp;5th Report of the Planning and Environment Committee
+## 8.4&nbsp;&nbsp;&nbsp;5th Report of the Planning and Environment Committee
 
-[2025-03-18 - PEC REPORT.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115572)
+[2025-03-18 - PEC REPORT](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -1726,13 +1718,13 @@ That the 5th Report of the Planning and Environment Committee BE APPROVED, with 
 
 > **Motion Passed (15 to 0)**
 
-At 3:59 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 3:59 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 4:00 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 4:00 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
-#### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by S. Lehman
 
@@ -1742,13 +1734,13 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) The 2nd Report of the Ecological Community Advisory Committee
+### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#21the-2nd-report-of-the-ecological-community-advisory-committee>) The 2nd Report of the Ecological Community Advisory Committee
 
 > Motion made by S. Lehman
 
-That the following actions be taken with respect to the 3rd Report of the Ecological Community Advisory Committee, from its meeting held on February 20th, 2025: 
+That the following actions be taken with respect to the 3rd Report of the Ecological Community Advisory Committee, from its meeting held on February 20th, 2025:
 
-a) the Working Group comments relating to the property located at 3680-3700 Colonel Road, as appended to the Ecological Community Advisory Committee Added Agenda, BE FORWARDED to the Civic Administration for consideration; 
+a) the Working Group comments relating to the property located at 3680-3700 Colonel Road, as appended to the Ecological Community Advisory Committee Added Agenda, BE FORWARDED to the Civic Administration for consideration;
 
 b) clauses 5.2 to 5.4, BE APPROVED.
 
@@ -1756,7 +1748,7 @@ b) clauses 5.2 to 5.4, BE APPROVED.
 
 ****
 
-#### 8.4.4&nbsp;&nbsp;&nbsp;(5.1) 4th Report of the Community Advisory Committee on Planning
+### 8.4.4&nbsp;&nbsp;&nbsp;(5.1) 4th Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -1766,7 +1758,7 @@ That the 4th Report of the Community Advisory Committee on Planning, from its me
 
 ****
 
-#### 8.4.5&nbsp;&nbsp;&nbsp;(3.1) 50 Rollingwood Circle (Z-25006)  (Relates to Bill No. 124)
+### 8.4.5&nbsp;&nbsp;&nbsp;[(3.1)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#3150-rollingwood-circle-z-25006>) 50 Rollingwood Circle (Z-25006)  (Relates to Bill No. 124)
 
 > Motion made by S. Lehman
 
@@ -1800,7 +1792,7 @@ it being noted that the Municipal Council approves this application for the foll
 
 ****
 
-#### 8.4.7&nbsp;&nbsp;&nbsp;(3.3) 75-91 Southdale Road (Z-25008)  (Relates to Bill No. 126)
+### 8.4.7&nbsp;&nbsp;&nbsp;[(3.3)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#3375-91-southdale-road-z-25008>) 75-91 Southdale Road (Z-25008)  (Relates to Bill No. 126)
 
 > Motion made by S. Lehman
 
@@ -1858,7 +1850,7 @@ it being further noted that pursuant to Section 34(17) of the Planning Act, as d
 
 ****
 
-#### 8.4.9&nbsp;&nbsp;&nbsp;(3.5) Transit Oriented Development Community Improvement Plan  (Relates to Bill No.'s 110, 111, 112 and 113)
+### 8.4.9&nbsp;&nbsp;&nbsp;[(3.5)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#35transit-oriented-development-community-improvement-plan>) Transit Oriented Development Community Improvement Plan  (Relates to Bill No.'s 110, 111, 112 and 113)
 
 > Motion made by S. Lehman
 
@@ -1930,7 +1922,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-#### 8.4.10&nbsp;&nbsp;&nbsp;(4.1) Request from Municipality of Middlesex Centre: Arva Sanitary Servicing
+### 8.4.10&nbsp;&nbsp;&nbsp;[(4.1)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#41request-from-municipality-of-middlesex-centre-arva-sanitary-servicing>) Request from Municipality of Middlesex Centre: Arva Sanitary Servicing
 
 > Motion made by S. Lehman
 
@@ -1944,7 +1936,7 @@ it being noted that a verbal delegation from S. Bergman, Middlesex Centre, with 
 
 ****
 
-#### 8.4.11&nbsp;&nbsp;&nbsp;(5.2) Deferred Matters List
+### 8.4.11&nbsp;&nbsp;&nbsp;[(5.2)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#52deferred-matters-list>) Deferred Matters List
 
 > Motion made by S. Lehman
 
@@ -1954,11 +1946,11 @@ That the March 2025, Deferred Matters List BE RECEIVED.
 
 ****
 
-#### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) Heritage Alteration Permit application by Z. Xiong and Y. Meng for 124 Wilson Ave, Blackfriars-Petersville Heritage Conservation District (HAP25-004-L)
+### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#22heritage-alteration-permit-application-by-z-xiong-and-y-meng-for-124-wilson-ave-blackfriars-petersville-heritage-conservation-district-hap25-004-l>) Heritage Alteration Permit application by Z. Xiong and Y. Meng for 124 Wilson Ave, Blackfriars-Petersville Heritage Conservation District (HAP25-004-L)
 
 > Motion made by S. Lehman
 
-Notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the exterior cladding and porch alterations on the heritage designated property at 124 Wilson Avenue, within the Blackfriars-Petersville Heritage Conservation District, BE APPROVED; 
+Notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the exterior cladding and porch alterations on the heritage designated property at 124 Wilson Avenue, within the Blackfriars-Petersville Heritage Conservation District, BE APPROVED;
 
 it being noted that the written communication from L. Davies, with this respect to this matter was received;
 
@@ -1983,7 +1975,7 @@ it being further noted that the verbal delegations from J.M. Metrailler, L. Davi
 
 ****
 
-#### 8.4.6&nbsp;&nbsp;&nbsp;(3.2) 2634 Barn Swallow Place (Z-25006)  (Relates to Bill No. 125)
+### 8.4.6&nbsp;&nbsp;&nbsp;[(3.2)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#322634-barn-swallow-place-z-25006>) 2634 Barn Swallow Place (Z-25006)  (Relates to Bill No. 125)
 
 > Motion made by S. Lehman
 
@@ -2053,7 +2045,7 @@ it being further noted that the Municipal Council approves this application for 
 
 ****
 
-#### 8.4.8&nbsp;&nbsp;&nbsp;(3.4) 415-421 Boler Road (Z-9536) (Relates to Bill No. 127)
+### 8.4.8&nbsp;&nbsp;&nbsp;[(3.4)](</2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee#34415-421-boler-road-z-9536>) 415-421 Boler Road (Z-9536) (Relates to Bill No. 127)
 
 > Motion made by S. Lehman
 
@@ -2135,8 +2127,6 @@ a)    the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the
 b)    The requested Special Provisions, as part of the amendment to Zoning By-law No. Z.-1, to permit a minimum front and exterior side yard depth of 1.5 metres whereas 8.0 metres is required, to permit a balcony projection in the front and exterior side yard of 0.0 metres whereas 3.0 metres is required, to permit a minimum of 46 long-term bicycle parking spaces whereas 56 is required and to permit a parking setback of 0.5 metres whereas 3.0 metres is required, BE REFUSED for the following reasons:
 
 i)    The requested Special Provisions do not conform to the policies of The London Plan, including the City Design policies, Neighbourhood Place Type policies and criteria of the Planning Impact Analysis, nor the regulations of the Zoning By-law No. Z.-1.
-
- 
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2232,9 +2222,9 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2&nbsp;&nbsp;&nbsp;6th Report of the Infrastructure and Corporate Services Committee
+## 8.2&nbsp;&nbsp;&nbsp;6th Report of the Infrastructure and Corporate Services Committee
 
-[2025-03-24 ICSC Report 6.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115569)
+[2025-03-24 ICSC Report 6](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -2263,7 +2253,7 @@ That the 6th Report of the Infrastructure and Corporate Services Committee BE AP
 
 ****
 
-#### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
+### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
 > Motion made by C. Rahman
 
@@ -2273,7 +2263,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) 2025 Debenture Issuance
+### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#212025-debenture-issuance>) 2025 Debenture Issuance
 
 > Motion made by C. Rahman
 
@@ -2281,13 +2271,13 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the fo
 
 a)    the Civic Administration BE AUTHORIZED to proceed with the issuance of debentures in the capital markets upon suitable market conditions to provide permanent financing for capital works in an amount not to exceed $47,871,000; it being noted that two separate issuances are planned for 2025’s debenture issuance program; and
 
-b)    the Civic Administration BE INSTRUCTED to schedule and convene appropriately timed special Infrastructure and Corporate Services Committee meetings, if needed, upon successful placement of the City’s debt in the capital markets to ensure adequate time for Council approval while adhering to the necessary financial settlement requirements. 
+b)    the Civic Administration BE INSTRUCTED to schedule and convene appropriately timed special Infrastructure and Corporate Services Committee meetings, if needed, upon successful placement of the City’s debt in the capital markets to ensure adequate time for Council approval while adhering to the necessary financial settlement requirements.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) Appointment of Consulting Engineers for the Trunk Watermain Installation Program
+### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#22appointment-of-consulting-engineers-for-the-trunk-watermain-installation-program>) Appointment of Consulting Engineers for the Trunk Watermain Installation Program
 
 > Motion made by C. Rahman
 
@@ -2307,13 +2297,13 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Supply of Membrane Bioreactor Equipment for the Oxford Wastewater Treatment Plant - Irregular Results (Relates to Bill No.'s 120, 121 & 122)
+### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#23supply-of-membrane-bioreactor-equipment-for-the-oxford-wastewater-treatment-plant---irregular-results>) Supply of Membrane Bioreactor Equipment for the Oxford Wastewater Treatment Plant - Irregular Results (Relates to Bill No.'s 120, 121 & 122)
 
 > Motion made by C. Rahman
 
@@ -2331,7 +2321,7 @@ d)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 ****
 
-#### 8.2.5&nbsp;&nbsp;&nbsp;(2.4) 2025 Watermain Cleaning and Lining Contract Award
+### 8.2.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#242025-watermain-cleaning-and-lining-contract-award>) 2025 Watermain Cleaning and Lining Contract Award
 
 > Motion made by C. Rahman
 
@@ -2351,7 +2341,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.2.6&nbsp;&nbsp;&nbsp;(2.5) Appointment of Consulting Engineer: Bostwick Road Improvements RFP-2024-334
+### 8.2.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#25appointment-of-consulting-engineer-bostwick-road-improvements-rfp-2024-334>) Appointment of Consulting Engineer: Bostwick Road Improvements RFP-2024-334
 
 > Motion made by C. Rahman
 
@@ -2365,13 +2355,13 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 d)    the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract with the consultant for the work; and
 
-e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents including agreements, if required, to give effect to these recommendations. 
+e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents including agreements, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.7&nbsp;&nbsp;&nbsp;(2.6) Contract Award: Tender No. RFT-2024-345 Sunningdale Road and Richmond Street Intersection Improvements
+### 8.2.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#26contract-award-tender-no-rft-2024-345-sunningdale-road-and-richmond-street-intersection-improvements>) Contract Award: Tender No. RFT-2024-345 Sunningdale Road and Richmond Street Intersection Improvements
 
 > Motion made by C. Rahman
 
@@ -2399,7 +2389,7 @@ i)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-#### 8.2.8&nbsp;&nbsp;&nbsp;(2.7) Appointment of Consulting Engineer for Contract Administration Services: Hyde Park Stormwater Assignment 'B'- Phase 2 Construction 
+### 8.2.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#27appointment-of-consulting-engineer-for-contract-administration-services-hyde-park-stormwater-assignment-b--phase-2-construction>) Appointment of Consulting Engineer for Contract Administration Services: Hyde Park Stormwater Assignment 'B'- Phase 2 Construction 
 
 > Motion made by C. Rahman
 
@@ -2413,13 +2403,13 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.9&nbsp;&nbsp;&nbsp;(2.8) Appointment of Consulting Engineers for the Infrastructure Renewal Program
+### 8.2.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#28appointment-of-consulting-engineers-for-the-infrastructure-renewal-program>) Appointment of Consulting Engineers for the Infrastructure Renewal Program
 
 > Motion made by C. Rahman
 
@@ -2443,13 +2433,13 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. 
+e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
 > **Motion Passed**
 
 ****
 
-#### 8.2.10&nbsp;&nbsp;&nbsp;(2.9) Supply of Inlet Screen and Repair Parts for the Vauxhall Wastewater Treatment Plant - Single Source
+### 8.2.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#29supply-of-inlet-screen-and-repair-parts-for-the-vauxhall-wastewater-treatment-plant---single-source>) Supply of Inlet Screen and Repair Parts for the Vauxhall Wastewater Treatment Plant - Single Source
 
 > Motion made by C. Rahman
 
@@ -2467,7 +2457,7 @@ d)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 ****
 
-#### 8.2.11&nbsp;&nbsp;&nbsp;(2.11) Elected Officials and Appointed Citizen Members 2025 Remuneration
+### 8.2.11&nbsp;&nbsp;&nbsp;[(2.11)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#211elected-officials-and-appointed-citizen-members-2025-remuneration>) Elected Officials and Appointed Citizen Members 2025 Remuneration
 
 > Motion made by C. Rahman
 
@@ -2477,7 +2467,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-#### 8.2.12&nbsp;&nbsp;&nbsp;(2.13) Fees and Charges By-law Update - Fee Exemption for Affordable and Social Housing (Relates to Bill No. 109)
+### 8.2.12&nbsp;&nbsp;&nbsp;[(2.13)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#213fees-and-charges-by-law-update---fee-exemption-for-affordable-and-social-housing>) Fees and Charges By-law Update - Fee Exemption for Affordable and Social Housing (Relates to Bill No. 109)
 
 > Motion made by C. Rahman
 
@@ -2487,7 +2477,7 @@ That on the recommendation of the Deputy City Manager, Housing and Community Gro
 
 ****
 
-#### 8.2.13&nbsp;&nbsp;&nbsp;(2.10) Declare Surplus - City-Owned Property - Part of Belvedere Park
+### 8.2.13&nbsp;&nbsp;&nbsp;[(2.10)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#210declare-surplus---city-owned-property---part-of-belvedere-park>) Declare Surplus - City-Owned Property - Part of Belvedere Park
 
 > Motion made by C. Rahman
 
@@ -2523,7 +2513,7 @@ it being further noted that the Infrastructure and Corporate Services Committee 
 
 ****
 
-#### 8.2.14&nbsp;&nbsp;&nbsp;(2.12) Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
+### 8.2.14&nbsp;&nbsp;&nbsp;[(2.12)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#212consideration-for-an-updated-low-income-seniors-and-low-income-persons-with-disabilities-tax-deferral-program>) Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
 
 > Motion made by S. Franke
 
@@ -2535,9 +2525,9 @@ b)    the Civic Administration BE DIRECTED to prepare a Business Case for the 
 
 it being noted that the Infrastructure and Corporate Services Committee heard a delegation and received a communication from D. Pollock, President, Navigating Retirement with respect to this matter.
 
-At 4:50 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 4:50 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 4:54 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 4:54 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
@@ -2547,7 +2537,7 @@ Motion to approve part a):
 
 That the following actions be taken with respect to the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program”:
 
-a)    the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program” BE RECEIVED for information; 
+a)    the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program” BE RECEIVED for information;
 
 it being noted that the Infrastructure and Corporate Services Committee heard a delegation and received a communication from D. Pollock, President, Navigating Retirement with respect to this matter.
 
@@ -2598,13 +2588,13 @@ Item 14, clause 2.12, reads as follows:
 
 That the following actions be taken with respect to the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program”:
 
-a)    the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program” BE RECEIVED for information; 
+a)    the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program” BE RECEIVED for information;
 
 it being noted that the Infrastructure and Corporate Services Committee heard a delegation and received a communication from D. Pollock, President, Navigating Retirement with respect to this matter.
 
 ****
 
-#### 8.2.15&nbsp;&nbsp;&nbsp;(4.1) Municipal Autonomy and Revenue Generation - Councillor S. Franke, Councillor A. Hopkins and Mayor J. Morgan
+### 8.2.15&nbsp;&nbsp;&nbsp;[(4.1)](</2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee#41municipal-autonomy-and-revenue-generation---councillor-s-franke-councillor-a-hopkins-and-mayor-j-morgan>) Municipal Autonomy and Revenue Generation - Councillor S. Franke, Councillor A. Hopkins and Mayor J. Morgan
 
 At 4:57 PM, Councillor D. Ferreira leaves the meeting.
 
@@ -2642,9 +2632,9 @@ c)    explore policy solutions aligned with other provinces to ensure fair mun
 
 ****
 
-### 8.3&nbsp;&nbsp;&nbsp;5th Report of the Community and Protective Services Committee
+## 8.3&nbsp;&nbsp;&nbsp;5th Report of the Community and Protective Services Committee
 
-[2025-03-17 CPSC Report.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115571)
+[2025-03-17 CPSC Report](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by D. Ferreira
 
@@ -2673,7 +2663,7 @@ That the 5th Report of the Community and Protective Services Committee BE APPROV
 
 ****
 
-#### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by D. Ferreira
 
@@ -2683,7 +2673,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) 3rd Report of the Animal Welfare Community Advisory Committee
+### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#213rd-report-of-the-animal-welfare-community-advisory-committee>) 3rd Report of the Animal Welfare Community Advisory Committee
 
 > Motion made by D. Ferreira
 
@@ -2697,7 +2687,7 @@ b)    clauses 1.1, 3.1 and 5.1 BE RECEIVED.
 
 ****
 
-#### 8.3.3&nbsp;&nbsp;&nbsp;(2.3) London and Middlesex Local Immigration Partnership Update  (Relates to Bill No. 104)
+### 8.3.3&nbsp;&nbsp;&nbsp;[(2.3)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#23london-and-middlesex-local-immigration-partnership-update>) London and Middlesex Local Immigration Partnership Update  (Relates to Bill No. 104)
 
 > Motion made by D. Ferreira
 
@@ -2711,7 +2701,7 @@ i)     amending agreements with Canada (as represented by the Minister of Immi
 
 ii)    further agreements with Canada that relate to the Agreement and to the LMLIP; and,
 
-iii)  agreements (including amending agreements) with third party service providers that relate to the Agreement and to the LMLIP (“Service Provider Agreement”); 
+iii)  agreements (including amending agreements) with third party service providers that relate to the Agreement and to the LMLIP (“Service Provider Agreement”);
 
 on the condition that they are consistent with the requirements contained in the Contribution Agreement or Service Provider Agreement, as the case may be, and that do not require additional funding or are provided for in the City’s current budget, and that do not increase the indebtedness or contingent liabilities of The Corporation of the City of London, subject to prior review and approval by the City Treasurer or a written designate of the City Treasurer;
 
@@ -2725,19 +2715,19 @@ e)    delegate authority to the Manager, Strategic Programs and Partnerships, 
 
 ****
 
-#### 8.3.4&nbsp;&nbsp;&nbsp;(2.4) London Fire Department Single Source Procurement of Hazardous Materials Handheld Spectrometer (SS-2025-037)  (Relates to Bill No. 123)
+### 8.3.4&nbsp;&nbsp;&nbsp;[(2.4)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#24london-fire-department-single-source-procurement-of-hazardous-materials-handheld-spectrometer-ss-2025-037>) London Fire Department Single Source Procurement of Hazardous Materials Handheld Spectrometer (SS-2025-037)  (Relates to Bill No. 123)
 
 > Motion made by D. Ferreira
 
 That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated March 17, 2025, related to the London Fire Department Single Source Procurement of Hazardous Materials Handheld Spectrometer (SS-2025-037):
 
-a)    in accordance with Section 14.4(e) of the Procurement of Goods and Services Policy, Fire Administration BE AUTHORIZED to enter into negotiations with Visiontec Systems, 1-247 Armstrong Ave, Georgetown, ON, L7G 4X6, for the price of $83,880 (excluding HST) for a single source, one-time purchase of one (1) XplorIR handheld spectrometer for the London Fire Department; 
+a)    in accordance with Section 14.4(e) of the Procurement of Goods and Services Policy, Fire Administration BE AUTHORIZED to enter into negotiations with Visiontec Systems, 1-247 Armstrong Ave, Georgetown, ON, L7G 4X6, for the price of $83,880 (excluding HST) for a single source, one-time purchase of one (1) XplorIR handheld spectrometer for the London Fire Department;
 
-b)    the approval above BE CONDITIONAL upon The Corporation of the City of London negotiating satisfactory prices, terms, conditions, and entering into a contract with Visiontec Systems to provide one (1) XplorIR handheld spectrometer to the London Fire Department; 
+b)    the approval above BE CONDITIONAL upon The Corporation of the City of London negotiating satisfactory prices, terms, conditions, and entering into a contract with Visiontec Systems to provide one (1) XplorIR handheld spectrometer to the London Fire Department;
 
 c)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with the authorization set out in parts a) and b) above;
 
-d)    that the funding for this procurement BE APPROVED as set out in the Source of Financing Report, as appended to the above-noted staff report; and,  
+d)    that the funding for this procurement BE APPROVED as set out in the Source of Financing Report, as appended to the above-noted staff report; and,
 
 e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, as required, to give effect to these recommendations. (2025-V08)
 
@@ -2745,7 +2735,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 8.3.5&nbsp;&nbsp;&nbsp;(2.5) Food and Beverage Concessions in Arenas
+### 8.3.5&nbsp;&nbsp;&nbsp;[(2.5)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#25food-and-beverage-concessions-in-arenas>) Food and Beverage Concessions in Arenas
 
 > Motion made by D. Ferreira
 
@@ -2755,7 +2745,7 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-#### 8.3.6&nbsp;&nbsp;&nbsp;(2.7) Update on Provincial Electric Kick-Scooter and Cargo Power-Assisted Bicycle Pilots
+### 8.3.6&nbsp;&nbsp;&nbsp;[(2.7)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#27update-on-provincial-electric-kick-scooter-and-cargo-power-assisted-bicycle-pilots>) Update on Provincial Electric Kick-Scooter and Cargo Power-Assisted Bicycle Pilots
 
 > Motion made by D. Ferreira
 
@@ -2769,7 +2759,7 @@ b)    the Civic Administration BE DIRECTED to share these findings with the On
 
 ****
 
-#### 8.3.7&nbsp;&nbsp;&nbsp;(2.8) Multi-Space Parking Meter Replacement - Single Source Procurement
+### 8.3.7&nbsp;&nbsp;&nbsp;[(2.8)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#28multi-space-parking-meter-replacement---single-source-procurement>) Multi-Space Parking Meter Replacement - Single Source Procurement
 
 > Motion made by D. Ferreira
 
@@ -2785,7 +2775,7 @@ c)    the Mayor and the City Clerk BE AUTHORIZED to execute a contract, statem
 
 ****
 
-#### 8.3.9&nbsp;&nbsp;&nbsp;(2.6) One Year Update: Green Bin and Biweekly Collection Program - Part One: Program Monitoring and Community Feedback
+### 8.3.9&nbsp;&nbsp;&nbsp;[(2.6)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#26one-year-update-green-bin-and-biweekly-collection-program---part-one-program-monitoring-and-community-feedback>) One Year Update: Green Bin and Biweekly Collection Program - Part One: Program Monitoring and Community Feedback
 
 > Motion made by D. Ferreira
 
@@ -2807,7 +2797,7 @@ iv)    options and cost estimates on how the green bin program can be extended
 
 ****
 
-#### 8.3.13&nbsp;&nbsp;&nbsp;(3.1) 4th Report of the Environmental Stewardship and Action Community Advisory Committee
+### 8.3.13&nbsp;&nbsp;&nbsp;[(3.1)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#314th-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 4th Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by D. Ferreira
 
@@ -2827,7 +2817,7 @@ it being noted that a verbal delegation from B. Samuels, Chair, Environmental St
 
 ****
 
-#### 8.3.14&nbsp;&nbsp;&nbsp;(5.1) Short-Term Rental Enforcement Fund  (Relates to Bill No. 106)
+### 8.3.14&nbsp;&nbsp;&nbsp;[(5.1)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#51added-short-term-rental-enforcement-fund>) Short-Term Rental Enforcement Fund  (Relates to Bill No. 106)
 
 > Motion made by D. Ferreira
 
@@ -2839,7 +2829,7 @@ b)         severally delegate the authority the City Manager and the Deputy 
 
 i)          amending agreements with Canada for the Short-Term Rental Enforcement Fund (“STREF”) as of April 1, 2025 (“Agreement”); and,
 
-ii)         further agreements with Canada that relate to the Agreement and to STREF; 
+ii)         further agreements with Canada that relate to the Agreement and to STREF;
 
 on the condition that they are consistent with the requirements contained in the Contribution Agreement or Service Provider Agreement, as the case may be, and that do not require additional funding or are provided for in the City’s current budget, and that do not increase the indebtedness or contingent liabilities of The Corporation of the City of London, subject to prior review and approval by the City Treasurer or a written designate of the City Treasurer;
 
@@ -2849,7 +2839,7 @@ c)    severally delegate the authority to the City Manager, the Deputy City Ma
 
 ****
 
-#### 8.3.15&nbsp;&nbsp;&nbsp;(5.2) Interim Housing Assistance Program (IHAP) for Costs Incurred Between April 1 and December 31, 2024  (Relates to Bill No. 107)
+### 8.3.15&nbsp;&nbsp;&nbsp;[(5.2)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#52added-interim-housing-assistance-program-ihap-for-costs-incurred-between-april-1-and-december-31-2024>) Interim Housing Assistance Program (IHAP) for Costs Incurred Between April 1 and December 31, 2024  (Relates to Bill No. 107)
 
 > Motion made by D. Ferreira
 
@@ -2879,13 +2869,13 @@ f)        ratify the Agreement with the Government of Canada (Interim Housin
 
 ****
 
-#### 8.3.8&nbsp;&nbsp;&nbsp;(2.2) Primary Care Recruitment and Retention Program Report
+### 8.3.8&nbsp;&nbsp;&nbsp;[(2.2)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#22primary-care-recruitment-and-retention-program-report>) Primary Care Recruitment and Retention Program Report
 
 > Motion made by D. Ferreira
 
 That the following actions be taken with respect to the staff report dated March 17, 2025 related to Primary Care Recruitment and Retention Program:
 
-a)    the above-noted staff report BE RECEIVED; 
+a)    the above-noted staff report BE RECEIVED;
 
 b)    the City’s financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 for one year; it being noted that the uncommitted balance of the Economic Development Fund is approximately $4.8 million; and,
 
@@ -2930,7 +2920,7 @@ c)    the Mayor BE REQUESTED to write a letter to Middlesex County Mayors requ
 
 > Seconded by A. Hopkins
 
-That pursuant to section 11.11 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM. 
+That pursuant to section 11.11 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -2962,7 +2952,7 @@ Motion to approve part a) and it being noted:
 
 That the following actions be taken with respect to the staff report dated March 17, 2025 related to Primary Care Recruitment and Retention Program:
 
-a)    the above-noted staff report BE RECEIVED; 
+a)    the above-noted staff report BE RECEIVED;
 
 it being noted that a delegation and presentation from A. Loewen, Middlesex London Ontario Health Team, with respect to this matter, were received. (2025-S08)
 
@@ -3017,25 +3007,25 @@ Item 8, clause 2.2, reads as follows:
 
 That the following actions be taken with respect to the staff report dated March 17, 2025 related to Primary Care Recruitment and Retention Program:
 
-a)    the above-noted staff report BE RECEIVED; 
+a)    the above-noted staff report BE RECEIVED;
 
 it being noted that a delegation and presentation from A. Loewen, Middlesex London Ontario Health Team, with respect to this matter, were received. (2025-S08)
 
 ****
 
-#### 8.3.10&nbsp;&nbsp;&nbsp;(2.9) Provision of Outdoor Basic Needs
+### 8.3.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#29provision-of-outdoor-basic-needs>) Provision of Outdoor Basic Needs
 
 > Motion made by D. Ferreira
 
 That the following actions be taken with respect to the staff report dated March 17, 2025, related to the Provision of Outdoor Basic Needs:
 
-a)        the Civic Administration BE DIRECTED to operationalize the components of the above-noted Provision of Outdoor Basic Needs Report dated March 17, 2025; 
+a)        the Civic Administration BE DIRECTED to operationalize the components of the above-noted Provision of Outdoor Basic Needs Report dated March 17, 2025;
 
 i)        the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project;
 
-b)        the Civic Administration BE DIRECTED to allocate up to $37,033 (excluding HST) for the provision of Portable Washrooms (May 2025-March 31, 2026); 
+b)        the Civic Administration BE DIRECTED to allocate up to $37,033 (excluding HST) for the provision of Portable Washrooms (May 2025-March 31, 2026);
 
-c)        the Civic Administration BE DIRECTED to allocate up to $14,953 (excluding HST) for the provision of Water (May 2025- March 31, 2026); 
+c)        the Civic Administration BE DIRECTED to allocate up to $14,953 (excluding HST) for the provision of Water (May 2025- March 31, 2026);
 
 d)        a single source procurement BE APPROVED at a total estimated cost of up to $653,200 (excluding HST) for the period of May 1, 2025, to March 31, 2026, for Ark Aid Street Mission Inc. (SS-2025-069), for the provision of Meals, utilizing Housing Stability Services funding as per the Corporation of the City of London’s Procurement of Goods and Services Policy, Section 14.4 d) and e);
 
@@ -3122,13 +3112,13 @@ Item 10, clause 2.9, as amended, reads as follows:
 
 That the following actions be taken with respect to the staff report dated March 17, 2025, related to the Provision of Outdoor Basic Needs:
 
-a)        the Civic Administration BE DIRECTED to operationalize the components of the above-noted Provision of Outdoor Basic Needs Report dated March 17, 2025; 
+a)        the Civic Administration BE DIRECTED to operationalize the components of the above-noted Provision of Outdoor Basic Needs Report dated March 17, 2025;
 
 i)        the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project;
 
-b)        the Civic Administration BE DIRECTED to allocate up to $37,033 (excluding HST) for the provision of Portable Washrooms (May 2025-March 31, 2026); 
+b)        the Civic Administration BE DIRECTED to allocate up to $37,033 (excluding HST) for the provision of Portable Washrooms (May 2025-March 31, 2026);
 
-c)        the Civic Administration BE DIRECTED to allocate up to $14,953 (excluding HST) for the provision of Water (May 2025- March 31, 2026); 
+c)        the Civic Administration BE DIRECTED to allocate up to $14,953 (excluding HST) for the provision of Water (May 2025- March 31, 2026);
 
 d)        a single source procurement BE APPROVED at a total estimated cost of up to $653,200 (excluding HST) for the period of May 1, 2025, to March 31, 2026, for Ark Aid Street Mission Inc. (SS-2025-069), for the provision of Meals, utilizing Housing Stability Services funding as per the Corporation of the City of London’s Procurement of Goods and Services Policy, Section 14.4 d) and e);
 
@@ -3138,13 +3128,13 @@ ii)        the approval given, herein, BE CONDITIONAL upon The Corporation o
 
 e)        a single source procurement BE APPROVED at a total estimated cost of up to $341,049 (excluding HST) for the period of May 1, 2025, to March 31, 2026, for 519Pursuit Umbrella Relief Programs Inc. (SS-2025-070), for the provision of outreach supports for outdoor basic needs, utilizing Housing Stability Services funding as per the Corporation of the City of London’s Procurement of Goods and Services Policy, Section 14.4 d) and e);
 
-i)        the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project; and,    
+i)        the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project; and,
 
 ii)        the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into new and/or amending existing Purchase of Service Agreements with agencies identified through the City’s Procurement of Goods and Services Policy to deliver the approved services;
 
 f)        an amendment to the existing Municipal Purchase of Service agreement with London Cares Homeless Response Services (SS-2025-071) BE APPROVED to a total estimated increase of up to $203,707 (excluding HST) for the period of April 1, 2025, to March 31, 2026, for the provision of outreach supports for outdoor basic needs, utilizing Housing Stability Services funding as per the Corporation of the City of London’s Procurement of Goods and Services Policy, Section 14.4 d) and e);
 
-i)        the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project; and, 
+i)        the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project; and,
 
 ii)        the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into new and/or amending existing Purchase of Service Agreements with agencies identified through the City’s Procurement of Goods and Services Policy to deliver the approved services;
 
@@ -3152,7 +3142,7 @@ g)    the Civic Administration BE DIRECTED to present a report at a future mee
 
 h)    the following actions be taken with respect to the communication, dated March 14, 2025, from Councillor H. McAlister:
 
-i)        the Mayor and the Civic Administration BE DIRECTED to request from the Provincial Government additional funds to open a new shelter location in the City of London akin to the funding agreements that currently exist between the Salvation Army Centre of Hope and Men’s Mission Services; it being noted that this request would include the potential use of Provincial facilities and land to accommodate a new shelter; and, 
+i)        the Mayor and the Civic Administration BE DIRECTED to request from the Provincial Government additional funds to open a new shelter location in the City of London akin to the funding agreements that currently exist between the Salvation Army Centre of Hope and Men’s Mission Services; it being noted that this request would include the potential use of Provincial facilities and land to accommodate a new shelter; and,
 
 ii)        the above-noted communication BE RECEIVED;
 
@@ -3162,7 +3152,7 @@ it being noted that communications from A. Todd, M. Kaye, J. Brasil, B. Rudland,
 
 ****
 
-#### 8.3.11&nbsp;&nbsp;&nbsp;(2.10) Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement  (Relates to Bill No. 105)
+### 8.3.11&nbsp;&nbsp;&nbsp;[(2.10)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#210emergency-treatment-fund-etf-approval-of-federal-contribution-agreement>) Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement  (Relates to Bill No. 105)
 
 At 6:09 PM, Councillor P. Van Meerbergen leaves the meeting.
 
@@ -3180,13 +3170,13 @@ i)         amending agreements with Canada (Minister of Health) for the Subs
 
 ii)        further agreements with Canada that relate to the Contribution Agreement; and,
 
-iii)          agreements (including amending agreements) with third party services providers  that relate to the Contribution Agreement (“Service Provider Agreement”); 
+iii)          agreements (including amending agreements) with third party services providers  that relate to the Contribution Agreement (“Service Provider Agreement”);
 
 on the condition that they are consistent with the requirements contained in the Contribution Agreement or Service Provider Agreement, as the case may be, and that do not require additional funding or are provided for in the City’s current budget, and that do not increase the indebtedness or contingent liabilities of The Corporation of the City of London, subject to prior review and approval by the City Treasurer or a written designate of the City Treasurer;
 
 b)        authorize the Mayor and the City Clerk to execute agreements (including amending agreements) approved above;
 
-c)        severally delegate to the City Manager, the Deputy City Manager, Social and Health Development, or their written designates, the authority to approve such further and other documents (not Agreements) that do not fall under section a) above, that may be required in furtherance of The Corporation of the City of London’s obligations under its Contribution Agreement with Canada, and Service Provider Agreements, on the condition that they are consistent with the requirements contained in the Contribution Agreement or Service Provider Agreement, as the case may be, and that do not require additional funding or are provided for in the City’s current budget, and that do not increase the indebtedness or contingent liabilities of The Corporation of the City of London, subject to prior review and approval by the City Treasurer;  
+c)        severally delegate to the City Manager, the Deputy City Manager, Social and Health Development, or their written designates, the authority to approve such further and other documents (not Agreements) that do not fall under section a) above, that may be required in furtherance of The Corporation of the City of London’s obligations under its Contribution Agreement with Canada, and Service Provider Agreements, on the condition that they are consistent with the requirements contained in the Contribution Agreement or Service Provider Agreement, as the case may be, and that do not require additional funding or are provided for in the City’s current budget, and that do not increase the indebtedness or contingent liabilities of The Corporation of the City of London, subject to prior review and approval by the City Treasurer;
 
 d)        severally authorize the City Manager and Deputy City Manager, Social and Health Development, or their written designates to execute the documents approved under part c) of this by-law;
 
@@ -3211,9 +3201,9 @@ g)    the Civic Administration BE DIRECTED to present a report at a future mee
 
 > **Motion Passed (9 to 5)**
 
-At 6:23 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 6:23 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 6:25 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 6:25 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 At 6:32 PM, Councillor S. Trosow leaves the meeting.
 
@@ -3233,7 +3223,7 @@ The Council recesses at 6:39 PM and reconvenes at 6:50 PM.
 
 ****
 
-#### 8.3.12&nbsp;&nbsp;&nbsp;(2.11) Additional Emergency Shelter and Day Drop-in Space Update Report 
+### 8.3.12&nbsp;&nbsp;&nbsp;[(2.11)](</2025-03/2025-03-17 5th Meeting of the Community and Protective Services Committee#211additional-emergency-shelter-and-day-drop-in-space-update-report>) Additional Emergency Shelter and Day Drop-in Space Update Report 
 
 > Motion made by D. Ferreira
 
@@ -3255,9 +3245,9 @@ it being noted that a verbal delegation from S. Campbell, with respect to this m
 
 ****
 
-At 7:24 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
+At 7:24 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.
 
-At 7:28 PM, His Worship Mayor J. Morgan resumes the Chair. 
+At 7:28 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 > Motion made by S. Stevenson
 
@@ -3463,9 +3453,9 @@ it being noted that a verbal delegation from S. Campbell, with respect to this m
 
 ****
 
-### 8.5&nbsp;&nbsp;&nbsp;1st Report of the Budget Committee
+## 8.5&nbsp;&nbsp;&nbsp;1st Report of the Budget Committee
 
-[2025-03-19 Budget Report 1-Complete.pdf](https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115570)
+[2025-03-19 Budget Report 1-Complete](</2025-03/2025-03-19 1st Meeting of the Budget Committee>)
 
 At 8:34 PM, Deputy Mayor S. Lewis leaves the meeting.
 
@@ -3494,7 +3484,7 @@ That the 1st Report of the Budget Committee BE APPROVED.
 
 ****
 
-#### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by E. Peloza
 
@@ -3504,7 +3494,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 8.5.2&nbsp;&nbsp;&nbsp;(2.3) Alcohol in City Facilities
+### 8.5.2&nbsp;&nbsp;&nbsp;[(2.3)](</2025-03/2025-03-19 1st Meeting of the Budget Committee#23alcohol-in-city-facilities>) Alcohol in City Facilities
 
 > Motion made by E. Peloza
 
@@ -3514,7 +3504,7 @@ That, on the recommendation of the Deputy City Manager of Neighbourhood and Comm
 
 ****
 
-#### 8.5.3&nbsp;&nbsp;&nbsp;(2.4) Engagement with Agencies, Boards and Commissions on Budget Consideration
+### 8.5.3&nbsp;&nbsp;&nbsp;[(2.4)](</2025-03/2025-03-19 1st Meeting of the Budget Committee#24engagement-with-agencies-boards-and-commissions-on-budget-consideration>) Engagement with Agencies, Boards and Commissions on Budget Consideration
 
 > Motion made by E. Peloza
 
@@ -3524,7 +3514,7 @@ That the communication dated March 7, 2025 with respect to engagement with Agenc
 
 ****
 
-#### 8.5.4&nbsp;&nbsp;&nbsp;(2.1) 2026 Annual Budget Update Process
+### 8.5.4&nbsp;&nbsp;&nbsp;[(2.1)](</2025-03/2025-03-19 1st Meeting of the Budget Committee#212026-annual-budget-update-process>) 2026 Annual Budget Update Process
 
 > Motion made by E. Peloza
 
@@ -3570,7 +3560,7 @@ f)    the Civic Administration BE DIRECTED to convene a special meeting of the
 
 ****
 
-#### 8.5.5&nbsp;&nbsp;&nbsp;(2.2) Surplus/Deficit Policy Update
+### 8.5.5&nbsp;&nbsp;&nbsp;[(2.2)](</2025-03/2025-03-19 1st Meeting of the Budget Committee#22surplusdeficit-policy-update>) Surplus/Deficit Policy Update
 
 > Motion made by E. Peloza
 
@@ -3580,7 +3570,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the pr
 
 ****
 
-#### 8.5.6&nbsp;&nbsp;&nbsp;(5.1) Strategic Opportunities Review Working Group Deferred Matters List
+### 8.5.6&nbsp;&nbsp;&nbsp;[(5.1)](</2025-03/2025-03-19 1st Meeting of the Budget Committee#51strategic-opportunities-review-working-group-deferred-matters-list>) Strategic Opportunities Review Working Group Deferred Matters List
 
 > Motion made by E. Peloza
 
@@ -3594,7 +3584,7 @@ At 8:39 PM, Councillor S. Franke leaves the meeting.
 
 ****
 
-## 9.&nbsp;&nbsp;&nbsp;Added Reports
+# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by C. Rahman
 
@@ -3619,7 +3609,7 @@ That the 6th Report of the Council, In Closed Session BE APPROVED.
 
 > **Motion Passed (13 to 0)**
 
-That clauses 1 to 3 of the 6th Report of the Council, In Closed Session, read as follows: 
+That clauses 1 to 3 of the 6th Report of the Council, In Closed Session, read as follows:
 
 Property Acquisition – 120 Wellington Road – Wellington Gateway Project
 
@@ -3629,8 +3619,6 @@ a)    the offer submitted by Wai Wah Fan, Sun Choi Fan (the “Vendor”), to 
 
 b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
 
- 
-
 Property Acquisition – 122 Wellington Road – Wellington Gateway Project
 
 2.     That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the property located at 122 Wellington Road, further described as Part of Lot 4, Plan 312 (4TH), in the City of London, being all of PIN 08357-0094 (LT), containing an area of approximately 5,069.8 sq. ft, as shown on the Location Map attached as Appendix “B”, for the purpose of future road improvements to accommodate the Wellington Gateway Project, the following actions be taken:
@@ -3639,39 +3627,35 @@ a)    the offer submitted by Wai Wah Fan, Sun Choi Fan, and Dennis Kai-Wing Fa
 
 b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
 
- 
-
 Property Acquisition – Kilally Road Advanced Dedications (Drewlo Holdings Inc.)
 
-3.   That, on the recommendation of the Director, Planning and Development and the Director, Realty Services, with respect to property owned by Drewlo Holdings Inc. legally described as Part of Lots 37-39 on Plan 82(C); Part of Lots 1-7 on Plan 79(C); Part of Lot 10, Plan 91(C); Part of Lot 6, Concession 3 and Part of Lot 7, Concession 4, designated as Parts 1, 2, 3, 4 and 6 on Plan 33R22082  and Parts 1 and 2 on Plan 33R22098 (the “Road Widening Lands”), the Civic Administration BE DIRECTED to introduce the attached, proposed, by-law at the Municipal Council meeting to be held on April 1, 2025, being a by-law to authorize and approve an Agreement of Purchase and Sale (attached as Appendix "C") between The Corporation of the City of London and Drewlo Holdings Inc. for the purchase of the Road Widening Lands for the sum of $2.00 and subject to the terms and conditions set out in the Agreement and to authorize the Mayor and the City Clerk to execute the Agreement. 
+3.   That, on the recommendation of the Director, Planning and Development and the Director, Realty Services, with respect to property owned by Drewlo Holdings Inc. legally described as Part of Lots 37-39 on Plan 82(C); Part of Lots 1-7 on Plan 79(C); Part of Lot 10, Plan 91(C); Part of Lot 6, Concession 3 and Part of Lot 7, Concession 4, designated as Parts 1, 2, 3, 4 and 6 on Plan 33R22082  and Parts 1 and 2 on Plan 33R22098 (the “Road Widening Lands”), the Civic Administration BE DIRECTED to introduce the attached, proposed, by-law at the Municipal Council meeting to be held on April 1, 2025, being a by-law to authorize and approve an Agreement of Purchase and Sale (attached as Appendix "C") between The Corporation of the City of London and Drewlo Holdings Inc. for the purchase of the Road Widening Lands for the sum of $2.00 and subject to the terms and conditions set out in the Agreement and to authorize the Mayor and the City Clerk to execute the Agreement.
 
 That progress was made with respect to item 4.4 as noted on the public agenda, (6.1/4/SPPC).
 
 ****
 
-## 10.&nbsp;&nbsp;&nbsp;Deferred Matters
+# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-## 11.&nbsp;&nbsp;&nbsp;Enquiries
+# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-## 12.&nbsp;&nbsp;&nbsp;Emergent Motions
+# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
 At 8:41 PM, Councillor S. Franke enters the meeting.
 
-## 13.&nbsp;&nbsp;&nbsp;By-laws
+# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
 > Seconded by S. Franke
 
 That Introduction and First Reading of Bill No. 105, BE APPROVED.
-
- 
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|Absent:|
@@ -4178,7 +4162,7 @@ That Third Reading and Enactment of Bill No.’s 103 to 104, Bill No.'s 106 to 1
 > 
 > By-law No. A.-8591-100 - A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Drewlo Holdings Inc., for the purchase of land which is legally described as Part of Lots 37-39 on Plan 82(C); Part of Lots 1-7 on Plan 79(C); Part of Lot 10, Plan 91(C); Part of Lot 6, Concession 3 and Part of Lot 7, Concession 4, designated as Parts 1, 2, 3, 4 and 6 on Plan 33R22082 and Parts 1 and 2 on Plan 33R22098 in the City of London, County of Middlesex, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.3/6/ICSC)
 
-## 14.&nbsp;&nbsp;&nbsp;Adjournment
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Cuddy
 

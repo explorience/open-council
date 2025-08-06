@@ -83,15 +83,17 @@ def get_minutes(target_date, meeting_type):
     "url":     minutes_url
   }
 
-# do we already have a copy of this council meeting?
-def council_meeting_local_copy(target_date):
+# do we already have a copy of this meeting?
+def meeting_local_copy(meeting_type, target_date):
   yyyy_mm = target_date.strftime("%Y-%m")
-  folder = Path(f"../content/{yyyy_mm}/")
+  folder = Path(f"../data/{yyyy_mm}/")
   if not folder.exists(): return None
 
-  folder_contents = [path.name for path in folder.iterdir()]
   yyyy_mm_dd = target_date.strftime("%Y-%m-%d")
-  for meeting in folder_contents:
-    if "Council" in meeting and yyyy_mm_dd in meeting:
-      return f"{yyyy_mm}/{meeting}"
+  for path in folder.iterdir():
+    if not yyyy_mm_dd in path.name: continue
+    data = json.loads(path.read_text())
+    if not "meeting_type" in data: continue
+    if data["meeting_type"] == meeting_type:
+      return f"{yyyy_mm}/{path.stem}"
   return None

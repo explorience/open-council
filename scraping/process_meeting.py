@@ -17,9 +17,9 @@ def format_json(x):
 meetings_processed = 0
 meetings_processed_errors = []
 
-# process_meeting(datetime(2025, 6, 24), meeting_type)
+# process_meeting("Council", datetime(2025, 6, 24))
 # returns None (meeting not found) or a path
-def process_meeting(target_date, meeting_type):
+def process_meeting(meeting_type, target_date):
   global meetings_processed, meetings_processed_errors
 
   try:
@@ -29,7 +29,7 @@ def process_meeting(target_date, meeting_type):
     minutes = download_data["minutes"]
     url = download_data["url"]
     soup = BeautifulSoup(minutes, "html.parser")
-    meeting = Meeting(soup, url)
+    meeting = Meeting(soup, url, meeting_type)
     markdown = meeting.format_markdown()
 
     output = Path(f"../content/{meeting.yyyy_mm()}/{meeting.format_title()}.md")

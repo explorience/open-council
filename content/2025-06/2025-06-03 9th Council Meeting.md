@@ -385,7 +385,7 @@ None.
 
 ## 8.1&nbsp;&nbsp;&nbsp;8th Report of the Planning and Environment Committee
 
-[2025-05-21 - PEC REPORT](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee >)
+[2025-05-21 - PEC REPORT](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -423,7 +423,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211st-report-of-the-community-advisory-committee-on-planning>) 1st Report of the Community Advisory Committee on Planning
+### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#211st-report-of-the-community-advisory-committee-on-planning>) 1st Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -433,7 +433,7 @@ That the 1st Report of the Community Advisory Committee on Planning from its mee
 
 ****
 
-### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #222024-canadian-home-builders-association-benchmarking-study>) 2024 Canadian Home Builders’ Association Benchmarking Study 
+### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#222024-canadian-home-builders-association-benchmarking-study>) 2024 Canadian Home Builders’ Association Benchmarking Study 
 
 > Motion made by S. Lehman
 
@@ -443,7 +443,7 @@ That the 2024 Canadian Home Builder’s Association Benchmarking Study referenci
 
 ****
 
-### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #232024-annual-report-on-building-permit-fees>) 2024 Annual Report on Building Permit Fees
+### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#232024-annual-report-on-building-permit-fees>) 2024 Annual Report on Building Permit Fees
 
 > Motion made by S. Lehman
 
@@ -453,7 +453,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #24administrative-monetary-penalty-system-by-law---site-alteration>) Administrative Monetary Penalty System By-Law -Site Alteration (Relates to Bill No. 193) 
+### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#24administrative-monetary-penalty-system-by-law---site-alteration>) Administrative Monetary Penalty System By-Law -Site Alteration (Relates to Bill No. 193) 
 
 > Motion made by S. Lehman
 
@@ -463,7 +463,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #251364-1408-hyde-park-road-deeming-by-law>) 1364-1408 Hyde Park Road Deeming By-law (Relates to Bill No. 194) 
+### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#251364-1408-hyde-park-road-deeming-by-law>) 1364-1408 Hyde Park Road Deeming By-law (Relates to Bill No. 194) 
 
 > Motion made by S. Lehman
 
@@ -485,7 +485,7 @@ it being noted that the communication dated May 15, 2025, from D. Szpakowski, HP
 
 ****
 
-### 8.1.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #27housing-accelerator-fund--amendment-to-contribution-agreement-and-additional-initiatives>) Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
+### 8.1.8&nbsp;&nbsp;&nbsp;[(2.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#27housing-accelerator-fund--amendment-to-contribution-agreement-and-additional-initiatives>) Housing Accelerator Fund – Amendment to Contribution Agreement and Additional Initiatives 
 
 > Motion made by S. Lehman
 
@@ -495,7 +495,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #28housing-and-community-growth-climate-emergency-action-plan-action-tracker-update>) Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
+### 8.1.9&nbsp;&nbsp;&nbsp;[(2.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#28housing-and-community-growth-climate-emergency-action-plan-action-tracker-update>) Housing and Community Growth: Climate Emergency Action Plan Action Tracker Update
 
 > Motion made by S. Lehman
 
@@ -509,7 +509,7 @@ b)    the listed Climate Emergency Action Plan Action Items as appended to the
 
 ****
 
-### 8.1.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #29building-services-report---quarter-1-2025>) Building Services Report - Quarter 1 2025
+### 8.1.10&nbsp;&nbsp;&nbsp;[(2.9)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#29building-services-report---quarter-1-2025>) Building Services Report - Quarter 1 2025
 
 > Motion made by S. Lehman
 
@@ -519,7 +519,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.11&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #210quarterly-heritage-report--q1-2025>) Quarterly Heritage Report – Q1 2025
+### 8.1.11&nbsp;&nbsp;&nbsp;[(2.10)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#210quarterly-heritage-report--q1-2025>) Quarterly Heritage Report – Q1 2025
 
 > Motion made by S. Lehman
 
@@ -529,7 +529,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.14&nbsp;&nbsp;&nbsp;[(2.13)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #213added-2nd-report-of-the-community-advisory-committee-on-planning>) 2nd Report of the Community Advisory Committee on Planning
+### 8.1.14&nbsp;&nbsp;&nbsp;[(2.13)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#213added-2nd-report-of-the-community-advisory-committee-on-planning>) 2nd Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -543,7 +543,7 @@ it being noted that the verbal delegation from J. M. Metrailler, Chair, Communit
 
 ****
 
-### 8.1.16&nbsp;&nbsp;&nbsp;[(3.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #323510-3524-colonel-talbot-road-oz-25033>) 3510-3524 Colonel Talbot Road (OZ-25033) (Relates to Bill No.'s 195 and 241) 
+### 8.1.16&nbsp;&nbsp;&nbsp;[(3.2)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#323510-3524-colonel-talbot-road-oz-25033>) 3510-3524 Colonel Talbot Road (OZ-25033) (Relates to Bill No.'s 195 and 241) 
 
 > Motion made by S. Lehman
 
@@ -579,7 +579,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.22&nbsp;&nbsp;&nbsp;[(3.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #383334-3354-wonderland-road-south-oz-25034>) 3334-3354 Wonderland Road South (OZ-25034)
+### 8.1.22&nbsp;&nbsp;&nbsp;[(3.8)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#383334-3354-wonderland-road-south-oz-25034>) 3334-3354 Wonderland Road South (OZ-25034)
 
 > Motion made by S. Lehman
 
@@ -599,7 +599,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.23&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #51deferred-matters-list>) Deferred Matters List
+### 8.1.23&nbsp;&nbsp;&nbsp;[(5.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#51deferred-matters-list>) Deferred Matters List
 
 > Motion made by S. Lehman
 
@@ -609,7 +609,7 @@ That the Deferred Matters List BE REVEIVED.
 
 ****
 
-### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #26heritage-alteration-permit-application-by-the-canada-life-assurance-company-for-255-dufferin-avenue-downtown-heritage-conservation-district-hap25-024-l>) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#26heritage-alteration-permit-application-by-the-canada-life-assurance-company-for-255-dufferin-avenue-downtown-heritage-conservation-district-hap25-024-l>) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
 
 > Motion made by S. Lehman
 
@@ -651,7 +651,7 @@ it being also noted that the visual presentation as appended to the added agenda
 
 ****
 
-### 8.1.12&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #211update-on-green-development-guidelines-framework>) Update on Green Development Guidelines (Framework)
+### 8.1.12&nbsp;&nbsp;&nbsp;[(2.11)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#211update-on-green-development-guidelines-framework>) Update on Green Development Guidelines (Framework)
 
 > Motion made by S. Lehman
 
@@ -691,7 +691,7 @@ it being noted that the communication dated May 19, 2025, from B. Samuels relate
 
 ****
 
-### 8.1.13&nbsp;&nbsp;&nbsp;[(2.12)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #212added-surplus-school-sites-expression-of-interest-70-jacqueline-street-former-ga-wheable-adult-and-continuing-education-centre-and-1366-huron-street-severance-of-surplus-land-from-st-anne-catholic-school>) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
+### 8.1.13&nbsp;&nbsp;&nbsp;[(2.12)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#212added-surplus-school-sites-expression-of-interest-70-jacqueline-street-former-ga-wheable-adult-and-continuing-education-centre-and-1366-huron-street-severance-of-surplus-land-from-st-anne-catholic-school>) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
 
 > Motion made by S. Lehman
 
@@ -722,7 +722,7 @@ b)    this report BE RECEIVED.
 
 ****
 
-### 8.1.15&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #3120-clarke-road-z-25038>) 20 Clarke Road (Z-25038) (Relates to Bill No. 240) 
+### 8.1.15&nbsp;&nbsp;&nbsp;[(3.1)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#3120-clarke-road-z-25038>) 20 Clarke Road (Z-25038) (Relates to Bill No. 240) 
 
 > Motion made by S. Lehman
 
@@ -806,7 +806,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.17&nbsp;&nbsp;&nbsp;[(3.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #331890--1900-kilgorman-way-z-25045>) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
+### 8.1.17&nbsp;&nbsp;&nbsp;[(3.3)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#331890--1900-kilgorman-way-z-25045>) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
 
 > Motion made by S. Lehman
 
@@ -846,7 +846,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.18&nbsp;&nbsp;&nbsp;[(3.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #34168-meadowlily-road-south-oz-9763>) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243) 
+### 8.1.18&nbsp;&nbsp;&nbsp;[(3.4)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#34168-meadowlily-road-south-oz-9763>) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243) 
 
 > Motion made by S. Lehman
 
@@ -913,7 +913,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.19&nbsp;&nbsp;&nbsp;[(3.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #351206-oxford-street-east--17-19-wistow-street-z-25036>) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
+### 8.1.19&nbsp;&nbsp;&nbsp;[(3.5)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#351206-oxford-street-east--17-19-wistow-street-z-25036>) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
 
 > Motion made by S. Lehman
 
@@ -1103,7 +1103,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.20&nbsp;&nbsp;&nbsp;[(3.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #36demolition-request---197-183-179-175-ann-street-86-84-st-george-street-on-heritage-designated-property-by-street-george-and-ann-block>) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
+### 8.1.20&nbsp;&nbsp;&nbsp;[(3.6)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#36demolition-request---197-183-179-175-ann-street-86-84-st-george-street-on-heritage-designated-property-by-street-george-and-ann-block>) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 
 
 > Motion made by S. Lehman
 
@@ -1186,7 +1186,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.21&nbsp;&nbsp;&nbsp;[(3.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee #37299-307-sarnia-road-z-25039>) 299-307 Sarnia Road (Z-25039) (Relates to Bill No. 245) 
+### 8.1.21&nbsp;&nbsp;&nbsp;[(3.7)](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee#37299-307-sarnia-road-z-25039>) 299-307 Sarnia Road (Z-25039) (Relates to Bill No. 245) 
 
 > Motion made by S. Lehman
 

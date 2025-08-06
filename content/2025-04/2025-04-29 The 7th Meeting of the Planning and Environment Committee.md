@@ -1,5 +1,5 @@
 ---
-title: The 7th Meeting of the Planning and Environment Committee 
+title: The 7th Meeting of the Planning and Environment Committee
 date: 2025-04-29
 ---
 April 29, 2025, at  1:00 PM

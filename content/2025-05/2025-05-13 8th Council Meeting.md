@@ -74,7 +74,7 @@ That Council convenes In Closed Session, from 1:07 PM to 1:13 PM.
 
 ## 5.1&nbsp;&nbsp;&nbsp;7th Meeting held on April 22, 2025
 
-[2025-04-22 Council Minutes - for Council agenda](</2025-04/2025-04-22 7th Council Meeting.md>)
+[2025-04-22 Council Minutes - for Council agenda](</2025-04/2025-04-22 7th Council Meeting>)
 
 > Motion made by P. Cuddy
 
@@ -674,7 +674,7 @@ That the staff report dated April 28, 2025, related to Approval of the Template 
 
 ## 8.2&nbsp;&nbsp;&nbsp;7th Report of the Planning and Environment Committee
 
-[2025-04-29 - PEC REPORT](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee >)
+[2025-04-29 - PEC REPORT](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -713,7 +713,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #21business-improvement-areas-information-review>) Business Improvement Areas Information Review
+### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#21business-improvement-areas-information-review>) Business Improvement Areas Information Review
 
 > Motion made by S. Lehman
 
@@ -723,7 +723,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #22proposed-amendments-to-the-business-improvement-area-by-laws>) Proposed Amendments to the Business Improvement Area By-laws (Relates to Bill No.'s 161, 164, 165, 168 and 169) 
+### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#22proposed-amendments-to-the-business-improvement-area-by-laws>) Proposed Amendments to the Business Improvement Area By-laws (Relates to Bill No.'s 161, 164, 165, 168 and 169) 
 
 > Motion made by S. Lehman
 
@@ -743,7 +743,7 @@ e)    the proposed by-law as appended on the staff report dated April 29, 2025
 
 ****
 
-### 8.2.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #24fast-tracking-housing---mayoral-direction-2025-001>) Fast-Tracking Housing - Mayoral Direction 2025-001
+### 8.2.5&nbsp;&nbsp;&nbsp;[(2.4)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#24fast-tracking-housing---mayoral-direction-2025-001>) Fast-Tracking Housing - Mayoral Direction 2025-001
 
 > Motion made by S. Lehman
 
@@ -755,7 +755,7 @@ it being noted that the verbal delegation from M. Wallace, London Development In
 
 ****
 
-### 8.2.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #25housing-accelerator-fund-completion-of-the-city-of-london-housing-needs-assessment>) Housing Accelerator Fund: Completion of the City of London Housing Needs Assessment 
+### 8.2.6&nbsp;&nbsp;&nbsp;[(2.5)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#25housing-accelerator-fund-completion-of-the-city-of-london-housing-needs-assessment>) Housing Accelerator Fund: Completion of the City of London Housing Needs Assessment 
 
 > Motion made by S. Lehman
 
@@ -769,7 +769,7 @@ b)    the Housing Needs Assessment as appended to the staff report dated April
 
 ****
 
-### 8.2.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #26housing-accelerator-fund-initiative-5-city-land-disposal-process-review-for-increasing-affordable-housing>) Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
+### 8.2.7&nbsp;&nbsp;&nbsp;[(2.6)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#26housing-accelerator-fund-initiative-5-city-land-disposal-process-review-for-increasing-affordable-housing>) Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
 
 > Motion made by S. Lehman
 
@@ -809,7 +809,7 @@ Internally;
 
 ****
 
-### 8.2.8&nbsp;&nbsp;&nbsp;[(3.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #313095-bostwick-road-oz-25018>) 3095 Bostwick Road (OZ-25018) (Relates to Bill No.'s 166 and 175) 
+### 8.2.8&nbsp;&nbsp;&nbsp;[(3.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#313095-bostwick-road-oz-25018>) 3095 Bostwick Road (OZ-25018) (Relates to Bill No.'s 166 and 175) 
 
 > Motion made by S. Lehman
 
@@ -859,7 +859,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.9&nbsp;&nbsp;&nbsp;[(3.2)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #321176-crumlin-side-road-z-9601>) 1176 Crumlin Side Road (Z-9601) (Relates to Bill No. 176) 
+### 8.2.9&nbsp;&nbsp;&nbsp;[(3.2)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#321176-crumlin-side-road-z-9601>) 1176 Crumlin Side Road (Z-9601) (Relates to Bill No. 176) 
 
 > Motion made by S. Lehman
 
@@ -885,7 +885,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.10&nbsp;&nbsp;&nbsp;[(3.3)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #331140-fanshawe-park-road-east-z-25027>) 1140 Fanshawe Park Road East (Z-25027) (Relates to Bill No. 177)
+### 8.2.10&nbsp;&nbsp;&nbsp;[(3.3)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#331140-fanshawe-park-road-east-z-25027>) 1140 Fanshawe Park Road East (Z-25027) (Relates to Bill No. 177)
 
 > Motion made by S. Lehman
 
@@ -909,7 +909,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.11&nbsp;&nbsp;&nbsp;[(3.4)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #34459-hales-street-z-25026>) 459 Hales Street (Z-25026) (Relates to Bill No. 178)
+### 8.2.11&nbsp;&nbsp;&nbsp;[(3.4)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#34459-hales-street-z-25026>) 459 Hales Street (Z-25026) (Relates to Bill No. 178)
 
 > Motion made by S. Lehman
 
@@ -947,7 +947,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.13&nbsp;&nbsp;&nbsp;[(3.6)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #36city-wide-revised-requirements-for-notice-of-application-and-notice-of-public-participation-meetings-o-25007>) City-Wide: Revised Requirements for Notice of Application and Notice of Public Participation Meetings (O-25007) (Relates to Bill No. 167)
+### 8.2.13&nbsp;&nbsp;&nbsp;[(3.6)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#36city-wide-revised-requirements-for-notice-of-application-and-notice-of-public-participation-meetings-o-25007>) City-Wide: Revised Requirements for Notice of Application and Notice of Public Participation Meetings (O-25007) (Relates to Bill No. 167)
 
 > Motion made by S. Lehman
 
@@ -969,7 +969,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.14&nbsp;&nbsp;&nbsp;[(5.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #51deferred-matters-list>) Deferred Matters List 
+### 8.2.14&nbsp;&nbsp;&nbsp;[(5.1)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#51deferred-matters-list>) Deferred Matters List 
 
 > Motion made by S. Lehman
 
@@ -979,7 +979,7 @@ That the Deferred Matters List BE RECEIVED.
 
 ****
 
-### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #23communication---d-r-schmidt---referred-to-pec-sppc441>) Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
+### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#23communication---d-r-schmidt---referred-to-pec-sppc441>) Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
 > Motion made by S. Lehman
 
@@ -1063,7 +1063,7 @@ it being noted that a verbal delegation from D. R. Schmidt, with respect to this
 
 ****
 
-### 8.2.12&nbsp;&nbsp;&nbsp;[(3.5)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee #353849-campbell-street-north-z-9614>) 3849 Campbell Street North (Z-9614) (Relates to Bill No. 179)
+### 8.2.12&nbsp;&nbsp;&nbsp;[(3.5)](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee#353849-campbell-street-north-z-9614>) 3849 Campbell Street North (Z-9614) (Relates to Bill No. 179)
 
 > Motion made by S. Lehman
 

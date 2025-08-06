@@ -1,5 +1,5 @@
 ---
-title: The 8th Meeting of the Planning and Environment Committee 
+title: The 8th Meeting of the Planning and Environment Committee
 date: 2025-05-21
 ---
 May 21, 2025, at  1:00 PM

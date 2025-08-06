@@ -2,6 +2,7 @@ import re
 import json
 from pathlib import Path
 from content import Content
+from bs4 import NavigableString
 from Attachment import Attachment
 
 # find the link to the section in the report with this path
@@ -50,7 +51,9 @@ class MeetingItem:
     if attachments:
       agenda_item_attachments = attachments.find_all(class_="AgendaItemAttachment")
       for a in agenda_item_attachments:
-        self.attachments.append(Attachment(a, self.datetime))
+        attachment = Attachment(a, self.datetime)
+        if not attachment.is_empty():
+          self.attachments.append(attachment)
 
     self.content = Content.parse_contents(agenda_item.find(class_="AgendaItemContentRow"))
 
@@ -61,6 +64,15 @@ class MeetingItem:
 
 
   def set_title(self, agenda_item_title):
+    if isinstance(agenda_item_title.contents[0], NavigableString):
+      """
+      <div class="AgendaItemTitle" style="width:auto;display:inline-block;">
+       Deferred Matters/Additional Business
+      </div>
+      """
+      self.title = agenda_item_title.contents[0]
+      return
+
     """
     <div class="AgendaItemTitle" style="width:auto;display:inline-block;">
      <a href="javascript:SelectItem(1);" tabindex="0">
