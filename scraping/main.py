@@ -27,4 +27,4 @@ if len(error_list) > 0:
   for m in error_list:
     date = m["date"]
     meeting_type = m["meeting_type"]
-    print(f"- {date} {meeting_type}")
+    print(f"- {date.strftime('%Y-%m-%d')} {meeting_type}")

@@ -27,6 +27,7 @@ class MeetingItem:
     self.items = {}
     self.datetime = datetime
     self.attachments = []
+    self.report = report
 
     agenda_item = agenda_item_container.contents[0]
     self.set_attributes(agenda_item, report)
@@ -43,7 +44,7 @@ class MeetingItem:
 
   def set_attributes(self, agenda_item, report):
     title_row = agenda_item.find(class_="AgendaItemTitleRow")
-    self.set_title(title_row.find(class_="AgendaItemTitle"), report)
+    self.set_title(title_row.find(class_="AgendaItemTitle"))
 
     attachments = title_row.find(class_="AgendaItemAttachmentsList")
     if attachments:
@@ -59,7 +60,7 @@ class MeetingItem:
     self.number = number_str.split(".")[-1]
 
 
-  def set_title(self, agenda_item_title, report):
+  def set_title(self, agenda_item_title):
     """
     <div class="AgendaItemTitle" style="width:auto;display:inline-block;">
      <a href="javascript:SelectItem(1);" tabindex="0">
@@ -67,17 +68,22 @@ class MeetingItem:
      </a>
     </div>
     """
-    title = agenda_item_title.contents[0].contents[0]
-    if report:
-      num_match = re.search("\\((\\d+\\.\\d+)\\)", title)
-      if num_match:
-        section = num_match.group(1)
-        link = get_section_link(report, section)
-        if link:
-          before = title[:num_match.start(0)]
-          after = title[num_match.end(0):]
-          title = f"{before}[{num_match.group(0)}](<{link}>){after}"
-    self.title = title
+    self.title = agenda_item_title.contents[0].contents[0]
+
+
+  def get_linked_title(self):
+    if not self.report: return self.title
+
+    num_match = re.search("\\((\\d+\\.\\d+)\\)", self.title)
+    if not num_match: return self.title
+
+    section = num_match.group(1)
+    link = get_section_link(self.report, section)
+    if not link: return self.title
+
+    before = self.title[:num_match.start(0)]
+    after = self.title[num_match.end(0):]
+    return f"{before}[{num_match.group(0)}](<{link}>){after}"
 
 
   # level is the heading level (1 = #, 2 = ##, etc)
@@ -91,7 +97,7 @@ class MeetingItem:
     if empty_prefix: number_prefix += "."
 
     # use non-breaking space because markdown collapses other whitespace into a single space
-    output += f"{'#'*level} {number_prefix}&nbsp;&nbsp;&nbsp;{self.title}\n\n"
+    output += f"{'#'*level} {number_prefix}&nbsp;&nbsp;&nbsp;{self.get_linked_title()}\n\n"
 
     for a in self.attachments:
       output += a.format_markdown()
