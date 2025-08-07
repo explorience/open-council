@@ -1,4 +1,4 @@
-modules = ["nodejs-20", "python-3.12", "web"]
+modules = ["nodejs-22", "python-3.12", "web"]
 run = "npm run dev"
 
 [nix]
