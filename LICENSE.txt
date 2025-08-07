@@ -1,21 +1,98 @@
-MIT License
+# THE PEER PRODUCTION LICENSE (PPL)
 
-Copyright (c) 2021 jackyzha0
+## A COPYFARLEFT LICENSE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Version 1.0
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## PREAMBLE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This license is based on the Peer Production License created by Michel Bauwens, Vasilis Kostakis, and the P2P Foundation, in collaboration with Dmytri Kleiner.
+
+The intent of this license is to allow a commons of collective ownership to emerge while recognizing the contributions of labor and prohibiting the exploitation of that labor by private capital. 
+
+With this license, a copyleft principle is applied exclusively for other commons-oriented entities, cooperatives, and nonprofits, while use by for-profit entities is restricted unless they contribute back to the commons.
+
+## LICENSE TERMS
+
+Copyright (c) 2025 Heenal Rajani
+
+### 1. Permissions
+
+This work is licensed to the public under the terms of this Peer Production License.
+
+You are free to:
+- **Use** - Use the work for any purpose
+- **Study** - Study how the work functions and adapt it to your needs
+- **Share** - Copy and redistribute the work
+- **Modify** - Remix, transform, and build upon the work
+
+Under the following conditions:
+
+### 2. Conditions
+
+#### 2.1 Attribution
+You must give appropriate credit to the original author(s), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+#### 2.2 ShareAlike  
+If you remix, transform, or build upon the work, you must distribute your contributions under the same license as the original.
+
+#### 2.3 Commercialization
+
+**a) Permitted Commercial Use:**
+- **Worker-owned entities**: Cooperatives, worker-owned businesses, and other democratically organized entities where workers collectively own and control the means of production may use this work commercially without restriction.
+- **Nonprofit organizations**: Organizations formally recognized as nonprofit or not-for-profit under applicable law may use this work commercially in furtherance of their nonprofit mission.
+- **Commons-oriented entities**: Organizations explicitly dedicated to building and maintaining commons may use this work commercially.
+- **Individual creators and artisans**: Natural persons using the work for their own direct commercial benefit (not as employees or contractors of capital-owned firms).
+- **Educational institutions**: Public schools, universities, and other educational organizations may use this work.
+
+**b) Restricted Commercial Use:**
+- **For-profit corporations**: Traditional corporations, LLCs, and other business entities owned by investors rather than workers may NOT use this work commercially without explicit permission and agreement to contribute back to the commons.
+- **Private capital**: Entities primarily owned by private investors, venture capital, or shareholders who extract profit from others' labor may NOT use this work commercially.
+
+**c) Reciprocity Clause:**
+For-profit entities seeking permission for commercial use must:
+1. Enter into a reciprocity agreement ensuring fair compensation to the commons
+2. Contribute improvements back to the original work
+3. Demonstrate commitment to transitioning toward more democratic ownership models
+
+### 3. Definitions
+
+- **"Commercial use"** means any use intended for commercial advantage or monetary compensation.
+- **"Worker-owned"** means the workers who create value through their labor collectively own at least 51% of the entity and have democratic control over major decisions.
+- **"Commons"** means shared resources accessible to all members of a society, maintained collectively.
+- **"Nonprofit organization"** means an entity organized and operated exclusively for charitable, educational, scientific, or community benefit purposes.
+
+### 4. Additional Terms
+
+#### 4.1 No Additional Restrictions
+You may not apply legal terms or technological measures that legally restrict others from doing anything this license permits, provided they comply with its terms.
+
+#### 4.2 No Warranty
+This work is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
+
+#### 4.3 Termination
+This license and the rights granted hereunder will terminate automatically upon any breach by you of the terms of this license.
+
+### 5. Interpretation
+
+This license shall be interpreted according to the principles of:
+- Promoting cooperative and commons-based peer production
+- Preventing extraction of value by capital from labor
+- Building post-capitalist economic relations
+- Fostering reciprocity and mutual aid
+
+### 6. Contact
+
+For commercial licensing inquiries from traditional for-profit entities, or for questions about this license, please contact: [contact information to be provided by copyright holder]
+
+---
+
+## NOTICE
+
+This is a legally untested license. While based on established copyleft principles and the Creative Commons framework, the Peer Production License has not been extensively tested in courts. Users should be aware that its enforceability may vary by jurisdiction.
+
+The Peer Production License is NOT a Free Software or Open Source license as defined by the FSF or OSI, as it discriminates based on use and user type. This is intentional - the license aims to build a commons that resists capitalist extraction rather than enabling it.
+
+For more information about the Peer Production License and its theoretical foundation, see:
+- https://wiki.p2pfoundation.net/Peer_Production_License
+- https://blog.p2pfoundation.net/portfolio/peer-production-license
