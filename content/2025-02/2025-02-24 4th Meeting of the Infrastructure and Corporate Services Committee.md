@@ -7,16 +7,16 @@ February 24, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=008eb3e7-3486-4fd6-bd92-a6e8b5cfad75&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), A. Hopkins, P. Van Meerbergen, S. Franke
+> C. Rahman, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Absent:
 > J. Pribil
 
 > [!abstract]- Also Present:
-> Councillor H. McAlister; S. Datars Bere, A. Abraham, A. Barbon, K. Chambers, M. Feldberg, C. McIntosh, Y. Ou, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, E. Skalski, B. Warner
+> H. McAlister, S. Datars Bere, A. Abraham, A. Barbon, K. Chambers, M. Feldberg, C. McIntosh, Y. Ou, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, E. Skalski, B. Warner
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: Councillor S. Hillier; E. Bennett, D. Huggins, E. Hunt, S. Tatavarti
+> Remote attendance:  S. Hillier, E. Bennett, D. Huggins, E. Hunt, S. Tatavarti
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

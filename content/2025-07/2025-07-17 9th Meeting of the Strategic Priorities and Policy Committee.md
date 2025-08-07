@@ -7,7 +7,7 @@ July 17, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=705693a3-db28-4006-8ff6-7e452b010832&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lewis (Chair), H. McAlister, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier, Mayor J. Morgan
+> S. Lewis, H. McAlister, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
 > S. Datars Bere, A. Barbon, S. Corman, K. Dickins, D. Escobar, S. Grady, D. MacRae, H. McNeely, T. Pollitt, S. Purhar, K. Scherr, M. Schulthess, A. Shaw, E. Skalski, C. Smith, J. Stanford

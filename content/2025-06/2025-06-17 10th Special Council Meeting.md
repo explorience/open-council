@@ -7,7 +7,7 @@ June 17, 2025, at 11:00 AM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2156130b-525b-4f64-aade-d2eccfa62979&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Mayor J. Morgan, H. McAlister, S. Lewis, P. Cuddy, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, S. Hillier
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, S. Hillier
 
 > [!abstract]- Absent:
 > S. Stevenson, D. Ferreira

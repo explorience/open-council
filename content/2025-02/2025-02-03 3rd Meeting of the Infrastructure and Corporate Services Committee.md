@@ -7,16 +7,16 @@ February 3, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=871eeff7-f711-4fab-a652-b129ed0f3850&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), A. Hopkins, P. Van Meerbergen, S. Franke
+> C. Rahman, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Absent:
 > J. Pribil
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, R. Danter, A. Kaczmarczyk, D. MacRae, J. Paradis, T. Pollitt, A. Rozentals,  K. Scherr, E. Skalski, L. Stewart, J. Wills, C Wray.
+> S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, R. Danter, A. Kaczmarczyk, D. MacRae, J. Paradis, T. Pollitt, A. Rozentals, K. Scherr, E. Skalski, L. Stewart, J. Wills, C Wray.
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: Councillors E. Peloza and S. Hillier; E. Hunt, B. Warner
+> Remote attendance:  E. Peloza, S. Hillier, E. Hunt, B. Warner
 
 The meeting is called to order at 1:00 PM.
 

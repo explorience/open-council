@@ -7,13 +7,13 @@ May 20, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=47230f37-cf06-4b2f-8a2f-e67ccc151b58&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, P. Cuddy, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Councillor S. Stevenson; E. Bennett, Acting Deputy Fire Chief G. Bridge, M. Butlin, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, Fire Chief L. Hamer, A. Hovius, J. Ireland, O. Katolyk, S. Mathers, K. Scherr, E. Skalski, C. Smith, L. Switzer and J. Bunn (Committee Clerk)
+> S. Stevenson, E. Bennett, Acting Deputy Fire Chief G. Bridge, M. Butlin, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, Fire Chief L. Hamer, A. Hovius, J. Irel, O. Katolyk, S. Mathers, K. Scherr, E. Skalski, C. Smith, L. Switzer, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> Councillors E. Peloza and S. Hillier; S. Datars Bere; L. Hancock, E. Hunt
+> E. Peloza, S. Hillier, S. Datars Bere, L. Hancock, E. Hunt
 
 The meeting was called to order at 1:01 PM.
 

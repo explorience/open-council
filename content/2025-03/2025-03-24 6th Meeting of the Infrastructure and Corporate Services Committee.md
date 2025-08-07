@@ -7,13 +7,13 @@ March 24, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=42bf1ce2-08c3-4c74-9899-28f59cd0117d&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
+> C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Also Present:
-> Councillor H. McAlister, S. Trosow; S. Datars Bere, B. Baar, A. Barbon, S. Chambers, I. Collins, G. Dales, J. Dann, D. Escobar, M. Feldberg, J. Graham, A. Hovius, W. Jeffrey, P. Kavcic, D. MacRae, J. McMillan, H. McNeely, K. Murray, K. Oudekerk, J. Paradis, M. Pease, A. Rammeloo, A. Rozentals, K. Scherr, E. Skalski, S. Sleiman, S. Tatavarti, B. Warner, P. Yeoman.
+> H. McAlister, S. Trosow, S. Datars Bere, B. Baar, A. Barbon, S. Chambers, I. Collins, G. Dales, J. Dann, D. Escobar, M. Feldberg, J. Graham, A. Hovius, W. Jeffrey, P. Kavcic, D. MacRae, J. McMillan, H. McNeely, K. Murray, K. Oudekerk, J. Paradis, M. Pease, A. Rammeloo, A. Rozentals, K. Scherr, E. Skalski, S. Sleiman, S. Tatavarti, B. Warner, P. Yeoman.
 
 > [!abstract]- Remote Attendance:
-> Deputy Mayor S. Lewis; Councillor E. Peloza; E. Bennett, S. Corman, E. Hunt
+> Deputy  S. Lewis, E. Peloza, E. Bennett, S. Corman, E. Hunt
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

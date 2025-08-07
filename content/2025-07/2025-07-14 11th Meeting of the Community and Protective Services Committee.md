@@ -7,13 +7,13 @@ July 14, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=cb317f03-f607-4e50-968e-25e5aafbee63&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, P. Cuddy, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Councillor S. Franke; S. Datars Bere; D. Baxter, M. Butlin, K. Dickins, D. Escobar, M. Espinoza, M. Feldberg, J. Ireland, D. MacRae, M. Macaulay, H. McNeely, K. Murray, M. Pease, A. Pfeffer, D. Rocha, K. Scherr, P. Shand, E. Skalski, C. Smith, J. Stanford, R. Wilcox and J. Bunn (Committee Clerk)
+> S. Franke, S. Datars Bere, D. Baxter, M. Butlin, K. Dickins, D. Escobar, M. Espinoza, M. Feldberg, J. Irel, D. MacRae, M. Macaulay, H. McNeely, K. Murray, M. Pease, A. Pfeffer, D. Rocha, K. Scherr, P. Sh, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> Deputy Mayor S. Lewis; Councillor E. Peloza; J. Dann, M. Fabro, E. Hunt, N. Sader, J. Skimming and P. Yeoman
+> Deputy  S. Lewis, E. Peloza, J. Dann, M. Fabro, E. Hunt, N. Sader, J. Skimming, P. Yeoman
 
 The meeting was called to order at 1:01 PM.
 

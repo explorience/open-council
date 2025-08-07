@@ -7,16 +7,16 @@ May 21, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=12e446d7-95cd-45ad-8dc4-8e95c0d95771&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), P. Cuddy, E. Peloza, S. Hillier, Mayor J. Morgan
+> S. Lehman, P. Cuddy, E. Peloza, S. Hillier, J. Morgan
 
 > [!abstract]- Absent:
 > S. Lewis
 
 > [!abstract]- Also Present:
-> Councillors H. McAlister, J. Pribil, A. Hopkins, D. Ferreria; J. Adema, R. Bolivar, L. Burt, C. Cernanec, M. Clark, M. Corby, I. de Ceuster, K. Edwards, D. Escobar, K. Gonyou, M. Harrison, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, M. Macaulay, S. Mathers, C. Maton, H. McNeely, K. Mitchener, M. Musicco, A. Patel, M. Pease, A. Riley, A. Shaw, E. Williamson and K. Mason (Committee Clerk)
+> H. McAlister, J. Pribil, A. Hopkins, D. Ferreria, J. Adema, R. Bolivar, L. Burt, C. Cernanec, M. Clark, M. Corby, I. de Ceuster, K. Edwards, D. Escobar, K. Gonyou, M. Harrison, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, M. Macaulay, S. Mathers, C. Maton, H. McNeely, K. Mitchener, M. Musicco, A. Patel, M. Pease, A. Riley, A. Shaw, E. Williamson, K. Mason
 
 > [!abstract]- Remote Attendance:
-> Councillor S. Trosow; E. Bennett, E. Hunt, J. Stanford, E. Skalski, A. Yousfani
+> S. Trosow, E. Bennett, E. Hunt, J. Stanford, E. Skalski, A. Yousfani
 
 This meeting was called to order at 1:06 PM.
 

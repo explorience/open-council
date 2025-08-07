@@ -7,13 +7,13 @@ April 8, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b150cedc-b5c8-430c-86a5-ff3738f3ea1a&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier, Mayor J. Morgan
+> S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> Councillors S. Stevenson, J. Pribil, A. Hopkins, D. Ferreira; J. Adema, A. Abraham, R. Bolivar, L. Bert, C. Cernanec, M. Clark, M. Corby, I. De Ceuster, K. Edwards, M. Feldberg, M. Harrison, M. Hynes, P. Kavcic, B. Lambert, T. MacBeth, M. Macaulay, S. Mathers, C. Maton, R. Nemis, B. O'Hagan, C. Parsons, M. Tomazincic, E. Williamson and K. Mason (Committee Clerk)
+> S. Stevenson, J. Pribil, A. Hopkins, D. Ferreira, J. Adema, A. Abraham, R. Bolivar, L. Bert, C. Cernanec, M. Clark, M. Corby, I. De Ceuster, K. Edwards, M. Feldberg, M. Harrison, M. Hynes, P. Kavcic, B. Lambert, T. MacBeth, M. Macaulay, S. Mathers, C. Maton, R. Nemis, B. O'Hagan, C. Parsons, M. Tomazincic, E. Williamson, K. Mason
 
 > [!abstract]- Remote Attendance:
-> Councillor C. Rahman; M. Butlin, S. Corman, E. Hunt and E. Skalski
+> C. Rahman, M. Butlin, S. Corman, E. Hunt, E. Skalski
 
 The meeting was called to order at 1:02 PM.
 

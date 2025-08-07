@@ -7,13 +7,13 @@ June 10, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=6771e286-ecd1-4ee9-b866-48a963f9d733&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier
+> S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> Councillors J. Pribil, C. Rahman, D. Ferreria; S. Chambers, M. Corby, I. de Ceuster, K. Edwards, D. Escobar, M. Hynes, B. Lambert, M. Macaulay, L. Marshall, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, S. Rasanu, A. Riley and K. Mason (Committee Clerk)
+> J. Pribil, C. Rahman, D. Ferreria, S. Chambers, M. Corby, I. de Ceuster, K. Edwards, D. Escobar, M. Hynes, B. Lambert, M. Macaulay, L. Marshall, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, S. Rasanu, A. Riley, K. Mason
 
 > [!abstract]- Remote Attendance:
-> Councillor S. Trosow; E. Hunt, E. Skalski, S. Tatavarti
+> S. Trosow, E. Hunt, E. Skalski, S. Tatavarti
 
 The meeting was called to order at 1:00 PM.
 

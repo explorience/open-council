@@ -7,13 +7,13 @@ April 29, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0c2a26da-7dd8-4636-8a27-1deabb75907e&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier
+> S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> Councillors J. Pribil, A. Hopkins; A. Abraham, J. Adema, L. Bert, R. Bolivar, M. Clark, I. De Ceuster, K. Edwards, M. Feldberg, M. Harrison, B. House, P. Kavcic, S. Mathers, C. Maton, H. McNeely, K. Murray, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, A. Sercombe, A. Shaw, M. Sundercock, B. Warner, E. Williamson and K. Mason (Committee Clerk)
+> J. Pribil, A. Hopkins, A. Abraham, J. Adema, L. Bert, R. Bolivar, M. Clark, I. De Ceuster, K. Edwards, M. Feldberg, M. Harrison, B. House, P. Kavcic, S. Mathers, C. Maton, H. McNeely, K. Murray, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, A. Sercombe, A. Shaw, M. Sundercock, B. Warner, E. Williamson, K. Mason
 
 > [!abstract]- Remote Attendance:
-> S. Corman, S. Grady, K. Scherr, E. Skalski and S. Tatavarti
+> S. Corman, S. Grady, K. Scherr, E. Skalski, S. Tatavarti
 
 The meeting was called to order at 1:00 PM.
 

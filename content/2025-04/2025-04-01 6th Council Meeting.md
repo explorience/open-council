@@ -7,7 +7,7 @@ April 1, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b4e4a4d9-7c35-4803-8a11-a266aa5c4172&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Mayor J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
 
 > [!abstract]- Also Present:
 > S. Datars Bere, A. Abraham, A. Barbon, C. Cooper, S. Corman, K. Dickins, T. Fowler, M.

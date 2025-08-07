@@ -7,13 +7,13 @@ April 28, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ec02877-3b5a-4563-bc85-108cfbc3b4c8&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, P. Cuddy, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Councillor S. Stevenson; S. Datars Bere; A. Abraham, C. Cooper, K. Dickins, M. El Hayek, M. Espinoza, M. Feldberg, S. Glover, J. Ireland, S. Mathers, E. Skalski, C. Smith, C. Worrall and J. Bunn (Committee Clerk)
+> S. Stevenson, S. Datars Bere, A. Abraham, C. Cooper, K. Dickins, M. El Hayek, M. Espinoza, M. Feldberg, S. Glover, J. Irel, S. Mathers, E. Skalski, C. Smith, C. Worrall, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> Deputy Mayor S. Lewis; Councillors C. Rahman, E. Peloza and S. Hillier; E. Bennett, M. Butlin, S. Corman, E. Hunt, T. Koza, K. Scherr and R. Wilcox
+> Deputy  S. Lewis, C. Rahman, E. Peloza, S. Hillier, E. Bennett, M. Butlin, S. Corman, E. Hunt, T. Koza, K. Scherr, R. Wilcox
 
 The meeting was called to order at 1:01 PM.
 

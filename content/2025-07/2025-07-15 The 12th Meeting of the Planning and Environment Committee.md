@@ -7,13 +7,13 @@ July 15, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=726e7178-10d1-4557-8b39-51743e8b5cef&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier, Mayor J. Morgan
+> S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> Councillors J. Pribil, A. Hopkins; M. Butlin, C. Cernanec, M. Corby, I. de Ceuster, D. Escobar, M. Feldberg, K. Gonyou, T. Hitchons, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, C. Maton, C. McCreery, McNeely, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, S. Purhar, A. Rammeloo, A. Riley, J. Senese, A. Shaw, M. Sundercock, E. Williamson and K. Mason (Committee Clerk)
+> J. Pribil, A. Hopkins, M. Butlin, C. Cernanec, M. Corby, I. de Ceuster, D. Escobar, M. Feldberg, K. Gonyou, T. Hitchons, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, C. Maton, C. McCreery, McNeely, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, S. Purhar, A. Rammeloo, A. Riley, J. Senese, A. Shaw, M. Sundercock, E. Williamson, K. Mason
 
 > [!abstract]- Remote Attendance:
-> Councillors S. Stevenson, S. Trosow; S. Datars Bere, E. Bennett, K. Dickins, S. Grady, E. Hunt, E. Skalski
+> S. Stevenson, S. Trosow, S. Datars Bere, E. Bennett, K. Dickins, S. Grady, E. Hunt, E. Skalski
 
 The meeting was called to order at 1:00 PM.
 

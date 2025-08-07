@@ -7,7 +7,7 @@ June 16, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=34572db8-599d-45a1-b683-2960f98e584b&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
+> C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Also Present:
 > S. Datars Bere, V. Arora, B. Baar, A. Barbon, M. Barnes, K. Chambers, S. Chambers, I. Collins, K. Dickins, D. Ennett, D. Escobar, M. Feldberg, C. McIntosh, K. Murray, K. Oudekerk, A. Ostrowski, J. Paradis, T. Pollitt, A. Rammeloo, E. Skalski, B. Warner, P. Yeoman

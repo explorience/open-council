@@ -7,13 +7,13 @@ July 16, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a413d752-f42e-4a94-a4dc-8a6149daafa6&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke, Mayor J. Morgan
+> C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke, J. Morgan
 
 > [!abstract]- Also Present:
-> Councillors S. Trosow and E. Peloza; S. Datars Bere, B. Baar, A. Barbon, J. Dann, D. Escobar, M. Feldberg, S. Grady, L. Hamer, A. Hunt, P. Ladouceur, D. MacRae, H. McNeely, K. Murray, K. Oudekerk, T. Pollitt, S. Purhar, A. Rammeloo, K. Scherr, A. Shaw, E. Skalski, C. Smith, J. Trela, B. Warner, J. Wills.
+> S. Trosow, E. Peloza, S. Datars Bere, B. Baar, A. Barbon, J. Dann, D. Escobar, M. Feldberg, S. Grady, L. Hamer, A. Hunt, P. Ladouceur, D. MacRae, H. McNeely, K. Murray, K. Oudekerk, T. Pollitt, S. Purhar, A. Rammeloo, K. Scherr, A. Shaw, E. Skalski, C. Smith, J. Trela, B. Warner, J. Wills.
 
 > [!abstract]- Remote Attendance:
-> Councillor S. Lehman; E. Bennett, M. Daley, M. Galczynski, E. Hunt, A. Rozentals, J. Stanford.
+> S. Lehman, E. Bennett, M. Daley, M. Galczynski, E. Hunt, A. Rozentals, J. Stanford.
 
 The meeting is called to order at 1:02 PM.
 

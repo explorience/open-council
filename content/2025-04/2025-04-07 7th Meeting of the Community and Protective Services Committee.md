@@ -7,13 +7,13 @@ April 7, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3271523d-b9ae-4ce3-a6b0-f7762c3f89e2&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, P. Cuddy, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Councillor S. Stevenson; S. Datars Bere; A. Aldrin, A. Alkema, C. Cooper, K. Dickins, S. Govindaraj, H. McNeely, K. Scherr, E. Skalski, C. Smith, J. Tansley and J. Bunn (Committee Clerk)
+> S. Stevenson, S. Datars Bere, A. Aldrin, A. Alkema, C. Cooper, K. Dickins, S. Govindaraj, H. McNeely, K. Scherr, E. Skalski, C. Smith, J. Tansley, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> K. Barton, E. Bennett, S. Corman, D. Kramers, R. Wilcox and P. Yeoman
+> K. Barton, E. Bennett, S. Corman, D. Kramers, R. Wilcox, P. Yeoman
 
 The meeting was called to order at 1:00 PM.
 

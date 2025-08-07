@@ -7,7 +7,7 @@ March 25, 2025, at 11:30 AM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=eba252cc-f704-43fe-9474-0eabcb3564d1&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Mayor J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira
 
 > [!abstract]- Absent:
 > S. Hillier

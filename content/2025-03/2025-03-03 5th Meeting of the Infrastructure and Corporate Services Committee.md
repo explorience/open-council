@@ -7,13 +7,13 @@ March 3, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=acf1e934-710a-4727-a204-eb8ffe193f86&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
+> C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Also Present:
-> Councillor S. Stevenson; S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, J. Kovacs, P. Ladouceur, T. Pollitt, E. Skalski, S. Sleiman, S. Swance
+> S. Stevenson, S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, J. Kovacs, P. Ladouceur, T. Pollitt, E. Skalski, S. Sleiman, S. Swance
 
 > [!abstract]- Remote Attendance:
-> Deputy Mayor S. Lewis; Councillors H. McAlister, E. Peloza; E. Hunt.
+> Deputy  S. Lewis, H. McAlister, E. Peloza, E. Hunt.
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

@@ -7,13 +7,13 @@ June 9, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=cce54c48-08f4-48b4-b419-cd7debd139e2&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, P. Cuddy, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Councillors S. Stevenson and C. Rahman; C. Cooper, K. Dickins, D. Escobar, M. Feldberg, S. Glover, O. Katolyk, T. Koza, D. MacRae, S. Mathers, C. McCreery, K. Pawelec, K. Scherr, E. Skalski, C. Smith, J. Stanford, R. Wilcox and J. Bunn (Committee Clerk)
+> S. Stevenson, C. Rahman, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, S. Glover, O. Katolyk, T. Koza, D. MacRae, S. Mathers, C. McCreery, K. Pawelec, K. Scherr, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> Deputy Mayor S. Lewis; Councillor E. Peloza; E. Bennett, S. Corman, E. Hunt and P. Yeoman
+> Deputy  S. Lewis, E. Peloza, E. Bennett, S. Corman, E. Hunt, P. Yeoman
 
 The meeting was called to order at 1:00 PM.
 

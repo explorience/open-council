@@ -7,13 +7,13 @@ May 13, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f87c6f1c-7f33-498c-8447-d2f3107dd532&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Mayor J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
 
 > [!abstract]- Also Present:
 > S. Datars Bere, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, D. Escobar, M. Feldberg, C. Goodall, S. Govindaraj, P. Kavcic, P. Ladouceur, H. McNeely, K. Murray, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, L. Switzer
 
 > [!abstract]- Remote Attendance:
-> D. Baxter, E. Bennett, S. Glover, E. Hunt, J. Ireland
+> D. Baxter, E. Bennett, S. Glover, E. Hunt, J. Irel,
 
 The meeting is called to order at 1:01 PM
 

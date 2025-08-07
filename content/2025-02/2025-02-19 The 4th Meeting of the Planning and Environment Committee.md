@@ -10,13 +10,13 @@ February 19, 2025, at  1:00 PM
 > S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Absent:
-> Councillors S. Lehman (Chair)
+> S. Lehman
 
 > [!abstract]- Also Present:
-> Councillors H. McAllister and A. Hopkins; J. Adema, R. Bolivar, C. Cernanec, D. Escobar, K. Edwards, M. Feldberg, K. Gonyou, M. Hynes, P. Kavcic, M. Macaulay, T. MacBeth, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, M. Pease, A. Shaw, S. Tatavarti and K. Mason (Committee Clerk)
+> H. McAllister, A. Hopkins, J. Adema, R. Bolivar, C. Cernanec, D. Escobar, K. Edwards, M. Feldberg, K. Gonyou, M. Hynes, P. Kavcic, M. Macaulay, T. MacBeth, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, M. Pease, A. Shaw, S. Tatavarti, K. Mason
 
 > [!abstract]- Remote Attendance:
-> Remote Attendace: M. Corby, E. Hunt, D. MacRae, E. Skalski and A. Yousfani
+> Remote Attendace: M. Corby, E. Hunt, D. MacRae, E. Skalski, A. Yousfani
 
 The meeting was called to order at 1:00 PM.
 

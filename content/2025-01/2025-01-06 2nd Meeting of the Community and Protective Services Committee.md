@@ -7,13 +7,13 @@ January 6, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=630e0269-08d9-42f6-99ec-73c1c41e7b94&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> A. Abraham, M. Butlin, K. Dickins, K. Edwards, M. Feldberg, O. Katolyk, K. Lawrence, C. Smith, R. Wilcox and J. Bunn (Committee Clerk)
+> A. Abraham, M. Butlin, K. Dickins, K. Edwards, M. Feldberg, O. Katolyk, K. Lawrence, C. Smith, R. Wilcox, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> E. Skalski, B. Somers and P. Yeoman
+> E. Skalski, B. Somers, P. Yeoman
 
 The meeting was called to order at 1:01 PM.
 

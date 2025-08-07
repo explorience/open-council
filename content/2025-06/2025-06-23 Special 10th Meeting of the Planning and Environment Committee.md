@@ -7,13 +7,13 @@ June 23, 2025, at 12:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0dfecc31-197f-4939-91d8-46e42f7d2ecc&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier, Mayor J. Morgan
+> S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> Councillors J. Pribil and A. Hopkins; A. Abraham, M. Butlin, K. Mason, S. Mathers, and H. McNeely.
+> J. Pribil, A. Hopkins, A. Abraham, M. Butlin, K. Mason, S. Mathers, , H. McNeely.
 
 > [!abstract]- Remote Attendance:
-> Councillor C. Rahman; E. Hunt, E. Skalski.
+> C. Rahman, E. Hunt, E. Skalski.
 
 The meeting was called to order at 12:00 PM; it being noted that Councillor S. Hillier was in remote attendance.
 

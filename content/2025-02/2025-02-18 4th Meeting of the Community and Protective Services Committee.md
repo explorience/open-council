@@ -7,16 +7,16 @@ February 18, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f36932df-6d52-4365-b164-4bda63d1d9cf&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, S. Trosow
+> D. Ferreira, H. McAlister, S. Trosow
 
 > [!abstract]- Absent:
 > J. Pribil
 
 > [!abstract]- Also Present:
-> Deputy Mayor S. Lewis; Councillors P. Cuddy and C. Rahman; S. Cullen, R. Danter, D. Escobar, C. Green, O. Katolyk, E. Ling, D. MacRae, S. Mathers, J.P. McGonigle, N. Musicco, S. Rowland, K. Scherr, E. Skalski, C. Smith, J. Stanford, S. Steenbergen, T. Pollitt, R. Wilcox, P. Yeoman and J. Bunn (Committee Clerk)
+> Deputy  S. Lewis, P. Cuddy, C. Rahman, S. Cullen, R. Danter, D. Escobar, C. Green, O. Katolyk, E. Ling, D. MacRae, S. Mathers, J.P. McGonigle, N. Musicco, S. Rowl, K. Scherr, E. Skalski, C. Smith, J. Stanford, S. Steenbergen, T. Pollitt, R. Wilcox, P. Yeoman, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> Councillors E. Peloza and S. Hillier; G. Bridge, K. Dickins, J. Griffin, E. Hunt
+> E. Peloza, S. Hillier, G. Bridge, K. Dickins, J. Griffin, E. Hunt
 
 The meeting was called to order at 1:00 PM.
 

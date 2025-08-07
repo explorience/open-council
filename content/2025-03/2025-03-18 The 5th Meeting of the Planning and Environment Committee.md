@@ -7,13 +7,13 @@ March 18, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e5a7147a-636f-49e9-b98d-308e87e6809a&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier
+> S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> ALSO PRESENT: Councillors S. Franke, A. Hopkins, S. Trosow, J. Pribil; J. Adema, C. Cernanec, K. Edwards, D. Escobar, K. Gonyou, P. Kavcic, B. Lambert, M. Macaulay, T. MacBeth, C. Maton, S. Mathers, C. McCreary, H. McNeely, K. Mitchener, B. O'Hagan, A. Shaw, L. Switzer and K. Mason (Committee Clerk)
+> ALSO PRESENT:  S. Franke, A. Hopkins, S. Trosow, J. Pribil, J. Adema, C. Cernanec, K. Edwards, D. Escobar, K. Gonyou, P. Kavcic, B. Lambert, M. Macaulay, T. MacBeth, C. Maton, S. Mathers, C. McCreary, H. McNeely, K. Mitchener, B. O'Hagan, A. Shaw, L. Switzer, K. Mason
 
 > [!abstract]- Remote Attendance:
-> Councillor C. Rahman; E. Bennett, M. Corby, E. Hunt and E. Skalski
+> C. Rahman, E. Bennett, M. Corby, E. Hunt, E. Skalski
 
 The meeting was called to order at 1:02 PM
 

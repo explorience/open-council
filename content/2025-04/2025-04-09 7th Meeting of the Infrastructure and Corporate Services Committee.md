@@ -7,13 +7,13 @@ April 9, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a66a825e-d751-43cf-93b2-52ea47f50d80&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
+> C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Also Present:
-> Councillor S. Stevenson; S. Datars Bere, A. Abraham, V. Arora, A. Barbon, I. Collins, S. Corman, J. Dann, U. DeCandido, J. Gillard, D. MacRae, J. McMillan, B. Nourse, K. Oudekerk, J. Paradis, L. Rafuna, A. Rammeloo, K. Scherr, E. Skalski, S. Tatavarti, B. Warner
+> S. Stevenson, S. Datars Bere, A. Abraham, V. Arora, A. Barbon, I. Collins, S. Corman, J. Dann, U. DeC,ido, J. Gillard, D. MacRae, J. McMillan, B. Nourse, K. Oudekerk, J. Paradis, L. Rafuna, A. Rammeloo, K. Scherr, E. Skalski, S. Tatavarti, B. Warner
 
 > [!abstract]- Remote Attendance:
-> Councillor E. Peloza; D. Freeman, E. Hunt, and M. Schulthess
+> E. Peloza, D. Freeman, E. Hunt, , M. Schulthess
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

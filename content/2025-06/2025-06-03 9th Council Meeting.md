@@ -7,7 +7,7 @@ June 3, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=9efb28db-f939-48e9-928b-23e4a414ed08&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Mayor J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, S. Franke, E. Peloza, D. Ferreira, S. Hillier
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, S. Franke, E. Peloza, D. Ferreira, S. Hillier
 
 > [!abstract]- Absent:
 > P. Van Meerbergen
@@ -16,7 +16,7 @@ June 3, 2025, at  1:00 PM
 > S. Datars Bere, A. Abraham, A. Barbon, M. Butlin, S. Corman, K. Dickins, M. Feldberg, T. Fowler, A. Hovius, S. Mathers, H. McNeely, J. Paradis, K. Scherr, M. Schulthess, E. Skalski, S. Sleiman, C. Smith, N. Steinburg, S. Tatavarti, B. Warner
 
 > [!abstract]- Remote Attendance:
-> S. Lewis; E. Bennett, I. Collins, C. Cooper, S. Glover, K. Gonyou, E. Hunt, J. Ireland, K. Murray
+> S. Lewis, E. Bennett, I. Collins, C. Cooper, S. Glover, K. Gonyou, E. Hunt, J. Irel, K. Murray
 
 The meeting is called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis was in remote attendance.
 

@@ -7,10 +7,10 @@ January 13, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b7da3d9-088e-4050-b7d3-344b2cbaaed1&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, S. Franke, P. Van Meerbergen
+> C. Rahman, J. Pribil, A. Hopkins, S. Franke, P. Van Meerbergen
 
 > [!abstract]- Also Present:
-> Councillors S. Lewis and D. Ferreira; S. Datars Bere, A. Abraham, A. Barbon, K. Chambers, I. Collins, J. Dann, K. Dawtrey, C. McCreery, J. McMillan, K. Murray, B. Nourse, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, E. Skalski, S. Sleiman, J. Straub, B. Warner
+> S. Lewis, D. Ferreira, S. Datars Bere, A. Abraham, A. Barbon, K. Chambers, I. Collins, J. Dann, K. Dawtrey, C. McCreery, J. McMillan, K. Murray, B. Nourse, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, E. Skalski, S. Sleiman, J. Straub, B. Warner
 
 > [!abstract]- Remote Attendance:
 > Remote attendance: S. Corman, M. Daley, D. Dubois, A. Dunbar, E. Hunt

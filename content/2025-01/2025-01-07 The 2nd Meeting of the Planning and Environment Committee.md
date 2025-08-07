@@ -7,13 +7,13 @@ January 7, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4577ce73-13d6-4a79-a855-f52152983d94&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, P. Cuddy, E. Peloza, S. Hillier
+> S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> Councillors A. Hopkins, J. Pribil; A. Abraham, J. Adema, C. Cernanec, M. Corby, I. de Ceuster, M. Feldberg, K. Gonyou, P. Kavcic, H. Lysysnski, L. Marshall, C. Maton, B. Lambert, M. Pease and K. Mason (Committee Clerk)
+> A. Hopkins, J. Pribil, A. Abraham, J. Adema, C. Cernanec, M. Corby, I. de Ceuster, M. Feldberg, K. Gonyou, P. Kavcic, H. Lysysnski, L. Marshall, C. Maton, B. Lambert, M. Pease, K. Mason
 
 > [!abstract]- Remote Attendance:
-> E. Hunt, S. Govindaraj and E. Skalski
+> E. Hunt, S. Govindaraj, E. Skalski
 
 The meeting was called to order at 1:01 PM; it being noted that Councillor E. Peloza was in remote attendance.
 

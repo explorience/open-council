@@ -7,13 +7,13 @@ January 27, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7cb3ab8-2c3e-40ae-afe2-f9c12ac86a9e&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Deputy Mayor S. Lewis; Councillors C. Rahman and E. Peloza; S. Datars Bere; C. Cooper, K. Dickins, D. Escobar, J. Ireland, O. Katolyk, P. Ladouceur, S. Mathers, J.P. McGonigle, K. Scherr, P. Shand, C. Smith and J. Bunn (Committee Clerk)
+> Deputy  S. Lewis, C. Rahman, E. Peloza, S. Datars Bere, C. Cooper, K. Dickins, D. Escobar, J. Irel, O. Katolyk, P. Ladouceur, S. Mathers, J.P. McGonigle, K. Scherr, P. Sh, C. Smith, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> G. Bridge, S. Corman, J. Griffin, E. Hunt, E. Skalski and P. Yeoman
+> G. Bridge, S. Corman, J. Griffin, E. Hunt, E. Skalski, P. Yeoman
 
 The meeting was called to order at 1:00 PM.
 

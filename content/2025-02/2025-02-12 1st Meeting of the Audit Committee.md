@@ -7,13 +7,13 @@ February 12, 2025, at 12:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8e8d4dc8-876f-4fde-b487-39ebf5865ddb&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors E. Peloza (Chair), P. Cuddy, S. Stevenson, I. Cheema
+> E. Peloza, P. Cuddy, S. Stevenson, I. Cheema
 
 > [!abstract]- Absent:
 > J. Pribil
 
 > [!abstract]- Also Present:
-> S. Datars-Bere, A. Abraham,  A. Barbon, S. Chapman-Pusiak, I. Collins, K. DenBok (KPMG), M. Espinoza, S. Govindaraj, P. Ladouceur, S. Mathers, J. Paradis, E. Pellarin (KPMG), T. Pollitt, M. Redden (KPMG), M. Schulthess, C. Smith, M. Stone, S. Swance, T. Turner.
+> S. Datars-Bere, A. Abraham, A. Barbon, S. Chapman-Pusiak, I. Collins, K. DenBok (KPMG), M. Espinoza, S. Govindaraj, P. Ladouceur, S. Mathers, J. Paradis, E. Pellarin (KPMG), T. Pollitt, M. Redden (KPMG), M. Schulthess, C. Smith, M. Stone, S. Swance, T. Turner.
 
 > [!abstract]- Remote Attendance:
 > J. Ducharme (MNP), D. Jaswal (MNP), P. Racco (MNP)

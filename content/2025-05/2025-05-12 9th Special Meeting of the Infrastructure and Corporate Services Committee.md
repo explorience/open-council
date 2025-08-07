@@ -7,7 +7,7 @@ May 12, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0995fefa-bfc9-42cc-a466-ce0660170fa1&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, S. Franke
+> C. Rahman, J. Pribil, A. Hopkins, S. Franke
 
 > [!abstract]- Absent:
 > P. Van Meerbergen
@@ -16,7 +16,7 @@ May 12, 2025, at  1:00 PM
 > S. Datars Bere, A. Barbon, D. Escobar, K. Murray, J. Paradis, T. Pollitt, E. Skalski, L. Switzer
 
 > [!abstract]- Remote Attendance:
-> M. Galczynski and E. Hunt.
+> M. Galczynski, E. Hunt.
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor S. Franke was in remote attendance.
 

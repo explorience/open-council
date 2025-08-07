@@ -7,13 +7,13 @@ January 28, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f309c7f6-7ebf-421f-86bb-2c85a9add90c&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors S. Lehman (Chair), S. Lewis, E. Peloza, S. Hillier
+> S. Lehman, S. Lewis, E. Peloza, S. Hillier
 
 > [!abstract]- Absent:
 > P. Cuddy
 
 > [!abstract]- Also Present:
-> Councillor D. Ferreira; M. Butlin, M. Corby, L. Dent, K. Edwards, M Espinoza, D. Escobar, K. Gonyou, K. Hodgins, A. Hovius, P. Kavcic, M. Macaulay, S. Mathers, H. McNeely, B. Page, A. Shaw and K. Mason (Committee Clerk)
+> D. Ferreira, M. Butlin, M. Corby, L. Dent, K. Edwards, M Espinoza, D. Escobar, K. Gonyou, K. Hodgins, A. Hovius, P. Kavcic, M. Macaulay, S. Mathers, H. McNeely, B. Page, A. Shaw, K. Mason
 
 > [!abstract]- Remote Attendance:
 > S. Corman, E. Skalski

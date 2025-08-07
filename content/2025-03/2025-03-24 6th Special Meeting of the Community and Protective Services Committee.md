@@ -7,13 +7,13 @@ March 24, 2025, at 11:30 AM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2b2b7a05-edad-420a-8ae5-19c914b048b2&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, P. Cuddy, J. Pribil, S. Trosow
+> D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> M. Butlin, D. Escobar, M. Espinoza, M. Feldberg, S. Mathers and J. Bunn (Committee Clerk)
+> M. Butlin, D. Escobar, M. Espinoza, M. Feldberg, S. Mathers, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> K. Dickins, E. Hunt, C. Smith and E. Skalski
+> K. Dickins, E. Hunt, C. Smith, E. Skalski
 
 The meeting was called to order at 11:31 AM.
 

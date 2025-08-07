@@ -80,39 +80,63 @@ class Meeting:
     if remote_attendance: self.add_remote_attendance(remote_attendance)
     self.add_content(content)
 
-  def add_present(self, e):
-    if e.name == "p":
-      # <p>Present: Mayor J. Morgan, Warden B. Ropp, Deputy Warden A. DeViet, Councillors H. McAlister, J. Pribil, and C. Grantham</p>
-      self.present = e.contents[0].replace(" ", "").replace("Present: ", "").replace("and", "").split(", ")
-    else: # <ul>
-      for li in e.contents:
-        # <li>Mayor J. Morgan,&nbsp;</li>
-        # <li> and S. Hillier&nbsp;</li>
-        self.present.append(li.contents[0].replace(",", "").replace("and", "").strip())
+  def remove_titles(self, s):
+    return (s
+      .replace("Councillors", "Councillor")
+      .replace("Councillor", "")
+      .replace("Mayor", "")
+      .replace("(Chair)", "")
+      .replace("(Committee Clerk)", "")
+      .strip()
+    )
 
-  def add_absent(self, ul):
-    for li in ul.contents:
-      self.absent.append(li.contents[0].replace(",", "").replace("and", "").strip())
-
-  def add_also_present(self, also_present):
+  def get_names(self, s):
     """
     <p>
      S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, D. Ennett, C. Goodall, A. Hagan, A. Hovius, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith
     </p>
     """
-    self.also_present = also_present.contents[0].strip().split(", ")
+    names = (self.remove_titles(s)
+      # remove annoying weird spaces
+      .replace(" ", "")
+
+       # remove prefixes
+      .replace("Present: ", "")
+      .replace("Remote Attendance: ", "")
+
+      # split on names
+      .replace("and", ",")
+      .replace(",,", ",") # sometimes, the previous one inserts two commas
+      .replace(";", ",") # handle "; " being used as separator by changing it to ", "
+      .split(", ")
+    )
+    return [name.strip() for name in names]
+
+  def li_to_name(self, li):
+    # <li>Mayor J. Morgan,&nbsp;</li>
+    # <li> and S. Hillier&nbsp;</li>
+    return self.remove_titles(li.contents[0].replace(",", "").replace("and", "").strip())
+
+  def add_present(self, e):
+    if e.name == "p":
+      # <p>Present: Mayor J. Morgan, Warden B. Ropp, Deputy Warden A. DeViet, Councillors H. McAlister, J. Pribil, and C. Grantham</p>
+      self.present = self.get_names(e.contents[0])
+    else: # <ul>
+      for li in e.contents:
+        self.present.append(self.li_to_name(li))
+
+  def add_absent(self, ul):
+    for li in ul.contents:
+      self.absent.append(self.li_to_name(li))
+
+  def add_also_present(self, also_present):
+    self.also_present = self.get_names(also_present.contents[0])
 
   def add_remote_attendance(self, remote_attendance):
-    """
-    <p>
-     Remote Attendance: V. Arora, I. Collins, M. Daley, S. Glover, E. Hunt, K. Murray, A. Roseburgh, J. Senese, K. Pawelec, B. Warner, R. Wilcox
-    </p>
-    """
     # sometimes there's a span in between the <p> and the names, because why not
     if not isinstance(remote_attendance.contents[0], NavigableString):
       remote_attendance = remote_attendance.contents[0]
-    self.remote_attendance = remote_attendance.contents[0].strip().replace(" ", "").replace("Remote Attendance:", "").split(", ")
-    print(self.remote_attendance)
+    self.remote_attendance = self.get_names(remote_attendance.contents[0])
 
   def add_content(self, content):
     """

@@ -7,13 +7,13 @@ March 17, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f982e7c2-4f0f-4e1a-83c4-e123d9948a1b&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors D. Ferreira (Chair), H. McAlister, P. Cuddy, J. Pribil, S. Trosow, Mayor J. Morgan
+> D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow, J. Morgan
 
 > [!abstract]- Also Present:
-> Councillors S. Stevenson, C. Rahman, A. Hopkins, S. Franke; S. Datars Bere; M. Butlin, C. Cooper, K. Dickins, D. Escobar, T. Fowler, S. Govindaraj, J. Ireland, O. Katolyk, S. Mathers, J.P. McGonigle, K. Scherr, E. Skalski, J. Smit, C. Smith, J. Stanford, J. Tansley, R. Wilcox and J. Bunn (Committee Clerk)
+> S. Stevenson, C. Rahman, A. Hopkins, S. Franke, S. Datars Bere, M. Butlin, C. Cooper, K. Dickins, D. Escobar, T. Fowler, S. Govindaraj, J. Irel, O. Katolyk, S. Mathers, J.P. McGonigle, K. Scherr, E. Skalski, J. Smit, C. Smith, J. Stanford, J. Tansley, R. Wilcox, J. Bunn
 
 > [!abstract]- Remote Attendance:
-> Deputy Mayor S. Lewis; Councillors E. Peloza and S. Hillier; E. Bennett, S. Corman, E. Hunt, D. Kramers and M. Schulthess
+> Deputy  S. Lewis, E. Peloza, S. Hillier, E. Bennett, S. Corman, E. Hunt, D. Kramers, M. Schulthess
 
 The meeting was called to order at 1:01 PM.
 

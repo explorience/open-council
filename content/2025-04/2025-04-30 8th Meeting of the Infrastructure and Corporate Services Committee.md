@@ -7,16 +7,16 @@ April 30, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=93a8828f-cb4f-4c01-80d4-4d9fd370c150&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, P. Van Meerbergen, Mayor J. Morgan
+> C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, J. Morgan
 
 > [!abstract]- Absent:
 > S. Franke
 
 > [!abstract]- Also Present:
-> Deputy Mayor S. Lewis, Councillors S. Stevenson, S. Trosow, S. Lehman, E. Peloza; S. Datars Bere, A. Abraham, M. Barnes, S. Chambers, J. Davies, K. Dickins, M. Galczynski, C. Goodall, P. Kavcic, S. Mathers, H. McNelly, K. Murray, K. Oudekerk, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, J. Shaughnessy, E. Skalski, C. Smith.
+> Deputy  S. Lewis, S. Stevenson, S. Trosow, S. Lehman, E. Peloza, S. Datars Bere, A. Abraham, M. Barnes, S. Chambers, J. Davies, K. Dickins, M. Galczynski, C. Goodall, P. Kavcic, S. Mathers, H. McNelly, K. Murray, K. Oudekerk, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, J. Shaughnessy, E. Skalski, C. Smith.
 
 > [!abstract]- Remote Attendance:
-> Councillor H. McAlister; E. Bennett, I. Collins, S. Corman, E. Hunt, J. Stanford, P. Yeoman.
+> H. McAlister, E. Bennett, I. Collins, S. Corman, E. Hunt, J. Stanford, P. Yeoman.
 
 The meeting is called to order at 1:02 PM.
 

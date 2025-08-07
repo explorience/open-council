@@ -7,13 +7,13 @@ May 26, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0b38af7-bef4-4c5e-8418-f62a726b307d&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Councillors C. Rahman (Chair), J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
+> C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Also Present:
-> Councillor D. Ferreira; S. Datars Bere, A. Abraham, V. Arora, A. Barbon, E. Bennett, D. Bordin, K. Chambers, I. Collins, J. Dann, J. Davies, S. Govindaraj, S. Grady, A. Hovius, D. MacRae, S. Mathers, K. Murray, J. Paradis, A. Rammeloo, K. Scherr, M. Schulthess, J. Senese, E. Skalski, S. Sleiman, C. Smith, L. Stewart, S. Tatavarti.
+> D. Ferreira, S. Datars Bere, A. Abraham, V. Arora, A. Barbon, E. Bennett, D. Bordin, K. Chambers, I. Collins, J. Dann, J. Davies, S. Govindaraj, S. Grady, A. Hovius, D. MacRae, S. Mathers, K. Murray, J. Paradis, A. Rammeloo, K. Scherr, M. Schulthess, J. Senese, E. Skalski, S. Sleiman, C. Smith, L. Stewart, S. Tatavarti.
 
 > [!abstract]- Remote Attendance:
-> Deputy Mayor S. Lewis, Councillors S. Stevenson, E. Peloza and S. Hillier; S. Corman, R. Danter, J. Davies, K. Dickins, P. Lupa, M. Macaulay, J. McMillan, P. Yeoman, B. Warner.
+> Deputy  S. Lewis, S. Stevenson, E. Peloza, S. Hillier, S. Corman, R. Danter, J. Davies, K. Dickins, P. Lupa, M. Macaulay, J. McMillan, P. Yeoman, B. Warner.
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

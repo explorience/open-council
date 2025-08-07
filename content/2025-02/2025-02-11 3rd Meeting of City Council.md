@@ -7,13 +7,13 @@ February 11, 2025, at  1:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e19cc513-ab06-47a6-aec1-99ae1db840fe&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> Mayor J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, E. Peloza, D. Ferreira, S. Hillier
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, E. Peloza, D. Ferreira, S. Hillier
 
 > [!abstract]- Absent:
 > J. Pribil, S. Franke
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, J. Ireland, A. Kaczmarczyk, P. Ladouceur, D. MacRae, S. Mathers, J. Paradis, T. Pollitt, M. Schulthess, E. Skalski, C. Smith, B. Warner, J. Wills, C. Wray
+> S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, J. Irel, A. Kaczmarczyk, P. Ladouceur, D. MacRae, S. Mathers, J. Paradis, T. Pollitt, M. Schulthess, E. Skalski, C. Smith, B. Warner, J. Wills, C. Wray
 
 > [!abstract]- Remote Attendance:
 > S. Crawford, J. Griffin, E. Hunt
