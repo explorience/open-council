@@ -1,0 +1,24 @@
+.open-council-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  height: 50px;
+  * {
+    height: 100%;
+  }
+}
+.title-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+.shown {
+  display: block;
+}

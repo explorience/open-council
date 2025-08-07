@@ -40,6 +40,21 @@ const explorer = Component.Explorer({
   }
 })
 
+const search = Component.Flex({
+  direction: "column",
+  components: [
+    {
+      Component: Component.Flex({
+        components: [
+          { Component: Component.Search({ grow: true }) },
+          { Component: Component.Darkmode() },
+        ],
+      })
+    },
+    { Component: explorer }
+  ]
+})
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -54,13 +69,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [
     Component.ConditionalRender({
-      component: Component.Flex({
-        direction: "column",
-        components: [
-          { Component: Component.Search() },
-          { Component: explorer }
-        ]
-      }),
+      component: search,
       condition: (page) => page.fileData.slug === "index",
     })
   ],
@@ -77,26 +86,19 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.ConditionalRender({
+      component: search,
+      condition: (page) => page.fileData.slug !== "index"
+    }),
+    Component.ConditionalRender({
       component: explorer,
       condition: (page) => page.fileData.slug !== "index"
-    })],
+    })
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle(), Component.ContentMeta()],
-  left: [
-    Component.OpenCouncilHeader(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-  ],
-  right: [explorer],
+  left: [Component.OpenCouncilHeader()],
+  right: [search, explorer]
 }
