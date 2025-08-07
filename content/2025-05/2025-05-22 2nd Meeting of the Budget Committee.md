@@ -70,7 +70,7 @@ That the communication dated April 29, 2025 from D. Trentowsky, Chair and T. Ann
 
 ## 2.2&nbsp;&nbsp;&nbsp;Update on Budget Engagement with Agencies, Boards and Commissions - Budget Chair/Councillor E. Peloza
 
-[2025-05-22 Submission - Update on Budget Engagement with ABC](</2025-05/2025-05-22 2nd Meeting of the Budget Committee>)
+[2025-05-22 Submission - Update on Budget Engagement with ABC](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116665>)
 
 > Moved by D. Ferreira
 
@@ -513,7 +513,7 @@ Appendix C, Ref # - 5    Capital Financing – Climate Change Reserve Fund Con
 
 ## 4.2&nbsp;&nbsp;&nbsp;Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
 
-[2025-05-22 Submission - Budget LEDC-S. Stevenson](</2025-05/2025-05-22 2nd Meeting of the Budget Committee>)
+[2025-05-22 Submission - Budget LEDC-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116667>)
 
 > Moved by S. Stevenson
 
@@ -571,7 +571,7 @@ That the communication dated May 11, 2025 from Councillor S. Stevenson regarding
 
 ## 4.3&nbsp;&nbsp;&nbsp;Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
 
-[2025-05-22 Submission - Budget Cycling Lanes-S. Stevenson](</2025-05/2025-05-22 2nd Meeting of the Budget Committee>)
+[2025-05-22 Submission - Budget Cycling Lanes-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116668>)
 
 > Moved by S. Franke
 

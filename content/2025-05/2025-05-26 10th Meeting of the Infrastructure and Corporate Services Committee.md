@@ -707,7 +707,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ## 5.2&nbsp;&nbsp;&nbsp;(ADDED) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
 
-[2025-05-26 Submission - Infrastructure Renewal Project-S. Stevenson](</2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee>)
+[2025-05-26 Submission - Infrastructure Renewal Project-S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116648>)
 
 That it BE NOTED that the Infrastructure and Corporate Services Committee received a communication dated May 22, 2025 from Councillor S. Stevenson with respect to this matter.
 

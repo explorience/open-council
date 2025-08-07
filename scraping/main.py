@@ -1,9 +1,10 @@
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from process_meeting import process_meeting, get_processing_stats
 from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types, get_meetings
 
 target_meetings = [] # { meeting_type, date }
+without_minutes = [] # { meeting_type, date }
 
 if len(sys.argv) == 3:
   # special option to test all meetings from a certain year
@@ -12,28 +13,34 @@ if len(sys.argv) == 3:
     for meeting_type in get_meeting_types():
       for m in get_meetings(meeting_type, int(sys.argv[2])):
         target_meetings.append({ "meeting_type": meeting_type, "date": meeting_date(m) })
-    target_meetings.sort(key=lambda m: m["date"])
 
   # process specific meeting
   else: target_meetings = [{ "meeting_type": sys.argv[1], "date": datetime.strptime(sys.argv[2], "%Y-%m-%d") }]
 
-# stay up to date on council meetings
+# stay up to date on council meetings (check from last 6 months)
 else:
-  current_year = datetime.now().year
-  # check last year as well (for ex. if it's january, we might have some missed meetings in december)
-  council_meetings = get_meetings("Council", current_year) + get_meetings("Council", current_year-1)
-  sorted_meetings = sorted(council_meetings, key=meeting_date, reverse=True)
-  meetings_w_minutes = [m for m in sorted_meetings if meeting_minutes(m)]
+  now = datetime.now()
+  six_months_ago = now - timedelta(weeks=26) # 26 = 52 / 2
+  years = list(set([now.year, six_months_ago.year]))
 
-  meetings_to_process = []
-  for m in meetings_w_minutes:
-    if meeting_local_copy("Council", meeting_date(m)): break
-    # prepend. this way, earlier meetings are processed first, and later ones can properly link to them
-    target_meetings.insert(0, { "meeting_type": "Council", "date": meeting_date(m) })
+  for meeting_type in get_meeting_types():
+    meetings = [meeting for year in years for meeting in get_meetings(meeting_type, year)]
+    for m in meetings:
+      d = meeting_date(m)
+      meeting_info = { "meeting_type": meeting_type, "date": d }
+      if not meeting_minutes(m):
+        without_minutes.append(meeting_info)
+        continue
+      if meeting_local_copy(meeting_type, d): continue
+      target_meetings.append(meeting_info)
 
 if target_meetings == []:
   print("\nAlready up to date!")
-  exit()
+else:
+  # sort so that we process oldest meetings first
+  # this means that newer meetings will be able to link to the already-processed older meetings
+  for m in sorted(target_meetings, key=lambda m: m["date"]):
+    process_meeting(m["meeting_type"], m["date"])
 
 def print_processing_results(text, meeting_list):
   if len(meeting_list) > 0:
@@ -42,11 +49,8 @@ def print_processing_results(text, meeting_list):
       date = m["date"]
       meeting_type = m["meeting_type"]
       print(f"- '{meeting_type}' '{date.strftime('%Y-%m-%d')}'")
-    print("")
-
-for m in target_meetings:
-  process_meeting(m["meeting_type"], m["date"])
 
 (processed_list, error_list) = get_processing_stats()
 print_processing_results("successfully processed", processed_list)
 print_processing_results("could not be processed", error_list)
+print_processing_results("without minutes", without_minutes)

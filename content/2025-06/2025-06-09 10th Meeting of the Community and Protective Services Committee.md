@@ -66,7 +66,7 @@ b)    clauses 1.1, 3.1, 5.1 and 5.2 BE RECEIVED.
 
 ## 2.2&nbsp;&nbsp;&nbsp;City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
 
-[2025-06-09 SR Community Grants Program Grassroots Innovation and Capital Funding Allocations 2025](</2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee>)
+[2025-06-09 SR Community Grants Program Grassroots Innovation and Capital Funding Allocations 2025](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117338>)
 
 > Moved by P. Cuddy
 

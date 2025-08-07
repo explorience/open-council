@@ -161,7 +161,7 @@ iv)    repeal By-law No. A.-7749-244, being “A by-law to approve the Ontario
 
 ## 2.2&nbsp;&nbsp;&nbsp;Whole of Community System Response Q1 2025 Quarterly Report
 
-[2025-04-28 SR Whole of Community System Response - Q1 2025](</2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee>)
+[2025-04-28 SR Whole of Community System Response - Q1 2025](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115861>)
 
 > Moved by D. Ferreira
 

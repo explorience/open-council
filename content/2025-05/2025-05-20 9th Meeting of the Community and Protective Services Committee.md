@@ -112,7 +112,7 @@ None.
 
 ## 4.1&nbsp;&nbsp;&nbsp;Whole of Community System Response Overview
 
-[2025-05-20 Sub. Overview of Whole of Community Response - Councillor Stevenson](</2025-05/2025-05-20 9th Meeting of the Community and Protective Services Committee>)
+[2025-05-20 Sub. Overview of Whole of Community Response - Councillor Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=116676>)
 
 > Moved by S. Trosow
 

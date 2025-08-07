@@ -11,7 +11,8 @@ def meeting_type_part(s):
   if "report" in s.lower(): return False
   return True
 
-non_meeting_keywords = ["Presentation", "Submision", "Staff Report"]
+# SR is abbreviation for staff report
+non_meeting_keywords = ["Presentation", "Submission", "Staff Report", "SR"]
 def get_meeting_type(title):
   for word in non_meeting_keywords:
     if word in title: return None
@@ -32,6 +33,8 @@ def get_meeting_type(title):
 DATE_PAT = re.compile("\\d{4}\\-\\d{2}\\-\\d{2}")
 
 class Attachment(Content):
+
+  # self.date = date of attachment meeting, orig_datetime = date of meeting containing attachment
   def __init__(self, agenda_item_attachment, orig_datetime):
     a = agenda_item_attachment.find("a")
     self.nothing_here = not a
@@ -48,7 +51,12 @@ class Attachment(Content):
     match_str = DATE_PAT.search(self.title)
     self.date = datetime.strptime(match_str.group(0), "%Y-%m-%d") if match_str else None
 
-    self.local_page = self.date and meeting_local_copy(meeting_type, self.date)
+    if self.date:
+      # don't link back to current meeting (happens when attachments are miscategorized)
+      same_dates = self.date.strftime("%Y-%m-%d") == orig_datetime.strftime("%Y-%m-%d")
+      self.local_page = not same_dates and meeting_local_copy(meeting_type, self.date)
+    else:
+      self.local_page = None
 
   def is_empty(self):
     return self.nothing_here

@@ -12,4 +12,4 @@ Open Council scrapes London council meetings, nicely formats them, and parses th
 
 To serve the site, run `npm run dev` in this directory.
 
-To scrape, run `uv run main.py` in the `scraping/` directory. This will find new council meetings since the last scrape, and format them. You can also run something like `uv run main.py 'Community and Protective Services Committee' '2025-05-20'` to scrape a specific meeting from its meeting type and date.
+To scrape, run `uv run main.py` in the `scraping/` directory. This will find all new meetings in the past 6 months, and process them. You can also run something like `uv run main.py 'Community and Protective Services Committee' '2025-05-20'` to scrape a specific meeting from its meeting type and date.
