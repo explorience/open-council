@@ -5,14 +5,14 @@ Open Council scrapes London council meetings, nicely formats them, and parses th
 ## Folders
 
 - [`scraping/`](scraping/): Python scraping scripts
-- [`data/`](scraping/): outputted JSON data
-- [`content/`](scraping/): formatted markdown
+- [`data/`](data/): outputted JSON data
+- [`content/`](content/): formatted markdown
 
 ## Scripts
 
 To serve the site, run `npm run dev` in this directory.
 
-To scrape, run `uv run main.py` in the `scraping/` directory. This will find all new meetings in the past 6 months, and process them. It determines which meetings have already been scraped from the `data/` folder.
+To scrape, run `uv run main.py` in the [`scraping/`](scraping/) directory. This will find all new meetings in the past 6 months, and process them. It determines which meetings have already been scraped from the `data/` folder.
 
 You can also run something like
 ```
