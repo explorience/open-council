@@ -16,7 +16,7 @@ May 22, 2025, at 10:00 AM
 > S. Datars-Bere, A. Barbon, D. Escobar, E. Hunt, S. Mathers, K. Murray, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, L. Switzer
 
 > [!abstract]- Remote Attendance:
-> M. Barnes, E. Bennett, M. Daley, J. Dann, J. Davies, K. Dickins,  M. Galczynski, D. MacRae, A. Rammeloo, J. Stanford, P. Yeoman
+> M. Barnes, E. Bennett, M. Daley, J. Dann, J. Davies, K. Dickins, M. Galczynski, D. MacRae, A. Rammeloo, J. Stanford, P. Yeoman
 
 The meeting is called to order at 10:03 AM; it being noted that Councillors S. Hillier and P. Van Meerbergen were in remote attendance.
 

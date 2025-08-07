@@ -16,7 +16,7 @@ February 11, 2025, at  1:00 PM
 > S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, J. Ireland, A. Kaczmarczyk, P. Ladouceur, D. MacRae, S. Mathers, J. Paradis, T. Pollitt, M. Schulthess, E. Skalski, C. Smith, B. Warner, J. Wills, C. Wray
 
 > [!abstract]- Remote Attendance:
-> Remote Attendance:  S. Crawford, J. Griffin, E. Hunt
+> S. Crawford, J. Griffin, E. Hunt
 
 The meeting is called to order at 1:01 PM; it being noted that Mayor J. Morgan and Councillor S. Stevenson were in remote attendance.
 

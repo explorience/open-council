@@ -13,7 +13,7 @@ April 1, 2025, at  1:00 PM
 > S. Datars Bere, A. Abraham, A. Barbon, C. Cooper, S. Corman, K. Dickins, T. Fowler, M.
 
 > [!abstract]- Remote Attendance:
-> Remote Attendance:  E. Bennett, S. Grady, E. Hunt, D. Kramers, K. Murray, R. Wilcox
+> E. Bennett, S. Grady, E. Hunt, D. Kramers, K. Murray, R. Wilcox
 
 The meeting is called to order at 1:02 PM; it being noted that Councillor H. McAlister was in remote attendance.
 

@@ -16,7 +16,7 @@ January 14, 2025, at  1:00 PM
 > S. Datars Bere, A. Abraham, A. Barbon, S. Corman, K. Dickins, D. MacRae, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, J. Stanford
 
 > [!abstract]- Remote Attendance:
-> Remote Attendance:  E. Bennett, M. Fabro, E. Hunt, J. Skimming
+> E. Bennett, M. Fabro, E. Hunt, J. Skimming
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor E. Peloza was in remote attendance.
 

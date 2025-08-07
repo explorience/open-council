@@ -13,7 +13,7 @@ March 25, 2025, at  1:00 PM
 > S. Datars Bere, A. Barbon, S. Corman, M. Dellamora, K. Dickins, D. Escobar, T. Fowler, S. Grady, A. Hovius, M. Macaulay, D. MacRae, S. Mathers, H. McNeely, J. Paradis, K. Pawelec, K. Scherr, M. Schulthess, E. Skalski, C. Smith, T. Sutton, P. Yeoman
 
 > [!abstract]- Remote Attendance:
-> Remote Attendance:  E. Bennett, E. Hunt
+> E. Bennett, E. Hunt
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor E. Peloza was in remote attendance at 9:16 PM.
 

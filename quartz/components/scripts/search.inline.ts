@@ -436,7 +436,16 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
     const getByField = (field: string): number[] => {
       const results = searchResults.filter((x) => x.field === field)
-      return results.length === 0 ? [] : ([...results[0].result] as number[])
+      if (!results.length) return []
+
+      const ids = [...results[0].result]
+      const toDate = id => {
+        const startIdx = "2025-01/".length
+        const endIdx = startIdx + "2025-01-07".length
+        return new Date(idDataMap[id].slice(startIdx, endIdx))
+      }
+      const sortedIds = ids.sort((a, b) => toDate(a) < toDate(b) ? 1 : -1)
+      return sortedIds.filter(id => idDataMap[id] !== "index") as number[]
     }
 
     // order titles ahead of content

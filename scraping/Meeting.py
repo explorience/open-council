@@ -83,7 +83,7 @@ class Meeting:
   def add_present(self, e):
     if e.name == "p":
       # <p>Present: Mayor J. Morgan, Warden B. Ropp, Deputy Warden A. DeViet, Councillors H. McAlister, J. Pribil, and C. Grantham</p>
-      self.present = e.contents[0].replace("Present: ", "").replace("and", "").split(", ")
+      self.present = e.contents[0].replace(" ", "").replace("Present: ", "").replace("and", "").split(", ")
     else: # <ul>
       for li in e.contents:
         # <li>Mayor J. Morgan,&nbsp;</li>
@@ -111,7 +111,8 @@ class Meeting:
     # sometimes there's a span in between the <p> and the names, because why not
     if not isinstance(remote_attendance.contents[0], NavigableString):
       remote_attendance = remote_attendance.contents[0]
-    self.remote_attendance = remote_attendance.contents[0].strip().replace("Remote Attendance: ", "").split(", ")
+    self.remote_attendance = remote_attendance.contents[0].strip().replace(" ", "").replace("Remote Attendance:", "").split(", ")
+    print(self.remote_attendance)
 
   def add_content(self, content):
     """

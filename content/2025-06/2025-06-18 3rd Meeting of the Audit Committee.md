@@ -13,7 +13,7 @@ June 18, 2025, at 12:00 PM
 > S. Datars-Bere, G. Bagga (MNP), A. Barbon, S. Chapman-Pusiak, I. Collins, K. DenBok (KPMG), K. Dickins, D. Escobar, M. Espinoza, S. Govindaraj, D. Jaswal (MNP), S. Mathers, J. Paradis, K. Pawelec, E. Pellarin (KPMG), T. Pollitt, P. Racco (MNP), M. Redden (KPMG), M. Schulthess, M. Shears, C. Smith, S. Swance.
 
 > [!abstract]- Remote Attendance:
-> Remote Attendance:  E. Bennett, E. Hunt.
+> E. Bennett, E. Hunt.
 
 
 
