@@ -35,7 +35,7 @@ class Meeting:
   datetime : String
 
   (* Link to the original meeting minutes *)
-  url : String (the original minutes link)
+  url : String
 
   (* An option from the dropdowns in https://pub-london.escribemeetings.com/?MeetingViewId=1 *)
   meeting_type : String
@@ -119,7 +119,7 @@ class MotionResult
   string : String
 
 class Content:
-  (* completely empty *)
+  (* Completely empty, for indicating that there is no content *)
 
 class Paragraph:
   string : String
