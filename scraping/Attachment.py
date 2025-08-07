@@ -37,7 +37,7 @@ class Attachment(Content):
   # self.date = date of attachment meeting, orig_datetime = date of meeting containing attachment
   def __init__(self, agenda_item_attachment, orig_datetime):
     a = agenda_item_attachment.find("a")
-    self.nothing_here = not a
+    self.empty_flag = not a
     if not a: return
 
     attrs = a.attrs
@@ -54,12 +54,12 @@ class Attachment(Content):
     if self.date:
       # don't link back to current meeting (happens when attachments are miscategorized)
       same_dates = self.date.strftime("%Y-%m-%d") == orig_datetime.strftime("%Y-%m-%d")
-      self.local_page = not same_dates and meeting_local_copy(meeting_type, self.date)
+      self.local_page = meeting_local_copy(meeting_type, self.date) if not same_dates else None
     else:
       self.local_page = None
 
   def is_empty(self):
-    return self.nothing_here
+    return self.empty_flag
 
   def format_markdown(self):
     url = f"/{self.local_page}" if self.local_page else self.url
