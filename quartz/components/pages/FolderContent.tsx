@@ -107,11 +107,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         <article class={classes}>{content}</article>
         <div class="page-listing">
           {options.showFolderCount && (
-            <p>
-              {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-                count: allPagesInFolder.length,
-              })}
-            </p>
+            <p>{allPagesInFolder.length} meetings in this month.</p>
           )}
           <div>
             <PageList {...listProps} />
