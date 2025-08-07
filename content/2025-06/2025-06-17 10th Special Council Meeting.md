@@ -200,19 +200,6 @@ That Third Reading and Enactment of Bill No.'s 248 and 249 BE APPROVED.
 
 ****
 
-> [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
-> **Bill No. 248**
-> 
-> By-law No. A.-8611-192        
-> 
-> A by-law to confirm the proceedings of the Special Council Meeting held on the 17th day of June 2025. (City Clerk)
-> 
-> **Bill No. 249**
-> 
-> By-law No. A.-8612-193       
-> 
-> A by-law to approve a template Contribution Agreement between The Corporation of the City of London and Indwell Community Homes for the highly supportive housing project located at 346 South Street.
-
 # 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
@@ -226,4 +213,19 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 11:20 AM.
 
 ****
+
+# Appendix: New Bills
+
+> [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
+> **Bill No. 248**
+> 
+> By-law No. A.-8611-192        
+> 
+> A by-law to confirm the proceedings of the Special Council Meeting held on the 17th day of June 2025. (City Clerk)
+> 
+> **Bill No. 249**
+> 
+> By-law No. A.-8612-193       
+> 
+> A by-law to approve a template Contribution Agreement between The Corporation of the City of London and Indwell Community Homes for the highly supportive housing project located at 346 South Street.
 

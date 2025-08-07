@@ -2115,6 +2115,22 @@ That Third Reading and Enactment of Added Bill No.'s 153 and 154 BE APPROVED.
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by S. Franke
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 4:47 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 131**
 > 
@@ -2211,18 +2227,4 @@ That Third Reading and Enactment of Added Bill No.'s 153 and 154 BE APPROVED.
 > **Bill No. 154**
 > 
 > By-law No. Z.-1-253309 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 801 Sarnia Road. (3.7b/6/PEC)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by P. Van Meerbergen
-
-> Seconded by S. Franke
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 4:47 PM.
-
-****
 

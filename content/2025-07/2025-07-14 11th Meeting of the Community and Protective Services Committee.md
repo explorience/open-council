@@ -127,7 +127,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ## 2.6&nbsp;&nbsp;&nbsp;Community Energy System Green Municipal Funds (GMF) Application Support
 
-[2025-07-14 SR Community Energy System GMF Application Support](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117918>)
+[2025-07-14 SR Community Energy System GMF Application Support](</2025-07/2025-07-14 11th Meeting of the Community and Protective Services Committee>)
 
 > Moved by H. McAlister
 
@@ -145,9 +145,9 @@ b)    the Federation of Canadian Municipalities Green Municipal Fund applicati
 
 ## 2.7&nbsp;&nbsp;&nbsp;Federation of Canadian Municipalities Community Efficiency Financing Agreement for BetterHomes London
 
-[2025-07-14 SR FCM Community Efficiency Financing Agreement for BetterHomes London - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117919>)
+[2025-07-14 SR FCM Community Efficiency Financing Agreement for BetterHomes London - Part 1](</2025-07/2025-07-14 11th Meeting of the Community and Protective Services Committee>)
 
-[2025-07-14 SR FCM Community Efficiency Financing Agreement for BetterHomes London - Part 2](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117920>)
+[2025-07-14 SR FCM Community Efficiency Financing Agreement for BetterHomes London - Part 2](</2025-07/2025-07-14 11th Meeting of the Community and Protective Services Committee>)
 
 > Moved by H. McAlister
 

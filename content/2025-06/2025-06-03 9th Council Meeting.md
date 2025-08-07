@@ -3615,6 +3615,22 @@ That Third Reading and Enactment of Bill No.’s 180 to Revised Bill No. 245, ex
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by H. McAlister
+
+> Seconded by D. Ferreira
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 5:36 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 180**
 > 
@@ -3887,18 +3903,4 @@ That Third Reading and Enactment of Bill No.’s 180 to Revised Bill No. 245, ex
 > **Bill No. 247**
 > 
 > By-law No. L.S.P.-3525-191 - A by-law to expropriate lands in the City of London, in the County of Middlesex, for the Wellington Gateway Project. (Director, Realty Services)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by H. McAlister
-
-> Seconded by D. Ferreira
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 5:36 PM.
-
-****
 

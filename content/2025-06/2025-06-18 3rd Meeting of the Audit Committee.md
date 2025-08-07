@@ -33,7 +33,7 @@ None.
 
 ## 4.1&nbsp;&nbsp;&nbsp;2024 Financial Audit
 
-[2025-06-18 Submission - 2024 Financial Audit](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117460>)
+[2025-06-18 Submission - 2024 Financial Audit](</2025-06/2025-06-18 3rd Meeting of the Audit Committee>)
 
 > Moved by P. Cuddy
 
@@ -65,11 +65,11 @@ b) the Audit Findings Report as prepared by KPMG for the year ending December 31
 
 ### 4.1.b&nbsp;&nbsp;&nbsp;Presentation - Audit Findings Report for the Year Ending December 31, 2024 - KPMG 
 
-[2025-06-18 Submission - Audit Findings Report-KPMG](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117458>)
+[2025-06-18 Submission - Audit Findings Report-KPMG](</2025-06/2025-06-18 3rd Meeting of the Audit Committee>)
 
 ## 4.2&nbsp;&nbsp;&nbsp;Internal Audit Follow Up Activities Dashboard - MNP
 
-[2025-06-18 Submission - Internal Audit Follow-Up Activities Dashboard](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117455>)
+[2025-06-18 Submission - Internal Audit Follow-Up Activities Dashboard](</2025-06/2025-06-18 3rd Meeting of the Audit Committee>)
 
 > Moved by P. Cuddy
 

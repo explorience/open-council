@@ -101,9 +101,9 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ## 2.4&nbsp;&nbsp;&nbsp;Whole of Community System Response - Q4 Quarterly Report
 
-[2025-01-27 SR Whole of Community System Response Q4 Report - Part 1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113908>)
+[2025-01-27 SR Whole of Community System Response Q4 Report - Part 1](</2025-01/2025-01-27 3rd Meeting of the Community and Protective Services Committee>)
 
-[2025-01-27 SR Whole of Community System Response Q4 Report - Part 2](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113909>)
+[2025-01-27 SR Whole of Community System Response Q4 Report - Part 2](</2025-01/2025-01-27 3rd Meeting of the Community and Protective Services Committee>)
 
 > Moved by H. McAlister
 

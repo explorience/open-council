@@ -1180,6 +1180,22 @@ That Third Reading and Enactment of Bill No.'s 73 to 77 and Bill No.'s 297 and 3
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by S. Hillier
+
+> Seconded by D. Ferreira
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 5:01 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 73**
 > 
@@ -1208,18 +1224,4 @@ That Third Reading and Enactment of Bill No.'s 73 to 77 and Bill No.'s 297 and 3
 > **Bill No. 379**
 > 
 > By-law No. DR-111-63 - A by-law to provide for Drainage Works in the City of London (Reassessment of the CB. Smith No. 2 Municipal Drain)  (2.2/11/CWC – 2024) (For Third Reading only)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by S. Hillier
-
-> Seconded by D. Ferreira
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 5:01 PM.
-
-****
 

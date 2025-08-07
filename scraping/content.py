@@ -22,14 +22,14 @@ class Content:
     return Content() # empty, will be filtered out
 
   @staticmethod
-  def parse_contents(content_row):
+  def parse_contents(content_row, meeting):
     if not content_row: return []
 
     content = []
     for c in content_row.contents:
       if isinstance(c, NavigableString): continue
       if c.has_attr("class") and "AgendaItemMotions" in c["class"]:
-        content += Content.parse_motions(c)
+        content += Content.parse_motions(c, meeting)
       else:
         for e in [c, *c.find_all(True)]:
           con = Content.parse_content(e)
@@ -39,13 +39,11 @@ class Content:
     return content
 
   @staticmethod
-  def parse_motions(agenda_item_motions):
+  def parse_motions(agenda_item_motions, meeting):
     motions = []
     for agenda_item_motion in agenda_item_motions.contents:
-      motion = Motion(agenda_item_motion)
+      motion = Motion(agenda_item_motion, meeting)
       motions.append(motion)
-      if motion.higher_content:
-        motions.append(motion.higher_content)
     return motions
 
 
@@ -102,23 +100,20 @@ class MotionResult(Paragraph):
 BILL_TEXT = "The following Bills are enacted as By-laws of The Corporation of the City of London:"
 
 class Motion(Content):
-  def __init__(self, agenda_item_motion):
-    self.pre_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PreMotionText"))
+  def __init__(self, agenda_item_motion, meeting):
+    self.pre_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PreMotionText"), meeting)
     self.moved_by = Mover(agenda_item_motion.find(class_="MovedBy"))
     self.seconded_by = Mover(agenda_item_motion.find(class_="SecondedBy"))
-    self.motion_texts = Content.parse_contents(agenda_item_motion.find(class_="MotionText"))
+    self.motion_texts = Content.parse_contents(agenda_item_motion.find(class_="MotionText"), meeting)
     self.vote = Vote(agenda_item_motion.find(class_="MotionVoters"))
     self.result = MotionResult(agenda_item_motion.find(class_="MotionResult"))
-    self.post_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PostMotionText"))
-
-    # self.higher_content, if present, shouldn't be in the Motion, but instead raised to the next level after it.
-    self.higher_content = None
+    self.post_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PostMotionText"), meeting)
 
     if len(self.post_motion_texts) >= 1 and BILL_TEXT in self.post_motion_texts[0].string:
       bills_descs = []
       for paragraph in self.post_motion_texts:
         bills_descs += paragraph.string.split("\n")
-      self.higher_content = Bills(bills_descs)
+      meeting.bills = Bills(bills_descs)
       self.post_motion_texts = []
 
   def is_empty(self):

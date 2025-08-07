@@ -82,7 +82,7 @@ e)    the proposed by-law as appended on the staff report dated April 29, 2025
 
 ## 2.3&nbsp;&nbsp;&nbsp;Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
-[2025-04-29 - (2.3) Submission - Mobility Master Plan Mobility-D. Schmidt](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115914>)
+[2025-04-29 - (2.3) Submission - Mobility Master Plan Mobility-D. Schmidt](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee>)
 
 > Moved by E. Peloza
 
@@ -838,7 +838,7 @@ Motion to close the public participation meeting.
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
-[2025-04-29 PEC Deferred Matters List](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115915>)
+[2025-04-29 PEC Deferred Matters List](</2025-04/2025-04-29 The 7th Meeting of the Planning and Environment Committee>)
 
 > Moved by P. Cuddy
 

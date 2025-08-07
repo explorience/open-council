@@ -1418,6 +1418,22 @@ That Third Reading and Enactment of Bill No.’s 43 to 71 excluding Bill No.’s
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by P. Cuddy
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 2:51 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 43**
 > 
@@ -1538,18 +1554,4 @@ That Third Reading and Enactment of Bill No.’s 43 to 71 excluding Bill No.’s
 > **Bill No. 72**
 > 
 > By-law No. A.-8575-56 - A by-law to authorize and approve a Settlement Agreement between The Corporation of the City of London and White Oaks Shopping Centre Inc. for the property rights expropriated from 1105 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/2/ICSC)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by P. Van Meerbergen
-
-> Seconded by P. Cuddy
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 2:51 PM.
-
-****
 

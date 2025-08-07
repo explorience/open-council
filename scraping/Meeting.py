@@ -15,6 +15,7 @@ class Meeting:
     self.datetime = self.get_time(soup.find("time"))
     self.url = url
     self.meeting_type = meeting_type
+    self.bills = None # some of the parsing functions may set this if bills were passed
 
     self.present = []
     self.also_present = []
@@ -25,7 +26,7 @@ class Meeting:
     self.items = {}
     agenda = soup.find(class_="AgendaItems")
     for container in agenda:
-      item = MeetingItem(container, self.datetime)
+      item = MeetingItem(container, self.datetime, self)
       self.items[item.number] = item
 
   def get_time(self, elt):
@@ -141,6 +142,10 @@ class Meeting:
 
     for item in self.items.values():
       output += item.format_markdown(1, "")
+
+    if self.bills:
+      output += f"# Appendix: New Bills\n\n"
+      output += self.bills.format_markdown() + "\n\n"
     return output
 
   def yyyy_mm(self):

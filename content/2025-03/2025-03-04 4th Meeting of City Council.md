@@ -1839,6 +1839,22 @@ That Third Reading and Enactment of Bill No.100 BE APPROVED.
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by A. Hopkins
+
+> Seconded by S. Hillier
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 4:02 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 78**
 > 
@@ -1933,18 +1949,4 @@ That Third Reading and Enactment of Bill No.100 BE APPROVED.
 > **Bill No. 100**
 > 
 > By-law No. Z.-1-253295 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1378-1398 Commissioners Road West. (3.6/4/PEC)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by A. Hopkins
-
-> Seconded by S. Hillier
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 4:02 PM.
-
-****
 

@@ -2274,6 +2274,22 @@ That Third Reading and Enactment of Bill No.’s 155 to Bill No. 178, excluding 
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by D. Ferreira
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 5:19 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 155**
 > 
@@ -2370,18 +2386,4 @@ That Third Reading and Enactment of Bill No.’s 155 to Bill No. 178, excluding 
 > **Bill No. 179**
 > 
 > By-law No. Z.-1-253317 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3849 Campbell Street. (3.5/7/PEC)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by P. Van Meerbergen
-
-> Seconded by D. Ferreira
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 5:19 PM.
-
-****
 

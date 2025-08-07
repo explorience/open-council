@@ -6,7 +6,7 @@ from download_meeting import get_meetings, meeting_date, meeting_local_copy, mee
 target_meetings = [] # { meeting_type, date }
 
 if len(sys.argv) == 3:
-  # special option to test all meetings from this year
+  # special option to test all meetings from a certain year
   # mostly to test parsing with random edge cases and inconsistencies
   if sys.argv[1] == "TEST_ALL_MEETINGS":
     for meeting_type in get_meeting_types():
@@ -46,6 +46,7 @@ def print_processing_results(text, meeting_list):
 
 for m in target_meetings:
   process_meeting(m["meeting_type"], m["date"])
+
 (processed_list, error_list) = get_processing_stats()
 print_processing_results("successfully processed", processed_list)
 print_processing_results("could not be processed", error_list)

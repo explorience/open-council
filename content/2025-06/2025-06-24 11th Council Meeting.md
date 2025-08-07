@@ -2308,6 +2308,22 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by D. Ferreira
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 4:55 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 250**
 > 
@@ -2408,18 +2424,4 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 > **Bill No. 274**
 > 
 > By-law No. A.-8621-213 - A by-law to approve the Ontario Transfer Payment Agreement between His Majesty the King in right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London. (2.1/10/PEC)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by P. Van Meerbergen
-
-> Seconded by D. Ferreira
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 4:55 PM.
-
-****
 

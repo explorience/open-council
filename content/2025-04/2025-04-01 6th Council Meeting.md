@@ -4049,6 +4049,22 @@ That Third Reading and Enactment of Bill No.’s 103 to 104, Bill No.'s 106 to 1
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by P. Cuddy
+
+> Seconded by S. Stevenson
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 8:51 PM.
+
+****
+
+# Appendix: New Bills
+
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 103**
 > 
@@ -4161,18 +4177,4 @@ That Third Reading and Enactment of Bill No.’s 103 to 104, Bill No.'s 106 to 1
 > **Bill No. 130**
 > 
 > By-law No. A.-8591-100 - A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Drewlo Holdings Inc., for the purchase of land which is legally described as Part of Lots 37-39 on Plan 82(C); Part of Lots 1-7 on Plan 79(C); Part of Lot 10, Plan 91(C); Part of Lot 6, Concession 3 and Part of Lot 7, Concession 4, designated as Parts 1, 2, 3, 4 and 6 on Plan 33R22082 and Parts 1 and 2 on Plan 33R22098 in the City of London, County of Middlesex, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.3/6/ICSC)
-
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Motion made by P. Cuddy
-
-> Seconded by S. Stevenson
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 8:51 PM.
-
-****
 

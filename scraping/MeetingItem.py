@@ -21,7 +21,7 @@ def get_section_link(report, section):
   return f"/{report}#{header_link}"
 
 class MeetingItem:
-  def __init__(self, agenda_item_container, datetime, report=None):
+  def __init__(self, agenda_item_container, datetime, meeting, report=None):
     self.title = None
     self.number = ""
     self.content = []
@@ -31,7 +31,7 @@ class MeetingItem:
     self.report = report
 
     agenda_item = agenda_item_container.contents[0]
-    self.set_attributes(agenda_item, report)
+    self.set_attributes(agenda_item, meeting, report)
 
     if len(self.attachments) == 1 and self.attachments[0].local_page:
       report = self.attachments[0].local_page
@@ -39,11 +39,11 @@ class MeetingItem:
     if len(agenda_item_container.contents) > 1:
       items = agenda_item_container.contents[1]
       for child in items:
-        subitem = MeetingItem(child, datetime, report)
+        subitem = MeetingItem(child, datetime, meeting, report)
         self.items[subitem.number] = subitem
 
 
-  def set_attributes(self, agenda_item, report):
+  def set_attributes(self, agenda_item, meeting, report):
     title_row = agenda_item.find(class_="AgendaItemTitleRow") or agenda_item.find(class_="LateClosedAgendaItemTitleRow")
     self.set_title(title_row.find(class_="AgendaItemTitle"))
 
@@ -55,7 +55,7 @@ class MeetingItem:
         if not attachment.is_empty():
           self.attachments.append(attachment)
 
-    self.content = Content.parse_contents(agenda_item.find(class_="AgendaItemContentRow"))
+    self.content = Content.parse_contents(agenda_item.find(class_="AgendaItemContentRow"), meeting)
 
     # "1." -> 1, "3.4" -> 4
     number_str = agenda_item.find(class_="AgendaItemCounter").contents[0]

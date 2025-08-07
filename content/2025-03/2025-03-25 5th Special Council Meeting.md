@@ -214,15 +214,6 @@ That Third Reading and Enactment of Bill No.’s 101 and 102 BE APPROVED.
 
 ****
 
-> [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
-> **Bill No. 101**
-> 
-> By-law No. A.-8582-76 - A by-law to confirm the proceedings of the Special Council Meeting held on the 25th day of March 2025. (City Clerk)
-> 
-> **Bill No. 102**
-> 
-> By-law No. A.-8583-77 - A by-law to approve a Contribution Agreement between The London Cross-Cultural Learner Centre and The Corporation of the City of London and to authorize the Deputy City Manager, Housing and Community Growth to approve amending agreements to the Contribution Agreement. (2.1/6/CPSC)
-
 # 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by D. Ferreira
@@ -236,4 +227,15 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 11:38 AM.
 
 ****
+
+# Appendix: New Bills
+
+> [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
+> **Bill No. 101**
+> 
+> By-law No. A.-8582-76 - A by-law to confirm the proceedings of the Special Council Meeting held on the 25th day of March 2025. (City Clerk)
+> 
+> **Bill No. 102**
+> 
+> By-law No. A.-8583-77 - A by-law to approve a Contribution Agreement between The London Cross-Cultural Learner Centre and The Corporation of the City of London and to authorize the Deputy City Manager, Housing and Community Growth to approve amending agreements to the Contribution Agreement. (2.1/6/CPSC)
 

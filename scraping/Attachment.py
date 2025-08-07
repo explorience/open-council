@@ -48,17 +48,7 @@ class Attachment(Content):
     match_str = DATE_PAT.search(self.title)
     self.date = datetime.strptime(match_str.group(0), "%Y-%m-%d") if match_str else None
 
-    self.local_page = None
-    d1 = self.date
-    d2 = orig_datetime
-
-    # make sure that we don't try to recursively process the same meeting
-    # this can occur if another document from the same day is miscategorized
-    if self.date and ((d1.day, d1.month, d1.year) != (d2.day, d2.month, d2.year)) and meeting_type:
-      self.local_page = meeting_local_copy(meeting_type, self.date)
-      # don't make if we already have the meeting, and don't recursively process all council meetings
-      if not self.local_page and meeting_type != "Council":
-        self.local_page = process_meeting.process_meeting(meeting_type, self.date)
+    self.local_page = self.date and meeting_local_copy(meeting_type, self.date)
 
   def is_empty(self):
     return self.nothing_here
