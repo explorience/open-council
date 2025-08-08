@@ -109,6 +109,7 @@ class Meeting:
     names = names.replace(" ", "")
 
     # remove prefixes
+    names = re.sub("Also Present: ", "", names, flags=re.IGNORECASE)
     names = re.sub("Present: ", "", names, flags=re.IGNORECASE)
     names = re.sub("Remote Attendance: ", "", names, flags=re.IGNORECASE)
 

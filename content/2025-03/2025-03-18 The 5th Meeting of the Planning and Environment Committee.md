@@ -10,7 +10,7 @@ March 18, 2025, at  1:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> ALSO  S. Franke, A. Hopkins, S. Trosow, J. Pribil, J. Adema, C. Cernanec, K. Edwards, D. Escobar, K. Gonyou, P. Kavcic, B. Lambert, M. Macaulay, T. MacBeth, C. Maton, S. Mathers, C. McCreary, H. McNeely, K. Mitchener, B. O'Hagan, A. Shaw, L. Switzer, K. Mason
+> S. Franke, A. Hopkins, S. Trosow, J. Pribil, J. Adema, C. Cernanec, K. Edwards, D. Escobar, K. Gonyou, P. Kavcic, B. Lambert, M. Macaulay, T. MacBeth, C. Maton, S. Mathers, C. McCreary, H. McNeely, K. Mitchener, B. O'Hagan, A. Shaw, L. Switzer, K. Mason
 
 > [!abstract]- Remote Attendance:
 > C. Rahman, E. Bennett, M. Corby, E. Hunt, E. Skalski
