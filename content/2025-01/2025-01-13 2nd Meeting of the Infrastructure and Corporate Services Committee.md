@@ -13,7 +13,7 @@ January 13, 2025, at  1:00 PM
 > S. Lewis, D. Ferreira, S. Datars Bere, A. Abraham, A. Barbon, K. Chambers, I. Collins, J. Dann, K. Dawtrey, C. McCreery, J. McMillan, K. Murray, B. Nourse, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, E. Skalski, S. Sleiman, J. Straub, B. Warner
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: S. Corman, M. Daley, D. Dubois, A. Dunbar, E. Hunt
+> S. Corman, M. Daley, D. Dubois, A. Dunbar, E. Hunt
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 

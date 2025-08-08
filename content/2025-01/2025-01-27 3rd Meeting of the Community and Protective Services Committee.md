@@ -10,7 +10,7 @@ January 27, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, C. Rahman, E. Peloza, S. Datars Bere, C. Cooper, K. Dickins, D. Escobar, J. Irel, O. Katolyk, P. Ladouceur, S. Mathers, J.P. McGonigle, K. Scherr, P. Sh, C. Smith, J. Bunn
+> Deputy  S. Lewis, C. Rahman, E. Peloza, S. Datars Bere, C. Cooper, K. Dickins, D. Escobar, J. Ireland, O. Katolyk, P. Ladouceur, S. Mathers, J.P. McGonigle, K. Scherr, P. Shand, C. Smith, J. Bunn
 
 > [!abstract]- Remote Attendance:
 > G. Bridge, S. Corman, J. Griffin, E. Hunt, E. Skalski, P. Yeoman
@@ -20,6 +20,24 @@ The meeting was called to order at 1:00 PM.
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
+
+> Moved by H. McAlister
+
+> Seconded by J. Pribil
+
+That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Deferred Matters/Additional Business, to be considered after Stage 1, Disclosures of Pecuniary Interest.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |H. McAlister|
+> |J. Pribil|
+> |S. Trosow|
+> |D. Ferreira|
+
+> **Motion Passed (4 to 0)**
+
+****
 
 # 2.&nbsp;&nbsp;&nbsp;Consent
 

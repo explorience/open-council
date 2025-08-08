@@ -13,7 +13,7 @@ May 13, 2025, at  1:00 PM
 > S. Datars Bere, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, D. Escobar, M. Feldberg, C. Goodall, S. Govindaraj, P. Kavcic, P. Ladouceur, H. McNeely, K. Murray, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, L. Switzer
 
 > [!abstract]- Remote Attendance:
-> D. Baxter, E. Bennett, S. Glover, E. Hunt, J. Irel,
+> D. Baxter, E. Bennett, S. Glover, E. Hunt, J. Ireland
 
 The meeting is called to order at 1:01 PM
 

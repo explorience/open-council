@@ -10,7 +10,7 @@ June 23, 2025, at 12:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> J. Pribil, A. Hopkins, A. Abraham, M. Butlin, K. Mason, S. Mathers, , H. McNeely.
+> J. Pribil, A. Hopkins, A. Abraham, M. Butlin, K. Mason, S. Mathers, H. McNeely.
 
 > [!abstract]- Remote Attendance:
 > C. Rahman, E. Hunt, E. Skalski.

@@ -13,7 +13,7 @@ January 21, 2025, at  1:00 PM
 > S. Stevenson
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Barbon, M. Barnes, A. Buttigieg, S. Corman, M. Daley, K. Dawtrey, K. Dickins, D. Escobar, A. Hagan, E. Hunt, S. Mathers, P. Ladouceur, T. Pollitt, G. S,ers, K. Scherr, E. Skalski, C. Smith, J. Straub, B. Warner
+> S. Datars Bere, A. Barbon, M. Barnes, A. Buttigieg, S. Corman, M. Daley, K. Dawtrey, K. Dickins, D. Escobar, A. Hagan, E. Hunt, S. Mathers, P. Ladouceur, T. Pollitt, G. Sanders, K. Scherr, E. Skalski, C. Smith, J. Straub, B. Warner
 
 > [!abstract]- Remote Attendance:
 > E. Bennett, D. Kramers, K. Murray, M. Schulthess, R. Wilcox
@@ -1135,6 +1135,27 @@ None.
 Councillor S. Trosow enquires with respect to the status of the City of London's warming centres. The City Manager provides a response.
 
 Councillor P. Van Meerbergen enquires with respect to the impact of potential tariffs on the local manufacturing sector. Mayor Josh Morgan and the City Manager provide a response.
+
+> Motion made by S. Trosow
+
+> Seconded by A. Hopkins
+
+That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Trosow to move a motion related to the City of London's warming centres.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |A. Hopkins|Mayor J. Morgan|S. Stevenson|
+> |S. Hillier|S. Lewis||
+> |E. Peloza|P. Van Meerbergen||
+> |S. Trosow|S. Lehman||
+> |S. Franke|H. McAlister||
+> |D. Ferreira|P. Cuddy||
+> |C. Rahman|J. Pribil||
+
+> **Motion Failed (7 to 7)**
+
+****
 
 # 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 

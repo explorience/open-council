@@ -73,7 +73,7 @@ class MeetingItem:
 
   content : [Content | Paragraph | Motion]
 
-  (* Relevant attachments *)
+  (* Relevant attachments (these may be absent on some meetings when not provided, even in a place like "previous meeting minutes" when you expect them to be there) *)
   attachments : [Attachment]
 
   (* Relevant report for this subitem, if report has already been processed and is in the data.
@@ -88,7 +88,7 @@ class Attachment:
   (* YYYY-MM-DD, date of attached meeting/report *)
   date : String | null
 
-  (* Path to local file if the meeting is in data *)
+  (* Path to local file if the meeting is in data (this may occasionally be incorrect - categorizing meetings is based on heuristics from common document titles and isn't perfect) *)
   local_page : String | null
 
 class Motion:
@@ -124,3 +124,30 @@ class Content:
 class Paragraph:
   string : String
 ```
+
+## Debugging
+
+The HTML structure of meeting minutes is quite inconsistent. I have tested the scraper on 2022-August 2025 meetings, but you may run into issues if scraping older or newer meetings. When a meeting fails to parse, you will get a message like this:
+
+```
+2 meetings could not be processed:
+- 'Council' '2023-02-14'
+- 'Strategic Priorities and Policy Committee' '2023-08-16'
+```
+
+Let's debug the council meeting. First, we'll try to process that specific meeting:
+
+```
+uv run main.py 'Council' '2023-02-14'
+
+...
+
+  File "open-council/scraping/Attachment.py", line 47, in __init__
+    self.title = Path(attrs["data-original-title"]).stem
+                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'data-original-title'
+```
+
+From the error message, we can figure out what part fails to parse. Then, I just use a lot of print debugging to figure out where our assumptions of the structure are wrong. (In this case, it appears like some attachments are completely empty. In that case, I will set their empty flag to `True` so that they will be filtered out.)
+
+For HTML elements, you can print them nicely with `print(elem.prettify())`. You can skim the [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to further understand how HTML elements are represented and how they can be manipulated.

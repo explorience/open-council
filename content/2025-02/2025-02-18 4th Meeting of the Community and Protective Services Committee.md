@@ -13,7 +13,7 @@ February 18, 2025, at  1:00 PM
 > J. Pribil
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, P. Cuddy, C. Rahman, S. Cullen, R. Danter, D. Escobar, C. Green, O. Katolyk, E. Ling, D. MacRae, S. Mathers, J.P. McGonigle, N. Musicco, S. Rowl, K. Scherr, E. Skalski, C. Smith, J. Stanford, S. Steenbergen, T. Pollitt, R. Wilcox, P. Yeoman, J. Bunn
+> Deputy  S. Lewis, P. Cuddy, C. Rahman, S. Cullen, R. Danter, D. Escobar, C. Green, O. Katolyk, E. Ling, D. MacRae, S. Mathers, J.P. McGonigle, N. Musicco, S. Rowland, K. Scherr, E. Skalski, C. Smith, J. Stanford, S. Steenbergen, T. Pollitt, R. Wilcox, P. Yeoman, J. Bunn
 
 > [!abstract]- Remote Attendance:
 > E. Peloza, S. Hillier, G. Bridge, K. Dickins, J. Griffin, E. Hunt

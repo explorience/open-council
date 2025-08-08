@@ -13,7 +13,7 @@ February 11, 2025, at  1:00 PM
 > J. Pribil, S. Franke
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, J. Irel, A. Kaczmarczyk, P. Ladouceur, D. MacRae, S. Mathers, J. Paradis, T. Pollitt, M. Schulthess, E. Skalski, C. Smith, B. Warner, J. Wills, C. Wray
+> S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, J. Ireland, A. Kaczmarczyk, P. Ladouceur, D. MacRae, S. Mathers, J. Paradis, T. Pollitt, M. Schulthess, E. Skalski, C. Smith, B. Warner, J. Wills, C. Wray
 
 > [!abstract]- Remote Attendance:
 > S. Crawford, J. Griffin, E. Hunt
@@ -23,6 +23,33 @@ The meeting is called to order at 1:01 PM; it being noted that Mayor J. Morgan a
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor E. Peloza discloses a pecuniary interest in item 8, clause 4.1 of the 3rd Report of the Community and Protective Services Committee, having to do with the Bob Hayward YMCA at 1050 Hamilton Road, by indicating that a family member works for Goodlife Fitness.
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by S. Hillier
+
+That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Item 7.1 in Stage 7, Motions for Which Notice is Given, to be considered after Stage 2, Recognitions.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|J. Pribil|
+> |A. Hopkins|S. Franke|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |S. Trosow||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (13 to 0)**
+
+****
 
 # 2.&nbsp;&nbsp;&nbsp;Recognitions
 

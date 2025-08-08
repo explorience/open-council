@@ -317,6 +317,108 @@ None.
 
 [2025-07-16 Staff Report - London Emergency Services Campus](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117955>)
 
+> Moved by Mayor J. Morgan
+
+> Seconded by C. Rahman
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, the Deputy City Manager, Neighbourhood and Community-Wide Services, with the concurrence of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Housing and Community Growth, on the advice of the Director, Realty Services, and on the opinion of the Director, Planning and Development, the proposed Emergency Services Campus BE LOCATED on city-owned land at 3243 Manning Drive; it being noted that the funding for this facility is included in the capital plan in the adopted 2024-2027 Multi-Year Budget;
+
+it being noted that the Infrastructure and Corporate Services Committee received a communication and heard a verbal delegation from C. Colvin, P. Verkley and K. McLean, Ontario Federation of Agriculture and received a communication dated July 15, 2025 from C. Ivanitz, Law Clerk, Beckett Personal Injury Lawyers with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |P. Van Meerbergen|
+> |J. Pribil|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by A. Hopkins
+
+> Seconded by S. Franke
+
+That the delegation request from C. Colvin, P. Verkley and K. McLean, Ontario Federation of Agriculture BE APPROVED to be heard at this time.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |P. Van Meerbergen|
+> |J. Pribil|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by S. Franke
+
+> Seconded by J. Pribil
+
+That pursuant to section 31.6 of the Council Procedure By-law, Councillor E. Peloza BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |P. Van Meerbergen|
+> |J. Pribil|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by S. Franke
+
+> Seconded by A. Hopkins
+
+That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 1 minute with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |P. Van Meerbergen|
+> |J. Pribil|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by A. Hopkins
+
+> Seconded by J. Pribil
+
+That the Infrastructure and Corporate Services Committee convenes In Closed Session for the purpose of considering advice that is subject to solicitor-client privilege, including communications necessary for that purpose related to the London Emergency Services Campus.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |A. Hopkins|Mayor J. Morgan|
+> |J. Pribil|P. Van Meerbergen|
+> ||S. Franke|
+> ||C. Rahman|
+
+> **Motion Failed (2 to 4)**
+
+****
+
 # 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.

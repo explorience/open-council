@@ -24,8 +24,7 @@ def get_meeting_type(year):
   return [span.contents[0].strip() for span in name_spans]
 
 @functools.cache
-def get_meeting_types():
-  year = datetime.now().year
+def get_meeting_types(year=datetime.now().year):
   this_year = get_meeting_type(year)
   last_year = get_meeting_type(year-1)
   return list(set(this_year + last_year))
@@ -53,8 +52,12 @@ def meeting_date(m):
 def meeting_minutes(m):
   minutes = [link for link in m["AllCategorizedMeetingLinks"] if link["Name"] == "Minutes"]
   if len(minutes) == 0: return None
+
   minutes_package = minutes[0]["Package"]
-  return BASE_URL + [p["Url"] for p in minutes_package if p["Format"] == "HTML"][0]
+  htmlLink = [p["Url"] for p in minutes_package if p["Format"] == "HTML"]
+  if len(htmlLink) == 0: return None # no HTML minutes available (probably only PDF minutes)
+
+  return BASE_URL + htmlLink[0]
 
 # get_minutes(datetime(2025, 6, 24), meeting_type)
 def get_minutes(target_date, meeting_type):

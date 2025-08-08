@@ -10,8 +10,9 @@ if len(sys.argv) == 3:
   # special option to test all meetings from a certain year
   # mostly to test parsing with random edge cases and inconsistencies
   if sys.argv[1] == "TEST_ALL_MEETINGS":
-    for meeting_type in get_meeting_types():
-      for m in get_meetings(meeting_type, int(sys.argv[2])):
+    year = int(sys.argv[2])
+    for meeting_type in get_meeting_types(year):
+      for m in get_meetings(meeting_type, year):
         target_meetings.append({ "meeting_type": meeting_type, "date": meeting_date(m) })
 
   # process specific meeting

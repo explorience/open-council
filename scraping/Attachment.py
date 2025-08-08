@@ -41,11 +41,16 @@ class Attachment(Content):
     if not a: return
 
     attrs = a.attrs
-    self.url = f"https://pub-london.escribemeetings.com/{attrs['href']}"
+
+    # empty attachment
+    if not "data-original-title" in attrs:
+      self.empty_flag = True
+      return
 
     # remove extension (like .pdf)
     self.title = Path(attrs["data-original-title"]).stem
 
+    self.url = f"https://pub-london.escribemeetings.com/{attrs['href']}"
     meeting_type = get_meeting_type(self.title)
 
     match_str = DATE_PAT.search(self.title)

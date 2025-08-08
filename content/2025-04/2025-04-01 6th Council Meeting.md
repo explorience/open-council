@@ -10,7 +10,7 @@ April 1, 2025, at  1:00 PM
 > J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, A. Barbon, C. Cooper, S. Corman, K. Dickins, T. Fowler, M.
+> S. Datars Bere, A. Abraham, A. Barbon, C. Cooper, S. Corman, K. Dickins, T. Fowler, M. Macaulay, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, B. Warner
 
 > [!abstract]- Remote Attendance:
 > E. Bennett, S. Grady, E. Hunt, D. Kramers, K. Murray, R. Wilcox

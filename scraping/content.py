@@ -98,6 +98,8 @@ class MotionResult(Paragraph):
 
 
 BILL_TEXT = "The following Bills are enacted as By-laws of The Corporation of the City of London:"
+def bill_text_test(s):
+  return BILL_TEXT.lower() in s.lower()
 
 class Motion(Content):
   def __init__(self, agenda_item_motion, meeting):
@@ -109,7 +111,7 @@ class Motion(Content):
     self.result = MotionResult(agenda_item_motion.find(class_="MotionResult"))
     self.post_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PostMotionText"), meeting)
 
-    if len(self.post_motion_texts) >= 1 and BILL_TEXT in self.post_motion_texts[0].string:
+    if len(self.post_motion_texts) >= 1 and bill_text_test(self.post_motion_texts[0].string):
       bills_descs = []
       for paragraph in self.post_motion_texts:
         bills_descs += paragraph.string.split("\n")
@@ -179,7 +181,7 @@ class Bill(Content):
 
 class Bills(Content):
   def __init__(self, bills_descs):
-    joined_desc = "\n\n".join([p for p in bills_descs if not BILL_TEXT in p and p.strip()])
+    joined_desc = "\n\n".join([p for p in bills_descs if not bill_text_test(p) and p.strip()])
     marked_desc = BILL_PAT.sub(f"{BILL_TITLE_START}\\1{BILL_TITLE_END}", joined_desc)
     bills = [Bill(p) for p in marked_desc.split(BILL_TITLE_START)]
     self.bills = [b for b in bills if not b.is_empty()]

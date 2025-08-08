@@ -339,6 +339,46 @@ The Committee recesses at 2:47 PM and reconvenes at 2:52 PM.
 
 That it BE NOTED that the Community and Protective Services Committee received communications from Councillor S. Stevenson, dated June 1, 2025 and June 5, 2025, with respect to a Request for an Update on 2021 Reaching Home.
 
+Additional Votes:
+
+> Moved by J. Pribil
+
+> Seconded by P. Cuddy
+
+That the delegation request from C. Lazenby, Unity Project, as appended to the Added Agenda, BE APPROVED to be heard at this meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |H. McAlister|
+> |P. Cuddy|
+> |J. Pribil|
+> |S. Trosow|
+> |D. Ferreira|
+
+> **Motion Passed (5 to 0)**
+
+****
+
+> Moved by J. Pribil
+
+> Seconded by P. Cuddy
+
+That the Civic Administration BE DIRECTED to prepare an update for the August 11, 2025 meeting of the Community and Protective Services Committee regarding the status of the three 2021 Reaching Home capital projects, including the status of associated operational commitments and funding.
+
+> [!abstract]- Vote:
+> |Nays:|
+> |-|
+> |H. McAlister|
+> |P. Cuddy|
+> |J. Pribil|
+> |S. Trosow|
+> |D. Ferreira|
+
+> **Motion Failed (0 to 5)**
+
+****
+
 # 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.

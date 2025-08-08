@@ -10,7 +10,7 @@ May 20, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> S. Stevenson, E. Bennett, Acting Deputy Fire Chief G. Bridge, M. Butlin, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, Fire Chief L. Hamer, A. Hovius, J. Irel, O. Katolyk, S. Mathers, K. Scherr, E. Skalski, C. Smith, L. Switzer, J. Bunn
+> S. Stevenson, E. Bennett, Acting Deputy Fire Chief G. Bridge, M. Butlin, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, Fire Chief L. Hamer, A. Hovius, J. Ireland, O. Katolyk, S. Mathers, K. Scherr, E. Skalski, C. Smith, L. Switzer, J. Bunn
 
 > [!abstract]- Remote Attendance:
 > E. Peloza, S. Hillier, S. Datars Bere, L. Hancock, E. Hunt

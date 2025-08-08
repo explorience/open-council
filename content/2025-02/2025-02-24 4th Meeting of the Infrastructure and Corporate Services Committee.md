@@ -16,7 +16,7 @@ February 24, 2025, at  1:00 PM
 > H. McAlister, S. Datars Bere, A. Abraham, A. Barbon, K. Chambers, M. Feldberg, C. McIntosh, Y. Ou, J. Paradis, T. Pollitt, A. Rammeloo, K. Scherr, E. Skalski, B. Warner
 
 > [!abstract]- Remote Attendance:
-> Remote attendance:  S. Hillier, E. Bennett, D. Huggins, E. Hunt, S. Tatavarti
+> S. Hillier, E. Bennett, D. Huggins, E. Hunt, S. Tatavarti
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
@@ -227,6 +227,34 @@ None.
 # 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 None.
+
+> Moved by A. Hopkins
+
+> Seconded by S. Franke
+
+That the Infrastructure and Corporate Services Committee convenes In Closed session to consider the following:
+
+
+
+6.1 (ADDED) Solicitor-Client Privileged Advice 
+
+
+
+A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose and for the purpose of giving instructions to officers and employees of the City of London.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins|J. Pribil|
+> |P. Van Meerbergen||
+> |S. Franke||
+> |C. Rahman||
+
+> **Motion Passed (4 to 0)**
+
+The Infrastructure and Corporate Services Committee convenes In Closed Session from 1:06 PM to 1:31 PM.
+
+****
 
 # 7.&nbsp;&nbsp;&nbsp;Adjournment
 

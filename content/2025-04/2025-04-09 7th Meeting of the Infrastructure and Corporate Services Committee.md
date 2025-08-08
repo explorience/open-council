@@ -10,10 +10,10 @@ April 9, 2025, at  1:00 PM
 > C. Rahman, J. Pribil, A. Hopkins, P. Van Meerbergen, S. Franke
 
 > [!abstract]- Also Present:
-> S. Stevenson, S. Datars Bere, A. Abraham, V. Arora, A. Barbon, I. Collins, S. Corman, J. Dann, U. DeC,ido, J. Gillard, D. MacRae, J. McMillan, B. Nourse, K. Oudekerk, J. Paradis, L. Rafuna, A. Rammeloo, K. Scherr, E. Skalski, S. Tatavarti, B. Warner
+> S. Stevenson, S. Datars Bere, A. Abraham, V. Arora, A. Barbon, I. Collins, S. Corman, J. Dann, U. DeCandido, J. Gillard, D. MacRae, J. McMillan, B. Nourse, K. Oudekerk, J. Paradis, L. Rafuna, A. Rammeloo, K. Scherr, E. Skalski, S. Tatavarti, B. Warner
 
 > [!abstract]- Remote Attendance:
-> E. Peloza, D. Freeman, E. Hunt, , M. Schulthess
+> E. Peloza, D. Freeman, E. Hunt, M. Schulthess
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

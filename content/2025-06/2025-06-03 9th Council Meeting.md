@@ -16,7 +16,7 @@ June 3, 2025, at  1:00 PM
 > S. Datars Bere, A. Abraham, A. Barbon, M. Butlin, S. Corman, K. Dickins, M. Feldberg, T. Fowler, A. Hovius, S. Mathers, H. McNeely, J. Paradis, K. Scherr, M. Schulthess, E. Skalski, S. Sleiman, C. Smith, N. Steinburg, S. Tatavarti, B. Warner
 
 > [!abstract]- Remote Attendance:
-> S. Lewis, E. Bennett, I. Collins, C. Cooper, S. Glover, K. Gonyou, E. Hunt, J. Irel, K. Murray
+> S. Lewis, E. Bennett, I. Collins, C. Cooper, S. Glover, K. Gonyou, E. Hunt, J. Ireland, K. Murray
 
 The meeting is called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis was in remote attendance.
 

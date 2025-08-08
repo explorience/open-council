@@ -40,7 +40,7 @@ const explorer = Component.Explorer({
   }
 })
 
-const search = Component.Flex({
+const searchAndExplorer = Component.Flex({
   direction: "column",
   components: [
     {
@@ -69,7 +69,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [
     Component.ConditionalRender({
-      component: search,
+      component: searchAndExplorer,
       condition: (page) => page.fileData.slug === "index",
     })
   ],
@@ -86,11 +86,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.ConditionalRender({
-      component: search,
-      condition: (page) => page.fileData.slug !== "index"
-    }),
-    Component.ConditionalRender({
-      component: explorer,
+      component: searchAndExplorer,
       condition: (page) => page.fileData.slug !== "index"
     })
   ],
@@ -100,5 +96,5 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle(), Component.ContentMeta()],
   left: [Component.OpenCouncilHeader()],
-  right: [search]
+  right: [searchAndExplorer]
 }

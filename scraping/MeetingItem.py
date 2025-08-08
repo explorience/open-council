@@ -55,7 +55,9 @@ class MeetingItem:
         if not attachment.is_empty():
           self.attachments.append(attachment)
 
-    self.content = Content.parse_contents(agenda_item.find(class_="AgendaItemContentRow"), meeting)
+    self.content = []
+    for content_row in agenda_item.find_all(class_="AgendaItemContentRow"):
+      self.content += Content.parse_contents(content_row, meeting)
 
     # "1." -> 1, "3.4" -> 4
     number_str = agenda_item.find(class_="AgendaItemCounter").contents[0]

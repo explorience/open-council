@@ -16,7 +16,7 @@ February 3, 2025, at  1:00 PM
 > S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, R. Danter, A. Kaczmarczyk, D. MacRae, J. Paradis, T. Pollitt, A. Rozentals, K. Scherr, E. Skalski, L. Stewart, J. Wills, C Wray.
 
 > [!abstract]- Remote Attendance:
-> Remote attendance:  E. Peloza, S. Hillier, E. Hunt, B. Warner
+> E. Peloza, S. Hillier, E. Hunt, B. Warner
 
 The meeting is called to order at 1:00 PM.
 

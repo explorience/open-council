@@ -10,7 +10,7 @@ April 28, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> S. Stevenson, S. Datars Bere, A. Abraham, C. Cooper, K. Dickins, M. El Hayek, M. Espinoza, M. Feldberg, S. Glover, J. Irel, S. Mathers, E. Skalski, C. Smith, C. Worrall, J. Bunn
+> S. Stevenson, S. Datars Bere, A. Abraham, C. Cooper, K. Dickins, M. El Hayek, M. Espinoza, M. Feldberg, S. Glover, J. Ireland, S. Mathers, E. Skalski, C. Smith, C. Worrall, J. Bunn
 
 > [!abstract]- Remote Attendance:
 > Deputy  S. Lewis, C. Rahman, E. Peloza, S. Hillier, E. Bennett, M. Butlin, S. Corman, E. Hunt, T. Koza, K. Scherr, R. Wilcox

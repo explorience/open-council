@@ -10,7 +10,7 @@ July 14, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> S. Franke, S. Datars Bere, D. Baxter, M. Butlin, K. Dickins, D. Escobar, M. Espinoza, M. Feldberg, J. Irel, D. MacRae, M. Macaulay, H. McNeely, K. Murray, M. Pease, A. Pfeffer, D. Rocha, K. Scherr, P. Sh, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn
+> S. Franke, S. Datars Bere, D. Baxter, M. Butlin, K. Dickins, D. Escobar, M. Espinoza, M. Feldberg, J. Ireland, D. MacRae, M. Macaulay, H. McNeely, K. Murray, M. Pease, A. Pfeffer, D. Rocha, K. Scherr, P. Shand, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn
 
 > [!abstract]- Remote Attendance:
 > Deputy  S. Lewis, E. Peloza, J. Dann, M. Fabro, E. Hunt, N. Sader, J. Skimming, P. Yeoman

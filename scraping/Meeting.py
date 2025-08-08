@@ -1,7 +1,8 @@
+import re
 from callout import callout
-from content import Content
 from datetime import datetime
 from MeetingItem import MeetingItem
+from content import Content, Paragraph
 from bs4 import BeautifulSoup, NavigableString
 
 
@@ -10,7 +11,7 @@ class Meeting:
     # sometimes, the meeting doesn't have a title...
     # https://pub-london.escribemeetings.com/Meeting.aspx?Id=283e9a80-c195-4484-9f89-0f8f377ef14b&Agenda=PostMinutes&lang=English
     probable_title = soup.find(class_="AgendaMeetingNumberText")
-    self.title = probable_title.contents[0].strip() if len(probable_title.contents) else meeting_type
+    self.title = probable_title.contents[0].strip() if probable_title and len(probable_title.contents) else None
 
     self.datetime = self.get_time(soup.find("time"))
     self.url = url
@@ -43,11 +44,17 @@ class Meeting:
   def add_attendance(self, agenda_header_attendance_table):
     present = extra = absent = None
     also_present = remote_attendance = content = None
+    no_content = False
 
     if len(agenda_header_attendance_table.contents) == 1:
       # bruh i hate this format, why are these so inconsistent
-      stuff = agenda_header_attendance_table.contents[0].contents[1].contents[0].contents[0].contents
-      [present, also_present, content] = [elem for elem in stuff if not isinstance(elem, NavigableString)]
+      stuff = agenda_header_attendance_table.contents[0].contents[1].contents[0]
+      if stuff.name == "ul":
+        present = stuff
+        no_content = True
+      else:
+        strings = [elem for elem in stuff.contents[0].contents if not isinstance(elem, NavigableString)]
+        [present, also_present, content] = strings
     elif len(agenda_header_attendance_table.contents) == 2:
       [present, extra] = agenda_header_attendance_table.contents
     else:
@@ -59,7 +66,7 @@ class Meeting:
     self.absent = []
     if absent: self.add_absent(absent.find("ul"))
 
-    if not content:
+    if not content and not no_content:
       extra_info = [p for p in extra.find("li").find_all("p") if str(p.contents[0]).strip()]
       if len(extra_info) == 3:
         [also_present, remote_attendance, content] = extra_info
@@ -96,31 +103,34 @@ class Meeting:
      S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, C. Cooper, S. Corman, K. Dickins, D. Ennett, C. Goodall, A. Hagan, A. Hovius, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith
     </p>
     """
-    names = (self.remove_titles(s)
-      # remove annoying weird spaces
-      .replace(" ", "")
+    names = self.remove_titles(s)
 
-       # remove prefixes
-      .replace("Present: ", "")
-      .replace("Remote Attendance: ", "")
+    # remove annoying weird spaces
+    names = names.replace(" ", "")
 
-      # split on names
-      .replace("and", ",")
+    # remove prefixes
+    names = re.sub("Present: ", "", names, flags=re.IGNORECASE)
+    names = re.sub("Remote Attendance: ", "", names, flags=re.IGNORECASE)
+
+    # split on names
+    names = (names
+      .replace(" and ", ", ")
       .replace(",,", ",") # sometimes, the previous one inserts two commas
       .replace(";", ",") # handle "; " being used as separator by changing it to ", "
-      .split(", ")
+      .replace(", ", ",") # names are usually separated by ", " but sometimes by just ","
+      .split(",")
     )
     return [name.strip() for name in names]
 
   def li_to_name(self, li):
     # <li>Mayor J. Morgan,&nbsp;</li>
     # <li> and S. Hillier&nbsp;</li>
-    return self.remove_titles(li.contents[0].replace(",", "").replace("and", "").strip())
+    return self.remove_titles(li.contents[0].replace(" ", " ").replace(",", "").replace(";", "").replace(" and ", "").strip())
 
   def add_present(self, e):
     if e.name == "p":
       # <p>Present: Mayor J. Morgan, Warden B. Ropp, Deputy Warden A. DeViet, Councillors H. McAlister, J. Pribil, and C. Grantham</p>
-      self.present = self.get_names(e.contents[0])
+      self.present = self.get_names(Paragraph.get_text(e))
     else: # <ul>
       for li in e.contents:
         self.present.append(self.li_to_name(li))
@@ -130,13 +140,13 @@ class Meeting:
       self.absent.append(self.li_to_name(li))
 
   def add_also_present(self, also_present):
-    self.also_present = self.get_names(also_present.contents[0])
+    self.also_present = self.get_names(Paragraph.get_text(also_present))
 
   def add_remote_attendance(self, remote_attendance):
     # sometimes there's a span in between the <p> and the names, because why not
     if not isinstance(remote_attendance.contents[0], NavigableString):
       remote_attendance = remote_attendance.contents[0]
-    self.remote_attendance = self.get_names(remote_attendance.contents[0])
+    self.remote_attendance = self.get_names(Paragraph.get_text(remote_attendance))
 
   def add_content(self, content):
     """
@@ -150,7 +160,7 @@ class Meeting:
   def format_markdown(self):
     output = ""
     output += "---\n"
-    output += f"title: {self.title}\n"
+    output += f"title: {self.title or self.meeting_type}\n" # sometimes, there is not title. in that case, use meeting type
     output += f"date: {self.yyyy_mm_dd()}\n"
     output += "---\n"
 
@@ -180,4 +190,4 @@ class Meeting:
     return self.datetime.strftime("%Y-%m-%d")
 
   def format_title(self):
-    return f"{self.yyyy_mm_dd()} {self.title}"
+    return f"{self.yyyy_mm_dd()} {self.title or self.meeting_type}"
