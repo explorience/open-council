@@ -5,7 +5,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ChatBot({
+      title: "Ask About Council Meetings",
+      placeholder: "Ask about city council meetings...",
+      apiUrl: process.env.CHAT_API_URL || "http://localhost:3001"
+    })
+  ],
   footer: Component.Footer()
 }
 
