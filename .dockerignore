@@ -1,0 +1,14 @@
+node_modules
+.git
+.gitignore
+.quartz-cache
+public
+lancedb
+.env
+*.log
+npm-debug.log*
+.DS_Store
+README.md
+CHATBOT.md
+DEPLOYMENT.md
+docs
