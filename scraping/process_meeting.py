@@ -29,7 +29,7 @@ def process_meeting(meeting_type, target_date):
     minutes = download_data["minutes"]
     url = download_data["url"]
     soup = BeautifulSoup(minutes, "html.parser")
-    meeting = Meeting(soup, url, meeting_type)
+    meeting = Meeting(soup, url, meeting_type, fallback_date=target_date)
     markdown = meeting.format_markdown()
 
     output = Path(f"../content/{meeting.yyyy_mm()}/{meeting.format_title().replace('/', '-')}.md")

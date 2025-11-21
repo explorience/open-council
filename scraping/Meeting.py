@@ -7,13 +7,20 @@ from bs4 import BeautifulSoup, NavigableString
 
 
 class Meeting:
-  def __init__(self, soup, url, meeting_type):
+  def __init__(self, soup, url, meeting_type, fallback_date=None):
     # sometimes, the meeting doesn't have a title...
     # https://pub-london.escribemeetings.com/Meeting.aspx?Id=283e9a80-c195-4484-9f89-0f8f377ef14b&Agenda=PostMinutes&lang=English
     probable_title = soup.find(class_="AgendaMeetingNumberText")
     self.title = probable_title.contents[0].strip() if probable_title and len(probable_title.contents) else None
 
     self.datetime = self.get_time(soup.find("time"))
+
+    # For older meetings (2014-2018) that don't have a <time> element,
+    # use the fallback_date if provided
+    if self.datetime is None and fallback_date is not None:
+      # Use the fallback date with a default time of midnight
+      self.datetime = fallback_date.replace(hour=0, minute=0, second=0, microsecond=0)
+
     self.url = url
     self.meeting_type = meeting_type
     self.bills = None # some of the parsing functions may set this if bills were passed
@@ -35,8 +42,18 @@ class Meeting:
     <time datetime="2025-06-24 13:00">
       ...
     </time>
+
+    For older meetings (2014-2018), the <time> element doesn't exist.
+    In that case, we return None and handle it in the caller.
     """
-    return datetime.strptime(elt["datetime"], "%Y-%m-%d %H:%M")
+    if elt is None:
+      return None
+
+    if elt.has_attr("datetime"):
+      return datetime.strptime(elt["datetime"], "%Y-%m-%d %H:%M")
+
+    # Fallback: return None if no datetime attribute
+    return None
 
   # XXX this function is absolutely nasty, due to the number of different attendance formats
   # it also probably occasionally miscategorizes present/also present/absent/remote_attendance -
