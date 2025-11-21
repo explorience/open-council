@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.ChatBot({
       title: "Ask About Council Meetings",
       placeholder: "Ask about city council meetings...",
-      apiUrl: process.env.CHAT_API_URL || "http://localhost:3001"
+      apiUrl: "http://localhost:3001"  // Update this to your Railway URL after deployment
     })
   ],
   footer: Component.Footer()

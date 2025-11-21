@@ -14,6 +14,7 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "dev": "npx quartz build --serve",
+    "build": "npx quartz build",
     "start": "npx quartz build --serve --port 8080",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
