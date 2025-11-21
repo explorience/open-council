@@ -122,8 +122,8 @@ async function start() {
   try {
     await initializeServices();
 
-    app.listen(PORT, () => {
-      console.log(`\n🚀 RAG Chatbot API running on http://localhost:${PORT}`);
+    app.listen(PORT, '0.0.0.0', () => {
+      console.log(`\n🚀 RAG Chatbot API running on http://0.0.0.0:${PORT}`);
       console.log(`\nEndpoints:`);
       console.log(`  GET  /health          - Health check`);
       console.log(`  GET  /api/stats       - Vector store statistics`);
