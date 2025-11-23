@@ -14,7 +14,7 @@ from process_meeting import process_meeting, get_processing_stats
 from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types
 
 # Configuration
-DEFAULT_START_YEAR = 2010  # Adjust this if you want to go further back
+DEFAULT_START_YEAR = 2011  # Council minutes go back to 2011
 
 target_meetings = []
 without_minutes = []
@@ -108,14 +108,8 @@ print("\n" + "="*70)
 print("📈 BACKFILL COMPLETE")
 print("="*70)
 
-(processed_list, error_list, server_error_list) = get_processing_stats()
+(processed_list, error_list) = get_processing_stats()
 print_processing_results("✅ successfully processed", processed_list)
-print_processing_results("❌ could not be processed (parsing errors)", error_list)
-print_processing_results("⚠️  could not be processed (server errors)", server_error_list)
-
-if len(server_error_list) > 0:
-    print("\nℹ️  Note: Server errors are usually from older meetings (2016) where")
-    print("   the eScribe server returns error pages. These cannot be fixed")
-    print("   without the City of London updating their server.")
+print_processing_results("❌ could not be processed", error_list)
 
 print()

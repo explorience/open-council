@@ -50,6 +50,10 @@ def meeting_date(m):
   return datetime.strptime(m["MeetingDate"], "%B %d, %Y")
 
 def meeting_minutes(m):
+  # Some meetings don't have AllCategorizedMeetingLinks (e.g., cancelled meetings)
+  if m["AllCategorizedMeetingLinks"] is None:
+    return None
+
   minutes = [link for link in m["AllCategorizedMeetingLinks"] if link["Name"] == "Minutes"]
   if len(minutes) == 0: return None
 
