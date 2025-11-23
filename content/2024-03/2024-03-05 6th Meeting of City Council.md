@@ -1,0 +1,2034 @@
+---
+title: 6th Meeting of City Council
+date: 2024-03-05
+---
+March 5, 2024, at  1:00 PM
+
+[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f81bcfbc-a8a2-456b-ae72-14d664e542d5&Agenda=PostMinutes&lang=English)
+
+> [!abstract]- Present:
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
+
+> [!abstract]- Also Present:
+> L. Livingstone, A. Barbon, C. Cooper, S. Corman, K. Dickins, O. Katolyk, L. Marshall, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, J. Taylor, B. Warner.
+
+> [!abstract]- Remote Attendance:
+> E. Bennett, I. Collins, C. Cooper, M. Daley, E. Hunt, J. McMillan, K. Murray.
+
+The meeting is called to order at 1:04 PM; it being noted that Councillor S. Hillier was in remote attendance.
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+That it BE NOTED that Councillor S. Franke disclosed a pecuniary interest related to Council In Closed Session, the 6th Report of Council in Closed Session, and Added Bill No. 96, by indicating that her spouse is employed by the Thames Valley District School Board.
+
+# 2.&nbsp;&nbsp;&nbsp;Recognitions
+
+None.
+
+# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
+
+None.
+
+# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
+
+> Motion made by P. Cuddy
+
+> Seconded by S. Lewis
+
+That Council rise and go into Council, In Closed Session, for the purpose of considering the following:
+
+4.1 Solicitor-Client Privilege 
+
+A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose; and, a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board in connection with the property located at 39 Carfrae Street. (6.1/4/PEC)
+
+4.2 Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations 
+
+A matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality. (6.1/4/CSC)
+
+4.3 Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations 
+
+A matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality. (6.2/4/CSC)
+
+4.4 Solicitor-Client Privilege 
+
+A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose regarding the regulation of the display of graphic images. (6.1/4/CPSC)
+
+4.5 Security of Property 
+
+A matter pertaining to the security of the property of the municipality or local board. (6.1/1/AC)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+That Council convenes In Closed Session, from 1:23 PM to 2:16 PM.
+
+****
+
+## 4.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege
+
+## 4.2&nbsp;&nbsp;&nbsp;Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations
+
+## 4.3&nbsp;&nbsp;&nbsp;Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations
+
+## 4.4&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege
+
+## 4.5&nbsp;&nbsp;&nbsp;Security of Property
+
+# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
+
+> Motion made by P. Cuddy
+
+> Seconded by P. Van Meerbergen
+
+That the Minutes of the 4th Meeting of the Municipal Council, held on February 13, 2024, and 5th Special Meeting of the Municipal Council held on February 29, 2024, respectively, BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+## 5.1&nbsp;&nbsp;&nbsp;4th Meeting held on February 13, 2024
+
+[2024-02-13 - Council Minutes](</2024-02/2024-02-13 4th Meeting of City Council>)
+
+# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by D. Ferreira
+
+That the following communications BE RECEIVED, and BE REFERRED as noted on the Added Agenda:
+
+6.1    1494 Commissioners Road West (Z-9689)
+
+1. A. Drost        
+
+2. S. Rasanu, SBM Ltd.
+
+6.2    Regulation of the Display of Graphic Images
+
+1. J. Schadenberg, Executive Director, 4LifeLondon        
+
+2. A. Freedom        
+
+3. I. Freedom        
+
+4. K. Dean, Co-Founder, Viewer Discretion Legislation Coalition        
+
+5. (ADDED) B. Couto        
+
+6. (ADDED) D. Ronson, Board Director, and J. Arthur Executive Director - Abortion Rights Coalition of Canada 
+
+7. (ADDED) M. Penney        
+
+8. (ADDED) D. Ronson        
+
+9. (ADDED) P. Seale        
+
+10. (ADDED) B. Alleyne, Eastern Strategic Initiatives Director - Canadian Centre for Bio-Ethical Reform        
+
+11. (ADDED) M. McCann
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+## 6.1&nbsp;&nbsp;&nbsp;1494 Commissioners Road West (Z-9689)
+
+### 6.1.1&nbsp;&nbsp;&nbsp;A. Drost 
+
+[2024-02-13 - Submission (PEC) - 1494 Commissioners Road West (Z-9689) - A. Drost](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107506>)
+
+### 6.1.2&nbsp;&nbsp;&nbsp;S. Rasanu, SBM Ltd.
+
+[2024-03-05 - Submission (PEC) - 1494 Commissioners Rd W (Z-9689) - S. Rasanu](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107515>)
+
+## 6.2&nbsp;&nbsp;&nbsp;Regulation of the Display of Graphic Images
+
+### 6.2.1&nbsp;&nbsp;&nbsp;J. Schadenberg, Executive Director, 4LifeLondon
+
+[2024-03-05 - Submission (CPSC) - Regulation of the Display of Graphic Images - J. Schadenberg](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107507>)
+
+### 6.2.2&nbsp;&nbsp;&nbsp;A. Freedom
+
+[2024-03-05 - Submission (CPSC) - Regulation of the Display of Graphic Images - A. Freedom](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107508>)
+
+### 6.2.3&nbsp;&nbsp;&nbsp;I. Freedom
+
+[2024-03-05 - Submission (CPSC) - Regulation of the Display of Graphic Images - I. Freedom](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107509>)
+
+### 6.2.4&nbsp;&nbsp;&nbsp;K. Dean, Co-Founder, Viewer Discretion Legislation Coalition 
+
+[2024-03-05 - Submission (CPSC) - Regulation of the Display of Graphic Images - K. Dean](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107510>)
+
+### 6.2.5&nbsp;&nbsp;&nbsp;(ADDED) B. Couto
+
+[2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - B. Couto](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107538>)
+
+### 6.2.6&nbsp;&nbsp;&nbsp;(ADDED) D. Ronson, Board Director, and J. Arthur Executive Director - Abortion Rights Coalition of Canada 
+
+[2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - D. Ronson - J. Arthur](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107539>)
+
+### 6.2.7&nbsp;&nbsp;&nbsp;(ADDED) M. Penney
+
+[2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - M. Penney](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107540>)
+
+### 6.2.8&nbsp;&nbsp;&nbsp;(ADDED) D. Ronson
+
+[2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - D. Ronson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107541>)
+
+### 6.2.9&nbsp;&nbsp;&nbsp;(ADDED) P. Seale
+
+[2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - P. Seale_Redacted](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107542>)
+
+### 6.2.10&nbsp;&nbsp;&nbsp;(ADDED) B. Alleyne, Eastern Strategic Initiatives Director - Canadian Centre for Bio-Ethical Reform
+
+[2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - B. Alleyne](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107543>)
+
+### 6.2.11&nbsp;&nbsp;&nbsp;(ADDED) M. McCann
+
+[2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - M. McCann](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107544>)
+
+# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
+
+None.
+
+# 8.&nbsp;&nbsp;&nbsp;Reports
+
+## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Civic Works Committee
+
+[2024-02-21 CWC Report](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee>)
+
+> Motion made by A. Hopkins
+
+That the 4th Report of the Civic Works Committee BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+> Motion made by A. Hopkins
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#212023-drinking-water-annual-report-and-summary-report-for-the-city-of-london-drinking-water-system>) 2023 Drinking Water Annual Report and Summary Report for the City of London Drinking Water System
+
+> Motion made by A. Hopkins
+
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the staff report, dated February 21, 2024, with respect to the 2023 Drinking Water Annual Report and Summary Report for the City of London Drinking Water System BE RECEIVED. (2024-E13)
+
+> **Motion Passed**
+
+****
+
+### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#222023-ministry-of-the-environment-conservation-and-parks-inspection-of-the-city-of-londons-drinking-water-system>) 2023 Ministry of the Environment, Conservation and Parks Inspection of the City of London’s Drinking Water System
+
+> Motion made by A. Hopkins
+
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the staff report, dated February 21, 2024, with respect to the 2023 Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System BE RECEIVED. (2024-E13)
+
+> **Motion Passed**
+
+****
+
+### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#23hamilton-road-and-gore-road-intersection-improvements-environmental-assessment-project-file-report>) Hamilton Road and Gore Road Intersection Improvements Environmental Assessment Project File Report
+
+> Motion made by A. Hopkins
+
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to the Hamilton Road and Gore Road Intersection Improvements Environmental Assessment Project File Report:
+
+a)    the Hamilton Road and Gore Road Intersection Improvements Environmental Assessment Study Project File Report BE ACCEPTED;
+
+b)    a Notice of Study Completion for the Project BE FILED with the Municipal Clerk; and,
+
+c)    the Project File Report BE PLACED on the public record for a 30-day review period. (2024-T06)
+
+> **Motion Passed**
+
+****
+
+### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#24orr-municipal-drain--request-for-drain-major-improvement-and-appointment-of-consulting-engineer>) Orr Municipal Drain -Request for Drain Major Improvement and Appointment of Consulting Engineer
+
+> Motion made by A. Hopkins
+
+That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to the Orr Municipal Drain and the Request for Drain Major Improvement and Appointment of Consulting Engineer:
+
+a)    the request for a Major Improvement to the Orr Municipal Drain located in the area of Colonel Talbot Road and Southminster Bourne to benefit the drainage of 6526 Southminster Bourne, Township of Westminster, BE ACCEPTED by the Council of the Corporation of the City of London under Section 78 of the Drainage Act; and,
+
+b)    Spriet Associates London Limited BE APPOINTED the Consulting Engineer under Section 8 of the Drainage Act. (2024-E09)
+
+> **Motion Passed**
+
+****
+
+### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#25single-source---adelaide-wastewater-treatment-plant-section-1-restoration-design-and-contract-administration>) Single Source - Adelaide Wastewater Treatment Plant Section 1 Restoration Design and Contract Administration
+
+> Motion made by A. Hopkins
+
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to a Single Source for the Adelaide Wastewater Treatment Plant Section 1 Restoration Design and Contract Administration:
+
+a)    the contract for engineering design services BE AWARDED to CIMA Canada Inc., in the amount of $468,886.00 including contingency (excluding HST), as a single source award in accordance with Article 14.4.e of the Procurement of Goods and Services Policy;
+
+b)    the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;
+
+c)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations; and,
+
+d)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project. (2024-E01)
+
+> **Motion Passed**
+
+****
+
+### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#26rfp-18-34-contract-amendment---detailed-design-for-highbury-avenue-south-reconstruction>) RFP 18-34 Contract Amendment - Detailed Design for Highbury Avenue South Reconstruction
+
+> Motion made by A. Hopkins
+
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to RFP 18-34 Contract Amendment for the Detailed Design for the Highbury Avenue South Reconstruction:
+
+a)    the contract with Parsons Inc. BE INCREASED by $746,161.41 to a total agreement value of $1,567,367.91 (excluding HST) to complete additional detailed design activities for Highbury Avenue South Reconstruction including rehabilitation of the Bradley Avenue and Commissioners Road bridges, in accordance with Section 20.3 (e) of the City’s Procurement of Goods and Services Policy;
+
+b)    the financing for this assignment BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;
+
+c)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this assignment;
+
+d)    the approvals given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract with the consultant for the work; and,
+
+e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents including agreements, if required, to give effect to these recommendations. (2024-T05)
+
+> **Motion Passed**
+
+****
+
+### 8.1.8&nbsp;&nbsp;&nbsp;[(2.7)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#27ontario-transfer-payment-agreement-for-municipal-energy-plan-funding-for-detailed-cost-benefit-analysis-of-climate-emergency-action-plan-actions>) Ontario Transfer Payment Agreement for Municipal Energy Plan Funding for Detailed Cost-Benefit Analysis of Climate Emergency Action Plan Actions (Relates to Bill No. 76)
+
+> Motion made by A. Hopkins
+
+That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated February 21, 2024, BE INTRODUCED at the Municipal Council meeting on March 5, 2024, to:
+
+a)    APPROVE the Transfer Payment Agreement between The Corporation of the City of London and His Majesty the King in right of Ontario, as represented by the Minister of Energy, for the purpose of updating the energy mapping and financial models (i.e., cost-benefit analysis) in support of the Climate Emergency Action Plan;
+
+b)    AUTHORIZE the Mayor and Clerk to execute the above-noted Agreement; and,
+
+c)    AUTHORIZE the Deputy City Manager, Environment and Infrastructure, as the Duly Authorized Officer to approve reimbursement claims to be submitted to the Ontario Ministry of Energy to receive approved funding as identified in Schedule “E” of the above-noted Transfer Payment Agreement. (2024-E17)
+
+> **Motion Passed**
+
+****
+
+### 8.1.9&nbsp;&nbsp;&nbsp;[(2.8)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#28contract-amendment-rfp-19-02---recycling-collection-and-garbage-and-yard-waste-collection-in-a-portion-of-london-with-miller-waste-systems-inc>) Contract Amendment RFP 19-02 - Recycling Collection and Garbage and Yard Waste Collection in a Portion of London with Miller Waste Systems Inc.
+
+> Motion made by A. Hopkins
+
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to Contract Amendment 19-02 for Recycling Collection and Garbage and Yard Waste Collection in a Portion of London with Miller Waste Systems Inc.:
+
+a)    approval BE GIVEN to exercise the contract amendment provisions of section 20.3e of the Procurement of Goods and Services Policy for RFP 19-02 Recycling Collection Garbage and Yard Waste Collection for a cost exceeding the threshold limits outlined in section 8.5 (a)(ii) and Schedule A for collection of Green Bin materials;
+
+b)    the price submitted by Miller Waste Systems Inc., to collect Green Bin materials in addition to recycling, garbage and yard waste for an annual cost of approximately $395,000, BE ACCEPTED, noting that the net annual contract price increase is approximately $231,000 when cost reduction associated with reduced frequency of garbage collection is included;
+
+c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with the contract referenced in a) above; and,
+
+d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required to give effect to these recommendations. (2024-E07)
+
+> **Motion Passed**
+
+****
+
+### 8.1.10&nbsp;&nbsp;&nbsp;[(2.9)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#29exercise-first-contract-renewal-option-rfp-19-02---recycling-garbage-and-yard-waste-collection-in-a-portion-of-london-with-miller-waste-systems-inc>) Exercise First Contract Renewal Option RFP 19-02 - Recycling, Garbage and Yard Waste Collection in a Portion of London with Miller Waste Systems Inc.
+
+> Motion made by A. Hopkins
+
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to Exercise First Contract Renewal Option RFP 19-02 for Recycling, Garbage and Yard Waste Collection in a Portion of London with Miller Waste Systems Inc.:
+
+a)    approval BE GIVEN to exercise the contract renewal provisions of section 20.2 of the Procurement of Goods and Services Policy for the first-year renewal option of RFP 19-02 Recycling Collection, Garbage and Yard Waste Collection, as amended to include Green Bin, for a cost exceeding the threshold limits outlined in section 8.5 (a)(vi) and Schedule A of the policy noted above;
+
+b)    the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with the contract referenced above; and,
+
+c)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required to give effect to these recommendations. (2024-E07)
+
+> **Motion Passed**
+
+****
+
+### 8.1.11&nbsp;&nbsp;&nbsp;[(3.1)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#313rd-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 3rd Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> Motion made by A. Hopkins
+
+That the 3rd Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on February 7, 2024, BE RECEIVED; it being noted that a verbal delegation from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee, with respect to this matter, was received.
+
+> **Motion Passed**
+
+****
+
+### 8.1.12&nbsp;&nbsp;&nbsp;[(3.2)](</2024-02/2024-02-21 The 4th Meeting of the Civic Works Committee#32gold-seal-and-fournie-municipal-drain-improvements>) Gold Seal and Fournie Municipal Drain Improvements (Relates to Bill No. 94)
+
+> Motion made by A. Hopkins
+
+That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to the Gold Seal and Fournie Municipal Drain Improvements:
+
+a)    the drainage report, as appended to the above-noted staff report, prepared by Spriet Associates London Ltd, Consulting Engineers for the construction of the Gold Seal and Fournie Municipal Drains (2023) BE ADOPTED, it being noted the notice of the public meeting was provided in accordance with the provisions of Section 78 of the Drainage Act; and,
+
+b)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at this meeting, and BE GIVEN two readings at the March 5, 2024 Municipal Council meeting to authorize the reconstruction of the Gold Seal and Fournie Municipal Drain 2023 project; it being noted that the third reading and enactments of the by-law would occur after the holding of the Court of Revision in connection with the project;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with this matter:
+
+- H. and P. Johnson. (2024-E09)
+
+> **Motion Passed**
+
+****
+
+## 8.2&nbsp;&nbsp;&nbsp;4th Report of the Planning and Environment Committee 
+
+[2024-02-21 - PEC Report 4](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee>)
+
+> Motion made by S. Lewis
+
+That the 4th Report of the Planning and Environment Committee BE APPROVED with the exception of item 8 (3.3).
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+At 2:27 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair.
+
+At 2:29 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+****
+
+### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+> Motion made by S. Lewis
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) 2023 Annual Heritage Report 
+
+> Motion made by S. Lewis
+
+That the staff report dated February 21, 2024, entitled "2023 Annual Heritage Report" BE RECEIVED for information.  (2024-R01)
+
+> **Motion Passed**
+
+****
+
+### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) 2023 Annual Development Report 
+
+> Motion made by S. Lewis
+
+That the staff report dated February 21, 2024, entitled "2023 Annual Development Report" BE RECEIVED for information. (2024-D04)
+
+> **Motion Passed**
+
+****
+
+### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Amendments to the Downtown Community Improvement Plan Financial Incentive Program Guidelines to Introduce and Office-to Residential Conversion Grant Program (Relates to Bill No. 81)
+
+> Motion made by S. Lewis
+
+That, on the recommendation of the Director, Economic Services and Supports, with respect to updating the program guidelines for financial incentive programs permitted through the Downtown Community Improvement Plan, the proposed by-law appended to the staff report dated February 21, 2024 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024, to amend By-law C.P.-1467-175, as amended, being "A by-law to establish financial incentives for the Downtown Community Improvement Project Areas", by deleting Schedule “1” and replacing it with Schedule “1” the new Downtown Community Improvement Plan – Financial Incentive Program Guidelines;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2024-F11A)
+
+> **Motion Passed**
+
+****
+
+### 8.2.5&nbsp;&nbsp;&nbsp; [(2.4)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#24heritage-easement-agreement-for-39-carfrae-street>) Heritage Easement Agreement for 39 Carfrae Street 
+
+> Motion made by S. Lewis
+
+That, the following actions be taken with respect to the proposed updated Schedule “C” and Schedule “D” for the Heritage Easement Agreement pursuant to Section 37 of the Ontario Heritage Act for the property located at 39 Carfrae Street:
+
+a)    the proposed updated Schedule “C” and Schedule “D” appended to the staff report dated February 21, 2024 for the Heritage Easement Agreement pursuant to Section 37 of the Ontario Heritage Act for the property located at 39 Carfrae Street BE APPROVED; and,
+
+b)    the Civic Administration BE DIRECTED to work with the applicant to address outstanding concerns with the remainder of the Heritage Easement Agreement and bring back an update by the end of June 2024;
+
+it being noted that the Planning and Environment Committee received the the following communications with respect to these matters:
+
+-    a request for delegation status from J. Gard; and,
+
+-    a communication dated February 14, 2024 from J. Gard;
+
+it being further noted that the Planning and Environment Committee heard a verbal presentation from J. Gard with respect to these matters;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2024-R01)
+
+> **Motion Passed**
+
+****
+
+### 8.2.6&nbsp;&nbsp;&nbsp;[(3.1)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#311160-wharncliffe-road-south-and-234-exeter-road-oz-945039t-21507>) 1160 Wharncliffe Road South and 234 Exeter Road (OZ-9450/39T-21507) (Relates to Bills No. 82, 83, and 91)
+
+> Motion made by S. Lewis
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2793774 Ontario Inc. and Goldfield 1 Ltd., relating to the property located at 1160 Wharncliffe Road South and 234 Exeter Road:
+
+a)    the proposed by-law appended to the staff report dated February 21, 2024 as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024, to AMEND the Official Plan for the City of London, 2016, by revising Map 1 – Place Types to change the designation of a portion of the subject lands FROM a Neighbourhoods Place Type TO a Green Space Place Type;
+
+b)    the proposed by-law appended to the staff report dated February 21, 2024 as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024 to AMEND the Southwest Area Secondary Plan, forming part of the Official Plan for the City of London, 2016, by revising Schedule 4 and Schedule 10 of the Southwest Area Secondary Plan to change the designation of a portion of the subject lands FROM a Low Density Residential designation TO a Medium Density Residential designation and an Open Space and Environmental Review designations;
+
+c)    the proposed by-law appended to the staff report dated February 21, 2024 as Appendix "C" BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016) and the Southwest Area Secondary Plan as amended in parts a) and b) above, to change the zoning of the subject property FROM an Urban Reserve (UR6), an Environmental Review (ER) and a Holding Light Industrial (h-17*LI2/LI7) Zone TO a Holding Residential R1 (h*h-161*R1-3) Zone, a Holding Residential R4 (h*h100*h161*R4-4(2)), a Holding Residential R6 Special Provision (h*h-100*h161*R6-5(_)) Zone, and a Holding Residential R6 Special Provision (h*h-2*h-100*h161*R6-5(_)) Zone and an Open Space (OS4) Zone;
+
+d)    the Approval Authority BE ADVISED that no issues were raised at the public meeting with respect to the application for Plan of Subdivision for the property located at 1160 Wharncliffe Road South and 234 Exeter Road; and,
+
+e)    the Approval Authority BE ADVISED that Municipal Council supports issuing draft approval of the proposed Plan of Subdivision as submitted by 2793774 Ontario Inc. and Goldfield 1 Ltd. (File No. 39T-21507), prepared by MHBC (Project No. 17334”j”), dated November 10, 2021;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
+
+-    S. Allen, MHBC;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended Zoning By-law Amendment is consistent with the Provincial Policy Statement 2020;
+
+-    the recommended zoning conforms to the policies of The London Plan, including, but not limited to, the Neighbourhood Place Type, City Building and Design, Our Tools, and all other applicable The London Plan policies; 
+
+-    the zoning will permit development that is considered appropriate and compatible with the existing and future land uses surrounding the subject lands;
+
+-    the proposed and recommended amendments are consistent with the Provincial Policy Statement 2020, which promotes a compact form of development in strategic locations to minimize land consumption and servicing costs, provide for and accommodate an appropriate affordable and market-based range and mix of housing type and densities to meet the projected requirements of current and future residents; and,
+
+-    the proposed and recommended zoning amendments will facilitate an appropriate form of low and medium density residential development that conforms to The London Plan;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2024-D14)
+
+> **Motion Passed**
+
+****
+
+### 8.2.7&nbsp;&nbsp;&nbsp;[(3.2)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#32475-wharncliffe-road-south-z-9687>) 475 Wharncliffe Road South (Z-9687) (Relates to Bill No. 92)
+
+> Motion made by S. Lewis
+
+That, on the recommendation of the Director, Planning and Development, based on the application by Michael Clark Construction (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 475 Wharncliffe Road South, the proposed by-law appended to the staff report dated February 21, 2024 as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Restrictive Service Commercial (RSC2/RSC4) Zone TO a Restrictive Service Commercial Special Provision (RSC2/RSC4(_)) Zone;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
+
+-    J. Robertson, Strik Baldinelli Moniz Ltd.;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendment is consistent with the Provincial Policy Statement, 2020;
+
+-    the recommended amendment conforms to the policies of The London Plan, including but not limited to the Key Directions and Urban Corridor Place Type; and,
+
+-    the recommended amendment would facilitate the reuse of the existing building with a range of potential uses that is appropriate for the context of the site;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2024-D14)
+
+> **Motion Passed**
+
+****
+
+### 8.2.9&nbsp;&nbsp;&nbsp;[(3.4)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#341467-wharncliffe-road-south-oz-9680>) 1467 Wharncliffe Road South (OZ-9680) (Relates to Bills No. 84 and 93)
+
+> Motion made by S. Lewis
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Nabataeans Homes, relating to the property located at 1467 Wharncliffe Road South:
+
+a)    the proposed by-law appended to the staff report dated February 21, 2024 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to held on March 5, 2024, to amend the Southwest Area Plan (SWAP), for the City of London by CHANGING the designation of the subject lands FROM Commercial TO Medium Density Residential on Schedule 4 Southwest Area Land Use Plan, and Schedule 10 Central Longwoods Neighbourhood Land Use Designations;
+
+b)    the proposed by-law appended to the staff report dated February 21, 2024 as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016, as amended in part a) above), to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone TO a holding Residential R8 Special Provision (h-149*R8-4(_)) Zone;
+
+it being noted that no individuals spoke at the public participation meeting associated with these matters;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendments are consistent with the Provincial Policy Statement, 2020 (PPS), which encourages the regeneration of settlement areas and land use patterns within settlement areas that provide for a range of uses and opportunities for intensification and redevelopment. The PPS directs municipalities to permit all forms of housing required to meet the needs of all residents, present and future;
+
+-    the recommended amendments conform to The London Plan, including but not limited to the Key Directions, City Design and Building policies, and the Shopping Area Place Type policies;
+
+-    the recommended amendments conform to the Southwest Area Secondary Plan, including but not limited to the Central Longwoods Neighbourhood policies; and,
+
+-    the recommended amendments would permit an appropriate form of development at an intensity that is appropriate for the site and surrounding neighbourhood;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2024-D14)
+
+> **Motion Passed**
+
+****
+
+### 8.2.10&nbsp;&nbsp;&nbsp;[(3.5)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#35gloucester-deferred-trail-segment--medway-valley-heritage-forest-south-conservation-master-plan>) Gloucester Deferred Trail Segment – Medway Valley Heritage Forest (South) Conservation Master Plan
+
+> Motion made by S. Lewis
+
+That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Gloucester Deferred Trail Segment of the Medway Valley Heritage Forest (South) Conservation Master Plan:
+
+a)    the portion of the pathway and trail system from Gloucester Road (Access 12) to its connection with the pathway in the valley shown on “Appendix A” of the Medway Valley Heritage Environmentally Significant Area (South) Conservation Master Plan BE APPROVED as a Level 2 Trail;
+
+b)    Parks and Forestry BE DIRECTED to consult on the need to establish public access through the City owned Green Acres Drive unopened highway road allowance through to Ambleside Park and report back to the appropriate Standing Committee; and,
+
+c)    the Medway Valley Conservation Master Plan Gloucester Deferred Trail segment item BE REMOVED from the Planning and Environment Committee Deferred Matters list;
+
+it being noted that the Planning and Environment Committee received the following communications with respect to these matters:
+
+-    a communication dated February 15, 2024, from J. Madden; and,
+
+-    a communication from J. Menard;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    G. Sinker;
+
+-    S. Pacifico;
+
+-    A. Vanstone; and,
+
+-    J. Madden;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2024-R01)
+
+> **Motion Passed**
+
+****
+
+### 8.2.11&nbsp;&nbsp;&nbsp;[(5.1)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#51added-2nd-report-of-the-community-advisory-committee-on-planning>) 2nd Report of the Community Advisory Committee on Planning 
+
+> Motion made by S. Lewis
+
+That the 2nd Report of the Community Advisory Committee on Planning, from its meeting held on February 14, 2024 BE RECEIVED for information.
+
+> **Motion Passed**
+
+****
+
+### 8.2.12&nbsp;&nbsp;&nbsp;[(5.2)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#52added-deferred-matters-list>) Deferred Matters List 
+
+> Motion made by S. Lewis
+
+That the Planning and Environment Committee Deferred Matters List dated February 20, 2024 BE RECEIVED for information.
+
+> **Motion Passed**
+
+****
+
+### 8.2.8&nbsp;&nbsp;&nbsp;[(3.3)](</2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee#331494-commissioners-road-west-z-9689>) 1494 Commissioners Road West (Z-9689)
+
+> Motion made by S. Franke
+
+That, based on the application by David Moubarak (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 1494 Commissioners Road West, the request to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone and Open Space (OS5) Zone BE REFUSED for the following reason:
+
+i)    this application does not comply with the Environmental Management Guidelines;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    S. Rasanu, Strik Baldinelli Moniz Ltd.;
+
+-    S. Mirsattari;
+
+-    R. Rybansky;
+
+-    V. Hopkins;
+
+-    M. Parezanovic;
+
+-    B. McDowell;
+
+-    M. Harnadek;
+
+-    J. Goldhawk;
+
+-    Victoria;
+
+-    Ghasaq;
+
+-    F. Fernandez;
+
+-    Emma;
+
+-    S. Comiskey; and,
+
+-    T. Heath;
+
+it being further noted that the Municipal Council refuses this application for the following reasons:
+
+-    this application does not comply with the Environmental Management Guidelines; and,
+
+-    the requested Special Provision does not provide sufficient space within the interior side yard to accommodate adequate screening, protection from boundary trees and privacy to the abutting properties;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters. (2024-D14)
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |A. Hopkins|Mayor J. Morgan|
+> |S. Hillier|S. Lewis|
+> |E. Peloza|P. Van Meerbergen|
+> |H. McAlister|S. Lehman|
+> |S. Trosow|P. Cuddy|
+> |S. Franke|S. Stevenson|
+> |D. Ferreira|J. Pribil|
+> |C. Rahman||
+
+> **Motion Passed (8 to 7)**
+
+****
+
+## 8.3&nbsp;&nbsp;&nbsp;4th Report of the Corporate Services Committee 
+
+[2024-02-26 CSC Report 4](</2024-02/2024-02-26 4th Meeting of the Corporate Services Committee>)
+
+> Motion made by H. McAlister
+
+That the 4th Report of the Corporate Services Committee BE APPROVED with the exception of item 4 (2.3).
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+> Motion made by H. McAlister
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2024-02/2024-02-26 4th Meeting of the Corporate Services Committee#21respectful-workplace-policy-2024-update>) Respectful Workplace Policy 2024 Update (Relates to Bill No. 80)
+
+> Motion made by H. McAlister
+
+That, on the recommendation of the Deputy City Manager, Enterprise Supports, and concurrence of the City Manager, the following actions be taken:
+
+a)    the Respectful Workplace Policy 2024 Update Report from the Deputy City Manager, Enterprise Supports BE RECEIVED;
+
+b)    the proposed by-law, as appended to the staff report dated February 26, 2024 as Appendix “A”, being a by-law to repeal Council Policy By-law CPOL.-396-7, being “Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination)” and replace it with the updated Council Policy entitled “Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination)”, BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024; and
+
+c)    the Civic Administration BE DIRECTED to review and update all policies and websites that refer to the Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination).
+
+> **Motion Passed**
+
+****
+
+### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2024-02/2024-02-26 4th Meeting of the Corporate Services Committee#22ss-2024-072-single-source-mobility-contract>) SS-2024-072 Single Source Mobility Contract (Relates to Bill No. 77)
+
+> Motion made by H. McAlister
+
+That on the recommendation of the Deputy City Manager, Enterprise Supports the following actions be taken, with respect to Mobile Devices and Services:
+
+
+
+a)    approval hereby BE GIVEN to approve an extension to the Master Agreement Adoption Agreement between The Corporation of the City of London and Rogers Communications Canada Inc. (“Rogers”) to March 31, 2025; it being noted that the Master Agreement Adoption Agreement was a single source procurement approved pursuant to s. 14.4(g) of the Procurement of Goods and Services policy; 
+
+
+
+b)    the proposed by-law as appended to the staff report dated February 26, 2024 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024:
+
+
+
+i)    the Deputy City Manager, Enterprise Supports BE AUTHORIZED to approve an amending agreement to extend the Master Agreement Adoption Agreement between The Corporation of the City of London and Rogers from February 1, 2024 to July 31, 2024;
+
+
+
+ii)    the Deputy City Manager, Enterprise Supports BE AUTHORIZED to approve an amending agreement to extend the Master Agreement Adoption Agreement between The Corporation of the City of London and Rogers from August 1, 2024 to March 31, 2025, conditional on the Ontario Master Agreement between His Majesty the King in right of Ontario and Rogers being extended to March 31, 2025 or beyond March 31, 2025;
+
+
+
+iii)    the Mayor and City Clerk BE AUTHORIZED to execute the amending agreements to the Master Agreement Adoption Agreement;
+
+
+
+c)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this matter; 
+
+
+
+d)    approval hereby given BE CONDITIONAL upon the Corporation negotiating the maintaining of satisfactory prices, terms and conditions with Rogers Canada Co. to the satisfaction of the Director, Information Technology Services; and
+
+
+
+e)    approval hereby given BE CONDITIONAL upon the Corporation entering a formal contract, agreement or having a purchase order relating to the subject matter of this approval.
+
+> **Motion Passed**
+
+****
+
+### 8.3.5&nbsp;&nbsp;&nbsp;[(4.1)](</2024-02/2024-02-26 4th Meeting of the Corporate Services Committee#41application---issuance-of-proclamation---un-day-for-the-elimination-of-racial-discrimination>) Application - Issuance of Proclamation - U.N. day for the Elimination of Racial Discrimination
+
+> Motion made by H. McAlister
+
+That based on the application dated February 8, 2024 from the London & Middlesex Local Immigration Partnership, March 21, 2024 BE PROCLAIMED as U.N. Day for the Elimination of Racial Discrimination.
+
+> **Motion Passed**
+
+****
+
+### 8.3.6&nbsp;&nbsp;&nbsp;[(4.2)](</2024-02/2024-02-26 4th Meeting of the Corporate Services Committee#42application---issuance-of-proclamation---national-hunting-trapping-and-fishing-day>) Application - Issuance of Proclamation - National Hunting, Trapping and Fishing Day
+
+> Motion made by H. McAlister
+
+That based on the application dated January 22, 2024 from the Ontario Federation of Anglers and Hunters OFAH, September 21, 2024 BE PROCLAIMED as National Hunting, Trapping and Fishing Day.
+
+> **Motion Passed**
+
+****
+
+### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2024-02/2024-02-26 4th Meeting of the Corporate Services Committee#232024-tax-policy-expectations>) 2024 Tax Policy Expectations
+
+> Motion made by P. Cuddy
+
+That the following actions be taken with respect to the 2024 Tax Policy Expectations:
+
+a) the Civic Administration BE DIRECTED to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legislative changes set out in the 2024-2027 Multi-Year Budget; and
+
+b) on the recommendation of the Deputy City Manager, Finance Supports, the staff report dated February 26, 2024 BE RECEIVED for information.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |A. Hopkins|Mayor J. Morgan|
+> |S. Lewis|P. Cuddy|
+> |S. Hillier|S. Stevenson|
+> |E. Peloza|J. Pribil|
+> |P. Van Meerbergen|S. Trosow|
+> |S. Lehman|C. Rahman|
+> |H. McAlister||
+> |S. Franke||
+> |D. Ferreira||
+
+> **Motion Passed (9 to 6)**
+
+At 3:03 PM, Councillor S. Franke leaves the meeting.
+
+At 3:05 PM, Councillor S. Franke enters the meeting.
+
+At 3:10 PM, Councillor P. Van Meerbergen leaves the meeting.
+
+At 3:13 PM, Councillor P. Van Meerbergen enters the meeting.
+
+At 3:29 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair.
+
+At 3:31 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+At 3:41 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair.
+
+At 3:45 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+ADDITIONAL VOTES:
+
+****
+
+> Motion made by S. Trosow
+
+> Seconded by H. McAlister
+
+That the following actions be taken with respect to the 2024 Tax Policy Expectations:
+
+a) that the direction to Civic Administration to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legislative changes set out in the 2024-2027 Multi-Year Budget BE REFERRED to the March 25th meeting of the Corporate Services Committee for further consideration;
+
+b) on the recommendation of the Deputy City Manager, Finance Supports, the staff report dated February 26, 2024 BE RECEIVED for information.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |A. Hopkins|Mayor J. Morgan|
+> |H. McAlister|S. Lewis|
+> |S. Trosow|S. Hillier|
+> ||E. Peloza|
+> ||P. Van Meerbergen|
+> ||S. Lehman|
+> ||P. Cuddy|
+> ||S. Stevenson|
+> ||J. Pribil|
+> ||S. Franke|
+> ||D. Ferreira|
+> ||C. Rahman|
+
+> **Motion Failed (3 to 12)**
+
+****
+
+> Motion made by A. Hopkins
+
+> Seconded by S. Franke
+
+That Council recess at this time for 15 minutes.
+
+> **Motion Passed**
+
+The Council recesses at 3:47 PM and reconvenes at 4:04 PM.
+
+****
+
+## 8.4&nbsp;&nbsp;&nbsp;4th Report of the Community and Protectives Services Committee
+
+[2024-02-20 CPSC Report - Full](</2024-02/2024-02-20 The 4th Meeting of the Community and Protective Services Committee>)
+
+> Motion made by E. Peloza
+
+That the 4th Report of the Community and Protectives Services Committee BE APPROVED with the exception of item 4 (4.1)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+> Motion made by E. Peloza
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2024-02/2024-02-20 The 4th Meeting of the Community and Protective Services Committee#212nd-report-of-the-animal-welfare-community-advisory-committee>) 2nd Report of the Animal Welfare Community Advisory Committee 
+
+> Motion made by E. Peloza
+
+That the following actions be taken with respect to the 2nd Report of the Animal Welfare Community Advisory Committee, from the meeting held on February 1, 2024:
+
+a)    any discussion of the coexistence strategies for Canada Geese and ducks BE FORWARDED to the Co-Existence with Geese Animal Welfare Community Advisory Committee Sub-Committee for consideration; it being noted that P. Yeoman, Director, Parks and Forestry will provide an update in the spring, 2024;
+
+b)    a representative from Corporate Communications BE INVITED to the March 6, 2024 Animal Welfare Community Advisory Committee meeting to provide an outline of the proposed images for the bird friendly glass and light applications display for public education and awareness; and,
+
+c)    clauses 1.1, 1.2, 3.1 and 5.3 BE RECEIVED.
+
+> **Motion Passed**
+
+****
+
+### 8.4.3&nbsp;&nbsp;&nbsp;[(3.1)](</2024-02/2024-02-20 The 4th Meeting of the Community and Protective Services Committee#31housekeeping-amendments---yard-and-lot-maintenance-by-law---administrative-monetary-penalty-system-by-law>) Housekeeping Amendments - Yard and Lot Maintenance By-Law - Administrative Monetary Penalty Systems By-Law (Relates to Bills No. 78, 79, and 85)
+
+> Motion made by E. Peloza
+
+That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated February 20, 2024, related to the Yard and Lot Maintenance By-law and Administrative Monetary Penalty System By-law:
+
+a)    the revised attached by-law BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024, being “a By-law to require the owner or occupant of land to clean and clear the land, or to clear refuse from the land, not including buildings” to repeal and replace the City’s existing Yard and Lot Maintenance By-law No. P.W.-9;
+
+b)    the revised attached by-law BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2024, to amend By-law No. A-54, being “A by-law to implement an Administrative Monetary Penalty System in London” to increase the penalty amounts in Schedule A-4 pertaining to the Yard and Lot Maintenance By-law; and,
+
+c)     the revised attached by-law BE INTRODUCED at the Municipal Council Meeting to be held on March 5, 2024, to repeal Council Policy CPOL. -172-424, regarding Naturalized Areas and Wildflower Meadows. (2024-C01)
+
+> **Motion Passed**
+
+****
+
+### 8.4.5&nbsp;&nbsp;&nbsp;[(5.1)](</2024-02/2024-02-20 The 4th Meeting of the Community and Protective Services Committee#51added-councillor-e-peloza---rescheduling-of-community-and-protective-services-committee-meeting---april-8-2024>) Rescheduling of Community and Protective Services Committee Meeting - April 8, 2024
+
+> Motion made by E. Peloza
+
+That the Community and Protective Services Committee meeting scheduled for April 8, 2024 at 1:00 PM BE RESCHEDULED to commence at 10:00 AM on April 8, 2024. (2024-C04)
+
+> **Motion Passed**
+
+****
+
+### 8.4.4&nbsp;&nbsp;&nbsp;[(4.1)](</2024-02/2024-02-20 The 4th Meeting of the Community and Protective Services Committee#41regulation-of-the-display-of-graphic-images>) Regulation of the Display of Graphic Images 
+
+> Motion made by E. Peloza
+
+That the staff report, dated February 20, 2024, BE REFERRED back to the Civic Administration and the Civic Administration BE DIRECTED to bring forward a draft by-law with respect to the Regulation of the Display of Graphic Images to a future meeting of the Community and Protective Services Committee for consideration by the end of Q2 2024;
+
+it being noted that the communications, as appended to the Added Agenda, from J. Gunnarson, A. Polizogopoulos, A. Honner, M. McCann and J. Jeffs, with respect to this matter, were received. (2024-C01)
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Hillier|
+> |A. Hopkins|P. Van Meerbergen|
+> |S. Lewis|S. Lehman|
+> |E. Peloza|P. Cuddy|
+> |H. McAlister|S. Stevenson|
+> |S. Trosow|J. Pribil|
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (9 to 6)**
+
+****
+
+## 8.5&nbsp;&nbsp;&nbsp;1st Report of the Audit Committee
+
+[2024-02-14 Audit Report 1](</2024-02/2024-02-14 Audit Committee>)
+
+> Motion made by E. Peloza
+
+That the 1st Report of the Audit Committee BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+### 8.5.1&nbsp;&nbsp;&nbsp;[(1.1)](</2024-02/2024-02-14 Audit Committee#11disclosures-of-pecuniary-interest>) Disclosures of Pecuniary Interest
+
+> Motion made by E. Peloza
+
+That is BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.5.2&nbsp;&nbsp;&nbsp;[(1.2)](</2024-02/2024-02-14 Audit Committee#12election-of-vice-chair-for-the-term-ending-november-30-2024>) Election of Vice Chair for the term ending November 30, 2024
+
+> Motion made by E. Peloza
+
+That Councillor S. Stevenson BE APPOINTED as Vice Chair for the term ending November 30, 2024.
+
+> **Motion Passed**
+
+****
+
+### 8.5.3&nbsp;&nbsp;&nbsp;[(4.1)](</2024-02/2024-02-14 Audit Committee#41briefing-note-from-internal-audit---mnp>) Briefing Note From Internal Audit - MNP
+
+> Motion made by E. Peloza
+
+That the communication from MNP, with respect to the briefing note from the internal auditor, BE RECEIVED.
+
+> **Motion Passed**
+
+****
+
+### 8.5.4&nbsp;&nbsp;&nbsp;[(4.2)](</2024-02/2024-02-14 Audit Committee#42internal-audit-follow-up-activities-dashboard---mnp>) Internal Audit Follow Up Activities Dashboard - MNP
+
+> Motion made by E. Peloza
+
+That the communication from MNP, with respect to the internal audit follow up activities update dashboard, BE RECEIVED.
+
+> **Motion Passed**
+
+****
+
+### 8.5.5&nbsp;&nbsp;&nbsp;[(4.3)](</2024-02/2024-02-14 Audit Committee#43downtown-closed-circuit-television-program---kpmg>) Downtown Closed Circuit Television Program - KPMG
+
+> Motion made by E. Peloza
+
+That the KPMG Report on Specified Auditing Procedures for the London Downtown Closed Circuit Television Program, for the year ending December 31, 2023, BE RECEIVED.
+
+> **Motion Passed**
+
+****
+
+### 8.5.6&nbsp;&nbsp;&nbsp;[(4.4)](</2024-02/2024-02-14 Audit Committee#44audit-planning-report---kpmg>) Audit Planning Report - KPMG
+
+> Motion made by E. Peloza
+
+That the KPMG LLP Audit Planning Report, for the year ending December 31, 2023, BE APPROVED.
+
+> **Motion Passed**
+
+****
+
+## 8.6&nbsp;&nbsp;&nbsp;5th Special Report of the Corporate Services Committee
+
+[2024-03-04 CSC Report 5](</2024-03/2024-03-04 5th Special Meeting of the Corporate Services Committee>)
+
+> Motion made by H. McAlister
+
+That the 5th Report of the Corporate Services Committee BE APPROVED with the exception of item 4 (2.3)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+### 8.6.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+> Motion made by H. McAlister
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.6.2&nbsp;&nbsp;&nbsp;[(2.1)](</2024-03/2024-03-04 5th Special Meeting of the Corporate Services Committee#21public-sector-salary-disclosure-act-report-for-calendar-year-2023>) Public Sector Salary Disclosure Act Report for Calendar Year 2023
+
+> Motion made by H. McAlister
+
+That, on the recommendation of the Deputy City Manager, Finance Supports the report regarding the Public Sector Salary Disclosures Act, 1996, Report for Calendar Year 2023 BE RECEIVED for information.
+
+> **Motion Passed**
+
+****
+
+### 8.6.3&nbsp;&nbsp;&nbsp;[(2.2)](</2024-03/2024-03-04 5th Special Meeting of the Corporate Services Committee#222023-statement-of-remuneration-and-expenses-for-elected-and-appointed-officials>) 2023 Statement of Remuneration and Expenses for Elected and Appointed Officials
+
+> Motion made by H. McAlister
+
+That, on the recommendation of the Deputy City Manager, Finance Supports the following actions be taken:
+
+a)    in accordance with Section 284 of the Municipal Act, 2001, the Statements of Remuneration and Expenses for Elected and Appointed Officials, as appointed to the staff report dated March 4, 2024 as Appendix “A” and Appendix “B”, BE RECEIVED for information;
+
+b)    in accordance with City Council resolution of March 2012, the annual report on the Mayor’s Office’s expenditures BE RECEIVED for information; and
+
+c)    in accordance with City Council Travel and Business Expenses Policy, the Statement of Travel Expenses for Senior Administration Officials, as appended to the staff report dated March 4, 2024 as Appendix “C” and “D”, BE RECEIVED for information.
+
+> **Motion Passed**
+
+****
+
+### 8.6.4&nbsp;&nbsp;&nbsp;[(2.3)](</2024-03/2024-03-04 5th Special Meeting of the Corporate Services Committee#23added-government-relations-consulting-assignment>) Government Relations Consulting Assignment
+
+> Motion made by H. McAlister
+
+That, on the recommendation of the City Manager, in accordance with section 15.1 (c) of the Procurement of Goods and Services Policy, that Coriano Capital BE APPROVED to continue to provide consulting services for government relations, strategic advisory services, and advocacy in addressing local issues and advancing the city’s interests at the federal, provincial, and local levels for a further two (2) months, which will extend their initial engagement till July 15, 2024.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|C. Rahman|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+
+> **Motion Passed (14 to 1)**
+
+****
+
+## 8.7&nbsp;&nbsp;&nbsp;6th Special Report of the Strategic Priorities and Policy Committee
+
+[2024-03-05 SPPC Report 6](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107546>)
+
+> Motion made by S. Lewis
+
+That the 6th Report of the Special Strategic Priorities and Policy Committee BE APPROVED with the exception of item 2 (2.1).
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+### 8.7.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+> Motion made by S. Lewis
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.7.2&nbsp;&nbsp;&nbsp;(2.1) Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion made by S. Lewis
+
+That, on the recommendation of the Deputy City Manager, Social and Health Development, that the following actions be taken with respect to the Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners report:
+
+
+
+a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in space and security services, as per the Corporation of the City of London Procurement Policy Section 20.3 e); 
+
+
+
+b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day and overnight drop in space, as per the Corporation of the City of London Procurement Policy Section 20.3 e); 
+
+
+
+c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in connection with the contracts noted in a) and b); and 
+
+
+
+d)    approval given herein BE CONDITIONAL upon the Corporation of the City of London amending existing Purchase of Service Agreements with agencies outlined in Schedule 1, as appended to the staff report dated March 5, 2024;
+
+
+
+it being noted that the Strategic Priorities and Policy Committee received a communication dated March 3, 2024 from C. Watson, W. Thomas, D. Brown, Coordinators, Midtown Community Organization with respect to this matter.
+
+ADDITIONAL VOTES:
+
+****
+
+> Motion made by S. Lewis
+
+Motion to approve part a) to read as follows:
+
+a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in space and security services, as per the Corporation of the City of London Procurement Policy Section 20.3 e);
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Lewis|
+> |A. Hopkins||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+Motion to approve part b) to read as follows:
+
+b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day and overnight drop in space, as per the Corporation of the City of London Procurement Policy Section 20.3 e);
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|S. Stevenson|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+Motion to approve parts c) and d):
+
+c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in connection with the contracts noted in a) and b); and
+
+d)    approval given herein BE CONDITIONAL upon the Corporation of the City of London amending existing Purchase of Service Agreements with agencies outlined in Schedule 1, as appended to the staff report dated March 5, 2024
+
+it being noted that the Strategic Priorities and Policy Committee received a communication dated March 3, 2024 from C. Watson, W. Thomas, D. Brown, Coordinators, Midtown Community Organization with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+# 9.&nbsp;&nbsp;&nbsp;Added Reports
+
+## 9.1&nbsp;&nbsp;&nbsp;6th Report of Council in Closed Session
+
+> Motion made by S. Lehman
+
+That clause 1 of the 6th Report of the Council, In Closed Session, read as follows:
+
+1. Property Acquisition – 1040 Hamilton Road – Former Fairmont Public School
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Deputy City Manager, Planning and Economic Development, on the advice of the Director, Realty Services, with respect to the surplus school site property owned by the Thames Valley District School Board (TVDSB), located at 1040 Hamilton Road, legally described as Part Lot 28, Plan 285, Part Block J, Plan 790 and Part South 1/2 Lot 7, Concession B, as in 142904, 210687, 196909, 373063; except 74630, 210856, 142905; S/T 77819, 78336, in the City of London, County of Middlesex, being PIN 08121-0023 (LT) (the “Property”), as shown on the location map attached as Appendix “B”, the following actions be taken:
+
+a) the Agreement of Purchase and Sale, attached as Appendix “C”, submitted by Thames Valley District School Board (the “Vendor”), to sell the subject property to the City, for the sum of $5,960,000.00 BE ACCEPTED, subject to the terms and conditions set out in the agreement; and
+
+b) the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|
+> |-|-|
+> |Mayor J. Morgan|S. Franke|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 0)**
+
+****
+
+That clause 2 of the 6th Report of the Council, In Closed Session, read as follows:
+
+2. Settlement Agreement – 850 – 870 Wellington Road – Wellington Gateway Project
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the property located at 850-870 Wellington Road, further described as Part Lot 25, Concession 2, in the City of London, being part of PIN 08493-0003, as shown on the location map attached as Appendix “B”, for the purpose of future road improvements to accommodate the Wellington Gateway Project, the following actions be taken:
+
+a) the Settlement Agreement from Claurah Holdings Limited to settle the outstanding expropriation compensation to the property owner for the total sum of $13,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b) the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 1)**
+
+That progress was made with respect to items 4.1, 4.4, and 4.5, as noted on the public agenda (6.1/4/PEC), (6.1/4/CPSC), and (6.1/1/AC).
+
+****
+
+# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
+
+None.
+
+# 11.&nbsp;&nbsp;&nbsp;Enquiries
+
+None.
+
+# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
+
+> Motion made by S. Lehman
+
+> Seconded by P. Cuddy
+
+That pursuant to section 13.2 of the Council Procedure by-law, the Council decision with respect to item 4 (2.3) of the 4th Report of the Corporate Services Committee with respect to 2024 Tax Policy Expectations BE RECONSIDERED to provide an alternate direction for Civic Administration.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|E. Peloza|
+> |A. Hopkins|H. McAlister|
+> |S. Lewis|S. Franke|
+> |S. Hillier|D. Ferreira|
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |C. Rahman||
+
+> **Motion Passed (11 to 4)**
+
+ADDITIONAL VOTES:
+
+****
+
+> Motion made by P. Cuddy
+
+That the following actions be taken with respect to the 2024 Tax Policy Expectations:
+
+a) the Civic Administration BE DIRECTED to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legislative changes set out in the 2024-2027 Multi-Year Budget; and
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |A. Hopkins|Mayor J. Morgan|
+> |S. Lewis|P. Van Meerbergen|
+> |S. Hillier|S. Lehman|
+> |E. Peloza|P. Cuddy|
+> |H. McAlister|S. Stevenson|
+> |S. Franke|J. Pribil|
+> |D. Ferreira|S. Trosow|
+> ||C. Rahman|
+
+> **Motion Failed (7 to 8)**
+
+****
+
+> Motion made by P. Cuddy
+
+That the following actions be taken with respect to the 2024 Tax Policy Expectations:
+
+b) on the recommendation of the Deputy City Manager, Finance Supports, the staff report dated February 26, 2024 BE RECEIVED for information.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|P. Cuddy|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 1)**
+
+Item 4, clause 2.3, reads as follows:
+
+That on the recommendation of the Deputy City Manager, Finance Supports, the staff report dated February 26, 2024, with respect to the 2024 Tax Policy Expectations, BE RECEIVED for information.
+
+****
+
+# 13.&nbsp;&nbsp;&nbsp;By-laws
+
+> Motion made by A. Hopkins
+
+> Seconded by S. Lewis
+
+That Introduction and First Reading of Bill No 74 to Bill No 94, and excluding Bill No’s 89 and 90 and BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by S. Franke
+
+That Second Reading of Bill No 74 to Bill No 94, and excluding Bill No’s 89, and 90 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+> Motion made by C. Rahman
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment Bill No 74 to 93, and excluding Bill No’s 89, 90, and 94 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+> Motion made by A. Hopkins
+
+> Seconded by S. Franke
+
+That Introduction and First Reading of Bill No.’s 89, 90, and Added Bill No. 95, BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Stevenson|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (13 to 2)**
+
+****
+
+> Motion made by S. Lehman
+
+> Seconded by D. Ferreira
+
+That Second Reading of Bill No.’s 89, 90, and Added Bill No. 95, BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Stevenson|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (13 to 2)**
+
+****
+
+> Motion made by P. Cuddy
+
+> Seconded by S. Franke
+
+That Third Reading and Enactment of Bill No.’s 89, 90, and Added Bill No. 95 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Stevenson|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (13 to 2)**
+
+****
+
+> Motion made by H. McAlister
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 96 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Recuse:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|S. Franke|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (13 to 1)**
+
+****
+
+> Motion made by H. McAlister
+
+> Seconded by S. Lewis
+
+That Second Reading of Bill No. 96 BE APPROVED
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Recuse:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|S. Franke|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (13 to 1)**
+
+****
+
+> Motion made by D. Ferreira
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment Bill No. 96 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|
+> |-|-|
+> |Mayor J. Morgan|S. Franke|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 0)**
+
+****
+
+## 13.1&nbsp;&nbsp;&nbsp;Bill No. 74 By-law No. A.-_____-____
+
+[Bill No. 74](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107516>)
+
+## 13.2&nbsp;&nbsp;&nbsp;Bill No. 75 By-law No. A.-_____-____
+
+[Bill No. 75](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107517>)
+
+## 13.3&nbsp;&nbsp;&nbsp;Bill No. 76 By-law No. A.-_____-____
+
+[Bill No. 76](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107518>)
+
+## 13.4&nbsp;&nbsp;&nbsp;Bill No. 77 By-law No. A.-_____-____
+
+[Bill No. 77](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107519>)
+
+## 13.5&nbsp;&nbsp;&nbsp;Bill No. 78 By-law No. A.-_____-____
+
+[Bill No. 78](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107520>)
+
+## 13.6&nbsp;&nbsp;&nbsp;Bill No. 79 By-law No. A-54-24____
+
+[Bill No. 79](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107521>)
+
+## 13.7&nbsp;&nbsp;&nbsp;Bill No. 80 By-law No. CPOL.-____-____
+
+[Bill No. 80](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107522>)
+
+## 13.8&nbsp;&nbsp;&nbsp;Bill No. 81 By-law No. C.P.-1467(_)-___
+
+[Bill No. 81](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107523>)
+
+## 13.9&nbsp;&nbsp;&nbsp;Bill No. 82 By-law No. C.P.-1512(_)-___
+
+[Bill No. 82](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107524>)
+
+## 13.10&nbsp;&nbsp;&nbsp;Bill No. 83 By-law No. C.P.-1512(_)-___
+
+[Bill No. 83](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107525>)
+
+## 13.11&nbsp;&nbsp;&nbsp;Bill No. 84 By-law No. C.P.-1512(_)-___
+
+[Bill No. 84](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107526>)
+
+## 13.12&nbsp;&nbsp;&nbsp;Bill No. 85 By-law No. PW-___
+
+[Bill No. 85](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107527>)
+
+## 13.13&nbsp;&nbsp;&nbsp;Bill No. 86 By-law No. S.-_____-____
+
+[Bill No. 86](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107528>)
+
+## 13.14&nbsp;&nbsp;&nbsp;Bill No. 87 By-law No. S.-_____-____
+
+[Bill No. 87](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107529>)
+
+## 13.15&nbsp;&nbsp;&nbsp;Bill No. 88 By-law No. S.-_____-____
+
+[Bill No. 88](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107530>)
+
+## 13.16&nbsp;&nbsp;&nbsp;Bill No. 89 By-law No. W.-5683(_)-___
+
+[Bill No. 89](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107531>)
+
+## 13.17&nbsp;&nbsp;&nbsp;Bill No. 90 By-law No. W.-_____-____
+
+[Bill No. 90](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107532>)
+
+## 13.18&nbsp;&nbsp;&nbsp;Bill No. 91 By-law No. Z.-1-24____
+
+[Bill No. 91](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107533>)
+
+## 13.19&nbsp;&nbsp;&nbsp;Bill No. 92 By-law No. Z.-1-24____
+
+[Bill No. 92](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107534>)
+
+## 13.20&nbsp;&nbsp;&nbsp;Bill No. 93 By-law No. Z.-1-24____
+
+[Bill No. 93](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107535>)
+
+## 13.21&nbsp;&nbsp;&nbsp;Bill No. 94 By-law No. DR-____-___
+
+[Bill No. 94](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107536>)
+
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by P. Van Meerbergen
+
+> Seconded by S. Franke
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 5:16 PM.
+
+****
+
+# Appendix: New Bills
+
+> [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
+> **Bill No. 74**
+> 
+> By-law No. A.-8472-52 - A by-law to confirm the proceedings of the Council Meeting held on the 5th day of March, 2024. (City Clerk)
+> 
+> **Bill No. 75**
+> 
+> By-law No. A.-8473-53 - A by-law to repeal By-law No. A.-7951-78 being “A by-law to appoint Lynne Livingstone as City Manager”.  (City Clerk)
+> 
+> **Bill No. 76**
+> 
+> By-law No. A.-8474-54 - A by-law to approve the Transfer Payment Agreement with the Province for the purpose of updating the energy mapping and financial models in support of the Climate Emergency Action Plan; and to authorize the Mayor and City Clerk to execute the Agreement. (2.7a/4/CWC)
+> 
+> **Bill No. 77**
+> 
+> By-law No. A.-8475-55 - A by-law to delegate authority to the Deputy City Manager, Enterprise Supports to approve an amending agreement to extend the current Master Agreement Adoption Agreement between The Corporation of the City of London and Rogers Communications Canada Inc. and to authorize the Mayor and City Clerk to execute the amending agreement. (2.2b/4/CSC)
+> 
+> **Bill No. 78**
+> 
+> By-law No. A.-8476-56 - A by-law to repeal By-law No. CPOL.-172-424 as amended, being “Naturalized Areas and Wildflower Meadows”. (3.1c/4/CPSC)
+> 
+> **Bill No. 79**
+> 
+> By-law No. A-54-24015 - A by-law to amend By-law No. A-54, as amended, being “A by-law to implement an Administrative Monetary Penalty System in London” to repeal and replace Schedule A-4. (3.1b/4/CPSC)
+> 
+> **Bill No. 80**
+> 
+> By-law No. CPOL.-396(b)-57 - A by-law to amend By-law CPOL.-396-7, as amended, being “Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination)” by deleting and replacing Schedule “A”. (2.1/4/CSC)
+> 
+> **Bill No. 81**
+> 
+> By-law No. C.P.-1467(l)-58 - A by-law to amend C.P.-1467-175, as amended, being “A by-law to establish financial incentives for the Downtown Community Improvement Project Areas” (2.3/4/PEC)
+> 
+> **Bill No. 82**
+> 
+> By-law No. C.P.-1512(cw)-59 - A by-law to amend The Official Plan for the City of London, relating to 1160 Wharncliffe Road South and 234 Exeter Road (3.1a/4/PEC)
+> 
+> **Bill No. 83**
+> 
+> By-law No. C.P.-1512(cx)-60 - A by-law to amend The Official Plan for the City of London, relating to 1160 Wharncliffe Road South and 234 Exeter Road (3.1b/4/PEC)
+> 
+> **Bill No. 84**
+> 
+> By-law No. C.P.-1512(cy)-61 - A by-law to amend The Official Plan for the City of London, 2016 relating to 1467 Wharncliffe Road South (3.4a/4/PEC)
+> 
+> **Bill No. 85**
+> 
+> By-law No. PW-15 - A by-law to require the owner or occupant of land to clean and clear the land, or to clear refuse from the land, not including buildings, and to repeal By-law PW-9. (3.1a/4/CPSC)
+> 
+> **Bill No. 86**
+> 
+> By-law No. S.-6307-62 - A by-law to assume certain works and services in the City of London. (Coronation Subdivision, Plan 33M-710)  (Deputy City Manager, Environment & Infrastructure)
+> 
+> **Bill No. 87**
+> 
+> By-law No. S.-6308-63 - A by-law to assume certain works and services in the City of London. (Coronation Subdivision, Plan 33M-741)  (Deputy City Manager, Environment & Infrastructure)
+> 
+> **Bill No. 88**
+> 
+> By-law No. S.-6309-64 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway.  (as widening to Wonderland Road South, south of Bradley Avenue West) (Chief Surveyor – for road dedication purposes pursuant to SPA22-021)
+> 
+> **Bill No. 89**
+> 
+> By-law No. W.-5683(a)-65 - A by-law to amend by-law No. W.-5683-100 entitled, “A by-law to authorize the East London Link – Construction Rapid Transit (Project RT1430-3A)” (2.5/3/CWC)
+> 
+> **Bill No. 90**
+> 
+> By-law No. W.-5699-66 - A by-law to authorize project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit. (2.6/3/CWC)
+> 
+> **Bill No. 91**
+> 
+> By-law No. Z.-1-243190 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1160 Wharncliffe Road South and 234 Exeter Road (3.1c/4/PEC)
+> 
+> **Bill No. 92**
+> 
+> By-law No. Z.-1-243191 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 475 Wharncliffe Road South (3.2/4/PEC)
+> 
+> **Bill No. 93**
+> 
+> By-law No. Z.-1-24192 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1467 Wharncliffe Road South (3.4b/4/PEC)
+> 
+> **Bill No. 94**
+> 
+> By-law No. DR-____-___ - A by-law to provide for Drainage Works in the City of London (Construction of the Gold Seal & Fournie Municipal Drains) (3.2/4/CWC)  (First and Second Reading Only)
+> 
+> **Bill No. 95**
+> 
+> By-law No. A.-8477-67 - A by-law to authorize and approve a Settlement Agreement between The Corporation of the City of London and Claurah Holdings Limited Highbury Inc., for the property rights expropriated from the property at 850-870 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/4/CSC)
+> 
+> **Bill No. 96**
+> 
+> By-law No. A.-8478-68 - A by-law to authorize and approve an Agreement of Purchase and Sale attached as Appendix “A”  between The Corporation of the City of London and Thames Valley District School Board, for the acquisition of property located at 1040 Hamilton Road, in the City of London, for future housing and parkland, and to authorize the Mayor and the City Clerk to execute the Agreements. (6.1/4/CSC)
+
