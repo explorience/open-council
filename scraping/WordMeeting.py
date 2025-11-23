@@ -4,6 +4,9 @@ Parser for 2011-2017 meeting minutes in Microsoft Word HTML export format.
 These older meetings use a completely different HTML structure than the modern
 eScribe format (2018+). They are Word HTML exports with MsoNormal paragraphs
 and simple tables instead of structured div classes.
+
+This parser creates the SAME class instances (MeetingItem, Motion, Mover, Vote, etc.)
+as the eScribe parser, ensuring the JSON output is indistinguishable across all years.
 """
 
 import re
@@ -12,18 +15,31 @@ from bs4 import BeautifulSoup, NavigableString
 from callout import callout
 from content import Content, Paragraph, Motion, Vote, MotionResult, Mover, Bills, BILL_TEXT
 
-class WordMeetingItem:
-    """Represents an agenda item in Word HTML format."""
 
-    def __init__(self, number, title):
-        self.number = number
-        self.title = title
+# Minimal MeetingItem class to avoid circular import while maintaining JSON compatibility
+class MeetingItem:
+    """Minimal MeetingItem for Word format meetings - matches eScribe format in JSON."""
+    def __init__(self):
+        self.title = None
+        self.number = ""
         self.content = []
         self.items = {}
+        self.datetime = None
         self.attachments = []
         self.report = None
 
+    @classmethod
+    def from_plain_data(cls, number, title, content=None, items=None):
+        """Create a MeetingItem from plain data."""
+        item = cls()
+        item.number = number
+        item.title = title
+        item.content = content or []
+        item.items = items or {}
+        return item
+
     def format_markdown(self, level, number_prefix):
+        """Format as markdown."""
         output = ""
 
         # Build number prefix: "" -> "I." -> "I.1" etc
@@ -47,123 +63,6 @@ class WordMeetingItem:
             output += subitem.format_markdown(level+1, number_prefix)
 
         return output
-
-
-class WordMotion(Content):
-    """Represents a motion parsed from Word HTML format."""
-
-    def __init__(self, moved_by="", seconded_by="", motion_text="", vote_rows=None, result=""):
-        # Parse moved_by text
-        if moved_by:
-            match = re.match(r'(Moved by|Motion made by)\s+(.+)', moved_by, re.IGNORECASE)
-            if match:
-                self.moved_by = SimpleMover(f"{match.group(1)} {match.group(2).strip()}")
-            else:
-                self.moved_by = SimpleMover(moved_by)
-        else:
-            self.moved_by = SimpleMover("")
-
-        # Parse seconded_by text
-        if seconded_by:
-            match = re.match(r'(Seconded by)\s+(.+)', seconded_by, re.IGNORECASE)
-            if match:
-                self.seconded_by = SimpleMover(f"{match.group(1)} {match.group(2).strip()}")
-            else:
-                self.seconded_by = SimpleMover(f"Seconded by {seconded_by}")
-        else:
-            self.seconded_by = SimpleMover("")
-
-        self.motion_texts = [SimpleParagraph(motion_text)] if motion_text else []
-        self.vote = SimpleVote(vote_rows or [])
-        self.result = SimpleMotionResult(result)
-        self.pre_motion_texts = []
-        self.post_motion_texts = []
-
-    def is_empty(self):
-        return False
-
-    def format_markdown(self):
-        output = ""
-        parts = [*self.pre_motion_texts, self.moved_by, self.seconded_by, *self.motion_texts]
-        parts += [self.vote, self.result, *self.post_motion_texts]
-        for item in parts:
-            if not item.is_empty():
-                output += f"{item.format_markdown()}\n\n"
-        return output + "****"
-
-
-# Lightweight wrapper classes that don't use BeautifulSoup
-class SimpleMover(Content):
-    """Simple mover that stores just the text, avoiding BeautifulSoup circular references."""
-    def __init__(self, text):
-        self.string = text
-        self.text = text  # For JSON compatibility
-
-    def format_markdown(self):
-        if not self.string:
-            return ""
-        return f"> {self.string}"
-
-    def is_empty(self):
-        return not self.string
-
-
-class SimpleMotionResult(Content):
-    """Simple motion result that stores just the text."""
-    def __init__(self, text):
-        self.string = text
-        self.text = text  # For JSON compatibility
-
-    def format_markdown(self):
-        if not self.string:
-            return ""
-        return f"> **{self.string}**"
-
-    def is_empty(self):
-        return not self.string
-
-
-class SimpleVote(Content):
-    """Simple vote that stores rows as dictionaries."""
-    def __init__(self, rows):
-        self.rows = rows  # List of {"vote": "Yeas:", "voters": [...]}
-
-    def format_markdown(self):
-        if not self.rows:
-            return ""
-
-        from callout import callout
-        table_header = f"|{'|'.join([col['vote'] for col in self.rows])}|"
-        header_divider = "|-" * len(self.rows) + "|"
-
-        max_len = max([len(row["voters"]) for row in self.rows])
-        table_body = ""
-        for i in range(max_len):
-            current_row = "|"
-            for row in self.rows:
-                voters = row["voters"]
-                if i < len(voters):
-                    current_row += voters[i]
-                current_row += "|"
-            table_body += current_row + "\n"
-
-        return callout("Vote:", f"{table_header}\n{header_divider}\n{table_body}")
-
-    def is_empty(self):
-        return len(self.rows) == 0
-
-
-class SimpleParagraph(Content):
-    """Simple paragraph that stores just the text."""
-    def __init__(self, text):
-        self.string = text
-        self.text = text  # For JSON compatibility
-
-    def format_markdown(self):
-        return self.string
-
-    def is_empty(self):
-        return not self.string
 
 
 class WordMeeting:
@@ -311,7 +210,7 @@ class WordMeeting:
             if ('meets in' in text.lower() or
                 'called to order' in text.lower() or
                 'convenes' in text.lower()):
-                return [SimpleParagraph(text)]
+                return [Paragraph(text)]
 
         return []
 
@@ -338,8 +237,8 @@ class WordMeeting:
                     if match and len(first_cell_text) <= 10:
                         section_num = match.group(1).rstrip('.')
 
-                        # This is a new section
-                        current_section = WordMeetingItem(section_num, second_cell_text)
+                        # This is a new section - create real MeetingItem
+                        current_section = MeetingItem.from_plain_data(section_num, second_cell_text)
                         items[section_num] = current_section
 
                 # Single-column table: might be content for current section
@@ -369,6 +268,12 @@ class WordMeeting:
             # This block contains a motion
             moved_by = motion_match.group(1).strip()
             seconded_by = motion_match.group(2).strip() if motion_match.group(2) else ""
+
+            # Format moved_by/seconded_by text to match eScribe format
+            if moved_by and not moved_by.lower().startswith('moved by'):
+                moved_by = f"Moved by {moved_by}"
+            if seconded_by and not seconded_by.lower().startswith('seconded by'):
+                seconded_by = f"Seconded by {seconded_by}"
 
             # Extract motion text (everything after "that" or "to")
             motion_start = motion_match.end()
@@ -403,7 +308,8 @@ class WordMeeting:
             if result_match:
                 result = result_match.group(0)
 
-            motion = WordMotion(moved_by, seconded_by, motion_text, vote_rows, result)
+            # Create real Motion instance
+            motion = Motion.from_plain_data(moved_by, seconded_by, motion_text, vote_rows, result)
             content.append(motion)
 
         # Check for standalone voting (no "Moved by" or "Motion made by")
@@ -439,17 +345,17 @@ class WordMeeting:
 
             # Only create motion if we have vote data
             if vote_rows:
-                motion = WordMotion("", "", motion_text, vote_rows, result)
+                motion = Motion.from_plain_data("", "", motion_text, vote_rows, result)
                 content.append(motion)
             else:
                 # No valid vote data, treat as regular paragraph
                 if text and text != "None." and len(text) > 3:
-                    content.append(SimpleParagraph(text))
+                    content.append(Paragraph(text))
 
         # Regular paragraph
         else:
             if text and text != "None." and len(text) > 3:
-                content.append(SimpleParagraph(text))
+                content.append(Paragraph(text))
 
         return content
 

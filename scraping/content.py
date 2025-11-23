@@ -49,7 +49,11 @@ class Content:
 
 class Paragraph(Content):
   def __init__(self, e):
-    self.string = self.get_text(e).strip()
+    # Support both BeautifulSoup elements and plain strings
+    if isinstance(e, str):
+      self.string = e.strip()
+    else:
+      self.string = self.get_text(e).strip()
 
     # convert lists to markdown
     self.string = self.string.replace("•", "-")
@@ -80,6 +84,9 @@ class MotionResult(Paragraph):
 
   @staticmethod
   def get_text(e):
+    # Support plain strings
+    if isinstance(e, str):
+      return e
     if e == None: return ""
 
     if len(e.contents) == 1:
@@ -103,6 +110,17 @@ def bill_text_test(s):
 
 class Motion(Content):
   def __init__(self, agenda_item_motion, meeting):
+    # Support creating from plain data (for Word format meetings)
+    if agenda_item_motion is None:
+      self.pre_motion_texts = []
+      self.moved_by = Mover("")
+      self.seconded_by = Mover("")
+      self.motion_texts = []
+      self.vote = Vote(None)
+      self.result = MotionResult("")
+      self.post_motion_texts = []
+      return
+
     self.pre_motion_texts = Content.parse_contents(agenda_item_motion.find(class_="PreMotionText"), meeting)
     self.moved_by = Mover(agenda_item_motion.find(class_="MovedBy"))
     self.seconded_by = Mover(agenda_item_motion.find(class_="SecondedBy"))
@@ -117,6 +135,17 @@ class Motion(Content):
         bills_descs += paragraph.string.split("\n")
       meeting.bills = Bills(bills_descs)
       self.post_motion_texts = []
+
+  @classmethod
+  def from_plain_data(cls, moved_by="", seconded_by="", motion_text="", vote_rows=None, result=""):
+    """Create a Motion from plain data (for Word format meetings)."""
+    motion = cls(None, None)
+    motion.moved_by = Mover(moved_by)
+    motion.seconded_by = Mover(seconded_by)
+    motion.motion_texts = [Paragraph(motion_text)] if motion_text else []
+    motion.vote = Vote(vote_rows or [])
+    motion.result = MotionResult(result)
+    return motion
 
   def is_empty(self):
     return False
@@ -137,6 +166,9 @@ class Mover(Paragraph):
 
   @staticmethod
   def get_text(e):
+    # Support plain strings
+    if isinstance(e, str):
+      return e
     if not e: return ""
 
     """
@@ -197,8 +229,14 @@ class Vote(Content):
   def __init__(self, motion_voters):
     self.rows = []
     if motion_voters:
-      for row in motion_voters.contents:
-        self.add_row(row)
+      # Support both BeautifulSoup elements and plain list of dicts
+      if isinstance(motion_voters, list):
+        # Direct list of {"vote": "Yeas:", "voters": [...]} dicts
+        self.rows = motion_voters
+      else:
+        # BeautifulSoup element
+        for row in motion_voters.contents:
+          self.add_row(row)
 
   def add_row(self, row):
     """
