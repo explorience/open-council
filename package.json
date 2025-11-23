@@ -14,11 +14,15 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "dev": "npx quartz build --serve",
+    "build": "npx quartz build",
     "start": "npx quartz build --serve --port 8080",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "chat:generate": "tsx server/generate-embeddings.ts",
+    "chat:server": "tsx server/index.ts",
+    "chat:dev": "tsx --watch server/index.ts"
   },
   "engines": {
     "npm": ">=10.9.2",

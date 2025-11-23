@@ -2,11 +2,24 @@
 
 Open Council scrapes London council meetings, nicely formats them, and parses the data into an easy-to-work-with JSON format.
 
+## 🤖 NEW: AI Chatbot
+
+Ask questions about council meetings in natural language! The chatbot uses RAG (Retrieval Augmented Generation) to provide intelligent answers based on actual meeting data.
+
+**Quick Start:**
+1. `cp .env.example .env` and add your API keys
+2. `npm run chat:generate` (one-time setup)
+3. `npm run chat:server` (keep running)
+4. `npm run dev` (in another terminal)
+
+See [CHATBOT_QUICKSTART.md](./CHATBOT_QUICKSTART.md) for details or [CHATBOT.md](./CHATBOT.md) for full documentation.
+
 ## Folders
 
 - [`scraping/`](scraping/): Python scraping scripts
 - [`data/`](data/): outputted JSON data
 - [`content/`](content/): formatted markdown
+- [`server/`](server/): AI chatbot backend API
 
 ## Scripts
 
