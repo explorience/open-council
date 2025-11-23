@@ -14,7 +14,7 @@ from process_meeting import process_meeting, get_processing_stats
 from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types
 
 # Configuration
-DEFAULT_START_YEAR = 2010  # Adjust this if you want to go further back
+DEFAULT_START_YEAR = 2011  # Council minutes go back to 2011
 
 target_meetings = []
 without_minutes = []
