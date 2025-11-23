@@ -1,6 +1,5 @@
 def callout(title, content):
   output = ""
   output += f"> [!abstract]- {title}\n"
-  formatted_content = content.strip().replace('\n', '\n> ')
-  output += f"> {formatted_content}"
+  output += f"> {content.strip().replace('\n', '\n> ')}"
   return output

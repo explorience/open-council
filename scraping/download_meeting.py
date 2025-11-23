@@ -1,59 +1,13 @@
 import json
 import requests
 import functools
-import time
 from pathlib import Path
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-# Browser-like headers to avoid bot detection
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.5',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'DNT': '1',
-    'Connection': 'keep-alive',
-    'Upgrade-Insecure-Requests': '1',
-    'Sec-Fetch-Dest': 'document',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-Site': 'none',
-    'Cache-Control': 'max-age=0'
-}
-
-def get_from_web(url: str, max_retries=3) -> str:
-  """Fetch URL with retry logic and realistic browser headers"""
-  for attempt in range(max_retries):
-    try:
-      # Add a small delay to be respectful to the server
-      if attempt > 0:
-        wait_time = 2 ** attempt  # Exponential backoff: 2, 4, 8 seconds
-        print(f"  Retrying in {wait_time}s (attempt {attempt + 1}/{max_retries})...")
-        time.sleep(wait_time)
-
-      response = requests.get(url, verify=False, headers=HEADERS, timeout=30)
-
-      # Check for access denied
-      if response.status_code == 403:
-        print(f"  ⚠️  Access denied (403) - attempt {attempt + 1}/{max_retries}")
-        if attempt < max_retries - 1:
-          continue
-        else:
-          raise Exception(f"Access denied after {max_retries} attempts")
-
-      response.raise_for_status()
-      return response.content
-
-    except requests.exceptions.Timeout:
-      print(f"  ⚠️  Timeout - attempt {attempt + 1}/{max_retries}")
-      if attempt == max_retries - 1:
-        raise
-    except requests.exceptions.RequestException as e:
-      print(f"  ⚠️  Request error: {e} - attempt {attempt + 1}/{max_retries}")
-      if attempt == max_retries - 1:
-        raise
-
-  raise Exception(f"Failed to fetch {url} after {max_retries} attempts")
+def get_from_web(url: str) -> str:
+  response = requests.get(url, verify=False)
+  return response.content
 
 BASE_URL = "https://pub-london.escribemeetings.com/"
 
@@ -82,39 +36,10 @@ def get_meetings(meeting_type, year):
     "type": meeting_type
   }
   print(f"Fetching {year} {meeting_type} meetings...")
-
-  # Use POST request with proper headers
-  post_headers = HEADERS.copy()
-  post_headers['Content-Type'] = 'application/json'
-
-  max_retries = 3
-  for attempt in range(max_retries):
-    try:
-      if attempt > 0:
-        wait_time = 2 ** attempt
-        print(f"  Retrying in {wait_time}s (attempt {attempt + 1}/{max_retries})...")
-        time.sleep(wait_time)
-
-      x = requests.post(url, json=data, verify=False, headers=post_headers, timeout=30)
-
-      if x.status_code == 403:
-        print(f"  ⚠️  Access denied (403) - attempt {attempt + 1}/{max_retries}")
-        if attempt < max_retries - 1:
-          continue
-        else:
-          raise Exception(f"Access denied after {max_retries} attempts")
-
-      x.raise_for_status()
-      print(f"Data for {year} {meeting_type} meetings retrieved")
-      data = json.loads(x.text)
-      return data["d"]
-
-    except Exception as e:
-      if attempt == max_retries - 1:
-        print(f"  ❌ Failed to fetch meetings: {e}")
-        raise
-
-  return []
+  x = requests.post(url, json=data, verify=False)
+  print(f"Data for {year} {meeting_type} meetings retrieved")
+  data = json.loads(x.text)
+  return data["d"]
 
 def meeting_name(m):
   if m["HasLinks"]:
@@ -125,6 +50,10 @@ def meeting_date(m):
   return datetime.strptime(m["MeetingDate"], "%B %d, %Y")
 
 def meeting_minutes(m):
+  # Some meetings don't have AllCategorizedMeetingLinks (e.g., cancelled meetings)
+  if m["AllCategorizedMeetingLinks"] is None:
+    return None
+
   minutes = [link for link in m["AllCategorizedMeetingLinks"] if link["Name"] == "Minutes"]
   if len(minutes) == 0: return None
 

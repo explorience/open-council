@@ -440,9 +440,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
       const ids = [...results[0].result]
       const toDate = id => {
-        // Extract date from path like "2025-01/2025-01-07-meeting-name" or "2021-06/2021-06-15-meeting"
-        const match = idDataMap[id].match(/(\d{4}-\d{2}-\d{2})/)
-        return match ? new Date(match[1].replace(/-/g, "/")) : new Date(0)
+        const startIdx = "2025-01/".length
+        const endIdx = startIdx + "2025-01-07".length
+        return new Date(idDataMap[id].slice(startIdx, endIdx))
       }
       const sortedIds = ids.sort((a, b) => toDate(a) < toDate(b) ? 1 : -1)
       return sortedIds.filter(id => idDataMap[id] !== "index") as number[]

@@ -30,6 +30,10 @@ class MeetingItem:
     self.attachments = []
     self.report = report
 
+    # Support creating from plain data (for Word format meetings)
+    if agenda_item_container is None:
+      return
+
     agenda_item = agenda_item_container.contents[0]
     self.set_attributes(agenda_item, meeting, report)
 
@@ -41,6 +45,19 @@ class MeetingItem:
       for child in items:
         subitem = MeetingItem(child, datetime, meeting, report)
         self.items[subitem.number] = subitem
+
+  @classmethod
+  def from_plain_data(cls, number, title, content=None, items=None):
+    """Create a MeetingItem from plain data (for Word format meetings)."""
+    item = cls(None, None, None)
+    item.number = number
+    item.title = title
+    item.content = content or []
+    item.items = items or {}
+    item.datetime = None
+    item.attachments = []
+    item.report = None
+    return item
 
 
   def set_attributes(self, agenda_item, meeting, report):

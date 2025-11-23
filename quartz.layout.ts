@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.ChatBot({
       title: "Ask About Council Meetings",
       placeholder: "Ask about city council meetings...",
-      apiUrl: "http://localhost:3001"  // Update this to your Railway URL after deployment
+      apiUrl: "https://open-council-production.up.railway.app"
     })
   ],
   footer: Component.Footer()
@@ -41,7 +41,7 @@ const explorer = Component.Explorer({
       day: "numeric"
     }
     // switch `-` to `/` to force it to parse in the current time zone
-    const date = new Date(dateStr.replace(/-/g, "/")).toLocaleDateString("en-CA", fmtOptions)
+    const date = new Date(dateStr.replace("-", "/")).toLocaleDateString("en-CA", fmtOptions)
     node.displayName = `${node.displayName} (${date})`
   }
 })

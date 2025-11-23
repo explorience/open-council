@@ -4,8 +4,3 @@ public/
 .quartz-cache/
 tsconfig.tsbuildinfo
 __pycache__/
-
-# Chatbot
-.env
-lancedb/
-server/dist/
