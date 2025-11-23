@@ -10,7 +10,160 @@ import re
 from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString
 from callout import callout
-from content import Content, Paragraph
+from content import Content, Paragraph, Motion, Vote, MotionResult, Mover, Bills, BILL_TEXT
+
+class WordMeetingItem:
+    """Represents an agenda item in Word HTML format."""
+
+    def __init__(self, number, title):
+        self.number = number
+        self.title = title
+        self.content = []
+        self.items = {}
+        self.attachments = []
+        self.report = None
+
+    def format_markdown(self, level, number_prefix):
+        output = ""
+
+        # Build number prefix: "" -> "I." -> "I.1" etc
+        empty_prefix = number_prefix == ""
+        if number_prefix and number_prefix[-1] != ".": number_prefix += "."
+        number_prefix += self.number
+        if empty_prefix: number_prefix += "."
+
+        output += f"{'#'*level} {number_prefix}&nbsp;&nbsp;&nbsp;{self.title}\n\n"
+
+        # Output content
+        if self.content:
+            for item in self.content:
+                if hasattr(item, 'format_markdown'):
+                    output += f"{item.format_markdown()}\n\n"
+                else:
+                    output += f"{item}\n\n"
+
+        # Output subitems
+        for subitem in self.items.values():
+            output += subitem.format_markdown(level+1, number_prefix)
+
+        return output
+
+
+class WordMotion(Content):
+    """Represents a motion parsed from Word HTML format."""
+
+    def __init__(self, moved_by="", seconded_by="", motion_text="", vote_rows=None, result=""):
+        # Parse moved_by text
+        if moved_by:
+            match = re.match(r'(Moved by|Motion made by)\s+(.+)', moved_by, re.IGNORECASE)
+            if match:
+                self.moved_by = SimpleMover(f"{match.group(1)} {match.group(2).strip()}")
+            else:
+                self.moved_by = SimpleMover(moved_by)
+        else:
+            self.moved_by = SimpleMover("")
+
+        # Parse seconded_by text
+        if seconded_by:
+            match = re.match(r'(Seconded by)\s+(.+)', seconded_by, re.IGNORECASE)
+            if match:
+                self.seconded_by = SimpleMover(f"{match.group(1)} {match.group(2).strip()}")
+            else:
+                self.seconded_by = SimpleMover(f"Seconded by {seconded_by}")
+        else:
+            self.seconded_by = SimpleMover("")
+
+        self.motion_texts = [SimpleParagraph(motion_text)] if motion_text else []
+        self.vote = SimpleVote(vote_rows or [])
+        self.result = SimpleMotionResult(result)
+        self.pre_motion_texts = []
+        self.post_motion_texts = []
+
+    def is_empty(self):
+        return False
+
+    def format_markdown(self):
+        output = ""
+        parts = [*self.pre_motion_texts, self.moved_by, self.seconded_by, *self.motion_texts]
+        parts += [self.vote, self.result, *self.post_motion_texts]
+        for item in parts:
+            if not item.is_empty():
+                output += f"{item.format_markdown()}\n\n"
+        return output + "****"
+
+
+# Lightweight wrapper classes that don't use BeautifulSoup
+class SimpleMover(Content):
+    """Simple mover that stores just the text, avoiding BeautifulSoup circular references."""
+    def __init__(self, text):
+        self.string = text
+        self.text = text  # For JSON compatibility
+
+    def format_markdown(self):
+        if not self.string:
+            return ""
+        return f"> {self.string}"
+
+    def is_empty(self):
+        return not self.string
+
+
+class SimpleMotionResult(Content):
+    """Simple motion result that stores just the text."""
+    def __init__(self, text):
+        self.string = text
+        self.text = text  # For JSON compatibility
+
+    def format_markdown(self):
+        if not self.string:
+            return ""
+        return f"> **{self.string}**"
+
+    def is_empty(self):
+        return not self.string
+
+
+class SimpleVote(Content):
+    """Simple vote that stores rows as dictionaries."""
+    def __init__(self, rows):
+        self.rows = rows  # List of {"vote": "Yeas:", "voters": [...]}
+
+    def format_markdown(self):
+        if not self.rows:
+            return ""
+
+        from callout import callout
+        table_header = f"|{'|'.join([col['vote'] for col in self.rows])}|"
+        header_divider = "|-" * len(self.rows) + "|"
+
+        max_len = max([len(row["voters"]) for row in self.rows])
+        table_body = ""
+        for i in range(max_len):
+            current_row = "|"
+            for row in self.rows:
+                voters = row["voters"]
+                if i < len(voters):
+                    current_row += voters[i]
+                current_row += "|"
+            table_body += current_row + "\n"
+
+        return callout("Vote:", f"{table_header}\n{header_divider}\n{table_body}")
+
+    def is_empty(self):
+        return len(self.rows) == 0
+
+
+class SimpleParagraph(Content):
+    """Simple paragraph that stores just the text."""
+    def __init__(self, text):
+        self.string = text
+        self.text = text  # For JSON compatibility
+
+    def format_markdown(self):
+        return self.string
+
+    def is_empty(self):
+        return not self.string
 
 
 class WordMeeting:
@@ -29,9 +182,11 @@ class WordMeeting:
             # Fallback: use body if no WordSection
             word_section = soup.find('body')
 
-        # Get all paragraphs
-        paragraphs = word_section.find_all('p') if word_section else []
-        self.paragraphs = [p for p in paragraphs if p.get_text().strip()]
+        # Get all paragraphs and tables
+        self.paragraphs = word_section.find_all('p') if word_section else []
+        self.paragraphs = [p for p in self.paragraphs if p.get_text().strip()]
+
+        self.tables = word_section.find_all('table') if word_section else []
 
         # Parse meeting info
         self.title = self.extract_title()
@@ -40,7 +195,11 @@ class WordMeeting:
 
         # Parse content and items
         self.content = self.extract_opening_content()
-        self.items = {}  # Will be populated by parsing sections
+        self.items = self.parse_agenda_structure()
+
+        # Remove BeautifulSoup objects to avoid circular references in JSON serialization
+        del self.paragraphs
+        del self.tables
 
     def extract_title(self):
         """Extract meeting title from first few paragraphs."""
@@ -152,16 +311,147 @@ class WordMeeting:
             if ('meets in' in text.lower() or
                 'called to order' in text.lower() or
                 'convenes' in text.lower()):
-                # Create a simple content object with just the text
-                class SimpleContent:
-                    def __init__(self, text):
-                        self.text = text
-                    def format_markdown(self):
-                        return self.text
-
-                return [SimpleContent(text)]
+                return [SimpleParagraph(text)]
 
         return []
+
+    def parse_agenda_structure(self):
+        """Parse the full agenda structure from tables and paragraphs."""
+        items = {}
+        current_section = None
+        section_pattern = re.compile(r'^([IVX]+|[0-9]+\.?)\s*$')  # Roman numerals or numbers
+
+        # Process tables to find section headers and content
+        for table in self.tables:
+            rows = table.find_all('tr')
+
+            for row in rows:
+                cells = row.find_all('td')
+
+                # Two-column table: might be section header or numbered item
+                if len(cells) == 2:
+                    first_cell_text = cells[0].get_text().strip()
+                    second_cell_text = cells[1].get_text().strip()
+
+                    # Check if first cell is a section marker (Roman numeral or number)
+                    match = section_pattern.match(first_cell_text)
+                    if match and len(first_cell_text) <= 10:
+                        section_num = match.group(1).rstrip('.')
+
+                        # This is a new section
+                        current_section = WordMeetingItem(section_num, second_cell_text)
+                        items[section_num] = current_section
+
+                # Single-column table: might be content for current section
+                elif len(cells) == 1 and current_section:
+                    cell_text = cells[0].get_text().strip()
+
+                    if cell_text:
+                        # Check if it's a motion or voting record
+                        content_items = self.parse_content_block(cell_text)
+                        current_section.content.extend(content_items)
+
+        return items
+
+    def parse_content_block(self, text):
+        """Parse a content block that might contain motions, voting, or regular text."""
+        content = []
+
+        # Check for motion patterns - handle both formats:
+        # 1. "Moved by X and seconded by Y that..."
+        # 2. "Motion made by X and seconded by Y to..."
+        motion_match = re.search(
+            r'(?:Moved by|Motion made by)\s+(.+?)(?:\s+and\s+)?(?:seconded by\s+(.+?))?\s+(?:that|to)\s+',
+            text, re.IGNORECASE | re.DOTALL
+        )
+
+        if motion_match:
+            # This block contains a motion
+            moved_by = motion_match.group(1).strip()
+            seconded_by = motion_match.group(2).strip() if motion_match.group(2) else ""
+
+            # Extract motion text (everything after "that" or "to")
+            motion_start = motion_match.end()
+            motion_text = text[motion_start:].strip()
+
+            # Look for vote and result in the remaining text
+            vote_rows = []
+            result = ""
+
+            # Extract YEAS - match across multiple lines until we hit NAYS or Motion result
+            yeas_match = re.search(r'YEAS?:\s*(.+?)(?=(?:NAYS?:|Motion\s+(?:Passed|Failed|Carried)|$))',
+                                  text, re.IGNORECASE | re.DOTALL)
+            if yeas_match:
+                yeas_text = yeas_match.group(1).strip()
+                yeas_names = self.parse_names(yeas_text)
+                if yeas_names:  # Only add if we got valid names
+                    vote_rows.append({"vote": "Yeas:", "voters": yeas_names})
+                # Remove YEAS from motion text
+                motion_text = text[motion_start:yeas_match.start()].strip()
+
+            # Extract NAYS - match across multiple lines until we hit Motion result or end
+            nays_match = re.search(r'NAYS?:\s*(.+?)(?=(?:Motion\s+(?:Passed|Failed|Carried)|$))',
+                                  text, re.IGNORECASE | re.DOTALL)
+            if nays_match:
+                nays_text = nays_match.group(1).strip()
+                nays_names = self.parse_names(nays_text)
+                if nays_names:  # Only add if we got valid names
+                    vote_rows.append({"vote": "Nays:", "voters": nays_names})
+
+            # Extract result
+            result_match = re.search(r'Motion\s+(Passed|Failed|Carried)(\s+\([^)]+\))?', text, re.IGNORECASE)
+            if result_match:
+                result = result_match.group(0)
+
+            motion = WordMotion(moved_by, seconded_by, motion_text, vote_rows, result)
+            content.append(motion)
+
+        # Check for standalone voting (no "Moved by" or "Motion made by")
+        elif re.search(r'YEAS?:', text, re.IGNORECASE):
+            vote_rows = []
+            result = ""
+
+            # Extract YEAS - match across multiple lines
+            yeas_match = re.search(r'YEAS?:\s*(.+?)(?=(?:NAYS?:|Motion\s+(?:Passed|Failed|Carried)|$))',
+                                  text, re.IGNORECASE | re.DOTALL)
+            if yeas_match:
+                yeas_text = yeas_match.group(1).strip()
+                yeas_names = self.parse_names(yeas_text)
+                if yeas_names:
+                    vote_rows.append({"vote": "Yeas:", "voters": yeas_names})
+
+            # Extract NAYS - match across multiple lines
+            nays_match = re.search(r'NAYS?:\s*(.+?)(?=(?:Motion\s+(?:Passed|Failed|Carried)|$))',
+                                  text, re.IGNORECASE | re.DOTALL)
+            if nays_match:
+                nays_text = nays_match.group(1).strip()
+                nays_names = self.parse_names(nays_text)
+                if nays_names:
+                    vote_rows.append({"vote": "Nays:", "voters": nays_names})
+
+            # Extract result
+            result_match = re.search(r'Motion\s+(Passed|Failed|Carried)(\s+\([^)]+\))?', text, re.IGNORECASE)
+            if result_match:
+                result = result_match.group(0)
+
+            # Get text before voting as motion text
+            motion_text = text[:yeas_match.start() if yeas_match else 0].strip()
+
+            # Only create motion if we have vote data
+            if vote_rows:
+                motion = WordMotion("", "", motion_text, vote_rows, result)
+                content.append(motion)
+            else:
+                # No valid vote data, treat as regular paragraph
+                if text and text != "None." and len(text) > 3:
+                    content.append(SimpleParagraph(text))
+
+        # Regular paragraph
+        else:
+            if text and text != "None." and len(text) > 3:
+                content.append(SimpleParagraph(text))
+
+        return content
 
     def format_markdown(self):
         """Format as markdown for output."""
@@ -192,11 +482,14 @@ class WordMeeting:
             for item in self.content:
                 output += f"{item.format_markdown()}\n\n"
 
-        # Note about limited parsing
-        output += "> [!note]\n"
-        output += "> This meeting uses the older Word HTML format (2011-2017).\n"
-        output += "> Detailed item parsing is not yet implemented for this format.\n"
-        output += "> Please refer to the original link above for full meeting details.\n\n"
+        # Agenda items
+        for item in self.items.values():
+            output += item.format_markdown(1, "")
+
+        # Bills if present
+        if self.bills:
+            output += f"# Appendix: New Bills\n\n"
+            output += self.bills.format_markdown() + "\n\n"
 
         return output
 
