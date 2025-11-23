@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import OpenCouncilHeader from "./OpenCouncilHeader"
+import ChatBot from "./ChatBot"
 
 export {
   ArticleTitle,
@@ -51,5 +52,6 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  OpenCouncilHeader
+  OpenCouncilHeader,
+  ChatBot
 }

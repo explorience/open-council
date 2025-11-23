@@ -1,11 +1,18 @@
-FROM node:22-slim AS builder
-WORKDIR /usr/src/app
-COPY package.json .
-COPY package-lock.json* .
-RUN npm ci
-
 FROM node:22-slim
+
 WORKDIR /usr/src/app
-COPY --from=builder /usr/src/app/ /usr/src/app/
+
+# Copy package files
+COPY package.json .
+
+# Install dependencies (use npm install since package-lock.json is gitignored)
+RUN npm install --legacy-peer-deps
+
+# Copy application files
 COPY . .
-CMD ["npx", "quartz", "build", "--serve"]
+
+# Expose port
+EXPOSE 3001
+
+# Start the chatbot server
+CMD ["npm", "run", "chat:server"]
