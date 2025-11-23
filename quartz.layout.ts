@@ -71,8 +71,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.Content()
+    })
   ],
   afterBody: [
     Component.ConditionalRender({
