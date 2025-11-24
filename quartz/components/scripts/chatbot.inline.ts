@@ -185,12 +185,20 @@ document.addEventListener("nav", () => {
   const toggle = chatbot.querySelector(".chatbot-toggle") as HTMLButtonElement
   const container = chatbot.querySelector(".chatbot-container") as HTMLElement
   const closeBtn = chatbot.querySelector(".chatbot-close") as HTMLButtonElement
+  const maximizeBtn = chatbot.querySelector(".chatbot-maximize") as HTMLButtonElement
   const input = chatbot.querySelector(".chatbot-input") as HTMLTextAreaElement
   const sendBtn = chatbot.querySelector(".chatbot-send") as HTMLButtonElement
 
   // Get API URL from script tag
   const scriptTag = chatbot.querySelector("script[data-api-url]") as HTMLScriptElement
   const apiUrl = scriptTag?.dataset.apiUrl || "http://localhost:3001"
+
+  // Load saved maximized state
+  const isMaximized = localStorage.getItem("chatbot-maximized") === "true"
+  if (isMaximized) {
+    container.classList.add("maximized")
+    updateMaximizeButton(true)
+  }
 
   // Toggle chatbot
   toggle?.addEventListener("click", () => {
@@ -205,6 +213,36 @@ document.addEventListener("nav", () => {
   closeBtn?.addEventListener("click", () => {
     container.style.display = "none"
   })
+
+  // Maximize/minimize chatbot
+  maximizeBtn?.addEventListener("click", () => {
+    const isCurrentlyMaximized = container.classList.contains("maximized")
+    if (isCurrentlyMaximized) {
+      container.classList.remove("maximized")
+      localStorage.setItem("chatbot-maximized", "false")
+      updateMaximizeButton(false)
+    } else {
+      container.classList.add("maximized")
+      localStorage.setItem("chatbot-maximized", "true")
+      updateMaximizeButton(true)
+    }
+  })
+
+  function updateMaximizeButton(isMaximized: boolean) {
+    const maximizeIcon = maximizeBtn?.querySelector(".maximize-icon") as SVGElement
+    const minimizeIcon = maximizeBtn?.querySelector(".minimize-icon") as SVGElement
+    if (maximizeIcon && minimizeIcon) {
+      if (isMaximized) {
+        maximizeIcon.style.display = "none"
+        minimizeIcon.style.display = "block"
+        maximizeBtn.setAttribute("aria-label", "Minimize chatbot")
+      } else {
+        maximizeIcon.style.display = "block"
+        minimizeIcon.style.display = "none"
+        maximizeBtn.setAttribute("aria-label", "Maximize chatbot")
+      }
+    }
+  }
 
   // Auto-resize textarea
   input?.addEventListener("input", () => {
@@ -224,10 +262,17 @@ document.addEventListener("nav", () => {
     }
   })
 
-  // Close on Escape
+  // Close on Escape, or minimize if maximized
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && container.style.display === "flex") {
-      container.style.display = "none"
+      const isCurrentlyMaximized = container.classList.contains("maximized")
+      if (isCurrentlyMaximized) {
+        container.classList.remove("maximized")
+        localStorage.setItem("chatbot-maximized", "false")
+        updateMaximizeButton(false)
+      } else {
+        container.style.display = "none"
+      }
     }
   })
 })
