@@ -92,7 +92,12 @@ export class VectorStore {
     }
 
     try {
-      const results = await this.table.toArray();
+      // Query all records, selecting only the id field for efficiency
+      const results = await this.table
+        .query()
+        .select(['id'])
+        .execute();
+
       return new Set(results.map((r: any) => r.id));
     } catch (error) {
       console.error('Error fetching existing chunk IDs:', error);
