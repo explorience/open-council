@@ -11,8 +11,11 @@ RUN npm install --legacy-peer-deps
 # Copy application files
 COPY . .
 
+# Make start.sh executable
+RUN chmod +x start.sh
+
 # Expose port
 EXPOSE 3001
 
-# Start the chatbot server
-CMD ["npm", "run", "chat:server"]
+# Default command (overridden by railway.json)
+CMD ["./start.sh"]
