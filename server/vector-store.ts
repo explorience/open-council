@@ -92,13 +92,17 @@ export class VectorStore {
     }
 
     try {
-      // Query all records, selecting only the id field for efficiency
-      const results = await this.table
-        .query()
-        .select(['id'])
-        .execute();
+      // Use Scanner to efficiently iterate through all records
+      const scanner = await this.table.query().select(['id']).toScanner();
+      const ids = new Set<string>();
 
-      return new Set(results.map((r: any) => r.id));
+      for await (const batch of scanner) {
+        for (const record of batch) {
+          ids.add(record.id);
+        }
+      }
+
+      return ids;
     } catch (error) {
       console.error('Error fetching existing chunk IDs:', error);
       return new Set();
