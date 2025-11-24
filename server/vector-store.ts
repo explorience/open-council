@@ -92,17 +92,18 @@ export class VectorStore {
     }
 
     try {
-      // Use Scanner to efficiently iterate through all records
-      const scanner = await this.table.query().select(['id']).toScanner();
-      const ids = new Set<string>();
+      // Use a simple search with a large limit to get all IDs
+      // Vector search requires a query vector, so we'll use a dummy vector
+      // and just retrieve the IDs
+      const dummyVector = new Array(1536).fill(0); // text-embedding-3-small dimension
 
-      for await (const batch of scanner) {
-        for (const record of batch) {
-          ids.add(record.id);
-        }
-      }
+      const results = await this.table
+        .vectorSearch(dummyVector)
+        .limit(20000) // Large enough to cover all chunks
+        .select(['id'])
+        .toArray();
 
-      return ids;
+      return new Set(results.map((r: any) => r.id));
     } catch (error) {
       console.error('Error fetching existing chunk IDs:', error);
       return new Set();
