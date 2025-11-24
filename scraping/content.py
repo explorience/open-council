@@ -246,6 +246,12 @@ class Vote(Content):
       Mayor J. Morgan, A. Hopkins, S. Lewis, S. Hillier, E. Peloza, P. Van Meerbergen, S. Lehman, H. McAlister, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, S. Franke, D. Ferreira,  and C. Rahman
      </td>
     </tr>
+
+    OR (older eScribe format, 2018):
+    <tr>
+     <td class="VoterVote" colspan="1">Yeas:  (15)</td>
+     <td colspan="1">Mayor E. Holder, M. van Holst, S. Lewis...</td>
+    </tr>
     """
 
     # make sure it's not empty
@@ -254,7 +260,20 @@ class Vote(Content):
     # "Yeas:  (15)" -> "Yeas:"
     vote = row.find(class_="VoterVote").contents[0].split(" ")[0]
 
-    voters = row.find(class_="VotesUsers").contents[0].replace(" and ", "").split(", ")
+    # Try to find VotesUsers class, otherwise use second TD
+    voters_cell = row.find(class_="VotesUsers")
+    if not voters_cell:
+      # Older format: just get all TD elements and use the second one
+      all_tds = row.find_all('td')
+      if len(all_tds) >= 2:
+        voters_cell = all_tds[1]
+      else:
+        return  # Can't find voters
+
+    if not voters_cell or not voters_cell.contents:
+      return  # Empty cell
+
+    voters = voters_cell.contents[0].replace(" and ", "").split(", ")
 
     self.rows.append({
       "vote": vote,
