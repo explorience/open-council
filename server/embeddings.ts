@@ -7,6 +7,8 @@ import type { Meeting, EmbeddingChunk, Content } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
 const BATCH_SIZE = 100;
+const RATE_LIMIT_DELAY_MS = 2000; // 2 seconds between batches to avoid rate limits
+const MAX_RETRIES = 5;
 
 export class EmbeddingGenerator {
   private openai: OpenAI;
@@ -193,6 +195,51 @@ export class EmbeddingGenerator {
   }
 
   /**
+   * Sleep helper for rate limiting
+   */
+  private sleep(ms: number): Promise<void> {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+  /**
+   * Generate embeddings for a single batch with retry logic
+   */
+  private async generateBatchWithRetry(texts: string[], batchIndex: number): Promise<OpenAI.Embeddings.CreateEmbeddingResponse> {
+    let lastError: Error | null = null;
+
+    for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
+      try {
+        const response = await this.openai.embeddings.create({
+          model: EMBEDDING_MODEL,
+          input: texts,
+        });
+        return response;
+      } catch (error: any) {
+        lastError = error;
+
+        // Check if it's a rate limit error
+        if (error?.status === 429) {
+          // Extract retry-after from headers or use exponential backoff
+          const retryAfter = error?.headers?.['retry-after'];
+          const delayMs = retryAfter
+            ? parseInt(retryAfter) * 1000
+            : Math.min(1000 * Math.pow(2, attempt), 60000); // Exponential backoff, max 60s
+
+          console.log(`Rate limit hit on batch ${batchIndex}, retrying in ${delayMs}ms (attempt ${attempt + 1}/${MAX_RETRIES})...`);
+          await this.sleep(delayMs);
+          continue;
+        }
+
+        // For other errors, throw immediately
+        throw error;
+      }
+    }
+
+    // If we exhausted all retries, throw the last error
+    throw lastError || new Error(`Failed to generate embeddings after ${MAX_RETRIES} attempts`);
+  }
+
+  /**
    * Generate embeddings for chunks using OpenAI
    */
   async generateEmbeddings(chunks: EmbeddingChunk[]): Promise<EmbeddingChunk[]> {
@@ -205,10 +252,7 @@ export class EmbeddingGenerator {
       const texts = batch.map(c => c.text);
 
       try {
-        const response = await this.openai.embeddings.create({
-          model: EMBEDDING_MODEL,
-          input: texts,
-        });
+        const response = await this.generateBatchWithRetry(texts, i);
 
         batch.forEach((chunk, idx) => {
           results.push({
@@ -218,6 +262,11 @@ export class EmbeddingGenerator {
         });
 
         console.log(`Processed ${Math.min(i + BATCH_SIZE, chunks.length)} / ${chunks.length}`);
+
+        // Add delay between batches to avoid rate limits
+        if (i + BATCH_SIZE < chunks.length) {
+          await this.sleep(RATE_LIMIT_DELAY_MS);
+        }
       } catch (error) {
         console.error(`Error generating embeddings for batch ${i}:`, error);
         throw error;
