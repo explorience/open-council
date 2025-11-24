@@ -1,10 +1,13 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 
+echo "🚀 Starting Open Council Chatbot..."
+echo ""
+
 # Run embedding generation (incremental mode by default)
-echo "Starting embedding generation..."
+echo "Step 1: Checking for new embeddings..."
 npm run chat:generate
 
-# Start the chat server
-echo "Starting chat server..."
+echo ""
+echo "Step 2: Starting chat server..."
 exec npm run chat:server
