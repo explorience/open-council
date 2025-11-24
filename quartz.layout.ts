@@ -41,7 +41,7 @@ const explorer = Component.Explorer({
       day: "numeric"
     }
     // switch `-` to `/` to force it to parse in the current time zone
-    const date = new Date(dateStr.replace("-", "/")).toLocaleDateString("en-CA", fmtOptions)
+    const date = new Date(dateStr.replace(/-/g, "/")).toLocaleDateString("en-CA", fmtOptions)
     node.displayName = `${node.displayName} (${date})`
   }
 })
