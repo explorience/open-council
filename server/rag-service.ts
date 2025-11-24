@@ -140,7 +140,7 @@ export class RAGService {
 
     // If temporal query, sort by date (most recent first) and take top K
     if (isTemporal && results.length > 0) {
-      console.log('Temporal query detected - sorting results by date');
+      console.log(`🕐 Temporal query detected - retrieved ${results.length} results, sorting by date...`);
       results = results
         .sort((a, b) => {
           const dateA = new Date(a.metadata.meeting_date).getTime();
@@ -151,7 +151,9 @@ export class RAGService {
 
       // Log the date range for debugging
       if (results.length > 0) {
-        console.log(`Date range: ${results[results.length - 1].metadata.meeting_date} to ${results[0].metadata.meeting_date}`);
+        const oldest = results[results.length - 1].metadata.meeting_date;
+        const newest = results[0].metadata.meeting_date;
+        console.log(`📅 Date range after sorting: ${oldest} to ${newest} (returning top ${topK} of ${results.length})`);
       }
     }
 
