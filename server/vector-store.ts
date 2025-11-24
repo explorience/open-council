@@ -92,17 +92,21 @@ export class VectorStore {
     }
 
     try {
-      // Use a simple search with a large limit to get all IDs
-      // Vector search requires a query vector, so we'll use a dummy vector
-      // and just retrieve the IDs
+      // First, get the total count to set appropriate limit
+      const totalCount = await this.table.countRows();
+      console.log(`Retrieving ${totalCount} existing chunk IDs...`);
+
+      // Use a dummy vector to retrieve all IDs
+      // Add buffer to handle any concurrent additions
       const dummyVector = new Array(1536).fill(0); // text-embedding-3-small dimension
 
       const results = await this.table
         .vectorSearch(dummyVector)
-        .limit(20000) // Large enough to cover all chunks
+        .limit(totalCount + 1000) // Add 1000 buffer for safety
         .select(['id'])
         .toArray();
 
+      console.log(`Retrieved ${results.length} chunk IDs from database`);
       return new Set(results.map((r: any) => r.id));
     } catch (error) {
       console.error('Error fetching existing chunk IDs:', error);
