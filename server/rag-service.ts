@@ -168,7 +168,7 @@ Use this context to answer the user's question. If the context doesn't contain e
 
     // Stream response
     const stream = await this.anthropic.messages.create({
-      model: 'claude-3-5-sonnet-20241022',
+      model: 'claude-3-5-sonnet-20240620',
       max_tokens: 4000,
       temperature: 0.7,
       system: systemPrompt,
