@@ -6,7 +6,7 @@ import { VectorStore } from './vector-store.js';
 import type { ChatMessage, SearchResult } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
-const TOP_K = 5;
+const TOP_K = 10; // Increased from 5 to get more context
 
 export type LLMProvider = 'openai' | 'anthropic';
 
@@ -62,11 +62,20 @@ export class RAGService {
     return results
       .map((result, idx) => {
         const meta = result.metadata;
+
+        // Convert file_path to internal Quartz URL
+        // e.g., "data/2024-09/2024-09-24 Council.json" -> "/2024-09/2024-09-24-Council"
+        const internalUrl = meta.file_path
+          .replace('data/', '/')
+          .replace('.json', '')
+          .replace(/ /g, '-');
+
         return `
 ## Context ${idx + 1}
 **Meeting:** ${meta.meeting_title} (${meta.meeting_date})
 **Type:** ${meta.chunk_type}${meta.item_title ? ` - ${meta.item_title}` : ''}
-**Source:** ${meta.meeting_url}
+**Internal Minutes:** ${internalUrl}
+**City Website:** ${meta.meeting_url}
 
 ${result.text}
 ---`;
@@ -80,7 +89,7 @@ ${result.text}
   private getSystemPrompt(context: string): string {
     return `You are an intelligent assistant helping users understand London, Ontario City Council meetings and decisions.
 
-You have access to meeting minutes, motions, votes, and bills from recent city council meetings. Your role is to:
+You have access to meeting minutes, motions, votes, and bills from city council meetings. Your role is to:
 
 1. Answer questions about what happened in specific meetings
 2. Explain motions, votes, and decisions made by council
@@ -90,16 +99,22 @@ You have access to meeting minutes, motions, votes, and bills from recent city c
 
 **Guidelines:**
 - Always cite which meeting and date information comes from
-- Be factual and precise - don't make up information
-- If you're unsure or don't have information, say so
-- Provide relevant context about motions and their outcomes
-- Include vote counts and councillor names when relevant
-- Link to the source meeting URL when possible
+- Be factual and precise - use ONLY the information provided in the context below
+- Provide complete details including full motion text, vote counts, and outcomes
+- When referencing a meeting, ALWAYS link to the **Internal Minutes** URL (not City Website)
+- Include specific details: councillor names, exact vote counts, motion text
+- If the context contains partial information, provide what you have and note what's missing
+- Never say you "don't have information" if it's clearly in the context provided
+
+**How to Link to Meetings:**
+- Use the Internal Minutes URL from the context (e.g., "/2024-09/2024-09-24-Council")
+- Format: [Meeting Name](internal-url)
+- Example: For more details, see the [15th Council Meeting](/2025-09/2025-09-23-Council)
 
 **Retrieved Context from Meetings:**
 ${context}
 
-Use this context to answer the user's question. If the context doesn't contain enough information to answer, say so clearly.`;
+Use this context to answer the user's question. Extract and present ALL relevant details from the context provided.`;
   }
 
   /**
@@ -168,7 +183,7 @@ Use this context to answer the user's question. If the context doesn't contain e
 
     // Stream response
     const stream = await this.anthropic.messages.create({
-      model: 'claude-3-5-sonnet-20241022',
+      model: 'claude-3-5-sonnet-20240620',
       max_tokens: 4000,
       temperature: 0.7,
       system: systemPrompt,
