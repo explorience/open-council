@@ -110,12 +110,51 @@ export class RAGService {
   }
 
   /**
+   * Check if query is asking about recent/latest meetings
+   */
+  private isTemporalQuery(query: string): boolean {
+    const lowerQuery = query.toLowerCase();
+    const temporalPatterns = [
+      /most recent|latest|newest|last meeting/,
+      /recent meeting/,
+      /what.*happened.*recently/,
+      /latest (meeting|council|decision)/,
+    ];
+
+    return temporalPatterns.some(pattern => pattern.test(lowerQuery));
+  }
+
+  /**
    * Retrieve relevant context from vector store with dynamic TOP_K
+   * For temporal queries, retrieve extra results and sort by date
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
     const topK = this.analyzeQueryComplexity(query);
     const queryEmbedding = await this.generateQueryEmbedding(query);
-    const results = await this.vectorStore.search(queryEmbedding, topK);
+
+    // For temporal queries, retrieve 3x results and sort by date
+    const isTemporal = this.isTemporalQuery(query);
+    const retrieveK = isTemporal ? topK * 3 : topK;
+
+    let results = await this.vectorStore.search(queryEmbedding, retrieveK);
+
+    // If temporal query, sort by date (most recent first) and take top K
+    if (isTemporal && results.length > 0) {
+      console.log('Temporal query detected - sorting results by date');
+      results = results
+        .sort((a, b) => {
+          const dateA = new Date(a.metadata.meeting_date).getTime();
+          const dateB = new Date(b.metadata.meeting_date).getTime();
+          return dateB - dateA; // Most recent first
+        })
+        .slice(0, topK);
+
+      // Log the date range for debugging
+      if (results.length > 0) {
+        console.log(`Date range: ${results[results.length - 1].metadata.meeting_date} to ${results[0].metadata.meeting_date}`);
+      }
+    }
+
     return results;
   }
 
@@ -165,6 +204,20 @@ You have access to meeting minutes, motions, votes, and bills from city council 
 4. Help users find information about specific topics discussed in meetings
 5. Summarize key decisions and their implications
 
+**IMPORTANT - Extract ALL Details:**
+The context below contains complete information including:
+- Full motion texts (moved by, seconded by, motion content)
+- Complete vote breakdowns (Yeas, Nays, who voted which way)
+- Motion results (passed/failed, vote counts)
+- Attendance information
+- Agenda item details
+
+**Your Task:**
+- READ the entire context carefully before responding
+- EXTRACT and present ALL relevant details from the context
+- If you see "Moved by X", "Seconded by Y", "Vote: Yeas: ...", "Motion Passed", etc. - include this information!
+- The context contains the details - your job is to summarize and present them clearly
+
 **Guidelines:**
 - Always cite which meeting and date information comes from
 - Be factual and precise - use ONLY the information provided in the context below
@@ -172,7 +225,7 @@ You have access to meeting minutes, motions, votes, and bills from city council 
 - When referencing a meeting, ALWAYS link to the **Internal Minutes** URL (not City Website)
 - Include specific details: councillor names, exact vote counts, motion text
 - If the context contains partial information, provide what you have and note what's missing
-- Never say you "don't have information" if it's clearly in the context provided
+- NEVER say "the context does not include details" if motion/vote information is present in the context
 
 **How to Link to Meetings:**
 - Use the Internal Minutes URL from the context (e.g., "/2024-09/2024-09-24-Council")
