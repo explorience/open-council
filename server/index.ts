@@ -3,8 +3,10 @@
 import express from 'express';
 import cors from 'cors';
 import { config } from 'dotenv';
+import { resolve } from 'path';
 import { VectorStore } from './vector-store.js';
 import { RAGService } from './rag-service.js';
+import { EmbeddingGenerator } from './embeddings.js';
 import type { ChatRequest } from './types.js';
 
 // Load environment variables
@@ -20,6 +22,7 @@ app.use(express.json());
 // Initialize services
 let vectorStore: VectorStore;
 let ragService: RAGService;
+let isRegenerating = false;
 
 async function initializeServices() {
   console.log('Initializing services...');
@@ -57,7 +60,11 @@ app.get('/health', (req, res) => {
 app.get('/api/stats', async (req, res) => {
   try {
     const stats = await vectorStore.getStats();
-    res.json(stats);
+    res.json({
+      totalChunks: stats.count,
+      status: stats.count > 0 ? 'ready' : 'empty',
+      isRegenerating
+    });
   } catch (error) {
     console.error('Error getting stats:', error);
     res.status(500).json({ error: 'Failed to get stats' });
@@ -117,6 +124,69 @@ app.post('/api/chat', async (req, res) => {
   }
 });
 
+// Trigger incremental embedding regeneration (for when new meetings are added)
+app.post('/api/regenerate', async (req, res) => {
+  try {
+    // Check if already regenerating
+    if (isRegenerating) {
+      return res.status(429).json({
+        error: 'Regeneration already in progress',
+        message: 'Please wait for the current regeneration to complete'
+      });
+    }
+
+    const openaiKey = process.env.OPENAI_API_KEY;
+    if (!openaiKey) {
+      return res.status(500).json({ error: 'OPENAI_API_KEY not configured' });
+    }
+
+    // Start regeneration in background
+    isRegenerating = true;
+
+    // Send immediate response
+    res.json({
+      status: 'started',
+      message: 'Incremental embedding generation started. Check /api/stats to monitor progress.'
+    });
+
+    // Run regeneration in background
+    (async () => {
+      try {
+        console.log('\n🔄 Starting incremental embedding generation...');
+
+        const dataDir = resolve(process.cwd(), 'data');
+        const generator = new EmbeddingGenerator(openaiKey, dataDir);
+
+        // Get existing chunk IDs
+        const existingIds = await vectorStore.getExistingChunkIds();
+        console.log(`Found ${existingIds.size} existing chunks`);
+
+        // Generate embeddings for new chunks only
+        const newChunks = await generator.generateIncremental(existingIds);
+
+        if (newChunks.length > 0) {
+          // Add new chunks to vector store
+          await vectorStore.addChunks(newChunks);
+          console.log(`✅ Added ${newChunks.length} new embeddings to database`);
+        } else {
+          console.log('✅ No new meetings to process');
+        }
+
+        const stats = await vectorStore.getStats();
+        console.log(`📊 Total vectors in database: ${stats.count}\n`);
+      } catch (error) {
+        console.error('❌ Error during regeneration:', error);
+      } finally {
+        isRegenerating = false;
+      }
+    })();
+  } catch (error) {
+    console.error('Error starting regeneration:', error);
+    isRegenerating = false;
+    res.status(500).json({ error: 'Failed to start regeneration' });
+  }
+});
+
 // Start server
 async function start() {
   try {
@@ -129,6 +199,7 @@ async function start() {
       console.log(`  GET  /api/stats       - Vector store statistics`);
       console.log(`  POST /api/context     - Get relevant context`);
       console.log(`  POST /api/chat        - Chat with streaming`);
+      console.log(`  POST /api/regenerate  - Add embeddings for new meetings`);
     });
   } catch (error) {
     console.error('Failed to start server:', error);

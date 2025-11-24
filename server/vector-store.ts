@@ -84,6 +84,64 @@ export class VectorStore {
   }
 
   /**
+   * Get all existing chunk IDs from the database
+   */
+  async getExistingChunkIds(): Promise<Set<string>> {
+    if (!this.table) {
+      return new Set();
+    }
+
+    try {
+      const results = await this.table.toArray();
+      return new Set(results.map((r: any) => r.id));
+    } catch (error) {
+      console.error('Error fetching existing chunk IDs:', error);
+      return new Set();
+    }
+  }
+
+  /**
+   * Add new chunks to the existing table (incremental update)
+   */
+  async addChunks(chunks: EmbeddingChunk[]): Promise<void> {
+    if (!this.db) {
+      throw new Error('Database not initialized');
+    }
+
+    if (chunks.length === 0) {
+      console.log('No new chunks to add');
+      return;
+    }
+
+    // Convert chunks to LanceDB format
+    const records = chunks.map(chunk => ({
+      id: chunk.id,
+      text: chunk.text,
+      vector: chunk.embedding!,
+      meeting_title: chunk.metadata.meeting_title,
+      meeting_date: chunk.metadata.meeting_date,
+      meeting_type: chunk.metadata.meeting_type,
+      meeting_url: chunk.metadata.meeting_url,
+      item_number: chunk.metadata.item_number || '',
+      item_title: chunk.metadata.item_title || '',
+      chunk_type: chunk.metadata.chunk_type,
+      file_path: chunk.metadata.file_path,
+    }));
+
+    if (!this.table) {
+      // If table doesn't exist, create it
+      console.log(`Creating new table with ${records.length} records...`);
+      this.table = await this.db.createTable(TABLE_NAME, records);
+      console.log(`Table ${TABLE_NAME} created successfully`);
+    } else {
+      // Add to existing table
+      console.log(`Adding ${records.length} new records to existing table...`);
+      await this.table.add(records);
+      console.log(`Successfully added ${records.length} new records`);
+    }
+  }
+
+  /**
    * Get statistics about the vector store
    */
   async getStats(): Promise<{ count: number }> {
