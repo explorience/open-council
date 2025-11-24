@@ -13,6 +13,11 @@ config();
 async function main() {
   console.log('🔮 London City Council - Embedding Generation\n');
 
+  // Check for --full flag
+  const fullRegeneration = process.argv.includes('--full');
+  const mode = fullRegeneration ? 'FULL REGENERATION' : 'INCREMENTAL UPDATE';
+  console.log(`Mode: ${mode}\n`);
+
   // Check for API key
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) {
@@ -23,27 +28,48 @@ async function main() {
   }
 
   try {
+    // Initialize vector store
+    const vectorStore = new VectorStore();
+    await vectorStore.initialize();
+
     // Initialize embedding generator
     const dataDir = resolve(process.cwd(), 'data');
     const generator = new EmbeddingGenerator(apiKey, dataDir);
 
-    // Generate embeddings
-    console.log('📊 Step 1: Generating embeddings...\n');
-    const chunks = await generator.generateAll();
+    let chunks;
 
-    console.log(`\n✅ Generated ${chunks.length} embeddings`);
+    if (fullRegeneration) {
+      // Full regeneration mode - process all meetings
+      console.log('📊 Step 1: Generating ALL embeddings (full regeneration)...\n');
+      chunks = await generator.generateAll();
+      console.log(`\n✅ Generated ${chunks.length} embeddings`);
 
-    // Store in vector database
-    console.log('\n📊 Step 2: Storing in vector database...\n');
-    const vectorStore = new VectorStore();
-    await vectorStore.initialize();
-    await vectorStore.createTable(chunks);
+      console.log('\n📊 Step 2: Replacing vector database...\n');
+      await vectorStore.createTable(chunks);
+    } else {
+      // Incremental mode - only process new meetings
+      console.log('📊 Step 1: Checking for new meetings...\n');
+      const existingIds = await vectorStore.getExistingChunkIds();
+
+      chunks = await generator.generateIncremental(existingIds);
+
+      if (chunks.length > 0) {
+        console.log(`\n✅ Generated ${chunks.length} new embeddings`);
+        console.log('\n📊 Step 2: Adding to vector database...\n');
+        await vectorStore.addChunks(chunks);
+      }
+    }
 
     const stats = await vectorStore.getStats();
-    console.log(`\n✅ Successfully stored ${stats.count} vectors in LanceDB`);
+    console.log(`\n✅ Vector database now contains ${stats.count} total vectors`);
 
     console.log('\n🎉 Done! You can now start the chatbot server with:');
     console.log('   npm run chat:server\n');
+
+    if (!fullRegeneration && chunks.length === 0) {
+      console.log('💡 Tip: Use --full flag to regenerate all embeddings:\n');
+      console.log('   npm run chat:generate -- --full\n');
+    }
   } catch (error) {
     console.error('\n❌ Error:', error);
     process.exit(1);

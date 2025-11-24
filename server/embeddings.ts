@@ -277,7 +277,7 @@ export class EmbeddingGenerator {
   }
 
   /**
-   * Main method to generate all embeddings
+   * Main method to generate all embeddings (full regeneration)
    */
   async generateAll(): Promise<EmbeddingChunk[]> {
     console.log('Loading meetings from', this.dataDir);
@@ -294,6 +294,37 @@ export class EmbeddingGenerator {
 
     console.log('Generating embeddings...');
     const chunksWithEmbeddings = await this.generateEmbeddings(allChunks);
+
+    return chunksWithEmbeddings;
+  }
+
+  /**
+   * Generate embeddings only for new chunks (incremental update)
+   */
+  async generateIncremental(existingChunkIds: Set<string>): Promise<EmbeddingChunk[]> {
+    console.log('🔄 Loading meetings from', this.dataDir);
+    const meetings = await this.loadMeetings();
+    console.log(`Loaded ${meetings.length} meetings`);
+
+    console.log('Creating chunks...');
+    const allChunks: EmbeddingChunk[] = [];
+    for (const { meeting, filePath } of meetings) {
+      const chunks = this.createChunks(meeting, filePath);
+      allChunks.push(...chunks);
+    }
+    console.log(`Created ${allChunks.length} total chunks`);
+
+    // Filter out chunks that already exist
+    const newChunks = allChunks.filter(chunk => !existingChunkIds.has(chunk.id));
+    console.log(`Found ${newChunks.length} new chunks (${existingChunkIds.size} already exist)`);
+
+    if (newChunks.length === 0) {
+      console.log('✅ No new meetings to process. Database is up to date!');
+      return [];
+    }
+
+    console.log(`Generating embeddings for ${newChunks.length} new chunks...`);
+    const chunksWithEmbeddings = await this.generateEmbeddings(newChunks);
 
     return chunksWithEmbeddings;
   }
