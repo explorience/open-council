@@ -1,137 +1,141 @@
 # Automatic Embedding Updates
 
-Your chatbot now supports **incremental embedding generation** - it only processes NEW meetings, not all meetings every time!
+Your chatbot automatically updates embeddings when you push new meetings to GitHub! No manual intervention needed.
 
 ## 🚀 How It Works
 
-The system automatically detects which meetings already have embeddings and only generates embeddings for new ones. This means:
+Your workflow is fully automated:
 
-- **First run**: Processes all 443 meetings (~6-7 minutes, ~$2)
-- **Adding 3 new meetings**: Processes only those 3 (~10 seconds, ~$0.001)
-- **No manual tracking needed**: The system remembers what's already processed
+1. **Add new meeting JSON files to `data/`** (you're already doing this)
+2. **Push to main branch** (you're already doing this)
+3. **Railway auto-redeploys** (already configured)
+4. **Embeddings auto-update** (incremental - only new meetings!)
+5. **Server starts** (chatbot immediately available)
 
 ---
 
-## 📋 Three Ways to Update
+## ⚡ Performance
 
-### Method 1: Automatic API Call (Recommended for Automation)
+| Scenario | Time | Cost | Frequency |
+|----------|------|------|-----------|
+| **First deploy** (all 443 meetings) | 6-7 min | ~$2 | Once |
+| **No new meetings** (redeploy only) | 2-3 sec | $0 | As needed |
+| **Add 3 new meetings** (weekly) | ~10 sec | ~$0.001 | Weekly |
 
-After you push new meetings to GitHub, trigger the update:
+The system automatically detects which meetings already have embeddings and only processes new ones.
+
+---
+
+## 📋 What Happens on Each Deploy
+
+### First Deploy (Initial Setup)
+```
+Mode: INCREMENTAL UPDATE
+⚠️  No existing embeddings found. Running FULL generation for first time...
+Loaded 443 meetings
+Created 11062 chunks
+Generating embeddings...
+✅ Generated 11062 embeddings
+✅ Vector database now contains 11062 total vectors
+🚀 RAG Chatbot API running on http://0.0.0.0:3001
+```
+**Duration:** 6-7 minutes | **Cost:** ~$2
+
+### Subsequent Deploys (No New Meetings)
+```
+Mode: INCREMENTAL UPDATE
+Found 11062 existing embeddings
+Loaded 443 meetings
+Created 11062 total chunks
+Found 0 new chunks (11062 already exist)
+✅ No new meetings to process. Database is up to date!
+🚀 RAG Chatbot API running on http://0.0.0.0:3001
+```
+**Duration:** 2-3 seconds | **Cost:** $0
+
+### Weekly Updates (New Meetings Added)
+```
+Mode: INCREMENTAL UPDATE
+Found 11062 existing embeddings
+Loaded 446 meetings
+Created 11137 total chunks
+Found 75 new chunks (11062 already exist)
+✅ Generated 75 new embeddings
+✅ Vector database now contains 11137 total vectors
+🚀 RAG Chatbot API running on http://0.0.0.0:3001
+```
+**Duration:** 5-30 seconds | **Cost:** ~$0.001
+
+---
+
+## ✅ Your Complete Workflow
+
+### Weekly (or as needed):
 
 ```bash
-curl -X POST https://open-council-production.up.railway.app/api/regenerate
+# 1. Scrape new council meetings (you're already doing this)
+npm run scrape
+
+# 2. Commit and push
+git add data/
+git commit -m "Add new council meeting data"
+git push origin main
+
+# 3. That's it! Railway automatically:
+#    - Detects the push
+#    - Redeploys the app
+#    - Checks for new meetings
+#    - Generates embeddings for ONLY new meetings (fast!)
+#    - Starts the chatbot server
 ```
 
-**Response:**
+**No manual embedding commands needed!** 🎉
+
+---
+
+## 🔧 Configuration
+
+The automatic updates are configured in `railway.json`:
+
 ```json
 {
-  "status": "started",
-  "message": "Incremental embedding generation started. Check /api/stats to monitor progress."
+  "deploy": {
+    "startCommand": "npm run chat:generate && npm run chat:server"
+  }
 }
 ```
 
-**Check progress:**
-```bash
-curl https://open-council-production.up.railway.app/api/stats
-```
+This runs:
+1. `npm run chat:generate` - Incremental embedding update (default mode)
+2. `npm run chat:server` - Start the API server
 
-**Response:**
-```json
-{
-  "totalChunks": 11085,
-  "status": "ready",
-  "isRegenerating": false
-}
-```
+### Incremental Mode (Default)
+- Automatically detects existing embeddings
+- Only processes new meetings
+- Fast and cheap
 
----
-
-### Method 2: GitHub Action (Set It and Forget It)
-
-Create `.github/workflows/update-embeddings.yml`:
-
-```yaml
-name: Update Chatbot Embeddings
-
-on:
-  push:
-    branches: [main]
-    paths:
-      - 'data/**/*.json'  # Only run when meeting data changes
-
-jobs:
-  update-embeddings:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Trigger embedding regeneration
-        run: |
-          curl -X POST https://open-council-production.up.railway.app/api/regenerate
-
-      - name: Wait for completion (optional)
-        run: |
-          for i in {1..30}; do
-            STATUS=$(curl -s https://open-council-production.up.railway.app/api/stats | jq -r '.isRegenerating')
-            if [ "$STATUS" == "false" ]; then
-              echo "✅ Embeddings updated successfully"
-              exit 0
-            fi
-            echo "⏳ Still regenerating... ($i/30)"
-            sleep 10
-          done
-```
-
-**Benefits:**
-- Runs automatically when you push new meetings
-- No manual intervention needed
-- Free on GitHub Actions
-
----
-
-### Method 3: Manual CLI (For Development)
-
-If you have the repo locally and want to test:
+### Full Regeneration (Manual)
+If you ever need to regenerate ALL embeddings from scratch:
 
 ```bash
-# Incremental update (default - only new meetings)
-npm run chat:generate
-
-# Full regeneration (rebuild everything from scratch)
 npm run chat:generate -- --full
 ```
 
----
+**When to use full regeneration:**
+- You changed how meetings are chunked (modified `embeddings.ts`)
+- You want to switch embedding models
+- The database got corrupted
+- You want a fresh start
 
-## 🔄 Workflow for Adding New Meetings
-
-Here's your weekly workflow:
-
-1. **Scrape new meetings** (you're already doing this)
-2. **Push to GitHub** (you're already doing this)
-3. **Trigger update** (new step):
-   - **Option A**: Set up GitHub Action (one-time setup, then automatic forever)
-   - **Option B**: Run this command:
-     ```bash
-     curl -X POST https://open-council-production.up.railway.app/api/regenerate
-     ```
-4. **Done!** New meetings are now searchable in the chatbot
+**Otherwise, always use the default incremental mode.**
 
 ---
 
-## ⏱️ Performance
+## 🛠️ API Endpoints (Optional)
 
-| Scenario | Time | Cost | Automatic? |
-|----------|------|------|------------|
-| Initial 443 meetings | 6-7 min | ~$2 | ✅ First deploy |
-| Add 1 new meeting | ~5 sec | ~$0.0003 | ✅ With GitHub Action |
-| Add 10 new meetings | ~30 sec | ~$0.003 | ✅ With GitHub Action |
-| Full regeneration (443 meetings) | 6-7 min | ~$2 | ❌ Manual with `--full` |
+If you want to trigger updates manually via API:
 
----
-
-## 🛠️ API Endpoints
-
-### GET /api/stats
-Check database status:
+### Check Status
 ```bash
 curl https://open-council-production.up.railway.app/api/stats
 ```
@@ -145,95 +149,150 @@ curl https://open-council-production.up.railway.app/api/stats
 }
 ```
 
-### POST /api/regenerate
-Trigger incremental update:
+### Trigger Manual Update (Optional)
 ```bash
 curl -X POST https://open-council-production.up.railway.app/api/regenerate
 ```
 
-**Response:**
-```json
-{
-  "status": "started",
-  "message": "Incremental embedding generation started..."
-}
-```
+This runs in the background. Check `/api/stats` to monitor progress.
 
-**Note:** Returns immediately. The update runs in the background. Check `/api/stats` to monitor progress.
-
----
-
-## 🔧 When to Use Full Regeneration
-
-Use `npm run chat:generate -- --full` if:
-- You changed how meetings are chunked (modified `embeddings.ts`)
-- You want to switch embedding models
-- The database got corrupted
-- You want a fresh start
-
-**Otherwise, always use incremental mode** (the default).
-
----
-
-## 🎯 Recommended Setup (5 Minutes)
-
-1. **Create the GitHub Action** (one-time):
-   - Create `.github/workflows/update-embeddings.yml`
-   - Copy the workflow from Method 2 above
-   - Commit and push
-
-2. **Test it**:
-   - Add a new meeting JSON file to `data/`
-   - Push to GitHub
-   - Watch the Action run automatically
-   - Check `/api/stats` to see the new embedding count
-
-3. **Forget about it**:
-   - Every time you push new meetings, embeddings update automatically
-   - Zero manual intervention needed
-   - Always up to date
+**Note:** You don't need this if you're using the Railway auto-deploy workflow (which you are).
 
 ---
 
 ## 🐛 Troubleshooting
 
-**"No new meetings to process"**
-- This is normal! It means all meetings already have embeddings
-- The system is working correctly
+### Every deploy takes 6-7 minutes (regenerating all embeddings)
 
-**"Regeneration already in progress"**
-- Wait a few minutes for the current regeneration to finish
-- Check `/api/stats` - when `isRegenerating: false`, you can trigger again
+**Problem:** Railway volume is not set up correctly.
 
-**Embeddings seem out of date**
-- Check Railway logs to see if regeneration succeeded
-- Verify the API endpoint is accessible
-- Try calling `/api/regenerate` manually
+**Solution:** See `RAILWAY_VOLUME_SETUP.md` for detailed instructions.
+
+**Quick check:**
+1. Railway Dashboard → Your Service → Volumes
+2. Verify mount path is exactly: `/usr/src/app/lancedb`
+3. Check logs for: "Found XXXX existing embeddings"
+4. If logs show "No existing embeddings found" every time, volume isn't working
+
+### Embeddings seem out of date
+
+**Check Railway deployment:**
+1. Go to Railway Dashboard → Deployments
+2. Verify latest deploy succeeded
+3. Check logs for "✅ Generated X new embeddings"
+
+**Verify new data was committed:**
+```bash
+git log --oneline -5
+# Should see your commit with new meeting data
+```
+
+**Test the API:**
+```bash
+curl https://open-council-production.up.railway.app/api/stats
+# totalChunks should have increased
+```
+
+### Railway deployment failed
+
+**Check logs:**
+1. Railway Dashboard → Deployments → View Logs
+2. Look for error messages
+
+**Common issues:**
+- `OPENAI_API_KEY not set` → Add to Railway environment variables
+- `Rate limit exceeded` → Wait 60 seconds, redeploy
+- `Out of memory` → Increase Railway plan (unlikely with 443 meetings)
+
+### Want to force full regeneration
+
+**Option 1: Via Railway dashboard**
+1. Delete the volume: Railway → Service → Volumes → Delete
+2. Redeploy
+3. Create new volume with mount path `/usr/src/app/lancedb`
+
+**Option 2: Change start command temporarily**
+Edit `railway.json`:
+```json
+"startCommand": "npm run chat:generate -- --full && npm run chat:server"
+```
+Push to trigger deploy, then change back.
 
 ---
 
-## 💡 Pro Tips
+## 💡 Best Practices
 
-1. **Monitor costs**: Check your OpenAI usage at https://platform.openai.com/usage
-   - Incremental updates cost almost nothing (~$0.001 per 3 meetings)
+### 1. Check Embedding Count After Adding Meetings
 
-2. **Check logs**: Railway dashboard → Deployments → View Logs
-   - You'll see: "✅ Added X new embeddings to database"
+After pushing new meetings:
 
-3. **Verify it worked**:
-   ```bash
-   curl https://open-council-production.up.railway.app/api/stats
-   ```
-   - `totalChunks` should increase after adding meetings
+```bash
+# Before push
+curl https://open-council-production.up.railway.app/api/stats
+# { "totalChunks": 11062 }
+
+# After push + Railway redeploy
+curl https://open-council-production.up.railway.app/api/stats
+# { "totalChunks": 11137 }  ← Increased!
+```
+
+### 2. Monitor OpenAI Costs
+
+Check your usage at: https://platform.openai.com/usage
+
+**Expected costs:**
+- Initial setup: ~$2 (one-time)
+- Weekly updates (3 meetings): ~$0.001
+- Monthly total: ~$0.004
+- Yearly total: ~$0.05
+
+Very cheap because of incremental updates!
+
+### 3. Keep Railway Logs Clean
+
+After initial setup, your logs should be short:
+```
+Mode: INCREMENTAL UPDATE
+Found 11062 existing embeddings
+✅ No new meetings to process
+🚀 RAG Chatbot API running
+```
+
+If you see long embedding generation logs every deploy, your volume isn't working.
 
 ---
 
-## 📚 Summary
+## 📊 Summary
 
-✅ **Automatic**: Set up GitHub Action once, never worry about it again
-✅ **Fast**: Only processes new meetings (seconds instead of minutes)
-✅ **Cheap**: Incremental updates cost ~$0.001 per 3 meetings
-✅ **Smart**: Automatically detects what's new
-✅ **Flexible**: Manual trigger available when needed
+**Your automated workflow:**
+```
+Weekly: Add meetings → Push to GitHub → Railway auto-deploys → Embeddings auto-update → Done!
+```
 
-**Your workflow is now fully automated!** 🎉
+**Time saved:**
+- Old way: 6-7 minutes per update
+- New way: 5-30 seconds per update
+- **Savings: ~99% faster!**
+
+**Cost saved:**
+- Old way: ~$2 per update
+- New way: ~$0.001 per update
+- **Savings: ~99.95% cheaper!**
+
+**Manual work saved:**
+- Old way: Run script every time
+- New way: Push to GitHub (already doing this)
+- **Savings: Zero extra steps!**
+
+---
+
+## ✅ Checklist
+
+- [x] Railway auto-deploys on push to main
+- [x] `railway.json` configured with incremental update command
+- [ ] Railway volume set up correctly (see `RAILWAY_VOLUME_SETUP.md`)
+- [ ] First deploy completed successfully (generated all embeddings)
+- [ ] Second deploy was fast (2-3 seconds, didn't regenerate)
+- [ ] Tested adding new meetings (only new ones processed)
+
+Once all items are checked, your system is fully automated! 🎉

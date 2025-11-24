@@ -51,12 +51,21 @@ async function main() {
       console.log('📊 Step 1: Checking for new meetings...\n');
       const existingIds = await vectorStore.getExistingChunkIds();
 
-      chunks = await generator.generateIncremental(existingIds);
+      if (existingIds.size === 0) {
+        console.log('⚠️  No existing embeddings found. Running FULL generation for first time...\n');
+        chunks = await generator.generateAll();
+        console.log(`\n✅ Generated ${chunks.length} embeddings`);
+        console.log('\n📊 Step 2: Creating vector database...\n');
+        await vectorStore.createTable(chunks);
+      } else {
+        console.log(`Found ${existingIds.size} existing embeddings`);
+        chunks = await generator.generateIncremental(existingIds);
 
-      if (chunks.length > 0) {
-        console.log(`\n✅ Generated ${chunks.length} new embeddings`);
-        console.log('\n📊 Step 2: Adding to vector database...\n');
-        await vectorStore.addChunks(chunks);
+        if (chunks.length > 0) {
+          console.log(`\n✅ Generated ${chunks.length} new embeddings`);
+          console.log('\n📊 Step 2: Adding to vector database...\n');
+          await vectorStore.addChunks(chunks);
+        }
       }
     }
 
