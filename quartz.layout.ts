@@ -5,13 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.ChatBot({
-      title: "Ask About Council Meetings",
-      placeholder: "Ask about city council meetings...",
-      apiUrl: "https://open-council-production.up.railway.app"
-    })
-  ],
+  afterBody: [],
   footer: Component.Footer()
 }
 
@@ -77,6 +71,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: searchAndExplorer,
       condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ChatBot({
+      title: "Ask About Council Meetings",
+      placeholder: "Ask about city council meetings...",
+      apiUrl: "https://open-council-production.up.railway.app"
     })
   ],
   left: [
