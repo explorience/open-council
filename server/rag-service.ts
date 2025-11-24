@@ -6,7 +6,12 @@ import { VectorStore } from './vector-store.js';
 import type { ChatMessage, SearchResult } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
-const TOP_K = 10; // Increased from 5 to get more context
+
+// Dynamic TOP_K values based on query complexity
+const TOP_K_SIMPLE = 10;      // Single meeting, specific question
+const TOP_K_MEDIUM = 30;      // Multiple meetings, specific topic
+const TOP_K_COMPLEX = 80;     // Multi-year, broad policy tracking
+const TOP_K_COMPREHENSIVE = 150; // Comprehensive historical analysis
 
 export type LLMProvider = 'openai' | 'anthropic';
 
@@ -31,6 +36,68 @@ export class RAGService {
   }
 
   /**
+   * Analyze query complexity and determine optimal TOP_K
+   */
+  private analyzeQueryComplexity(query: string): number {
+    const lowerQuery = query.toLowerCase();
+
+    // Patterns that indicate comprehensive/historical analysis
+    const comprehensivePatterns = [
+      /from \d{4} to \d{4}/,  // "from 2014 to 2025"
+      /between \d{4} and \d{4}/,  // "between 2014 and 2025"
+      /over (the )?(past|last) \d+ years/,  // "over the past 10 years"
+      /throughout|historical|history|evolution|trend|track.*over/,
+      /all.*since \d{4}/,  // "all decisions since 2014"
+    ];
+
+    // Patterns that indicate complex multi-topic queries
+    const complexPatterns = [
+      /\d{4}-\d{4}/,  // "2014-2025"
+      /compare|comparison|versus|vs/,
+      /all (meetings|decisions|votes) (about|on|regarding)/,
+      /comprehensive|complete|full (summary|overview|history)/,
+      /(housing|homelessness|budget|planning) (policy|policies|decisions)/,
+    ];
+
+    // Patterns that indicate medium complexity
+    const mediumPatterns = [
+      /in \d{4}/,  // "in 2024"
+      /last (year|month|quarter)/,
+      /recent|latest/,
+      /multiple|several|various/,
+      /all.*voted|voting record/,
+    ];
+
+    // Check for comprehensive patterns first
+    for (const pattern of comprehensivePatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`Query complexity: COMPREHENSIVE (TOP_K=${TOP_K_COMPREHENSIVE})`);
+        return TOP_K_COMPREHENSIVE;
+      }
+    }
+
+    // Check for complex patterns
+    for (const pattern of complexPatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`Query complexity: COMPLEX (TOP_K=${TOP_K_COMPLEX})`);
+        return TOP_K_COMPLEX;
+      }
+    }
+
+    // Check for medium patterns
+    for (const pattern of mediumPatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`Query complexity: MEDIUM (TOP_K=${TOP_K_MEDIUM})`);
+        return TOP_K_MEDIUM;
+      }
+    }
+
+    // Default to simple
+    console.log(`Query complexity: SIMPLE (TOP_K=${TOP_K_SIMPLE})`);
+    return TOP_K_SIMPLE;
+  }
+
+  /**
    * Generate embedding for a query
    */
   async generateQueryEmbedding(query: string): Promise<number[]> {
@@ -43,11 +110,12 @@ export class RAGService {
   }
 
   /**
-   * Retrieve relevant context from vector store
+   * Retrieve relevant context from vector store with dynamic TOP_K
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
+    const topK = this.analyzeQueryComplexity(query);
     const queryEmbedding = await this.generateQueryEmbedding(query);
-    const results = await this.vectorStore.search(queryEmbedding, TOP_K);
+    const results = await this.vectorStore.search(queryEmbedding, topK);
     return results;
   }
 
