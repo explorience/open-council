@@ -62,6 +62,11 @@ export class RAGService {
     // Patterns that indicate medium complexity
     const mediumPatterns = [
       /in \d{4}/,  // "in 2024"
+      /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,  // "in november 2025"
+      /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,  // "november 2025"
+      /meetings?.*(in|from|during|for) (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /what (meetings?|happened).*(in|during)/,
+      /(took place|occurred|held) in/,
       /last (year|month|quarter)/,
       /recent|latest/,
       /multiple|several|various/,
@@ -110,37 +115,149 @@ export class RAGService {
   }
 
   /**
-   * Check if query is asking about recent/latest meetings
+   * Check if query is asking about recent/latest meetings (for "most recent" sorting)
    */
-  private isTemporalQuery(query: string): boolean {
+  private isRecentQuery(query: string): boolean {
     const lowerQuery = query.toLowerCase();
-    const temporalPatterns = [
+    const recentPatterns = [
       /most recent|latest|newest|last meeting/,
       /recent meeting/,
       /what.*happened.*recently/,
       /latest (meeting|council|decision)/,
     ];
 
-    return temporalPatterns.some(pattern => pattern.test(lowerQuery));
+    return recentPatterns.some(pattern => pattern.test(lowerQuery));
+  }
+
+  /**
+   * Check if query asks about a specific time period (month/year)
+   */
+  private isSpecificTimePeriodQuery(query: string): boolean {
+    const lowerQuery = query.toLowerCase();
+    const timePeriodPatterns = [
+      /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,
+      /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,
+      /meetings?.*(in|from|during|for) (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /what (meetings?|happened).*(in|during) (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /(took place|occurred|held) in (january|february|march|april|may|june|july|august|september|october|november|december)/,
+    ];
+
+    return timePeriodPatterns.some(pattern => pattern.test(lowerQuery));
+  }
+
+  /**
+   * Extract month and year from a temporal query
+   * Returns { month: 0-11, year: number } or null
+   */
+  private extractDateRange(query: string): { month: number; year: number } | null {
+    const lowerQuery = query.toLowerCase();
+    const months: Record<string, number> = {
+      january: 0, february: 1, march: 2, april: 3, may: 4, june: 5,
+      july: 6, august: 7, september: 8, october: 9, november: 10, december: 11
+    };
+
+    // Match "in november 2025", "november 2025", etc.
+    const monthYearPattern = /(january|february|march|april|may|june|july|august|september|october|november|december)\s*(\d{4})/;
+    const match = lowerQuery.match(monthYearPattern);
+
+    if (match) {
+      return {
+        month: months[match[1]],
+        year: parseInt(match[2], 10)
+      };
+    }
+
+    // Match just month name (assume current or most recent year with data)
+    const monthOnlyPattern = /\b(january|february|march|april|may|june|july|august|september|october|november|december)\b/;
+    const monthMatch = lowerQuery.match(monthOnlyPattern);
+
+    if (monthMatch) {
+      // Default to 2025 if no year specified (most recent data year)
+      return {
+        month: months[monthMatch[1]],
+        year: 2025
+      };
+    }
+
+    return null;
+  }
+
+  /**
+   * Filter results to only include meetings from a specific month/year
+   */
+  private filterByDateRange(
+    results: SearchResult[],
+    dateRange: { month: number; year: number }
+  ): SearchResult[] {
+    return results.filter(result => {
+      const meetingDate = new Date(result.metadata.meeting_date);
+      return (
+        meetingDate.getMonth() === dateRange.month &&
+        meetingDate.getFullYear() === dateRange.year
+      );
+    });
   }
 
   /**
    * Retrieve relevant context from vector store with dynamic TOP_K
-   * For temporal queries, retrieve extra results and sort by date
+   * For temporal queries, retrieve extra results and apply date filtering/sorting
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
     const topK = this.analyzeQueryComplexity(query);
     const queryEmbedding = await this.generateQueryEmbedding(query);
 
-    // For temporal queries, retrieve 3x results and sort by date
-    const isTemporal = this.isTemporalQuery(query);
-    const retrieveK = isTemporal ? topK * 3 : topK;
+    // Check for different types of temporal queries
+    const isRecent = this.isRecentQuery(query);
+    const isSpecificPeriod = this.isSpecificTimePeriodQuery(query);
+    const dateRange = this.extractDateRange(query);
+
+    // For any temporal query, retrieve more results to ensure we capture the right time period
+    const retrieveK = (isRecent || isSpecificPeriod) ? Math.max(topK * 5, 100) : topK;
 
     let results = await this.vectorStore.search(queryEmbedding, retrieveK);
 
-    // If temporal query, sort by date (most recent first) and take top K
-    if (isTemporal && results.length > 0) {
-      console.log(`🕐 Temporal query detected - retrieved ${results.length} results, sorting by date...`);
+    // Handle specific time period queries (e.g., "meetings in november 2025")
+    if (isSpecificPeriod && dateRange) {
+      console.log(`📆 Specific time period query detected: ${dateRange.month + 1}/${dateRange.year}`);
+      console.log(`   Retrieved ${results.length} initial results, filtering by date...`);
+
+      // Filter to only include results from the specified month/year
+      const filteredResults = this.filterByDateRange(results, dateRange);
+      console.log(`   Found ${filteredResults.length} results in the specified period`);
+
+      if (filteredResults.length > 0) {
+        // Sort by date and deduplicate by meeting
+        results = filteredResults
+          .sort((a, b) => {
+            const dateA = new Date(a.metadata.meeting_date).getTime();
+            const dateB = new Date(b.metadata.meeting_date).getTime();
+            return dateB - dateA; // Most recent first
+          });
+
+        // Get unique meetings from the results
+        const seenMeetings = new Set<string>();
+        const uniqueMeetingResults: SearchResult[] = [];
+        for (const result of results) {
+          const meetingKey = `${result.metadata.meeting_title}-${result.metadata.meeting_date}`;
+          if (!seenMeetings.has(meetingKey)) {
+            seenMeetings.add(meetingKey);
+            uniqueMeetingResults.push(result);
+          }
+        }
+        console.log(`   Found ${seenMeetings.size} unique meetings in ${dateRange.month + 1}/${dateRange.year}`);
+
+        // Return filtered results (may be fewer than topK if not many meetings in that period)
+        return results.slice(0, topK);
+      } else {
+        console.log(`   ⚠️ No meetings found in ${dateRange.month + 1}/${dateRange.year}`);
+        // Return empty or let the LLM know no meetings were found
+        return [];
+      }
+    }
+
+    // Handle "most recent" type queries - sort by date
+    if (isRecent && results.length > 0) {
+      console.log(`🕐 Recent query detected - retrieved ${results.length} results, sorting by date...`);
       results = results
         .sort((a, b) => {
           const dateA = new Date(a.metadata.meeting_date).getTime();
@@ -153,7 +270,7 @@ export class RAGService {
       if (results.length > 0) {
         const oldest = results[results.length - 1].metadata.meeting_date;
         const newest = results[0].metadata.meeting_date;
-        console.log(`📅 Date range after sorting: ${oldest} to ${newest} (returning top ${topK} of ${results.length})`);
+        console.log(`📅 Date range after sorting: ${oldest} to ${newest} (returning top ${topK})`);
       }
     }
 
@@ -228,6 +345,14 @@ The context below contains complete information including:
 - Include specific details: councillor names, exact vote counts, motion text
 - If the context contains partial information, provide what you have and note what's missing
 - NEVER say "the context does not include details" if motion/vote information is present in the context
+
+**IMPORTANT - Handling Time-Based Questions:**
+When a user asks about meetings in a specific time period (e.g., "meetings in November 2025", "what happened in October 2025"):
+1. **List ALL meetings** found in the context for that time period - do not just mention one
+2. **Be explicit** if the context contains no meetings from that period - say "Based on the available data, no meetings were found for [time period]"
+3. **Enumerate each meeting** with its date, title, and type (e.g., Council, Committee, etc.)
+4. **Do not assume** that finding one meeting means it's the only one - always scan the entire context
+5. If asked "what other meetings" or "any other meetings", carefully re-examine the context for ALL unique meetings
 
 **How to Link to Meetings:**
 - Use the Internal Minutes URL from the context (e.g., "/2024-09/2024-09-24-Council")
