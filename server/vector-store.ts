@@ -156,6 +156,59 @@ export class VectorStore {
   }
 
   /**
+   * Search for chunks within a specific date range (month/year)
+   * This bypasses semantic search and returns ALL chunks from the specified period
+   */
+  async searchByDateRange(
+    month: number,  // 0-11
+    year: number,
+    limit: number = 100
+  ): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    // Build date range for the month
+    const startDate = new Date(year, month, 1);
+    const endDate = new Date(year, month + 1, 0); // Last day of the month
+
+    const startStr = startDate.toISOString().split('T')[0];
+    const endStr = endDate.toISOString().split('T')[0];
+
+    console.log(`🔍 Searching for meetings between ${startStr} and ${endStr}`);
+
+    try {
+      // Query with date filter - LanceDB uses SQL-like syntax
+      const results = await this.table
+        .search([])  // Empty search to get all, then filter
+        .where(`meeting_date >= '${startStr}' AND meeting_date <= '${endStr} 23:59:59'`)
+        .limit(limit)
+        .toArray();
+
+      console.log(`   Found ${results.length} chunks in date range`);
+
+      return results.map((result: any) => ({
+        text: result.text,
+        score: 0, // No semantic score for date-based search
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error) {
+      console.error('Error in date range search:', error);
+      // Fallback: return empty array
+      return [];
+    }
+  }
+
+  /**
    * Get statistics about the vector store
    */
   async getStats(): Promise<{ count: number }> {

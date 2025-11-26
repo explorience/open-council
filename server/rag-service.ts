@@ -135,11 +135,14 @@ export class RAGService {
   private isSpecificTimePeriodQuery(query: string): boolean {
     const lowerQuery = query.toLowerCase();
     const timePeriodPatterns = [
+      /this month|current month|last month|previous month/,
       /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,
       /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,
       /meetings?.*(in|from|during|for) (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /meetings?.*(this|last|current|previous) month/,
       /what (meetings?|happened).*(in|during) (january|february|march|april|may|june|july|august|september|october|november|december)/,
-      /(took place|occurred|held) in (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /what (meetings?|happened).*(this|last) month/,
+      /(took place|occurred|held) (in |this |last )?(january|february|march|april|may|june|july|august|september|october|november|december|month)/,
     ];
 
     return timePeriodPatterns.some(pattern => pattern.test(lowerQuery));
@@ -155,6 +158,23 @@ export class RAGService {
       january: 0, february: 1, march: 2, april: 3, may: 4, june: 5,
       july: 6, august: 7, september: 8, october: 9, november: 10, december: 11
     };
+
+    // Match "this month" - use current date (November 2025)
+    if (/this month|current month/.test(lowerQuery)) {
+      const now = new Date();
+      return {
+        month: now.getMonth(),
+        year: now.getFullYear()
+      };
+    }
+
+    // Match "last month"
+    if (/last month|previous month/.test(lowerQuery)) {
+      const now = new Date();
+      const lastMonth = now.getMonth() === 0 ? 11 : now.getMonth() - 1;
+      const year = now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear();
+      return { month: lastMonth, year };
+    }
 
     // Match "in november 2025", "november 2025", etc.
     const monthYearPattern = /(january|february|march|april|may|june|july|august|september|october|november|december)\s*(\d{4})/;
@@ -217,17 +237,20 @@ export class RAGService {
     let results = await this.vectorStore.search(queryEmbedding, retrieveK);
 
     // Handle specific time period queries (e.g., "meetings in november 2025")
+    // Use direct date filtering instead of semantic search + post-filter
     if (isSpecificPeriod && dateRange) {
       console.log(`📆 Specific time period query detected: ${dateRange.month + 1}/${dateRange.year}`);
-      console.log(`   Retrieved ${results.length} initial results, filtering by date...`);
 
-      // Filter to only include results from the specified month/year
-      const filteredResults = this.filterByDateRange(results, dateRange);
-      console.log(`   Found ${filteredResults.length} results in the specified period`);
+      // Use date-filtered search to get ALL meetings from this period
+      const dateResults = await this.vectorStore.searchByDateRange(
+        dateRange.month,
+        dateRange.year,
+        200  // Get plenty of chunks to ensure we capture all meetings
+      );
 
-      if (filteredResults.length > 0) {
-        // Sort by date and deduplicate by meeting
-        results = filteredResults
+      if (dateResults.length > 0) {
+        // Sort by date
+        results = dateResults
           .sort((a, b) => {
             const dateA = new Date(a.metadata.meeting_date).getTime();
             const dateB = new Date(b.metadata.meeting_date).getTime();
@@ -236,17 +259,13 @@ export class RAGService {
 
         // Get unique meetings from the results
         const seenMeetings = new Set<string>();
-        const uniqueMeetingResults: SearchResult[] = [];
         for (const result of results) {
           const meetingKey = `${result.metadata.meeting_title}-${result.metadata.meeting_date}`;
-          if (!seenMeetings.has(meetingKey)) {
-            seenMeetings.add(meetingKey);
-            uniqueMeetingResults.push(result);
-          }
+          seenMeetings.add(meetingKey);
         }
         console.log(`   Found ${seenMeetings.size} unique meetings in ${dateRange.month + 1}/${dateRange.year}`);
 
-        // Return filtered results (may be fewer than topK if not many meetings in that period)
+        // Return results (may be fewer than topK if not many meetings in that period)
         return results.slice(0, topK);
       } else {
         console.log(`   ⚠️ No meetings found in ${dateRange.month + 1}/${dateRange.year}`);
