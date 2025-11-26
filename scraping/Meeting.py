@@ -91,14 +91,22 @@ class Meeting:
         [also_present, remote_attendance] = extra_info
       elif len(extra_info) == 1 and "Remote Attendance" in str(extra_info[0].contents[0]):
         [remote_attendance] = extra_info
-      else:
-        # bare text
-        [also_present, remote_attendance, content] = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
+      elif len(extra_info) == 1:
+        # Only one element, likely also_present
+        [also_present] = extra_info
+      elif len(extra_info) > 0:
+        # bare text - variable number of elements
+        texts = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
         # we need to wrap them in <p> for the adding functions
         soup = BeautifulSoup("<html></html>", 'html.parser')
-        also_present = soup.new_tag("p", string=also_present)
-        remote_attendance = soup.new_tag("p", string=remote_attendance)
-        content = soup.new_tag("p", string=content)
+
+        # Handle variable number of text elements (1, 2, or 3)
+        if len(texts) >= 1:
+          also_present = soup.new_tag("p", string=texts[0])
+        if len(texts) >= 2:
+          remote_attendance = soup.new_tag("p", string=texts[1])
+        if len(texts) >= 3:
+          content = soup.new_tag("p", string=texts[2])
 
     if also_present: self.add_also_present(also_present)
     if remote_attendance: self.add_remote_attendance(remote_attendance)
