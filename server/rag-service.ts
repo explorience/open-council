@@ -3,6 +3,7 @@
 import OpenAI from 'openai';
 import Anthropic from '@anthropic-ai/sdk';
 import { VectorStore } from './vector-store.js';
+import { getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
@@ -62,6 +63,11 @@ export class RAGService {
     // Patterns that indicate medium complexity
     const mediumPatterns = [
       /in \d{4}/,  // "in 2024"
+      /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,  // "in november 2025"
+      /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,  // "november 2025"
+      /meetings?.*(in|from|during|for) (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /what (meetings?|happened).*(in|during)/,
+      /(took place|occurred|held) in/,
       /last (year|month|quarter)/,
       /recent|latest/,
       /multiple|several|various/,
@@ -110,37 +116,168 @@ export class RAGService {
   }
 
   /**
-   * Check if query is asking about recent/latest meetings
+   * Check if query is asking about recent/latest meetings (for "most recent" sorting)
    */
-  private isTemporalQuery(query: string): boolean {
+  private isRecentQuery(query: string): boolean {
     const lowerQuery = query.toLowerCase();
-    const temporalPatterns = [
+    const recentPatterns = [
       /most recent|latest|newest|last meeting/,
       /recent meeting/,
       /what.*happened.*recently/,
       /latest (meeting|council|decision)/,
     ];
 
-    return temporalPatterns.some(pattern => pattern.test(lowerQuery));
+    return recentPatterns.some(pattern => pattern.test(lowerQuery));
+  }
+
+  /**
+   * Check if query asks about a specific time period (month/year)
+   */
+  private isSpecificTimePeriodQuery(query: string): boolean {
+    const lowerQuery = query.toLowerCase();
+    const timePeriodPatterns = [
+      /this month|current month|last month|previous month/,
+      /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,
+      /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,
+      /meetings?.*(in|from|during|for) (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /meetings?.*(this|last|current|previous) month/,
+      /what (meetings?|happened).*(in|during) (january|february|march|april|may|june|july|august|september|october|november|december)/,
+      /what (meetings?|happened).*(this|last) month/,
+      /(took place|occurred|held) (in |this |last )?(january|february|march|april|may|june|july|august|september|october|november|december|month)/,
+    ];
+
+    return timePeriodPatterns.some(pattern => pattern.test(lowerQuery));
+  }
+
+  /**
+   * Extract month and year from a temporal query
+   * Returns { month: 0-11, year: number } or null
+   */
+  private extractDateRange(query: string): { month: number; year: number } | null {
+    const lowerQuery = query.toLowerCase();
+    const months: Record<string, number> = {
+      january: 0, february: 1, march: 2, april: 3, may: 4, june: 5,
+      july: 6, august: 7, september: 8, october: 9, november: 10, december: 11
+    };
+
+    // Match "this month" - use current date (November 2025)
+    if (/this month|current month/.test(lowerQuery)) {
+      const now = new Date();
+      return {
+        month: now.getMonth(),
+        year: now.getFullYear()
+      };
+    }
+
+    // Match "last month"
+    if (/last month|previous month/.test(lowerQuery)) {
+      const now = new Date();
+      const lastMonth = now.getMonth() === 0 ? 11 : now.getMonth() - 1;
+      const year = now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear();
+      return { month: lastMonth, year };
+    }
+
+    // Match "in november 2025", "november 2025", etc.
+    const monthYearPattern = /(january|february|march|april|may|june|july|august|september|october|november|december)\s*(\d{4})/;
+    const match = lowerQuery.match(monthYearPattern);
+
+    if (match) {
+      return {
+        month: months[match[1]],
+        year: parseInt(match[2], 10)
+      };
+    }
+
+    // Match just month name (assume current or most recent year with data)
+    const monthOnlyPattern = /\b(january|february|march|april|may|june|july|august|september|october|november|december)\b/;
+    const monthMatch = lowerQuery.match(monthOnlyPattern);
+
+    if (monthMatch) {
+      // Default to 2025 if no year specified (most recent data year)
+      return {
+        month: months[monthMatch[1]],
+        year: 2025
+      };
+    }
+
+    return null;
+  }
+
+  /**
+   * Filter results to only include meetings from a specific month/year
+   */
+  private filterByDateRange(
+    results: SearchResult[],
+    dateRange: { month: number; year: number }
+  ): SearchResult[] {
+    return results.filter(result => {
+      const meetingDate = new Date(result.metadata.meeting_date);
+      return (
+        meetingDate.getMonth() === dateRange.month &&
+        meetingDate.getFullYear() === dateRange.year
+      );
+    });
   }
 
   /**
    * Retrieve relevant context from vector store with dynamic TOP_K
-   * For temporal queries, retrieve extra results and sort by date
+   * For temporal queries, retrieve extra results and apply date filtering/sorting
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
     const topK = this.analyzeQueryComplexity(query);
     const queryEmbedding = await this.generateQueryEmbedding(query);
 
-    // For temporal queries, retrieve 3x results and sort by date
-    const isTemporal = this.isTemporalQuery(query);
-    const retrieveK = isTemporal ? topK * 3 : topK;
+    // Check for different types of temporal queries
+    const isRecent = this.isRecentQuery(query);
+    const isSpecificPeriod = this.isSpecificTimePeriodQuery(query);
+    const dateRange = this.extractDateRange(query);
+
+    // For any temporal query, retrieve more results to ensure we capture the right time period
+    const retrieveK = (isRecent || isSpecificPeriod) ? Math.max(topK * 5, 100) : topK;
 
     let results = await this.vectorStore.search(queryEmbedding, retrieveK);
 
-    // If temporal query, sort by date (most recent first) and take top K
-    if (isTemporal && results.length > 0) {
-      console.log(`🕐 Temporal query detected - retrieved ${results.length} results, sorting by date...`);
+    // Handle specific time period queries (e.g., "meetings in november 2025")
+    // Use direct date filtering instead of semantic search + post-filter
+    if (isSpecificPeriod && dateRange) {
+      console.log(`📆 Specific time period query detected: ${dateRange.month + 1}/${dateRange.year}`);
+
+      // Use date-filtered search to get ALL meetings from this period
+      const dateResults = await this.vectorStore.searchByDateRange(
+        dateRange.month,
+        dateRange.year,
+        200  // Get plenty of chunks to ensure we capture all meetings
+      );
+
+      if (dateResults.length > 0) {
+        // Sort by date
+        results = dateResults
+          .sort((a, b) => {
+            const dateA = new Date(a.metadata.meeting_date).getTime();
+            const dateB = new Date(b.metadata.meeting_date).getTime();
+            return dateB - dateA; // Most recent first
+          });
+
+        // Get unique meetings from the results
+        const seenMeetings = new Set<string>();
+        for (const result of results) {
+          const meetingKey = `${result.metadata.meeting_title}-${result.metadata.meeting_date}`;
+          seenMeetings.add(meetingKey);
+        }
+        console.log(`   Found ${seenMeetings.size} unique meetings in ${dateRange.month + 1}/${dateRange.year}`);
+
+        // Return results (may be fewer than topK if not many meetings in that period)
+        return results.slice(0, topK);
+      } else {
+        console.log(`   ⚠️ No meetings found in ${dateRange.month + 1}/${dateRange.year}`);
+        // Return empty or let the LLM know no meetings were found
+        return [];
+      }
+    }
+
+    // Handle "most recent" type queries - sort by date
+    if (isRecent && results.length > 0) {
+      console.log(`🕐 Recent query detected - retrieved ${results.length} results, sorting by date...`);
       results = results
         .sort((a, b) => {
           const dateA = new Date(a.metadata.meeting_date).getTime();
@@ -153,7 +290,7 @@ export class RAGService {
       if (results.length > 0) {
         const oldest = results[results.length - 1].metadata.meeting_date;
         const newest = results[0].metadata.meeting_date;
-        console.log(`📅 Date range after sorting: ${oldest} to ${newest} (returning top ${topK} of ${results.length})`);
+        console.log(`📅 Date range after sorting: ${oldest} to ${newest} (returning top ${topK})`);
       }
     }
 
@@ -193,54 +330,6 @@ ${result.text}
   }
 
   /**
-   * Generate system prompt for the chatbot
-   */
-  private getSystemPrompt(context: string): string {
-    return `You are an intelligent assistant helping users understand London, Ontario City Council meetings and decisions.
-
-You have access to meeting minutes, motions, votes, and bills from city council meetings. Your role is to:
-
-1. Answer questions about what happened in specific meetings
-2. Explain motions, votes, and decisions made by council
-3. Provide information about councillor participation and voting records
-4. Help users find information about specific topics discussed in meetings
-5. Summarize key decisions and their implications
-
-**IMPORTANT - Extract ALL Details:**
-The context below contains complete information including:
-- Full motion texts (moved by, seconded by, motion content)
-- Complete vote breakdowns (Yeas, Nays, who voted which way)
-- Motion results (passed/failed, vote counts)
-- Attendance information
-- Agenda item details
-
-**Your Task:**
-- READ the entire context carefully before responding
-- EXTRACT and present ALL relevant details from the context
-- If you see "Moved by X", "Seconded by Y", "Vote: Yeas: ...", "Motion Passed", etc. - include this information!
-- The context contains the details - your job is to summarize and present them clearly
-
-**Guidelines:**
-- Always cite which meeting and date information comes from
-- Be factual and precise - use ONLY the information provided in the context below
-- Provide complete details including full motion text, vote counts, and outcomes
-- When referencing a meeting, ALWAYS link to the **Internal Minutes** URL (not City Website)
-- Include specific details: councillor names, exact vote counts, motion text
-- If the context contains partial information, provide what you have and note what's missing
-- NEVER say "the context does not include details" if motion/vote information is present in the context
-
-**How to Link to Meetings:**
-- Use the Internal Minutes URL from the context (e.g., "/2024-09/2024-09-24-Council")
-- Format: [Meeting Name](internal-url)
-- Example: For more details, see the [15th Council Meeting](/2025-09/2025-09-23-Council)
-
-**Retrieved Context from Meetings:**
-${context}
-
-Use this context to answer the user's question. Extract and present ALL relevant details from the context provided.`;
-  }
-
-  /**
    * Chat with streaming using OpenAI
    */
   async *chatStreamOpenAI(
@@ -250,7 +339,7 @@ Use this context to answer the user's question. Extract and present ALL relevant
     // Retrieve relevant context
     const results = await this.retrieveContext(message);
     const context = this.buildContextString(results);
-    const systemPrompt = this.getSystemPrompt(context);
+    const systemPrompt = getSystemPrompt(context);
 
     // Build messages array
     const messages: OpenAI.Chat.ChatCompletionMessageParam[] = [
@@ -267,8 +356,8 @@ Use this context to answer the user's question. Extract and present ALL relevant
       model: 'gpt-4o',
       messages,
       stream: true,
-      temperature: 0.7,
-      max_tokens: 2000,
+      temperature: 0.4,  // Lower for more focused, consistent responses
+      max_tokens: 4000,
     });
 
     for await (const chunk of stream) {
@@ -293,7 +382,7 @@ Use this context to answer the user's question. Extract and present ALL relevant
     // Retrieve relevant context
     const results = await this.retrieveContext(message);
     const context = this.buildContextString(results);
-    const systemPrompt = this.getSystemPrompt(context);
+    const systemPrompt = getSystemPrompt(context);
 
     // Build messages array
     const messages: Anthropic.MessageParam[] = [
@@ -306,9 +395,9 @@ Use this context to answer the user's question. Extract and present ALL relevant
 
     // Stream response
     const stream = await this.anthropic.messages.create({
-      model: 'claude-3-5-sonnet-20240620',
+      model: 'claude-sonnet-4-5-20250929',
       max_tokens: 4000,
-      temperature: 0.7,
+      temperature: 0.4,  // Lower for more focused, consistent responses
       system: systemPrompt,
       messages,
       stream: true,
