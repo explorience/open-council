@@ -178,9 +178,12 @@ export class VectorStore {
     console.log(`🔍 Searching for meetings between ${startStr} and ${endStr}`);
 
     try {
-      // Query with date filter - LanceDB uses SQL-like syntax
+      // Use a dummy vector to query with date filter
+      // LanceDB requires a vector for vectorSearch, so we use zeros and ignore similarity
+      const dummyVector = new Array(1536).fill(0); // text-embedding-3-small dimension
+
       const results = await this.table
-        .search([])  // Empty search to get all, then filter
+        .vectorSearch(dummyVector)
         .where(`meeting_date >= '${startStr}' AND meeting_date <= '${endStr} 23:59:59'`)
         .limit(limit)
         .toArray();
