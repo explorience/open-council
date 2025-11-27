@@ -234,8 +234,8 @@ class Vote(Content):
         # Direct list of {"vote": "Yeas:", "voters": [...]} dicts
         self.rows = motion_voters
       else:
-        # BeautifulSoup element
-        for row in motion_voters.contents:
+        # BeautifulSoup element - filter for actual TR tags, not NavigableStrings
+        for row in motion_voters.find_all('tr'):
           self.add_row(row)
 
   def add_row(self, row):
@@ -254,21 +254,18 @@ class Vote(Content):
     </tr>
     """
 
-    # make sure it's not empty
-    if len(row.contents) != 2: return
+    # Get all TD elements - should be exactly 2
+    all_tds = row.find_all('td')
+    if len(all_tds) != 2: return
 
     # "Yeas:  (15)" -> "Yeas:"
-    vote = row.find(class_="VoterVote").contents[0].split(" ")[0]
+    vote = all_tds[0].contents[0].split(" ")[0]
 
     # Try to find VotesUsers class, otherwise use second TD
     voters_cell = row.find(class_="VotesUsers")
     if not voters_cell:
-      # Older format: just get all TD elements and use the second one
-      all_tds = row.find_all('td')
-      if len(all_tds) >= 2:
-        voters_cell = all_tds[1]
-      else:
-        return  # Can't find voters
+      # Older format: use the second TD element
+      voters_cell = all_tds[1]
 
     if not voters_cell or not voters_cell.contents:
       return  # Empty cell
