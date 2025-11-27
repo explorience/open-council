@@ -65,6 +65,22 @@
   flex-direction: column;
   overflow: hidden;
   animation: slideIn 0.3s ease;
+  transition: all 0.3s ease;
+
+  &.maximized {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: auto;
+    right: auto;
+    width: 95vw;
+    max-width: 95vw;
+    height: 95vh;
+    max-height: 95vh;
+    border-radius: 8px;
+    z-index: 1001;
+  }
 }
 
 @keyframes slideIn {
@@ -94,6 +110,13 @@
   }
 }
 
+.chatbot-header-buttons {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.chatbot-maximize,
 .chatbot-close {
   background: transparent;
   border: none;
