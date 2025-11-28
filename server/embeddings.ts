@@ -6,9 +6,19 @@ import OpenAI from 'openai';
 import type { Meeting, EmbeddingChunk, Content } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
-const BATCH_SIZE = 100;
+const MAX_BATCH_SIZE = 100; // Maximum chunks per batch
+const MAX_TOKENS_PER_BATCH = 8000; // text-embedding-3-small has 8192 token limit, leave some margin
+const MAX_TOKENS_PER_CHUNK = 8000; // Maximum tokens per individual chunk
 const RATE_LIMIT_DELAY_MS = 2000; // 2 seconds between batches to avoid rate limits
 const MAX_RETRIES = 5;
+
+/**
+ * Rough token count estimation (OpenAI uses ~4 chars per token for English text)
+ * This is a conservative estimate to avoid hitting the limit
+ */
+function estimateTokenCount(text: string): number {
+  return Math.ceil(text.length / 3.5); // Slightly more conservative than 4
+}
 
 export class EmbeddingGenerator {
   private openai: OpenAI;
@@ -240,6 +250,58 @@ export class EmbeddingGenerator {
   }
 
   /**
+   * Truncate text to fit within token limit
+   */
+  private truncateToTokenLimit(text: string, maxTokens: number): string {
+    const estimatedTokens = estimateTokenCount(text);
+    if (estimatedTokens <= maxTokens) {
+      return text;
+    }
+    // Truncate to approximately the right length (conservative)
+    const maxChars = Math.floor(maxTokens * 3.5);
+    return text.substring(0, maxChars) + '...';
+  }
+
+  /**
+   * Create token-aware batches from chunks
+   */
+  private createTokenAwareBatches(chunks: EmbeddingChunk[]): EmbeddingChunk[][] {
+    const batches: EmbeddingChunk[][] = [];
+    let currentBatch: EmbeddingChunk[] = [];
+    let currentTokenCount = 0;
+
+    for (const chunk of chunks) {
+      // Truncate chunk text if it exceeds the per-chunk limit
+      const truncatedText = this.truncateToTokenLimit(chunk.text, MAX_TOKENS_PER_CHUNK);
+      const chunkTokens = estimateTokenCount(truncatedText);
+
+      // Update the chunk's text if it was truncated
+      const processedChunk = truncatedText !== chunk.text
+        ? { ...chunk, text: truncatedText }
+        : chunk;
+
+      // Check if adding this chunk would exceed limits
+      if (currentBatch.length >= MAX_BATCH_SIZE ||
+          (currentTokenCount + chunkTokens > MAX_TOKENS_PER_BATCH && currentBatch.length > 0)) {
+        // Save current batch and start a new one
+        batches.push(currentBatch);
+        currentBatch = [processedChunk];
+        currentTokenCount = chunkTokens;
+      } else {
+        currentBatch.push(processedChunk);
+        currentTokenCount += chunkTokens;
+      }
+    }
+
+    // Don't forget the last batch
+    if (currentBatch.length > 0) {
+      batches.push(currentBatch);
+    }
+
+    return batches;
+  }
+
+  /**
    * Generate embeddings for chunks using OpenAI
    */
   async generateEmbeddings(chunks: EmbeddingChunk[]): Promise<EmbeddingChunk[]> {
@@ -247,12 +309,17 @@ export class EmbeddingGenerator {
 
     console.log(`Generating embeddings for ${chunks.length} chunks...`);
 
-    for (let i = 0; i < chunks.length; i += BATCH_SIZE) {
-      const batch = chunks.slice(i, i + BATCH_SIZE);
+    // Create token-aware batches
+    const batches = this.createTokenAwareBatches(chunks);
+    console.log(`Split into ${batches.length} token-aware batches`);
+
+    let processedCount = 0;
+    for (let batchIndex = 0; batchIndex < batches.length; batchIndex++) {
+      const batch = batches[batchIndex];
       const texts = batch.map(c => c.text);
 
       try {
-        const response = await this.generateBatchWithRetry(texts, i);
+        const response = await this.generateBatchWithRetry(texts, batchIndex);
 
         batch.forEach((chunk, idx) => {
           results.push({
@@ -261,14 +328,15 @@ export class EmbeddingGenerator {
           });
         });
 
-        console.log(`Processed ${Math.min(i + BATCH_SIZE, chunks.length)} / ${chunks.length}`);
+        processedCount += batch.length;
+        console.log(`Processed ${processedCount} / ${chunks.length} (batch ${batchIndex + 1}/${batches.length})`);
 
         // Add delay between batches to avoid rate limits
-        if (i + BATCH_SIZE < chunks.length) {
+        if (batchIndex < batches.length - 1) {
           await this.sleep(RATE_LIMIT_DELAY_MS);
         }
       } catch (error) {
-        console.error(`Error generating embeddings for batch ${i}:`, error);
+        console.error(`Error generating embeddings for batch ${batchIndex}:`, error);
         throw error;
       }
     }
