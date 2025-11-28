@@ -105,7 +105,8 @@ class WordMeeting:
         # Usually in format: "Council", "MINUTES", "3RD MEETING" or similar
         title_parts = []
         for i, p in enumerate(self.paragraphs[:10]):
-            text = p.get_text().strip()
+            # Replace newlines with spaces and normalize whitespace
+            text = ' '.join(p.get_text().split())
             # Stop at date line (contains comma and number)
             if re.search(r'\w+\s+\d{1,2},\s+\d{4}', text):
                 break
