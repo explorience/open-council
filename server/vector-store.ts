@@ -31,23 +31,58 @@ export class VectorStore {
 
   /**
    * Log the date range of records in the database for debugging
+   * Uses targeted queries to find actual min/max dates rather than sampling
    */
   private async logDateRange(): Promise<void> {
     if (!this.table) return;
 
     try {
       const count = await this.table.countRows();
-      // Sample some records to find date range
-      const sampleSize = Math.min(count, 5000);
-      const results = await this.table.query()
-        .limit(sampleSize)
+      console.log(`📊 Database has ${count} records`);
+
+      if (count === 0) return;
+
+      // Use dummy vector to query, then sort to find actual min/max dates
+      const dummyVector = new Array(1536).fill(0);
+
+      // Get oldest records
+      const oldestResults = await this.table
+        .vectorSearch(dummyVector)
+        .where(`meeting_date >= '2000-01-01'`) // Far past date to get all
+        .limit(100)
         .toArray();
 
-      if (results.length > 0) {
-        const dates = results.map((r: any) => r.meeting_date).filter(Boolean).sort();
-        const uniqueDates = [...new Set(dates)];
-        console.log(`📊 Database has ${count} records`);
-        console.log(`📅 Date range in DB: ${uniqueDates[0]} to ${uniqueDates[uniqueDates.length - 1]}`);
+      // Get newest records (check recent years progressively)
+      let newestDate = '';
+      for (const yearsAgo of [0, 1, 2, 5, 10, 20]) {
+        const cutoff = new Date();
+        cutoff.setFullYear(cutoff.getFullYear() - yearsAgo);
+        const cutoffStr = cutoff.toISOString().split('T')[0];
+
+        const recentResults = await this.table
+          .vectorSearch(dummyVector)
+          .where(`meeting_date >= '${cutoffStr}'`)
+          .limit(500)
+          .toArray();
+
+        if (recentResults.length > 0) {
+          const sortedDates = recentResults
+            .map((r: any) => r.meeting_date)
+            .filter(Boolean)
+            .sort()
+            .reverse();
+          newestDate = sortedDates[0];
+          break;
+        }
+      }
+
+      if (oldestResults.length > 0) {
+        const oldestDates = oldestResults
+          .map((r: any) => r.meeting_date)
+          .filter(Boolean)
+          .sort();
+        const oldestDate = oldestDates[0];
+        console.log(`📅 Date range in DB: ${oldestDate} to ${newestDate || 'unknown'}`);
       }
     } catch (error) {
       console.log('Could not determine date range:', error);
