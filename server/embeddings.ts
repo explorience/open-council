@@ -37,10 +37,12 @@ export class EmbeddingGenerator {
 
     try {
       const monthDirs = await readdir(this.dataDir);
+      const sortedMonths = monthDirs.filter(d => d.match(/^\d{4}-\d{2}$/)).sort();
 
-      for (const monthDir of monthDirs) {
-        if (!monthDir.match(/^\d{4}-\d{2}$/)) continue;
+      console.log(`📂 Found ${sortedMonths.length} month directories`);
+      console.log(`   First: ${sortedMonths[0]}, Last: ${sortedMonths[sortedMonths.length - 1]}`);
 
+      for (const monthDir of sortedMonths) {
         const monthPath = join(this.dataDir, monthDir);
         const files = await readdir(monthPath);
 
@@ -52,6 +54,12 @@ export class EmbeddingGenerator {
           const meeting = JSON.parse(content) as Meeting;
           meetings.push({ meeting, filePath });
         }
+      }
+
+      // Log the date range of loaded meetings
+      if (meetings.length > 0) {
+        const dates = meetings.map(m => m.meeting.datetime).sort();
+        console.log(`📅 Meeting date range: ${dates[0]} to ${dates[dates.length - 1]}`);
       }
     } catch (error) {
       console.error('Error loading meetings:', error);

@@ -21,8 +21,36 @@ export class VectorStore {
     try {
       this.table = await this.db.openTable(TABLE_NAME);
       console.log(`Opened existing table: ${TABLE_NAME}`);
+
+      // Log the date range of records in the database
+      await this.logDateRange();
     } catch (error) {
       console.log(`Table ${TABLE_NAME} does not exist yet`);
+    }
+  }
+
+  /**
+   * Log the date range of records in the database for debugging
+   */
+  private async logDateRange(): Promise<void> {
+    if (!this.table) return;
+
+    try {
+      const count = await this.table.countRows();
+      // Sample some records to find date range
+      const sampleSize = Math.min(count, 5000);
+      const results = await this.table.query()
+        .limit(sampleSize)
+        .toArray();
+
+      if (results.length > 0) {
+        const dates = results.map((r: any) => r.meeting_date).filter(Boolean).sort();
+        const uniqueDates = [...new Set(dates)];
+        console.log(`📊 Database has ${count} records`);
+        console.log(`📅 Date range in DB: ${uniqueDates[0]} to ${uniqueDates[uniqueDates.length - 1]}`);
+      }
+    } catch (error) {
+      console.log('Could not determine date range:', error);
     }
   }
 
