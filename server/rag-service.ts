@@ -291,22 +291,30 @@ export class RAGService {
       }
     }
 
-    // Handle "most recent" type queries - sort by date
-    if (isRecent && results.length > 0) {
-      console.log(`🕐 Recent query detected - retrieved ${results.length} results, sorting by date...`);
-      results = results
-        .sort((a, b) => {
-          const dateA = new Date(a.metadata.meeting_date).getTime();
-          const dateB = new Date(b.metadata.meeting_date).getTime();
-          return dateB - dateA; // Most recent first
-        })
-        .slice(0, topK);
+    // Handle "most recent" type queries - bypass semantic search entirely
+    // The problem with semantic search + date sorting is that recent meetings
+    // might not be semantically similar to the query and won't appear in results
+    if (isRecent) {
+      console.log(`🕐 Recent query detected - fetching most recent meetings directly from database...`);
 
-      // Log the date range for debugging
-      if (results.length > 0) {
-        const oldest = results[results.length - 1].metadata.meeting_date;
-        const newest = results[0].metadata.meeting_date;
-        console.log(`📅 Date range after sorting: ${oldest} to ${newest} (returning top ${topK})`);
+      // Get the most recent chunks directly by date (no semantic filtering)
+      const recentResults = await this.vectorStore.getMostRecent(topK * 3);
+
+      if (recentResults.length > 0) {
+        // Log what we found
+        const newest = recentResults[0].metadata.meeting_date;
+        const oldest = recentResults[recentResults.length - 1].metadata.meeting_date;
+        console.log(`📅 Found ${recentResults.length} recent chunks: ${oldest} to ${newest}`);
+
+        // Get unique meetings
+        const seenMeetings = new Set<string>();
+        for (const result of recentResults) {
+          const meetingKey = `${result.metadata.meeting_title}`;
+          seenMeetings.add(meetingKey);
+        }
+        console.log(`   Covering ${seenMeetings.size} unique meetings`);
+
+        return recentResults.slice(0, topK);
       }
     }
 

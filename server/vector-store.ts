@@ -240,6 +240,58 @@ export class VectorStore {
   }
 
   /**
+   * Get the most recent chunks ordered by date (bypasses semantic search)
+   * Use this for "most recent" or "latest" type queries
+   */
+  async getMostRecent(limit: number = 50): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    try {
+      // Query all chunks and sort by date descending
+      // LanceDB doesn't have great ORDER BY support, so we fetch more and sort in JS
+      const fetchLimit = Math.min(limit * 10, 1000); // Fetch more to ensure we get recent ones
+
+      const results = await this.table.query()
+        .limit(fetchLimit)
+        .toArray();
+
+      // Sort by meeting_date descending (newest first)
+      const sorted = results
+        .filter((r: any) => r.meeting_date) // Filter out any without dates
+        .sort((a: any, b: any) => {
+          const dateA = new Date(a.meeting_date).getTime();
+          const dateB = new Date(b.meeting_date).getTime();
+          return dateB - dateA; // Descending
+        })
+        .slice(0, limit);
+
+      if (sorted.length > 0) {
+        console.log(`📅 Most recent meeting in DB: ${sorted[0].meeting_date} - ${sorted[0].meeting_title}`);
+      }
+
+      return sorted.map((result: any) => ({
+        text: result.text,
+        score: 0, // No semantic score for date-based search
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error) {
+      console.error('Error getting most recent chunks:', error);
+      return [];
+    }
+  }
+
+  /**
    * Get statistics about the vector store
    */
   async getStats(): Promise<{ count: number }> {
