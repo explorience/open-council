@@ -303,8 +303,13 @@ export class EmbeddingGenerator {
 
   /**
    * Generate embeddings for chunks using OpenAI
+   * @param chunks - Chunks to generate embeddings for
+   * @param onBatchComplete - Optional callback called after each batch with the completed chunks
    */
-  async generateEmbeddings(chunks: EmbeddingChunk[]): Promise<EmbeddingChunk[]> {
+  async generateEmbeddings(
+    chunks: EmbeddingChunk[],
+    onBatchComplete?: (batchChunks: EmbeddingChunk[]) => Promise<void>
+  ): Promise<EmbeddingChunk[]> {
     const results: EmbeddingChunk[] = [];
 
     console.log(`Generating embeddings for ${chunks.length} chunks...`);
@@ -321,12 +326,20 @@ export class EmbeddingGenerator {
       try {
         const response = await this.generateBatchWithRetry(texts, batchIndex);
 
+        const batchResults: EmbeddingChunk[] = [];
         batch.forEach((chunk, idx) => {
-          results.push({
+          const chunkWithEmbedding = {
             ...chunk,
             embedding: response.data[idx].embedding,
-          });
+          };
+          results.push(chunkWithEmbedding);
+          batchResults.push(chunkWithEmbedding);
         });
+
+        // Save batch immediately if callback provided
+        if (onBatchComplete) {
+          await onBatchComplete(batchResults);
+        }
 
         processedCount += batch.length;
         console.log(`Processed ${processedCount} / ${chunks.length} (batch ${batchIndex + 1}/${batches.length})`);
@@ -368,8 +381,13 @@ export class EmbeddingGenerator {
 
   /**
    * Generate embeddings only for new chunks (incremental update)
+   * @param existingChunkIds - Set of chunk IDs that already exist in the database
+   * @param onBatchComplete - Optional callback called after each batch with the completed chunks
    */
-  async generateIncremental(existingChunkIds: Set<string>): Promise<EmbeddingChunk[]> {
+  async generateIncremental(
+    existingChunkIds: Set<string>,
+    onBatchComplete?: (batchChunks: EmbeddingChunk[]) => Promise<void>
+  ): Promise<EmbeddingChunk[]> {
     console.log('🔄 Loading meetings from', this.dataDir);
     const meetings = await this.loadMeetings();
     console.log(`Loaded ${meetings.length} meetings`);
@@ -392,7 +410,7 @@ export class EmbeddingGenerator {
     }
 
     console.log(`Generating embeddings for ${newChunks.length} new chunks...`);
-    const chunksWithEmbeddings = await this.generateEmbeddings(newChunks);
+    const chunksWithEmbeddings = await this.generateEmbeddings(newChunks, onBatchComplete);
 
     return chunksWithEmbeddings;
   }
