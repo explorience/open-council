@@ -57,7 +57,12 @@ export class RAGService {
       /compare|comparison|versus|vs/,
       /all (meetings|decisions|votes) (about|on|regarding)/,
       /comprehensive|complete|full (summary|overview|history)/,
-      /(housing|homelessness|budget|planning) (policy|policies|decisions)/,
+      /(housing|homelessness|budget|planning|police|safety|climate|transit|brt|development) (policy|policies|decisions|funding|budget)/,
+      /why did council (approve|reject|vote|decide)/,  // "why did council approve X but reject Y"
+      /how did councillors vote/,  // voting record questions
+      /who voted (for|against|yes|no)/,
+      /what (alternatives|options|proposals)/,  // questions about competing perspectives
+      /fit with|reconcile|align with/,  // questions connecting different topics (e.g., trees vs climate plan)
     ];
 
     // Patterns that indicate medium complexity
@@ -69,9 +74,16 @@ export class RAGService {
       /what (meetings?|happened).*(in|during)/,
       /(took place|occurred|held) in/,
       /last (year|month|quarter)/,
-      /recent|latest/,
+      /last\s+(\w+\s+)?meeting/,  // "last meeting", "last council meeting", "last city council meeting"
+      /recent|latest|newest/,
+      /most recent/,
       /multiple|several|various/,
       /all.*voted|voting record/,
+      /this year|this month/,
+      /lately|recently/,
+      /what('s| is| has) (the )?status/,  // "what's the status of..."
+      /what('s| is) being done/,  // "what's being done about..."
+      /has council (voted|discussed|decided|approved)/,  // "has council voted on..."
     ];
 
     // Check for comprehensive patterns first
@@ -121,10 +133,14 @@ export class RAGService {
   private isRecentQuery(query: string): boolean {
     const lowerQuery = query.toLowerCase();
     const recentPatterns = [
-      /most recent|latest|newest|last meeting/,
+      /most recent|latest|newest/,
+      /last\s+(\w+\s+)?meeting/,  // "last meeting", "last council meeting", "last city council meeting"
       /recent meeting/,
+      /recently|lately/,
       /what.*happened.*recently/,
       /latest (meeting|council|decision)/,
+      /this year|this month/,
+      /what('s| is| has) (the )?status/,  // status queries often want recent info
     ];
 
     return recentPatterns.some(pattern => pattern.test(lowerQuery));
