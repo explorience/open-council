@@ -242,38 +242,102 @@ export class VectorStore {
   /**
    * Get the most recent chunks ordered by date (bypasses semantic search)
    * Use this for "most recent" or "latest" type queries
+   * Uses progressive date range expansion to ensure we find recent data
    */
-  async getMostRecent(limit: number = 50): Promise<SearchResult[]> {
+  async getMostRecent(limit: number = 50, meetingTypeFilter?: string): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    const dummyVector = new Array(1536).fill(0);
+    const now = new Date();
+
+    // Try progressively broader date ranges until we find enough results
+    const monthsToTry = [2, 6, 12, 24, 60]; // 2 months, 6 months, 1 year, 2 years, 5 years
+
+    for (const months of monthsToTry) {
+      const cutoff = new Date(now);
+      cutoff.setMonth(cutoff.getMonth() - months);
+      const cutoffStr = cutoff.toISOString().split('T')[0];
+
+      try {
+        let whereClause = `meeting_date >= '${cutoffStr}'`;
+
+        // Add meeting type filter if specified (e.g., "Council", "Budget", "Planning")
+        if (meetingTypeFilter) {
+          whereClause += ` AND meeting_title LIKE '%${meetingTypeFilter}%'`;
+        }
+
+        const results = await this.table
+          .vectorSearch(dummyVector)
+          .where(whereClause)
+          .limit(limit * 5) // Fetch extra to ensure good coverage after sorting
+          .toArray();
+
+        if (results.length > 0) {
+          // Sort by date descending (newest first)
+          const sorted = results
+            .sort((a: any, b: any) => {
+              const dateA = new Date(a.meeting_date).getTime();
+              const dateB = new Date(b.meeting_date).getTime();
+              return dateB - dateA;
+            })
+            .slice(0, limit);
+
+          console.log(`📅 Found ${results.length} chunks from last ${months} months${meetingTypeFilter ? ` (filtered: ${meetingTypeFilter})` : ''}`);
+          if (sorted.length > 0) {
+            console.log(`   Most recent: ${sorted[0].meeting_date} - ${sorted[0].meeting_title}`);
+          }
+
+          return sorted.map((result: any) => ({
+            text: result.text,
+            score: 0,
+            metadata: {
+              meeting_title: result.meeting_title,
+              meeting_date: result.meeting_date,
+              meeting_type: result.meeting_type,
+              meeting_url: result.meeting_url,
+              item_number: result.item_number || undefined,
+              item_title: result.item_title || undefined,
+              chunk_type: result.chunk_type,
+              file_path: result.file_path,
+            },
+          }));
+        }
+      } catch (error) {
+        console.error(`Error querying last ${months} months:`, error);
+      }
+    }
+
+    console.log('⚠️ No recent meetings found in any date range');
+    return [];
+  }
+
+  /**
+   * Search with optional meeting type filter (for committee-specific queries)
+   */
+  async searchWithFilter(
+    queryEmbedding: number[],
+    limit: number,
+    meetingTypeFilter?: string
+  ): Promise<SearchResult[]> {
     if (!this.table) {
       throw new Error('Table not initialized. Please run embedding generation first.');
     }
 
     try {
-      // Query all chunks and sort by date descending
-      // LanceDB doesn't have great ORDER BY support, so we fetch more and sort in JS
-      const fetchLimit = Math.min(limit * 10, 1000); // Fetch more to ensure we get recent ones
+      let query = this.table.vectorSearch(queryEmbedding);
 
-      const results = await this.table.query()
-        .limit(fetchLimit)
-        .toArray();
-
-      // Sort by meeting_date descending (newest first)
-      const sorted = results
-        .filter((r: any) => r.meeting_date) // Filter out any without dates
-        .sort((a: any, b: any) => {
-          const dateA = new Date(a.meeting_date).getTime();
-          const dateB = new Date(b.meeting_date).getTime();
-          return dateB - dateA; // Descending
-        })
-        .slice(0, limit);
-
-      if (sorted.length > 0) {
-        console.log(`📅 Most recent meeting in DB: ${sorted[0].meeting_date} - ${sorted[0].meeting_title}`);
+      if (meetingTypeFilter) {
+        query = query.where(`meeting_title LIKE '%${meetingTypeFilter}%'`);
+        console.log(`🔍 Filtering results to meetings containing: "${meetingTypeFilter}"`);
       }
 
-      return sorted.map((result: any) => ({
+      const results = await query.limit(limit).toArray();
+
+      return results.map((result: any) => ({
         text: result.text,
-        score: 0, // No semantic score for date-based search
+        score: result._distance || 0,
         metadata: {
           meeting_title: result.meeting_title,
           meeting_date: result.meeting_date,
@@ -286,8 +350,9 @@ export class VectorStore {
         },
       }));
     } catch (error) {
-      console.error('Error getting most recent chunks:', error);
-      return [];
+      console.error('Error in filtered search:', error);
+      // Fallback to regular search
+      return this.search(queryEmbedding, limit);
     }
   }
 
