@@ -10,7 +10,7 @@ May 28, 2024, at  1:00 PM
 > S. Lewis, H. McAlister, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Barbon, S. Corman, K. Dickins, M. Feldberg, T. Fowler, S.
+> S. Datars Bere, A. Barbon, S. Corman, K. Dickins, M. Feldberg, T. Fowler, S. Govindaraj, S. Mathers, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, N. Steinburg, J. Taylor
 
 > [!abstract]- Remote Attendance:
 > C. Cooper, S. Glover, E. Hunt, T. Smuck, R. Wilcox

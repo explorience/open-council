@@ -10,12 +10,17 @@ April 29, 2025, at  1:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> J. Pribil, A. Hopkins, A. Abraham, J. Adema, L. Bert, R. Bolivar, M. Clark, I. De Ceuster, K. Edwards, M. Feldberg, M. Harrison, B. House, P. Kavcic, S. Mathers, C. Maton, H. McNeely, K. Murray, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, A. Sercombe, A. Shaw, M. Sundercock, B. Warner, E. Williamson, K. Mason
-
-> [!abstract]- Remote Attendance:
+> J. Pribil, A. Hopkins, A. Abraham, J. Adema, L. Bert, R. Bolivar, M. Clark, I. De Ceuster, K. Edwards, M. Feldberg, M. Harrison, B. House, P. Kavcic, S. Mathers, C. Maton, H. McNeely, K. Murray, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, A. Sercombe, A. Shaw, M. Sundercock, B. Warner, E. Williamson, K. Mason 
+> 
+> 
+> 
 > S. Corman, S. Grady, K. Scherr, E. Skalski, S. Tatavarti
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-The meeting was called to order at 1:00 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

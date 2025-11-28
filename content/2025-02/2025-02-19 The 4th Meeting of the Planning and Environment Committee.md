@@ -13,12 +13,17 @@ February 19, 2025, at  1:00 PM
 > S. Lehman
 
 > [!abstract]- Also Present:
-> H. McAllister, A. Hopkins, J. Adema, R. Bolivar, C. Cernanec, D. Escobar, K. Edwards, M. Feldberg, K. Gonyou, M. Hynes, P. Kavcic, M. Macaulay, T. MacBeth, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, M. Pease, A. Shaw, S. Tatavarti, K. Mason
-
-> [!abstract]- Remote Attendance:
+> H. McAllister, A. Hopkins, J. Adema, R. Bolivar, C. Cernanec, D. Escobar, K. Edwards, M. Feldberg, K. Gonyou, M. Hynes, P. Kavcic, M. Macaulay, T. MacBeth, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, M. Pease, A. Shaw, S. Tatavarti, K. Mason 
+> 
+> 
+> 
 > Remote Attendace: M. Corby, E. Hunt, D. MacRae, E. Skalski, A. Yousfani
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-The meeting was called to order at 1:00 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

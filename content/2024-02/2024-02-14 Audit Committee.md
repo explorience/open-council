@@ -7,7 +7,7 @@ February 14, 2024, at 12:00 PM
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=283e9a80-c195-4484-9f89-0f8f377ef14b&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
-> E. Peloza, P. Cuddy, J. Pribil;
+> E. Peloza, P. Cuddy, J. Pribil
 
 > [!abstract]- Absent:
 > S. Stevenson, I. Cheema

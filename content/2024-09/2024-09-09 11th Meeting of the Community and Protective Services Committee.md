@@ -10,12 +10,17 @@ September 9, 2024, at  1:00 PM
 > D. Ferreira, H. McAlister, J. Pribil, S. Trosow, E. Peloza, J. Morgan
 
 > [!abstract]- Also Present:
-> P. Cuddy, C. Rahman, C. Cooper, S. Corman, K. Dickins, D. Escobar, J. Ford, M. Hefferton, T. Johnson, O. Katolyk, L. Marshall, S. Mathers, C. McCreery, N. Musicco, K. Pawelec, K. Scherr, C. Smith, P. Yeoman, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> P. Cuddy, C. Rahman, C. Cooper, S. Corman, K. Dickins, D. Escobar, J. Ford, M. Hefferton, T. Johnson, O. Katolyk, L. Marshall, S. Mathers, C. McCreery, N. Musicco, K. Pawelec, K. Scherr, C. Smith, P. Yeoman, J. Bunn   
+> 
+> 
+> 
 > Deputy  S. Lewis, S. Stevenson, S. Datars Bere, E. Ling, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 1:01 PM, it being noted that  J. Pribil was in remote attendance.
 
-The meeting was called to order at 1:01 PM; it being noted that Councillor J. Pribil was in remote attendance.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

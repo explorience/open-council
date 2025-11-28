@@ -10,7 +10,7 @@ August 27, 2024, at  1:00 PM
 > J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Alkema, B. Baar, I. Collins, S. Corman, K. Dawtrey, K. Dickins, D. Escobar, K. Gonyou, S. Mathers, C. McCreery, H. McNeely, J. Paradis, R. Patel, T. Pollitt, R. S,erson, K. Scherr, M. Schulthess, E. Skalski, C. Smith
+> S. Datars Bere, A. Alkema, B. Baar, I. Collins, S. Corman, K. Dawtrey, K. Dickins, D. Escobar, K. Gonyou, S. Mathers, C. McCreery, H. McNeely, J. Paradis, R. Patel, T. Pollitt, R. Sanderson, K. Scherr, M. Schulthess, E. Skalski, C. Smith
 
 > [!abstract]- Remote Attendance:
 > L. Hancock, L. Stewart

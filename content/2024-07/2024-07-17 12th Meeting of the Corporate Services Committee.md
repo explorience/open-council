@@ -13,10 +13,10 @@ July 17, 2024, at  1:00 PM
 > S. Stevenson
 
 > [!abstract]- Also Present:
-> J. Pribil, S. Datars Bere, B. Baar, A. Barbon, I. Collins, J. Dann, D. Freeman, J. McMillan, K. Murray, A. Ostrowski, J. Paradis, T. Pollitt, R. S,erson, E. Skalski, C. Smith, L. Stewart, J. Taylor, J. Wills
+> J. Pribil, S. Datars Bere, B. Baar, A. Barbon, I. Collins, J. Dann, D. Freeman, J. McMillan, K. Murray, A. Ostrowski, J. Paradis, T. Pollitt, R. Sanderson, E. Skalski, C. Smith, L. Stewart, J. Taylor, J. Wills
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: E. Hunt
+> E. Hunt
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance
 

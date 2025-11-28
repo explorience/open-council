@@ -10,7 +10,7 @@ October 2, 2024, at  1:00 PM
 > S. Lehman, S. Lewis, C.Rahman, S. Franke, S. Hillier
 
 > [!abstract]- Also Present:
-> PRESENT:  P. Cuddy, S. Stevenson, J. Pribil, J. Adema, M. Clark, M. Corby, A. Curtis, K. Edwards, D. Escobar, K. Gonyou, M. Harrison, R. Huitema, P. Kavcic, B. Lambert, R. Lightfoot, T. Macbeth, K. Mason, S. Mathers, C. Maton, H. McNeely, B. Page, N. Pasato, S. Tatavarti
+> P. Cuddy, S. Stevenson, J. Pribil, J. Adema, M. Clark, M. Corby, A. Curtis, K. Edwards, D. Escobar, K. Gonyou, M. Harrison, R. Huitema, P. Kavcic, B. Lambert, R. Lightfoot, T. Macbeth, K. Mason, S. Mathers, C. Maton, H. McNeely, B. Page, N. Pasato, S. Tatavarti
 
 > [!abstract]- Remote Attendance:
 > E. Hunt, E. Skalski

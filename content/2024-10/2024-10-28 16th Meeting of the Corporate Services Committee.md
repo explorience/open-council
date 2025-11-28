@@ -13,7 +13,7 @@ October 28, 2024, at  1:00 PM
 > J. Pribil, S. Datars Bere, A. Abraham, A. Barbon, B. Baar, I. Collins, J. Paradis, T. Pollitt, E. Skalski, B. Warner
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: E. Hunt
+> E. Hunt
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, C. Rahman and P. Van Meerbergen were in remote attendance.
 

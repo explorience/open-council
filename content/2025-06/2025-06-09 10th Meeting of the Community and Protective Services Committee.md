@@ -10,12 +10,17 @@ June 9, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> S. Stevenson, C. Rahman, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, S. Glover, O. Katolyk, T. Koza, D. MacRae, S. Mathers, C. McCreery, K. Pawelec, K. Scherr, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> S. Stevenson, C. Rahman, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, S. Glover, O. Katolyk, T. Koza, D. MacRae, S. Mathers, C. McCreery, K. Pawelec, K. Scherr, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn      
+> 
+> 
+> 
 > Deputy  S. Lewis, E. Peloza, E. Bennett, S. Corman, E. Hunt, P. Yeoman
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-The meeting was called to order at 1:00 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

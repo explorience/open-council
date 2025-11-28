@@ -10,12 +10,17 @@ August 12, 2025, at  1:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> H. McAlister, J. Pribil, S. Trosow, C. Rahman, A. Hopkins, S. Franke, A. Abraham, R. Bolivar, M. Butlin, C. Cernanec, M. Clarke, I. de Ceuster, K. Edwards, S. Filson, K. Gonyou, A. Hovius, T. Hutchison, P. Kavcic, B. Lambert, S. Mathers, C. Maton, C. McCreery, H. McNeely, K. Mitchener, N. Musicco, B. O'Hagan, A. Patel, S. Purhar, A. Riley, A. Shaw, M. Vivian, E. Williamson, K. Mason
+> H. McAlister, J. Pribil, S. Trosow, C. Rahman, A. Hopkins, S. Franke, A. Abraham, R. Bolivar, M. Butlin, C. Cernanec, M. Clarke, I. de Ceuster, K. Edwards, S. Filson, K. Gonyou, A. Hovius, T. Hutchison, P. Kavcic, B. Lambert, S. Mathers, C. Maton, C. McCreery, H. McNeely, K. Mitchener, N. Musicco, B. O'Hagan, A. Patel, S. Purhar, A. Riley, A. Shaw, M. Vivian, E. Williamson, K. Mason 
+> 
+> 
+> 
+>  D. Ferreira, S. Datars Bere, E. Bennett, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-> [!abstract]- Remote Attendance:
-> D. Ferreira, S. Datars Bere, E. Bennett, E. Skalski
 
-The meeting was called to order at 1:00 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

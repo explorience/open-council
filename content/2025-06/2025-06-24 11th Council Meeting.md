@@ -1745,7 +1745,7 @@ That the communication dated June 5, 2025 from MNP with respect to safe London f
 
 ## 8.7&nbsp;&nbsp;&nbsp;10th Special Planning and Environment Committee
 
-[2025-06-23 PEC Report 10](</2025-06/2025-06-23 Special 10th Meeting of the Planning and Environment Committee>)
+[2025-06-23 PEC Report 10](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -1786,7 +1786,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.7.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-23 Special 10th Meeting of the Planning and Environment Committee#21ontario-building-faster-fund-londons-2024-housing-target-performance>) Ontario Building Faster Fund: London's 2024 Housing Target Performance
+### 8.7.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#21information-report-on-rethink-zoning-project>) Ontario Building Faster Fund: London's 2024 Housing Target Performance
 
 > Motion made by S. Lehman
 

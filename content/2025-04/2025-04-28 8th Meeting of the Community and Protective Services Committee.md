@@ -10,12 +10,17 @@ April 28, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> S. Stevenson, S. Datars Bere, A. Abraham, C. Cooper, K. Dickins, M. El Hayek, M. Espinoza, M. Feldberg, S. Glover, J. Ireland, S. Mathers, E. Skalski, C. Smith, C. Worrall, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> S. Stevenson, S. Datars Bere, A. Abraham, C. Cooper, K. Dickins, M. El Hayek, M. Espinoza, M. Feldberg, S. Glover, J. Ireland, S. Mathers, E. Skalski, C. Smith, C. Worrall, J. Bunn     
+> 
+> 
+> 
 > Deputy  S. Lewis, C. Rahman, E. Peloza, S. Hillier, E. Bennett, M. Butlin, S. Corman, E. Hunt, T. Koza, K. Scherr, R. Wilcox
+> 
+> 
+> 
+> The meeting was called to order at 1:01 PM.
 
-The meeting was called to order at 1:01 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

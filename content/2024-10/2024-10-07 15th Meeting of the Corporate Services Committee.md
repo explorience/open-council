@@ -13,7 +13,7 @@ October 7, 2024, at  1:00 PM
 > J. Pribil, E. Peloza, S. Datars Bere, A. Abraham, A. Barbon, M. Barnes, D. Bordin, I. Collins, D. Escobar, M. Feldberg, A. Hagan, T. Macbeth, S. Mathers, K. Murray, J. Paradis, T. Pollitt, K. Scherr, J. Senese, C. Smith, E. Skalski
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: M. Daley, J. Davies, K. Dickins, M. Galczynski, E. Hunt, B. Warner
+> M. Daley, J. Davies, K. Dickins, M. Galczynski, E. Hunt, B. Warner
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance
 

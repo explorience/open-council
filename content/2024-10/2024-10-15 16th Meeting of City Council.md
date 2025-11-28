@@ -823,6 +823,33 @@ At 2:12 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Cha
 
 At 2:15 PM, His Worship Mayor J. Morgan resumes the Chair.
 
+> Motion made by S. Lehman
+
+That the 15th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 5 (3.1).
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
 ### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by S. Lehman

@@ -1,0 +1,1038 @@
+---
+title: Planning and Environment Committee
+date: 2019-09-09
+---
+September 9, 2019, at  4:00 PM
+
+[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a2dfc05b-e5ce-47c1-beac-b149b9f43d4c&Agenda=PostMinutes&lang=English)
+
+> [!abstract]- Present:
+> A. Hopkins, J. Helmer, M. Cassidy, P. Squire, S. Turner, E. Holder
+
+> [!abstract]- Also Present:
+> M. Salih, M. van Holst, I. Abushehada, G. Barrett, G. Blazak, M. Corby, M. Elmadhoon, M. Feldberg, J.M. Fleming, P. Kokkoros, C. Lowery, H. Lysynski, L. Mottram, N. Pasato, M. Pease, L. Pompilii, M. Ribera, C. Saunders, M. Tomazincic, B. Turcotte, M. Vivian, S. Wise, P. Yeoman
+
+> [!abstract]- Remote Attendance:
+> The meeting was called to order at 4:00 PM
+
+
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+That Councillor S. Turner disclosed a pecuniary interest in clause 3.3 of this Report, having to do with the properties located at 220 and 244 Adelaide Street South, by indicating that his employer, the Middlesex-London Health Unit, is assisting with the dental initiative.
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;Consent
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That Items 2.1 to 2.5, inclusive and 2.7 to 2.12, inclusive, BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+## 2.1&nbsp;&nbsp;&nbsp;9th Report of the Environmental and Ecological Planning Advisory Committee
+
+[2019-08-15 EEPAC Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67136>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That the 9th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on August 15, 2019 BE RECEIVED for information.
+
+> **Motion Passed**
+
+****
+
+## 2.2&nbsp;&nbsp;&nbsp;Application - Exemption from Part-Lot Control - 1877 Sandy Somerville Lane (Block 1, Plan 33M-758) (P-9076)
+
+[2019-09-09 SR - 1877 Sandy Somerville Lane](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67137>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Sifton Properties Ltd., to exempt Block 1, Plan 33M-758 from Part-Lot Control:
+
+a)         pursuant to subsection 50(7) of the Planning Act, R.S.O. 1990, c. P.13, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at a future Municipal Council meeting, to exempt Block 1, Plan 33M-758 from the Part-Lot Control provisions of subsection 50(5) of the said Act; it being noted that these lands are subject to a registered subdivision agreement and are zoned Residential R6 Special Provision (R6-5(49)) which permits cluster single detached dwellings and also zoned Open Space (OS5) which permits conservation lands, conservation works, passive recreation uses and managed woodlots;
+
+b)         the following conditions of approval BE REQUIRED to be completed prior to the passage of a Part-Lot Control By-law for Block 1, Plan 33M-758 as noted in clause a) above:
+
+i)          the applicant be advised that the costs of registration of the said by-laws are to be borne by the applicant in accordance with City Policy;
+
+ii)         the applicant submit a draft reference plan to the Development Services for review and approval to ensure the proposed part lots and development plans comply with the regulations of the Zoning By-law, prior to the reference plan being deposited in the land registry office;
+
+iii)        the applicant submits to the Development Services a digital copy together with a hard copy of each reference plan to be deposited. The digital file shall be assembled in accordance with the City of London's Digital Submission / Drafting Standards and be referenced to the City’s NAD83 UTM Control Reference;
+
+iv)        the applicant submit each draft reference plan to London Hydro showing driveway locations and obtain approval for hydro servicing locations and above ground hydro equipment locations prior to the reference plan being deposited in the land registry office;
+
+v)         the applicant submit to the City Engineer for review and approval prior to the reference plan being deposited in the land registry office; any revised lot grading and servicing plans in accordance with the final lot layout to divide the blocks should there be further division of property contemplated as a result of the approval of the reference plan;
+
+vi)        the applicant shall enter into any amending subdivision agreement with the City, if necessary;
+
+vii)       the applicant shall agree to construct all services, including private drain connections and water services, in accordance with the approved final design of the lots;
+
+viii)      the applicant shall obtain confirmation from the Development Services that the assignment of municipal numbering has been completed in accordance with the reference plan(s) to be deposited, should there be further division of property contemplated as a result of the approval of the reference plan prior to the reference plan being deposited in the land registry office;
+
+ix)        the applicant shall obtain approval from the Development Services of each reference plan to be registered prior to the reference plan being registered in the land registry office;
+
+x)         the applicant shall submit to the City, confirmation that an approved reference plan for final lot development has been deposited in the Land Registry Office;
+
+xi)        the applicant shall obtain clearance from the City Engineer that requirements iv), v) and vi) inclusive, outlined above, are satisfactorily completed, prior to any issuance of building permits by the Building Controls Division for lots being developed in any future reference plan;
+
+xii)       the applicant shall provide a draft transfer of the easements to be registered on title; and,
+
+xiii)      that on notice from the applicant that a reference plan has been registered on a Block, and that Part Lot Control be re-established by the repeal of the by-law affecting the Lots/Block in question.   (2019-D25)
+
+> **Motion Passed**
+
+****
+
+## 2.3&nbsp;&nbsp;&nbsp;Application - 447 Old Wonderland Road - Removal of Holding Provision (H-9058)
+
+[2019-09-09 SR - 447 Old Wonderland Road - Removal of Holding Provision](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67138>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, based on the application by Nest on Wonderland, relating to the lands located at 447 Old Wonderland Road, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R8 Special Provision/Restricted Office Special Provision (h-5-R8-4(45))/RO2(33)) Zone TO a Residential R8 Special Provision /Restricted Office Special Provision (R8-4(45))/RO2(33)) Zone to remove the h-5 holding provision for this site.   (2019-D09)
+
+> **Motion Passed**
+
+****
+
+## 2.4&nbsp;&nbsp;&nbsp;Application - 180 Villagewalk Boulevard (H-9097)
+
+[2019-09-09 SR - 180 Villagewalk Boulevard](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67139>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, based on the application by 180 Village Walk Inc., relating to the property located at 180 Villagewalk Boulevard, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a holding Residential R6 Special Provision/Residential R7 Special Provision/Office Special Provision (h-5*h-99*h-100*R5-5(24)/R7(11)/OF(1)) Zone TO a Residential R6 Special Provision/Residential R7 Special Provision/Office Special Provision (R5-5(24)/R7(11)/OF(1)) Zone.   (2019-D09)
+
+> **Motion Passed**
+
+****
+
+## 2.5&nbsp;&nbsp;&nbsp;Application - 3400 Singleton Avenue (H-8967)
+
+[2019-09-09 SR - 3400 Singleton Avenue](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67140>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, based on the application by 1967172 Ontario Inc., relating to the property located at 3400 Singleton Avenue, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No.Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Neighbourhood Facility / Residential R5 / Residential R6 (h*NF1/h*h-71*h-100*h-104* h-137*R5-4*R6-5) Zone TO a Neighbourhood Facility / Residential R5 / Residential R6 (NF1/R5-4/R6-5) Zone to remove the “h”, “h”, “h-71”, “h-100”, “h-104”, and “h-137” holding provisions associated with the residential zones.   (2019-D09)
+
+> **Motion Passed**
+
+****
+
+## 2.7&nbsp;&nbsp;&nbsp;Application - 804-860 Kleinburg Drive (H-9103)
+
+[2019-09-09 SR - 804-860 Kleinburg Drive](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67141>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, based on the application by Applewood Developments (London) Inc., relating to the properties located from 804 to 860 Kleinburg Drive, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R1 Special Provision (h*h-100*h-173*R1-4(27)) Zone TO a Residential R1 Special Provision (R1-4(27)) Zone to remove the “h”, “h-100” and “h-173” holding provisions.    (2019-D09)
+
+> **Motion Passed**
+
+****
+
+## 2.8&nbsp;&nbsp;&nbsp;Limiting Distance (No Build) Agreement between the Corporation of The City of London and 947563 Ontario Limited  - 1648 Warbler Woods Walk
+
+[2019-09-09 SR - Limiting Distance Agreement - 1648 Warbler Woods Walk](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67142>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Managing Director, Development & Compliance Services & Chief Building Official, the following actions be taken with respect to a limiting distance (no-build) agreement between The Corporation of the City of London and 947563 Ontario Limited o/a Bridlewood Homes, for the property located at 1648 Warbler Woods Walk:
+
+a)         the proposed limiting distance agreement appended to the staff report dated September 9, 2019, for the property located at 1648 Warbler Woods Walk, between The Corporation of the City of London and 947563 Ontario Limited o/a Bridlewood Homes BE APPROVED; and,
+
+b)         the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to approve the limiting distance agreement between The Corporation of the City of London and 947563 Ontario Limited o/a Bridlewood Homes, for the property located at 1648 Warbler Woods Walk, and to delegate authority to the Managing Director, Parks and Recreation, to execute the agreement on behalf of the City of London as the adjacent property owner.    (2019-D12)
+
+> **Motion Passed**
+
+****
+
+## 2.9&nbsp;&nbsp;&nbsp;Candidate Approval for the Urban Design Peer Review Panel 
+
+[2019-09-09 SR - Candidate Approval for the Urban Design Peer Review Panel](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67143>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, Amelia Sloan BE APPROVED for the position of Planner on the Urban Design Peer Review Panel, for the term ending December 31, 2020.  (2019-D32)
+
+> **Motion Passed**
+
+****
+
+## 2.10&nbsp;&nbsp;&nbsp;Application - Summerside Subdivision Phase 12B - Stage 2 - Special Provisions - 39T-07508
+
+[2019-09-09 SR - Summerside Subdivision Phase 12B - Special Provisions](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67144>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Greengate Village Limited, for the subdivision of land over Part of Lot 14, Concession 1, (Geographic Township of Westminster), situated on the north side of Bradley Avenue between Highbury Avenue South and Jackson Road:
+
+a)         the Special Provisions, to be contained in a Subdivision Agreement between The Corporation of the City of London and Greengate Village Limited, for the Summerside Subdivision Phase 12B – Stage 2 (39T-07508) appended to the staff report dated September 9, 2019 as Appendix “A”, BE APPROVED;
+
+b)         the Applicant BE ADVISED that Development Finance has summarized the claims and revenues appended to the staff report dated September 9, 2019 as Appendix “B”; and,
+
+c)         the Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any amending agreements and all documents required to fulfill its conditions.   (2019-D09)
+
+> **Motion Passed**
+
+****
+
+## 2.11&nbsp;&nbsp;&nbsp;Application - 3425 Emilycarr Lane - Emily Carr (North) Subdivision - Special Provisions - 39T-18506
+
+[2019-09-09 SR - 3425 Emilycarr Lane - Emily Carr Subdivision - Special Provisions](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67145>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and 2557727 Ontario Inc., for the subdivision of land located at 3425 EmilyCarr Lane (north portion), on the north side of the proposed Bradley Ave extension, west of the Copperfield in Longwoods residential subdivision and south of Wharncliffe Road:
+
+a)         the Special Provisions, to be contained in a Subdivision Agreement between The Corporation of the City of London and 2557727 Ontario Inc., for the Emily Carr (North) Subdivision (39T-18506) appended to the staff report dated September 9, 2019 as Appendix “A”, BE APPROVED;
+
+b)         the Applicant BE ADVISED that Development Finance has summarized the claims and revenues appended to the staff report dated September 9, 2019 as Appendix “B”; and,
+
+c)         the Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any amending agreements and all documents required to fulfill its conditions.   (2019-D09)
+
+> **Motion Passed**
+
+****
+
+## 2.12&nbsp;&nbsp;&nbsp;Application - Silverleaf Subdivision - 3493 Colonel Talbot Road - Request for Extension of Draft Plan Approval - 39T-14504 
+
+[2019-09-09 SR - Silverleaf Subdivision - 3493 Colonel Talbot Road - Request for Extension of Draft Plan Approval](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67164>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, based on the application by 2219008 Ontario Ltd (York Developments), relating to lands located on the west side of Colonel Talbot Road and south of Park Road, legally described as Part of Lot 75, West of the North Branch of Colonel Talbot Road (Geographic Township of Westminster), City of London, County of Middlesex, situated on the south side of Pack Road, west of Colonel Talbot Road, municipally known as 3493 Colonel Talbot Road, the Approval Authority BE REQUESTED to approve a three (3) year extension to Draft Plan Approval for the residential plan of subdivision File No. 39T-14504, SUBJECT TO the revised conditions contained in Schedule “A” 39T-14504 appended to the staff report dated September 9, 2019.  (2019-D09)
+
+> **Motion Passed**
+
+****
+
+## 2.6&nbsp;&nbsp;&nbsp;Application - 1615 North Routledge Park 39T-78066
+
+[2019-09-09 SR - 1615 North Routledge Park](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67163>)
+
+> Moved by J. Helmer
+
+> Seconded by P. Squire
+
+That, on the recommendation of the Director, Development Services, based on the application by Doman Development Inc., relating to the property located on the north side of North Routledge Park, west of Hyde Park Road (1615 North Routledge Park), the Approval Authority BE REQUESTED to approve a three (3) year extension to Draft Plan Approval for the plan of subdivision File No. 39T-78066, SUBJECT TO the conditions contained in Schedule "A” appended to the staff report dated September 9, 2019.   (2019-D12)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+
+## 3.1&nbsp;&nbsp;&nbsp;Delegation - A. Cantell, Vice-Chair,Trees and Forests Advisory Committee - 8th Report of the Trees and Forests Advisory Committee
+
+[2019-08-28 TFAC Report 8](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67165>)
+
+[2019-09-09 PS - A. Cantell - Tree Protection By-law Comments1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67166>)
+
+> Moved by S. Turner
+
+> Seconded by J. Helmer
+
+That, the following actions be taken with respect to the 8th Report of the Trees and Forests Advisory Committee, from its meeting held on August 28, 2019:
+
+a)         the following actions be taken with respect to the draft Tree Protection By-law:
+
+i)          that the Civic Administration BE ADVISED of the following comments from the Trees and Forests Advisory Committee with respect to the draft Tree Protection By-law:
+
+-concern the by-law is about how to remove a tree, rather than how to protect and plant more trees;
+
+-focus on trees and future trees, without legal or political barriers;
+
+-need to consider tree protection at a generational scale, not human scale in context of climate change, wildlife (cavity trees) and the environment;
+
+-must protect young trees or replacement trees outside of the Tree Protection Area for future canopy;
+
+-diameter threshold of 50 cm or greater is above attainable size for many species and does not reflect what other municipalities are doing in their by-laws (for example Toronto 12" or 30 cm);
+
+-consensus across community that size threshold needs to be lower, acknowledging there may be budget implications and a business case may need to be put forward;
+
+-need to define "hazardous" tree and evidence for removal;
+
+-trees can be made hazardous by unnatural causes for example building an addition;
+
+-photo should be part of application to remove tree;
+
+-checklist of Arborist best practices to justify tree removal;
+
+-education program may be less expensive than enforcing the by-law. For example, planting a replacement tree before the original tree is removed (shadow planting);
+
+-cemeteries and golf courses should not be exempt from the by-law, and there should be a policy to require City of London golf courses to follow the spirit of the by-law;
+
+-fines must always be higher than the total cost of fees that would have been required, or it will not work;
+
+-provisions for on-line payments should be considered;
+
+-tree protection required by section 9.3 of the by-law should match other specific policies;
+
+-no need for section 7.3 of the by-law because no fee is taken until application determined;
+
+-inconsistency in Part 2-Definitions with regards to "meter" and "m";
+
+-leave snags on trees for housing of wildlife (for example birds of prey);
+
+ii)         that delegation status BE REQUESTED by the Chair or designate of the Trees and Forests Advisory Committee at the Planning and Environment Committee on September 9, 2019;
+
+b)         clauses 1.1, 2.1, 3.1, 5.1, 5.3 and 5.4 BE RECEIVED for information;
+
+it being noted that the Planning and Environment Committee received the attached presentation from A. Cantell, Vice-Chair, Trees and Forests Advisory Committee, with respect to the above-noted matters.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+## 3.2&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - 915, 965, 1031 and 1095 Upperpoint Avenue - Application for Zoning By-law Amendment (Z-9057)
+
+[2019-09-09 SR - 915, 965, 1031 and 1095 Upperpoint Avenue - Zoning By-law Amendment](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67146>)
+
+[2019-09-09 Public Comments 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67147>)
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, based on the application by Sifton Properties Limited, relating to the lands located at 915, 965, 1031 and 1095 Upperpoint Avenue (Blocks 132, 133, 134 and 135 Registered Plan No. 33M-754), the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R5/R6/R8 Special Provision (h-h-54-h-209-R5-7(9)/R6-5(21)/R8-3(5)) Zone, a Holding Residential R5/R6/R8 Special Provision (h-h-54-h-209-R5-7(9)/R6-5(21)/R8-4(35)) Zone, and a Holding Residential R5/R6/R9 Special Provision (h-h-54-h-209-R5-7(9)/R6-5(21)/R9-7(26)-H40) Zone TO a Holding Residential R4/R5/R6/R8 Special Provision (h-h-54-h-209-R4-6( )/R5-7(9)/R6-5( )/R8-3(5)) Zone, a Holding Residential R4/R5/R6/R8 Special Provision (h-h-54-h-209-R4-6( )/R5-7(9)/R6-5( )/R8-4(35)) Zone, and a Holding Residential R4/R5/R6/R9 Special Provision (h-h-54-h-209-R4-6( )/R5-7(9)/R6-5( )/R9-7(26)-H40) Zone;
+
+it being pointed out that at the public participation meeting associated with these matters, the individual indicated on the attached public participation meeting record made an oral submission regarding these matters;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-           the recommended zoning amendments are considered appropriate and consistent with the Provincial Policy Statement;
+
+-           the recommended zoning amendments conform with The London Plan, the (1989) Official Plan, and the Riverbend South Secondary Plan; and,
+
+-           zoning to permit street townhouses would be applied in conjunction with the existing compound zones to broaden the range of residential uses, and achieve objectives for providing a mix of housing types and designs.   (2019-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Turner
+
+> Seconded by J. Helmer
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+## 3.3&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - 220 and 244 Adelaide Street South  (Z-9061 and O-9066)
+
+[2019-09-09 SR - Glen Carin Community Resource Centre - 220 and 244 Adelaide Street South](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67148>)
+
+[2019-09-09 Public Comments 3.3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67149>)
+
+> Moved by M. Cassidy
+
+> Seconded by J. Helmer
+
+That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the applications by the Glen Cairn Community Resource Centre and The Corporation of the City of London, relating to the properties located at 220 and 244 Adelaide Street South:
+
+a)         the proposed by-law appended to the staff report dated September 9, 2019 as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend The London Plan to change the designation of 220 and 244 Adelaide Street South FROM the Light Industrial Place Type TO the Commercial Industrial Place Type; and,
+
+b)         the proposed by-law appended to the staff report dated September 9, 2019 as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of 244 Adelaide Street South BY AMENDING the Neighbourhood Facility Special Provision (NF1(11)) Zone;
+
+it being noted that The London Plan amendment will come into full force and effect concurrently with Map 1 of The London Plan;
+
+it being further noted that the following Site Plan Matters pertaining to 244 Adelaide Street South have been raised during the public participation process: the location of parking, garbage storage, tree planting, and landscaping buffering;
+
+it being pointed out that the Planning and Environment Committee reviewed and received a communication dated September 5, 2019 from Dr. P. Thornton, 49 Carfrae Crescent, with respect to this matter;
+
+it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made oral submissions regarding these matters;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-           the proposed amendment is consistent with the Provincial Policy Statement;
+
+-           the proposed amendment conforms to the policies of the 1989 Official Plan, including but not limited to the policies of the Community Facilities designation; and,
+
+-           the proposed amendment conforms to the in-force policies of The London Plan, including but not limited to the policies of the Commercial Industrial Place Type.  (2019-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|Absent:|
+> |-|-|-|
+> |J. Helmer|S. Turner|E. Holder|
+> |M. Cassidy|||
+> |P. Squire,A. Hopkins|||
+
+> **Motion Passed (4 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by M. Cassidy
+
+> Seconded by S. Turner
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+> Moved by M. Cassidy
+
+> Seconded by P. Squire
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|Absent:|
+> |-|-|-|
+> |J. Helmer|S. Turner|E. Holder|
+> |M. Cassidy|||
+> |P. Squire,A. Hopkins|||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+## 3.4&nbsp;&nbsp;&nbsp;Public Participation Meeting - 324 York Street (TZ-9069) 
+
+[2019-09-09 SR - 324 York Street](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67150>)
+
+[2019-09-09 Public Comments 3.4](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67151>)
+
+> Moved by S. Turner
+
+> Seconded by M. Cassidy
+
+That, on the recommendation of the Director, Development Services, with respect to the application by McKenzie Lake Lawyers LLP c/o Patrick Clancy, relating to the property located at 324 York Street, the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property by extending the Temporary Use (T-71) for a period of three (3) years, BE REFUSED for the following reasons:
+
+i)          the request is not consistent with the policies of the Provincial Policy Statement, 2014;
+
+ii)         the request does not conform to the specific policies of the 1989 Official Plan or The London Plan regarding temporary commercial parking lots;
+
+iii)        the request does not implement the goals of Our Move Forward: London’s Downtown Plan; and,
+
+iv)        the request does not implement the recommendations of the Downtown Parking Strategy;
+
+it being pointed out that at the public participation meeting associated with these matters, the individual indicated on the attached public participation meeting record made an oral submission regarding these matters;
+
+it being further noted that the Municipal Council refuses this application for the following reason:
+
+-           the request to extend the temporary zone for a period of three (3) years, representing the maximum extension permitted, does not encourage the long-term redevelopment of the site. A six (6) month extension has already been granted to allow existing users of the commercial parking lot to search for alternative parking arrangements. The refusal of a three (3) year extension would further encourage the long-term redevelopment of the site to a more intense, transit-supportive use that is consistent with the policies of the Provincial Policy Statement and is in conformity with the 1989 Official Plan and The London Plan.   (2019-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |E. Holder|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |A. Hopkins,S. Turner|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by M. Cassidy
+
+> Seconded by S. Turner
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder,P. Squire|
+> |M. Cassidy||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Turner
+
+> Seconded by M. Cassidy
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |E. Holder|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |A. Hopkins,S. Turner|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+## 3.5&nbsp;&nbsp;&nbsp;Public Participation Meeting - 551 Knights Hill Road (Z-9062)
+
+[2019-09-09 SR - 551 Knights Hill Road](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67152>)
+
+[2019-09-09 Public Comments 3.5](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67153>)
+
+> Moved by J. Helmer
+
+> Seconded by E. Holder
+
+That, on the recommendation of the Director, Development Services, based on the application by Yasmina Balaska, relating to the property located at 551 Knights Hill Road, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), BY AMENDING the Convenience Commercial Special Provision (CC1(9)) Zone to add two additional uses of pharmacy and professional office within the existing building and to recognize the existing parking area setback;
+
+it being pointed out that at the public participation meeting associated with these matters, the individual indicated on the attached public participation meeting record made an oral submission regarding these matters;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-           the proposed amendment is consistent with the Provincial Policy Statement, 2014, as it promotes healthy, liveable and safe communities by accommodating an appropriate range and mix of uses;
+
+-           the proposed amendment conforms to the in-force policies of the 1989 Official Plan, including but not limited to, Convenience Commercial policies in the Multi-Family, Medium Density Residential Designation;
+
+-           the proposed amendment conforms to the in-force policies of The London Plan, including but not limited to, the Key Directions that support a mix of uses in Neighbourhoods; and
+
+-           the recommended zone will facilitate additional uses that are appropriate and compatible with the surrounding area.   (2019-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |E. Holder|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |A. Hopkins,S. Turner|
+
+> **Motion Passed (6 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Turner
+
+> Seconded by M. Cassidy
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |E. Holder|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |A. Hopkins,S. Turner|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by M. Cassidy
+
+> Seconded by S. Turner
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |E. Holder|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |A. Hopkins,S. Turner|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+## 3.6&nbsp;&nbsp;&nbsp;Public Participation Meeting - 3493 Colonel  Talbot Road (OZ-9049) 
+
+[2019-09-09 SR - 3493 Colonel Talbot Road](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67154>)
+
+[2019-09-09 Public Comments 3.6](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67155>)
+
+> Moved by J. Helmer
+
+> Seconded by E. Holder
+
+That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2219008 Ontario Ltd, relating to the property located at 3493 Colonel Talbot Road:
+
+a)         the proposed by-law appended to the staff report dated September 9, 2019 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend section 3.6.5, vi), of the 1989 Official Plan, by ADDING the subject site to the list of Locations of Convenience Commercial and Service Station uses, to permit Service Station and Convenience Commercial Uses; and,
+
+b)         the proposed by-law appended to the staff report dated September 9, 2019 as Appendix "B" BE INTRODUCED at the Municipal Council meeting on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a holding Residential R6 Special Provision/Residential R8 Special Provision/Convenience Commercial (h*h-100*h-198*R6-5(46)/R8-4(30)/CC6) Zone TO holding Residential R6 Special Provision/Residential R8 Special Provision/Convenience Commercial Special Provision/Service Station Special Provision (h*h-100*h-198*R6-5(46)/R8-4(30)/CC6(_)/SS2(_)) Zone;
+
+it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made oral submissions regarding these matters;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-           the recommended draft plan and zoning amendments are consistent with the Provincial Policy Statement (PPS), 2014, which encourages an appropriate range and mix of uses to meet projected requirements of current and future residents;
+
+the recommended amendment conforms to the in-force polices of The London Plan, including but limited to, the Neighbourhoods Place Type, Our City, Our Strategy, and all other applicable London Plan policies;
+
+-           the recommended amendment permits an appropriate range of secondary uses that conform to the in-force policies of the (1989) Official Plan and Southwest Area Secondary Plan, including but not limited to the Multi-Family, Medium Density Residential designation, and the Convenience Commercial and Service Station polices; and,
+
+-           the recommended Zoning By-law Amendment allows development that is compatible with the surrounding land uses and appropriately mitigates impacts.   (2019-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |E. Holder|A. Hopkins|
+> |J. Helmer||
+> |M. Cassidy||
+> |P. Squire,S. Turner||
+
+> **Motion Passed (5 to 1)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Turner
+
+> Seconded by A. Hopkins
+
+Motion to refer the application back to the Civic Administration to further consider the following:
+
+a)         noise mitigation measures be put in place to mitigate potential noise impacts to all neighbouring properties;
+
+b)         the siting of the proposed uses on the site to appropriately mitigate potential impact to neighbouring properties; and,
+
+c)         pursuant to Section 34(17) of the Planning Act, no further public participation meeting required as the proposed amendments are minor in nature.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |M. Cassidy|E. Holder|
+> |A. Hopkins,S. Turner|J. Helmer,P. Squire|
+
+> **Motion Failed (3 to 3)**
+
+****
+
+> Moved by M. Cassidy
+
+> Seconded by P. Squire
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |E. Holder|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |A. Hopkins,S. Turner|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+> Moved by S. Turner
+
+> Seconded by M. Cassidy
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |E. Holder|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |A. Hopkins,S. Turner|
+
+> **Motion Passed (6 to 0)**
+
+****
+
+## 3.7&nbsp;&nbsp;&nbsp;Public Participation Meeting - Revise Wording of the Existing h-18 Holding Provision (Archaeological Assessment) (Z-9059)
+
+[2019-09-09 SR - Revise Wording of Existing h-18 Holding Provision - Archaeological Assessment](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67156>)
+
+[2019-09-09 Public Comments 3.7](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67157>)
+
+> Moved by M. Cassidy
+
+> Seconded by S. Turner
+
+That, on the recommendation of the Managing Director, City Planning and City Planner, based on the application by The Corporation of the City of London, relating to all lands within the City of London, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to delete the wording of the existing h-18 holding provision in Section 3.8 (2) and replace it with new wording to reflect the Archaeological Master Plan (2017) and to clarify terminology with respect to the requirement for archaeological assessments; and,
+
+it being pointed out that at the public participation meeting associated with these matters, the individual indicated on the  public participation meeting record made an oral submission regarding these matters;
+
+it being further noted that the Municipal Council approves this application for the following reason:
+
+-           to improve clarity and make it easier to interpret and implement the required Archaeological Management Plan (2007).   (2019-D09/R01)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by M. Cassidy
+
+> Seconded by S. Turner
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder,P. Squire|
+> |M. Cassidy||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by M. Cassidy
+
+> Seconded by S. Turner
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+## 3.8&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - 475 and 480 Edgevalley Road (Z-9068)
+
+[2019-09-09 SR - 475 and 480 Edgevalley Road](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67158>)
+
+[2019-09-09 PS - Drewlo - 475 and 480 Edgevalley Road](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67159>)
+
+[2019-09-09 Public Comments 3.8](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67160>)
+
+> Moved by J. Helmer
+
+> Seconded by S. Turner
+
+That, on the recommendation of the Director, Development Services, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to:
+
+a)         change the zoning of the property known as 480 Edgevalley Road FROM a Holding Residential R5/R6 (h*h-54*R5-7/R6-5) Zone, TO a Residential R8 Special Provision (R8-4( )*H15) Zone to permit apartment buildings, handicapped person’s apartment buildings, lodging house class 2, stacked townhousing, senior citizen apartment buildings, emergency care establishments, and continuum-of-care facilities at a maximum height of 15 metres and a maximum density of 75 units per hectare, with a special provision for reduced front, exterior side yard and rear yard depths; and,
+
+b)         change the zoning of the property known as 475 Edgevalley Road FROM a Holding Residential R5/R6 (h*h-54*R5-7/R6-5) Zone to a Residential R8 Special Provision Bonus (R8-4( )*H16*B( )) Zone to permit apartment buildings, handicapped person’s apartment buildings, lodging house class 2, stacked townhousing, senior citizen apartment buildings, emergency care establishments, and continuum-of-care facilities at a maximum height of 16 metres and a maximum density of 75 units per hectare, with a special provision for reduced front, exterior side yard and rear yard depths;
+
+it being noted that the proposed Bonus Zone will be enabled through one or more agreements to facilitate the development of three (3) low-rise apartment buildings, with a maximum of four (4) storeys (Building A = 16m), five (5) storeys (Building B= 18m) and six (6) storeys (Building C = 22m), a total of 147 dwelling units (Building A = 39 dwelling units; Building B = 49 dwelling units; Building C = 59 dwelling units), and a density of 100 units per hectare,
+
+it being further noted that the proposed development will provide for four (4) affordable rental housing units, established by agreement at 85% of the CMHC average market rent for a period of 15 years with an agreement being entered into with The Corporation of the City of London, to secure the above-noted affordable housing units for the 15 year term; and,
+
+it being also noted that the following Site Plan Matters pertaining to 475 and 480 Edgevalley Road have been raised during the public participation process:
+
+i)          additional landscaping and drive aisle on the west property line of 480 Edgevalley Road; 
+
+ii)         additional landscaping throughout the sites; and 
+
+iii)        robust fencing;
+
+it being pointed out that the Planning and Environment Committee reviewed and received the following communications with respect to this matter:
+
+-           a communication dated September 5, 2019, from M. and L. Hermant, 1530 Benjamin Drive; and,
+
+-           a communication dated August 13, 2019, from C. O’Brien, Land Planner, Drewlo Holdings Inc.;
+
+it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made oral submissions regarding these matters;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-           the recommended amendment is consistent with the Provincial Policy Statement (PPS), 2014, as it promotes efficient development and land use patterns which sustain the financial well-being of the municipality; accommodate an appropriate range and mix of land uses; and promote cost-effective development standards to minimize land consumption and servicing costs;
+
+-           the recommended amendment conforms to the in-force polices of The London Plan, including but not limited to the Neighbourhoods Place Type, Our City, Our Strategy, and all other applicable London Plan policies;
+
+-           the recommended amendment permits a form and intensity of medium density residential development that conforms to the in-force policies of the (1989) Official Plan, including but not limited to the Multi-Family, Medium Density Residential designation, and the Bonus Zoning polices;
+
+-           the recommended amendment will allow for an increase to height and density through a Bonus Zone which requires that the ultimate form of development be consistent with the site plan and elevations appended to the amending by-law. The recommended Bonus Zone provides for an increased density and height in return for a series of bonusable features, matters and contributions that benefit the public in accordance with Section 19.4.4 of the (1989) Official Plan;
+
+-           the recommended Zoning By-law amendment allows development that is consistent with the land use concepts and guidelines in the Kilally North Area Plan, which encourage medium density housing forms that are designed without the need for noise attenuation walls in this location and recognizes transition with existing residential development;
+
+-           the proposed use for the subject lands contributes to the range and mix of housing options in the area. The proposed use represents an efficient development and use of land; and,
+
+-           the subject lands are of a size and shape suitable to accommodate the proposal. The recommended Zoning By-law amendment provides appropriate regulations to control the use and intensity of the building and ensure a well-designed development with appropriate mitigation measures.    (2019-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by J. Helmer
+
+> Seconded by M. Cassidy
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+> Moved by S. Turner
+
+> Seconded by M. Cassidy
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
+
+## 4.1&nbsp;&nbsp;&nbsp;7th Report of the Advisory Committee on the Environment
+
+[2019-08-07 ACE Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67161>)
+
+> Moved by S. Turner
+
+> Seconded by M. Cassidy
+
+That, the following actions be taken with respect to the 7th Report of the Advisory Committee on the Environment, from its meeting held on August 7, 2019:
+
+a)         the City Clerk BE DIRECTED to forward Advisory Committee reports from the Environmental and Ecological Planning Advisory Committee, the Trees and Forests Advisory Committee and the Transportation Advisory Committee to the Advisory Committee on the Environment (ACE) for inclusion on ACE agendas; it being noted that the attached presentation from J. Stanford, Director, Environment, Fleet and Solid Waste with respect to an overview of Environmental and Engineering Services and an update on Advisory Committee on the Environment Work Plan items, was received; and,
+
+b)         clauses 1.1, 2.1, 3.1 to 3.3 and 5.1 BE RECEIVED for information.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+## 4.2&nbsp;&nbsp;&nbsp;8th Report of the London Advisory Committee on Heritage
+
+[2019-08-14 LACH Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=67162>)
+
+> Moved by S. Turner
+
+> Seconded by M. Cassidy
+
+That, the following actions be taken with respect to the 8th Report of the London Advisory Committee on Heritage, from its meeting held on August 15, 2019:
+
+a)         on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the application under Section 33 of the Ontario Heritage Act, retroactive consent for the existing porch on the heritage designated property located at 529 Princess Avenue BE GIVEN subject to the following terms and conditions:
+
+-           the Heritage Planner be circulated on the applicant’s Building Permit application drawings to verify compliance with the Heritage Alteration Permit prior to issuance of the Building Permit;
+
+-           all exposed wood be painted; and,
+
+-           the Heritage Alteration Permit be displayed in a location visible from the street until the work is completed;
+
+it being noted that a verbal delegation from D. Russell and the presentation from K. Gonyou, Heritage Planner, with respect to this matter, were received;
+
+b)         on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act to alter the front façade of the building, located at 42 Albion Street, within the Blackfriars/Petersville Heritage Conservation District, BE PERMITTED as submitted in the proposed alteration drawings, as appended to the staff report dated August 14, 2019, with the following terms and conditions:
+
+-           all exposed wood be painted; and,
+
+-           the Heritage Alteration Permit be displayed in a location visible from the street until the work is completed;
+
+it being noted that a verbal delegation from T. Roppelt and C. Roes and a presentation from K. Gonyou, Heritage Planner, with respect to this matter, were received;
+
+c)         the Municipal Council BE ADVISED of the following with respect to a potential bid to bring the Ontario Heritage Conference to the City of London:
+
+-           the London Advisory Committee on Heritage (LACH) supports a bid, to be led by W. Kinghorn, to bring the Ontario Heritage Conference to the City of London at a future date, to be determined;
+
+-           the LACH supports W. Kinghorn serving as the Chair of the Organizing Committee for this event; and,
+
+-           the LACH will provide support to the above-noted Organizing Committee in the form of committee members;
+
+it being noted that a verbal delegation from W. Kinghorn, with respect to this matter, was received;
+
+d)         C. Parker, Senior Planner, BE ADVISED that the London Advisory Committee on Heritage recommends adding the words “,as per the London Plan” after the words “appropriate First Nations” within the by-law, as appended to the staff report dated August 14, 2019, with respect to revising the wording of the existing h-18 Holding Provision (Archaeological Assessment);
+
+e)         on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the heritage designated property at 660 Sunningdale Road East:
+
+i)          notice BE GIVEN under the provisions of Section 30.1(4) of the Ontario Heritage Act, R. S. O. 1990, c. O. 18, of Municipal Council’s intention to pass a by-law to amend the legal description of the property designated to be of cultural heritage value or interest by By-law No. L.S.P.-3476-474 as defined in Appendix B of the staff report dated August 14, 2019; and,
+
+ii)         should no appeals be received to Municipal Council’s notice of intention to pass a by-law to amend the legal description of the property, a by-law BE INTRODUCED at a future meeting of Municipal Council immediately following the end of the appeal period;
+
+it being noted that should an appeal to Municipal Council’s notice of intent to pass a by-law to amend the legal description of the property be received, the City Clerk will refer the appeal to the Conservation Review Board;
+
+f)          clauses 1.1, 2.4, 2.6, 3.1 to 3.6, inclusive and 5.2 BE RECEIVED for information.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Helmer|E. Holder|
+> |M. Cassidy||
+> |P. Squire||
+> |A. Hopkins,S. Turner||
+
+> **Motion Passed (5 to 0)**
+
+****
+
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+
+None.
+
+****
+
+# 6.&nbsp;&nbsp;&nbsp;Confidential
+
+Moved by: S. Turner
+
+Seconded by: P. Squire
+
+(Confidential Appendix enclosed for Members only.)
+
+The Planning and Environment Committee convened in camera from 6:50 PM to 7:11 PM after having passed a motion to do so, with respect to the following matters:
+
+6.1.  Personal Matters/Identifiable Individual/Litigation or Potential Litigation/Solicitor-Client Privileged Advice
+
+ 
+
+A matter pertaining to matters about an identifiable individual, including municipal or board employees, litigation or potential litigation, including matters before administrative tribunals, affecting the municipality or local board; and advice that is subject to solicitor-client privilege, including communications necessary for that purpose.
+
+****
+
+# 7.&nbsp;&nbsp;&nbsp;Adjournment
+
+The meeting adjourned at 7:11 PM.
+
+****
+

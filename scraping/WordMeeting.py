@@ -118,10 +118,34 @@ class WordMeeting:
         return self.meeting_type
 
     def extract_datetime(self, fallback_date):
-        """Extract date and time from meeting text."""
-        # Look for date pattern: "December 18, 2014"
-        date_pattern = r'(\w+)\s+(\d{1,2}),\s+(\d{4})'
+        """Extract date and time from meeting text.
 
+        Uses fallback_date (from server API) as the authoritative date source,
+        since document text often contains incorrect dates from referenced meetings.
+        Only extracts time from the document if available.
+        """
+        # Use fallback_date as the primary date source (it's from the server API)
+        if fallback_date:
+            base_date = fallback_date.replace(hour=0, minute=0, second=0, microsecond=0)
+
+            # Try to extract time from document text
+            for p in self.paragraphs[:15]:
+                text = p.get_text().strip()
+                time_match = re.search(r'(\d{1,2}):(\d{2})\s*(AM|PM)', text, re.IGNORECASE)
+                if time_match:
+                    hour = int(time_match.group(1))
+                    minute = int(time_match.group(2))
+                    am_pm = time_match.group(3).upper()
+                    if am_pm == 'PM' and hour != 12:
+                        hour += 12
+                    elif am_pm == 'AM' and hour == 12:
+                        hour = 0
+                    return base_date.replace(hour=hour, minute=minute)
+
+            return base_date
+
+        # No fallback date - try to extract from document text (legacy behavior)
+        date_pattern = r'(\w+)\s+(\d{1,2}),\s+(\d{4})'
         for p in self.paragraphs[:15]:
             text = p.get_text().strip()
             match = re.search(date_pattern, text)
@@ -130,7 +154,6 @@ class WordMeeting:
                     date_str = match.group(0)
                     parsed_date = datetime.strptime(date_str, "%B %d, %Y")
 
-                    # Try to extract time from same or next paragraph
                     time_match = re.search(r'(\d{1,2}):(\d{2})\s*(AM|PM)', text, re.IGNORECASE)
                     if time_match:
                         hour = int(time_match.group(1))
@@ -142,14 +165,9 @@ class WordMeeting:
                             hour = 0
                         return parsed_date.replace(hour=hour, minute=minute)
 
-                    # No time found, return date at midnight
                     return parsed_date
                 except:
                     pass
-
-        # Fallback to provided date
-        if fallback_date:
-            return fallback_date.replace(hour=0, minute=0, second=0, microsecond=0)
 
         return datetime.now()
 

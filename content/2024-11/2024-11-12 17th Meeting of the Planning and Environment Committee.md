@@ -10,7 +10,7 @@ November 12, 2024, at  1:00 PM
 > S. Lehman, S. Lewis, C.Rahman, S. Franke, S. Hillier
 
 > [!abstract]- Also Present:
-> P. Cuddy, J. Pribil, A. Hopkins, E. Peloza, J. Adema, M. Almusawi, C. Cernanec, M. Corby, B. Coveney, I. de Ceuster, K. Edwards, D. Escobar, J. Griffin, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, T. Macbeth,
+> P. Cuddy, J. Pribil, A. Hopkins, E. Peloza, J. Adema, M. Almusawi, C. Cernanec, M. Corby, B. Coveney, I. de Ceuster, K. Edwards, D. Escobar, J. Griffin, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, T. Macbeth, S. Mathers, C. Maton, C. McCreery, H. McNeely, B. O’Hagan, A. Riley, A. Shaw, S. Tatavarti, M. Vivian, E. Williamson
 
 > [!abstract]- Remote Attendance:
 > E. Hunt, E. Skalski
@@ -526,6 +526,71 @@ Motion to close the public participation meeting.
 [2024-11-12 - Staff Report (3.6)](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=112710>)
 
 the Civic Administration BE DIRECTED to provide a proposed fee structure prior to the November 26, 2024 Council meeting
+
+> Moved by C. Rahman
+
+> Seconded by S. Franke
+
+That, on the recommendation of the Director, Planning and Development, the proposed by-law appended to the staff report dated November 12, 2024 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024, introduce a new Site Alteration By-Law to expand the by-law’s coverage to encompass the entire limits of the City, with specific exceptions, addressing the limitations of the existing by-law and repeal By-Law No. C.P.-1363-381;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
+
+- M. Wallace, Executive Director, London Development Institute;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |S. Lewis|
+> |S. Hillier|
+> |S. Lehman|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (5 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by C. Rahman
+
+> Seconded by S. Lewis
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |S. Lewis|
+> |S. Hillier|
+> |S. Lehman|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (5 to 0)**
+
+****
+
+> Moved by C. Rahman
+
+> Seconded by S. Lewis
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |S. Lewis|
+> |S. Hillier|
+> |S. Lehman|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (5 to 0)**
+
+****
 
 ## 3.7&nbsp;&nbsp;&nbsp;1408 and 1412 Commissioners Road West (Z-9780)
 

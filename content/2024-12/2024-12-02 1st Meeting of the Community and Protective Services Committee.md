@@ -10,12 +10,17 @@ December 2, 2024, at  1:00 PM
 > D. Ferreira, H. McAlister, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, C. Cooper, G. Dales, J. Dann, K. Dickins, D. Hall, Deputy Chief R. Hayes, Deputy Chief A. Hunt, T. Johnson, P. Ladouceur, E. Ling, S. Mathers, J.P. McGonigle, D. MacRae, N. Musicco, J. Paradis, K. Pawelec, K. Scherr, C. Smith, J. Straub, P. Yeoman, J. Bunn
+> S. Datars Bere, A. Abraham, C. Cooper, G. Dales, J. Dann, K. Dickins, D. Hall, Deputy Chief R. Hayes, Deputy Chief A. Hunt, T. Johnson, P. Ladouceur, E. Ling, S. Mathers, J.P. McGonigle, D. MacRae, N. Musicco, J. Paradis, K. Pawelec, K. Scherr, C. Smith, J. Straub, P. Yeoman, J. Bunn    
+> 
+> 
+> 
+>  C. Rahman, E. Bennett, J. Castillo, S. Corman, J. Ford, E. Hunt, L. Marshall, C. McCreery, E. Skalski, J. Stanford
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM, it being noted that  S. Trosow was in remote attendance.
 
-> [!abstract]- Remote Attendance:
-> C. Rahman, E. Bennett, J. Castillo, S. Corman, J. Ford, E. Hunt, L. Marshall, C. McCreery, E. Skalski, J. Stanford
 
-The meeting was called to order at 1:00 PM; it being noted that Councillor S. Trosow was in remote attendance.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

@@ -10,7 +10,7 @@ November 19, 2024, at  1:00 PM
 > S. Lewis, H. McAlister, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, Y.
+> S. Datars Bere, A. Abraham, Y. Asare-Bediako, A. Barbon, C. Cooper, S. Corman, K. Dickins, D. Escobar, T. Fowler, S. Govindaraj, J. Ireland, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, N. Steinburg
 
 > [!abstract]- Remote Attendance:
 > E. Bennett, E. Hunt, B. Somers, P. Yeoman

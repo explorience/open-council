@@ -47,12 +47,18 @@ class Meeting:
     In that case, we return None and handle it in the caller.
     """
     if elt is None:
-      return None
+        return None
 
-    if elt.has_attr("datetime"):
-      return datetime.strptime(elt["datetime"], "%Y-%m-%d %H:%M")
+    if not elt.has_attr("datetime"):
+        return None
 
-    # Fallback: return None if no datetime attribute
+    dt_str = elt["datetime"]
+    # Try full datetime first, then date-only
+    for fmt in ["%Y-%m-%d %H:%M", "%Y-%m-%d"]:
+        try:
+            return datetime.strptime(dt_str, fmt)
+        except ValueError:
+            continue
     return None
 
   # XXX this function is absolutely nasty, due to the number of different attendance formats
@@ -96,7 +102,8 @@ class Meeting:
         [also_present] = extra_info
       elif len(extra_info) > 0:
         # bare text - variable number of elements
-        texts = [text for text in extra_info[0].contents if text.name != "br" and text.strip()]
+        texts = [text for text in extra_info[0].contents
+                 if isinstance(text, NavigableString) and text.strip()]
         # we need to wrap them in <p> for the adding functions
         soup = BeautifulSoup("<html></html>", 'html.parser')
 

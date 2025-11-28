@@ -16,7 +16,7 @@ July 18, 2024, at  1:00 PM
 > S. Datars Bere, A. Barbon, C. Cooper, S. Corman, K. Dickins, S. Mathers, J. McGonigle, J. Paradis, C. Parsons, K. Pawelec, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, J. Taylor
 
 > [!abstract]- Remote Attendance:
-> K. Green, E. Hunt, J. Irel, D. Kramers, K. Murray, J. Rennick
+> K. Green, E. Hunt, J. Ireland, D. Kramers, K. Murray, J. Rennick
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and E. Peloza were in remote attendance.
 

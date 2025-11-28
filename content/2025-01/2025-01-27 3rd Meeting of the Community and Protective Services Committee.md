@@ -10,12 +10,17 @@ January 27, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, C. Rahman, E. Peloza, S. Datars Bere, C. Cooper, K. Dickins, D. Escobar, J. Ireland, O. Katolyk, P. Ladouceur, S. Mathers, J.P. McGonigle, K. Scherr, P. Shand, C. Smith, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> Deputy  S. Lewis, C. Rahman, E. Peloza, S. Datars Bere, C. Cooper, K. Dickins, D. Escobar, J. Ireland, O. Katolyk, P. Ladouceur, S. Mathers, J.P. McGonigle, K. Scherr, P. Shand, C. Smith, J. Bunn    
+> 
+> 
+> 
 > G. Bridge, S. Corman, J. Griffin, E. Hunt, E. Skalski, P. Yeoman
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-The meeting was called to order at 1:00 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

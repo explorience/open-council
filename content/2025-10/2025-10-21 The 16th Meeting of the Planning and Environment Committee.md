@@ -10,12 +10,17 @@ October 21, 2025, at  1:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> J. Pribil, A. Hopkins, S. Franke, A. Abraham, J. Adema, M. Clark, M. Corby, K. Edwards, K. Gonyou, M. Hynes, M. Macaulay, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, S. Tatavarti, E. Williamson, K. Mason
+> J. Pribil, A. Hopkins, S. Franke, A. Abraham, J. Adema, M. Clark, M. Corby, K. Edwards, K. Gonyou, M. Hynes, M. Macaulay, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, S. Tatavarti, E. Williamson, K. Mason 
+> 
+> 
+> 
+>  S. Trosow, C. Rahman, D. Ferreira, S. Corman, E. Hunt, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-> [!abstract]- Remote Attendance:
-> S. Trosow, C. Rahman, D. Ferreira, S. Corman, E. Hunt, E. Skalski
 
-The meeting was called to order at 1:00 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

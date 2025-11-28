@@ -13,7 +13,7 @@ April 16, 2024, at  1:00 PM
 > A. Barbon, S. Corman, K. Dickins, D. Escobar, T. MacBeth, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, C. Smith
 
 > [!abstract]- Remote Attendance:
-> E. Hunt, J. Irel,
+> E. Hunt, J. Ireland
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 

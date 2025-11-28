@@ -1880,7 +1880,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ## 8.3&nbsp;&nbsp;&nbsp;11th Report of the Planning and Environment Committee
 
-[2025-06-23 - PEC REPORT](</2025-06/2025-06-23 Special 10th Meeting of the Planning and Environment Committee>)
+[2025-06-23 - PEC REPORT](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee>)
 
 At 6:45 PM, Councillors P. Cuddy and S. Hillier leave the meeting.
 
@@ -1918,7 +1918,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-23 Special 10th Meeting of the Planning and Environment Committee#21ontario-building-faster-fund-londons-2024-housing-target-performance>) Information Report on ReThink Zoning Project 
+### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#21information-report-on-rethink-zoning-project>) Information Report on ReThink Zoning Project 
 
 > Motion made by S. Lehman
 
@@ -1928,7 +1928,7 @@ That, on the recommendation of the Director, Planning and Development, the staff
 
 ****
 
-### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) Community Advisory Committee on Planning Report 
+### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#22added-community-advisory-committee-on-planning-report>) Community Advisory Committee on Planning Report 
 
 > Motion made by S. Lehman
 
@@ -1938,7 +1938,7 @@ That the 3rd Report of the Community Advisory Committee on Planning, from its me
 
 ****
 
-### 8.3.4&nbsp;&nbsp;&nbsp;(3.1) Official Plan Review of The London Plan: Draft Urban Growth Boundary Review (Community Growth)
+### 8.3.4&nbsp;&nbsp;&nbsp;[(3.1)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#31official-plan-review-of-the-london-plan-draft-urban-growth-boundary-review-community-growth>) Official Plan Review of The London Plan: Draft Urban Growth Boundary Review (Community Growth)
 
 > Motion made by S. Lehman
 
@@ -2018,7 +2018,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.3.5&nbsp;&nbsp;&nbsp;(3.2) 2026 Growth Management Implementation Strategy (GMIS) Update
+### 8.3.5&nbsp;&nbsp;&nbsp;[(3.2)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#322026-growth-management-implementation-strategy-gmis-update>) 2026 Growth Management Implementation Strategy (GMIS) Update
 
 > Motion made by S. Lehman
 
@@ -2086,7 +2086,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.3.7&nbsp;&nbsp;&nbsp;(3.4) 3680 & 3700 Colonel Talbot Road (OZ-25013) (Relates to Bill No.'s 283 and 295)
+### 8.3.7&nbsp;&nbsp;&nbsp;[(3.4)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#343680--3700-colonel-talbot-road-oz-25013>) 3680 & 3700 Colonel Talbot Road (OZ-25013) (Relates to Bill No.'s 283 and 295)
 
 > Motion made by S. Lehman
 
@@ -2160,7 +2160,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.3.8&nbsp;&nbsp;&nbsp;(5.1) Deferred Matter List 
+### 8.3.8&nbsp;&nbsp;&nbsp;[(5.1)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#51deferred-matters-list>) Deferred Matter List 
 
 > Motion made by S. Lehman
 
@@ -2170,7 +2170,7 @@ That the June Deferred Matters List BE APPROVED.
 
 ****
 
-### 8.3.6&nbsp;&nbsp;&nbsp;(3.3) Environmental Management Guidelines Update (Relates to Bill No. 282)
+### 8.3.6&nbsp;&nbsp;&nbsp;[(3.3)](</2025-06/2025-06-23 The 11th Meeting of the Planning and Environment Committee#33environmental-management-guidelines-update>) Environmental Management Guidelines Update (Relates to Bill No. 282)
 
 > Motion made by S. Lehman
 

@@ -13,7 +13,7 @@ July 23, 2024, at  1:00 PM
 > S. Datars Bere, A. Barbon, D. Escobar, S. Corman, K. Dickins, L. Marshall, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, B. Warner, J. Wills
 
 > [!abstract]- Remote Attendance:
-> C. Cooper, L. Hancock, E. Hunt, J. Irel, D. Kramers, J. McMillan, K. Murray, J. Nolan, J. Rennick
+> C. Cooper, L. Hancock, E. Hunt, J. Ireland, D. Kramers, J. McMillan, K. Murray, J. Nolan, J. Rennick
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors S. Trosow, P. Van Meerbergen and S. Hillier were in remote attendance.
 
@@ -963,6 +963,33 @@ S. Omonfoman.
 At 2:57 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair. 
 
 At 2:58 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+> Motion made by S. Lehman
+
+That the11th Report of the Planning and Environment Committee BE APPROVED with the exception of item 4 (2.3) and 10 (3.3)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |Mayor J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
 
 ### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
@@ -2465,6 +2492,32 @@ it being noted that the communication, dated May 28, 2024, from Councillors H. M
 
 It being noted that Councillor H. McAlister leaves the meeting at 4:32
 
+> Motion made by A. Hopkins
+
+That the 10th Report of the Civic Works Committee BE APPROVED with the exception of items 8 (2.7) and 11 (5.2)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 0)**
+
+****
+
 ### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Motion made by A. Hopkins
@@ -2741,6 +2794,299 @@ That the Civic Administration BE DIRECTED to setup a request button on the Servi
 ## 9.1&nbsp;&nbsp;&nbsp;13th Report of Council in Closed Session
 
 It being noted that Councillor S. Trosow leaves the meeting at 5:01 PM
+
+> Motion made by D. Ferreira
+
+> Seconded by S. Lehman
+
+That Clause 1 of the 13th Report of Council in Closed Session BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Recuse:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|P. Cuddy|H. McAlister|
+> |A. Hopkins||S. Trosow|
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (12 to 0)**
+
+That Clause 1 of the 13th Report of the Council, In Closed Session, read as follows:
+
+1. Offer to Purchase City-Owned Lands – Sofina Foods Inc. – Part of Pine Street
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, In Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned land located at Pine Street, legally described as part of Pine Street on Registered 433 being Parts 1 and 2 on Plan 33R-21849, as outlined on the sketch attached hereto as Appendix “A”, the Agreement of Purchase and Sale (the “Agreement”), attached as Appendix “B”, submitted by Sofina Foods Inc. (the “Purchaser”) to purchase 0.80 acres of the subject property from the City, at a purchase price of $120,000.00 BE ACCEPTED, subject to the conditions and terms below:
+
+i)     the Purchaser accepting the environmental condition of the lands on an “as is” basis;
+
+ii)    the Purchaser accepting the lands subject to the retention of an easement in favor of London Hydro; and
+
+iii)   the agreement being subject to the land being declared surplus by Council.
+
+****
+
+> Motion made by D. Ferreira
+
+> Seconded by P. Cuddy
+
+That Clause 3 of the Report of Council in Closed Session BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Recuse:|Absent:|
+> |-|-|-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|C. Rahman|H. McAlister|
+> |A. Hopkins|||S. Trosow|
+> |S. Lewis||||
+> |S. Hillier||||
+> |E. Peloza||||
+> |S. Lehman||||
+> |P. Cuddy||||
+> |S. Stevenson||||
+> |J. Pribil||||
+> |S. Franke||||
+> |D. Ferreira||||
+
+> **Motion Passed (11 to 1)**
+
+That Clause 3 of the 13th Report of the Council, In Closed Session, read as follows:
+
+3. Partial Property Acquisition – 1001 Fanshawe College Blvd. – East London Link Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to a partial acquisition of the property located at 1001 Fanshawe College Blvd., in the City of London, further described as Part of South 1/2 Lot 7, Concession 2, being Part of Pin 08105-0390(LT) more particularly described as Parts 12, 38, 39, 41, 42, and 49, Plan 33R-21810, containing an area of approximately 2,201.22 m2 (23,693.73 ft2), as shown on the reference plan attached as Appendix “B”, for the purpose of future road improvements to accommodate the East London Link Project, the following actions be taken:
+
+a)     the offer submitted by The Fanshawe College of Applied Arts and Technology (the Vendor), to sell the subject property to the City, for a nominal sum of $2.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”, the agreement including a permanent easement in favour of London Hydro and a temporary easement agreement; and
+
+b)     the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+****
+
+> Motion made by D. Ferreira
+
+> Seconded by A. Hopkins
+
+That Clauses 2, 5, 6, and 8 of the 13th Report of Council in Closed Session BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|H. McAlister|
+> |A. Hopkins|S. Trosow|
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (13 to 0)**
+
+That Clauses 2, 5, 6, and 8 of the 13th Report of the Council, In Closed Session, read as follows:
+
+2. Offer to Purchase City-Owned Surplus Land – Part of Berkshire Park – 510 Berkshire Drive
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, In Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned land located at Berkshire Drive, legally described as Parts of Block P, Plan 932, London / Westminster, being Parts of PIN 084050053, containing an area of approximately 7,965 square feet,  as outlined on the location map attached as Appendix “A”, the Agreement of Purchase and Sale (the “Agreement”), attached as Appendix “B”, submitted by Sifton Properties Limited (the “Purchaser”) to purchase the subject property from the City, for the sum of $55,000.00 BE ACCEPTED, subject to the following conditions:
+
+i)     Purchaser acknowledges and agrees that the property is being purchased on an “as is” basis;
+
+ii)    the Purchaser agreeing to pay their own legal fees;
+
+iii)   the Purchaser agreeing to pay all expenses for preparing and depositing a reference plan; and
+
+iv)   the Purchaser to utilize parkland credits in lieu of payment of the purchase price.
+
+5. Property Acquisition – 129 Highbury Avenue North – Highbury Avenue and Hamilton Road Intersection Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports,  with the concurrence of the Deputy City Manager, Environment and Infrastructure, on the advice of the Director, Realty Services, with respect to the acquisition of the property located at 129 Highbury Avenue North, in the City of London, further described as S 7 FT Lot 147 and all of Lot 148, Plan 511, in the City of London, County of Middlesex, being all of PIN 083400243, containing an area of approximately 4,585.42 square feet (0.105 ac), as shown on the location map attached as Appendix “B”, for the purpose of future  improvements to accommodate the Highbury Avenue and Hamilton Road Intersection Project, the following actions be taken:
+
+a)     the offer submitted by Justin David Kirk (the Vendor), to sell the subject property to the City, for the sum of $374,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)     the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+6. Property Acquisition – 1535 Dundas Street – Open Space and Natural Heritage
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Deputy City Manager, Environment and Infrastructure and the Director, Parks and Forestry, on the advice of the Director, Realty Services, with respect to the property located at 1535 Dundas Street, further described as Part Lots 7 and 8, Plan 69 and Part of Hill Street Plan 69, Closed by 8517LY, designated as Part 2, Plan 33R-7947; in the City of London, County of Middlesex, with an area of approximately 4.28 acres, as shown on the location map attached as Appendix “B”, for the purpose of a park acquisition to protect natural heritage features, the following actions be taken:
+
+a)      the offer submitted by Drewlo Construction Limited (the “Vendor”), to sell the subject property to the City, for the sum $630,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)     the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+8. Awarding of the 2024 Queen Elizabeth Scholarships
+
+That, as a procedural matter pursuant to Section 239 (2) of the Municipal Act, 2001, as amended, the following recommendation be forwarded to the Council, In Closed session, for the purpose of considering whether the recommendation should be forwarded to City Council for deliberation and a vote in public session:
+
+That, on the recommendation of the City Clerk, and in recognition of achieving the highest scholastic achievement in their graduating year, the following students BE AWARDED the 2024 Queen Elizabeth Scholarships, in the amounts shown:
+
+Chuying Huo              London Central Secondary School                           99.00%   $2,000
+
+Adrian Starzynski     Saint André Bessette Catholic Secondary School    99.00%   $2,000
+
+That progress was made with respect to items 4.8, 4.9, 4.10, and 4.12 as noted on the public agenda, (6.8/12/CSC), (6.1/9/CPSC), (6.2/9/CPSC), and (6.1/13/Council).
+
+****
+
+> Motion made by D. Ferreira
+
+> Seconded by P. Cuddy
+
+That Clauses 4 and 7 of the 13th Report of Council in Closed Session BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|H. McAlister|
+> |A. Hopkins|S. Stevenson|S. Trosow|
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (11 to 2)**
+
+That Clauses 4 and 7 of the 13th Report of the Council, In Closed Session, read as follows:
+
+4. Property Acquisition – 22 Wellington Road – Wellington Gateway Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the property located at 22 Wellington Road, further described as Part of Lot 18, Registered Plan 11 (4TH Division), being west half, except Part 10 on Plan 32R30; City of London, County of Middlesex, being all of PIN 08357-0053 (LT), containing an area of approximately 7,459.38 square feet, as shown on the location map attached as Appendix “B”, for the purpose of future road improvements to accommodate the Wellington Gateway Project, the following actions be taken:
+
+a)    the offer submitted by Jim Pattison Enterprises Ltd. (the “Vendor”), to sell the subject property to the City, for the sum of $705,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+7. Settlement Agreement – 1144 Dundas Street – East London Link Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the property located at 1144 Dundas Street, further described as Part Block D, Registered Plan 494, in the City of London, County of Middlesex, designated as Part 1, Plan ER-1545445, being part of PIN 08289-0057, as shown on the location map attached as Appendix “B”, for the purpose of future road improvements to accommodate the East London Link Project, the following actions be taken:
+
+a)    the Settlement Agreement as to compensation and possession from Phe-Naz Holdings Inc. to settle the outstanding expropriation compensation to the property owner, for the total sum of $215,800.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+****
+
+That the 13th Report of Council in Closed Session, as approved, reads as follows:
+
+That clause 1 to 8 of the 13th Report of the Council, In Closed Session, read as follows:
+
+1. Offer to Purchase City-Owned Lands – Sofina Foods Inc. – Part of Pine Street
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, In Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned land located at Pine Street, legally described as part of Pine Street on Registered 433 being Parts 1 and 2 on Plan 33R-21849, as outlined on the sketch attached hereto as Appendix “A”, the Agreement of Purchase and Sale (the “Agreement”), attached as Appendix “B”, submitted by Sofina Foods Inc. (the “Purchaser”) to purchase 0.80 acres of the subject property from the City, at a purchase price of $120,000.00 BE ACCEPTED, subject to the conditions and terms below:
+
+i)     the Purchaser accepting the environmental condition of the lands on an “as is” basis;
+
+ii)    the Purchaser accepting the lands subject to the retention of an easement in favor of London Hydro; and
+
+iii)   the agreement being subject to the land being declared surplus by Council.
+
+2. Offer to Purchase City-Owned Surplus Land – Part of Berkshire Park – 510 Berkshire Drive
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, In Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned land located at Berkshire Drive, legally described as Parts of Block P, Plan 932, London / Westminster, being Parts of PIN 084050053, containing an area of approximately 7,965 square feet,  as outlined on the location map attached as Appendix “A”, the Agreement of Purchase and Sale (the “Agreement”), attached as Appendix “B”, submitted by Sifton Properties Limited (the “Purchaser”) to purchase the subject property from the City, for the sum of $55,000.00 BE ACCEPTED, subject to the following conditions:
+
+i)     Purchaser acknowledges and agrees that the property is being purchased on an “as is” basis;
+
+ii)    the Purchaser agreeing to pay their own legal fees;
+
+iii)   the Purchaser agreeing to pay all expenses for preparing and depositing a reference plan; and
+
+iv)   the Purchaser to utilize parkland credits in lieu of payment of the purchase price.
+
+3. Partial Property Acquisition – 1001 Fanshawe College Blvd. – East London Link Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to a partial acquisition of the property located at 1001 Fanshawe College Blvd., in the City of London, further described as Part of South 1/2 Lot 7, Concession 2, being Part of Pin 08105-0390(LT) more particularly described as Parts 12, 38, 39, 41, 42, and 49, Plan 33R-21810, containing an area of approximately 2,201.22 m2 (23,693.73 ft2), as shown on the reference plan attached as Appendix “B”, for the purpose of future road improvements to accommodate the East London Link Project, the following actions be taken:
+
+a)     the offer submitted by The Fanshawe College of Applied Arts and Technology (the Vendor), to sell the subject property to the City, for a nominal sum of $2.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”, the agreement including a permanent easement in favour of London Hydro and a temporary easement agreement; and
+
+b)     the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+4. Property Acquisition – 22 Wellington Road – Wellington Gateway Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the property located at 22 Wellington Road, further described as Part of Lot 18, Registered Plan 11 (4TH Division), being west half, except Part 10 on Plan 32R30; City of London, County of Middlesex, being all of PIN 08357-0053 (LT), containing an area of approximately 7,459.38 square feet, as shown on the location map attached as Appendix “B”, for the purpose of future road improvements to accommodate the Wellington Gateway Project, the following actions be taken:
+
+a)    the offer submitted by Jim Pattison Enterprises Ltd. (the “Vendor”), to sell the subject property to the City, for the sum of $705,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+5. Property Acquisition – 129 Highbury Avenue North – Highbury Avenue and Hamilton Road Intersection Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports,  with the concurrence of the Deputy City Manager, Environment and Infrastructure, on the advice of the Director, Realty Services, with respect to the acquisition of the property located at 129 Highbury Avenue North, in the City of London, further described as S 7 FT Lot 147 and all of Lot 148, Plan 511, in the City of London, County of Middlesex, being all of PIN 083400243, containing an area of approximately 4,585.42 square feet (0.105 ac), as shown on the location map attached as Appendix “B”, for the purpose of future  improvements to accommodate the Highbury Avenue and Hamilton Road Intersection Project, the following actions be taken:
+
+a)     the offer submitted by Justin David Kirk (the Vendor), to sell the subject property to the City, for the sum of $374,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)     the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+6. Property Acquisition – 1535 Dundas Street – Open Space and Natural Heritage
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Deputy City Manager, Environment and Infrastructure and the Director, Parks and Forestry, on the advice of the Director, Realty Services, with respect to the property located at 1535 Dundas Street, further described as Part Lots 7 and 8, Plan 69 and Part of Hill Street Plan 69, Closed by 8517LY, designated as Part 2, Plan 33R-7947; in the City of London, County of Middlesex, with an area of approximately 4.28 acres, as shown on the location map attached as Appendix “B”, for the purpose of a park acquisition to protect natural heritage features, the following actions be taken:
+
+a)      the offer submitted by Drewlo Construction Limited (the “Vendor”), to sell the subject property to the City, for the sum $630,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)     the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+7. Settlement Agreement – 1144 Dundas Street – East London Link Project
+
+That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, in Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session:
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the property located at 1144 Dundas Street, further described as Part Block D, Registered Plan 494, in the City of London, County of Middlesex, designated as Part 1, Plan ER-1545445, being part of PIN 08289-0057, as shown on the location map attached as Appendix “B”, for the purpose of future road improvements to accommodate the East London Link Project, the following actions be taken:
+
+a)    the Settlement Agreement as to compensation and possession from Phe-Naz Holdings Inc. to settle the outstanding expropriation compensation to the property owner, for the total sum of $215,800.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and
+
+b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.
+
+8. Awarding of the 2024 Queen Elizabeth Scholarships
+
+That, as a procedural matter pursuant to Section 239 (2) of the Municipal Act, 2001, as amended, the following recommendation be forwarded to the Council, In Closed session, for the purpose of considering whether the recommendation should be forwarded to City Council for deliberation and a vote in public session:
+
+That, on the recommendation of the City Clerk, and in recognition of achieving the highest scholastic achievement in their graduating year, the following students BE AWARDED the 2024 Queen Elizabeth Scholarships, in the amounts shown:
+
+Chuying Huo              London Central Secondary School                           99.00%   $2,000
+
+Adrian Starzynski     Saint André Bessette Catholic Secondary School    99.00%   $2,000
+
+That progress was made with respect to items 4.8, 4.9, 4.10, and 4.12 as noted on the public agenda, (6.8/12/CSC), (6.1/9/CPSC), (6.2/9/CPSC), and (6.1/13/Council).
+
+****
 
 # 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 

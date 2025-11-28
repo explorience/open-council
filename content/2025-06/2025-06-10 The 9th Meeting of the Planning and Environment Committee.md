@@ -10,12 +10,17 @@ June 10, 2025, at  1:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> J. Pribil, C. Rahman, D. Ferreria, S. Chambers, M. Corby, I. de Ceuster, K. Edwards, D. Escobar, M. Hynes, B. Lambert, M. Macaulay, L. Marshall, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, S. Rasanu, A. Riley, K. Mason
+> J. Pribil, C. Rahman, D. Ferreria, S. Chambers, M. Corby, I. de Ceuster, K. Edwards, D. Escobar, M. Hynes, B. Lambert, M. Macaulay, L. Marshall, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, S. Rasanu, A. Riley, K. Mason 
+> 
+> 
+> 
+>  S. Trosow, E. Hunt, E. Skalski, S. Tatavarti
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-> [!abstract]- Remote Attendance:
-> S. Trosow, E. Hunt, E. Skalski, S. Tatavarti
 
-The meeting was called to order at 1:00 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

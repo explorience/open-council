@@ -13,7 +13,7 @@ June 17, 2024, at  1:00 PM
 > Deputy  S. Lewis, J. Pribil, A. Barbon, A. Hagan, J. Paradis, T. Pollitt, E. Skalski, J. Taylor, M. Tomazincic, B. Warner.
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: S. Corman, E. Hunt, M. Schulthess
+> S. Corman, E. Hunt, M. Schulthess
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

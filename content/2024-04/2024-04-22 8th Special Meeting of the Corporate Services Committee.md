@@ -13,10 +13,10 @@ April 22, 2024, at  1:00 PM
 > H. McAlister
 
 > [!abstract]- Also Present:
-> Also present: A. Barbon, K. Murray, J. Paradis, T. Pollitt, E.Skalski, J. Taylor.
+> A. Barbon, K. Murray, J. Paradis, T. Pollitt, E.Skalski, J. Taylor.
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: S. Corman, M. Galczynski, E. Hunt.
+> S. Corman, M. Galczynski, E. Hunt.
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, C. Rahman, and P. Van Meerbergen were in remote attendance.
 

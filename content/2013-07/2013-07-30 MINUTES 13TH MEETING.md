@@ -1,0 +1,2761 @@
+---
+title: MINUTES 13TH MEETING
+date: 2013-07-30
+---
+July 30, 2013
+
+[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=184a15ed-8183-4d55-9e80-41b9954d2dc8&Agenda=PostMinutes&lang=English)
+
+> [!abstract]- Present:
+> J.F. Fontana, B. Polhill, B. Armstrong, S. Orser, J.L. Baechler, N. Branscombe, M. Brown, P. Hubert, D.G. Henderson, D. Brown, H.L. Usher, J.P. Bryant, C. Saunders
+
+> [!abstract]- Absent:
+> J.B. Swan, P. Van Meerbergen, S.E. White
+
+> [!abstract]- Also Present:
+> A. Zuidema, J.P. Barber, J. Braam, S. Datars Bere, J.M. Fleming, M. Hayward, G.T. Hopcroft, J. Kobarda, G. Kotsifas, L. Livingstone, L. Marshall, V. McAlea Major, D. O’Brien, J. Page, R. Paynter, M. Ribera, L.M. Rowe, J. Smout, B. Warner, B. Westlake-Power
+
+The Council meets in Regular Session in the
+  Council Chambers this day at 4:02 p.m.
+
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
+  OF PECUNIARY INTEREST
+
+Councillor M. Brown discloses a pecuniary
+  interest in clause 3 of the 20th Report of the Corporate Services Committee
+  having to do with local improvement charges and Sherwood Forest Public School
+  by indicating that he is employed by the Thames Valley District School
+  Board.  Councillor M. Brown further discloses a pecuniary interest in clause
+  21 of the 20th Report of the Corporate Services Committee having to do with
+  an appointment to the London Diversity and Race Relations Advisory Committee
+  by indicating that the subject individual is his spouse's supervisor.
+  Councillor M. Brown also discloses a pecuniary interest in clause 13 of the
+  17th Report of the Planning and Environment Committee having to do with the
+  property at 655 Tennent Avenue by indicating that he is employed by the
+  Thames Valley District School Board.
+
+Councillor P. Hubert discloses a pecuniary
+  interest in clause 9 of the 13th Report of the Community and Protective
+  Services Committee having to do with the Ontario Works Service Plan by
+  indicating that he is the Executive Director of a social services agency that
+  has a Purchase of Service Agreement with Ontario Works.  Councillor Hubert
+  further discloses a pecuniary interest in clause C-1 of the Confidential
+  Appendix to the 13th Report of the Community and Protective Services
+  Committee having to do with a matter to be considered for the purpose of
+  instructions and directions to officers and employees of the Corporation
+  pertaining to a proposed disposition of land; advice that is subject to
+  solicitor-client privilege, including communications necessary for that
+  purpose; reports or advice or recommendations of officers and employees of
+  the Corporation pertaining to a proposed or pending disposition of land;
+  commercial and financial information supplied in confidence pertaining to the
+  proposed disposition the disclosure of which could reasonably be expected to,
+  prejudice significantly the competitive position or interfere significantly
+  with the contractual or other negotiations of the Corporation, result in
+  similar information no longer being supplied to the Corporation where it is
+  in the public interest that similar information continue to be so supplied,
+  and result in undue loss or gain to any person, group, committee or financial
+  institution or agency; commercial, information relating to the proposed
+  acquisition or disposition that belongs to the Corporation that has monetary
+  value or potential monetary value; information concerning the proposed
+  disposition whose disclosure could reasonably be expected to prejudice the
+  economic interests of the Corporation or its competitive position;
+  information concerning the proposed disposition whose disclosure could
+  reasonably be expected to be injurious to the financial interests of the
+  Corporation; and instructions to be applied to any negotiations carried on or
+  to be carried on by or on behalf of the Corporation concerning the proposed
+  disposition, with respect to the Dearness Home; personal matters, including
+  information regarding identifiable individuals, including municipal
+  employees, with respect to employment-related matters; labour relations and
+  employee negotiations; and advice or recommendations of officers and
+  employees of the Corporation, including communications necessary for that
+  purpose; and for the purpose of giving instructions and directions to
+  officers and employees of the Corporation and the related Bill No. 356,
+  pertaining to the current location of Ontario Works by indicating that he is
+  the Executive Director of a social services agency that has a Purchase of
+  Service Agreement with Ontario Works.
+
+Councillor D. Brown discloses a pecuniary
+  interest in clause 24 of the 13th Report of the Community and Protective
+  Services Committee having to do with an extension to the lifecycle of
+  limousines, by indicating that her employer operates a limousine business.
+
+Councillor J.P. Bryant discloses a
+  pecuniary interest in clause 4 of the 8th Report of the Investment and
+  Economic Prosperity Committee having to do with London’s Medical Innovation
+  and Commercialization Network vision, by indicating that her spouse is on the
+  faculty of Western University.
+
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
+  CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
+
+# III.&nbsp;&nbsp;&nbsp;ADDED
+  REPORTS
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures Of Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Managing Director,
+  Corporate Services and City Treasurer, Chief Financial Officer - Development
+  Charges Policy Review - Major Policies Covering Report
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer,
+  with the concurrence of the Managing Director, Environmental and Engineering
+  Services and City Engineer and the Managing Director, Development and
+  Compliance Services and Chief Building Official, the following actions be
+  taken:
+ 
+a)         the
+  following policies with respect to the retirement of the Urban Works Reserve
+  Fund BE APPROVED; it being noted that a number of the recommendations in the
+  May 13, 2013 report have been refined or redesigned in comparison to the May
+  13, 2013 report, based on discussions with the London Development Institute,
+  the London Home Builders' Association and the Urban League:  
+ 
+i)          funding
+  of all Urban Works Reserve Fund works be consolidated under the City Services
+  Reserve Fund (CSRF); it being noted that suitable transitional provisions
+  with respect to works currently included in draft plan conditions or under
+  agreements will  be addressed in the draft 2014 Development Charges(DC)
+  By-law and Background Study;
+ 
+ii)         the
+  enhancements to the Growth Management Implementation Strategy Update Process
+  as generally summarized in Appendix ‘A’ to the staff report dated July 29,
+  2013 be endorsed;
+ 
+iii)         the
+  new processes for Design and Construction of Storm Water Management
+  Facilities (SWMF’s), as amended, and as generally summarized in Appendix ‘B’
+  to the staff report dated July 29, 2013 be endorsed;
+ 
+iv)        the
+  Municipal Service and Financing Agreements Policy as outlined in Appendix “D”
+  to the staff report dated July 29, 2013 to be enacted as part of the 2014
+  Development Charges By-law be endorsed for accepting, assessing and
+  administering applications for the acceleration of DC-funded works through
+  Front-Ending Agreements under the Development Charges Act following the
+  adoption of the 2014 Development Charges By-law;
+ 
+v)         the
+  draft front-ending agreement prepared by external legal counsel as outlined
+  in Appendix “E” to the staff report dated July 29, 2013 be received for
+  information, it being noted that final agreements will be prepared at the
+  time of Council approval of an application for a Municipal Service and
+  Financing Agreement based on issues specific to the subject infrastructure
+  project;
+ 
+vi)        the
+  Civic Administration be directed to further develop the procedures governing
+  construction of infrastructure undertaken by developers through development
+  agreements; and 
+ 
+vii)       the
+  Civic Administration be directed to prepare by-law amendments and further
+  refine administrative processes necessary to effect the above-noted changes
+  coincident with the effective date of the 2014 DC By-law;
+ 
+b)         comments
+  from the London Development Institute and the Urban League of London,
+  included in Appendix ‘F’: “Stakeholder Comments” of the staff report dated
+  July 29, 2013, as well as the attached submission from L.
+  Langdon, Executive Officer, London Home Builders’ Association, with respect
+  to the above-noted policy, BE RECEIVED for information; and
+ 
+c)         the following changes to the
+  City’s “local service” definitions BE APPROVED: 
+ 
+i)          Watermain oversizing be a
+  claimable work;
+ii)         Stormwater Open Channel
+  Oversizing be a claimable work;
+iii)         the definition of Sanitary
+  Sewer Oversizing be redefined subject to information to be provided by the
+  Master Servicing Study consultants; and
+iv)        the definition of storm water
+  management works be more broadly defined as all works required to provide
+  stormwater management servicing that satisfy the requirements of a Class
+  Environmental Assessment process;
+ 
+it being
+  noted that the Strategic Priorities and Policy Committee heard the attached
+  presentation from L. Townsend with respect to this matter.
+
+# 3.&nbsp;&nbsp;&nbsp;City Clerk - 1st
+  Report of the 2013 Council Compensation Review Task Force
+
+That the 1st Report of the 2013 Council
+  Compensation Review Task Force from its meeting held on June 26, 2013 BE
+  RECEIVED.
+
+# 4.&nbsp;&nbsp;&nbsp;Special Strategic Priorities and Policy
+  Committee Meeting – Council Member Training and Education Session
+
+That a Special Meeting of the Strategic
+  Priorities and Policy Committee BE HELD at a future date to be determined
+  based upon Council Member availability, at an offsite location, for the
+  purpose of holding an education/training session to assist the Council
+  Members in defining interpersonal behaviours and values, in order to
+  strengthen relationships and cohesion.
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+MOTION FOR IN CAMERA SESSION
+
+> Moved by Councillor J.L. Baechler
+
+> Seconded by Councillor N. Branscombe
+
+Approve  that Council rise and go
+  into Committee of the Whole in camera, for the purpose of considering the
+  following:
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
+
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON JUNE 25, 2013
+
+> Moved by Councillor H.L. Usher
+
+> Seconded by Councillor J.P. Bryant
+
+Approve the Minutes of the 12th Meeting
+  held on June 25, 2013.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
+  WHICH NOTICE IS GIVEN
+
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+> Moved by Councillor H.L. Usher
+
+Approve clauses 1, 3 to 16, 19 and 20.
+
+****
+
+# 5.&nbsp;&nbsp;&nbsp;Solar Project
+  Proposal on the Pottersburg Creek Brownfield Property
+
+That David Webb BE GRANTED delegation
+  status at a future meeting of the Investment and Economic Prosperity
+  Committee, pertaining to a development proposal for the Pottersburg Creek
+  Brownfield property, subject to the satisfactory review of the proposal by
+  the Civic Administration.
+
+# 6.&nbsp;&nbsp;&nbsp;Succession Plan
+
+That, the Managing Director, Corporate
+  Services and Chief Human Resources Officer BE DIRECTED to provide a written
+  report of the September 2013 Audit Committee meeting with respect to
+  succession planning; it being noted that the Audit Committee received a
+  verbal update from the Managing Director, Corporate Services and Chief Human
+  Resources Officer with respect to this matter.
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor M. Brown
+
+Approve clause 1.
+
+****
+
+# 7.&nbsp;&nbsp;&nbsp;RFP 13-01 - Print
+  Optimization
+
+That, on the recommendation of the Chief
+  Technology Officer, Information Technology Services, the following actions be
+  taken with respect to the Print Optimization Request for Proposal for managed
+  print services, including multifunctional devices, legacy printers,
+  centralized print facility and software licensing solutions.
+ 
+a)         the
+  submission from Xerox Canada Ltd., 1398 Wellington Road South, Suite 2-6,
+  London, ON N6E 3N6 for implementing a Print Optimization strategy for managed
+  print services for multifunctional devices and legacy printers for the City
+  of London and their submitted annual cost of hardware, software and services
+  of $467,472.34 (excluding HST) BE ACCEPTED; 
+ 
+b)         the
+  submission from Canon Canada Inc., 6390 Dixie Road, Mississauga, ON L5T 1P7
+  for implementing a Print Optimization strategy for the centralized print
+  facility for the City of London and their submitted annual cost of hardware,
+  software and services of $263,103.00 (excluding HST), BE ACCEPTED; 
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this contract; and
+ 
+d)         approval
+  hereby given BE CONDITIONAL upon the Corporation negotiating satisfactory prices,
+  terms and conditions relating to the subject matter of this approval;
+ 
+it being noted that the annual cost of this
+  contract is within the existing operating budget for printing services, and
+  there are no increases over the four year term.
+
+# 8.&nbsp;&nbsp;&nbsp;Declare Surplus -
+  City Owned Property - 337 Ridgewood Avenue
+
+That, on the recommendation of the Manager
+  Realty Services, with respect to the vacant City-owned property, municipally
+  known as 337 Ridgewood Avenue, described as Parts 1, 2, Lot 39, Plan 783,
+  measuring approximately 55’ X 124’ (16.764 m x 38.054 m), containing an area
+  of approximately 6,865 square feet (638 square meters), the following actions
+  be taken:
+ 
+a)         the subject property BE DECLARED
+  SURPLUS; and
+ 
+b)         the
+  subject property BE OFFERED for sale to the abutting property owners at fair
+  market value, failing which it will be tendered for sale in accordance with
+  the Sale and Other Disposition of Land City Policy.
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+# 9.&nbsp;&nbsp;&nbsp;Declare Surplus and
+  Transfer City-Owned Land - 57 Tecumseh Avenue West
+
+That, on the recommendation of the Manager,
+  Realty Services, with the concurrence of the Managing Director, Housing,
+  Social Services and Dearness Home and the Director, Municipal Housing, with
+  respect to the vacant City-owned property located at 57 Tecumseh Avenue West,
+  legally described as Lots 305 and 306, Plan 488, measuring approximately 110’
+  x 68’, containing an area of approximately 7,480 square feet, the following
+  actions be taken:
+ 
+a)         the subject property BE DECLARED
+  SURPLUS; 
+ 
+b)         the
+  offer submitted by Habitat for Humanity Oxford-Middlesex-Elgin to purchase
+  the subject surplus property from the City, for a consideration of
+  $20,000.00, BE ACCEPTED in a form to the satisfaction of the City Solicitor;
+  and
+ 
+c)         the
+  proposed by-law as appended to the staff report dated July 23, 2013 BE
+  INTRODUCED at the Municipal Council meeting to be held on July 30, 2013 to
+  authorize the Mayor and the City Clerk to execute the Agreement of Purchase
+  and Sale.
+
+# 10.&nbsp;&nbsp;&nbsp;Request from Brose
+  Canada Inc. to Extend the Reconveyance Period Over Parts 5 and 6 of Plan 33R-15347
+  and to Negotiate a New Option Agreement on Parts 7 and 8 of Plan 33R-15347 -
+  Forest City Industrial Park
+
+That, on the recommendation of the Manager
+  Realty Services, the following actions be taken with respect to property on
+  Max Brose Drive and described as Parts 5, 6, 7 & 8 on Plan 33R-15347:
+ 
+a)         the
+  request submitted by Brose Canada Inc. for an extension of the reconveyance
+  period until August 1, 2016, over Parts 5 and 6 of Plan 33R-15347, on
+  approximately 12 acres of land located on the north side of Max Brose Drive,
+  as outlined on the location map as appended to the staff report dated July
+  23, 2013 as Parcel 2 on Schedule “A”, BE APPROVED; and
+ 
+b)         the
+  Civic Administration BE DIRECTED to negotiate an Option Agreement with Brose
+  Canada Inc. to Option (Parts 7 & 8 of Plan 33R-15347) approximately 3.22
+  acres of land located on the north side of Max Brose Drive, as outlined on
+  the location map as appended to the staff report dated July 23, 2013 as
+  Parcel 3 on Schedule “A”.
+
+# 11.&nbsp;&nbsp;&nbsp;Metrolinx Report
+
+That, on the recommendation of the Director
+  of Intergovernmental and Community Liaison, the report dated July 23, 2013
+  with respect to Metrolinx BE RECEIVED for information; it being noted that
+  Metrolinx has recommended that if province-wide implementation of new revenue
+  tools for transportation infrastructure is adopted, the revenue generated
+  from outside the Greater Toronto and Hamilton Area (GTHA) should be directed
+  to areas outside the GTHA.
+
+# 12.&nbsp;&nbsp;&nbsp;AMO Annual General
+  Meeting Conference and Trade Show 2014
+
+That, on the recommendation of the Director
+  of Intergovernmental and Community Liaison, the report dated July 23, 2013
+  with respect to the AMO Annual General Meeting, Conference and Trade Show for
+  2014 BE RECEIVED for information.
+
+# 13.&nbsp;&nbsp;&nbsp;August 1, 2013
+  Ontario Provincial By-Election Candidate Questionnaire
+
+That, on the recommendation of the Director
+  of Intergovernmental and Community Liaison, the report dated July 23, 2013
+  with respect to the August 1st Ontario Provincial London West By-Election
+  Candidate Questionnaire BE RECEIVED.
+
+# 14.&nbsp;&nbsp;&nbsp;Employee Suggestion
+  Program
+
+That, on the recommendation of the Managing
+  Director, Corporate Services & Chief Human Resources Officer, the report
+  dated July 23, 2013 with respect to the employee suggestion program BE
+  RECEIVED for information.
+
+# 15.&nbsp;&nbsp;&nbsp;Workplace Diversity
+  Statement and Plan Update
+
+That, on the recommendation of the Managing
+  Director, Corporate Services & Chief Human Resources Officer:
+ 
+a)         the
+  revised Workplace Diversity Statement as appended to the staff report dated
+  July 23, 2013 BE ENDORSED;
+ 
+b)         the
+  Civic Administration BE DIRECTED to invite the City of London Agencies,
+  Boards and Commissions to participate in the renewed Diversity Task Force;
+  and 
+ 
+c)         the balance of the report BE
+  RECEIVED for information purposes.
+
+> Moved by Councillor J.P. Bryant
+
+> Seconded by Councillor P. Hubert
+
+Amend part b) to read as follows:
+ 
+“b)       the
+  Civic Administration BE DIRECTED to invite the City of London agencies,
+  boards and commissions to embrace the City’s Workplace Diversity Statement
+  and to participate in the renewed Diversity Task Force; and”.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor H.L. Usher
+
+> Seconded by Councillor S. Orser
+
+Approve clause 15, as amended.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+# 16.&nbsp;&nbsp;&nbsp;Vehicle Lease
+  Agreement - Fleet Services and Tourism London
+
+That, on the recommendation of the Managing
+  Director - Environmental & Engineering Services & City Engineer, the
+  proposed by-law appended to the staff report dated July 23, 2013 BE
+  INTRODUCED at the Municipal Council meeting to be held on July 30, 2013 to:
+ 
+a)         approve
+  a Vehicle Lease Agreement, appended to the above-noted by-law as Schedule 1,
+  between The Corporation of the City of London and Tourism London for the
+  lease of a City owned vehicle described as a 2012 Dodge Grand Caravan VIN #
+  2C4RDGBG5CR199233; and
+ 
+b)         authorize
+  the Mayor and the City Clerk to execute the lease agreement noted in a),
+  above.
+
+# 19.&nbsp;&nbsp;&nbsp;Partners in Employment
+  (Pie) Representative on the Accessibility Advisory Committee
+
+That Jewel Hartviksen BE APPOINTED to the
+  Accessibility Advisory Committee for the term ending February 28, 2015, as a
+  non-voting resource member representing Partners in Employment (PIE).
+
+# 20.&nbsp;&nbsp;&nbsp;Appointment to the
+  London Advisory Committee on Heritage
+
+That Hazel Elmslie BE APPOINTED to the
+  London Advisory Committee on Heritage for the term ending February 28, 2015,
+  as a Voting Member representing the Historical Sector.
+
+# 17.&nbsp;&nbsp;&nbsp;Council Members'
+  Expense Account - Funds to Support Local Youth
+
+That the request by Councillor H.L. Usher
+  to utilize $200 from his 2013 annual expense allocation, to assist a local
+  youth with the cost of her participation in the Children’s International
+  Summer Villages, BE APPROVED on a one-time basis.
+
+# 18.&nbsp;&nbsp;&nbsp;Request for
+  Designation of Fall Fest as a Municipally Significant Event
+
+That the Fall Fest to be held August 30 –
+  September 2, 2013 in Victoria Park BE DESIGNATED a Municipally Significant
+  Event in the City of London.
+
+# 21.&nbsp;&nbsp;&nbsp;Appointment to the
+  London Diversity and Race Relations Advisory Committee
+
+That Janet Tufts BE APPOINTED to the London
+  Diversity and Race Relations Advisory Committee for the term ending February
+  28, 2015, as a Non-Voting Member representing the United Way of London and
+  Middlesex.
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (11) RECUSED: M. Brown (1)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor M. Brown
+
+Approve clauses 1 to 6.
+
+****
+
+# 22.&nbsp;&nbsp;&nbsp;Resignation from the
+  Accessibility Advisory Committee
+
+That the communication dated June 21, 2013
+  from Antoinette Dona, resigning her appointment to the Accessibility Advisory
+  Committee, BE ACCEPTED and Ms. Dona BE THANKED for participating on the
+  Committee.
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J.F. Fontana|D.G. Henderson (1)|
+> |B. Polhill||
+> |B. Armstrong||
+> |S. Orser||
+> |J.L. Baechler||
+> |N. Branscombe||
+> |M. Brown||
+> |P. Hubert||
+> |D. Brown||
+> |H.L. Usher||
+> |J.P. Bryant (11)||
+
+> **Motion Passed**
+
+****
+
+# 23.&nbsp;&nbsp;&nbsp;A. Balfe, Youth
+  Create Healthy Communities - Request for Delegation Status
+
+That, the following actions be taken with
+  respect to the request of Youth Create Healthy Communities for delegation
+  status, related to a subsidized, monthly student bus pass:
+ 
+a)         pursuant
+  to section 13.7 of the Council Procedure By-law, the actions of the Municipal
+  Council taken at its meeting of May 14, 2013, related to the adoption of
+  clause 7 of the 9th Report of the Community and Protective Services Committee
+  (CPSC), concerning a delegation request from Youth Create Health Communities,
+  BE RECONSIDERED; and, 
+ 
+b)         delegation status at a future
+  meeting of the CPSC BE APPROVED.
+
+# 24.&nbsp;&nbsp;&nbsp;Request for
+  Consideration of Lifecycle Extension for Limousines
+
+That the communication dated July 18, 2013,
+  from M. Taylor, Checker Limousine, BE REFERRED to the Civic Administration
+  for consideration and report back as part of the Taxi By-law report currently
+  being drafted.
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |H.L. Usher|
+> |J.P. Bryant (11) RECUSED: D. Brown (1)|
+
+> **Motion Passed**
+
+****
+
+# 25.&nbsp;&nbsp;&nbsp;Properties Located
+  at 754 and 764 Waterloo Street and 354 Oxford Street East (Oz-8121)
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following actions be taken with
+  respect to the application of Farhi Holdings Inc., relating to the properties
+  located at 754 and 764 Waterloo Street and 354 Oxford Street East:
+ 
+a)         the
+  proposed by-law, as appended to the staff report dated July 23, 2013,  BE INTRODUCED at
+  the Municipal Council meeting to be held on July 30, 2013, to amend Appendix
+  “1” the Official Plan to change the identification of the subject property
+  FROM a Service Station TO a Convenience Commercial and Service Station
+  identification;
+ 
+b)         the
+  attached, revised, proposed by-law BE INTRODUCED at the
+  Municipal Council meeting to be held on July 30, 2013, to amend Zoning
+  By-law No. Z.-1, (in conformity with the Official Plan, as amended in part
+  a), above), to change the zoning of the subject property FROM a Convenience
+  Commercial/Service Station (CC/SS) Zone and a Residential R2 (R2-2) Zone and
+  a Residential R3/Office Conversion (R3-1/OC5) Zone, which permits such uses
+  as convenience service establishments without a drive-through facility,
+  convenience stores without a drive-through facility, financial institutions
+  without a drive-through facility, personal service establishments without a
+  drive-through facility, gas bars, single-detached dwellings, semi-detached
+  dwellings,  duplex dwellings and converted dwellings, fourplex dwellings,
+  dwelling units, medical dental offices and offices TO a Holding
+  Convenience Commercial Special Provision/Service Station
+  (h-(*)*h-5*h-103*CC6(  )/SS) Zone, to allow for such uses as bake shops
+  without drive-through facilities, commercial schools without drive-through
+  facilities, florist shops without drive-through facilities, pharmacies
+  without drive-through facilities,  eat-in restaurants without drive-through
+  facilities, brewing on premises establishment, including a maximum front yard
+  setback of (1.0m), a maximum exterior side yard setback of (1.0m), a maximum
+  lot coverage of (35%), a maximum gross floor area of 948m2 and a
+  minimum of 28 parking spaces; it being noted that the holding h-(*) provision
+  is to ensure landscaping
+  enhancements are implemented within the abutting Oxford Street and Waterloo
+  Street road allowances to achieve high quality landscaping and the creation
+  of an attractive street edge at this strategic gateway location; it being
+  further noted that the holding (h-5) provision is to ensure that
+  development takes a form compatible with adjacent land uses, by requiring a
+  public site plan review meeting; it being also noted that the holding
+  (h-103) provision is to ensure that urban design is addressed at site
+  plan;
+ 
+c)         subject
+  to Policy
+  19.1.1 of the Official Plan, the subject lands at 764 Waterloo Street BE
+  INTREPRETED to be located within the “Multi-Family, Medium Density
+  Residential” designation;
+ 
+d)         the Site Plan Approval Authority BE
+  REQUESTED to consider the following design elements through the site plan
+  approval process:
+ 
+i)          consider
+  rotating the building (general design, function and floor plate can remain
+  the same), as illustrated in Appendices ‘C’ and ‘D’, clockwise by 90 degrees
+  to engage the intersection and create active street frontages along Waterloo
+  and Oxford Streets such that the proposed east elevation be situated on the
+  south elevation (along Oxford Street) and the proposed south elevation be
+  situated on the west elevation (along Waterloo Street) and incorporate the
+  following design elements: 
+ 
+I)            
+  consider an entrance
+  at the southwest corner facing the intersection of Waterloo Street and Oxford
+  Street to service those travelling by foot or transit, with a secondary
+  entrance located at the southeast corner of the building to service those
+  coming from the parking lot;
+ 
+II)           
+  create a height
+  element at the southwest corner of the building (at the intersection) to
+  announce the entrance as well as address the intersection;
+III)          
+  create a corner plaza
+  at the intersection of Oxford and Waterloo Streets between the building
+  entrance and the intersection of the public sidewalks including enhanced
+  landscaping in order to create a welcoming forecourt that engages the
+  intersection;
+IV)         
+  ensure that the
+  majority of windows located along the Oxford and Waterloo Street corridors
+  are transparent glass to activate the street frontages;
+V)          
+  ensure that the sign band is integrated  into the building and
+  below the height of the parapet in order to allow for the southwest corner
+  parapet (at the intersection and entrance into the building) to act as the
+  height element for the building; 
+VI)         
+  ensure that the materials used on all facades and the level
+  architectural detailing are in keeping with the heritage district; it being
+  noted that in accordance with the Bishop Hellmuth Heritage District Plan
+  materials should include brick and masonry and architectural details are to
+  include brick soldier courses and corbelling; and,
+VII)        
+  provide enhanced landscaping to screen all exposed parking lots
+  from Oxford and Waterloo Streets in order to create a positive edge condition
+  and enhance the pedestrian experience; it being noted that this may be
+  achieved using a landscape wall and landscaping that includes, but not
+  limited to, shrubs, tall grasses, and trees;
+ 
+ii)         install
+  a 1.83 metre (6 feet) minimum sound attenuation fence along the property line
+  directly abutting St. George Public School (the north property line of 354
+  Oxford Street East) in order to ensure continued student safety;
+ 
+e)         a
+  meeting BE HELD, prior to the end of the appeal period for this application,
+  with representatives of the Bishop-Hellmuth Community Association, St.
+  George’s School Association, the applicant and the Civic Administration, to
+  discuss the final design, with the date of the meeting to be provided at the
+  Municipal Council meeting to be held on July 30, 2013; and,
+ 
+f)         pursuant to Section
+  34(17) of the Planning Act, as determined by the Municipal Council, no
+  further notice BE GIVEN in respect of the proposed by-law as the proposed
+  amendment is minor in nature; 
+ 
+it being noted that the Planning and
+  Environment Committee reviewed and received the following communications,
+  with respect to this matter: 
+ 
+-                   
+  a
+  communication dated July 19, 2013, from G. McCormack, Chair, Executive of
+  School Council, St. George’s Public School;
+-                   
+  a
+  communication dated July 19, 2013, from N.Z. Tausky, 288 St. James Street;
+-                   
+  the
+  attached communication dated July 22, 2013 from M. Loft, 784
+  Wellington Street; and,
+-                   
+  the
+  attached communication from S. Barre and C. Scott-Barre, 774
+  Hellmuth Avenue;
+ 
+it
+  being pointed out that at the public participation meeting associated with
+  this matter, the following individuals made oral submissions in connection
+  therewith:
+ 
+-                    
+  Richard
+  Zelinka, Zelinka Priamo Ltd., on behalf of the applicant – advising that the
+  northeast corner of Oxford Street and Waterloo Street has been commercial
+  since before most of the Bishop-Hellmuth community was built; indicating
+  that, from the early 1880’s there was one and then a second, retail store at
+  this location, until they were replaced around 1955 by a gasoline service
+  station which was there for over half a century; advising that the service
+  station and two other buildings have been removed; noting that the site is
+  now vacant; advising that, at various times, three of the four quadrants of
+  the intersection have had service stations on them; advising that the current
+  application seeks to broaden the range of local service retail uses on the
+  corner so that, in addition to the current permission for service station use
+  and the fairly narrow convenience commercial uses, the site may be allowed to
+  develop for a broader range of uses, specifically for the pharmacy that is
+  being proposed at this time; indicating that the application is based on the
+  desire of Rexall to establish a full-line drug store on the northeast corner
+  and to convert their existing small sized dispensary on the southeast corner
+  to medical clinic uses; advising that the applicant and Rexall have proposed,
+  and modified, plans for a high standard of design at this location as a
+  recognition of its importance in the City generally and its importance at the
+  entrance to the Bishop-Hellmuth area; advising that this did not come in as a
+  conventional store with parking in front; indicating that the common
+  condition along Waterloo Street is front yard and boulevard parking;
+  recognizing that, when this was a service station, there were parking and
+  service areas extending into the boulevard; notwithstanding that the proposal
+  is for the building to come up to the corner of the property, with the
+  parking behind and in the side and rear yards of the property; incorporating
+  suggestions made by the Urban Design Peer Review Panel, City staff and the
+  public, both in the form and in the function of the site; indicating that
+  were able to resolve the entry issue in the southeast corner of the site on
+  Oxford Street to ensure that it is both safe and functional; advising that
+  the garbage will be located at the rear of the site (northeast corner);
+  indicating that there will be pedestrian connections from both Oxford Street
+  and Waterloo Street; indicating that the original application was for the
+  implementation of sound attenuation barriers to the north, clear glazing
+  along Oxford Street on the store front and a variety of building materials
+  including stone, brick and stucco, a faux entry feature at the southwest
+  corner facing the intersection so that it would not be a blank wall but would
+  actually have a feature that mirrored the entry; advising that, in the design
+  of the site, there are six existing entrances that are being removed and two
+  entrances that are being put in; indicating that there will be provision for
+  bicycle parking; indicating that the main entrance is close to a London
+  Transit Commission bus stop; advising that, as part of the process and the
+  modifications that were made to the plan up to May of this year, the
+  entrances were updated and reoriented so that there would be direct access
+  from Oxford Street; noting that the additional entrance at the northeast
+  corner of the building was enhanced; indicating that there will be awnings;
+  indicating that there will be cantilevered canopies at the rear; indicating
+  that there will be transparent windows along Oxford Street; noting that a
+  majority of the windows along Oxford Street will be transparent; indicating
+  that, on Waterloo Street, where there would otherwise be no windows, there will
+  be spangled glass; advising that the most recent version of the plan adds
+  more windows; indicating that there will be a raised parapet and large
+  awnings over the panels in the southwest corner of the building; indicating
+  that they will be planting large trees with understory plantings as well as a
+  landscaped feature at the corner with understory plantings and small native
+  species; indicating that there will be a landscaped area and a bus stop rest
+  area on the north side of Oxford Street close to the store; indicating that
+  there will be plantings to screen parking areas; advising that the applicant
+  is moving towards choosing building colours and materials that will blend in
+  with the Bishop-Hellmuth District; advising that the brick colour that will
+  be used is a yellow brick tone, which reflects the dominant brick colour in
+  the area with a grey stone base that would be used along the Oxford Street
+  and Waterloo Street elevations; indicating that they have not shown changes
+  that would undermine the function or the commercial viability of the
+  development; advising that Rexall has prototype stores, it also has model
+  stores that it uses; noting that this store is not one of them; advising that
+  this building has been designed for the site for the specific location within
+  the city and the importance that is attributed to it at the entrance to the
+  Bishop-Hellmuth District; thanking Mr. Yanchula for his presentation which
+  touched on some of the points that he wanted to raise; advising that, while
+  we generally support the staff recommendation, there are some matters that he
+  would ask this Committee to change in its recommendation to the Municipal
+  Council; advising that they have always asked for the addition of uses to the
+  existing convenience commercial service station/commercial zoning
+  combination; advising that, although in the Official Plan amendment that is
+  being recommended, the convenience commercial to the service
+  station/commercial is added on Appendix “A” of the Official Plan; advising
+  that it was not carried forward in the Zoning By-law; advising that the
+  existing service station zoning was requested to be carried forward into the
+  new zoning; advising that we are asking the Committee to reinstate the
+  existing service station zoning provisions in the by-law that is recommended
+  to the Municipal Council; advising that the h-103 holding provision will
+  ensure that urban design is addressed at the site plan stage; indicating that
+  section d) of the recommendation does include, under i) is a matter for
+  consideration at the site plan stage; advising that we are willing to
+  continue to work with staff to enhance the presence of the use at the
+  intersection; however, staff have added that first bullet that requests that
+  the building be rotated by 90 degrees; advising that this is a directive, not
+  a consideration; advising that this is a hammer and he ask this Committee to
+  consider that it is not an appropriate hammer to put in the Council
+  resolution for the site plan stage; advising that it does not recognize the
+  functional imperatives of the pharmacy operation; advising that it does not
+  recognize that the store is not square, but rectangular; advising that if the
+  building is to be rotated, it does have an adverse effect on the rest of the
+  site; noting that as a directive, instead of a consideration, it could
+  undermine the entire proposal; asking the Committee to remove the first
+  bullet from the recommendation to the Municipal Council; indicating that
+  there is already consideration at the site plan stage for the entrance to be at
+  the southwest corner and another at the southeast corner; noting that there
+  is also a similar situation in part iv); indicating that the consideration is
+  a proper and valid one, encouraging as much transparent glass rather than
+  spangled glass is a reasonable consideration; however ensuring that that
+  happens would not be proper as it does not recognize functional imperatives
+  of the store and undermines the ability of store to go in; reiterating that
+  he is asking the Committee to reword, where possible, to have the windows
+  along the Oxford Street and Waterloo Street corridors as transparent glass to
+  activate the street frontages; noting that that is a proper submission and we
+  can work with staff but to require by ensuring that the majority of the
+  windows be transparent glass does not give us any room for error; indicating
+  that the other “ensure” directives, we do not have a problem with, they can
+  be achieved; advising that the revised by-law with the change from minimum
+  front and rear yard setbacks to maximum, recognizing that this is not a
+  perfectly square site, building wall can’t be parallel to both streets;
+  making sure they are avoiding the necessity for any minor variance that may
+  come; noting that the intent of having the maximum at 1.0 metre properly covers
+  it; requesting that the Committee makes the changes that he has submitted;
+  advising that if the service station commercial use was an additional use
+  that we were requesting, this would have to go back for further notice;
+  however, it is part of the existing zoning on the site and will continue to
+  be the existing zoning on the site if the by-law is not passed; and
+  requesting that the recommendation also be made that no further notice be
+  given with respect to the changes being made to the zoning by-law.
+-                    
+  Don
+  Clark, Director of Design, Store Planning and Construction, Rexall –
+  expressing excitement about the opportunity to develop on this site;
+  indicating that they are looking forward to providing healthier choices to
+  the neighbourhood and their customers; noting that this will also be a first
+  class retail environment; advising that they are adding 20 additional jobs as
+  well as a tax base to this site; indicating that they will be spending
+  millions on this site; and advising that this is a one of a kind development
+  for them.
+-                    
+  Scott
+  MacDougall-Shackleton, 802 Hellmuth Avenue – advising that he lives within
+  the Bishop-Hellmuth Conservation District; noting that he is a member of the
+  Community Association and a member of the St. George’s School Council, which
+  is steps away from this site; advising that he has talked to a lot of his
+  neighbours and a lot of people in the school neighbourhood; expressing
+  appreciation to the Planning Department for recognizing the communities
+  concerns in their report; noting that the staff did a great job of
+  recommending some holding provisions that are very important for this site;
+  expressing appreciation to the applicant for acknowledging the importance of
+  heritage and the importance of this Conservation District for the wellbeing
+  of the core of this City; reiterating that these holding provisions are
+  important; advising that the history of this site is that they lost a
+  heritage building on this site because of demolition by neglect; advising
+  that with the approval of the demolition of that house, there were holding
+  provisions that included landscaping on the site; advising that the
+  landscaping has never happened; indicating that the site has not been
+  maintained and they have to call in to have the property mowed; advising that
+  the community is not secure in taking people’s word that the site will be
+  developed properly; urging the Committee to stick with the holding provisions
+  as outlined by Planning staff; recommending that it is ensured that heritage
+  elements are included and this includes having a streetscape along Waterloo
+  Street and along Oxford Street, not a streetscape along a parking lot;
+  expressing excitement about having a vibrant new business rather than an
+  empty gravel lot that is not being maintained; advising that they would rather
+  see a business on site; noting that the business needs to fit into the
+  community and that the community is going to be supporting; indicating that
+  they are a large community and they want to support their local businesses
+  but we want them to fit in and have a streetscape along the streets;
+  expressing concern with the garbage, at the northeast corner of the site,
+  backs onto St. George’s public school, which is a Kindergarten to Grade 8
+  public school, with a developmental centre for severely developmentally
+  challenged children; reiterating that this is an important local public
+  school; advising that development of this site will not only impact the
+  heritage district but the school as well; and indicating that both of these
+  need to be addressed and the best way to do this is to ensure that the
+  holding provisions are included in the Committee’s recommendation to the
+  Municipal Council.
+-                    
+  Greg
+  McCormack, Chair, Executive of School Council, St. George’s Public School –
+  expressing appreciation for all of the work that has gone into this; echoing
+  the comments of Mr. MacDougall-Shackleton; enquiring as to what is the worst
+  property that can go on that site if the zoning is approved; requesting that
+  the Committee consider that as they do not want that built in this location;
+  advising that the school is a community school with a large number of
+  students that walks to school, especially along the Waterloo Street corridor;
+  indicating that they are concerned about security elements, especially the
+  driveway on Waterloo Street; advising that the School Council requests that
+  the driveway be removed and just have a single entrance across Oxford Street;
+  and advising that, with the trees, it is a blind entrance and it is only a
+  matter of time before someone is hurt.
+-                    
+  John
+  Dickinson, 873 Hellmuth Avenue – advising that he is on the Bishop-Hellmuth
+  Community Association; advising that he has had the opportunity to meet with
+  the landowners in the past and that it is nice to the see the potential
+  occupant representative at the meeting as well; indicating that what the City
+  Planners recommended in their report makes a lot of sense, especially during
+  the slide presentation where slides were shown of what a pharmacy looks like
+  when it is not live windows; advising that the walls without windows make him
+  quite concerned; having really solid recommendations, maybe even a minimum
+  requirement for a certain amount of glass is what I would like to see; 
+  expressing support for the safety concerns; advising that one of his children
+  would be passing the pharmacy every day; and reiterating that he would like
+  to see many of the staff recommendations adopted along with minimum
+  requirements.
+-                    
+  Laura
+  Kaufman, 778 Hellmuth Avenue – requesting that the entranceway be moved from
+  the southeast corner to the southwest corner and make it more of a
+  streetscape in keeping with the local neighbourhood; advising that she
+  purchased her house five years ago; noting that part of her decision to
+  purchase was because of the architecture and to put something that resembles
+  suburban strip mall blight on a corner that is a gateway to a historic
+  neighbourhood just is not right; and hoping that the Committee follows the
+  guidelines and the recommendations and makes them stipulations instead.
+-                    
+  Mohamed
+  Moussa, 155 Thornton Avenue – advising that he grew up in Old North and that
+  he presently still resides in Old North; indicating that he has never made a
+  submission to a Committee or to staff in any shape or form, but what they
+  have on the site is a vacant lot; advising that they have the opportunity to
+  develop this land into something usable; indicating that they want to keep
+  the character of the neighbourhood; indicating that asking Rexall to put in a
+  new door that could possibly make it unfeasible for them is a shame;
+  reiterating that he would like to keep the character of the area, but not to
+  handcuff the applicant, whether it is Rexall or someone else; advising that
+  this is an opportunity to take a vacant lot and get tax money out of this for
+  the next 15, 20 or 30 years; and advising that the infrastructure is there
+  and to handcuff a business coming in here would be very sad.
+-                    
+  Mari
+  Parks, 798 Hellmuth Avenue – advising that she has been involved with the
+  Community Association for a very long time; indicating that she has been
+  before the Committee for two or three other issues in this neighbourhood;
+  expressing concern about the architectural design of this indicating that
+  Shell worked with the community over its redevelopment many years ago;
+  advising that Shell representatives met with the Community Association and
+  that has not happened in this instance at all; indicating that Mr. Farhi was
+  asked to meet with the Community Association and the community when the house
+  was demolished over some landscaping and other plans at the time; noting that
+  that still has not happened; indicating that, other than the landscaping
+  issues, these two proposals have not addressed the architectural features or
+  the compatibility concerns that have been mentioned in many letters to staff
+  and the Committee members; advising that this design would be more
+  appropriate if Appendix “E” of the staff report was considered; noting that
+  this would address the aesthetics of the building, make the connection with
+  the community and the pedestrian traffic more appropriate for this area;
+  indicating that we need to get this right as this building is going to be
+  there for a long time; noting that it is not something that is going to be
+  put up and torn down in five to 10 years; indicating that the building has be
+  to used if Rexall decides to pull out; noting that this building has to be
+  useful for other purposes as well; and recommending that the Committee add
+  the recommendations in Appendix “E” to the zoning application so that the
+  community knows that they can go forward with consistent historic aspects for
+  this community.
+-                    
+  Sandra
+  Boersen, 310 Huron Street – advising that this is the entrance that she uses
+  to get into her neighbourhood; noting that she tends not to go in through
+  Huron Street or Adelaide Street or Richmond Street; expressing surprise for
+  where the building sits on the site; advising that she was expecting to see
+  something that mirrored the northwest corner  where the Shell is; advising
+  that she was expecting to see a mirroring as it is a gateway into the neighbourhood;
+  indicating that she does not object to what this is, she just did not expect
+  to see this; advising that she expected to see some tie in to being a part of
+  the historical area by having a wall similar to what the other side has;
+  expressing concern with the service entrance because there will now be
+  delivery trucks coming in and out of Waterloo Street and that is not the
+  intention of Waterloo Street; noting that it was never the intention for
+  Waterloo Street, even when it was a commercial facility before; advising that
+  two houses were removed to make this site into one larger commercial spot
+  which now encroaches more into the neighbourhood than normal; echoing the
+  concerns of the school about what comes in and out of that service entrance
+  and whether that would be restricted in some way so that those service trucks
+  do not end up coming into the neighbourhood further and start using Waterloo
+  Street as a bypass instead of going down Oxford Street, which they should be
+  using; advising that she has not seen much in the way of any historical
+  features going into this building besides the brick colour; indicating that
+  she thinks that this is a Waterloo Street address and putting in faux windows
+  and doors does not address the fact that this is a Waterloo Street address;
+  indicating that this reminds her of the silos that were built on Huron Street
+  where there were no entrances and windows and the concerns that were raised
+  over that at the time; noting that putting up faux windows does not address
+  that; advising that it just flies in the face of what we consider a
+  historical area and what we would consider appropriate; indicating that the
+  difference in terms of width and length is 10.5 feet; indicating that 10.5
+  feet is not enough to stop the internal flow inside a building; advising that
+  she echoes the concerns that have been raised about the length of time the
+  building will be standing and how it is the entrance to the neighbourhood and
+  what that represents; understanding that jobs will be coming to this
+  facility, but they will be coming to this facility whether it faces 90
+  degrees or not; they will come to this facility whether they build this
+  correctly or not; advising that her concern is in building something
+  appropriate; indicating that a slow erosion of a historic district ends up
+  being no historic district at all; advising that a lot of effort has gone
+  into making this a historic district and we are asking that that concern be
+  honoured; requesting that when people buy something in a historic area, they
+  actually build something that fits into the historic area; indicating that
+  when she travels, she travels to areas that have mostly historic buildings
+  because she likes architecture; indicating that when she goes to places like
+  Niagara-on-the-Lake it always shocks her how well national chains are able to
+  accommodate older buildings and work within them and still maintain a sense
+  of history yet they can do it without having to do this; indicating that it
+  can be done, there needs to be a will to do it; and noting that if there is a
+  will to do it, you will make it work and you will make it work for everyone.
+-                    
+  Jim
+  Kogelheide, 373 Byron Boulevard – advising that he has an education in
+  architecture; noting that it was always fascinating for him when pushed by
+  the teachers, when we were doing mock designs, how they would go about
+  thinking of the history of an area and using that history to incorporate some
+  of the technologies of the present to create something that was a blending of
+  the two to further enhance the integrity and architectural aspects of the
+  area as well as to consider the needs, both commercially and economically in
+  terms of employment for local communities; advising that when he hears that
+  another national chain is coming to town is the amount of garbage that will
+  be created; and advising that national chains do nothing to enhance local
+  economic development as most of their products are shipped from overseas.
+-                    
+  Shmuel
+  Farhi, Farhi Holdings Corporation, applicant – advising that it was not easy
+  to find an international client like Rexall prepared to build a flagship
+  store at this location creating construction and retail jobs; noting that it
+  is 25 new jobs for the site, with over 170 jobs during construction;
+  indicating that the only other serious inquiry that they had in the last year
+  plus was from petroleum dealers looking to open another gas bar as the
+  current zoning allows; advising that this pharmacy development will generate
+  an additional $2,000,000 in taxes for the City; indicating that Rexall is
+  sensitive to the concerns, the standard layout was significantly modified to
+  create a design more harmonious with the neighbourhod; indicating that the
+  finished building will be far more attractive than the old drugstore on the
+  southeast corner and the gas bar and office building on the northwest corner;
+  advising that when talking about heritage, he takes credit to say that he
+  owns more heritage buildings in the City of London than any other individual
+  or corporation; noting that he owns over 52 buildings to date; indicating
+  that he looks after them; indicating that he understands what heritage means
+  and that he understands what is at stake; however, looking at this corner, he
+  thinks that this application is the best use of what can be done with this
+  corner; advising that they are taking a small store and bringing it into this
+  century; reiterating that this development will be a much better fit than any
+  other gas station or anything else than can be built there; and advising that
+  he welcomes international companies into London any day.  (see attached
+  photographs)  (2013-D14A)
+
+> Moved by Councillor N. Branscombe
+
+> Seconded by Councillor J.L. Baechler
+
+Amend clause 25 by adding a new part
+  d)i)VIII) as follows:
+ 
+“VIII)    consideration
+  be given to the rooflines so that they are in keeping with the heritage
+  district;”.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+# 26.&nbsp;&nbsp;&nbsp;Land Needs
+  Background Study for the 2011 Official Plan Review (O-7938)
+
+That, the following actions be taken with
+  respect to the ReThink London Official Plan Review process:
+ 
+a)          a
+  Public Participation Meeting of the Planning and Environment Committee BE
+  HELD on October 8, 2013 to consider the Land Needs Background Study, as a
+  background document for the Rethink London Official Plan Review process; and,
+  
+b)         the
+  development community BE ASKED to work with the Civic Administration to
+  further review the analysis and assumptions used to determine the urban
+  growth boundary and to further review the requests for expansions to that
+  boundary, to determine if certain lands have unique or strategic qualities
+  that would warrant them being added to or removed from the urban growth
+  boundary;
+ 
+it being noted that the Planning and
+  Environment Committee reviewed and received the following communications,
+  with respect to this matter: 
+ 
+-                   
+  a
+  communication dated July 10, 2013, from E.F. Brown, 3133 Colonel Talbot Road,
+  et al;
+-                   
+  a
+  communication dated July 15, 2013 from D.R. Schmidt, Development Manager,
+  Corlon Properties Inc.;
+-                   
+  a
+  communication dated July 17, 2013 from M. Jackson-Brewer, 1996 Bradley
+  Avenue;
+-                   
+  a
+  communication dated July 19, 2013 from P. Masschelein, Vice President,
+  Neighbourhod Developments, Sifton Properties Limited;
+-                   
+  the
+  attached communication dated July 23, 2013 from R. Knutson,
+  Knutson Development Consultants Inc.; and,
+-                   
+  the
+  attached communication dated July 23, 2013 from C.M. Weibe,
+  MHBC Planning Consultants, on behalf of J-Aar Excavating;
+ 
+it
+  being pointed out that at the public participation meeting associated with
+  this matter, the following individuals made oral submissions in connection
+  therewith:
+ 
+-                    
+  Shmuel Farhi, Farhi Holdings Corporation – discussing a
+  parcel of approximately 137 acres in East London; indicating that he believes
+  that East London deserves to have development close to the work force;
+  advising that there should be affordable homes for people working close to
+  the Industrial Park; and discussing a parcel of 500+ acres along Highway 402,
+  Colonel Talbot Road, Longwood Road and Murray Road; indicating that this
+  property borders Highway 402 and is outside of the urban growth boundary.
+-                    
+  Tom Brown, 3133 Colonel Talbot Road North, on behalf of the
+  West Talbot Road Landowners Association – advising that he represents the
+  landowners on the west side of Colonel Talbot Road, south of Southdale Road,
+  north of Pack Road and east of Dingman Creek; quoting the “Vision” statement;
+  indicating that their lands are surrounded by urban growth; advising that, in
+  years past, they were able to rent lands across the road and down Southdale
+  Road; noting that renting land is no longer available to them; advising that
+  the viability of farming this land is very restrictive; indicating that
+  moving farm machinery around the arterial roads is not only cumbersome, but
+  it could be dangerous; advising that the machinery can be quite large;
+  indicating that a large portion of their lands either abut or include the
+  Dingman Creek ecosystem and watershed, which is a very strong area of natural
+  heritage; noting that approximately 35% of their lands are either woodland or
+  part of the Dingman Creek ecosystem; reading Section 2.10 of the Official
+  Plan; advising that, at one time, they had approximately 600 acres of land;
+  noting that they no longer have that amount of land; advising that the
+  economist scale is lost for them; indicating that the viability of farming
+  that land is not an option; indicating that the urban development and
+  commercial development in the area is separating their land and forcing them
+  into a position where they can no longer move machinery and farm like they
+  used to; advising that trespassing is one of their major problems with urban
+  development on three sides; noting that they have people snowmobiling, driving
+  all-terrain vehicles, off-leash dog walking and dumping garbage on their
+  lands; indicating that their farms are running into a compatibility issue
+  with the surrounding urban areas as they cannot move their machinery around
+  and they cannot farm like they used to; advising that they used to have
+  dairy, beef and cash crops; noting that the revenue from the cash crop will
+  cover the cost of the crop itself, pay the taxes and insurance; noting that
+  this is what they are limited to now; advising that their land is no longer
+  productive as farm land; indicating that they have servicing on three sides
+  of their properties; noting that Southdale Road, Colonel Talbot Road and Pack
+  Road are all fully serviced; indicating that including their properties
+  inside the urban growth boundary would not be a significant cost or pose a
+  difficulty to include their lands in the South West Area Plan; advising that
+  there was recently a memo that stated that the South West area is anticipated
+  to have significant growth over the next 20 years; advising that they are in
+  that area; noting that the Dingman Creek would add significant access to the
+  citizens of London; and reiterating to please include their lands in the
+  urban growth boundary.
+-                    
+  Ali Jomaa, 1431 Sunningdale Road West – indicating that he
+  owns 108 acres of property northwest of Sunningdale; advising that there is a
+  major transportation route being planned for Sunningdale Road; indicating
+  that the Heard Drain, which is being developed, is part of that land;
+  advising that his land slants towards the drain very slightly which is
+  excellent for the reduction of costs; advising that the land is very smooth
+  all the way across; indicating that the reduction of costs is very important;
+  and advising that if the City is looking to make sure that this is
+  profitable, he is making the argument that this is a natural position for it
+  to be positioned because of the services and the transportation route.
+-                    
+  William Hill, on behalf of Margaret Jackson-Brewer –
+  requesting that the lands on the north and south side of Bradley Avenue from
+  Old Victoria Sideroad to the present urban growth boundary be put into the
+  new urban growth boundary; indicating that it is consistent with putting
+  building lots where people work and it is becoming impossible to farm on Bradley
+  Avenue because of the traffic; indicating that there is no cattle farming
+  left in the area; noting that it is all cash cropping as you cannot take the
+  risk of having an animal get loose on Bradley Avenue; advising that they
+  believe that it is a great piece of land for the City for several reasons,
+  including the fact that the City spent a lot of money providing hydro and
+  water to the area to service the industrial area; indicating that the south
+  side of Bradley in this area goes right to Highway 401 so that you have three
+  kilometers of land along Highway 401; indicating that you have the Highbury
+  Avenue interchange as well as the Veterans Memorial Parkway interchange, with
+  approximately four kilometers of land in between that is serviced already;
+  suggesting that the south side of Bradley Avenue be zoned Industrial and the
+  north side of Bradley Avenue be zoned Residential, which would then be
+  consistent with Bradley Avenue as it goes back into the old part of the City;
+  indicating that another reason he believes this land should be included in
+  the urban growth boundary is because when the City expanded the Industrial
+  area and went from Commissioners Road down to Highway 401 and over to Old
+  Victoria Sideroad, he does not believe that there was any consideration
+  given, and there was no consultation with the people who lived on Bradley
+  Avenue, as to the impact that the expansion that the Industrial lands will
+  have; indicating that a number of plants have now been built; indicating that
+  the amount of traffic that they have on Bradley Avenue now as compared to
+  what they had before, has turned it from a great place to live in the
+  countryside, to living in the City; noting that it is probably even noisier
+  because there are not the barriers around to break the noise; looking at it
+  from the point of view of the residents on Bradley Avenue, they should be in
+  the plan and the City needs to correct that; and indicating that they are an
+  island with nothing happening in between Veterans Memorial Park, the
+  Industrial area and Summerside.
+-                    
+  Dave Schmidt, Corlon Properties Inc. – advising that their
+  property is approximately 82 acres on the northwest side of Sunningdale Road
+  and Wonderland Road North; indicating that they were before the Committee
+  five years ago as part of the 2006 Official Plan review; indicating that the
+  subject property is uniquely positioned because the municipal boundary is
+  immediately along the northerly property line all the way across the end of
+  the City, but the urban growth boundary follows Sunningdale Road, then goes
+  up Wonderland Road North and continues along the municipal boundary;
+  indicating that full municipal services already exist on their property;
+  advising that there is a 900mm watermain existing all the way down
+  Sunningdale Road, there is a 375mm sanitary sewer stub metres away from the
+  intersection that was part of the Medway Trunk sanitary sewer project that
+  has just been built in the last five years and was sized to service this
+  area; the stormwater management environmental assessment has been done and
+  included these lands; indicating that everything is here to allow this land
+  to move forward; advising that the problem is that there is a line on the map
+  that has it on the wrong side of it; indicating that there is a big
+  difference between today and the last Official Plan that was completed
+  because at that time the Municipal Council recognized many of the
+  presentations that were done, there were unique opportunities here that
+  probably should have been reviewed in a different way than has ever been
+  reviewed to date; indicating that the Municipal Council resolution from
+  August 13, 2007 (reads part d) of the resolution); indicating that he reviews
+  the Agendas every week as part of his job, he has reviewed the 2011 ReThink
+  process, he has reviewed the 2001 Land Needs Background Study (reading the
+  Terms of Reference for the 2011 Official Plan review); indicating that he has
+  not seen this done to date; noting that he has not seen the report from the
+  2007 resolution relating to this matter and he has not seen an evaluation of
+  the lands that possibly could be considered for inclusion in the urban growth
+  boundary being done, other than an analysis that says that we have “x” amount
+  of land, we need “this” amount of land and we have more than we need, none of
+  them represent an emergence opportunity, nothing to do; indicating that he is
+  not sure that this is the way we should be proceeding forward; advising that
+  we are rethinking the Official Plan in the City of London; indicating that we
+  are not reaffirming a growth boundary that was drawn in 1996 as part of the
+  Vision 96 process based upon thinking that was in place at that time; noting
+  that lots of things have changed; advising that lots of infrastructure has
+  gone in the ground; indicating that some very big decisions have been made by
+  this Municipal Council since then with respect to servicing (ie. Southside
+  Sewage Treatment Control Plant); believing that the Municipal Council needs
+  to take into consideration not expanding the growth boundary but looking at the
+  viability of adjusting the growth boundary, not necessarily adding any more
+  growth acreage in, but taking a look at the requests that are before you and
+  deciding whether they represent good, sound, logical planning that is cost
+  effective and efficient to this municipality, its existing residents and its
+  future residents; noting that our development charges rely on this;
+  indicating that, if we continue to develop land that is not the most
+  economical to service, our development charges will put us at a continuous
+  economic disadvantage compared to our neighbouring municipalities around us
+  where people will continue to go to seek residential homes when we price
+  ourselves out of the market because we are not developing the most efficient
+  land that we possibly can; reiterating that, with the piece of land that they
+  have, the services are bought, paid for and installed; noting that capacity
+  exists at the Plant, but the line drawn on the maps says that we have enough,
+  there is no reason to consider it; indicating that the methodology that was
+  employed the Land Needs Background Study that was just completed was the same
+  that was done five years ago; advising that land needs equals supply minus
+  demand; noting that it is impossible for anyone here today to contest those
+  findings; indicating that there is a lot of land inside the growth boundary;
+  enquiring as to whether or not this land is efficiently positioned to
+  optimize the services that we have already bought and paid for; noting that
+  he is not sure that anyone here can answer that question today; indicating
+  that the analysis that the Municipal Council requested back in 2007, as part
+  of the Municipal Council resolution previously mentioned, has never been
+  done; noting that it is not here today as part of the Land Needs Background
+  Study; advising that he is not sure anyone will be able to tell how much 100
+  acres inside the urban growth boundary is going to cost to develop as opposed
+  to any of the applications that are before the Committee today; indicating
+  that other municipalities have swapped land; noting that the Township of
+  Middlesex Centre swapped land in their last Official Plan review; indicating
+  that it is not a question of whether or not we have enough land in the urban
+  growth boundary, but whether this land is strategically located to achieve
+  sufficient development patterns and optimize the investment in infrastructure
+  and public service facilities; indicating that a review of the City of London
+  Official Plan and the Provincial Policy Statement would suggest, to him, that
+  a realignment of the urban growth boundary needs to be considered;
+  reiterating that he is not talking about an expansion of the urban growth
+  boundary, but a realignment of the urban growth boundary; and advising that
+  the road that we are going down today is not consistent with the City of
+  London Official Plan, but also not with the Provincial Policy Statement.
+-                    
+  Carol Weibe, MHBC Planning Consultants, on behalf of J-Aar
+  Excavating – indicating that she was before the Planning Committee in 2007 requesting
+  that J-Aar Excavating be included in the urban growth boundary; indicating
+  that this is a unique property that is currently licensed as an aggregate
+  extraction property; noting that the urban growth boundary runs along the
+  west and the south property limits; also noting that it is adjacent to
+  existing residential property development on two sides, the west side and the
+  south side; indicating that it is currently designated Agriculture in the
+  Official Plan and zoned for extraction; indicating that, in the six years
+  since she was before them, there has been a considerable amount of
+  development in this immediate area; noting that the lands to the south  and
+  west, those subdivisions, those lands have been developing at a very brisk
+  rate; showing a map of the Kilally North Area Plan; noting that the property
+  was intended, at the appropriate time, to complete this area plan; noting
+  that Blackwell Boulevard terminates at the property line and Cedar Hollow
+  Boulevard to the south is also intended to connect through and loop through
+  that property to provide that collector road system and to provide transit
+  and to really round out this Area Plan; indicating that the issues brought to
+  the Committee’s attention in 2007 are still relevant today; advising that what
+  is unique about this property is that it is a current extraction operation,
+  under their license they are required to extract the aggregate that is there
+  and every year that they are remaining outside of that urban growth boundary
+  they continue to extract so the grades on that property continue to get lower
+  and lower; advising that that means that when they have exhausted the
+  aggregate, in order for these lands to develop as they were planned, an
+  equivalent amount of fill will need to be brought in to bring that land back
+  up; indicating that the services for this property have already been
+  installed; noting that the services have been oversized, constructed and paid
+  for; reiterating that these lands can be serviced today; advising that the
+  concerns that J-Aar Excavating has is that if the lands continue to be left
+  outside of the urban growth boundary, they are going to come to the point
+  where the land is no longer economically feasible to service due to the
+  amount of fill that will need to be brought in; indicating that the only way
+  that they can relinquish their license is that they would have to demonstrate
+  to the Ministry of Natural Resources that their rehabilitation plan required
+  them to keep the elevations as they are today; asking the Committee and the Municipal
+  Council to look at this service and say if we do not bring these lands in in
+  the immediate future, we are going to forever prevent them from being brought
+  in because it will not be economically feasible to do so; indicating that, as
+  this Area Plan clearly demonstrates, it was intended to complete this Area
+  Plan and to have these road stubs just terminate and never be completed is
+  really bad planning; advising that she believes that this site warrants
+  consideration; and reminding the Committee that when she brought these points
+  to the Committee’s attention the last time, there were three properties that
+  were singled out and staff was directed to go back and to look at them,
+  noting that this was one of them and it was because of the severity of the policies
+  that said that if you have sufficient lands within that 20 year horizon, it
+  does not matter how justified a parcel is and because staff did not want to
+  go down that road of the trade-offs and the swaps, it did not get in, even
+  though, back in 2007, there was recognition that it warranted further
+  consideration; asking the Committee to now take that extra step, look at the
+  property and ask if we want to lose this opportunity because that is exactly
+  what will happen; indicating that the property is approximately 40 hectares;
+  however, there are a lot of ponds on the land and chances are the northern
+  half of the property will not be built on.
+-                    
+  Carol Weibe, MHBC Planning Consultants, on behalf of the
+  London Development Institute (LDI) – see communication dated July 19, 2013. 
+-                    
+  Maureen Zunti, Sifton Properties Limited – reiterating the
+  concerns about the Land Needs Background Study that Ms. Weibe just mentioned;
+  expressing concern with respect to some of the assumptions for
+  intensification; advising that one of the ones that she has a specific
+  concern about is that 88% of high density development will occur in the
+  infill areas; noting that that is above the trend for the past 10 years;
+  advising that what that means is that, if you assume that a typical apartment
+  building being constructed these days, particularly in suburban areas, is an
+  average of 150 units, the intensification assumption would require
+  approximately 77 apartment buildings to be constructed in the built area over
+  the next 20 years, with only 10 buildings in the greenfield areas; indicating
+  that she does not believe that that is reflective of what the City is looking
+  for in terms of building complete communities; advising that there are some
+  questions about how these assumptions are being put forward that we have to
+  look at and get more information on; reiterating the concern about the table
+  on page 335 on the PEC Agenda; noting that the variation in the average
+  densities between the five categories is far too wide as it does range from
+  3.5 to 34.4 units per hectare; further noting that some of the numbers may be
+  too low and some of the numbers may be too high; indicating that,
+  particularly with the designated residential lands, that they are assuming
+  there to be almost 34,000 units to be constructed; noting that the low
+  density units there are actually 41%, the percentage of low density units is
+  higher than is actually existing in the draft subdivision plans which are
+  currently under review and the density is still much higher than that;
+  advising that there are some numbers that do not make sense that they need to
+  have more background information on; indicating that she submitted a letter
+  to staff approximately one week ago outlining some of these concerns;
+  indicating that on page 23 of the staff report relating to this item, the
+  “Land Use Background Study”, it indicates that there were five adjustments
+  made to the residential greenfield supply numbers so we cannot really test
+  those numbers because the numbers are different than the Vacant Land Inventories
+  for 2011 and 2012; indicating that they do not know what the adjustments are
+  and they do not know how the densities were calculated, whether they are net
+  or gross; advising that it is really critical for them to meet with staff and
+  get more information on their questions and concerns because the Land Needs
+  Background Study is essentially a mathematical exercise and if you do not
+  have the right numbers at the front, then everything else can be quite wrong.
+-                    
+  Phil Masschelein, Sifton Properties Limited – see attached
+  presentation.
+-                    
+  Nick Sauter, 204 Tremont Road – advising that he lives in
+  Argyle, which is the largest neighbourhood in London, with 55,000 people
+  living there; indicating that he speaks on behalf of the people living in
+  Argyle who have unique problems that no one in other areas of the City have
+  ever faced; advising that, in 1959, Argyle was not part of the City; noting
+  that they were not annexed until 1961; indicating that anyone who knows the
+  City knows that not all planning in the past has gone well; noting that, in
+  the past, the Planners divided the City into two, with all of the industries
+  in one end of town, which they did in the 1960’s and 1970’s; indicating that,
+  eventually, Airport Road (Veterans Memorial Parkway) was built, which was deemed
+  to be the first part of a ring road; noting that that did not work out
+  either; advising that the Argyle Community Association was started because
+  they did not feel they were being treated fairly; indicating that their five
+  Councillors are on board with what is going on; indicating that, in 2010, Mr.
+  Farhi approached him to get the Argyle Community Association’s support for a
+  project that he wanted to propose to them; indicating that he bought some
+  land that was formerly Lagrou Farms and he has some wonderful plans for a
+  subdivision with houses that people can afford; noting that the Argyle
+  Community Association supports Mr. Farhi’s idea and has lobbied for it;
+  requesting that this request not be rejected because we have enough land,
+  that parcel of land, east of Crumlin Road is the only spot left in all of
+  Ward 2 where you can build a small residential development; indicating that
+  he believes that ReThink London is a great idea; and advising that this is
+  the first time that he has heard of people thinking about building a city
+  thriving on the idea of neighbourhoods.
+-                    
+  Alan R. Patton, Patton Cormier and Associates, on behalf of
+  the Wickerson Land Owners Association – indicating that the area is south of
+  Byron Baseline Road, Wickerson Road (the north/south road on the east side),
+  part of Southdale Road and over to West del Bourne; advising that the area is
+  approximately 87 hectares; indicating that the lands are boundary serviced
+  and the stormwater management ponds been the subject of an environmental
+  assessment; advising that the entire property is easily serviceable and is a
+  logical extension of land in the west end of the City which has schools and
+  other infrastructure; indicating that the plan picks up the proposed planned
+  realignment of Byron Baseline Road to meet with Elviage Drive on the west
+  side of West del Bourne; advising that this is not a hypothetical situation;
+  indicating that this is a very real, logical extension of the urban growth
+  boundary; advising that they have cost the project out, as Mr. Masschelein
+  said, for another area in the City, this  is a net benefit in terms of
+  development charges of $23,000,000; indicating that it provides
+  transportation plans, the realignment of Baseline Road/Boler Road; advising
+  that it also relates to the Altus Growth Study because they play off Mr.
+  Barrett’s presentation; noting that a lot of the statistics are from 2006 to
+  2011 in terms of demand and building permits; further noting that, during
+  this time, there was a down turn in the economy, in terms of the building
+  economy and the worldwide economy and that had an effect on London, so that
+  it is not the best five year period to take for your analysis; indicating
+  that another problem with the Study is that it includes a number of
+  verifiable assumptions and a number of non-verifiable assumptions, which Ms.
+  Weibe went over to a considerable degree; indicating that the reliance on the
+  Altus Study is much on reliance on take-out yet those have been depressed
+  over the last five years, we are not at a take-out where we should be but we
+  are in a recovery; requesting, for verification of net benefit, refer to
+  Agenda Item 26 e), Sifton Properties’ (Mr. Masschelein’s) communication
+  verifying the development charges and the net benefit to the development
+  charges funds; advising that the infrastructure is planned; indicating that,
+  logically, the Stanley estate on Wickerson Road should have been included as
+  there is a master plan that provides for open space, stormwater management
+  and represents a very logical extension of the urban growth boundary in an
+  area of the City, in the west end, where there is a demand for growth and the
+  other infrastructure and amenities already exist and are development charges
+  positive; and reiterating that it really should have been included earlier,
+  but it was left out.
+-                    
+  Sergio Pompilii and Ryan Pompilii, Sergio E. Pompilii &
+  Associates Ltd. – see attached presentation.
+-                    
+  Paul Hinde, Tridon Group of Companies – speaking in
+  generalities, we have heard from Planning staff that they believe that there
+  are sufficient lands within the boundary right now for 20 year growth and
+  there has been a substantial amount, and very compelling arguments to
+  encourage the Municipal Council to consider some flexibility and
+  consideration of bringing additional lands in, both from an economic
+  standpoint from servicing but also from other standpoints such as economic
+  growth throughout the City; advising that, although City staff is saying that
+  they have sufficient lands, they have also asked staff to look at, not on a
+  micro basis, but really is there sufficient lands within the 20 year growth
+  boundary to accommodate the growth that they actually need; indicating that
+  Tridon Group of Companies is in partnership with Thames Village Joint Venture
+  for a residential subdivision, in the southeast corner, in Old Victoria
+  (Hamilton Road and Commissioners Road) and that draft plan of subdivision is
+  31.5 hectares in size, of which only 14 hectares is being developed for
+  residential purposes; noting that the other 18 hectares is either Thames
+  River floodplain or natural heritage feature and non-developable lands;
+  advising that, on that micro analysis, out of a 31 hectare parcel of land,
+  only 40% of the land is going to be developed for residential purposes,
+  accommodating the growth that the City is looking at; noting that this is an
+  example of only 40% of the land is being developed; and encouraging the
+  Municipal Council to listen to the compelling arguments/suggestions that have
+  been made for some flexibility, for some swapping and to maybe consider some
+  new lands being brought in to accommodate those lands already within the
+  urban growth boundary which will not be developed because of constraints
+  associated with natural features or corridors or any other feature.
+-                    
+  Mauro Castrilli, 2156 Highbury Avenue North – advising that
+  he has 4.5 acres that border the urban growth boundary line on the south and
+  west sides; indicating that it is currently zoned R1-11; noting that, in
+  2005, the Municipal Council passed a resolution severing the property into
+  three lots; indicating that he attended a Stoney Creek Sanitary Trunk Sewer
+  meeting; noting that the sanitary trunk sewer was adopted by the Municipal
+  Council in 2010, which would service along Highbury Avenue North; advising
+  that the Municipal Council has already committed to servicing the property
+  along Highbury Avenue North; and requesting that his property be included in
+  the urban growth boundary.
+-                    
+  Phyllis Matthews, #10-947 Adirondack Road – indicating that
+  she owns property on the west side of the City; advising that, during the
+  Vision 96 process, her property was in the southwest option; indicating that
+  her property is located immediately next to the current urban growth
+  boundary; noting that the property is 31 acres (12.6 hectares); advising that
+  it has been suggested to her by urban planners that the property is suitable
+  for commercial development at the corner of the two arterial roads – Oxford
+  Street and Gideon Drive; noting that the rest of the property, along Gideon
+  Drive, would be high density, medium density and low density along the
+  Parkland, which is now owned by the City; indicating that she submitted a
+  communication for inclusion in the urban growth boundary along with the
+  servicing feasibility of the land, which was prepared by ENG Plus; indicating
+  that there are no servicing issues; stating that the Eagle Ridge subdivision
+  will be required to build the sewer to the corner of Gideon Drive and Oxford
+  Street, which will be right across the road; advising that stormwater
+  management will be looked after by the regional stormwater management
+  facility that will be located on the north side of Oxford Street, opposite
+  Gideon Drive; advising that the Woodhull subdivision, which is immediately to
+  the west will be constructing a municipal watermain along Gideon Drive;
+  noting that this will be paid for by the developer; further noting that this
+  will provide water to her property; and reiterating that her property be
+  included in the urban growth boundary.
+-                    
+  Joe Platino, Mainline Planning Services – indicating that
+  he is representing an owners group who own approximately 160 acres south of
+  Highbury Avenue South, south of Highway 401 and adjacent to the urban growth
+  boundary; thanking the Committee for the opportunity to speak; expressing
+  that it is clear that the Committee is invested in this process and has an
+  open mind for those who wish to be included in the urban growth boundary;
+  expressing support for the submissions, there have been a lot of passionate
+  people speaking and a lot of comprehensive work has been done; noting that he
+  does not believe that that could happen if the municipality had not done the
+  work it has; requesting to be included in the urban growth boundary; noting
+  that they are not on the list that the staff have compiled; indicating that they
+  will be making a very comprehensive submission in the coming days; .
+-                    
+  David Cousins, CBRE – see attached
+  communication.
+-                    
+  Stephen
+  Turner, 463 Tecumseh Avenue East – advising that one of the cruxes of the
+  situation before the Committee is how to determine whose property gets put in
+  the urban growth boundary and whose does not; indicating that there are 13
+  applicants before the Committee; realizing it is a question of fairness;
+  advising that the Planning staff is well paid and well educated; indicating
+  that the Planning staff have advised that there are more than adequate lands
+  in the 20 year horizon to be able to complete all the growth forecasts of the
+  Lands Needs Assessments; indicating that the arguments that he has heard
+  about the potential to swap lands in and out to create an urban growth
+  boundary that is about the same size but he believes it would be a fair
+  question to ask all 13 proponents if they have land inside the urban growth
+  boundary that they would be prepared to swap out; advising that there is
+  speculation opportunity for those who have lands adjacent to the urban growth
+  boundary whose lands go up in value significantly as soon as you move it;
+  expressing concern about not seeing a lot of members of the Committee at the
+  ReThink London events and he thinks it is really important for the context of
+  the discussion that is happening on the part of the citizens of London, about
+  what they are saying about what they would like to see the urban form look
+  like and it really is the antithesis of expanding the urban form further;
+  indicating that it is time to pay attention to what the people are saying, to
+  incorporate a lot of the principles and visions that have been articulated
+  through the ReThink London process and take a good look at what is happening
+  here tonight; indicating that he believes that the burden of proof is on the
+  applicants to show that there is a compelling need to expand the urban growth
+  boundary and he does not think that that has gone any further than what the
+  Planning staff have said that there is not.   (2013-D08)
+
+> Moved by Councillor J.L. Baechler
+
+> Seconded by Councillor H.L. Usher
+
+Amend part b) by deleting everything
+  following the word "boundary" and by adding a new part c), as
+  follows:
+ 
+"c)       staff
+  to evaluate the lands within the Urban Growth Boundary, and requests beyond,
+  with a view to not expanding the Urban Growth Boundary but possibly
+  re-adjusting when it represents logical sound planning and is cost-effective
+  to the municipality by using infrastructure more effectively and
+  efficiently".
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor S. Orser
+
+Approve clause 26, as amended.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+That, the following actions be taken with
+  respect to the ReThink London Official Plan Review process:
+ 
+a)         a
+  Public Participation Meeting of the Planning and Environment Committee BE
+  HELD on October 8, 2013 to consider the Land Needs Background Study, as a
+  background document for the Rethink London Official Plan Review process; and,
+  
+ 
+b)         the
+  development community BE ASKED to work with the Civic Administration to
+  further review the analysis and assumptions used to determine the urban growth
+  boundary and to further review the requests for expansions to that boundary;
+ 
+c)         staff
+  to evaluate the lands within the Urban Growth Boundary, and requests beyond,
+  with a view to not expanding the Urban Growth Boundary but possibly
+  re-adjusting when it represents logical sound planning and is cost-effective
+  to the municipality by using infrastructure more effectively and efficiently;
+ 
+it being noted that the Planning and
+  Environment Committee reviewed and received the following communications,
+  with respect to this matter: 
+ 
+-                   
+  a
+  communication dated July 10, 2013, from E.F. Brown, 3133 Colonel Talbot Road,
+  et al;
+-                   
+  a
+  communication dated July 15, 2013 from D.R. Schmidt, Development Manager,
+  Corlon Properties Inc.;
+-                   
+  a
+  communication dated July 17, 2013 from M. Jackson-Brewer, 1996 Bradley
+  Avenue;
+-                   
+  a
+  communication dated July 19, 2013 from P. Masschelein, Vice President,
+  Neighbourhod Developments, Sifton Properties Limited;
+-                   
+  the
+  attached communication dated July 23, 2013 from R. Knutson,
+  Knutson Development Consultants Inc.; and,
+-                   
+  the
+  attached communication dated July 23, 2013 from C.M. Weibe,
+  MHBC Planning Consultants, on behalf of J-Aar Excavating;
+ 
+it
+  being pointed out that at the public participation meeting associated with
+  this matter, the following individuals made oral submissions in connection
+  therewith:
+ 
+-                    
+  Shmuel Farhi, Farhi Holdings Corporation – discussing a
+  parcel of approximately 137 acres in East London; indicating that he believes
+  that East London deserves to have development close to the work force; advising
+  that there should be affordable homes for people working close to the
+  Industrial Park; and discussing a parcel of 500+ acres along Highway 402,
+  Colonel Talbot Road, Longwood Road and Murray Road; indicating that this
+  property borders Highway 402 and is outside of the urban growth boundary.
+-                    
+  Tom Brown, 3133 Colonel Talbot Road North, on behalf of the
+  West Talbot Road Landowners Association – advising that he represents the
+  landowners on the west side of Colonel Talbot Road, south of Southdale Road,
+  north of Pack Road and east of Dingman Creek; quoting the “Vision” statement;
+  indicating that their lands are surrounded by urban growth; advising that, in
+  years past, they were able to rent lands across the road and down Southdale
+  Road; noting that renting land is no longer available to them; advising that
+  the viability of farming this land is very restrictive; indicating that
+  moving farm machinery around the arterial roads is not only cumbersome, but
+  it could be dangerous; advising that the machinery can be quite large;
+  indicating that a large portion of their lands either abut or include the
+  Dingman Creek ecosystem and watershed, which is a very strong area of natural
+  heritage; noting that approximately 35% of their lands are either woodland or
+  part of the Dingman Creek ecosystem; reading Section 2.10 of the Official
+  Plan; advising that, at one time, they had approximately 600 acres of land;
+  noting that they no longer have that amount of land; advising that the
+  economist scale is lost for them; indicating that the viability of farming
+  that land is not an option; indicating that the urban development and
+  commercial development in the area is separating their land and forcing them
+  into a position where they can no longer move machinery and farm like they
+  used to; advising that trespassing is one of their major problems with urban
+  development on three sides; noting that they have people snowmobiling,
+  driving all-terrain vehicles, off-leash dog walking and dumping garbage on
+  their lands; indicating that their farms are running into a compatibility
+  issue with the surrounding urban areas as they cannot move their machinery
+  around and they cannot farm like they used to; advising that they used to
+  have dairy, beef and cash crops; noting that the revenue from the cash crop will
+  cover the cost of the crop itself, pay the taxes and insurance; noting that
+  this is what they are limited to now; advising that their land is no longer
+  productive as farm land; indicating that they have servicing on three sides
+  of their properties; noting that Southdale Road, Colonel Talbot Road and Pack
+  Road are all fully serviced; indicating that including their properties
+  inside the urban growth boundary would not be a significant cost or pose a
+  difficulty to include their lands in the South West Area Plan; advising that
+  there was recently a memo that stated that the South West area is anticipated
+  to have significant growth over the next 20 years; advising that they are in
+  that area; noting that the Dingman Creek would add significant access to the
+  citizens of London; and reiterating to please include their lands in the
+  urban growth boundary.
+-                    
+  Ali Jomaa, 1431 Sunningdale Road West – indicating that he
+  owns 108 acres of property northwest of Sunningdale; advising that there is a
+  major transportation route being planned for Sunningdale Road; indicating
+  that the Heard Drain, which is being developed, is part of that land;
+  advising that his land slants towards the drain very slightly which is
+  excellent for the reduction of costs; advising that the land is very smooth
+  all the way across; indicating that the reduction of costs is very important;
+  and advising that if the City is looking to make sure that this is
+  profitable, he is making the argument that this is a natural position for it
+  to be positioned because of the services and the transportation route.
+-                    
+  William Hill, on behalf of Margaret Jackson-Brewer –
+  requesting that the lands on the north and south side of Bradley Avenue from
+  Old Victoria Sideroad to the present urban growth boundary be put into the
+  new urban growth boundary; indicating that it is consistent with putting
+  building lots where people work and it is becoming impossible to farm on
+  Bradley Avenue because of the traffic; indicating that there is no cattle
+  farming left in the area; noting that it is all cash cropping as you cannot
+  take the risk of having an animal get loose on Bradley Avenue; advising that
+  they believe that it is a great piece of land for the City for several
+  reasons, including the fact that the City spent a lot of money providing
+  hydro and water to the area to service the industrial area; indicating that
+  the south side of Bradley in this area goes right to Highway 401 so that you
+  have three kilometers of land along Highway 401; indicating that you have the
+  Highbury Avenue interchange as well as the Veterans Memorial Parkway
+  interchange, with approximately four kilometers of land in between that is
+  serviced already; suggesting that the south side of Bradley Avenue be zoned
+  Industrial and the north side of Bradley Avenue be zoned Residential, which
+  would then be consistent with Bradley Avenue as it goes back into the old
+  part of the City; indicating that another reason he believes this land should
+  be included in the urban growth boundary is because when the City expanded
+  the Industrial area and went from Commissioners Road down to Highway 401 and
+  over to Old Victoria Sideroad, he does not believe that there was any
+  consideration given, and there was no consultation with the people who lived
+  on Bradley Avenue, as to the impact that the expansion that the Industrial
+  lands will have; indicating that a number of plants have now been built;
+  indicating that the amount of traffic that they have on Bradley Avenue now as
+  compared to what they had before, has turned it from a great place to live in
+  the countryside, to living in the City; noting that it is probably even
+  noisier because there are not the barriers around to break the noise; looking
+  at it from the point of view of the residents on Bradley Avenue, they should
+  be in the plan and the City needs to correct that; and indicating that they
+  are an island with nothing happening in between Veterans Memorial Park, the
+  Industrial area and Summerside.
+-                    
+  Dave Schmidt, Corlon Properties Inc. – advising that their
+  property is approximately 82 acres on the northwest side of Sunningdale Road
+  and Wonderland Road North; indicating that they were before the Committee
+  five years ago as part of the 2006 Official Plan review; indicating that the
+  subject property is uniquely positioned because the municipal boundary is
+  immediately along the northerly property line all the way across the end of
+  the City, but the urban growth boundary follows Sunningdale Road, then goes
+  up Wonderland Road North and continues along the municipal boundary;
+  indicating that full municipal services already exist on their property;
+  advising that there is a 900mm watermain existing all the way down
+  Sunningdale Road, there is a 375mm sanitary sewer stub metres away from the
+  intersection that was part of the Medway Trunk sanitary sewer project that
+  has just been built in the last five years and was sized to service this
+  area; the stormwater management environmental assessment has been done and
+  included these lands; indicating that everything is here to allow this land
+  to move forward; advising that the problem is that there is a line on the map
+  that has it on the wrong side of it; indicating that there is a big
+  difference between today and the last Official Plan that was completed
+  because at that time the Municipal Council recognized many of the
+  presentations that were done, there were unique opportunities here that
+  probably should have been reviewed in a different way than has ever been
+  reviewed to date; indicating that the Municipal Council resolution from
+  August 13, 2007 (reads part d) of the resolution); indicating that he reviews
+  the Agendas every week as part of his job, he has reviewed the 2011 ReThink
+  process, he has reviewed the 2001 Land Needs Background Study (reading the
+  Terms of Reference for the 2011 Official Plan review); indicating that he has
+  not seen this done to date; noting that he has not seen the report from the
+  2007 resolution relating to this matter and he has not seen an evaluation of
+  the lands that possibly could be considered for inclusion in the urban growth
+  boundary being done, other than an analysis that says that we have “x” amount
+  of land, we need “this” amount of land and we have more than we need, none of
+  them represent an emergence opportunity, nothing to do; indicating that he is
+  not sure that this is the way we should be proceeding forward; advising that
+  we are rethinking the Official Plan in the City of London; indicating that we
+  are not reaffirming a growth boundary that was drawn in 1996 as part of the
+  Vision 96 process based upon thinking that was in place at that time; noting
+  that lots of things have changed; advising that lots of infrastructure has
+  gone in the ground; indicating that some very big decisions have been made by
+  this Municipal Council since then with respect to servicing (ie. Southside
+  Sewage Treatment Control Plant); believing that the Municipal Council needs
+  to take into consideration not expanding the growth boundary but looking at
+  the viability of adjusting the growth boundary, not necessarily adding any
+  more growth acreage in, but taking a look at the requests that are before you
+  and deciding whether they represent good, sound, logical planning that is
+  cost effective and efficient to this municipality, its existing residents and
+  its future residents; noting that our development charges rely on this;
+  indicating that, if we continue to develop land that is not the most
+  economical to service, our development charges will put us at a continuous
+  economic disadvantage compared to our neighbouring municipalities around us
+  where people will continue to go to seek residential homes when we price
+  ourselves out of the market because we are not developing the most efficient
+  land that we possibly can; reiterating that, with the piece of land that they
+  have, the services are bought, paid for and installed; noting that capacity
+  exists at the Plant, but the line drawn on the maps says that we have enough,
+  there is no reason to consider it; indicating that the methodology that was
+  employed the Land Needs Background Study that was just completed was the same
+  that was done five years ago; advising that land needs equals supply minus
+  demand; noting that it is impossible for anyone here today to contest those
+  findings; indicating that there is a lot of land inside the growth boundary;
+  enquiring as to whether or not this land is efficiently positioned to
+  optimize the services that we have already bought and paid for; noting that
+  he is not sure that anyone here can answer that question today; indicating
+  that the analysis that the Municipal Council requested back in 2007, as part
+  of the Municipal Council resolution previously mentioned, has never been
+  done; noting that it is not here today as part of the Land Needs Background
+  Study; advising that he is not sure anyone will be able to tell how much 100
+  acres inside the urban growth boundary is going to cost to develop as opposed
+  to any of the applications that are before the Committee today; indicating
+  that other municipalities have swapped land; noting that the Township of
+  Middlesex Centre swapped land in their last Official Plan review; indicating
+  that it is not a question of whether or not we have enough land in the urban
+  growth boundary, but whether this land is strategically located to achieve
+  sufficient development patterns and optimize the investment in infrastructure
+  and public service facilities; indicating that a review of the City of London
+  Official Plan and the Provincial Policy Statement would suggest, to him, that
+  a realignment of the urban growth boundary needs to be considered;
+  reiterating that he is not talking about an expansion of the urban growth
+  boundary, but a realignment of the urban growth boundary; and advising that
+  the road that we are going down today is not consistent with the City of
+  London Official Plan, but also not with the Provincial Policy Statement.
+-                    
+  Carol Weibe, MHBC Planning Consultants, on behalf of J-Aar
+  Excavating – indicating that she was before the Planning Committee in 2007
+  requesting that J-Aar Excavating be included in the urban growth boundary;
+  indicating that this is a unique property that is currently licensed as an
+  aggregate extraction property; noting that the urban growth boundary runs
+  along the west and the south property limits; also noting that it is adjacent
+  to existing residential property development on two sides, the west side and
+  the south side; indicating that it is currently designated Agriculture in the
+  Official Plan and zoned for extraction; indicating that, in the six years
+  since she was before them, there has been a considerable amount of
+  development in this immediate area; noting that the lands to the south  and
+  west, those subdivisions, those lands have been developing at a very brisk
+  rate; showing a map of the Kilally North Area Plan; noting that the property
+  was intended, at the appropriate time, to complete this area plan; noting
+  that Blackwell Boulevard terminates at the property line and Cedar Hollow
+  Boulevard to the south is also intended to connect through and loop through
+  that property to provide that collector road system and to provide transit
+  and to really round out this Area Plan; indicating that the issues brought to
+  the Committee’s attention in 2007 are still relevant today; advising that
+  what is unique about this property is that it is a current extraction
+  operation, under their license they are required to extract the aggregate
+  that is there and every year that they are remaining outside of that urban
+  growth boundary they continue to extract so the grades on that property
+  continue to get lower and lower; advising that that means that when they have
+  exhausted the aggregate, in order for these lands to develop as they were
+  planned, an equivalent amount of fill will need to be brought in to bring
+  that land back up; indicating that the services for this property have
+  already been installed; noting that the services have been oversized,
+  constructed and paid for; reiterating that these lands can be serviced today;
+  advising that the concerns that J-Aar Excavating has is that if the lands
+  continue to be left outside of the urban growth boundary, they are going to
+  come to the point where the land is no longer economically feasible to
+  service due to the amount of fill that will need to be brought in; indicating
+  that the only way that they can relinquish their license is that they would
+  have to demonstrate to the Ministry of Natural Resources that their
+  rehabilitation plan required them to keep the elevations as they are today;
+  asking the Committee and the Municipal Council to look at this service and
+  say if we do not bring these lands in in the immediate future, we are going
+  to forever prevent them from being brought in because it will not be
+  economically feasible to do so; indicating that, as this Area Plan clearly
+  demonstrates, it was intended to complete this Area Plan and to have these
+  road stubs just terminate and never be completed is really bad planning;
+  advising that she believes that this site warrants consideration; and
+  reminding the Committee that when she brought these points to the Committee’s
+  attention the last time, there were three properties that were singled out
+  and staff was directed to go back and to look at them, noting that this was
+  one of them and it was because of the severity of the policies that said that
+  if you have sufficient lands within that 20 year horizon, it does not matter
+  how justified a parcel is and because staff did not want to go down that road
+  of the trade-offs and the swaps, it did not get in, even though, back in
+  2007, there was recognition that it warranted further consideration; asking
+  the Committee to now take that extra step, look at the property and ask if we
+  want to lose this opportunity because that is exactly what will happen;
+  indicating that the property is approximately 40 hectares; however, there are
+  a lot of ponds on the land and chances are the northern half of the property
+  will not be built on.
+-                    
+  Carol Weibe, MHBC Planning Consultants, on behalf of the
+  London Development Institute (LDI) – see communication dated July 19, 2013. 
+-                    
+  Maureen Zunti, Sifton Properties Limited – reiterating the
+  concerns about the Land Needs Background Study that Ms. Weibe just mentioned;
+  expressing concern with respect to some of the assumptions for
+  intensification; advising that one of the ones that she has a specific
+  concern about is that 88% of high density development will occur in the infill
+  areas; noting that that is above the trend for the past 10 years; advising
+  that what that means is that, if you assume that a typical apartment building
+  being constructed these days, particularly in suburban areas, is an average
+  of 150 units, the intensification assumption would require approximately 77
+  apartment buildings to be constructed in the built area over the next 20
+  years, with only 10 buildings in the greenfield areas; indicating that she
+  does not believe that that is reflective of what the City is looking for in
+  terms of building complete communities; advising that there are some
+  questions about how these assumptions are being put forward that we have to
+  look at and get more information on; reiterating the concern about the table
+  on page 335 on the PEC Agenda; noting that the variation in the average
+  densities between the five categories is far too wide as it does range from
+  3.5 to 34.4 units per hectare; further noting that some of the numbers may be
+  too low and some of the numbers may be too high; indicating that,
+  particularly with the designated residential lands, that they are assuming
+  there to be almost 34,000 units to be constructed; noting that the low
+  density units there are actually 41%, the percentage of low density units is
+  higher than is actually existing in the draft subdivision plans which are
+  currently under review and the density is still much higher than that;
+  advising that there are some numbers that do not make sense that they need to
+  have more background information on; indicating that she submitted a letter
+  to staff approximately one week ago outlining some of these concerns;
+  indicating that on page 23 of the staff report relating to this item, the
+  “Land Use Background Study”, it indicates that there were five adjustments
+  made to the residential greenfield supply numbers so we cannot really test
+  those numbers because the numbers are different than the Vacant Land
+  Inventories for 2011 and 2012; indicating that they do not know what the
+  adjustments are and they do not know how the densities were calculated,
+  whether they are net or gross; advising that it is really critical for them
+  to meet with staff and get more information on their questions and concerns
+  because the Land Needs Background Study is essentially a mathematical exercise
+  and if you do not have the right numbers at the front, then everything else
+  can be quite wrong.
+-                    
+  Phil Masschelein, Sifton Properties Limited – see attached
+  presentation.
+-                    
+  Nick Sauter, 204 Tremont Road – advising that he lives in
+  Argyle, which is the largest neighbourhood in London, with 55,000 people
+  living there; indicating that he speaks on behalf of the people living in
+  Argyle who have unique problems that no one in other areas of the City have
+  ever faced; advising that, in 1959, Argyle was not part of the City; noting
+  that they were not annexed until 1961; indicating that anyone who knows the
+  City knows that not all planning in the past has gone well; noting that, in
+  the past, the Planners divided the City into two, with all of the industries
+  in one end of town, which they did in the 1960’s and 1970’s; indicating that,
+  eventually, Airport Road (Veterans Memorial Parkway) was built, which was
+  deemed to be the first part of a ring road; noting that that did not work out
+  either; advising that the Argyle Community Association was started because
+  they did not feel they were being treated fairly; indicating that their five
+  Councillors are on board with what is going on; indicating that, in 2010, Mr.
+  Farhi approached him to get the Argyle Community Association’s support for a
+  project that he wanted to propose to them; indicating that he bought some
+  land that was formerly Lagrou Farms and he has some wonderful plans for a
+  subdivision with houses that people can afford; noting that the Argyle
+  Community Association supports Mr. Farhi’s idea and has lobbied for it;
+  requesting that this request not be rejected because we have enough land,
+  that parcel of land, east of Crumlin Road is the only spot left in all of
+  Ward 2 where you can build a small residential development; indicating that
+  he believes that ReThink London is a great idea; and advising that this is
+  the first time that he has heard of people thinking about building a city
+  thriving on the idea of neighbourhoods.
+-                    
+  Alan R. Patton, Patton Cormier and Associates, on behalf of
+  the Wickerson Land Owners Association – indicating that the area is south of
+  Byron Baseline Road, Wickerson Road (the north/south road on the east side),
+  part of Southdale Road and over to West del Bourne; advising that the area is
+  approximately 87 hectares; indicating that the lands are boundary serviced
+  and the stormwater management ponds been the subject of an environmental
+  assessment; advising that the entire property is easily serviceable and is a
+  logical extension of land in the west end of the City which has schools and
+  other infrastructure; indicating that the plan picks up the proposed planned
+  realignment of Byron Baseline Road to meet with Elviage Drive on the west
+  side of West del Bourne; advising that this is not a hypothetical situation;
+  indicating that this is a very real, logical extension of the urban growth
+  boundary; advising that they have cost the project out, as Mr. Masschelein
+  said, for another area in the City, this  is a net benefit in terms of
+  development charges of $23,000,000; indicating that it provides
+  transportation plans, the realignment of Baseline Road/Boler Road; advising
+  that it also relates to the Altus Growth Study because they play off Mr.
+  Barrett’s presentation; noting that a lot of the statistics are from 2006 to
+  2011 in terms of demand and building permits; further noting that, during
+  this time, there was a down turn in the economy, in terms of the building
+  economy and the worldwide economy and that had an effect on London, so that
+  it is not the best five year period to take for your analysis; indicating
+  that another problem with the Study is that it includes a number of
+  verifiable assumptions and a number of non-verifiable assumptions, which Ms.
+  Weibe went over to a considerable degree; indicating that the reliance on the
+  Altus Study is much on reliance on take-out yet those have been depressed
+  over the last five years, we are not at a take-out where we should be but we
+  are in a recovery; requesting, for verification of net benefit, refer to
+  Agenda Item 26 e), Sifton Properties (Mr. Masschelein’s) communication
+  verifying the development charges and the net benefit to the development
+  charges funds; advising that the infrastructure is planned; indicating that,
+  logically, the Stanley estate on Wickerson Road should have been included as
+  there is a master plan that provides for open space, stormwater management
+  and represents a very logical extension of the urban growth boundary in an
+  area of the City, in the west end, where there is a demand for growth and the
+  other infrastructure and amenities already exist and are development charges
+  positive; and reiterating that it really should have been included earlier,
+  but it was left out.
+-                    
+  Sergio Pompilii and Ryan Pompilii, Sergio E. Pompilii &
+  Associates Ltd. – see attached presentation.
+-                    
+  Paul Hinde, Tridon Group of Companies – speaking in
+  generalities, we have heard from Planning staff that they believe that there
+  are sufficient lands within the boundary right now for 20 year growth and
+  there has been a substantial amount, and very compelling arguments to
+  encourage the Municipal Council to consider some flexibility and
+  consideration of bringing additional lands in, both from an economic
+  standpoint from servicing but also from other standpoints such as economic
+  growth throughout the City; advising that, although City staff is saying that
+  they have sufficient lands, they have also asked staff to look at, not on a
+  micro basis, but really is there sufficient lands within the 20 year growth
+  boundary to accommodate the growth that they actually need; indicating that
+  Tridon Group of Companies is in partnership with Thames Village Joint Venture
+  for a residential subdivision, in the southeast corner, in Old Victoria
+  (Hamilton Road and Commissioners Road) and that draft plan of subdivision is
+  31.5 hectares in size, of which only 14 hectares is being developed for
+  residential purposes; noting that the other 18 hectares is either Thames
+  River floodplain or natural heritage feature and non-developable lands;
+  advising that, on that micro analysis, out of a 31 hectare parcel of land,
+  only 40% of the land is going to be developed for residential purposes,
+  accommodating the growth that the City is looking at; noting that this is an
+  example of only 40% of the land is being developed; and encouraging the
+  Municipal Council to listen to the compelling arguments/suggestions that have
+  been made for some flexibility, for some swapping and to maybe consider some
+  new lands being brought in to accommodate those lands already within the
+  urban growth boundary which will not be developed because of constraints
+  associated with natural features or corridors or any other feature.
+-                    
+  Mauro Castrilli, 2156 Highbury Avenue North – advising that
+  he has 4.5 acres that border the urban growth boundary line on the south and
+  west sides; indicating that it is currently zoned R1-11; noting that, in
+  2005, the Municipal Council passed a resolution severing the property into
+  three lots; indicating that he attended a Stoney Creek Sanitary Trunk Sewer
+  meeting; noting that the sanitary trunk sewer was adopted by the Municipal
+  Council in 2010, which would service along Highbury Avenue North; advising
+  that the Municipal Council has already committed to servicing the property
+  along Highbury Avenue North; and requesting that his property be included in
+  the urban growth boundary.
+-                    
+  Phyllis Matthews, #10-947 Adirondack Road – indicating that
+  she owns property on the west side of the City; advising that, during the
+  Vision 96 process, her property was in the southwest option; indicating that
+  her property is located immediately next to the current urban growth
+  boundary; noting that the property is 31 acres (12.6 hectares); advising that
+  it has been suggested to her by urban planners that the property is suitable
+  for commercial development at the corner of the two arterial roads – Oxford
+  Street and Gideon Drive; noting that the rest of the property, along Gideon
+  Drive, would be high density, medium density and low density along the
+  Parkland, which is now owned by the City; indicating that she submitted a
+  communication for inclusion in the urban growth boundary along with the
+  servicing feasibility of the land, which was prepared by ENG Plus; indicating
+  that there are no servicing issues; stating that the Eagle Ridge subdivision
+  will be required to build the sewer to the corner of Gideon Drive and Oxford
+  Street, which will be right across the road; advising that stormwater
+  management will be looked after by the regional stormwater management
+  facility that will be located on the north side of Oxford Street, opposite
+  Gideon Drive; advising that the Woodhull subdivision, which is immediately to
+  the west will be constructing a municipal watermain along Gideon Drive;
+  noting that this will be paid for by the developer; further noting that this
+  will provide water to her property; and reiterating that her property be
+  included in the urban growth boundary.
+-                    
+  Joe Platino, Mainline Planning Services – indicating that
+  he is representing an owners group who own approximately 160 acres south of
+  Highbury Avenue South, south of Highway 401 and adjacent to the urban growth
+  boundary; thanking the Committee for the opportunity to speak; expressing
+  that it is clear that the Committee is invested in this process and has an
+  open mind for those who wish to be included in the urban growth boundary;
+  expressing support for the submissions, there have been a lot of passionate
+  people speaking and a lot of comprehensive work has been done; noting that he
+  does not believe that that could happen if the municipality had not done the
+  work it has; requesting to be included in the urban growth boundary; noting
+  that they are not on the list that the staff have compiled; indicating that
+  they will be making a very comprehensive submission in the coming days; .
+-                    
+  David Cousins, CBRE – see attached communication.
+-                    
+  Stephen
+  Turner, 463 Tecumseh Avenue East – advising that one of the cruxes of the
+  situation before the Committee is how to determine whose property gets put in
+  the urban growth boundary and whose does not; indicating that there are 13
+  applicants before the Committee; realizing it is a question of fairness;
+  advising that the Planning staff is well paid and well educated; indicating
+  that the Planning staff have advised that there are more than adequate lands
+  in the 20 year horizon to be able to complete all the growth forecasts of the
+  Lands Needs Assessments; indicating that the arguments that he has heard
+  about the potential to swap lands in and out to create an urban growth
+  boundary that is about the same size but he believes it would be a fair question
+  to ask all 13 proponents if they have land inside the urban growth boundary
+  that they would be prepared to swap out; advising that there is speculation
+  opportunity for those who have lands adjacent to the urban growth boundary
+  whose lands go up in value significantly as soon as you move it; expressing
+  concern about not seeing a lot of members of the Committee at the ReThink
+  London events and he thinks it is really important for the context of the
+  discussion that is happening on the part of the citizens of London, about
+  what they are saying about what they would like to see the urban form look
+  like and it really is the antithesis of expanding the urban form further;
+  indicating that it is time to pay attention to what the people are saying, to
+  incorporate a lot of the principles and visions that have been articulated
+  through the ReThink London process and take a good look at what is happening
+  here tonight; indicating that he believes that the burden of proof is on the
+  applicants to show that there is a compelling need to expand the urban growth
+  boundary and he does not think that that has gone any further than what the
+  Planning staff have said that there is not.   (2013-D08)
+
+> Moved by Councillor B. Polhill
+
+Approve clauses 27 and 28
+
+****
+
+# 27.&nbsp;&nbsp;&nbsp;Council Committee
+  Recommendations Source Identification
+
+That the communication from Councillor M.
+  Brown dated July 3, 2013, with respect to Council Committee recommendations
+  source identification BE REFERRED to the Civic Administration for
+  consideration.   (2013-C03C)
+
+# 28.&nbsp;&nbsp;&nbsp;Property Located at
+  13 Blackfriars Street - Request for Delegation Status
+
+That B. Storonianski, 13 Blackfriars Street
+  BE DENIED delegation status at a future Planning and Environment Committee
+  meeting; it being noted that the staff will work with the applicant to try to
+  resolve this matter.
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor D. Brown
+
+Approve clauses 1 to 4, 6 to 8, 10, 12, 13, 15, and 17 to 21.
+
+****
+
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
+  MATTERS
+
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
+
+Councillor
+  D. Brown enquired about how the methadone clinic at 425 Wharncliffe Road
+  South was able to open and operate without fulfilling the requirement for
+  wrought iron fencing.  The enquiry was referred to the Managing Director,
+  Development & Compliance Services and Chief Building Official for review
+  and report back to Councillor D. Brown, with a copy of the response to be
+  provided to the other Council Members.
+
+Councillor W.J. Armstrong enquired about
+  the status of the sound barrier for Veterans Memorial Parkway.  The Managing
+  Director, Environmental and Engineering Services and City Engineer advised
+  that a report on this matter will be coming forward in late September, in
+  keeping with the advice he had previously provided to the Councillor.
+
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
+  MOTIONS
+
+> Moved by Councillor N. Branscombe
+
+Approve:
+ 
+1.         That, on the recommendation of
+  the City Clerk, the following actions be taken with respect to the 2013 Queen
+  Elizabeth Scholarships:
+ 
+(a)         
+  notwithstanding
+  Council Policy 1(3), which provides for Queen Elizabeth Scholarships in the
+  amount of $2,000 each, to be granted by the City of London in each school
+  year, for admission to any University, to the two students with the highest
+  scholastic achievement based on six O.A.C. Credits, the following three
+  students BE AWARDED the 2013 Queen Elizabeth Scholarships, in the amounts
+  shown:
+ 
+Julian
+  Donovan         Regina Mundi Catholic College            98.83% -  $2,000 
+Emily
+  Dzongowski     Mother Teresa Catholic Secondary      97.83% - $2,000
+                                  School
+Jason
+  Mile                 Sir Wilfrid Laurier Secondary School   97.83% - $2,000 
+ 
+it being noted that the awarding of Queen
+  Elizabeth Scholarships to three students is being recommended on an exception
+  basis due to the fact that two students are tied for second place; and 
+ 
+(b)       
+  the additional $2,000 Scholarship BE FUNDED through the City’s 2013     Operating
+  Budget.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor N. Branscombe
+
+Approve:
+ 
+ 2.                    That, on the
+  recommendation of the City Manager, regarding the lease between the City of
+  London and Farhi Holding Corporation with respect to Market Tower, located at
+  151 Dundas Street, the following actions be taken:
+ 
+a)         the
+  proposal submitted by Farhi Holding Corporation to relocate a portion of the
+  City-leased space at Market Tower/Annex to the Bell Building, located at 100
+  Dundas Street, for the purpose of supporting the sale of  Market Tower and
+  the Annex Building to Fanshawe College BE ACCEPTED in the form of a Letter of
+  Intent, subject to the following covenants:
+ 
+i)          Total
+  Rentable Area of up to 38,000 square feet;
+ 
+ii)         the
+  Landlord shall provide 30 underground parking spaces at a rate of $56.25 per
+  space per month for the first year and escalating at 10% per year for the
+  remaining nine (9) years; 
+ 
+iii)         the
+  Term shall be ten (10) years, with two further options each of five  (5)
+  years;
+ 
+iv)        commencement
+  date is subject to the completion of the transfer of Market Tower and the
+  Annex Building to Fanshawe and shall be the earlier of May 1, 2014; or the
+  day following the end of the Fixturing Period;
+ 
+v)         Basic
+  Rent for Years 1 to 10 at $10.00 with no escalation during the term;
+ 
+vi)        Tenant’s
+  work – the Landlord will carry out the Tenant’s work at its cost and the
+  Tenant agrees to repay the Landlord in equal monthly instalments with the
+  rent, an amount that amortizes interest free the total cost of the Tenant’s
+  work over the term of the lease; and
+ 
+vii)       the
+  negotiation of a commercial lease which is contingent on the completion of
+  the sale of Market Tower and the Annex Building by the Landlord to Fanshawe
+  by May 1, 2014 or earlier, including the assignment of the existing lease
+  with necessary or negotiated modifications.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (11) RECUSED: P. Hubert (1)|
+
+> **Motion Passed**
+
+****
+
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
+
+BY-LAWS TO BE READ A FIRST, SECOND AND
+  THIRD TIME:
+
+> Moved by Councillor D. Brown
+
+> Seconded by Councillor H.L. Usher
+
+Approve First Reading of Bill No.s 327
+  to 355, including the revised Bill 331.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor D. Brown
+
+Approve Second Reading of Bill No.s 327 to
+  355, including the revised Bill 331.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor H.L. Usher
+
+Approve Third Reading and enactment of
+  Bill No.s 327 to 355, including the revised Bill 331
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (12)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor D. Brown
+
+> Seconded by Councillor S. Orser
+
+Approve Introduction and First Reading of
+  Bill 356.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (11) RECUSED: P. Hubert (1)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor J.P. Bryant
+
+Approve Second Reading of Bill 356.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (11) RECUSED: P. Hubert (1)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor H.L. Usher
+
+Approve Third Reading and Enactment of
+  Bill 356.
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |B. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (11) RECUSED: P. Hubert (1)|
+
+> **Motion Passed**
+
+****
+
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
+

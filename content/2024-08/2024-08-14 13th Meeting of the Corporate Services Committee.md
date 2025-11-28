@@ -13,7 +13,7 @@ August 14, 2024, at  1:00 PM
 > Deputy  S. Lewis, J. Pribil, S. Trosow, S. Datars Bere, I. Collins, V. Morgado, K. Murray, J. Paradis, R. Patel, T. Pollitt, E. Skalski, C. Smith, L. Stewart, J. Taylor, B. Warner
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: S. Corman, E. Hunt
+> S. Corman, E. Hunt
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance
 

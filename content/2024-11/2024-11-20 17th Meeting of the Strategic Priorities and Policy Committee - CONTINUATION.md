@@ -13,7 +13,7 @@ November 20, 2024, at  9:30 AM
 > D. Ferreira
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Barbon, S. Corman, K. Dawtrey, K. Dickins, D. Escobar, S.
+> S. Datars Bere, A. Barbon, S. Corman, K. Dawtrey, K. Dickins, D. Escobar, S. Govindaraj, S. Mathers, J. Paradis, K. Scherr, M. Schulthess, E. Skalski, C. Smith
 
 > [!abstract]- Remote Attendance:
 > E. Bennett, E. Hunt

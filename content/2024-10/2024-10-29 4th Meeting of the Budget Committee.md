@@ -13,7 +13,7 @@ October 29, 2024, at  1:00 PM
 > S. Datars Bere, A. Barbon, M. Butlin, K. Dickins, D. Escobar, S. Mathers, K. Murray, J. Paradis, T. Pollitt, M. Schulthess, E. Skalski, C. Smith, P. Yeoman.
 
 > [!abstract]- Remote Attendance:
-> E. Bennett, S. Corman, , E. Hunt
+> E. Bennett, S. Corman, E. Hunt
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 

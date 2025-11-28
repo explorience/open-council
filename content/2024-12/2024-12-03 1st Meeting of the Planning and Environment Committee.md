@@ -14,6 +14,10 @@ December 3, 2024, at  1:00 PM
 
 > [!abstract]- Remote Attendance:
 > S. Trosow, A. Hovius, E. Hunt, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 1:01 PM, it being noted that  S. Hillier was in remote attendance.
 
 
 

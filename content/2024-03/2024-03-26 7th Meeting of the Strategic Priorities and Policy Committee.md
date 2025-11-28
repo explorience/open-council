@@ -394,9 +394,305 @@ The Committee recesses at 3:44 PM and reconvenes at 3:58 PM.
 
 [2024-03-26 Staff Report - Mobility Master Plan 2050 Mode Share Target](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=109365>)
 
+> Moved by S. Lehman
+
+> Seconded by S. Stevenson
+
+That the following actions be taken with respect to the Mobility Master Plan;
+
+a)   the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling; and
+
+b)   the mode share targets for the Mobility Master Plan BE REVIEWED at least every four years and adjusted appropriately.
+
+it being noted that the Strategic Priorities and Policy Committee heard delegations from the following individuals with respect to this matter:
+
+M. Wallace, Executive Director, London Development Institute;
+
+R. Buchal, Chair, Mobility Master Plan Subcommittee, Integrated Transportation Community Advisory Committee; and
+
+M. A. Hodge, Climate Action London.
+
+it being further noted that the Strategic Priorities and Policy Committee received communications from the following individuals:
+
+a communication from A. McClenaghan, Co-Owner, London Bicycle Café;
+
+a communication from J. Riedstra;
+
+a communication from Councillor S. Franke;
+
+a communication from M. Metson;
+
+a communication from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee;
+
+a communication from E. Febrey;
+
+a communication from L. Blumer;
+
+a communication from R. Buchal, Chair, Mobility Master Plan Subcommittee, Integrated Transportation Community Advisory Committee;
+
+a communication from C. Evans;
+
+a communication from B. Morrison and M. A. Hodge on behalf of Climate Action London;
+
+a communication from E. Poirier, Vice President External Affairs, University Students' Council; and 
+
+a communication from C. Taylor.
+
+ADDITIONAL VOTES:
+
+****
+
+> Moved by S. Trosow
+
+> Seconded by P. Cuddy
+
+That the delegation requests from M. Wallace, London Development Institute, Ralph Buchal, Chair, Mobility Master Plan Subcommittee, Integrated Transportation Community Advisory Committee and Mary Ann Hodge BE APPROVED to be heard at this time.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Morgan|E. Peloza|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 0)**
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by P. Van Meerbergen
+
+That the Mobility Master Plan 2050 Mode Share Target report BE RECEIVED and REFERRED to a future meeting of the Strategic Priorities and Policy Committee at the time the Land Needs Assessment Study is complete and report back on the following:
+
+a)    a review of Sewer and Water Servicing capacity within the Built Area Boundary;
+
+b)    a review of policy changes within the Official Plan, the London Plan that would be needed to support increased intensification opportunities within the Urban Growth Boundaries;
+
+c)    a review the option for different mode split targets for different areas of the City instead of a City-wide target. i.e., along the Rapid Transit Corridor and where servicing capacity exists; and
+
+d)    public input from random focus groups.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |S. Hillier|J. Morgan|
+> |P. Van Meerbergen|A. Hopkins|
+> |S. Lehman|S. Lewis|
+> |P. Cuddy|E. Peloza|
+> |S. Stevenson|H. McAlister|
+> ||J. Pribil|
+> ||S. Trosow|
+> ||S. Franke|
+> ||D. Ferreira|
+> ||C. Rahman|
+
+> **Motion Failed (5 to 10)**
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by P. Cuddy
+
+That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |S. Lewis|J. Morgan|
+> |S. Hillier|A. Hopkins|
+> |P. Van Meerbergen|E. Peloza|
+> |S. Lehman|H. McAlister|
+> |P. Cuddy|S. Trosow|
+> |S. Stevenson|S. Franke|
+> |J. Pribil|D. Ferreira|
+> |C. Rahman||
+
+> **Motion Passed (8 to 7)**
+
+****
+
+> Moved by J. Morgan
+
+> Seconded by P. Cuddy
+
+That the motion BE AMENDED to change Option 2 to represent 32.5% Mode Share split
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J. Morgan|S. Hillier|
+> |A. Hopkins|E. Peloza|
+> |S. Lewis|P. Van Meerbergen|
+> |H. McAlister|S. Lehman|
+> |P. Cuddy|S. Stevenson|
+> |J. Pribil|S. Trosow|
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (9 to 6)**
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by S. Stevenson
+
+That the following actions be taken with respect to the Mobility Master Plan;
+
+a) the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J. Morgan|S. Hillier|
+> |A. Hopkins|P. Van Meerbergen|
+> |S. Lewis|S. Stevenson|
+> |E. Peloza|S. Trosow|
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (11 to 4)**
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by S. Stevenson
+
+That the following actions be taken with respect to the Mobility Master Plan;
+
+b) the mode share targets for the Mobility Master Plan BE REVIEWED at least every four years and adjusted appropriately.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Morgan|
+> |A. Hopkins|
+> |S. Lewis|
+> |S. Hillier|
+> |E. Peloza|
+> |P. Van Meerbergen|
+> |S. Lehman|
+> |H. McAlister|
+> |P. Cuddy|
+> |S. Stevenson|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+> |C. Rahman|
+
+> **Motion Passed (15 to 0)**
+
+****
+
+> Moved by C. Rahman
+
+> Seconded by H. McAlister
+
+That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J. Morgan|E. Peloza|
+> |A. Hopkins|D. Ferreira|
+> |S. Lewis||
+> |S. Hillier||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |C. Rahman||
+
+> **Motion Passed (13 to 2)**
+
+****
+
 ## 4.5&nbsp;&nbsp;&nbsp;Request for Proposals for External Auditor of the London Transit Commission - Deputy Mayor S. Lewis and Budget Chair E. Peloza
 
 [2024-03-26 Submission - LTC - Lewis and Peloza](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=109362>)
+
+> Moved by E. Peloza
+
+> Seconded by S. Lewis
+
+That the following actions be taken with respect to the London Transit Commission:
+
+
+
+a) the Civic Administration BE DIRECTED to undertake a Request for Proposals for an external auditor to initiate a comprehensive operations and performance audit of the London Transit Commission, with the following audit scope:
+
+
+
+i) inclusion of current routing of service in regard to best practices in major municipalities, structure of the organization, financial structuring of various passes and contracts, operational preparedness and readiness to integrate with future Rapid Transit corridors, and to other KPIs to identify strengths and weaknesses;
+
+
+
+ii) identification of alternate service delivery model considerations and associated savings/cost implications, including but not limited to the municipality delivering the service directly; and
+
+
+
+iii) provision of recommendations to Municipal Council at the completion of the audit with a copy of the full public report provided to the London Transit Commission; 
+
+
+
+b) the Civic Administration BE DIRECTED to identify an appropriate source of financing;
+
+
+
+it being noted that the Strategic Priorities and Policy Committee received communications from the following individuals with respect to this matter:
+
+- a communication from M. Jones;
+
+- a communication from M. Sheehan; and
+
+- a communication from W. Lau, CEO, LEADS Employment Services and J. Preston, Associate Professor, King's University College.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |J. Morgan|S. Stevenson|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 0)**
+
+****
 
 ## 4.6&nbsp;&nbsp;&nbsp;Request for Accountability from the London Police Services Board - Mayor J. Morgan and Councillors S. Franke and C. Rahman
 

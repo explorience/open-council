@@ -10,12 +10,17 @@ July 15, 2025, at  1:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> J. Pribil, A. Hopkins, M. Butlin, C. Cernanec, M. Corby, I. de Ceuster, D. Escobar, M. Feldberg, K. Gonyou, T. Hitchons, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, C. Maton, C. McCreery, McNeely, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, S. Purhar, A. Rammeloo, A. Riley, J. Senese, A. Shaw, M. Sundercock, E. Williamson, K. Mason
+> J. Pribil, A. Hopkins, M. Butlin, C. Cernanec, M. Corby, I. de Ceuster, D. Escobar, M. Feldberg, K. Gonyou, T. Hitchons, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, C. Maton, C. McCreery, McNeely, N. Musicco, B. O'Hagan, N. Pasato, M. Pease, S. Purhar, A. Rammeloo, A. Riley, J. Senese, A. Shaw, M. Sundercock, E. Williamson, K. Mason 
+> 
+> 
+> 
+>  S. Stevenson, S. Trosow, S. Datars Bere, E. Bennett, K. Dickins, S. Grady, E. Hunt, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-> [!abstract]- Remote Attendance:
-> S. Stevenson, S. Trosow, S. Datars Bere, E. Bennett, K. Dickins, S. Grady, E. Hunt, E. Skalski
 
-The meeting was called to order at 1:00 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

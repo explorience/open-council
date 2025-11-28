@@ -10,7 +10,7 @@ May 22, 2024, at  1:00 PM
 > S. Lehman, S. Lewis, C.Rahman, S. Franke, S. Hillier
 
 > [!abstract]- Also Present:
-> J. Pribil, S. Trosow, A. Hopkins, E. Peloza, J. Adema, S. Baldwin, S. Chambers, M. Corby, I. de Couster, L. Dent, K. Edwards, K. Gonyou, M. Greguol, J. Hall,
+> J. Pribil, S. Trosow, A. Hopkins, E. Peloza, J. Adema, S. Baldwin, S. Chambers, M. Corby, I. de Couster, L. Dent, K. Edwards, K. Gonyou, M. Greguol, J. Hall, B. House, A. Hovius, B. Lambert, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, N. Pasato, M. Pease, A. Rammeloo, J.W. Taylor
 
 > [!abstract]- Remote Attendance:
 > S. Grady, E. Hunt, P. Kavcic, E. Skalski, S. Tatavarti

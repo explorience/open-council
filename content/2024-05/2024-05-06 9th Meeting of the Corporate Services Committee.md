@@ -10,10 +10,10 @@ May 6, 2024, at  1:00 PM
 > H. McAlister, P. Cuddy, S. Stevenson, C. Rahman, P. Van Meerbergen, J. Morgan
 
 > [!abstract]- Also Present:
-> Also present:  J. Pribil, A. Hopkins, S. Franke, S. Datars Bere, A. Barbon, I. Collins, D. Escobar, M. Feldberg, J. McMillan, S. Mollon, J. Paradis, T. Pollitt, E. Skalski, B. Warner.
+> J. Pribil, A. Hopkins, S. Franke, S. Datars Bere, A. Barbon, I. Collins, D. Escobar, M. Feldberg, J. McMillan, S. Mollon, J. Paradis, T. Pollitt, E. Skalski, B. Warner.
 
 > [!abstract]- Remote Attendance:
-> Remote attendance:  E. Peloza, M. Barnes, S. Corman, J. Dann, A. Hagan, E. Hunt, M. Schulthess.
+> E. Peloza, M. Barnes, S. Corman, J. Dann, A. Hagan, E. Hunt, M. Schulthess.
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

@@ -571,6 +571,125 @@ Need to amend clause c) after the meeting.
 
 Members of the public speaking to item: M. Tackabury, Brent from UTRCA, R. Curry,
 
+> Moved by S. Lewis
+
+> Seconded by C. Rahman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the properties located at 2331 Kilally Road and 1588 Clarke Road:
+
+a)    the proposed by-law appended to the staff report dated April 30, 2024 as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024 to amend the Official Plan for the City of London, 2016 to:
+
+i)    REVISE Map 1 – Place Types – to redesignate a portion of the subject lands FROM a Neighbourhoods Place Type TO a Green Space Place Type.
+
+ii)    REVISE Map 3 – Street Classifications - to ADD Neighbourhood Connector and Civic Boulevard street classifications;
+
+iii)    REVISE Map 5 – Natural Heritage - to AMEND the limits of the Environmentally Significant Area (ESA) boundary;
+
+iv)    ADD a new Specific Policy to the Neighbourhoods Place Type on the westerly portion of the subject lands to permit triplexes, fourplexes, stacked townhouses, low-rise apartments, small-scale community facilities, emergency care establishments, and rooming houses, and to permit a maximum height of six (6) storeys or 20 metres; and,
+
+v)    ADD the westerly portion of the subject lands to Map 7 – Specific Policy Areas;
+
+b)    the proposed by-law appended to the staff report dated April 30, 2024 as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016 as amended in part a) above), to change the zoning of the subject lands FROM an Urban Reserve (UR4) Zone, an Urban Reserve/Temporary (UR4-T-56) Zone and a Holding Urban Reserve (h-2-UR4) Zone TO a Holding Residential R1 (h-17-h-100-R1-4) Zone; a Holding Residential R1 Special Provision (h-17-h-100-R1-4(21)) Zone; a Holding Residential R1/Residential R3 Special Provision (h-17-h-100-R1-3/R3-1(*)) Zone; a Holding Residential R1/Residential R3 Special Provision/Residential R4 Special Provision (h-17-h-100-R1-1/R3-1(**)/R4-6(_)) Zone; a Holding Residential R1/Residential R3 Special Provision/Residential R4 Special Provision (h-17-h-100-R1-2/R3-1(**)/R4-6(_)) Zone; a Holding Residential R3/Residential R4 Special Provision/Residential R5/Residential R6/Residential R7/Residential R8 (h-17-h-100-R3-3/R4-6( _)/R5-7/R6-5/R7-H20-D100/R8-4-H20-D100) Zone; an Open Space (OS1) Zone; and an Open Space (OS4/OS5) Zone; and an amendment to Subsection 4.21 of the Zoning By-law General Provisions to delete the street classification of Kilally Road, 200 metres east of Clarke Road, as a ‘Proposed Arterial’;
+
+c)    the Approval Authority BE ADVISED that the following issues were raised at the public participation meeting with respect to the application for Draft Plan of Residential Subdivision relating to the properties located at located at 2331 Kilally Road and 1588 Clarke Road:
+
+i)    request to add a Neighbourhood Facility Zone to Blocks 22, 23 and 24 along the western extent of the Draft Plan to accommodate a school to meet future needs;
+
+ii)    request to rename the subdivision to include the name Tackabury as there have been seven generations of Tackabury’s living on the land;
+
+iii)    concerns with the second public access to the south of the proposed development as the applicant needs to purchase more than 50% of the existing Upper Thames River Conservation Authority UTRCA) private entrance that currently serves as the UTRCA main access road and the entrance to Fanshawe Conservation Area as this will be required for a municipal right of way;
+
+iv)    the proposed development will impact the UTRCA’s stacking ability for nearly every long weekend of the Fanshawe Conservation Area camping season and every community event held there;
+
+v)    request that feasibility studies and design and engineering alternatives be initiated and not be a financial burden to the UTRCA;
+
+vi)    ensure that the Z-662 for setback requirement for the existing pipeline is followed; 
+
+vii)    ensure that encroachment does not happen on the pipeline easement corridor;
+
+d)    the Site Plan Approval Authority BE REQUESTED to consider the following design issue through the site plan process:
+
+i)    a noise impact assessment and appropriate attenuation measures are incorporated into the design of future residential development blocks with exposure to road noise on Clarke Road;
+
+d)    the Approval Authority BE ADVISED that Municipal Council supports issuing draft approval of the proposed plan of residential subdivision subject to draft plan conditions recommended by the Approval Authority, submitted by Sifton Properties Limited, prepared by Monteith Brown Planning Consultants (Project No. 12-824 ), certified by Jason Wilband O.L.S., dated February 29, 2024, as red-line amended, which shows a total of thirteen (13) low density residential blocks; eight (8) low-medium density residential street townhouse blocks; three (3) large medium density residential blocks; six (6) park blocks; one (1) future development block; one (1) block for Stormwater Management (SWM) Pond; seven (7) road widening and reserve blocks; served by a neighbourhood connector and several neighbourhood streets (Kilally Road extension and Streets A, B, C, D & E)
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+-    M. Paluch, Monteith Brown Planning Consultants;
+
+-    A. Haasen, Sifton Properties Limited;
+
+-    M. Tackabury;
+
+-    B. Verscheure, Upper Thames River Conservation Authority; and,
+
+-    R. Currie, Sun Canadian Pipeline;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended amendments are consistent with the Provincial Policy Statement 2020 which promote densities that efficiently use land, resources, and infrastructure, and neighbourhoods that foster social interaction, facilitate active transportation and community connectivity;
+
+-    the recommended amendments conform to the policies of The London Plan, including, but not limited to, the Neighbourhoods Place Type, City Building and Design, Environmental, Our Tools, and all other applicable policies of The London Plan; 
+
+-    the recommended amendments are appropriate and compatible with existing and future land uses surrounding the subject lands; and,
+
+-    the recommended zoning will support the proposed Draft Plan of Subdivision and facilitate an appropriate form, height, and mix of low and medium density residential development in conformity with The London Plan, as amended;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.  (2024-D14)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |S. Lewis|
+> |S. Hillier|
+> |S. Lehman|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (5 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by C. Rahman
+
+> Seconded by S. Lewis
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |S. Lewis|
+> |S. Hillier|
+> |S. Lehman|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (5 to 0)**
+
+****
+
+> Moved by S. Lewis
+
+> Seconded by S. Franke
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |S. Lewis|
+> |S. Hillier|
+> |S. Lehman|
+> |S. Franke|
+> |C. Rahman|
+
+> **Motion Passed (5 to 0)**
+
+****
+
 # 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Upper Thames River Conservation Authority Service Level Review 

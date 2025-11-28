@@ -13,7 +13,7 @@ November 5, 2024, at  1:00 PM
 > S. Datars Bere, A. Barbon, S. Corman, M. Daley, K. Dickins, D. Escobar, S. Mathers, H. McNeely, T. Pollitt, R. Ruddy, K. Scherr, M. Schulthess, E. Skalski, C. Smith, B. Warner
 
 > [!abstract]- Remote Attendance:
-> E. Bennett, C. Cooper, E. Hunt, J. Irel, D. Kramers, K. Murray
+> E. Bennett, C. Cooper, E. Hunt, J. Ireland, D. Kramers, K. Murray
 
 The meeting is called to order at 1:04 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 

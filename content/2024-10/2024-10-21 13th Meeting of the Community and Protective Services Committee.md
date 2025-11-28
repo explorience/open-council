@@ -10,12 +10,17 @@ October 21, 2024, at  1:00 PM
 > D. Ferreira, H. McAlister, J. Pribil, S. Trosow, E. Peloza
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, A. Abraham, E. Bennett, M. Butlin, I. Collins, K. Dickins, D. Escobar, S. Glover, O. Katolyk, S. Mathers, J.P. McGonigle, K. Scherr, J. Smit, C. Smith, P. Yeoman, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> Deputy  S. Lewis, A. Abraham, E. Bennett, M. Butlin, I. Collins, K. Dickins, D. Escobar, S. Glover, O. Katolyk, S. Mathers, J.P. McGonigle, K. Scherr, J. Smit, C. Smith, P. Yeoman, J. Bunn   
+> 
+> 
+> 
 > E. Hunt, L. Marshall, E. Skalski, L. Stewart
+> 
+> 
+> 
+> The meeting was called to order at 1:01 PM.
 
-The meeting was called to order at 1:01 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

@@ -10,10 +10,10 @@ December 9, 2024, at  1:00 PM
 > C. Rahman, J. Pribil, A. Hopkins, S. Franke, P. Van Meerbergen
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, A. Barbon, S. Chambers, I. Collins, J. Dann, P. Ladouceur, D. MacRae, K. Murray, T. Pollitt, A. Rammeloo, A. Rozental, R. S,erson, K. Scherr, E. Skalski, B. Warner
+> S. Datars Bere, A. Abraham, A. Barbon, S. Chambers, I. Collins, J. Dann, P. Ladouceur, D. MacRae, K. Murray, T. Pollitt, A. Rammeloo, A. Rozental, R. Sanderson, K. Scherr, E. Skalski, B. Warner
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: E. Bennett, E. Hunt, A. Ripepi
+> E. Bennett, E. Hunt, A. Ripepi
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

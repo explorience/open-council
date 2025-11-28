@@ -436,6 +436,136 @@ b)    DELEGATE to the Deputy City Manager, Social and Health Development and t
 
 ### 8.2.7&nbsp;&nbsp;&nbsp;[(2.5)](</2024-04/2024-04-29 6th Meeting of the Community and Protective Services Committee#25core-area-parking-incentives-extension>) Core Area Parking Incentives Extension 
 
+> Motion made by D. Ferreira
+
+That the following actions be taken with respect to the staff report, dated April 29, 2024, related to the Core Area Parking Incentives Extension:
+
+a)    the above-noted staff report BE RECEIVED; and,
+
+b)    the Civic Administration BE DIRECTED to look further into the issues contained within the attached submission from Ark Aid London that was distributed to members of council;
+
+it being noted that the communications, as appended to the Added Agenda, from B. Maly and S.A. Collyer, R. Bernardi and G. Gastaldi, with respect to this matter, were received. (2024- T02)
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by Mayor J. Morgan
+
+That the motion BE AMENDED to include the following new parts:
+
+c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024;
+
+d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amount of $300,000, BE APPROVED from the Economic Development Reserve Fund;
+
+e) the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024;
+
+f) the financing for a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village, in the estimated amount of $30,000, BE APPROVED from the Economic Development Reserve Fund;
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Trosow|E. Peloza|
+> |A. Hopkins|S. Franke||
+> |S. Lewis|C. Rahman||
+> |S. Hillier|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |D. Ferreira|||
+
+> **Motion Passed (11 to 3)**
+
+****
+
+> Motion made by D. Ferreira
+
+> Seconded by P. Van Meerbergen
+
+That parts a) and b) BE APPROVED to read as follows:
+
+a)    the above-noted staff report BE RECEIVED; and,
+
+b)    the Civic Administration BE DIRECTED to look further into the issues contained within the attached submission from Ark Aid London that was distributed to members of council;
+
+it being noted that the communications, as appended to the Added Agenda, from B. Maly and S.A. Collyer, R. Bernardi and G. Gastaldi, with respect to this matter, were received. (2024- T02)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|E. Peloza|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |P. Van Meerbergen||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (14 to 0)**
+
+****
+
+> Motion made by D. Ferreira
+
+> Seconded by P. Van Meerbergen
+
+That parts c), d), e) and f) BE APPROVED to read as follows:
+
+c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024;
+
+d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amount of $300,000, BE APPROVED from the Economic Development Reserve Fund;
+
+e) the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024;
+
+f) the financing for a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village, in the estimated amount of $30,000, BE APPROVED from the Economic Development Reserve Fund;
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Trosow|E. Peloza|
+> |A. Hopkins|S. Franke||
+> |S. Lewis|C. Rahman||
+> |S. Hillier|||
+> |P. Van Meerbergen|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |D. Ferreira|||
+
+> **Motion Passed (11 to 3)**
+
+Item 7, clause 2.5, as amended, reads as follows:
+
+That the following actions be taken with respect to the staff report, dated April 29, 2024, related to the Core Area Parking Incentives Extension:
+
+a)    the above-noted staff report BE RECEIVED; and,
+
+b)    the Civic Administration BE DIRECTED to look further into the issues contained within the attached submission from Ark Aid London that was distributed to members of council;
+
+c)    the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024;
+
+d)    the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amount of $300,000, BE APPROVED from the Economic Development Reserve Fund;
+
+e)    the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024;
+
+f)    the financing for a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village, in the estimated amount of $30,000, BE APPROVED from the Economic Development Reserve Fund;
+
+it being noted that the communications, as appended to the Added Agenda, from B. Maly and S.A. Collyer, R. Bernardi and G. Gastaldi, with respect to this matter, were received. (2024- T02)
+
+****
+
 ## 8.3&nbsp;&nbsp;&nbsp;7th Report of the Civic Works Committee
 
 [2024-04-30 CWC Report](</2024-04/2024-04-30 7th Meeting of the Civic Works Committee>)

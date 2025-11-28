@@ -10,7 +10,7 @@ October 22, 2024, at  9:30 AM
 > A. Hopkins, J. Pribil, S. Trosow, S. Franke, D. Ferreira
 
 > [!abstract]- Also Present:
-> P. Van Meerbergen, G. Dales, J. Dann, D. Freeman, S. Grady, D. MacRae, K. Murray, Z. Nsair, K. Oudekerk, A. Rammeloo, A. Rozentals, K. Scherr, P. Sh, J. Stanford, K. Mason
+> P. Van Meerbergen, G. Dales, J. Dann, D. Freeman, S. Grady, D. MacRae, K. Murray, Z. Nsair, K. Oudekerk, A. Rammeloo, A. Rozentals, K. Scherr, P. Shand, J. Stanford, K. Mason
 
 > [!abstract]- Remote Attendance:
 > E. Bennett, E. Skalski
@@ -20,6 +20,25 @@ The meeting was called to order at 9:32 AM; it being noted that Councillors J. P
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
+
+> Moved by S. Trosow
+
+> Seconded by S. Franke
+
+That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Civic Works Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |A. Hopkins|
+> |J. Pribil|
+> |S. Trosow|
+> |S. Franke|
+> |D. Ferreira|
+
+> **Motion Passed (5 to 0)**
+
+****
 
 # 6.&nbsp;&nbsp;&nbsp;Confidential 
 

@@ -10,12 +10,17 @@ March 19, 2024, at  9:30 AM
 > A. Hopkins, J. Pribil, S. Trosow, S. Franke, D. Ferreira
 
 > [!abstract]- Also Present:
-> E. Peloza, K. Chambers, S. Chambers, J. Dann, K. Dawtrey, U. de C,ido, D. Escobar, T. Koza, D. MacRae, S. Maguire, A. Rammeloo, A. Rozentals, K. Scherr, J. Stanford, J. Yanchula, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> E. Peloza, K. Chambers, S. Chambers, J. Dann, K. Dawtrey, U. de Candido, D. Escobar, T. Koza, D. MacRae, S. Maguire, A. Rammeloo, A. Rozentals, K. Scherr, J. Stanford, J. Yanchula, J. Bunn  
+> 
+> 
+> 
 > Deputy  S. Lewis, S. Corman, D. Freeman, E. Hunt, E. Skalski, L. Stewart, P. Yeoman
+> 
+> 
+> 
+> The meeting was called to order at 9:30 AM.
 
-The meeting was called to order at 9:30 AM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

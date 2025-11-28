@@ -10,12 +10,17 @@ March 18, 2024, at  1:00 PM
 > E. Peloza, H. McAlister, J. Pribil, S. Trosow, D. Ferreira
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, S. Stevenson, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, C. Green, S. Govindaraj, Deputy Fire Chief M. Hepditch, T. Johnson, O. Katolyk, E. Ling, L. Marshall, S. Mathers, J.P. McGonigle, K. Pawelec, K. Scherr, C. Smith, J. Tansley, J. Bunn
+> Deputy  S. Lewis, S. Stevenson, C. Cooper, K. Dickins, D. Escobar, M. Feldberg, C. Green, S. Govindaraj, Deputy Fire Chief M. Hepditch, T. Johnson, O. Katolyk, E. Ling, L. Marshall, S. Mathers, J.P. McGonigle, K. Pawelec, K. Scherr, C. Smith, J. Tansley, J. Bunn  
+> 
+> 
+> 
+>  S. Lehman, C. Rahman, S. Corman, E. Hunt, M. Schulthess, E. Skalski, P. Yeoman
+> 
+> 
+> 
+> The meeting was called to order at 1:01 PM.
 
-> [!abstract]- Remote Attendance:
-> S. Lehman, C. Rahman, S. Corman, E. Hunt, M. Schulthess, E. Skalski, P. Yeoman
 
-The meeting was called to order at 1:01 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

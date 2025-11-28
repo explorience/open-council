@@ -16,7 +16,7 @@ November 18, 2024, at  1:00 PM
 > J. Pribil, S. Datars Bere, A. Abraham, B. Baar, A. Barbon, I. Collins, M. Daley, D. Escobar, T. Pollitt, E. Skalski, B. Warner, J. Wills
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: E. Bennett, E. Hunt
+> E. Bennett, E. Hunt
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 

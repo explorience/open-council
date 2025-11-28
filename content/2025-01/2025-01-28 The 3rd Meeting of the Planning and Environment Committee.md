@@ -13,12 +13,17 @@ January 28, 2025, at  1:00 PM
 > P. Cuddy
 
 > [!abstract]- Also Present:
-> D. Ferreira, M. Butlin, M. Corby, L. Dent, K. Edwards, M Espinoza, D. Escobar, K. Gonyou, K. Hodgins, A. Hovius, P. Kavcic, M. Macaulay, S. Mathers, H. McNeely, B. Page, A. Shaw, K. Mason
-
-> [!abstract]- Remote Attendance:
+> D. Ferreira, M. Butlin, M. Corby, L. Dent, K. Edwards, M Espinoza, D. Escobar, K. Gonyou, K. Hodgins, A. Hovius, P. Kavcic, M. Macaulay, S. Mathers, H. McNeely, B. Page, A. Shaw, K. Mason 
+> 
+> 
+> 
 > S. Corman, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 1:02 PM.
 
-The meeting was called to order at 1:02 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

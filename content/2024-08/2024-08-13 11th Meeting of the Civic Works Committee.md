@@ -10,12 +10,17 @@ August 13, 2024, at  9:30 AM
 > A. Hopkins, J. Pribil, S. Trosow, S. Franke, D. Ferreira, J. Morgan
 
 > [!abstract]- Also Present:
-> H. McAlister, G. Dales, J. Dann, D. Escobar, A. Hovius, D. MacRae, R. Patel, A. Rammeloo, K. Scherr, A. Spahiu, J. Stanford, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> H. McAlister, G. Dales, J. Dann, D. Escobar, A. Hovius, D. MacRae, R. Patel, A. Rammeloo, K. Scherr, A. Spahiu, J. Stanford, J. Bunn    
+> 
+> 
+> 
 > E. Hunt, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 9:30 AM.
 
-The meeting was called to order at 9:30 AM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

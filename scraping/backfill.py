@@ -112,4 +112,11 @@ print("="*70)
 print_processing_results("✅ successfully processed", processed_list)
 print_processing_results("❌ could not be processed", error_list)
 
+# Print final summary
+total_with_minutes = len(processed_list) + len(error_list) + len(already_downloaded)
+print(f"\n{len(processed_list):,} successfully processed (new)")
+print(f"{len(error_list):,} failed")
+print(f"{len(already_downloaded):,} already downloaded (skipped)")
+print(f"Total with minutes: {total_with_minutes:,}")
+
 print()

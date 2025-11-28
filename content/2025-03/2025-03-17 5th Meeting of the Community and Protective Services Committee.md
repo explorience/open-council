@@ -10,12 +10,17 @@ March 17, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow, J. Morgan
 
 > [!abstract]- Also Present:
-> S. Stevenson, C. Rahman, A. Hopkins, S. Franke, S. Datars Bere, M. Butlin, C. Cooper, K. Dickins, D. Escobar, T. Fowler, S. Govindaraj, J. Ireland, O. Katolyk, S. Mathers, J.P. McGonigle, K. Scherr, E. Skalski, J. Smit, C. Smith, J. Stanford, J. Tansley, R. Wilcox, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> S. Stevenson, C. Rahman, A. Hopkins, S. Franke, S. Datars Bere, M. Butlin, C. Cooper, K. Dickins, D. Escobar, T. Fowler, S. Govindaraj, J. Ireland, O. Katolyk, S. Mathers, J.P. McGonigle, K. Scherr, E. Skalski, J. Smit, C. Smith, J. Stanford, J. Tansley, R. Wilcox, J. Bunn     
+> 
+> 
+> 
 > Deputy  S. Lewis, E. Peloza, S. Hillier, E. Bennett, S. Corman, E. Hunt, D. Kramers, M. Schulthess
+> 
+> 
+> 
+> The meeting was called to order at 1:01 PM.
 
-The meeting was called to order at 1:01 PM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

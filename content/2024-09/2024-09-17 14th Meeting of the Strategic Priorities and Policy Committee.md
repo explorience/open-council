@@ -10,7 +10,7 @@ September 17, 2024, at  1:00 PM
 > S. Lewis, H. McAlister, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Barbon, J. Bruin, M. Campbell, S. Corman, K. Dickins, D. Escobar, S. Mathers, J. McGonigle, K. Pawelec, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, M. Tomazincic, M. V,ertuin, P. Yeoman
+> S. Datars Bere, A. Barbon, J. Bruin, M. Campbell, S. Corman, K. Dickins, D. Escobar, S. Mathers, J. McGonigle, K. Pawelec, J. Paradis, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, M. Tomazincic, M. Vandertuin, P. Yeoman
 
 > [!abstract]- Remote Attendance:
 > K. Murray

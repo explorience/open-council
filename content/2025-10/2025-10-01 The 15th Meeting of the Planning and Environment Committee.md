@@ -10,12 +10,17 @@ October 1, 2025, at  1:00 PM
 > S. Lehman, S. Lewis, P. Cuddy, E. Peloza, S. Hillier
 
 > [!abstract]- Also Present:
-> J. Pribil, A. Hopkins, J. Adema, M. Clarke, D. Escobar, M. Feldberg, K. Gonyou, S. Grady, M. Greguol, T. Hitchon, B. Lambert, T. Macbeth, S. Mathers, C. Maton, H. McNeely, N. Musicco, B. O'Hagan, A. Riley, P. Shand, A. Shaw, M. Tomazincic, M. Vivian, K. Mason
+> J. Pribil, A. Hopkins, J. Adema, M. Clarke, D. Escobar, M. Feldberg, K. Gonyou, S. Grady, M. Greguol, T. Hitchon, B. Lambert, T. Macbeth, S. Mathers, C. Maton, H. McNeely, N. Musicco, B. O'Hagan, A. Riley, P. Shand, A. Shaw, M. Tomazincic, M. Vivian, K. Mason 
+> 
+> 
+> 
+>  C. Rahman, D. Ferreira, E. Hunt, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 1: 02 PM, it being noted that  S. Hillier was in remote attendance.
 
-> [!abstract]- Remote Attendance:
-> C. Rahman, D. Ferreira, E. Hunt, E. Skalski
 
-The meeting was called to order at 1: 02 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

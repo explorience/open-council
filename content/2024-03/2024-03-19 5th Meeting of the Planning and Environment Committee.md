@@ -10,7 +10,7 @@ March 19, 2024, at  1:00 PM
 > S. Lehman, S. Lewis, C.Rahman, S. Franke, S. Hillier
 
 > [!abstract]- Also Present:
-> J. Pribil, A. Hopkins, D. Ferreira, J. Adema, G. Bailey, C. Cernanec, M. Corby, B. Coveney, I. de Ceuster, K. Edwards, A. Eiveri, D. Escobar, K. Gonyou, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, J. Lee, T. Macbeth, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, B. Page, M. Pease, M. Tomazincic, D. V,er Pryt, K. Wilding, J. Yanchula
+> J. Pribil, A. Hopkins, D. Ferreira, J. Adema, G. Bailey, C. Cernanec, M. Corby, B. Coveney, I. de Ceuster, K. Edwards, A. Eiveri, D. Escobar, K. Gonyou, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, J. Lee, T. Macbeth, S. Mathers, C. Maton, H. McNeely, B. O'Hagan, B. Page, M. Pease, M. Tomazincic, D. Vander Pryt, K. Wilding, J. Yanchula
 
 > [!abstract]- Remote Attendance:
 > M. Clark, S. Grady, D. Harpal, E. Hunt, E. Skalski, S. Thompson

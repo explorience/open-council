@@ -53,7 +53,18 @@ class Attachment(Content):
     meeting_type = get_meeting_type(self.title)
 
     match_str = DATE_PAT.search(self.title)
-    self.date = datetime.strptime(match_str.group(0), "%Y-%m-%d") if match_str else None
+    if match_str:
+        date_str = match_str.group(0)
+        try:
+            month = int(date_str[5:7])
+            if 1 <= month <= 12:
+                self.date = datetime.strptime(date_str, "%Y-%m-%d")
+            else:
+                self.date = orig_datetime  # Invalid month - use parent meeting's date
+        except ValueError:
+            self.date = orig_datetime
+    else:
+        self.date = orig_datetime
 
     if self.date:
       # don't link back to current meeting (happens when attachments are miscategorized)

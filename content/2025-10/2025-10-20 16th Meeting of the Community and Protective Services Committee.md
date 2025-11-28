@@ -10,12 +10,17 @@ October 20, 2025, at  1:00 PM
 > D. Ferreira, H. McAlister, P. Cuddy, J. Pribil, S. Trosow
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, E. Peloza, S. Datars Bere, A. Abraham, Y. Adare-Bediako, S. Chambers, J. Dann, K. Dickins, S. Govindaraj, M. Losee, L. Marshall, S. Mathers, J.P. McGonigle, M. Pease, A. Pfeffer, S. Purhar, G. Sanders, K. Scherr, P. Shand, E. Skalski, C. Smith, J. Bunn
+> Deputy  S. Lewis, E. Peloza, S. Datars Bere, A. Abraham, Y. Adare-Bediako, S. Chambers, J. Dann, K. Dickins, S. Govindaraj, M. Losee, L. Marshall, S. Mathers, J.P. McGonigle, M. Pease, A. Pfeffer, S. Purhar, G. Sanders, K. Scherr, P. Shand, E. Skalski, C. Smith, J. Bunn       
+> 
+> 
+> 
+>  S. Stevenson, E. Bennett, C. Cooper, S. Corman, E. Hunt, K. Oudekerk, S. Tatavarti
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM.
 
-> [!abstract]- Remote Attendance:
-> S. Stevenson, E. Bennett, C. Cooper, S. Corman, E. Hunt, K. Oudekerk, S. Tatavarti
 
-The meeting was called to order at 1:00 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

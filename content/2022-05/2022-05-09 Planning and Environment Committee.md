@@ -1,0 +1,675 @@
+---
+title: Planning and Environment Committee
+date: 2022-05-09
+---
+May 9, 2022, at  4:00 PM
+
+[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f5dae277-d292-4378-8824-52520b7aca3e&Agenda=PostMinutes&lang=English)
+
+> [!abstract]- Present:
+> A. Hopkins, S. Lewis, S. Lehman, S. Turner
+
+> [!abstract]- Absent:
+> S. Hillier, E. Holder
+
+> [!abstract]- Also Present:
+> J. Fyfe-Millar, H. Lysynski, J. W. Taylor
+
+> [!abstract]- Remote Attendance:
+> M. van Holst, M. Cassidy, J. Adema, A. Anderson, G. Barrett, J. Bunn, A. Curtis, I. de Ceuster, K. Edwards, M. Feldberg, J. Hall, J. MacKay, P. Kokkoros, S. Mathers, B. Page, A. Pascual, M. Schulthess, S. Tatavarti, S. Thompson, M. Vivian, J. Yanchula
+
+The meeting was called to order at 4:01 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Consent
+
+> Moved by S. Lehman
+
+> Seconded by S. Turner
+
+That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+## 2.1&nbsp;&nbsp;&nbsp;5th Report of the Environmental and Ecological Planning Advisory Committee
+
+[2022-04-21 EEPAC Report - FULL](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92699>)
+
+> Moved by S. Lehman
+
+> Seconded by S. Turner
+
+That, the following actions be taken with respect to the 5th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on April 21, 2022:
+
+a)  the Working Group report relating to the property located at 7098-7118 Kilbourne Road BE REFERRED to the Civic Administration for consideration;
+
+b) the Working Group report relating to the property located at 1140 Fanshawe Park Road East BE REFERRED to the Civic Administration for consideration;
+
+c)  on the advice of the Civic Administration, the proposed draft Goldfish brochure BE FORWARDED to the new Ecological Community Advisory Committee for discussion, and to Corporate Communications for review;
+
+d) on the advice of the Civic Administration, the Wetland Relocation Lessons Learned document BE PROVIDED to the Ecological Community Advisory Committee for discussion;
+
+e)  the Working Group comments relating to the property located at 1349 Western Road BE FORWARDED to the Civic Administration for consideration; and,
+
+f) clauses 1.1, 3.1 to 3.3, inclusive, BE RECEIVED for information.
+
+> **Motion Passed**
+
+****
+
+## 2.3&nbsp;&nbsp;&nbsp;1345 Cranbrook Road and 1005 Longworth Road (P-9488)
+
+[2022-05-09 PEC SR 1345 Cranbrook Rd and 1005 Longworth Rd - P-9488](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92693>)
+
+> Moved by S. Lehman
+
+> Seconded by S. Turner
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Craig Linton (Norquay Developments), to exempt lands located at 1345 Cranbrook Road and 1005 Longworth Road, legally described as Blocks 28 & 29, Plan 33M-657, from Part-Lot Control:
+
+a) pursuant to subsection 50(7) of the Planning Act, R.S.O. 1990, c. P.13, the proposed by-law appended to the staff report dated May 9, 2022 BE INTRODUCED at a future Municipal Council meeting, to exempt Block 28 & 29, Plan 33M-657 from the Part-Lot Control provisions of subsection 50(5) of the said Act; it being noted that these lands are subject to a registered subdivision agreement; and further noting that the applicant has applied for a zoning by-law amendment to change the zoning of the subject lands from an Urban Reserve UR2 Zone to a Residential R1 (R1-8) Zone in Zoning By-law No. Z.-1 to permit single detached dwellings;
+
+b) the following conditions of approval BE REQUIRED to be completed prior to the passage of a Part-Lot Control By-law for Blocks 28 & 29, Plan 33M-657, as noted in clause a) above:
+
+i)  the applicant be advised that the cost of registration of the said by-laws is to be borne by the applicant in accordance with City Policy;
+
+ii) that appropriate zoning shall be in effect for the subject blocks, prior to passage of the Part-Lot Control By-law;
+
+iii)  the applicant submit a draft reference plan to the City for review and approval to ensure the proposed part lots and development plans comply with the regulations of the Zoning By-law, prior to the reference plan being deposited in the land registry office;
+
+iv) the applicant submits to the City a digital copy together with a hard copy of each reference plan to be deposited.  The digital file shall be assembled in accordance with the City of London's Digital Submission / Drafting Standards and be referenced to the City’s NAD83 UTM Control Reference;
+
+v)  the applicant submit each draft reference plan to London Hydro showing driveway locations and obtain approval for hydro servicing locations and above ground hydro equipment locations prior to the reference plan being deposited in the land registry office;
+
+vi) the applicant submit to the City for review and approval, prior to the reference plan being deposited in the land registry office, any revised lot grading and servicing plans in accordance with the final lot layout to divide the blocks should there be further division of property contemplated as a result of the approval of the reference plan;
+
+vii) the applicant shall enter into any amending subdivision agreement with the City, if necessary;
+
+viii)  the applicant shall agree to construct all services, including private drain connections and water services, in accordance with the approved final design of the lots;
+
+ix)  the applicant shall obtain confirmation from the City that the assignment of municipal numbering has been completed in accordance with the reference plan(s) to be deposited, should there be further division of property contemplated as a result of the approval of the reference plan prior to the reference plan being deposited in the land registry office;
+
+x)  the applicant shall obtain approval from the City of each reference plan to be registered prior to the reference plan being registered in the land registry office;
+
+xi) the applicant shall submit to the City, confirmation that an approved reference plan for final lot development has been deposited in the Land Registry Office;
+
+xii)  the applicant shall obtain clearance from the City that requirements v), vi) and vii) inclusive, outlined above, are satisfactorily completed, prior to any issuance of building permits by the Building Division for lots being developed in any future reference plan;
+
+xiii) that on notice from the applicant that a reference plan has been registered, and that conveyance of the registered part lots has occurred, that Part Lot Control be re-established by the repeal of the bylaw affecting the Lot/Block in question; and,
+
+xiv)   the applicant shall register on title and include in all Purchase and Sale Agreements for the lot at the northeast corner of Cranbrook Road and Longworth Road, identified as Part 8 on the draft reference plan, a requirement that the purchaser/home builder provide concept plans and elevations prior to the application for a building permit which demonstrate that both elevations facing the streets (the front and exterior side elevations) are designed as front elevations. Both elevations should be constructed to have a similar level of architectural details (materials, windows (size and amount) and design features, such as but not limited to porches, wrap-around materials and features, or other architectural elements that provide for street-oriented design) and limited chain link or decorative fencing along no more than 50% of the exterior side-yard abutting the exterior side-yard frontage, to the satisfaction of the City.   (2022-D25)
+
+> **Motion Passed**
+
+****
+
+## 2.4&nbsp;&nbsp;&nbsp;Building Division Monthly Report - February, 2022
+
+[2022-05-09 SR Building Division Monthly Report - February 2022](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92700>)
+
+> Moved by S. Lehman
+
+> Seconded by S. Turner
+
+That the Building Division Monthly report for February, 2022 BE RECEIVED for information.  (2022-A23)
+
+> **Motion Passed**
+
+****
+
+## 2.2&nbsp;&nbsp;&nbsp;Community Improvement Plan (CIP) Financial Incentives Program 5-Year Review
+
+[2022-05-09 PEC SR Community Improvement Plan Financial Incentives Program 5-Year Review](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92697>)
+
+> Moved by S. Turner
+
+> Seconded by S. Lewis
+
+That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the evaluation of Community Improvement Plan incentives:
+
+ 
+
+a) the staff report dated May 9, 2022 entitled "Community Improvement Plan (CIP) Financial Incentive Programs 5-Year Review", with respect to the evaluation of Community Improvement Plan incentives, BE RECEIVED;
+
+ 
+
+b) the Civic Administration BE DIRECTED to report back at a future meeting of the Planning and Environment Committee with a comprehensive review, including a sensitivity analysis, of the City’s existing Community Improvement Plans and associated financial incentives; and,
+
+c) the Civic Administration BE DIRECTED to report back at a future meeting with preliminary information for the 2024-2027 multi-year Budget.   (2022-D19)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
+
+## 3.1&nbsp;&nbsp;&nbsp;3101 Petty Road and 3047 White Oak Road (39CD-22501)
+
+[2022-05-09 PEC SR 3101 Petty Road and 3047 White Oak Road - 39CD-22501](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92695>)
+
+> Moved by S. Turner
+
+> Seconded by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2831570 Ontario Inc., relating to the property located at 3101 Petty Road and 3047 White Oak Road:
+
+a)  the Approval Authority BE ADVISED that no issues were raised at the public meeting with respect to the application for Draft Plan of Vacant Land Condominium relating to the property located at 3101 Petty Road and 3047 White Oak Road; and,
+
+b)  the Approval Authority BE ADVISED that no issues were raised at the public meeting with respect to the Site Plan Approval application relating to the property located at 3101 Petty Road and 3047 White Oak Road;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with this matter:
+
+-    S. Allen, MHBC.  (2022-D07)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by S. Turner
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Lewis
+
+> Seconded by S. Lehman
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+## 3.2&nbsp;&nbsp;&nbsp;3557 Colonel Talbot Road (39CD-21519)
+
+[2022-05-09 PEC SR  3557 Colonel Talbot Road - 39CD-21519](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92696>)
+
+> Moved by S. Lewis
+
+> Seconded by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2749282 Ontario Inc., relating to the property located at 3557 Colonel Talbot Road:
+
+a)    the Approval Authority BE ADVISED that issues were raised at the public meeting with respect to the application for Draft Plan of Vacant Land Condominium relating to the property located at 3557 Colonel Talbot Road, relating to uncertainty relating to the common element; and,
+
+b)    the Approval Authority BE ADVISED that the following issues were raised at the public meeting with respect to the Site Plan Approval application relating to the property located at 3557 Colonel Talbot Road;
+
+i)    concerns with respect to the lack of a proposed fence on the south side of the property; and,
+
+ii)    uncertainty relating to the common element;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with this matter:
+
+-    M. Campbell, Zelinka Priamo Ltd.; and,
+
+-    N. Khamidbayev, 3596 Isaac Court.   (2022-D07)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by S. Lewis
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by S. Lewis
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+## 3.3&nbsp;&nbsp;&nbsp;1345 Cranbrook Road and 1005 Longworth Road (Z-9487)
+
+[2022-05-09 PEC SR 1345 Cranbrook Rd and 1005 Longworth Rd - Z-9487](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92694>)
+
+> Moved by S. Lehman
+
+> Seconded by S. Turner
+
+That, on the recommendation of the Director, Planning and Development, based on the application by Craig Linton (Norquay Developments), relating to lands located at 1345 Cranbrook Road and 1005 Longworth Road, the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on May 24, 2022 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM an Urban Reserve UR2 Zone TO a Residential R1 Special Provision (R1-8(  )) Zone;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with this matter:
+
+*  C. Linton, Norquay Developments;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+-    the recommended zoning by-law amendment is consistent with the Provincial Policy Statement;
+
+-    the recommended zoning conforms to the in-force polices of The London Plan, including but not limited to the Neighbourhoods Place Type, Our Strategy, City Building and Design, Our Tools, and all other applicable London Plan policies;
+
+-    the recommended zoning conforms to the policies of the (1989) Official Plan, including but not limited to the Low Density Residential designation; and,
+
+-    the zoning will permit single detached dwellings which are appropriate and compatible with existing and future planned development in the area, and consistent with  zoning applied to residential uses along Cranbrook Road and Longworth Road within Crestwood West Subdivision - Phase 2.   (2022-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Lewis
+
+> Seconded by S. Turner
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Lewis
+
+> Seconded by S. Lehman
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+## 3.4&nbsp;&nbsp;&nbsp;346, 370 and 392 South Street and 351, 373 and 385 Hill Street - Revised Draft Plan of Vacant Land Condominium (39CD-21522)
+
+[2022-05-09 PEC SR 346 370 and 392 South Street and 351 272 and 385 Hill Street - 39CD-21522](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92698>)
+
+> Moved by S. Lewis
+
+> Seconded by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Vision SoHo Alliance relating to the properties located at 346, 370 and 392 South Street and 351, 373 and 385 Hill Street:
+
+a)    the Approval Authority BE ADVISED that no issues were raised at the public meeting with respect to the application for Draft Plan of Vacant Land Condominium relating to a property located at 346, 370 and 392 South Street and 351, 373 and 385 Hill Street; and,
+
+b)  the Approval Authority BE ADVISED that no issues were raised at the public meeting with respect to the Site Plan Approval application relating to the property located at 346, 370 and 392 South Street and 351, 373 and 385 Hill Street;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with this matter:
+
+-    H. Froussios, Zelinka Priamo Ltd.  (2022-D07)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by S. Turner
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Turner
+
+> Seconded by S. Lewis
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+## 3.5&nbsp;&nbsp;&nbsp;1140 Fanshawe Park Road East (39T-07502 / OZ-9473)
+
+[2022-05-09 PEC SR 1140 Fanshawe Pk Rd E - 39T-07502-OZ-9473](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92701>)
+
+> Moved by S. Lewis
+
+> Seconded by S. Turner
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc, relating to the property located at 1140 Fanshawe Park Road East:
+
+a)  the request to amend the 1989 Official Plan to change the designation on Schedule “A” – Land Use on a portion of the subject lands FROM a Low-Density Residential designation along Sunningdale Road East TO a Multi-Family, Medium Density Residential designation, BE REFUSED;
+
+b)    the request to amend the 1989 Official Plan change the designation on Schedule “A” – Land Use on a portion of the subject lands FROM a Low-Density Residential designation TO an Open Space designation, BE REFUSED;
+
+c)    the request to amend The London Plan to change the place type on a portion of the subject lands FROM a Green Space Place Type TO a Neighbourhoods Place Type, BE REFUSED;
+
+d)    the request to amend The London Plan to change the place type on a portion of the subject lands FROM a Neighbourhoods Place Type TO a Green Space Place Type, BE REFUSED;
+
+e)    the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Urban Reserve (h-2*UR3) Zone, Urban Reserve (UR3) Zone and Open Space (OS5) Zone, TO a Bonus Residential R8 Special Provision (B-_*R8-4(_)) Zone, Residential R5 (R5-7) Zone, Residential R1 Special Provision (R1-3(_)) Zone, Residential R1 (R1-2) Zone, Residential R1 (R1-3) Zone, Neighbourhood Facility (NF) Zone and an Open Space (OS5) Zone BE REFUSED;
+
+f)    the Approval Authority BE ADVISED that the following issues were raised at the public meeting with respect to the application for Draft Plan of Subdivision submitted by Drewlo Holdings Inc. relating to the property located at 1140 Fanshawe Park Road East:
+
+i)    concerns with respect to the increase in traffic;
+
+ii)    concerns with respect to the increase in noise;
+
+iii)    relating to the road widening around Nicole Avenue, wondering if it is possible to relocate where Nicole Avenue exits as there are other properties along Sunningdale Road East that do not have housing directly across the road;
+
+iv)    enquiring if the City intends to add sewers;
+
+v)    relating to Block 34, requesting that the provision of yard depth be provided in order to accommodate a landscaped buffer for screening from the residential properties on the north side of Sunningdale Road East; and,
+
+vi)    consideration be given for the aesthetics for homeowners in these existing properties by way of an aesthetic looking fencing, street orientated windows to ensure existing property owners are not looking into the backyards; and,
+
+g)    the Approval Authority BE ADVISED that Municipal Council does not support issuing draft approval of the proposed plan of subdivision as submitted by Drewlo Holdings Inc. (File No. 39T-07502), prepared by MTE, which shows 18 low density blocks, six (6) medium-density residential blocks, two (2) school blocks, and three (3) open space blocks including one (1) open space block for the compensation and relocation of an existing Provincially Significant Wetland, seven (7) new access points at Sunningdale Road East, Savannah Drive, Nicole Avenue, Devos Drive, Blackwell Boulevard, Stackhouse Avenue and Fanshawe Park Road East as well as five (5) internal streets;
+
+it being pointed out that the Planning and Environment Committee received the following communications, with respect to these matters:
+
+-    the staff presentation; and,
+
+-    the revised staff recommendation;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with this matter:
+
+-    C. O'Brien, Drewlo Holdings; and,
+
+-    L-A. Gill, 1468 Sunningdale Road East;
+
+it being further noted that the Municipal Council refuses this application for the following reasons:
+
+-    the proposed and recommended amendments propose development within a Provincially Significant Wetland;
+
+-    the proposed and recommended amendments do not conform to the in-force policies of The London Plan, including but not limited to the policies of the Neighbourhoods and Green Space Place Type and to the Our Strategy, Our City and the Key Directions;
+
+-    the proposed and recommended amendments do not conform to the in-force policies of the 1989 Official Plan, including but not limited to the Low-Density Residential designation, the Multi-Family Medium Density Residential designation, and the Open Space designation; and,
+
+-    the proposed and recommended zoning amendments do not conform to The London Plan or the 1989 Official Plan.   (2022-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+Additional Votes:
+
+****
+
+> Moved by S. Turner
+
+> Seconded by S. Lehman
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Turner
+
+> Seconded by S. Lehman
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+## 3.6&nbsp;&nbsp;&nbsp;Revised Victoria Park Secondary Plan (O-8978)
+
+[2022-05-09 Victoria Park Secondary Plan _May 2022 - Full](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92702>)
+
+> Moved by S. Lehman
+
+> Seconded by S. Lewis
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Victoria Park Secondary Plan:
+
+a) the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on May 24, 2022 to amend the Official Plan, 2016, The London Plan TO ADOPT the Victoria Park Secondary Plan, appended to the staff report dated May 9, 2022 as Appendix “A”, Schedule 1;
+
+b) the proposed by-law appended to the staff report dated May 9, 2022as Appendix “B” BE INTRODUCED at the Municipal Council meeting to be held on May 24, 2022 to amend the Official Plan, 2016, The London Plan TO ADD the Victoria Park Secondary Plan to Policy 1565, the list of adopted Secondary Plans;
+
+c) the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “C” BE INTRODUCED at the Municipal Council meeting to be held on May 24, 2022 to amend the Official Plan, 2016, The London Plan by ADDING the Victoria Park Secondary Plan to Map 7 – Specific Policy Areas;
+
+d)  the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on May 24, 2022 to amend the Official Plan, 2016, The London Plan TO AMEND Policy 1038 to add clarity for the application of the Victoria Park Secondary Plan to the lands in the Woodfield Neighbourhood Specific Policy Area;
+
+e)  the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “E” BE INTRODUCED at the Municipal Council meeting to be held on May 24, 2022 TO AMEND the Official Plan (1989), as follows:
+
+i)    AMEND Section 20.2 TO ADD the Victoria Park Secondary Plan to the list of adopted Secondary Plans; 
+
+ii)    ADD Section 20.10 the Victoria Park Secondary Plan; 
+
+iii)    ADD the naming and delineation of the “Victoria Park Secondary Plan” to Schedule “D” – Planning Areas.
+
+f) the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “F” BE INTRODUCED at the Municipal Council meeting to be held on May 24, 2022 to amend the Official Plan (1989) TO AMEND Section 3.5.4 – Woodfield Neighbourhood to add clarity to the application of the policy for the area subject to the Victoria Park Secondary Plan;
+
+g) the Civic Administration BE DIRECTED to evaluate the properties in the block bounded by Richmond Street, Central Avenue, Wellington Street, and Hyman Street for designation pursuant to the Ontario Heritage Act;
+
+it being pointed out that the Planning and Environment Committee received the following communications, with respect to these matters:
+
+-    a communication from B. Lansink;
+
+-    a communication from H. Handy, Vice President, GSP Group Inc.;
+
+-    a communication from S. Stapleton Vice President, Auburn Developments; and,
+
+-    a communication from C. Kulchycki, Senior Planner, Zelinka Priamo Ltd.;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with this matter:
+
+-    H. Handy, GSP Group, on behalf of 560 Wellington Holdings Inc.;
+
+-    M. Campbell, Zelinka Priamo Ltd., on behalf of St. Peter's Cathedral and the Roman Catholic Diocese of London;
+
+-    C. Kulchycki, Zelinka Priamo Ltd, on behalf of Great West Life;
+
+-     B. Lansink, 505 Colborne Street;
+
+-     M.A. Hodge, 310 Wolfe Street;
+
+-     A.M. Valastro; and,
+
+-     G. Bruzas, 568 Wellington Street.
+
+(2022-D09)
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Lehman
+
+> Seconded by S. Lewis
+
+Motion to open the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+> Moved by S. Turner
+
+> Seconded by S. Lewis
+
+Motion to close the public participation meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+# 4.&nbsp;&nbsp;&nbsp;Items for Direction
+
+None.
+
+# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
+
+## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters
+
+[2022-05-09 - DEFERRED MATTERS](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=92703>)
+
+> Moved by S. Lewis
+
+> Seconded by S. Turner
+
+That the Deferred Matters List for the Planning and Environment Committee, as at May 1, 2022, BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |A. Hopkins |S. Hillier,E. Holder|
+> |S. Turner||
+> |S. Lewis,S. Lehman||
+
+> **Motion Passed (4 to 0)**
+
+****
+
+# 6.&nbsp;&nbsp;&nbsp;Adjournment
+
+The meeting adjourned at 6:37 PM.
+

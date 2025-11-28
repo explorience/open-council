@@ -10,10 +10,10 @@ September 16, 2024, at  1:00 PM
 > H. McAlister, P. Cuddy, S. Stevenson, C. Rahman, P. Van Meerbergen
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, J. Pribil, S. Datars Bere, A. Barbon, M. Butlin, I. Collins, D. Escobar, J. McMillan, J. Paradis, T. Pollitt, M. Schulthess, P. Sh, E. Skalski
+> Deputy  S. Lewis, J. Pribil, S. Datars Bere, A. Barbon, M. Butlin, I. Collins, D. Escobar, J. McMillan, J. Paradis, T. Pollitt, M. Schulthess, P. Shand, E. Skalski
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: S. Corman, M. McErlain, K. Medinilla
+> S. Corman, M. McErlain, K. Medinilla
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen, S. Trosow, E. Peloza, and S. Hillier were in remote attendance
 

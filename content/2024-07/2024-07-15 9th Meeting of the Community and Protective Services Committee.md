@@ -13,12 +13,17 @@ July 15, 2024, at  1:00 PM
 > E. Peloza
 
 > [!abstract]- Also Present:
-> Deputy  S. Lewis, A. Hopkins, M. Butlin, S. Corman, K. Dawtrey, M. Dellamora, K. Dickins, D. Escobar, M. Feldberg, L. Hancock, M. Hefferton, W. Jeffrey, P. Ladouceur, E. Ling, L. Marshall, S. Mathers, J.P. McGonigle, N. Musicco, K. Pawelec, J. Senese, C. Smith, J. Straub, J. Bunn
+> Deputy  S. Lewis, A. Hopkins, M. Butlin, S. Corman, K. Dawtrey, M. Dellamora, K. Dickins, D. Escobar, M. Feldberg, L. Hancock, M. Hefferton, W. Jeffrey, P. Ladouceur, E. Ling, L. Marshall, S. Mathers, J.P. McGonigle, N. Musicco, K. Pawelec, J. Senese, C. Smith, J. Straub, J. Bunn   
+> 
+> 
+> 
+>  C. Rahman, M. Schulthess
+> 
+> 
+> 
+> The meeting was called to order at 1:04 PM.
 
-> [!abstract]- Remote Attendance:
-> C. Rahman, M. Schulthess
 
-The meeting was called to order at 1:04 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

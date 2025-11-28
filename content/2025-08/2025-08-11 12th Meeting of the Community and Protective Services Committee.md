@@ -13,12 +13,17 @@ August 11, 2025, at  1:00 PM
 > H. McAlister
 
 > [!abstract]- Also Present:
-> C. Rahman, S. Franke, E. Peloza, A. Abraham, M. Butlin, M. Feldberg, S. Glover, W. Jeffery, S. Mathers, J.P. McGonigle, A. Pfeffer, S. Purhar, K. Scherr, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn
+> C. Rahman, S. Franke, E. Peloza, A. Abraham, M. Butlin, M. Feldberg, S. Glover, W. Jeffery, S. Mathers, J.P. McGonigle, A. Pfeffer, S. Purhar, K. Scherr, E. Skalski, C. Smith, J. Stanford, R. Wilcox, J. Bunn      
+> 
+> 
+> 
+>  J. Morgan, Deputy  S. Lewis, S. Datars Bere, E. Bennett, Chief L. Hamer, E. Hunt, M. Losee
+> 
+> 
+> 
+> The meeting was called to order at 1:01 PM.
 
-> [!abstract]- Remote Attendance:
-> J. Morgan, Deputy  S. Lewis, S. Datars Bere, E. Bennett, Chief L. Hamer, E. Hunt, M. Losee
 
-The meeting was called to order at 1:01 PM.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

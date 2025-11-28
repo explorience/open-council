@@ -10,7 +10,7 @@ September 10, 2024, at  1:00 PM
 > S. Lehman, S. Lewis, C.Rahman, S. Franke, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> P. Cuddy, J. Pribil, S. Trosow, A. Hopkins, E. Peloza, J. Adema, S. Baldwin, R. Bolivar,
+> P. Cuddy, J. Pribil, S. Trosow, A. Hopkins, E. Peloza, J. Adema, S. Baldwin, R. Bolivar, M. Corby, A. Curtis, I. de Ceuster, K. Edwards, D. Escobar, M. Feldberg, S. Filson, A. Hovius, M. Hynes, P. Kavcic, B. Lambert, T. Macbeth, S. Mathers, C. Maton, H. McNeely, B. O’Hagan, B. Page, N. Pasato, M. Pease, A. Rammeloo, A. Riley, A. Shaw
 
 > [!abstract]- Remote Attendance:
 > D. MacRae, E. Skalski

@@ -10,12 +10,17 @@ May 21, 2024, at  1:00 PM
 > D. Ferreira, H. McAlister, J. Pribil, S. Trosow, E. Peloza
 
 > [!abstract]- Also Present:
-> C. Blain, S. Datars Bere, K. Dawtrey, K. Dickins, M. Feldberg, S. Glover, Fire Chief L. Hamer, Deputy Fire Chief R. Hayes, O. Katolyk, J. Martino, S. Mathers, K. Pawelec, C. Smith J. Taylor J. Bunn
+> C. Blain, S. Datars Bere, K. Dawtrey, K. Dickins, M. Feldberg, S. Glover, Fire Chief L. Hamer, Deputy Fire Chief R. Hayes, O. Katolyk, J. Martino, S. Mathers, K. Pawelec, C. Smith J. Taylor J. Bunn   
+> 
+> 
+> 
+>  E. Peloza, S. Corman, E. Hunt 
+> 
+> 
+> 
+> The meeting was called to order at 1:00 PM, it being noted that  S. Trosow was in remote attendance.
 
-> [!abstract]- Remote Attendance:
-> E. Peloza, S. Corman, E. Hunt
 
-The meeting was called to order at 1:00 PM; it being noted that Councillor S. Trosow was in remote attendance.
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

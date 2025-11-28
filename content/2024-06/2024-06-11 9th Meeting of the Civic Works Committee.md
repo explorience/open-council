@@ -13,12 +13,17 @@ June 11, 2024, at  9:30 AM
 > S. Trosow
 
 > [!abstract]- Also Present:
-> A. Alkema, K. Chambers, J. Dann, D. Escobar, G. Dales, D. MacRae, K. Oudekerk, A. Rammeloo, A. Rozentals, K. Scherr, J. Stanford, P. Titus, J. Bunn
-
-> [!abstract]- Remote Attendance:
+> A. Alkema, K. Chambers, J. Dann, D. Escobar, G. Dales, D. MacRae, K. Oudekerk, A. Rammeloo, A. Rozentals, K. Scherr, J. Stanford, P. Titus, J. Bunn   
+> 
+> 
+> 
 > E. Hunt, E. Skalski
+> 
+> 
+> 
+> The meeting was called to order at 9:30 AM.
 
-The meeting was called to order at 9:30 AM.
+
 
 # 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 

@@ -13,7 +13,7 @@ May 27, 2024, at  1:00 PM
 > Deputy  S. Lewis, J. Pribil, E. Peloza, S. Datars Bere, A. Barbon, I. Collins, D. Escobar, J. Dann, A. Hagan, P. Ladouceur, K. Murray, J. Paradis, T. Pollitt, E. Skalski, B. Warner.
 
 > [!abstract]- Remote Attendance:
-> Remote attendance: D. Bordin, S. Corman, J. Dann, J. Davies, E. Hunt, M. Schulthess, P. Yeoman.
+> D. Bordin, S. Corman, J. Dann, J. Davies, E. Hunt, M. Schulthess, P. Yeoman.
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and S. Stevenson were in remote attendance.
 

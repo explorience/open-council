@@ -13,10 +13,10 @@ November 26, 2024, at  1:00 PM
 > S. Trosow
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Abraham, A. Barbon, S. Corman, K. Dickins, D. Escobar, S. Govindaraj, P. Ladouceur, S. Mathers, C. McCreery, H. McNeely, J. Paradis, T. Pollitt, G. S,ers, K. Scherr, M. Schulthess, E. Skalski, C. Smith, S. Tatavarti, B. Warner, E. Williamson.
+> S. Datars Bere, A. Abraham, A. Barbon, S. Corman, K. Dickins, D. Escobar, S. Govindaraj, P. Ladouceur, S. Mathers, C. McCreery, H. McNeely, J. Paradis, T. Pollitt, G. Sanders, K. Scherr, M. Schulthess, E. Skalski, C. Smith, S. Tatavarti, B. Warner, E. Williamson.
 
 > [!abstract]- Remote Attendance:
-> I. Collins, C. Cooper, E. Hunt, J. Irel, J. Wills
+> I. Collins, C. Cooper, E. Hunt, J. Ireland, J. Wills
 
 The meeting is called to order at 1:03 PM; it being noted that Councillors S. Lehman, P. Van Meerbergen, and S. Hillier were in remote attendance.
 

@@ -10,7 +10,7 @@ August 12, 2024, at  1:00 PM
 > D. Ferreira, H. McAlister, J. Pribil, S. Trosow, E. Peloza
 
 > [!abstract]- Also Present:
-> A. Alkema, K. Dickins, D. Escobar, M. Feldberg, J.P. McGonigle, R. Patel, C. Smith, M. V,ertuin, J. Bunn
+> A. Alkema, K. Dickins, D. Escobar, M. Feldberg, J.P. McGonigle, R. Patel, C. Smith, M. Vandertuin, J. Bunn
 
 > [!abstract]- Remote Attendance:
 > S. Corman, L. Hancock, E. Skalski, B. Somers

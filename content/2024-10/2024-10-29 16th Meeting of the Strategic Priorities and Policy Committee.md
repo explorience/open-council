@@ -10,7 +10,7 @@ October 29, 2024, at  2:00 PM
 > S. Lewis, H. McAlister, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier, J. Morgan
 
 > [!abstract]- Also Present:
-> S. Datars Bere, A. Barbon, M. Barnes, M. Butlin, C. Cooper, S. Corman, K. Dickins, D. Escobar, M. Feldberg, J. Irel, A.
+> S. Datars Bere, A. Barbon, M. Barnes, M. Butlin, C. Cooper, S. Corman, K. Dickins, D. Escobar, M. Feldberg, J. Ireland, A. Kaczmarczyk, D. Kramers, M. Macaulay, S. Mathers, H. McNeely, J. Paradis, T. Pollitt, M. Schulthess, E. Skalski, C. Smith, C. Wray, P. Yeoman
 
 > [!abstract]- Remote Attendance:
 > E. Bennett, I. Collins, E. Hunt, K. Murray
