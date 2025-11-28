@@ -51,6 +51,15 @@ async function main() {
       console.log('📊 Step 1: Checking for new meetings...\n');
       const existingIds = await vectorStore.getExistingChunkIds();
 
+      // First, load all meetings to see what SHOULD be in the database
+      const allMeetings = await generator.loadMeetings();
+      console.log(`📂 Data folder has ${allMeetings.length} meetings`);
+
+      if (allMeetings.length > 0) {
+        const dates = allMeetings.map(m => m.meeting.datetime).sort();
+        console.log(`📅 Data date range: ${dates[0]} to ${dates[dates.length - 1]}`);
+      }
+
       if (existingIds.size === 0) {
         console.log('⚠️  No existing embeddings found. Running FULL generation for first time...\n');
         chunks = await generator.generateAll();
@@ -58,7 +67,7 @@ async function main() {
         console.log('\n📊 Step 2: Creating vector database...\n');
         await vectorStore.createTable(chunks);
       } else {
-        console.log(`Found ${existingIds.size} existing embeddings`);
+        console.log(`Found ${existingIds.size} existing embeddings in database`);
 
         // Buffer chunks and save every 10 batches to preserve progress if interrupted
         let pendingChunks: typeof chunks = [];
@@ -87,6 +96,8 @@ async function main() {
 
         if (chunks.length > 0) {
           console.log(`\n✅ Generated and saved ${chunks.length} new embeddings`);
+        } else {
+          console.log(`\n✅ Database is up to date - no new meetings to process`);
         }
       }
     }
