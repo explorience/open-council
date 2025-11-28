@@ -9,7 +9,7 @@ const EMBEDDING_MODEL = 'text-embedding-3-small';
 const MAX_BATCH_SIZE = 100; // Maximum chunks per batch
 const MAX_TOKENS_PER_BATCH = 8000; // text-embedding-3-small has 8192 token limit, leave some margin
 const MAX_TOKENS_PER_CHUNK = 8000; // Maximum tokens per individual chunk
-const RATE_LIMIT_DELAY_MS = 500; // 500ms between batches to avoid rate limits
+const RATE_LIMIT_DELAY_MS = 0; // No delay between batches (retry logic handles rate limits)
 const MAX_RETRIES = 5;
 
 /**
