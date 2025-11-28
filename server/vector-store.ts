@@ -266,6 +266,10 @@ export class VectorStore {
         // Add meeting type filter if specified (e.g., "Council", "Budget", "Planning")
         if (meetingTypeFilter) {
           whereClause += ` AND meeting_title LIKE '%${meetingTypeFilter}%'`;
+          // For "Council" filter, exclude committee meetings which also contain "Council" in path
+          if (meetingTypeFilter === 'Council') {
+            whereClause += ` AND meeting_title NOT LIKE '%Committee%'`;
+          }
         }
 
         const results = await this.table
@@ -329,7 +333,12 @@ export class VectorStore {
       let query = this.table.vectorSearch(queryEmbedding);
 
       if (meetingTypeFilter) {
-        query = query.where(`meeting_title LIKE '%${meetingTypeFilter}%'`);
+        let whereClause = `meeting_title LIKE '%${meetingTypeFilter}%'`;
+        // For "Council" filter, exclude committee meetings
+        if (meetingTypeFilter === 'Council') {
+          whereClause += ` AND meeting_title NOT LIKE '%Committee%'`;
+        }
+        query = query.where(whereClause);
         console.log(`🔍 Filtering results to meetings containing: "${meetingTypeFilter}"`);
       }
 

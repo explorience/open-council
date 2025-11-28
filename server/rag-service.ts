@@ -264,7 +264,7 @@ export class RAGService {
     // Map of keywords to meeting title patterns
     // Order matters - more specific first
     const meetingTypes: Array<{ patterns: RegExp[]; filter: string }> = [
-      // Specific committees
+      // Specific committees - these have consistent naming
       {
         patterns: [/planning\s*(and\s*environment)?\s*committee/, /planning committee/],
         filter: 'Planning',
@@ -285,11 +285,11 @@ export class RAGService {
         patterns: [/strategic\s*priorities/, /sppc/],
         filter: 'Strategic Priorities',
       },
-      // Main council - be careful, many meetings have "Council" in name
-      // Only match if explicitly asking about "city council meeting" or "council meeting"
+      // Main council - titles vary: "Meeting of City Council" OR "Council Meeting"
+      // Use simple "Council" filter but NOT for committee queries
       {
-        patterns: [/(city\s+)?council\s+meeting/, /\bcouncil\b(?!\s*committee)/],
-        filter: 'Meeting of City Council',  // More specific to avoid matching committee names
+        patterns: [/(city\s+)?council\s+meeting/, /council\s+meeting/, /\bcouncil\b(?!\s*(committee|in))/],
+        filter: 'Council',  // Simpler filter that matches both "Meeting of City Council" and "Council Meeting"
       },
     ];
 
