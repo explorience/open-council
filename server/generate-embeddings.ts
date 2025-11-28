@@ -59,12 +59,17 @@ async function main() {
         await vectorStore.createTable(chunks);
       } else {
         console.log(`Found ${existingIds.size} existing embeddings`);
-        chunks = await generator.generateIncremental(existingIds);
+
+        // Save each batch as it completes to preserve progress if interrupted
+        let savedCount = 0;
+        chunks = await generator.generateIncremental(existingIds, async (batchChunks) => {
+          await vectorStore.addChunks(batchChunks);
+          savedCount += batchChunks.length;
+          console.log(`  💾 Saved ${savedCount} chunks to database`);
+        });
 
         if (chunks.length > 0) {
-          console.log(`\n✅ Generated ${chunks.length} new embeddings`);
-          console.log('\n📊 Step 2: Adding to vector database...\n');
-          await vectorStore.addChunks(chunks);
+          console.log(`\n✅ Generated and saved ${chunks.length} new embeddings`);
         }
       }
     }
