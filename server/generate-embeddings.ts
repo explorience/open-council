@@ -60,13 +60,30 @@ async function main() {
       } else {
         console.log(`Found ${existingIds.size} existing embeddings`);
 
-        // Save each batch as it completes to preserve progress if interrupted
+        // Buffer chunks and save every 10 batches to preserve progress if interrupted
+        let pendingChunks: typeof chunks = [];
+        let batchCount = 0;
         let savedCount = 0;
+
         chunks = await generator.generateIncremental(existingIds, async (batchChunks) => {
-          await vectorStore.addChunks(batchChunks);
-          savedCount += batchChunks.length;
-          console.log(`  💾 Saved ${savedCount} chunks to database`);
+          pendingChunks.push(...batchChunks);
+          batchCount++;
+
+          // Save every 10 batches
+          if (batchCount % 10 === 0) {
+            await vectorStore.addChunks(pendingChunks);
+            savedCount += pendingChunks.length;
+            console.log(`  💾 Saved ${savedCount} chunks to database`);
+            pendingChunks = [];
+          }
         });
+
+        // Save any remaining chunks
+        if (pendingChunks.length > 0) {
+          await vectorStore.addChunks(pendingChunks);
+          savedCount += pendingChunks.length;
+          console.log(`  💾 Saved ${savedCount} chunks to database`);
+        }
 
         if (chunks.length > 0) {
           console.log(`\n✅ Generated and saved ${chunks.length} new embeddings`);
