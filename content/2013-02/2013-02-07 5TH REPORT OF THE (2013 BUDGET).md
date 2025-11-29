@@ -1,11 +1,10 @@
 ---
-title: 5TH REPORT OF THE (2013
-BUDGET)
-date: 2013-01-24
+title: "5TH REPORT OF THE (2013 BUDGET)"
+date: 2013-02-07
 ---
-January 24, 2013, at  9:10 AM
+February 7, 2013, at  9:10 AM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d1a9c1a6-0a51-4bba-9ea4-828730969e45&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=95225735-38af-4b1b-82aa-c45d676f4a34&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J.F. Fontana, B. Polhill, W.J. Armstrong, J.B. Swan, S. Orser, J.L. Baechler, N. Branscombe, M. Brown, P. Hubert, D.G. Henderson, P. Van Meerbergen, D.T. Brown, H.L. Usher, J.P. Bryant, S. White, L. Rowe (Secretary). ALSO A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, G. Bridge, I. Collins, B. Coxhead, A. Dunbar, J.M. Fleming, P. Foto, A. Hagan, M. Hayward, J. Kobarda, G. Kotsifas, L. Livingstone, A. Macpherson, L. Palarchio, C. Saunders, M. Semeniuk, J. Senese, R. Sharpe, B. Westlake-Power
@@ -84,8 +83,7 @@ g)         That
   interest in clause 3f)iii) having to do with Children’s Services by
   indicating that his spouse owns and operates a child care facility.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Budget -
-  Summary of Public Input.
+# 2.&nbsp;&nbsp;&nbsp;2013 Budget - Summary of Public Input.
 
 Recommendation:  That the report from the
   Director, Financial Planning and Policy, summarizing public input, as well as
