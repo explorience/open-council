@@ -37,13 +37,20 @@ const defaultOptions: DashboardViewOptions = {
   years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011],
   councillors: [
     { name: "J. Morgan", slug: "j-morgan", role: "Mayor" },
-    { name: "P. Van Meerbergen", slug: "p-van-meerbergen" },
-    { name: "S. Turner", slug: "s-turner" },
-    { name: "S. Lewis", slug: "s-lewis" },
-    { name: "J. Helmer", slug: "j-helmer" },
-    { name: "A. Hopkins", slug: "a-hopkins" },
-    { name: "P. Squire", slug: "p-squire" },
+    { name: "P. Cuddy", slug: "p-cuddy" },
+    { name: "D. Ferreira", slug: "d-ferreira" },
+    { name: "S. Franke", slug: "s-franke" },
     { name: "S. Hillier", slug: "s-hillier" },
+    { name: "A. Hopkins", slug: "a-hopkins" },
+    { name: "S. Lehman", slug: "s-lehman" },
+    { name: "S. Lewis", slug: "s-lewis" },
+    { name: "H. McAlister", slug: "h-mcalister" },
+    { name: "E. Peloza", slug: "e-peloza" },
+    { name: "J. Pribil", slug: "j-pribil" },
+    { name: "C. Rahman", slug: "c-rahman" },
+    { name: "S. Stevenson", slug: "s-stevenson" },
+    { name: "S. Trosow", slug: "s-trosow" },
+    { name: "P. Van Meerbergen", slug: "p-van-meerbergen" },
   ],
   recentMeetingsLimit: 8,
 }
@@ -141,7 +148,7 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
             <ul class="panel-list councillors-list">
               {opts.councillors.map((councillor) => (
                 <li>
-                  <a href={`/councillors/${councillor.slug}`} class="panel-link">
+                  <a href={`/councillors/current/${councillor.slug}`} class="panel-link">
                     <span class="link-name">{councillor.name}</span>
                     {councillor.role && <span class="councillor-role">{councillor.role}</span>}
                   </a>
