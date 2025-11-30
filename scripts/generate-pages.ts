@@ -52,6 +52,234 @@ interface CouncillorData {
   yearsActive: number[]
 }
 
+// Verified councillors who served on London City Council 2010-2026
+// Based on municipal election results from 2010, 2014, 2018, and 2022
+// Format: { displayName, slug, terms: [{ start, end, role, ward? }] }
+const VERIFIED_COUNCILLORS: Record<string, {
+  displayName: string
+  slug: string
+  terms: { start: number; end: number; role: string; ward?: number }[]
+}> = {
+  // 2022-2026 Current Council
+  "J. Morgan": { displayName: "Josh Morgan", slug: "j-morgan", terms: [
+    { start: 2014, end: 2022, role: "Councillor", ward: 7 },
+    { start: 2022, end: 2026, role: "Mayor" }
+  ]},
+  "H. McAlister": { displayName: "Hadleigh McAlister", slug: "h-mcalister", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 1 }
+  ]},
+  "S. Lewis": { displayName: "Shawn Lewis", slug: "s-lewis", terms: [
+    { start: 2018, end: 2026, role: "Councillor", ward: 2 }
+  ]},
+  "P. Cuddy": { displayName: "Peter Cuddy", slug: "p-cuddy", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 3 }
+  ]},
+  "S. Stevenson": { displayName: "Susan Stevenson", slug: "s-stevenson", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 4 }
+  ]},
+  "J. Pribil": { displayName: "Jerry Pribil", slug: "j-pribil", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 5 }
+  ]},
+  "S. Trosow": { displayName: "Sam Trosow", slug: "s-trosow", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 6 }
+  ]},
+  "C. Rahman": { displayName: "Corrine Rahman", slug: "c-rahman", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 7 }
+  ]},
+  "S. Lehman": { displayName: "Steve Lehman", slug: "s-lehman", terms: [
+    { start: 2018, end: 2026, role: "Councillor", ward: 8 }
+  ]},
+  "A. Hopkins": { displayName: "Anna Hopkins", slug: "a-hopkins", terms: [
+    { start: 2014, end: 2026, role: "Councillor", ward: 9 }
+  ]},
+  "P. Van Meerbergen": { displayName: "Paul Van Meerbergen", slug: "p-van-meerbergen", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 10 },
+    { start: 2018, end: 2026, role: "Councillor", ward: 10 }
+  ]},
+  "S. Franke": { displayName: "Skylar Franke", slug: "s-franke", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 11 }
+  ]},
+  "E. Peloza": { displayName: "Elizabeth Peloza", slug: "e-peloza", terms: [
+    { start: 2018, end: 2026, role: "Councillor", ward: 12 }
+  ]},
+  "D. Ferreira": { displayName: "David Ferreira", slug: "d-ferreira", terms: [
+    { start: 2022, end: 2026, role: "Councillor", ward: 13 }
+  ]},
+  "S. Hillier": { displayName: "Steve Hillier", slug: "s-hillier", terms: [
+    { start: 2018, end: 2026, role: "Councillor", ward: 14 }
+  ]},
+
+  // 2018-2022 Council (not continuing)
+  "E. Holder": { displayName: "Ed Holder", slug: "e-holder", terms: [
+    { start: 2018, end: 2022, role: "Mayor" }
+  ]},
+  "M. van Holst": { displayName: "Michael van Holst", slug: "m-van-holst", terms: [
+    { start: 2014, end: 2022, role: "Councillor", ward: 1 }
+  ]},
+  "M. Salih": { displayName: "Mo Salih", slug: "m-salih", terms: [
+    { start: 2014, end: 2022, role: "Councillor", ward: 3 }
+  ]},
+  "J. Helmer": { displayName: "Jesse Helmer", slug: "j-helmer", terms: [
+    { start: 2014, end: 2022, role: "Councillor", ward: 4 }
+  ]},
+  "M. Cassidy": { displayName: "Maureen Cassidy", slug: "m-cassidy", terms: [
+    { start: 2014, end: 2022, role: "Councillor", ward: 5 }
+  ]},
+  "P. Squire": { displayName: "Phil Squire", slug: "p-squire", terms: [
+    { start: 2014, end: 2022, role: "Councillor", ward: 6 }
+  ]},
+  "S. Turner": { displayName: "Stephen Turner", slug: "s-turner", terms: [
+    { start: 2014, end: 2022, role: "Councillor", ward: 11 }
+  ]},
+  "A. Kayabaga": { displayName: "Arielle Kayabaga", slug: "a-kayabaga", terms: [
+    { start: 2018, end: 2022, role: "Councillor", ward: 13 }
+  ]},
+
+  // 2014-2018 Council (not continuing)
+  "M. Brown": { displayName: "Matt Brown", slug: "m-brown", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 7 },
+    { start: 2014, end: 2018, role: "Mayor" }
+  ]},
+  "B. Armstrong": { displayName: "Bill Armstrong", slug: "b-armstrong", terms: [
+    { start: 2010, end: 2018, role: "Councillor", ward: 2 }
+  ]},
+  "P. Hubert": { displayName: "Paul Hubert", slug: "p-hubert", terms: [
+    { start: 2010, end: 2018, role: "Councillor", ward: 8 }
+  ]},
+  "V. Ridley": { displayName: "Virginia Ridley", slug: "v-ridley", terms: [
+    { start: 2014, end: 2018, role: "Councillor", ward: 10 }
+  ]},
+  "H.L. Usher": { displayName: "Harold Usher", slug: "h-l-usher", terms: [
+    { start: 2010, end: 2018, role: "Councillor", ward: 12 }
+  ]},
+  "T. Park": { displayName: "Tanya Park", slug: "t-park", terms: [
+    { start: 2014, end: 2018, role: "Councillor", ward: 13 }
+  ]},
+  "J. Zaifman": { displayName: "Jared Zaifman", slug: "j-zaifman", terms: [
+    { start: 2014, end: 2018, role: "Councillor", ward: 14 }
+  ]},
+
+  // 2010-2014 Council (not continuing)
+  "J.F. Fontana": { displayName: "Joe Fontana", slug: "j-f-fontana", terms: [
+    { start: 2010, end: 2014, role: "Mayor" }
+  ]},
+  "J.B. Swan": { displayName: "Joe Swan", slug: "j-b-swan", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 3 }
+  ]},
+  "S. Orser": { displayName: "Stephen Orser", slug: "s-orser", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 4 }
+  ]},
+  "J.L. Baechler": { displayName: "Joni Baechler", slug: "j-l-baechler", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 5 }
+  ]},
+  "N. Branscombe": { displayName: "Nancy Branscombe", slug: "n-branscombe", terms: [
+    { start: 2006, end: 2014, role: "Councillor", ward: 6 }
+  ]},
+  "D.G. Henderson": { displayName: "Dale Henderson", slug: "d-g-henderson", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 9 }
+  ]},
+  "B. Polhill": { displayName: "Bud Polhill", slug: "b-polhill", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 1 }
+  ]},
+  "S. White": { displayName: "Sandy White", slug: "s-white", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 14 }
+  ]},
+  "J.P. Bryant": { displayName: "Judy Bryant", slug: "j-p-bryant", terms: [
+    { start: 2010, end: 2014, role: "Councillor", ward: 13 }
+  ]},
+}
+
+// Name variations mapping (maps variations found in minutes to canonical names)
+const NAME_VARIATIONS: Record<string, string> = {
+  "Josh Morgan": "J. Morgan",
+  "J Morgan": "J. Morgan",
+  "H McAlister": "H. McAlister",
+  "Hadleigh McAlister": "H. McAlister",
+  "S Lewis": "S. Lewis",
+  "Shawn Lewis": "S. Lewis",
+  "P Cuddy": "P. Cuddy",
+  "Peter Cuddy": "P. Cuddy",
+  "S Stevenson": "S. Stevenson",
+  "Susan Stevenson": "S. Stevenson",
+  "J Pribil": "J. Pribil",
+  "Jerry Pribil": "J. Pribil",
+  "S Trosow": "S. Trosow",
+  "Sam Trosow": "S. Trosow",
+  "C Rahman": "C. Rahman",
+  "Corrine Rahman": "C. Rahman",
+  "S Lehman": "S. Lehman",
+  "Steve Lehman": "S. Lehman",
+  "A Hopkins": "A. Hopkins",
+  "Anna Hopkins": "A. Hopkins",
+  "P Van Meerbergen": "P. Van Meerbergen",
+  "Paul Van Meerbergen": "P. Van Meerbergen",
+  "S Franke": "S. Franke",
+  "Skylar Franke": "S. Franke",
+  "E Peloza": "E. Peloza",
+  "Elizabeth Peloza": "E. Peloza",
+  "D Ferreira": "D. Ferreira",
+  "David Ferreira": "D. Ferreira",
+  "S Hillier": "S. Hillier",
+  "Steve Hillier": "S. Hillier",
+  "Steven Hillier": "S. Hillier",
+  "E Holder": "E. Holder",
+  "Ed Holder": "E. Holder",
+  "M van Holst": "M. van Holst",
+  "Michael van Holst": "M. van Holst",
+  "M Van Holst": "M. van Holst",
+  "M Salih": "M. Salih",
+  "Mo Salih": "M. Salih",
+  "Mohamed Salih": "M. Salih",
+  "J Helmer": "J. Helmer",
+  "Jesse Helmer": "J. Helmer",
+  "M Cassidy": "M. Cassidy",
+  "Maureen Cassidy": "M. Cassidy",
+  "P Squire": "P. Squire",
+  "Phil Squire": "P. Squire",
+  "S Turner": "S. Turner",
+  "Stephen Turner": "S. Turner",
+  "A Kayabaga": "A. Kayabaga",
+  "Arielle Kayabaga": "A. Kayabaga",
+  "M Brown": "M. Brown",
+  "Matt Brown": "M. Brown",
+  "B Armstrong": "B. Armstrong",
+  "Bill Armstrong": "B. Armstrong",
+  "P Hubert": "P. Hubert",
+  "Paul Hubert": "P. Hubert",
+  "V Ridley": "V. Ridley",
+  "Virginia Ridley": "V. Ridley",
+  "H Usher": "H.L. Usher",
+  "Harold Usher": "H.L. Usher",
+  "H L Usher": "H.L. Usher",
+  "T Park": "T. Park",
+  "Tanya Park": "T. Park",
+  "J Zaifman": "J. Zaifman",
+  "Jared Zaifman": "J. Zaifman",
+  "J Fontana": "J.F. Fontana",
+  "Joe Fontana": "J.F. Fontana",
+  "J F Fontana": "J.F. Fontana",
+  "J Swan": "J.B. Swan",
+  "Joe Swan": "J.B. Swan",
+  "J B Swan": "J.B. Swan",
+  "S Orser": "S. Orser",
+  "Stephen Orser": "S. Orser",
+  "J Baechler": "J.L. Baechler",
+  "Joni Baechler": "J.L. Baechler",
+  "J L Baechler": "J.L. Baechler",
+  "N Branscombe": "N. Branscombe",
+  "Nancy Branscombe": "N. Branscombe",
+  "D Henderson": "D.G. Henderson",
+  "Dale Henderson": "D.G. Henderson",
+  "D G Henderson": "D.G. Henderson",
+  "B Polhill": "B. Polhill",
+  "Bud Polhill": "B. Polhill",
+  "S White": "S. White",
+  "Sandy White": "S. White",
+  "J Bryant": "J.P. Bryant",
+  "Judy Bryant": "J.P. Bryant",
+  "J P Bryant": "J.P. Bryant",
+}
+
 // Committee name normalization map
 const COMMITTEE_MAPPINGS: Record<string, { name: string; slug: string }> = {
   "planning and environment": { name: "Planning and Environment Committee", slug: "planning-environment" },
@@ -101,48 +329,130 @@ function extractCommittee(title: string): { name: string; slug: string } | null 
   return null
 }
 
+// Normalize a councillor name to canonical form
+function normalizeCouncillorName(name: string): string | null {
+  // Clean up the name
+  let cleaned = name.trim()
+    .replace(/^>\s*/, "")
+    .replace(/[;,]$/, "")
+    .replace(/^\s*and\s+/i, "")
+    .replace(/\s*\(.*?\)\s*/g, "") // Remove parentheticals like "(Acting Chair)"
+    .replace(/^\s*(Mayor|Deputy|Acting|Councillor|Chair)\s+/i, "")
+    .trim()
+
+  // Skip obvious non-names
+  if (!cleaned || cleaned.length < 3) return null
+  if (/^(the|meeting|was|called|to|order|at|with|all|members|present|except|it|being|noted|that|following|were|in|remote|attendance|staff)/i.test(cleaned)) return null
+  if (/^\d/.test(cleaned)) return null // Starts with number
+  if (/^#/.test(cleaned)) return null // Starts with #
+  if (cleaned.length > 30) return null // Too long to be a name
+
+  // Check if it's in NAME_VARIATIONS
+  if (NAME_VARIATIONS[cleaned]) {
+    return NAME_VARIATIONS[cleaned]
+  }
+
+  // Check if it's already a canonical name in VERIFIED_COUNCILLORS
+  if (VERIFIED_COUNCILLORS[cleaned]) {
+    return cleaned
+  }
+
+  // Try to match pattern like "X. LastName" or "X.Y. LastName"
+  const nameMatch = cleaned.match(/^([A-Z]\.?\s*[A-Z]?\.?\s+[A-Za-z\s-]+)$/)
+  if (nameMatch) {
+    const potentialName = nameMatch[1].trim()
+    // Check if this matches any verified councillor
+    for (const canonicalName of Object.keys(VERIFIED_COUNCILLORS)) {
+      // Compare case-insensitively
+      if (canonicalName.toLowerCase() === potentialName.toLowerCase()) {
+        return canonicalName
+      }
+      // Check if last names match
+      const canonicalLast = canonicalName.split(/\s+/).pop()?.toLowerCase()
+      const potentialLast = potentialName.split(/\s+/).pop()?.toLowerCase()
+      if (canonicalLast && potentialLast && canonicalLast === potentialLast) {
+        // Check if initials are compatible
+        const canonicalFirst = canonicalName.split(/\s+/)[0]
+        const potentialFirst = potentialName.split(/\s+/)[0]
+        if (canonicalFirst[0].toLowerCase() === potentialFirst[0].toLowerCase()) {
+          return canonicalName
+        }
+      }
+    }
+  }
+
+  return null
+}
+
 // Extract councillor names from markdown content
 function extractCouncillors(content: string): string[] {
   const councillors: Set<string> = new Set()
 
-  // Match "Present:" section
-  const presentMatch = content.match(/>\s*\[!abstract\]-?\s*Present:?\s*\n>\s*(.+)/i)
-  if (presentMatch) {
-    const names = presentMatch[1].split(/,\s*/)
-    names.forEach(name => {
-      const cleaned = name.trim().replace(/^>\s*/, "")
-      if (cleaned && cleaned.length > 2 && cleaned.includes(".")) {
-        councillors.add(cleaned)
-      }
-    })
+  // Match "Present:" section - try multiple patterns
+  const presentPatterns = [
+    />\s*\[!abstract\]-?\s*Present:?\s*\n>\s*(.+)/i,
+    /\*\*Present\*\*:?\s*(.+)/i,
+    /Present:?\s*\n?\s*(.+)/i,
+  ]
+
+  for (const pattern of presentPatterns) {
+    const match = content.match(pattern)
+    if (match) {
+      const names = match[1].split(/[,;]\s*/)
+      names.forEach(name => {
+        const normalized = normalizeCouncillorName(name)
+        if (normalized) {
+          councillors.add(normalized)
+        }
+      })
+      break
+    }
   }
 
   // Also check Remote Attendance
-  const remoteMatch = content.match(/>\s*\[!abstract\]-?\s*Remote Attendance:?\s*\n>\s*(.+)/i)
-  if (remoteMatch) {
-    const names = remoteMatch[1].split(/,\s*/)
-    names.forEach(name => {
-      const cleaned = name.trim().replace(/^>\s*/, "")
-      if (cleaned && cleaned.length > 2 && cleaned.includes(".")) {
-        councillors.add(cleaned)
-      }
-    })
+  const remotePatterns = [
+    />\s*\[!abstract\]-?\s*Remote Attendance:?\s*\n>\s*(.+)/i,
+    /\*\*Remote Attendance\*\*:?\s*(.+)/i,
+    /Remote Attendance:?\s*\n?\s*(.+)/i,
+  ]
+
+  for (const pattern of remotePatterns) {
+    const match = content.match(pattern)
+    if (match) {
+      const names = match[1].split(/[,;]\s*/)
+      names.forEach(name => {
+        const normalized = normalizeCouncillorName(name)
+        if (normalized) {
+          councillors.add(normalized)
+        }
+      })
+      break
+    }
   }
 
   return Array.from(councillors)
 }
 
-// Scan all meeting files
+// Scan all meeting files (now in months/ subfolder)
 async function scanMeetings(contentDir: string): Promise<Meeting[]> {
   const meetings: Meeting[] = []
 
-  const entries = await fs.readdir(contentDir, { withFileTypes: true })
+  // Meetings are now in content/months/YYYY-MM/ folders
+  const monthsDir = path.join(contentDir, "months")
+
+  let entries: { name: string; isDirectory: () => boolean }[]
+  try {
+    entries = await fs.readdir(monthsDir, { withFileTypes: true })
+  } catch {
+    // Fall back to old structure if months/ doesn't exist
+    entries = await fs.readdir(contentDir, { withFileTypes: true })
+  }
 
   for (const entry of entries) {
     if (!entry.isDirectory()) continue
     if (!entry.name.match(/^\d{4}-\d{2}$/)) continue // Only year-month folders
 
-    const monthDir = path.join(contentDir, entry.name)
+    const monthDir = path.join(monthsDir, entry.name)
     const files = await fs.readdir(monthDir)
 
     for (const file of files) {
@@ -174,8 +484,8 @@ async function scanMeetings(contentDir: string): Promise<Meeting[]> {
       const councillors = extractCouncillors(content)
       const dateObj = new Date(date)
 
-      // Create slug from folder and filename
-      const slug = `${entry.name}/${file.replace(".md", "")}`
+      // Create slug from folder and filename (with months/ prefix)
+      const slug = `months/${entry.name}/${file.replace(".md", "")}`
 
       meetings.push({
         title,
@@ -251,16 +561,20 @@ function groupByYear(meetings: Meeting[]): Map<number, YearData> {
   return years
 }
 
-// Group meetings by councillor
+// Group meetings by councillor (using verified councillor data)
 function groupByCouncillor(meetings: Meeting[]): Map<string, CouncillorData> {
   const councillors = new Map<string, CouncillorData>()
 
   for (const meeting of meetings) {
-    for (const name of meeting.councillors) {
-      const slug = slugify(name)
+    for (const canonicalName of meeting.councillors) {
+      // Only process verified councillors
+      const verifiedInfo = VERIFIED_COUNCILLORS[canonicalName]
+      if (!verifiedInfo) continue
+
+      const slug = verifiedInfo.slug
       if (!councillors.has(slug)) {
         councillors.set(slug, {
-          name,
+          name: verifiedInfo.displayName,
           slug,
           meetings: [],
           count: 0,
@@ -283,10 +597,22 @@ function groupByCouncillor(meetings: Meeting[]): Map<string, CouncillorData> {
 
   // Sort years for each councillor
   for (const data of councillors.values()) {
-    data.yearsActive.sort((a, b) => b - a)
+    data.yearsActive.sort((a, b) => a - b) // Ascending order for display
   }
 
   return councillors
+}
+
+// Get term information for a councillor
+function getCouncillorTerms(canonicalName: string): { start: number; end: number; role: string; ward?: number }[] {
+  const info = VERIFIED_COUNCILLORS[canonicalName]
+  return info?.terms || []
+}
+
+// Check if councillor is currently serving (2022-2026 term)
+function isCurrentCouncillor(canonicalName: string): boolean {
+  const terms = getCouncillorTerms(canonicalName)
+  return terms.some(t => t.end >= 2026)
 }
 
 // Generate AI summary using Anthropic
@@ -484,16 +810,31 @@ ${meetingsList}
 `
 }
 
-// Generate councillor page markdown
+// Generate councillor page markdown with verified term data
 function generateCouncillorPage(
   data: CouncillorData,
   summary: string,
-  questions: string[]
+  questions: string[],
+  canonicalName: string
 ): string {
   const committees = data.committees.map(c => `- ${c}`).join("\n")
-  const yearsRange = data.yearsActive.length > 0
-    ? `${Math.min(...data.yearsActive)} - ${Math.max(...data.yearsActive)}`
+
+  // Get verified term information
+  const verifiedInfo = VERIFIED_COUNCILLORS[canonicalName]
+  const terms = verifiedInfo?.terms || []
+
+  // Generate term list
+  const termsList = terms.map(t => {
+    const ward = t.ward ? ` (Ward ${t.ward})` : ""
+    return `- ${t.start}-${t.end}: ${t.role}${ward}`
+  }).join("\n")
+
+  // Calculate actual service years from verified terms
+  const yearsRange = terms.length > 0
+    ? `${Math.min(...terms.map(t => t.start))} - ${Math.max(...terms.map(t => t.end))}`
     : "Unknown"
+
+  const isCurrent = terms.some(t => t.end >= 2026)
 
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
@@ -506,33 +847,54 @@ type: councillor
 slug: "${data.slug}"
 meetingCount: ${data.count}
 yearsActive: "${yearsRange}"
+isCurrent: ${isCurrent}
 prefillQuestions:
 ${questions.map(q => `  - "${q}"`).join("\n")}
 ---
 
 ${summary}
 
-## Committees
+## Terms of Service
+
+${termsList}
+
+## Committees Served
 
 ${committees}
 
-## Years Active
-
-${yearsRange} (${data.yearsActive.length} years on record)
-
-## Recent Meeting Attendance
+## Meeting Attendance (${data.count} meetings)
 
 ${meetingsList}
 `
 }
 
-// Generate councillors index page
+// Generate councillors index page with current/former organization
 function generateCouncillorsIndexPage(councillors: Map<string, CouncillorData>): string {
-  const sorted = Array.from(councillors.values())
+  const all = Array.from(councillors.values())
     .sort((a, b) => b.count - a.count)
 
-  const list = sorted
-    .map(c => `- [${c.name}](/councillors/${c.slug}) - ${c.count} meetings`)
+  // Separate current and former councillors
+  const current: CouncillorData[] = []
+  const former: CouncillorData[] = []
+
+  for (const c of all) {
+    // Find canonical name for this councillor
+    const canonicalName = Object.keys(VERIFIED_COUNCILLORS).find(
+      key => VERIFIED_COUNCILLORS[key].slug === c.slug
+    )
+    if (canonicalName && isCurrentCouncillor(canonicalName)) {
+      current.push(c)
+    } else {
+      former.push(c)
+    }
+  }
+
+  const currentList = current
+    .map(c => `- [${c.name}](/councillors/current/${c.slug}) - ${c.count} meetings`)
+    .join("\n")
+
+  const formerList = former
+    .map(c => `- [${c.name}](/councillors/former/${c.slug}) - ${c.count} meetings`)
     .join("\n")
 
   return `---
@@ -542,9 +904,13 @@ type: councillor-index
 
 Browse London City Council members by their meeting attendance and voting records.
 
-## All Councillors
+## Current Council (2022-2026)
 
-${list}
+${currentList}
+
+## Former Councillors
+
+${formerList}
 `
 }
 
@@ -611,28 +977,53 @@ async function main() {
   // Step 6: Generate councillor pages
   console.log("\n📝 Generating councillor pages...")
 
+  // Create current and former subdirectories
+  const currentDir = path.join(councillorsDir, "current")
+  const formerDir = path.join(councillorsDir, "former")
+  await fs.mkdir(currentDir, { recursive: true })
+  await fs.mkdir(formerDir, { recursive: true })
+
   // Generate index page
   const indexContent = generateCouncillorsIndexPage(councillors)
   await fs.writeFile(path.join(councillorsDir, "index.md"), indexContent)
   console.log("   ✓ Councillors index")
 
-  // Generate individual pages (limit to top 50 by meeting count to avoid API limits)
-  const topCouncillors = Array.from(councillors.values())
+  // Generate individual pages for ALL verified councillors
+  const allCouncillors = Array.from(councillors.values())
     .sort((a, b) => b.count - a.count)
-    .slice(0, 50)
 
-  for (const data of topCouncillors) {
+  let currentCount = 0
+  let formerCount = 0
+
+  for (const data of allCouncillors) {
+    // Find canonical name for this councillor
+    const canonicalName = Object.keys(VERIFIED_COUNCILLORS).find(
+      key => VERIFIED_COUNCILLORS[key].slug === data.slug
+    )
+
+    if (!canonicalName) continue
+
+    const isCurrent = isCurrentCouncillor(canonicalName)
+    const targetDir = isCurrent ? currentDir : formerDir
+
     const { summary, questions } = await generateSummary(anthropic, "councillor", data, skipAI)
-    const content = generateCouncillorPage(data, summary, questions)
-    const filePath = path.join(councillorsDir, `${data.slug}.md`)
+    const content = generateCouncillorPage(data, summary, questions, canonicalName)
+    const filePath = path.join(targetDir, `${data.slug}.md`)
     await fs.writeFile(filePath, content)
-    console.log(`   ✓ ${data.name}`)
+
+    if (isCurrent) {
+      currentCount++
+      console.log(`   ✓ ${data.name} (current)`)
+    } else {
+      formerCount++
+      console.log(`   ✓ ${data.name} (former)`)
+    }
   }
 
   console.log("\n✅ Generation complete!")
   console.log(`   Committee pages: ${committees.size}`)
   console.log(`   Year pages: ${years.size}`)
-  console.log(`   Councillor pages: ${topCouncillors.length + 1}`)
+  console.log(`   Councillor pages: ${currentCount} current, ${formerCount} former`)
 }
 
 main().catch(console.error)
