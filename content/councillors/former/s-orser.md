@@ -2,7 +2,7 @@
 title: "S. Orser"
 type: councillor
 slug: "s-orser"
-meetingCount: 108
+meetingCount: 112
 yearsActive: "2011 - 2014"
 prefillQuestions:
   - "What were the key decisions?"
@@ -16,6 +16,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 - Strategic Priorities and Policy Committee
 - Civic Works Committee
+- Budget Committee
 - City Council
 
 ## Years Active
@@ -24,13 +25,13 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meeting Attendance
 
-- [Strategic Priorities and Policy Committee](/months/2012-06/2012-06-06 Strategic Priorities and Policy Committee) - Wed Jun 06 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Civic Works Committee](/months/2012-01/2012-01-25 Civic Works Committee) - Wed Jan 25 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/months/2013-01/2013-01-09 Strategic Priorities and Policy Committee) - Wed Jan 09 2013 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/months/2014-08/2014-08-27 Strategic Priorities and Policy Committee) - Wed Aug 27 2014 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Council](/months/2013-09/2013-09-17 Council) - Tue Sep 17 2013 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/months/2013-10/2013-10-22 Strategic Priorities and Policy Committee) - Tue Oct 22 2013 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Council](/months/2012-10/2012-10-09 Council) - Tue Oct 09 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/months/2012-10/2012-10-09 Strategic Priorities and Policy Committee) - Tue Oct 09 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Council](/months/2011-10/2011-10-04 Council) - Tue Oct 04 2011 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Civic Works Committee](/months/2012-05/2012-05-29 Civic Works Committee) - Tue May 29 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2012-06/2012-06-06 Strategic Priorities and Policy Committee>) - Wed Jun 06 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Civic Works Committee](/months/2012-01/2012-01-25 Civic Works Committee>) - Wed Jan 25 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2013-01/2013-01-09 Strategic Priorities and Policy Committee>) - Wed Jan 09 2013 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [6TH REPORT OF THE (2013 BUDGET PUBLIC PARTICIPATION MEETING](/months/2013-02/2013-02-13 6TH REPORT OF THE (2013 BUDGET PUBLIC PARTICIPATION MEETING #2)>) - Wed Feb 13 2013 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2014-08/2014-08-27 Strategic Priorities and Policy Committee>) - Wed Aug 27 2014 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Council](/months/2013-09/2013-09-17 Council>) - Tue Sep 17 2013 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2013-10/2013-10-22 Strategic Priorities and Policy Committee>) - Tue Oct 22 2013 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Council](/months/2012-10/2012-10-09 Council>) - Tue Oct 09 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2012-10/2012-10-09 Strategic Priorities and Policy Committee>) - Tue Oct 09 2012 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Council](/months/2011-10/2011-10-04 Council>) - Tue Oct 04 2011 00:00:00 GMT+0000 (Coordinated Universal Time)

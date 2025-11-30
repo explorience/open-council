@@ -62,23 +62,23 @@ Browse London City Council members by their meeting attendance and voting record
 - [E. Skalski](/councillors/e-skalski) - 77 meetings
 - [J. Fyfe-Millar](/councillors/j-fyfe-millar) - 74 meetings
 - [B. Warner](/councillors/b-warner) - 74 meetings
+- [B. Westlake-Power](/councillors/b-westlake-power) - 72 meetings
 - [M. Hamou](/councillors/m-hamou) - 71 meetings
-- [B. Westlake-Power](/councillors/b-westlake-power) - 70 meetings
 - [B. Westlake-Power (Secretary)](/councillors/b-westlake-power-secretary) - 66 meetings
 - [K. Murray](/councillors/k-murray) - 66 meetings
 - [G. Barrett](/councillors/g-barrett) - 63 meetings
-- [G. Kotsifas](/councillors/g-kotsifas) - 58 meetings
+- [G. Kotsifas](/councillors/g-kotsifas) - 60 meetings
 - [P. Yeoman.](/councillors/p-yeoman) - 52 meetings
+- [I. Collins](/councillors/i-collins) - 50 meetings
 - [C. Cooper](/councillors/c-cooper) - 49 meetings
 - [D. Brown](/councillors/d-brown) - 49 meetings
-- [I. Collins](/councillors/i-collins) - 48 meetings
+- [C. Saunders](/councillors/c-saunders) - 48 meetings
 - [J. Davison](/councillors/j-davison) - 46 meetings
-- [C. Saunders](/councillors/c-saunders) - 46 meetings
-- [D.T. Brown](/councillors/d-t-brown) - 42 meetings
+- [D.T. Brown](/councillors/d-t-brown) - 46 meetings
+- [W.J. Armstrong](/councillors/w-j-armstrong) - 41 meetings
 - [S. Mathers](/councillors/s-mathers) - 40 meetings
 - [P. Kokkoros](/councillors/p-kokkoros) - 39 meetings
 - [S.E. White](/councillors/s-e-white) - 38 meetings
-- [W.J. Armstrong](/councillors/w-j-armstrong) - 37 meetings
 - [A. Anderson](/councillors/a-anderson) - 36 meetings
 - [S. Stafford](/councillors/s-stafford) - 36 meetings
 - [M. Feldberg](/councillors/m-feldberg) - 35 meetings
@@ -94,10 +94,10 @@ Browse London City Council members by their meeting attendance and voting record
 - [and S. Hillier.](/councillors/and-s-hillier) - 25 meetings
 - [and  M. Brown](/councillors/and-m-brown) - 25 meetings
 - [M. Corby](/councillors/m-corby) - 25 meetings
+- [A. Dunbar](/councillors/a-dunbar) - 25 meetings
 - [H. Usher](/councillors/h-usher) - 25 meetings
 - [B. Page](/councillors/b-page) - 24 meetings
 - [M. Pease](/councillors/m-pease) - 24 meetings
-- [A. Dunbar](/councillors/a-dunbar) - 23 meetings
 - [O. Katolyk](/councillors/o-katolyk) - 23 meetings
 - [J. Dann](/councillors/j-dann) - 23 meetings
 - [J. Adema](/councillors/j-adema) - 23 meetings
@@ -117,13 +117,13 @@ Browse London City Council members by their meeting attendance and voting record
 - [S. Khullar](/councillors/s-khullar) - 17 meetings
 - [J. Davies](/councillors/j-davies) - 17 meetings
 - [K. Gonyou](/councillors/k-gonyou) - 17 meetings
+- [A. Hagan](/councillors/a-hagan) - 17 meetings
 - [M. Butlin](/councillors/m-butlin) - 17 meetings
 - [Deputy  S. Lewis](/councillors/deputy-s-lewis) - 16 meetings
 - [S. Glover](/councillors/s-glover) - 16 meetings
 - [C. McCreery](/councillors/c-mccreery) - 16 meetings
 - [A. Pascual](/councillors/a-pascual) - 16 meetings
 - [A. Thompson](/councillors/a-thompson) - 15 meetings
-- [A. Hagan](/councillors/a-hagan) - 15 meetings
 - [J. Raycroft](/councillors/j-raycroft) - 15 meetings
 - [L. Mottram](/councillors/l-mottram) - 15 meetings
 - [A. Riley](/councillors/a-riley) - 15 meetings
@@ -138,6 +138,7 @@ Browse London City Council members by their meeting attendance and voting record
 - [M. Fabro](/councillors/m-fabro) - 13 meetings
 - [B. Westlake-Power (Acting Secretary)](/councillors/b-westlake-power-acting-secretary) - 12 meetings
 - [J. Wills](/councillors/j-wills) - 12 meetings
+- [J. Senese](/councillors/j-senese) - 12 meetings
 - [D. Popadic](/councillors/d-popadic) - 12 meetings
 - [M. Greguol](/councillors/m-greguol) - 12 meetings
 - [G. Smith](/councillors/g-smith) - 11 meetings
@@ -152,7 +153,8 @@ Browse London City Council members by their meeting attendance and voting record
 - [N. Musicco](/councillors/n-musicco) - 10 meetings
 - [J. McMillan](/councillors/j-mcmillan) - 10 meetings
 - [T. Macbeth](/councillors/t-macbeth) - 10 meetings
-- [J. Senese](/councillors/j-senese) - 10 meetings
+- [A.L. Barbon](/councillors/a-l-barbon) - 10 meetings
+- [G. Bridge](/councillors/g-bridge) - 10 meetings
 - [S. Datars Bere](/councillors/s-datars-bere) - 10 meetings
 - [R. Morris](/councillors/r-morris) - 9 meetings
 - [J. MacKay](/councillors/j-mackay) - 9 meetings
@@ -177,8 +179,6 @@ Browse London City Council members by their meeting attendance and voting record
 - [and H. Usher](/councillors/and-h-usher) - 8 meetings
 - [M. Vivian](/councillors/m-vivian) - 8 meetings
 - [P. Lupa](/councillors/p-lupa) - 8 meetings
-- [A.L. Barbon](/councillors/a-l-barbon) - 8 meetings
-- [G. Bridge](/councillors/g-bridge) - 8 meetings
 - [J. Lee](/councillors/j-lee) - 8 meetings
 - [S. Wise](/councillors/s-wise) - 8 meetings
 - [I. De Ceuster](/councillors/i-de-ceuster) - 8 meetings
@@ -246,6 +246,7 @@ Browse London City Council members by their meeting attendance and voting record
 - [Vanetia R.](/councillors/vanetia-r) - 4 meetings
 - [J. Skimming](/councillors/j-skimming) - 4 meetings
 - [C. Stark](/councillors/c-stark) - 4 meetings
+- [A. Macpherson](/councillors/a-macpherson) - 4 meetings
 - [J. Martin (Committee Secretary)](/councillors/j-martin-committee-secretary) - 4 meetings
 - [B. Armstrong (Acting Chair)](/councillors/b-armstrong-acting-chair) - 4 meetings
 - [M. Wu](/councillors/m-wu) - 4 meetings
@@ -344,6 +345,17 @@ Browse London City Council members by their meeting attendance and voting record
 - [J. Mc Millan](/councillors/j-mc-millan) - 2 meetings
 - [S. Wilson](/councillors/s-wilson) - 2 meetings
 - [Concillors S. Turner](/councillors/concillors-s-turner) - 2 meetings
+- [L. Rowe (Secretary). ALSO A. Zuidema](/councillors/l-rowe-secretary-also-a-zuidema) - 2 meetings
+- [J.P. Barber](/councillors/j-p-barber) - 2 meetings
+- [J. Braam](/councillors/j-braam) - 2 meetings
+- [B. Coxhead](/councillors/b-coxhead) - 2 meetings
+- [J.M. Fleming](/councillors/j-m-fleming) - 2 meetings
+- [P. Foto](/councillors/p-foto) - 2 meetings
+- [M. Hayward](/councillors/m-hayward) - 2 meetings
+- [J. Kobarda](/councillors/j-kobarda) - 2 meetings
+- [L. Palarchio](/councillors/l-palarchio) - 2 meetings
+- [M. Semeniuk](/councillors/m-semeniuk) - 2 meetings
+- [R. Sharpe](/councillors/r-sharpe) - 2 meetings
 - [S. Chambers](/councillors/s-chambers) - 2 meetings
 - [D. Huggins](/councillors/d-huggins) - 2 meetings
 - [L. McDougall](/councillors/l-mcdougall) - 2 meetings
@@ -352,7 +364,6 @@ Browse London City Council members by their meeting attendance and voting record
 - [J. Parsons](/councillors/j-parsons) - 2 meetings
 - [P. Squire (Acting Chair)](/councillors/p-squire-acting-chair) - 2 meetings
 - [with  P. Squire in the Chair](/councillors/with-p-squire-in-the-chair) - 2 meetings
-- [A. Macpherson](/councillors/a-macpherson) - 2 meetings
 - [A. Ostrowski](/councillors/a-ostrowski) - 2 meetings
 - [E. Williamson](/councillors/e-williamson) - 2 meetings
 - [Committee Members:  P. Van Meerbergen](/councillors/committee-members-p-van-meerbergen) - 2 meetings

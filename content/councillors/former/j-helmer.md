@@ -2,7 +2,7 @@
 title: "J. Helmer"
 type: councillor
 slug: "j-helmer"
-meetingCount: 544
+meetingCount: 546
 yearsActive: "2014 - 2022"
 prefillQuestions:
   - "What were the key decisions?"
@@ -21,6 +21,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - Corporate Services Committee
 - City Council
 - Community and Protective Services Committee
+- Budget Committee
 
 ## Years Active
 
@@ -28,13 +29,13 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meeting Attendance
 
-- [Audit Committee](/months/2021-09/2021-09-22 Audit Committee) - Wed Sep 22 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [4th Meeting of the Audit Committee](/months/2022-09/2022-09-07 4th Meeting of the Audit Committee) - Wed Sep 07 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Civic Works Committee](/months/2016-09/2016-09-07 Civic Works Committee) - Wed Sep 07 2016 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Civic Works Committee](/months/2021-10/2021-10-13 Civic Works Committee) - Wed Oct 13 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [17th Meeting of the Planning and Environment Committee](/months/2022-10/2022-10-05 17th Meeting of the Planning and Environment Committee) - Wed Oct 05 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/months/2017-11/2017-11-22 Strategic Priorities and Policy Committee) - Wed Nov 22 2017 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Civic Works Committee](/months/2015-05/2015-05-20 Civic Works Committee) - Wed May 20 2015 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/months/2017-05/2017-05-03 Strategic Priorities and Policy Committee) - Wed May 03 2017 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/months/2019-03/2019-03-20 Strategic Priorities and Policy Committee) - Wed Mar 20 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Corporate Services Committee](/months/2017-03/2017-03-01 Corporate Services Committee) - Wed Mar 01 2017 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Audit Committee](/months/2021-09/2021-09-22 Audit Committee>) - Wed Sep 22 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [4th Meeting of the Audit Committee](/months/2022-09/2022-09-07 4th Meeting of the Audit Committee>) - Wed Sep 07 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Civic Works Committee](/months/2016-09/2016-09-07 Civic Works Committee>) - Wed Sep 07 2016 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Civic Works Committee](/months/2021-10/2021-10-13 Civic Works Committee>) - Wed Oct 13 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [17th Meeting of the Planning and Environment Committee](/months/2022-10/2022-10-05 17th Meeting of the Planning and Environment Committee>) - Wed Oct 05 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2017-11/2017-11-22 Strategic Priorities and Policy Committee>) - Wed Nov 22 2017 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Civic Works Committee](/months/2015-05/2015-05-20 Civic Works Committee>) - Wed May 20 2015 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2017-05/2017-05-03 Strategic Priorities and Policy Committee>) - Wed May 03 2017 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](/months/2019-03/2019-03-20 Strategic Priorities and Policy Committee>) - Wed Mar 20 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Corporate Services Committee](/months/2017-03/2017-03-01 Corporate Services Committee>) - Wed Mar 01 2017 00:00:00 GMT+0000 (Coordinated Universal Time)

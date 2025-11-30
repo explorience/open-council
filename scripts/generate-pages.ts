@@ -751,7 +751,7 @@ function generateCommitteePage(
 ): string {
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
-    .map(m => `- [${m.title}](/${m.slug}) - ${m.date}`)
+    .map(m => `- [${m.title}](</${m.slug}>) - ${m.date}`)
     .join("\n")
 
   return `---
@@ -785,7 +785,7 @@ function generateYearPage(
 
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
-    .map(m => `- [${m.title}](/${m.slug}) - ${m.date}`)
+    .map(m => `- [${m.title}](</${m.slug}>) - ${m.date}`)
     .join("\n")
 
   return `---
@@ -838,7 +838,7 @@ function generateCouncillorPage(
 
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
-    .map(m => `- [${m.title}](/${m.slug}) - ${m.date}`)
+    .map(m => `- [${m.title}](</${m.slug}>) - ${m.date}`)
     .join("\n")
 
   return `---
