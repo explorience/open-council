@@ -43,19 +43,19 @@ Browse London City Council members by their meeting attendance and voting record
 - [H. Lysynski (Secretary)](/councillors/former/h-lysynski-secretary) - 139 meetings
 - [D.G. Henderson](/councillors/former/d-g-henderson) - 138 meetings
 - [J.B. Swan](/councillors/former/j-b-swan) - 134 meetings
-- [E. Hunt](/councillors/current/e-hunt) - 128 meetings
+- [E. Hunt](/councillors/former/e-hunt) - 128 meetings
 - [S. White](/councillors/former/s-white) - 122 meetings
-- [M. Schulthess](/councillors/current/m-schulthess) - 120 meetings
+- [M. Schulthess](/councillors/former/m-schulthess) - 120 meetings
 - [J.L. Baechler](/councillors/former/j-l-baechler) - 119 meetings
 - [N. Branscombe](/councillors/former/n-branscombe) - 115 meetings
 - [J. Zaifman;](/councillors/former/j-zaifman) - 113 meetings
 - [J.F. Fontana](/councillors/former/j-f-fontana) - 112 meetings
-- [E. Bennett](/councillors/current/e-bennett) - 109 meetings
+- [E. Bennett](/councillors/former/e-bennett) - 109 meetings
 - [S. Orser](/councillors/former/s-orser) - 108 meetings
-- [S. Corman](/councillors/current/s-corman) - 107 meetings
+- [S. Corman](/councillors/former/s-corman) - 107 meetings
 - [L. Livingstone](/councillors/former/l-livingstone) - 91 meetings
-- [K. Dickins](/councillors/current/k-dickins) - 87 meetings
-- [C. Smith](/councillors/current/c-smith) - 87 meetings
+- [K. Dickins](/councillors/former/k-dickins) - 87 meetings
+- [C. Smith](/councillors/former/c-smith) - 87 meetings
 - [A. Barbon](/councillors/former/a-barbon) - 86 meetings
 - [J. Martin (Secretary)](/councillors/j-martin-secretary) - 79 meetings
 - [K. Scherr](/councillors/k-scherr) - 79 meetings
