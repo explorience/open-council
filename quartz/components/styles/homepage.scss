@@ -6,7 +6,7 @@ body.simple-mode {
     display: none !important;
   }
 
-  .recent-notes {
+  .page-footer > .recent-notes {
     display: block !important;
   }
 }
@@ -18,13 +18,13 @@ body.advanced-mode {
   }
 
   // Hide recent notes on homepage in advanced mode
-  #quartz-body > .page > article > .recent-notes {
+  .page-footer > .recent-notes {
     display: none !important;
   }
 }
 
 // Hide explorer on homepage initially
-#quartz-body > .page > article > .explorer {
+.page-footer > .explorer {
   display: none;
   margin-top: 2rem;
   padding-top: 1rem;
@@ -36,23 +36,23 @@ body.advanced-mode {
 }
 
 // Homepage-specific layout adjustments
-.page[data-slug="index"] {
+body[data-slug="index"] {
   // Center content
-  & > article {
+  .center {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 1rem;
   }
 
   // Hide sidebars on homepage
-  & > .left-sidebar,
-  & > .right-sidebar {
+  .left.sidebar,
+  .right.sidebar {
     display: none;
   }
 }
 
 // Recent notes styling for homepage
-.page[data-slug="index"] .recent-notes {
+body[data-slug="index"] .recent-notes {
   max-width: 600px;
   margin: 2rem auto;
   padding: 0 1rem;
@@ -97,7 +97,7 @@ body.advanced-mode {
 }
 
 // Homepage header (mode toggle + darkmode)
-.page[data-slug="index"] .homepage-header {
+body[data-slug="index"] .homepage-header {
   display: flex;
   justify-content: flex-end;
   align-items: center;
