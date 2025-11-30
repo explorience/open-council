@@ -16,6 +16,23 @@ const TOP_K_COMPREHENSIVE = 150; // Comprehensive historical analysis
 
 export type LLMProvider = 'openai' | 'anthropic';
 
+/**
+ * Structured query analysis result
+ * Extracts metadata from query to guide retrieval strategy
+ */
+interface QueryAnalysis {
+  // Temporal
+  isMostRecent: boolean;          // "last meeting", "most recent", "latest"
+  specificMonth?: { month: number; year: number };  // "november 2025", "last month"
+  yearFilter?: number;            // "in 2024"
+
+  // Meeting type filter
+  meetingTypeFilter?: string;     // "Budget", "Planning", "Council", etc.
+
+  // Complexity
+  topK: number;
+}
+
 export class RAGService {
   private openai: OpenAI;
   private anthropic: Anthropic | null = null;
@@ -57,7 +74,12 @@ export class RAGService {
       /compare|comparison|versus|vs/,
       /all (meetings|decisions|votes) (about|on|regarding)/,
       /comprehensive|complete|full (summary|overview|history)/,
-      /(housing|homelessness|budget|planning) (policy|policies|decisions)/,
+      /(housing|homelessness|budget|planning|police|safety|climate|transit|brt|development) (policy|policies|decisions|funding|budget)/,
+      /why did council (approve|reject|vote|decide)/,  // "why did council approve X but reject Y"
+      /how did councillors vote/,  // voting record questions
+      /who voted (for|against|yes|no)/,
+      /what (alternatives|options|proposals)/,  // questions about competing perspectives
+      /fit with|reconcile|align with/,  // questions connecting different topics (e.g., trees vs climate plan)
     ];
 
     // Patterns that indicate medium complexity
@@ -69,9 +91,16 @@ export class RAGService {
       /what (meetings?|happened).*(in|during)/,
       /(took place|occurred|held) in/,
       /last (year|month|quarter)/,
-      /recent|latest/,
+      /last\s+(\w+\s+)?meeting/,  // "last meeting", "last council meeting", "last city council meeting"
+      /recent|latest|newest/,
+      /most recent/,
       /multiple|several|various/,
       /all.*voted|voting record/,
+      /this year|this month/,
+      /lately|recently/,
+      /what('s| is| has) (the )?status/,  // "what's the status of..."
+      /what('s| is) being done/,  // "what's being done about..."
+      /has council (voted|discussed|decided|approved)/,  // "has council voted on..."
     ];
 
     // Check for comprehensive patterns first
@@ -116,185 +145,271 @@ export class RAGService {
   }
 
   /**
-   * Check if query is asking about recent/latest meetings (for "most recent" sorting)
+   * Unified query analyzer - extracts all relevant metadata from a query
+   * This is the single source of truth for understanding user intent
    */
-  private isRecentQuery(query: string): boolean {
+  private analyzeQuery(query: string): QueryAnalysis {
     const lowerQuery = query.toLowerCase();
+
+    // 1. Determine complexity and TOP_K
+    const topK = this.analyzeQueryComplexity(query);
+
+    // 2. Check for "most recent" type queries
+    const isMostRecent = this.detectMostRecentIntent(lowerQuery);
+
+    // 3. Extract specific month/year if mentioned
+    const specificMonth = this.extractSpecificMonth(lowerQuery);
+
+    // 4. Extract year filter if just year mentioned
+    const yearFilter = this.extractYearFilter(lowerQuery);
+
+    // 5. Detect meeting type (committee, council, etc.)
+    const meetingTypeFilter = this.detectMeetingType(lowerQuery);
+
+    const analysis: QueryAnalysis = {
+      isMostRecent,
+      specificMonth: specificMonth || undefined,
+      yearFilter: yearFilter || undefined,
+      meetingTypeFilter,
+      topK,
+    };
+
+    // Log what we detected
+    const detected: string[] = [];
+    if (isMostRecent) detected.push('recent');
+    if (specificMonth) detected.push(`month:${specificMonth.month + 1}/${specificMonth.year}`);
+    if (yearFilter) detected.push(`year:${yearFilter}`);
+    if (meetingTypeFilter) detected.push(`type:${meetingTypeFilter}`);
+
+    if (detected.length > 0) {
+      console.log(`🔎 Query analysis: ${detected.join(', ')}`);
+    }
+
+    return analysis;
+  }
+
+  /**
+   * Detect if query wants the most recent/latest meetings
+   */
+  private detectMostRecentIntent(query: string): boolean {
     const recentPatterns = [
-      /most recent|latest|newest|last meeting/,
+      /most recent|latest|newest/,
+      /last\s+(\w+\s+)?meeting/,  // "last meeting", "last council meeting"
       /recent meeting/,
       /what.*happened.*recently/,
-      /latest (meeting|council|decision)/,
+      /what('s| is| has) (the )?status/,  // status queries want recent
     ];
-
-    return recentPatterns.some(pattern => pattern.test(lowerQuery));
+    return recentPatterns.some(pattern => pattern.test(query));
   }
 
   /**
-   * Check if query asks about a specific time period (month/year)
+   * Extract specific month/year from query
    */
-  private isSpecificTimePeriodQuery(query: string): boolean {
-    const lowerQuery = query.toLowerCase();
-    const timePeriodPatterns = [
-      /this month|current month|last month|previous month/,
-      /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,
-      /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,
-      /meetings?.*(in|from|during|for) (january|february|march|april|may|june|july|august|september|october|november|december)/,
-      /meetings?.*(this|last|current|previous) month/,
-      /what (meetings?|happened).*(in|during) (january|february|march|april|may|june|july|august|september|october|november|december)/,
-      /what (meetings?|happened).*(this|last) month/,
-      /(took place|occurred|held) (in |this |last )?(january|february|march|april|may|june|july|august|september|october|november|december|month)/,
-    ];
-
-    return timePeriodPatterns.some(pattern => pattern.test(lowerQuery));
-  }
-
-  /**
-   * Extract month and year from a temporal query
-   * Returns { month: 0-11, year: number } or null
-   */
-  private extractDateRange(query: string): { month: number; year: number } | null {
-    const lowerQuery = query.toLowerCase();
+  private extractSpecificMonth(query: string): { month: number; year: number } | null {
     const months: Record<string, number> = {
       january: 0, february: 1, march: 2, april: 3, may: 4, june: 5,
       july: 6, august: 7, september: 8, october: 9, november: 10, december: 11
     };
 
-    // Match "this month" - use current date (November 2025)
-    if (/this month|current month/.test(lowerQuery)) {
+    // "this month"
+    if (/this month|current month/.test(query)) {
       const now = new Date();
-      return {
-        month: now.getMonth(),
-        year: now.getFullYear()
-      };
+      return { month: now.getMonth(), year: now.getFullYear() };
     }
 
-    // Match "last month"
-    if (/last month|previous month/.test(lowerQuery)) {
+    // "last month"
+    if (/last month|previous month/.test(query)) {
       const now = new Date();
       const lastMonth = now.getMonth() === 0 ? 11 : now.getMonth() - 1;
       const year = now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear();
       return { month: lastMonth, year };
     }
 
-    // Match "in november 2025", "november 2025", etc.
+    // "november 2025", "in november 2025"
     const monthYearPattern = /(january|february|march|april|may|june|july|august|september|october|november|december)\s*(\d{4})/;
-    const match = lowerQuery.match(monthYearPattern);
-
+    const match = query.match(monthYearPattern);
     if (match) {
-      return {
-        month: months[match[1]],
-        year: parseInt(match[2], 10)
-      };
+      return { month: months[match[1]], year: parseInt(match[2], 10) };
     }
 
-    // Match just month name (assume current or most recent year with data)
-    const monthOnlyPattern = /\b(january|february|march|april|may|june|july|august|september|october|november|december)\b/;
-    const monthMatch = lowerQuery.match(monthOnlyPattern);
-
-    if (monthMatch) {
-      // Default to 2025 if no year specified (most recent data year)
-      return {
-        month: months[monthMatch[1]],
-        year: 2025
-      };
+    // Just month name without year - only if specifically asking about meetings in that month
+    if (/meeting.*in\s+(january|february|march|april|may|june|july|august|september|october|november|december)\b/.test(query) ||
+        /in\s+(january|february|march|april|may|june|july|august|september|october|november|december)\b.*meeting/.test(query)) {
+      const monthMatch = query.match(/\b(january|february|march|april|may|june|july|august|september|october|november|december)\b/);
+      if (monthMatch) {
+        return { month: months[monthMatch[1]], year: new Date().getFullYear() };
+      }
     }
 
     return null;
   }
 
   /**
-   * Filter results to only include meetings from a specific month/year
+   * Extract year filter from query
    */
-  private filterByDateRange(
-    results: SearchResult[],
-    dateRange: { month: number; year: number }
-  ): SearchResult[] {
-    return results.filter(result => {
-      const meetingDate = new Date(result.metadata.meeting_date);
-      return (
-        meetingDate.getMonth() === dateRange.month &&
-        meetingDate.getFullYear() === dateRange.year
-      );
-    });
+  private extractYearFilter(query: string): number | null {
+    // "in 2024", "during 2023", "from 2024"
+    const yearMatch = query.match(/\b(in|during|from|for)\s+(20\d{2})\b/);
+    if (yearMatch) {
+      return parseInt(yearMatch[2], 10);
+    }
+    return null;
   }
 
   /**
-   * Retrieve relevant context from vector store with dynamic TOP_K
-   * For temporal queries, retrieve extra results and apply date filtering/sorting
+   * Detect specific meeting type/committee from query
+   * Returns a filter string to match against meeting_title
+   */
+  private detectMeetingType(query: string): string | undefined {
+    // Map of keywords to meeting title patterns
+    // Order matters - more specific first
+    const meetingTypes: Array<{ patterns: RegExp[]; filter: string }> = [
+      // Specific committees - these have consistent naming
+      {
+        patterns: [/planning\s*(and\s*environment)?\s*committee/, /planning committee/],
+        filter: 'Planning',
+      },
+      {
+        patterns: [/budget\s*committee/],
+        filter: 'Budget Committee',
+      },
+      {
+        patterns: [/community\s*(and\s*)?(protective\s*)?services?\s*committee/, /cps\s*committee/],
+        filter: 'Community',
+      },
+      {
+        patterns: [/corporate\s*services?\s*committee/, /infrastructure\s*(and\s*)?corporate/, /ics\s*committee/],
+        filter: 'Corporate Services',
+      },
+      {
+        patterns: [/strategic\s*priorities/, /sppc/],
+        filter: 'Strategic Priorities',
+      },
+      // Main council - titles vary: "Meeting of City Council" OR "Council Meeting"
+      // Use simple "Council" filter but NOT for committee queries
+      {
+        patterns: [/(city\s+)?council\s+meeting/, /council\s+meeting/, /\bcouncil\b(?!\s*(committee|in))/],
+        filter: 'Council',  // Simpler filter that matches both "Meeting of City Council" and "Council Meeting"
+      },
+    ];
+
+    for (const { patterns, filter } of meetingTypes) {
+      for (const pattern of patterns) {
+        if (pattern.test(query)) {
+          return filter;
+        }
+      }
+    }
+
+    return undefined;
+  }
+
+  /**
+   * Retrieve relevant context from vector store
+   * Uses unified query analysis to determine optimal retrieval strategy
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
-    const topK = this.analyzeQueryComplexity(query);
-    const queryEmbedding = await this.generateQueryEmbedding(query);
+    // Analyze query to extract all metadata
+    const analysis = this.analyzeQuery(query);
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter } = analysis;
 
-    // Check for different types of temporal queries
-    const isRecent = this.isRecentQuery(query);
-    const isSpecificPeriod = this.isSpecificTimePeriodQuery(query);
-    const dateRange = this.extractDateRange(query);
+    // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
+    // Use date-range search, bypassing semantic similarity
+    if (specificMonth) {
+      console.log(`📆 Specific month query: ${specificMonth.month + 1}/${specificMonth.year}`);
 
-    // For any temporal query, retrieve more results to ensure we capture the right time period
-    const retrieveK = (isRecent || isSpecificPeriod) ? Math.max(topK * 5, 100) : topK;
-
-    let results = await this.vectorStore.search(queryEmbedding, retrieveK);
-
-    // Handle specific time period queries (e.g., "meetings in november 2025")
-    // Use direct date filtering instead of semantic search + post-filter
-    if (isSpecificPeriod && dateRange) {
-      console.log(`📆 Specific time period query detected: ${dateRange.month + 1}/${dateRange.year}`);
-
-      // Use date-filtered search to get ALL meetings from this period
       const dateResults = await this.vectorStore.searchByDateRange(
-        dateRange.month,
-        dateRange.year,
-        200  // Get plenty of chunks to ensure we capture all meetings
+        specificMonth.month,
+        specificMonth.year,
+        200
       );
 
       if (dateResults.length > 0) {
-        // Sort by date
-        results = dateResults
-          .sort((a, b) => {
-            const dateA = new Date(a.metadata.meeting_date).getTime();
-            const dateB = new Date(b.metadata.meeting_date).getTime();
-            return dateB - dateA; // Most recent first
-          });
-
-        // Get unique meetings from the results
-        const seenMeetings = new Set<string>();
-        for (const result of results) {
-          const meetingKey = `${result.metadata.meeting_title}-${result.metadata.meeting_date}`;
-          seenMeetings.add(meetingKey);
+        // If also filtering by meeting type, apply that filter
+        let filtered = dateResults;
+        if (meetingTypeFilter) {
+          filtered = dateResults.filter(r =>
+            r.metadata.meeting_title.includes(meetingTypeFilter)
+          );
+          console.log(`   Filtered to ${filtered.length} chunks for "${meetingTypeFilter}"`);
         }
-        console.log(`   Found ${seenMeetings.size} unique meetings in ${dateRange.month + 1}/${dateRange.year}`);
 
-        // Return results (may be fewer than topK if not many meetings in that period)
-        return results.slice(0, topK);
+        // Sort by date descending
+        const sorted = filtered.sort((a, b) => {
+          const dateA = new Date(a.metadata.meeting_date).getTime();
+          const dateB = new Date(b.metadata.meeting_date).getTime();
+          return dateB - dateA;
+        });
+
+        this.logUniqueMeetings(sorted);
+        return sorted.slice(0, topK);
       } else {
-        console.log(`   ⚠️ No meetings found in ${dateRange.month + 1}/${dateRange.year}`);
-        // Return empty or let the LLM know no meetings were found
+        console.log(`   ⚠️ No meetings found in ${specificMonth.month + 1}/${specificMonth.year}`);
         return [];
       }
     }
 
-    // Handle "most recent" type queries - sort by date
-    if (isRecent && results.length > 0) {
-      console.log(`🕐 Recent query detected - retrieved ${results.length} results, sorting by date...`);
-      results = results
-        .sort((a, b) => {
-          const dateA = new Date(a.metadata.meeting_date).getTime();
-          const dateB = new Date(b.metadata.meeting_date).getTime();
-          return dateB - dateA; // Most recent first
-        })
-        .slice(0, topK);
+    // Strategy 2: "Most recent" query (e.g., "last council meeting", "latest updates")
+    // Bypass semantic search, query by date with optional meeting type filter
+    if (isMostRecent) {
+      console.log(`🕐 Most recent query${meetingTypeFilter ? ` (filtered: ${meetingTypeFilter})` : ''}`);
 
-      // Log the date range for debugging
-      if (results.length > 0) {
-        const oldest = results[results.length - 1].metadata.meeting_date;
-        const newest = results[0].metadata.meeting_date;
-        console.log(`📅 Date range after sorting: ${oldest} to ${newest} (returning top ${topK})`);
+      const recentResults = await this.vectorStore.getMostRecent(topK * 3, meetingTypeFilter);
+
+      if (recentResults.length > 0) {
+        this.logUniqueMeetings(recentResults);
+        return recentResults.slice(0, topK);
+      }
+
+      // If filtering by meeting type returned nothing, try without filter
+      if (meetingTypeFilter) {
+        console.log(`   No results with filter, trying without...`);
+        const fallbackResults = await this.vectorStore.getMostRecent(topK * 3);
+        if (fallbackResults.length > 0) {
+          this.logUniqueMeetings(fallbackResults);
+          return fallbackResults.slice(0, topK);
+        }
       }
     }
 
+    // Strategy 3: Semantic search with optional meeting type filter
+    // For topic-based queries like "housing decisions" or "budget discussions"
+    const queryEmbedding = await this.generateQueryEmbedding(query);
+
+    if (meetingTypeFilter) {
+      // Use filtered semantic search
+      const filteredResults = await this.vectorStore.searchWithFilter(
+        queryEmbedding,
+        topK,
+        meetingTypeFilter
+      );
+
+      if (filteredResults.length > 0) {
+        this.logUniqueMeetings(filteredResults);
+        return filteredResults;
+      }
+
+      // Fallback to unfiltered if no results
+      console.log(`   No results with filter "${meetingTypeFilter}", using unfiltered search`);
+    }
+
+    // Default: pure semantic search
+    const results = await this.vectorStore.search(queryEmbedding, topK);
     return results;
+  }
+
+  /**
+   * Helper to log unique meetings in results
+   */
+  private logUniqueMeetings(results: SearchResult[]): void {
+    const seenMeetings = new Set<string>();
+    for (const result of results) {
+      seenMeetings.add(result.metadata.meeting_title);
+    }
+    const dates = results.map(r => r.metadata.meeting_date).sort();
+    if (dates.length > 0) {
+      console.log(`   Found ${results.length} chunks from ${seenMeetings.size} meetings (${dates[0]} to ${dates[dates.length - 1]})`);
+    }
   }
 
   /**

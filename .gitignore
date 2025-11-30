@@ -4,3 +4,6 @@ public/
 .quartz-cache/
 tsconfig.tsbuildinfo
 __pycache__/
+
+# Vector database - regenerate on deploy, don't persist stale data
+lancedb/

@@ -21,8 +21,71 @@ export class VectorStore {
     try {
       this.table = await this.db.openTable(TABLE_NAME);
       console.log(`Opened existing table: ${TABLE_NAME}`);
+
+      // Log the date range of records in the database
+      await this.logDateRange();
     } catch (error) {
       console.log(`Table ${TABLE_NAME} does not exist yet`);
+    }
+  }
+
+  /**
+   * Log the date range of records in the database for debugging
+   * Uses targeted queries to find actual min/max dates rather than sampling
+   */
+  private async logDateRange(): Promise<void> {
+    if (!this.table) return;
+
+    try {
+      const count = await this.table.countRows();
+      console.log(`📊 Database has ${count} records`);
+
+      if (count === 0) return;
+
+      // Use dummy vector to query, then sort to find actual min/max dates
+      const dummyVector = new Array(1536).fill(0);
+
+      // Get oldest records
+      const oldestResults = await this.table
+        .vectorSearch(dummyVector)
+        .where(`meeting_date >= '2000-01-01'`) // Far past date to get all
+        .limit(100)
+        .toArray();
+
+      // Get newest records (check recent years progressively)
+      let newestDate = '';
+      for (const yearsAgo of [0, 1, 2, 5, 10, 20]) {
+        const cutoff = new Date();
+        cutoff.setFullYear(cutoff.getFullYear() - yearsAgo);
+        const cutoffStr = cutoff.toISOString().split('T')[0];
+
+        const recentResults = await this.table
+          .vectorSearch(dummyVector)
+          .where(`meeting_date >= '${cutoffStr}'`)
+          .limit(500)
+          .toArray();
+
+        if (recentResults.length > 0) {
+          const sortedDates = recentResults
+            .map((r: any) => r.meeting_date)
+            .filter(Boolean)
+            .sort()
+            .reverse();
+          newestDate = sortedDates[0];
+          break;
+        }
+      }
+
+      if (oldestResults.length > 0) {
+        const oldestDates = oldestResults
+          .map((r: any) => r.meeting_date)
+          .filter(Boolean)
+          .sort();
+        const oldestDate = oldestDates[0];
+        console.log(`📅 Date range in DB: ${oldestDate} to ${newestDate || 'unknown'}`);
+      }
+    } catch (error) {
+      console.log('Could not determine date range:', error);
     }
   }
 
@@ -208,6 +271,132 @@ export class VectorStore {
       console.error('Error in date range search:', error);
       // Fallback: return empty array
       return [];
+    }
+  }
+
+  /**
+   * Get the most recent chunks ordered by date (bypasses semantic search)
+   * Use this for "most recent" or "latest" type queries
+   * Uses progressive date range expansion to ensure we find recent data
+   */
+  async getMostRecent(limit: number = 50, meetingTypeFilter?: string): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    const dummyVector = new Array(1536).fill(0);
+    const now = new Date();
+
+    // Try progressively broader date ranges until we find enough results
+    const monthsToTry = [2, 6, 12, 24, 60]; // 2 months, 6 months, 1 year, 2 years, 5 years
+
+    for (const months of monthsToTry) {
+      const cutoff = new Date(now);
+      cutoff.setMonth(cutoff.getMonth() - months);
+      const cutoffStr = cutoff.toISOString().split('T')[0];
+
+      try {
+        let whereClause = `meeting_date >= '${cutoffStr}'`;
+
+        // Add meeting type filter if specified (e.g., "Council", "Budget", "Planning")
+        if (meetingTypeFilter) {
+          whereClause += ` AND meeting_title LIKE '%${meetingTypeFilter}%'`;
+          // For "Council" filter, exclude committee meetings which also contain "Council" in path
+          if (meetingTypeFilter === 'Council') {
+            whereClause += ` AND meeting_title NOT LIKE '%Committee%'`;
+          }
+        }
+
+        const results = await this.table
+          .vectorSearch(dummyVector)
+          .where(whereClause)
+          .limit(limit * 5) // Fetch extra to ensure good coverage after sorting
+          .toArray();
+
+        if (results.length > 0) {
+          // Sort by date descending (newest first)
+          const sorted = results
+            .sort((a: any, b: any) => {
+              const dateA = new Date(a.meeting_date).getTime();
+              const dateB = new Date(b.meeting_date).getTime();
+              return dateB - dateA;
+            })
+            .slice(0, limit);
+
+          console.log(`📅 Found ${results.length} chunks from last ${months} months${meetingTypeFilter ? ` (filtered: ${meetingTypeFilter})` : ''}`);
+          if (sorted.length > 0) {
+            console.log(`   Most recent: ${sorted[0].meeting_date} - ${sorted[0].meeting_title}`);
+          }
+
+          return sorted.map((result: any) => ({
+            text: result.text,
+            score: 0,
+            metadata: {
+              meeting_title: result.meeting_title,
+              meeting_date: result.meeting_date,
+              meeting_type: result.meeting_type,
+              meeting_url: result.meeting_url,
+              item_number: result.item_number || undefined,
+              item_title: result.item_title || undefined,
+              chunk_type: result.chunk_type,
+              file_path: result.file_path,
+            },
+          }));
+        }
+      } catch (error) {
+        console.error(`Error querying last ${months} months:`, error);
+      }
+    }
+
+    console.log('⚠️ No recent meetings found in any date range');
+    return [];
+  }
+
+  /**
+   * Search with optional meeting type filter (for committee-specific queries)
+   */
+  async searchWithFilter(
+    queryEmbedding: number[],
+    limit: number,
+    meetingTypeFilter?: string
+  ): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    try {
+      let query = this.table.vectorSearch(queryEmbedding);
+
+      if (meetingTypeFilter) {
+        let whereClause = `meeting_title LIKE '%${meetingTypeFilter}%'`;
+        // For "Council" filter, exclude committee meetings
+        if (meetingTypeFilter === 'Council') {
+          whereClause += ` AND meeting_title NOT LIKE '%Committee%'`;
+        }
+        query = query.where(whereClause);
+        console.log(`🔍 Filtering results to meetings containing: "${meetingTypeFilter}"`);
+      }
+
+      const results = await query.limit(limit).toArray();
+
+      return results.map((result: any) => ({
+        text: result.text,
+        score: result._distance || 0,
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error) {
+      console.error('Error in filtered search:', error);
+      // Fallback to regular search
+      return this.search(queryEmbedding, limit);
     }
   }
 
