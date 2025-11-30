@@ -6,12 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Mo Salih's voting attendance rate and pattern on key municipal issues during their time on council?"
+  - "Which specific committees did Mo Salih serve on, and what was their level of participation in committee work?"
+  - "How did Mo Salih's meeting attendance compare to other council members during overlapping terms of service?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year term. During this period, they attended 350 council meetings, indicating regular engagement with municipal governance responsibilities.
+
+Based on the available data, Mo Salih served on four committees during their tenure, though the specific committee names are not clearly displayed in the records provided. Their eight-year service span suggests they may have been re-elected at least once, as municipal terms in Ontario are typically four years in length.
 
 ## Terms of Service
 

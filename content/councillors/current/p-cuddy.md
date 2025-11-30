@@ -6,12 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "How does his meeting attendance rate of 204 sessions compare to other council members during the same 2022-2025 period?"
+  - "Which specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating significant engagement through his attendance at 204 council meetings. His participation extends beyond regular council sessions, as he has served on eight different committees during his tenure, indicating broad involvement across various areas of municipal governance.
+
+Cuddy's meeting attendance record of 204 sessions over his council term suggests consistent participation in the democratic process and municipal decision-making. His service on multiple committees shows a willingness to engage with diverse aspects of city administration and policy development across different portfolios.
 
 ## Terms of Service
 

@@ -6,12 +6,12 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development projects, and public services?"
+  - "How often does Susan Stevenson vote with the majority versus taking independent positions on council matters?"
+  - "What specific committees does Susan Stevenson serve on and what has been her contribution to committee work and recommendations?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Susan Stevenson has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 178 meetings during this period. Her council involvement includes service on eight different committees, indicating broad engagement across various areas of municipal governance. This level of meeting attendance and committee participation suggests consistent involvement in the council's work over her term.
 
 ## Terms of Service
 

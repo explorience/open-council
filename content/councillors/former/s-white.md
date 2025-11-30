@@ -6,12 +6,12 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees did Sandy White serve on during their time on London City Council?"
+  - "How did Sandy White's meeting attendance record of 164 meetings compare to other council members during the 2011-2014 term?"
+  - "What was Sandy White's voting pattern on key municipal issues such as budget approvals, development proposals, or policy changes during their council term?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Sandy White served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 164 meetings during their four-year term. White served on five different committees during their tenure, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance and committee involvement suggests consistent engagement in the council's work and municipal governance responsibilities throughout their term.
 
 ## Terms of Service
 

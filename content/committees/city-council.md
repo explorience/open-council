@@ -4,14 +4,14 @@ type: committee
 slug: "city-council"
 meetingCount: 169
 prefillQuestions:
-  - "How can residents attend City Council meetings or participate in the decision-making process through delegations or public input sessions?"
-  - "What is the difference between regular Council meetings and special meetings, and how are the agendas for these meetings determined and made available to the public?"
-  - "What major policy decisions or budget items has the City Council addressed in recent meetings that directly impact residents' daily lives and city services?"
+  - "How can residents attend City Council meetings or access meeting agendas and minutes to stay informed about decisions affecting their neighborhoods?"
+  - "What is the process for citizens to bring forward concerns or proposals to City Council, and during which meetings can public input be provided?"
+  - "What types of issues typically require special Council meetings versus regular meetings, and how are residents notified when urgent municipal matters are being discussed?"
 ---
 
-The City Council of London, Ontario serves as the primary legislative and decision-making body for municipal governance. As the elected governing body, the Council is responsible for setting city-wide policies, approving the municipal budget, enacting bylaws, and making strategic decisions that affect the daily lives of London's residents. The Council typically addresses a broad range of municipal issues including urban planning and development, transportation infrastructure, public safety, environmental initiatives, housing policies, economic development, and the delivery of essential city services.
+The London City Council serves as the primary governing body for the City of London, Ontario, Canada, functioning as the municipal legislature responsible for making key decisions that affect the entire city. As the main decision-making authority, City Council typically handles a broad range of municipal matters including budget approval, bylaw creation and amendments, land use planning and zoning decisions, infrastructure projects, public services oversight, and policy development. The Council addresses both routine administrative matters and significant strategic initiatives that shape the city's future development and operations.
 
-With 169 meetings held to date, including regular sessions and special meetings, the Council demonstrates an active engagement with municipal affairs. Special meetings are often called to address urgent matters or to provide additional time for complex issues that require extended deliberation. The Council's work involves reviewing staff reports, hearing from community delegations, debating policy options, and voting on matters ranging from routine administrative approvals to major strategic initiatives that shape the city's future development and quality of life for its residents.
+With 169 meetings held to date, including both regular and special sessions, the Council demonstrates an active engagement in municipal governance. The mix of regular "Council" meetings and numbered special meetings (such as the "3rd Special Meeting," "8th Special Council Meeting," and various numbered meetings) suggests the body convenes frequently to address both scheduled business and urgent matters requiring immediate attention. The Council's work encompasses everything from municipal budget deliberations and development applications to public health initiatives, transportation planning, environmental policies, and community services, making it the central forum where London's municipal priorities are debated, decided, and implemented.
 
 ## Recent Meetings
 
