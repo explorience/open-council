@@ -13,7 +13,7 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "npx quartz build",
+    "build": "tsx scripts/generate-pages.ts && npx quartz build",
     "dev": "npx quartz build --serve",
     "start": "npx quartz build --serve --port 8080",
     "check": "tsc --noEmit && npx prettier . --check",
