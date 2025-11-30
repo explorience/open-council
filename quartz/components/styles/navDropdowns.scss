@@ -1,0 +1,139 @@
+.nav-dropdowns {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  margin: 0 auto;
+  max-width: 700px;
+
+  @media (max-width: 600px) {
+    gap: 0.375rem;
+  }
+}
+
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-trigger,
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.5rem 0.875rem;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--darkgray);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-decoration: none;
+
+  &:hover {
+    background: var(--lightgray);
+    border-color: var(--gray);
+  }
+
+  svg {
+    width: 16px;
+    height: 16px;
+    color: var(--gray);
+  }
+
+  @media (max-width: 600px) {
+    padding: 0.375rem 0.625rem;
+    font-size: 0.8rem;
+  }
+}
+
+.dropdown-arrow {
+  transition: transform 0.2s ease;
+}
+
+.nav-dropdown-trigger[aria-expanded="true"] {
+  background: var(--lightgray);
+  border-color: var(--secondary);
+
+  .dropdown-arrow {
+    transform: rotate(180deg);
+  }
+}
+
+.nav-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 220px;
+  max-height: 320px;
+  overflow-y: auto;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease, visibility 0.15s ease;
+  z-index: 100;
+
+  .nav-dropdown-trigger[aria-expanded="true"] + & {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.nav-dropdown-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.625rem 0.875rem;
+  color: var(--darkgray);
+  text-decoration: none;
+  font-size: 0.875rem;
+  transition: background-color 0.1s ease;
+
+  &:hover {
+    background: var(--lightgray);
+  }
+
+  &:first-child {
+    border-radius: 7px 7px 0 0;
+  }
+
+  &:last-child {
+    border-radius: 0 0 7px 7px;
+  }
+}
+
+.item-name {
+  flex: 1;
+}
+
+.item-count {
+  font-size: 0.75rem;
+  color: var(--gray);
+  background: var(--lightgray);
+  padding: 0.125rem 0.375rem;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+}
+
+.nav-search-trigger {
+  svg {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+// Hide "Browse All" by default, show explorer instead in advanced mode
+.nav-browse-all {
+  @media (max-width: 600px) {
+    span {
+      display: none;
+    }
+  }
+}

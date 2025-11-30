@@ -25,6 +25,11 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import OpenCouncilHeader from "./OpenCouncilHeader"
 import ChatBot from "./ChatBot"
+import HomepageHero from "./HomepageHero"
+import NavDropdowns from "./NavDropdowns"
+import PrefillQuestions from "./PrefillQuestions"
+import ModeToggle from "./ModeToggle"
+import DashboardView from "./DashboardView"
 
 export {
   ArticleTitle,
@@ -53,5 +58,10 @@ export {
   Flex,
   ConditionalRender,
   OpenCouncilHeader,
-  ChatBot
+  ChatBot,
+  HomepageHero,
+  NavDropdowns,
+  PrefillQuestions,
+  ModeToggle,
+  DashboardView,
 }

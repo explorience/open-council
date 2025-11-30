@@ -1,0 +1,88 @@
+.mode-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mode-toggle-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 0.75rem;
+  color: var(--gray);
+}
+
+.mode-label {
+  transition: color 0.2s ease;
+
+  &.simple-label {
+    color: var(--secondary);
+  }
+
+  &.advanced-label {
+    color: var(--gray);
+  }
+}
+
+.mode-toggle-btn[aria-pressed="true"] {
+  .simple-label {
+    color: var(--gray);
+  }
+
+  .advanced-label {
+    color: var(--secondary);
+  }
+
+  .mode-switch-thumb {
+    transform: translateX(16px);
+  }
+}
+
+.mode-switch {
+  display: flex;
+  align-items: center;
+  width: 36px;
+  height: 20px;
+  background: var(--lightgray);
+  border-radius: 10px;
+  padding: 2px;
+  transition: background-color 0.2s ease;
+}
+
+.mode-switch-thumb {
+  width: 16px;
+  height: 16px;
+  background: var(--secondary);
+  border-radius: 50%;
+  transition: transform 0.2s ease;
+}
+
+// Hide elements based on mode
+body.simple-mode {
+  .advanced-only {
+    display: none !important;
+  }
+}
+
+body.advanced-mode {
+  .simple-only {
+    display: none !important;
+  }
+}
+
+// Also handle html-level class for immediate mode application
+html.simple-mode {
+  .advanced-only {
+    display: none !important;
+  }
+}
+
+html.advanced-mode {
+  .simple-only {
+    display: none !important;
+  }
+}

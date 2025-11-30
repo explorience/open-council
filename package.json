@@ -22,7 +22,8 @@
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "chat:generate": "tsx server/generate-embeddings.ts",
     "chat:server": "tsx server/index.ts",
-    "chat:dev": "tsx --watch server/index.ts"
+    "chat:dev": "tsx --watch server/index.ts",
+    "generate:pages": "tsx scripts/generate-pages.ts"
   },
   "engines": {
     "npm": ">=10.9.2",

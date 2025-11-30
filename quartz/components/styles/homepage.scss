@@ -1,0 +1,106 @@
+// Homepage-specific styles
+
+// Simple mode: show recent notes, hide dashboard
+body.simple-mode {
+  .dashboard-view {
+    display: none !important;
+  }
+
+  .recent-notes {
+    display: block !important;
+  }
+}
+
+// Advanced mode: show dashboard, hide recent notes
+body.advanced-mode {
+  .dashboard-view {
+    display: block !important;
+  }
+
+  // Hide recent notes on homepage in advanced mode
+  #quartz-body > .page > article > .recent-notes {
+    display: none !important;
+  }
+}
+
+// Hide explorer on homepage initially
+#quartz-body > .page > article > .explorer {
+  display: none;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+
+  &.visible {
+    display: block;
+  }
+}
+
+// Homepage-specific layout adjustments
+.page[data-slug="index"] {
+  // Center content
+  & > article {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  // Hide sidebars on homepage
+  & > .left-sidebar,
+  & > .right-sidebar {
+    display: none;
+  }
+}
+
+// Recent notes styling for homepage
+.page[data-slug="index"] .recent-notes {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+  & > h3 {
+    text-align: center;
+    font-size: 1.1rem;
+    color: var(--gray);
+    margin-bottom: 1rem;
+  }
+
+  .recent-ul {
+    .recent-li {
+      margin: 0.75rem 0;
+      padding: 0.75rem;
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 8px;
+      transition: background-color 0.15s ease;
+
+      &:hover {
+        background: var(--lightgray);
+      }
+
+      .section {
+        .desc h3 {
+          margin: 0;
+          font-size: 0.9rem;
+
+          a {
+            color: var(--darkgray);
+          }
+        }
+
+        .meta {
+          font-size: 0.75rem;
+          margin-top: 0.25rem;
+        }
+      }
+    }
+  }
+}
+
+// Homepage header (mode toggle + darkmode)
+.page[data-slug="index"] .homepage-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  gap: 0.5rem;
+}
