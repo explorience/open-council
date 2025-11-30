@@ -6,14 +6,12 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What has been David Ferreira's voting pattern on major budget decisions during his time on the Budget Committee?"
-  - "How often has he voted in alignment with or opposition to the majority on key policy issues in the Strategic Priorities and Policy Committee?"
-  - "What specific initiatives or motions has David Ferreira proposed or championed during his council tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-David Ferreira has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 208 meetings during this period. His committee involvement spans a broad range of municipal governance areas, serving on eight different committees including Community and Protective Services Committee, Civic Works Committee, Budget Committee, Strategic Priorities and Policy Committee, City Council, Community Protective Services Committee, Corporate Services Committee, and Planning and Environment Committee.
-
-This extensive committee participation indicates engagement across key areas of city operations, from budget planning and strategic policy development to community services, infrastructure, planning, and corporate governance. His high meeting attendance record suggests consistent involvement in council proceedings throughout his term.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,24 +19,24 @@ This extensive committee participation indicates engagement across key areas of 
 
 ## Committees Served
 
-- Community and Protective Services Committee
-- Civic Works Committee
-- Budget Committee
-- Strategic Priorities and Policy Committee
-- City Council
-- Community Protective Services Committee
-- Corporate Services Committee
-- Planning and Environment Committee
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [Civic Works Committee](/committees/civic-works)
+- [Budget Committee](/committees/budget)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [City Council](/committees/city-council)
+- [Community Protective Services Committee](/committees/community-protective-services-committee)
+- [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 
 ## Meeting Attendance (208 meetings)
 
-- [15th Special Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-08 15th Special Meeting of the Community and Protective Services Committee>) - Wed Oct 08 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [15th Meeting of the Community and Protective Services Committee](</months/2023-10/2023-10-04 15th Meeting of the Community and Protective Services Committee>) - Wed Oct 04 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [13th Meeting of the Civic Works Committee](</months/2024-10/2024-10-02 13th Meeting of the Civic Works Committee>) - Wed Oct 02 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [19th Special Meeting of City Council - BUDGET](</months/2024-11/2024-11-27 19th Special Meeting of City Council - BUDGET>) - Wed Nov 27 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-16 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 16 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [The 9th Meeting of the Community and Protective Services Committee](</months/2023-05/2023-05-24 The 9th Meeting of the Community and Protective Services Committee>) - Wed May 24 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [8th Meeting of the Civic Works Committee](</months/2024-05/2024-05-22 8th Meeting of the Civic Works Committee>) - Wed May 22 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [1st Meeting of the Budget Committee](</months/2025-03/2025-03-19 1st Meeting of the Budget Committee>) - Wed Mar 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [11th Meeting of the Strategic Priorities and Policy Committee](</months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee>) - Wed Mar 08 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [3rd Meeting of the Budget Committee](</months/2025-06/2025-06-11 3rd Meeting of the Budget Committee>) - Wed Jun 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [15th Special Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-08 15th Special Meeting of the Community and Protective Services Committee>) - Wed Oct 8 2025
+- [15th Meeting of the Community and Protective Services Committee](</months/2023-10/2023-10-04 15th Meeting of the Community and Protective Services Committee>) - Wed Oct 4 2023
+- [13th Meeting of the Civic Works Committee](</months/2024-10/2024-10-02 13th Meeting of the Civic Works Committee>) - Wed Oct 2 2024
+- [19th Special Meeting of City Council - BUDGET](</months/2024-11/2024-11-27 19th Special Meeting of City Council - BUDGET>) - Wed Nov 27 2024
+- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-16 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 16 2022
+- [The 9th Meeting of the Community and Protective Services Committee](</months/2023-05/2023-05-24 The 9th Meeting of the Community and Protective Services Committee>) - Wed May 24 2023
+- [8th Meeting of the Civic Works Committee](</months/2024-05/2024-05-22 8th Meeting of the Civic Works Committee>) - Wed May 22 2024
+- [1st Meeting of the Budget Committee](</months/2025-03/2025-03-19 1st Meeting of the Budget Committee>) - Wed Mar 19 2025
+- [11th Meeting of the Strategic Priorities and Policy Committee](</months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee>) - Wed Mar 8 2023
+- [3rd Meeting of the Budget Committee](</months/2025-06/2025-06-11 3rd Meeting of the Budget Committee>) - Wed Jun 11 2025
