@@ -48,7 +48,7 @@ interface CouncillorData {
   slug: string
   meetings: Meeting[]
   count: number
-  committees: string[]
+  committees: { name: string; slug: string }[]
   yearsActive: number[]
 }
 
@@ -586,8 +586,8 @@ function groupByCouncillor(meetings: Meeting[]): Map<string, CouncillorData> {
       data.meetings.push(meeting)
       data.count++
 
-      if (!data.committees.includes(meeting.committee)) {
-        data.committees.push(meeting.committee)
+      if (!data.committees.some(c => c.slug === meeting.committeeSlug)) {
+        data.committees.push({ name: meeting.committee, slug: meeting.committeeSlug })
       }
       if (!data.yearsActive.includes(meeting.year)) {
         data.yearsActive.push(meeting.year)
@@ -817,7 +817,7 @@ function generateCouncillorPage(
   questions: string[],
   canonicalName: string
 ): string {
-  const committees = data.committees.map(c => `- ${c}`).join("\n")
+  const committees = data.committees.map(c => `- [${c.name}](/committees/${c.slug})`).join("\n")
 
   // Get verified term information
   const verifiedInfo = VERIFIED_COUNCILLORS[canonicalName]
@@ -838,7 +838,15 @@ function generateCouncillorPage(
 
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
-    .map(m => `- [${m.title}](</${m.slug}>) - ${m.date}`)
+    .map(m => {
+      const dateObj = new Date(m.date)
+      const weekday = dateObj.toLocaleDateString("en-US", { weekday: "short", timeZone: "UTC" })
+      const month = dateObj.toLocaleDateString("en-US", { month: "short", timeZone: "UTC" })
+      const day = dateObj.getUTCDate()
+      const year = dateObj.getUTCFullYear()
+      const formattedDate = `${weekday} ${month} ${day} ${year}`
+      return `- [${m.title}](</${m.slug}>) - ${formattedDate}`
+    })
     .join("\n")
 
   return `---
