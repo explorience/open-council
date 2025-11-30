@@ -27,13 +27,13 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meeting Attendance
 
-- [17th Meeting of the Planning and Environment Committee](/2022-10/2022-10-05 17th Meeting of the Planning and Environment Committee) - Wed Oct 05 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [15th Meeting of the Planning and Environment Committee](/2024-10/2024-10-02 15th Meeting of the Planning and Environment Committee) - Wed Oct 02 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [The 15th Meeting of the Planning and Environment Committee](/2025-10/2025-10-01 The 15th Meeting of the Planning and Environment Committee) - Wed Oct 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [19th Special Meeting of City Council - BUDGET](/2024-11/2024-11-27 19th Special Meeting of City Council - BUDGET) - Wed Nov 27 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION](/2024-11/2024-11-20 17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION) - Wed Nov 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [1st Meeting of the Strategic Priorities and Policy Committee](/2022-11/2022-11-16 1st Meeting of the Strategic Priorities and Policy Committee) - Wed Nov 16 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [The 17th Meeting of the Planning and Environment Committee](/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee) - Wed Nov 12 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [8th Meeting of the Planning and Environment Committee](/2024-05/2024-05-22 8th Meeting of the Planning and Environment Committee) - Wed May 22 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [The 8th Meeting of the Planning and Environment Committee](/2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee) - Wed May 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
-- [Strategic Priorities and Policy Committee](/2019-03/2019-03-20 Strategic Priorities and Policy Committee) - Wed Mar 20 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [17th Meeting of the Planning and Environment Committee](</2022-10/2022-10-05 17th Meeting of the Planning and Environment Committee>) - Wed Oct 05 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [15th Meeting of the Planning and Environment Committee](</2024-10/2024-10-02 15th Meeting of the Planning and Environment Committee>) - Wed Oct 02 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [The 15th Meeting of the Planning and Environment Committee](</2025-10/2025-10-01 The 15th Meeting of the Planning and Environment Committee>) - Wed Oct 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [19th Special Meeting of City Council - BUDGET](</2024-11/2024-11-27 19th Special Meeting of City Council - BUDGET>) - Wed Nov 27 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION](</2024-11/2024-11-20 17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION>) - Wed Nov 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [1st Meeting of the Strategic Priorities and Policy Committee](</2022-11/2022-11-16 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 16 2022 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [The 17th Meeting of the Planning and Environment Committee](</2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee>) - Wed Nov 12 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [8th Meeting of the Planning and Environment Committee](</2024-05/2024-05-22 8th Meeting of the Planning and Environment Committee>) - Wed May 22 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [The 8th Meeting of the Planning and Environment Committee](</2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee>) - Wed May 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+- [Strategic Priorities and Policy Committee](</2019-03/2019-03-20 Strategic Priorities and Policy Committee>) - Wed Mar 20 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
