@@ -7,56 +7,56 @@ Browse London City Council members by their meeting attendance and voting record
 
 ## All Councillors
 
-- [A. Hopkins](/councillors/a-hopkins) - 635 meetings
-- [J. Morgan](/councillors/j-morgan) - 623 meetings
-- [J. Helmer](/councillors/j-helmer) - 546 meetings
-- [P. Van Meerbergen](/councillors/p-van-meerbergen) - 497 meetings
-- [M. Cassidy](/councillors/m-cassidy) - 492 meetings
-- [S. Lewis](/councillors/s-lewis) - 475 meetings
-- [E. Peloza](/councillors/e-peloza) - 446 meetings
-- [M. van Holst](/councillors/m-van-holst) - 444 meetings
-- [S. Hillier](/councillors/s-hillier) - 430 meetings
-- [S. Turner](/councillors/s-turner) - 412 meetings
-- [S. Lehman](/councillors/s-lehman) - 386 meetings
-- [H.L. Usher](/councillors/h-l-usher) - 367 meetings
-- [P. Squire](/councillors/p-squire) - 365 meetings
-- [M. Salih](/councillors/m-salih) - 349 meetings
-- [P. Hubert](/councillors/p-hubert) - 344 meetings
-- [E. Holder](/councillors/e-holder) - 300 meetings
-- [M. Brown](/councillors/m-brown) - 254 meetings
-- [L. Rowe (Secretary)](/councillors/l-rowe-secretary) - 245 meetings
-- [C. Rahman](/councillors/c-rahman) - 235 meetings
-- [B. Armstrong](/councillors/b-armstrong) - 229 meetings
-- [T. Park](/councillors/t-park) - 218 meetings
-- [J. Pribil](/councillors/j-pribil) - 212 meetings
-- [S. Trosow](/councillors/s-trosow) - 209 meetings
-- [V. Ridley](/councillors/v-ridley) - 208 meetings
-- [D. Ferreira](/councillors/d-ferreira) - 207 meetings
-- [P. Cuddy](/councillors/p-cuddy) - 204 meetings
-- [H. McAlister](/councillors/h-mcalister) - 203 meetings
-- [S. Franke](/councillors/s-franke) - 195 meetings
-- [B. Polhill](/councillors/b-polhill) - 192 meetings
-- [A. Kayabaga](/councillors/a-kayabaga) - 181 meetings
-- [S. Stevenson](/councillors/s-stevenson) - 178 meetings
-- [J.P. Bryant](/councillors/j-p-bryant) - 165 meetings
-- [D.G. Henderson](/councillors/d-g-henderson) - 142 meetings
-- [B. Card](/councillors/b-card) - 141 meetings
-- [H. Lysynski (Secretary)](/councillors/h-lysynski-secretary) - 139 meetings
-- [J.B. Swan](/councillors/j-b-swan) - 138 meetings
-- [E. Hunt](/councillors/e-hunt) - 128 meetings
-- [S. White](/councillors/s-white) - 126 meetings
-- [J.L. Baechler](/councillors/j-l-baechler) - 123 meetings
-- [M. Schulthess](/councillors/m-schulthess) - 120 meetings
-- [N. Branscombe](/councillors/n-branscombe) - 119 meetings
-- [J.F. Fontana](/councillors/j-f-fontana) - 116 meetings
-- [J. Zaifman;](/councillors/j-zaifman) - 113 meetings
-- [S. Orser](/councillors/s-orser) - 112 meetings
-- [E. Bennett](/councillors/e-bennett) - 109 meetings
-- [S. Corman](/councillors/s-corman) - 107 meetings
-- [L. Livingstone](/councillors/l-livingstone) - 93 meetings
-- [K. Dickins](/councillors/k-dickins) - 87 meetings
-- [C. Smith](/councillors/c-smith) - 87 meetings
-- [A. Barbon](/councillors/a-barbon) - 86 meetings
+- [A. Hopkins](/councillors/current/a-hopkins) - 634 meetings
+- [J. Morgan](/councillors/current/j-morgan) - 621 meetings
+- [J. Helmer](/councillors/former/j-helmer) - 544 meetings
+- [P. Van Meerbergen](/councillors/current/p-van-meerbergen) - 493 meetings
+- [M. Cassidy](/councillors/former/m-cassidy) - 490 meetings
+- [S. Lewis](/councillors/current/s-lewis) - 475 meetings
+- [E. Peloza](/councillors/current/e-peloza) - 446 meetings
+- [M. van Holst](/councillors/former/m-van-holst) - 442 meetings
+- [S. Hillier](/councillors/current/s-hillier) - 430 meetings
+- [S. Turner](/councillors/former/s-turner) - 410 meetings
+- [S. Lehman](/councillors/current/s-lehman) - 386 meetings
+- [P. Squire](/councillors/former/p-squire) - 363 meetings
+- [H.L. Usher](/councillors/former/h-l-usher) - 362 meetings
+- [M. Salih](/councillors/former/m-salih) - 347 meetings
+- [P. Hubert](/councillors/former/p-hubert) - 338 meetings
+- [E. Holder](/councillors/former/e-holder) - 300 meetings
+- [M. Brown](/councillors/former/m-brown) - 248 meetings
+- [L. Rowe (Secretary)](/councillors/former/l-rowe-secretary) - 241 meetings
+- [C. Rahman](/councillors/current/c-rahman) - 235 meetings
+- [B. Armstrong](/councillors/former/b-armstrong) - 228 meetings
+- [T. Park](/councillors/former/t-park) - 216 meetings
+- [J. Pribil](/councillors/current/j-pribil) - 212 meetings
+- [S. Trosow](/councillors/current/s-trosow) - 209 meetings
+- [V. Ridley](/councillors/former/v-ridley) - 207 meetings
+- [D. Ferreira](/councillors/current/d-ferreira) - 207 meetings
+- [P. Cuddy](/councillors/current/p-cuddy) - 204 meetings
+- [H. McAlister](/councillors/current/h-mcalister) - 203 meetings
+- [S. Franke](/councillors/current/s-franke) - 195 meetings
+- [B. Polhill](/councillors/former/b-polhill) - 188 meetings
+- [A. Kayabaga](/councillors/former/a-kayabaga) - 181 meetings
+- [S. Stevenson](/councillors/current/s-stevenson) - 178 meetings
+- [J.P. Bryant](/councillors/former/j-p-bryant) - 161 meetings
+- [B. Card](/councillors/former/b-card) - 141 meetings
+- [H. Lysynski (Secretary)](/councillors/former/h-lysynski-secretary) - 139 meetings
+- [D.G. Henderson](/councillors/former/d-g-henderson) - 138 meetings
+- [J.B. Swan](/councillors/former/j-b-swan) - 134 meetings
+- [E. Hunt](/councillors/former/e-hunt) - 128 meetings
+- [S. White](/councillors/former/s-white) - 122 meetings
+- [M. Schulthess](/councillors/former/m-schulthess) - 120 meetings
+- [J.L. Baechler](/councillors/former/j-l-baechler) - 119 meetings
+- [N. Branscombe](/councillors/former/n-branscombe) - 115 meetings
+- [J. Zaifman;](/councillors/former/j-zaifman) - 113 meetings
+- [J.F. Fontana](/councillors/former/j-f-fontana) - 112 meetings
+- [E. Bennett](/councillors/former/e-bennett) - 109 meetings
+- [S. Orser](/councillors/former/s-orser) - 108 meetings
+- [S. Corman](/councillors/former/s-corman) - 107 meetings
+- [L. Livingstone](/councillors/former/l-livingstone) - 91 meetings
+- [K. Dickins](/councillors/former/k-dickins) - 87 meetings
+- [C. Smith](/councillors/former/c-smith) - 87 meetings
+- [A. Barbon](/councillors/former/a-barbon) - 86 meetings
 - [J. Martin (Secretary)](/councillors/j-martin-secretary) - 79 meetings
 - [K. Scherr](/councillors/k-scherr) - 79 meetings
 - [E. Skalski](/councillors/e-skalski) - 77 meetings
