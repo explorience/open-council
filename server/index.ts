@@ -5,7 +5,8 @@ import cors from 'cors';
 import { config } from 'dotenv';
 import { resolve } from 'path';
 import { VectorStore } from './vector-store.js';
-import { RAGService } from './rag-service.js';
+import { RAGService, ChatMetadataCollector } from './rag-service.js';
+import { logChatInteraction, generateSessionId, topKToComplexity, ChatLogEntry } from './chat-logger.js';
 import { EmbeddingGenerator } from './embeddings.js';
 import type { ChatRequest } from './types.js';
 
@@ -91,11 +92,15 @@ app.post('/api/context', async (req, res) => {
 // Chat endpoint with streaming
 app.post('/api/chat', async (req, res) => {
   try {
-    const { message, history = [] } = req.body as ChatRequest;
+    const { message, history = [], sessionId: clientSessionId } = req.body as ChatRequest & { sessionId?: string };
 
     if (!message) {
       return res.status(400).json({ error: 'Message is required' });
     }
+
+    // Use client-provided session ID or generate one
+    const sessionId = clientSessionId || generateSessionId();
+    const startTime = Date.now();
 
     // Set up SSE headers for streaming
     res.setHeader('Content-Type', 'text/event-stream');
@@ -104,13 +109,36 @@ app.post('/api/chat', async (req, res) => {
 
     // Stream the response
     try {
-      for await (const chunk of ragService.chat(message, history)) {
+      // Metadata collector for logging
+      const metadataCollector: ChatMetadataCollector = {};
+      let fullResponse = '';
+
+      for await (const chunk of ragService.chat(message, history, metadataCollector)) {
+        fullResponse += chunk;
         res.write(`data: ${JSON.stringify({ content: chunk })}\n\n`);
       }
 
       // Send done signal
       res.write(`data: ${JSON.stringify({ done: true })}\n\n`);
       res.end();
+
+      // Log the interaction after streaming completes
+      const responseTimeMs = Date.now() - startTime;
+      const logEntry: ChatLogEntry = {
+        timestamp: new Date().toISOString(),
+        sessionId,
+        question: message,
+        response: fullResponse,
+        metadata: {
+          responseTimeMs,
+          llmProvider: metadataCollector.llmProvider || 'unknown',
+          model: metadataCollector.model || 'unknown',
+          queryComplexity: topKToComplexity(metadataCollector.topK || 10),
+          topK: metadataCollector.topK || 0,
+          contextChunksUsed: metadataCollector.contextChunksUsed || 0,
+        },
+      };
+      logChatInteraction(logEntry);
     } catch (error) {
       console.error('Error in chat stream:', error);
       res.write(`data: ${JSON.stringify({ error: 'Error generating response' })}\n\n`);
