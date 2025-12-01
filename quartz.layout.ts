@@ -6,7 +6,12 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer()
+  footer: Component.Footer({
+    links: {
+      "Transcripts by Lillian Skinner": "https://london.lillianskinner.ca",
+      "Source Code": "https://github.com/explorience/open-council",
+    }
+  })
 }
 
 // Explorer configuration for browse all functionality

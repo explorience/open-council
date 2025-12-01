@@ -1,0 +1,60 @@
+name: Sync Transcripts
+
+on:
+  schedule:
+    # Run daily at 7 AM UTC
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Sync transcripts from Lillian's archive
+        working-directory: scraping
+        run: python transcript.py
+
+      - name: Add transcripts to meeting pages
+        run: npx tsx scripts/add-transcripts-to-pages.ts
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/ content/months/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ content/months/
+          git commit -m "chore: sync transcripts from Lillian Skinner archive [automated]"
+          git push

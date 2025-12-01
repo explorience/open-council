@@ -23,7 +23,10 @@
     "chat:generate": "tsx server/generate-embeddings.ts",
     "chat:server": "tsx server/index.ts",
     "chat:dev": "tsx --watch server/index.ts",
-    "generate:pages": "tsx scripts/generate-pages.ts"
+    "generate:pages": "tsx scripts/generate-pages.ts",
+    "transcripts:sync": "cd scraping && python transcript.py",
+    "transcripts:add-to-pages": "tsx scripts/add-transcripts-to-pages.ts",
+    "transcripts:full": "npm run transcripts:sync && npm run transcripts:add-to-pages"
   },
   "engines": {
     "npm": ">=10.9.2",

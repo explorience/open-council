@@ -1,5 +1,12 @@
 // Types for London City Council meeting data
 
+export interface TranscriptSegment {
+  index: number;
+  start: string;
+  end: string;
+  text: string;
+}
+
 export interface Meeting {
   title: string;
   datetime: string;
@@ -14,6 +21,9 @@ export interface Meeting {
   bills?: {
     bills: Bill[];
   };
+  transcript?: TranscriptSegment[];
+  transcript_source?: string;
+  transcript_source_url?: string;
 }
 
 export interface MeetingItem {
@@ -64,8 +74,10 @@ export interface EmbeddingChunk {
     meeting_url: string;
     item_number?: string;
     item_title?: string;
-    chunk_type: 'motion' | 'content' | 'bill' | 'attendance';
+    chunk_type: 'motion' | 'content' | 'bill' | 'attendance' | 'transcript';
     file_path: string;
+    transcript_start?: string;
+    transcript_end?: string;
   };
 }
 
