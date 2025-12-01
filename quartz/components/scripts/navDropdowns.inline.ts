@@ -5,8 +5,8 @@ document.addEventListener("nav", () => {
   if (!navDropdowns) return
 
   const dropdowns = navDropdowns.querySelectorAll(".nav-dropdown")
-  const browseAllBtn = navDropdowns.querySelector(".nav-browse-all") as HTMLButtonElement
-  const searchTrigger = navDropdowns.querySelector(".nav-search-trigger") as HTMLButtonElement
+  const recentMeetingsBtn = navDropdowns.querySelector(".nav-recent-meetings") as HTMLButtonElement
+  const suggestedQuestionsBtn = navDropdowns.querySelector(".nav-suggested-questions") as HTMLButtonElement
 
   // Handle dropdown toggles
   dropdowns.forEach((dropdown) => {
@@ -46,28 +46,30 @@ document.addEventListener("nav", () => {
     }
   })
 
-  // Browse All - toggle explorer
-  browseAllBtn?.addEventListener("click", () => {
-    const explorer = document.querySelector(".explorer") as HTMLElement
-    if (explorer) {
-      // Show/expand the explorer
-      const explorerUl = explorer.querySelector("#explorer-ul") as HTMLElement
-      const button = explorer.querySelector("#explorer") as HTMLButtonElement
+  // Recent Meetings - toggle recent notes section
+  recentMeetingsBtn?.addEventListener("click", () => {
+    const recentNotes = document.querySelector(".recent-notes") as HTMLElement
+    if (recentNotes) {
+      const isExpanded = recentMeetingsBtn.getAttribute("aria-expanded") === "true"
+      recentMeetingsBtn.setAttribute("aria-expanded", isExpanded ? "false" : "true")
+      recentNotes.classList.toggle("expanded", !isExpanded)
 
-      if (explorerUl && button) {
-        // If explorer is hidden, show it
-        if (explorerUl.classList.contains("collapsed")) {
-          button.click()
-        }
-        // Scroll to explorer
-        explorer.scrollIntoView({ behavior: "smooth", block: "start" })
+      if (!isExpanded) {
+        // Scroll to recent notes when expanding
+        setTimeout(() => {
+          recentNotes.scrollIntoView({ behavior: "smooth", block: "start" })
+        }, 100)
       }
     }
   })
 
-  // Search trigger - open Quartz search
-  searchTrigger?.addEventListener("click", () => {
-    const searchButton = document.querySelector(".search-button") as HTMLButtonElement
-    searchButton?.click()
+  // Suggested Questions - toggle prefill questions section
+  suggestedQuestionsBtn?.addEventListener("click", () => {
+    const prefillQuestions = document.querySelector(".prefill-questions") as HTMLElement
+    if (prefillQuestions) {
+      const isExpanded = suggestedQuestionsBtn.getAttribute("aria-expanded") === "true"
+      suggestedQuestionsBtn.setAttribute("aria-expanded", isExpanded ? "false" : "true")
+      prefillQuestions.classList.toggle("expanded", !isExpanded)
+    }
   })
 })

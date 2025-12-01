@@ -71,16 +71,12 @@ export default ((userOpts?: Partial<NavDropdownsOptions>) => {
           Councillors
         </a>
 
-        <button class="nav-link nav-browse-all" aria-label="Browse all meetings">
-          Browse All
+        <button class="nav-link nav-recent-meetings" aria-label="Show recent meetings" aria-expanded="false">
+          Recent Meetings
         </button>
 
-        <button class="nav-link nav-search-trigger" aria-label="Search meetings">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <circle cx="11" cy="11" r="8"/>
-            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-          </svg>
-          <span>Search</span>
+        <button class="nav-link nav-suggested-questions" aria-label="Show suggested questions" aria-expanded="false">
+          Suggested Questions
         </button>
       </nav>
     )

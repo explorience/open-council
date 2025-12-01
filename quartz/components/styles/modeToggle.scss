@@ -1,7 +1,16 @@
+// Homepage header flex layout - position mode toggle left, darkmode right
+.flex-component:has(.mode-toggle):has(.darkmode-container) {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  justify-content: space-between !important;
+}
+
 .mode-toggle {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .mode-toggle-btn {
