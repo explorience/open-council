@@ -45,6 +45,12 @@ body[data-slug="index"] {
   .right.sidebar {
     display: none;
   }
+
+  // Hide the search button on homepage (we use dashboard buttons instead)
+  // but keep the search container for the overlay
+  .search > .search-button {
+    display: none;
+  }
 }
 
 // Recent notes styling for homepage

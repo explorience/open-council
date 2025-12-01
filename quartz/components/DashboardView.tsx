@@ -54,7 +54,7 @@ const defaultOptions: DashboardViewOptions = {
     { name: "S. Trosow", slug: "s-trosow" },
     { name: "P. Van Meerbergen", slug: "p-van-meerbergen" },
   ],
-  recentMeetingsLimit: 8,
+  recentMeetingsLimit: 50,
 }
 
 export default ((userOpts?: Partial<DashboardViewOptions>) => {

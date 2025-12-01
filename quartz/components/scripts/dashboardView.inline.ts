@@ -8,22 +8,30 @@ document.addEventListener("nav", () => {
   const searchBtn = dashboardView.querySelector(".search-btn") as HTMLButtonElement
   const browseAllLink = dashboardView.querySelector(".browse-all-link") as HTMLAnchorElement
 
-  // Browse All Files - open Quartz search with empty query to browse
+  // Helper function to trigger search (dispatches Ctrl+K keyboard shortcut)
+  function triggerSearch() {
+    const event = new KeyboardEvent("keydown", {
+      key: "k",
+      ctrlKey: true,
+      bubbles: true,
+      cancelable: true,
+    })
+    document.dispatchEvent(event)
+  }
+
+  // Browse All Files - open search
   browseAllBtn?.addEventListener("click", () => {
-    const searchButton = document.querySelector(".search-button") as HTMLButtonElement
-    searchButton?.click()
+    triggerSearch()
   })
 
-  // Full Search - open Quartz search
+  // Full Search - open search
   searchBtn?.addEventListener("click", () => {
-    const searchButton = document.querySelector(".search-button") as HTMLButtonElement
-    searchButton?.click()
+    triggerSearch()
   })
 
   // View all meetings link - also opens search
   browseAllLink?.addEventListener("click", (e) => {
     e.preventDefault()
-    const searchButton = document.querySelector(".search-button") as HTMLButtonElement
-    searchButton?.click()
+    triggerSearch()
   })
 })

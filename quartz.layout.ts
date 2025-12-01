@@ -135,6 +135,11 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.DashboardView(),
       condition: (page) => page.fileData.slug === "index",
     }),
+    // Hidden search component for homepage (enables Ctrl+K and search buttons)
+    Component.ConditionalRender({
+      component: Component.Search(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
 
     // Chatbot on all pages
     Component.ChatBot({
