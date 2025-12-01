@@ -308,6 +308,29 @@ function slugify(text: string): string {
     .replace(/^-+|-+$/g, "")
 }
 
+// Format a date for display (e.g., "Wed Nov 22 2017")
+function formatMeetingDate(date: string | Date): string {
+  const dateObj = date instanceof Date ? date : new Date(date)
+  const weekday = dateObj.toLocaleDateString("en-US", { weekday: "short", timeZone: "UTC" })
+  const month = dateObj.toLocaleDateString("en-US", { month: "short", timeZone: "UTC" })
+  const day = dateObj.getUTCDate()
+  const year = dateObj.getUTCFullYear()
+  return `${weekday} ${month} ${day} ${year}`
+}
+
+// Get ISO date string from a date (for sorting)
+function getISODate(date: string | Date): string {
+  if (date instanceof Date) {
+    return date.toISOString().split('T')[0]
+  }
+  // If it's already an ISO date string, return as-is
+  if (typeof date === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    return date
+  }
+  // Otherwise parse and convert
+  return new Date(date).toISOString().split('T')[0]
+}
+
 // Extract committee from title
 function extractCommittee(title: string): { name: string; slug: string } | null {
   const lowerTitle = title.toLowerCase()
@@ -502,9 +525,9 @@ async function scanMeetings(contentDir: string): Promise<Meeting[]> {
   }
 
   return meetings.sort((a, b) => {
-    const dateA = String(a.date || "")
-    const dateB = String(b.date || "")
-    return dateB.localeCompare(dateA)
+    const dateA = getISODate(a.date)
+    const dateB = getISODate(b.date)
+    return dateB.localeCompare(dateA) // ISO dates sort correctly lexicographically
   })
 }
 
@@ -751,7 +774,7 @@ function generateCommitteePage(
 ): string {
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
-    .map(m => `- [${m.title}](</${m.slug}>) - ${m.date}`)
+    .map(m => `- [${m.title}](</${m.slug}>) - ${formatMeetingDate(m.date)}`)
     .join("\n")
 
   return `---
@@ -785,7 +808,7 @@ function generateYearPage(
 
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
-    .map(m => `- [${m.title}](</${m.slug}>) - ${m.date}`)
+    .map(m => `- [${m.title}](</${m.slug}>) - ${formatMeetingDate(m.date)}`)
     .join("\n")
 
   return `---
@@ -838,15 +861,7 @@ function generateCouncillorPage(
 
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
-    .map(m => {
-      const dateObj = new Date(m.date)
-      const weekday = dateObj.toLocaleDateString("en-US", { weekday: "short", timeZone: "UTC" })
-      const month = dateObj.toLocaleDateString("en-US", { month: "short", timeZone: "UTC" })
-      const day = dateObj.getUTCDate()
-      const year = dateObj.getUTCFullYear()
-      const formattedDate = `${weekday} ${month} ${day} ${year}`
-      return `- [${m.title}](</${m.slug}>) - ${formattedDate}`
-    })
+    .map(m => `- [${m.title}](</${m.slug}>) - ${formatMeetingDate(m.date)}`)
     .join("\n")
 
   return `---

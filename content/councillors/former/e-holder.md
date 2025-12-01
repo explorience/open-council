@@ -6,14 +6,12 @@ meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Ed Holder's voting attendance rate and how did it compare to other council members during the 2018-2022 term?"
-  - "Which specific committees did Ed Holder serve on and what were his roles or positions within those committees?"
-  - "What were some of the key motions or initiatives that Ed Holder voted on or championed during his time on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings during his four-year term. His council involvement included service on six different committees, indicating broad engagement across various municipal policy areas and administrative functions.
-
-This level of meeting attendance suggests consistent participation in council proceedings over the course of his term. His multi-committee involvement would have provided him with exposure to diverse aspects of municipal governance and policy development during his time serving the London community.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,22 +19,22 @@ This level of meeting attendance suggests consistent participation in council pr
 
 ## Committees Served
 
-- [Community and Protective Services Committee](/committees/community-protective-services)
-- [Planning and Environment Committee](/committees/planning-environment)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Civic Works Committee](/committees/civic-works)
 - [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Planning and Environment Committee](/committees/planning-environment)
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [Civic Works Committee](/committees/civic-works)
 - [Corporate Services Committee](/committees/corporate-services)
 
 ## Meeting Attendance (313 meetings)
 
-- [Community and Protective Services Committee](</months/2020-09/2020-09-09 Community and Protective Services Committee>) - Wed Sep 9 2020
+- [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
+- [15th Special Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-07 15th Special Meeting of the Strategic Priorities and Policy Committee>) - Mon Nov 7 2022
+- [14th Meeting of City Council](</months/2022-10/2022-10-17 14th Meeting of City Council>) - Mon Oct 17 2022
+- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2022-10/2022-10-11 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 11 2022
 - [17th Meeting of the Planning and Environment Committee](</months/2022-10/2022-10-05 17th Meeting of the Planning and Environment Committee>) - Wed Oct 5 2022
-- [Strategic Priorities and Policy Committee](</months/2019-03/2019-03-20 Strategic Priorities and Policy Committee>) - Wed Mar 20 2019
-- [Strategic Priorities and Policy Committee](</months/2021-06/2021-06-23 Strategic Priorities and Policy Committee>) - Wed Jun 23 2021
-- [Strategic Priorities and Policy Committee](</months/2022-06/2022-06-22 Strategic Priorities and Policy Committee>) - Wed Jun 22 2022
-- [Strategic Priorities and Policy Committee](</months/2021-07/2021-07-28 Strategic Priorities and Policy Committee>) - Wed Jul 28 2021
-- [11th Meeting of the Strategic Priorities and Policy Committee](</months/2022-07/2022-07-27 11th Meeting of the Strategic Priorities and Policy Committee>) - Wed Jul 27 2022
-- [Community and Protective Services Committee](</months/2020-07/2020-07-15 Community and Protective Services Committee>) - Wed Jul 15 2020
-- [Planning and Environment Committee](</months/2020-07/2020-07-15 Planning and Environment Committee>) - Wed Jul 15 2020
-- [Community and Protective Services Committee](</months/2019-02/2019-02-20 Community and Protective Services Committee>) - Wed Feb 20 2019
+- [The 11th Meeting of the Community and Protective Services Committee](</months/2022-10/2022-10-04 The 11th Meeting of the Community and Protective Services Committee>) - Tue Oct 4 2022
+- [The 13th Meeting of the Civic Works Committee](</months/2022-10/2022-10-04 The 13th Meeting of the Civic Works Committee>) - Tue Oct 4 2022
+- [13th Meeting of City Council](</months/2022-09/2022-09-27 13th Meeting of City Council>) - Tue Sep 27 2022
+- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2022-09/2022-09-20 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Sep 20 2022
+- [The 12th Meeting of the Civic Works Committee](</months/2022-09/2022-09-13 The 12th Meeting of the Civic Works Committee>) - Tue Sep 13 2022

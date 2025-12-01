@@ -6,14 +6,12 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and were there any notable patterns in their absences from council meetings?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Jesse Helmer typically vote on major municipal issues such as budget approvals, development applications, or infrastructure projects?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating significant engagement through attendance at 580 meetings over this eight-year period. This represents an average of approximately 72-73 meetings per year, indicating consistent participation in council proceedings.
-
-During their tenure, Helmer served on eight different committees, showing broad involvement across various aspects of municipal governance. Their extended service period of eight years suggests they served at least two full terms on council, providing continuity and accumulated experience in local government decision-making processes.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,24 +19,24 @@ During their tenure, Helmer served on eight different committees, showing broad 
 
 ## Committees Served
 
-- [Audit Committee](/committees/audit)
-- [Civic Works Committee](/committees/civic-works)
-- [Corporate Services Committee](/committees/corporate-services)
-- [Planning and Environment Committee](/committees/planning-environment)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Civic Works Committee](/committees/civic-works)
+- [Planning and Environment Committee](/committees/planning-environment)
+- [Audit Committee](/committees/audit)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 
 ## Meeting Attendance (580 meetings)
 
-- [Audit Committee](</months/2021-09/2021-09-22 Audit Committee>) - Wed Sep 22 2021
-- [Audit Committee](</months/2020-09/2020-09-16 Audit Committee>) - Wed Sep 16 2020
-- [Audit Committee](</months/2019-09/2019-09-11 Audit Committee>) - Wed Sep 11 2019
-- [Civic Works Committee](</months/2015-09/2015-09-09 Civic Works Committee>) - Wed Sep 9 2015
-- [4th Meeting of the Audit Committee](</months/2022-09/2022-09-07 4th Meeting of the Audit Committee>) - Wed Sep 7 2022
-- [Civic Works Committee](</months/2016-09/2016-09-07 Civic Works Committee>) - Wed Sep 7 2016
-- [Civic Works Committee](</months/2021-10/2021-10-13 Civic Works Committee>) - Wed Oct 13 2021
-- [Corporate Services Committee](</months/2017-10/2017-10-11 Corporate Services Committee>) - Wed Oct 11 2017
+- [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
+- [15th Special Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-07 15th Special Meeting of the Strategic Priorities and Policy Committee>) - Mon Nov 7 2022
+- [The 12th Meeting of the Community and Protective Services Committee](</months/2022-11/2022-11-01 The 12th Meeting of the Community and Protective Services Committee>) - Tue Nov 1 2022
+- [The 14th Meeting of the Civic Works Committee](</months/2022-11/2022-11-01 The 14th Meeting of the Civic Works Committee>) - Tue Nov 1 2022
+- [14th Meeting of City Council](</months/2022-10/2022-10-17 14th Meeting of City Council>) - Mon Oct 17 2022
+- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2022-10/2022-10-11 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 11 2022
 - [17th Meeting of the Planning and Environment Committee](</months/2022-10/2022-10-05 17th Meeting of the Planning and Environment Committee>) - Wed Oct 5 2022
-- [Strategic Priorities and Policy Committee](</months/2017-11/2017-11-22 Strategic Priorities and Policy Committee>) - Wed Nov 22 2017
+- [The 11th Meeting of the Community and Protective Services Committee](</months/2022-10/2022-10-04 The 11th Meeting of the Community and Protective Services Committee>) - Tue Oct 4 2022
+- [The 13th Meeting of the Civic Works Committee](</months/2022-10/2022-10-04 The 13th Meeting of the Civic Works Committee>) - Tue Oct 4 2022
+- [16th Meeting of the Planning and Environment Committee](</months/2022-10/2022-10-03 16th Meeting of the Planning and Environment Committee>) - Mon Oct 3 2022

@@ -43,8 +43,8 @@ Browse London City Council members by their meeting attendance and voting record
 - [Judy Bryant](/councillors/former/j-p-bryant) - 168 meetings
 - [Sandy White](/councillors/former/s-white) - 164 meetings
 - [Joe Swan](/councillors/former/j-b-swan) - 147 meetings
-- [Dale Henderson](/councillors/former/d-g-henderson) - 142 meetings
 - [Jared Zaifman](/councillors/former/j-zaifman) - 142 meetings
+- [Dale Henderson](/councillors/former/d-g-henderson) - 142 meetings
 - [Joe Fontana](/councillors/former/j-f-fontana) - 139 meetings
 - [Joni Baechler](/councillors/former/j-l-baechler) - 132 meetings
 - [Nancy Branscombe](/councillors/former/n-branscombe) - 119 meetings

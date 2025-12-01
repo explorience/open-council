@@ -6,14 +6,12 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting record on major municipal issues during their 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on and what was their role or contribution to each?"
-  - "How does Phil Squire's meeting attendance rate of 372 meetings compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, Squire maintained active participation by attending 372 council meetings and served on six different committees, demonstrating consistent engagement in the city's governance processes.
-
-Squire's extended service period and substantial meeting attendance record indicates regular involvement in council deliberations and municipal decision-making throughout their time in office. Their committee participation suggests engagement across multiple areas of city administration, though the specific nature of these committees cannot be determined from the available data.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,22 +19,22 @@ Squire's extended service period and substantial meeting attendance record indic
 
 ## Committees Served
 
-- [Community and Protective Services Committee](/committees/community-protective-services)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Civic Works Committee](/committees/civic-works)
 - [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 
 ## Meeting Attendance (372 meetings)
 
-- [Community and Protective Services Committee](</months/2020-09/2020-09-09 Community and Protective Services Committee>) - Wed Sep 9 2020
-- [Community and Protective Services Committee](</months/2017-10/2017-10-11 Community and Protective Services Committee>) - Wed Oct 11 2017
-- [Community and Protective Services Committee](</months/2018-10/2018-10-10 Community and Protective Services Committee>) - Wed Oct 10 2018
-- [Community and Protective Services Committee](</months/2017-10/2017-10-04 Community and Protective Services Committee>) - Wed Oct 4 2017
-- [Strategic Priorities and Policy Committee](</months/2017-11/2017-11-22 Strategic Priorities and Policy Committee>) - Wed Nov 22 2017
-- [Community and Protective Services Committee](</months/2017-05/2017-05-24 Community and Protective Services Committee>) - Wed May 24 2017
-- [Strategic Priorities and Policy Committee](</months/2017-05/2017-05-03 Strategic Priorities and Policy Committee>) - Wed May 3 2017
-- [Strategic Priorities and Policy Committee](</months/2019-03/2019-03-20 Strategic Priorities and Policy Committee>) - Wed Mar 20 2019
-- [Strategic Priorities and Policy Committee](</months/2017-03/2017-03-01 Strategic Priorities and Policy Committee>) - Wed Mar 1 2017
-- [Strategic Priorities and Policy Committee](</months/2021-06/2021-06-23 Strategic Priorities and Policy Committee>) - Wed Jun 23 2021
+- [Council](</months/2021-10/2021-10-05 Council>) - Tue Oct 5 2021
+- [Strategic Priorities and Policy Committee](</months/2021-09/2021-09-28 Strategic Priorities and Policy Committee>) - Tue Sep 28 2021
+- [Planning and Environment Committee](</months/2021-09/2021-09-27 Planning and Environment Committee>) - Mon Sep 27 2021
+- [Planning and Environment Committee](</months/2021-09/2021-09-20 Planning and Environment Committee>) - Mon Sep 20 2021
+- [Council](</months/2021-09/2021-09-14 Council>) - Tue Sep 14 2021
+- [Strategic Priorities and Policy Committee](</months/2021-09/2021-09-07 Strategic Priorities and Policy Committee>) - Tue Sep 7 2021
+- [Planning and Environment Committee](</months/2021-08/2021-08-30 Planning and Environment Committee>) - Mon Aug 30 2021
+- [Council](</months/2021-08/2021-08-10 Council>) - Tue Aug 10 2021
+- [Strategic Priorities and Policy Committee](</months/2021-07/2021-07-28 Strategic Priorities and Policy Committee>) - Wed Jul 28 2021
+- [Planning and Environment Committee](</months/2021-07/2021-07-26 Planning and Environment Committee>) - Mon Jul 26 2021

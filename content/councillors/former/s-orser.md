@@ -6,14 +6,12 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did Stephen Orser serve on, and what was his level of participation in committee work?"
-  - "Did Stephen Orser sponsor or champion any particular initiatives or motions during his time on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, completing one full term during this period. Throughout his tenure, he demonstrated consistent participation by attending 112 council meetings. Orser was actively involved in the committee structure of the council, serving on four different committees during his time in office, though the specific names of these committees are not clearly indicated in the available data.
-
-His four-year term represents a standard municipal council term length, and his meeting attendance record suggests regular engagement with council business and municipal governance responsibilities during his time representing his constituents on London City Council.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,20 +19,20 @@ His four-year term represents a standard municipal council term length, and his 
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Civic Works Committee](/committees/civic-works)
-- [Budget Committee](/committees/budget)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
+- [Budget Committee](/committees/budget)
 
 ## Meeting Attendance (112 meetings)
 
-- [Strategic Priorities and Policy Committee](</months/2012-06/2012-06-06 Strategic Priorities and Policy Committee>) - Wed Jun 6 2012
-- [Civic Works Committee](</months/2012-01/2012-01-25 Civic Works Committee>) - Wed Jan 25 2012
-- [Strategic Priorities and Policy Committee](</months/2013-01/2013-01-09 Strategic Priorities and Policy Committee>) - Wed Jan 9 2013
-- [6TH REPORT OF THE (2013 BUDGET PUBLIC PARTICIPATION MEETING](</months/2013-02/2013-02-13 6TH REPORT OF THE (2013 BUDGET PUBLIC PARTICIPATION MEETING #2)>) - Wed Feb 13 2013
+- [Civic Works Committee](</months/2014-10/2014-10-06 Civic Works Committee>) - Mon Oct 6 2014
 - [Strategic Priorities and Policy Committee](</months/2014-08/2014-08-27 Strategic Priorities and Policy Committee>) - Wed Aug 27 2014
-- [Council](</months/2013-09/2013-09-17 Council>) - Tue Sep 17 2013
-- [Strategic Priorities and Policy Committee](</months/2013-10/2013-10-22 Strategic Priorities and Policy Committee>) - Tue Oct 22 2013
-- [Council](</months/2012-10/2012-10-09 Council>) - Tue Oct 9 2012
-- [Strategic Priorities and Policy Committee](</months/2012-10/2012-10-09 Strategic Priorities and Policy Committee>) - Tue Oct 9 2012
-- [Council](</months/2011-10/2011-10-04 Council>) - Tue Oct 4 2011
+- [Civic Works Committee](</months/2014-08/2014-08-25 Civic Works Committee>) - Mon Aug 25 2014
+- [Strategic Priorities and Policy Committee](</months/2014-07/2014-07-28 Strategic Priorities and Policy Committee>) - Mon Jul 28 2014
+- [Civic Works Committee](</months/2014-07/2014-07-21 Civic Works Committee>) - Mon Jul 21 2014
+- [Strategic Priorities and Policy Committee](</months/2014-07/2014-07-21 Strategic Priorities and Policy Committee>) - Mon Jul 21 2014
+- [Strategic Priorities and Policy Committee](</months/2014-06/2014-06-23 Strategic Priorities and Policy Committee>) - Mon Jun 23 2014
+- [Civic Works Committee](</months/2014-06/2014-06-16 Civic Works Committee>) - Mon Jun 16 2014
+- [Strategic Priorities and Policy Committee](</months/2014-06/2014-06-09 Strategic Priorities and Policy Committee>) - Mon Jun 9 2014
+- [Civic Works Committee](</months/2014-05/2014-05-26 Civic Works Committee>) - Mon May 26 2014

@@ -6,14 +6,12 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
-  - "Which specific committees did he serve on and what was his level of participation or leadership role on those committees?"
-  - "How did his attendance record and voting patterns compare to other council members during his tenure from 2014-2022?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement in various aspects of municipal governance and decision-making processes.
-
-His extended service period of eight years suggests he was re-elected at least once during his tenure, as municipal terms in Ontario are typically four years in length. The substantial number of meetings attended reflects regular engagement with council business and committee work throughout his time in office.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,24 +19,24 @@ His extended service period of eight years suggests he was re-elected at least o
 
 ## Committees Served
 
-- [Audit Committee](/committees/audit)
+- [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Civic Works Committee](/committees/civic-works)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [City Council](/committees/city-council)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Audit Committee](/committees/audit)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 
 ## Meeting Attendance (461 meetings)
 
-- [Audit Committee](</months/2021-09/2021-09-22 Audit Committee>) - Wed Sep 22 2021
-- [Audit Committee](</months/2020-09/2020-09-16 Audit Committee>) - Wed Sep 16 2020
-- [Audit Committee](</months/2017-09/2017-09-13 Audit Committee>) - Wed Sep 13 2017
-- [Community and Protective Services Committee](</months/2020-09/2020-09-09 Community and Protective Services Committee>) - Wed Sep 9 2020
-- [Civic Works Committee](</months/2015-09/2015-09-09 Civic Works Committee>) - Wed Sep 9 2015
-- [4th Meeting of the Audit Committee](</months/2022-09/2022-09-07 4th Meeting of the Audit Committee>) - Wed Sep 7 2022
-- [Civic Works Committee](</months/2016-09/2016-09-07 Civic Works Committee>) - Wed Sep 7 2016
-- [Audit Committee](</months/2021-10/2021-10-20 Audit Committee>) - Wed Oct 20 2021
-- [Audit Committee](</months/2015-10/2015-10-14 Audit Committee>) - Wed Oct 14 2015
-- [Audit Committee](</months/2016-10/2016-10-05 Audit Committee>) - Wed Oct 5 2016
+- [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
+- [15th Special Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-07 15th Special Meeting of the Strategic Priorities and Policy Committee>) - Mon Nov 7 2022
+- [The 12th Meeting of the Community and Protective Services Committee](</months/2022-11/2022-11-01 The 12th Meeting of the Community and Protective Services Committee>) - Tue Nov 1 2022
+- [The 14th Meeting of the Civic Works Committee](</months/2022-11/2022-11-01 The 14th Meeting of the Civic Works Committee>) - Tue Nov 1 2022
+- [14th Meeting of the Corporate Services Committee](</months/2022-10/2022-10-31 14th Meeting of the Corporate Services Committee>) - Mon Oct 31 2022
+- [14th Meeting of City Council](</months/2022-10/2022-10-17 14th Meeting of City Council>) - Mon Oct 17 2022
+- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2022-10/2022-10-11 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 11 2022
+- [The 13th Meeting of the Civic Works Committee](</months/2022-10/2022-10-04 The 13th Meeting of the Civic Works Committee>) - Tue Oct 4 2022
+- [13th Meeting of City Council](</months/2022-09/2022-09-27 13th Meeting of City Council>) - Tue Sep 27 2022
+- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2022-09/2022-09-20 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Sep 20 2022

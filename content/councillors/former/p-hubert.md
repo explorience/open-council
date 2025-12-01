@@ -6,14 +6,12 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting pattern on major city budget decisions during his 2011-2018 tenure?"
-  - "How did his attendance rate compare to other council members serving during the same period?"
-  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating significant engagement through his attendance at 363 meetings over this seven-year period. This represents an average of approximately 52 meetings per year, indicating consistent participation in council proceedings. Throughout his tenure, Hubert served on eight different committees, showing broad involvement across various areas of municipal governance and policy development.
-
-His multi-committee involvement suggests he took on diverse responsibilities within the council structure, contributing to different aspects of city administration and decision-making processes during his time in office.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,24 +19,24 @@ His multi-committee involvement suggests he took on diverse responsibilities wit
 
 ## Committees Served
 
-- [Audit Committee](/committees/audit)
-- [Corporate Services Committee](/committees/corporate-services)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
-- [Budget Committee](/committees/budget)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
-- [Planning and Environment Committee](/committees/planning-environment)
+- [Audit Committee](/committees/audit)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Budget Committee](/committees/budget)
+- [Planning and Environment Committee](/committees/planning-environment)
 
 ## Meeting Attendance (363 meetings)
 
-- [Audit Committee](</months/2017-09/2017-09-13 Audit Committee>) - Wed Sep 13 2017
-- [Audit Committee](</months/2015-10/2015-10-14 Audit Committee>) - Wed Oct 14 2015
-- [Corporate Services Committee](</months/2017-10/2017-10-11 Corporate Services Committee>) - Wed Oct 11 2017
-- [Audit Committee](</months/2016-10/2016-10-05 Audit Committee>) - Wed Oct 5 2016
-- [Audit Committee](</months/2016-11/2016-11-30 Audit Committee>) - Wed Nov 30 2016
-- [Audit Committee](</months/2017-11/2017-11-22 Audit Committee>) - Wed Nov 22 2017
-- [Strategic Priorities and Policy Committee](</months/2017-11/2017-11-22 Strategic Priorities and Policy Committee>) - Wed Nov 22 2017
+- [Council](</months/2018-11/2018-11-20 Council>) - Tue Nov 20 2018
+- [Strategic Priorities and Policy Committee](</months/2018-11/2018-11-19 Strategic Priorities and Policy Committee>) - Mon Nov 19 2018
+- [Corporate Services Committee](</months/2018-11/2018-11-13 Corporate Services Committee>) - Tue Nov 13 2018
+- [Civic Works Committee](</months/2018-11/2018-11-12 Civic Works Committee>) - Mon Nov 12 2018
 - [Audit Committee](</months/2018-11/2018-11-07 Audit Committee>) - Wed Nov 7 2018
-- [Audit Committee](</months/2017-05/2017-05-10 Audit Committee>) - Wed May 10 2017
-- [Strategic Priorities and Policy Committee](</months/2017-05/2017-05-03 Strategic Priorities and Policy Committee>) - Wed May 3 2017
+- [Council](</months/2018-11/2018-11-06 Council>) - Tue Nov 6 2018
+- [Civic Works Committee](</months/2018-10/2018-10-30 Civic Works Committee>) - Tue Oct 30 2018
+- [Corporate Services Committee](</months/2018-10/2018-10-30 Corporate Services Committee>) - Tue Oct 30 2018
+- [Council](</months/2018-10/2018-10-16 Council>) - Tue Oct 16 2018
+- [Strategic Priorities and Policy Committee](</months/2018-10/2018-10-15 Strategic Priorities and Policy Committee>) - Mon Oct 15 2018
