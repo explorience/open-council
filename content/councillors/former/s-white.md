@@ -6,14 +6,12 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major budget decisions during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on, and what was their attendance record for committee meetings?"
-  - "Did Sandy White sponsor or champion any particular bylaws or motions during their time on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Sandy White served on London City Council from 2011 to 2014, completing one full term during this four-year period. During their tenure, they demonstrated consistent participation by attending 164 council meetings. White was actively involved in committee work, serving on five different committees throughout their time on council, though the specific names of these committees are not clearly identified in the available data.
-
-White's participation record shows regular engagement with council business over their single term in office. Their attendance at 164 meetings over the four-year period suggests active involvement in the legislative process and council deliberations during their time representing constituents on London City Council.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -23,19 +21,19 @@ White's participation record shows regular engagement with council business over
 
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [City Council](/committees/city-council)
 - [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
-- [City Council](/committees/city-council)
 
 ## Meeting Attendance (164 meetings)
 
-- [Planning and Environment Committee](</months/2012-10/2012-10-24 Planning and Environment Committee>) - Wed Oct 24 2012
-- [Planning and Environment Committee](</months/2012-10/2012-10-17 Planning and Environment Committee>) - Wed Oct 17 2012
-- [Strategic Priorities and Policy Committee](</months/2012-06/2012-06-06 Strategic Priorities and Policy Committee>) - Wed Jun 6 2012
-- [Civic Works Committee](</months/2012-01/2012-01-25 Civic Works Committee>) - Wed Jan 25 2012
-- [Strategic Priorities and Policy Committee](</months/2013-01/2013-01-09 Strategic Priorities and Policy Committee>) - Wed Jan 9 2013
-- [6TH REPORT OF THE (2013 BUDGET PUBLIC PARTICIPATION MEETING](</months/2013-02/2013-02-13 6TH REPORT OF THE (2013 BUDGET PUBLIC PARTICIPATION MEETING #2)>) - Wed Feb 13 2013
-- [Planning and Environment Committee](</months/2013-09/2013-09-24 Planning and Environment Committee>) - Tue Sep 24 2013
+- [Planning and Environment Committee](</months/2014-11/2014-11-18 Planning and Environment Committee>) - Tue Nov 18 2014
+- [Planning and Environment Committee](</months/2014-11/2014-11-04 Planning and Environment Committee>) - Tue Nov 4 2014
+- [Planning and Environment Committee](</months/2014-10/2014-10-14 Planning and Environment Committee>) - Tue Oct 14 2014
+- [Planning and Environment Committee](</months/2014-10/2014-10-07 Planning and Environment Committee>) - Tue Oct 7 2014
+- [Strategic Priorities and Policy Committee](</months/2014-09/2014-09-29 Strategic Priorities and Policy Committee>) - Mon Sep 29 2014
 - [Planning and Environment Committee](</months/2014-09/2014-09-23 Planning and Environment Committee>) - Tue Sep 23 2014
-- [Council](</months/2013-09/2013-09-17 Council>) - Tue Sep 17 2013
-- [Planning and Environment Committee](</months/2013-09/2013-09-10 Planning and Environment Committee>) - Tue Sep 10 2013
+- [Planning and Environment Committee](</months/2014-09/2014-09-09 Planning and Environment Committee>) - Tue Sep 9 2014
+- [Strategic Priorities and Policy Committee](</months/2014-07/2014-07-28 Strategic Priorities and Policy Committee>) - Mon Jul 28 2014
+- [Planning and Environment Committee](</months/2014-07/2014-07-22 Planning and Environment Committee>) - Tue Jul 22 2014
+- [Strategic Priorities and Policy Committee](</months/2014-06/2014-06-23 Strategic Priorities and Policy Committee>) - Mon Jun 23 2014

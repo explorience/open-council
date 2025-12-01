@@ -6,14 +6,12 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's attendance rate as a percentage of total scheduled meetings during her 2014-2022 term?"
-  - "Which specific committees did Maureen Cassidy serve on and what were her roles or positions within those committees?"
-  - "How did Maureen Cassidy vote on major municipal issues and bylaws that came before council during her eight years of service?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation over an eight-year period. During her tenure, she attended 536 council meetings and served on seven different committees, indicating active involvement in municipal governance and committee work.
-
-Her participation record shows sustained engagement with city council duties across two terms of office. The high meeting attendance count and multiple committee appointments suggest she maintained regular involvement in council proceedings and contributed to various aspects of municipal decision-making throughout her time in office.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,23 +19,23 @@ Her participation record shows sustained engagement with city council duties acr
 
 ## Committees Served
 
-- [Civic Works Committee](/committees/civic-works)
-- [Community and Protective Services Committee](/committees/community-protective-services)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [Corporate Services Committee](/committees/corporate-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
+- [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 
 ## Meeting Attendance (536 meetings)
 
-- [Civic Works Committee](</months/2016-09/2016-09-07 Civic Works Committee>) - Wed Sep 7 2016
-- [Community and Protective Services Committee](</months/2016-10/2016-10-26 Community and Protective Services Committee>) - Wed Oct 26 2016
-- [Civic Works Committee](</months/2021-10/2021-10-13 Civic Works Committee>) - Wed Oct 13 2021
-- [Community and Protective Services Committee](</months/2017-10/2017-10-11 Community and Protective Services Committee>) - Wed Oct 11 2017
-- [Community and Protective Services Committee](</months/2018-10/2018-10-10 Community and Protective Services Committee>) - Wed Oct 10 2018
-- [Strategic Priorities and Policy Committee](</months/2017-11/2017-11-22 Strategic Priorities and Policy Committee>) - Wed Nov 22 2017
-- [Corporate Services Committee](</months/2016-05/2016-05-25 Corporate Services Committee>) - Wed May 25 2016
-- [Community and Protective Services Committee](</months/2017-05/2017-05-24 Community and Protective Services Committee>) - Wed May 24 2017
-- [Strategic Priorities and Policy Committee](</months/2017-05/2017-05-03 Strategic Priorities and Policy Committee>) - Wed May 3 2017
-- [Corporate Services Committee](</months/2016-03/2016-03-30 Corporate Services Committee>) - Wed Mar 30 2016
+- [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
+- [The 12th Meeting of the Community and Protective Services Committee](</months/2022-11/2022-11-01 The 12th Meeting of the Community and Protective Services Committee>) - Tue Nov 1 2022
+- [14th Meeting of the Corporate Services Committee](</months/2022-10/2022-10-31 14th Meeting of the Corporate Services Committee>) - Mon Oct 31 2022
+- [14th Meeting of City Council](</months/2022-10/2022-10-17 14th Meeting of City Council>) - Mon Oct 17 2022
+- [The 11th Meeting of the Community and Protective Services Committee](</months/2022-10/2022-10-04 The 11th Meeting of the Community and Protective Services Committee>) - Tue Oct 4 2022
+- [13th Meeting of the Corporate Services Committee](</months/2022-10/2022-10-03 13th Meeting of the Corporate Services Committee>) - Mon Oct 3 2022
+- [13th Meeting of City Council](</months/2022-09/2022-09-27 13th Meeting of City Council>) - Tue Sep 27 2022
+- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2022-09/2022-09-20 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Sep 20 2022
+- [12th Meeting of City Council](</months/2022-09/2022-09-06 12th Meeting of City Council>) - Tue Sep 6 2022
+- [12th Meeting of the Strategic Priorities and Policy Committee](</months/2022-08/2022-08-30 12th Meeting of the Strategic Priorities and Policy Committee>) - Tue Aug 30 2022

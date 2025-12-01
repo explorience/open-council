@@ -6,14 +6,12 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Shawn Lewis served on and what roles (chair, vice-chair, member) have they held on these committees?"
-  - "How has Shawn Lewis voted on major municipal issues such as budget approvals, development projects, or significant policy changes during their tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 meetings over this seven-year period. This represents an average of approximately 70 meetings per year, indicating regular engagement in council proceedings. Lewis has served on eight different committees during their tenure, showing broad involvement across various areas of municipal governance and policy development.
-
-Their extended service period spanning nearly two full council terms suggests they have been re-elected by their constituents and maintained their position through multiple election cycles. The substantial meeting attendance record indicates active participation in the formal decision-making processes of London City Council.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -21,24 +19,24 @@ Their extended service period spanning nearly two full council terms suggests th
 
 ## Committees Served
 
-- [Community and Protective Services Committee](/committees/community-protective-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
-- [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
 
 ## Meeting Attendance (495 meetings)
 
-- [Community and Protective Services Committee](</months/2020-09/2020-09-09 Community and Protective Services Committee>) - Wed Sep 9 2020
-- [17th Meeting of the Planning and Environment Committee](</months/2022-10/2022-10-05 17th Meeting of the Planning and Environment Committee>) - Wed Oct 5 2022
-- [15th Meeting of the Planning and Environment Committee](</months/2024-10/2024-10-02 15th Meeting of the Planning and Environment Committee>) - Wed Oct 2 2024
-- [The 15th Meeting of the Planning and Environment Committee](</months/2025-10/2025-10-01 The 15th Meeting of the Planning and Environment Committee>) - Wed Oct 1 2025
-- [19th Special Meeting of City Council - BUDGET](</months/2024-11/2024-11-27 19th Special Meeting of City Council - BUDGET>) - Wed Nov 27 2024
-- [17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION](</months/2024-11/2024-11-20 17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION>) - Wed Nov 20 2024
-- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-16 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 16 2022
-- [3rd Meeting of the Audit Committee](</months/2023-11/2023-11-15 3rd Meeting of the Audit Committee>) - Wed Nov 15 2023
+- [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
+- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
+- [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
+- [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
 - [The 17th Meeting of the Planning and Environment Committee](</months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee>) - Wed Nov 12 2025
-- [The 9th Meeting of Civic Works Committee](</months/2023-05/2023-05-24 The 9th Meeting of Civic Works Committee>) - Wed May 24 2023
+- [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025
+- [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
+- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
+- [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
+- [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025

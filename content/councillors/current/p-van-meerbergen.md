@@ -6,14 +6,12 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "What is his voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2011-2025 tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant participation through his attendance at 499 council meetings over his tenure. His involvement spans approximately 14 years of municipal service, during which he has served on seven different committees, indicating broad engagement across various aspects of city governance and policy areas.
-
-His consistent attendance record and multi-committee involvement suggest a committed approach to his council responsibilities, participating in the collaborative decision-making processes that guide London's municipal affairs throughout more than a decade of service.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
@@ -22,23 +20,23 @@ His consistent attendance record and multi-committee involvement suggest a commi
 
 ## Committees Served
 
-- [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
+- [Civic Works Committee](/committees/civic-works)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 
 ## Meeting Attendance (499 meetings)
 
-- [Civic Works Committee](</months/2021-10/2021-10-13 Civic Works Committee>) - Wed Oct 13 2021
-- [14th Meeting of the Civic Works Committee](</months/2023-10/2023-10-04 14th Meeting of the Civic Works Committee>) - Wed Oct 4 2023
-- [19th Special Meeting of City Council - BUDGET](</months/2024-11/2024-11-27 19th Special Meeting of City Council - BUDGET>) - Wed Nov 27 2024
-- [17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION](</months/2024-11/2024-11-20 17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION>) - Wed Nov 20 2024
-- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-16 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 16 2022
-- [The 9th Meeting of Civic Works Committee](</months/2023-05/2023-05-24 The 9th Meeting of Civic Works Committee>) - Wed May 24 2023
-- [Strategic Priorities and Policy Committee](</months/2019-03/2019-03-20 Strategic Priorities and Policy Committee>) - Wed Mar 20 2019
-- [1st Meeting of the Budget Committee](</months/2025-03/2025-03-19 1st Meeting of the Budget Committee>) - Wed Mar 19 2025
-- [11th Meeting of the Strategic Priorities and Policy Committee](</months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee>) - Wed Mar 8 2023
-- [Strategic Priorities and Policy Committee](</months/2021-06/2021-06-23 Strategic Priorities and Policy Committee>) - Wed Jun 23 2021
+- [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
+- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
+- [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
+- [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
+- [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
+- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
+- [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
+- [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025
+- [16th Council Meeting](</months/2025-10/2025-10-14 16th Council Meeting>) - Tue Oct 14 2025
+- [12th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-07 12th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 7 2025
