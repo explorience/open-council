@@ -6,6 +6,16 @@ import { VectorStore } from './vector-store.js';
 import { getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult } from './types.js';
 
+/**
+ * Metadata collected during chat for logging purposes
+ */
+export interface ChatMetadataCollector {
+  topK?: number;
+  contextChunksUsed?: number;
+  llmProvider?: string;
+  model?: string;
+}
+
 const EMBEDDING_MODEL = 'text-embedding-3-small';
 
 // Dynamic TOP_K values based on query complexity
@@ -516,12 +526,22 @@ ${result.text}
    */
   async *chatStreamOpenAI(
     message: string,
-    history: ChatMessage[] = []
+    history: ChatMessage[] = [],
+    metadataCollector?: ChatMetadataCollector
   ): AsyncGenerator<string, void, unknown> {
     // Retrieve relevant context
     const results = await this.retrieveContext(message);
     const context = this.buildContextString(results);
     const systemPrompt = getSystemPrompt(context);
+
+    // Populate metadata for logging
+    if (metadataCollector) {
+      const analysis = this.analyzeQuery(message);
+      metadataCollector.topK = analysis.topK;
+      metadataCollector.contextChunksUsed = results.length;
+      metadataCollector.llmProvider = 'openai';
+      metadataCollector.model = 'gpt-4o';
+    }
 
     // Build messages array
     const messages: OpenAI.Chat.ChatCompletionMessageParam[] = [
@@ -555,7 +575,8 @@ ${result.text}
    */
   async *chatStreamAnthropic(
     message: string,
-    history: ChatMessage[] = []
+    history: ChatMessage[] = [],
+    metadataCollector?: ChatMetadataCollector
   ): AsyncGenerator<string, void, unknown> {
     if (!this.anthropic) {
       throw new Error('Anthropic API key not configured');
@@ -565,6 +586,15 @@ ${result.text}
     const results = await this.retrieveContext(message);
     const context = this.buildContextString(results);
     const systemPrompt = getSystemPrompt(context);
+
+    // Populate metadata for logging
+    if (metadataCollector) {
+      const analysis = this.analyzeQuery(message);
+      metadataCollector.topK = analysis.topK;
+      metadataCollector.contextChunksUsed = results.length;
+      metadataCollector.llmProvider = 'anthropic';
+      metadataCollector.model = 'claude-sonnet-4-5-20250929';
+    }
 
     // Build messages array
     const messages: Anthropic.MessageParam[] = [
@@ -597,12 +627,13 @@ ${result.text}
    */
   async *chat(
     message: string,
-    history: ChatMessage[] = []
+    history: ChatMessage[] = [],
+    metadataCollector?: ChatMetadataCollector
   ): AsyncGenerator<string, void, unknown> {
     if (this.provider === 'openai') {
-      yield* this.chatStreamOpenAI(message, history);
+      yield* this.chatStreamOpenAI(message, history, metadataCollector);
     } else {
-      yield* this.chatStreamAnthropic(message, history);
+      yield* this.chatStreamAnthropic(message, history, metadataCollector);
     }
   }
 

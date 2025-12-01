@@ -6,3 +6,6 @@ __pycache__/
 
 # Vector database - regenerate on deploy, don't persist stale data
 lancedb/
+
+# Chat logs - contain user data, should not be committed
+server/chat-logs/
