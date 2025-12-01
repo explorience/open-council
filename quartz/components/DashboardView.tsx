@@ -3,6 +3,8 @@ import { resolveRelative } from "../util/path"
 import { byDateAndAlphabetical } from "./PageList"
 import { Date, getDate } from "./Date"
 import style from "./styles/dashboardView.scss"
+// @ts-ignore
+import script from "./scripts/dashboardView.inline"
 
 export interface Committee {
   name: string
@@ -76,20 +78,37 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
 
     return (
       <div class="dashboard-view advanced-only">
-        {/* Stats Row */}
+        {/* Stats Row with Actions */}
         <div class="dashboard-stats">
-          <div class="stat-card">
-            <span class="stat-number">{totalMeetings.toLocaleString()}</span>
-            <span class="stat-label">Meetings</span>
+          <button class="action-btn browse-all-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
+            </svg>
+            Browse All
+          </button>
+
+          <div class="stats-group">
+            <div class="stat-card">
+              <span class="stat-number">{totalMeetings.toLocaleString()}</span>
+              <span class="stat-label">Meetings</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-number">14</span>
+              <span class="stat-label">Years</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-number">{opts.committees.length}</span>
+              <span class="stat-label">Committees</span>
+            </div>
           </div>
-          <div class="stat-card">
-            <span class="stat-number">14</span>
-            <span class="stat-label">Years</span>
-          </div>
-          <div class="stat-card">
-            <span class="stat-number">{opts.committees.length}</span>
-            <span class="stat-label">Committees</span>
-          </div>
+
+          <button class="action-btn search-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            Search
+          </button>
         </div>
 
         {/* Main Grid */}
@@ -159,28 +178,12 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
           </div>
         </div>
 
-        {/* Bottom Actions */}
-        <div class="dashboard-actions">
-          <button class="action-btn browse-all-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
-              <polyline points="9 22 9 12 15 12 15 22"/>
-            </svg>
-            Browse All Files
-          </button>
-          <button class="action-btn search-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <circle cx="11" cy="11" r="8"/>
-              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-            </svg>
-            Full Search
-          </button>
-        </div>
       </div>
     )
   }
 
   DashboardView.css = style
+  DashboardView.afterDOMLoaded = script
 
   return DashboardView
 }) satisfies QuartzComponentConstructor

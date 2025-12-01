@@ -1,13 +1,9 @@
 // Homepage-specific styles
 
-// Simple mode: show recent notes, hide dashboard
+// Simple mode: hide dashboard, recent notes controlled by toggle button
 body.simple-mode {
   .dashboard-view {
     display: none !important;
-  }
-
-  .page-footer > .recent-notes {
-    display: block !important;
   }
 }
 
