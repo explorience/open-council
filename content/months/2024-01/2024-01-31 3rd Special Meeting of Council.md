@@ -267,4 +267,35 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:53 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (21 minutes)</summary>
+
+**[12:11]** Please be seated. Thank you colleagues. So this is the third but special meeting of Cal, everything meeting is special, but this is actually a special meeting. And this is to deal with the agenda that you see before us. But let me start with our formal land acknowledgement, the formal land acknowledgement. The city of London is situated on the traditional lands of the Anishinaabak, Haudenosaunee, Lene Peowak, and Adawandran.
+
+**[12:46]** We honor respect the history, language, and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nation, MÃ©tis, and Inuit today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. As well, the city of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact council agenda at London.ca or 519-661-2489, extension 2425. Now colleagues, this is a meeting of council, but given it's a special meeting, we don't have an old Canada singer, but I think our preference last time was to continue and do that anyways, so we all get to do that together.
+
+**[13:30]** So I would ask you to join me in rising and singing national anthem, which I'll ask Councillor Cudi to start us off on. Thank you very much, please be seated.
+
+**[14:38]** Once again, reminds us why we invite professional singers. I know I kept my microphone off and many of you did too. I will say on a previous council, we have had beautiful singers in the past, and I'm sure one of us is probably hiding that talent at risk of having to sing for us in each and every meeting, but I appreciate everybody participating along. I'll look for disclosures of peon or interest, seeing none. Given this is a special meeting, we have no recognitions. We have no review of confidential matters to be considered in public, but we do have a couple of items for council in closed session.
+
+**[15:15]** So I will now at this time, look for a motion to move into closed session move by Deputy Mayor Lewis, seconded by Councillor Hopkins. We will open this in the system. Those in the vote motion carries 14 to zero. Okay, and it'll just take a moment. We are gonna stay here, which means we have to ask our friends in the audience and gallery to leave, and we'll be set up in a few minutes.
+
+**[18:07]** Okay, thank you. We've concluded in closed session. Item five, there are no confirmation of signing of previous minutes. Six, no community communications, our petitions, no motions for which notice was given. There is one report of the special SPPC meeting. You have that before you. I'll have the Deputy Mayor present that report. Thank you, Your Worship, and I'll remind you, this is council two, so you get to stand up.
+
+**[18:44]** Thank you, Your Worship, at this time, I will report that the progress was made for the item on which we went in camera. I don't have any other language to share. Actually, slightly different one. My mistake, I'm not quite to the report out of the in-camera session. The SPPC report before us is the one that is basically the report that shows that we went into camera when we met as SPPC last month. So you're presenting the SPPC report that's attached to the regular agenda. It has seven items to it.
+
+**[19:19]** All of them are basically, it's basically us going in camera. Okay, sorry, I missed the attachment. So you're willing to move that entire report? So I will move that entire report. Excellent, any discussion on that SPPC report? Okay, seeing none, we'll vote on that in the system. Those in the vote, motion carries 14 to zero.
+
+**[19:56]** Before you sit down, we're on added reports, which is reporting progress from our closed session. And now a report progress was made on the item for which we went into closed session. Thank you for that. No deferred matters. There's no inquiries, no emergent motions. We have one bylaw, just the confirmation bylaw for this meeting, Bill 45. I'll look for a move and a second to our first reading. Moved by Deputy Mayor Lewis, seconded by Councillor Cuddy. We'll open and voting in the system. Councillor Hill here, Councillor?
+
+**[20:41]** Yes, a little yes, a good thing out. Thank you. Close in the vote, motion carries 14 to zero. Moved seconder for second reading. Moved by Councillor Troz, seconded by Councillor Pribble. Any discussion on second reading? Seeing none, we'll open that for voting. Those in the vote, motion carries 14 to zero. Third reading of the confirmation bylaw. Councillor Hopkins, seconded by Councillor Layman. We will open third reading for voting.
+
+**[21:26]** Those in the vote, motion carries 14 to zero. Okay, that concludes bylaws. I just need a motion to adjourn. Moved by Councillor Stevenson, seconded by Councillor Cutty, we'll do this by hand, all those in favor. Mad motion carries. All right, we're adjourned. Thank you.
+
+</details>

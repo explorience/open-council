@@ -249,4 +249,41 @@ The meeting adjourned at 3:09 PM.
 > **Bill No. 97**
 > 
 > By-law No. A.-8348-69 - A by-law to approve and authorize the execution of the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement between His Majesty the King in right of Ontario, as represented by the Solicitor General and The Corporation of the City of London (London Fire Department- Communications Division)  (2.1b/5/CPSC)
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (20 minutes)</summary>
+
+**[11:56]** Okay, I'm going to call the seventh meeting of council to order. This is a special meeting of council. So we do only have one agenda item. I will just note off the top, I know there's a number of people in the audience today. My understanding is that you're probably here for the SPPC meeting that starts at four, where there's an added agenda about a petition. What we're doing today is a special council meeting to deal with one item, which is a timely matter related to a provincial transfer payment that we have to have done by a certain date.
+
+**[12:36]** So I just want you to know in case you don't see your item happen during the council meeting, it will be at the meeting that starts at four. With that, I'm going to start with land acknowledgement. We acknowledge that we are gathered today on the traditional lands of the Anishinaabak Haudenosaunee, Lene Peiwak, and Adawandran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. We acknowledge all of the treaties that are specific to this area. The two-row Wampum Belt Treaty of the Haudenosaunee Confederacy, Silver Covenant Chain, the Beaver Hunting Grounds of the Haudenosaunee, Nanfant Treaty of 1701, the McKee Treaty of 1790, the London Township Treaty of 1796, the Huron Track Treaty of 1827 with the Anishinaabak, and the Dish With One Spoon, Covenant Wampum of the Anishinaabak and Haudenosaunee.
+
+**[13:22]** The three indigenous nations that are neighbors to London are the Chippewas of the Thames First Nation, Oneida Nation of the Thames, and the Muncie Delaware Nation, who all continue to live as sovereign nations with individual and unique languages, cultures, and customs. I'll also add that the City of London is committed to making every effort to provide alternate format, alternate formats, and communication supports for meetings upon request. To make a request specific to this meeting, please contact Council Agenda at London.ca or 519-661-2489, extension 2425. I will start with disclosures of pecuniary interest.
+
+**[13:59]** Okay, seeing none, this is a special meeting, and although I don't have any planned recognitions, I am going to give some leeway to the City Manager to introduce one of our new staff members. Yes, Your Worship, thank you very much, and I'll take only a brief moment, but I wanted to seize on the opportunity to be able to introduce Council to Eliza Bennett. Eliza is our new Director of Strategic Communications with the City of London, this very critical role for the City, so I felt it was important for Council to be able to put a face to a name.
+
+**[14:37]** Eliza is an extremely accomplished bilingual public sector executive with extensive experience in communications, strategic planning, and reputation management, as well as team leadership. She has had many leadership roles in communications, including with the town of Tecumseh, the town of Aurora, the City of Laduk, and with the City of Greater Sudbury. Eliza is not only being brave and taking on a new job with a new corporation, but also moving to a new city, and I know that you will join me in making sure that Eliza feels very welcome as she comes to do wonderful work with all of us for many years, we hope.
+
+**[15:19]** So welcome, Eliza, and I thank you for the opportunity to introduce her to you. Yes, thank you very much, and welcome, I think because of today's special meeting, you'll have a completely false impression on the length of Council meetings. But don't worry, you'll get used to it. And again, welcome to the team, we're really happy to have you. As this is a special meeting, we're not going to do any review of confidential matters considered in public session, there is no closed session, there's no confirmation of signing of previous minutes, no communications or petitions, no motions of which notice is given, there is one report, the fifth report of a Special Community and Protective Services Committee meeting, I will turn it over to Chair Pelosa to present that report.
+
+**[16:04]** Thank you, Mr. Mayor, and we did have a special meeting of the Community Services Committee, and this was to deal with the timely funding transfer agreement that needed to come through before the end of the month, in which case this deals with the 911 transition funding support, where we go from the analog system to a new upgrade system for 911, which will allow residents and those in need to be able to transmit calls, videos and photos as well in real time to the 911 operators. And this is allowing the city to accept the funding on behalf and enter a contract with the Solicitor General for $700,000 for the London Police Services and the London Fire Department to receive $900,000 in funding.
+
+**[16:47]** So I put this on the floor, realizing it was a unanimous vote at committee in a really short meeting on this one item. Okay. So the whole committee report is on the floor at any discussion. Okay. Seeing none, I'm going to open that for voting. Your worship, I'm going to vote, I have access to online voting. It's a councilor.
+
+**[17:22]** Perfect. Thank you. Yes, as well. Councillor Hopkins and Ferreira. I vote yay. I vote yay as well. Thank you.
+
+**[17:56]** Close in the vote. Motion carries 15 to 0. Okay. Thank you, Mr. Pelosa. We have no added reports. No deferred matters, inquiries, I'm not going to allow any special meeting. Emergent motions. There are none. We have three bylaws related to the decision we just made. I'll look for a mover of all three. That's bills 95, 96, and 97, altogether Councillor Frank, seconded by Councillor Hopkins. No debate on first reading. So we'll open first reading for voting. Councillor Neill.
+
+**[18:31]** I'm in votes. Yes, as well. Mr. Pelosa votes yes. I vote yay. Close in the vote, motion carries 15 to 0. Okay. I move in a seconder for second reading of those three bills. I see Councillor Raman seconded by Councillor Stevenson. Any discussion? Okay. No discussion.
+
+**[19:10]** So we'll open that for voting. Councillor Layton. I vote yay. Close in the vote. Motion carries 15 to 0. Okay. I move in a seconder for third reading of those bills. Councillor Pelosa seconded by Councillor Ferreira. With no debate on third reading, we'll open that for voting. Councillor Layton votes yay. I vote yay. Close in the vote.
+
+**[19:42]** Motion carries 15 to 0. Okay. To complete, all I need is a motion to adjourn. Councillor Pelosa seconded by Councillor Ferreira. All those in favor of adjournment? Motion carries. Thank you. We're adjourned. I'll just make one final reminder for those in the gallery. The meeting that you're, I think you're planning on being here for is the SPPC meeting which starts at four.
+
+**[20:19]** That was a special council meeting for a one-on-one item agenda. So that meeting will begin at four p.m.
+
+</details>

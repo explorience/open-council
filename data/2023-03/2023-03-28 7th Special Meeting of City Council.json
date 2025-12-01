@@ -1,1 +1,1376 @@
-{"title": "7th Special Meeting of City Council", "datetime": "2023-03-28 15:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f576e0d-ea9c-46d0-a979-3642e010018b&Agenda=PostMinutes&lang=English", "meeting_type": "Council", "bills": {"bills": [{"empty_flag": false, "title": "Bill No. 95", "desc": "By-law No. A.-8346-67 - A by-law to confirm the proceedings of the Council Meeting held on the 28th day of March 2023. (City Clerk)", "__class__": "Bill"}, {"empty_flag": false, "title": "Bill No. 96", "desc": "By-law No. A.-8347-68 - A by-law to approve and authorize the execution of the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement between His Majesty the King in right of Ontario, as represented by the Solicitor General and The Corporation of the City of London (London Police Service \u2013 Communications Section)\u00a0 (2.1a/5/CPSC)", "__class__": "Bill"}, {"empty_flag": false, "title": "Bill No. 97", "desc": "By-law No. A.-8348-69 - A by-law to approve and authorize the execution of the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement between His Majesty the King in right of Ontario, as represented by the Solicitor General and The Corporation of the City of London (London Fire Department- Communications Division)\u00a0 (2.1b/5/CPSC)", "__class__": "Bill"}], "__class__": "Bills"}, "present": ["J. Morgan", "H. McAlister", "S. Lewis", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "C. Rahman", "S. Lehman", "A. Hopkins", "P. Van Meerbergen", "S. Franke", "E. Peloza", "D. Ferreira", "S. Hillier"], "also_present": ["L. Livingstone", "A. Barbon", "E. Bennett", "S. Corman", "C. Dooling", "A. Job", "S. Mathers", "K. Scherr", "C. Smith", "M. Schulthess", "C. Smith", "J. Taylor"], "remote_attendance": ["B. Card", "A. Dunbar", "T. Fowler"], "content": {"string": "The meeting was called to order at 3:00 PM; it being noted that Councillors S. Hillier, S. Lehman, P. Van Meerbergen were in remote attendance.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That is BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Recognitions", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Review of Confidential Matters to be Considered in Public", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Council, In Closed Session", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Communications and Petitions", "number": "6", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Motions of Which Notice is Given", "number": "7", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Reports", "number": "8", "content": [], "items": {"1": {"title": "5th Report of the Special Community and Protective Services Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by E. Peloza", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That items 1 to 2 (2.1) of 5th Report of the Special Community and Protective Services Committee, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira,C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (15 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by E. Peloza", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": "2023-03/2023-03-21 The 6th Meeting of the Community and Protective Services Committee", "__class__": "MeetingItem"}, "2": {"title": "(2.1) Next Generation 9-1-1 Transition Funding Support - Transfer Payment Agreements", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by E. Peloza", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated March 21, 2023, related to the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreements:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0 the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at a special meeting of Municipal Council to be held on March 28, 2023, to:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0approve the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement between His Majesty the King in right of Ontario, as represented by the Solicitor General, and The Corporation of the City of London (London Police Service-Communications Section), substantially in the form appended to the above-noted by-law;\n\nii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to execute the above-noted Agreement;\u00a0\n\niii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to approve and execute any further amending agreements to the above-noted Transfer Payment Agreement;\u00a0\n\niv) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services, or written delegate, to execute any financial reports required under the above-noted Agreement; and,\n\nv) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to approve and execute a future agreement between The Corporation of the City of London and the London Police Services Board assigning the terms of Schedule \u2018A\u2019 of Appendix \u2018A\u2019 to the London Police Services Board; and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at a special meeting of Municipal Council to be held on March 28, 2023, to;", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0approve the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement, between His Majesty the King in right of Ontario, as represented by the Solicitor General, and The Corporation of the City of London (London Fire Department-Communications Division), substantially in the form appended to the above-noted by-law;\n\nii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to execute the above-noted Agreement; \u00a0\n\niii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to undertake all the administrative, financial and reporting acts that are necessary in connection with the above-noted Agreement; and,\n\niv) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services, or written delegate, to execute any financial reports required under the above-noted Agreement.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": "2023-03/2023-03-21 The 6th Meeting of the Community and Protective Services Committee", "__class__": "MeetingItem"}}, "datetime": "2023-03-28 15:00:00", "attachments": [{"empty_flag": false, "title": "2023-03-21 Special CPSC Report 5", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=98571", "date": "2023-03-21 00:00:00", "local_page": "2023-03/2023-03-21 The 6th Meeting of the Community and Protective Services Committee", "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Added Reports", "number": "9", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Deferred Matters", "number": "10", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "11": {"title": "Enquiries", "number": "11", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "12": {"title": "Emergent Motions", "number": "12", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "13": {"title": "By-laws", "number": "13", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by A. Hopkins", "__class__": "Mover"}, "motion_texts": [{"string": "That Introduction and First Reading of Bill No.'s 95 to 97 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira,C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (15 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by C. Rahman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That Second Reading of Bill No.'s 95 to 97 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira,C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (15 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by E. Peloza", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That Third Reading and Enactment of Bill No.'s 95 to 97 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira,C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (15 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "14": {"title": "Adjournment", "number": "14", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by E. Peloza", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 3:09 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2023-03-28 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "7th Special Meeting of City Council",
+  "datetime": "2023-03-28 15:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f576e0d-ea9c-46d0-a979-3642e010018b&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Council",
+  "bills": {
+    "bills": [
+      {
+        "empty_flag": false,
+        "title": "Bill No. 95",
+        "desc": "By-law No. A.-8346-67 - A by-law to confirm the proceedings of the Council Meeting held on the 28th day of March 2023. (City Clerk)",
+        "__class__": "Bill"
+      },
+      {
+        "empty_flag": false,
+        "title": "Bill No. 96",
+        "desc": "By-law No. A.-8347-68 - A by-law to approve and authorize the execution of the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement between His Majesty the King in right of Ontario, as represented by the Solicitor General and The Corporation of the City of London (London Police Service \u2013 Communications Section)\u00a0 (2.1a/5/CPSC)",
+        "__class__": "Bill"
+      },
+      {
+        "empty_flag": false,
+        "title": "Bill No. 97",
+        "desc": "By-law No. A.-8348-69 - A by-law to approve and authorize the execution of the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement between His Majesty the King in right of Ontario, as represented by the Solicitor General and The Corporation of the City of London (London Fire Department- Communications Division)\u00a0 (2.1b/5/CPSC)",
+        "__class__": "Bill"
+      }
+    ],
+    "__class__": "Bills"
+  },
+  "present": [
+    "J. Morgan",
+    "H. McAlister",
+    "S. Lewis",
+    "P. Cuddy",
+    "S. Stevenson",
+    "J. Pribil",
+    "S. Trosow",
+    "C. Rahman",
+    "S. Lehman",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "S. Franke",
+    "E. Peloza",
+    "D. Ferreira",
+    "S. Hillier"
+  ],
+  "also_present": [
+    "L. Livingstone",
+    "A. Barbon",
+    "E. Bennett",
+    "S. Corman",
+    "C. Dooling",
+    "A. Job",
+    "S. Mathers",
+    "K. Scherr",
+    "C. Smith",
+    "M. Schulthess",
+    "C. Smith",
+    "J. Taylor"
+  ],
+  "remote_attendance": [
+    "B. Card",
+    "A. Dunbar",
+    "T. Fowler"
+  ],
+  "content": {
+    "string": "The meeting was called to order at 3:00 PM; it being noted that Councillors S. Hillier, S. Lehman, P. Van Meerbergen were in remote attendance.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That is BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Recognitions",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Review of Confidential Matters to be Considered in Public",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Council, In Closed Session",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Communications and Petitions",
+      "number": "6",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Motions of Which Notice is Given",
+      "number": "7",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "8": {
+      "title": "Reports",
+      "number": "8",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "5th Report of the Special Community and Protective Services Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Motion made by E. Peloza",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That items 1 to 2 (2.1) of 5th Report of the Special Community and Protective Services Committee, BE APPROVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "Mayor J. Morgan",
+                      "A. Hopkins",
+                      "S. Lewis",
+                      "S. Hillier",
+                      "E. Peloza",
+                      "P. Van Meerbergen",
+                      "S. Lehman",
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "S. Stevenson",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira,C. Rahman"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (15 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {
+            "1": {
+              "title": "Disclosures of Pecuniary Interest",
+              "number": "1",
+              "content": [
+                {
+                  "pre_motion_texts": [],
+                  "moved_by": {
+                    "string": "Motion made by E. Peloza",
+                    "__class__": "Mover"
+                  },
+                  "seconded_by": {
+                    "string": "",
+                    "__class__": "Mover"
+                  },
+                  "motion_texts": [
+                    {
+                      "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+                      "__class__": "Paragraph"
+                    }
+                  ],
+                  "vote": {
+                    "rows": [],
+                    "__class__": "Vote"
+                  },
+                  "result": {
+                    "string": "Motion Passed",
+                    "__class__": "MotionResult"
+                  },
+                  "post_motion_texts": [],
+                  "__class__": "Motion"
+                }
+              ],
+              "items": {},
+              "datetime": "2023-03-28 15:00:00",
+              "attachments": [],
+              "report": "2023-03/2023-03-21 The 6th Meeting of the Community and Protective Services Committee",
+              "__class__": "MeetingItem"
+            },
+            "2": {
+              "title": "(2.1) Next Generation 9-1-1 Transition Funding Support - Transfer Payment Agreements",
+              "number": "2",
+              "content": [
+                {
+                  "pre_motion_texts": [],
+                  "moved_by": {
+                    "string": "Motion made by E. Peloza",
+                    "__class__": "Mover"
+                  },
+                  "seconded_by": {
+                    "string": "",
+                    "__class__": "Mover"
+                  },
+                  "motion_texts": [
+                    {
+                      "string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated March 21, 2023, related to the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreements:",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "a) \u00a0 \u00a0 the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at a special meeting of Municipal Council to be held on March 28, 2023, to:",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "i) \u00a0 \u00a0approve the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement between His Majesty the King in right of Ontario, as represented by the Solicitor General, and The Corporation of the City of London (London Police Service-Communications Section), substantially in the form appended to the above-noted by-law;\n\nii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to execute the above-noted Agreement;\u00a0\n\niii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to approve and execute any further amending agreements to the above-noted Transfer Payment Agreement;\u00a0\n\niv) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services, or written delegate, to execute any financial reports required under the above-noted Agreement; and,\n\nv) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to approve and execute a future agreement between The Corporation of the City of London and the London Police Services Board assigning the terms of Schedule \u2018A\u2019 of Appendix \u2018A\u2019 to the London Police Services Board; and,",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at a special meeting of Municipal Council to be held on March 28, 2023, to;",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "i) \u00a0 \u00a0approve the Next Generation 9-1-1 Transition Funding Support Transfer Payment Agreement, between His Majesty the King in right of Ontario, as represented by the Solicitor General, and The Corporation of the City of London (London Fire Department-Communications Division), substantially in the form appended to the above-noted by-law;\n\nii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services to execute the above-noted Agreement; \u00a0\n\niii) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to undertake all the administrative, financial and reporting acts that are necessary in connection with the above-noted Agreement; and,\n\niv) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services, or written delegate, to execute any financial reports required under the above-noted Agreement.",
+                      "__class__": "Paragraph"
+                    }
+                  ],
+                  "vote": {
+                    "rows": [],
+                    "__class__": "Vote"
+                  },
+                  "result": {
+                    "string": "Motion Passed",
+                    "__class__": "MotionResult"
+                  },
+                  "post_motion_texts": [],
+                  "__class__": "Motion"
+                }
+              ],
+              "items": {},
+              "datetime": "2023-03-28 15:00:00",
+              "attachments": [],
+              "report": "2023-03/2023-03-21 The 6th Meeting of the Community and Protective Services Committee",
+              "__class__": "MeetingItem"
+            }
+          },
+          "datetime": "2023-03-28 15:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-03-21 Special CPSC Report 5",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=98571",
+              "date": "2023-03-21 00:00:00",
+              "local_page": "2023-03/2023-03-21 The 6th Meeting of the Community and Protective Services Committee",
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "9": {
+      "title": "Added Reports",
+      "number": "9",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "10": {
+      "title": "Deferred Matters",
+      "number": "10",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "11": {
+      "title": "Enquiries",
+      "number": "11",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "12": {
+      "title": "Emergent Motions",
+      "number": "12",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "13": {
+      "title": "By-laws",
+      "number": "13",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Franke",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by A. Hopkins",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Introduction and First Reading of Bill No.'s 95 to 97 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira,C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (15 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by C. Rahman",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Second Reading of Bill No.'s 95 to 97 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira,C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (15 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by E. Peloza",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Third Reading and Enactment of Bill No.'s 95 to 97 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira,C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (15 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "14": {
+      "title": "Adjournment",
+      "number": "14",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by E. Peloza",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 3:09 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-03-28 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:11:56.190",
+      "end": "00:12:05.910",
+      "text": "Okay, I'm going to call the seventh meeting of council to order."
+    },
+    {
+      "index": 2,
+      "start": "00:12:05.910",
+      "end": "00:12:08.120",
+      "text": "This is a special meeting of council."
+    },
+    {
+      "index": 3,
+      "start": "00:12:08.120",
+      "end": "00:12:10.900",
+      "text": "So we do only have one agenda item."
+    },
+    {
+      "index": 4,
+      "start": "00:12:10.900",
+      "end": "00:12:17.820",
+      "text": "I will just note off the top, I know there's a number of people in the audience today."
+    },
+    {
+      "index": 5,
+      "start": "00:12:17.820",
+      "end": "00:12:22.850",
+      "text": "My understanding is that you're probably here for the SPPC meeting that starts at four,"
+    },
+    {
+      "index": 6,
+      "start": "00:12:22.850",
+      "end": "00:12:25.520",
+      "text": "where there's an added agenda about a petition."
+    },
+    {
+      "index": 7,
+      "start": "00:12:25.520",
+      "end": "00:12:29.020",
+      "text": "What we're doing today is a special council meeting to deal with one item, which is a"
+    },
+    {
+      "index": 8,
+      "start": "00:12:29.020",
+      "end": "00:12:35.270",
+      "text": "timely matter related to a provincial transfer payment that we have to have done by a certain"
+    },
+    {
+      "index": 9,
+      "start": "00:12:35.270",
+      "end": "00:12:36.250",
+      "text": "date."
+    },
+    {
+      "index": 10,
+      "start": "00:12:36.250",
+      "end": "00:12:39.560",
+      "text": "So I just want you to know in case you don't see your item happen during the council meeting,"
+    },
+    {
+      "index": 11,
+      "start": "00:12:39.560",
+      "end": "00:12:42.490",
+      "text": "it will be at the meeting that starts at four."
+    },
+    {
+      "index": 12,
+      "start": "00:12:42.490",
+      "end": "00:12:46.810",
+      "text": "With that, I'm going to start with land acknowledgement."
+    },
+    {
+      "index": 13,
+      "start": "00:12:46.810",
+      "end": "00:12:49.680",
+      "text": "We acknowledge that we are gathered today on the traditional lands of the Anishinaabak"
+    },
+    {
+      "index": 14,
+      "start": "00:12:49.680",
+      "end": "00:12:52.660",
+      "text": "Haudenosaunee, Lene Peiwak, and Adawandran."
+    },
+    {
+      "index": 15,
+      "start": "00:12:52.660",
+      "end": "00:12:55.910",
+      "text": "We honor and respect the history, languages, and culture of the diverse indigenous people"
+    },
+    {
+      "index": 16,
+      "start": "00:12:55.910",
+      "end": "00:12:58.030",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 17,
+      "start": "00:12:58.030",
+      "end": "00:13:00.980",
+      "text": "We acknowledge all of the treaties that are specific to this area."
+    },
+    {
+      "index": 18,
+      "start": "00:13:00.980",
+      "end": "00:13:05.610",
+      "text": "The two-row Wampum Belt Treaty of the Haudenosaunee Confederacy, Silver Covenant Chain, the Beaver"
+    },
+    {
+      "index": 19,
+      "start": "00:13:05.610",
+      "end": "00:13:11.930",
+      "text": "Hunting Grounds of the Haudenosaunee, Nanfant Treaty of 1701, the McKee Treaty of 1790, the"
+    },
+    {
+      "index": 20,
+      "start": "00:13:11.930",
+      "end": "00:13:17.520",
+      "text": "London Township Treaty of 1796, the Huron Track Treaty of 1827 with the Anishinaabak, and"
+    },
+    {
+      "index": 21,
+      "start": "00:13:17.520",
+      "end": "00:13:22.320",
+      "text": "the Dish With One Spoon, Covenant Wampum of the Anishinaabak and Haudenosaunee."
+    },
+    {
+      "index": 22,
+      "start": "00:13:22.320",
+      "end": "00:13:26.020",
+      "text": "The three indigenous nations that are neighbors to London are the Chippewas of the Thames First"
+    },
+    {
+      "index": 23,
+      "start": "00:13:26.020",
+      "end": "00:13:30.580",
+      "text": "Nation, Oneida Nation of the Thames, and the Muncie Delaware Nation, who all continue to"
+    },
+    {
+      "index": 24,
+      "start": "00:13:30.580",
+      "end": "00:13:34.950",
+      "text": "live as sovereign nations with individual and unique languages, cultures, and customs."
+    },
+    {
+      "index": 25,
+      "start": "00:13:34.950",
+      "end": "00:13:39.980",
+      "text": "I'll also add that the City of London is committed to making every effort to provide alternate"
+    },
+    {
+      "index": 26,
+      "start": "00:13:39.980",
+      "end": "00:13:44.670",
+      "text": "format, alternate formats, and communication supports for meetings upon request."
+    },
+    {
+      "index": 27,
+      "start": "00:13:44.670",
+      "end": "00:13:49.760",
+      "text": "To make a request specific to this meeting, please contact Council Agenda at London.ca"
+    },
+    {
+      "index": 28,
+      "start": "00:13:49.760",
+      "end": "00:13:56.450",
+      "text": "or 519-661-2489, extension 2425."
+    },
+    {
+      "index": 29,
+      "start": "00:13:56.450",
+      "end": "00:13:59.120",
+      "text": "I will start with disclosures of pecuniary interest."
+    },
+    {
+      "index": 30,
+      "start": "00:13:59.120",
+      "end": "00:14:10.290",
+      "text": "Okay, seeing none, this is a special meeting, and although I don't have any planned recognitions,"
+    },
+    {
+      "index": 31,
+      "start": "00:14:10.290",
+      "end": "00:14:15.640",
+      "text": "I am going to give some leeway to the City Manager to introduce one of our new staff"
+    },
+    {
+      "index": 32,
+      "start": "00:14:15.640",
+      "end": "00:14:17.340",
+      "text": "members."
+    },
+    {
+      "index": 33,
+      "start": "00:14:17.340",
+      "end": "00:14:21.100",
+      "text": "Yes, Your Worship, thank you very much, and I'll take only a brief moment, but I wanted"
+    },
+    {
+      "index": 34,
+      "start": "00:14:21.100",
+      "end": "00:14:26.170",
+      "text": "to seize on the opportunity to be able to introduce Council to Eliza Bennett."
+    },
+    {
+      "index": 35,
+      "start": "00:14:26.170",
+      "end": "00:14:31.360",
+      "text": "Eliza is our new Director of Strategic Communications with the City of London, this very critical"
+    },
+    {
+      "index": 36,
+      "start": "00:14:31.360",
+      "end": "00:14:36.240",
+      "text": "role for the City, so I felt it was important for Council to be able to put a face to a"
+    },
+    {
+      "index": 37,
+      "start": "00:14:36.240",
+      "end": "00:14:37.230",
+      "text": "name."
+    },
+    {
+      "index": 38,
+      "start": "00:14:37.230",
+      "end": "00:14:43.510",
+      "text": "Eliza is an extremely accomplished bilingual public sector executive with extensive experience"
+    },
+    {
+      "index": 39,
+      "start": "00:14:43.510",
+      "end": "00:14:52.450",
+      "text": "in communications, strategic planning, and reputation management, as well as team leadership."
+    },
+    {
+      "index": 40,
+      "start": "00:14:52.450",
+      "end": "00:14:57.800",
+      "text": "She has had many leadership roles in communications, including with the town of Tecumseh, the town"
+    },
+    {
+      "index": 41,
+      "start": "00:14:57.800",
+      "end": "00:15:03.080",
+      "text": "of Aurora, the City of Laduk, and with the City of Greater Sudbury."
+    },
+    {
+      "index": 42,
+      "start": "00:15:03.080",
+      "end": "00:15:08.310",
+      "text": "Eliza is not only being brave and taking on a new job with a new corporation, but also"
+    },
+    {
+      "index": 43,
+      "start": "00:15:08.310",
+      "end": "00:15:14.600",
+      "text": "moving to a new city, and I know that you will join me in making sure that Eliza feels"
+    },
+    {
+      "index": 44,
+      "start": "00:15:14.600",
+      "end": "00:15:19.650",
+      "text": "very welcome as she comes to do wonderful work with all of us for many years, we hope."
+    },
+    {
+      "index": 45,
+      "start": "00:15:19.650",
+      "end": "00:15:24.010",
+      "text": "So welcome, Eliza, and I thank you for the opportunity to introduce her to you."
+    },
+    {
+      "index": 46,
+      "start": "00:15:24.010",
+      "end": "00:15:28.920",
+      "text": "Yes, thank you very much, and welcome, I think because of today's special meeting, you'll"
+    },
+    {
+      "index": 47,
+      "start": "00:15:28.920",
+      "end": "00:15:32.770",
+      "text": "have a completely false impression on the length of Council meetings."
+    },
+    {
+      "index": 48,
+      "start": "00:15:32.770",
+      "end": "00:15:34.920",
+      "text": "But don't worry, you'll get used to it."
+    },
+    {
+      "index": 49,
+      "start": "00:15:34.920",
+      "end": "00:15:39.680",
+      "text": "And again, welcome to the team, we're really happy to have you."
+    },
+    {
+      "index": 50,
+      "start": "00:15:39.680",
+      "end": "00:15:43.410",
+      "text": "As this is a special meeting, we're not going to do any review of confidential matters"
+    },
+    {
+      "index": 51,
+      "start": "00:15:43.410",
+      "end": "00:15:46.870",
+      "text": "considered in public session, there is no closed session, there's no confirmation of"
+    },
+    {
+      "index": 52,
+      "start": "00:15:46.870",
+      "end": "00:15:52.080",
+      "text": "signing of previous minutes, no communications or petitions, no motions of which notice is"
+    },
+    {
+      "index": 53,
+      "start": "00:15:52.080",
+      "end": "00:15:57.780",
+      "text": "given, there is one report, the fifth report of a Special Community and Protective Services"
+    },
+    {
+      "index": 54,
+      "start": "00:15:57.780",
+      "end": "00:16:04.000",
+      "text": "Committee meeting, I will turn it over to Chair Pelosa to present that report."
+    },
+    {
+      "index": 55,
+      "start": "00:16:04.000",
+      "end": "00:16:09.790",
+      "text": "Thank you, Mr. Mayor, and we did have a special meeting of the Community Services Committee,"
+    },
+    {
+      "index": 56,
+      "start": "00:16:09.790",
+      "end": "00:16:13.370",
+      "text": "and this was to deal with the timely funding transfer agreement that needed to come through"
+    },
+    {
+      "index": 57,
+      "start": "00:16:13.370",
+      "end": "00:16:18.660",
+      "text": "before the end of the month, in which case this deals with the 911 transition funding"
+    },
+    {
+      "index": 58,
+      "start": "00:16:18.660",
+      "end": "00:16:22.840",
+      "text": "support, where we go from the analog system to a new upgrade system for 911, which will"
+    },
+    {
+      "index": 59,
+      "start": "00:16:22.840",
+      "end": "00:16:29.810",
+      "text": "allow residents and those in need to be able to transmit calls, videos and photos as well"
+    },
+    {
+      "index": 60,
+      "start": "00:16:29.810",
+      "end": "00:16:33.010",
+      "text": "in real time to the 911 operators."
+    },
+    {
+      "index": 61,
+      "start": "00:16:33.010",
+      "end": "00:16:38.880",
+      "text": "And this is allowing the city to accept the funding on behalf and enter a contract with"
+    },
+    {
+      "index": 62,
+      "start": "00:16:38.880",
+      "end": "00:16:44.590",
+      "text": "the Solicitor General for $700,000 for the London Police Services and the London Fire"
+    },
+    {
+      "index": 63,
+      "start": "00:16:44.590",
+      "end": "00:16:47.230",
+      "text": "Department to receive $900,000 in funding."
+    },
+    {
+      "index": 64,
+      "start": "00:16:47.230",
+      "end": "00:16:52.720",
+      "text": "So I put this on the floor, realizing it was a unanimous vote at committee in a really"
+    },
+    {
+      "index": 65,
+      "start": "00:16:52.720",
+      "end": "00:16:54.320",
+      "text": "short meeting on this one item."
+    },
+    {
+      "index": 66,
+      "start": "00:16:54.320",
+      "end": "00:16:56.060",
+      "text": "Okay."
+    },
+    {
+      "index": 67,
+      "start": "00:16:56.060",
+      "end": "00:16:58.750",
+      "text": "So the whole committee report is on the floor at any discussion."
+    },
+    {
+      "index": 68,
+      "start": "00:16:58.750",
+      "end": "00:17:06.090",
+      "text": "Okay."
+    },
+    {
+      "index": 69,
+      "start": "00:17:06.090",
+      "end": "00:17:13.950",
+      "text": "Seeing none, I'm going to open that for voting."
+    },
+    {
+      "index": 70,
+      "start": "00:17:13.950",
+      "end": "00:17:21.200",
+      "text": "Your worship, I'm going to vote, I have access to online voting."
+    },
+    {
+      "index": 71,
+      "start": "00:17:21.200",
+      "end": "00:17:22.130",
+      "text": "It's a councilor."
+    },
+    {
+      "index": 72,
+      "start": "00:17:22.130",
+      "end": "00:17:26.000",
+      "text": "Perfect."
+    },
+    {
+      "index": 73,
+      "start": "00:17:26.000",
+      "end": "00:17:38.970",
+      "text": "Thank you."
+    },
+    {
+      "index": 74,
+      "start": "00:17:38.970",
+      "end": "00:17:43.260",
+      "text": "Yes, as well."
+    },
+    {
+      "index": 75,
+      "start": "00:17:43.260",
+      "end": "00:17:44.200",
+      "text": "Councillor Hopkins and Ferreira."
+    },
+    {
+      "index": 76,
+      "start": "00:17:44.200",
+      "end": "00:17:50.130",
+      "text": "I vote yay."
+    },
+    {
+      "index": 77,
+      "start": "00:17:50.130",
+      "end": "00:17:55.140",
+      "text": "I vote yay as well."
+    },
+    {
+      "index": 78,
+      "start": "00:17:55.140",
+      "end": "00:17:56.100",
+      "text": "Thank you."
+    },
+    {
+      "index": 79,
+      "start": "00:17:56.100",
+      "end": "00:17:57.060",
+      "text": "Close in the vote."
+    },
+    {
+      "index": 80,
+      "start": "00:17:57.060",
+      "end": "00:17:59.250",
+      "text": "Motion carries 15 to 0."
+    },
+    {
+      "index": 81,
+      "start": "00:17:59.250",
+      "end": "00:18:00.540",
+      "text": "Okay."
+    },
+    {
+      "index": 82,
+      "start": "00:18:00.540",
+      "end": "00:18:02.260",
+      "text": "Thank you, Mr. Pelosa."
+    },
+    {
+      "index": 83,
+      "start": "00:18:02.260",
+      "end": "00:18:03.240",
+      "text": "We have no added reports."
+    },
+    {
+      "index": 84,
+      "start": "00:18:03.240",
+      "end": "00:18:08.810",
+      "text": "No deferred matters, inquiries, I'm not going to allow any special meeting."
+    },
+    {
+      "index": 85,
+      "start": "00:18:08.810",
+      "end": "00:18:09.760",
+      "text": "Emergent motions."
+    },
+    {
+      "index": 86,
+      "start": "00:18:09.760",
+      "end": "00:18:11.160",
+      "text": "There are none."
+    },
+    {
+      "index": 87,
+      "start": "00:18:11.160",
+      "end": "00:18:14.460",
+      "text": "We have three bylaws related to the decision we just made."
+    },
+    {
+      "index": 88,
+      "start": "00:18:14.460",
+      "end": "00:18:17.070",
+      "text": "I'll look for a mover of all three."
+    },
+    {
+      "index": 89,
+      "start": "00:18:17.070",
+      "end": "00:18:23.150",
+      "text": "That's bills 95, 96, and 97, altogether Councillor Frank, seconded by Councillor Hopkins."
+    },
+    {
+      "index": 90,
+      "start": "00:18:23.150",
+      "end": "00:18:24.780",
+      "text": "No debate on first reading."
+    },
+    {
+      "index": 91,
+      "start": "00:18:24.780",
+      "end": "00:18:30.200",
+      "text": "So we'll open first reading for voting."
+    },
+    {
+      "index": 92,
+      "start": "00:18:30.200",
+      "end": "00:18:31.140",
+      "text": "Councillor Neill."
+    },
+    {
+      "index": 93,
+      "start": "00:18:31.140",
+      "end": "00:18:37.220",
+      "text": "I'm in votes."
+    },
+    {
+      "index": 94,
+      "start": "00:18:37.220",
+      "end": "00:18:39.150",
+      "text": "Yes, as well."
+    },
+    {
+      "index": 95,
+      "start": "00:18:39.150",
+      "end": "00:18:42.740",
+      "text": "Mr. Pelosa votes yes."
+    },
+    {
+      "index": 96,
+      "start": "00:18:42.740",
+      "end": "00:18:44.700",
+      "text": "I vote yay."
+    },
+    {
+      "index": 97,
+      "start": "00:18:44.700",
+      "end": "00:18:47.830",
+      "text": "Close in the vote, motion carries 15 to 0."
+    },
+    {
+      "index": 98,
+      "start": "00:18:47.830",
+      "end": "00:18:48.820",
+      "text": "Okay."
+    },
+    {
+      "index": 99,
+      "start": "00:18:48.820",
+      "end": "00:18:50.320",
+      "text": "I move in a seconder for second reading of those three bills."
+    },
+    {
+      "index": 100,
+      "start": "00:18:50.320",
+      "end": "00:18:54.140",
+      "text": "I see Councillor Raman seconded by Councillor Stevenson."
+    },
+    {
+      "index": 101,
+      "start": "00:18:54.140",
+      "end": "00:19:00.730",
+      "text": "Any discussion?"
+    },
+    {
+      "index": 102,
+      "start": "00:19:00.730",
+      "end": "00:19:01.680",
+      "text": "Okay."
+    },
+    {
+      "index": 103,
+      "start": "00:19:01.680",
+      "end": "00:19:10.500",
+      "text": "No discussion."
+    },
+    {
+      "index": 104,
+      "start": "00:19:10.500",
+      "end": "00:19:14.280",
+      "text": "So we'll open that for voting."
+    },
+    {
+      "index": 105,
+      "start": "00:19:14.280",
+      "end": "00:19:18.590",
+      "text": "Councillor Layton."
+    },
+    {
+      "index": 106,
+      "start": "00:19:18.590",
+      "end": "00:19:19.550",
+      "text": "I vote yay."
+    },
+    {
+      "index": 107,
+      "start": "00:19:19.550",
+      "end": "00:19:20.510",
+      "text": "Close in the vote."
+    },
+    {
+      "index": 108,
+      "start": "00:19:20.510",
+      "end": "00:19:21.560",
+      "text": "Motion carries 15 to 0."
+    },
+    {
+      "index": 109,
+      "start": "00:19:21.560",
+      "end": "00:19:22.530",
+      "text": "Okay."
+    },
+    {
+      "index": 110,
+      "start": "00:19:22.530",
+      "end": "00:19:23.510",
+      "text": "I move in a seconder for third reading of those bills."
+    },
+    {
+      "index": 111,
+      "start": "00:19:23.510",
+      "end": "00:19:25.770",
+      "text": "Councillor Pelosa seconded by Councillor Ferreira."
+    },
+    {
+      "index": 112,
+      "start": "00:19:25.770",
+      "end": "00:19:35.930",
+      "text": "With no debate on third reading, we'll open that for voting."
+    },
+    {
+      "index": 113,
+      "start": "00:19:35.930",
+      "end": "00:19:39.400",
+      "text": "Councillor Layton votes yay."
+    },
+    {
+      "index": 114,
+      "start": "00:19:39.400",
+      "end": "00:19:42.010",
+      "text": "I vote yay."
+    },
+    {
+      "index": 115,
+      "start": "00:19:42.010",
+      "end": "00:19:42.960",
+      "text": "Close in the vote."
+    },
+    {
+      "index": 116,
+      "start": "00:19:42.960",
+      "end": "00:19:44.850",
+      "text": "Motion carries 15 to 0."
+    },
+    {
+      "index": 117,
+      "start": "00:19:44.850",
+      "end": "00:19:46.450",
+      "text": "Okay."
+    },
+    {
+      "index": 118,
+      "start": "00:19:46.450",
+      "end": "00:19:48.880",
+      "text": "To complete, all I need is a motion to adjourn."
+    },
+    {
+      "index": 119,
+      "start": "00:19:48.880",
+      "end": "00:19:51.230",
+      "text": "Councillor Pelosa seconded by Councillor Ferreira."
+    },
+    {
+      "index": 120,
+      "start": "00:19:51.230",
+      "end": "00:19:54.460",
+      "text": "All those in favor of adjournment?"
+    },
+    {
+      "index": 121,
+      "start": "00:19:54.460",
+      "end": "00:19:55.820",
+      "text": "Motion carries."
+    },
+    {
+      "index": 122,
+      "start": "00:19:55.820",
+      "end": "00:20:00.670",
+      "text": "Thank you."
+    },
+    {
+      "index": 123,
+      "start": "00:20:00.670",
+      "end": "00:20:10.860",
+      "text": "We're adjourned."
+    },
+    {
+      "index": 124,
+      "start": "00:20:10.860",
+      "end": "00:20:13.340",
+      "text": "I'll just make one final reminder for those in the gallery."
+    },
+    {
+      "index": 125,
+      "start": "00:20:13.340",
+      "end": "00:20:18.460",
+      "text": "The meeting that you're, I think you're planning on being here for is the SPPC meeting which"
+    },
+    {
+      "index": 126,
+      "start": "00:20:18.460",
+      "end": "00:20:19.460",
+      "text": "starts at four."
+    },
+    {
+      "index": 127,
+      "start": "00:20:19.460",
+      "end": "00:20:22.900",
+      "text": "That was a special council meeting for a one-on-one item agenda."
+    },
+    {
+      "index": 128,
+      "start": "00:20:22.900",
+      "end": "00:20:24.620",
+      "text": "So that meeting will begin at four p.m."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Council/2023/03-28/.transcript.srt"
+}

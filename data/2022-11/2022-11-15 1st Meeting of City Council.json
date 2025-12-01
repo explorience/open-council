@@ -1,1 +1,5052 @@
-{"title": "1st Meeting of City Council", "datetime": "2022-11-15 18:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2bf00d8a-ae92-4a67-9dda-a612df1810bf&Agenda=PostMinutes&lang=English", "meeting_type": "Council", "bills": {"bills": [{"empty_flag": false, "title": "Bill No. 1", "desc": "By-law No. A.-8302-1 - A by-law to confirm the proceedings of the Council Meeting held on the 15th day of November, 2022. (City Clerk)", "__class__": "Bill"}, {"empty_flag": false, "title": "Bill No. 2", "desc": "By-law No. A.-8303-2 - A by-law to appoint a Deputy Mayor for the City of London and to repeal By-law No. A.-8027-221, being \u201cA by-law to appoint a Deputy Mayor, as selected by the Mayor, for the City of London\u201d. (City Clerk)", "__class__": "Bill"}], "__class__": "Bills"}, "present": ["J. Morgan", "H. McAlister", "S. Lewis", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "C. Rahman", "S. Lehman", "A. Hopkins", "P. Van Meerbergen", "S. Franke", "E. Peloza", "D. Ferreira", "S. Hillier"], "also_present": [], "remote_attendance": [], "content": {"__class__": "Content"}, "absent": [], "items": {"1": {"title": "Processional", "number": "1", "content": [{"string": "The Council-Elect is led into the Meeting by the London Police Service Piper, London Police Service Colour Guard and London's Sergeant-at-Arms.", "__class__": "Paragraph"}], "items": {"1": {"title": "London Police Services Piper - Pipe Major Scott Shaw", "number": "1", "content": [], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Traditional Land Recognition", "number": "2", "content": [{"string": "The Mayor-Elect, J. Morgan, provides the Traditional Land Recognition.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "National Anthem", "number": "3", "content": [{"string": "The National Anthem is led by the Grade 11 Vocal Class from Catholic Central High School Vocal Program.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Communications", "number": "4", "content": [{"string": "The City Clerk acknowledges, with thanks, the communications received from P. Fragiskatos, MP London North Centre and R. Flack MPP Elgin-Middlesex-London.", "__class__": "Paragraph"}, {"string": "Ms. A. Kayabaga, MP London West, brings greetings.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Appreciation to Government and Community Representatives", "number": "5", "content": [{"string": "Mayor-Elect J. Morgan extends appreciation to the Federal Government representatives, Provincial Government representatives, past Municipal Council Members and community representatives and to all in attendance.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Declarations of Office", "number": "6", "content": [{"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to His Worship Mayor Josh Morgan.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor H. McAlister.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Lewis.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor P. Cuddy.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Stevenson.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor J. Pribil.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Trosow.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor C. Rahman.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Lehman.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor A. Hopkins.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor P. Van Meerbergen.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Franke.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor E. Peloza.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor D. Ferreira.", "__class__": "Paragraph"}, {"string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Hillier.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Investiture of the Mayor's Chain of Office", "number": "7", "content": [{"string": "Ann Bigelow, Retired Faculty, Management and Organizational Studies, Western University invests His Worship Josh Morgan with the Mayor's Chain of Office.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Raising of the Mace", "number": "8", "content": [{"string": "Sergeant-at-Arms Daytanyon Wood raises the Mace.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "9": {"title": "The Mayor's Inaugural Address", "number": "9", "content": [{"string": "His Worship Mayor Josh Morgan calls the meeting to order and delivers the Inaugural Address.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Disclosures of Pecuniary Interest", "number": "10", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "11": {"title": "Appointment of Deputy Mayor", "number": "11", "content": [{"string": "At 6:59 PM, His Worship Mayor Morgan places Councillor A. Hopkins in the Chair.", "__class__": "Paragraph"}, {"string": "At 7:01\u00a0 PM, His Worship Mayor Morgan resumes the Chair.", "__class__": "Paragraph"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Mayor, the appointment of Councillor Shawn Lewis as Deputy Mayor for the City of London, for a term commencing on November 15, 2022, and ending on November 14, 2026, to carry out such responsibilities as set out and as provided for in the Council Policy \u201cAppointment of Deputy Mayor Policy\u201d and the Council Procedure By-law, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "12": {"title": "(ADDED) Appointment of Budget Chair", "number": "12", "content": [{"string": "At 7:02 PM, His Worship Mayor Morgan places Councillor A. Hopkins in the Chair.", "__class__": "Paragraph"}, {"string": "At 7:04 PM, His Worship Mayor Morgan resumes the Chair.", "__class__": "Paragraph"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That Councillor Elizabeth Peloza BE APPOINTED as the Council lead for the Budget process, acting as Budget Chair with duties including coordination of all Budget activities with the Civic Administration and the Chairing of the Strategic Priorities and Policy Committee meetings where discussion and consideration of the Budget takes place, for the period ending November 14, 2026.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "13": {"title": "By-laws", "number": "13", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Lewis", "__class__": "Mover"}, "motion_texts": [{"string": "That Introduction and First Reading of Bill No.1 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lehman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That Second Reading of Bill No. 1, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That Third Reading and Enactment of Bill No. 1, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Lehman", "__class__": "Mover"}, "motion_texts": [{"string": "That Introduction and First Reading Bill No. 2, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by D. Ferreira", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by C. Rahman", "__class__": "Mover"}, "motion_texts": [{"string": "That Second Reading of Bill No. 2, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by J. Pribil", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That Third Reading and Enactment of Bill No. 2, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "14": {"title": "Adjournment", "number": "14", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 7:09 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2022-11-15 18:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "1st Meeting of City Council",
+  "datetime": "2022-11-15 18:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2bf00d8a-ae92-4a67-9dda-a612df1810bf&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Council",
+  "bills": {
+    "bills": [
+      {
+        "empty_flag": false,
+        "title": "Bill No. 1",
+        "desc": "By-law No. A.-8302-1 - A by-law to confirm the proceedings of the Council Meeting held on the 15th day of November, 2022. (City Clerk)",
+        "__class__": "Bill"
+      },
+      {
+        "empty_flag": false,
+        "title": "Bill No. 2",
+        "desc": "By-law No. A.-8303-2 - A by-law to appoint a Deputy Mayor for the City of London and to repeal By-law No. A.-8027-221, being \u201cA by-law to appoint a Deputy Mayor, as selected by the Mayor, for the City of London\u201d. (City Clerk)",
+        "__class__": "Bill"
+      }
+    ],
+    "__class__": "Bills"
+  },
+  "present": [
+    "J. Morgan",
+    "H. McAlister",
+    "S. Lewis",
+    "P. Cuddy",
+    "S. Stevenson",
+    "J. Pribil",
+    "S. Trosow",
+    "C. Rahman",
+    "S. Lehman",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "S. Franke",
+    "E. Peloza",
+    "D. Ferreira",
+    "S. Hillier"
+  ],
+  "also_present": [],
+  "remote_attendance": [],
+  "content": {
+    "__class__": "Content"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Processional",
+      "number": "1",
+      "content": [
+        {
+          "string": "The Council-Elect is led into the Meeting by the London Police Service Piper, London Police Service Colour Guard and London's Sergeant-at-Arms.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "London Police Services Piper - Pipe Major Scott Shaw",
+          "number": "1",
+          "content": [],
+          "items": {},
+          "datetime": "2022-11-15 18:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Traditional Land Recognition",
+      "number": "2",
+      "content": [
+        {
+          "string": "The Mayor-Elect, J. Morgan, provides the Traditional Land Recognition.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "National Anthem",
+      "number": "3",
+      "content": [
+        {
+          "string": "The National Anthem is led by the Grade 11 Vocal Class from Catholic Central High School Vocal Program.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Communications",
+      "number": "4",
+      "content": [
+        {
+          "string": "The City Clerk acknowledges, with thanks, the communications received from P. Fragiskatos, MP London North Centre and R. Flack MPP Elgin-Middlesex-London.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "Ms. A. Kayabaga, MP London West, brings greetings.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Appreciation to Government and Community Representatives",
+      "number": "5",
+      "content": [
+        {
+          "string": "Mayor-Elect J. Morgan extends appreciation to the Federal Government representatives, Provincial Government representatives, past Municipal Council Members and community representatives and to all in attendance.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Declarations of Office",
+      "number": "6",
+      "content": [
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to His Worship Mayor Josh Morgan.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor H. McAlister.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Lewis.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor P. Cuddy.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Stevenson.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor J. Pribil.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Trosow.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor C. Rahman.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Lehman.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor A. Hopkins.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor P. Van Meerbergen.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Franke.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor E. Peloza.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor D. Ferreira.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Hillier.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Investiture of the Mayor's Chain of Office",
+      "number": "7",
+      "content": [
+        {
+          "string": "Ann Bigelow, Retired Faculty, Management and Organizational Studies, Western University invests His Worship Josh Morgan with the Mayor's Chain of Office.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "8": {
+      "title": "Raising of the Mace",
+      "number": "8",
+      "content": [
+        {
+          "string": "Sergeant-at-Arms Daytanyon Wood raises the Mace.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "9": {
+      "title": "The Mayor's Inaugural Address",
+      "number": "9",
+      "content": [
+        {
+          "string": "His Worship Mayor Josh Morgan calls the meeting to order and delivers the Inaugural Address.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "10": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "10",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "11": {
+      "title": "Appointment of Deputy Mayor",
+      "number": "11",
+      "content": [
+        {
+          "string": "At 6:59 PM, His Worship Mayor Morgan places Councillor A. Hopkins in the Chair.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "At 7:01\u00a0 PM, His Worship Mayor Morgan resumes the Chair.",
+          "__class__": "Paragraph"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Hillier",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by Mayor J. Morgan",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That on the recommendation of the Mayor, the appointment of Councillor Shawn Lewis as Deputy Mayor for the City of London, for a term commencing on November 15, 2022, and ending on November 14, 2026, to carry out such responsibilities as set out and as provided for in the Council Policy \u201cAppointment of Deputy Mayor Policy\u201d and the Council Procedure By-law, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "12": {
+      "title": "(ADDED) Appointment of Budget Chair",
+      "number": "12",
+      "content": [
+        {
+          "string": "At 7:02 PM, His Worship Mayor Morgan places Councillor A. Hopkins in the Chair.",
+          "__class__": "Paragraph"
+        },
+        {
+          "string": "At 7:04 PM, His Worship Mayor Morgan resumes the Chair.",
+          "__class__": "Paragraph"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by Mayor J. Morgan",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Councillor Elizabeth Peloza BE APPOINTED as the Council lead for the Budget process, acting as Budget Chair with duties including coordination of all Budget activities with the Civic Administration and the Chairing of the Strategic Priorities and Policy Committee meetings where discussion and consideration of the Budget takes place, for the period ending November 14, 2026.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "13": {
+      "title": "By-laws",
+      "number": "13",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by A. Hopkins",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Lewis",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Introduction and First Reading of Bill No.1 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Lehman",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Second Reading of Bill No. 1, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Third Reading and Enactment of Bill No. 1, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Hillier",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Lehman",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Introduction and First Reading Bill No. 2, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by C. Rahman",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Second Reading of Bill No. 2, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by J. Pribil",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Third Reading and Enactment of Bill No. 2, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "14": {
+      "title": "Adjournment",
+      "number": "14",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 7:09 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-11-15 18:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:07:05.440",
+      "end": "00:07:13.120",
+      "text": "the inaugural council due 26 to 2022 to 2026 municipal council for the city of"
+    },
+    {
+      "index": 2,
+      "start": "00:07:13.120",
+      "end": "00:07:18.400",
+      "text": "London. My name is Michael Schultes and I'm the city clerk master of ceremonies"
+    },
+    {
+      "index": 3,
+      "start": "00:07:18.400",
+      "end": "00:07:23.010",
+      "text": "for this meeting. Musical performance this evening is Elinor"
+    },
+    {
+      "index": 4,
+      "start": "00:07:23.010",
+      "end": "00:07:26.800",
+      "text": "performance here tonight is made possible by the London music office."
+    },
+    {
+      "index": 5,
+      "start": "00:07:26.800",
+      "end": "00:07:31.620",
+      "text": "Elinor Gibru is for a city born. The singer-songwriter has performed"
+    },
+    {
+      "index": 6,
+      "start": "00:07:31.620",
+      "end": "00:07:36.160",
+      "text": "enquirers and bands her whole life. Her sound is described as R&B leaning"
+    },
+    {
+      "index": 7,
+      "start": "00:07:36.160",
+      "end": "00:07:41.920",
+      "text": "with accents of jazz, soul and perhaps indie rock. Elinor will be performing"
+    },
+    {
+      "index": 8,
+      "start": "00:07:41.920",
+      "end": "00:07:46.100",
+      "text": "again at the reception after the meeting. Please join me in a warm"
+    },
+    {
+      "index": 9,
+      "start": "00:07:46.100",
+      "end": "00:07:58.750",
+      "text": "thank you to Elinor and the London music office. We will now welcome the 2022 to"
+    },
+    {
+      "index": 10,
+      "start": "00:07:58.750",
+      "end": "00:08:03.320",
+      "text": "2026 council elect and I would like to ask everyone to"
+    },
+    {
+      "index": 11,
+      "start": "00:08:03.320",
+      "end": "00:08:10.290",
+      "text": "stand as they are able. Procession is led by London Police"
+    },
+    {
+      "index": 12,
+      "start": "00:08:10.290",
+      "end": "00:08:15.130",
+      "text": "Services Piper, Pipe Major Scott Shaw, London Police Services Color Guard,"
+    },
+    {
+      "index": 13,
+      "start": "00:08:15.130",
+      "end": "00:08:20.200",
+      "text": "Commander Sergeant Andrew Stanley and Flagbearer's Constable David Ewing,"
+    },
+    {
+      "index": 14,
+      "start": "00:08:20.200",
+      "end": "00:08:24.150",
+      "text": "Constable Ashley Vandervecht and Constable Craig Walsh,"
+    },
+    {
+      "index": 15,
+      "start": "00:08:24.150",
+      "end": "00:08:29.390",
+      "text": "as well as Sergeant-at-Arms Ditanyan Wood. We thank them for their service this"
+    },
+    {
+      "index": 16,
+      "start": "00:08:29.390",
+      "end": "00:11:28.180",
+      "text": "evening. I now invite Mayor-Elect Josh Morgan"
+    },
+    {
+      "index": 17,
+      "start": "00:11:28.180",
+      "end": "00:11:49.200",
+      "text": "to give the traditional land acknowledgement. We acknowledge that we are"
+    },
+    {
+      "index": 18,
+      "start": "00:11:49.200",
+      "end": "00:11:53.440",
+      "text": "gathered today on the traditional lands of the Anishinaabek, Haudenosaunee,"
+    },
+    {
+      "index": 19,
+      "start": "00:11:53.440",
+      "end": "00:11:57.980",
+      "text": "Lenny Peiwock and Adewandran. We acknowledge all of the treaties that are"
+    },
+    {
+      "index": 20,
+      "start": "00:11:57.980",
+      "end": "00:12:01.340",
+      "text": "specific to this area, the two-row Wampum Belt Treaty"
+    },
+    {
+      "index": 21,
+      "start": "00:12:01.340",
+      "end": "00:12:05.530",
+      "text": "of the Haudenosaunee Confederacy, Silver Covenant Chain, the Beaver Hunting"
+    },
+    {
+      "index": 22,
+      "start": "00:12:05.530",
+      "end": "00:12:08.740",
+      "text": "Grounds of the Haudenosaunee Nan Fan Treaty of 1701,"
+    },
+    {
+      "index": 23,
+      "start": "00:12:08.740",
+      "end": "00:12:13.590",
+      "text": "the McKee Treaty of 1790, the London Township Treaty of 1796,"
+    },
+    {
+      "index": 24,
+      "start": "00:12:13.590",
+      "end": "00:12:17.880",
+      "text": "the Huron Track Treaty of 1827 with the Anishinaabek"
+    },
+    {
+      "index": 25,
+      "start": "00:12:17.880",
+      "end": "00:12:22.460",
+      "text": "and the Dish with One Spoon Covenant Wampum of the Anishinaabek and Haudenosaunee."
+    },
+    {
+      "index": 26,
+      "start": "00:12:22.460",
+      "end": "00:12:26.970",
+      "text": "This land continues to be home to diverse Indigenous peoples, First Nations,"
+    },
+    {
+      "index": 27,
+      "start": "00:12:26.970",
+      "end": "00:12:30.270",
+      "text": "M\u00c3\u00a9tis and Inuit whom we recognize as contemporary"
+    },
+    {
+      "index": 28,
+      "start": "00:12:30.270",
+      "end": "00:12:33.330",
+      "text": "stewards of the land and vital contributors to society."
+    },
+    {
+      "index": 29,
+      "start": "00:12:33.330",
+      "end": "00:12:37.560",
+      "text": "We hold all that is in this natural world in our highest esteem"
+    },
+    {
+      "index": 30,
+      "start": "00:12:37.560",
+      "end": "00:12:41.220",
+      "text": "and give honor to the wonderment of all things within creation."
+    },
+    {
+      "index": 31,
+      "start": "00:12:41.220",
+      "end": "00:12:46.200",
+      "text": "We bring our minds together as one to share good words, thoughts, feelings"
+    },
+    {
+      "index": 32,
+      "start": "00:12:46.200",
+      "end": "00:12:50.400",
+      "text": "and sincerely send them out to each other and all parts of creation."
+    },
+    {
+      "index": 33,
+      "start": "00:12:50.400",
+      "end": "00:12:53.440",
+      "text": "We are grateful for the natural gifts in our world"
+    },
+    {
+      "index": 34,
+      "start": "00:12:53.440",
+      "end": "00:12:57.090",
+      "text": "and we encourage everyone to be faithful to the natural laws"
+    },
+    {
+      "index": 35,
+      "start": "00:12:57.090",
+      "end": "00:13:00.630",
+      "text": "of creation. The three Indigenous nations that are"
+    },
+    {
+      "index": 36,
+      "start": "00:13:00.630",
+      "end": "00:13:04.100",
+      "text": "neighbors to London are the Chippewas of the Thames First Nation,"
+    },
+    {
+      "index": 37,
+      "start": "00:13:04.100",
+      "end": "00:13:07.440",
+      "text": "Oneida Nation of the Thames and the Muncie Delaware Nation"
+    },
+    {
+      "index": 38,
+      "start": "00:13:07.440",
+      "end": "00:13:11.080",
+      "text": "who all continue to live as sovereign nations with individual"
+    },
+    {
+      "index": 39,
+      "start": "00:13:11.080",
+      "end": "00:13:14.240",
+      "text": "and unique languages, cultures and customs."
+    },
+    {
+      "index": 40,
+      "start": "00:13:14.240",
+      "end": "00:13:18.290",
+      "text": "This land acknowledgement is a first step towards reconciliation."
+    },
+    {
+      "index": 41,
+      "start": "00:13:18.290",
+      "end": "00:13:23.800",
+      "text": "It is the work of all citizens to step forward towards decolonizing practices"
+    },
+    {
+      "index": 42,
+      "start": "00:13:23.800",
+      "end": "00:13:27.980",
+      "text": "and bringing our awareness into action. We encourage everyone to be informed"
+    },
+    {
+      "index": 43,
+      "start": "00:13:27.980",
+      "end": "00:13:31.580",
+      "text": "about the traditional lands, trees, history and cultures"
+    },
+    {
+      "index": 44,
+      "start": "00:13:31.580",
+      "end": "00:13:36.580",
+      "text": "of the Indigenous people local to the region and to the chiefs who"
+    },
+    {
+      "index": 45,
+      "start": "00:13:36.580",
+      "end": "00:13:40.940",
+      "text": "are watching or join us here today. I want to make my personal commitment"
+    },
+    {
+      "index": 46,
+      "start": "00:13:40.940",
+      "end": "00:13:45.260",
+      "text": "to meaningful and sincere dialogue and collaboration"
+    },
+    {
+      "index": 47,
+      "start": "00:13:45.260",
+      "end": "00:13:49.420",
+      "text": "between us as we work towards the betterment of all peoples who live in this"
+    },
+    {
+      "index": 48,
+      "start": "00:13:49.420",
+      "end": "00:14:00.220",
+      "text": "region. Thank you. I now invite the grade 11"
+    },
+    {
+      "index": 49,
+      "start": "00:14:00.220",
+      "end": "00:14:04.000",
+      "text": "vocal class from the vocal program at Catholic Central High School."
+    },
+    {
+      "index": 50,
+      "start": "00:14:04.000",
+      "end": "00:14:07.770",
+      "text": "Come to the stage and lead the singing of the National Anthem."
+    },
+    {
+      "index": 51,
+      "start": "00:14:07.770",
+      "end": "00:14:13.640",
+      "text": "Choir members are Raya Finch, Hayden Lutch,"
+    },
+    {
+      "index": 52,
+      "start": "00:14:13.640",
+      "end": "00:14:20.260",
+      "text": "Jude Lubos, Sophie Naifen, Luciana Sabagal and Gwyneth Tamarad."
+    },
+    {
+      "index": 53,
+      "start": "00:14:20.260",
+      "end": "00:16:17.990",
+      "text": "Thank you very much. We acknowledge with thanks the communications received from"
+    },
+    {
+      "index": 54,
+      "start": "00:16:17.990",
+      "end": "00:16:20.590",
+      "text": "federal members of parliament noted on the council agenda"
+    },
+    {
+      "index": 55,
+      "start": "00:16:20.590",
+      "end": "00:16:25.290",
+      "text": "and we acknowledge with thanks the communications received from the members"
+    },
+    {
+      "index": 56,
+      "start": "00:16:25.290",
+      "end": "00:16:28.260",
+      "text": "of the provincial parliament noted on the council agenda."
+    },
+    {
+      "index": 57,
+      "start": "00:16:28.260",
+      "end": "00:16:32.630",
+      "text": "I now invite the mayor elect to the podium to express appreciation to"
+    },
+    {
+      "index": 58,
+      "start": "00:16:32.630",
+      "end": "00:16:36.140",
+      "text": "the community and government representatives in attendance."
+    },
+    {
+      "index": 59,
+      "start": "00:16:36.140",
+      "end": "00:17:06.910",
+      "text": "I would like to call upon Ariel K. Abaga, member of parliament"
+    },
+    {
+      "index": 60,
+      "start": "00:17:06.910",
+      "end": "00:17:10.100",
+      "text": "for London West. Come to the podium and say a few words."
+    },
+    {
+      "index": 61,
+      "start": "00:17:10.100",
+      "end": "00:17:24.350",
+      "text": "Good evening everyone."
+    },
+    {
+      "index": 62,
+      "start": "00:17:24.350",
+      "end": "00:17:36.600",
+      "text": "It is my pleasure to join you tonight to deliver greetings on behalf of the"
+    },
+    {
+      "index": 63,
+      "start": "00:17:36.600",
+      "end": "00:17:39.120",
+      "text": "federal government as we welcome our new city council."
+    },
+    {
+      "index": 64,
+      "start": "00:17:39.120",
+      "end": "00:17:44.050",
+      "text": "I'd like to start by congratulating the newly elected mayor Josh Morgan"
+    },
+    {
+      "index": 65,
+      "start": "00:17:44.050",
+      "end": "00:17:48.450",
+      "text": "as well as all new city councilors who will take their seat for the first time"
+    },
+    {
+      "index": 66,
+      "start": "00:17:48.450",
+      "end": "00:17:53.200",
+      "text": "in the chambers of London City Council. I would also like to welcome back"
+    },
+    {
+      "index": 67,
+      "start": "00:17:53.200",
+      "end": "00:17:57.710",
+      "text": "councilors that have been re-elected by their constituents to serve another term."
+    },
+    {
+      "index": 68,
+      "start": "00:17:57.710",
+      "end": "00:18:02.330",
+      "text": "The 15 of you have been given the opportunity to make London"
+    },
+    {
+      "index": 69,
+      "start": "00:18:02.330",
+      "end": "00:18:05.740",
+      "text": "the best it can be and I look forward to seeing"
+    },
+    {
+      "index": 70,
+      "start": "00:18:05.740",
+      "end": "00:18:09.990",
+      "text": "what direction you take and I'm excited for the opportunities of collaboration"
+    },
+    {
+      "index": 71,
+      "start": "00:18:09.990",
+      "end": "00:18:13.930",
+      "text": "as we continue to address the most pressing issues for Londoners."
+    },
+    {
+      "index": 72,
+      "start": "00:18:13.930",
+      "end": "00:18:17.850",
+      "text": "The importance of collaboration between every level of government"
+    },
+    {
+      "index": 73,
+      "start": "00:18:17.850",
+      "end": "00:18:22.360",
+      "text": "federal, provincial and municipal cannot be underscored."
+    },
+    {
+      "index": 74,
+      "start": "00:18:22.360",
+      "end": "00:18:28.110",
+      "text": "The best way for us to deliver for the city we all love is to work together."
+    },
+    {
+      "index": 75,
+      "start": "00:18:28.110",
+      "end": "00:18:31.870",
+      "text": "Although I recognize that we have different responsibilities and"
+    },
+    {
+      "index": 76,
+      "start": "00:18:31.870",
+      "end": "00:18:36.210",
+      "text": "jurisdictions our governments have many avenues in which we can bring our"
+    },
+    {
+      "index": 77,
+      "start": "00:18:36.210",
+      "end": "00:18:39.290",
+      "text": "efforts together to build a healthy a greener"
+    },
+    {
+      "index": 78,
+      "start": "00:18:39.290",
+      "end": "00:18:44.330",
+      "text": "and more prosperous city of London. So on behalf of our federal government"
+    },
+    {
+      "index": 79,
+      "start": "00:18:44.330",
+      "end": "00:18:48.930",
+      "text": "I wish each and every one of you incoming councilors"
+    },
+    {
+      "index": 80,
+      "start": "00:18:48.930",
+      "end": "00:18:53.860",
+      "text": "Mayor Morgan my heartfelt wishes and a term full of success"
+    },
+    {
+      "index": 81,
+      "start": "00:18:53.860",
+      "end": "00:19:06.310",
+      "text": "for all Londoners. Thank you and now I would like to invite the mayor"
+    },
+    {
+      "index": 82,
+      "start": "00:19:06.310",
+      "end": "00:19:23.520",
+      "text": "elect to the podium. I think everybody nervous when I bring a"
+    },
+    {
+      "index": 83,
+      "start": "00:19:23.520",
+      "end": "00:19:28.520",
+      "text": "glass of water to the podium and I do have a number of"
+    },
+    {
+      "index": 84,
+      "start": "00:19:28.520",
+      "end": "00:19:32.640",
+      "text": "thank yous and acknowledgments to go through and as always"
+    },
+    {
+      "index": 85,
+      "start": "00:19:32.640",
+      "end": "00:19:35.540",
+      "text": "the person who gets assigned to do the thank yous and acknowledgments of people"
+    },
+    {
+      "index": 86,
+      "start": "00:19:35.540",
+      "end": "00:19:39.420",
+      "text": "and organizations in attendance will no in no doubt miss someone"
+    },
+    {
+      "index": 87,
+      "start": "00:19:39.420",
+      "end": "00:19:42.430",
+      "text": "so we will do our best but we will also acknowledge all those"
+    },
+    {
+      "index": 88,
+      "start": "00:19:42.430",
+      "end": "00:19:46.330",
+      "text": "who I may have missed today. So let me start by a warm thank you"
+    },
+    {
+      "index": 89,
+      "start": "00:19:46.330",
+      "end": "00:19:50.110",
+      "text": "to Ariel Cuyabaga MP for London West for attending tonight"
+    },
+    {
+      "index": 90,
+      "start": "00:19:50.110",
+      "end": "00:19:54.440",
+      "text": "and bringing greetings. Thanks to Gillian Ferguson who's representing"
+    },
+    {
+      "index": 91,
+      "start": "00:19:54.440",
+      "end": "00:19:58.780",
+      "text": "Karen Vecchio MP for Elgin Middlesex London and thank you"
+    },
+    {
+      "index": 92,
+      "start": "00:19:58.780",
+      "end": "00:20:02.970",
+      "text": "to Nadine Abby Rad who is representing Lindsey Matheson"
+    },
+    {
+      "index": 93,
+      "start": "00:20:02.970",
+      "end": "00:20:07.430",
+      "text": "MP for London Fanshawe and I believe I also saw Ryan Goss in"
+    },
+    {
+      "index": 94,
+      "start": "00:20:07.430",
+      "end": "00:20:10.340",
+      "text": "the audience who I'm sure is representing MP"
+    },
+    {
+      "index": 95,
+      "start": "00:20:10.340",
+      "end": "00:20:15.840",
+      "text": "Peter Fredgeskattos. I would like to acknowledge three past London mayors who"
+    },
+    {
+      "index": 96,
+      "start": "00:20:15.840",
+      "end": "00:20:20.000",
+      "text": "are attending this evening. Mayor Ed Holder, Mayor Matt Brown,"
+    },
+    {
+      "index": 97,
+      "start": "00:20:20.000",
+      "end": "00:20:24.580",
+      "text": "and Mayor Joe Fontana. Morning Cassidy, Maryam Hamou,"
+    },
+    {
+      "index": 98,
+      "start": "00:20:24.580",
+      "end": "00:20:28.860",
+      "text": "Jesse Helmer and Steven Turner are here as well. As you know they served in the"
+    },
+    {
+      "index": 99,
+      "start": "00:20:28.860",
+      "end": "00:20:31.940",
+      "text": "immediate past council and we thank you immensely for being here"
+    },
+    {
+      "index": 100,
+      "start": "00:20:31.940",
+      "end": "00:20:35.190",
+      "text": "tonight. Our meeting is graced by the presence of"
+    },
+    {
+      "index": 101,
+      "start": "00:20:35.190",
+      "end": "00:20:38.780",
+      "text": "community and religious leaders tonight and I wish to recognize"
+    },
+    {
+      "index": 102,
+      "start": "00:20:38.780",
+      "end": "00:20:42.680",
+      "text": "representatives from Metropolitan United, St. Peter's Basilica,"
+    },
+    {
+      "index": 103,
+      "start": "00:20:42.680",
+      "end": "00:20:45.090",
+      "text": "the Islamic Center of South Washington Ontario,"
+    },
+    {
+      "index": 104,
+      "start": "00:20:45.090",
+      "end": "00:20:48.480",
+      "text": "the Islamic School, the London Ski Seek Society,"
+    },
+    {
+      "index": 105,
+      "start": "00:20:48.480",
+      "end": "00:20:51.980",
+      "text": "the Muslim Resource Center for Social Supports and Integration"
+    },
+    {
+      "index": 106,
+      "start": "00:20:51.980",
+      "end": "00:20:56.040",
+      "text": "and the spiritual assembly of the Bahis of London."
+    },
+    {
+      "index": 107,
+      "start": "00:20:56.040",
+      "end": "00:21:00.950",
+      "text": "Thank you so much for being here this evening all of you. Many thanks also to the"
+    },
+    {
+      "index": 108,
+      "start": "00:21:00.950",
+      "end": "00:21:05.690",
+      "text": "presidents of QP-101, QP-107 and the London Police Association for"
+    },
+    {
+      "index": 109,
+      "start": "00:21:05.690",
+      "end": "00:21:08.660",
+      "text": "coming this evening. We're certainly glad that you're here with us."
+    },
+    {
+      "index": 110,
+      "start": "00:21:08.660",
+      "end": "00:21:12.790",
+      "text": "London's boards and commissions are well represented here tonight."
+    },
+    {
+      "index": 111,
+      "start": "00:21:12.790",
+      "end": "00:21:17.620",
+      "text": "We thank and welcome the leadership of the Argyle business improvement area,"
+    },
+    {
+      "index": 112,
+      "start": "00:21:17.620",
+      "end": "00:21:21.580",
+      "text": "the Covent Garden Market, Elden House, Hamilton Road BIA,"
+    },
+    {
+      "index": 113,
+      "start": "00:21:21.580",
+      "end": "00:21:26.230",
+      "text": "Housing Development Corporation, Hyde Park BIA, Kettle Creek Conservation Authority,"
+    },
+    {
+      "index": 114,
+      "start": "00:21:26.230",
+      "end": "00:21:29.700",
+      "text": "London Chamber of Commerce, London Downtown Business Association,"
+    },
+    {
+      "index": 115,
+      "start": "00:21:29.700",
+      "end": "00:21:33.640",
+      "text": "London Economic Development Corporation, London Middlesex Community Housing,"
+    },
+    {
+      "index": 116,
+      "start": "00:21:33.640",
+      "end": "00:21:38.560",
+      "text": "London Middlesex Health Unit, London Police Service, London Public Library,"
+    },
+    {
+      "index": 117,
+      "start": "00:21:38.560",
+      "end": "00:21:41.960",
+      "text": "Middlesex London Emergency Medical Services, Museum London,"
+    },
+    {
+      "index": 118,
+      "start": "00:21:41.960",
+      "end": "00:21:46.650",
+      "text": "Old East Village BIA, RBC Place London, I think they kind of had to be here."
+    },
+    {
+      "index": 119,
+      "start": "00:21:46.650",
+      "end": "00:21:52.100",
+      "text": "Tourism London and the Western Fair Association and again I'm sure I have"
+    },
+    {
+      "index": 120,
+      "start": "00:21:52.100",
+      "end": "00:21:57.250",
+      "text": "missed a number of organizations who may not have RSVPed for us to see"
+    },
+    {
+      "index": 121,
+      "start": "00:21:57.250",
+      "end": "00:22:00.350",
+      "text": "but we thank all of those organizations and partners who are here today."
+    },
+    {
+      "index": 122,
+      "start": "00:22:00.350",
+      "end": "00:22:04.480",
+      "text": "I want to say the London Community Recovery Network is here tonight as well."
+    },
+    {
+      "index": 123,
+      "start": "00:22:04.480",
+      "end": "00:22:08.400",
+      "text": "Represented by the Black London Network, the Employment Sector Council,"
+    },
+    {
+      "index": 124,
+      "start": "00:22:08.400",
+      "end": "00:22:12.440",
+      "text": "London Arts Council, London Development Institute, London Environmental Network,"
+    },
+    {
+      "index": 125,
+      "start": "00:22:12.440",
+      "end": "00:22:16.310",
+      "text": "London Health Sciences Center, London Regional Manufacturing Council,"
+    },
+    {
+      "index": 126,
+      "start": "00:22:16.310",
+      "end": "00:22:21.080",
+      "text": "London Small Business Center, St. Joseph's Healthcare London, Tech Alliance,"
+    },
+    {
+      "index": 127,
+      "start": "00:22:21.080",
+      "end": "00:22:25.210",
+      "text": "and the United Way of Elgin Middlesex. Thank you to them not just for being here"
+    },
+    {
+      "index": 128,
+      "start": "00:22:25.210",
+      "end": "00:22:29.190",
+      "text": "tonight but for all of the work through our recovery efforts through the pandemic."
+    },
+    {
+      "index": 129,
+      "start": "00:22:29.190",
+      "end": "00:22:33.510",
+      "text": "I would also like to recognize and acknowledge members of the city's"
+    },
+    {
+      "index": 130,
+      "start": "00:22:33.510",
+      "end": "00:22:36.840",
+      "text": "senior leadership team and the many staff members that are in attendance"
+    },
+    {
+      "index": 131,
+      "start": "00:22:36.840",
+      "end": "00:22:39.930",
+      "text": "this evening. Many thanks for what you do every day"
+    },
+    {
+      "index": 132,
+      "start": "00:22:39.930",
+      "end": "00:22:44.990",
+      "text": "to serve the citizens of London, forward to continuing our important work ahead."
+    },
+    {
+      "index": 133,
+      "start": "00:22:44.990",
+      "end": "00:22:51.020",
+      "text": "Let me also recognize the Shine the Light campaign and Shine the Light"
+    },
+    {
+      "index": 134,
+      "start": "00:22:51.020",
+      "end": "00:22:54.740",
+      "text": "on Women's Abuse. This campaign and as you may have noticed"
+    },
+    {
+      "index": 135,
+      "start": "00:22:54.740",
+      "end": "00:22:59.720",
+      "text": "everything is themed to Purple Tonight, runs the entire month of November."
+    },
+    {
+      "index": 136,
+      "start": "00:22:59.720",
+      "end": "00:23:03.350",
+      "text": "This day is actually the Wear Purple Day. I'm"
+    },
+    {
+      "index": 137,
+      "start": "00:23:03.350",
+      "end": "00:23:06.730",
+      "text": "you wearing my purple socks. Max, thank you very much."
+    },
+    {
+      "index": 138,
+      "start": "00:23:06.730",
+      "end": "00:23:10.750",
+      "text": "Max buys me fancy socks so you'll appreciate that I'm"
+    },
+    {
+      "index": 139,
+      "start": "00:23:10.750",
+      "end": "00:23:16.530",
+      "text": "wearing my purple ones today. As you can see around us many people are"
+    },
+    {
+      "index": 140,
+      "start": "00:23:16.530",
+      "end": "00:23:20.180",
+      "text": "wearing articles of Purple. Our flowers are purple and we've tried as"
+    },
+    {
+      "index": 141,
+      "start": "00:23:20.180",
+      "end": "00:23:24.160",
+      "text": "best as possible to eliminate today in purple in support of this really"
+    },
+    {
+      "index": 142,
+      "start": "00:23:24.160",
+      "end": "00:23:27.670",
+      "text": "important campaign and we're really pleased tonight to be joined by"
+    },
+    {
+      "index": 143,
+      "start": "00:23:27.670",
+      "end": "00:23:31.410",
+      "text": "the leadership under Jennifer Dunn, the executive director of the London Abuse"
+    },
+    {
+      "index": 144,
+      "start": "00:23:31.410",
+      "end": "00:23:35.790",
+      "text": "Women's Center and also Jesse Roger, the executive director of ANOVA"
+    },
+    {
+      "index": 145,
+      "start": "00:23:35.790",
+      "end": "00:23:39.340",
+      "text": "and Tim Smuck of The Changing Ways. Thanks to you"
+    },
+    {
+      "index": 146,
+      "start": "00:23:39.340",
+      "end": "00:23:42.900",
+      "text": "and all of your teams for everything you do to make London"
+    },
+    {
+      "index": 147,
+      "start": "00:23:42.900",
+      "end": "00:23:57.520",
+      "text": "a safe place for women and girls. And with that I also on my walk-in"
+    },
+    {
+      "index": 148,
+      "start": "00:23:57.520",
+      "end": "00:24:00.830",
+      "text": "would be remiss and this is where I will miss people."
+    },
+    {
+      "index": 149,
+      "start": "00:24:00.830",
+      "end": "00:24:04.140",
+      "text": "There are members of previous councils here today. Harold Usher who was sitting"
+    },
+    {
+      "index": 150,
+      "start": "00:24:04.140",
+      "end": "00:24:07.330",
+      "text": "right in the front row. I see Tim Gatton. I'm sure there are a number of others"
+    },
+    {
+      "index": 151,
+      "start": "00:24:07.330",
+      "end": "00:24:10.750",
+      "text": "that I missed but we certainly appreciate the support of all those who have"
+    },
+    {
+      "index": 152,
+      "start": "00:24:10.750",
+      "end": "00:24:13.220",
+      "text": "served in elected office who have returned tonight"
+    },
+    {
+      "index": 153,
+      "start": "00:24:13.220",
+      "end": "00:24:15.850",
+      "text": "to celebrate with the new council. Thank you very much as well."
+    },
+    {
+      "index": 154,
+      "start": "00:24:15.850",
+      "end": "00:24:19.750",
+      "text": "And with that I apologize for anyone I've missed but we certainly appreciate"
+    },
+    {
+      "index": 155,
+      "start": "00:24:19.750",
+      "end": "00:24:23.820",
+      "text": "everybody who's come out tonight to support us in this exciting endeavor."
+    },
+    {
+      "index": 156,
+      "start": "00:24:23.820",
+      "end": "00:24:34.890",
+      "text": "Thank you. This time I will be asking each member of"
+    },
+    {
+      "index": 157,
+      "start": "00:24:34.890",
+      "end": "00:24:39.900",
+      "text": "council elect come for one at a time to take their declaration of office"
+    },
+    {
+      "index": 158,
+      "start": "00:24:39.900",
+      "end": "00:24:43.530",
+      "text": "and I will begin with Mayor elect Josh Morgan."
+    },
+    {
+      "index": 159,
+      "start": "00:24:43.530",
+      "end": "00:25:08.540",
+      "text": "And your right hand up. I require a lot of instruction Michael."
+    },
+    {
+      "index": 160,
+      "start": "00:25:08.540",
+      "end": "00:25:13.540",
+      "text": "I Josh Morgan having been elected to the office of mayor in the municipality of"
+    },
+    {
+      "index": 161,
+      "start": "00:25:13.540",
+      "end": "00:25:16.630",
+      "text": "the city of London do solemnly promise and declare"
+    },
+    {
+      "index": 162,
+      "start": "00:25:16.630",
+      "end": "00:25:20.120",
+      "text": "that I will truly faithfully and impartially exercise"
+    },
+    {
+      "index": 163,
+      "start": "00:25:20.120",
+      "end": "00:25:23.900",
+      "text": "the office to the best of my knowledge and ability. That I have not received"
+    },
+    {
+      "index": 164,
+      "start": "00:25:23.900",
+      "end": "00:25:27.390",
+      "text": "nor will receive any payment or reward our promise thereof"
+    },
+    {
+      "index": 165,
+      "start": "00:25:27.390",
+      "end": "00:25:30.560",
+      "text": "for the exercise of this office in a biased corrupt"
+    },
+    {
+      "index": 166,
+      "start": "00:25:30.560",
+      "end": "00:25:33.820",
+      "text": "or in any manner that is in or in any other improper manner."
+    },
+    {
+      "index": 167,
+      "start": "00:25:33.820",
+      "end": "00:25:37.530",
+      "text": "That I will disclose any peculiar interest direct or"
+    },
+    {
+      "index": 168,
+      "start": "00:25:37.530",
+      "end": "00:25:41.000",
+      "text": "indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 169,
+      "start": "00:25:41.000",
+      "end": "00:25:44.860",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 170,
+      "start": "00:25:44.860",
+      "end": "00:25:48.370",
+      "text": "the third. And that I make this solemn promise"
+    },
+    {
+      "index": 171,
+      "start": "00:25:48.370",
+      "end": "00:25:52.390",
+      "text": "and declaration conscientiously believing it to be"
+    },
+    {
+      "index": 172,
+      "start": "00:25:52.390",
+      "end": "00:25:56.250",
+      "text": "true and knowing that it is of the same force and effect"
+    },
+    {
+      "index": 173,
+      "start": "00:25:56.250",
+      "end": "00:26:04.970",
+      "text": "as if made under oath."
+    },
+    {
+      "index": 174,
+      "start": "00:26:04.970",
+      "end": "00:26:20.770",
+      "text": "Introduce Mayor Josh Morgan."
+    },
+    {
+      "index": 175,
+      "start": "00:26:20.770",
+      "end": "00:26:45.650",
+      "text": "Hadley McAllister. Hadley McAllister having been elected to the office of"
+    },
+    {
+      "index": 176,
+      "start": "00:26:45.650",
+      "end": "00:26:49.500",
+      "text": "Councilor Ward 1 in the municipality of city of London"
+    },
+    {
+      "index": 177,
+      "start": "00:26:49.500",
+      "end": "00:26:52.760",
+      "text": "do solemnly promise and declare that I will truly"
+    },
+    {
+      "index": 178,
+      "start": "00:26:52.760",
+      "end": "00:26:56.460",
+      "text": "faithfully impartially exercise the office to the best of my knowledge and"
+    },
+    {
+      "index": 179,
+      "start": "00:26:56.460",
+      "end": "00:27:01.850",
+      "text": "ability. That I have not received and will not receive any payment or reward"
+    },
+    {
+      "index": 180,
+      "start": "00:27:01.850",
+      "end": "00:27:06.010",
+      "text": "or promise thereof for the exercise of this office in a biased corrupt"
+    },
+    {
+      "index": 181,
+      "start": "00:27:06.010",
+      "end": "00:27:10.690",
+      "text": "or in any other improper manner. That I will disclose any peculiar interest"
+    },
+    {
+      "index": 182,
+      "start": "00:27:10.690",
+      "end": "00:27:14.550",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 183,
+      "start": "00:27:14.550",
+      "end": "00:27:20.190",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 184,
+      "start": "00:27:20.190",
+      "end": "00:27:24.040",
+      "text": "the third. And that I make this solemn promise and declaration"
+    },
+    {
+      "index": 185,
+      "start": "00:27:24.040",
+      "end": "00:27:28.070",
+      "text": "declaration consciously believing that it to be true"
+    },
+    {
+      "index": 186,
+      "start": "00:27:28.070",
+      "end": "00:27:34.490",
+      "text": "knowing that it is of the same force and effect as if made under oath."
+    },
+    {
+      "index": 187,
+      "start": "00:27:34.490",
+      "end": "00:28:07.240",
+      "text": "Introduce Councillor McAllister John Lewis."
+    },
+    {
+      "index": 188,
+      "start": "00:28:07.240",
+      "end": "00:28:19.420",
+      "text": "John Lewis having been elected to the office of Councilor"
+    },
+    {
+      "index": 189,
+      "start": "00:28:19.420",
+      "end": "00:28:23.320",
+      "text": "Ward 2 in the municipality of the city of London do solemnly promise and"
+    },
+    {
+      "index": 190,
+      "start": "00:28:23.320",
+      "end": "00:28:27.390",
+      "text": "declare that I will truly faithfully and impartially"
+    },
+    {
+      "index": 191,
+      "start": "00:28:27.390",
+      "end": "00:28:30.370",
+      "text": "exercise the office to the best of my knowledge and ability."
+    },
+    {
+      "index": 192,
+      "start": "00:28:30.370",
+      "end": "00:28:34.880",
+      "text": "That I have not received and will not receive any payment or reward"
+    },
+    {
+      "index": 193,
+      "start": "00:28:34.880",
+      "end": "00:28:39.150",
+      "text": "or promise thereof for the exercise of this office in a biased"
+    },
+    {
+      "index": 194,
+      "start": "00:28:39.150",
+      "end": "00:28:44.520",
+      "text": "corrupt or any other improper manner. That I will disclose any peculiar interest"
+    },
+    {
+      "index": 195,
+      "start": "00:28:44.520",
+      "end": "00:28:48.610",
+      "text": "direct or indirect in accordance with municipal conflict of interest act."
+    },
+    {
+      "index": 196,
+      "start": "00:28:48.610",
+      "end": "00:28:53.210",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 197,
+      "start": "00:28:53.210",
+      "end": "00:28:56.640",
+      "text": "the third and that I make this solemn promise and declaration"
+    },
+    {
+      "index": 198,
+      "start": "00:28:56.640",
+      "end": "00:29:00.810",
+      "text": "conscientiously believing it to be true and knowing that it is of the same"
+    },
+    {
+      "index": 199,
+      "start": "00:29:00.810",
+      "end": "00:29:04.240",
+      "text": "force and effect as if made under oath."
+    },
+    {
+      "index": 200,
+      "start": "00:29:04.240",
+      "end": "00:29:23.200",
+      "text": "Introduce Councillor Lewis. Peter Cuddy."
+    },
+    {
+      "index": 201,
+      "start": "00:29:23.200",
+      "end": "00:29:42.940",
+      "text": "Peter Michael Cuddy having been elected to the office of Councilor Ward 3"
+    },
+    {
+      "index": 202,
+      "start": "00:29:42.940",
+      "end": "00:29:48.010",
+      "text": "in the municipality of the city of London do solemnly promise and declare"
+    },
+    {
+      "index": 203,
+      "start": "00:29:48.010",
+      "end": "00:29:53.690",
+      "text": "that I will truly faithfully and impartially exercise the office to the"
+    },
+    {
+      "index": 204,
+      "start": "00:29:53.690",
+      "end": "00:29:57.920",
+      "text": "best of my knowledge and ability that I have not received"
+    },
+    {
+      "index": 205,
+      "start": "00:29:57.920",
+      "end": "00:30:02.400",
+      "text": "and will not receive any payment or reward or promise thereof"
+    },
+    {
+      "index": 206,
+      "start": "00:30:02.400",
+      "end": "00:30:07.900",
+      "text": "exercise that this office in a biased corrupt or any other improper manner."
+    },
+    {
+      "index": 207,
+      "start": "00:30:07.900",
+      "end": "00:30:13.280",
+      "text": "That I will disclose any peculiar interest direct or indirect"
+    },
+    {
+      "index": 208,
+      "start": "00:30:13.280",
+      "end": "00:30:16.250",
+      "text": "in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 209,
+      "start": "00:30:16.250",
+      "end": "00:30:21.470",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 210,
+      "start": "00:30:21.470",
+      "end": "00:30:26.520",
+      "text": "the third and that I make this solemn promise and declaration"
+    },
+    {
+      "index": 211,
+      "start": "00:30:26.520",
+      "end": "00:30:30.960",
+      "text": "conscientiously believing it to be true and knowing that it is of the same"
+    },
+    {
+      "index": 212,
+      "start": "00:30:30.960",
+      "end": "00:30:36.560",
+      "text": "force and effect as if made under oath. So help me God."
+    },
+    {
+      "index": 213,
+      "start": "00:30:36.560",
+      "end": "00:31:04.740",
+      "text": "May I introduce Councillor Cuddy. Gary Pribble."
+    },
+    {
+      "index": 214,
+      "start": "00:31:04.740",
+      "end": "00:31:16.830",
+      "text": "Susan Stevenson. Ward order and raise your hand."
+    },
+    {
+      "index": 215,
+      "start": "00:31:16.830",
+      "end": "00:31:23.290",
+      "text": "Hi Susan Stevenson having been elected to the office of Councilor Ward 4"
+    },
+    {
+      "index": 216,
+      "start": "00:31:23.290",
+      "end": "00:31:27.860",
+      "text": "in the municipality of the city of London do solemnly promise and declare"
+    },
+    {
+      "index": 217,
+      "start": "00:31:27.860",
+      "end": "00:31:32.250",
+      "text": "that I will truly faithfully and impartially exercise the office to the"
+    },
+    {
+      "index": 218,
+      "start": "00:31:32.250",
+      "end": "00:31:36.670",
+      "text": "best of my knowledge and ability that I have not received and will not receive"
+    },
+    {
+      "index": 219,
+      "start": "00:31:36.670",
+      "end": "00:31:39.500",
+      "text": "any payment or reward or promise thereof"
+    },
+    {
+      "index": 220,
+      "start": "00:31:39.500",
+      "end": "00:31:44.170",
+      "text": "for the exercise of this office in a biased corrupt or in any other improper"
+    },
+    {
+      "index": 221,
+      "start": "00:31:44.170",
+      "end": "00:31:47.640",
+      "text": "manner. That I will disclose any peculiar interest"
+    },
+    {
+      "index": 222,
+      "start": "00:31:47.640",
+      "end": "00:31:51.260",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 223,
+      "start": "00:31:51.260",
+      "end": "00:31:55.380",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 224,
+      "start": "00:31:55.380",
+      "end": "00:31:58.930",
+      "text": "the third and that I make this solemn promise and declaration"
+    },
+    {
+      "index": 225,
+      "start": "00:31:58.930",
+      "end": "00:32:02.920",
+      "text": "conscientiously believing it to be true and knowing that it is of the same"
+    },
+    {
+      "index": 226,
+      "start": "00:32:02.920",
+      "end": "00:32:06.290",
+      "text": "force and effect as if made under oath. So help me God."
+    },
+    {
+      "index": 227,
+      "start": "00:32:06.290",
+      "end": "00:32:36.160",
+      "text": "Please Councillor Stevenson. Now Jerry Pribble. I Jerry Pribble having been elected to the office"
+    },
+    {
+      "index": 228,
+      "start": "00:32:36.160",
+      "end": "00:32:40.570",
+      "text": "of Councilor Ward 5 in the municipality of the city of London"
+    },
+    {
+      "index": 229,
+      "start": "00:32:40.570",
+      "end": "00:32:44.470",
+      "text": "do solemnly promise and declare that I will truly"
+    },
+    {
+      "index": 230,
+      "start": "00:32:44.470",
+      "end": "00:32:48.850",
+      "text": "faithfully and impartially exercise the office to the best of my knowledge"
+    },
+    {
+      "index": 231,
+      "start": "00:32:48.850",
+      "end": "00:32:53.710",
+      "text": "and ability that I have not received and will not receive any payment"
+    },
+    {
+      "index": 232,
+      "start": "00:32:53.710",
+      "end": "00:32:58.270",
+      "text": "or reward or promise thereof for the exercise of this office"
+    },
+    {
+      "index": 233,
+      "start": "00:32:58.270",
+      "end": "00:33:02.740",
+      "text": "in a biased corrupt or in any other improper manner."
+    },
+    {
+      "index": 234,
+      "start": "00:33:02.740",
+      "end": "00:33:06.420",
+      "text": "That I will disclose any peculiar interest"
+    },
+    {
+      "index": 235,
+      "start": "00:33:06.420",
+      "end": "00:33:10.140",
+      "text": "direct or indirect in accordance with the municipal conflict"
+    },
+    {
+      "index": 236,
+      "start": "00:33:10.140",
+      "end": "00:33:16.150",
+      "text": "of interest act. That I will be faithful and bear true allegiance to His Majesty"
+    },
+    {
+      "index": 237,
+      "start": "00:33:16.150",
+      "end": "00:33:20.150",
+      "text": "King Charles the third and that I make this solemn promise"
+    },
+    {
+      "index": 238,
+      "start": "00:33:20.150",
+      "end": "00:33:23.950",
+      "text": "and declaration conscientiously believing it to be true"
+    },
+    {
+      "index": 239,
+      "start": "00:33:23.950",
+      "end": "00:33:27.600",
+      "text": "and knowing that it is of the same force and effect"
+    },
+    {
+      "index": 240,
+      "start": "00:33:27.600",
+      "end": "00:33:31.210",
+      "text": "and it's made under the oath so help me God."
+    },
+    {
+      "index": 241,
+      "start": "00:33:31.210",
+      "end": "00:33:49.630",
+      "text": "Please Councillor Pribble. Sam Trasso."
+    },
+    {
+      "index": 242,
+      "start": "00:33:49.630",
+      "end": "00:34:04.950",
+      "text": "Hi Samuel Trasso having been elected to the office of"
+    },
+    {
+      "index": 243,
+      "start": "00:34:04.950",
+      "end": "00:34:09.320",
+      "text": "Councillor Ward 6 in the municipality of the city of London"
+    },
+    {
+      "index": 244,
+      "start": "00:34:09.320",
+      "end": "00:34:14.490",
+      "text": "do solemnly promise and declare that I will truly faithfully and impartially"
+    },
+    {
+      "index": 245,
+      "start": "00:34:14.490",
+      "end": "00:34:17.530",
+      "text": "exercise the office to the best of my knowledge and ability"
+    },
+    {
+      "index": 246,
+      "start": "00:34:17.530",
+      "end": "00:34:22.310",
+      "text": "that I have not received and will not receive any payment or reward"
+    },
+    {
+      "index": 247,
+      "start": "00:34:22.310",
+      "end": "00:34:27.100",
+      "text": "or promise thereof for the exercise of this office in a biased corrupt"
+    },
+    {
+      "index": 248,
+      "start": "00:34:27.100",
+      "end": "00:34:32.930",
+      "text": "or in any other improper manner. That I will disclose any pecuniary interest"
+    },
+    {
+      "index": 249,
+      "start": "00:34:32.930",
+      "end": "00:34:37.260",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 250,
+      "start": "00:34:37.260",
+      "end": "00:34:40.400",
+      "text": "That I will be faithful and bear true allegiance"
+    },
+    {
+      "index": 251,
+      "start": "00:34:40.400",
+      "end": "00:34:45.260",
+      "text": "to His Majesty King Charles the third and that I make this solemn promise"
+    },
+    {
+      "index": 252,
+      "start": "00:34:45.260",
+      "end": "00:34:49.050",
+      "text": "and declaration conscientiously believing it to be true"
+    },
+    {
+      "index": 253,
+      "start": "00:34:49.050",
+      "end": "00:34:53.010",
+      "text": "and knowing that it is of the same force and effect as if made under oath."
+    },
+    {
+      "index": 254,
+      "start": "00:34:53.010",
+      "end": "00:35:11.150",
+      "text": "Introduce Councillor Trasso."
+    },
+    {
+      "index": 255,
+      "start": "00:35:11.150",
+      "end": "00:35:35.630",
+      "text": "Perin Raman. Perin Raman have been elected to the office of Councillor Ward 7"
+    },
+    {
+      "index": 256,
+      "start": "00:35:35.630",
+      "end": "00:35:40.060",
+      "text": "in the municipality of the city of London do solemnly promise and declare"
+    },
+    {
+      "index": 257,
+      "start": "00:35:40.060",
+      "end": "00:35:42.900",
+      "text": "that I will truly faithfully and impartially"
+    },
+    {
+      "index": 258,
+      "start": "00:35:42.900",
+      "end": "00:35:45.800",
+      "text": "exercise the office to the best of my knowledge and ability"
+    },
+    {
+      "index": 259,
+      "start": "00:35:45.800",
+      "end": "00:35:50.810",
+      "text": "that I have not received and will not receive any payment or reward or promise"
+    },
+    {
+      "index": 260,
+      "start": "00:35:50.810",
+      "end": "00:35:53.740",
+      "text": "thereof for the exercise of this office in a"
+    },
+    {
+      "index": 261,
+      "start": "00:35:53.740",
+      "end": "00:35:56.840",
+      "text": "biased corrupt or in any other improper manner."
+    },
+    {
+      "index": 262,
+      "start": "00:35:56.840",
+      "end": "00:36:00.360",
+      "text": "That I will take that I will disclose any pecuniary interest"
+    },
+    {
+      "index": 263,
+      "start": "00:36:00.360",
+      "end": "00:36:03.990",
+      "text": "direct or indirect in accordance with municipal conflict of interest act."
+    },
+    {
+      "index": 264,
+      "start": "00:36:03.990",
+      "end": "00:36:08.290",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 265,
+      "start": "00:36:08.290",
+      "end": "00:36:11.150",
+      "text": "the third and that I make this solemn promise"
+    },
+    {
+      "index": 266,
+      "start": "00:36:11.150",
+      "end": "00:36:15.120",
+      "text": "and declaration conscientiously believing it to be true"
+    },
+    {
+      "index": 267,
+      "start": "00:36:15.120",
+      "end": "00:36:27.150",
+      "text": "and knowing that it is of the same force and effect if I made it under oath."
+    },
+    {
+      "index": 268,
+      "start": "00:36:27.150",
+      "end": "00:36:41.510",
+      "text": "Introduce Councillor Raman. Steve Lehman."
+    },
+    {
+      "index": 269,
+      "start": "00:36:41.510",
+      "end": "00:36:57.160",
+      "text": "Hi Steve Lehman having been elected to the office of"
+    },
+    {
+      "index": 270,
+      "start": "00:36:57.160",
+      "end": "00:37:00.950",
+      "text": "Councillor Ward 8 in the municipality of the city of London"
+    },
+    {
+      "index": 271,
+      "start": "00:37:00.950",
+      "end": "00:37:05.240",
+      "text": "to solemnly promise and declare that I will truly"
+    },
+    {
+      "index": 272,
+      "start": "00:37:05.240",
+      "end": "00:37:10.320",
+      "text": "faithfully and impartially exercise the office to the best of my knowledge"
+    },
+    {
+      "index": 273,
+      "start": "00:37:10.320",
+      "end": "00:37:15.380",
+      "text": "and ability that I have not received and will not receive any payment or reward"
+    },
+    {
+      "index": 274,
+      "start": "00:37:15.380",
+      "end": "00:37:18.820",
+      "text": "or promise thereof for the exercise of this office"
+    },
+    {
+      "index": 275,
+      "start": "00:37:18.820",
+      "end": "00:37:22.760",
+      "text": "in a biased corrupt or any other improper manner."
+    },
+    {
+      "index": 276,
+      "start": "00:37:22.760",
+      "end": "00:37:26.100",
+      "text": "That I will disclose any pecuniary interest"
+    },
+    {
+      "index": 277,
+      "start": "00:37:26.100",
+      "end": "00:37:30.690",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 278,
+      "start": "00:37:30.690",
+      "end": "00:37:36.050",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles the"
+    },
+    {
+      "index": 279,
+      "start": "00:37:36.050",
+      "end": "00:37:39.670",
+      "text": "third and that I make this solemn promise"
+    },
+    {
+      "index": 280,
+      "start": "00:37:39.670",
+      "end": "00:37:44.140",
+      "text": "and declaration conscientiously believing to be true"
+    },
+    {
+      "index": 281,
+      "start": "00:37:44.140",
+      "end": "00:37:49.640",
+      "text": "and knowing that it is of the same force and effect as if made under oath."
+    },
+    {
+      "index": 282,
+      "start": "00:37:49.640",
+      "end": "00:38:02.990",
+      "text": "So help me God. May I introduce Councillor Lehman."
+    },
+    {
+      "index": 283,
+      "start": "00:38:02.990",
+      "end": "00:38:21.880",
+      "text": "Anna Hopkins. Hi Anna Hopkins having been elected"
+    },
+    {
+      "index": 284,
+      "start": "00:38:21.880",
+      "end": "00:38:26.650",
+      "text": "to the office of Councillor Ward 9 in the municipality of the city of London"
+    },
+    {
+      "index": 285,
+      "start": "00:38:26.650",
+      "end": "00:38:30.470",
+      "text": "to solemnly promise and declare that I will truly"
+    },
+    {
+      "index": 286,
+      "start": "00:38:30.470",
+      "end": "00:38:35.320",
+      "text": "faithfully and impartially exercise the office to the best of my knowledge"
+    },
+    {
+      "index": 287,
+      "start": "00:38:35.320",
+      "end": "00:38:41.210",
+      "text": "and ability that I have not received and will not receive any payment or reward"
+    },
+    {
+      "index": 288,
+      "start": "00:38:41.210",
+      "end": "00:38:45.320",
+      "text": "or promise thereof for the exercise of this office"
+    },
+    {
+      "index": 289,
+      "start": "00:38:45.320",
+      "end": "00:38:49.470",
+      "text": "in a biased corrupt or in any other improper manner."
+    },
+    {
+      "index": 290,
+      "start": "00:38:49.470",
+      "end": "00:38:54.270",
+      "text": "That I will disclose any pecuniary interest direct or indirect"
+    },
+    {
+      "index": 291,
+      "start": "00:38:54.270",
+      "end": "00:38:57.450",
+      "text": "in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 292,
+      "start": "00:38:57.450",
+      "end": "00:39:02.700",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 293,
+      "start": "00:39:02.700",
+      "end": "00:39:05.700",
+      "text": "the third and that I make this solemn promise"
+    },
+    {
+      "index": 294,
+      "start": "00:39:05.700",
+      "end": "00:39:09.740",
+      "text": "and declaration conscientiously believing it to be true"
+    },
+    {
+      "index": 295,
+      "start": "00:39:09.740",
+      "end": "00:39:13.320",
+      "text": "and knowing that it is of the same force and effect"
+    },
+    {
+      "index": 296,
+      "start": "00:39:13.320",
+      "end": "00:39:17.330",
+      "text": "as if made under oath. So help me God. Thank you."
+    },
+    {
+      "index": 297,
+      "start": "00:39:17.330",
+      "end": "00:39:55.090",
+      "text": "Produce Councillor Hopkins. Paul van Mirbergen. Paul van Mirbergen"
+    },
+    {
+      "index": 298,
+      "start": "00:39:55.090",
+      "end": "00:39:59.640",
+      "text": "having been elected to the office of Councillor Ward 10 in the municipality"
+    },
+    {
+      "index": 299,
+      "start": "00:39:59.640",
+      "end": "00:40:03.500",
+      "text": "of the city of London to solemnly promise and declare"
+    },
+    {
+      "index": 300,
+      "start": "00:40:03.500",
+      "end": "00:40:08.510",
+      "text": "that I will truly faithfully and impartially exercise the office to the"
+    },
+    {
+      "index": 301,
+      "start": "00:40:08.510",
+      "end": "00:40:12.950",
+      "text": "best of my knowledge and ability that I have not received"
+    },
+    {
+      "index": 302,
+      "start": "00:40:12.950",
+      "end": "00:40:17.900",
+      "text": "and will not receive any payment or reward or promise thereof"
+    },
+    {
+      "index": 303,
+      "start": "00:40:17.900",
+      "end": "00:40:22.990",
+      "text": "for the exercise of this office in a biased corrupt or in any other"
+    },
+    {
+      "index": 304,
+      "start": "00:40:22.990",
+      "end": "00:40:27.490",
+      "text": "improper manner. That I will disclose any pecuniary interest"
+    },
+    {
+      "index": 305,
+      "start": "00:40:27.490",
+      "end": "00:40:32.120",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 306,
+      "start": "00:40:32.120",
+      "end": "00:40:36.700",
+      "text": "That I will be faithful and bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 307,
+      "start": "00:40:36.700",
+      "end": "00:40:40.130",
+      "text": "the third and that I make this solemn promise"
+    },
+    {
+      "index": 308,
+      "start": "00:40:40.130",
+      "end": "00:40:43.610",
+      "text": "and declaration conscientiously believing it to be true"
+    },
+    {
+      "index": 309,
+      "start": "00:40:43.610",
+      "end": "00:40:48.650",
+      "text": "and knowing that it is of the same force and effect as if made under oath."
+    },
+    {
+      "index": 310,
+      "start": "00:40:48.650",
+      "end": "00:41:08.980",
+      "text": "So help me God. May I introduce Councillor van Mirbergen."
+    },
+    {
+      "index": 311,
+      "start": "00:41:08.980",
+      "end": "00:41:26.460",
+      "text": "Father Frank. Father Frank having been elected to the office of"
+    },
+    {
+      "index": 312,
+      "start": "00:41:26.460",
+      "end": "00:41:29.950",
+      "text": "Councillor Ward 11 in the municipality of the city of London"
+    },
+    {
+      "index": 313,
+      "start": "00:41:29.950",
+      "end": "00:41:34.480",
+      "text": "do solemnly promise and declare that I will truly faithfully and impartially"
+    },
+    {
+      "index": 314,
+      "start": "00:41:34.480",
+      "end": "00:41:37.420",
+      "text": "exercise the office to the best of my knowledge and ability"
+    },
+    {
+      "index": 315,
+      "start": "00:41:37.420",
+      "end": "00:41:41.120",
+      "text": "that I have not received and will not receive any payment or reward"
+    },
+    {
+      "index": 316,
+      "start": "00:41:41.120",
+      "end": "00:41:45.440",
+      "text": "or promise thereof for the exercise of this office in a biased corrupt or in"
+    },
+    {
+      "index": 317,
+      "start": "00:41:45.440",
+      "end": "00:41:49.650",
+      "text": "any other improper manner. That I will disclose any pecuniary interest"
+    },
+    {
+      "index": 318,
+      "start": "00:41:49.650",
+      "end": "00:41:53.450",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 319,
+      "start": "00:41:53.450",
+      "end": "00:41:57.340",
+      "text": "That I will bear faithful or I will be faithful and bear true allegiance to"
+    },
+    {
+      "index": 320,
+      "start": "00:41:57.340",
+      "end": "00:42:01.500",
+      "text": "His Majesty King Charles the third and that I make this solemn promise and"
+    },
+    {
+      "index": 321,
+      "start": "00:42:01.500",
+      "end": "00:42:04.420",
+      "text": "declaration conscientiously believing it to be true"
+    },
+    {
+      "index": 322,
+      "start": "00:42:04.420",
+      "end": "00:42:08.780",
+      "text": "and knowing that it is of the same force and effect as if made under oath."
+    },
+    {
+      "index": 323,
+      "start": "00:42:08.780",
+      "end": "00:42:22.930",
+      "text": "Introduced to you Councillor Frank."
+    },
+    {
+      "index": 324,
+      "start": "00:42:22.930",
+      "end": "00:42:42.830",
+      "text": "Elizabeth Palosa. Hi Elizabeth Palosa having been elected to the office of"
+    },
+    {
+      "index": 325,
+      "start": "00:42:42.830",
+      "end": "00:42:45.210",
+      "text": "Councillor Ward 12 in the municipality of the"
+    },
+    {
+      "index": 326,
+      "start": "00:42:45.210",
+      "end": "00:42:48.370",
+      "text": "city of London to solemnly promise and declare that I will truly"
+    },
+    {
+      "index": 327,
+      "start": "00:42:48.370",
+      "end": "00:42:52.280",
+      "text": "faithfully and partially exercise the office of the best of my knowledge"
+    },
+    {
+      "index": 328,
+      "start": "00:42:52.280",
+      "end": "00:42:56.720",
+      "text": "and ability that I have not received and will not receive any payment or reward"
+    },
+    {
+      "index": 329,
+      "start": "00:42:56.720",
+      "end": "00:43:00.770",
+      "text": "or promise thereof for the exercise of this office in a biased or corrupt"
+    },
+    {
+      "index": 330,
+      "start": "00:43:00.770",
+      "end": "00:43:04.990",
+      "text": "or any other improper manner that I will disclose any pecuniary interest"
+    },
+    {
+      "index": 331,
+      "start": "00:43:04.990",
+      "end": "00:43:08.300",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act."
+    },
+    {
+      "index": 332,
+      "start": "00:43:08.300",
+      "end": "00:43:14.550",
+      "text": "I will be faithful and bear true allegiance to His Majesty King Charles the third"
+    },
+    {
+      "index": 333,
+      "start": "00:43:14.550",
+      "end": "00:43:18.040",
+      "text": "and that I make this solemn promise and declaration conscientiously believing"
+    },
+    {
+      "index": 334,
+      "start": "00:43:18.040",
+      "end": "00:43:22.170",
+      "text": "it to be true and knowing that it is the same force and effect as if made under oath."
+    },
+    {
+      "index": 335,
+      "start": "00:43:22.170",
+      "end": "00:43:37.630",
+      "text": "So help me God. May I introduce to you Councillor Palosa"
+    },
+    {
+      "index": 336,
+      "start": "00:43:37.630",
+      "end": "00:43:59.780",
+      "text": "David Ferreira. Hi David Ferreira have been elected"
+    },
+    {
+      "index": 337,
+      "start": "00:43:59.780",
+      "end": "00:44:03.710",
+      "text": "to the office of Councillor Ward 13 in the municipality of the city of London."
+    },
+    {
+      "index": 338,
+      "start": "00:44:03.710",
+      "end": "00:44:08.120",
+      "text": "Do solemnly promise and declare that I will truly faithfully and impartially"
+    },
+    {
+      "index": 339,
+      "start": "00:44:08.120",
+      "end": "00:44:12.340",
+      "text": "exercise the office to my best of my knowledge and ability that I have not"
+    },
+    {
+      "index": 340,
+      "start": "00:44:12.340",
+      "end": "00:44:15.770",
+      "text": "received and will not receive any payment or reward"
+    },
+    {
+      "index": 341,
+      "start": "00:44:15.770",
+      "end": "00:44:20.490",
+      "text": "or promise thereof the exercise of this office in a biased, corrupt"
+    },
+    {
+      "index": 342,
+      "start": "00:44:20.490",
+      "end": "00:44:25.200",
+      "text": "or in any other improper manner that I will disclose any pecuniary interest"
+    },
+    {
+      "index": 343,
+      "start": "00:44:25.200",
+      "end": "00:44:29.230",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act"
+    },
+    {
+      "index": 344,
+      "start": "00:44:29.230",
+      "end": "00:44:33.310",
+      "text": "that I will be faithful and bear true allegiance to His Majesty King Charles the"
+    },
+    {
+      "index": 345,
+      "start": "00:44:33.310",
+      "end": "00:44:37.240",
+      "text": "third and that I make this solemn promise and declaration"
+    },
+    {
+      "index": 346,
+      "start": "00:44:37.240",
+      "end": "00:44:41.120",
+      "text": "conscientiously believing it to be true and knowing that it is of the same"
+    },
+    {
+      "index": 347,
+      "start": "00:44:41.120",
+      "end": "00:44:46.540",
+      "text": "force and effect as if made under oath. So help me God."
+    },
+    {
+      "index": 348,
+      "start": "00:44:46.540",
+      "end": "00:45:17.250",
+      "text": "Introduce to you Councillor Ferreira. Steve Hillier. Steve Hillier having me"
+    },
+    {
+      "index": 349,
+      "start": "00:45:17.250",
+      "end": "00:45:20.260",
+      "text": "elected to the office of Councillor Ward 14 in the municipality of"
+    },
+    {
+      "index": 350,
+      "start": "00:45:20.260",
+      "end": "00:45:22.880",
+      "text": "city of London do solemnly promise and declare"
+    },
+    {
+      "index": 351,
+      "start": "00:45:22.880",
+      "end": "00:45:26.290",
+      "text": "that I will truly faithfully and impartially exercise the office to the"
+    },
+    {
+      "index": 352,
+      "start": "00:45:26.290",
+      "end": "00:45:30.020",
+      "text": "best of my knowledge and ability that I have not received and will not"
+    },
+    {
+      "index": 353,
+      "start": "00:45:30.020",
+      "end": "00:45:33.160",
+      "text": "receive any payment or reward or promise thereof"
+    },
+    {
+      "index": 354,
+      "start": "00:45:33.160",
+      "end": "00:45:37.270",
+      "text": "for the exercise of the office in a biased, corrupt or any other improper"
+    },
+    {
+      "index": 355,
+      "start": "00:45:37.270",
+      "end": "00:45:40.260",
+      "text": "manner that I will disclose any pecuniary interest"
+    },
+    {
+      "index": 356,
+      "start": "00:45:40.260",
+      "end": "00:45:43.620",
+      "text": "direct or indirect in accordance with the municipal conflict of interest act"
+    },
+    {
+      "index": 357,
+      "start": "00:45:43.620",
+      "end": "00:45:47.550",
+      "text": "and that I will be faithful to bear true allegiance to His Majesty King Charles"
+    },
+    {
+      "index": 358,
+      "start": "00:45:47.550",
+      "end": "00:45:50.880",
+      "text": "the third and that I will make this solemn promise and declaration"
+    },
+    {
+      "index": 359,
+      "start": "00:45:50.880",
+      "end": "00:45:54.130",
+      "text": "conscientiously believing that it's true and knowing that it is the same force"
+    },
+    {
+      "index": 360,
+      "start": "00:45:54.130",
+      "end": "00:45:57.860",
+      "text": "and effect as if made under oath. So help me God."
+    },
+    {
+      "index": 361,
+      "start": "00:45:57.860",
+      "end": "00:46:17.220",
+      "text": "May I introduce to you Councillor Hillier. Distinguished guests"
+    },
+    {
+      "index": 362,
+      "start": "00:46:17.220",
+      "end": "00:46:22.010",
+      "text": "may I present to you your 2022 to 2026 municipal council."
+    },
+    {
+      "index": 363,
+      "start": "00:46:22.010",
+      "end": "00:46:45.130",
+      "text": "Bigelow to invest the mayor's chain of office and Bigelow retired from a"
+    },
+    {
+      "index": 364,
+      "start": "00:46:45.130",
+      "end": "00:46:49.390",
+      "text": "faculty position in management and organizational studies at Western"
+    },
+    {
+      "index": 365,
+      "start": "00:46:49.390",
+      "end": "00:46:55.580",
+      "text": "University as a CPA and MPA to work for many years in the public sector"
+    },
+    {
+      "index": 366,
+      "start": "00:46:55.580",
+      "end": "00:47:00.770",
+      "text": "including municipal and provincial governments. She has a unique perspective"
+    },
+    {
+      "index": 367,
+      "start": "00:47:00.770",
+      "end": "00:47:05.240",
+      "text": "on London's municipal council as the daughter of its first female mayor"
+    },
+    {
+      "index": 368,
+      "start": "00:47:05.240",
+      "end": "00:47:24.160",
+      "text": "the late Jane Bigelow. Thank you. Wow I was not expecting this to be"
+    },
+    {
+      "index": 369,
+      "start": "00:47:24.160",
+      "end": "00:47:32.160",
+      "text": "quite as quite what it is but anyways 50 years ago my mother Jane Bigelow"
+    },
+    {
+      "index": 370,
+      "start": "00:47:32.160",
+      "end": "00:47:43.820",
+      "text": "became the first woman mayor of London. She was 44 at the time"
+    },
+    {
+      "index": 371,
+      "start": "00:47:43.820",
+      "end": "00:47:49.180",
+      "text": "and I was 14 the same age as Josh and his daughter Ainsley I believe."
+    },
+    {
+      "index": 372,
+      "start": "00:47:49.180",
+      "end": "00:47:53.230",
+      "text": "I feel honored to have been asked 50 years later"
+    },
+    {
+      "index": 373,
+      "start": "00:47:53.230",
+      "end": "00:47:58.090",
+      "text": "to say a few words at the swearing-in of London's 65th mayor Josh Morgan."
+    },
+    {
+      "index": 374,
+      "start": "00:47:58.090",
+      "end": "00:48:05.030",
+      "text": "Being the daughter of London's first woman mayor was a life-changing experience."
+    },
+    {
+      "index": 375,
+      "start": "00:48:05.030",
+      "end": "00:48:10.900",
+      "text": "On the day after my mother became mayor we went grocery shopping with the media"
+    },
+    {
+      "index": 376,
+      "start": "00:48:10.900",
+      "end": "00:48:16.560",
+      "text": "at the market and they asked her really insightful questions such as"
+    },
+    {
+      "index": 377,
+      "start": "00:48:16.560",
+      "end": "00:48:20.130",
+      "text": "how do you manage to feed your children when you're so busy."
+    },
+    {
+      "index": 378,
+      "start": "00:48:20.130",
+      "end": "00:48:25.690",
+      "text": "Her answer was that it's amazing what you can do with frozen spaghetti sauce"
+    },
+    {
+      "index": 379,
+      "start": "00:48:25.690",
+      "end": "00:48:30.130",
+      "text": "and I can tell you I've eaten a lot of frozen spaghetti sauce"
+    },
+    {
+      "index": 380,
+      "start": "00:48:30.130",
+      "end": "00:48:35.730",
+      "text": "but this isn't about my mom it's about Josh and it's about all these people who"
+    },
+    {
+      "index": 381,
+      "start": "00:48:35.730",
+      "end": "00:48:40.220",
+      "text": "have taken on this incredible task of running our great city."
+    },
+    {
+      "index": 382,
+      "start": "00:48:40.220",
+      "end": "00:48:45.090",
+      "text": "Some of you are new to the role and some are experienced"
+    },
+    {
+      "index": 383,
+      "start": "00:48:45.090",
+      "end": "00:48:48.410",
+      "text": "and London Londoners are grateful for you because"
+    },
+    {
+      "index": 384,
+      "start": "00:48:48.410",
+      "end": "00:48:52.350",
+      "text": "you have taken the time from your families and from your careers"
+    },
+    {
+      "index": 385,
+      "start": "00:48:52.350",
+      "end": "00:48:57.140",
+      "text": "to do something really important that doesn't receive a whole lot of things."
+    },
+    {
+      "index": 386,
+      "start": "00:48:57.140",
+      "end": "00:49:01.170",
+      "text": "So before you get into your term I would like to say thank you."
+    },
+    {
+      "index": 387,
+      "start": "00:49:01.170",
+      "end": "00:49:05.710",
+      "text": "Thank you for taking those calls during your family dinners"
+    },
+    {
+      "index": 388,
+      "start": "00:49:05.710",
+      "end": "00:49:08.850",
+      "text": "and explaining why the garbage hasn't been picked up yet."
+    },
+    {
+      "index": 389,
+      "start": "00:49:08.850",
+      "end": "00:49:13.320",
+      "text": "Thank you for being willing to be recognized whenever you go out for dinner"
+    },
+    {
+      "index": 390,
+      "start": "00:49:13.320",
+      "end": "00:49:18.070",
+      "text": "with your family and for kindly saying a few words to your fans."
+    },
+    {
+      "index": 391,
+      "start": "00:49:18.070",
+      "end": "00:49:21.940",
+      "text": "Thank you for reading the newspaper and letters to the editor"
+    },
+    {
+      "index": 392,
+      "start": "00:49:21.940",
+      "end": "00:49:26.920",
+      "text": "and for being able to take praise well and criticism bravely."
+    },
+    {
+      "index": 393,
+      "start": "00:49:26.920",
+      "end": "00:49:31.820",
+      "text": "It is possible for you to do good work and to feel good"
+    },
+    {
+      "index": 394,
+      "start": "00:49:31.820",
+      "end": "00:49:35.250",
+      "text": "and a lot of satisfaction from the work that you are going to do."
+    },
+    {
+      "index": 395,
+      "start": "00:49:35.250",
+      "end": "00:49:39.070",
+      "text": "You will never please everyone but it is possible"
+    },
+    {
+      "index": 396,
+      "start": "00:49:39.070",
+      "end": "00:49:42.460",
+      "text": "to please most of the people most of the time."
+    },
+    {
+      "index": 397,
+      "start": "00:49:42.460",
+      "end": "00:49:48.160",
+      "text": "You are all impressive people. You've put your name on a ballot."
+    },
+    {
+      "index": 398,
+      "start": "00:49:48.160",
+      "end": "00:49:52.770",
+      "text": "You've taken a risk. You've found voters who were willing to support you."
+    },
+    {
+      "index": 399,
+      "start": "00:49:52.770",
+      "end": "00:49:57.990",
+      "text": "Every vote counts. You must be willing to listen to everyone who wants a moment of"
+    },
+    {
+      "index": 400,
+      "start": "00:49:57.990",
+      "end": "00:50:01.720",
+      "text": "your time. You must take every issue seriously"
+    },
+    {
+      "index": 401,
+      "start": "00:50:01.720",
+      "end": "00:50:06.470",
+      "text": "and you must do your homework. Thank you for taking on this challenge."
+    },
+    {
+      "index": 402,
+      "start": "00:50:06.470",
+      "end": "00:50:18.060",
+      "text": "I've known Josh for many years. We both worked on the fourth floor of the"
+    },
+    {
+      "index": 403,
+      "start": "00:50:18.060",
+      "end": "00:50:22.370",
+      "text": "social science building at Western and worked together in the local government"
+    },
+    {
+      "index": 404,
+      "start": "00:50:22.370",
+      "end": "00:50:27.060",
+      "text": "built program for several years. Josh has the right background for this job"
+    },
+    {
+      "index": 405,
+      "start": "00:50:27.060",
+      "end": "00:50:31.420",
+      "text": "having been on council for eight years and with a few years of experience as"
+    },
+    {
+      "index": 406,
+      "start": "00:50:31.420",
+      "end": "00:50:35.020",
+      "text": "deputy mayor. Josh was particularly helpful to my"
+    },
+    {
+      "index": 407,
+      "start": "00:50:35.020",
+      "end": "00:50:37.650",
+      "text": "brother and I when we asked the city to name a"
+    },
+    {
+      "index": 408,
+      "start": "00:50:37.650",
+      "end": "00:50:41.240",
+      "text": "portion of the Thames Valley Parkway after my mother."
+    },
+    {
+      "index": 409,
+      "start": "00:50:41.240",
+      "end": "00:50:46.280",
+      "text": "Josh wants to lead the city into a future based on a strong moral and ethical"
+    },
+    {
+      "index": 410,
+      "start": "00:50:46.280",
+      "end": "00:50:49.410",
+      "text": "compass. He wants to set a good example for his"
+    },
+    {
+      "index": 411,
+      "start": "00:50:49.410",
+      "end": "00:50:52.870",
+      "text": "kids and build a city based on a long-term vision."
+    },
+    {
+      "index": 412,
+      "start": "00:50:52.870",
+      "end": "00:50:56.720",
+      "text": "I think my mother approached it the job in a similar way"
+    },
+    {
+      "index": 413,
+      "start": "00:50:56.720",
+      "end": "00:51:00.500",
+      "text": "and I still have people tell me she was a fantastic mayor."
+    },
+    {
+      "index": 414,
+      "start": "00:51:00.500",
+      "end": "00:51:06.090",
+      "text": "The issues were different in the 1970s but they were just as complicated"
+    },
+    {
+      "index": 415,
+      "start": "00:51:06.090",
+      "end": "00:51:11.570",
+      "text": "and difficult to find good solutions to. Many of them involved improving access"
+    },
+    {
+      "index": 416,
+      "start": "00:51:11.570",
+      "end": "00:51:14.320",
+      "text": "to city hall for women and other groups who were"
+    },
+    {
+      "index": 417,
+      "start": "00:51:14.320",
+      "end": "00:51:17.840",
+      "text": "disadvantaged. My mom had to convince her male"
+    },
+    {
+      "index": 418,
+      "start": "00:51:17.840",
+      "end": "00:51:21.380",
+      "text": "colleagues that women could be building inspectors"
+    },
+    {
+      "index": 419,
+      "start": "00:51:21.380",
+      "end": "00:51:26.140",
+      "text": "by arguing that she was perfectly capable of doing the job herself."
+    },
+    {
+      "index": 420,
+      "start": "00:51:26.140",
+      "end": "00:51:30.740",
+      "text": "Before that it's specified on the job description that you had to be a man."
+    },
+    {
+      "index": 421,
+      "start": "00:51:30.740",
+      "end": "00:51:36.250",
+      "text": "Josh I hope you are successful at this job"
+    },
+    {
+      "index": 422,
+      "start": "00:51:36.250",
+      "end": "00:51:41.490",
+      "text": "and enjoy it as much as Jane did and I hope that 50 years from now"
+    },
+    {
+      "index": 423,
+      "start": "00:51:41.490",
+      "end": "00:51:45.950",
+      "text": "your children are being approached by people who remember the service you"
+    },
+    {
+      "index": 424,
+      "start": "00:51:45.950",
+      "end": "00:51:49.020",
+      "text": "provided to this city in a positive light."
+    },
+    {
+      "index": 425,
+      "start": "00:51:49.020",
+      "end": "00:52:12.840",
+      "text": "Let's proceed with doing this investiture thing."
+    },
+    {
+      "index": 426,
+      "start": "00:52:12.840",
+      "end": "00:52:43.260",
+      "text": "Thank you and Bigelow for your attendance here today."
+    },
+    {
+      "index": 427,
+      "start": "00:52:43.260",
+      "end": "00:52:46.430",
+      "text": "Invest the chain of office and for your thoughtful remarks."
+    },
+    {
+      "index": 428,
+      "start": "00:52:46.430",
+      "end": "00:52:58.710",
+      "text": "I'd like to now offer a few words about the ceremonial mace."
+    },
+    {
+      "index": 429,
+      "start": "00:52:58.710",
+      "end": "00:53:02.970",
+      "text": "The mace is an ornamented staff made of silver and represents the authority"
+    },
+    {
+      "index": 430,
+      "start": "00:53:02.970",
+      "end": "00:53:07.540",
+      "text": "and power of London's municipal council. The mace is carried by the"
+    },
+    {
+      "index": 431,
+      "start": "00:53:07.540",
+      "end": "00:53:11.180",
+      "text": "sergeant at arms who leads the mayor's procession into council chambers"
+    },
+    {
+      "index": 432,
+      "start": "00:53:11.180",
+      "end": "00:53:15.990",
+      "text": "at the commencement of each council meeting. The mace rests on a stand"
+    },
+    {
+      "index": 433,
+      "start": "00:53:15.990",
+      "end": "00:53:19.440",
+      "text": "immediately in front of the mayor's seat in council chambers"
+    },
+    {
+      "index": 434,
+      "start": "00:53:19.440",
+      "end": "00:53:24.010",
+      "text": "and when council is in session the mace is raised by the sergeant at arms"
+    },
+    {
+      "index": 435,
+      "start": "00:53:24.010",
+      "end": "00:53:28.830",
+      "text": "to the highest position on the stand. When council is adjourned to recess the mace"
+    },
+    {
+      "index": 436,
+      "start": "00:53:28.830",
+      "end": "00:53:32.380",
+      "text": "is lowered. The mace is then removed from council chambers"
+    },
+    {
+      "index": 437,
+      "start": "00:53:32.380",
+      "end": "00:53:36.480",
+      "text": "when council is not in session. I would now like to invite the sergeant"
+    },
+    {
+      "index": 438,
+      "start": "00:53:36.480",
+      "end": "00:53:39.680",
+      "text": "arms to come to center stage and raise the mace."
+    },
+    {
+      "index": 439,
+      "start": "00:53:39.680",
+      "end": "00:54:03.120",
+      "text": "I would now invite the mayor to call the meeting to order."
+    },
+    {
+      "index": 440,
+      "start": "00:54:03.120",
+      "end": "00:54:12.700",
+      "text": "First meeting of the 2022 to 2026 municipal council"
+    },
+    {
+      "index": 441,
+      "start": "00:54:12.700",
+      "end": "00:54:18.530",
+      "text": "is called to order. And at this point I would like to invite the mayor to bring"
+    },
+    {
+      "index": 442,
+      "start": "00:54:18.530",
+      "end": "00:54:39.310",
+      "text": "forward his inaugural address. I'll say I just borrowed a pen from the"
+    },
+    {
+      "index": 443,
+      "start": "00:54:39.310",
+      "end": "00:54:42.540",
+      "text": "clerk and the clerk had an extra one. Always prepared."
+    },
+    {
+      "index": 444,
+      "start": "00:54:42.540",
+      "end": "00:55:03.200",
+      "text": "I want to first start off with something that isn't in my speech."
+    },
+    {
+      "index": 445,
+      "start": "00:55:03.200",
+      "end": "00:55:07.600",
+      "text": "And that's something that I think each and every one of us would have noticed"
+    },
+    {
+      "index": 446,
+      "start": "00:55:07.600",
+      "end": "00:55:10.730",
+      "text": "when we took the oath of office looking out into the crowd."
+    },
+    {
+      "index": 447,
+      "start": "00:55:10.730",
+      "end": "00:55:16.060",
+      "text": "And that's our families and loved ones. I know my families in the front row you"
+    },
+    {
+      "index": 448,
+      "start": "00:55:16.060",
+      "end": "00:55:18.270",
+      "text": "can tell some of them are making a lot of noise."
+    },
+    {
+      "index": 449,
+      "start": "00:55:18.270",
+      "end": "00:55:21.760",
+      "text": "Distracting my colleagues as they take their oath of office."
+    },
+    {
+      "index": 450,
+      "start": "00:55:21.760",
+      "end": "00:55:25.610",
+      "text": "Families and loved ones are what allows us to do the work that we do."
+    },
+    {
+      "index": 451,
+      "start": "00:55:25.610",
+      "end": "00:55:30.510",
+      "text": "They're the backbone and support that give us the time, the opportunity, and the"
+    },
+    {
+      "index": 452,
+      "start": "00:55:30.510",
+      "end": "00:55:34.870",
+      "text": "strength to serve in public office. And I think each and every one of us on stage"
+    },
+    {
+      "index": 453,
+      "start": "00:55:34.870",
+      "end": "00:55:38.530",
+      "text": "would like to give our loved ones a round of applause for supporting us today."
+    },
+    {
+      "index": 454,
+      "start": "00:55:38.530",
+      "end": "00:55:51.820",
+      "text": "Let me start by saying what an honor and what a privilege."
+    },
+    {
+      "index": 455,
+      "start": "00:55:51.820",
+      "end": "00:55:56.680",
+      "text": "I say that on behalf of myself and members of this new city council."
+    },
+    {
+      "index": 456,
+      "start": "00:55:56.680",
+      "end": "00:56:01.550",
+      "text": "What an honor and what a privilege. An occasion such as this lends itself"
+    },
+    {
+      "index": 457,
+      "start": "00:56:01.550",
+      "end": "00:56:04.990",
+      "text": "to reflection. As we reflect on those who guide us"
+    },
+    {
+      "index": 458,
+      "start": "00:56:04.990",
+      "end": "00:56:09.330",
+      "text": "and inspired us along the way we think about the weeks and the months and the"
+    },
+    {
+      "index": 459,
+      "start": "00:56:09.330",
+      "end": "00:56:12.000",
+      "text": "countless numbers of hours we spent campaigning."
+    },
+    {
+      "index": 460,
+      "start": "00:56:12.000",
+      "end": "00:56:16.120",
+      "text": "The conversations we had with Londoners about the future of our city"
+    },
+    {
+      "index": 461,
+      "start": "00:56:16.120",
+      "end": "00:56:20.200",
+      "text": "and how best we could create lasting and meaningful change."
+    },
+    {
+      "index": 462,
+      "start": "00:56:20.200",
+      "end": "00:56:25.100",
+      "text": "Colleagues, on a night such as this you should feel equal measures"
+    },
+    {
+      "index": 463,
+      "start": "00:56:25.100",
+      "end": "00:56:29.250",
+      "text": "of pride and humility. You might also feel a sense of pressure,"
+    },
+    {
+      "index": 464,
+      "start": "00:56:29.250",
+      "end": "00:56:34.260",
+      "text": "pressure about expectations and pressure about the surrounding"
+    },
+    {
+      "index": 465,
+      "start": "00:56:34.260",
+      "end": "00:56:38.370",
+      "text": "and mounting work ahead. Let me say this, that pressure,"
+    },
+    {
+      "index": 466,
+      "start": "00:56:38.370",
+      "end": "00:56:44.500",
+      "text": "that pressure is a privilege. Pressure exists for this group only by virtue"
+    },
+    {
+      "index": 467,
+      "start": "00:56:44.500",
+      "end": "00:56:47.340",
+      "text": "of the opportunity that that pressure represents."
+    },
+    {
+      "index": 468,
+      "start": "00:56:47.340",
+      "end": "00:56:50.540",
+      "text": "An immense opportunity to do extraordinary things."
+    },
+    {
+      "index": 469,
+      "start": "00:56:50.540",
+      "end": "00:56:55.580",
+      "text": "The opportunity of our lives to improve the lives of all Londoners."
+    },
+    {
+      "index": 470,
+      "start": "00:56:55.580",
+      "end": "00:57:00.610",
+      "text": "We as a council must embrace the pressure and we must deliver."
+    },
+    {
+      "index": 471,
+      "start": "00:57:00.610",
+      "end": "00:57:05.490",
+      "text": "We are a group of 15 individuals, 15 Londoners of various"
+    },
+    {
+      "index": 472,
+      "start": "00:57:05.490",
+      "end": "00:57:09.130",
+      "text": "ages, races, religions, genders, sexualities,"
+    },
+    {
+      "index": 473,
+      "start": "00:57:09.130",
+      "end": "00:57:12.520",
+      "text": "political ideologies. We come from different parts of the city,"
+    },
+    {
+      "index": 474,
+      "start": "00:57:12.520",
+      "end": "00:57:15.790",
+      "text": "different parts of the country, different parts of the world."
+    },
+    {
+      "index": 475,
+      "start": "00:57:15.790",
+      "end": "00:57:21.520",
+      "text": "These differences are our strengths. They are to be embraced"
+    },
+    {
+      "index": 476,
+      "start": "00:57:21.520",
+      "end": "00:57:25.380",
+      "text": "and celebrated. Yet for all of these differences, I truly believe"
+    },
+    {
+      "index": 477,
+      "start": "00:57:25.380",
+      "end": "00:57:29.450",
+      "text": "that there is more that unites this council than divides it."
+    },
+    {
+      "index": 478,
+      "start": "00:57:29.450",
+      "end": "00:57:34.290",
+      "text": "That's not empty political rhetoric either. Instead, that's a belief based"
+    },
+    {
+      "index": 479,
+      "start": "00:57:34.290",
+      "end": "00:57:38.100",
+      "text": "entirely on the issues which informed our respective campaigns."
+    },
+    {
+      "index": 480,
+      "start": "00:57:38.100",
+      "end": "00:57:41.910",
+      "text": "The issues that we heard at the door, the issues that each of us were elected on"
+    },
+    {
+      "index": 481,
+      "start": "00:57:41.910",
+      "end": "00:57:46.710",
+      "text": "in good faith to address. Affordable housing, mental health"
+    },
+    {
+      "index": 482,
+      "start": "00:57:46.710",
+      "end": "00:57:50.770",
+      "text": "and addictions, state of our downtown, climate change,"
+    },
+    {
+      "index": 483,
+      "start": "00:57:50.770",
+      "end": "00:57:55.700",
+      "text": "inclusivity and safe neighborhoods. Well, campaigns can be"
+    },
+    {
+      "index": 484,
+      "start": "00:57:55.700",
+      "end": "00:57:59.230",
+      "text": "divisive and contentious. Every single person"
+    },
+    {
+      "index": 485,
+      "start": "00:57:59.230",
+      "end": "00:58:02.680",
+      "text": "elected to this council campaigned on these issues."
+    },
+    {
+      "index": 486,
+      "start": "00:58:02.680",
+      "end": "00:58:08.700",
+      "text": "We were elected based on these shared priorities and it's exceptionally rare"
+    },
+    {
+      "index": 487,
+      "start": "00:58:08.700",
+      "end": "00:58:13.340",
+      "text": "in any political contest that there is near unanimous agreement on the issues."
+    },
+    {
+      "index": 488,
+      "start": "00:58:13.340",
+      "end": "00:58:17.990",
+      "text": "Where we will differ is on the solutions. But that's what excites me most about"
+    },
+    {
+      "index": 489,
+      "start": "00:58:17.990",
+      "end": "00:58:22.150",
+      "text": "this council. We will be dealing with issues, not insults."
+    },
+    {
+      "index": 490,
+      "start": "00:58:22.150",
+      "end": "00:58:27.290",
+      "text": "There is widespread agreement on the issues and our task, our responsibility"
+    },
+    {
+      "index": 491,
+      "start": "00:58:27.290",
+      "end": "00:58:32.200",
+      "text": "and our collective challenge is to determine the most effective solutions."
+    },
+    {
+      "index": 492,
+      "start": "00:58:32.200",
+      "end": "00:58:37.120",
+      "text": "The work that lies ahead of us should be focused on how,"
+    },
+    {
+      "index": 493,
+      "start": "00:58:37.120",
+      "end": "00:58:41.060",
+      "text": "not the what. That is not an insignificant distinction."
+    },
+    {
+      "index": 494,
+      "start": "00:58:41.060",
+      "end": "00:58:44.120",
+      "text": "It's not always been that way with previous councils."
+    },
+    {
+      "index": 495,
+      "start": "00:58:44.120",
+      "end": "00:58:48.550",
+      "text": "Now what each of us may agree on what the issues are,"
+    },
+    {
+      "index": 496,
+      "start": "00:58:48.550",
+      "end": "00:58:54.100",
+      "text": "the solutions are not straightforward. They're not easy. They're multi-layered"
+    },
+    {
+      "index": 497,
+      "start": "00:58:54.100",
+      "end": "00:58:59.140",
+      "text": "and they are complex. It brings me to an example I want to give."
+    },
+    {
+      "index": 498,
+      "start": "00:58:59.140",
+      "end": "00:59:03.570",
+      "text": "I had the privilege of giving a speech at the"
+    },
+    {
+      "index": 499,
+      "start": "00:59:03.570",
+      "end": "00:59:09.270",
+      "text": "announcement for Jones Place. Our exciting project at YOU is putting on to"
+    },
+    {
+      "index": 500,
+      "start": "00:59:09.270",
+      "end": "00:59:15.000",
+      "text": "provide 39 affordable units to young mothers"
+    },
+    {
+      "index": 501,
+      "start": "00:59:15.000",
+      "end": "00:59:19.890",
+      "text": "who don't have a place. 39 units with wraparound services"
+    },
+    {
+      "index": 502,
+      "start": "00:59:19.890",
+      "end": "00:59:23.360",
+      "text": "supports specifically geared towards those"
+    },
+    {
+      "index": 503,
+      "start": "00:59:23.360",
+      "end": "00:59:27.080",
+      "text": "young mothers to provide them a safe, nurturing environment"
+    },
+    {
+      "index": 504,
+      "start": "00:59:27.080",
+      "end": "00:59:30.150",
+      "text": "to raise their children. Some where they can afford, some where they can be safe,"
+    },
+    {
+      "index": 505,
+      "start": "00:59:30.150",
+      "end": "00:59:33.700",
+      "text": "some where they can get the services and supports they need."
+    },
+    {
+      "index": 506,
+      "start": "00:59:33.700",
+      "end": "00:59:38.080",
+      "text": "And those wraparound service supports are incredibly different than the"
+    },
+    {
+      "index": 507,
+      "start": "00:59:38.080",
+      "end": "00:59:40.690",
+      "text": "wraparound service supports that would be needed for"
+    },
+    {
+      "index": 508,
+      "start": "00:59:40.690",
+      "end": "00:59:44.220",
+      "text": "a 50-year-old man with some mental health challenges."
+    },
+    {
+      "index": 509,
+      "start": "00:59:44.220",
+      "end": "00:59:50.530",
+      "text": "The issues of homelessness, the challenges of mental health and addiction,"
+    },
+    {
+      "index": 510,
+      "start": "00:59:50.530",
+      "end": "00:59:54.080",
+      "text": "they are incredibly complex and they will not be solved"
+    },
+    {
+      "index": 511,
+      "start": "00:59:54.080",
+      "end": "00:59:57.230",
+      "text": "by simple one answer, one line, one motion solution."
+    },
+    {
+      "index": 512,
+      "start": "00:59:57.230",
+      "end": "01:00:01.410",
+      "text": "It will require an incredible collaboration of community partners."
+    },
+    {
+      "index": 513,
+      "start": "01:00:01.410",
+      "end": "01:00:05.130",
+      "text": "Collaboration with an organization like YOU, a subject matter"
+    },
+    {
+      "index": 514,
+      "start": "01:00:05.130",
+      "end": "01:00:11.100",
+      "text": "in supporting youth and now young moms. And there are many other partners that we"
+    },
+    {
+      "index": 515,
+      "start": "01:00:11.100",
+      "end": "01:00:15.230",
+      "text": "will need to collaborate with and that is the path ahead. That is the path"
+    },
+    {
+      "index": 516,
+      "start": "01:00:15.230",
+      "end": "01:00:19.410",
+      "text": "that we need to find. We will find these solutions not through confrontation"
+    },
+    {
+      "index": 517,
+      "start": "01:00:19.410",
+      "end": "01:00:23.060",
+      "text": "but rather through an incredible amount of collaboration."
+    },
+    {
+      "index": 518,
+      "start": "01:00:23.060",
+      "end": "01:00:28.130",
+      "text": "From the moment each of us was sworn in tonight, we fail"
+    },
+    {
+      "index": 519,
+      "start": "01:00:28.130",
+      "end": "01:00:33.430",
+      "text": "if we allow ourselves to be, sorry, we fail if we allow ourselves"
+    },
+    {
+      "index": 520,
+      "start": "01:00:33.430",
+      "end": "01:00:38.040",
+      "text": "to be defined exclusively as right leaning or left leaning."
+    },
+    {
+      "index": 521,
+      "start": "01:00:38.040",
+      "end": "01:00:41.630",
+      "text": "You're neither a conservative nor a progressive counselor."
+    },
+    {
+      "index": 522,
+      "start": "01:00:41.630",
+      "end": "01:00:45.920",
+      "text": "You're a city of London counselor now. And for my part as mayor,"
+    },
+    {
+      "index": 523,
+      "start": "01:00:45.920",
+      "end": "01:00:49.840",
+      "text": "I pledge to respect that while my voice is an important one,"
+    },
+    {
+      "index": 524,
+      "start": "01:00:49.840",
+      "end": "01:00:54.470",
+      "text": "it is not the only one. Each of my 14 colleagues have been sent to City Hall"
+    },
+    {
+      "index": 525,
+      "start": "01:00:54.470",
+      "end": "01:00:57.170",
+      "text": "as representatives of thousands and thousands of"
+    },
+    {
+      "index": 526,
+      "start": "01:00:57.170",
+      "end": "01:01:01.130",
+      "text": "Londoners, each with their own ideas and their own beliefs on how to address"
+    },
+    {
+      "index": 527,
+      "start": "01:01:01.130",
+      "end": "01:01:03.720",
+      "text": "the most pressing issues facing our city."
+    },
+    {
+      "index": 528,
+      "start": "01:01:03.720",
+      "end": "01:01:07.580",
+      "text": "While we are aligned on those issues, I know council colleagues also share"
+    },
+    {
+      "index": 529,
+      "start": "01:01:07.580",
+      "end": "01:01:11.970",
+      "text": "with me the conviction that ours is a city with immense opportunities."
+    },
+    {
+      "index": 530,
+      "start": "01:01:11.970",
+      "end": "01:01:18.220",
+      "text": "I know you share with me the belief that this council has the immense capacity"
+    },
+    {
+      "index": 531,
+      "start": "01:01:18.220",
+      "end": "01:01:21.430",
+      "text": "to meet and conquer the challenges before us."
+    },
+    {
+      "index": 532,
+      "start": "01:01:21.430",
+      "end": "01:01:26.660",
+      "text": "Again, this will be done by way of collaboration, not confrontation."
+    },
+    {
+      "index": 533,
+      "start": "01:01:26.660",
+      "end": "01:01:34.250",
+      "text": "In that same spirit, we must collaborate and tap the resources"
+    },
+    {
+      "index": 534,
+      "start": "01:01:34.250",
+      "end": "01:01:37.620",
+      "text": "of our tremendously skilled and diligent staff."
+    },
+    {
+      "index": 535,
+      "start": "01:01:37.620",
+      "end": "01:01:42.460",
+      "text": "Led by city manager Lynn Livingston and members of the senior leadership team,"
+    },
+    {
+      "index": 536,
+      "start": "01:01:42.460",
+      "end": "01:01:46.900",
+      "text": "they are the absolute best to what they do. Their commitment to the city's well-being"
+    },
+    {
+      "index": 537,
+      "start": "01:01:46.900",
+      "end": "01:01:51.130",
+      "text": "is undeniable and their devotion to Londoners is unwavering."
+    },
+    {
+      "index": 538,
+      "start": "01:01:51.130",
+      "end": "01:01:56.090",
+      "text": "Similarly, our willingness to collaborate must extend beyond the walls of City Hall."
+    },
+    {
+      "index": 539,
+      "start": "01:01:56.090",
+      "end": "01:01:58.790",
+      "text": "I think of partnerships with members of Parliament,"
+    },
+    {
+      "index": 540,
+      "start": "01:01:58.790",
+      "end": "01:02:03.930",
+      "text": "members of Provincial Parliament. At their core, they are people, not partisans."
+    },
+    {
+      "index": 541,
+      "start": "01:02:03.930",
+      "end": "01:02:07.390",
+      "text": "They are Londoners who believe in our city and its people."
+    },
+    {
+      "index": 542,
+      "start": "01:02:07.390",
+      "end": "01:02:11.430",
+      "text": "I also envision this council developing deeper and more meaningful"
+    },
+    {
+      "index": 543,
+      "start": "01:02:11.430",
+      "end": "01:02:16.120",
+      "text": "relationships with agencies, not for profits, and other local organizations."
+    },
+    {
+      "index": 544,
+      "start": "01:02:16.120",
+      "end": "01:02:20.650",
+      "text": "In many ways, they have modeled the type of collaboration that we need to adopt"
+    },
+    {
+      "index": 545,
+      "start": "01:02:20.650",
+      "end": "01:02:25.290",
+      "text": "as part of council's DNA. And above all else, and most importantly,"
+    },
+    {
+      "index": 546,
+      "start": "01:02:25.290",
+      "end": "01:02:31.320",
+      "text": "we must commit to collaborating with our constituents, Londoners."
+    },
+    {
+      "index": 547,
+      "start": "01:02:31.320",
+      "end": "01:02:34.780",
+      "text": "Same Londoners we engaged with each and every day for multiple months"
+    },
+    {
+      "index": 548,
+      "start": "01:02:34.780",
+      "end": "01:02:38.730",
+      "text": "during our respective campaigns. If we want this city to thrive,"
+    },
+    {
+      "index": 549,
+      "start": "01:02:38.730",
+      "end": "01:02:44.750",
+      "text": "if we want our democracy to succeed, this must not be an exercise conducted once"
+    },
+    {
+      "index": 550,
+      "start": "01:02:44.750",
+      "end": "01:02:48.620",
+      "text": "every four years. It must be undertaken on a daily basis."
+    },
+    {
+      "index": 551,
+      "start": "01:02:48.620",
+      "end": "01:02:52.480",
+      "text": "Because I fundamentally believe that politics and municipal government,"
+    },
+    {
+      "index": 552,
+      "start": "01:02:52.480",
+      "end": "01:02:55.890",
+      "text": "when done with humility, when done with honor, when done with compassion"
+    },
+    {
+      "index": 553,
+      "start": "01:02:55.890",
+      "end": "01:02:59.220",
+      "text": "and commitment, is a force for good in our community."
+    },
+    {
+      "index": 554,
+      "start": "01:02:59.220",
+      "end": "01:03:03.560",
+      "text": "But it cannot be done in isolation from our communities."
+    },
+    {
+      "index": 555,
+      "start": "01:03:03.560",
+      "end": "01:03:09.570",
+      "text": "That collaboration is absolutely vital. When we do this, when we do this,"
+    },
+    {
+      "index": 556,
+      "start": "01:03:09.570",
+      "end": "01:03:14.390",
+      "text": "it's not a matter of believing we can achieve great things."
+    },
+    {
+      "index": 557,
+      "start": "01:03:14.390",
+      "end": "01:03:19.170",
+      "text": "It's an exercise and a reminding ourselves that we've already accomplished"
+    },
+    {
+      "index": 558,
+      "start": "01:03:19.170",
+      "end": "01:03:22.890",
+      "text": "things when we work together. And I'll give some examples. This previous"
+    },
+    {
+      "index": 559,
+      "start": "01:03:22.890",
+      "end": "01:03:27.200",
+      "text": "council that some of us were a part of, we declared a climate emergency,"
+    },
+    {
+      "index": 560,
+      "start": "01:03:27.200",
+      "end": "01:03:30.140",
+      "text": "unanimously approved the climate emergency action plan,"
+    },
+    {
+      "index": 561,
+      "start": "01:03:30.140",
+      "end": "01:03:35.140",
+      "text": "and set a community wide plan and target to achieve net zero emissions by 2050,"
+    },
+    {
+      "index": 562,
+      "start": "01:03:35.140",
+      "end": "01:03:37.930",
+      "text": "and approved the resilience to climate change impacts."
+    },
+    {
+      "index": 563,
+      "start": "01:03:37.930",
+      "end": "01:03:42.200",
+      "text": "We did that together. That same council made a historic and unprecedented"
+    },
+    {
+      "index": 564,
+      "start": "01:03:42.200",
+      "end": "01:03:45.850",
+      "text": "investments into housing. More than any other council in London's history,"
+    },
+    {
+      "index": 565,
+      "start": "01:03:45.850",
+      "end": "01:03:48.620",
+      "text": "committed $90 million to a series of initiatives,"
+    },
+    {
+      "index": 566,
+      "start": "01:03:48.620",
+      "end": "01:03:51.880",
+      "text": "while approving a roadmap to 3,000 affordable units."
+    },
+    {
+      "index": 567,
+      "start": "01:03:51.880",
+      "end": "01:03:56.160",
+      "text": "We did that together. In the face of unspeakable hatred,"
+    },
+    {
+      "index": 568,
+      "start": "01:03:56.160",
+      "end": "01:04:00.870",
+      "text": "that same council was united in its efforts to eradicate racism, hate,"
+    },
+    {
+      "index": 569,
+      "start": "01:04:00.870",
+      "end": "01:04:05.840",
+      "text": "and oppression in all of its forms. That council initiated systemic change,"
+    },
+    {
+      "index": 570,
+      "start": "01:04:05.840",
+      "end": "01:04:09.410",
+      "text": "creating an entire anti-racism and anti-oppression division"
+    },
+    {
+      "index": 571,
+      "start": "01:04:09.410",
+      "end": "01:04:13.070",
+      "text": "at the city of London. That council approved an action plan to disrupt"
+    },
+    {
+      "index": 572,
+      "start": "01:04:13.070",
+      "end": "01:04:17.920",
+      "text": "Islamophobia that is hailed by many as one of the strongest plans in Canada."
+    },
+    {
+      "index": 573,
+      "start": "01:04:17.920",
+      "end": "01:04:22.340",
+      "text": "And that council also created an anti-racism and anti-oppression framework,"
+    },
+    {
+      "index": 574,
+      "start": "01:04:22.340",
+      "end": "01:04:26.540",
+      "text": "which will be, which will embed the principles of equity and inclusion"
+    },
+    {
+      "index": 575,
+      "start": "01:04:26.540",
+      "end": "01:04:31.830",
+      "text": "in all aspects of our municipal work. These are a few examples of what can be"
+    },
+    {
+      "index": 576,
+      "start": "01:04:31.830",
+      "end": "01:04:35.530",
+      "text": "achieved when collaboration is prioritized over confrontation."
+    },
+    {
+      "index": 577,
+      "start": "01:04:35.530",
+      "end": "01:04:39.520",
+      "text": "That I am very grateful for the efforts of the previous council. Their efforts and"
+    },
+    {
+      "index": 578,
+      "start": "01:04:39.520",
+      "end": "01:04:42.280",
+      "text": "their work has ensured we're not starting from scratch."
+    },
+    {
+      "index": 579,
+      "start": "01:04:42.280",
+      "end": "01:04:45.970",
+      "text": "We are further ahead thanks to those achievements."
+    },
+    {
+      "index": 580,
+      "start": "01:04:45.970",
+      "end": "01:04:53.980",
+      "text": "This is not about letting go about what was. It's about stepping into what is."
+    },
+    {
+      "index": 581,
+      "start": "01:04:53.980",
+      "end": "01:04:59.290",
+      "text": "Colleagues, it's an honour and privilege to take this step"
+    },
+    {
+      "index": 582,
+      "start": "01:04:59.290",
+      "end": "01:05:03.460",
+      "text": "with each of you on behalf of all Londoners. The work we do together over the"
+    },
+    {
+      "index": 583,
+      "start": "01:05:03.460",
+      "end": "01:05:05.970",
+      "text": "next four years is perhaps the most important"
+    },
+    {
+      "index": 584,
+      "start": "01:05:05.970",
+      "end": "01:05:09.040",
+      "text": "any of us will undertake in our professional lives."
+    },
+    {
+      "index": 585,
+      "start": "01:05:09.040",
+      "end": "01:05:15.400",
+      "text": "And I want to leave you with something that I often share on Remembrance Day,"
+    },
+    {
+      "index": 586,
+      "start": "01:05:15.400",
+      "end": "01:05:18.900",
+      "text": "and we know Remembrance Week was just recently."
+    },
+    {
+      "index": 587,
+      "start": "01:05:18.900",
+      "end": "01:05:23.980",
+      "text": "When I speak to veterans, when I speak at events, and some of you will have"
+    },
+    {
+      "index": 588,
+      "start": "01:05:23.980",
+      "end": "01:05:27.350",
+      "text": "heard me say this, I think about the tremendous,"
+    },
+    {
+      "index": 589,
+      "start": "01:05:27.350",
+      "end": "01:05:31.980",
+      "text": "tremendous privilege we have to serve in a democratic chamber."
+    },
+    {
+      "index": 590,
+      "start": "01:05:31.980",
+      "end": "01:05:37.440",
+      "text": "That we can walk in the halls, we can walk into City Hall, we can walk into the"
+    },
+    {
+      "index": 591,
+      "start": "01:05:37.440",
+      "end": "01:05:41.320",
+      "text": "council chamber, we can walk in, we can cast votes, we can debate, we can"
+    },
+    {
+      "index": 592,
+      "start": "01:05:41.320",
+      "end": "01:05:46.150",
+      "text": "agree, we can disagree, we can move motions, and we do that in a free"
+    },
+    {
+      "index": 593,
+      "start": "01:05:46.150",
+      "end": "01:05:51.150",
+      "text": "society because of those who came before us, who sacrificed, who fought. At a time"
+    },
+    {
+      "index": 594,
+      "start": "01:05:51.150",
+      "end": "01:05:54.780",
+      "text": "when democracy is under threat in parts of this world, we have this tremendous"
+    },
+    {
+      "index": 595,
+      "start": "01:05:54.780",
+      "end": "01:05:59.230",
+      "text": "privilege to be thankful each and every time we walk into that chamber for those"
+    },
+    {
+      "index": 596,
+      "start": "01:05:59.230",
+      "end": "01:06:03.440",
+      "text": "who have fought and have died for us to have the privilege and distinction"
+    },
+    {
+      "index": 597,
+      "start": "01:06:03.440",
+      "end": "01:06:06.750",
+      "text": "to serve in this office and to work on behalf of Londoners."
+    },
+    {
+      "index": 598,
+      "start": "01:06:06.750",
+      "end": "01:06:10.940",
+      "text": "And I want to challenge each and every one of us every day, every time you walk into"
+    },
+    {
+      "index": 599,
+      "start": "01:06:10.940",
+      "end": "01:06:14.830",
+      "text": "that council chamber to think about that, those who sacrifice, those who"
+    },
+    {
+      "index": 600,
+      "start": "01:06:14.830",
+      "end": "01:06:19.860",
+      "text": "continue to protect us around this world so that we can live and exercise our"
+    },
+    {
+      "index": 601,
+      "start": "01:06:19.860",
+      "end": "01:06:23.480",
+      "text": "rights on behalf of Londoners in this free and democratic society that we"
+    },
+    {
+      "index": 602,
+      "start": "01:06:23.480",
+      "end": "01:07:08.710",
+      "text": "call London, Ontario, and Canada. Thank you. Can't run a"
+    },
+    {
+      "index": 603,
+      "start": "01:07:08.710",
+      "end": "01:07:27.580",
+      "text": "meeting without the clerk beside you, so. I'm going to run a meeting with a"
+    },
+    {
+      "index": 604,
+      "start": "01:07:27.580",
+      "end": "01:07:31.390",
+      "text": "hot mic, that'll be very exciting for everybody."
+    },
+    {
+      "index": 605,
+      "start": "01:07:31.390",
+      "end": "01:07:39.100",
+      "text": "So colleagues, you have the agenda before you. The first item is disclosures of"
+    },
+    {
+      "index": 606,
+      "start": "01:07:39.100",
+      "end": "01:07:41.380",
+      "text": "pecuniary interest. I'd like to see if any colleagues have any"
+    },
+    {
+      "index": 607,
+      "start": "01:07:41.380",
+      "end": "01:07:44.950",
+      "text": "disclosures of pecuniary interest that they need to disclose at this time."
+    },
+    {
+      "index": 608,
+      "start": "01:07:44.950",
+      "end": "01:08:00.100",
+      "text": "Seeing none, we move on to the appointment of a deputy mayor."
+    },
+    {
+      "index": 609,
+      "start": "01:08:00.100",
+      "end": "01:08:08.990",
+      "text": "So I'm looking for a motion with respect to the appointment of a deputy mayor."
+    },
+    {
+      "index": 610,
+      "start": "01:08:08.990",
+      "end": "01:08:14.330",
+      "text": "I understand Councillor Hillier is willing to move such a motion"
+    },
+    {
+      "index": 611,
+      "start": "01:08:14.330",
+      "end": "01:08:20.460",
+      "text": "and I'm willing to second the motion. Okay, I'm going to read the motion."
+    },
+    {
+      "index": 612,
+      "start": "01:08:20.460",
+      "end": "01:08:27.300",
+      "text": "On the recommendation of the mayor, the important, the appointment of"
+    },
+    {
+      "index": 613,
+      "start": "01:08:27.300",
+      "end": "01:08:30.750",
+      "text": "Councillor Sean Lewis as deputy mayor for the city of London"
+    },
+    {
+      "index": 614,
+      "start": "01:08:30.750",
+      "end": "01:08:37.250",
+      "text": "for a term commencing on November 15th, 2022 and ending on"
+    },
+    {
+      "index": 615,
+      "start": "01:08:37.250",
+      "end": "01:08:49.150",
+      "text": "November 14th, 2026 to carry out such responsibilities as set out and provided"
+    },
+    {
+      "index": 616,
+      "start": "01:08:49.150",
+      "end": "01:08:51.910",
+      "text": "for in the council policy appointment of a deputy mayor"
+    },
+    {
+      "index": 617,
+      "start": "01:08:51.910",
+      "end": "01:08:56.610",
+      "text": "and the council procedure by law proved. Would anybody like to speak"
+    },
+    {
+      "index": 618,
+      "start": "01:08:56.610",
+      "end": "01:09:04.250",
+      "text": "to this motion? I would like to speak to this motion and since"
+    },
+    {
+      "index": 619,
+      "start": "01:09:04.250",
+      "end": "01:09:09.380",
+      "text": "and since I'm the chair, I'm going to pass the chair off to perhaps"
+    },
+    {
+      "index": 620,
+      "start": "01:09:09.380",
+      "end": "01:09:12.670",
+      "text": "Councillor Hopkins, would you be willing to take the chair for me?"
+    },
+    {
+      "index": 621,
+      "start": "01:09:12.670",
+      "end": "01:09:25.360",
+      "text": "I mean, colleagues, I bring forward the nomination for"
+    },
+    {
+      "index": 622,
+      "start": "01:09:25.360",
+      "end": "01:09:29.270",
+      "text": "Councillor Sean Lewis and there's two things I want to talk about with"
+    },
+    {
+      "index": 623,
+      "start": "01:09:29.270",
+      "end": "01:09:33.100",
+      "text": "this nomination for a deputy mayor and the first"
+    },
+    {
+      "index": 624,
+      "start": "01:09:33.100",
+      "end": "01:09:36.940",
+      "text": "is something that I think we, you know, I talked about in my inaugural address"
+    },
+    {
+      "index": 625,
+      "start": "01:09:36.940",
+      "end": "01:09:40.850",
+      "text": "about issues of equity and inclusion. I want us to remember that there was a"
+    },
+    {
+      "index": 626,
+      "start": "01:09:40.850",
+      "end": "01:09:44.940",
+      "text": "time when the mayor of the city of London would not issue"
+    },
+    {
+      "index": 627,
+      "start": "01:09:44.940",
+      "end": "01:09:49.450",
+      "text": "proclamation for the Pride Parade and that it was a time when we would not"
+    },
+    {
+      "index": 628,
+      "start": "01:09:49.450",
+      "end": "01:09:52.560",
+      "text": "raise the Pride flag and there were time when members of this"
+    },
+    {
+      "index": 629,
+      "start": "01:09:52.560",
+      "end": "01:09:56.090",
+      "text": "elected body would not even march in Pride Parade"
+    },
+    {
+      "index": 630,
+      "start": "01:09:56.090",
+      "end": "01:09:59.900",
+      "text": "and now I have the distinct honour and privilege of nominating someone for"
+    },
+    {
+      "index": 631,
+      "start": "01:09:59.900",
+      "end": "01:10:02.990",
+      "text": "deputy mayor who is a member of that community and I think we have come"
+    },
+    {
+      "index": 632,
+      "start": "01:10:02.990",
+      "end": "01:10:06.240",
+      "text": "very far in our community and we have so much farther to go."
+    },
+    {
+      "index": 633,
+      "start": "01:10:06.240",
+      "end": "01:10:09.210",
+      "text": "I also want to say that Sean has been a strong,"
+    },
+    {
+      "index": 634,
+      "start": "01:10:09.210",
+      "end": "01:10:14.380",
+      "text": "strong voice for the east part of our city and it has been many decades,"
+    },
+    {
+      "index": 635,
+      "start": "01:10:14.380",
+      "end": "01:10:17.310",
+      "text": "many decades since either a mayor or deputy mayor"
+    },
+    {
+      "index": 636,
+      "start": "01:10:17.310",
+      "end": "01:10:21.030",
+      "text": "has come from the east end of our city. Sean has lived in that part of our city"
+    },
+    {
+      "index": 637,
+      "start": "01:10:21.030",
+      "end": "01:10:25.480",
+      "text": "for over 20 years. I myself have lived in the north and the west"
+    },
+    {
+      "index": 638,
+      "start": "01:10:25.480",
+      "end": "01:10:28.550",
+      "text": "and some of the areas in the middle I see Melanie nodding"
+    },
+    {
+      "index": 639,
+      "start": "01:10:28.550",
+      "end": "01:10:32.780",
+      "text": "in all the places we've lived but not the east end and I think that this is"
+    },
+    {
+      "index": 640,
+      "start": "01:10:32.780",
+      "end": "01:10:37.380",
+      "text": "an incredibly important part of our community that has such potential to"
+    },
+    {
+      "index": 641,
+      "start": "01:10:37.380",
+      "end": "01:10:41.530",
+      "text": "grow and expand as we we work through the challenges ahead and"
+    },
+    {
+      "index": 642,
+      "start": "01:10:41.530",
+      "end": "01:10:46.450",
+      "text": "Sean not only has that life experience in the east end"
+    },
+    {
+      "index": 643,
+      "start": "01:10:46.450",
+      "end": "01:10:50.580",
+      "text": "but he also has extensive experience not just on council but previously serving"
+    },
+    {
+      "index": 644,
+      "start": "01:10:50.580",
+      "end": "01:10:54.160",
+      "text": "as an elected councillor he worked for the constituents"
+    },
+    {
+      "index": 645,
+      "start": "01:10:54.160",
+      "end": "01:10:58.930",
+      "text": "of London as a representative in MP Irene Matheson's office."
+    },
+    {
+      "index": 646,
+      "start": "01:10:58.930",
+      "end": "01:11:03.130",
+      "text": "He served on all five of our standing committees. He's represented council on"
+    },
+    {
+      "index": 647,
+      "start": "01:11:03.130",
+      "end": "01:11:06.120",
+      "text": "the Argyle BIA, Tourism London, London Public Library"
+    },
+    {
+      "index": 648,
+      "start": "01:11:06.120",
+      "end": "01:11:10.000",
+      "text": "and London Housing Boards. His diversity, his perspective and his"
+    },
+    {
+      "index": 649,
+      "start": "01:11:10.000",
+      "end": "01:11:12.840",
+      "text": "experience I think will be an asset to all of us"
+    },
+    {
+      "index": 650,
+      "start": "01:11:12.840",
+      "end": "01:11:16.480",
+      "text": "in this role as deputy mayor and I'm proud to nominate him today."
+    },
+    {
+      "index": 651,
+      "start": "01:11:16.480",
+      "end": "01:11:28.330",
+      "text": "Councillor Hopkins. Okay Councillor Hopkins is returning the chair to me"
+    },
+    {
+      "index": 652,
+      "start": "01:11:28.330",
+      "end": "01:11:32.420",
+      "text": "and anybody else want to speak to this nomination? Okay."
+    },
+    {
+      "index": 653,
+      "start": "01:11:32.420",
+      "end": "01:11:36.490",
+      "text": "Seeing none all those in favor of this nomination of"
+    },
+    {
+      "index": 654,
+      "start": "01:11:36.490",
+      "end": "01:12:07.580",
+      "text": "Councillor Lewis's deputy mayor. That motion carries. Oh we got one down."
+    },
+    {
+      "index": 655,
+      "start": "01:12:07.580",
+      "end": "01:12:15.030",
+      "text": "The next one is a recommendation for budget chair."
+    },
+    {
+      "index": 656,
+      "start": "01:12:15.030",
+      "end": "01:12:19.860",
+      "text": "I'm going to look for a motion with respect to the appointment of a budget"
+    },
+    {
+      "index": 657,
+      "start": "01:12:19.860",
+      "end": "01:12:24.580",
+      "text": "chair and I believe Councillor Stevenson yes you're"
+    },
+    {
+      "index": 658,
+      "start": "01:12:24.580",
+      "end": "01:12:28.640",
+      "text": "willing to make that motion. I'm willing to second that"
+    },
+    {
+      "index": 659,
+      "start": "01:12:28.640",
+      "end": "01:12:33.270",
+      "text": "and once again I'd like to speak to the motion. So Councillor Hopkins I'm going to"
+    },
+    {
+      "index": 660,
+      "start": "01:12:33.270",
+      "end": "01:12:42.740",
+      "text": "turn the chair over to you. I bring forward the nomination of"
+    },
+    {
+      "index": 661,
+      "start": "01:12:42.740",
+      "end": "01:12:47.880",
+      "text": "Councillor Elizabeth Ploza for budget chair a role that I also had the"
+    },
+    {
+      "index": 662,
+      "start": "01:12:47.880",
+      "end": "01:12:54.240",
+      "text": "distinct honor and privilege of serving. Councillor Ploza"
+    },
+    {
+      "index": 663,
+      "start": "01:12:54.240",
+      "end": "01:12:57.640",
+      "text": "presents the south end of the city another area I've"
+    },
+    {
+      "index": 664,
+      "start": "01:12:57.640",
+      "end": "01:13:02.050",
+      "text": "I've not lived in. She has tremendous experience. She has a track record of"
+    },
+    {
+      "index": 665,
+      "start": "01:13:02.050",
+      "end": "01:13:05.750",
+      "text": "delivery on results for Londoners and she has represented"
+    },
+    {
+      "index": 666,
+      "start": "01:13:05.750",
+      "end": "01:13:11.060",
+      "text": "this community with great conviction with great respect for diversity"
+    },
+    {
+      "index": 667,
+      "start": "01:13:11.060",
+      "end": "01:13:16.620",
+      "text": "inclusion. As someone myself who served as budget"
+    },
+    {
+      "index": 668,
+      "start": "01:13:16.620",
+      "end": "01:13:20.570",
+      "text": "chair for six years I think that experience of"
+    },
+    {
+      "index": 669,
+      "start": "01:13:20.570",
+      "end": "01:13:24.370",
+      "text": "carrying on in the position is important. When I was appointed deputy mayor"
+    },
+    {
+      "index": 670,
+      "start": "01:13:24.370",
+      "end": "01:13:27.300",
+      "text": "Councillor Ploza was appointed by Mayor Holder to"
+    },
+    {
+      "index": 671,
+      "start": "01:13:27.300",
+      "end": "01:13:32.100",
+      "text": "conclude the next 18 months of budget chair work."
+    },
+    {
+      "index": 672,
+      "start": "01:13:32.100",
+      "end": "01:13:35.250",
+      "text": "We have an incredible amount of work ahead. We have a multi-year budget to"
+    },
+    {
+      "index": 673,
+      "start": "01:13:35.250",
+      "end": "01:13:37.850",
+      "text": "finish and we have another multi-year budget to develop."
+    },
+    {
+      "index": 674,
+      "start": "01:13:37.850",
+      "end": "01:13:41.180",
+      "text": "It is going to be an exceptional challenge for us to"
+    },
+    {
+      "index": 675,
+      "start": "01:13:41.180",
+      "end": "01:13:45.670",
+      "text": "navigate the challenges we have within the limited resources"
+    },
+    {
+      "index": 676,
+      "start": "01:13:45.670",
+      "end": "01:13:49.320",
+      "text": "that this municipality has at its disposal. It will require innovation or"
+    },
+    {
+      "index": 677,
+      "start": "01:13:49.320",
+      "end": "01:13:51.850",
+      "text": "require collaboration and it will require someone"
+    },
+    {
+      "index": 678,
+      "start": "01:13:51.850",
+      "end": "01:13:55.190",
+      "text": "who knows the budget process well and can carry this forward."
+    },
+    {
+      "index": 679,
+      "start": "01:13:55.190",
+      "end": "01:13:59.790",
+      "text": "I nominate Elizabeth because I believe it's important to have stability in this"
+    },
+    {
+      "index": 680,
+      "start": "01:13:59.790",
+      "end": "01:14:02.890",
+      "text": "role. I think we need her diverse perspective"
+    },
+    {
+      "index": 681,
+      "start": "01:14:02.890",
+      "end": "01:14:05.580",
+      "text": "in the role and I'm asking for your support today"
+    },
+    {
+      "index": 682,
+      "start": "01:14:05.580",
+      "end": "01:14:10.850",
+      "text": "to support Councillor Elizabeth Ploza for budget chair and that nomination is"
+    },
+    {
+      "index": 683,
+      "start": "01:14:10.850",
+      "end": "01:14:15.480",
+      "text": "for the same term as I outlined for deputy mayor."
+    },
+    {
+      "index": 684,
+      "start": "01:14:15.480",
+      "end": "01:14:18.570",
+      "text": "Those are my comments and I'll go back to you."
+    },
+    {
+      "index": 685,
+      "start": "01:14:18.570",
+      "end": "01:14:27.400",
+      "text": "Okay so I have the chair and I'll see if anybody else would like to speak to"
+    },
+    {
+      "index": 686,
+      "start": "01:14:27.400",
+      "end": "01:14:33.260",
+      "text": "this appointment. You know if every council meeting went this way we'd be"
+    },
+    {
+      "index": 687,
+      "start": "01:14:33.260",
+      "end": "01:14:38.340",
+      "text": "done very quick. I'm the one slowing it down."
+    },
+    {
+      "index": 688,
+      "start": "01:14:38.340",
+      "end": "01:14:41.800",
+      "text": "With that then I'm going to call the vote to appoint"
+    },
+    {
+      "index": 689,
+      "start": "01:14:41.800",
+      "end": "01:14:45.520",
+      "text": "Councillor Ploza as our council budget chair."
+    },
+    {
+      "index": 690,
+      "start": "01:14:45.520",
+      "end": "01:15:05.380",
+      "text": "All those in favor. Our motion carries. Now all of you who"
+    },
+    {
+      "index": 691,
+      "start": "01:15:05.380",
+      "end": "01:15:07.820",
+      "text": "are here in the audience today probably don't get to see what happens at a"
+    },
+    {
+      "index": 692,
+      "start": "01:15:07.820",
+      "end": "01:15:10.660",
+      "text": "council meeting but now that we've done those two things we do"
+    },
+    {
+      "index": 693,
+      "start": "01:15:10.660",
+      "end": "01:15:14.100",
+      "text": "redo them again three times because we have to approve the by-laws"
+    },
+    {
+      "index": 694,
+      "start": "01:15:14.100",
+      "end": "01:15:17.880",
+      "text": "for a first second and third reading for each of those appointments."
+    },
+    {
+      "index": 695,
+      "start": "01:15:17.880",
+      "end": "01:15:22.960",
+      "text": "So first I have a motion for the first reading of bill number one"
+    },
+    {
+      "index": 696,
+      "start": "01:15:22.960",
+      "end": "01:15:26.420",
+      "text": "being a by-law to confirm the proceedings of this council meeting"
+    },
+    {
+      "index": 697,
+      "start": "01:15:26.420",
+      "end": "01:15:30.580",
+      "text": "that was held on the 15th day of November 2022."
+    },
+    {
+      "index": 698,
+      "start": "01:15:30.580",
+      "end": "01:15:36.560",
+      "text": "Moved by Councillor Hopkins seconded by Councillor"
+    },
+    {
+      "index": 699,
+      "start": "01:15:36.560",
+      "end": "01:15:42.630",
+      "text": "go with Lewis. All those in favor of the first reading of"
+    },
+    {
+      "index": 700,
+      "start": "01:15:42.630",
+      "end": "01:15:57.040",
+      "text": "bill number one. That motion carries. Okay second reading of the same bill"
+    },
+    {
+      "index": 701,
+      "start": "01:15:57.040",
+      "end": "01:16:01.400",
+      "text": "I'll look for a mover and a seconder. Councillor Layman and"
+    },
+    {
+      "index": 702,
+      "start": "01:16:01.400",
+      "end": "01:16:05.180",
+      "text": "Councillor van Mirbergen second reading there is the possibility for debate"
+    },
+    {
+      "index": 703,
+      "start": "01:16:05.180",
+      "end": "01:16:09.760",
+      "text": "anybody want to discuss bill number one which is just"
+    },
+    {
+      "index": 704,
+      "start": "01:16:09.760",
+      "end": "01:16:13.040",
+      "text": "ratifying the proceedings of the meeting today."
+    },
+    {
+      "index": 705,
+      "start": "01:16:13.040",
+      "end": "01:16:17.210",
+      "text": "Okay we'll vote on bill number one for second reading all those in favor."
+    },
+    {
+      "index": 706,
+      "start": "01:16:17.210",
+      "end": "01:16:24.010",
+      "text": "That motion carries. Okay third reading of bill number one"
+    },
+    {
+      "index": 707,
+      "start": "01:16:24.010",
+      "end": "01:16:26.240",
+      "text": "mover and a seconder. I'll look this way this time."
+    },
+    {
+      "index": 708,
+      "start": "01:16:26.240",
+      "end": "01:16:30.830",
+      "text": "Councillor Stevenson, Councillor Cuddy first"
+    },
+    {
+      "index": 709,
+      "start": "01:16:30.830",
+      "end": "01:16:34.760",
+      "text": "moved and seconded there is no debate on third reading all those in favor for"
+    },
+    {
+      "index": 710,
+      "start": "01:16:34.760",
+      "end": "01:16:47.330",
+      "text": "third reading of this bill. That motion carries. Okay bill number two"
+    },
+    {
+      "index": 711,
+      "start": "01:16:47.330",
+      "end": "01:16:50.320",
+      "text": "could I please have a motion for the first reading of bill number two being a"
+    },
+    {
+      "index": 712,
+      "start": "01:16:50.320",
+      "end": "01:16:53.720",
+      "text": "by-law to appointed deputy mayor for the city of London and to repeal"
+    },
+    {
+      "index": 713,
+      "start": "01:16:53.720",
+      "end": "01:17:01.100",
+      "text": "by-law number a dash two eight zero two dash two two one being a by-law to"
+    },
+    {
+      "index": 714,
+      "start": "01:17:01.100",
+      "end": "01:17:04.550",
+      "text": "appoint a deputy mayor as selected by the mayor"
+    },
+    {
+      "index": 715,
+      "start": "01:17:04.550",
+      "end": "01:17:07.870",
+      "text": "for the city of London. So essentially approving"
+    },
+    {
+      "index": 716,
+      "start": "01:17:07.870",
+      "end": "01:17:15.660",
+      "text": "Councillor Lewis's by-law and repealing mine. First reading I need a mover"
+    },
+    {
+      "index": 717,
+      "start": "01:17:15.660",
+      "end": "01:17:19.430",
+      "text": "and a seconder. Councillor Hillier, Councillor Layman"
+    },
+    {
+      "index": 718,
+      "start": "01:17:19.430",
+      "end": "01:17:21.740",
+      "text": "moved and seconded no debate on first reading all those in favor."
+    },
+    {
+      "index": 719,
+      "start": "01:17:21.740",
+      "end": "01:17:27.330",
+      "text": "The motion carries. Second reading of the same by-law"
+    },
+    {
+      "index": 720,
+      "start": "01:17:27.330",
+      "end": "01:17:34.060",
+      "text": "Councillor Ferrera, Councillor Raman. There is debate on second reading anybody"
+    },
+    {
+      "index": 721,
+      "start": "01:17:34.060",
+      "end": "01:17:38.490",
+      "text": "want to discuss this by-law. Okay seeing none all those in favor."
+    },
+    {
+      "index": 722,
+      "start": "01:17:38.490",
+      "end": "01:17:44.740",
+      "text": "That motion carries. Third reading of the same by-law I'll look for a mover and a"
+    },
+    {
+      "index": 723,
+      "start": "01:17:44.740",
+      "end": "01:17:49.890",
+      "text": "seconder. Councillor Pribble and Councillor Cuddy."
+    },
+    {
+      "index": 724,
+      "start": "01:17:49.890",
+      "end": "01:17:59.150",
+      "text": "All those in favor. That motion carries. Congratulations"
+    },
+    {
+      "index": 725,
+      "start": "01:17:59.150",
+      "end": "01:18:06.500",
+      "text": "Councillor Lewis. I'll say there is not a by-law for the"
+    },
+    {
+      "index": 726,
+      "start": "01:18:06.500",
+      "end": "01:18:09.580",
+      "text": "budget chair appointment it's by resolution so we don't need to do that"
+    },
+    {
+      "index": 727,
+      "start": "01:18:09.580",
+      "end": "01:18:13.060",
+      "text": "that was actually confirmed in the the first bill but I'll add my"
+    },
+    {
+      "index": 728,
+      "start": "01:18:13.060",
+      "end": "01:18:17.150",
+      "text": "congratulations to Councillor Elizabeth blows again on that"
+    },
+    {
+      "index": 729,
+      "start": "01:18:17.150",
+      "end": "01:18:20.880",
+      "text": "appointment. With that and the most exciting part"
+    },
+    {
+      "index": 730,
+      "start": "01:18:20.880",
+      "end": "01:18:24.620",
+      "text": "of any municipal council meeting I have adjournment on the list next."
+    },
+    {
+      "index": 731,
+      "start": "01:18:24.620",
+      "end": "01:18:29.070",
+      "text": "So could I have a motion to adjourn this meeting? First meeting."
+    },
+    {
+      "index": 732,
+      "start": "01:18:29.070",
+      "end": "01:18:33.660",
+      "text": "Councillor Lewis and Councillor Stevenson."
+    },
+    {
+      "index": 733,
+      "start": "01:18:33.660",
+      "end": "01:18:40.400",
+      "text": "Stevens. All those in favor of adjournment."
+    },
+    {
+      "index": 734,
+      "start": "01:18:40.400",
+      "end": "01:18:42.740",
+      "text": "You guys are making this funny. That motion carries."
+    },
+    {
+      "index": 735,
+      "start": "01:18:42.740",
+      "end": "01:19:00.130",
+      "text": "All right we're adjourned. If you liked that you can do this"
+    },
+    {
+      "index": 736,
+      "start": "01:19:00.130",
+      "end": "01:19:03.970",
+      "text": "regularly a couple of times a month if you want to come to City Council"
+    },
+    {
+      "index": 737,
+      "start": "01:19:03.970",
+      "end": "01:19:07.990",
+      "text": "viewing chambers and watch that excitement on a regular basis."
+    },
+    {
+      "index": 738,
+      "start": "01:19:07.990",
+      "end": "01:19:11.640",
+      "text": "There's a lot more actual work that we do than this but"
+    },
+    {
+      "index": 739,
+      "start": "01:19:11.640",
+      "end": "01:19:14.390",
+      "text": "always the public is more than welcome to join us at municipal council meetings"
+    },
+    {
+      "index": 740,
+      "start": "01:19:14.390",
+      "end": "01:19:16.360",
+      "text": "and I'd encourage you to do so back to the clerk."
+    },
+    {
+      "index": 741,
+      "start": "01:19:16.360",
+      "end": "01:19:20.820",
+      "text": "I would now like to invite the color guard to enter the stage"
+    },
+    {
+      "index": 742,
+      "start": "01:19:20.820",
+      "end": "01:19:25.390",
+      "text": "and to escort the council from the room. Once council has left the room"
+    },
+    {
+      "index": 743,
+      "start": "01:19:25.390",
+      "end": "01:19:29.270",
+      "text": "you are all invited to join the council in a joining room for a reception."
+    },
+    {
+      "index": 744,
+      "start": "01:19:29.270",
+      "end": "01:20:27.610",
+      "text": "Invite all of you to stand if you are able. Distinguished guests"
+    },
+    {
+      "index": 745,
+      "start": "01:20:27.610",
+      "end": "01:21:57.730",
+      "text": "for 2022 to 2026 municipal council. Thank you."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Council/2022/11-15/.transcript.srt"
+}

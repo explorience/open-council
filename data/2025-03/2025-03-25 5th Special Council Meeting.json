@@ -1,1 +1,1442 @@
-{"title": "5th Special Council Meeting", "datetime": "2025-03-25 11:30:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=eba252cc-f704-43fe-9474-0eabcb3564d1&Agenda=PostMinutes&lang=English", "meeting_type": "Council", "bills": {"bills": [{"empty_flag": false, "title": "Bill No. 101", "desc": "By-law No. A.-8582-76 - A by-law to confirm the proceedings of the Special Council Meeting held on the 25th day of March 2025. (City Clerk)", "__class__": "Bill"}, {"empty_flag": false, "title": "Bill No. 102", "desc": "By-law No. A.-8583-77 - A by-law to approve a Contribution Agreement between The London Cross-Cultural Learner Centre and The Corporation of the City of London and to authorize the Deputy City Manager, Housing and Community Growth to approve amending agreements to the Contribution Agreement. (2.1/6/CPSC)", "__class__": "Bill"}], "__class__": "Bills"}, "present": ["J. Morgan", "H. McAlister", "S. Lewis", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "C. Rahman", "S. Lehman", "A. Hopkins", "P. Van Meerbergen", "S. Franke", "E. Peloza", "D. Ferreira"], "also_present": ["S. Datars Bere", "A. Barbon", "M. Butlin", "D. Escobar", "M. Espinoza", "M. Feldberg", "A. Hovius", "S. Mathers", "J. Paradis", "M. Schulthess", "E. Skalski"], "remote_attendance": ["E. Hunt"], "content": {"string": "The meeting is called to order at 11:30 AM; it being noted that Councillors S. Stevenson, S. Lehman, A. Hopkins, and P. Van Meerbergen were in remote attendance.", "__class__": "Paragraph"}, "absent": ["S. Hillier"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Recognitions", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Review of Confidential Matters to be Considered in Public", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Council, In Closed Session", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Communications and Petitions", "number": "6", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Motions of Which Notice is Given", "number": "7", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Reports", "number": "8", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Added Reports", "number": "9", "content": [], "items": {"1": {"title": "6th Special Report of the Community and Protective Services Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by D. Ferreira", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the 6th Report of the Community and Protective Services Committee BE APPROVED", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Hillier"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Disclosures of Pecuniary Interest ", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by D. Ferreira", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": "2025-03/2025-03-24 6th Special Meeting of the Community and Protective Services Committee", "__class__": "MeetingItem"}, "2": {"title": "(2.1) 736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by D. Ferreira", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated March 24, 2025, related to an Approval of a Contribution Agreement with The London Cross-Cultural Learner Centre for the property located at 736-773 Dundas Street:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0The London Cross-Cultural Learner Centre\u2019s affordable housing project at 736-773 Dundas Street BE APPROVED for Ontario Priorities Housing Initiative Year 6 (\u201cOPHI\u201d) funding of $2,343,400.00 and the Civic Administration BE DIRECTED to recommend this project for funding to the Ministry of Municipal Affairs and Housing;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council special meeting to be held on March 25, 2025, to:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0approve the Contribution Agreement between The Corporation of the City of London and The London Cross-Cultural Learner Centre (the \u201cContribution Agreement\u201d), as appended to the above-noted by-law;", "__class__": "Paragraph"}, {"string": "ii) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement;", "__class__": "Paragraph"}, {"string": "iii) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the Contribution Agreement; and;", "__class__": "Paragraph"}, {"string": "iv) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve and execute amending agreements to the Contribution Agreement.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": "2025-03/2025-03-24 6th Special Meeting of the Community and Protective Services Committee", "__class__": "MeetingItem"}}, "datetime": "2025-03-25 11:30:00", "attachments": [{"empty_flag": false, "title": "2025-03-24 Special CPSC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115351", "date": "2025-03-24 00:00:00", "local_page": "2025-03/2025-03-24 6th Special Meeting of the Community and Protective Services Committee", "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Deferred Matters", "number": "10", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "11": {"title": "Enquiries", "number": "11", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "12": {"title": "Emergent Motions", "number": "12", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "13": {"title": "By-laws", "number": "13", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by H. McAlister", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That Introduction and First Reading of Bill No.\u2019s 101 and 102 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Hillier"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by H. McAlister", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That Second Reading of Bill No.\u2019s 101 and 102 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Hillier"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by H. McAlister", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That Third Reading and Enactment of Bill No.\u2019s 101 and 102 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Hillier"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "14": {"title": "Adjournment", "number": "14", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by D. Ferreira", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 11:38 AM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2025-03-25 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "5th Special Council Meeting",
+  "datetime": "2025-03-25 11:30:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=eba252cc-f704-43fe-9474-0eabcb3564d1&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Council",
+  "bills": {
+    "bills": [
+      {
+        "empty_flag": false,
+        "title": "Bill No. 101",
+        "desc": "By-law No. A.-8582-76 - A by-law to confirm the proceedings of the Special Council Meeting held on the 25th day of March 2025. (City Clerk)",
+        "__class__": "Bill"
+      },
+      {
+        "empty_flag": false,
+        "title": "Bill No. 102",
+        "desc": "By-law No. A.-8583-77 - A by-law to approve a Contribution Agreement between The London Cross-Cultural Learner Centre and The Corporation of the City of London and to authorize the Deputy City Manager, Housing and Community Growth to approve amending agreements to the Contribution Agreement. (2.1/6/CPSC)",
+        "__class__": "Bill"
+      }
+    ],
+    "__class__": "Bills"
+  },
+  "present": [
+    "J. Morgan",
+    "H. McAlister",
+    "S. Lewis",
+    "P. Cuddy",
+    "S. Stevenson",
+    "J. Pribil",
+    "S. Trosow",
+    "C. Rahman",
+    "S. Lehman",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "S. Franke",
+    "E. Peloza",
+    "D. Ferreira"
+  ],
+  "also_present": [
+    "S. Datars Bere",
+    "A. Barbon",
+    "M. Butlin",
+    "D. Escobar",
+    "M. Espinoza",
+    "M. Feldberg",
+    "A. Hovius",
+    "S. Mathers",
+    "J. Paradis",
+    "M. Schulthess",
+    "E. Skalski"
+  ],
+  "remote_attendance": [
+    "E. Hunt"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 11:30 AM; it being noted that Councillors S. Stevenson, S. Lehman, A. Hopkins, and P. Van Meerbergen were in remote attendance.",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "S. Hillier"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Recognitions",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Review of Confidential Matters to be Considered in Public",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Council, In Closed Session",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Communications and Petitions",
+      "number": "6",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Motions of Which Notice is Given",
+      "number": "7",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "8": {
+      "title": "Reports",
+      "number": "8",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "9": {
+      "title": "Added Reports",
+      "number": "9",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "6th Special Report of the Community and Protective Services Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Motion made by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 6th Report of the Community and Protective Services Committee BE APPROVED",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "Mayor J. Morgan",
+                      "A. Hopkins",
+                      "S. Lewis",
+                      "E. Peloza",
+                      "P. Van Meerbergen",
+                      "S. Lehman",
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "S. Stevenson",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Hillier"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (14 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {
+            "1": {
+              "title": "Disclosures of Pecuniary Interest ",
+              "number": "1",
+              "content": [
+                {
+                  "pre_motion_texts": [],
+                  "moved_by": {
+                    "string": "Motion made by D. Ferreira",
+                    "__class__": "Mover"
+                  },
+                  "seconded_by": {
+                    "string": "",
+                    "__class__": "Mover"
+                  },
+                  "motion_texts": [
+                    {
+                      "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+                      "__class__": "Paragraph"
+                    }
+                  ],
+                  "vote": {
+                    "rows": [],
+                    "__class__": "Vote"
+                  },
+                  "result": {
+                    "string": "Motion Passed",
+                    "__class__": "MotionResult"
+                  },
+                  "post_motion_texts": [],
+                  "__class__": "Motion"
+                }
+              ],
+              "items": {},
+              "datetime": "2025-03-25 11:30:00",
+              "attachments": [],
+              "report": "2025-03/2025-03-24 6th Special Meeting of the Community and Protective Services Committee",
+              "__class__": "MeetingItem"
+            },
+            "2": {
+              "title": "(2.1) 736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre",
+              "number": "2",
+              "content": [
+                {
+                  "pre_motion_texts": [],
+                  "moved_by": {
+                    "string": "Motion made by D. Ferreira",
+                    "__class__": "Mover"
+                  },
+                  "seconded_by": {
+                    "string": "",
+                    "__class__": "Mover"
+                  },
+                  "motion_texts": [
+                    {
+                      "string": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated March 24, 2025, related to an Approval of a Contribution Agreement with The London Cross-Cultural Learner Centre for the property located at 736-773 Dundas Street:",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "a) \u00a0 \u00a0The London Cross-Cultural Learner Centre\u2019s affordable housing project at 736-773 Dundas Street BE APPROVED for Ontario Priorities Housing Initiative Year 6 (\u201cOPHI\u201d) funding of $2,343,400.00 and the Civic Administration BE DIRECTED to recommend this project for funding to the Ministry of Municipal Affairs and Housing;",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council special meeting to be held on March 25, 2025, to:",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "i) \u00a0 \u00a0approve the Contribution Agreement between The Corporation of the City of London and The London Cross-Cultural Learner Centre (the \u201cContribution Agreement\u201d), as appended to the above-noted by-law;",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "ii) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement;",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "iii) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the Contribution Agreement; and;",
+                      "__class__": "Paragraph"
+                    },
+                    {
+                      "string": "iv) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve and execute amending agreements to the Contribution Agreement.",
+                      "__class__": "Paragraph"
+                    }
+                  ],
+                  "vote": {
+                    "rows": [],
+                    "__class__": "Vote"
+                  },
+                  "result": {
+                    "string": "Motion Passed",
+                    "__class__": "MotionResult"
+                  },
+                  "post_motion_texts": [],
+                  "__class__": "Motion"
+                }
+              ],
+              "items": {},
+              "datetime": "2025-03-25 11:30:00",
+              "attachments": [],
+              "report": "2025-03/2025-03-24 6th Special Meeting of the Community and Protective Services Committee",
+              "__class__": "MeetingItem"
+            }
+          },
+          "datetime": "2025-03-25 11:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-03-24 Special CPSC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115351",
+              "date": "2025-03-24 00:00:00",
+              "local_page": "2025-03/2025-03-24 6th Special Meeting of the Community and Protective Services Committee",
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "10": {
+      "title": "Deferred Matters",
+      "number": "10",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "11": {
+      "title": "Enquiries",
+      "number": "11",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "12": {
+      "title": "Emergent Motions",
+      "number": "12",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "13": {
+      "title": "By-laws",
+      "number": "13",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by H. McAlister",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Introduction and First Reading of Bill No.\u2019s 101 and 102 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Hillier"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (14 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by H. McAlister",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Second Reading of Bill No.\u2019s 101 and 102 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Hillier"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (14 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by H. McAlister",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Third Reading and Enactment of Bill No.\u2019s 101 and 102 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Hillier"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (14 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "14": {
+      "title": "Adjournment",
+      "number": "14",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by H. McAlister",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 11:38 AM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-25 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:16:27.870",
+      "end": "00:16:31.480",
+      "text": "Okay, thank you, please be seated."
+    },
+    {
+      "index": 2,
+      "start": "00:16:31.480",
+      "end": "00:16:34.170",
+      "text": "All right, this is a special meeting of council,"
+    },
+    {
+      "index": 3,
+      "start": "00:16:34.170",
+      "end": "00:16:36.350",
+      "text": "which means we only deal with the item"
+    },
+    {
+      "index": 4,
+      "start": "00:16:36.350",
+      "end": "00:16:40.480",
+      "text": "that's on the agenda and we don't add other things in."
+    },
+    {
+      "index": 5,
+      "start": "00:16:40.480",
+      "end": "00:16:42.960",
+      "text": "That being said, we still do all the normal stuff"
+    },
+    {
+      "index": 6,
+      "start": "00:16:42.960",
+      "end": "00:16:43.780",
+      "text": "to start a council meeting,"
+    },
+    {
+      "index": 7,
+      "start": "00:16:43.780",
+      "end": "00:16:47.420",
+      "text": "so I'm going to start with the land acknowledgement."
+    },
+    {
+      "index": 8,
+      "start": "00:16:47.420",
+      "end": "00:16:49.560",
+      "text": "Oh, first off, let me pour that say,"
+    },
+    {
+      "index": 9,
+      "start": "00:16:49.560",
+      "end": "00:16:51.840",
+      "text": "the city's website is down,"
+    },
+    {
+      "index": 10,
+      "start": "00:16:51.840",
+      "end": "00:16:54.080",
+      "text": "but this is still being broadcast on YouTube,"
+    },
+    {
+      "index": 11,
+      "start": "00:16:54.080",
+      "end": "00:16:57.630",
+      "text": "so you gotta use YouTube."
+    },
+    {
+      "index": 12,
+      "start": "00:16:57.630",
+      "end": "00:16:58.560",
+      "text": "I'm not sure who's listening,"
+    },
+    {
+      "index": 13,
+      "start": "00:16:58.560",
+      "end": "00:17:00.060",
+      "text": "who will hear that, they're probably already on YouTube,"
+    },
+    {
+      "index": 14,
+      "start": "00:17:00.060",
+      "end": "00:17:02.210",
+      "text": "but anybody here who wants to tune in,"
+    },
+    {
+      "index": 15,
+      "start": "00:17:02.210",
+      "end": "00:17:04.220",
+      "text": "you can tune on on YouTube today,"
+    },
+    {
+      "index": 16,
+      "start": "00:17:04.220",
+      "end": "00:17:08.130",
+      "text": "the city's e-scribe platform is down for the moment."
+    },
+    {
+      "index": 17,
+      "start": "00:17:08.130",
+      "end": "00:17:09.310",
+      "text": "We acknowledge that we're gathered here today"
+    },
+    {
+      "index": 18,
+      "start": "00:17:09.310",
+      "end": "00:17:11.120",
+      "text": "on the traditional lands of the Anishinaabe,"
+    },
+    {
+      "index": 19,
+      "start": "00:17:11.120",
+      "end": "00:17:14.390",
+      "text": "Haudenosaunee, Lene Peiwak, and Adewandran peoples."
+    },
+    {
+      "index": 20,
+      "start": "00:17:14.390",
+      "end": "00:17:15.990",
+      "text": "We honor respect the history, languages,"
+    },
+    {
+      "index": 21,
+      "start": "00:17:15.990",
+      "end": "00:17:17.500",
+      "text": "and culture of the diverse indigenous people"
+    },
+    {
+      "index": 22,
+      "start": "00:17:17.500",
+      "end": "00:17:19.010",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 23,
+      "start": "00:17:19.010",
+      "end": "00:17:20.120",
+      "text": "We acknowledge all of the treaties"
+    },
+    {
+      "index": 24,
+      "start": "00:17:20.120",
+      "end": "00:17:21.520",
+      "text": "that are specific to this area,"
+    },
+    {
+      "index": 25,
+      "start": "00:17:21.520",
+      "end": "00:17:22.790",
+      "text": "the True Row Wampum Belt Treaty"
+    },
+    {
+      "index": 26,
+      "start": "00:17:22.790",
+      "end": "00:17:24.060",
+      "text": "of the Haudenosaunee Confederacy,"
+    },
+    {
+      "index": 27,
+      "start": "00:17:24.060",
+      "end": "00:17:26.410",
+      "text": "Silver Covenant Chain, the Beaver Hunting Grounds Treaty"
+    },
+    {
+      "index": 28,
+      "start": "00:17:26.410",
+      "end": "00:17:29.160",
+      "text": "of the Haudenosaunee, Nan Fan Treaty of 1701,"
+    },
+    {
+      "index": 29,
+      "start": "00:17:29.160",
+      "end": "00:17:33.300",
+      "text": "McKee Treaty of 1790, the London Township Treaty of 1796,"
+    },
+    {
+      "index": 30,
+      "start": "00:17:33.300",
+      "end": "00:17:36.060",
+      "text": "the Huron Track Treaty of 1827 with the Anishinaabe,"
+    },
+    {
+      "index": 31,
+      "start": "00:17:36.060",
+      "end": "00:17:37.790",
+      "text": "and the Dish with One Spoon Covenant Wampum"
+    },
+    {
+      "index": 32,
+      "start": "00:17:37.790",
+      "end": "00:17:39.970",
+      "text": "of the Anishinaabe and the Haudenosaunee."
+    },
+    {
+      "index": 33,
+      "start": "00:17:39.970",
+      "end": "00:17:42.110",
+      "text": "Three indigenous nations that are neighbors to London,"
+    },
+    {
+      "index": 34,
+      "start": "00:17:42.110",
+      "end": "00:17:43.730",
+      "text": "the Chippewaas of the Thames First Nation,"
+    },
+    {
+      "index": 35,
+      "start": "00:17:43.730",
+      "end": "00:17:46.350",
+      "text": "Oneida Nation of the Thames, and the Muncie Delaware Nation,"
+    },
+    {
+      "index": 36,
+      "start": "00:17:46.350",
+      "end": "00:17:48.210",
+      "text": "will continue to live as sovereign nations"
+    },
+    {
+      "index": 37,
+      "start": "00:17:48.210",
+      "end": "00:17:52.840",
+      "text": "with individual and unique languages, cultures, and customs."
+    },
+    {
+      "index": 38,
+      "start": "00:17:52.840",
+      "end": "00:17:54.820",
+      "text": "City of London is also committed to making every effort"
+    },
+    {
+      "index": 39,
+      "start": "00:17:54.820",
+      "end": "00:17:58.320",
+      "text": "to provide alternate supports and formats"
+    },
+    {
+      "index": 40,
+      "start": "00:17:58.320",
+      "end": "00:18:01.810",
+      "text": "and communication supports for meetings upon request."
+    },
+    {
+      "index": 41,
+      "start": "00:18:01.810",
+      "end": "00:18:03.500",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 42,
+      "start": "00:18:03.500",
+      "end": "00:18:06.610",
+      "text": "you need to contact council agenda at London.ca"
+    },
+    {
+      "index": 43,
+      "start": "00:18:06.610",
+      "end": "00:18:11.550",
+      "text": "4519-661-2489, extension 2425."
+    },
+    {
+      "index": 44,
+      "start": "00:18:11.550",
+      "end": "00:18:16.190",
+      "text": "With that, we don't have an O Canada singer,"
+    },
+    {
+      "index": 45,
+      "start": "00:18:16.190",
+      "end": "00:18:17.600",
+      "text": "but we have a recording."
+    },
+    {
+      "index": 46,
+      "start": "00:18:17.600",
+      "end": "00:18:19.930",
+      "text": "So I know Councillor McAllister really wanted"
+    },
+    {
+      "index": 47,
+      "start": "00:18:19.930",
+      "end": "00:18:22.140",
+      "text": "to sing along, he's welcome to do so as are all of you."
+    },
+    {
+      "index": 48,
+      "start": "00:18:22.140",
+      "end": "00:18:26.130",
+      "text": "So we will rise and listen to the National Anthem"
+    },
+    {
+      "index": 49,
+      "start": "00:18:26.130",
+      "end": "00:19:47.080",
+      "text": "or sing along."
+    },
+    {
+      "index": 50,
+      "start": "00:19:47.080",
+      "end": "00:19:52.490",
+      "text": "Please be seated. All right, I'll look for any disclosures"
+    },
+    {
+      "index": 51,
+      "start": "00:19:52.490",
+      "end": "00:19:56.540",
+      "text": "of pecuniary interest, seeing none in chambers."
+    },
+    {
+      "index": 52,
+      "start": "00:19:56.540",
+      "end": "00:19:59.300",
+      "text": "I'll just note we have three members of council online"
+    },
+    {
+      "index": 53,
+      "start": "00:19:59.300",
+      "end": "00:20:01.670",
+      "text": "as well, Councillor Layman, Councillor Hopkins,"
+    },
+    {
+      "index": 54,
+      "start": "00:20:01.670",
+      "end": "00:20:03.980",
+      "text": "Councillor Stevenson, see no disclosures"
+    },
+    {
+      "index": 55,
+      "start": "00:20:03.980",
+      "end": "00:20:07.110",
+      "text": "of peuniary interest recognitions."
+    },
+    {
+      "index": 56,
+      "start": "00:20:07.110",
+      "end": "00:20:11.300",
+      "text": "Oh, and Councillor Van Mereberg and thank you, Councillor."
+    },
+    {
+      "index": 57,
+      "start": "00:20:11.300",
+      "end": "00:20:13.420",
+      "text": "No recognitions for today."
+    },
+    {
+      "index": 58,
+      "start": "00:20:13.420",
+      "end": "00:20:15.740",
+      "text": "Review of confidential matters to be considered in public."
+    },
+    {
+      "index": 59,
+      "start": "00:20:15.740",
+      "end": "00:20:16.560",
+      "text": "There are none of those."
+    },
+    {
+      "index": 60,
+      "start": "00:20:16.560",
+      "end": "00:20:19.300",
+      "text": "Council in closed session, we don't have one."
+    },
+    {
+      "index": 61,
+      "start": "00:20:19.300",
+      "end": "00:20:21.880",
+      "text": "Confirmation and signing of the minutes of previous meetings."
+    },
+    {
+      "index": 62,
+      "start": "00:20:21.880",
+      "end": "00:20:24.520",
+      "text": "We will do that at the April 1st meeting,"
+    },
+    {
+      "index": 63,
+      "start": "00:20:24.520",
+      "end": "00:20:25.730",
+      "text": "communications and petitions."
+    },
+    {
+      "index": 64,
+      "start": "00:20:25.730",
+      "end": "00:20:28.770",
+      "text": "There are none, motions at which notice is given."
+    },
+    {
+      "index": 65,
+      "start": "00:20:28.770",
+      "end": "00:20:31.810",
+      "text": "We have none, reports, there are none."
+    },
+    {
+      "index": 66,
+      "start": "00:20:31.810",
+      "end": "00:20:32.640",
+      "text": "Added reports."
+    },
+    {
+      "index": 67,
+      "start": "00:20:32.640",
+      "end": "00:20:35.370",
+      "text": "We have an added report, the sixth report"
+    },
+    {
+      "index": 68,
+      "start": "00:20:35.370",
+      "end": "00:20:37.460",
+      "text": "of the Community and Protective Services Committee."
+    },
+    {
+      "index": 69,
+      "start": "00:20:37.460",
+      "end": "00:20:41.250",
+      "text": "I will turn it over to the chair to present the report."
+    },
+    {
+      "index": 70,
+      "start": "00:20:41.250",
+      "end": "00:20:42.080",
+      "text": "Thank you, Mayor."
+    },
+    {
+      "index": 71,
+      "start": "00:20:42.080",
+      "end": "00:20:44.810",
+      "text": "I'm pleased to present the sixth special meeting"
+    },
+    {
+      "index": 72,
+      "start": "00:20:44.810",
+      "end": "00:20:46.310",
+      "text": "of the Community and Protective Services Committee."
+    },
+    {
+      "index": 73,
+      "start": "00:20:46.310",
+      "end": "00:20:47.300",
+      "text": "One item on the report."
+    },
+    {
+      "index": 74,
+      "start": "00:20:47.300",
+      "end": "00:20:52.620",
+      "text": "That's consent 2.1 listed as 2.1 on the council agenda."
+    },
+    {
+      "index": 75,
+      "start": "00:20:52.620",
+      "end": "00:20:54.720",
+      "text": "For seven, three, six, seven, seven, three,"
+    },
+    {
+      "index": 76,
+      "start": "00:20:54.720",
+      "end": "00:20:56.940",
+      "text": "agenda, street, approval of contribution agreement"
+    },
+    {
+      "index": 77,
+      "start": "00:20:56.940",
+      "end": "00:20:58.840",
+      "text": "with the London Cross Cultural Learner Center."
+    },
+    {
+      "index": 78,
+      "start": "00:20:58.840",
+      "end": "00:21:01.380",
+      "text": "I would put that on the floor."
+    },
+    {
+      "index": 79,
+      "start": "00:21:01.380",
+      "end": "00:21:02.770",
+      "text": "Okay, that is on the floor by the chair."
+    },
+    {
+      "index": 80,
+      "start": "00:21:02.770",
+      "end": "00:21:08.690",
+      "text": "Any discussion on this item?"
+    },
+    {
+      "index": 81,
+      "start": "00:21:08.690",
+      "end": "00:21:14.330",
+      "text": "Seeing none, then we're gonna open this for voting."
+    },
+    {
+      "index": 82,
+      "start": "00:21:14.330",
+      "end": "00:21:17.620",
+      "text": "Councillor Stevenson votes yes."
+    },
+    {
+      "index": 83,
+      "start": "00:21:17.620",
+      "end": "00:21:22.360",
+      "text": "Councillor Bauchins votes yes."
+    },
+    {
+      "index": 84,
+      "start": "00:21:22.360",
+      "end": "00:21:26.300",
+      "text": "Councillor Layman votes yes."
+    },
+    {
+      "index": 85,
+      "start": "00:21:26.300",
+      "end": "00:21:28.910",
+      "text": "Councillor Trosto votes yes."
+    },
+    {
+      "index": 86,
+      "start": "00:21:28.910",
+      "end": "00:21:33.520",
+      "text": "Opposed in the vote, motion carries 14 to zero."
+    },
+    {
+      "index": 87,
+      "start": "00:21:33.520",
+      "end": "00:21:35.860",
+      "text": "That's your vote report, great."
+    },
+    {
+      "index": 88,
+      "start": "00:21:35.860",
+      "end": "00:21:38.230",
+      "text": "Deferred matters, we have none."
+    },
+    {
+      "index": 89,
+      "start": "00:21:38.230",
+      "end": "00:21:40.740",
+      "text": "Inquiries, there can only be a requires"
+    },
+    {
+      "index": 90,
+      "start": "00:21:40.740",
+      "end": "00:21:42.240",
+      "text": "related to the report that was on there."
+    },
+    {
+      "index": 91,
+      "start": "00:21:42.240",
+      "end": "00:21:44.510",
+      "text": "So I assume there are none."
+    },
+    {
+      "index": 92,
+      "start": "00:21:44.510",
+      "end": "00:21:47.350",
+      "text": "No emergent motions are allowed as a special meeting."
+    },
+    {
+      "index": 93,
+      "start": "00:21:47.350",
+      "end": "00:21:48.990",
+      "text": "So we're on to bylaws."
+    },
+    {
+      "index": 94,
+      "start": "00:21:48.990",
+      "end": "00:21:51.520",
+      "text": "There are two bylaws associated with the decision"
+    },
+    {
+      "index": 95,
+      "start": "00:21:51.520",
+      "end": "00:21:53.330",
+      "text": "we just made, the confirming bylaw and the bylaw"
+    },
+    {
+      "index": 96,
+      "start": "00:21:53.330",
+      "end": "00:21:56.760",
+      "text": "that is related to the community report."
+    },
+    {
+      "index": 97,
+      "start": "00:21:56.760",
+      "end": "00:21:58.330",
+      "text": "I'll look for a mover and a seconder"
+    },
+    {
+      "index": 98,
+      "start": "00:21:58.330",
+      "end": "00:21:59.160",
+      "text": "for both those."
+    },
+    {
+      "index": 99,
+      "start": "00:21:59.160",
+      "end": "00:22:00.500",
+      "text": "Councillor McAllister, Councillor Caddie,"
+    },
+    {
+      "index": 100,
+      "start": "00:22:00.500",
+      "end": "00:22:04.500",
+      "text": "you'll be the mover and seconder for all three readings."
+    },
+    {
+      "index": 101,
+      "start": "00:22:04.500",
+      "end": "00:22:10.480",
+      "text": "And so we're gonna open first reading for voting."
+    },
+    {
+      "index": 102,
+      "start": "00:22:10.480",
+      "end": "00:22:12.890",
+      "text": "Councillor Stevenson votes yes."
+    },
+    {
+      "index": 103,
+      "start": "00:22:12.890",
+      "end": "00:22:16.880",
+      "text": "Councillor Hopkins votes yes."
+    },
+    {
+      "index": 104,
+      "start": "00:22:16.880",
+      "end": "00:22:18.930",
+      "text": "Councillor Trosto votes yes."
+    },
+    {
+      "index": 105,
+      "start": "00:22:18.930",
+      "end": "00:22:23.360",
+      "text": "Councillor Ferris votes yes."
+    },
+    {
+      "index": 106,
+      "start": "00:22:23.360",
+      "end": "00:22:25.670",
+      "text": "Councillor Layton votes yes."
+    },
+    {
+      "index": 107,
+      "start": "00:22:25.670",
+      "end": "00:22:28.810",
+      "text": "President vote, motion carries 14 to zero."
+    },
+    {
+      "index": 108,
+      "start": "00:22:28.810",
+      "end": "00:22:30.090",
+      "text": "All right, we'll move on to second reading."
+    },
+    {
+      "index": 109,
+      "start": "00:22:30.090",
+      "end": "00:22:32.400",
+      "text": "Same mover and seconder."
+    },
+    {
+      "index": 110,
+      "start": "00:22:32.400",
+      "end": "00:22:35.920",
+      "text": "Any discussion on second reading?"
+    },
+    {
+      "index": 111,
+      "start": "00:22:35.920",
+      "end": "00:22:40.020",
+      "text": "I guess seeing none, we'll open second reading for voting."
+    },
+    {
+      "index": 112,
+      "start": "00:22:40.020",
+      "end": "00:22:42.030",
+      "text": "Councillor Stevenson votes yes."
+    },
+    {
+      "index": 113,
+      "start": "00:22:42.030",
+      "end": "00:22:44.850",
+      "text": "Councillor Hopkins votes yes."
+    },
+    {
+      "index": 114,
+      "start": "00:22:44.850",
+      "end": "00:22:48.480",
+      "text": "Councillor Trosto votes yes."
+    },
+    {
+      "index": 115,
+      "start": "00:22:48.480",
+      "end": "00:22:50.700",
+      "text": "Councillor Layton votes yes."
+    },
+    {
+      "index": 116,
+      "start": "00:22:50.700",
+      "end": "00:22:53.380",
+      "text": "Councillor Ferris votes yes."
+    },
+    {
+      "index": 117,
+      "start": "00:22:53.380",
+      "end": "00:22:56.320",
+      "text": "President vote, motion carries 14 to zero."
+    },
+    {
+      "index": 118,
+      "start": "00:22:56.320",
+      "end": "00:22:57.820",
+      "text": "Okay, same mover and seconder for third"
+    },
+    {
+      "index": 119,
+      "start": "00:22:57.820",
+      "end": "00:23:00.250",
+      "text": "and final reading of this item."
+    },
+    {
+      "index": 120,
+      "start": "00:23:00.250",
+      "end": "00:23:03.090",
+      "text": "We'll open third reading for voting."
+    },
+    {
+      "index": 121,
+      "start": "00:23:03.090",
+      "end": "00:23:05.880",
+      "text": "Councillor Stevenson votes yes."
+    },
+    {
+      "index": 122,
+      "start": "00:23:05.880",
+      "end": "00:23:08.300",
+      "text": "Councillor Hopkins votes yes."
+    },
+    {
+      "index": 123,
+      "start": "00:23:08.300",
+      "end": "00:23:13.240",
+      "text": "Councillor Trosto votes yes."
+    },
+    {
+      "index": 124,
+      "start": "00:23:13.240",
+      "end": "00:23:15.530",
+      "text": "Councillor Ferris votes yes."
+    },
+    {
+      "index": 125,
+      "start": "00:23:15.530",
+      "end": "00:23:17.210",
+      "text": "Councillor Lehman votes yes."
+    },
+    {
+      "index": 126,
+      "start": "00:23:17.210",
+      "end": "00:23:22.770",
+      "text": "President vote, motion carries 14 to zero."
+    },
+    {
+      "index": 127,
+      "start": "00:23:22.770",
+      "end": "00:23:24.950",
+      "text": "Okay, that concludes the by-laws."
+    },
+    {
+      "index": 128,
+      "start": "00:23:24.950",
+      "end": "00:23:27.240",
+      "text": "I just need a motion to adjourn."
+    },
+    {
+      "index": 129,
+      "start": "00:23:27.240",
+      "end": "00:23:30.570",
+      "text": "Councillor Ferris, seconded by Councillor McAllister."
+    },
+    {
+      "index": 130,
+      "start": "00:23:30.570",
+      "end": "00:23:32.520",
+      "text": "We'll do that by hand."
+    },
+    {
+      "index": 131,
+      "start": "00:23:32.520",
+      "end": "00:23:34.440",
+      "text": "All those in favor of adjournment?"
+    },
+    {
+      "index": 132,
+      "start": "00:23:34.440",
+      "end": "00:23:35.540",
+      "text": "No motion carries."
+    },
+    {
+      "index": 133,
+      "start": "00:23:35.540",
+      "end": "00:23:36.380",
+      "text": "There you go, eight minutes."
+    },
+    {
+      "index": 134,
+      "start": "00:23:36.380",
+      "end": "00:23:40.230",
+      "text": "Deputy Mayor, this afternoon."
+    },
+    {
+      "index": 135,
+      "start": "00:23:40.230",
+      "end": "00:23:42.010",
+      "text": "I will not rise to that challenge."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Council/2025/03-25/.transcript.srt"
+}

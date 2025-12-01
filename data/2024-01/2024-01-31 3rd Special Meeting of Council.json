@@ -1,1 +1,1429 @@
-{"title": "3rd Special Meeting of Council", "datetime": "2024-01-31 15:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fee14cce-40f0-4aa8-a5be-14bfb78ebfd6&Agenda=PostMinutes&lang=English", "meeting_type": "Council", "bills": null, "present": ["J. Morgan", "H. McAlister", "S. Lewis", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "C. Rahman", "S. Lehman", "A. Hopkins", "P. Van Meerbergen", "E. Peloza", "D. Ferreira", "S. Hillier"], "also_present": ["S. Corman", "A. Job", "M. Schulthess", "E. Skalski"], "remote_attendance": ["M. Barnes", "E. Hunt"], "content": {"string": "The meeting is called to order at 3:04 PM; it being noted that Councillors P. Van Meerbergen, E. Peloza, D. Ferreira, and S. Hillier were in remote attendance.", "__class__": "Paragraph"}, "absent": ["S. Franke"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED no pecuniary Interest were disclosed", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Recognitions", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Review of Confidential Matters to be Considered in Public", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Council, In Closed Session", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by A. Hopkins", "__class__": "Mover"}, "motion_texts": [{"string": "That Council rise and go into Council, In Closed Session, for the purpose of considering the following:", "__class__": "Paragraph"}, {"string": "4.1 \u00a0 \u00a0Personal Matter/Identifiable Individual \u00a0 \u00a0 \u00a0 \u00a0\n\nA personal matter pertaining to identifiable individuals, including municipal employees, with respect to the 1st Confidential Report of the City Manager Recruitment Selection Committee. (6.1/4/SPPC)", "__class__": "Paragraph"}, {"string": "4.2 \u00a0 \u00a0Personal Matters/Identifiable Individuals \u00a0 \u00a0 \u00a0 \u00a0\n\nA matter pertaining to personal matters about identifiable individuals, including municipal or local board employees. (6.2/4/SPPC)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Franke"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "That Council convenes In Closed Session, from 3:07 PM to 3:47 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Communications and Petitions", "number": "6", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Motions of Which Notice is Given", "number": "7", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Reports", "number": "8", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the 4th Special Report of the Strategic Priorities and Policy Committee BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "4th Special Report of the Strategic Priorities and Policy Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Franke"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": "2024-01/2024-01-17 4th Special Meeting of the Strategic Priorities and Policy Committee", "__class__": "MeetingItem"}, "2": {"title": "(2.1) 1st Report of the City Manager Recruitment and Selection Committee", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the 1st Report of the City Manager Recruitment and Selection Committee from its meeting held on November 20, 22, 23, 30, 2023 and December 5 and 8, 2023 BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": "2024-01/2024-01-17 4th Special Meeting of the Strategic Priorities and Policy Committee", "__class__": "MeetingItem"}}, "datetime": "2024-01-31 15:00:00", "attachments": [{"empty_flag": false, "title": "2024-01-17 SPPC Report 4", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106765", "date": "2024-01-17 00:00:00", "local_page": "2024-01/2024-01-17 4th Special Meeting of the Strategic Priorities and Policy Committee", "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Added Reports", "number": "9", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Deferred Matters", "number": "10", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "11": {"title": "Enquiries", "number": "11", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "12": {"title": "Emergent Motions", "number": "12", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "13": {"title": "By-laws", "number": "13", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That Introduction and First Reading of Bill No. 45, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Franke"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Trosow", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil", "__class__": "Mover"}, "motion_texts": [{"string": "That Second Reading of Bill No. 45, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Franke"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Lehman", "__class__": "Mover"}, "motion_texts": [{"string": "That Third Reading and Enactment of Bill No. 45, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "J. Pribil", "S. Trosow", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Franke"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (14 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The following Bill is enacted as a By-law of The Corporation of the City of London:", "__class__": "Paragraph"}, {"string": "Bill", "__class__": "Paragraph"}, {"string": "By-law", "__class__": "Paragraph"}, {"string": "Bill No. 45", "__class__": "Paragraph"}, {"string": "By-law No. A.-8462-32 - A by-law to confirm the proceedings of the Special Council Meeting held on the 31st day of January, 2024. (City Clerk)", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "14": {"title": "Adjournment", "number": "14", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 3:53 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-31 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "3rd Special Meeting of Council",
+  "datetime": "2024-01-31 15:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fee14cce-40f0-4aa8-a5be-14bfb78ebfd6&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Council",
+  "bills": null,
+  "present": [
+    "J. Morgan",
+    "H. McAlister",
+    "S. Lewis",
+    "P. Cuddy",
+    "S. Stevenson",
+    "J. Pribil",
+    "S. Trosow",
+    "C. Rahman",
+    "S. Lehman",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "E. Peloza",
+    "D. Ferreira",
+    "S. Hillier"
+  ],
+  "also_present": [
+    "S. Corman",
+    "A. Job",
+    "M. Schulthess",
+    "E. Skalski"
+  ],
+  "remote_attendance": [
+    "M. Barnes",
+    "E. Hunt"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 3:04 PM; it being noted that Councillors P. Van Meerbergen, E. Peloza, D. Ferreira, and S. Hillier were in remote attendance.",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "S. Franke"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED no pecuniary Interest were disclosed",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Recognitions",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Review of Confidential Matters to be Considered in Public",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Council, In Closed Session",
+      "number": "4",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by A. Hopkins",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Council rise and go into Council, In Closed Session, for the purpose of considering the following:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "4.1 \u00a0 \u00a0Personal Matter/Identifiable Individual \u00a0 \u00a0 \u00a0 \u00a0\n\nA personal matter pertaining to identifiable individuals, including municipal employees, with respect to the 1st Confidential Report of the City Manager Recruitment Selection Committee. (6.1/4/SPPC)",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "4.2 \u00a0 \u00a0Personal Matters/Identifiable Individuals \u00a0 \u00a0 \u00a0 \u00a0\n\nA matter pertaining to personal matters about identifiable individuals, including municipal or local board employees. (6.2/4/SPPC)",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Franke"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (14 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "That Council convenes In Closed Session, from 3:07 PM to 3:47 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Communications and Petitions",
+      "number": "6",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Motions of Which Notice is Given",
+      "number": "7",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "8": {
+      "title": "Reports",
+      "number": "8",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the 4th Special Report of the Strategic Priorities and Policy Committee BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "4th Special Report of the Strategic Priorities and Policy Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Motion made by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "Mayor J. Morgan",
+                      "A. Hopkins",
+                      "S. Lewis",
+                      "S. Hillier",
+                      "E. Peloza",
+                      "P. Van Meerbergen",
+                      "S. Lehman",
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "S. Stevenson",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "D. Ferreira",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Franke"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (14 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {
+            "1": {
+              "title": "Disclosures of Pecuniary Interest",
+              "number": "1",
+              "content": [
+                {
+                  "pre_motion_texts": [],
+                  "moved_by": {
+                    "string": "Motion made by S. Lewis",
+                    "__class__": "Mover"
+                  },
+                  "seconded_by": {
+                    "string": "",
+                    "__class__": "Mover"
+                  },
+                  "motion_texts": [
+                    {
+                      "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+                      "__class__": "Paragraph"
+                    }
+                  ],
+                  "vote": {
+                    "rows": [],
+                    "__class__": "Vote"
+                  },
+                  "result": {
+                    "string": "Motion Passed",
+                    "__class__": "MotionResult"
+                  },
+                  "post_motion_texts": [],
+                  "__class__": "Motion"
+                }
+              ],
+              "items": {},
+              "datetime": "2024-01-31 15:00:00",
+              "attachments": [],
+              "report": "2024-01/2024-01-17 4th Special Meeting of the Strategic Priorities and Policy Committee",
+              "__class__": "MeetingItem"
+            },
+            "2": {
+              "title": "(2.1) 1st Report of the City Manager Recruitment and Selection Committee",
+              "number": "2",
+              "content": [
+                {
+                  "pre_motion_texts": [],
+                  "moved_by": {
+                    "string": "Motion made by S. Lewis",
+                    "__class__": "Mover"
+                  },
+                  "seconded_by": {
+                    "string": "",
+                    "__class__": "Mover"
+                  },
+                  "motion_texts": [
+                    {
+                      "string": "That the 1st Report of the City Manager Recruitment and Selection Committee from its meeting held on November 20, 22, 23, 30, 2023 and December 5 and 8, 2023 BE RECEIVED.",
+                      "__class__": "Paragraph"
+                    }
+                  ],
+                  "vote": {
+                    "rows": [],
+                    "__class__": "Vote"
+                  },
+                  "result": {
+                    "string": "Motion Passed",
+                    "__class__": "MotionResult"
+                  },
+                  "post_motion_texts": [],
+                  "__class__": "Motion"
+                }
+              ],
+              "items": {},
+              "datetime": "2024-01-31 15:00:00",
+              "attachments": [],
+              "report": "2024-01/2024-01-17 4th Special Meeting of the Strategic Priorities and Policy Committee",
+              "__class__": "MeetingItem"
+            }
+          },
+          "datetime": "2024-01-31 15:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-17 SPPC Report 4",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106765",
+              "date": "2024-01-17 00:00:00",
+              "local_page": "2024-01/2024-01-17 4th Special Meeting of the Strategic Priorities and Policy Committee",
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "9": {
+      "title": "Added Reports",
+      "number": "9",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "10": {
+      "title": "Deferred Matters",
+      "number": "10",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "11": {
+      "title": "Enquiries",
+      "number": "11",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "12": {
+      "title": "Emergent Motions",
+      "number": "12",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "13": {
+      "title": "By-laws",
+      "number": "13",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Introduction and First Reading of Bill No. 45, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Franke"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (14 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Trosow",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by J. Pribil",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Second Reading of Bill No. 45, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Franke"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (14 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by A. Hopkins",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Lehman",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Third Reading and Enactment of Bill No. 45, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Franke"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (14 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The following Bill is enacted as a By-law of The Corporation of the City of London:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "Bill",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "By-law",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "Bill No. 45",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "By-law No. A.-8462-32 - A by-law to confirm the proceedings of the Special Council Meeting held on the 31st day of January, 2024. (City Clerk)",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "14": {
+      "title": "Adjournment",
+      "number": "14",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 3:53 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-31 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:12:11.430",
+      "end": "00:12:22.650",
+      "text": "Please be seated."
+    },
+    {
+      "index": 2,
+      "start": "00:12:22.650",
+      "end": "00:12:23.480",
+      "text": "Thank you colleagues."
+    },
+    {
+      "index": 3,
+      "start": "00:12:23.480",
+      "end": "00:12:26.990",
+      "text": "So this is the third but special meeting of Cal,"
+    },
+    {
+      "index": 4,
+      "start": "00:12:26.990",
+      "end": "00:12:27.940",
+      "text": "everything meeting is special,"
+    },
+    {
+      "index": 5,
+      "start": "00:12:27.940",
+      "end": "00:12:30.530",
+      "text": "but this is actually a special meeting."
+    },
+    {
+      "index": 6,
+      "start": "00:12:30.530",
+      "end": "00:12:34.910",
+      "text": "And this is to deal with the agenda that you see before us."
+    },
+    {
+      "index": 7,
+      "start": "00:12:34.910",
+      "end": "00:12:38.400",
+      "text": "But let me start with our formal land acknowledgement,"
+    },
+    {
+      "index": 8,
+      "start": "00:12:38.400",
+      "end": "00:12:41.160",
+      "text": "the formal land acknowledgement."
+    },
+    {
+      "index": 9,
+      "start": "00:12:41.160",
+      "end": "00:12:42.890",
+      "text": "The city of London is situated on the traditional lands"
+    },
+    {
+      "index": 10,
+      "start": "00:12:42.890",
+      "end": "00:12:45.090",
+      "text": "of the Anishinaabak, Haudenosaunee, Lene Peowak,"
+    },
+    {
+      "index": 11,
+      "start": "00:12:45.090",
+      "end": "00:12:46.250",
+      "text": "and Adawandran."
+    },
+    {
+      "index": 12,
+      "start": "00:12:46.250",
+      "end": "00:12:48.360",
+      "text": "We honor respect the history, language,"
+    },
+    {
+      "index": 13,
+      "start": "00:12:48.360",
+      "end": "00:12:49.950",
+      "text": "and culture of the diverse indigenous people"
+    },
+    {
+      "index": 14,
+      "start": "00:12:49.950",
+      "end": "00:12:51.590",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 15,
+      "start": "00:12:51.590",
+      "end": "00:12:53.430",
+      "text": "The city of London is currently home"
+    },
+    {
+      "index": 16,
+      "start": "00:12:53.430",
+      "end": "00:12:56.170",
+      "text": "to many First Nation, M\u00c3\u00a9tis, and Inuit today."
+    },
+    {
+      "index": 17,
+      "start": "00:12:56.170",
+      "end": "00:12:57.980",
+      "text": "As representatives of the people of the city of London,"
+    },
+    {
+      "index": 18,
+      "start": "00:12:57.980",
+      "end": "00:12:59.430",
+      "text": "we are grateful to have the opportunity"
+    },
+    {
+      "index": 19,
+      "start": "00:12:59.430",
+      "end": "00:13:03.320",
+      "text": "to work and live in this territory."
+    },
+    {
+      "index": 20,
+      "start": "00:13:03.320",
+      "end": "00:13:04.660",
+      "text": "As well, the city of London is committed"
+    },
+    {
+      "index": 21,
+      "start": "00:13:04.660",
+      "end": "00:13:07.340",
+      "text": "to making every effort to provide alternate formats"
+    },
+    {
+      "index": 22,
+      "start": "00:13:07.340",
+      "end": "00:13:09.920",
+      "text": "and communication supports for meetings upon request."
+    },
+    {
+      "index": 23,
+      "start": "00:13:09.920",
+      "end": "00:13:11.470",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 24,
+      "start": "00:13:11.470",
+      "end": "00:13:14.470",
+      "text": "please contact council agenda at London.ca"
+    },
+    {
+      "index": 25,
+      "start": "00:13:14.470",
+      "end": "00:13:19.710",
+      "text": "or 519-661-2489, extension 2425."
+    },
+    {
+      "index": 26,
+      "start": "00:13:19.710",
+      "end": "00:13:23.280",
+      "text": "Now colleagues, this is a meeting of council,"
+    },
+    {
+      "index": 27,
+      "start": "00:13:23.280",
+      "end": "00:13:24.400",
+      "text": "but given it's a special meeting,"
+    },
+    {
+      "index": 28,
+      "start": "00:13:24.400",
+      "end": "00:13:26.260",
+      "text": "we don't have an old Canada singer,"
+    },
+    {
+      "index": 29,
+      "start": "00:13:26.260",
+      "end": "00:13:28.410",
+      "text": "but I think our preference last time was to continue"
+    },
+    {
+      "index": 30,
+      "start": "00:13:28.410",
+      "end": "00:13:30.990",
+      "text": "and do that anyways, so we all get to do that together."
+    },
+    {
+      "index": 31,
+      "start": "00:13:30.990",
+      "end": "00:13:34.310",
+      "text": "So I would ask you to join me in rising"
+    },
+    {
+      "index": 32,
+      "start": "00:13:34.310",
+      "end": "00:13:35.510",
+      "text": "and singing national anthem,"
+    },
+    {
+      "index": 33,
+      "start": "00:13:35.510",
+      "end": "00:14:35.840",
+      "text": "which I'll ask Councillor Cudi to start us off on."
+    },
+    {
+      "index": 34,
+      "start": "00:14:35.840",
+      "end": "00:14:38.080",
+      "text": "Thank you very much, please be seated."
+    },
+    {
+      "index": 35,
+      "start": "00:14:38.080",
+      "end": "00:14:41.990",
+      "text": "Once again, reminds us why we invite professional singers."
+    },
+    {
+      "index": 36,
+      "start": "00:14:41.990",
+      "end": "00:14:46.700",
+      "text": "I know I kept my microphone off and many of you did too."
+    },
+    {
+      "index": 37,
+      "start": "00:14:46.700",
+      "end": "00:14:48.050",
+      "text": "I will say on a previous council,"
+    },
+    {
+      "index": 38,
+      "start": "00:14:48.050",
+      "end": "00:14:50.700",
+      "text": "we have had beautiful singers in the past,"
+    },
+    {
+      "index": 39,
+      "start": "00:14:50.700",
+      "end": "00:14:52.640",
+      "text": "and I'm sure one of us is probably hiding"
+    },
+    {
+      "index": 40,
+      "start": "00:14:52.640",
+      "end": "00:14:55.260",
+      "text": "that talent at risk of having to sing for us"
+    },
+    {
+      "index": 41,
+      "start": "00:14:55.260",
+      "end": "00:14:56.680",
+      "text": "in each and every meeting,"
+    },
+    {
+      "index": 42,
+      "start": "00:14:56.680",
+      "end": "00:15:00.160",
+      "text": "but I appreciate everybody participating along."
+    },
+    {
+      "index": 43,
+      "start": "00:15:00.160",
+      "end": "00:15:05.090",
+      "text": "I'll look for disclosures of peon or interest, seeing none."
+    },
+    {
+      "index": 44,
+      "start": "00:15:05.090",
+      "end": "00:15:07.870",
+      "text": "Given this is a special meeting, we have no recognitions."
+    },
+    {
+      "index": 45,
+      "start": "00:15:07.870",
+      "end": "00:15:09.610",
+      "text": "We have no review of confidential matters"
+    },
+    {
+      "index": 46,
+      "start": "00:15:09.610",
+      "end": "00:15:11.200",
+      "text": "to be considered in public,"
+    },
+    {
+      "index": 47,
+      "start": "00:15:11.200",
+      "end": "00:15:13.500",
+      "text": "but we do have a couple of items"
+    },
+    {
+      "index": 48,
+      "start": "00:15:13.500",
+      "end": "00:15:15.920",
+      "text": "for council in closed session."
+    },
+    {
+      "index": 49,
+      "start": "00:15:15.920",
+      "end": "00:15:17.430",
+      "text": "So I will now at this time,"
+    },
+    {
+      "index": 50,
+      "start": "00:15:17.430",
+      "end": "00:15:19.690",
+      "text": "look for a motion to move into closed session move"
+    },
+    {
+      "index": 51,
+      "start": "00:15:19.690",
+      "end": "00:15:23.080",
+      "text": "by Deputy Mayor Lewis, seconded by Councillor Hopkins."
+    },
+    {
+      "index": 52,
+      "start": "00:15:23.080",
+      "end": "00:15:35.300",
+      "text": "We will open this in the system."
+    },
+    {
+      "index": 53,
+      "start": "00:15:35.300",
+      "end": "00:15:38.670",
+      "text": "Those in the vote motion carries 14 to zero."
+    },
+    {
+      "index": 54,
+      "start": "00:15:38.670",
+      "end": "00:15:39.920",
+      "text": "Okay, and it'll just take a moment."
+    },
+    {
+      "index": 55,
+      "start": "00:15:39.920",
+      "end": "00:15:40.940",
+      "text": "We are gonna stay here,"
+    },
+    {
+      "index": 56,
+      "start": "00:15:40.940",
+      "end": "00:15:44.650",
+      "text": "which means we have to ask our friends"
+    },
+    {
+      "index": 57,
+      "start": "00:15:44.650",
+      "end": "00:15:47.700",
+      "text": "in the audience and gallery to leave,"
+    },
+    {
+      "index": 58,
+      "start": "00:15:47.700",
+      "end": "00:18:07.610",
+      "text": "and we'll be set up in a few minutes."
+    },
+    {
+      "index": 59,
+      "start": "00:18:07.610",
+      "end": "00:18:08.570",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 60,
+      "start": "00:18:08.570",
+      "end": "00:18:11.170",
+      "text": "We've concluded in closed session."
+    },
+    {
+      "index": 61,
+      "start": "00:18:11.170",
+      "end": "00:18:13.140",
+      "text": "Item five, there are no confirmation"
+    },
+    {
+      "index": 62,
+      "start": "00:18:13.140",
+      "end": "00:18:14.280",
+      "text": "of signing of previous minutes."
+    },
+    {
+      "index": 63,
+      "start": "00:18:14.280",
+      "end": "00:18:16.210",
+      "text": "Six, no community communications,"
+    },
+    {
+      "index": 64,
+      "start": "00:18:16.210",
+      "end": "00:18:19.940",
+      "text": "our petitions, no motions for which notice was given."
+    },
+    {
+      "index": 65,
+      "start": "00:18:19.940",
+      "end": "00:18:25.060",
+      "text": "There is one report of the special SPPC meeting."
+    },
+    {
+      "index": 66,
+      "start": "00:18:25.060",
+      "end": "00:18:28.460",
+      "text": "You have that before you."
+    },
+    {
+      "index": 67,
+      "start": "00:18:28.460",
+      "end": "00:18:38.540",
+      "text": "I'll have the Deputy Mayor present that report."
+    },
+    {
+      "index": 68,
+      "start": "00:18:38.540",
+      "end": "00:18:40.910",
+      "text": "Thank you, Your Worship, and I'll remind you,"
+    },
+    {
+      "index": 69,
+      "start": "00:18:40.910",
+      "end": "00:18:44.880",
+      "text": "this is council two, so you get to stand up."
+    },
+    {
+      "index": 70,
+      "start": "00:18:44.880",
+      "end": "00:18:46.400",
+      "text": "Thank you, Your Worship, at this time,"
+    },
+    {
+      "index": 71,
+      "start": "00:18:46.400",
+      "end": "00:18:48.520",
+      "text": "I will report that the progress was made"
+    },
+    {
+      "index": 72,
+      "start": "00:18:48.520",
+      "end": "00:18:51.140",
+      "text": "for the item on which we went in camera."
+    },
+    {
+      "index": 73,
+      "start": "00:18:51.140",
+      "end": "00:18:53.450",
+      "text": "I don't have any other language to share."
+    },
+    {
+      "index": 74,
+      "start": "00:18:53.450",
+      "end": "00:18:55.600",
+      "text": "Actually, slightly different one."
+    },
+    {
+      "index": 75,
+      "start": "00:18:55.600",
+      "end": "00:18:57.980",
+      "text": "My mistake, I'm not quite to the report"
+    },
+    {
+      "index": 76,
+      "start": "00:18:57.980",
+      "end": "00:18:59.530",
+      "text": "out of the in-camera session."
+    },
+    {
+      "index": 77,
+      "start": "00:18:59.530",
+      "end": "00:19:04.260",
+      "text": "The SPPC report before us is the one that is basically"
+    },
+    {
+      "index": 78,
+      "start": "00:19:04.260",
+      "end": "00:19:07.070",
+      "text": "the report that shows that we went into camera"
+    },
+    {
+      "index": 79,
+      "start": "00:19:07.070",
+      "end": "00:19:09.730",
+      "text": "when we met as SPPC last month."
+    },
+    {
+      "index": 80,
+      "start": "00:19:09.730",
+      "end": "00:19:11.600",
+      "text": "So you're presenting the SPPC report"
+    },
+    {
+      "index": 81,
+      "start": "00:19:11.600",
+      "end": "00:19:15.530",
+      "text": "that's attached to the regular agenda."
+    },
+    {
+      "index": 82,
+      "start": "00:19:15.530",
+      "end": "00:19:19.310",
+      "text": "It has seven items to it."
+    },
+    {
+      "index": 83,
+      "start": "00:19:19.310",
+      "end": "00:19:21.740",
+      "text": "All of them are basically,"
+    },
+    {
+      "index": 84,
+      "start": "00:19:21.740",
+      "end": "00:19:25.040",
+      "text": "it's basically us going in camera."
+    },
+    {
+      "index": 85,
+      "start": "00:19:25.040",
+      "end": "00:19:29.530",
+      "text": "Okay, sorry, I missed the attachment."
+    },
+    {
+      "index": 86,
+      "start": "00:19:29.530",
+      "end": "00:19:30.760",
+      "text": "So you're willing to move that entire report?"
+    },
+    {
+      "index": 87,
+      "start": "00:19:30.760",
+      "end": "00:19:32.980",
+      "text": "So I will move that entire report."
+    },
+    {
+      "index": 88,
+      "start": "00:19:32.980",
+      "end": "00:19:40.330",
+      "text": "Excellent, any discussion on that SPPC report?"
+    },
+    {
+      "index": 89,
+      "start": "00:19:40.330",
+      "end": "00:19:52.320",
+      "text": "Okay, seeing none, we'll vote on that in the system."
+    },
+    {
+      "index": 90,
+      "start": "00:19:52.320",
+      "end": "00:19:56.170",
+      "text": "Those in the vote, motion carries 14 to zero."
+    },
+    {
+      "index": 91,
+      "start": "00:19:56.170",
+      "end": "00:19:58.050",
+      "text": "Before you sit down, we're on added reports,"
+    },
+    {
+      "index": 92,
+      "start": "00:19:58.050",
+      "end": "00:20:01.940",
+      "text": "which is reporting progress from our closed session."
+    },
+    {
+      "index": 93,
+      "start": "00:20:01.940",
+      "end": "00:20:04.010",
+      "text": "And now a report progress was made"
+    },
+    {
+      "index": 94,
+      "start": "00:20:04.010",
+      "end": "00:20:06.740",
+      "text": "on the item for which we went into closed session."
+    },
+    {
+      "index": 95,
+      "start": "00:20:06.740",
+      "end": "00:20:07.750",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 96,
+      "start": "00:20:07.750",
+      "end": "00:20:08.760",
+      "text": "No deferred matters."
+    },
+    {
+      "index": 97,
+      "start": "00:20:08.760",
+      "end": "00:20:12.650",
+      "text": "There's no inquiries, no emergent motions."
+    },
+    {
+      "index": 98,
+      "start": "00:20:12.650",
+      "end": "00:20:15.030",
+      "text": "We have one bylaw, just the confirmation bylaw"
+    },
+    {
+      "index": 99,
+      "start": "00:20:15.030",
+      "end": "00:20:16.880",
+      "text": "for this meeting, Bill 45."
+    },
+    {
+      "index": 100,
+      "start": "00:20:16.880",
+      "end": "00:20:18.830",
+      "text": "I'll look for a move and a second to our first reading."
+    },
+    {
+      "index": 101,
+      "start": "00:20:18.830",
+      "end": "00:20:22.640",
+      "text": "Moved by Deputy Mayor Lewis, seconded by Councillor Cuddy."
+    },
+    {
+      "index": 102,
+      "start": "00:20:22.640",
+      "end": "00:20:35.650",
+      "text": "We'll open and voting in the system."
+    },
+    {
+      "index": 103,
+      "start": "00:20:35.650",
+      "end": "00:20:41.650",
+      "text": "Councillor Hill here, Councillor?"
+    },
+    {
+      "index": 104,
+      "start": "00:20:41.650",
+      "end": "00:20:44.810",
+      "text": "Yes, a little yes, a good thing out."
+    },
+    {
+      "index": 105,
+      "start": "00:20:44.810",
+      "end": "00:20:46.090",
+      "text": "Thank you."
+    },
+    {
+      "index": 106,
+      "start": "00:20:46.090",
+      "end": "00:20:48.790",
+      "text": "Close in the vote, motion carries 14 to zero."
+    },
+    {
+      "index": 107,
+      "start": "00:20:48.790",
+      "end": "00:20:50.330",
+      "text": "Moved seconder for second reading."
+    },
+    {
+      "index": 108,
+      "start": "00:20:50.330",
+      "end": "00:20:53.140",
+      "text": "Moved by Councillor Troz, seconded by Councillor Pribble."
+    },
+    {
+      "index": 109,
+      "start": "00:20:53.140",
+      "end": "00:20:55.170",
+      "text": "Any discussion on second reading?"
+    },
+    {
+      "index": 110,
+      "start": "00:20:55.170",
+      "end": "00:21:06.220",
+      "text": "Seeing none, we'll open that for voting."
+    },
+    {
+      "index": 111,
+      "start": "00:21:06.220",
+      "end": "00:21:09.270",
+      "text": "Those in the vote, motion carries 14 to zero."
+    },
+    {
+      "index": 112,
+      "start": "00:21:09.270",
+      "end": "00:21:11.310",
+      "text": "Third reading of the confirmation bylaw."
+    },
+    {
+      "index": 113,
+      "start": "00:21:11.310",
+      "end": "00:21:14.350",
+      "text": "Councillor Hopkins, seconded by Councillor Layman."
+    },
+    {
+      "index": 114,
+      "start": "00:21:14.350",
+      "end": "00:21:26.240",
+      "text": "We will open third reading for voting."
+    },
+    {
+      "index": 115,
+      "start": "00:21:26.240",
+      "end": "00:21:29.990",
+      "text": "Those in the vote, motion carries 14 to zero."
+    },
+    {
+      "index": 116,
+      "start": "00:21:29.990",
+      "end": "00:21:31.730",
+      "text": "Okay, that concludes bylaws."
+    },
+    {
+      "index": 117,
+      "start": "00:21:31.730",
+      "end": "00:21:33.070",
+      "text": "I just need a motion to adjourn."
+    },
+    {
+      "index": 118,
+      "start": "00:21:33.070",
+      "end": "00:21:35.160",
+      "text": "Moved by Councillor Stevenson, seconded by Councillor"
+    },
+    {
+      "index": 119,
+      "start": "00:21:35.160",
+      "end": "00:21:38.560",
+      "text": "Cutty, we'll do this by hand, all those in favor."
+    },
+    {
+      "index": 120,
+      "start": "00:21:38.560",
+      "end": "00:21:39.400",
+      "text": "Mad motion carries."
+    },
+    {
+      "index": 121,
+      "start": "00:21:39.400",
+      "end": "00:21:40.400",
+      "text": "All right, we're adjourned."
+    },
+    {
+      "index": 122,
+      "start": "00:21:40.400",
+      "end": "00:21:40.800",
+      "text": "Thank you."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Council/2024/01-31/.transcript.srt"
+}
