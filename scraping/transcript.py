@@ -129,7 +129,7 @@ def get_transcript_duration(segments: List[Dict[str, Any]]) -> str:
     return f"{minutes} minute{'s' if minutes != 1 else ''}"
 
 
-def build_transcript_url(date: datetime, meeting_type: str) -> Optional[str]:
+def build_transcript_url(date: datetime, meeting_type: str, verbose: bool = False) -> Optional[str]:
     """
     Build the URL for a transcript on Lillian's archive.
 
@@ -138,6 +138,8 @@ def build_transcript_url(date: datetime, meeting_type: str) -> Optional[str]:
     """
     mapped_type = MEETING_TYPE_MAPPING.get(meeting_type)
     if not mapped_type:
+        if verbose:
+            print(f"    → No URL mapping for meeting type: '{meeting_type}'")
         return None
 
     year = date.strftime('%Y')
@@ -146,12 +148,13 @@ def build_transcript_url(date: datetime, meeting_type: str) -> Optional[str]:
     return f"{ARCHIVE_BASE_URL}/Meetings/{mapped_type}/{year}/{month_day}/.transcript.srt"
 
 
-def fetch_transcript_via_firecrawl(url: str) -> Optional[str]:
+def fetch_transcript_via_firecrawl(url: str, verbose: bool = False) -> Optional[str]:
     """
     Fetch content from a URL using the Firecrawl API.
 
     Args:
         url: The URL to fetch
+        verbose: Whether to print detailed logging
 
     Returns:
         Raw content as string, or None if not available
@@ -159,6 +162,9 @@ def fetch_transcript_via_firecrawl(url: str) -> Optional[str]:
     if not FIRECRAWL_API_KEY:
         print("  Warning: FIRECRAWL_API_KEY not set, falling back to direct request")
         return None
+
+    if verbose:
+        print(f"    → Calling Firecrawl API for: {url}")
 
     try:
         response = requests.post(
@@ -180,12 +186,23 @@ def fetch_transcript_via_firecrawl(url: str) -> Optional[str]:
                 # For SRT files, the content is in rawHtml
                 raw_content = data.get('data', {}).get('rawHtml', '')
                 if raw_content:
+                    if verbose:
+                        print(f"    → Found transcript ({len(raw_content)} bytes)")
                     return raw_content
+                else:
+                    if verbose:
+                        print(f"    → Firecrawl returned empty content")
+            else:
+                if verbose:
+                    print(f"    → Firecrawl: URL not accessible (success=false)")
+                return None
         elif response.status_code == 402:
             print("  Warning: Firecrawl API quota exceeded")
             return None
-        elif response.status_code == 404 or (response.status_code == 200 and not response.json().get('success')):
-            return None  # URL not found or not accessible
+        elif response.status_code == 404:
+            if verbose:
+                print(f"    → Firecrawl: 404 not found")
+            return None
         else:
             print(f"  Warning: Firecrawl API returned status {response.status_code}")
             return None
@@ -220,7 +237,7 @@ def fetch_transcript_direct(url: str) -> Optional[str]:
         return None
 
 
-def fetch_transcript(date: datetime, meeting_type: str) -> Optional[List[Dict[str, Any]]]:
+def fetch_transcript(date: datetime, meeting_type: str, verbose: bool = False) -> Optional[List[Dict[str, Any]]]:
     """
     Fetch and parse a transcript for a specific meeting.
 
@@ -229,18 +246,19 @@ def fetch_transcript(date: datetime, meeting_type: str) -> Optional[List[Dict[st
     Args:
         date: Meeting date
         meeting_type: Meeting type (e.g., "Council", "Planning and Environment Committee")
+        verbose: Whether to print detailed logging
 
     Returns:
         List of transcript segments, or None if not available
     """
-    url = build_transcript_url(date, meeting_type)
+    url = build_transcript_url(date, meeting_type, verbose=verbose)
     if not url:
         return None
 
     # Try Firecrawl API first if key is available
     content = None
     if FIRECRAWL_API_KEY:
-        content = fetch_transcript_via_firecrawl(url)
+        content = fetch_transcript_via_firecrawl(url, verbose=verbose)
 
     # Fall back to direct request if Firecrawl didn't work
     if content is None and not FIRECRAWL_API_KEY:
@@ -252,12 +270,13 @@ def fetch_transcript(date: datetime, meeting_type: str) -> Optional[List[Dict[st
     return None
 
 
-def add_transcript_to_meeting(json_path: Path) -> bool:
+def add_transcript_to_meeting(json_path: Path, verbose: bool = False) -> bool:
     """
     Add transcript data to an existing meeting JSON file.
 
     Args:
         json_path: Path to the meeting JSON file
+        verbose: Whether to print detailed logging
 
     Returns:
         True if transcript was added/updated, False otherwise
@@ -276,17 +295,21 @@ def add_transcript_to_meeting(json_path: Path) -> bool:
     # Parse the meeting date
     datetime_str = meeting.get('datetime', '')
     if not datetime_str:
+        if verbose:
+            print(f"    → No datetime field in meeting")
         return False
 
     try:
         meeting_date = datetime.strptime(datetime_str.split()[0], '%Y-%m-%d')
     except ValueError:
+        if verbose:
+            print(f"    → Could not parse date: {datetime_str}")
         return False
 
     meeting_type = meeting.get('meeting_type', '')
 
     # Fetch transcript
-    transcript = fetch_transcript(meeting_date, meeting_type)
+    transcript = fetch_transcript(meeting_date, meeting_type, verbose=verbose)
     if not transcript:
         return False
 
@@ -305,9 +328,13 @@ def add_transcript_to_meeting(json_path: Path) -> bool:
         return False
 
 
-def sync_all_transcripts(data_dir: Path = None) -> Dict[str, int]:
+def sync_all_transcripts(data_dir: Path = None, verbose: bool = False) -> Dict[str, int]:
     """
     Sync transcripts for all meetings that don't have them yet.
+
+    Args:
+        data_dir: Directory containing meeting data
+        verbose: Whether to print detailed logging (set VERBOSE=1 env var to enable)
 
     Returns:
         Dict with counts: added, skipped, errors
@@ -315,7 +342,7 @@ def sync_all_transcripts(data_dir: Path = None) -> Dict[str, int]:
     if data_dir is None:
         data_dir = Path(__file__).parent.parent / 'data'
 
-    stats = {'added': 0, 'skipped': 0, 'errors': 0, 'already_have': 0}
+    stats = {'added': 0, 'skipped': 0, 'errors': 0, 'already_have': 0, 'no_mapping': 0}
 
     # Get all month directories, sorted newest first
     month_dirs = sorted(
@@ -325,6 +352,9 @@ def sync_all_transcripts(data_dir: Path = None) -> Dict[str, int]:
     )
 
     print(f"Scanning {len(month_dirs)} month directories for transcripts...")
+    print(f"Firecrawl API key: {'configured' if FIRECRAWL_API_KEY else 'NOT SET'}")
+    print(f"Verbose mode: {'enabled' if verbose else 'disabled (set VERBOSE=1 to enable)'}")
+    print()
 
     for month_dir in month_dirs:
         json_files = list(month_dir.glob('*.json'))
@@ -343,7 +373,7 @@ def sync_all_transcripts(data_dir: Path = None) -> Dict[str, int]:
 
             print(f"  Checking: {json_path.name}")
 
-            if add_transcript_to_meeting(json_path):
+            if add_transcript_to_meeting(json_path, verbose=verbose):
                 print(f"    ✓ Added transcript")
                 stats['added'] += 1
             else:
@@ -355,13 +385,16 @@ def sync_all_transcripts(data_dir: Path = None) -> Dict[str, int]:
 if __name__ == '__main__':
     import sys
 
+    # Check for verbose mode via environment variable
+    verbose = os.environ.get('VERBOSE', '').lower() in ('1', 'true', 'yes')
+
     if len(sys.argv) == 3:
         # Fetch specific meeting transcript
         date_str = sys.argv[1]
         meeting_type = sys.argv[2]
 
         date = datetime.strptime(date_str, '%Y-%m-%d')
-        transcript = fetch_transcript(date, meeting_type)
+        transcript = fetch_transcript(date, meeting_type, verbose=True)
 
         if transcript:
             print(f"Found transcript with {len(transcript)} segments")
@@ -374,7 +407,7 @@ if __name__ == '__main__':
     else:
         # Sync all transcripts
         print("🎙️ Transcript Sync\n")
-        stats = sync_all_transcripts()
+        stats = sync_all_transcripts(verbose=verbose)
 
         print(f"\n📊 Results:")
         print(f"   Added: {stats['added']}")
