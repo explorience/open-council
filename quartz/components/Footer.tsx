@@ -13,7 +13,9 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <br />
+        <p>
+          Website by <a href="https://facebook.com/heenalr">Heenal Rajani</a>
+        </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
