@@ -328,13 +328,14 @@ def add_transcript_to_meeting(json_path: Path, verbose: bool = False) -> bool:
         return False
 
 
-def sync_all_transcripts(data_dir: Path = None, verbose: bool = False) -> Dict[str, int]:
+def sync_all_transcripts(data_dir: Path = None, verbose: bool = False, limit: int = 0) -> Dict[str, int]:
     """
     Sync transcripts for all meetings that don't have them yet.
 
     Args:
         data_dir: Directory containing meeting data
         verbose: Whether to print detailed logging (set VERBOSE=1 env var to enable)
+        limit: Maximum number of meetings to check (0 = unlimited, set LIMIT env var)
 
     Returns:
         Dict with counts: added, skipped, errors
@@ -354,12 +355,21 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False) -> Dict[s
     print(f"Scanning {len(month_dirs)} month directories for transcripts...")
     print(f"Firecrawl API key: {'configured' if FIRECRAWL_API_KEY else 'NOT SET'}")
     print(f"Verbose mode: {'enabled' if verbose else 'disabled (set VERBOSE=1 to enable)'}")
+    print(f"Limit: {limit if limit > 0 else 'unlimited'}")
     print()
 
+    checked_count = 0
+
     for month_dir in month_dirs:
-        json_files = list(month_dir.glob('*.json'))
+        # Get JSON files sorted by name (newest first within month)
+        json_files = sorted(month_dir.glob('*.json'), key=lambda x: x.name, reverse=True)
 
         for json_path in json_files:
+            # Check if we've hit the limit
+            if limit > 0 and checked_count >= limit:
+                print(f"\n  Reached limit of {limit} meetings, stopping.")
+                return stats
+
             # Quick check if transcript already exists
             try:
                 with open(json_path, 'r') as f:
@@ -371,7 +381,8 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False) -> Dict[s
                 stats['errors'] += 1
                 continue
 
-            print(f"  Checking: {json_path.name}")
+            checked_count += 1
+            print(f"  [{checked_count}{'/' + str(limit) if limit > 0 else ''}] Checking: {json_path.name}")
 
             if add_transcript_to_meeting(json_path, verbose=verbose):
                 print(f"    ✓ Added transcript")
@@ -387,6 +398,12 @@ if __name__ == '__main__':
 
     # Check for verbose mode via environment variable
     verbose = os.environ.get('VERBOSE', '').lower() in ('1', 'true', 'yes')
+
+    # Check for limit via environment variable (0 = unlimited)
+    try:
+        limit = int(os.environ.get('LIMIT', '0'))
+    except ValueError:
+        limit = 0
 
     if len(sys.argv) == 3:
         # Fetch specific meeting transcript
@@ -407,7 +424,7 @@ if __name__ == '__main__':
     else:
         # Sync all transcripts
         print("🎙️ Transcript Sync\n")
-        stats = sync_all_transcripts(verbose=verbose)
+        stats = sync_all_transcripts(verbose=verbose, limit=limit)
 
         print(f"\n📊 Results:")
         print(f"   Added: {stats['added']}")
