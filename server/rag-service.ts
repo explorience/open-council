@@ -39,6 +39,10 @@ interface QueryAnalysis {
   // Meeting type filter
   meetingTypeFilter?: string;     // "Budget", "Planning", "Council", etc.
 
+  // Councillor voting record query
+  isCouncillorVotingQuery: boolean;  // "How did [Name] vote on..."
+  councillorName?: string;           // Extracted councillor name
+
   // Complexity
   topK: number;
 }
@@ -103,6 +107,10 @@ export class RAGService {
 
       // Voting analysis questions
       /how did councillors? vote/,  // voting record questions
+      /how did .+ vote (on|for|against)/,  // "how did [Name] vote on X" - councillor specific
+      /how (has|have) .+ voted/,  // "how has [Name] voted on X"
+      /.+ voting record/,  // "[Name]'s voting record"
+      /.+ vote on/,  // "[Name] vote on X"
       /who voted (for|against|yes|no)/,
       /was it unanimous/,
       /close vote|split vote|controversial vote/,
@@ -223,19 +231,26 @@ export class RAGService {
   private analyzeQuery(query: string): QueryAnalysis {
     const lowerQuery = query.toLowerCase();
 
-    // 1. Determine complexity and TOP_K
-    const topK = this.analyzeQueryComplexity(query);
+    // 1. Check for councillor-specific voting query FIRST
+    // This should override complexity to COMPREHENSIVE
+    const councillorVoting = this.detectCouncillorVotingQuery(query);
 
-    // 2. Check for "most recent" type queries
+    // 2. Determine complexity and TOP_K
+    // If councillor voting query, force COMPREHENSIVE for full historical coverage
+    const topK = councillorVoting.isCouncillorQuery
+      ? TOP_K_COMPREHENSIVE
+      : this.analyzeQueryComplexity(query);
+
+    // 3. Check for "most recent" type queries
     const isMostRecent = this.detectMostRecentIntent(lowerQuery);
 
-    // 3. Extract specific month/year if mentioned
+    // 4. Extract specific month/year if mentioned
     const specificMonth = this.extractSpecificMonth(lowerQuery);
 
-    // 4. Extract year filter if just year mentioned
+    // 5. Extract year filter if just year mentioned
     const yearFilter = this.extractYearFilter(lowerQuery);
 
-    // 5. Detect meeting type (committee, council, etc.)
+    // 6. Detect meeting type (committee, council, etc.)
     const meetingTypeFilter = this.detectMeetingType(lowerQuery);
 
     const analysis: QueryAnalysis = {
@@ -243,11 +258,14 @@ export class RAGService {
       specificMonth: specificMonth || undefined,
       yearFilter: yearFilter || undefined,
       meetingTypeFilter,
+      isCouncillorVotingQuery: councillorVoting.isCouncillorQuery,
+      councillorName: councillorVoting.councillorName,
       topK,
     };
 
     // Log what we detected
     const detected: string[] = [];
+    if (councillorVoting.isCouncillorQuery) detected.push(`councillor:${councillorVoting.councillorName || 'unknown'}`);
     if (isMostRecent) detected.push('recent');
     if (specificMonth) detected.push(`month:${specificMonth.month + 1}/${specificMonth.year}`);
     if (yearFilter) detected.push(`year:${yearFilter}`);
@@ -382,13 +400,105 @@ export class RAGService {
   }
 
   /**
+   * Detect if this is a councillor-specific voting query
+   * Returns the councillor name if found
+   *
+   * Patterns matched:
+   * - "How did Susan Stevenson vote on X"
+   * - "How has Shawn Lewis voted on bike lanes"
+   * - "Susan Stevenson's voting record on climate"
+   * - "What did Paul Van Meerbergen vote on"
+   */
+  private detectCouncillorVotingQuery(query: string): { isCouncillorQuery: boolean; councillorName?: string } {
+    const lowerQuery = query.toLowerCase();
+
+    // Common London councillor names (current and recent)
+    // This helps ensure we detect real councillor names vs generic words
+    const councillorPatterns = [
+      // Current councillors (2022-2026 term)
+      /\b(josh\s+)?morgan\b/,
+      /\b(shawn\s+)?lewis\b/,
+      /\b(skylar\s+)?franke\b/,
+      /\b(susan\s+)?stevenson\b/,
+      /\b(hadleigh\s+)?mcalister\b/,
+      /\b(corrine\s+)?rahman\b/,
+      /\b(sam\s+)?trosow\b/,
+      /\b(david\s+)?ferreira\b/,
+      /\b(paul\s+)?(van\s+)?meerbergen\b/,
+      /\b(steve\s+)?hillier\b/,
+      /\b(elizabeth\s+)?peloza\b/,
+      /\b(jerry\s+)?pribil\b/,
+      /\b(peter\s+)?cuddy\b/,
+      /\b(anna\s+)?hopkins\b/,
+      /\b(steven\s+)?holder\b/,
+      // Previous councillors
+      /\b(ed\s+)?holder\b/,
+      /\b(maureen\s+)?cassidy\b/,
+      /\b(jesse\s+)?helmer\b/,
+      /\b(phil\s+)?squire\b/,
+      /\b(michael\s+)?van\s+holst\b/,
+      /\b(arielle\s+)?kayabaga\b/,
+      /\b(stephen\s+)?turner\b/,
+    ];
+
+    // Voting query patterns
+    const votingPatterns = [
+      /how did .+ vote/,
+      /how has .+ voted/,
+      /how have .+ voted/,
+      /.+('s|s') voting record/,
+      /what did .+ vote/,
+      /did .+ vote (for|against|yes|no)/,
+      /has .+ (ever )?voted/,
+      /.+ (support|oppose|vote).*(on|for|against)/,
+    ];
+
+    // Check if query matches voting patterns
+    const isVotingQuery = votingPatterns.some(pattern => pattern.test(lowerQuery));
+    if (!isVotingQuery) {
+      return { isCouncillorQuery: false };
+    }
+
+    // Try to extract councillor name
+    for (const pattern of councillorPatterns) {
+      const match = lowerQuery.match(pattern);
+      if (match) {
+        // Capitalize the name properly
+        const rawName = match[0];
+        const capitalizedName = rawName.split(/\s+/)
+          .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+          .join(' ');
+
+        console.log(`🎯 Detected councillor voting query for: ${capitalizedName}`);
+        return { isCouncillorQuery: true, councillorName: capitalizedName };
+      }
+    }
+
+    // Generic voting query pattern - might still be about a councillor
+    // Use generic patterns to extract potential names
+    const genericNamePattern = /how did ([a-z]+(?:\s+[a-z]+)?(?:\s+[a-z]+)?) vote/i;
+    const genericMatch = query.match(genericNamePattern);
+    if (genericMatch) {
+      const potentialName = genericMatch[1];
+      // Filter out common non-name words
+      const nonNames = ['council', 'councillors', 'they', 'the', 'city', 'mayor', 'you'];
+      if (!nonNames.includes(potentialName.toLowerCase())) {
+        console.log(`🎯 Detected potential councillor voting query for: ${potentialName}`);
+        return { isCouncillorQuery: true, councillorName: potentialName };
+      }
+    }
+
+    return { isCouncillorQuery: false };
+  }
+
+  /**
    * Retrieve relevant context from vector store
    * Uses unified query analysis to determine optimal retrieval strategy
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
     // Analyze query to extract all metadata
     const analysis = this.analyzeQuery(query);
-    const { topK, isMostRecent, specificMonth, meetingTypeFilter } = analysis;
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName } = analysis;
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
@@ -449,7 +559,56 @@ export class RAGService {
       }
     }
 
-    // Strategy 3: Semantic search with optional meeting type filter
+    // Strategy 3: Councillor voting query - HYBRID retrieval
+    // Combines semantic search for topic relevance with recent data to ensure temporal coverage
+    // This prevents bias toward older, more verbose content
+    if (isCouncillorVotingQuery) {
+      console.log(`🗳️ Councillor voting query${councillorName ? ` for ${councillorName}` : ''} - using hybrid retrieval`);
+
+      const queryEmbedding = await this.generateQueryEmbedding(query);
+
+      // Get semantically relevant results (topic-based)
+      const semanticResults = await this.vectorStore.search(queryEmbedding, Math.floor(topK * 0.6));
+
+      // Get recent results to ensure we don't miss recent votes
+      const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.5));
+
+      // Combine and deduplicate results, prioritizing recency
+      const seenIds = new Set<string>();
+      const combinedResults: SearchResult[] = [];
+
+      // Add recent results first (ensures recent data is included)
+      for (const result of recentResults) {
+        const id = `${result.metadata.meeting_date}-${result.metadata.item_number}-${result.text.substring(0, 50)}`;
+        if (!seenIds.has(id)) {
+          seenIds.add(id);
+          combinedResults.push(result);
+        }
+      }
+
+      // Add semantic results
+      for (const result of semanticResults) {
+        const id = `${result.metadata.meeting_date}-${result.metadata.item_number}-${result.text.substring(0, 50)}`;
+        if (!seenIds.has(id)) {
+          seenIds.add(id);
+          combinedResults.push(result);
+        }
+      }
+
+      // Sort by date descending so recent votes appear first in context
+      const sorted = combinedResults.sort((a, b) => {
+        const dateA = new Date(a.metadata.meeting_date).getTime();
+        const dateB = new Date(b.metadata.meeting_date).getTime();
+        return dateB - dateA;
+      });
+
+      this.logUniqueMeetings(sorted);
+      console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent = ${sorted.length} unique chunks`);
+
+      return sorted.slice(0, topK);
+    }
+
+    // Strategy 4: Semantic search with optional meeting type filter
     // For topic-based queries like "housing decisions" or "budget discussions"
     const queryEmbedding = await this.generateQueryEmbedding(query);
 
