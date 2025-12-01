@@ -91,7 +91,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.HomepageHero({
         title: "Open Council",
-        tagline: "13 years of London City Council meetings, searchable by AI.",
+        tagline: "London's council meetings, on the record and searchable",
         chatPlaceholder: "Ask anything about council meetings...",
         apiUrl: "https://open-council-production.up.railway.app"
       }),
