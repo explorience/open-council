@@ -3,7 +3,7 @@
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 import OpenAI from 'openai';
-import type { Meeting, EmbeddingChunk, Content } from './types.js';
+import type { Meeting, EmbeddingChunk, Content, TranscriptSegment } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
 const MAX_BATCH_SIZE = 100; // Maximum chunks per batch
@@ -11,6 +11,7 @@ const MAX_TOKENS_PER_BATCH = 8000; // text-embedding-3-small has 8192 token limi
 const MAX_TOKENS_PER_CHUNK = 8000; // Maximum tokens per individual chunk
 const RATE_LIMIT_DELAY_MS = 0; // No delay between batches (retry logic handles rate limits)
 const MAX_RETRIES = 5;
+const TRANSCRIPT_CHUNK_DURATION_SECONDS = 300; // 5-minute transcript chunks
 
 /**
  * Rough token count estimation (OpenAI uses ~4 chars per token for English text)
@@ -175,7 +176,91 @@ export class EmbeddingGenerator {
       });
     }
 
+    // Transcript chunks (if available)
+    if (meeting.transcript?.length) {
+      const transcriptChunks = this.createTranscriptChunks(meeting.transcript, baseMetadata, filePath);
+      chunks.push(...transcriptChunks);
+    }
+
     return chunks;
+  }
+
+  /**
+   * Convert timestamp string (HH:MM:SS.mmm) to seconds
+   */
+  private timestampToSeconds(timestamp: string): number {
+    const parts = timestamp.replace(',', '.').split(':');
+    const hours = parseInt(parts[0], 10);
+    const minutes = parseInt(parts[1], 10);
+    const seconds = parseFloat(parts[2]);
+    return hours * 3600 + minutes * 60 + seconds;
+  }
+
+  /**
+   * Create chunks from transcript segments
+   * Groups segments into ~5 minute blocks for embedding
+   */
+  private createTranscriptChunks(
+    transcript: TranscriptSegment[],
+    baseMetadata: any,
+    filePath: string
+  ): EmbeddingChunk[] {
+    const chunks: EmbeddingChunk[] = [];
+
+    if (!transcript.length) return chunks;
+
+    let currentChunkSegments: TranscriptSegment[] = [];
+    let chunkStartTime = this.timestampToSeconds(transcript[0].start);
+    let chunkIndex = 0;
+
+    for (const segment of transcript) {
+      const segmentTime = this.timestampToSeconds(segment.start);
+
+      // Check if we should start a new chunk
+      if (segmentTime - chunkStartTime >= TRANSCRIPT_CHUNK_DURATION_SECONDS && currentChunkSegments.length > 0) {
+        // Save current chunk
+        chunks.push(this.buildTranscriptChunk(currentChunkSegments, baseMetadata, filePath, chunkIndex));
+        chunkIndex++;
+
+        // Start new chunk
+        currentChunkSegments = [];
+        chunkStartTime = segmentTime;
+      }
+
+      currentChunkSegments.push(segment);
+    }
+
+    // Don't forget the last chunk
+    if (currentChunkSegments.length > 0) {
+      chunks.push(this.buildTranscriptChunk(currentChunkSegments, baseMetadata, filePath, chunkIndex));
+    }
+
+    return chunks;
+  }
+
+  /**
+   * Build a single transcript chunk from segments
+   */
+  private buildTranscriptChunk(
+    segments: TranscriptSegment[],
+    baseMetadata: any,
+    filePath: string,
+    chunkIndex: number
+  ): EmbeddingChunk {
+    const text = segments.map(s => s.text).join(' ');
+    const startTime = segments[0].start;
+    const endTime = segments[segments.length - 1].end;
+
+    return {
+      id: `${filePath}:transcript:${chunkIndex}`,
+      text: `[Transcript ${startTime} - ${endTime}]\n${text}`,
+      metadata: {
+        ...baseMetadata,
+        chunk_type: 'transcript',
+        transcript_start: startTime,
+        transcript_end: endTime,
+      },
+    };
   }
 
   /**

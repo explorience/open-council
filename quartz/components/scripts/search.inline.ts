@@ -444,7 +444,30 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         const endIdx = startIdx + "2025-01-07".length
         return new Date(idDataMap[id].slice(startIdx, endIdx))
       }
-      const sortedIds = ids.sort((a, b) => toDate(a) < toDate(b) ? 1 : -1)
+
+      // Check if the match is primarily in transcript content (deprioritize these)
+      const isTranscriptMatch = (id: number): boolean => {
+        const content = data[idDataMap[id]]?.content || ""
+        const transcriptStart = content.indexOf("## Full Transcript")
+        if (transcriptStart === -1) return false
+
+        // Check if search term appears before transcript section
+        const beforeTranscript = content.slice(0, transcriptStart).toLowerCase()
+        return !beforeTranscript.includes(currentSearchTerm.toLowerCase())
+      }
+
+      // Sort: non-transcript matches first (by date), then transcript matches (by date)
+      const sortedIds = ids.sort((a, b) => {
+        const aIsTranscript = isTranscriptMatch(a)
+        const bIsTranscript = isTranscriptMatch(b)
+
+        if (aIsTranscript !== bIsTranscript) {
+          return aIsTranscript ? 1 : -1  // Non-transcript first
+        }
+        // Same category: sort by date (newest first)
+        return toDate(a) < toDate(b) ? 1 : -1
+      })
+
       return sortedIds.filter(id => idDataMap[id] !== "index") as number[]
     }
 
