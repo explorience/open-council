@@ -400,6 +400,69 @@ export class RAGService {
   }
 
   /**
+   * Extract topic keywords from a voting query
+   * For "how did Lewis vote on bike lanes" -> "bike lanes cycling"
+   * For "Stevenson's voting record on e-scooters" -> "e-scooters scooter"
+   */
+  private extractTopicKeywords(query: string): string | null {
+    const lowerQuery = query.toLowerCase();
+
+    // Common topic patterns and their expanded keywords for better embedding match
+    const topicExpansions: Record<string, string> = {
+      'bike': 'bike bicycle cycling cycling network cycling infrastructure active transportation',
+      'bicycle': 'bike bicycle cycling cycling network cycling infrastructure active transportation',
+      'cycling': 'bike bicycle cycling cycling network cycling infrastructure active transportation mobility master plan',
+      'bike lane': 'bike lane cycling infrastructure cycling network removed BE REMOVED mobility master plan',
+      'scooter': 'scooter e-scooter electric scooter micro-mobility shared mobility',
+      'e-scooter': 'scooter e-scooter electric scooter micro-mobility shared mobility',
+      'climate': 'climate environment CEAP climate emergency greenhouse gas emissions net zero',
+      'housing': 'housing affordable housing social housing homelessness shelter supportive housing',
+      'homeless': 'homeless homelessness shelter encampment supportive housing hub WCSR',
+      'budget': 'budget tax levy property tax funding spending allocation',
+      'tax': 'tax levy property tax budget increase decrease',
+      'police': 'police LPS London Police Service public safety community safety',
+      'transit': 'transit bus BRT rapid transit LTC London Transit',
+      'development': 'development zoning planning site plan variance intensification',
+    };
+
+    // Try to find topic after common voting query patterns
+    const topicPatterns = [
+      /vote[ds]? (on|for|against) (.+?)(\?|$)/i,
+      /voting record (on|for|about) (.+?)(\?|$)/i,
+      /position on (.+?)(\?|$)/i,
+      /support(ed|s)? (.+?)(\?|$)/i,
+      /oppose[ds]? (.+?)(\?|$)/i,
+    ];
+
+    for (const pattern of topicPatterns) {
+      const match = query.match(pattern);
+      if (match) {
+        const topic = match[2] || match[1];
+        const cleanTopic = topic.trim().toLowerCase();
+
+        // Check if we have an expansion for this topic
+        for (const [key, expansion] of Object.entries(topicExpansions)) {
+          if (cleanTopic.includes(key)) {
+            return expansion;
+          }
+        }
+
+        // Return the raw topic if no expansion found
+        return cleanTopic;
+      }
+    }
+
+    // Fallback: check for known topic keywords anywhere in query
+    for (const [key, expansion] of Object.entries(topicExpansions)) {
+      if (lowerQuery.includes(key)) {
+        return expansion;
+      }
+    }
+
+    return null;
+  }
+
+  /**
    * Detect if this is a councillor-specific voting query
    * Returns the councillor name if found
    *
@@ -574,15 +637,25 @@ export class RAGService {
       // 2. Get recent results to ensure we don't miss recent votes
       const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.4));
 
-      // 3. If we have a councillor name, do an additional semantic search with JUST the name
-      // This helps find chunks where the councillor voted (or was absent) but topic keywords aren't prominent
-      // Example: "Lewis absent" in a cycling vote might not match "Lewis bike lanes" semantically
+      // 3. If we have a councillor name, do additional targeted searches
       let councillorNameResults: SearchResult[] = [];
+      let councillorTopicResults: SearchResult[] = [];
       if (councillorName) {
-        const nameQuery = `${councillorName} voted vote yeas nays absent council motion`;
+        // 3a. Search for the councillor name with voting keywords
+        const nameQuery = `${councillorName} voted vote yeas nays absent council motion moved`;
         const nameEmbedding = await this.generateQueryEmbedding(nameQuery);
         councillorNameResults = await this.vectorStore.search(nameEmbedding, Math.floor(topK * 0.3));
-        console.log(`   Additional name-based search for "${councillorName}": ${councillorNameResults.length} results`);
+        console.log(`   Name-based search for "${councillorName}": ${councillorNameResults.length} results`);
+
+        // 3b. Extract topic from original query and search for councillor + topic + action keywords
+        // This helps find "Motion made by Lewis" + "cycling" + "BE REMOVED" chunks
+        const topicKeywords = this.extractTopicKeywords(query);
+        if (topicKeywords) {
+          const topicQuery = `${councillorName} ${topicKeywords} motion moved vote removed approved rejected`;
+          const topicEmbedding = await this.generateQueryEmbedding(topicQuery);
+          councillorTopicResults = await this.vectorStore.search(topicEmbedding, Math.floor(topK * 0.3));
+          console.log(`   Topic-based search for "${councillorName}" + "${topicKeywords}": ${councillorTopicResults.length} results`);
+        }
       }
 
       // Combine and deduplicate results, prioritizing recency
@@ -600,10 +673,11 @@ export class RAGService {
         }
       };
 
-      // Add in order: recent first, then semantic, then name-based
+      // Add in order: recent first, then semantic, then name-based, then topic-based
       addResults(recentResults);
       addResults(semanticResults);
       addResults(councillorNameResults);
+      addResults(councillorTopicResults);
 
       // Sort by date descending so recent votes appear first in context
       const sorted = combinedResults.sort((a, b) => {
@@ -613,7 +687,7 @@ export class RAGService {
       });
 
       this.logUniqueMeetings(sorted);
-      console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent + ${councillorNameResults.length} name-based = ${sorted.length} unique chunks`);
+      console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent + ${councillorNameResults.length} name + ${councillorTopicResults.length} topic = ${sorted.length} unique chunks`);
 
       return sorted.slice(0, topK);
     }
