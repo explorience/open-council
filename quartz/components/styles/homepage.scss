@@ -19,16 +19,20 @@ body.advanced-mode {
   }
 }
 
-// Hide explorer on homepage initially
+// Hide explorer on homepage initially (only show in advanced mode when toggled)
 .page-footer > .explorer {
   display: none;
-  margin-top: 2rem;
-  padding-top: 1rem;
-  border-top: 1px solid var(--lightgray);
+  max-width: 1000px;
+  margin: 2rem auto 0;
+  padding: 1.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--light);
+}
 
-  &.visible {
-    display: block;
-  }
+// Only show explorer when visible class is added AND in advanced mode
+body.advanced-mode .page-footer > .explorer.visible {
+  display: block;
 }
 
 // Homepage-specific layout adjustments

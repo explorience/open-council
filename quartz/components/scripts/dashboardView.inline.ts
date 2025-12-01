@@ -19,9 +19,28 @@ document.addEventListener("nav", () => {
     document.dispatchEvent(event)
   }
 
-  // Browse All Files - open search
+  // Browse All Files - toggle explorer visibility
   browseAllBtn?.addEventListener("click", () => {
-    triggerSearch()
+    const explorer = document.querySelector(".explorer") as HTMLElement
+    if (explorer) {
+      const isVisible = explorer.classList.contains("visible")
+      explorer.classList.toggle("visible", !isVisible)
+
+      if (!isVisible) {
+        // Expand the explorer tree
+        const explorerUl = explorer.querySelector("#explorer-ul") as HTMLElement
+        const button = explorer.querySelector("#explorer") as HTMLButtonElement
+
+        if (explorerUl && button && explorerUl.classList.contains("collapsed")) {
+          button.click()
+        }
+
+        // Scroll to explorer
+        setTimeout(() => {
+          explorer.scrollIntoView({ behavior: "smooth", block: "start" })
+        }, 100)
+      }
+    }
   })
 
   // Full Search - open search
@@ -29,7 +48,7 @@ document.addEventListener("nav", () => {
     triggerSearch()
   })
 
-  // View all meetings link - also opens search
+  // View all meetings link - open search
   browseAllLink?.addEventListener("click", (e) => {
     e.preventDefault()
     triggerSearch()

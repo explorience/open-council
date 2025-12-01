@@ -135,6 +135,11 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.DashboardView(),
       condition: (page) => page.fileData.slug === "index",
     }),
+    // Explorer for Browse All button (hidden by default, shown when button clicked)
+    Component.ConditionalRender({
+      component: explorer,
+      condition: (page) => page.fileData.slug === "index",
+    }),
     // Hidden search component for homepage (enables Ctrl+K and search buttons)
     Component.ConditionalRender({
       component: Component.Search(),
