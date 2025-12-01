@@ -6,12 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Sandy White serve on during their time on London City Council?"
-  - "How did Sandy White's meeting attendance record of 164 meetings compare to other council members during the 2011-2014 term?"
-  - "What was Sandy White's voting pattern on key municipal issues such as budget approvals, development proposals, or policy changes during their council term?"
+  - "What was Sandy White's voting record on major budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on, and what was their attendance record for committee meetings?"
+  - "Did Sandy White sponsor or champion any particular bylaws or motions during their time on council?"
 ---
 
-Sandy White served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 164 meetings during their four-year term. White served on five different committees during their tenure, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance and committee involvement suggests consistent engagement in the council's work and municipal governance responsibilities throughout their term.
+Sandy White served on London City Council from 2011 to 2014, completing one full term during this four-year period. During their tenure, they demonstrated consistent participation by attending 164 council meetings. White was actively involved in committee work, serving on five different committees throughout their time on council, though the specific names of these committees are not clearly identified in the available data.
+
+White's participation record shows regular engagement with council business over their single term in office. Their attendance at 164 meetings over the four-year period suggests active involvement in the legislative process and council deliberations during their time representing constituents on London City Council.
 
 ## Terms of Service
 

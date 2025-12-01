@@ -6,14 +6,12 @@ meetingCount: 328
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Matt Brown's voting record on major budget decisions and tax increases during his 2011-2018 tenure?"
-  - "Which specific committees did he serve on and what leadership roles, if any, did he hold within those committees?"
-  - "How did his attendance rate of 328 meetings compare to other council members serving during the same period?"
+  - "What was Matt Brown's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during his 2011-2018 tenure?"
+  - "Which specific committees did Matt Brown serve on, and did he hold any leadership positions such as chair or vice-chair roles on these committees?"
+  - "How did Matt Brown's meeting attendance rate compare to other council members during his time in office, and were there any notable patterns in his participation?"
 ---
 
-Matt Brown served on London City Council from 2011 to 2018, demonstrating consistent engagement through his attendance at 328 meetings over his seven-year tenure. During his time on council, he participated in eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
-
-His multi-year service and extensive meeting attendance suggest active participation in the council's decision-making processes, though the specific nature of his committee work and voting patterns would require additional records to fully characterize his contributions to London's municipal government during this period.
+Matt Brown served on London City Council from 2011 to 2018, demonstrating active participation with attendance at 328 meetings over his seven-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and policy areas. His consistent meeting attendance and extensive committee work suggest he was an engaged member of council throughout his term.
 
 ## Terms of Service
 

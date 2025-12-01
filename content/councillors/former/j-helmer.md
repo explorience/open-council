@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on major municipal issues such as budget approvals, development projects, or transportation initiatives?"
-  - "How frequently did Jesse Helmer miss council meetings, and what was their attendance rate compared to other council members during the same period?"
-  - "Which specific committees did Jesse Helmer serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Jesse Helmer's voting attendance rate and were there any notable patterns in their absences from council meetings?"
+  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Jesse Helmer typically vote on major municipal issues such as budget approvals, development applications, or infrastructure projects?"
 ---
 
-Jesse Helmer served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings throughout their tenure. During this period, they served on eight different committees, indicating active involvement in various aspects of municipal governance and policy development.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating significant engagement through attendance at 580 meetings over this eight-year period. This represents an average of approximately 72-73 meetings per year, indicating consistent participation in council proceedings.
 
-Helmer's extended service period and substantial meeting attendance record suggests they were an engaged council member who participated regularly in the formal proceedings of municipal government. Their committee work across multiple areas would have provided them with experience in different facets of city administration and decision-making processes.
+During their tenure, Helmer served on eight different committees, showing broad involvement across various aspects of municipal governance. Their extended service period of eight years suggests they served at least two full terms on council, providing continuity and accumulated experience in local government decision-making processes.
 
 ## Terms of Service
 

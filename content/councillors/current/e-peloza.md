@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "What is her voting record on major municipal issues such as budget approvals, development proposals, or policy initiatives?"
-  - "How does her meeting attendance rate compare to other council members, and has she missed any significant votes or meetings?"
+  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
+  - "Which specific committees has she served on and what leadership roles, if any, has she held within those committees?"
+  - "How does her meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her term?"
 ---
 
-Elizabeth Peloza has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 452 meetings during her tenure. Her council service spans approximately seven years, indicating she has served multiple terms or was elected partway through a term cycle. Peloza has been actively involved in committee work, serving on nine different committees throughout her time on council, which suggests broad engagement across various municipal policy areas and administrative functions.
+Elizabeth Peloza has been an active member of London City Council, Canada, serving from 2018 to 2025. During her tenure, she has demonstrated consistent participation by attending 452 council meetings. Her involvement extends beyond general council sessions, as she has served on nine different committees throughout her time in office, indicating broad engagement across various municipal issues and policy areas.
 
-Her meeting attendance record and extensive committee participation indicate a high level of civic engagement and commitment to municipal governance responsibilities. The substantial number of meetings attended over her years of service reflects regular participation in both regular council sessions and committee meetings.
+Her seven-year term represents substantial experience on council, and her high meeting attendance record suggests regular participation in the city's governance processes. The extensive committee work reflects her involvement in the detailed policy development and oversight functions that occur at the committee level before issues come to full council.
 
 ## Terms of Service
 

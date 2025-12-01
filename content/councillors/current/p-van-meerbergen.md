@@ -7,13 +7,13 @@ yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "What is his voting record on major municipal issues such as budget approvals, development projects, or policy changes?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members during the same time period?"
+  - "What is his voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2011-2025 tenure?"
 ---
 
-Paul Van Meerbergen has served as a member of London City Council from 2011 to 2025, demonstrating significant commitment to municipal governance over his 14-year tenure. During this period, he has attended 499 council meetings and served on 7 different committees, indicating active participation in the city's decision-making processes and committee work.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant participation through his attendance at 499 council meetings over his tenure. His involvement spans approximately 14 years of municipal service, during which he has served on seven different committees, indicating broad engagement across various aspects of city governance and policy areas.
 
-His extensive meeting attendance record and multi-committee involvement suggests he has been a consistently engaged council member throughout his time in office. With nearly a decade and a half of service, Van Meerbergen represents one of the longer-serving members of London City Council during this period.
+His consistent attendance record and multi-committee involvement suggest a committed approach to his council responsibilities, participating in the collaborative decision-making processes that guide London's municipal affairs throughout more than a decade of service.
 
 ## Terms of Service
 

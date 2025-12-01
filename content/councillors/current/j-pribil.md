@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members during the same period?"
-  - "Which specific committees has Jerry Pribil served on, and what role has he played in committee decisions and recommendations?"
+  - "What specific committees has Jerry Pribil served on during their time on London City Council?"
+  - "How does Jerry Pribil's meeting attendance record of 212 meetings compare to other council members during the same period?"
+  - "What has been Jerry Pribil's voting pattern on major city issues and budget decisions during their 2022-2025 term?"
 ---
 
-Jerry Pribil has been an active member of London City Council, serving from 2022 to 2025. During this period, he has demonstrated consistent participation by attending 212 council meetings. His involvement extends beyond general council meetings, as he has served on eight different committees, showing broad engagement across various areas of municipal governance.
+Jerry Pribil has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their tenure, indicating broad engagement across various areas of municipal governance.
 
-Pribil's high meeting attendance record and extensive committee participation indicate a dedicated approach to his council responsibilities. His service spanning multiple committees suggests involvement in diverse aspects of city operations and policy development during his term on council.
+This level of meeting attendance and committee participation suggests consistent involvement in the council's decision-making processes and a commitment to representing their constituents through active participation in municipal affairs. Their multi-committee service likely provides them with diverse experience across different aspects of city operations and policy development.
 
 ## Terms of Service
 

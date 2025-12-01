@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting record on major municipal issues like budget approvals, development projects, or infrastructure spending?"
-  - "Which specific committees did Stephen Turner serve on and what roles did he play in those committees?"
-  - "How did Stephen Turner's attendance rate compare to other council members during his time in office?"
+  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his 8-year tenure?"
+  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Stephen Turner's meeting attendance compare to other council members during the same period, and what was his pattern of participation in committee versus full council meetings?"
 ---
 
-Stephen Turner served on London City Council, Canada for eight years from 2014 to 2022. During his tenure, he demonstrated consistent participation by attending 417 meetings and serving on seven different committees, indicating active engagement in the council's work and committee system.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active engagement in the council's work across multiple areas of municipal governance.
 
-His eight-year service span suggests he served at least two full terms on council, maintaining a regular presence in municipal governance. The high number of meeting attendances and multiple committee appointments reflect substantial involvement in London's municipal decision-making processes throughout his time in office.
+His attendance record and multi-committee involvement suggests he was a regular participant in council proceedings throughout his time in office. The length of his service spanning two full council terms reflects either re-election or appointment to multiple terms during this period.
 
 ## Terms of Service
 

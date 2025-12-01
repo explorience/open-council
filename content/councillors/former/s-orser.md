@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on key municipal issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his level of participation in committee work?"
-  - "How did his attendance rate of 112 meetings compare to other council members during the same period?"
+  - "What was Stephen Orser's voting record on major municipal issues during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on, and what was his level of participation in committee work?"
+  - "Did Stephen Orser sponsor or champion any particular initiatives or motions during his time on council?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, completing a full four-year term. During this period, he demonstrated active participation by attending 112 council meetings. He was appointed to serve on four different committees during his tenure, though the specific committee names are not clearly displayed in the available data.
+Stephen Orser served on London City Council from 2011 to 2014, completing one full term during this period. Throughout his tenure, he demonstrated consistent participation by attending 112 council meetings. Orser was actively involved in the committee structure of the council, serving on four different committees during his time in office, though the specific names of these committees are not clearly indicated in the available data.
 
-His participation record shows consistent engagement with municipal governance over his term, with regular attendance at council sessions where city business was conducted and decisions were made affecting London residents.
+His four-year term represents a standard municipal council term length, and his meeting attendance record suggests regular engagement with council business and municipal governance responsibilities during his time representing his constituents on London City Council.
 
 ## Terms of Service
 

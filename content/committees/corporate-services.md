@@ -4,14 +4,14 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What specific infrastructure projects or policies has the committee addressed since expanding to include infrastructure responsibilities?"
-  - "How does the Corporate Services Committee's budget allocation decisions impact the delivery of front-line services to London residents?"
-  - "What transparency measures are in place for citizens to access information about the committee's decisions on procurement, staffing, and technology investments?"
+  - "What specific types of financial decisions and budget allocations does the Corporate Services Committee have authority to approve without full City Council review?"
+  - "How does the committee ensure transparency and accountability in municipal procurement processes and vendor selection?"
+  - "What role does this committee play in setting policies for city employee compensation, benefits, and workplace standards?"
 ---
 
-The Corporate Services Committee of London City Council serves as a key governance body responsible for overseeing the internal operations and administrative functions that support the municipality's delivery of services to residents. This committee typically handles matters related to human resources, information technology, financial management, procurement policies, organizational structure, and strategic planning initiatives. As one of the standing committees of Council, it plays a crucial role in ensuring the city operates efficiently and transparently while maintaining fiscal responsibility and adherence to municipal policies and procedures.
+The Corporate Services Committee is a standing committee of London City Council that oversees the administrative and operational functions that support the city's governance and service delivery. This committee typically handles matters related to human resources, information technology, financial management, procurement, legal services, risk management, and other corporate administrative functions that enable the city to operate effectively. With 280 meetings held to date, it demonstrates the ongoing nature of municipal administration and the need for regular oversight of these essential support services.
 
-Based on the meeting history showing 280 total meetings and the evolution from "Corporate Services Committee" to "Infrastructure and Corporate Services Committee" in some recent sessions, this committee appears to have expanded its mandate to also address infrastructure-related matters. The committee serves as a forum where city staff present recommendations on corporate policies, budget allocations for administrative functions, technology upgrades, staffing decisions, and other operational matters that require Council approval. Their work directly impacts how effectively the city can deliver services to London's residents and manage public resources.
+The committee plays a crucial role in city governance by ensuring that London has the proper administrative infrastructure, policies, and procedures in place to deliver services to residents efficiently and transparently. It addresses issues such as budget oversight, staffing matters, technology upgrades, policy development, compliance with regulations, and strategic planning initiatives. The committee also reviews contracts, approves expenditures within its mandate, and makes recommendations to City Council on corporate matters that require broader approval. The recent meeting titles suggest the committee may have been reorganized or combined with infrastructure oversight at times, reflecting the interconnected nature of municipal operations.
 
 ## Recent Meetings
 

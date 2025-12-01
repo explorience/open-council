@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members?"
-  - "Has Shawn Lewis held any leadership positions or chair roles on the committees they've served on?"
+  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Shawn Lewis served on and what roles (chair, vice-chair, member) have they held on these committees?"
+  - "How has Shawn Lewis voted on major municipal issues such as budget approvals, development projects, or significant policy changes during their tenure?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating significant participation with attendance at 495 meetings during this period. Their council involvement spans multiple terms, indicating sustained civic engagement over approximately seven years of service.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 meetings over this seven-year period. This represents an average of approximately 70 meetings per year, indicating regular engagement in council proceedings. Lewis has served on eight different committees during their tenure, showing broad involvement across various areas of municipal governance and policy development.
 
-Lewis has served on eight different committees during their tenure, showing broad participation across various areas of municipal governance. This level of committee involvement suggests active engagement in the detailed work of city council beyond regular council meetings, contributing to policy development and municipal decision-making processes across multiple portfolios.
+Their extended service period spanning nearly two full council terms suggests they have been re-elected by their constituents and maintained their position through multiple election cycles. The substantial meeting attendance record indicates active participation in the formal decision-making processes of London City Council.
 
 ## Terms of Service
 

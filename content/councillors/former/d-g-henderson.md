@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their role or contribution to those committees?"
-  - "How did Henderson's meeting attendance rate compare to other council members during the same period?"
+  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their level of participation in committee work?"
+  - "How did Henderson's attendance rate of 142 meetings compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during their term. Henderson served on four committees during their time on council, though the specific committee details are not clearly specified in the available data. Their four-year tenure represents a full term of municipal service in London, Ontario.
+Dale Henderson served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, Henderson demonstrated consistent participation by attending 142 council meetings. Throughout their tenure, Henderson served on four different committees, though the specific committee names are not clearly displayed in the available data.
 
-Henderson's meeting attendance of 142 sessions over the four-year period suggests regular engagement with council business and municipal governance responsibilities. As a council member serving on multiple committees, Henderson would have been involved in various aspects of municipal decision-making and policy development during their 2011-2014 term.
+Henderson's attendance record suggests active engagement in municipal governance during their single term on council. Their participation spanned the full duration of their elected term, indicating sustained involvement in the city's legislative processes and committee work.
 
 ## Terms of Service
 

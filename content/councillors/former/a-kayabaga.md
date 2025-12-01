@@ -6,12 +6,14 @@ meetingCount: 180
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Arielle Kayabaga's voting record on key municipal issues during her time on London City Council?"
-  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
-  - "How did her meeting attendance and participation compare to other council members during the 2018-2021 term?"
+  - "What was Arielle Kayabaga's voting record on key municipal issues during her 2018-2021 term?"
+  - "Which specific committees did she serve on and what were her primary areas of focus or expertise?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation with attendance at 180 meetings during her tenure. Over this three-year period, she served on five different committees, showing engagement across multiple areas of municipal governance. Her meeting attendance indicates consistent involvement in the council's regular business and committee work throughout her time in office.
+Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation with attendance at 180 meetings during her tenure. She was involved in multiple committees throughout her time on council, serving on five different committees, though the specific names of these committees are not clearly displayed in the available data.
+
+Her three-year term shows consistent engagement with municipal governance, and her meeting attendance record suggests regular participation in council proceedings and committee work during her time as an elected representative for the City of London.
 
 ## Terms of Service
 

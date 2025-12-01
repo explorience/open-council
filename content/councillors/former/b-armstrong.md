@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on key municipal issues during his 2012-2018 tenure?"
-  - "Which specific committees did he serve on and what roles did he hold within those committees?"
-  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What was Bill Armstrong's voting record on major budget decisions and tax increases during his 2012-2018 tenure?"
+  - "Which specific committees did Armstrong serve on and what leadership roles, if any, did he hold on those committees?"
+  - "How did Armstrong's attendance rate of 245 meetings compare to other council members during the same period?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was an active committee member, serving on five different committees throughout his time on council, though the specific committee names are not clearly displayed in the available data.
+Bill Armstrong served on London City Council from 2012 to 2018, demonstrating active participation with attendance at 245 meetings over his six-year tenure. During his time on council, he served on five different committees, though the specific committee names are not clearly displayed in the available data. His consistent meeting attendance suggests regular engagement in municipal governance and council proceedings throughout his term.
 
-His attendance record and committee involvement suggest he maintained regular engagement with council business over his six years of service. The substantial number of meetings attended indicates consistent participation in the formal decision-making processes of London City Council during his term.
+Armstrong's six-year service period represents a substantial commitment to municipal politics in London, Ontario, spanning what would typically be two council terms. His participation in multiple committees indicates involvement across various aspects of city governance and policy development during his time as an elected representative.
 
 ## Terms of Service
 

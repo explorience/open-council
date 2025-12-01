@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting pattern on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
-  - "How frequently does David Ferreira miss council meetings or committee sessions, and what is his overall attendance rate?"
-  - "On which specific committees does David Ferreira serve, and has he taken any leadership roles such as committee chair or vice-chair positions?"
+  - "What is David Ferreira's voting record on major municipal issues such as budget approvals, development projects, and policy changes?"
+  - "How often does David Ferreira vote in alignment with the majority versus taking independent positions on council decisions?"
+  - "Which specific committees does David Ferreira serve on, and has he taken leadership roles such as chair or vice-chair positions on any of these committees?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During his current term, he has demonstrated consistent participation by attending 208 council meetings. His involvement extends beyond general council sessions, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong participation by attending 208 council meetings. His involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal portfolios and policy areas.
 
-Ferreira's attendance record of 208 meetings suggests strong commitment to his council duties during his term. His participation on multiple committees shows his involvement in the detailed work of municipal governance, where much of the preliminary discussion and decision-making occurs before issues reach full council sessions.
+Ferreira's consistent meeting attendance and extensive committee participation suggest a dedicated approach to his council responsibilities. His service spans multiple committees, which typically allows council members to develop expertise in specific areas of municipal governance and contribute to detailed policy development and oversight across different city departments and initiatives.
 
 ## Terms of Service
 

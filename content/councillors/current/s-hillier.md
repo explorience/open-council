@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting record on major municipal issues such as budget approvals, development projects, and transportation initiatives?"
-  - "Which specific committees has he served on, and what leadership roles, if any, has he held within those committees?"
-  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his term?"
+  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How often does Steve Hillier speak during council meetings and what types of motions or amendments does he typically propose?"
+  - "Which specific committees has Steve Hillier served on and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal issues and portfolios.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent engagement with council business, attending 453 meetings over the course of his service. Hillier has participated broadly in the committee structure of the council, serving on seven different committees, indicating involvement across multiple areas of municipal governance and policy development.
 
-His multi-year service span and high meeting attendance record suggest a commitment to the council's work and municipal governance processes. The range of committee involvement shows participation in the detailed work that often forms the foundation of council decisions and policy development.
+His high meeting attendance record and extensive committee participation suggest a committed approach to his council responsibilities, spanning what appears to be at least one full term of office with continued service into the current term.
 
 ## Terms of Service
 

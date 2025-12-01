@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting pattern on key municipal issues like budget approvals, development projects, and policy initiatives during his time on council?"
-  - "How frequently did he introduce motions or amendments, and what was the success rate of his proposed initiatives?"
-  - "Did he serve in any leadership roles on the committees he was appointed to, such as chair or vice-chair positions?"
+  - "What was Michael van Holst's voting record on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
+  - "Which specific committees did he serve on and what was his level of participation or leadership role on those committees?"
+  - "How did his attendance record and voting patterns compare to other council members during his tenure from 2014-2022?"
 ---
 
-Michael van Holst served on London City Council, Canada from 2014 to 2022, spanning an eight-year period. During his tenure, he demonstrated consistent participation by attending 461 council meetings. His service included appointments to eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city's committee structure.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement in various aspects of municipal governance and decision-making processes.
 
-Van Holst's attendance record and committee participation suggest active engagement in the council's work throughout his time in office. His eight-year term and extensive meeting attendance reflect sustained commitment to his role as a city councillor in London's municipal government.
+His extended service period of eight years suggests he was re-elected at least once during his tenure, as municipal terms in Ontario are typically four years in length. The substantial number of meetings attended reflects regular engagement with council business and committee work throughout his time in office.
 
 ## Terms of Service
 

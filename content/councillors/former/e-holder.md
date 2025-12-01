@@ -6,14 +6,14 @@ meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Ed Holder's voting record on key municipal issues during his 2018-2022 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus general council meetings?"
-  - "How does his 313-meeting attendance compare to other council members during the same period, and what percentage of total meetings did this represent?"
+  - "What was Ed Holder's voting attendance rate and how did it compare to other council members during the 2018-2022 term?"
+  - "Which specific committees did Ed Holder serve on and what were his roles or positions within those committees?"
+  - "What were some of the key motions or initiatives that Ed Holder voted on or championed during his time on council?"
 ---
 
-Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings over this four-year period. During his tenure, he served on six different committees, though the specific committee names are not clearly specified in the available data.
+Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings during his four-year term. His council involvement included service on six different committees, indicating broad engagement across various municipal policy areas and administrative functions.
 
-His meeting attendance record suggests consistent engagement with council business throughout his term. The four-year service period from 2018-2022 represents a full council term, indicating he completed his elected mandate on London City Council.
+This level of meeting attendance suggests consistent participation in council proceedings over the course of his term. His multi-committee involvement would have provided him with exposure to diverse aspects of municipal governance and policy development during his time serving the London community.
 
 ## Terms of Service
 

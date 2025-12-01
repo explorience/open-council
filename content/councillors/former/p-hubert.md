@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major budget items and tax increases during his time on council?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions?"
-  - "How did Paul Hubert's attendance rate compare to other council members during the 2011-2018 period?"
+  - "What was Paul Hubert's voting pattern on major city budget decisions during his 2011-2018 tenure?"
+  - "How did his attendance rate compare to other council members serving during the same period?"
+  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During this period, he served on eight different committees, indicating broad involvement across various areas of municipal governance. His attendance record suggests regular engagement with council responsibilities throughout his time in office.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating significant engagement through his attendance at 363 meetings over this seven-year period. This represents an average of approximately 52 meetings per year, indicating consistent participation in council proceedings. Throughout his tenure, Hubert served on eight different committees, showing broad involvement across various areas of municipal governance and policy development.
 
-His service span of seven years represents nearly two full terms on council, showing sustained commitment to municipal politics in London. The substantial number of meetings attended and multiple committee appointments indicate he was an active participant in the city's decision-making processes during his tenure.
+His multi-committee involvement suggests he took on diverse responsibilities within the council structure, contributing to different aspects of city administration and decision-making processes during his time in office.
 
 ## Terms of Service
 

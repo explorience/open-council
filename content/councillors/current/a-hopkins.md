@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council, and in what capacity?"
-  - "How does Anna Hopkins' meeting attendance rate compare to other council members during overlapping terms of service?"
-  - "What has been Anna Hopkins' voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council, and did she hold any chair or vice-chair positions?"
+  - "How does her meeting attendance rate of 640 meetings compare to other council members during the same time period?"
+  - "What were some of the key votes or policy decisions Anna Hopkins supported or opposed during her tenure on council?"
 ---
 
-Anna Hopkins has served as a member of London City Council in Canada from 2014 to 2025, demonstrating a significant commitment to municipal governance over more than a decade. During her tenure, she has attended 640 council meetings and has served on eight different committees, indicating active participation in the council's work across multiple areas of municipal responsibility.
+Anna Hopkins has been an active member of London City Council in Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During her tenure, she has demonstrated consistent engagement by attending 640 council meetings and serving on 8 different committees, indicating broad involvement across various aspects of city governance and policy areas.
 
-Her lengthy service period of eleven years and extensive meeting attendance record suggests consistent engagement with council duties and municipal decision-making processes. The breadth of her committee involvement across eight different committees indicates participation in diverse aspects of city governance and policy development.
+Her extensive meeting attendance record and multi-committee participation suggests a committed approach to her council responsibilities, spanning what appears to be multiple terms in office. This level of engagement reflects sustained civic involvement in London's municipal decision-making processes over an 11-year period.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what policy areas did those committees oversee?"
-  - "How did Joe Swan vote on major municipal issues and budget decisions during his four years on council?"
+  - "What was Joe Swan's voting record on major municipal issues during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on and what was his attendance rate for committee meetings?"
+  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Joe Swan served on London City Council from 2011 to 2014, representing a four-year term during which he attended 147 meetings. During his tenure, he participated on six different committees, demonstrating active engagement in the council's committee structure. His attendance record suggests consistent participation in council proceedings throughout his term.
+Joe Swan served on London City Council from 2011 to 2014, completing a four-year term. During this period, he demonstrated consistent participation by attending 147 council meetings. Swan was actively involved in the committee system, serving on six different committees throughout his tenure, though the specific committee names are not clearly specified in the available data.
 
-Swan's service spanned one full council term, indicating he either chose not to seek re-election or was not re-elected following the 2014 municipal election. His involvement across multiple committees would have provided him with exposure to various aspects of municipal governance and policy areas during his time in office.
+His meeting attendance record suggests regular engagement with council business over the course of his four-year term. The number of committee appointments indicates he took on a substantial workload beyond regular council meetings, participating in the detailed committee work that supports municipal governance.
 
 ## Terms of Service
 

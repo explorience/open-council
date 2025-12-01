@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has he served on and what roles (chair, vice-chair, member) has he held on each?"
-  - "Has his meeting attendance been consistent throughout his term, or have there been periods of higher or lower participation?"
+  - "What specific committees has Steve Lehman served on during his time on London City Council?"
+  - "How does Steve Lehman's voting record align on key municipal issues such as budget approval, development projects, and city services?"
+  - "What has been Steve Lehman's attendance rate and level of participation in committee meetings versus general council sessions?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His involvement extends beyond general council meetings, as he has served on six different committees throughout his time in office, indicating broad engagement across various municipal issues and governance areas.
+Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 meetings. His council involvement extends beyond general council sessions, as he has served on six different committees, indicating broad engagement across various municipal portfolios and policy areas.
 
-His seven-year term on council shows sustained commitment to municipal service, with his meeting attendance record suggesting regular participation in the formal decision-making processes of the city. The committee work represents additional time and expertise contributed to specialized areas of municipal governance beyond the standard council responsibilities.
+Lehman's seven-year term on council represents substantial experience in municipal governance, with his high meeting attendance record suggesting dedicated participation in the council's deliberative processes. His committee work would have provided him with specialized knowledge in multiple areas of city administration and policy development.
 
 ## Terms of Service
 

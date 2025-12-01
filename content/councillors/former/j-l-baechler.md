@@ -6,14 +6,14 @@ meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joni Baechler's voting record on key municipal issues like budget approval, development proposals, and infrastructure projects during their 2011-2014 term?"
-  - "Which specific committees did Baechler serve on, and did they hold any chair or vice-chair positions on these committees?"
-  - "How did Baechler's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What was Joni Baechler's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
+  - "Which specific committees did Baechler serve on and did they hold any chair or vice-chair positions during their tenure?"
+  - "What were the key municipal issues or bylaws that Baechler voted on during their time on council, and what positions did they take?"
 ---
 
-Joni Baechler served on London City Council from 2011-2014, representing a single term of approximately four years. During this period, they attended 132 council meetings, demonstrating active participation in the city's governance processes. Baechler served on seven different committees during their tenure, indicating involvement across multiple areas of municipal government and policy development.
+Joni Baechler served on London City Council from 2011-2014, completing one full term during this four-year period. Throughout their tenure, they demonstrated active participation by attending 132 council meetings and serving on seven different committees, indicating substantial engagement in the city's governance and decision-making processes.
 
-Their participation record shows consistent engagement with council duties, attending an average of approximately 33 meetings per year over their four-year term. The committee involvement suggests they took on responsibilities beyond regular council meetings, contributing to the detailed work that occurs at the committee level where much of municipal policy development and review takes place.
+Their committee involvement suggests broad participation across various municipal portfolios, though the specific committees cannot be determined from the available data. The meeting attendance record of 132 meetings over the four-year term reflects consistent participation in council proceedings and committee work.
 
 ## Terms of Service
 

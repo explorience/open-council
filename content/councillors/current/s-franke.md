@@ -6,14 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Skylar Franke served on during their time on London City Council?"
-  - "How does Skylar Franke's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Skylar Franke's voting record on major municipal issues and budget decisions since 2022?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
+  - "Which specific committees does Skylar Franke serve on, and what has been their attendance rate for committee meetings versus general council meetings?"
+  - "How does Skylar Franke's meeting attendance rate of 179 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
-Skylar Franke has served as a member of London City Council in Canada from 2022 to 2025, demonstrating active participation with attendance at 179 council meetings during this period. Their council involvement extends beyond general meetings, as they have served on seven different committees, indicating broad engagement across various municipal governance areas. This level of meeting attendance and committee participation suggests consistent involvement in the city's decision-making processes throughout their term.
+Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated consistent participation by attending 179 council meetings. Franke has been involved in committee work, serving on seven different committees, though the specific names of these committees are not clearly specified in the available data.
 
-Given their current term spanning 2022-2025, Franke appears to be serving their first term on council, having begun their municipal political career in the most recent election cycle. Their participation across multiple committees indicates a willingness to engage with diverse aspects of municipal governance and policy development.
+Their participation shows a commitment to municipal governance through regular meeting attendance and broad committee involvement across multiple areas of city business during their current term.
 
 ## Terms of Service
 

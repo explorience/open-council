@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees does Sam Trosow serve on and what are their primary areas of focus?"
-  - "How has Sam Trosow voted on major municipal issues and budget items during their 2022-2025 term?"
+  - "What specific committees does Sam Trosow serve on, and what are their primary areas of focus?"
+  - "How does Sam Trosow's meeting attendance record of 209 meetings compare to other council members during the same period?"
+  - "What has been Sam Trosow's voting pattern on major city issues and budget decisions during their 2022-2025 term?"
 ---
 
-Sam Trosow is currently serving on London City Council with a term spanning 2022-2025. During this period, they have demonstrated consistent attendance with 209 meetings attended. Trosow has been actively involved in committee work, serving on eight different committees throughout their council tenure.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating significant engagement through attendance at 209 meetings during this period. Their council participation includes service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Their participation shows a high level of engagement in municipal governance, with regular meeting attendance and broad committee involvement across multiple areas of city business. As their term extends into 2025, this represents ongoing active participation in London's municipal decision-making processes.
+Trosow's consistent meeting attendance and multi-committee involvement suggests a hands-on approach to their council duties, though the specific committees they serve on are not clearly detailed in the available data. As a council member serving during the 2022-2025 term, they represent one of the current voices in London's municipal decision-making process.
 
 ## Terms of Service
 

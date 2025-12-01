@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting attendance rate and how did it compare to other council members during her tenure?"
-  - "Which specific committees did she serve on and did she hold any leadership positions such as chair or vice-chair roles?"
-  - "How did her meeting attendance pattern change over the years - was her participation consistent throughout her 2014-2022 term?"
+  - "What was Maureen Cassidy's attendance rate as a percentage of total scheduled meetings during her 2014-2022 term?"
+  - "Which specific committees did Maureen Cassidy serve on and what were her roles or positions within those committees?"
+  - "How did Maureen Cassidy vote on major municipal issues and bylaws that came before council during her eight years of service?"
 ---
 
-Maureen Cassidy served on London City Council for eight years from 2014 to 2022, demonstrating consistent engagement through her attendance at 536 meetings during this period. Her council participation included service on seven different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation over an eight-year period. During her tenure, she attended 536 council meetings and served on seven different committees, indicating active involvement in municipal governance and committee work.
 
-Throughout her tenure, Cassidy maintained an active presence in council proceedings, averaging approximately 67 meetings per year over her eight-year term. Her committee work suggests she contributed to multiple facets of city administration and decision-making processes during her time as an elected representative.
+Her participation record shows sustained engagement with city council duties across two terms of office. The high meeting attendance count and multiple committee appointments suggest she maintained regular involvement in council proceedings and contributed to various aspects of municipal decision-making throughout her time in office.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Judy Bryant's voting record on major budget decisions during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
-  - "How did her voting patterns align with other council members on key municipal issues during her four-year tenure?"
+  - "What was Judy Bryant's voting record on major issues during her 2011-2014 term, and how often did she vote with the majority versus in dissent?"
+  - "Which specific committees did she serve on, and what was her attendance rate for committee meetings versus regular council meetings?"
+  - "Did she sponsor or champion any particular motions or initiatives during her time on council, and what was the outcome of those proposals?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, completing a four-year term. During her tenure, she demonstrated active participation by attending 168 meetings and serving on six different committees, indicating a substantial commitment to council duties and municipal governance.
+Judy Bryant served on London City Council from 2011 to 2014, completing one full term of municipal service. During her four years on council, she attended 168 meetings, demonstrating consistent participation in the council's proceedings. She served on six different committees during her tenure, though the specific names of these committees are not clearly indicated in the available data.
 
-Her consistent meeting attendance and multi-committee involvement suggests she maintained an engaged presence throughout her term on council, contributing to various aspects of city administration and policy development across multiple areas of municipal responsibility.
+Her attendance record suggests regular engagement with council business throughout her term. Bryant's service coincided with the 2010-2014 council term, during which she would have participated in various municipal decisions and policy discussions affecting the City of London.
 
 ## Terms of Service
 

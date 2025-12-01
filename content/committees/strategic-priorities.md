@@ -4,14 +4,14 @@ type: committee
 slug: "strategic-priorities"
 meetingCount: 274
 prefillQuestions:
-  - "What specific strategic priorities is the committee currently focusing on, and how do these align with London's official strategic plan?"
-  - "How can citizens participate in or provide input to the Strategic Priorities and Policy Committee's decision-making process?"
-  - "What major policy decisions or budget allocations has this committee recommended to Council in the past year?"
+  - "How can residents provide input or present concerns to the Strategic Priorities and Policy Committee during their decision-making process?"
+  - "What are the current top strategic priorities that the committee is focusing on for London's development over the next 5-10 years?"
+  - "How does the committee's work translate into actual policy implementation, and what is the timeline between committee recommendations and city council approval?"
 ---
 
-The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, functioning as a high-level policy development and strategic planning forum. This committee typically handles the city's most significant policy initiatives, long-term strategic planning, budget priorities, and major municipal decisions that shape London's future direction. As one of the primary standing committees of Council, it plays a crucial role in reviewing, debating, and making recommendations on matters that align with the city's strategic plan and overarching municipal objectives.
+The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, responsible for examining and developing the city's long-term strategic direction and major policy initiatives. This committee typically handles high-level municipal planning, budget priorities, economic development strategies, and significant policy matters that shape London's future growth and development. With 274 meetings held, the committee demonstrates its active role in addressing complex municipal issues that require detailed deliberation and strategic thinking.
 
-With 274 meetings held to date, the committee demonstrates an active and ongoing commitment to addressing complex municipal issues. The committee's work likely encompasses areas such as economic development strategies, infrastructure planning, community services priorities, fiscal policy, and cross-departmental initiatives that require high-level coordination. The frequency of meetings, including special sessions and continuation meetings, suggests the committee regularly grapples with substantive policy matters that require extensive deliberation and may involve significant public input or stakeholder consultation.
+As an integral part of London's municipal governance structure, the committee reviews and makes recommendations on matters such as official plan amendments, major infrastructure projects, community development initiatives, and policy frameworks that guide city operations. The committee's work often involves coordinating between different city departments, consulting with stakeholders, and ensuring that proposed policies align with London's overall strategic vision and municipal priorities. The frequency of meetings, including special sessions and continuation meetings, suggests the committee regularly deals with substantial agenda items that require extended discussion and careful consideration.
 
 ## Recent Meetings
 

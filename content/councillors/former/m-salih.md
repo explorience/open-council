@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and pattern on key municipal issues during their time on council?"
-  - "Which specific committees did Mo Salih serve on, and what was their level of participation in committee work?"
-  - "How did Mo Salih's meeting attendance compare to other council members during overlapping terms of service?"
+  - "What was Mo Salih's voting record on key municipal issues during their 2014-2022 term?"
+  - "Which specific committees did Mo Salih serve on and what roles did they hold within those committees?"
+  - "How does Mo Salih's meeting attendance rate of 350 meetings compare to other council members during the same period?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year term. During this period, they attended 350 council meetings, indicating regular engagement with municipal governance responsibilities.
+Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was actively involved in the committee structure of the council, serving on four different committees throughout their time in office, though the specific committee names are not clearly displayed in the available data.
 
-Based on the available data, Mo Salih served on four committees during their tenure, though the specific committee names are not clearly displayed in the records provided. Their eight-year service span suggests they may have been re-elected at least once, as municipal terms in Ontario are typically four years in length.
+Their eight-year term and high meeting attendance record suggests a committed approach to municipal governance and civic engagement. The participation across multiple committees indicates involvement in various aspects of city administration and policy development during their time representing constituents on London City Council.
 
 ## Terms of Service
 

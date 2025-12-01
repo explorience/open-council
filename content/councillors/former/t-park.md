@@ -6,14 +6,12 @@ meetingCount: 228
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Tanya Park serve on during her time on London City Council?"
-  - "How did her meeting attendance rate compare to other council members during the 2014-2018 term?"
-  - "Did she hold any leadership positions on committees or within council during her tenure?"
+  - "What was Tanya Park's voting record on major municipal issues during her 2014-2018 term?"
+  - "Which specific committees did Tanya Park serve on and what roles did she hold on those committees?"
+  - "How does her meeting attendance of 228 meetings compare to other council members who served during the same period?"
 ---
 
-Tanya Park served on London City Council from 2014 to 2018, demonstrating active participation with attendance at 228 meetings during her four-year term. Throughout her tenure, she participated on seven different committees, indicating broad involvement across various areas of municipal governance and policy development.
-
-Her consistent meeting attendance and multi-committee participation suggests she maintained an engaged role in council proceedings and contributed to diverse aspects of city business during her single term in office.
+Tanya Park served on London City Council from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated active participation by attending 228 council meetings. Park served on seven different committees throughout her time on council, indicating broad engagement across various municipal portfolios and policy areas. Her meeting attendance record suggests consistent involvement in the council's deliberative processes over the course of her term.
 
 ## Terms of Service
 
