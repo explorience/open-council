@@ -40,6 +40,8 @@ jobs:
 
       - name: Sync transcripts from Lillian's archive
         working-directory: scraping
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: python transcript.py
 
       - name: Add transcripts to meeting pages

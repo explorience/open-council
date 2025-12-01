@@ -4,11 +4,14 @@ Transcript scraper and SRT parser for Lillian Skinner's London Council Archive.
 This module fetches and parses SRT (SubRip Text) transcripts from:
 https://london.lillianskinner.ca/
 
+Uses the Firecrawl API for reliable scraping to avoid 403 errors.
+
 Usage:
   python transcript.py                    # Sync all available transcripts
   python transcript.py 2025-11-26 Council # Fetch specific meeting transcript
 """
 
+import os
 import re
 import json
 import requests
@@ -19,6 +22,10 @@ from typing import Optional, List, Dict, Any
 
 # Base URL for Lillian's archive
 ARCHIVE_BASE_URL = "https://london.lillianskinner.ca"
+
+# Firecrawl API configuration
+FIRECRAWL_API_URL = "https://api.firecrawl.dev/v1/scrape"
+FIRECRAWL_API_KEY = os.environ.get('FIRECRAWL_API_KEY', '')
 
 # Mapping from our meeting types to Lillian's directory structure
 MEETING_TYPE_MAPPING = {
@@ -139,9 +146,85 @@ def build_transcript_url(date: datetime, meeting_type: str) -> Optional[str]:
     return f"{ARCHIVE_BASE_URL}/Meetings/{mapped_type}/{year}/{month_day}/.transcript.srt"
 
 
+def fetch_transcript_via_firecrawl(url: str) -> Optional[str]:
+    """
+    Fetch content from a URL using the Firecrawl API.
+
+    Args:
+        url: The URL to fetch
+
+    Returns:
+        Raw content as string, or None if not available
+    """
+    if not FIRECRAWL_API_KEY:
+        print("  Warning: FIRECRAWL_API_KEY not set, falling back to direct request")
+        return None
+
+    try:
+        response = requests.post(
+            FIRECRAWL_API_URL,
+            headers={
+                'Authorization': f'Bearer {FIRECRAWL_API_KEY}',
+                'Content-Type': 'application/json'
+            },
+            json={
+                'url': url,
+                'formats': ['rawHtml']
+            },
+            timeout=60
+        )
+
+        if response.status_code == 200:
+            data = response.json()
+            if data.get('success'):
+                # For SRT files, the content is in rawHtml
+                raw_content = data.get('data', {}).get('rawHtml', '')
+                if raw_content:
+                    return raw_content
+        elif response.status_code == 402:
+            print("  Warning: Firecrawl API quota exceeded")
+            return None
+        elif response.status_code == 404 or (response.status_code == 200 and not response.json().get('success')):
+            return None  # URL not found or not accessible
+        else:
+            print(f"  Warning: Firecrawl API returned status {response.status_code}")
+            return None
+    except requests.RequestException as e:
+        print(f"  Error calling Firecrawl API: {e}")
+        return None
+
+    return None
+
+
+def fetch_transcript_direct(url: str) -> Optional[str]:
+    """
+    Fetch content from a URL directly (fallback method).
+
+    Args:
+        url: The URL to fetch
+
+    Returns:
+        Raw content as string, or None if not available
+    """
+    try:
+        response = requests.get(url, timeout=30)
+        if response.status_code == 200:
+            return response.text
+        elif response.status_code == 404:
+            return None
+        else:
+            print(f"  Warning: Got status {response.status_code} for {url}")
+            return None
+    except requests.RequestException as e:
+        print(f"  Error fetching transcript: {e}")
+        return None
+
+
 def fetch_transcript(date: datetime, meeting_type: str) -> Optional[List[Dict[str, Any]]]:
     """
     Fetch and parse a transcript for a specific meeting.
+
+    Uses Firecrawl API if available, otherwise falls back to direct requests.
 
     Args:
         date: Meeting date
@@ -154,18 +237,19 @@ def fetch_transcript(date: datetime, meeting_type: str) -> Optional[List[Dict[st
     if not url:
         return None
 
-    try:
-        response = requests.get(url, timeout=30)
-        if response.status_code == 200:
-            return parse_srt(response.text)
-        elif response.status_code == 404:
-            return None  # Transcript not yet available
-        else:
-            print(f"  Warning: Got status {response.status_code} for {url}")
-            return None
-    except requests.RequestException as e:
-        print(f"  Error fetching transcript: {e}")
-        return None
+    # Try Firecrawl API first if key is available
+    content = None
+    if FIRECRAWL_API_KEY:
+        content = fetch_transcript_via_firecrawl(url)
+
+    # Fall back to direct request if Firecrawl didn't work
+    if content is None and not FIRECRAWL_API_KEY:
+        content = fetch_transcript_direct(url)
+
+    if content:
+        return parse_srt(content)
+
+    return None
 
 
 def add_transcript_to_meeting(json_path: Path) -> bool:
