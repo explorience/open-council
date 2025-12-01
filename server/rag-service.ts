@@ -561,39 +561,49 @@ export class RAGService {
 
     // Strategy 3: Councillor voting query - HYBRID retrieval
     // Combines semantic search for topic relevance with recent data to ensure temporal coverage
+    // Also searches specifically for the councillor's name to find their votes even when absent
     // This prevents bias toward older, more verbose content
     if (isCouncillorVotingQuery) {
       console.log(`🗳️ Councillor voting query${councillorName ? ` for ${councillorName}` : ''} - using hybrid retrieval`);
 
       const queryEmbedding = await this.generateQueryEmbedding(query);
 
-      // Get semantically relevant results (topic-based)
-      const semanticResults = await this.vectorStore.search(queryEmbedding, Math.floor(topK * 0.6));
+      // 1. Get semantically relevant results (topic-based)
+      const semanticResults = await this.vectorStore.search(queryEmbedding, Math.floor(topK * 0.5));
 
-      // Get recent results to ensure we don't miss recent votes
-      const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.5));
+      // 2. Get recent results to ensure we don't miss recent votes
+      const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.4));
+
+      // 3. If we have a councillor name, do an additional semantic search with JUST the name
+      // This helps find chunks where the councillor voted (or was absent) but topic keywords aren't prominent
+      // Example: "Lewis absent" in a cycling vote might not match "Lewis bike lanes" semantically
+      let councillorNameResults: SearchResult[] = [];
+      if (councillorName) {
+        const nameQuery = `${councillorName} voted vote yeas nays absent council motion`;
+        const nameEmbedding = await this.generateQueryEmbedding(nameQuery);
+        councillorNameResults = await this.vectorStore.search(nameEmbedding, Math.floor(topK * 0.3));
+        console.log(`   Additional name-based search for "${councillorName}": ${councillorNameResults.length} results`);
+      }
 
       // Combine and deduplicate results, prioritizing recency
       const seenIds = new Set<string>();
       const combinedResults: SearchResult[] = [];
 
-      // Add recent results first (ensures recent data is included)
-      for (const result of recentResults) {
-        const id = `${result.metadata.meeting_date}-${result.metadata.item_number}-${result.text.substring(0, 50)}`;
-        if (!seenIds.has(id)) {
-          seenIds.add(id);
-          combinedResults.push(result);
+      // Helper to add results with deduplication
+      const addResults = (results: SearchResult[]) => {
+        for (const result of results) {
+          const id = `${result.metadata.meeting_date}-${result.metadata.item_number}-${result.text.substring(0, 50)}`;
+          if (!seenIds.has(id)) {
+            seenIds.add(id);
+            combinedResults.push(result);
+          }
         }
-      }
+      };
 
-      // Add semantic results
-      for (const result of semanticResults) {
-        const id = `${result.metadata.meeting_date}-${result.metadata.item_number}-${result.text.substring(0, 50)}`;
-        if (!seenIds.has(id)) {
-          seenIds.add(id);
-          combinedResults.push(result);
-        }
-      }
+      // Add in order: recent first, then semantic, then name-based
+      addResults(recentResults);
+      addResults(semanticResults);
+      addResults(councillorNameResults);
 
       // Sort by date descending so recent votes appear first in context
       const sorted = combinedResults.sort((a, b) => {
@@ -603,7 +613,7 @@ export class RAGService {
       });
 
       this.logUniqueMeetings(sorted);
-      console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent = ${sorted.length} unique chunks`);
+      console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent + ${councillorNameResults.length} name-based = ${sorted.length} unique chunks`);
 
       return sorted.slice(0, topK);
     }
