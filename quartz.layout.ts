@@ -58,18 +58,18 @@ const searchAndExplorer = Component.Flex({
   ]
 })
 
-// Homepage header with mode toggle and dark mode
+// Homepage header with mode toggle (left) and dark mode (right)
 const homepageHeader = Component.Flex({
   components: [
-    { Component: Component.ModeToggle() },
-    { Component: Component.Darkmode() },
+    { Component: Component.ModeToggle(), grow: true, justify: "start" },
+    { Component: Component.Darkmode(), justify: "end" },
   ]
 })
 
 // Recent notes for simple mode on homepage
 const recentNotes = Component.RecentNotes({
   title: "Recent Meetings",
-  limit: 6,
+  limit: 10,
   showTags: false,
   filter: (f) => {
     // Only show meeting files, not index or generated pages
@@ -133,11 +133,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.DashboardView(),
-      condition: (page) => page.fileData.slug === "index",
-    }),
-    // Hidden explorer for browse all functionality
-    Component.ConditionalRender({
-      component: explorer,
       condition: (page) => page.fileData.slug === "index",
     }),
 

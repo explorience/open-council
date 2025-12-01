@@ -122,18 +122,10 @@
   margin-left: 0.5rem;
 }
 
-.nav-search-trigger {
-  svg {
-    width: 14px;
-    height: 14px;
-  }
-}
-
-// Hide "Browse All" by default, show explorer instead in advanced mode
-.nav-browse-all {
-  @media (max-width: 600px) {
-    span {
-      display: none;
-    }
-  }
+// Active state for toggle buttons
+.nav-recent-meetings[aria-expanded="true"],
+.nav-suggested-questions[aria-expanded="true"] {
+  background: var(--lightgray);
+  border-color: var(--secondary);
+  color: var(--secondary);
 }
