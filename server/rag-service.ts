@@ -55,6 +55,12 @@ export class RAGService {
 
   /**
    * Analyze query complexity and determine optimal TOP_K
+   *
+   * Query classification:
+   * - SIMPLE: Direct factual lookups (who, when, what specific thing)
+   * - MEDIUM: Status updates, recent activity, moderate research
+   * - COMPLEX: Why questions, multi-topic synthesis, controversial issues
+   * - COMPREHENSIVE: Historical tracking, year-over-year analysis
    */
   private analyzeQueryComplexity(query: string): number {
     const lowerQuery = query.toLowerCase();
@@ -66,32 +72,75 @@ export class RAGService {
       /over (the )?(past|last) \d+ years/,  // "over the past 10 years"
       /throughout|historical|history|evolution|trend|track.*over/,
       /all.*since \d{4}/,  // "all decisions since 2014"
+      /everything.*(about|on|regarding)/,  // "tell me everything about..."
     ];
 
-    // Patterns that indicate complex multi-topic queries
+    // Patterns that indicate complex multi-topic or analytical queries
     const complexPatterns = [
       /\d{4}-\d{4}/,  // "2014-2025"
-      /compare|comparison|versus|vs/,
+      /compare|comparison|versus|vs\b/,
       /all (meetings|decisions|votes) (about|on|regarding)/,
       /comprehensive|complete|full (summary|overview|history)/,
+
+      // Policy area + decision/funding questions (need lots of context)
       /(housing|homelessness|budget|planning|police|safety|climate|transit|brt|development) (policy|policies|decisions|funding|budget)/,
-      /why did council (approve|reject|vote|decide)/,  // "why did council approve X but reject Y"
-      /how did councillors vote/,  // voting record questions
+
+      // "Why" questions - need context to explain reasoning
+      /why did (council|the city|councillors?)/,  // "why did council approve X"
+      /why (is|are|was|were|does|do|did) (the )?council/,
+      /why (is|are) (the city|london)/,
+      /how come/,  // informal "why"
+
+      // Voting analysis questions
+      /how did councillors? vote/,  // voting record questions
       /who voted (for|against|yes|no)/,
-      /what (alternatives|options|proposals)/,  // questions about competing perspectives
-      /fit with|reconcile|align with/,  // questions connecting different topics (e.g., trees vs climate plan)
+      /was it unanimous/,
+      /close vote|split vote|controversial vote/,
+
+      // Questions seeking competing perspectives
+      /what (alternatives|options|proposals)/,
+      /who (opposed|supported|argued)/,
+      /different perspectives|both sides/,
+      /controversy|controversial|contentious|debate/,
+
+      // Questions connecting different topics
+      /fit with|reconcile|align with|consistent with/,
+      /but (also|then|why)/,  // "approved X but rejected Y"
+      /on one hand|on the other/,
+
+      // Community concern questions that need broad context
+      /what is (being done|happening|the city doing) about/,
+      /crisis|emergency|problem|issue/,
+      /homeless|homelessness|encampment/,  // Always complex - multi-faceted issue
+      /affordable housing|housing crisis/,
+      /downtown (safety|crime|issues)/,
+
+      // Budget and tax questions (complex because of many factors)
+      /property tax(es)?.*(increase|go up|rise|hike)/,
+      /budget.*(increase|cut|change)/,
+      /how (is|are) (the )?money (being )?(spent|allocated|used)/,
+      /where (is|does) (the|my) (money|tax)/,
+
+      // Police funding (sensitive topic needing full context)
+      /police (budget|funding)/,
+      /\$\d+.*(million|m)\b/,  // Specific dollar amounts suggest budget analysis
+
+      // Skeptical/critical questions
+      /actually|really|just/,  // "is the city actually building..."
+      /i('ve| have) heard/,  // "I've heard that..."
+      /is it true|is that true/,
     ];
 
     // Patterns that indicate medium complexity
     const mediumPatterns = [
       /in \d{4}/,  // "in 2024"
-      /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,  // "in november 2025"
-      /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,  // "november 2025"
+      /in (january|february|march|april|may|june|july|august|september|october|november|december)( \d{4})?/,
+      /(january|february|march|april|may|june|july|august|september|october|november|december) \d{4}/,
       /meetings?.*(in|from|during|for) (january|february|march|april|may|june|july|august|september|october|november|december)/,
       /what (meetings?|happened).*(in|during)/,
       /(took place|occurred|held) in/,
       /last (year|month|quarter)/,
-      /last\s+(\w+\s+)?meeting/,  // "last meeting", "last council meeting", "last city council meeting"
+      /last\s+(\w+\s+)?meeting/,  // "last meeting", "last council meeting"
       /recent|latest|newest/,
       /most recent/,
       /multiple|several|various/,
@@ -99,8 +148,21 @@ export class RAGService {
       /this year|this month/,
       /lately|recently/,
       /what('s| is| has) (the )?status/,  // "what's the status of..."
-      /what('s| is) being done/,  // "what's being done about..."
-      /has council (voted|discussed|decided|approved)/,  // "has council voted on..."
+      /what('s| is) being done/,
+      /has council (voted|discussed|decided|approved)/,
+
+      // Process questions - need some context but not comprehensive
+      /how (do|can|should) i/,  // "how do I speak at a meeting"
+      /how to (speak|object|participate|register|apply)/,
+      /what (is|are) the (rules|process|procedure|steps)/,
+      /can i|am i able to/,
+
+      // Topic tracking questions
+      /update|updates|progress/,
+      /rapid transit|brt/,
+      /climate (plan|action|emergency)/,
+      /development.*(near|in) my/,
+      /zoning (change|variance|application)/,
     ];
 
     // Check for comprehensive patterns first
@@ -198,6 +260,11 @@ export class RAGService {
       /recent meeting/,
       /what.*happened.*recently/,
       /what('s| is| has) (the )?status/,  // status queries want recent
+      /has council (voted|discussed|talked about|decided).*lately/,
+      /what is (being done|happening|the city doing)/,
+      /this year/,  // "what happened this year"
+      /currently|current/,
+      /lately|recently/,
     ];
     return recentPatterns.some(pattern => pattern.test(query));
   }
