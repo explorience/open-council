@@ -1,4 +1,5 @@
 // Client-side chatbot functionality
+import { Marked } from "marked"
 
 interface Message {
   role: "user" | "assistant"
@@ -7,6 +8,25 @@ interface Message {
 
 const chatHistory: Message[] = []
 
+// Configure marked for chat-friendly rendering
+const marked = new Marked({
+  breaks: true, // Convert \n to <br>
+  gfm: true, // GitHub Flavored Markdown
+})
+
+// Custom renderer to add target="_blank" to links
+const renderer = {
+  link({ href, title, text }: { href: string; title?: string | null | undefined; text: string }) {
+    const titleAttr = title ? ` title="${title}"` : ""
+    return `<a href="${href}"${titleAttr} target="_blank" rel="noopener">${text}</a>`
+  },
+}
+marked.use({ renderer })
+
+function renderMarkdown(content: string): string {
+  return marked.parse(content) as string
+}
+
 function createMessageElement(role: "user" | "assistant", content: string): HTMLElement {
   const messageDiv = document.createElement("div")
   messageDiv.className = `chatbot-message ${role}`
@@ -14,18 +34,7 @@ function createMessageElement(role: "user" | "assistant", content: string): HTML
   const contentDiv = document.createElement("div")
   contentDiv.className = "message-content"
 
-  // Simple markdown-like formatting
-  let formattedContent = content
-    // Convert **bold** to <strong>
-    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-    // Convert *italic* to <em>
-    .replace(/\*(.+?)\*/g, "<em>$1</em>")
-    // Convert [text](url) to links
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-    // Convert line breaks to <br>
-    .replace(/\n/g, "<br>")
-
-  contentDiv.innerHTML = formattedContent
+  contentDiv.innerHTML = renderMarkdown(content)
   messageDiv.appendChild(contentDiv)
 
   return messageDiv
@@ -127,14 +136,8 @@ async function sendMessage(message: string, apiUrl: string) {
               if (data.content) {
                 fullResponse += data.content
 
-                // Update content with formatting
-                let formatted = fullResponse
-                  .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-                  .replace(/\*(.+?)\*/g, "<em>$1</em>")
-                  .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-                  .replace(/\n/g, "<br>")
-
-                contentDiv.innerHTML = formatted
+                // Update content with markdown rendering
+                contentDiv.innerHTML = renderMarkdown(fullResponse)
                 scrollToBottom(messagesContainer)
               }
 
