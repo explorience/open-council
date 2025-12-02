@@ -42,6 +42,7 @@ interface QueryAnalysis {
   // Councillor voting record query
   isCouncillorVotingQuery: boolean;  // "How did [Name] vote on..."
   councillorName?: string;           // Extracted councillor name
+  wantsHistoricalContext: boolean;   // Does user want historical/change-over-time analysis?
 
   // Complexity
   topK: number;
@@ -260,12 +261,14 @@ export class RAGService {
       meetingTypeFilter,
       isCouncillorVotingQuery: councillorVoting.isCouncillorQuery,
       councillorName: councillorVoting.councillorName,
+      wantsHistoricalContext: councillorVoting.wantsHistoricalContext,
       topK,
     };
 
     // Log what we detected
     const detected: string[] = [];
     if (councillorVoting.isCouncillorQuery) detected.push(`councillor:${councillorVoting.councillorName || 'unknown'}`);
+    if (councillorVoting.wantsHistoricalContext) detected.push('historical');
     if (isMostRecent) detected.push('recent');
     if (specificMonth) detected.push(`month:${specificMonth.month + 1}/${specificMonth.year}`);
     if (yearFilter) detected.push(`year:${yearFilter}`);
@@ -463,6 +466,135 @@ export class RAGService {
   }
 
   /**
+   * Detect if the user is asking for historical context or changes over time
+   * If true, we should NOT filter out old data
+   */
+  private detectHistoricalIntent(query: string): boolean {
+    const lowerQuery = query.toLowerCase();
+
+    // Words/phrases that indicate the user wants historical context
+    const historicalIndicators = [
+      // Direct historical terms
+      'historically',
+      'history',
+      'historical',
+      'over time',
+      'over the years',
+      'through the years',
+      'throughout',
+      'in the past',
+      'past votes',
+      'past voting',
+      'old votes',
+      'previous votes',
+      'earlier votes',
+
+      // Change/evolution terms
+      'changed',
+      'change over',
+      'changes in',
+      'shift',
+      'shifted',
+      'shifting',
+      'evolution',
+      'evolved',
+      'evolving',
+      'transformation',
+      'transformed',
+      'flip-flop',
+      'flip flop',
+      'flipflop',
+      'reversal',
+      'reversed',
+      'u-turn',
+      'uturn',
+      'u turn',
+      '180',
+      'turnaround',
+      'turn around',
+
+      // Comparison/tracking terms
+      'track record',
+      'voting record over',
+      'voting history',
+      'compare',
+      'comparison',
+      'compared to before',
+      'different from before',
+      'different than before',
+      'vs earlier',
+      'versus earlier',
+      'pattern',
+      'trend',
+      'trajectory',
+      'arc',
+      'progression',
+      'journey',
+
+      // Time-span terms
+      'always',
+      'consistently',
+      'never',
+      'tenure',
+      'career',
+      'since elected',
+      'since they started',
+      'when first elected',
+      'first term',
+      'last term',
+      'previous term',
+      'full record',
+      'complete record',
+      'entire record',
+      'comprehensive',
+      'all votes',
+      'every vote',
+
+      // Temporal references to old periods
+      'years ago',
+      'long time',
+      'decade',
+      'all time',
+      'back in',
+      'back when',
+      'used to',
+      'previously',
+      'before',
+      'earlier',
+      'originally',
+      'initial position',
+      'original position',
+      'former position',
+      'starting position',
+    ];
+
+    // Check for any historical indicator
+    for (const indicator of historicalIndicators) {
+      if (lowerQuery.includes(indicator)) {
+        console.log(`📜 Historical intent detected: "${indicator}"`);
+        return true;
+      }
+    }
+
+    // Check for specific old year references (2019-2023)
+    // If they mention a specific old year, they want historical data
+    const oldYearPattern = /\b(2019|2020|2021|2022|2023)\b/;
+    if (oldYearPattern.test(lowerQuery)) {
+      console.log(`📜 Historical intent detected: specific old year mentioned`);
+      return true;
+    }
+
+    // Check for year range patterns like "2019-2024" or "from 2019 to 2024"
+    const yearRangePattern = /\b20\d{2}\s*(-|to)\s*20\d{2}\b/;
+    if (yearRangePattern.test(lowerQuery)) {
+      console.log(`📜 Historical intent detected: year range mentioned`);
+      return true;
+    }
+
+    return false;
+  }
+
+  /**
    * Detect if this is a councillor-specific voting query
    * Returns the councillor name if found
    *
@@ -472,8 +604,11 @@ export class RAGService {
    * - "Susan Stevenson's voting record on climate"
    * - "What did Paul Van Meerbergen vote on"
    */
-  private detectCouncillorVotingQuery(query: string): { isCouncillorQuery: boolean; councillorName?: string } {
+  private detectCouncillorVotingQuery(query: string): { isCouncillorQuery: boolean; councillorName?: string; wantsHistoricalContext: boolean } {
     const lowerQuery = query.toLowerCase();
+
+    // First, check if the user is explicitly asking for historical/change-over-time context
+    const wantsHistoricalContext = this.detectHistoricalIntent(lowerQuery);
 
     // Common London councillor names (current and recent)
     // This helps ensure we detect real councillor names vs generic words
@@ -519,7 +654,7 @@ export class RAGService {
     // Check if query matches voting patterns
     const isVotingQuery = votingPatterns.some(pattern => pattern.test(lowerQuery));
     if (!isVotingQuery) {
-      return { isCouncillorQuery: false };
+      return { isCouncillorQuery: false, wantsHistoricalContext };
     }
 
     // Try to extract councillor name
@@ -532,8 +667,8 @@ export class RAGService {
           .map(word => word.charAt(0).toUpperCase() + word.slice(1))
           .join(' ');
 
-        console.log(`🎯 Detected councillor voting query for: ${capitalizedName}`);
-        return { isCouncillorQuery: true, councillorName: capitalizedName };
+        console.log(`🎯 Detected councillor voting query for: ${capitalizedName}${wantsHistoricalContext ? ' (historical context requested)' : ''}`);
+        return { isCouncillorQuery: true, councillorName: capitalizedName, wantsHistoricalContext };
       }
     }
 
@@ -546,12 +681,12 @@ export class RAGService {
       // Filter out common non-name words
       const nonNames = ['council', 'councillors', 'they', 'the', 'city', 'mayor', 'you'];
       if (!nonNames.includes(potentialName.toLowerCase())) {
-        console.log(`🎯 Detected potential councillor voting query for: ${potentialName}`);
-        return { isCouncillorQuery: true, councillorName: potentialName };
+        console.log(`🎯 Detected potential councillor voting query for: ${potentialName}${wantsHistoricalContext ? ' (historical context requested)' : ''}`);
+        return { isCouncillorQuery: true, councillorName: potentialName, wantsHistoricalContext };
       }
     }
 
-    return { isCouncillorQuery: false };
+    return { isCouncillorQuery: false, wantsHistoricalContext };
   }
 
   /**
@@ -561,7 +696,7 @@ export class RAGService {
   async retrieveContext(query: string): Promise<SearchResult[]> {
     // Analyze query to extract all metadata
     const analysis = this.analyzeQuery(query);
-    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName } = analysis;
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext } = analysis;
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
@@ -627,7 +762,8 @@ export class RAGService {
     // Also searches specifically for the councillor's name to find their votes even when absent
     // This prevents bias toward older, more verbose content
     if (isCouncillorVotingQuery) {
-      console.log(`🗳️ Councillor voting query${councillorName ? ` for ${councillorName}` : ''} - using hybrid retrieval`);
+      const recentOnly = !wantsHistoricalContext;
+      console.log(`🗳️ Councillor voting query${councillorName ? ` for ${councillorName}` : ''} - using hybrid retrieval${recentOnly ? ' (RECENT ONLY - filtering out old data)' : ' (historical context requested)'}`);
 
       const queryEmbedding = await this.generateQueryEmbedding(query);
 
@@ -689,16 +825,33 @@ export class RAGService {
       this.logUniqueMeetings(sorted);
       console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent + ${councillorNameResults.length} name + ${councillorTopicResults.length} topic = ${sorted.length} unique chunks`);
 
+      // CRITICAL: Filter out old data for councillor voting queries UNLESS user explicitly asked for historical context
+      // This prevents the model from elaborating on old votes when the user just wants current position
+      let finalResults = sorted;
+      if (recentOnly) {
+        // Filter to only include chunks from the last 2 years
+        const twoYearsAgo = new Date();
+        twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
+        const cutoffTime = twoYearsAgo.getTime();
+
+        finalResults = sorted.filter(chunk => {
+          const chunkDate = new Date(chunk.metadata.meeting_date).getTime();
+          return chunkDate >= cutoffTime;
+        });
+
+        console.log(`   🕐 Filtered to recent data (last 2 years): ${finalResults.length} chunks (removed ${sorted.length - finalResults.length} old chunks)`);
+      }
+
       // DEBUG: Log first 5 chunks to see what context the model receives
       console.log(`\n📋 DEBUG - First 5 chunks being sent to model:`);
-      sorted.slice(0, 5).forEach((chunk, i) => {
+      finalResults.slice(0, 5).forEach((chunk, i) => {
         const preview = chunk.text.substring(0, 200).replace(/\n/g, ' ');
         console.log(`   ${i + 1}. [${chunk.metadata.meeting_date}] ${chunk.metadata.meeting_title}`);
         console.log(`      "${preview}..."`);
       });
       console.log('');
 
-      return sorted.slice(0, topK);
+      return finalResults.slice(0, topK);
     }
 
     // Strategy 4: Semantic search with optional meeting type filter
