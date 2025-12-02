@@ -186,9 +186,17 @@ def fetch_transcript_via_firecrawl(url: str, verbose: bool = False) -> Optional[
                 # For SRT files, the content is in rawHtml
                 raw_content = data.get('data', {}).get('rawHtml', '')
                 if raw_content:
-                    if verbose:
-                        print(f"    → Found transcript ({len(raw_content)} bytes)")
-                    return raw_content
+                    # Validate it looks like an SRT file (should start with "1\n" or have timestamp patterns)
+                    if '-->' in raw_content and re.search(r'\d{2}:\d{2}:\d{2}', raw_content):
+                        if verbose:
+                            print(f"    → Found transcript ({len(raw_content)} bytes)")
+                        return raw_content
+                    else:
+                        if verbose:
+                            # Show first 100 chars to help debug what we got
+                            preview = raw_content[:100].replace('\n', '\\n')
+                            print(f"    → Response is not SRT format ({len(raw_content)} bytes): {preview}...")
+                        return None
                 else:
                     if verbose:
                         print(f"    → Firecrawl returned empty content")
