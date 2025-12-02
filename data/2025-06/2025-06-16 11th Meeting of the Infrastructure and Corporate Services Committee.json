@@ -1,1 +1,4276 @@
-{"title": "11th Meeting of the Infrastructure and Corporate Services Committee", "datetime": "2025-06-16 13:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=34572db8-599d-45a1-b683-2960f98e584b&Agenda=PostMinutes&lang=English", "meeting_type": "Infrastructure and Corporate Services Committee", "bills": null, "present": ["C. Rahman", "J. Pribil", "A. Hopkins", "P. Van Meerbergen", "S. Franke"], "also_present": ["S. Datars Bere", "V. Arora", "B. Baar", "A. Barbon", "M. Barnes", "K. Chambers", "S. Chambers", "I. Collins", "K. Dickins", "D. Ennett", "D. Escobar", "M. Feldberg", "C. McIntosh", "K. Murray", "K. Oudekerk", "A. Ostrowski", "J. Paradis", "T. Pollitt", "A. Rammeloo", "E. Skalski", "B. Warner", "P. Yeoman"], "remote_attendance": ["E. Bennett", "C. Cooper", "S. Corman", "M. Daley", "J. Dann", "A. Hagan", "E. Hunt"], "content": {"string": "The meeting is called to order at 1:00 PM.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 2.10, having to do with an Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement by indicating that his wife owns and operates a day care.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That Consent Items 2.1 to 2.9 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "P. Van Meerbergen", "J. Pribil", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Time and Attendance Software, Single Source 25-135 Purchase", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Enterprise Supports and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the single source procurement of time and attendance software:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 a single source procurement BE APPROVED for the acquisition of The Ultimate Software Group of Canada, Inc., (144 Bloor St. West, Suite 400, Toronto, Ontario, M5S 1M4) software subscription licensing estimated at up to $1,700,000 (excluding HST) over five years ($340,000 per year) with options to renew and the one-time professional services fee associated with the implementation of the software estimated at up to $485,285 (excluding HST), in accordance with section 14.4(d) of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 the approvals given herein BE CONDITIONAL upon the Corporation entering a formal Master Services Agreement for the services to be provided as per paragraph (a) above; and,", "__class__": "Paragraph"}, {"string": "d)\u00a0 \u00a0 the proposed revised by-law (as appended to the added agenda as Appendix \u2018B\u2019) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to delegate authority to the Deputy City Manager, Enterprise Supports to approve, and execute a Master Services Agreement, and any other documents or ancillary agreements required to enter into agreement with The Ultimate Software Group of Canada, Inc., including options to renew, in a form or forms acceptable to the Deputy City Manager, Enterprise Supports.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - Time and Attendance", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117435", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the award of contract for the construction of flood protection and restoration of Section 1 at Adelaide Wastewater Treatment Plant:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the bid submitted by Stone Town Construction Limited at its tendered price of $40,652,251.50, excluding HST, for the construction of flood protection and restoration of Section 1 at Adelaide Wastewater Treatment Plant BE ACCEPTED;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the increase in fees for engineering services from CIMA+ related to contract administration for the Adelaide Flood Protection projects of $967,520.00, plus HST, BE APPROVED;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project; and", "__class__": "Paragraph"}, {"string": "f) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - RFT-2024-215 Adelaide Flood Protection", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117438", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of a consulting engineer for detailed design and contract administration services for the Anguish Drain Embankment Stabilization project:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0Water's Edge Environmental Solutions Team Ltd. BE APPOINTED to complete detailed design and contract administration in accordance with their proposal response in the amount of $250,206.00, including 20% contingency, excluding HST, in accordance with Section 15.2(e) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for the project BE APPROVED in accordance with the \u201cSources of Financing Report\u201d as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract; and", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - Appointment of Consulting Engineer RFP 2025-079", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117439", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of Upper Thames River Conservation Authority (UTRCA) for the capital and maintenance costs of flood control infrastructure:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 the Upper Thames River Conservation Authority BE AUTHORIZED to carry out the following projects with the City share in the total amount of $396,864.47, including contingency, excluding HST, in accordance with 14.3.a) of the Procurement of Goods and Service Policy:", "__class__": "Paragraph"}, {"string": "a. \u00a0 \u00a0Fanshawe Dam \u2013 Safety Boom Construction and Installation;\n\nb. \u00a0 \u00a0Fanshawe Dam \u2013 Elevator Feasibility Study; and\n\nc. \u00a0 \u00a0Fanshawe Dam \u2013 Gate Ropes.", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - Funding to Support UTRCA", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117437", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the award of contract for the London Downtown Sewer Capacity Expansion Project:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the bid submitted by Bre-Ex Construction Inc. at its tendered price of $17,659,067.63, excluding HST, BE ACCEPTED; it being noted that the bid submitted by Bre-Ex Construction Inc was the lowest of three bids received and meets the City's specifications and requirements in all areas;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0 Stantec Consulting Ltd., BE AUTHORIZED to carry out the resident inspection and contract administration for the London Downtown Sewer Capacity Expansion Project in accordance with the estimate, on file, at an upset amount of $934,020.70, including 10% contingency, excluding HST, in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (RFT-2025-003); and", "__class__": "Paragraph"}, {"string": "f) \u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - Contract Award-London Downtown Sewer", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117436", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Procurement of Goods & Services Policy Update", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law (appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to amend By-law No. A.-6151-17, as amended, being \u201cA by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001\u201d, by deleting Schedule \u201cC\u201d \u2013 Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule \u201cC\u201d \u2013 Procurement of Goods and Services Policy, to update the Policy to further align with applicable trade agreements, support Council\u2019s Strategic Plan, and to modernize language and community expectations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - Procurement of Goods and Services Policy", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117434", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, with concurrence of the Director, Municipal Housing and Industrial Development, on the advice of the Director, Realty Services, with respect to the City of London\u2019s Industrial Land Development Strategy, the following actions be taken with respect to the annual monitoring and pricing of City-owned industrial lands:\n\n\u00a0\u00a0\n\na) \u00a0 \u00a0the staff report dated June 16, 2025, entitled \u201cIndustrial Land Development Strategy Annual Monitoring and Pricing Report \u2013 City-Owned Industrial Land\u201d, BE RECEIVED; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0NO ACTION BE TAKEN at this time to adjust the current pricing of City-owned industrial land from the following prices that were established on August 1st, 2024:\u00a0\n\n\n\nInnovation Park (Phases 1 to 4) and Huron Industrial Park (all phases):", "__class__": "Paragraph"}, {"string": "- \u00a0 \u00a0Lots up to 4.99 acres: $325,000 per acre\u00a0\n\n- \u00a0 \u00a05.00 acres and up: \u00a0$300,000 per acre", "__class__": "Paragraph"}, {"string": "Pricing for serviced industrial land in Trafalgar Industrial Park:\n\n- \u00a0 \u00a0All lot sizes: \u00a0$300,000 per acre", "__class__": "Paragraph"}, {"string": "Pricing for serviced industrial land in Innovation Park Phase V:\n\n- \u00a0 \u00a0All lot sizes: \u00a0$400,000.00 per acre", "__class__": "Paragraph"}, {"string": "Surcharges are as follows:\u00a0\n\n- \u00a0 \u00a0Highway 401 Exposure \u2013 15%\n\n- \u00a0 \u00a0Veteran\u2019s Memorial Parkway Exposure \u2013 5%.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - (2.7) Industrial Land Dev. Strategy", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117443", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Declare Surplus \u2013 47 Outer Drive", "number": "8", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with concurrence of the Deputy City Manager, Environment and Infrastructure with respect to City-owned property, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the subject property outlined on the Location Map in \u201cAppendix A,\u201d BE DECLARED SURPLUS; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE SOLD in accordance with the City\u2019s Sale of Other Disposition of Land Policy.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - Declare Surplus-47 Outer Dr", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117440", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Declare Surplus - City-Owned Property - 2528 Main Street", "number": "9", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City owned property, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the subject property outlined and hatched in \u201cAppendix A\u201d, BE DECLARED SURPLUS; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE SOLD to the abutting property owners subject to the Sale and Other Disposition of Land Policy.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - Declare Surplus-2528 Main St", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117441", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "10": {"title": "City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement", "number": "10", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by A. Hopkins", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:\n\n\n\na) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Land Ambulance Services Cost Apportionment Agreement (\u201cSchedule A\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;\n\n\n\nb) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cB\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Ontario Works Cost Apportionment and Agency Agreement (\u201cSchedule B\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;\n\n\n\nc) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cC\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (\u201cSchedule C\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and\u00a0\n\n\n\nd) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cD\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement (\u201cSchedule D\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Additional Votes:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by A. Hopkins", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Land Ambulance Services Cost Apportionment Agreement (\u201cSchedule A\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cB\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Ontario Works Cost Apportionment and Agency Agreement (\u201cSchedule B\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cC\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (\u201cSchedule C\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "P. Van Meerbergen", "J. Pribil", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by A. Hopkins", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cD\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement (\u201cSchedule D\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "J. Pribil", "S. Franke", "C. Rahman"]}, {"vote": "Recuse:", "voters": ["P. Van Meerbergen"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-06-16 Staff Report - City-County Cost Apportionment Agreements", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117442", "date": "2025-06-16 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2025-06-16 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential (Provided to Members only.)", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "The Infrastructure and Corporate Services Committee convenes In Closed session to consider the following:\n\n\n\n6.1 \u00a0 \u00a0Labour Relations/Employee Negotiations / Solicitor-Client Privileged Advice \u00a0 \u00a0 \u00a0\n\n\u00a0\n\nA matter pertaining to reports, advice and recommendations of officers and employees of the Corporation concerning labour relations and employee negotiations in regard to one of the Corporation\u2019s unions and advice which is subject to solicitor client privilege and communications necessary for that purpose and for the purpose of providing directions to officers and employees of the Corporation.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "P. Van Meerbergen", "J. Pribil", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Infrastructure and Corporate Services Committee convenes In Closed Session from 1:28 PM to 1:34 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 1:37 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2025-06-16 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "11th Meeting of the Infrastructure and Corporate Services Committee",
+  "datetime": "2025-06-16 13:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=34572db8-599d-45a1-b683-2960f98e584b&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Infrastructure and Corporate Services Committee",
+  "bills": null,
+  "present": [
+    "C. Rahman",
+    "J. Pribil",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "S. Franke"
+  ],
+  "also_present": [
+    "S. Datars Bere",
+    "V. Arora",
+    "B. Baar",
+    "A. Barbon",
+    "M. Barnes",
+    "K. Chambers",
+    "S. Chambers",
+    "I. Collins",
+    "K. Dickins",
+    "D. Ennett",
+    "D. Escobar",
+    "M. Feldberg",
+    "C. McIntosh",
+    "K. Murray",
+    "K. Oudekerk",
+    "A. Ostrowski",
+    "J. Paradis",
+    "T. Pollitt",
+    "A. Rammeloo",
+    "E. Skalski",
+    "B. Warner",
+    "P. Yeoman"
+  ],
+  "remote_attendance": [
+    "E. Bennett",
+    "C. Cooper",
+    "S. Corman",
+    "M. Daley",
+    "J. Dann",
+    "A. Hagan",
+    "E. Hunt"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 1:00 PM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 2.10, having to do with an Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement by indicating that his wife owns and operates a day care.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-06-16 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by A. Hopkins",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Consent Items 2.1 to 2.9 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "A. Hopkins",
+                  "P. Van Meerbergen",
+                  "J. Pribil",
+                  "S. Franke",
+                  "C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "Time and Attendance Software, Single Source 25-135 Purchase",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Enterprise Supports and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the single source procurement of time and attendance software:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 a single source procurement BE APPROVED for the acquisition of The Ultimate Software Group of Canada, Inc., (144 Bloor St. West, Suite 400, Toronto, Ontario, M5S 1M4) software subscription licensing estimated at up to $1,700,000 (excluding HST) over five years ($340,000 per year) with options to renew and the one-time professional services fee associated with the implementation of the software estimated at up to $485,285 (excluding HST), in accordance with section 14.4(d) of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 the approvals given herein BE CONDITIONAL upon the Corporation entering a formal Master Services Agreement for the services to be provided as per paragraph (a) above; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d)\u00a0 \u00a0 the proposed revised by-law (as appended to the added agenda as Appendix \u2018B\u2019) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to delegate authority to the Deputy City Manager, Enterprise Supports to approve, and execute a Master Services Agreement, and any other documents or ancillary agreements required to enter into agreement with The Ultimate Software Group of Canada, Inc., including options to renew, in a form or forms acceptable to the Deputy City Manager, Enterprise Supports.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - Time and Attendance",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117435",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "RFT-2024-215 Adelaide Flood Protection and Section 1 Upgrades Tender Award",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the award of contract for the construction of flood protection and restoration of Section 1 at Adelaide Wastewater Treatment Plant:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the bid submitted by Stone Town Construction Limited at its tendered price of $40,652,251.50, excluding HST, for the construction of flood protection and restoration of Section 1 at Adelaide Wastewater Treatment Plant BE ACCEPTED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the increase in fees for engineering services from CIMA+ related to contract administration for the Adelaide Flood Protection projects of $967,520.00, plus HST, BE APPROVED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "f) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - RFT-2024-215 Adelaide Flood Protection",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117438",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Appointment of Consulting Engineer: RFP 2025-079 Anguish Drain Embankment Stabilization in Lambeth",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of a consulting engineer for detailed design and contract administration services for the Anguish Drain Embankment Stabilization project:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0Water's Edge Environmental Solutions Team Ltd. BE APPOINTED to complete detailed design and contract administration in accordance with their proposal response in the amount of $250,206.00, including 20% contingency, excluding HST, in accordance with Section 15.2(e) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for the project BE APPROVED in accordance with the \u201cSources of Financing Report\u201d as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - Appointment of Consulting Engineer RFP 2025-079",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117439",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Funding to Support Upper Thames River Conservation Authority (UTRCA) Capital/Maintenance Projects",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of Upper Thames River Conservation Authority (UTRCA) for the capital and maintenance costs of flood control infrastructure:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 the Upper Thames River Conservation Authority BE AUTHORIZED to carry out the following projects with the City share in the total amount of $396,864.47, including contingency, excluding HST, in accordance with 14.3.a) of the Procurement of Goods and Service Policy:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a. \u00a0 \u00a0Fanshawe Dam \u2013 Safety Boom Construction and Installation;\n\nb. \u00a0 \u00a0Fanshawe Dam \u2013 Elevator Feasibility Study; and\n\nc. \u00a0 \u00a0Fanshawe Dam \u2013 Gate Ropes.",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - Funding to Support UTRCA",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117437",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Contract Award and Consultant Appointment: London Downtown Sewer Capacity Expansion Project",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the award of contract for the London Downtown Sewer Capacity Expansion Project:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the bid submitted by Bre-Ex Construction Inc. at its tendered price of $17,659,067.63, excluding HST, BE ACCEPTED; it being noted that the bid submitted by Bre-Ex Construction Inc was the lowest of three bids received and meets the City's specifications and requirements in all areas;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0 Stantec Consulting Ltd., BE AUTHORIZED to carry out the resident inspection and contract administration for the London Downtown Sewer Capacity Expansion Project in accordance with the estimate, on file, at an upset amount of $934,020.70, including 10% contingency, excluding HST, in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated June 16, 2025 as Appendix \u2018A\u2019;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (RFT-2025-003); and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "f) \u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - Contract Award-London Downtown Sewer",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117436",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "Procurement of Goods & Services Policy Update",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law (appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d) BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to amend By-law No. A.-6151-17, as amended, being \u201cA by-law to establish policies for the sale and other disposition of land, hiring of employees, procurement of goods and services, public notice, accountability and transparency, and delegation of powers and duties, as required under section 270(1) of the Municipal Act, 2001\u201d, by deleting Schedule \u201cC\u201d \u2013 Procurement of Goods and Services Policy in its entirety and by replacing it with a new Schedule \u201cC\u201d \u2013 Procurement of Goods and Services Policy, to update the Policy to further align with applicable trade agreements, support Council\u2019s Strategic Plan, and to modernize language and community expectations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - Procurement of Goods and Services Policy",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117434",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, with concurrence of the Director, Municipal Housing and Industrial Development, on the advice of the Director, Realty Services, with respect to the City of London\u2019s Industrial Land Development Strategy, the following actions be taken with respect to the annual monitoring and pricing of City-owned industrial lands:\n\n\u00a0\u00a0\n\na) \u00a0 \u00a0the staff report dated June 16, 2025, entitled \u201cIndustrial Land Development Strategy Annual Monitoring and Pricing Report \u2013 City-Owned Industrial Land\u201d, BE RECEIVED; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0NO ACTION BE TAKEN at this time to adjust the current pricing of City-owned industrial land from the following prices that were established on August 1st, 2024:\u00a0\n\n\n\nInnovation Park (Phases 1 to 4) and Huron Industrial Park (all phases):",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- \u00a0 \u00a0Lots up to 4.99 acres: $325,000 per acre\u00a0\n\n- \u00a0 \u00a05.00 acres and up: \u00a0$300,000 per acre",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "Pricing for serviced industrial land in Trafalgar Industrial Park:\n\n- \u00a0 \u00a0All lot sizes: \u00a0$300,000 per acre",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "Pricing for serviced industrial land in Innovation Park Phase V:\n\n- \u00a0 \u00a0All lot sizes: \u00a0$400,000.00 per acre",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "Surcharges are as follows:\u00a0\n\n- \u00a0 \u00a0Highway 401 Exposure \u2013 15%\n\n- \u00a0 \u00a0Veteran\u2019s Memorial Parkway Exposure \u2013 5%.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - (2.7) Industrial Land Dev. Strategy",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117443",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "8": {
+          "title": "Declare Surplus \u2013 47 Outer Drive",
+          "number": "8",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with concurrence of the Deputy City Manager, Environment and Infrastructure with respect to City-owned property, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the subject property outlined on the Location Map in \u201cAppendix A,\u201d BE DECLARED SURPLUS; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE SOLD in accordance with the City\u2019s Sale of Other Disposition of Land Policy.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - Declare Surplus-47 Outer Dr",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117440",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "9": {
+          "title": "Declare Surplus - City-Owned Property - 2528 Main Street",
+          "number": "9",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City owned property, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the subject property outlined and hatched in \u201cAppendix A\u201d, BE DECLARED SURPLUS; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE SOLD to the abutting property owners subject to the Sale and Other Disposition of Land Policy.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - Declare Surplus-2528 Main St",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117441",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "10": {
+          "title": "City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement",
+          "number": "10",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:\n\n\n\na) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Land Ambulance Services Cost Apportionment Agreement (\u201cSchedule A\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;\n\n\n\nb) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cB\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Ontario Works Cost Apportionment and Agency Agreement (\u201cSchedule B\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;\n\n\n\nc) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cC\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (\u201cSchedule C\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and\u00a0\n\n\n\nd) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cD\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement (\u201cSchedule D\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Additional Votes:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Land Ambulance Services Cost Apportionment Agreement (\u201cSchedule A\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cB\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Ontario Works Cost Apportionment and Agency Agreement (\u201cSchedule B\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cC\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Housing Services Cost Apportionment and CHPI Agency Agreement (\u201cSchedule C\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement; and",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "A. Hopkins",
+                      "P. Van Meerbergen",
+                      "J. Pribil",
+                      "S. Franke",
+                      "C. Rahman"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix \u201cD\u201d BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement (\u201cSchedule D\u201d) between The Corporation of the City of London and The Corporation of the County of Middlesex and to authorize the Mayor and Clerk to execute the Amending Agreement.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "A. Hopkins",
+                      "J. Pribil",
+                      "S. Franke",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Recuse:",
+                    "voters": [
+                      "P. Van Meerbergen"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (4 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-06-16 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-06-16 Staff Report - City-County Cost Apportionment Agreements",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=117442",
+              "date": "2025-06-16 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2025-06-16 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-06-16 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-06-16 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-06-16 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential (Provided to Members only.)",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Franke",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "The Infrastructure and Corporate Services Committee convenes In Closed session to consider the following:\n\n\n\n6.1 \u00a0 \u00a0Labour Relations/Employee Negotiations / Solicitor-Client Privileged Advice \u00a0 \u00a0 \u00a0\n\n\u00a0\n\nA matter pertaining to reports, advice and recommendations of officers and employees of the Corporation concerning labour relations and employee negotiations in regard to one of the Corporation\u2019s unions and advice which is subject to solicitor client privilege and communications necessary for that purpose and for the purpose of providing directions to officers and employees of the Corporation.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "A. Hopkins",
+                  "P. Van Meerbergen",
+                  "J. Pribil",
+                  "S. Franke",
+                  "C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Infrastructure and Corporate Services Committee convenes In Closed Session from 1:28 PM to 1:34 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-06-16 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Franke",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 1:37 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-06-16 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:18:47.810",
+      "end": "00:18:49.540",
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "index": 2,
+      "start": "00:18:49.540",
+      "end": "00:18:51.040",
+      "text": "Welcome to the 11th meeting"
+    },
+    {
+      "index": 3,
+      "start": "00:18:51.040",
+      "end": "00:18:54.110",
+      "text": "of the Infrastructure and Corporate Services Committee."
+    },
+    {
+      "index": 4,
+      "start": "00:18:54.110",
+      "end": "00:18:56.040",
+      "text": "I'll start with the land acknowledgement."
+    },
+    {
+      "index": 5,
+      "start": "00:18:56.040",
+      "end": "00:18:58.790",
+      "text": "The city of London is situated on the traditional lands"
+    },
+    {
+      "index": 6,
+      "start": "00:18:58.790",
+      "end": "00:19:00.780",
+      "text": "of the Anishinaabe, Khodanoshone,"
+    },
+    {
+      "index": 7,
+      "start": "00:19:00.780",
+      "end": "00:19:03.010",
+      "text": "Lenapawik, and Adawandran."
+    },
+    {
+      "index": 8,
+      "start": "00:19:03.010",
+      "end": "00:19:05.670",
+      "text": "We honor and respect the history, languages,"
+    },
+    {
+      "index": 9,
+      "start": "00:19:05.670",
+      "end": "00:19:08.210",
+      "text": "and culture of the diverse indigenous people,"
+    },
+    {
+      "index": 10,
+      "start": "00:19:08.210",
+      "end": "00:19:11.130",
+      "text": "people who call this territory home."
+    },
+    {
+      "index": 11,
+      "start": "00:19:11.130",
+      "end": "00:19:12.690",
+      "text": "The city of London is currently home"
+    },
+    {
+      "index": 12,
+      "start": "00:19:12.690",
+      "end": "00:19:15.800",
+      "text": "to many First Nation, M\u00e9tis, and Inuit today."
+    },
+    {
+      "index": 13,
+      "start": "00:19:15.800",
+      "end": "00:19:18.130",
+      "text": "As representatives of the people of the city of London,"
+    },
+    {
+      "index": 14,
+      "start": "00:19:18.130",
+      "end": "00:19:19.780",
+      "text": "we are grateful to have the opportunity"
+    },
+    {
+      "index": 15,
+      "start": "00:19:19.780",
+      "end": "00:19:22.680",
+      "text": "to work and live in this territory."
+    },
+    {
+      "index": 16,
+      "start": "00:19:22.680",
+      "end": "00:19:24.970",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 17,
+      "start": "00:19:24.970",
+      "end": "00:19:28.290",
+      "text": "to provide alternate formats of communication support"
+    },
+    {
+      "index": 18,
+      "start": "00:19:28.290",
+      "end": "00:19:30.400",
+      "text": "for meetings upon request."
+    },
+    {
+      "index": 19,
+      "start": "00:19:30.400",
+      "end": "00:19:34.170",
+      "text": "To make a specific request specific to this meeting,"
+    },
+    {
+      "index": 20,
+      "start": "00:19:34.170",
+      "end": "00:19:39.130",
+      "text": "sorry, please contact icse@london.ca or 519-661-2489,"
+    },
+    {
+      "index": 21,
+      "start": "00:19:39.130",
+      "end": "00:19:43.610",
+      "text": "extension 2425."
+    },
+    {
+      "index": 22,
+      "start": "00:19:43.610",
+      "end": "00:19:45.720",
+      "text": "I'll look to members of committee"
+    },
+    {
+      "index": 23,
+      "start": "00:19:45.720",
+      "end": "00:19:49.310",
+      "text": "for any disclosures of pecuniary interest."
+    },
+    {
+      "index": 24,
+      "start": "00:19:49.310",
+      "end": "00:19:54.650",
+      "text": "Councillor Van Meerbergen."
+    },
+    {
+      "index": 25,
+      "start": "00:19:54.650",
+      "end": "00:19:55.420",
+      "text": "Thank you."
+    },
+    {
+      "index": 26,
+      "start": "00:19:55.420",
+      "end": "00:20:01.330",
+      "text": "I'd like to disclose a pecuniary interest 2.10, part D."
+    },
+    {
+      "index": 27,
+      "start": "00:20:01.330",
+      "end": "00:20:06.470",
+      "text": "I believe it is, which refers to childcare"
+    },
+    {
+      "index": 28,
+      "start": "00:20:06.470",
+      "end": "00:20:14.110",
+      "text": "as my wife operates her own childcare operation."
+    },
+    {
+      "index": 29,
+      "start": "00:20:14.110",
+      "end": "00:20:16.060",
+      "text": "Do I need to declare a conflict on the whole thing"
+    },
+    {
+      "index": 30,
+      "start": "00:20:16.060",
+      "end": "00:20:23.070",
+      "text": "or can I do it on just part D?"
+    },
+    {
+      "index": 31,
+      "start": "00:20:23.070",
+      "end": "00:20:44.830",
+      "text": "The moment I'll ask the question."
+    },
+    {
+      "index": 32,
+      "start": "00:20:44.830",
+      "end": "00:20:52.310",
+      "text": "The ending agreement which lists childcare as part of it,"
+    },
+    {
+      "index": 33,
+      "start": "00:20:52.310",
+      "end": "00:20:58.030",
+      "text": "but I think it's in the actual motion, it's a part D, I believe."
+    },
+    {
+      "index": 34,
+      "start": "00:20:58.030",
+      "end": "00:20:59.670",
+      "text": "I'm happy to declare the whole thing,"
+    },
+    {
+      "index": 35,
+      "start": "00:20:59.670",
+      "end": "00:21:04.650",
+      "text": "but because there's several sections,"
+    },
+    {
+      "index": 36,
+      "start": "00:21:04.650",
+      "end": "00:21:08.770",
+      "text": "there's material works, land ambulance."
+    },
+    {
+      "index": 37,
+      "start": "00:21:08.770",
+      "end": "00:21:15.500",
+      "text": "And childcare."
+    },
+    {
+      "index": 38,
+      "start": "00:21:15.500",
+      "end": "00:21:17.620",
+      "text": "Thank you, we'll separate the votes out for that matter"
+    },
+    {
+      "index": 39,
+      "start": "00:21:17.620",
+      "end": "00:21:25.200",
+      "text": "so that you can declare your conflict on part D."
+    },
+    {
+      "index": 40,
+      "start": "00:21:25.200",
+      "end": "00:21:26.030",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 41,
+      "start": "00:21:26.030",
+      "end": "00:21:29.780",
+      "text": "So for now, we'll move on to item two,"
+    },
+    {
+      "index": 42,
+      "start": "00:21:29.780",
+      "end": "00:21:32.590",
+      "text": "which is consent, seeing no other pecuniary interest."
+    },
+    {
+      "index": 43,
+      "start": "00:21:32.590",
+      "end": "00:21:37.250",
+      "text": "We'll deal with 2.10 separately,"
+    },
+    {
+      "index": 44,
+      "start": "00:21:37.250",
+      "end": "00:21:40.610",
+      "text": "but just looking to members of committee,"
+    },
+    {
+      "index": 45,
+      "start": "00:21:40.610",
+      "end": "00:21:45.090",
+      "text": "if there are any other items they'd like separate."
+    },
+    {
+      "index": 46,
+      "start": "00:21:45.090",
+      "end": "00:21:49.290",
+      "text": "Okay, seeing none, I'll look to committee to craft a motion"
+    },
+    {
+      "index": 47,
+      "start": "00:21:49.290",
+      "end": "00:21:51.510",
+      "text": "for items 2.1 through 2.9,"
+    },
+    {
+      "index": 48,
+      "start": "00:21:51.510",
+      "end": "00:21:52.460",
+      "text": "and then we'll begin discussion."
+    },
+    {
+      "index": 49,
+      "start": "00:21:52.460",
+      "end": "00:21:55.030",
+      "text": "Councillor Hopkins, Councillor Van Merbergen."
+    },
+    {
+      "index": 50,
+      "start": "00:21:55.030",
+      "end": "00:21:57.040",
+      "text": "And I know Councillor Perbilly,"
+    },
+    {
+      "index": 51,
+      "start": "00:21:57.040",
+      "end": "00:21:58.890",
+      "text": "you've indicated you have some questions"
+    },
+    {
+      "index": 52,
+      "start": "00:21:58.890",
+      "end": "00:22:03.200",
+      "text": "for 2.1 and 2.7, you may go ahead."
+    },
+    {
+      "index": 53,
+      "start": "00:22:03.200",
+      "end": "00:22:04.850",
+      "text": "Thank you, and so to chair to the staff."
+    },
+    {
+      "index": 54,
+      "start": "00:22:04.850",
+      "end": "00:22:07.640",
+      "text": "I'll start with 2.1, I've actually two additional questions"
+    },
+    {
+      "index": 55,
+      "start": "00:22:07.640",
+      "end": "00:22:09.160",
+      "text": "for two other points."
+    },
+    {
+      "index": 56,
+      "start": "00:22:09.160",
+      "end": "00:22:12.150",
+      "text": "By in terms of the 2.1, the agreement"
+    },
+    {
+      "index": 57,
+      "start": "00:22:12.150",
+      "end": "00:22:16.870",
+      "text": "that is in front of us regarding the attendance software,"
+    },
+    {
+      "index": 58,
+      "start": "00:22:16.870",
+      "end": "00:22:20.440",
+      "text": "my question is we are paying for five years starting now,"
+    },
+    {
+      "index": 59,
+      "start": "00:22:20.440",
+      "end": "00:22:24.990",
+      "text": "but current support is still March, 2027."
+    },
+    {
+      "index": 60,
+      "start": "00:22:24.990",
+      "end": "00:22:27.920",
+      "text": "So what is the reason why we are already doing it now"
+    },
+    {
+      "index": 61,
+      "start": "00:22:27.920",
+      "end": "00:22:32.590",
+      "text": "if the support is still till 2027?"
+    },
+    {
+      "index": 62,
+      "start": "00:22:32.590",
+      "end": "00:22:36.800",
+      "text": "Thank you, I'll go to Mr. Ennett."
+    },
+    {
+      "index": 63,
+      "start": "00:22:36.800",
+      "end": "00:22:40.390",
+      "text": "Thank you, and through the chair."
+    },
+    {
+      "index": 64,
+      "start": "00:22:40.390",
+      "end": "00:22:45.130",
+      "text": "So when we sign the new agreement with before you today,"
+    },
+    {
+      "index": 65,
+      "start": "00:22:45.130",
+      "end": "00:22:49.680",
+      "text": "our existing contract with Pronos comes to an end."
+    },
+    {
+      "index": 66,
+      "start": "00:22:49.680",
+      "end": "00:22:54.410",
+      "text": "So we would not be paying for two contracts."
+    },
+    {
+      "index": 67,
+      "start": "00:22:54.410",
+      "end": "00:22:58.310",
+      "text": "Councillor. - Okay, thank you for that follow up."
+    },
+    {
+      "index": 68,
+      "start": "00:22:58.310",
+      "end": "00:23:00.250",
+      "text": "We'll currently in front of us,"
+    },
+    {
+      "index": 69,
+      "start": "00:23:00.250",
+      "end": "00:23:03.940",
+      "text": "it's 340,000 per year under the existing one,"
+    },
+    {
+      "index": 70,
+      "start": "00:23:03.940",
+      "end": "00:23:06.580",
+      "text": "which is gonna end how much did we pay per year"
+    },
+    {
+      "index": 71,
+      "start": "00:23:06.580",
+      "end": "00:23:10.310",
+      "text": "for the current one?"
+    },
+    {
+      "index": 72,
+      "start": "00:23:10.310",
+      "end": "00:23:13.770",
+      "text": "Mr. Ennett."
+    },
+    {
+      "index": 73,
+      "start": "00:23:13.770",
+      "end": "00:23:16.970",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 74,
+      "start": "00:23:16.970",
+      "end": "00:23:19.360",
+      "text": "I will have to, I don't have the exact figures"
+    },
+    {
+      "index": 75,
+      "start": "00:23:19.360",
+      "end": "00:23:24.390",
+      "text": "in front of me, though the rates would have been"
+    },
+    {
+      "index": 76,
+      "start": "00:23:24.390",
+      "end": "00:23:26.960",
+      "text": "relatively similar to what we are currently paying."
+    },
+    {
+      "index": 77,
+      "start": "00:23:26.960",
+      "end": "00:23:30.680",
+      "text": "But I can look into that and get back."
+    },
+    {
+      "index": 78,
+      "start": "00:23:30.680",
+      "end": "00:23:32.160",
+      "text": "If you could, I would appreciate that."
+    },
+    {
+      "index": 79,
+      "start": "00:23:32.160",
+      "end": "00:23:33.670",
+      "text": "I was just curious if it would be lower"
+    },
+    {
+      "index": 80,
+      "start": "00:23:33.670",
+      "end": "00:23:37.010",
+      "text": "than why don't we let it run out till the end"
+    },
+    {
+      "index": 81,
+      "start": "00:23:37.010",
+      "end": "00:23:40.830",
+      "text": "and then negotiate this from years free from now?"
+    },
+    {
+      "index": 82,
+      "start": "00:23:40.830",
+      "end": "00:23:42.030",
+      "text": "So that was the only question."
+    },
+    {
+      "index": 83,
+      "start": "00:23:42.030",
+      "end": "00:23:44.530",
+      "text": "If it's the same or similar, it makes no difference,"
+    },
+    {
+      "index": 84,
+      "start": "00:23:44.530",
+      "end": "00:23:47.480",
+      "text": "but if it is higher than I think that we should negotiate"
+    },
+    {
+      "index": 85,
+      "start": "00:23:47.480",
+      "end": "00:23:52.050",
+      "text": "for the lower rate, but please do give me the amount."
+    },
+    {
+      "index": 86,
+      "start": "00:23:52.050",
+      "end": "00:23:53.330",
+      "text": "Thank you."
+    },
+    {
+      "index": 87,
+      "start": "00:23:53.330",
+      "end": "00:23:55.160",
+      "text": "And the other question I have,"
+    },
+    {
+      "index": 88,
+      "start": "00:23:55.160",
+      "end": "00:23:57.740",
+      "text": "such companies they charge per number of employees."
+    },
+    {
+      "index": 89,
+      "start": "00:23:57.740",
+      "end": "00:24:01.070",
+      "text": "I know we are basing this contract for 5,000."
+    },
+    {
+      "index": 90,
+      "start": "00:24:01.070",
+      "end": "00:24:02.980",
+      "text": "And my question is, is this really the number"
+    },
+    {
+      "index": 91,
+      "start": "00:24:02.980",
+      "end": "00:24:04.050",
+      "text": "that we currently have?"
+    },
+    {
+      "index": 92,
+      "start": "00:24:04.050",
+      "end": "00:24:06.080",
+      "text": "Because I was always under the oppression"
+    },
+    {
+      "index": 93,
+      "start": "00:24:06.080",
+      "end": "00:24:08.130",
+      "text": "of your account of under three and a half."
+    },
+    {
+      "index": 94,
+      "start": "00:24:08.130",
+      "end": "00:24:11.630",
+      "text": "Thank you."
+    },
+    {
+      "index": 95,
+      "start": "00:24:11.630",
+      "end": "00:24:13.820",
+      "text": "Mr. Ennett."
+    },
+    {
+      "index": 96,
+      "start": "00:24:13.820",
+      "end": "00:24:16.320",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 97,
+      "start": "00:24:16.320",
+      "end": "00:24:19.460",
+      "text": "So the numbers of licenses identified in the report"
+    },
+    {
+      "index": 98,
+      "start": "00:24:19.460",
+      "end": "00:24:24.680",
+      "text": "includes full-time and part-time permanent city staff,"
+    },
+    {
+      "index": 99,
+      "start": "00:24:24.680",
+      "end": "00:24:28.660",
+      "text": "all LPS staff, and a factor to address"
+    },
+    {
+      "index": 100,
+      "start": "00:24:28.660",
+      "end": "00:24:30.830",
+      "text": "the variability of seasonal work."
+    },
+    {
+      "index": 101,
+      "start": "00:24:30.830",
+      "end": "00:24:32.600",
+      "text": "So seasonal employees that would be with us"
+    },
+    {
+      "index": 102,
+      "start": "00:24:32.600",
+      "end": "00:24:35.490",
+      "text": "say in the summer months."
+    },
+    {
+      "index": 103,
+      "start": "00:24:35.490",
+      "end": "00:24:37.150",
+      "text": "Councillor."
+    },
+    {
+      "index": 104,
+      "start": "00:24:37.150",
+      "end": "00:24:37.980",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 105,
+      "start": "00:24:37.980",
+      "end": "00:24:39.870",
+      "text": "You mentioned LPS charge."
+    },
+    {
+      "index": 106,
+      "start": "00:24:39.870",
+      "end": "00:24:42.120",
+      "text": "Do we do a charge charge for those to LPS"
+    },
+    {
+      "index": 107,
+      "start": "00:24:42.120",
+      "end": "00:24:45.670",
+      "text": "or do we pick up the costs as city hall?"
+    },
+    {
+      "index": 108,
+      "start": "00:24:45.670",
+      "end": "00:24:50.110",
+      "text": "Mr. Ennett."
+    },
+    {
+      "index": 109,
+      "start": "00:24:50.110",
+      "end": "00:24:53.420",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 110,
+      "start": "00:24:53.420",
+      "end": "00:24:56.360",
+      "text": "It's a good question."
+    },
+    {
+      "index": 111,
+      "start": "00:24:56.360",
+      "end": "00:25:00.930",
+      "text": "I would have to confirm and get back."
+    },
+    {
+      "index": 112,
+      "start": "00:25:00.930",
+      "end": "00:25:02.400",
+      "text": "So thank you and if you can please get back"
+    },
+    {
+      "index": 113,
+      "start": "00:25:02.400",
+      "end": "00:25:05.030",
+      "text": "to me regarding the price for the last two years"
+    },
+    {
+      "index": 114,
+      "start": "00:25:05.030",
+      "end": "00:25:06.600",
+      "text": "and also as the LPS,"
+    },
+    {
+      "index": 115,
+      "start": "00:25:06.600",
+      "end": "00:25:10.240",
+      "text": "if you do a charge out to their organization."
+    },
+    {
+      "index": 116,
+      "start": "00:25:10.240",
+      "end": "00:25:11.620",
+      "text": "Thank you for that follow-up."
+    },
+    {
+      "index": 117,
+      "start": "00:25:11.620",
+      "end": "00:25:14.380",
+      "text": "Sorry, additional one on 2.4."
+    },
+    {
+      "index": 118,
+      "start": "00:25:14.380",
+      "end": "00:25:17.350",
+      "text": "And that's the funding for upper temps."
+    },
+    {
+      "index": 119,
+      "start": "00:25:17.350",
+      "end": "00:25:19.010",
+      "text": "So the chair to the staff, I just have a question."
+    },
+    {
+      "index": 120,
+      "start": "00:25:19.010",
+      "end": "00:25:21.670",
+      "text": "It's estimated of total project cost"
+    },
+    {
+      "index": 121,
+      "start": "00:25:21.670",
+      "end": "00:25:25.790",
+      "text": "and city of London's share of non-funded costs."
+    },
+    {
+      "index": 122,
+      "start": "00:25:25.790",
+      "end": "00:25:29.100",
+      "text": "My question is who pays for the other share"
+    },
+    {
+      "index": 123,
+      "start": "00:25:29.100",
+      "end": "00:25:33.480",
+      "text": "that's not funded by city of London?"
+    },
+    {
+      "index": 124,
+      "start": "00:25:33.480",
+      "end": "00:25:35.210",
+      "text": "Ms. Ramlu."
+    },
+    {
+      "index": 125,
+      "start": "00:25:35.210",
+      "end": "00:25:36.790",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 126,
+      "start": "00:25:36.790",
+      "end": "00:25:37.810",
+      "text": "This is a city share."
+    },
+    {
+      "index": 127,
+      "start": "00:25:37.810",
+      "end": "00:25:40.450",
+      "text": "The other shares are the other municipalities"
+    },
+    {
+      "index": 128,
+      "start": "00:25:40.450",
+      "end": "00:25:43.080",
+      "text": "that contributed to the upper temps"
+    },
+    {
+      "index": 129,
+      "start": "00:25:43.080",
+      "end": "00:25:47.140",
+      "text": "conservation authorities budget."
+    },
+    {
+      "index": 130,
+      "start": "00:25:47.140",
+      "end": "00:25:47.970",
+      "text": "Thank you."
+    },
+    {
+      "index": 131,
+      "start": "00:25:47.970",
+      "end": "00:25:50.030",
+      "text": "So for me to have the understanding,"
+    },
+    {
+      "index": 132,
+      "start": "00:25:50.030",
+      "end": "00:25:52.130",
+      "text": "I sit on the board of the Kettle Creek."
+    },
+    {
+      "index": 133,
+      "start": "00:25:52.130",
+      "end": "00:25:53.630",
+      "text": "There is certain percentages."
+    },
+    {
+      "index": 134,
+      "start": "00:25:53.630",
+      "end": "00:25:59.660",
+      "text": "So for upper temps, it would work the same way, is that correct?"
+    },
+    {
+      "index": 135,
+      "start": "00:25:59.660",
+      "end": "00:26:00.440",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 136,
+      "start": "00:26:00.440",
+      "end": "00:26:03.060",
+      "text": "That's correct."
+    },
+    {
+      "index": 137,
+      "start": "00:26:03.060",
+      "end": "00:26:03.840",
+      "text": "Council."
+    },
+    {
+      "index": 138,
+      "start": "00:26:03.840",
+      "end": "00:26:08.180",
+      "text": "Thank you very much through the chair 2.5."
+    },
+    {
+      "index": 139,
+      "start": "00:26:08.180",
+      "end": "00:26:12.170",
+      "text": "And regarding the 2.5, I actually mentioned this"
+    },
+    {
+      "index": 140,
+      "start": "00:26:12.170",
+      "end": "00:26:15.270",
+      "text": "during the meeting last week when we talked about the budget."
+    },
+    {
+      "index": 141,
+      "start": "00:26:15.270",
+      "end": "00:26:17.570",
+      "text": "Last summer, the premier Ford was here"
+    },
+    {
+      "index": 142,
+      "start": "00:26:17.570",
+      "end": "00:26:21.310",
+      "text": "together with Mr. Flag, $23 million infrastructure"
+    },
+    {
+      "index": 143,
+      "start": "00:26:21.310",
+      "end": "00:26:23.060",
+      "text": "for downtown stores."
+    },
+    {
+      "index": 144,
+      "start": "00:26:23.060",
+      "end": "00:26:26.020",
+      "text": "Is this part of it or no?"
+    },
+    {
+      "index": 145,
+      "start": "00:26:26.020",
+      "end": "00:26:29.400",
+      "text": "This is an additional because the description is pretty similar"
+    },
+    {
+      "index": 146,
+      "start": "00:26:29.400",
+      "end": "00:26:33.150",
+      "text": "enlarging the store capacity for downtown."
+    },
+    {
+      "index": 147,
+      "start": "00:26:33.150",
+      "end": "00:26:36.170",
+      "text": "Ms. Ramlu, thank you through the chair."
+    },
+    {
+      "index": 148,
+      "start": "00:26:36.170",
+      "end": "00:26:38.220",
+      "text": "This is that project that we were awarded the money"
+    },
+    {
+      "index": 149,
+      "start": "00:26:38.220",
+      "end": "00:26:39.130",
+      "text": "for last summer."
+    },
+    {
+      "index": 150,
+      "start": "00:26:39.130",
+      "end": "00:26:40.940",
+      "text": "So, and we are now moving into construction"
+    },
+    {
+      "index": 151,
+      "start": "00:26:40.940",
+      "end": "00:26:43.590",
+      "text": "and awarding the contract."
+    },
+    {
+      "index": 152,
+      "start": "00:26:43.590",
+      "end": "00:26:44.540",
+      "text": "Council member."
+    },
+    {
+      "index": 153,
+      "start": "00:26:44.540",
+      "end": "00:26:45.550",
+      "text": "Perfect."
+    },
+    {
+      "index": 154,
+      "start": "00:26:45.550",
+      "end": "00:26:46.340",
+      "text": "Thank you very much for that."
+    },
+    {
+      "index": 155,
+      "start": "00:26:46.340",
+      "end": "00:26:51.610",
+      "text": "And I have one more, sorry, 2.7."
+    },
+    {
+      "index": 156,
+      "start": "00:26:51.610",
+      "end": "00:26:54.040",
+      "text": "And I have a few questions regarding this."
+    },
+    {
+      "index": 157,
+      "start": "00:26:54.040",
+      "end": "00:26:57.660",
+      "text": "There are in this list, we have a price that we charge"
+    },
+    {
+      "index": 158,
+      "start": "00:26:57.660",
+      "end": "00:27:00.050",
+      "text": "for different parks, different rates."
+    },
+    {
+      "index": 159,
+      "start": "00:27:00.050",
+      "end": "00:27:02.470",
+      "text": "And through the chair, my question is,"
+    },
+    {
+      "index": 160,
+      "start": "00:27:02.470",
+      "end": "00:27:05.740",
+      "text": "there are some that are not specifically identified."
+    },
+    {
+      "index": 161,
+      "start": "00:27:05.740",
+      "end": "00:27:08.090",
+      "text": "The ones that are not specifically identified,"
+    },
+    {
+      "index": 162,
+      "start": "00:27:08.090",
+      "end": "00:27:10.690",
+      "text": "does that mean that they go to the price,"
+    },
+    {
+      "index": 163,
+      "start": "00:27:10.690",
+      "end": "00:27:12.570",
+      "text": "kind of the bulk one, what is the first one,"
+    },
+    {
+      "index": 164,
+      "start": "00:27:12.570",
+      "end": "00:27:17.520",
+      "text": "which is 4.99 acres, 325,000, five plus acres, 300,000."
+    },
+    {
+      "index": 165,
+      "start": "00:27:17.520",
+      "end": "00:27:20.970",
+      "text": "So I just want to make sure if it's not specifically"
+    },
+    {
+      "index": 166,
+      "start": "00:27:20.970",
+      "end": "00:27:25.790",
+      "text": "identified, if it goes with this rate per acre."
+    },
+    {
+      "index": 167,
+      "start": "00:27:25.790",
+      "end": "00:27:26.840",
+      "text": "Mr. Warner?"
+    },
+    {
+      "index": 168,
+      "start": "00:27:26.840",
+      "end": "00:27:28.760",
+      "text": "Yes, through the chair, yes, you are correct."
+    },
+    {
+      "index": 169,
+      "start": "00:27:28.760",
+      "end": "00:27:32.770",
+      "text": "That is how that works for those prices."
+    },
+    {
+      "index": 170,
+      "start": "00:27:32.770",
+      "end": "00:27:34.030",
+      "text": "Perfect, thank you for that."
+    },
+    {
+      "index": 171,
+      "start": "00:27:34.030",
+      "end": "00:27:37.300",
+      "text": "And question, if someone wanted to make a purchase"
+    },
+    {
+      "index": 172,
+      "start": "00:27:37.300",
+      "end": "00:27:42.450",
+      "text": "and it is not, they would offer less than this,"
+    },
+    {
+      "index": 173,
+      "start": "00:27:42.450",
+      "end": "00:27:45.010",
+      "text": "but is a potential crucial piece of puzzle for us"
+    },
+    {
+      "index": 174,
+      "start": "00:27:45.010",
+      "end": "00:27:47.530",
+      "text": "as a municipality, will the staff,"
+    },
+    {
+      "index": 175,
+      "start": "00:27:47.530",
+      "end": "00:27:49.980",
+      "text": "because again, the staff based on this,"
+    },
+    {
+      "index": 176,
+      "start": "00:27:49.980",
+      "end": "00:27:53.990",
+      "text": "I assume that cannot negotiate lower pricing,"
+    },
+    {
+      "index": 177,
+      "start": "00:27:53.990",
+      "end": "00:27:55.040",
+      "text": "please confirm that."
+    },
+    {
+      "index": 178,
+      "start": "00:27:55.040",
+      "end": "00:27:58.620",
+      "text": "And if it, would the staff come back to us,"
+    },
+    {
+      "index": 179,
+      "start": "00:27:58.620",
+      "end": "00:28:00.910",
+      "text": "not to lose this opportunity and say,"
+    },
+    {
+      "index": 180,
+      "start": "00:28:00.910",
+      "end": "00:28:02.790",
+      "text": "this is a key piece of the puzzle."
+    },
+    {
+      "index": 181,
+      "start": "00:28:02.790",
+      "end": "00:28:04.900",
+      "text": "We need them, but they are not willing to pay this much."
+    },
+    {
+      "index": 182,
+      "start": "00:28:04.900",
+      "end": "00:28:06.850",
+      "text": "Thank you."
+    },
+    {
+      "index": 183,
+      "start": "00:28:06.850",
+      "end": "00:28:07.670",
+      "text": "Mr. Warner?"
+    },
+    {
+      "index": 184,
+      "start": "00:28:07.670",
+      "end": "00:28:08.500",
+      "text": "Yes, through the chair."
+    },
+    {
+      "index": 185,
+      "start": "00:28:08.500",
+      "end": "00:28:12.780",
+      "text": "So historically, we have actually brought to council"
+    },
+    {
+      "index": 186,
+      "start": "00:28:12.780",
+      "end": "00:28:14.730",
+      "text": "unsolicited offers that are less than"
+    },
+    {
+      "index": 187,
+      "start": "00:28:14.730",
+      "end": "00:28:17.000",
+      "text": "what the council approved prices is."
+    },
+    {
+      "index": 188,
+      "start": "00:28:17.000",
+      "end": "00:28:19.710",
+      "text": "And in some instances, we were not able to justify"
+    },
+    {
+      "index": 189,
+      "start": "00:28:19.710",
+      "end": "00:28:20.540",
+      "text": "and recommend it."
+    },
+    {
+      "index": 190,
+      "start": "00:28:20.540",
+      "end": "00:28:21.940",
+      "text": "And in others, we were able to,"
+    },
+    {
+      "index": 191,
+      "start": "00:28:21.940",
+      "end": "00:28:24.120",
+      "text": "with a business case, an illegal opinion."
+    },
+    {
+      "index": 192,
+      "start": "00:28:24.120",
+      "end": "00:28:27.590",
+      "text": "So if there is an opportunity that's very important,"
+    },
+    {
+      "index": 193,
+      "start": "00:28:27.590",
+      "end": "00:28:29.940",
+      "text": "that would generate extremely high employment"
+    },
+    {
+      "index": 194,
+      "start": "00:28:29.940",
+      "end": "00:28:32.840",
+      "text": "and would fit a target industry,"
+    },
+    {
+      "index": 195,
+      "start": "00:28:32.840",
+      "end": "00:28:37.410",
+      "text": "we could ask council to permission to negotiate."
+    },
+    {
+      "index": 196,
+      "start": "00:28:37.410",
+      "end": "00:28:38.740",
+      "text": "Councillor?"
+    },
+    {
+      "index": 197,
+      "start": "00:28:38.740",
+      "end": "00:28:39.570",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 198,
+      "start": "00:28:39.570",
+      "end": "00:28:42.860",
+      "text": "And I had a discussion prior,"
+    },
+    {
+      "index": 199,
+      "start": "00:28:42.860",
+      "end": "00:28:44.600",
+      "text": "and I would like to receive those,"
+    },
+    {
+      "index": 200,
+      "start": "00:28:44.600",
+      "end": "00:28:48.050",
+      "text": "the other comparative analysis with the DC charges."
+    },
+    {
+      "index": 201,
+      "start": "00:28:48.050",
+      "end": "00:28:51.070",
+      "text": "Thank you."
+    },
+    {
+      "index": 202,
+      "start": "00:28:51.070",
+      "end": "00:28:51.890",
+      "text": "Thank you."
+    },
+    {
+      "index": 203,
+      "start": "00:28:51.890",
+      "end": "00:28:55.480",
+      "text": "Looking to other members, Councillor Hopkins, go ahead."
+    },
+    {
+      "index": 204,
+      "start": "00:28:55.480",
+      "end": "00:28:56.690",
+      "text": "Thank you, Madam Chair."
+    },
+    {
+      "index": 205,
+      "start": "00:28:56.690",
+      "end": "00:29:02.250",
+      "text": "And thank you to staff for the agenda."
+    },
+    {
+      "index": 206,
+      "start": "00:29:02.250",
+      "end": "00:29:04.430",
+      "text": "It's really good to see some of these big projects"
+    },
+    {
+      "index": 207,
+      "start": "00:29:04.430",
+      "end": "00:29:05.820",
+      "text": "come forward here too."
+    },
+    {
+      "index": 208,
+      "start": "00:29:05.820",
+      "end": "00:29:08.790",
+      "text": "So I can imagine there's a lot of work"
+    },
+    {
+      "index": 209,
+      "start": "00:29:08.790",
+      "end": "00:29:10.730",
+      "text": "that goes into these recommendations,"
+    },
+    {
+      "index": 210,
+      "start": "00:29:10.730",
+      "end": "00:29:14.250",
+      "text": "but the flip protection on Adelaide"
+    },
+    {
+      "index": 211,
+      "start": "00:29:14.250",
+      "end": "00:29:19.060",
+      "text": "is really a great project opening up services"
+    },
+    {
+      "index": 212,
+      "start": "00:29:19.060",
+      "end": "00:29:22.860",
+      "text": "to potential residential homes,"
+    },
+    {
+      "index": 213,
+      "start": "00:29:22.860",
+      "end": "00:29:26.350",
+      "text": "and as well as the London downtown sewer capacity"
+    },
+    {
+      "index": 214,
+      "start": "00:29:26.350",
+      "end": "00:29:28.450",
+      "text": "expansion project, that's another biggie."
+    },
+    {
+      "index": 215,
+      "start": "00:29:28.450",
+      "end": "00:29:33.260",
+      "text": "And I'm sure it's quite a large project."
+    },
+    {
+      "index": 216,
+      "start": "00:29:33.260",
+      "end": "00:29:37.430",
+      "text": "I do have a question on the English drain,"
+    },
+    {
+      "index": 217,
+      "start": "00:29:37.430",
+      "end": "00:29:41.350",
+      "text": "which is the Bankman Stabilization in Lambeth."
+    },
+    {
+      "index": 218,
+      "start": "00:29:41.350",
+      "end": "00:29:43.620",
+      "text": "That's the area that I represent."
+    },
+    {
+      "index": 219,
+      "start": "00:29:43.620",
+      "end": "00:29:45.970",
+      "text": "No, that's coming to us in 2026."
+    },
+    {
+      "index": 220,
+      "start": "00:29:45.970",
+      "end": "00:29:49.110",
+      "text": "I know we're just going through a lot of construction"
+    },
+    {
+      "index": 221,
+      "start": "00:29:49.110",
+      "end": "00:29:50.710",
+      "text": "along Colonel Talbot."
+    },
+    {
+      "index": 222,
+      "start": "00:29:50.710",
+      "end": "00:29:54.130",
+      "text": "What can we expect with this project going forward next year?"
+    },
+    {
+      "index": 223,
+      "start": "00:29:54.130",
+      "end": "00:29:58.560",
+      "text": "And in particular, if there are going to be detours,"
+    },
+    {
+      "index": 224,
+      "start": "00:29:58.560",
+      "end": "00:30:03.060",
+      "text": "if we can sort of be able to get that information out"
+    },
+    {
+      "index": 225,
+      "start": "00:30:03.060",
+      "end": "00:30:07.580",
+      "text": "to the community through you, Madam Chair."
+    },
+    {
+      "index": 226,
+      "start": "00:30:07.580",
+      "end": "00:30:08.400",
+      "text": "Thank you."
+    },
+    {
+      "index": 227,
+      "start": "00:30:08.400",
+      "end": "00:30:13.450",
+      "text": "I'll go to Ms. Ramaloo on our infamous English drain."
+    },
+    {
+      "index": 228,
+      "start": "00:30:13.450",
+      "end": "00:30:14.280",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 229,
+      "start": "00:30:14.280",
+      "end": "00:30:17.390",
+      "text": "Yes, we recognize Colonel Talbot has had a lot of disruption."
+    },
+    {
+      "index": 230,
+      "start": "00:30:17.390",
+      "end": "00:30:19.440",
+      "text": "Fortunately for this project,"
+    },
+    {
+      "index": 231,
+      "start": "00:30:19.440",
+      "end": "00:30:21.890",
+      "text": "the works are really off of the roadway,"
+    },
+    {
+      "index": 232,
+      "start": "00:30:21.890",
+      "end": "00:30:25.470",
+      "text": "so we do not anticipate any significant delays"
+    },
+    {
+      "index": 233,
+      "start": "00:30:25.470",
+      "end": "00:30:28.570",
+      "text": "or disruption, Councillor."
+    },
+    {
+      "index": 234,
+      "start": "00:30:28.570",
+      "end": "00:30:29.700",
+      "text": "Yeah, pretty good."
+    },
+    {
+      "index": 235,
+      "start": "00:30:29.700",
+      "end": "00:30:32.330",
+      "text": "That's great to hear that."
+    },
+    {
+      "index": 236,
+      "start": "00:30:32.330",
+      "end": "00:30:37.970",
+      "text": "We have, or did declaring some surplus lands into areas"
+    },
+    {
+      "index": 237,
+      "start": "00:30:37.970",
+      "end": "00:30:39.970",
+      "text": "in Lambeth as well."
+    },
+    {
+      "index": 238,
+      "start": "00:30:39.970",
+      "end": "00:30:45.220",
+      "text": "And I have a question around the 47 outer drive surplus."
+    },
+    {
+      "index": 239,
+      "start": "00:30:45.220",
+      "end": "00:30:49.280",
+      "text": "As we undertake to sell this property"
+    },
+    {
+      "index": 240,
+      "start": "00:30:49.280",
+      "end": "00:30:52.730",
+      "text": "that no longer is useful to the city,"
+    },
+    {
+      "index": 241,
+      "start": "00:30:52.730",
+      "end": "00:30:54.640",
+      "text": "are there going to be,"
+    },
+    {
+      "index": 242,
+      "start": "00:30:54.640",
+      "end": "00:30:59.610",
+      "text": "will there be services provided to this lot when we sell it?"
+    },
+    {
+      "index": 243,
+      "start": "00:30:59.610",
+      "end": "00:31:02.550",
+      "text": "I wasn't sure."
+    },
+    {
+      "index": 244,
+      "start": "00:31:02.550",
+      "end": "00:31:05.700",
+      "text": "I know it's right in the middle of a number of residential homes,"
+    },
+    {
+      "index": 245,
+      "start": "00:31:05.700",
+      "end": "00:31:07.590",
+      "text": "but just wanted to know a little bit more"
+    },
+    {
+      "index": 246,
+      "start": "00:31:07.590",
+      "end": "00:31:12.330",
+      "text": "about the surplus of these lands."
+    },
+    {
+      "index": 247,
+      "start": "00:31:12.330",
+      "end": "00:31:16.850",
+      "text": "This is the one on outer drive as well."
+    },
+    {
+      "index": 248,
+      "start": "00:31:16.850",
+      "end": "00:31:20.550",
+      "text": "I'll go to Mr. Warner whenever you're ready."
+    },
+    {
+      "index": 249,
+      "start": "00:31:20.550",
+      "end": "00:31:22.610",
+      "text": "Thank you through the chair and for the question."
+    },
+    {
+      "index": 250,
+      "start": "00:31:22.610",
+      "end": "00:31:25.180",
+      "text": "I'm not 100% sure I was under the assumption"
+    },
+    {
+      "index": 251,
+      "start": "00:31:25.180",
+      "end": "00:31:26.290",
+      "text": "that it is fully serviced,"
+    },
+    {
+      "index": 252,
+      "start": "00:31:26.290",
+      "end": "00:31:31.220",
+      "text": "but we can get back to that detail for you before council"
+    },
+    {
+      "index": 253,
+      "start": "00:31:31.220",
+      "end": "00:31:32.330",
+      "text": "because we will need to know that"
+    },
+    {
+      "index": 254,
+      "start": "00:31:32.330",
+      "end": "00:31:34.620",
+      "text": "when we do the marketing of it."
+    },
+    {
+      "index": 255,
+      "start": "00:31:34.620",
+      "end": "00:31:35.600",
+      "text": "Councillor?"
+    },
+    {
+      "index": 256,
+      "start": "00:31:35.600",
+      "end": "00:31:36.680",
+      "text": "Yeah, good to know."
+    },
+    {
+      "index": 257,
+      "start": "00:31:36.680",
+      "end": "00:31:39.740",
+      "text": "I know sometimes residents do reach out"
+    },
+    {
+      "index": 258,
+      "start": "00:31:39.740",
+      "end": "00:31:42.520",
+      "text": "and want to know a little bit more about some lands"
+    },
+    {
+      "index": 259,
+      "start": "00:31:42.520",
+      "end": "00:31:44.230",
+      "text": "and it would be good information to share."
+    },
+    {
+      "index": 260,
+      "start": "00:31:44.230",
+      "end": "00:31:46.100",
+      "text": "I would think that they can hook into it,"
+    },
+    {
+      "index": 261,
+      "start": "00:31:46.100",
+      "end": "00:31:48.960",
+      "text": "but sometimes these things don't work out the way"
+    },
+    {
+      "index": 262,
+      "start": "00:31:48.960",
+      "end": "00:31:51.110",
+      "text": "they plan to servicing."
+    },
+    {
+      "index": 263,
+      "start": "00:31:51.110",
+      "end": "00:31:54.610",
+      "text": "Obviously, it's going to be developed."
+    },
+    {
+      "index": 264,
+      "start": "00:31:54.610",
+      "end": "00:31:56.160",
+      "text": "There needs to be servicing there,"
+    },
+    {
+      "index": 265,
+      "start": "00:31:56.160",
+      "end": "00:31:58.590",
+      "text": "so I would appreciate that information."
+    },
+    {
+      "index": 266,
+      "start": "00:31:58.590",
+      "end": "00:31:59.430",
+      "text": "Thank you."
+    },
+    {
+      "index": 267,
+      "start": "00:31:59.430",
+      "end": "00:32:03.800",
+      "text": "And maybe a comment to 2.6,"
+    },
+    {
+      "index": 268,
+      "start": "00:32:03.800",
+      "end": "00:32:07.780",
+      "text": "which is the procurement of goods and service policy"
+    },
+    {
+      "index": 269,
+      "start": "00:32:07.780",
+      "end": "00:32:08.610",
+      "text": "update."
+    },
+    {
+      "index": 270,
+      "start": "00:32:08.610",
+      "end": "00:32:13.340",
+      "text": "Lots of changes going on there, which are good."
+    },
+    {
+      "index": 271,
+      "start": "00:32:13.340",
+      "end": "00:32:16.470",
+      "text": "I'd like to know a little bit about limited tendering"
+    },
+    {
+      "index": 272,
+      "start": "00:32:16.470",
+      "end": "00:32:21.910",
+      "text": "and mostly understand limited tendering,"
+    },
+    {
+      "index": 273,
+      "start": "00:32:21.910",
+      "end": "00:32:26.420",
+      "text": "but as it relates to the appropriate exemptions"
+    },
+    {
+      "index": 274,
+      "start": "00:32:26.420",
+      "end": "00:32:27.490",
+      "text": "when justified."
+    },
+    {
+      "index": 275,
+      "start": "00:32:27.490",
+      "end": "00:32:29.270",
+      "text": "So wanting to know a little bit more"
+    },
+    {
+      "index": 276,
+      "start": "00:32:29.270",
+      "end": "00:32:32.200",
+      "text": "when we would use limited tendering"
+    },
+    {
+      "index": 277,
+      "start": "00:32:32.200",
+      "end": "00:32:35.340",
+      "text": "through you, Madam Chair."
+    },
+    {
+      "index": 278,
+      "start": "00:32:35.340",
+      "end": "00:32:38.830",
+      "text": "Thank you all, go to Ms. Aurora."
+    },
+    {
+      "index": 279,
+      "start": "00:32:38.830",
+      "end": "00:32:41.120",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 280,
+      "start": "00:32:41.120",
+      "end": "00:32:43.940",
+      "text": "The terminology of single source, sole source"
+    },
+    {
+      "index": 281,
+      "start": "00:32:43.940",
+      "end": "00:32:47.900",
+      "text": "and direct award has been changed to limited tendering,"
+    },
+    {
+      "index": 282,
+      "start": "00:32:47.900",
+      "end": "00:32:49.650",
+      "text": "where as per the policy,"
+    },
+    {
+      "index": 283,
+      "start": "00:32:49.650",
+      "end": "00:32:52.230",
+      "text": "if limited competition is available,"
+    },
+    {
+      "index": 284,
+      "start": "00:32:52.230",
+      "end": "00:32:56.120",
+      "text": "or as per the policy, if three quotations are required"
+    },
+    {
+      "index": 285,
+      "start": "00:32:56.120",
+      "end": "00:32:58.540",
+      "text": "and then we get the market is capable only"
+    },
+    {
+      "index": 286,
+      "start": "00:32:58.540",
+      "end": "00:33:00.600",
+      "text": "for less than three quotations,"
+    },
+    {
+      "index": 287,
+      "start": "00:33:00.600",
+      "end": "00:33:02.430",
+      "text": "or if open tendering is required"
+    },
+    {
+      "index": 288,
+      "start": "00:33:02.430",
+      "end": "00:33:05.010",
+      "text": "and then the market is not,"
+    },
+    {
+      "index": 289,
+      "start": "00:33:05.010",
+      "end": "00:33:08.250",
+      "text": "we don't have enough suppliers in the market,"
+    },
+    {
+      "index": 290,
+      "start": "00:33:08.250",
+      "end": "00:33:10.870",
+      "text": "that's when the limited tendering is used."
+    },
+    {
+      "index": 291,
+      "start": "00:33:10.870",
+      "end": "00:33:12.630",
+      "text": "Is the terminology has been aligned"
+    },
+    {
+      "index": 292,
+      "start": "00:33:12.630",
+      "end": "00:33:15.010",
+      "text": "with the trade agreements and has been put"
+    },
+    {
+      "index": 293,
+      "start": "00:33:15.010",
+      "end": "00:33:17.000",
+      "text": "so that we can have the documentation"
+    },
+    {
+      "index": 294,
+      "start": "00:33:17.000",
+      "end": "00:33:20.030",
+      "text": "and all the exemptions listed in limited tendering,"
+    },
+    {
+      "index": 295,
+      "start": "00:33:20.030",
+      "end": "00:33:22.820",
+      "text": "section 13 of the updated policy,"
+    },
+    {
+      "index": 296,
+      "start": "00:33:22.820",
+      "end": "00:33:26.280",
+      "text": "has been designed as per the trade agreement exemptions,"
+    },
+    {
+      "index": 297,
+      "start": "00:33:26.280",
+      "end": "00:33:29.390",
+      "text": "which are available."
+    },
+    {
+      "index": 298,
+      "start": "00:33:29.390",
+      "end": "00:33:31.000",
+      "text": "Councillor Hopkins."
+    },
+    {
+      "index": 299,
+      "start": "00:33:31.000",
+      "end": "00:33:32.110",
+      "text": "Yeah, thank you for that."
+    },
+    {
+      "index": 300,
+      "start": "00:33:32.110",
+      "end": "00:33:33.500",
+      "text": "And maybe just the last comment,"
+    },
+    {
+      "index": 301,
+      "start": "00:33:33.500",
+      "end": "00:33:35.990",
+      "text": "good to see that we're going to try to reach out"
+    },
+    {
+      "index": 302,
+      "start": "00:33:35.990",
+      "end": "00:33:37.890",
+      "text": "to Canadian companies as well."
+    },
+    {
+      "index": 303,
+      "start": "00:33:37.890",
+      "end": "00:33:39.880",
+      "text": "So it's good to see that."
+    },
+    {
+      "index": 304,
+      "start": "00:33:39.880",
+      "end": "00:33:43.750",
+      "text": "And again, thank you very much."
+    },
+    {
+      "index": 305,
+      "start": "00:33:43.750",
+      "end": "00:33:45.800",
+      "text": "Thank you, looking to other members of committee"
+    },
+    {
+      "index": 306,
+      "start": "00:33:45.800",
+      "end": "00:33:51.060",
+      "text": "for any other questions."
+    },
+    {
+      "index": 307,
+      "start": "00:33:51.060",
+      "end": "00:33:54.570",
+      "text": "Okay, seeing none, if you'll permit me to make a comment"
+    },
+    {
+      "index": 308,
+      "start": "00:33:54.570",
+      "end": "00:33:57.280",
+      "text": "and ask a question from the chair,"
+    },
+    {
+      "index": 309,
+      "start": "00:33:57.280",
+      "end": "00:33:59.900",
+      "text": "I did have a question regarding the updates"
+    },
+    {
+      "index": 310,
+      "start": "00:33:59.900",
+      "end": "00:34:01.900",
+      "text": "to the procurement policy."
+    },
+    {
+      "index": 311,
+      "start": "00:34:01.900",
+      "end": "00:34:05.040",
+      "text": "I'm just wondering if staff might be able"
+    },
+    {
+      "index": 312,
+      "start": "00:34:05.040",
+      "end": "00:34:07.190",
+      "text": "to help me better understand an outline"
+    },
+    {
+      "index": 313,
+      "start": "00:34:07.190",
+      "end": "00:34:09.300",
+      "text": "for those on committee."
+    },
+    {
+      "index": 314,
+      "start": "00:34:09.300",
+      "end": "00:34:14.470",
+      "text": "Just any of the changes within the delegated authority amounts"
+    },
+    {
+      "index": 315,
+      "start": "00:34:14.470",
+      "end": "00:34:20.140",
+      "text": "for city staff or how those changes"
+    },
+    {
+      "index": 316,
+      "start": "00:34:20.140",
+      "end": "00:34:23.950",
+      "text": "are impacted with things like construction versus goods"
+    },
+    {
+      "index": 317,
+      "start": "00:34:23.950",
+      "end": "00:34:33.080",
+      "text": "and services versus limited, tender, et cetera."
+    },
+    {
+      "index": 318,
+      "start": "00:34:33.080",
+      "end": "00:34:36.290",
+      "text": "Thank you, through the chair."
+    },
+    {
+      "index": 319,
+      "start": "00:34:36.290",
+      "end": "00:34:41.310",
+      "text": "So now we have tiered level of delegation of authority."
+    },
+    {
+      "index": 320,
+      "start": "00:34:41.310",
+      "end": "00:34:43.770",
+      "text": "So your low dollar value procurement"
+    },
+    {
+      "index": 321,
+      "start": "00:34:43.770",
+      "end": "00:34:48.140",
+      "text": "is now changed from zero to 15,000 to zero to 30,000."
+    },
+    {
+      "index": 322,
+      "start": "00:34:48.140",
+      "end": "00:34:50.290",
+      "text": "That is in line with other peer municipalities"
+    },
+    {
+      "index": 323,
+      "start": "00:34:50.290",
+      "end": "00:34:51.810",
+      "text": "and public sector."
+    },
+    {
+      "index": 324,
+      "start": "00:34:51.810",
+      "end": "00:34:54.290",
+      "text": "Then we have invitational competition"
+    },
+    {
+      "index": 325,
+      "start": "00:34:54.290",
+      "end": "00:34:57.830",
+      "text": "where we invite the suppliers to come and compete"
+    },
+    {
+      "index": 326,
+      "start": "00:34:57.830",
+      "end": "00:35:00.630",
+      "text": "for the goods and services and construction we need."
+    },
+    {
+      "index": 327,
+      "start": "00:35:00.630",
+      "end": "00:35:03.410",
+      "text": "That is also aligned with the trade agreements."
+    },
+    {
+      "index": 328,
+      "start": "00:35:03.410",
+      "end": "00:35:08.180",
+      "text": "So 30,000, 233,800 for goods and services"
+    },
+    {
+      "index": 329,
+      "start": "00:35:08.180",
+      "end": "00:35:12.910",
+      "text": "and 30,000 to 334,000 for construction services"
+    },
+    {
+      "index": 330,
+      "start": "00:35:12.910",
+      "end": "00:35:17.350",
+      "text": "is where invitational competition will happen."
+    },
+    {
+      "index": 331,
+      "start": "00:35:17.350",
+      "end": "00:35:20.570",
+      "text": "Competition ensures that we are fair, transparent"
+    },
+    {
+      "index": 332,
+      "start": "00:35:20.570",
+      "end": "00:35:22.070",
+      "text": "and accountable."
+    },
+    {
+      "index": 333,
+      "start": "00:35:22.070",
+      "end": "00:35:23.760",
+      "text": "And then above that threshold,"
+    },
+    {
+      "index": 334,
+      "start": "00:35:23.760",
+      "end": "00:35:27.360",
+      "text": "above the trade agreement threshold, CFT threshold,"
+    },
+    {
+      "index": 335,
+      "start": "00:35:27.360",
+      "end": "00:35:30.540",
+      "text": "which is 133,800 for goods and services"
+    },
+    {
+      "index": 336,
+      "start": "00:35:30.540",
+      "end": "00:35:34.390",
+      "text": "and then 334,400 for construction,"
+    },
+    {
+      "index": 337,
+      "start": "00:35:34.390",
+      "end": "00:35:36.980",
+      "text": "we do open competition."
+    },
+    {
+      "index": 338,
+      "start": "00:35:36.980",
+      "end": "00:35:38.730",
+      "text": "Open competition, we publicize,"
+    },
+    {
+      "index": 339,
+      "start": "00:35:38.730",
+      "end": "00:35:40.800",
+      "text": "we put it on bids and tenders"
+    },
+    {
+      "index": 340,
+      "start": "00:35:40.800",
+      "end": "00:35:43.020",
+      "text": "and then we encourage the supplier community"
+    },
+    {
+      "index": 341,
+      "start": "00:35:43.020",
+      "end": "00:35:48.720",
+      "text": "to come and bid for the requirements."
+    },
+    {
+      "index": 342,
+      "start": "00:35:48.720",
+      "end": "00:35:50.860",
+      "text": "Thank you."
+    },
+    {
+      "index": 343,
+      "start": "00:35:50.860",
+      "end": "00:35:53.420",
+      "text": "Actually, I'm going to turn the chair over to Councillor Frank,"
+    },
+    {
+      "index": 344,
+      "start": "00:35:53.420",
+      "end": "00:35:54.690",
+      "text": "if you don't mind."
+    },
+    {
+      "index": 345,
+      "start": "00:35:54.690",
+      "end": "00:35:55.520",
+      "text": "Thank you, I have the chair"
+    },
+    {
+      "index": 346,
+      "start": "00:35:55.520",
+      "end": "00:35:58.050",
+      "text": "in recognizing Councillor Roman."
+    },
+    {
+      "index": 347,
+      "start": "00:35:58.050",
+      "end": "00:35:59.120",
+      "text": "Thank you and through you."
+    },
+    {
+      "index": 348,
+      "start": "00:35:59.120",
+      "end": "00:36:01.810",
+      "text": "So I just wanted to ask some further questions"
+    },
+    {
+      "index": 349,
+      "start": "00:36:01.810",
+      "end": "00:36:05.810",
+      "text": "through the chair with respect to some of the changes"
+    },
+    {
+      "index": 350,
+      "start": "00:36:05.810",
+      "end": "00:36:07.840",
+      "text": "in this procurement policy."
+    },
+    {
+      "index": 351,
+      "start": "00:36:07.840",
+      "end": "00:36:12.290",
+      "text": "There are a number of reports that we receive"
+    },
+    {
+      "index": 352,
+      "start": "00:36:12.290",
+      "end": "00:36:14.800",
+      "text": "every wellness committee but in all committees"
+    },
+    {
+      "index": 353,
+      "start": "00:36:14.800",
+      "end": "00:36:16.340",
+      "text": "that relate to tenders."
+    },
+    {
+      "index": 354,
+      "start": "00:36:16.340",
+      "end": "00:36:19.640",
+      "text": "G first C changes in the amount of reports"
+    },
+    {
+      "index": 355,
+      "start": "00:36:19.640",
+      "end": "00:36:22.380",
+      "text": "that we will have coming forward based on the changes"
+    },
+    {
+      "index": 356,
+      "start": "00:36:22.380",
+      "end": "00:36:26.230",
+      "text": "that are being proposed within this procurement policy."
+    },
+    {
+      "index": 357,
+      "start": "00:36:26.230",
+      "end": "00:36:29.110",
+      "text": "Thank you to staff."
+    },
+    {
+      "index": 358,
+      "start": "00:36:29.110",
+      "end": "00:36:31.400",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 359,
+      "start": "00:36:31.400",
+      "end": "00:36:33.180",
+      "text": "You will see less reports coming"
+    },
+    {
+      "index": 360,
+      "start": "00:36:33.180",
+      "end": "00:36:35.520",
+      "text": "for individual contract awards,"
+    },
+    {
+      "index": 361,
+      "start": "00:36:35.520",
+      "end": "00:36:40.840",
+      "text": "but you will see more reports in terms of annual report"
+    },
+    {
+      "index": 362,
+      "start": "00:36:40.840",
+      "end": "00:36:45.360",
+      "text": "and by annual report, which will be giving information"
+    },
+    {
+      "index": 363,
+      "start": "00:36:45.360",
+      "end": "00:36:48.380",
+      "text": "on all the contracts award done publicly"
+    },
+    {
+      "index": 364,
+      "start": "00:36:48.380",
+      "end": "00:36:52.000",
+      "text": "above the threshold, 133,800 for the goods and services"
+    },
+    {
+      "index": 365,
+      "start": "00:36:52.000",
+      "end": "00:36:54.620",
+      "text": "and 334,000 for construction."
+    },
+    {
+      "index": 366,
+      "start": "00:36:54.620",
+      "end": "00:36:58.230",
+      "text": "We have incorporated by annual reports"
+    },
+    {
+      "index": 367,
+      "start": "00:36:58.230",
+      "end": "00:37:04.380",
+      "text": "so that we can ensure that the public is aware"
+    },
+    {
+      "index": 368,
+      "start": "00:37:04.380",
+      "end": "00:37:08.020",
+      "text": "and then also for contract awards"
+    },
+    {
+      "index": 369,
+      "start": "00:37:08.020",
+      "end": "00:37:10.240",
+      "text": "as per our updated procurement policies."
+    },
+    {
+      "index": 370,
+      "start": "00:37:10.240",
+      "end": "00:37:12.400",
+      "text": "Within 72 days of contract award,"
+    },
+    {
+      "index": 371,
+      "start": "00:37:12.400",
+      "end": "00:37:15.480",
+      "text": "we have to publish it on our bids and tenders website."
+    },
+    {
+      "index": 372,
+      "start": "00:37:15.480",
+      "end": "00:37:18.530",
+      "text": "So again, stressing on the transparent,"
+    },
+    {
+      "index": 373,
+      "start": "00:37:18.530",
+      "end": "00:37:21.560",
+      "text": "public fair, transparent processes,"
+    },
+    {
+      "index": 374,
+      "start": "00:37:21.560",
+      "end": "00:37:23.060",
+      "text": "that's what we are introducing."
+    },
+    {
+      "index": 375,
+      "start": "00:37:23.060",
+      "end": "00:37:24.800",
+      "text": "Thank you."
+    },
+    {
+      "index": 376,
+      "start": "00:37:24.800",
+      "end": "00:37:26.290",
+      "text": "Councillor ramen."
+    },
+    {
+      "index": 377,
+      "start": "00:37:26.290",
+      "end": "00:37:27.300",
+      "text": "Thank you."
+    },
+    {
+      "index": 378,
+      "start": "00:37:27.300",
+      "end": "00:37:31.380",
+      "text": "I appreciate that answer."
+    },
+    {
+      "index": 379,
+      "start": "00:37:31.380",
+      "end": "00:37:34.020",
+      "text": "I guess one of the questions I had was,"
+    },
+    {
+      "index": 380,
+      "start": "00:37:34.020",
+      "end": "00:37:37.040",
+      "text": "is the annual and the biannual reporting?"
+    },
+    {
+      "index": 381,
+      "start": "00:37:37.040",
+      "end": "00:37:39.460",
+      "text": "In my opinion, maybe it's,"
+    },
+    {
+      "index": 382,
+      "start": "00:37:39.460",
+      "end": "00:37:41.640",
+      "text": "it would be more helpful to see it quarterly,"
+    },
+    {
+      "index": 383,
+      "start": "00:37:41.640",
+      "end": "00:37:44.580",
+      "text": "but again, I'm not sure based on what we normally see"
+    },
+    {
+      "index": 384,
+      "start": "00:37:44.580",
+      "end": "00:37:45.650",
+      "text": "in our cycle."
+    },
+    {
+      "index": 385,
+      "start": "00:37:45.650",
+      "end": "00:37:51.240",
+      "text": "Right now, I feel like we receive a lot of these"
+    },
+    {
+      "index": 386,
+      "start": "00:37:51.240",
+      "end": "00:37:53.630",
+      "text": "through our agenda packages right now,"
+    },
+    {
+      "index": 387,
+      "start": "00:37:53.630",
+      "end": "00:37:58.160",
+      "text": "but if we were to go to biannual or an annual report,"
+    },
+    {
+      "index": 388,
+      "start": "00:37:58.160",
+      "end": "00:38:00.860",
+      "text": "my concern is that one,"
+    },
+    {
+      "index": 389,
+      "start": "00:38:00.860",
+      "end": "00:38:03.560",
+      "text": "it makes for me to report at that time,"
+    },
+    {
+      "index": 390,
+      "start": "00:38:03.560",
+      "end": "00:38:08.360",
+      "text": "but two, I'm maybe more comfortable with a quarterly version"
+    },
+    {
+      "index": 391,
+      "start": "00:38:08.360",
+      "end": "00:38:11.330",
+      "text": "as we make this change as we move forward."
+    },
+    {
+      "index": 392,
+      "start": "00:38:11.330",
+      "end": "00:38:14.340",
+      "text": "Is that something that was considered,"
+    },
+    {
+      "index": 393,
+      "start": "00:38:14.340",
+      "end": "00:38:18.310",
+      "text": "or was this the only timeline, I guess,"
+    },
+    {
+      "index": 394,
+      "start": "00:38:18.310",
+      "end": "00:38:21.800",
+      "text": "or outline that was provided or considered?"
+    },
+    {
+      "index": 395,
+      "start": "00:38:21.800",
+      "end": "00:38:23.820",
+      "text": "Staff?"
+    },
+    {
+      "index": 396,
+      "start": "00:38:23.820",
+      "end": "00:38:25.440",
+      "text": "So there's a chair to the committee."
+    },
+    {
+      "index": 397,
+      "start": "00:38:25.440",
+      "end": "00:38:27.480",
+      "text": "We were looking at the various best practices"
+    },
+    {
+      "index": 398,
+      "start": "00:38:27.480",
+      "end": "00:38:30.540",
+      "text": "of our counterparts and other municipalities,"
+    },
+    {
+      "index": 399,
+      "start": "00:38:30.540",
+      "end": "00:38:33.980",
+      "text": "and based on our current operations,"
+    },
+    {
+      "index": 400,
+      "start": "00:38:33.980",
+      "end": "00:38:36.250",
+      "text": "we've been challenged,"
+    },
+    {
+      "index": 401,
+      "start": "00:38:36.250",
+      "end": "00:38:39.070",
+      "text": "or it's taken some time to get the one annual report out."
+    },
+    {
+      "index": 402,
+      "start": "00:38:39.070",
+      "end": "00:38:42.990",
+      "text": "So we're thinking of by introducing"
+    },
+    {
+      "index": 403,
+      "start": "00:38:42.990",
+      "end": "00:38:46.110",
+      "text": "the semi-annual or biannual second report a year."
+    },
+    {
+      "index": 404,
+      "start": "00:38:46.110",
+      "end": "00:38:48.220",
+      "text": "We want to test the water to see if our resources"
+    },
+    {
+      "index": 405,
+      "start": "00:38:48.220",
+      "end": "00:38:53.200",
+      "text": "can handle that based on our existing capacity."
+    },
+    {
+      "index": 406,
+      "start": "00:38:53.200",
+      "end": "00:38:55.980",
+      "text": "However, throughout the procurement of goods"
+    },
+    {
+      "index": 407,
+      "start": "00:38:55.980",
+      "end": "00:38:58.410",
+      "text": "and services policy, as you've experienced,"
+    },
+    {
+      "index": 408,
+      "start": "00:38:58.410",
+      "end": "00:39:01.520",
+      "text": "we looked to amend and adjust through each year."
+    },
+    {
+      "index": 409,
+      "start": "00:39:01.520",
+      "end": "00:39:04.780",
+      "text": "So we're introducing this as our first step"
+    },
+    {
+      "index": 410,
+      "start": "00:39:04.780",
+      "end": "00:39:05.820",
+      "text": "through that reporting,"
+    },
+    {
+      "index": 411,
+      "start": "00:39:05.820",
+      "end": "00:39:08.350",
+      "text": "through what committee and council will receive,"
+    },
+    {
+      "index": 412,
+      "start": "00:39:08.350",
+      "end": "00:39:10.810",
+      "text": "if there's an appetite for more frequent reporting"
+    },
+    {
+      "index": 413,
+      "start": "00:39:10.810",
+      "end": "00:39:14.430",
+      "text": "quarterly, we will certainly look to amend the policy"
+    },
+    {
+      "index": 414,
+      "start": "00:39:14.430",
+      "end": "00:39:17.780",
+      "text": "at that time, but currently right now,"
+    },
+    {
+      "index": 415,
+      "start": "00:39:17.780",
+      "end": "00:39:19.770",
+      "text": "there's a lot of change happening,"
+    },
+    {
+      "index": 416,
+      "start": "00:39:19.770",
+      "end": "00:39:21.560",
+      "text": "and we want to try to ensure that we're able"
+    },
+    {
+      "index": 417,
+      "start": "00:39:21.560",
+      "end": "00:39:24.270",
+      "text": "to deliver on that change"
+    },
+    {
+      "index": 418,
+      "start": "00:39:24.270",
+      "end": "00:39:28.770",
+      "text": "and be mindful of our existing capacity."
+    },
+    {
+      "index": 419,
+      "start": "00:39:28.770",
+      "end": "00:39:31.720",
+      "text": "Councillor?"
+    },
+    {
+      "index": 420,
+      "start": "00:39:31.720",
+      "end": "00:39:32.680",
+      "text": "Thank you."
+    },
+    {
+      "index": 421,
+      "start": "00:39:32.680",
+      "end": "00:39:35.780",
+      "text": "I guess for me that that was one of the considerations"
+    },
+    {
+      "index": 422,
+      "start": "00:39:35.780",
+      "end": "00:39:38.130",
+      "text": "as well as that this procurement change feels"
+    },
+    {
+      "index": 423,
+      "start": "00:39:38.130",
+      "end": "00:39:40.030",
+      "text": "like a lot of change for me,"
+    },
+    {
+      "index": 424,
+      "start": "00:39:40.030",
+      "end": "00:39:42.300",
+      "text": "and I'm trying to make sure that I feel"
+    },
+    {
+      "index": 425,
+      "start": "00:39:42.300",
+      "end": "00:39:45.920",
+      "text": "like I have enough information as this change goes forward."
+    },
+    {
+      "index": 426,
+      "start": "00:39:45.920",
+      "end": "00:39:49.090",
+      "text": "You mentioned that through you, sorry,"
+    },
+    {
+      "index": 427,
+      "start": "00:39:49.090",
+      "end": "00:39:52.580",
+      "text": "to staff that you mentioned that there was"
+    },
+    {
+      "index": 428,
+      "start": "00:39:52.580",
+      "end": "00:39:57.400",
+      "text": "available information on our bidding website"
+    },
+    {
+      "index": 429,
+      "start": "00:39:57.400",
+      "end": "00:39:59.730",
+      "text": "to be able to see what's come through."
+    },
+    {
+      "index": 430,
+      "start": "00:39:59.730",
+      "end": "00:40:04.330",
+      "text": "Is there any thought of having alerts"
+    },
+    {
+      "index": 431,
+      "start": "00:40:04.330",
+      "end": "00:40:06.860",
+      "text": "or something that go to council as well"
+    },
+    {
+      "index": 432,
+      "start": "00:40:06.860",
+      "end": "00:40:19.130",
+      "text": "when those are awarded staff?"
+    },
+    {
+      "index": 433,
+      "start": "00:40:19.130",
+      "end": "00:40:20.690",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 434,
+      "start": "00:40:20.690",
+      "end": "00:40:23.010",
+      "text": "Alerts for each and every contract"
+    },
+    {
+      "index": 435,
+      "start": "00:40:23.010",
+      "end": "00:40:28.840",
+      "text": "or these bi-annual or within six months quarterly."
+    },
+    {
+      "index": 436,
+      "start": "00:40:28.840",
+      "end": "00:40:33.280",
+      "text": "Councillor?"
+    },
+    {
+      "index": 437,
+      "start": "00:40:33.280",
+      "end": "00:40:34.090",
+      "text": "Thanks."
+    },
+    {
+      "index": 438,
+      "start": "00:40:34.090",
+      "end": "00:40:38.180",
+      "text": "I'm just thinking of a way where we would normally"
+    },
+    {
+      "index": 439,
+      "start": "00:40:38.180",
+      "end": "00:40:41.330",
+      "text": "have received a report that we can still receive"
+    },
+    {
+      "index": 440,
+      "start": "00:40:41.330",
+      "end": "00:40:45.660",
+      "text": "that information in a way that is effective"
+    },
+    {
+      "index": 441,
+      "start": "00:40:45.660",
+      "end": "00:40:48.450",
+      "text": "to you not having to report it out,"
+    },
+    {
+      "index": 442,
+      "start": "00:40:48.450",
+      "end": "00:40:51.070",
+      "text": "but that it would happen automatically."
+    },
+    {
+      "index": 443,
+      "start": "00:40:51.070",
+      "end": "00:40:52.860",
+      "text": "So I was just wondering if there is anything"
+    },
+    {
+      "index": 444,
+      "start": "00:40:52.860",
+      "end": "00:40:54.790",
+      "text": "like that available."
+    },
+    {
+      "index": 445,
+      "start": "00:40:54.790",
+      "end": "00:41:01.020",
+      "text": "Staff, we can pull out the report."
+    },
+    {
+      "index": 446,
+      "start": "00:41:01.020",
+      "end": "00:41:02.100",
+      "text": "It's public information."
+    },
+    {
+      "index": 447,
+      "start": "00:41:02.100",
+      "end": "00:41:04.530",
+      "text": "So we can pull out the report and then if required,"
+    },
+    {
+      "index": 448,
+      "start": "00:41:04.530",
+      "end": "00:41:07.350",
+      "text": "we can arrange to send that information"
+    },
+    {
+      "index": 449,
+      "start": "00:41:07.350",
+      "end": "00:41:08.790",
+      "text": "because it's available."
+    },
+    {
+      "index": 450,
+      "start": "00:41:08.790",
+      "end": "00:41:11.540",
+      "text": "The only thing it's right now,"
+    },
+    {
+      "index": 451,
+      "start": "00:41:11.540",
+      "end": "00:41:16.430",
+      "text": "it's not automatic alerts might not be possible right now,"
+    },
+    {
+      "index": 452,
+      "start": "00:41:16.430",
+      "end": "00:41:19.940",
+      "text": "but then as we advance through our tools and templates"
+    },
+    {
+      "index": 453,
+      "start": "00:41:19.940",
+      "end": "00:41:23.400",
+      "text": "and text strategy, maybe in 2026,"
+    },
+    {
+      "index": 454,
+      "start": "00:41:23.400",
+      "end": "00:41:28.160",
+      "text": "but won't be able to comment on automatic alerts right now."
+    },
+    {
+      "index": 455,
+      "start": "00:41:28.160",
+      "end": "00:41:30.360",
+      "text": "Councillor?"
+    },
+    {
+      "index": 456,
+      "start": "00:41:30.360",
+      "end": "00:41:33.280",
+      "text": "Thank you and through you, my final question just."
+    },
+    {
+      "index": 457,
+      "start": "00:41:33.280",
+      "end": "00:41:36.180",
+      "text": "So I noticed that we did comparator data"
+    },
+    {
+      "index": 458,
+      "start": "00:41:36.180",
+      "end": "00:41:40.250",
+      "text": "when it came to moving the threshold from 15,000 to 30,000."
+    },
+    {
+      "index": 459,
+      "start": "00:41:40.250",
+      "end": "00:41:42.080",
+      "text": "I'm just wondering if we did comparative data"
+    },
+    {
+      "index": 460,
+      "start": "00:41:42.080",
+      "end": "00:41:43.840",
+      "text": "for the rest of the report"
+    },
+    {
+      "index": 461,
+      "start": "00:41:43.840",
+      "end": "00:41:46.700",
+      "text": "to other comparable municipalities."
+    },
+    {
+      "index": 462,
+      "start": "00:41:46.700",
+      "end": "00:41:52.090",
+      "text": "The staff?"
+    },
+    {
+      "index": 463,
+      "start": "00:41:52.090",
+      "end": "00:41:53.480",
+      "text": "Yes, we did."
+    },
+    {
+      "index": 464,
+      "start": "00:41:53.480",
+      "end": "00:41:57.730",
+      "text": "For other sections as well."
+    },
+    {
+      "index": 465,
+      "start": "00:41:57.730",
+      "end": "00:41:58.550",
+      "text": "Thank you."
+    },
+    {
+      "index": 466,
+      "start": "00:41:58.550",
+      "end": "00:42:00.260",
+      "text": "Those are my questions at this time."
+    },
+    {
+      "index": 467,
+      "start": "00:42:00.260",
+      "end": "00:42:02.670",
+      "text": "I think I'll leave the sign in for now"
+    },
+    {
+      "index": 468,
+      "start": "00:42:02.670",
+      "end": "00:42:05.510",
+      "text": "and look at it a little bit more between now and council"
+    },
+    {
+      "index": 469,
+      "start": "00:42:05.510",
+      "end": "00:42:07.600",
+      "text": "and just send some questions in as well."
+    },
+    {
+      "index": 470,
+      "start": "00:42:07.600",
+      "end": "00:42:13.010",
+      "text": "I will take the chair back to you."
+    },
+    {
+      "index": 471,
+      "start": "00:42:13.010",
+      "end": "00:42:14.400",
+      "text": "Thank you, I'll take the chair back."
+    },
+    {
+      "index": 472,
+      "start": "00:42:14.400",
+      "end": "00:42:16.670",
+      "text": "Councillor Perve will go ahead."
+    },
+    {
+      "index": 473,
+      "start": "00:42:16.670",
+      "end": "00:42:18.290",
+      "text": "Thank you, I do have a follow-up question"
+    },
+    {
+      "index": 474,
+      "start": "00:42:18.290",
+      "end": "00:42:19.980",
+      "text": "through the chair to the staff now."
+    },
+    {
+      "index": 475,
+      "start": "00:42:19.980",
+      "end": "00:42:23.600",
+      "text": "I don't know if you've done compared to these changes"
+    },
+    {
+      "index": 476,
+      "start": "00:42:23.600",
+      "end": "00:42:28.760",
+      "text": "by how many reports on annual basis it would decrease."
+    },
+    {
+      "index": 477,
+      "start": "00:42:28.760",
+      "end": "00:42:31.270",
+      "text": "Have you ever, have you done that or considered"
+    },
+    {
+      "index": 478,
+      "start": "00:42:31.270",
+      "end": "00:42:34.220",
+      "text": "just for us to have an idea what would be the difference?"
+    },
+    {
+      "index": 479,
+      "start": "00:42:34.220",
+      "end": "00:42:36.480",
+      "text": "Thank you."
+    },
+    {
+      "index": 480,
+      "start": "00:42:36.480",
+      "end": "00:42:39.460",
+      "text": "Improvement and efficiency by 84%."
+    },
+    {
+      "index": 481,
+      "start": "00:42:39.460",
+      "end": "00:42:47.420",
+      "text": "So you will improvement in efficiency by 84%."
+    },
+    {
+      "index": 482,
+      "start": "00:42:47.420",
+      "end": "00:42:52.880",
+      "text": "We'll see 84% less reports coming in through the council."
+    },
+    {
+      "index": 483,
+      "start": "00:42:52.880",
+      "end": "00:42:56.790",
+      "text": "Councillor?"
+    },
+    {
+      "index": 484,
+      "start": "00:42:56.790",
+      "end": "00:42:58.700",
+      "text": "Thank you and one more follow-up."
+    },
+    {
+      "index": 485,
+      "start": "00:42:58.700",
+      "end": "00:43:02.750",
+      "text": "In terms of these changes in terms of the 84%,"
+    },
+    {
+      "index": 486,
+      "start": "00:43:02.750",
+      "end": "00:43:07.940",
+      "text": "did you add up out of curiosity the value, dollar value?"
+    },
+    {
+      "index": 487,
+      "start": "00:43:07.940",
+      "end": "00:43:09.630",
+      "text": "What would this represent?"
+    },
+    {
+      "index": 488,
+      "start": "00:43:09.630",
+      "end": "00:43:14.450",
+      "text": "Thank you."
+    },
+    {
+      "index": 489,
+      "start": "00:43:14.450",
+      "end": "00:43:16.320",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 490,
+      "start": "00:43:16.320",
+      "end": "00:43:25.190",
+      "text": "No, but that information can be provided if required."
+    },
+    {
+      "index": 491,
+      "start": "00:43:25.190",
+      "end": "00:43:34.190",
+      "text": "Thank you, no more questions?"
+    },
+    {
+      "index": 492,
+      "start": "00:43:34.190",
+      "end": "00:43:35.930",
+      "text": "Councillor Perve will."
+    },
+    {
+      "index": 493,
+      "start": "00:43:35.930",
+      "end": "00:43:37.820",
+      "text": "I just remember one thing, a follow-up against"
+    },
+    {
+      "index": 494,
+      "start": "00:43:37.820",
+      "end": "00:43:38.810",
+      "text": "through the chair."
+    },
+    {
+      "index": 495,
+      "start": "00:43:38.810",
+      "end": "00:43:42.200",
+      "text": "When I asked for 84%, I wasn't thinking just in case,"
+    },
+    {
+      "index": 496,
+      "start": "00:43:42.200",
+      "end": "00:43:44.960",
+      "text": "I was not thinking in terms of the efficiency,"
+    },
+    {
+      "index": 497,
+      "start": "00:43:44.960",
+      "end": "00:43:46.940",
+      "text": "how much we are saving."
+    },
+    {
+      "index": 498,
+      "start": "00:43:46.940",
+      "end": "00:43:50.140",
+      "text": "I was thinking of the 84%, if we calculate"
+    },
+    {
+      "index": 499,
+      "start": "00:43:50.140",
+      "end": "00:43:52.450",
+      "text": "all these projects, the dollar value,"
+    },
+    {
+      "index": 500,
+      "start": "00:43:52.450",
+      "end": "00:43:54.900",
+      "text": "I just wanna make sure we had the same understanding."
+    },
+    {
+      "index": 501,
+      "start": "00:43:54.900",
+      "end": "00:44:02.000",
+      "text": "And I see a nod, so thank you very much."
+    },
+    {
+      "index": 502,
+      "start": "00:44:02.000",
+      "end": "00:44:06.160",
+      "text": "Okay, looking for any other speakers"
+    },
+    {
+      "index": 503,
+      "start": "00:44:06.160",
+      "end": "00:44:09.870",
+      "text": "on the items for consent."
+    },
+    {
+      "index": 504,
+      "start": "00:44:09.870",
+      "end": "00:44:14.790",
+      "text": "Okay, seeing none, I will open items 2.1 through 2.9."
+    },
+    {
+      "index": 505,
+      "start": "00:44:14.790",
+      "end": "00:44:35.850",
+      "text": "Closing the vote, motion carries, five to zero."
+    },
+    {
+      "index": 506,
+      "start": "00:44:35.850",
+      "end": "00:44:37.260",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 507,
+      "start": "00:44:37.260",
+      "end": "00:44:41.260",
+      "text": "We have no scheduled items."
+    },
+    {
+      "index": 508,
+      "start": "00:44:41.260",
+      "end": "00:44:46.270",
+      "text": "So that takes us back to this item 2.10."
+    },
+    {
+      "index": 509,
+      "start": "00:44:47.880",
+      "end": "00:44:54.020",
+      "text": "This is the City County cost-appropriate apportionment,"
+    },
+    {
+      "index": 510,
+      "start": "00:44:54.020",
+      "end": "00:44:55.960",
+      "text": "sorry, agreement for land ambulance,"
+    },
+    {
+      "index": 511,
+      "start": "00:44:55.960",
+      "end": "00:44:59.290",
+      "text": "Ontario Works Housing and Child Care Amending Agreement."
+    },
+    {
+      "index": 512,
+      "start": "00:44:59.290",
+      "end": "00:45:11.700",
+      "text": "So I will look for a mover and seconder for all of"
+    },
+    {
+      "index": 513,
+      "start": "00:45:11.700",
+      "end": "00:45:16.000",
+      "text": "the different parts of this motion,"
+    },
+    {
+      "index": 514,
+      "start": "00:45:16.000",
+      "end": "00:45:18.850",
+      "text": "and then we'll separate up the vote."
+    },
+    {
+      "index": 515,
+      "start": "00:45:18.850",
+      "end": "00:45:23.820",
+      "text": "Councillor Frank and Councillor Hopkins."
+    },
+    {
+      "index": 516,
+      "start": "00:45:23.820",
+      "end": "00:45:28.460",
+      "text": "Any questions on this item?"
+    },
+    {
+      "index": 517,
+      "start": "00:45:28.460",
+      "end": "00:45:30.270",
+      "text": "Councillor Hopkins, go ahead."
+    },
+    {
+      "index": 518,
+      "start": "00:45:30.270",
+      "end": "00:45:32.980",
+      "text": "Yeah, I just wanna make a comment, Madam Chair,"
+    },
+    {
+      "index": 519,
+      "start": "00:45:32.980",
+      "end": "00:45:37.120",
+      "text": "and I know it's been a number of years, eight years,"
+    },
+    {
+      "index": 520,
+      "start": "00:45:37.120",
+      "end": "00:45:39.740",
+      "text": "since the agreements have been updated,"
+    },
+    {
+      "index": 521,
+      "start": "00:45:39.740",
+      "end": "00:45:42.510",
+      "text": "and I wanna thank staff for the thorough review"
+    },
+    {
+      "index": 522,
+      "start": "00:45:42.510",
+      "end": "00:45:49.230",
+      "text": "that you've done to update these agreements."
+    },
+    {
+      "index": 523,
+      "start": "00:45:49.230",
+      "end": "00:45:52.400",
+      "text": "Thank you, any final questions?"
+    },
+    {
+      "index": 524,
+      "start": "00:45:52.400",
+      "end": "00:45:56.720",
+      "text": "Okay, seeing none, I will look to vote on parts A, B and C"
+    },
+    {
+      "index": 525,
+      "start": "00:45:56.720",
+      "end": "00:46:06.640",
+      "text": "together, and then I'll call D separately."
+    },
+    {
+      "index": 526,
+      "start": "00:46:06.640",
+      "end": "00:46:12.230",
+      "text": "Closing the vote, motion carries, five to zero."
+    },
+    {
+      "index": 527,
+      "start": "00:46:12.230",
+      "end": "00:46:16.080",
+      "text": "Thank you, and then I'll look to call item D,"
+    },
+    {
+      "index": 528,
+      "start": "00:46:16.080",
+      "end": "00:46:19.820",
+      "text": "and this is the item which Councillor Varian-Myrtbergen"
+    },
+    {
+      "index": 529,
+      "start": "00:46:19.820",
+      "end": "00:46:30.790",
+      "text": "has declared an interest."
+    },
+    {
+      "index": 530,
+      "start": "00:46:30.790",
+      "end": "00:46:33.540",
+      "text": "Closing the vote, motion carry, four to zero,"
+    },
+    {
+      "index": 531,
+      "start": "00:46:33.540",
+      "end": "00:46:39.310",
+      "text": "with one recuse."
+    },
+    {
+      "index": 532,
+      "start": "00:46:39.310",
+      "end": "00:46:42.120",
+      "text": "Thank you, that takes us to our confidential items,"
+    },
+    {
+      "index": 533,
+      "start": "00:46:42.120",
+      "end": "00:46:46.200",
+      "text": "and that is 6.1, a Labor Relations Employee Negotiations,"
+    },
+    {
+      "index": 534,
+      "start": "00:46:46.200",
+      "end": "00:46:48.660",
+      "text": "Lister Client Privilege Advice."
+    },
+    {
+      "index": 535,
+      "start": "00:46:48.660",
+      "end": "00:46:51.050",
+      "text": "The reasons are in your agenda,"
+    },
+    {
+      "index": 536,
+      "start": "00:46:51.050",
+      "end": "00:46:54.320",
+      "text": "looking for a mover and a seconder, go on camera."
+    },
+    {
+      "index": 537,
+      "start": "00:46:54.320",
+      "end": "00:46:56.670",
+      "text": "Councillor Varian-Myrtbergen, Councillor Frank,"
+    },
+    {
+      "index": 538,
+      "start": "00:46:56.670",
+      "end": "00:47:04.870",
+      "text": "and we'll open that for vote."
+    },
+    {
+      "index": 539,
+      "start": "00:47:04.870",
+      "end": "00:48:49.010",
+      "text": "Closing the vote, motion carries, five to zero."
+    },
+    {
+      "index": 540,
+      "start": "00:48:49.010",
+      "end": "00:48:51.590",
+      "text": "Thank you, I will, we're now back"
+    },
+    {
+      "index": 541,
+      "start": "00:48:51.590",
+      "end": "00:48:53.060",
+      "text": "in our public session meeting."
+    },
+    {
+      "index": 542,
+      "start": "00:48:53.060",
+      "end": "00:48:55.070",
+      "text": "I will go to Councillor Frank to report out"
+    },
+    {
+      "index": 543,
+      "start": "00:48:55.070",
+      "end": "00:48:57.360",
+      "text": "from our in-camera session."
+    },
+    {
+      "index": 544,
+      "start": "00:48:57.360",
+      "end": "00:48:59.120",
+      "text": "Thank you, I'm pleased to announce that progress"
+    },
+    {
+      "index": 545,
+      "start": "00:48:59.120",
+      "end": "00:49:02.210",
+      "text": "has been made for the item that we went in camera for."
+    },
+    {
+      "index": 546,
+      "start": "00:49:02.210",
+      "end": "00:49:04.100",
+      "text": "Thank you, and with that, I'll look for a motion"
+    },
+    {
+      "index": 547,
+      "start": "00:49:04.100",
+      "end": "00:49:07.610",
+      "text": "to adjourn, Councillor Varian-Myrtbergen, Councillor Frank,"
+    },
+    {
+      "index": 548,
+      "start": "00:49:07.610",
+      "end": "00:49:13.810",
+      "text": "and by hand, all in favor, motion carries."
+    },
+    {
+      "index": 549,
+      "start": "00:49:13.810",
+      "end": "00:49:14.430",
+      "text": "Have a great day."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Infrastructure%20and%20Corporate%20Services%20Committee/2025/06-16/.transcript.srt"
+}
