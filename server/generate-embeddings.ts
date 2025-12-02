@@ -13,10 +13,14 @@ config();
 async function main() {
   console.log('🔮 London City Council - Embedding Generation\n');
 
-  // Check for --full flag
-  const fullRegeneration = process.argv.includes('--full');
+  // Check for --full flag OR FORCE_REGENERATE env var
+  const fullRegeneration = process.argv.includes('--full') || process.env.FORCE_REGENERATE === 'true';
   const mode = fullRegeneration ? 'FULL REGENERATION' : 'INCREMENTAL UPDATE';
-  console.log(`Mode: ${mode}\n`);
+  console.log(`Mode: ${mode}`);
+  if (process.env.FORCE_REGENERATE === 'true') {
+    console.log('(FORCE_REGENERATE=true detected in environment)');
+  }
+  console.log('');
 
   // Check for API key
   const apiKey = process.env.OPENAI_API_KEY;
