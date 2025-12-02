@@ -1,1 +1,1420 @@
-{"title": null, "datetime": "2021-06-01 16:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9671a371-18b4-4242-ba1e-707b765bc09f&Agenda=PostMinutes&lang=English", "meeting_type": "Community and Protective Services Committee", "bills": null, "present": ["J. Helmer", "S. Lewis", "M. Salih", "A. Kayabaga", "S. Hillier", "E. Holder"], "also_present": ["J. Bunn", "J. Taylor\n\n\n\n M. van Holst", "M. Banuelos (LMCH)", "M. Butlin", "I. Collins", "C. Cooper", "K. Dickins", "A. Dunbar", "S. Glover", "W. Groves (LMCH)", "L. Hancock", "O. Katolyk", "G. Kotsifas", "L. Livingstone", "K. Murray", "J. Raycroft", "C. Smith", "B. Westlake-Power\n\n\n\nThe meeting was called to order at 4:00 PM", "it being noted that the following Members were in  E. Holder", "M. Salih", "A. Kayabaga", "S. Hillier"], "remote_attendance": [], "content": {"__class__": "Content"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That Items 2.1 to 2.7 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "A. Kayabaga", "E. Holder", "M. Salih,J. Helmer"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "4th Report of the Animal Welfare Advisory Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the 4th Report of the Animal Welfare Advisory Committee, from its meeting held on May 6, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-05-06 AWAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81743", "date": "2021-05-06 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "2nd Report of the London Housing Advisory Committee", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the 2nd Report of the London Housing Advisory Committee, from its meeting held on May 12, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-05-12 LHAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81744", "date": "2021-05-12 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "2nd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the 2nd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee, from its meeting held on May 20, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-05-20 DIAAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81745", "date": "2021-05-20 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "LMCH \u2013 CMHC Co-Investment Letter of Intent", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated June 1, 2021, BE INTRODUCED at the Municipal Council meeting to be held on June 15, 2021, to:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 \u00a0authorize and approve the Letter of Intent, as appended to the above-noted by-law, between the Canada Mortgage and Housing Corporation, London and Middlesex Community Housing and The Corporation of the City of London to initiate a loan agreement, through the National Housing Co-Investment Fund;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Letter of Intent; and,", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 \u00a0authorize the Mayor and the City Clerk to approve any future amended versions of the above-noted Letter of Intent. (2021-F11/S11)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-06-01 SR LMCH-CMHC Co-Investment Letter of Intent - Part 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81746", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-06-01 SR LMCH-CMHC Co-Investment Letter of Intent - Part 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81747", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "SkillsAdvance Ontario (SAO) Employment Services for Manufacturing Sector Update", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated June 1, 2021, with respect to an update on the SkillsAdvance Ontario (SAO) Employment Services for the Manufacturing Sector, BE RECEIVED. (2021-S04)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-06-01 SR SkillsAdvance Ontario - Employment Services for Manufacturing Sector", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81753", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "City of London Additional Short Term Supports for Unsheltered Individuals", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated June 1, 2021, related to the City of London Additional Short Term Supports for Unsheltered Individuals:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 \u00a0the above-noted staff report BE RECEIVED;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 \u00a0a one-time funding allocation through a single source procurement (#SS21-09) to Ark Aid Street Mission on behalf of the WISH Coalition of up to $1,150,000 (excluding HST) for the extension of services until Dec 31, 2021, to support individuals currently residing at the York Street pop up shelter through the operation of a low-barrier overnight response at an alternate location BE APPROVED;", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 \u00a0the Civic Administration BE DIRECTED to explore opportunities and report back to the Community and Protective Services Committee on June 22, 2021 with an implementation plan related to temporary expansion of the following support programs:", "__class__": "Paragraph"}, {"string": "i)\u00a0 \u00a0 \u00a0 temporarily increasing capacity in existing housing support programs until March 31, 2022 to support individuals currently residing in emergency shelter for a period greater than 365 days;\n\nii)\u00a0 \u00a0 \u00a0temporarily increasing the number of shelter or resting space beds up to a maximum of 20 additional beds until September 30, 2021 for individuals experiencing unsheltered homelessness;\n\niii)\u00a0 \u00a0 \u00a0implementation of 24/7 staff supports model for the 13 Head Lease units until December 31, 2021; and,\n\niv)\u00a0 \u00a0 \u00a0work with community partners to operationalize a hygiene facility for individuals and families experiencing homelessness for July and August 2021;", "__class__": "Paragraph"}, {"string": "d)\u00a0 \u00a0 \u00a0the Civic Administration BE DIRECTED to work with community providers to determine where Day Spaces can be reopened to meet the needs of individuals experiencing homelessness; and,", "__class__": "Paragraph"}, {"string": "e)\u00a0 \u00a0 \u00a0the Civic Administration BE DIRECTED to undertake all administrative acts which are necessary in relation to this report. (2021-S14)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-06-01 SR City of London Additional Short Term Supports for Unsheltered Individuals", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81754", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "2019-2022 Multi-Sector Service Accountability Agreement - Dearness Home Adult Day Program and the South West Local Health Integration Network - Declaration of Compliance - April 1, 2020-March 31, 2021", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the Deputy City Manager, Social and Health Development BE AUTHORIZED to execute the Declaration of Compliance, as appended to the staff report dated June 1, 2021, with respect to compliance with the terms of the 2019-2022 Multi-Sector Service Accountability Agreement for the Dearness Home Adult Day Program for the reporting period April 1, 2020 to March 31, 2021. (2021-S02)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-06-01 SR 2019-2022 Multi-Sector Service Accountability Agreement - Part 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81748", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-06-01 SR 2019-2022 Multi-Sector Service Accountability Agreement - Part 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81749", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-06-01 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Items for Direction", "number": "3", "content": [], "items": {"1": {"title": "Post June 30, 2021 Strategy for High Acuity Homelessness - S. Campbell, Ark Aid Mission - REQUEST FOR DELEGATION STATUS", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the request for delegation from S. Campbell, Ark Aid Mission, with respect to a post June 30, 2021 strategy for high acuity homelessness, BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that a communication from S. Campbell, as appended to the agenda, with respect to this matter, was received. (2021-S14)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "A. Kayabaga", "E. Holder", "M. Salih,J. Helmer"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-06-01 Sub. Strategy for High Acuity Homelessness - Part 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81750", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-06-01 Sub. Strategy for High Acuity Homelessness - Part 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81751", "date": "2021-06-01 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-06-01 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Deferred Matters/Additional Business", "number": "4", "content": [], "items": {"1": {"title": "Deferred Matters List", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "That the Deferred Matters List for the Community and Protective Services Committee, as at May 21, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "A. Kayabaga", "E. Holder", "M. Salih,J. Helmer"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [{"empty_flag": false, "title": "CPSC DEFERRED MATTERS as at May 21, 2021", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81752", "date": "2021-06-01 16:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-06-01 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Adjournment", "number": "5", "content": [{"string": "The meeting adjourned at 4:30 PM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-06-01 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2021-06-01 16:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9671a371-18b4-4242-ba1e-707b765bc09f&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Community and Protective Services Committee",
+  "bills": null,
+  "present": [
+    "J. Helmer",
+    "S. Lewis",
+    "M. Salih",
+    "A. Kayabaga",
+    "S. Hillier",
+    "E. Holder"
+  ],
+  "also_present": [
+    "J. Bunn",
+    "J. Taylor\n\n\n\n M. van Holst",
+    "M. Banuelos (LMCH)",
+    "M. Butlin",
+    "I. Collins",
+    "C. Cooper",
+    "K. Dickins",
+    "A. Dunbar",
+    "S. Glover",
+    "W. Groves (LMCH)",
+    "L. Hancock",
+    "O. Katolyk",
+    "G. Kotsifas",
+    "L. Livingstone",
+    "K. Murray",
+    "J. Raycroft",
+    "C. Smith",
+    "B. Westlake-Power\n\n\n\nThe meeting was called to order at 4:00 PM",
+    "it being noted that the following Members were in  E. Holder",
+    "M. Salih",
+    "A. Kayabaga",
+    "S. Hillier"
+  ],
+  "remote_attendance": [],
+  "content": {
+    "__class__": "Content"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-06-01 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Hillier",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Items 2.1 to 2.7 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "S. Lewis",
+                  "S. Hillier",
+                  "A. Kayabaga",
+                  "E. Holder",
+                  "M. Salih,J. Helmer"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (6 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "4th Report of the Animal Welfare Advisory Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 4th Report of the Animal Welfare Advisory Committee, from its meeting held on May 6, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-05-06 AWAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81743",
+              "date": "2021-05-06 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "2nd Report of the London Housing Advisory Committee",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 2nd Report of the London Housing Advisory Committee, from its meeting held on May 12, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-05-12 LHAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81744",
+              "date": "2021-05-12 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "2nd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 2nd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee, from its meeting held on May 20, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-05-20 DIAAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81745",
+              "date": "2021-05-20 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "LMCH \u2013 CMHC Co-Investment Letter of Intent",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated June 1, 2021, BE INTRODUCED at the Municipal Council meeting to be held on June 15, 2021, to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 \u00a0authorize and approve the Letter of Intent, as appended to the above-noted by-law, between the Canada Mortgage and Housing Corporation, London and Middlesex Community Housing and The Corporation of the City of London to initiate a loan agreement, through the National Housing Co-Investment Fund;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Letter of Intent; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 \u00a0authorize the Mayor and the City Clerk to approve any future amended versions of the above-noted Letter of Intent. (2021-F11/S11)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 SR LMCH-CMHC Co-Investment Letter of Intent - Part 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81746",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 SR LMCH-CMHC Co-Investment Letter of Intent - Part 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81747",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "SkillsAdvance Ontario (SAO) Employment Services for Manufacturing Sector Update",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated June 1, 2021, with respect to an update on the SkillsAdvance Ontario (SAO) Employment Services for the Manufacturing Sector, BE RECEIVED. (2021-S04)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 SR SkillsAdvance Ontario - Employment Services for Manufacturing Sector",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81753",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "City of London Additional Short Term Supports for Unsheltered Individuals",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated June 1, 2021, related to the City of London Additional Short Term Supports for Unsheltered Individuals:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 \u00a0the above-noted staff report BE RECEIVED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 \u00a0a one-time funding allocation through a single source procurement (#SS21-09) to Ark Aid Street Mission on behalf of the WISH Coalition of up to $1,150,000 (excluding HST) for the extension of services until Dec 31, 2021, to support individuals currently residing at the York Street pop up shelter through the operation of a low-barrier overnight response at an alternate location BE APPROVED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 \u00a0the Civic Administration BE DIRECTED to explore opportunities and report back to the Community and Protective Services Committee on June 22, 2021 with an implementation plan related to temporary expansion of the following support programs:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i)\u00a0 \u00a0 \u00a0 temporarily increasing capacity in existing housing support programs until March 31, 2022 to support individuals currently residing in emergency shelter for a period greater than 365 days;\n\nii)\u00a0 \u00a0 \u00a0temporarily increasing the number of shelter or resting space beds up to a maximum of 20 additional beds until September 30, 2021 for individuals experiencing unsheltered homelessness;\n\niii)\u00a0 \u00a0 \u00a0implementation of 24/7 staff supports model for the 13 Head Lease units until December 31, 2021; and,\n\niv)\u00a0 \u00a0 \u00a0work with community partners to operationalize a hygiene facility for individuals and families experiencing homelessness for July and August 2021;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d)\u00a0 \u00a0 \u00a0the Civic Administration BE DIRECTED to work with community providers to determine where Day Spaces can be reopened to meet the needs of individuals experiencing homelessness; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e)\u00a0 \u00a0 \u00a0the Civic Administration BE DIRECTED to undertake all administrative acts which are necessary in relation to this report. (2021-S14)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 SR City of London Additional Short Term Supports for Unsheltered Individuals",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81754",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "2019-2022 Multi-Sector Service Accountability Agreement - Dearness Home Adult Day Program and the South West Local Health Integration Network - Declaration of Compliance - April 1, 2020-March 31, 2021",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the Deputy City Manager, Social and Health Development BE AUTHORIZED to execute the Declaration of Compliance, as appended to the staff report dated June 1, 2021, with respect to compliance with the terms of the 2019-2022 Multi-Sector Service Accountability Agreement for the Dearness Home Adult Day Program for the reporting period April 1, 2020 to March 31, 2021. (2021-S02)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 SR 2019-2022 Multi-Sector Service Accountability Agreement - Part 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81748",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 SR 2019-2022 Multi-Sector Service Accountability Agreement - Part 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81749",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-06-01 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Items for Direction",
+      "number": "3",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Post June 30, 2021 Strategy for High Acuity Homelessness - S. Campbell, Ark Aid Mission - REQUEST FOR DELEGATION STATUS",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the request for delegation from S. Campbell, Ark Aid Mission, with respect to a post June 30, 2021 strategy for high acuity homelessness, BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that a communication from S. Campbell, as appended to the agenda, with respect to this matter, was received. (2021-S14)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "A. Kayabaga",
+                      "E. Holder",
+                      "M. Salih,J. Helmer"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (6 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 Sub. Strategy for High Acuity Homelessness - Part 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81750",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-06-01 Sub. Strategy for High Acuity Homelessness - Part 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81751",
+              "date": "2021-06-01 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-06-01 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Deferred Matters List",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Hillier",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by E. Holder",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Deferred Matters List for the Community and Protective Services Committee, as at May 21, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "A. Kayabaga",
+                      "E. Holder",
+                      "M. Salih,J. Helmer"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (6 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-06-01 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "CPSC DEFERRED MATTERS as at May 21, 2021",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=81752",
+              "date": "2021-06-01 16:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-06-01 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Adjournment",
+      "number": "5",
+      "content": [
+        {
+          "string": "The meeting adjourned at 4:30 PM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-06-01 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:06:32.640",
+      "end": "00:09:02.010",
+      "text": "Jerry, can you hear me in chambers? Okay. Yes, I can place it farm. Can you hear me? Can you do another test? I can hear you. We can hear you. That's good. Thank you. Okay, perfect. Thanks."
+    },
+    {
+      "index": 2,
+      "start": "00:09:02.010",
+      "end": "00:22:19.070",
+      "text": "Low colleagues, it's just four o'clock. I'm just waiting to sign into eScribe. We're just going to give it a minute or two and then we'll call the meeting order."
+    },
+    {
+      "index": 3,
+      "start": "00:22:22.660",
+      "end": "00:22:38.170",
+      "text": "Please let me know if you do have any troubles logging into eScribe. There was a bit of a blip. The Civic Works Committee meeting at the beginning."
+    },
+    {
+      "index": 4,
+      "start": "00:22:38.170",
+      "end": "00:23:17.600",
+      "text": "Okay. I'd like to call the ninth meeting of the community and protective services committee to order. Please let me know if you do any problems logging into eScribe for me. It just took a little while. And then I was in this is a virtual meeting during the COVID-19 emergency city hall is temporarily close to the public for in-person attendance at standing committees and council meetings meetings can be viewed by live streaming on YouTube and the city website."
+    },
+    {
+      "index": 5,
+      "start": "00:23:17.600",
+      "end": "00:23:49.410",
+      "text": "The city of London is committed to making every effort to provide alternate formats and communication supports for council, standing or advisory committee meetings and information upon request to make a request for any city service. Please contact accessibility at london.ca or 519-661-2489 sentient 2425. That's too much to remember. You can just dial 311 and then extension 2425 to make a request specific to this meeting. Please contact CPSC at london.ca."
+    },
+    {
+      "index": 6,
+      "start": "00:23:49.410",
+      "end": "00:24:08.280",
+      "text": "I colleagues as a number of colleagues have done at the start of the committee meetings. I just did want to take a moment to recognize the discovery of the remains of 215 children at the Kamloops, a residential school. Thanks to the direction from Mayor Holder."
+    },
+    {
+      "index": 7,
+      "start": "00:24:08.280",
+      "end": "00:24:50.940",
+      "text": "The flags at City Hall are going to be at half past for about nine days to recognize and honor the children who are discovered there. And I think it's appropriate if we just take a moment of silence to recognize that now. Thank you very much."
+    },
+    {
+      "index": 8,
+      "start": "00:24:50.940",
+      "end": "00:25:06.980",
+      "text": "That brings us to disclosures of pecuniary interest. I'm just looking to see from colleagues if there are any disclosures. See some shaking pads, nothing here in the chambers. Just raise your hand on the zoom if you're trying to get my attention."
+    },
+    {
+      "index": 9,
+      "start": "00:25:06.980",
+      "end": "00:25:48.790",
+      "text": "No, okay, brings us to the consent agenda, which is quite extensive. Any items that colleagues like to pull for a separate discussion and debate. Welcome, Councillor Slee. We're just on the consent agenda. I wanted to check with you. Anything you'd like to have pulled looks like we're good."
+    },
+    {
+      "index": 10,
+      "start": "00:25:48.790",
+      "end": "00:26:01.830",
+      "text": "Is there a mover for the consent items, Councillor Lewis, seconded by Councillor Hillier discussion on the consent items, Councillor Lewis. Thank you, chair."
+    },
+    {
+      "index": 11,
+      "start": "00:26:01.830",
+      "end": "00:26:13.310",
+      "text": "Colleagues, I want to focus on on 2.6. This is the report on the addition of additional short term supports for unsheltered individuals."
+    },
+    {
+      "index": 12,
+      "start": "00:26:13.310",
+      "end": "00:26:32.020",
+      "text": "I certainly am supportive of continuing to provide supports where it's appropriate. And I am very, very encouraged to see that we are looking at a 24/7 supportive housing model utilizing 13 of our head lease units until the end of the year."
+    },
+    {
+      "index": 13,
+      "start": "00:26:32.020",
+      "end": "00:26:45.350",
+      "text": "I have expressed publicly and with our staff concerns about the fact that we find ourselves in yet another extension of temporary services, however."
+    },
+    {
+      "index": 14,
+      "start": "00:26:45.350",
+      "end": "00:27:02.870",
+      "text": "And so I just wanted to speak to this because well, it is important that we continue to provide the service in the short term. I think it really underscores the need for us to continue to look for some sustainable long term solutions."
+    },
+    {
+      "index": 15,
+      "start": "00:27:02.870",
+      "end": "00:27:26.830",
+      "text": "I think that the very fact that we are continuing these short term supports really underscores that we have individuals in our community who are not able or who are not able to function in what we as individuals might think of as traditional housing setups."
+    },
+    {
+      "index": 16,
+      "start": "00:27:26.830",
+      "end": "00:27:43.170",
+      "text": "To have a number of challenges in their lives, be that addiction, mental health issues, any number of things that often intersect with the fact that they are homeless and really prevent them from from securing housing stability in the long run."
+    },
+    {
+      "index": 17,
+      "start": "00:27:43.170",
+      "end": "00:27:57.470",
+      "text": "And we need to keep in mind that no matter how units of many units of housing we build, we are always going to have some individuals in our community who are struggling in this very specific situation where they need supportive units."
+    },
+    {
+      "index": 18,
+      "start": "00:27:57.470",
+      "end": "00:28:13.500",
+      "text": "So I really think that it's important that we keep our eyes on the prize in terms of focusing on a long term option here as well. Yes, it's, it's good that we're going to be able to extend these for a period of time."
+    },
+    {
+      "index": 19,
+      "start": "00:28:13.500",
+      "end": "00:28:35.790",
+      "text": "Once again, we're relying on the SSRF funding from the province to cover the cost of this and certainly we appreciate the province's contribution to enable us to do that. But we do have to continue to think ahead and think outside the box in terms of some solutions that are going to work in the long term for the community."
+    },
+    {
+      "index": 20,
+      "start": "00:28:35.790",
+      "end": "00:28:51.160",
+      "text": "The time will come when the SSRF funding from the province will not be extended any further, and that will mean we are not going to be able to continue these extensions in perpetuity. So I just want everybody to keep in mind that."
+    },
+    {
+      "index": 21,
+      "start": "00:28:51.160",
+      "end": "00:29:00.620",
+      "text": "Well, this is certainly a good thing to support today. We have to be working towards longer term solutions."
+    },
+    {
+      "index": 22,
+      "start": "00:29:00.620",
+      "end": "00:29:20.650",
+      "text": "Any other discussion, or holder, go ahead. Thanks very much. And I listened with great interest my colleague, Councillor Lewis on this, and it feels like I'll know he'll want to clarify. I'm sure."
+    },
+    {
+      "index": 23,
+      "start": "00:29:20.650",
+      "end": "00:29:32.730",
+      "text": "But it sounds like when I hear I heard him recently in the media but more importantly tonight for this purpose. It feels like he's saying we're not doing anything and, and, and, and why are we doing temporary housing because we have to."
+    },
+    {
+      "index": 24,
+      "start": "00:29:32.730",
+      "end": "00:29:44.870",
+      "text": "I mean, I think it's as clear and as simple as that but maybe through you, chair to staff and I'd certainly invite Councillor Lewis to comment again just so my understanding is clearer but staff."
+    },
+    {
+      "index": 25,
+      "start": "00:29:44.870",
+      "end": "00:29:56.540",
+      "text": "What are we doing in terms of the spirit of this because I didn't hear a question asked of you and I just, and if I speculate and imagine that you, you deem this as a serious issue."
+    },
+    {
+      "index": 26,
+      "start": "00:29:56.540",
+      "end": "00:30:10.720",
+      "text": "So what are we doing if I may put that through you chair. I didn't hear Councillor Lewis say we were not doing anything. I'm going to just go to him very briefly to see if that meant we can clarify that then we'll go to staff."
+    },
+    {
+      "index": 27,
+      "start": "00:30:10.720",
+      "end": "00:30:27.150",
+      "text": "Thank you chair and through you, you know, certainly mayor holder. I appreciate the work that is being done. And I think, and I hope that I underscored that it's good that we have the funding in place to continue to do this in the short term."
+    },
+    {
+      "index": 28,
+      "start": "00:30:27.150",
+      "end": "00:30:46.830",
+      "text": "And I have nothing but a great deal of admiration and respect, not just for our staff, but in particular, I want to take this opportunity actually as I'm clarifying this to thank the volunteer supports and the community organizations who have played such a key role over the last year in providing some support"
+    },
+    {
+      "index": 29,
+      "start": "00:30:46.830",
+      "end": "00:30:58.820",
+      "text": "for individuals with particularly challenging issues around homelessness. It is not easy work. It's, in fact, I would imagine quite heartbreaking work many days."
+    },
+    {
+      "index": 30,
+      "start": "00:30:58.820",
+      "end": "00:31:09.450",
+      "text": "And so there's a great appreciation for what's being done. But what is being done right now, you know, this is the yet another extension onto this program."
+    },
+    {
+      "index": 31,
+      "start": "00:31:09.450",
+      "end": "00:31:21.560",
+      "text": "And I recognize as well, mayor holder through the chair that we can't create housing units overnight. We are creating them as we are working on that as quickly as we can."
+    },
+    {
+      "index": 32,
+      "start": "00:31:21.560",
+      "end": "00:31:31.740",
+      "text": "But we also have to keep in mind. And that was what I was trying to underscore is that traditional housing for some individuals is not going to be the solution."
+    },
+    {
+      "index": 33,
+      "start": "00:31:31.740",
+      "end": "00:31:43.780",
+      "text": "And we've had a number of discussions around this at this committee over the last couple of years on different options. And I think that we just need to continue to keep doors open to some longer term sustainable solutions."
+    },
+    {
+      "index": 34,
+      "start": "00:31:43.780",
+      "end": "00:31:52.000",
+      "text": "That does not by any means underscore the hard work that staff community organizations and others are doing."
+    },
+    {
+      "index": 35,
+      "start": "00:31:52.000",
+      "end": "00:32:05.390",
+      "text": "But I have yet to see the long term goals come forward that will support individuals with particular challenging needs. Certainly we're making progress in a number of other areas."
+    },
+    {
+      "index": 36,
+      "start": "00:32:05.390",
+      "end": "00:32:11.990",
+      "text": "But when we look at the short term relief housing, there are some individuals who are going to need help on a more permanent basis."
+    },
+    {
+      "index": 37,
+      "start": "00:32:11.990",
+      "end": "00:32:26.640",
+      "text": "Well, chair, I'm sure it was me then because I think the way that I heard it the second time makes me more comfortable with the comments that were expressed. So I don't have questions of staff unless they want to offer anything beyond that. Thank you."
+    },
+    {
+      "index": 38,
+      "start": "00:32:26.640",
+      "end": "00:32:45.500",
+      "text": "I am going to go to Mr Dickens or perhaps Mr Cooper I'm not sure who wants to handle that but just generally the answer the mayor's question then I see Councillor Van Holst. Next, go ahead. Thank you and through the chair to the question of what are we doing."
+    },
+    {
+      "index": 39,
+      "start": "00:32:45.500",
+      "end": "00:33:05.460",
+      "text": "So what you see before you is a proposal to leverage and maximize or capitalize on temporary funding that is at our disposal. The proposed plan is to support the individuals that are currently still engaged in our winter response program."
+    },
+    {
+      "index": 40,
+      "start": "00:33:05.460",
+      "end": "00:33:21.390",
+      "text": "We feel like the items of the program set out in section C are opportunities for those individuals opportunities for them to get connected to those housing programs and barring that if there are folks that are unable to connect successfully to those"
+    },
+    {
+      "index": 41,
+      "start": "00:33:21.390",
+      "end": "00:33:32.040",
+      "text": "programs, we would look to a temporary support that is staff 24 seven at an alternate location. That's most likely going to be a hotel model."
+    },
+    {
+      "index": 42,
+      "start": "00:33:32.040",
+      "end": "00:33:52.840",
+      "text": "We don't recognize that anything that we're proposing all of what we're proposing may not work for every individual. In fact, that was also our case, and our experience during the winter response that the lowest of low barrier temporary services still did not work for everyone."
+    },
+    {
+      "index": 43,
+      "start": "00:33:52.840",
+      "end": "00:34:01.070",
+      "text": "In fact, wish engaged with about 10 to 12 people that were unsuccessful and maintaining their stay during the winter."
+    },
+    {
+      "index": 44,
+      "start": "00:34:01.070",
+      "end": "00:34:10.990",
+      "text": "We're asked by council to report back as soon as possible with a plan for based on what we've learned from the winter response of what we would do post June 30."
+    },
+    {
+      "index": 45,
+      "start": "00:34:10.990",
+      "end": "00:34:26.000",
+      "text": "So we feel like we have an opportunity here to leverage our SSRF phase three funding to yes but indeed temporary supports, but those supports align with the known funding at this time."
+    },
+    {
+      "index": 46,
+      "start": "00:34:26.000",
+      "end": "00:34:44.240",
+      "text": "The funding levels change, and of course our response would change as well. Another point of interest for committee to be aware of is that as civic administration within the coming weeks will be launching community consultations to inform and scope"
+    },
+    {
+      "index": 47,
+      "start": "00:34:44.240",
+      "end": "00:35:03.250",
+      "text": "the key, which we will be undertaking in 2021 for the delivery of low barrier shelter services in 2022 and beyond. We feel that there are a lot of lessons learned throughout the pandemic throughout our winter response and with our community partners that will really help"
+    },
+    {
+      "index": 48,
+      "start": "00:35:03.250",
+      "end": "00:35:23.610",
+      "text": "enlighten and inform our need to seek and secure low barrier shelter services. As you know through our housing stability action plan, support of housing is a primary priority for this for our community and for civic administration and for council"
+    },
+    {
+      "index": 49,
+      "start": "00:35:23.610",
+      "end": "00:35:43.130",
+      "text": "support of housing units are critical to have in stock, but so too are the supports that go with them from community organizations. So we continue to work with the experts in the mental health and addiction sectors to staff the support of housing spaces"
+    },
+    {
+      "index": 50,
+      "start": "00:35:43.130",
+      "end": "00:36:00.040",
+      "text": "and reopen their daytime programming spaces. We seek to assist them and connect them with any other provincial resources that allow them to expand or enhance their capacity for outreach as we see that play out on our streets quite frequently."
+    },
+    {
+      "index": 51,
+      "start": "00:36:00.040",
+      "end": "00:36:15.310",
+      "text": "Hopefully the proposal before committee today resonates with trying to address the low barrier approach to supporting vulnerable individuals while also trying to maximize our short term temporary funding. Thank you."
+    },
+    {
+      "index": 52,
+      "start": "00:36:15.310",
+      "end": "00:36:33.510",
+      "text": "Thanks very much. I'm going to go to Councillor van Holst and just get on the list if you're not there. Go ahead. Councillor van Holst. Thank you, Mr. Chair and through you and staff's doing a lot of good work. When we ask them to report back quickly with a plan. This was very, very quickly."
+    },
+    {
+      "index": 53,
+      "start": "00:36:33.510",
+      "end": "00:36:46.460",
+      "text": "And I appreciate that this report coming and to let us know that there's funding that's being taken advantage of for this. So, as I said, lots of work is being done."
+    },
+    {
+      "index": 54,
+      "start": "00:36:46.460",
+      "end": "00:37:01.220",
+      "text": "Now, that hasn't prevented people from sleeping rough nightly on the Hamilton Road, warming center site. So we can see there's still more, more to be done."
+    },
+    {
+      "index": 55,
+      "start": "00:37:01.220",
+      "end": "00:37:14.370",
+      "text": "However, if I think if I were to ask through you to staff, which city has solved this problem, I think the answer would be none."
+    },
+    {
+      "index": 56,
+      "start": "00:37:14.370",
+      "end": "00:37:39.890",
+      "text": "So we need some, obviously there's some additional some new ideas that are needed. I think that the solution to most problems is a new idea. And so we need to keep looking for those. And so I do appreciate also that we'll be looking for an RFP to see about providing some very low barrier housing."
+    },
+    {
+      "index": 57,
+      "start": "00:37:39.890",
+      "end": "00:37:51.140",
+      "text": "So I think, and maybe that's going to be some of the kinds of things that counselor Lewis and I suggested a year ago or, or so, because we're going to find that."
+    },
+    {
+      "index": 58,
+      "start": "00:37:51.140",
+      "end": "00:38:00.170",
+      "text": "And we have found that what we're providing is almost in terms of a hotel room."
+    },
+    {
+      "index": 59,
+      "start": "00:38:00.170",
+      "end": "00:38:08.300",
+      "text": "Still doesn't work out for for some individuals. And, and I think there's going to be a spectrum of things needed."
+    },
+    {
+      "index": 60,
+      "start": "00:38:08.300",
+      "end": "00:38:21.600",
+      "text": "At the at the low end and the higher end and people will move up and down through those spectrums in, in their eventual evolution to having long term housing."
+    },
+    {
+      "index": 61,
+      "start": "00:38:21.600",
+      "end": "00:38:39.450",
+      "text": "So, I, I am, I am pleased with, with the report. I do think that we need to do some more and realize when we, if we do provide some services that can kind of contain."
+    },
+    {
+      "index": 62,
+      "start": "00:38:39.450",
+      "end": "00:38:50.780",
+      "text": "Some challenges that there's some communities are experiencing with, with the individuals that, that are stuck sleeping in the rough."
+    },
+    {
+      "index": 63,
+      "start": "00:38:50.780",
+      "end": "00:38:59.550",
+      "text": "Someone I spoke to this weekend said they were at, at a coffee house and just like a fly in the wall."
+    },
+    {
+      "index": 64,
+      "start": "00:38:59.550",
+      "end": "00:39:10.630",
+      "text": "I would probably do a conversation where people said, Hey, we should start a little tent city and someone else said, well, we, we, I don't, I don't have a tent."
+    },
+    {
+      "index": 65,
+      "start": "00:39:10.630",
+      "end": "00:39:28.110",
+      "text": "And there are a total of people have sheds and in them there's camping equipment. And so we can, you know, that can be stolen and used like that. So, there's some people that are going to find some way to get adequate housing for them."
+    },
+    {
+      "index": 66,
+      "start": "00:39:28.110",
+      "end": "00:39:41.190",
+      "text": "And so those very low barrier things we, we want to be providing so that they're, they're not forced to do provide them in a way that's that's harmful to the community."
+    },
+    {
+      "index": 67,
+      "start": "00:39:41.190",
+      "end": "00:39:51.990",
+      "text": "So I see, I see hope, but I also see that there's more work that needs to be done. So thanks for what has been done."
+    },
+    {
+      "index": 68,
+      "start": "00:39:51.990",
+      "end": "00:39:59.360",
+      "text": "Any other speakers on the consent items, which have moved all together."
+    },
+    {
+      "index": 69,
+      "start": "00:39:59.360",
+      "end": "00:40:11.040",
+      "text": "Thank you chair. I did want to speak to one other item, but I wanted to focus on 2.6 first. The other item I wanted to just reference quickly was 2.4."
+    },
+    {
+      "index": 70,
+      "start": "00:40:11.040",
+      "end": "00:40:21.110",
+      "text": "That's the LMCHC co investment letter of intent. And I think this is a really, really good news story."
+    },
+    {
+      "index": 71,
+      "start": "00:40:21.110",
+      "end": "00:40:34.290",
+      "text": "Funds that we budgeted for in the multi year budget for London Middlesex community housing to make improvements to its holdings are going to be leveraged to access federal dollars as well."
+    },
+    {
+      "index": 72,
+      "start": "00:40:34.290",
+      "end": "00:40:50.790",
+      "text": "And that is going to be able to help the housing corporation make a significant dent in some of the repairs and upgrades and energy efficiency modifications that need to be made."
+    },
+    {
+      "index": 73,
+      "start": "00:40:50.790",
+      "end": "00:41:09.980",
+      "text": "So having spoken about the need for some innovative solutions on the homelessness side with the other item, it really be remiss of me not to highlight this and thank staff for the incredible work that they've put into taking the municipal dollars that we've allocated"
+    },
+    {
+      "index": 74,
+      "start": "00:41:09.980",
+      "end": "00:41:23.020",
+      "text": "and leveraging that to get these federal dollars flowing into our community and making a significant improvement in the quality of the assets that we have through London Middlesex housing community housing."
+    },
+    {
+      "index": 75,
+      "start": "00:41:23.020",
+      "end": "00:41:33.980",
+      "text": "Both for Londoners and for those in Middlesex County who access housing supports out in the county as well. So that's a great news story and one that Londoners should welcome."
+    },
+    {
+      "index": 76,
+      "start": "00:41:33.980",
+      "end": "00:41:41.950",
+      "text": "And with thanks to our federal members of parliament as well, because I know every one of them, all four of them are big advocates for housing investment."
+    },
+    {
+      "index": 77,
+      "start": "00:41:41.950",
+      "end": "00:41:44.910",
+      "text": "And you see the results in this report today."
+    },
+    {
+      "index": 78,
+      "start": "00:41:44.910",
+      "end": "00:41:55.070",
+      "text": "Any other speakers on any of the consent items? Councilor and host is your hand up again or is it from the previous time?"
+    },
+    {
+      "index": 79,
+      "start": "00:41:55.070",
+      "end": "00:42:10.480",
+      "text": "Yeah, I don't see any other speakers. I just want to make a few comments on the consent items. Just on the point that the counselor Lewis was making about the CMHC co investment."
+    },
+    {
+      "index": 80,
+      "start": "00:42:10.480",
+      "end": "00:42:15.390",
+      "text": "I want to recognize the work of FCM and the big city mayor's caucus at FCM FCM is underway right now."
+    },
+    {
+      "index": 81,
+      "start": "00:42:15.390",
+      "end": "00:42:25.960",
+      "text": "It seems like an opportunity time to point out how well they've been pushing for federal investment in housing, which is a key need for so many cities in our country."
+    },
+    {
+      "index": 82,
+      "start": "00:42:25.960",
+      "end": "00:42:34.490",
+      "text": "And I think the big city mayor's caucus, which Mayor Holder is a part of has done really good job of clearly articulating what needs to be done by the federal government."
+    },
+    {
+      "index": 83,
+      "start": "00:42:34.490",
+      "end": "00:42:46.530",
+      "text": "I think the federal government deserves a lot of credit for responding to that call and mobilizing resources. I don't think we've solved the problem or met the need yet, but lots of great progress."
+    },
+    {
+      "index": 84,
+      "start": "00:42:46.530",
+      "end": "00:42:57.420",
+      "text": "I also want to comment on the skills advanced Ontario pilot. This is a really wonderful program that the city took the lead on funded by the provincial ministry."
+    },
+    {
+      "index": 85,
+      "start": "00:42:57.420",
+      "end": "00:43:07.150",
+      "text": "Monty McNaughton, who is the minister now, you know, he, I think he describes himself as like the minister of labor, who is like the biggest on the trades, you know."
+    },
+    {
+      "index": 86,
+      "start": "00:43:07.150",
+      "end": "00:43:16.520",
+      "text": "And I think that's very clear, you know, you see what's happening in this particular program, which is now expanding regionally from what initially happened with the pilot."
+    },
+    {
+      "index": 87,
+      "start": "00:43:16.520",
+      "end": "00:43:29.890",
+      "text": "And I just wanted to commend city staff for taking that on really important opportunity. I think in terms of getting people with skills into jobs and helping people who need skills to get them so that they can get into a meaningful employment."
+    },
+    {
+      "index": 88,
+      "start": "00:43:29.890",
+      "end": "00:43:39.180",
+      "text": "A really good example of the province acting on a problem we've got in our community, see what could work better and then trying to scale it up throughout the region."
+    },
+    {
+      "index": 89,
+      "start": "00:43:39.180",
+      "end": "00:43:52.050",
+      "text": "So that's a really good example and very well done. Just on the short term supports for unsheltered individuals. I want to say about the specific ideas that are in front of us to come forward again at our June 22 meeting."
+    },
+    {
+      "index": 90,
+      "start": "00:43:52.050",
+      "end": "00:44:09.280",
+      "text": "I think this is very encouraging. I think acting on a number of these fronts is what's necessary. I think, you know, we'll have to see what the details are in the 22nd of June report, but I do think it's going to require us to do a number of things across all these different areas and temporary expansion."
+    },
+    {
+      "index": 91,
+      "start": "00:44:09.280",
+      "end": "00:44:23.100",
+      "text": "I think on the timelines that are being proposed by civic administration is going to be necessary. So I'm glad that we've got the funding to extend the services, even if we have to move it into a hotel space, which I think has limitations."
+    },
+    {
+      "index": 92,
+      "start": "00:44:23.100",
+      "end": "00:44:32.370",
+      "text": "You know, it doesn't work quite as well as the pop of shelter in some ways. I think we have to acknowledge that, but it's excellent that we can continue it because the need is still there."
+    },
+    {
+      "index": 93,
+      "start": "00:44:32.370",
+      "end": "00:44:44.350",
+      "text": "Other changes, I think also would be very positive. Last thing I say, I see Mr Hancock is on the call and I think he's here in case we have any questions about Dearness Homes at all day program, the agreements on the agenda."
+    },
+    {
+      "index": 94,
+      "start": "00:44:44.350",
+      "end": "00:44:54.750",
+      "text": "Seems like a good opportunity to just thank Mr Hancock and his team at Dearness Home for the amazing work they have done over the past year and a bit, especially during the pandemic."
+    },
+    {
+      "index": 95,
+      "start": "00:44:54.750",
+      "end": "00:45:06.850",
+      "text": "During this home is a very well run long term care facility and I know the residents really appreciate it. Since you're on the call and we didn't have any questions for you seem like a good time to to thank you and your team for your work."
+    },
+    {
+      "index": 96,
+      "start": "00:45:06.850",
+      "end": "00:45:13.080",
+      "text": "That's it in terms of speakers. I think I'll just open up the vote then."
+    },
+    {
+      "index": 97,
+      "start": "00:45:13.080",
+      "end": "00:45:43.270",
+      "text": "Councillor Caiabaga."
+    },
+    {
+      "index": 98,
+      "start": "00:45:43.270",
+      "end": "00:46:10.640",
+      "text": "Yes, well, I wait for mine to vote closing the vote. The motion carries six to zero. That brings us to the delegation request from Sarah Campbell from market mission. This delegation request is about the post June 30."
+    },
+    {
+      "index": 99,
+      "start": "00:46:10.640",
+      "end": "00:46:23.020",
+      "text": "Strategy for high equity homelessness. I had a discussion with this Campbell yesterday about the timing for the delegation and she's comfortable with it being on the 22nd of June meeting when we're going to have this report back about what's happening post June 30."
+    },
+    {
+      "index": 100,
+      "start": "00:46:23.020",
+      "end": "00:46:36.690",
+      "text": "So if there's an interest in approving the delegation, we can do that now for the 22nd meeting moved by Councillor Lewis, second by Councillor Hillier. Okay, any discussion about the delegation request."
+    },
+    {
+      "index": 101,
+      "start": "00:46:36.690",
+      "end": "00:46:57.410",
+      "text": "Closing the vote, the motion carries six to zero."
+    },
+    {
+      "index": 102,
+      "start": "00:46:57.410",
+      "end": "00:47:12.250",
+      "text": "The deferred matters list is our next item. It wasn't here right at the beginning of the meeting. If there's anything you need to declare an opportunity interest on, you might want to check. If not, I'll take a motion to receive the first matters list."
+    },
+    {
+      "index": 103,
+      "start": "00:47:12.250",
+      "end": "00:47:19.860",
+      "text": "Seconded by Councillor Hillier, seconded by Mayor Holder. Any questions or discussion? Councillor Lewis."
+    },
+    {
+      "index": 104,
+      "start": "00:47:19.860",
+      "end": "00:47:34.240",
+      "text": "Thank you chair. I'm having reviewed the deferred matters list. I am through you looking for some guidance from our staff about number three post core area action plan with regard to the kindness meters."
+    },
+    {
+      "index": 105,
+      "start": "00:47:34.240",
+      "end": "00:47:44.330",
+      "text": "I believe that could be removed because I believe recently at SPPC, a change was made through the core area action plan update."
+    },
+    {
+      "index": 106,
+      "start": "00:47:44.330",
+      "end": "00:47:57.590",
+      "text": "So with respect to wording, since these will be made available to organizations and not run by the municipality itself, I think we can remove that one from the list for the next cycle."
+    },
+    {
+      "index": 107,
+      "start": "00:47:57.590",
+      "end": "00:48:16.150",
+      "text": "I'm going to check on that. Has Mr Barrett listed beside it? Does anyone want to respond to that idea? If not, perhaps we can just check and we'll deal with it when we get to council. Okay, any other questions?"
+    },
+    {
+      "index": 108,
+      "start": "00:48:16.150",
+      "end": "00:48:25.560",
+      "text": "I did want to just ask through myself, I suppose. See if there's anyone on a question, Mr chair. Okay, why don't we go to you? Go ahead."
+    },
+    {
+      "index": 109,
+      "start": "00:48:25.560",
+      "end": "00:48:49.890",
+      "text": "Okay, thank you. Through your chair, I just had a question around item for the second item on the deferred matters list. It says requests are expected reply date with what does this mean that in July we should be getting some information because this has been on the deferred matters list"
+    },
+    {
+      "index": 110,
+      "start": "00:48:49.890",
+      "end": "00:49:03.870",
+      "text": "for quite some time now and it's a policy for the Harris park and I'm curious to know why the policy can't be planned if in during a pandemic so I just wanted to hear some comments from staff."
+    },
+    {
+      "index": 111,
+      "start": "00:49:03.870",
+      "end": "00:49:10.590",
+      "text": "I think this would be the great time to come up with a policy before people start using it again."
+    },
+    {
+      "index": 112,
+      "start": "00:49:10.590",
+      "end": "00:49:31.180",
+      "text": "I would like to handle that one. Thank you for the chair. Thank you, chair. Thank you for the question, Councilor. So you're right, we had delayed this one because of the pandemic and the if until we know better about what are the guidelines."
+    },
+    {
+      "index": 113,
+      "start": "00:49:31.180",
+      "end": "00:49:42.580",
+      "text": "What is the protocol and when we can open up for special events. We still aren't clear on that, especially when you look at step three, it, it alludes to open up gatherings, but doesn't give a time limit."
+    },
+    {
+      "index": 114,
+      "start": "00:49:42.580",
+      "end": "00:49:57.400",
+      "text": "We were waiting until we had more details before we engage and we were hoping to incorporate this with a larger policy review on the special events policy in a more holistic way."
+    },
+    {
+      "index": 115,
+      "start": "00:49:57.400",
+      "end": "00:50:15.180",
+      "text": "Yeah, I think that's where my question really relied, why can't we do the policy without, I think, I guess, get ahead before people start using the park because the city sets the standards on which people use this park."
+    },
+    {
+      "index": 116,
+      "start": "00:50:15.180",
+      "end": "00:50:33.140",
+      "text": "And I know that we're not anywhere near close to having big gatherings like that again, but I think that currently Harris Park doesn't have a policy and it should get one before, you know, we start planning and thinking about ramping up events once we have the luxury to do so."
+    },
+    {
+      "index": 117,
+      "start": "00:50:33.140",
+      "end": "00:50:47.720",
+      "text": "And thank you for that information. This is Smith, I hope that in July, we can get some more information because this has been on the first matter, the first matter list for at least two years."
+    },
+    {
+      "index": 118,
+      "start": "00:50:47.720",
+      "end": "00:50:53.710",
+      "text": "Okay, any other questions about any of these items."
+    },
+    {
+      "index": 119,
+      "start": "00:50:53.710",
+      "end": "00:51:05.840",
+      "text": "Yeah, you've come on to video. Go ahead. Sorry. Yeah, just in answer to that earlier question. Yes, the kindness meters has been addressed for the SPC. So it could come off the list."
+    },
+    {
+      "index": 120,
+      "start": "00:51:05.840",
+      "end": "00:51:13.810",
+      "text": "Great. Well, we've got you there to stay right there. There's a question about the timing for the report back about the unsolicited flyers."
+    },
+    {
+      "index": 121,
+      "start": "00:51:13.810",
+      "end": "00:51:30.470",
+      "text": "And that's item number five, it says Q three 2021. Do we have any more precise sense of when that might be coming. I think it's Mr. Cottola's area. It is Mr. Cottola Syria. That is the best guess at this point in time."
+    },
+    {
+      "index": 122,
+      "start": "00:51:30.470",
+      "end": "00:51:38.090",
+      "text": "I don't have anything further to update you on with that with respect to that. No problem. We'll talk about it outside of the meeting. No problem."
+    },
+    {
+      "index": 123,
+      "start": "00:51:38.090",
+      "end": "00:51:44.400",
+      "text": "Any other questions. Okay. Motion to receive the list with the one change."
+    },
+    {
+      "index": 124,
+      "start": "00:51:44.400",
+      "end": "00:51:58.860",
+      "text": "Councillor Lewis. Perfect. Thank you. I've already been moved. Mayor Holder, are you trying to comment or just. Okay, go ahead. I just so excited. I wanted to remove it."
+    },
+    {
+      "index": 125,
+      "start": "00:51:58.860",
+      "end": "00:52:07.730",
+      "text": "That's all. It's all good. We talked about it so long. I forgot it already been moved. So, yeah, that'll teach me to make a speaker's list. Okay."
+    },
+    {
+      "index": 126,
+      "start": "00:52:07.730",
+      "end": "00:52:36.460",
+      "text": "We're going to open up the vote using the vote. The motion carries six to zero."
+    },
+    {
+      "index": 127,
+      "start": "00:52:36.460",
+      "end": "00:52:56.800",
+      "text": "Okay. Motion to adjourn. That's earlier. Seconded by Councillor Lewis. All those in favor in favor for adjourned. Thank you."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Community%20and%20Protective%20Services%20Committee/2021/06-01/.transcript.srt"
+}

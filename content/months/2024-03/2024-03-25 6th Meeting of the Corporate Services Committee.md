@@ -320,4 +320,33 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:59 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (31 minutes)</summary>
+
+**[21:02]** Okay, good afternoon, everyone. All the six meeting of the Corporate Services Committee to order, please check the city website for additional meeting detail information, meetings can be viewed via live streaming on YouTube and the city website. The city of London is situated on the traditional lands of the National Bank, the Haudenosaunee, and the Leno Wampock and Nada Wandran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many first nations, Métis and Inuit today.
+
+**[21:36]** As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. We have all members of the committee present and some visiting counselors as well. The city of London is committed to making every effort to provide alternative formats and communication supports from meetings upon request. To make a request specific to this meeting, please contact csc@london.ca or 519-661-2489 extension 2425. We'll look to any disclosures of pecuniary interest.
+
+**[22:11]** Okay, seeing none, we are on the consent items. I've not been given any direction to pull anything, so I'll look for a motion to put all of those on the floor. Okay, Councillor ramen, Councillor Cudi, thank you. Okay, so all of those are on the floor. Any questions or comments? Seeing any questions or comments? All right, well, okay. So we'll put all of those on the floor and I'll open that for voting.
+
+**[23:31]** Councillor Stevenson, closing the motion carries. Five to zero. Okay, thank you. We are on to schedule items, which we have none. So items for direction, we do have four proclamations. The clerk has informed me that they all do have a London connection.
+
+**[24:04]** Oh, sorry, there's more than four. We've got two pages worth. We have quite a few proclamations. Can I get a motion to have those approved? Okay, Councillor Cudi, Councillor ramen. Okay, any questions or concerns on those? Do you wanna do all at the same times that you're saying? Yes, we'll just vote on them all. Yeah, these are for all the proclamations. Are there any questions or concerns with those? Seeing none, we'll move on to the vote.
+
+**[25:04]** Closing the vote, motion carries. Five to zero. Okay, thank you for that. We're moving to light speed. Four minutes in, we're all (laughs) it's a good job, everyone. Sorry, we do also have 4.7, which is the consideration for the appointment to the animal welfare community advisory committee. So that's a separate vote. Can I get a motion for that one? Okay, so Councillor Cudi, Councillor ramen. Guys are tagged even in all the votes today, okay. We'll open that for voting. I'm sorry, are there any questions or concerns on that? Also not seeing any, so yes, we'll open that for voting.
+
+**[25:49]** Closing the vote, motion carries. Five to zero. Okay, so we have no deferred matters. We are on to confidential. So we'll shuffle some staff around and get to that momentarily. Oh, sorry, we need to vote to go into the confidential session first. Okay, Councillor Cudi, Councillor Stevenson. Okay, we'll open that for voting. Closing the vote, motion carries. Five to zero. Okay, just give us a moment to get set up.
+
+**[26:23]** Recording in progress. He's gonna be up there, so he's gonna come in. Okay, we're back in public session.
+
+**[30:34]** Last Councillor Cudi to report out on our confidential session. Thank you, Chair. That's three of you, meeting that in closed session from 105 to 155 PM to discuss confidential matters and progress that was made on all subjects.
+
+**[31:13]** Thank you, Chair. Thank you. We are at adjournment. So looking for a vote in terms of adjournment of motion. Okay, Councillor Cudi, Councillor Stevenson. Okay, all those in favor to adjourn. Opposed? Okay, thank you, everyone. Motion carries.
+
+</details>

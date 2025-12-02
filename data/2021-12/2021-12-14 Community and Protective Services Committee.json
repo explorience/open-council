@@ -1,1 +1,1709 @@
-{"title": null, "datetime": "2021-12-14 16:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=32a600c9-5ce4-4309-b6e4-d87705ee741f&Agenda=PostMinutes&lang=English", "meeting_type": "Community and Protective Services Committee", "bills": null, "present": ["M. Cassidy", "J. Helmer", "M. Hamou", "S. Hillier", "E. Holder"], "also_present": ["J. Bunn", "J. Taylor"], "remote_attendance": ["J. Fyfe-Millar", "M. van Holst", "L. Livingstone", "K. Dickins", "O. Katolyk", "G. Kotsifas", "E. Lane", "H. Lysynski", "J.P. McGonigle", "M. Schulthess", "G. Smith", "J. Tansley", "B. Westlake-Power"], "content": {"string": "The meeting was called to order at 4:06 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors J. Helmer and S. Hillier", "__class__": "Paragraph"}, "absent": ["M. Salih"], "items": {"1": {"title": "Call to Order", "number": "1", "content": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Election of Vice-Chair for the term ending November 14, 2022", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Cassidy (Chair)", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "That Councillor J. Helmer BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 14, 2022.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "M. Cassidy (Chair)", "S. Hillier", "E. Holder,M. Hamou"]}, {"vote": "Absent:", "voters": ["M. Salih"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Helmer", "__class__": "Mover"}, "motion_texts": [{"string": "That Items 2.1 to 2.5 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "M. Cassidy (Chair)", "S. Hillier", "E. Holder,M. Hamou"]}, {"vote": "Absent:", "voters": ["M. Salih"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "9th Report of the Accessibility Advisory Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Helmer", "__class__": "Mover"}, "motion_texts": [{"string": "That the 9th Report of the Accessibility Advisory Committee, from the meeting held on November 25, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-11-25 ACCAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88583", "date": "2021-11-25 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Helmer", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the City Manager, the proposed by-law as appended to the staff report, dated December 14, 2021, with respect to an Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021 to:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0authorize and approve the Contribution Agreement for the London and Middlesex Local Immigration Partnership between Her Majesty the Queen in Right of Canada, as represented by the Minister of Immigration, Refugees and Citizenship Canada and The Corporation of the City of London, substantially in the form appended to the above-noted by-law;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Contribution Agreement for the London and Middlesex Local Immigration Partnership;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0delegate authority to the City Manager, or written designates, to approve and execute any further amendments to the London and Middlesex Local Immigration Partnership Contribution Agreement if the amendments are substantially in the form of the above-note Contribution Agreement; and,", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0delegate authority to the City Manager, or written designates, to undertake all the administrative, financial and reporting acts, including signing authority regarding application forms for funding, budgets, cash flows, other financial reporting including financial claims and directions, consents and other authorizations as may be required, provided that the monetary amounts do not exceed the maximum amount of Canada\u2019s contribution specified in the Contribution Agreement that are necessary in connection with the above-noted Contribution Agreement. (2021-S15)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-12-14 SR - Agreement for LMLIP with Immigration, Refugees and Citizenship Canada (1of2)", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88584", "date": "2021-12-14 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-12-14 SR - Agreement for LMLIP with Immigration, Refugees and Citizenship Canada (2of2)", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88585", "date": "2021-12-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Administrative Monetary Penalties - Application to Municipal By-laws and Housekeeping Amendments", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Helmer", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to Administrative Monetary Penalties \u2013 Application to Municipal By-laws and Housekeeping Amendments:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law A-54, as amended, for the purpose of applying the Administrative Monetary Penalties System By-law to various municipal by-laws;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law PS-112, referred to as the Off-Street Residential Parking By-law, to add a new section in Part 6;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law PH-15, referred to as the Idling Control By-law, to add a new section in Part 4;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law C.P.-1555-252, referred to as the Tree Protection By-law, to add a new section in Part 14; and,", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law CP-22, referred to as the Boulevard Tree Protection By-law, to add a new section in Part 9. (2021-C01)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-12-14 SR - Administrative Monetary Penalties - Application to Municipal By-laws and Housekeeping", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88582", "date": "2021-12-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Single Source (SS21-49) Reaching Home Capital Projects", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Helmer", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to Single Source (SS21-49) Reaching Home Capital Projects:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0authorize and approve the standard form Reaching Home: Canada\u2019s Homelessness Strategy Sub-Project Funding Agreement, to be entered into between the City of London and such entities who have been selected for funding for their sub-projects in accordance with the City\u2019s funding Agreement with Canada, substantially in the form appended to the above-noted by-law;\n\nii) \u00a0 \u00a0delegate authority, jointly and severally, to the Deputy City Manager, Social and Health Development, and their written designates, the discretionary power to insert the applicable required information in the above-noted Sub-Project Funding Agreement;\n\niii) \u00a0 \u00a0delegate discretionary power to the Deputy City Manager, Social and Health Development, to approve the above-noted Agreement with the details inserted in subparagraph 2(a), and execute agreements which employ this form on the condition that the exercise of such powers is consistent with the Reaching Home: Canada\u2019s Homelessness Strategy guidelines and applicable agreements with Canada, and that the exercise of such powers does not require additional funding or is provided for in the City\u2019s current budget, and that does not increase the indebtedness or contingent liabilities of the City, subject to prior review and approval by the Manager of Risk Management;\n\niv) \u00a0 \u00a0delegate discretionary power to the Deputy City Manager, Social and Health Development, and their written designates, jointly and severally, to authorize and approve such further and other documents, including amending agreements, that may be required in furtherance of the City of London\u2019s agreements with organizations that are consistent with the Reaching Home: Canada\u2019s Homelessness Strategy guidelines and applicable agreements with Canada and requirements contained in the standard form Sub-Project Funding Agreement approved in the above-noted by-law, and that do not require additional funding or are provided for in the City\u2019s current budget, and that do not increase the indebtedness or contingent liabilities of the City, subject to prior review and approval by the Manager of Risk Management; and,\n\nv) \u00a0 \u00a0delegate authority to the Deputy City Manager, Social and Health Development to execute such documents, including the above-noted amendments agreements;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this matter;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into and/or amending Purchase of Service Agreements and/or Contribution Agreement with Agencies outlined in the above-noted staff report; and,", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Overview of Reaching Home Capital Project Funding Allocations, as appended to the above-noted staff report, BE RECEIVED. (2021-S11/F11A)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-12-14 SR - Single Source (SS21-49) Rewaching Home Capital Projects", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88586", "date": "2021-12-14 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-12-14 SR - Single Source (SS21-49) Reaching Home Capital Projects Appendix A", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88587", "date": "2021-12-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Housing Stability Services - Housing Stability Bank Single Source Procurement SS21-48 ", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Helmer", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to Housing Stability Services - Housing Stability Bank Single Source Procurement SS21-48:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0for Housing Stability Bank services, a funding agreement extension BE APPROVED for the existing Purchase of Service Agreement with The Salvation Army at a total estimated amount of $450,000 (excluding HST), effective as of December 22, 2021 to March 31, 2022, as per The Corporation of the City of London Procurement Policy Section 14.4.d;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts necessary to wind down the current Housing Stability Bank, including transitioning client interest free loan program to a grant program for the period of January 1, 2022 to March 31, 2022; and,", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into and/or amending a Purchase of Service Agreement with The Salvation Army Centre of Hope. (2021-S11)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-12-14 SR - Housing Stability Services - Housirng Stability Bank Update 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88588", "date": "2021-12-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [], "items": {"1": {"title": "Deferred Matters List", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Hillier", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That the Deferred Matters List for the Community and Protective Services Committee, as at December 6, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "M. Cassidy (Chair)", "S. Hillier", "E. Holder,M. Hamou"]}, {"vote": "Absent:", "voters": ["M. Salih"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [{"empty_flag": false, "title": "CPSC DEFERRED MATTERS as at December 6 2021", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88589", "date": "2021-12-14 16:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential", "number": "6", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"string": "The meeting adjourned at 4:14 PM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-12-14 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2021-12-14 16:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=32a600c9-5ce4-4309-b6e4-d87705ee741f&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Community and Protective Services Committee",
+  "bills": null,
+  "present": [
+    "M. Cassidy",
+    "J. Helmer",
+    "M. Hamou",
+    "S. Hillier",
+    "E. Holder"
+  ],
+  "also_present": [
+    "J. Bunn",
+    "J. Taylor"
+  ],
+  "remote_attendance": [
+    "J. Fyfe-Millar",
+    "M. van Holst",
+    "L. Livingstone",
+    "K. Dickins",
+    "O. Katolyk",
+    "G. Kotsifas",
+    "E. Lane",
+    "H. Lysynski",
+    "J.P. McGonigle",
+    "M. Schulthess",
+    "G. Smith",
+    "J. Tansley",
+    "B. Westlake-Power"
+  ],
+  "content": {
+    "string": "The meeting was called to order at 4:06 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors J. Helmer and S. Hillier",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "M. Salih"
+  ],
+  "items": {
+    "1": {
+      "title": "Call to Order",
+      "number": "1",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Disclosures of Pecuniary Interest",
+          "number": "1",
+          "content": [
+            {
+              "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Election of Vice-Chair for the term ending November 14, 2022",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by M. Cassidy (Chair)",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by E. Holder",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That Councillor J. Helmer BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 14, 2022.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "J. Helmer",
+                      "M. Cassidy (Chair)",
+                      "S. Hillier",
+                      "E. Holder,M. Hamou"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "M. Salih"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-12-14 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Hillier",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by J. Helmer",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Items 2.1 to 2.5 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "J. Helmer",
+                  "M. Cassidy (Chair)",
+                  "S. Hillier",
+                  "E. Holder,M. Hamou"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "M. Salih"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "9th Report of the Accessibility Advisory Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Hillier",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Helmer",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 9th Report of the Accessibility Advisory Committee, from the meeting held on November 25, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-11-25 ACCAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88583",
+              "date": "2021-11-25 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Hillier",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Helmer",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the City Manager, the proposed by-law as appended to the staff report, dated December 14, 2021, with respect to an Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021 to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0authorize and approve the Contribution Agreement for the London and Middlesex Local Immigration Partnership between Her Majesty the Queen in Right of Canada, as represented by the Minister of Immigration, Refugees and Citizenship Canada and The Corporation of the City of London, substantially in the form appended to the above-noted by-law;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Contribution Agreement for the London and Middlesex Local Immigration Partnership;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0delegate authority to the City Manager, or written designates, to approve and execute any further amendments to the London and Middlesex Local Immigration Partnership Contribution Agreement if the amendments are substantially in the form of the above-note Contribution Agreement; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0delegate authority to the City Manager, or written designates, to undertake all the administrative, financial and reporting acts, including signing authority regarding application forms for funding, budgets, cash flows, other financial reporting including financial claims and directions, consents and other authorizations as may be required, provided that the monetary amounts do not exceed the maximum amount of Canada\u2019s contribution specified in the Contribution Agreement that are necessary in connection with the above-noted Contribution Agreement. (2021-S15)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-12-14 SR - Agreement for LMLIP with Immigration, Refugees and Citizenship Canada (1of2)",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88584",
+              "date": "2021-12-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-12-14 SR - Agreement for LMLIP with Immigration, Refugees and Citizenship Canada (2of2)",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88585",
+              "date": "2021-12-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Administrative Monetary Penalties - Application to Municipal By-laws and Housekeeping Amendments",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Hillier",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Helmer",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to Administrative Monetary Penalties \u2013 Application to Municipal By-laws and Housekeeping Amendments:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law A-54, as amended, for the purpose of applying the Administrative Monetary Penalties System By-law to various municipal by-laws;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law PS-112, referred to as the Off-Street Residential Parking By-law, to add a new section in Part 6;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law PH-15, referred to as the Idling Control By-law, to add a new section in Part 4;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law C.P.-1555-252, referred to as the Tree Protection By-law, to add a new section in Part 14; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to amend By-law CP-22, referred to as the Boulevard Tree Protection By-law, to add a new section in Part 9. (2021-C01)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-12-14 SR - Administrative Monetary Penalties - Application to Municipal By-laws and Housekeeping",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88582",
+              "date": "2021-12-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Single Source (SS21-49) Reaching Home Capital Projects",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Hillier",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Helmer",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to Single Source (SS21-49) Reaching Home Capital Projects:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2021, to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0authorize and approve the standard form Reaching Home: Canada\u2019s Homelessness Strategy Sub-Project Funding Agreement, to be entered into between the City of London and such entities who have been selected for funding for their sub-projects in accordance with the City\u2019s funding Agreement with Canada, substantially in the form appended to the above-noted by-law;\n\nii) \u00a0 \u00a0delegate authority, jointly and severally, to the Deputy City Manager, Social and Health Development, and their written designates, the discretionary power to insert the applicable required information in the above-noted Sub-Project Funding Agreement;\n\niii) \u00a0 \u00a0delegate discretionary power to the Deputy City Manager, Social and Health Development, to approve the above-noted Agreement with the details inserted in subparagraph 2(a), and execute agreements which employ this form on the condition that the exercise of such powers is consistent with the Reaching Home: Canada\u2019s Homelessness Strategy guidelines and applicable agreements with Canada, and that the exercise of such powers does not require additional funding or is provided for in the City\u2019s current budget, and that does not increase the indebtedness or contingent liabilities of the City, subject to prior review and approval by the Manager of Risk Management;\n\niv) \u00a0 \u00a0delegate discretionary power to the Deputy City Manager, Social and Health Development, and their written designates, jointly and severally, to authorize and approve such further and other documents, including amending agreements, that may be required in furtherance of the City of London\u2019s agreements with organizations that are consistent with the Reaching Home: Canada\u2019s Homelessness Strategy guidelines and applicable agreements with Canada and requirements contained in the standard form Sub-Project Funding Agreement approved in the above-noted by-law, and that do not require additional funding or are provided for in the City\u2019s current budget, and that do not increase the indebtedness or contingent liabilities of the City, subject to prior review and approval by the Manager of Risk Management; and,\n\nv) \u00a0 \u00a0delegate authority to the Deputy City Manager, Social and Health Development to execute such documents, including the above-noted amendments agreements;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this matter;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into and/or amending Purchase of Service Agreements and/or Contribution Agreement with Agencies outlined in the above-noted staff report; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Overview of Reaching Home Capital Project Funding Allocations, as appended to the above-noted staff report, BE RECEIVED. (2021-S11/F11A)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-12-14 SR - Single Source (SS21-49) Rewaching Home Capital Projects",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88586",
+              "date": "2021-12-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-12-14 SR - Single Source (SS21-49) Reaching Home Capital Projects Appendix A",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88587",
+              "date": "2021-12-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Housing Stability Services - Housing Stability Bank Single Source Procurement SS21-48 ",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Hillier",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Helmer",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to Housing Stability Services - Housing Stability Bank Single Source Procurement SS21-48:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0for Housing Stability Bank services, a funding agreement extension BE APPROVED for the existing Purchase of Service Agreement with The Salvation Army at a total estimated amount of $450,000 (excluding HST), effective as of December 22, 2021 to March 31, 2022, as per The Corporation of the City of London Procurement Policy Section 14.4.d;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts necessary to wind down the current Housing Stability Bank, including transitioning client interest free loan program to a grant program for the period of January 1, 2022 to March 31, 2022; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into and/or amending a Purchase of Service Agreement with The Salvation Army Centre of Hope. (2021-S11)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-12-14 SR - Housing Stability Services - Housirng Stability Bank Update 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88588",
+              "date": "2021-12-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-12-14 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-12-14 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-12-14 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Deferred Matters List",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Hillier",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Deferred Matters List for the Community and Protective Services Committee, as at December 6, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "J. Helmer",
+                      "M. Cassidy (Chair)",
+                      "S. Hillier",
+                      "E. Holder,M. Hamou"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "M. Salih"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-12-14 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "CPSC DEFERRED MATTERS as at December 6 2021",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=88589",
+              "date": "2021-12-14 16:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-12-14 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential",
+      "number": "6",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-12-14 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "string": "The meeting adjourned at 4:14 PM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-12-14 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:02:57.150",
+      "end": "00:03:00.090",
+      "text": "Of course, who have been able to log into eScribe,"
+    },
+    {
+      "index": 2,
+      "start": "00:03:00.090",
+      "end": "00:03:02.250",
+      "text": "I've just opened up a test vote."
+    },
+    {
+      "index": 3,
+      "start": "00:03:02.250",
+      "end": "00:03:06.420",
+      "text": "Could I see Councillor Hillier has already voted?"
+    },
+    {
+      "index": 4,
+      "start": "00:03:06.420",
+      "end": "00:03:09.230",
+      "text": "If you're able to submit a test vote for me,"
+    },
+    {
+      "index": 5,
+      "start": "00:03:09.230",
+      "end": "00:03:18.210",
+      "text": "that would be really helpful, thank you."
+    },
+    {
+      "index": 6,
+      "start": "00:03:18.210",
+      "end": "00:03:23.480",
+      "text": "I'm still, Councillor Silly's having technical difficulty still."
+    },
+    {
+      "index": 7,
+      "start": "00:03:23.480",
+      "end": "00:04:13.570",
+      "text": "Thank you, Councillor Silly."
+    },
+    {
+      "index": 8,
+      "start": "00:04:13.570",
+      "end": "00:04:16.930",
+      "text": "Are we still good to go, Chair?"
+    },
+    {
+      "index": 9,
+      "start": "00:04:16.930",
+      "end": "00:04:19.160",
+      "text": "Mr. Mayor, we're having some technical difficulties"
+    },
+    {
+      "index": 10,
+      "start": "00:04:19.160",
+      "end": "00:04:22.870",
+      "text": "with eScribe and we are trying to fix them."
+    },
+    {
+      "index": 11,
+      "start": "00:04:22.870",
+      "end": "00:04:25.050",
+      "text": "Thank you, one of the few times I've not,"
+    },
+    {
+      "index": 12,
+      "start": "00:04:25.050",
+      "end": "00:04:27.310",
+      "text": "so I was ready."
+    },
+    {
+      "index": 13,
+      "start": "00:04:27.310",
+      "end": "00:04:30.440",
+      "text": "It is the remote attendees are doing okay"
+    },
+    {
+      "index": 14,
+      "start": "00:04:30.440",
+      "end": "00:04:34.830",
+      "text": "and it is the in person in City Hall here chambers"
+    },
+    {
+      "index": 15,
+      "start": "00:04:34.830",
+      "end": "00:04:36.880",
+      "text": "that's having a problem."
+    },
+    {
+      "index": 16,
+      "start": "00:04:36.880",
+      "end": "00:06:33.200",
+      "text": "Thank you."
+    },
+    {
+      "index": 17,
+      "start": "00:06:33.200",
+      "end": "00:06:35.140",
+      "text": "Chair, I just have to step out of the meeting."
+    },
+    {
+      "index": 18,
+      "start": "00:06:35.140",
+      "end": "00:06:37.620",
+      "text": "Something came up, so I'll try to be back."
+    },
+    {
+      "index": 19,
+      "start": "00:06:37.620",
+      "end": "00:06:40.900",
+      "text": "Hopefully there's still quorum."
+    },
+    {
+      "index": 20,
+      "start": "00:06:40.900",
+      "end": "00:06:41.700",
+      "text": "We do have quorum."
+    },
+    {
+      "index": 21,
+      "start": "00:06:41.700",
+      "end": "00:06:44.430",
+      "text": "Thank you, Councillor Silly."
+    },
+    {
+      "index": 22,
+      "start": "00:06:44.430",
+      "end": "00:07:44.670",
+      "text": "Thank you, take care."
+    },
+    {
+      "index": 23,
+      "start": "00:07:44.670",
+      "end": "00:07:46.910",
+      "text": "So just for members of the public who might"
+    },
+    {
+      "index": 24,
+      "start": "00:07:46.910",
+      "end": "00:07:50.020",
+      "text": "be signed into our YouTube video,"
+    },
+    {
+      "index": 25,
+      "start": "00:07:50.020",
+      "end": "00:07:52.770",
+      "text": "we are having some technical difficulties"
+    },
+    {
+      "index": 26,
+      "start": "00:07:52.770",
+      "end": "00:07:54.130",
+      "text": "and we are trying to resolve those"
+    },
+    {
+      "index": 27,
+      "start": "00:07:54.130",
+      "end": "00:07:56.290",
+      "text": "and get the meeting started."
+    },
+    {
+      "index": 28,
+      "start": "00:07:56.290",
+      "end": "00:08:28.200",
+      "text": "Thanks for your patience."
+    },
+    {
+      "index": 29,
+      "start": "00:08:28.200",
+      "end": "00:08:29.970",
+      "text": "We will get started."
+    },
+    {
+      "index": 30,
+      "start": "00:08:29.970",
+      "end": "00:08:33.510",
+      "text": "We are still having difficulties with eScribe."
+    },
+    {
+      "index": 31,
+      "start": "00:08:33.510",
+      "end": "00:08:38.400",
+      "text": "So we will do verbal votes like we used to do in the old days"
+    },
+    {
+      "index": 32,
+      "start": "00:08:38.400",
+      "end": "00:08:41.110",
+      "text": "when we first started these virtual meetings."
+    },
+    {
+      "index": 33,
+      "start": "00:08:41.110",
+      "end": "00:08:43.540",
+      "text": "Takes a little bit longer, but that's okay."
+    },
+    {
+      "index": 34,
+      "start": "00:08:43.540",
+      "end": "00:08:44.870",
+      "text": "So I will call the first meeting"
+    },
+    {
+      "index": 35,
+      "start": "00:08:44.870",
+      "end": "00:08:48.440",
+      "text": "of the community and protective services committee to order."
+    },
+    {
+      "index": 36,
+      "start": "00:08:48.440",
+      "end": "00:08:52.150",
+      "text": "It is a virtual meeting during the COVID emergency"
+    },
+    {
+      "index": 37,
+      "start": "00:08:52.150",
+      "end": "00:08:54.590",
+      "text": "and please check the city website for current details"
+    },
+    {
+      "index": 38,
+      "start": "00:08:54.590",
+      "end": "00:08:58.600",
+      "text": "of COVID-19 service impact and meetings can be viewed"
+    },
+    {
+      "index": 39,
+      "start": "00:08:58.600",
+      "end": "00:09:02.060",
+      "text": "via live streaming on YouTube and the city website,"
+    },
+    {
+      "index": 40,
+      "start": "00:09:02.060",
+      "end": "00:09:05.880",
+      "text": "although I'm not sure about the city website today."
+    },
+    {
+      "index": 41,
+      "start": "00:09:05.880",
+      "end": "00:09:09.310",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 42,
+      "start": "00:09:09.310",
+      "end": "00:09:11.940",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 43,
+      "start": "00:09:11.940",
+      "end": "00:09:15.410",
+      "text": "for council, standing or advisory committee meetings"
+    },
+    {
+      "index": 44,
+      "start": "00:09:15.410",
+      "end": "00:09:17.520",
+      "text": "and information upon request."
+    },
+    {
+      "index": 45,
+      "start": "00:09:17.520",
+      "end": "00:09:19.600",
+      "text": "To make a request for any city service,"
+    },
+    {
+      "index": 46,
+      "start": "00:09:19.600",
+      "end": "00:09:24.790",
+      "text": "please contact accessibility@london.ca or 509-661-2489"
+    },
+    {
+      "index": 47,
+      "start": "00:09:24.790",
+      "end": "00:09:29.090",
+      "text": "extension 2425."
+    },
+    {
+      "index": 48,
+      "start": "00:09:29.090",
+      "end": "00:09:31.210",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 49,
+      "start": "00:09:31.210",
+      "end": "00:09:38.680",
+      "text": "please contact CPSC@london.ca."
+    },
+    {
+      "index": 50,
+      "start": "00:09:38.680",
+      "end": "00:09:43.300",
+      "text": "I'm going to Ms. Westlake Power right now."
+    },
+    {
+      "index": 51,
+      "start": "00:09:43.300",
+      "end": "00:09:46.040",
+      "text": "Thank you. Before we get any further, Madam Chair,"
+    },
+    {
+      "index": 52,
+      "start": "00:09:46.040",
+      "end": "00:09:50.030",
+      "text": "I'd just like to let folks know that the remote access"
+    },
+    {
+      "index": 53,
+      "start": "00:09:50.030",
+      "end": "00:09:53.230",
+      "text": "to eScribe appears to be working fine"
+    },
+    {
+      "index": 54,
+      "start": "00:09:53.230",
+      "end": "00:09:56.310",
+      "text": "and the streaming functionality is working."
+    },
+    {
+      "index": 55,
+      "start": "00:09:56.310",
+      "end": "00:10:00.000",
+      "text": "So I will be able to administer eScribe remotely."
+    },
+    {
+      "index": 56,
+      "start": "00:10:00.000",
+      "end": "00:10:03.390",
+      "text": "So except for those in chambers"
+    },
+    {
+      "index": 57,
+      "start": "00:10:03.390",
+      "end": "00:10:05.750",
+      "text": "where I will register the verbal votes"
+    },
+    {
+      "index": 58,
+      "start": "00:10:05.750",
+      "end": "00:10:08.390",
+      "text": "that everybody else should be able to see the votes come up."
+    },
+    {
+      "index": 59,
+      "start": "00:10:08.390",
+      "end": "00:10:10.760",
+      "text": "So thank you very much."
+    },
+    {
+      "index": 60,
+      "start": "00:10:10.760",
+      "end": "00:10:12.450",
+      "text": "Thank you, Madam Deputy Clerk."
+    },
+    {
+      "index": 61,
+      "start": "00:10:12.450",
+      "end": "00:10:16.480",
+      "text": "So remote attendees can vote through eScribe."
+    },
+    {
+      "index": 62,
+      "start": "00:10:16.480",
+      "end": "00:10:17.900",
+      "text": "I'm Councillor Hamou and I,"
+    },
+    {
+      "index": 63,
+      "start": "00:10:17.900",
+      "end": "00:10:20.520",
+      "text": "who are the only committee members here in chambers,"
+    },
+    {
+      "index": 64,
+      "start": "00:10:20.520",
+      "end": "00:10:26.260",
+      "text": "we will vote by hand and record our votes verbally actually."
+    },
+    {
+      "index": 65,
+      "start": "00:10:26.260",
+      "end": "00:10:28.870",
+      "text": "With that, I will check to see if there are any disclosures"
+    },
+    {
+      "index": 66,
+      "start": "00:10:28.870",
+      "end": "00:10:34.290",
+      "text": "of pecuniary interest."
+    },
+    {
+      "index": 67,
+      "start": "00:10:34.290",
+      "end": "00:10:36.990",
+      "text": "Dangnan, the first order of business"
+    },
+    {
+      "index": 68,
+      "start": "00:10:36.990",
+      "end": "00:10:39.360",
+      "text": "is the election of the vice chair."
+    },
+    {
+      "index": 69,
+      "start": "00:10:39.360",
+      "end": "00:10:42.940",
+      "text": "For the term ending November 14th, 2022,"
+    },
+    {
+      "index": 70,
+      "start": "00:10:42.940",
+      "end": "00:10:44.730",
+      "text": "I'm gonna look to the committee to see if anybody"
+    },
+    {
+      "index": 71,
+      "start": "00:10:44.730",
+      "end": "00:10:49.220",
+      "text": "is interested in serving as vice chair."
+    },
+    {
+      "index": 72,
+      "start": "00:10:49.220",
+      "end": "00:10:52.230",
+      "text": "We have a hard no here in council chambers"
+    },
+    {
+      "index": 73,
+      "start": "00:10:52.230",
+      "end": "00:11:02.560",
+      "text": "and we weren't virtually interested."
+    },
+    {
+      "index": 74,
+      "start": "00:11:02.560",
+      "end": "00:11:04.940",
+      "text": "The chair to Councillor Hamou for a second."
+    },
+    {
+      "index": 75,
+      "start": "00:11:04.940",
+      "end": "00:11:07.700",
+      "text": "Sure."
+    },
+    {
+      "index": 76,
+      "start": "00:11:07.700",
+      "end": "00:11:09.880",
+      "text": "I'm not sure if you're willing,"
+    },
+    {
+      "index": 77,
+      "start": "00:11:09.880",
+      "end": "00:11:12.590",
+      "text": "but I would like to nominate Councillor Halmer"
+    },
+    {
+      "index": 78,
+      "start": "00:11:12.590",
+      "end": "00:11:15.900",
+      "text": "for vice chair for this committee for this term."
+    },
+    {
+      "index": 79,
+      "start": "00:11:15.900",
+      "end": "00:11:20.870",
+      "text": "Would you be interested in Councillor Halmer?"
+    },
+    {
+      "index": 80,
+      "start": "00:11:20.870",
+      "end": "00:11:25.250",
+      "text": "Exactly a stampede of people wanting to be vice chair."
+    },
+    {
+      "index": 81,
+      "start": "00:11:25.250",
+      "end": "00:11:26.660",
+      "text": "Yes, I'm happy to do it."
+    },
+    {
+      "index": 82,
+      "start": "00:11:26.660",
+      "end": "00:11:32.990",
+      "text": "If the committee would like me to do that, there's no problem."
+    },
+    {
+      "index": 83,
+      "start": "00:11:32.990",
+      "end": "00:11:35.610",
+      "text": "Okay, so I'm not in the chair, but I've moved to that"
+    },
+    {
+      "index": 84,
+      "start": "00:11:35.610",
+      "end": "00:11:38.290",
+      "text": "and I'll look to the presiding officer"
+    },
+    {
+      "index": 85,
+      "start": "00:11:38.290",
+      "end": "00:11:40.360",
+      "text": "to conduct the election."
+    },
+    {
+      "index": 86,
+      "start": "00:11:40.360",
+      "end": "00:11:47.370",
+      "text": "Chair, okay, Mayor, Mayor Holder."
+    },
+    {
+      "index": 87,
+      "start": "00:11:47.370",
+      "end": "00:11:48.330",
+      "text": "Thanks, Chair."
+    },
+    {
+      "index": 88,
+      "start": "00:11:48.330",
+      "end": "00:11:51.240",
+      "text": "That sounds so good, Councillor Abu."
+    },
+    {
+      "index": 89,
+      "start": "00:11:51.240",
+      "end": "00:11:54.140",
+      "text": "I was going to second, but I think Councillor Cassidy,"
+    },
+    {
+      "index": 90,
+      "start": "00:11:54.140",
+      "end": "00:11:55.280",
+      "text": "if there hasn't been a second,"
+    },
+    {
+      "index": 91,
+      "start": "00:11:55.280",
+      "end": "00:11:57.150",
+      "text": "I'm not sure I'm pleased to do that."
+    },
+    {
+      "index": 92,
+      "start": "00:11:57.150",
+      "end": "00:11:59.920",
+      "text": "And with thanks to Councillor Halmer"
+    },
+    {
+      "index": 93,
+      "start": "00:11:59.920",
+      "end": "00:12:02.100",
+      "text": "for accepting the roll."
+    },
+    {
+      "index": 94,
+      "start": "00:12:02.100",
+      "end": "00:12:06.320",
+      "text": "Yes, we do accept the second, your second."
+    },
+    {
+      "index": 95,
+      "start": "00:12:06.320",
+      "end": "00:12:07.910",
+      "text": "So let's call vote."
+    },
+    {
+      "index": 96,
+      "start": "00:12:07.910",
+      "end": "00:12:14.650",
+      "text": "All those in favor of having, oh, sorry, okay."
+    },
+    {
+      "index": 97,
+      "start": "00:12:14.650",
+      "end": "00:12:16.340",
+      "text": "So Councillor Hamou, so they can,"
+    },
+    {
+      "index": 98,
+      "start": "00:12:16.340",
+      "end": "00:12:18.230",
+      "text": "they remote attendees can vote on E-Scribe"
+    },
+    {
+      "index": 99,
+      "start": "00:12:18.230",
+      "end": "00:12:21.670",
+      "text": "and you and I will vote live in person"
+    },
+    {
+      "index": 100,
+      "start": "00:12:21.670",
+      "end": "00:12:25.360",
+      "text": "and I'm indicating that my vote is a yes."
+    },
+    {
+      "index": 101,
+      "start": "00:12:25.360",
+      "end": "00:12:28.300",
+      "text": "Mine is also a yes."
+    },
+    {
+      "index": 102,
+      "start": "00:12:28.300",
+      "end": "00:12:30.730",
+      "text": "Chair, in the spirit of the old days,"
+    },
+    {
+      "index": 103,
+      "start": "00:12:30.730",
+      "end": "00:12:34.150",
+      "text": "I will not be voting E-Scribe tonight minus a yes."
+    },
+    {
+      "index": 104,
+      "start": "00:12:34.150",
+      "end": "00:12:38.410",
+      "text": "Thank you."
+    },
+    {
+      "index": 105,
+      "start": "00:12:38.410",
+      "end": "00:12:43.230",
+      "text": "Closing the vote and the motion is passed five to zero."
+    },
+    {
+      "index": 106,
+      "start": "00:12:43.230",
+      "end": "00:12:45.590",
+      "text": "Thank you, thank you."
+    },
+    {
+      "index": 107,
+      "start": "00:12:45.590",
+      "end": "00:12:50.690",
+      "text": "And I will pass it back to Councillor Cassidy."
+    },
+    {
+      "index": 108,
+      "start": "00:12:50.690",
+      "end": "00:12:52.540",
+      "text": "Thank you, Councillor Hamou."
+    },
+    {
+      "index": 109,
+      "start": "00:12:52.540",
+      "end": "00:12:55.120",
+      "text": "Excellent, so that's out of the way."
+    },
+    {
+      "index": 110,
+      "start": "00:12:55.120",
+      "end": "00:12:57.350",
+      "text": "Congratulations and thank you for serving"
+    },
+    {
+      "index": 111,
+      "start": "00:12:57.350",
+      "end": "00:12:59.430",
+      "text": "as vice chair, Councillor Halmer."
+    },
+    {
+      "index": 112,
+      "start": "00:12:59.430",
+      "end": "00:13:01.180",
+      "text": "I'm gonna go to the consent items."
+    },
+    {
+      "index": 113,
+      "start": "00:13:01.180",
+      "end": "00:13:02.510",
+      "text": "There are five items."
+    },
+    {
+      "index": 114,
+      "start": "00:13:02.510",
+      "end": "00:13:09.320",
+      "text": "Would any member like to pull any of the consent items?"
+    },
+    {
+      "index": 115,
+      "start": "00:13:09.320",
+      "end": "00:13:11.440",
+      "text": "Not seeing any interest in pulling those."
+    },
+    {
+      "index": 116,
+      "start": "00:13:11.440",
+      "end": "00:13:13.340",
+      "text": "So I'll look for a mover and a seconder"
+    },
+    {
+      "index": 117,
+      "start": "00:13:13.340",
+      "end": "00:13:15.150",
+      "text": "to put the entire consent agenda on the floor,"
+    },
+    {
+      "index": 118,
+      "start": "00:13:15.150",
+      "end": "00:13:16.210",
+      "text": "moved by Councillor Hillier,"
+    },
+    {
+      "index": 119,
+      "start": "00:13:16.210",
+      "end": "00:13:18.710",
+      "text": "seconded by Councillor Halmer."
+    },
+    {
+      "index": 120,
+      "start": "00:13:18.710",
+      "end": "00:13:21.950",
+      "text": "Any comment or discussion on those items?"
+    },
+    {
+      "index": 121,
+      "start": "00:13:21.950",
+      "end": "00:13:25.910",
+      "text": "Councillor Hillier."
+    },
+    {
+      "index": 122,
+      "start": "00:13:25.910",
+      "end": "00:13:29.450",
+      "text": "Just one comment on page 4041."
+    },
+    {
+      "index": 123,
+      "start": "00:13:29.450",
+      "end": "00:13:32.180",
+      "text": "The fines if you mess with trees in London."
+    },
+    {
+      "index": 124,
+      "start": "00:13:32.180",
+      "end": "00:13:34.120",
+      "text": "I gotta say, it's very nice to know the forest city"
+    },
+    {
+      "index": 125,
+      "start": "00:13:34.120",
+      "end": "00:13:35.260",
+      "text": "is gonna become the forest city."
+    },
+    {
+      "index": 126,
+      "start": "00:13:35.260",
+      "end": "00:13:38.660",
+      "text": "Again, people don't mess with trees in London."
+    },
+    {
+      "index": 127,
+      "start": "00:13:38.660",
+      "end": "00:13:40.110",
+      "text": "The fines are huge."
+    },
+    {
+      "index": 128,
+      "start": "00:13:40.110",
+      "end": "00:13:43.610",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 129,
+      "start": "00:13:43.610",
+      "end": "00:13:45.190",
+      "text": "Thank you, Councillor Hillier."
+    },
+    {
+      "index": 130,
+      "start": "00:13:45.190",
+      "end": "00:13:50.980",
+      "text": "Any other comments, questions, discussion?"
+    },
+    {
+      "index": 131,
+      "start": "00:13:50.980",
+      "end": "00:13:53.550",
+      "text": "Seeing none, the consent items have all been moved"
+    },
+    {
+      "index": 132,
+      "start": "00:13:53.550",
+      "end": "00:13:55.610",
+      "text": "and seconded, so I will call the vote."
+    },
+    {
+      "index": 133,
+      "start": "00:13:55.610",
+      "end": "00:13:59.460",
+      "text": "Anyone that can vote electronically, please do so."
+    },
+    {
+      "index": 134,
+      "start": "00:13:59.460",
+      "end": "00:14:05.160",
+      "text": "And Councillor, Mr. Mayor, I will--"
+    },
+    {
+      "index": 135,
+      "start": "00:14:05.160",
+      "end": "00:14:06.670",
+      "text": "Thank you, I'll vote yes, Chair, thanks."
+    },
+    {
+      "index": 136,
+      "start": "00:14:06.670",
+      "end": "00:14:09.230",
+      "text": "Okay, thank you, Councillor Hamou."
+    },
+    {
+      "index": 137,
+      "start": "00:14:09.230",
+      "end": "00:14:10.930",
+      "text": "I also vote yes."
+    },
+    {
+      "index": 138,
+      "start": "00:14:10.930",
+      "end": "00:14:27.180",
+      "text": "And I vote yes."
+    },
+    {
+      "index": 139,
+      "start": "00:14:27.180",
+      "end": "00:14:32.450",
+      "text": "Closing the vote, the motion's passed, five to zero."
+    },
+    {
+      "index": 140,
+      "start": "00:14:32.450",
+      "end": "00:14:33.270",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 141,
+      "start": "00:14:33.270",
+      "end": "00:14:37.730",
+      "text": "That was rather quick and not a lot of comment,"
+    },
+    {
+      "index": 142,
+      "start": "00:14:37.730",
+      "end": "00:14:41.020",
+      "text": "but I do wanna say that the 2.4 and 2.5"
+    },
+    {
+      "index": 143,
+      "start": "00:14:41.020",
+      "end": "00:14:42.900",
+      "text": "are really excellent items and I'm glad"
+    },
+    {
+      "index": 144,
+      "start": "00:14:42.900",
+      "end": "00:14:45.370",
+      "text": "that those passed unanimously."
+    },
+    {
+      "index": 145,
+      "start": "00:14:45.370",
+      "end": "00:14:49.290",
+      "text": "Of course, they would, did not expect anything otherwise."
+    },
+    {
+      "index": 146,
+      "start": "00:14:49.290",
+      "end": "00:14:51.080",
+      "text": "There are no scheduled items."
+    },
+    {
+      "index": 147,
+      "start": "00:14:51.080",
+      "end": "00:14:53.690",
+      "text": "There are no items for direction."
+    },
+    {
+      "index": 148,
+      "start": "00:14:53.690",
+      "end": "00:14:55.770",
+      "text": "There is a deferred matters list."
+    },
+    {
+      "index": 149,
+      "start": "00:14:55.770",
+      "end": "00:14:58.050",
+      "text": "Is there any discussion, comment or questions"
+    },
+    {
+      "index": 150,
+      "start": "00:14:58.050",
+      "end": "00:15:02.760",
+      "text": "on the deferred matters list?"
+    },
+    {
+      "index": 151,
+      "start": "00:15:02.760",
+      "end": "00:15:05.320",
+      "text": "I'm gonna move her and seconder for that."
+    },
+    {
+      "index": 152,
+      "start": "00:15:05.320",
+      "end": "00:15:09.530",
+      "text": "Moved by Councillor Hillier, seconded by Councillor Hamou."
+    },
+    {
+      "index": 153,
+      "start": "00:15:09.530",
+      "end": "00:15:14.990",
+      "text": "I'm gonna call the question, Mr. Mayor."
+    },
+    {
+      "index": 154,
+      "start": "00:15:14.990",
+      "end": "00:15:17.280",
+      "text": "Thanks, Chair."
+    },
+    {
+      "index": 155,
+      "start": "00:15:17.280",
+      "end": "00:15:19.190",
+      "text": "Thank you, Councillor Hamou."
+    },
+    {
+      "index": 156,
+      "start": "00:15:19.190",
+      "end": "00:15:20.500",
+      "text": "I'm a yes as well."
+    },
+    {
+      "index": 157,
+      "start": "00:15:20.500",
+      "end": "00:15:28.020",
+      "text": "Thank you, and I vote yes."
+    },
+    {
+      "index": 158,
+      "start": "00:15:28.020",
+      "end": "00:15:33.210",
+      "text": "Closing the vote and the motion is passed, five to zero."
+    },
+    {
+      "index": 159,
+      "start": "00:15:33.210",
+      "end": "00:15:37.460",
+      "text": "This is for 10s, good things to come for this committee."
+    },
+    {
+      "index": 160,
+      "start": "00:15:37.460",
+      "end": "00:15:39.030",
+      "text": "It's been an extremely efficient meeting"
+    },
+    {
+      "index": 161,
+      "start": "00:15:39.030",
+      "end": "00:15:41.220",
+      "text": "despite the technical difficulties."
+    },
+    {
+      "index": 162,
+      "start": "00:15:41.220",
+      "end": "00:15:45.270",
+      "text": "I would look for a motion to adjourn."
+    },
+    {
+      "index": 163,
+      "start": "00:15:45.270",
+      "end": "00:15:48.690",
+      "text": "Moved by Councillor Hillier, and seconded by Councillor Hamou."
+    },
+    {
+      "index": 164,
+      "start": "00:15:48.690",
+      "end": "00:15:58.270",
+      "text": "I'll do a hand before we go ahead, Mr. Mayor."
+    },
+    {
+      "index": 165,
+      "start": "00:15:58.270",
+      "end": "00:15:59.750",
+      "text": "We lost your audio, Mr. Mayor,"
+    },
+    {
+      "index": 166,
+      "start": "00:15:59.750",
+      "end": "00:16:02.400",
+      "text": "just as you were about to say something very profound."
+    },
+    {
+      "index": 167,
+      "start": "00:16:02.400",
+      "end": "00:16:03.410",
+      "text": "It was profound, Chair."
+    },
+    {
+      "index": 168,
+      "start": "00:16:03.410",
+      "end": "00:16:06.690",
+      "text": "I just wanted to compliment the Chair on her direction"
+    },
+    {
+      "index": 169,
+      "start": "00:16:06.690",
+      "end": "00:16:10.740",
+      "text": "on moving this meeting along expeditiously."
+    },
+    {
+      "index": 170,
+      "start": "00:16:10.740",
+      "end": "00:16:11.760",
+      "text": "Thank you, Mr. Mayor."
+    },
+    {
+      "index": 171,
+      "start": "00:16:11.760",
+      "end": "00:16:13.860",
+      "text": "And I'll call that vote."
+    },
+    {
+      "index": 172,
+      "start": "00:16:13.860",
+      "end": "00:16:15.800",
+      "text": "All those in favor of adjournment."
+    },
+    {
+      "index": 173,
+      "start": "00:16:15.800",
+      "end": "00:16:16.580",
+      "text": "I'll vote yes."
+    },
+    {
+      "index": 174,
+      "start": "00:16:16.580",
+      "end": "00:16:20.410",
+      "text": "Thank you."
+    },
+    {
+      "index": 175,
+      "start": "00:16:20.410",
+      "end": "00:16:23.810",
+      "text": "That motion's carried, thank you."
+    },
+    {
+      "index": 176,
+      "start": "00:16:23.810",
+      "end": "00:16:25.130",
+      "text": "Thanks, everybody, and thanks for dealing"
+    },
+    {
+      "index": 177,
+      "start": "00:16:25.130",
+      "end": "00:16:28.090",
+      "text": "with those technical problems to the clerks."
+    },
+    {
+      "index": 178,
+      "start": "00:16:28.090",
+      "end": "00:16:29.530",
+      "text": "All of the clerks, thanks so much."
+    },
+    {
+      "index": 179,
+      "start": "00:16:29.530",
+      "end": "00:16:30.400",
+      "text": "Have a great afternoon."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Community%20and%20Protective%20Services%20Committee/2021/12-14/.transcript.srt"
+}

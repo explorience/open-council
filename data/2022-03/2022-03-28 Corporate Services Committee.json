@@ -1,1 +1,5571 @@
-{"title": null, "datetime": "2022-03-28 12:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=20643770-f68e-4f0e-bf6b-f693e3a1e2b2&Agenda=PostMinutes&lang=English", "meeting_type": "Corporate Services Committee", "bills": null, "present": ["S. Lewis", "M. Cassidy", "J. Morgan", "M. Hamou", "J. Fyfe-Millar", "E. Holder"], "also_present": ["J. Taylor", "B. Westlake-Power"], "remote_attendance": ["A. Hopkins", "S. Hillier", "L. Livingstone", "A. Barbon", "B. Card", "H. Chapman", "I. Collins", "S. Corman", "J. Dann", "J. Davison", "S. Denomy", "M. Goldrup", "A. Hagan", "D. MacRae", "S. Mathers", "J. Mc Millan", "K. Murray", "J. Raycroft", "K. Scherr", "M. Schulthess", "K. Shahata", "S. Thompson", "M. Tomazincic", "B. Warner", "P. Yeoman"], "content": {"string": "The meeting is called to order at 12:00 PM, it being noted that Mayor E. Holder and Councillor M. Cassidy were in remote attendance.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That the Consent Items BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Cassidy", "J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Corporate Asset Management Plan Development (RFP 2022-049)", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to RFP 2022-049, Corporate Asset Management Plan Development:\n\n\n\na)\u00a0 \u00a0 the proposal submitted by GM BluePlan Engineering Limited, Royal Centre, 650 Woodlawn Road W., Guelph, Ontario N1K 1B8, for the provision of professional services with respect to the development of the updated Corporate Asset Management Plan at their proposed fees of $217,195.00 excluding HST, BE ACCEPTED in accordance with section 12.0 of the Procurement of Goods and Services Policy;\n\n\n\nb)\u00a0 \u00a0 the financing for the project BE APPROVED as set out in the Source of Financing Report as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d;\n\n\n\nc) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with the submitted proposal; \n\n\n\nd) \u00a0 \u00a0the approval hereby given BE CONDITIONAL upon the City of London entering into a formal agreement or having a purchase order, or contract record relating to the subject matter of this approval; and,\n\n\n\ne) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract, statement of work or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Corporate Asset Management Plan Development", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91276", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "2022 Debenture Issuance", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2022 Debenture Issuance:\n\n\n\na)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to proceed with the issuance of debentures in the capital markets upon favourable market conditions to provide permanent financing for capital works in an amount not to exceed $21,000,000; and,\n\n\n\nb)\u00a0 \u00a0 the Civic Administration BE INSTRUCTED to schedule and convene an appropriately timed special Corporate Services Committee meeting upon successful placement of the City\u2019s debt in the capital markets to ensure adequate time for Council approval while adhering to the necessary financial settlement requirements.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - 2022 Debenture Issuance", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91274", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Year 2022 Tax Policy", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to property taxation for 2022:\n\n\n\na) \u00a0 \u00a0 \u00a0 \u00a0 the proposed by-law as appended to the staff report dated March 28 2022 as Appendix \"A\", being a by-law to set tax ratios in the various property classes, in accordance with Sub-sections 308(4) and 308.1(4) of the Municipal Act, 2001 BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, it being noted that the 2022 Municipal Tax Ratio By-Law has been prepared reflecting no change to tax ratios; and,\n\n\n\nb) \u00a0 \u00a0 \u00a0 \u00a0 the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \"B\", being a by-law to set municipal tax rates for the various property classes, in accordance with Sections 307 and 312 of the Municipal Act, 2001 BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Year 2022 Tax Policy", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91281", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Year 2022 Education Tax Rates", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022 to levy education tax rates for 2022.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Year 2022 Education Tax Rates", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91280", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "2021 Compliance Report in Accordance with the Procurement of Goods and Services Policy", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2021 Compliance Report in accordance with the Procurement of Goods and Services Policy: \n\n\n\na)\u00a0 \u00a0 as per the Procurement of Goods and Services Policy, Section 8.11 (c), an annual report of total payments where a supplier has invoiced the City a cumulative total value of $100,000 or more in a calendar year, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d;\n\n\n\nb)\u00a0 \u00a0 the administrative contract awards for Professional Consulting Services with an aggregate total greater than $100,000, as per Section 15.1 (g) of the Procurement of Goods and Services Policy, decentralized from Purchasing and Supply that have been reported to the Manager of Purchasing and Supply and have been reviewed for compliance to the Procurement of Goods and Services Policy, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cB\u201d;\n\n\n\nc)\u00a0 \u00a0 the list of administrative contract awards for Tenders with a value up to $3,000,000 that do not have an irregular result, as per Section 13.2 (c) of the Procurement of Goods and Services Policy, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cC\u201d;\u00a0\n\n\n\nd)\u00a0 \u00a0 the City Treasurer, or delegate, BE DELEGATED authority to, at any time, refer questions concerning compliance with the Procurement of Goods and Services Policy to the City\u2019s internal auditor; and,", "__class__": "Paragraph"}, {"string": "e)\u00a0 \u00a0 the City Treasurer, or delegate, BE AUTHORIZED to ratify and confirm completed awards or purchases between $15,000 and $50,000 where the City Treasurer or delegate is of the opinion that the awards or purchases were in the best interests of the Corporation.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - 2021 Compliance Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91282", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Elected Officials and Appointed Citizen Members 2022 Remuneration", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated March 28, 2022, entitled \u201cElected Officials and Appointed Citizen Members 2022 Remuneration\u201d BE RECEIVED for information.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Elected Officials and Appointed Citizen Members Remuneration", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91278", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Procurement in Emergencies Update 4 - COVID -19", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, as per section 14.2 of the Procurement of Goods and Services Policy, a report of Emergency non-competitive individual purchases which exceed $50,000 (pre-taxes), that the City has made from the date of February 1, 2021 to January 31, 2022 due to COVID-19, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Procurement in Emergencies Update  Covid-19", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91279", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "8": {"title": "KPMG Clara File Sharing Tool", "number": "8", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on April 12, 2022, for the Mayor and City Clerk to execute the KPMG Clara Exhibit to member Firm Engagement Letter / Terms.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - KPMG CLARA File Sharing Tool", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91277", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Respectful Workplace Policy and Workplace Violence Prevention Procedure Annual Report - January 1, 2021 to December 31, 2021", "number": "9", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Director, People Services, and the concurrence of the Deputy City Manager, Enterprise Supports, the Annual Report regarding the Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) and Workplace Violence Prevention Procedure BE RECEIVED for information purposes.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Respectful Workplace Policy", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91275", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Association of Municipalities of Ontario (AMO) Board Update", "number": "10", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Fyfe-Millar", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That the communication dated February 28, 2022 from Councillor A. Hopkins regarding the Association of Municipalities of Ontario (AMO) Board Update\u00a0 BE RECEIVED for information.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Submission - AMO", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91273", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Application - Issuance of Proclamation - Guillain-Barre Syndrome (GBS) and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Awareness Month", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Hamou", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Fyfe-Millar", "__class__": "Mover"}, "motion_texts": [{"string": "That based on the application dated March 1, 2022, from GBS-CIDP Foundation of Canada, the month of May, 2022 BE PROCLAIMED Guillain-Barr\u00e9 Syndrome (GBS) and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Awareness Month.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Cassidy", "J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Submission - Proclamation - GBS and CIDP Month", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91272", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Application - Issuance of Proclamation - Falun Dafa Week 2022", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Cassidy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Fyfe-Millar", "__class__": "Mover"}, "motion_texts": [{"string": "That based on the application dated March 15, 2022 from Falun Dafa Association Canada, May 13, 2022 BE PROCLAIMED as Falun Dafa Week 2022.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Cassidy", "J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Submission - Proclamation - Falun Dafa", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91271", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Appeal of Flags at City Hall Policy - Section 4.3(b)(ii)", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by E. Holder", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Hamou", "__class__": "Mover"}, "motion_texts": [{"string": "That the correspondence from P. Zhang with respect to a request to raise a flag to celebrate Falun Dafa day, BE RECEIVED and NO ACTION BE TAKEN.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}, {"vote": "Nays:", "voters": ["M. Cassidy"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 1)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [], "items": {"1": {"title": "(ADDED) Application - Issuance of Proclamation - World Press Freedom Day", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Cassidy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That based on the application dated March 22, 2022 from ink-stainedwretches.org, May 3, 2022 BE PROCLAIMED World Press Freedom Day.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Cassidy", "J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Submissin - Proclamation-World Press Freedom Day", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91283", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "(ADDED) Court Security and Prisoner Transportation Program Transfer Payment Agreement", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Hamou", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Fyfe-Millar", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting on April 12, 2022 to:\n\n\n\na) \u00a0 \u00a0approve the Ontario Transfer Payment Agreement between Her Majesty the Queen in right of Ontario as represented by the Solicitor General and The Corporation of the City of London for the provision of funding for the Court Security and Prisoner Transportation Program (\u201cAgreement\u201d) appended as Schedule \u201c1\u201d to the staff report;\u00a0\n\n\n\nb) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the Agreement; \n\n\n\nc) \u00a0 \u00a0authorize the Deputy City Manager, Finance Supports to approve any future amending agreements between Her Majesty the Queen in Right of Ontario as represented by the Solicitor General and The Corporation of the City of London with respect to the Court Security and Prisoner Transportation Program (\u201cCSPT\u201d);\n\n\n\nd) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute any future amending agreements between Her Majesty the Queen in Right of Ontario as represented by the Solicitor General and The Corporation of the City of London with respect to the Court Security and Prisoner Transportation Program (\u201cCSPT\u201d) approved by the Deputy City Manager, Finance Supports; and,\n\n\n\ne) \u00a0 \u00a0authorize the Deputy City Manager, Finance Supports (or designate) to execute any reports required by the province under the Agreement.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Cassidy", "J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Court Security and Prisoner Transportation Program", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91284", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "(ADDED) Election Sign By-law Update", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Cassidy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022 to repeal By-law No. E-185-537, being the \u201cElection Sign By-law\u201d and to replace it with a new Election Sign By-law.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Cassidy", "J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-03-28 Staff Report - Election Sign By-law Update", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91285", "date": "2022-03-28 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential (Enclosed for Members only.)", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Hamou", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Cassidy", "__class__": "Mover"}, "motion_texts": [{"string": "That the Corporate Services Committee convene In Closed Session to consider the following:", "__class__": "Paragraph"}, {"string": "6.1 \u00a0 \u00a0Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations", "__class__": "Paragraph"}, {"string": "A matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.", "__class__": "Paragraph"}, {"string": "6.2 \u00a0 \u00a0Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations", "__class__": "Paragraph"}, {"string": "A matter pertaining to the proposed or pending acquisition of building and assets by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.", "__class__": "Paragraph"}, {"string": "6.3 \u00a0 \u00a0Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations", "__class__": "Paragraph"}, {"string": "A matter pertaining to the proposed or pending acquisition of building and assets by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.", "__class__": "Paragraph"}, {"string": "6.4 \u00a0 \u00a0Litigation/Potential Litigation / Solicitor-Client Privileged Advice", "__class__": "Paragraph"}, {"string": "A matter pertaining to litigation or potential litigation and advice that is subject to solicitor-client privilege, including communications necessary for that purpose and directions and instructions to officers and employees or agents of the municipality.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Cassidy", "J. Morgan", "S. Lewis", "E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (6 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Corporate Services Committee convenes In Closed Session from 12:38 PM to 1:13 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Cassidy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Fyfe-Millar", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 1:16 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2022-03-28 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2022-03-28 12:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=20643770-f68e-4f0e-bf6b-f693e3a1e2b2&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Corporate Services Committee",
+  "bills": null,
+  "present": [
+    "S. Lewis",
+    "M. Cassidy",
+    "J. Morgan",
+    "M. Hamou",
+    "J. Fyfe-Millar",
+    "E. Holder"
+  ],
+  "also_present": [
+    "J. Taylor",
+    "B. Westlake-Power"
+  ],
+  "remote_attendance": [
+    "A. Hopkins",
+    "S. Hillier",
+    "L. Livingstone",
+    "A. Barbon",
+    "B. Card",
+    "H. Chapman",
+    "I. Collins",
+    "S. Corman",
+    "J. Dann",
+    "J. Davison",
+    "S. Denomy",
+    "M. Goldrup",
+    "A. Hagan",
+    "D. MacRae",
+    "S. Mathers",
+    "J. Mc Millan",
+    "K. Murray",
+    "J. Raycroft",
+    "K. Scherr",
+    "M. Schulthess",
+    "K. Shahata",
+    "S. Thompson",
+    "M. Tomazincic",
+    "B. Warner",
+    "P. Yeoman"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 12:00 PM, it being noted that Mayor E. Holder and Councillor M. Cassidy were in remote attendance.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-03-28 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by J. Fyfe-Millar",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by M. Hamou",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Consent Items BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "M. Cassidy",
+                  "J. Morgan",
+                  "S. Lewis",
+                  "E. Holder",
+                  "J. Fyfe-Millar,M. Hamou"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (6 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "Corporate Asset Management Plan Development (RFP 2022-049)",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to RFP 2022-049, Corporate Asset Management Plan Development:\n\n\n\na)\u00a0 \u00a0 the proposal submitted by GM BluePlan Engineering Limited, Royal Centre, 650 Woodlawn Road W., Guelph, Ontario N1K 1B8, for the provision of professional services with respect to the development of the updated Corporate Asset Management Plan at their proposed fees of $217,195.00 excluding HST, BE ACCEPTED in accordance with section 12.0 of the Procurement of Goods and Services Policy;\n\n\n\nb)\u00a0 \u00a0 the financing for the project BE APPROVED as set out in the Source of Financing Report as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d;\n\n\n\nc) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with the submitted proposal; \n\n\n\nd) \u00a0 \u00a0the approval hereby given BE CONDITIONAL upon the City of London entering into a formal agreement or having a purchase order, or contract record relating to the subject matter of this approval; and,\n\n\n\ne) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract, statement of work or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Corporate Asset Management Plan Development",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91276",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "2022 Debenture Issuance",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2022 Debenture Issuance:\n\n\n\na)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to proceed with the issuance of debentures in the capital markets upon favourable market conditions to provide permanent financing for capital works in an amount not to exceed $21,000,000; and,\n\n\n\nb)\u00a0 \u00a0 the Civic Administration BE INSTRUCTED to schedule and convene an appropriately timed special Corporate Services Committee meeting upon successful placement of the City\u2019s debt in the capital markets to ensure adequate time for Council approval while adhering to the necessary financial settlement requirements.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - 2022 Debenture Issuance",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91274",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Year 2022 Tax Policy",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to property taxation for 2022:\n\n\n\na) \u00a0 \u00a0 \u00a0 \u00a0 the proposed by-law as appended to the staff report dated March 28 2022 as Appendix \"A\", being a by-law to set tax ratios in the various property classes, in accordance with Sub-sections 308(4) and 308.1(4) of the Municipal Act, 2001 BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, it being noted that the 2022 Municipal Tax Ratio By-Law has been prepared reflecting no change to tax ratios; and,\n\n\n\nb) \u00a0 \u00a0 \u00a0 \u00a0 the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \"B\", being a by-law to set municipal tax rates for the various property classes, in accordance with Sections 307 and 312 of the Municipal Act, 2001 BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Year 2022 Tax Policy",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91281",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Year 2022 Education Tax Rates",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022 to levy education tax rates for 2022.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Year 2022 Education Tax Rates",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91280",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "2021 Compliance Report in Accordance with the Procurement of Goods and Services Policy",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2021 Compliance Report in accordance with the Procurement of Goods and Services Policy: \n\n\n\na)\u00a0 \u00a0 as per the Procurement of Goods and Services Policy, Section 8.11 (c), an annual report of total payments where a supplier has invoiced the City a cumulative total value of $100,000 or more in a calendar year, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d;\n\n\n\nb)\u00a0 \u00a0 the administrative contract awards for Professional Consulting Services with an aggregate total greater than $100,000, as per Section 15.1 (g) of the Procurement of Goods and Services Policy, decentralized from Purchasing and Supply that have been reported to the Manager of Purchasing and Supply and have been reviewed for compliance to the Procurement of Goods and Services Policy, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cB\u201d;\n\n\n\nc)\u00a0 \u00a0 the list of administrative contract awards for Tenders with a value up to $3,000,000 that do not have an irregular result, as per Section 13.2 (c) of the Procurement of Goods and Services Policy, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cC\u201d;\u00a0\n\n\n\nd)\u00a0 \u00a0 the City Treasurer, or delegate, BE DELEGATED authority to, at any time, refer questions concerning compliance with the Procurement of Goods and Services Policy to the City\u2019s internal auditor; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e)\u00a0 \u00a0 the City Treasurer, or delegate, BE AUTHORIZED to ratify and confirm completed awards or purchases between $15,000 and $50,000 where the City Treasurer or delegate is of the opinion that the awards or purchases were in the best interests of the Corporation.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - 2021 Compliance Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91282",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "Elected Officials and Appointed Citizen Members 2022 Remuneration",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated March 28, 2022, entitled \u201cElected Officials and Appointed Citizen Members 2022 Remuneration\u201d BE RECEIVED for information.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Elected Officials and Appointed Citizen Members Remuneration",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91278",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "Procurement in Emergencies Update 4 - COVID -19",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, as per section 14.2 of the Procurement of Goods and Services Policy, a report of Emergency non-competitive individual purchases which exceed $50,000 (pre-taxes), that the City has made from the date of February 1, 2021 to January 31, 2022 due to COVID-19, BE RECEIVED for information, as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Procurement in Emergencies Update  Covid-19",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91279",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "8": {
+          "title": "KPMG Clara File Sharing Tool",
+          "number": "8",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on April 12, 2022, for the Mayor and City Clerk to execute the KPMG Clara Exhibit to member Firm Engagement Letter / Terms.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - KPMG CLARA File Sharing Tool",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91277",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "9": {
+          "title": "Respectful Workplace Policy and Workplace Violence Prevention Procedure Annual Report - January 1, 2021 to December 31, 2021",
+          "number": "9",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Director, People Services, and the concurrence of the Deputy City Manager, Enterprise Supports, the Annual Report regarding the Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) and Workplace Violence Prevention Procedure BE RECEIVED for information purposes.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Respectful Workplace Policy",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91275",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "10": {
+          "title": "Association of Municipalities of Ontario (AMO) Board Update",
+          "number": "10",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the communication dated February 28, 2022 from Councillor A. Hopkins regarding the Association of Municipalities of Ontario (AMO) Board Update\u00a0 BE RECEIVED for information.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Submission - AMO",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91273",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2022-03-28 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-03-28 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Application - Issuance of Proclamation - Guillain-Barre Syndrome (GBS) and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Awareness Month",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by M. Hamou",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That based on the application dated March 1, 2022, from GBS-CIDP Foundation of Canada, the month of May, 2022 BE PROCLAIMED Guillain-Barr\u00e9 Syndrome (GBS) and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Awareness Month.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Cassidy",
+                      "J. Morgan",
+                      "S. Lewis",
+                      "E. Holder",
+                      "J. Fyfe-Millar,M. Hamou"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (6 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Submission - Proclamation - GBS and CIDP Month",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91272",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Application - Issuance of Proclamation - Falun Dafa Week 2022",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by M. Cassidy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That based on the application dated March 15, 2022 from Falun Dafa Association Canada, May 13, 2022 BE PROCLAIMED as Falun Dafa Week 2022.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Cassidy",
+                      "J. Morgan",
+                      "S. Lewis",
+                      "E. Holder",
+                      "J. Fyfe-Millar,M. Hamou"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (6 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Submission - Proclamation - Falun Dafa",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91271",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Appeal of Flags at City Hall Policy - Section 4.3(b)(ii)",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by E. Holder",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Hamou",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the correspondence from P. Zhang with respect to a request to raise a flag to celebrate Falun Dafa day, BE RECEIVED and NO ACTION BE TAKEN.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "J. Morgan",
+                      "S. Lewis",
+                      "E. Holder",
+                      "J. Fyfe-Millar,M. Hamou"
+                    ]
+                  },
+                  {
+                    "vote": "Nays:",
+                    "voters": [
+                      "M. Cassidy"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 1)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2022-03-28 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "(ADDED) Application - Issuance of Proclamation - World Press Freedom Day",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by M. Cassidy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Morgan",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That based on the application dated March 22, 2022 from ink-stainedwretches.org, May 3, 2022 BE PROCLAIMED World Press Freedom Day.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Cassidy",
+                      "J. Morgan",
+                      "S. Lewis",
+                      "E. Holder",
+                      "J. Fyfe-Millar,M. Hamou"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (6 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Submissin - Proclamation-World Press Freedom Day",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91283",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "(ADDED) Court Security and Prisoner Transportation Program Transfer Payment Agreement",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by M. Hamou",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Fyfe-Millar",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting on April 12, 2022 to:\n\n\n\na) \u00a0 \u00a0approve the Ontario Transfer Payment Agreement between Her Majesty the Queen in right of Ontario as represented by the Solicitor General and The Corporation of the City of London for the provision of funding for the Court Security and Prisoner Transportation Program (\u201cAgreement\u201d) appended as Schedule \u201c1\u201d to the staff report;\u00a0\n\n\n\nb) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the Agreement; \n\n\n\nc) \u00a0 \u00a0authorize the Deputy City Manager, Finance Supports to approve any future amending agreements between Her Majesty the Queen in Right of Ontario as represented by the Solicitor General and The Corporation of the City of London with respect to the Court Security and Prisoner Transportation Program (\u201cCSPT\u201d);\n\n\n\nd) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute any future amending agreements between Her Majesty the Queen in Right of Ontario as represented by the Solicitor General and The Corporation of the City of London with respect to the Court Security and Prisoner Transportation Program (\u201cCSPT\u201d) approved by the Deputy City Manager, Finance Supports; and,\n\n\n\ne) \u00a0 \u00a0authorize the Deputy City Manager, Finance Supports (or designate) to execute any reports required by the province under the Agreement.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Cassidy",
+                      "J. Morgan",
+                      "S. Lewis",
+                      "E. Holder",
+                      "J. Fyfe-Millar,M. Hamou"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (6 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Court Security and Prisoner Transportation Program",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91284",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "(ADDED) Election Sign By-law Update",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by M. Cassidy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Morgan",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022 to repeal By-law No. E-185-537, being the \u201cElection Sign By-law\u201d and to replace it with a new Election Sign By-law.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Cassidy",
+                      "J. Morgan",
+                      "S. Lewis",
+                      "E. Holder",
+                      "J. Fyfe-Millar,M. Hamou"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (6 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-03-28 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-03-28 Staff Report - Election Sign By-law Update",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=91285",
+              "date": "2022-03-28 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2022-03-28 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential (Enclosed for Members only.)",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by M. Hamou",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by M. Cassidy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Corporate Services Committee convene In Closed Session to consider the following:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.1 \u00a0 \u00a0Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.2 \u00a0 \u00a0Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to the proposed or pending acquisition of building and assets by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.3 \u00a0 \u00a0Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to the proposed or pending acquisition of building and assets by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.4 \u00a0 \u00a0Litigation/Potential Litigation / Solicitor-Client Privileged Advice",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to litigation or potential litigation and advice that is subject to solicitor-client privilege, including communications necessary for that purpose and directions and instructions to officers and employees or agents of the municipality.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "M. Cassidy",
+                  "J. Morgan",
+                  "S. Lewis",
+                  "E. Holder",
+                  "J. Fyfe-Millar,M. Hamou"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (6 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Corporate Services Committee convenes In Closed Session from 12:38 PM to 1:13 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-03-28 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by M. Cassidy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by J. Fyfe-Millar",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 1:16 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-03-28 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:08:02.980",
+      "end": "00:08:05.500",
+      "text": "Good afternoon colleagues, it's 12 p.m."
+    },
+    {
+      "index": 2,
+      "start": "00:08:05.500",
+      "end": "00:08:07.780",
+      "text": "So I am going to call the fifth meeting"
+    },
+    {
+      "index": 3,
+      "start": "00:08:07.780",
+      "end": "00:08:11.050",
+      "text": "of the Corporate Services Committee to order."
+    },
+    {
+      "index": 4,
+      "start": "00:08:11.050",
+      "end": "00:08:13.550",
+      "text": "This remains a hybrid virtual meeting"
+    },
+    {
+      "index": 5,
+      "start": "00:08:13.550",
+      "end": "00:08:15.800",
+      "text": "during the COVID-19 emergency."
+    },
+    {
+      "index": 6,
+      "start": "00:08:15.800",
+      "end": "00:08:17.510",
+      "text": "Individuals can check the city website"
+    },
+    {
+      "index": 7,
+      "start": "00:08:17.510",
+      "end": "00:08:20.320",
+      "text": "for current details of COVID-19 service impacts."
+    },
+    {
+      "index": 8,
+      "start": "00:08:20.320",
+      "end": "00:08:23.610",
+      "text": "And meetings can be viewed via live stream on YouTube"
+    },
+    {
+      "index": 9,
+      "start": "00:08:23.610",
+      "end": "00:08:26.060",
+      "text": "and on the city website."
+    },
+    {
+      "index": 10,
+      "start": "00:08:26.060",
+      "end": "00:08:28.390",
+      "text": "I also want to inform everyone that the city of London"
+    },
+    {
+      "index": 11,
+      "start": "00:08:28.390",
+      "end": "00:08:30.120",
+      "text": "is committed to making every effort possible"
+    },
+    {
+      "index": 12,
+      "start": "00:08:30.120",
+      "end": "00:08:31.500",
+      "text": "to provide alternative formats"
+    },
+    {
+      "index": 13,
+      "start": "00:08:31.500",
+      "end": "00:08:34.170",
+      "text": "and communications supports for council,"
+    },
+    {
+      "index": 14,
+      "start": "00:08:34.170",
+      "end": "00:08:36.260",
+      "text": "standing or advisory committee meetings"
+    },
+    {
+      "index": 15,
+      "start": "00:08:36.260",
+      "end": "00:08:38.220",
+      "text": "and information upon request."
+    },
+    {
+      "index": 16,
+      "start": "00:08:38.220",
+      "end": "00:08:40.240",
+      "text": "To make a request for any city service,"
+    },
+    {
+      "index": 17,
+      "start": "00:08:40.240",
+      "end": "00:08:43.420",
+      "text": "please contact accessibility@london.ca"
+    },
+    {
+      "index": 18,
+      "start": "00:08:43.420",
+      "end": "00:08:49.400",
+      "text": "or phone 519-661-2489 extension 2425."
+    },
+    {
+      "index": 19,
+      "start": "00:08:49.400",
+      "end": "00:08:53.410",
+      "text": "If you'd like to make a request specific to this meeting,"
+    },
+    {
+      "index": 20,
+      "start": "00:08:53.410",
+      "end": "00:08:59.280",
+      "text": "please contact csc@london.ca."
+    },
+    {
+      "index": 21,
+      "start": "00:08:59.280",
+      "end": "00:09:01.380",
+      "text": "Colleagues will begin by looking for any disclosures"
+    },
+    {
+      "index": 22,
+      "start": "00:09:01.380",
+      "end": "00:09:07.420",
+      "text": "of pecanary interest."
+    },
+    {
+      "index": 23,
+      "start": "00:09:07.420",
+      "end": "00:09:10.180",
+      "text": "I see none, so we will move right along"
+    },
+    {
+      "index": 24,
+      "start": "00:09:10.180",
+      "end": "00:09:12.440",
+      "text": "to the consent agenda."
+    },
+    {
+      "index": 25,
+      "start": "00:09:12.440",
+      "end": "00:09:14.630",
+      "text": "We have 10 items on the consent agenda."
+    },
+    {
+      "index": 26,
+      "start": "00:09:14.630",
+      "end": "00:09:16.690",
+      "text": "I have not been made aware of any items"
+    },
+    {
+      "index": 27,
+      "start": "00:09:16.690",
+      "end": "00:09:18.940",
+      "text": "that individuals wish pulled."
+    },
+    {
+      "index": 28,
+      "start": "00:09:18.940",
+      "end": "00:09:20.590",
+      "text": "I'll just take a quick look around to see"
+    },
+    {
+      "index": 29,
+      "start": "00:09:20.590",
+      "end": "00:09:22.250",
+      "text": "if there's anything that people want pulled"
+    },
+    {
+      "index": 30,
+      "start": "00:09:22.250",
+      "end": "00:09:28.770",
+      "text": "to deal with separately before we move on to discussion."
+    },
+    {
+      "index": 31,
+      "start": "00:09:28.770",
+      "end": "00:09:29.590",
+      "text": "I see none."
+    },
+    {
+      "index": 32,
+      "start": "00:09:29.590",
+      "end": "00:09:31.050",
+      "text": "So I'll look for a mover and a seconder"
+    },
+    {
+      "index": 33,
+      "start": "00:09:31.050",
+      "end": "00:09:33.900",
+      "text": "for the consent agenda moved by Councilor Fife-Milar,"
+    },
+    {
+      "index": 34,
+      "start": "00:09:33.900",
+      "end": "00:09:36.470",
+      "text": "seconded by Councilor Hamou."
+    },
+    {
+      "index": 35,
+      "start": "00:09:36.470",
+      "end": "00:09:38.370",
+      "text": "That is on the floor and we'll look for any questions"
+    },
+    {
+      "index": 36,
+      "start": "00:09:38.370",
+      "end": "00:09:39.700",
+      "text": "or comments."
+    },
+    {
+      "index": 37,
+      "start": "00:09:39.700",
+      "end": "00:09:42.700",
+      "text": "And I've got Deputy Mayor Morgan to begin."
+    },
+    {
+      "index": 38,
+      "start": "00:09:42.700",
+      "end": "00:09:43.530",
+      "text": "Thank you."
+    },
+    {
+      "index": 39,
+      "start": "00:09:43.530",
+      "end": "00:09:46.640",
+      "text": "I have a question on one and comments on two others."
+    },
+    {
+      "index": 40,
+      "start": "00:09:46.640",
+      "end": "00:09:50.940",
+      "text": "My question is on the 2022 debenture issuance."
+    },
+    {
+      "index": 41,
+      "start": "00:09:50.940",
+      "end": "00:09:55.020",
+      "text": "Certainly I support us going to the market"
+    },
+    {
+      "index": 42,
+      "start": "00:09:55.020",
+      "end": "00:09:58.840",
+      "text": "as the Bank of Canada starts to raise interest rates."
+    },
+    {
+      "index": 43,
+      "start": "00:09:58.840",
+      "end": "00:09:59.850",
+      "text": "It was mentioned in the report"
+    },
+    {
+      "index": 44,
+      "start": "00:09:59.850",
+      "end": "00:10:01.680",
+      "text": "that several other municipalities"
+    },
+    {
+      "index": 45,
+      "start": "00:10:01.680",
+      "end": "00:10:05.340",
+      "text": "have moved forward with issuances."
+    },
+    {
+      "index": 46,
+      "start": "00:10:05.340",
+      "end": "00:10:07.240",
+      "text": "Do we have any sense on how they're doing"
+    },
+    {
+      "index": 47,
+      "start": "00:10:07.240",
+      "end": "00:10:09.970",
+      "text": "and whether we can anticipate interest rates"
+    },
+    {
+      "index": 48,
+      "start": "00:10:09.970",
+      "end": "00:10:11.950",
+      "text": "in line or approximately in line"
+    },
+    {
+      "index": 49,
+      "start": "00:10:11.950",
+      "end": "00:10:14.680",
+      "text": "with where we've been in the last couple of issuances?"
+    },
+    {
+      "index": 50,
+      "start": "00:10:14.680",
+      "end": "00:10:16.690",
+      "text": "Are we expecting to see an increase"
+    },
+    {
+      "index": 51,
+      "start": "00:10:16.690",
+      "end": "00:10:18.300",
+      "text": "in the cost of borrowing?"
+    },
+    {
+      "index": 52,
+      "start": "00:10:18.300",
+      "end": "00:10:19.790",
+      "text": "And I'm just wondering if you have the ability"
+    },
+    {
+      "index": 53,
+      "start": "00:10:19.790",
+      "end": "00:10:23.440",
+      "text": "to project that from what other municipalities"
+    },
+    {
+      "index": 54,
+      "start": "00:10:23.440",
+      "end": "00:10:24.670",
+      "text": "have been doing with their offerings."
+    },
+    {
+      "index": 55,
+      "start": "00:10:24.670",
+      "end": "00:10:26.690",
+      "text": "Obviously, I know our credit rating"
+    },
+    {
+      "index": 56,
+      "start": "00:10:26.690",
+      "end": "00:10:29.200",
+      "text": "and our history of issuances will weigh"
+    },
+    {
+      "index": 57,
+      "start": "00:10:29.200",
+      "end": "00:10:30.710",
+      "text": "into what rate we're going to get."
+    },
+    {
+      "index": 58,
+      "start": "00:10:30.710",
+      "end": "00:10:32.260",
+      "text": "But I'm just wondering if there are trends"
+    },
+    {
+      "index": 59,
+      "start": "00:10:32.260",
+      "end": "00:10:33.650",
+      "text": "in the marketplace that are seeing"
+    },
+    {
+      "index": 60,
+      "start": "00:10:33.650",
+      "end": "00:10:36.770",
+      "text": "an upward cost of borrowing or not."
+    },
+    {
+      "index": 61,
+      "start": "00:10:36.770",
+      "end": "00:10:37.600",
+      "text": "Thank you."
+    },
+    {
+      "index": 62,
+      "start": "00:10:37.600",
+      "end": "00:10:39.720",
+      "text": "And we'll go to staff and I suspect"
+    },
+    {
+      "index": 63,
+      "start": "00:10:39.720",
+      "end": "00:10:43.490",
+      "text": "that that will be Ms. Barbone who will want to respond to that."
+    },
+    {
+      "index": 64,
+      "start": "00:10:43.490",
+      "end": "00:10:45.400",
+      "text": "Yes, thank you through the chair."
+    },
+    {
+      "index": 65,
+      "start": "00:10:45.400",
+      "end": "00:10:48.290",
+      "text": "And if Mr. Murray has anything else to add,"
+    },
+    {
+      "index": 66,
+      "start": "00:10:48.290",
+      "end": "00:10:49.760",
+      "text": "he can jump in and let me know."
+    },
+    {
+      "index": 67,
+      "start": "00:10:49.760",
+      "end": "00:10:55.390",
+      "text": "But essentially, we do have some predictions"
+    },
+    {
+      "index": 68,
+      "start": "00:10:55.390",
+      "end": "00:10:58.770",
+      "text": "with respect to what that cost of borrowing will be"
+    },
+    {
+      "index": 69,
+      "start": "00:10:58.770",
+      "end": "00:11:01.090",
+      "text": "and are working with our three fiscal agents."
+    },
+    {
+      "index": 70,
+      "start": "00:11:01.090",
+      "end": "00:11:03.680",
+      "text": "So we have a range of approximately"
+    },
+    {
+      "index": 71,
+      "start": "00:11:03.680",
+      "end": "00:11:08.580",
+      "text": "somewhere between 2.5 and 2.8 of what we're predicting."
+    },
+    {
+      "index": 72,
+      "start": "00:11:08.580",
+      "end": "00:11:11.130",
+      "text": "And certainly that could still vary"
+    },
+    {
+      "index": 73,
+      "start": "00:11:11.130",
+      "end": "00:11:12.610",
+      "text": "with the time that we go out."
+    },
+    {
+      "index": 74,
+      "start": "00:11:12.610",
+      "end": "00:11:15.440",
+      "text": "But that's certainly what we're projecting at this point."
+    },
+    {
+      "index": 75,
+      "start": "00:11:15.440",
+      "end": "00:11:18.150",
+      "text": "And we have followed other municipalities"
+    },
+    {
+      "index": 76,
+      "start": "00:11:18.150",
+      "end": "00:11:21.140",
+      "text": "and then we believe that that's fairly reasonable,"
+    },
+    {
+      "index": 77,
+      "start": "00:11:21.140",
+      "end": "00:11:23.730",
+      "text": "although until we actually go to issue"
+    },
+    {
+      "index": 78,
+      "start": "00:11:23.730",
+      "end": "00:11:25.760",
+      "text": "that we won't have any certainty"
+    },
+    {
+      "index": 79,
+      "start": "00:11:25.760",
+      "end": "00:11:29.290",
+      "text": "with respect to what that number is."
+    },
+    {
+      "index": 80,
+      "start": "00:11:29.290",
+      "end": "00:11:30.910",
+      "text": "Thank you, Ms. Barbone."
+    },
+    {
+      "index": 81,
+      "start": "00:11:30.910",
+      "end": "00:11:32.820",
+      "text": "Deputy Mayor, did you have any follow up?"
+    },
+    {
+      "index": 82,
+      "start": "00:11:32.820",
+      "end": "00:11:33.690",
+      "text": "No, that's good on that one."
+    },
+    {
+      "index": 83,
+      "start": "00:11:33.690",
+      "end": "00:11:34.880",
+      "text": "I appreciate the information."
+    },
+    {
+      "index": 84,
+      "start": "00:11:34.880",
+      "end": "00:11:37.190",
+      "text": "And I expected that the cost of borrowing"
+    },
+    {
+      "index": 85,
+      "start": "00:11:37.190",
+      "end": "00:11:40.050",
+      "text": "would start to rise with the changes that have been happening."
+    },
+    {
+      "index": 86,
+      "start": "00:11:40.050",
+      "end": "00:11:42.600",
+      "text": "But it still seems like it's going to be"
+    },
+    {
+      "index": 87,
+      "start": "00:11:42.600",
+      "end": "00:11:44.630",
+      "text": "in a very competitive range for us,"
+    },
+    {
+      "index": 88,
+      "start": "00:11:44.630",
+      "end": "00:11:47.240",
+      "text": "for the projects we need to complete."
+    },
+    {
+      "index": 89,
+      "start": "00:11:47.240",
+      "end": "00:11:49.410",
+      "text": "I have two comments now."
+    },
+    {
+      "index": 90,
+      "start": "00:11:49.410",
+      "end": "00:11:54.150",
+      "text": "And the first is on our year 2022 tax policy."
+    },
+    {
+      "index": 91,
+      "start": "00:11:54.150",
+      "end": "00:11:55.900",
+      "text": "First off, I want to thank our staff"
+    },
+    {
+      "index": 92,
+      "start": "00:11:55.900",
+      "end": "00:11:57.980",
+      "text": "for a comprehensive report"
+    },
+    {
+      "index": 93,
+      "start": "00:11:57.980",
+      "end": "00:11:59.810",
+      "text": "and really hitting on the types of things"
+    },
+    {
+      "index": 94,
+      "start": "00:11:59.810",
+      "end": "00:12:01.010",
+      "text": "that we need to hit on in this."
+    },
+    {
+      "index": 95,
+      "start": "00:12:01.010",
+      "end": "00:12:04.200",
+      "text": "And I do support us taking a very cautious approach"
+    },
+    {
+      "index": 96,
+      "start": "00:12:04.200",
+      "end": "00:12:06.160",
+      "text": "by not making adjustments to our ratios,"
+    },
+    {
+      "index": 97,
+      "start": "00:12:06.160",
+      "end": "00:12:09.350",
+      "text": "given how unpredictable the future is"
+    },
+    {
+      "index": 98,
+      "start": "00:12:09.350",
+      "end": "00:12:13.660",
+      "text": "with the freeze of valuations and a lot of question marks"
+    },
+    {
+      "index": 99,
+      "start": "00:12:13.660",
+      "end": "00:12:15.930",
+      "text": "about what the base year will be,"
+    },
+    {
+      "index": 100,
+      "start": "00:12:15.930",
+      "end": "00:12:18.890",
+      "text": "when that freeze will be unlocked."
+    },
+    {
+      "index": 101,
+      "start": "00:12:18.890",
+      "end": "00:12:21.480",
+      "text": "And frankly, how the different asset classes"
+    },
+    {
+      "index": 102,
+      "start": "00:12:21.480",
+      "end": "00:12:23.080",
+      "text": "have shifted over time."
+    },
+    {
+      "index": 103,
+      "start": "00:12:23.080",
+      "end": "00:12:25.110",
+      "text": "I do think we want to maximize our ability"
+    },
+    {
+      "index": 104,
+      "start": "00:12:25.110",
+      "end": "00:12:27.630",
+      "text": "to move in the future with our tax ratios,"
+    },
+    {
+      "index": 105,
+      "start": "00:12:27.630",
+      "end": "00:12:30.620",
+      "text": "which means keeping a steady state"
+    },
+    {
+      "index": 106,
+      "start": "00:12:30.620",
+      "end": "00:12:33.690",
+      "text": "and sticking with the staff recommendation for now,"
+    },
+    {
+      "index": 107,
+      "start": "00:12:33.690",
+      "end": "00:12:35.890",
+      "text": "I think is good."
+    },
+    {
+      "index": 108,
+      "start": "00:12:35.890",
+      "end": "00:12:41.540",
+      "text": "Certainly, I also would echo that when the province unfreezes"
+    },
+    {
+      "index": 109,
+      "start": "00:12:41.540",
+      "end": "00:12:44.450",
+      "text": "the MPAC assessments and determines the base year"
+    },
+    {
+      "index": 110,
+      "start": "00:12:44.450",
+      "end": "00:12:46.370",
+      "text": "and a phase in for that,"
+    },
+    {
+      "index": 111,
+      "start": "00:12:46.370",
+      "end": "00:12:50.440",
+      "text": "we should be very active on how this will impact"
+    },
+    {
+      "index": 112,
+      "start": "00:12:50.440",
+      "end": "00:12:51.560",
+      "text": "the different tax classes,"
+    },
+    {
+      "index": 113,
+      "start": "00:12:51.560",
+      "end": "00:12:54.350",
+      "text": "because there is the possibility of significant shifts"
+    },
+    {
+      "index": 114,
+      "start": "00:12:54.350",
+      "end": "00:12:57.340",
+      "text": "between the tax classes based on how they've appreciated"
+    },
+    {
+      "index": 115,
+      "start": "00:12:57.340",
+      "end": "00:12:59.890",
+      "text": "over this period of time where it's been frozen."
+    },
+    {
+      "index": 116,
+      "start": "00:12:59.890",
+      "end": "00:13:01.050",
+      "text": "I don't know what those are,"
+    },
+    {
+      "index": 117,
+      "start": "00:13:01.050",
+      "end": "00:13:03.370",
+      "text": "but I certainly know that our staff will be very involved"
+    },
+    {
+      "index": 118,
+      "start": "00:13:03.370",
+      "end": "00:13:04.680",
+      "text": "in this, and I know we need to engage"
+    },
+    {
+      "index": 119,
+      "start": "00:13:04.680",
+      "end": "00:13:06.800",
+      "text": "with our provincial partner on their plan"
+    },
+    {
+      "index": 120,
+      "start": "00:13:06.800",
+      "end": "00:13:11.780",
+      "text": "for moving back to a more normal period of assessments."
+    },
+    {
+      "index": 121,
+      "start": "00:13:11.780",
+      "end": "00:13:13.260",
+      "text": "For now, with the freeze though,"
+    },
+    {
+      "index": 122,
+      "start": "00:13:13.260",
+      "end": "00:13:14.540",
+      "text": "I think this is the right move ahead,"
+    },
+    {
+      "index": 123,
+      "start": "00:13:14.540",
+      "end": "00:13:17.610",
+      "text": "and I want to thank our staff for an excellent report."
+    },
+    {
+      "index": 124,
+      "start": "00:13:17.610",
+      "end": "00:13:20.090",
+      "text": "And the final thing I wanted to comment on is just,"
+    },
+    {
+      "index": 125,
+      "start": "00:13:20.090",
+      "end": "00:13:22.440",
+      "text": "I appreciate the report from Councillor Hopkins"
+    },
+    {
+      "index": 126,
+      "start": "00:13:22.440",
+      "end": "00:13:25.510",
+      "text": "on the Association of Municipalities of Ontario Board Update"
+    },
+    {
+      "index": 127,
+      "start": "00:13:25.510",
+      "end": "00:13:28.050",
+      "text": "and continue to thank her for the excellent work"
+    },
+    {
+      "index": 128,
+      "start": "00:13:28.050",
+      "end": "00:13:30.560",
+      "text": "she's doing on behalf of us at AMO."
+    },
+    {
+      "index": 129,
+      "start": "00:13:30.560",
+      "end": "00:13:31.790",
+      "text": "So thanks Councillor Hopkins,"
+    },
+    {
+      "index": 130,
+      "start": "00:13:31.790",
+      "end": "00:13:33.500",
+      "text": "I don't know if you're going to comment on your report,"
+    },
+    {
+      "index": 131,
+      "start": "00:13:33.500",
+      "end": "00:13:37.050",
+      "text": "but I did want to mention that I certainly appreciate you"
+    },
+    {
+      "index": 132,
+      "start": "00:13:37.050",
+      "end": "00:13:41.250",
+      "text": "keeping us up to date and the work that's being done there."
+    },
+    {
+      "index": 133,
+      "start": "00:13:41.250",
+      "end": "00:13:42.640",
+      "text": "Thank you, Deputy Mayor,"
+    },
+    {
+      "index": 134,
+      "start": "00:13:42.640",
+      "end": "00:13:44.710",
+      "text": "and Councillor Hopkins does have her hand up"
+    },
+    {
+      "index": 135,
+      "start": "00:13:44.710",
+      "end": "00:13:45.780",
+      "text": "to be on the speakers list,"
+    },
+    {
+      "index": 136,
+      "start": "00:13:45.780",
+      "end": "00:13:48.320",
+      "text": "so I suspect she may want to share some updates"
+    },
+    {
+      "index": 137,
+      "start": "00:13:48.320",
+      "end": "00:13:50.790",
+      "text": "with us on that, but I do have Councillor Cassidy"
+    },
+    {
+      "index": 138,
+      "start": "00:13:50.790",
+      "end": "00:13:52.770",
+      "text": "as a member of the committee with her hand up."
+    },
+    {
+      "index": 139,
+      "start": "00:13:52.770",
+      "end": "00:14:00.400",
+      "text": "So Councillor Cassidy, we're going to go to you first."
+    },
+    {
+      "index": 140,
+      "start": "00:14:00.400",
+      "end": "00:14:03.470",
+      "text": "And Councillor Cassidy, you're muted."
+    },
+    {
+      "index": 141,
+      "start": "00:14:03.470",
+      "end": "00:14:05.000",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 142,
+      "start": "00:14:05.000",
+      "end": "00:14:09.640",
+      "text": "So despite no one pulling consent items,"
+    },
+    {
+      "index": 143,
+      "start": "00:14:09.640",
+      "end": "00:14:11.750",
+      "text": "I don't want anyone to think that none of these things"
+    },
+    {
+      "index": 144,
+      "start": "00:14:11.750",
+      "end": "00:14:12.590",
+      "text": "are important."
+    },
+    {
+      "index": 145,
+      "start": "00:14:12.590",
+      "end": "00:14:14.380",
+      "text": "It's actually a really meaty agenda"
+    },
+    {
+      "index": 146,
+      "start": "00:14:14.380",
+      "end": "00:14:17.010",
+      "text": "with a lot of really important information on here."
+    },
+    {
+      "index": 147,
+      "start": "00:14:17.010",
+      "end": "00:14:21.760",
+      "text": "The one I want to talk about is the 2022 education tax rate."
+    },
+    {
+      "index": 148,
+      "start": "00:14:21.760",
+      "end": "00:14:24.110",
+      "text": "So I know this was something that was important"
+    },
+    {
+      "index": 149,
+      "start": "00:14:24.110",
+      "end": "00:14:27.380",
+      "text": "to businesses in London when you see the annual reduction"
+    },
+    {
+      "index": 150,
+      "start": "00:14:27.380",
+      "end": "00:14:31.840",
+      "text": "that as a sector, the businesses in London will enjoy."
+    },
+    {
+      "index": 151,
+      "start": "00:14:31.840",
+      "end": "00:14:35.420",
+      "text": "It's a just a little over $20 million reduction"
+    },
+    {
+      "index": 152,
+      "start": "00:14:35.420",
+      "end": "00:14:39.910",
+      "text": "and I know London and I'm sure other municipalities"
+    },
+    {
+      "index": 153,
+      "start": "00:14:39.910",
+      "end": "00:14:41.830",
+      "text": "that had the same concern."
+    },
+    {
+      "index": 154,
+      "start": "00:14:41.830",
+      "end": "00:14:44.970",
+      "text": "I know in London we phrased it as something"
+    },
+    {
+      "index": 155,
+      "start": "00:14:44.970",
+      "end": "00:14:47.330",
+      "text": "that could be instant COVID relief"
+    },
+    {
+      "index": 156,
+      "start": "00:14:47.330",
+      "end": "00:14:49.320",
+      "text": "to help businesses get back on track"
+    },
+    {
+      "index": 157,
+      "start": "00:14:49.320",
+      "end": "00:14:53.100",
+      "text": "following two years of lockdowns and uncertainty."
+    },
+    {
+      "index": 158,
+      "start": "00:14:53.100",
+      "end": "00:14:57.210",
+      "text": "So I'm very grateful that the province went ahead with that."
+    },
+    {
+      "index": 159,
+      "start": "00:14:57.210",
+      "end": "00:15:01.230",
+      "text": "Now the aspect that is covered in this report"
+    },
+    {
+      "index": 160,
+      "start": "00:15:01.230",
+      "end": "00:15:07.460",
+      "text": "talks about the payment from the federal government."
+    },
+    {
+      "index": 161,
+      "start": "00:15:07.460",
+      "end": "00:15:11.090",
+      "text": "And I just want to ask through you, Mr. Chair,"
+    },
+    {
+      "index": 162,
+      "start": "00:15:11.090",
+      "end": "00:15:15.220",
+      "text": "to the treasurer, is this an unintended consequence"
+    },
+    {
+      "index": 163,
+      "start": "00:15:15.220",
+      "end": "00:15:18.290",
+      "text": "of what we had been wanting the province to do"
+    },
+    {
+      "index": 164,
+      "start": "00:15:18.290",
+      "end": "00:15:20.000",
+      "text": "for such a long time?"
+    },
+    {
+      "index": 165,
+      "start": "00:15:20.000",
+      "end": "00:15:22.230",
+      "text": "Or is this directly related to COVID?"
+    },
+    {
+      "index": 166,
+      "start": "00:15:22.230",
+      "end": "00:15:24.900",
+      "text": "I wonder if I could just get some clarification"
+    },
+    {
+      "index": 167,
+      "start": "00:15:24.900",
+      "end": "00:15:27.520",
+      "text": "and for the public as well for businesses"
+    },
+    {
+      "index": 168,
+      "start": "00:15:27.520",
+      "end": "00:15:29.670",
+      "text": "who may be watching this."
+    },
+    {
+      "index": 169,
+      "start": "00:15:29.670",
+      "end": "00:15:35.670",
+      "text": "Just some make it clear to the lay general lay person."
+    },
+    {
+      "index": 170,
+      "start": "00:15:35.670",
+      "end": "00:15:39.370",
+      "text": "Sure, Ms. Barbone, would you like to respond to that please?"
+    },
+    {
+      "index": 171,
+      "start": "00:15:39.370",
+      "end": "00:15:40.770",
+      "text": "Yes, thank you through the chair."
+    },
+    {
+      "index": 172,
+      "start": "00:15:40.770",
+      "end": "00:15:44.780",
+      "text": "So the issue is that the prescribed regulations"
+    },
+    {
+      "index": 173,
+      "start": "00:15:44.780",
+      "end": "00:15:46.810",
+      "text": "set out a specific rate"
+    },
+    {
+      "index": 174,
+      "start": "00:15:46.810",
+      "end": "00:15:50.430",
+      "text": "and that the crown corporations and federal entities"
+    },
+    {
+      "index": 175,
+      "start": "00:15:50.430",
+      "end": "00:15:52.580",
+      "text": "are paying at a different rate."
+    },
+    {
+      "index": 176,
+      "start": "00:15:52.580",
+      "end": "00:15:57.640",
+      "text": "So they want to recognize that lower of payment"
+    },
+    {
+      "index": 177,
+      "start": "00:15:57.640",
+      "end": "00:16:00.600",
+      "text": "as do all the others and be in line."
+    },
+    {
+      "index": 178,
+      "start": "00:16:00.600",
+      "end": "00:16:03.870",
+      "text": "The difference with the education taxes for those,"
+    },
+    {
+      "index": 179,
+      "start": "00:16:03.870",
+      "end": "00:16:08.060",
+      "text": "the municipality gets to keep the revenue from that"
+    },
+    {
+      "index": 180,
+      "start": "00:16:08.060",
+      "end": "00:16:10.140",
+      "text": "and it funds directly the city budget."
+    },
+    {
+      "index": 181,
+      "start": "00:16:10.140",
+      "end": "00:16:14.010",
+      "text": "So as the Councillor Cassidy did identify,"
+    },
+    {
+      "index": 182,
+      "start": "00:16:14.010",
+      "end": "00:16:16.920",
+      "text": "it is a bit of an unintended consequence,"
+    },
+    {
+      "index": 183,
+      "start": "00:16:16.920",
+      "end": "00:16:19.440",
+      "text": "only in so much that they are not paying"
+    },
+    {
+      "index": 184,
+      "start": "00:16:19.440",
+      "end": "00:16:22.870",
+      "text": "based on the regulation that is prescribed for them,"
+    },
+    {
+      "index": 185,
+      "start": "00:16:22.870",
+      "end": "00:16:25.940",
+      "text": "but that they are trying to pay in a different amount"
+    },
+    {
+      "index": 186,
+      "start": "00:16:25.940",
+      "end": "00:16:29.500",
+      "text": "and as such would have a different impact on the municipality."
+    },
+    {
+      "index": 187,
+      "start": "00:16:29.500",
+      "end": "00:16:32.090",
+      "text": "The impact on the city of London is quite small"
+    },
+    {
+      "index": 188,
+      "start": "00:16:32.090",
+      "end": "00:16:34.810",
+      "text": "in comparison to some other jurisdictions."
+    },
+    {
+      "index": 189,
+      "start": "00:16:34.810",
+      "end": "00:16:37.440",
+      "text": "However, we are trying to ensure"
+    },
+    {
+      "index": 190,
+      "start": "00:16:37.440",
+      "end": "00:16:40.030",
+      "text": "that those payments are paid at the prescribed rate."
+    },
+    {
+      "index": 191,
+      "start": "00:16:40.030",
+      "end": "00:16:43.390",
+      "text": "So as not to impact and have any unintended consequences"
+    },
+    {
+      "index": 192,
+      "start": "00:16:43.390",
+      "end": "00:16:45.590",
+      "text": "on the municipality."
+    },
+    {
+      "index": 193,
+      "start": "00:16:45.590",
+      "end": "00:16:46.720",
+      "text": "Thank you, Ms. Verbone."
+    },
+    {
+      "index": 194,
+      "start": "00:16:46.720",
+      "end": "00:16:49.290",
+      "text": "Councillor Cassidy, do you have any follow-up for that?"
+    },
+    {
+      "index": 195,
+      "start": "00:16:49.290",
+      "end": "00:16:50.600",
+      "text": "Yeah, just a couple of comments."
+    },
+    {
+      "index": 196,
+      "start": "00:16:50.600",
+      "end": "00:16:51.870",
+      "text": "Thanks, Mr. Chair and through you."
+    },
+    {
+      "index": 197,
+      "start": "00:16:51.870",
+      "end": "00:16:54.050",
+      "text": "Thank you, Ms. Verbone for that."
+    },
+    {
+      "index": 198,
+      "start": "00:16:54.050",
+      "end": "00:16:58.840",
+      "text": "I'm sure that's fairly good news for the city of London"
+    },
+    {
+      "index": 199,
+      "start": "00:16:58.840",
+      "end": "00:17:04.460",
+      "text": "because when we saw in the report the amount of the gap"
+    },
+    {
+      "index": 200,
+      "start": "00:17:04.460",
+      "end": "00:17:05.970",
+      "text": "that seems quite alarming."
+    },
+    {
+      "index": 201,
+      "start": "00:17:05.970",
+      "end": "00:17:11.760",
+      "text": "So I'm happy to hear that London is not in the average"
+    },
+    {
+      "index": 202,
+      "start": "00:17:11.760",
+      "end": "00:17:13.110",
+      "text": "or above average there."
+    },
+    {
+      "index": 203,
+      "start": "00:17:13.110",
+      "end": "00:17:15.100",
+      "text": "And I do wanna take the time again,"
+    },
+    {
+      "index": 204,
+      "start": "00:17:15.100",
+      "end": "00:17:18.240",
+      "text": "just thank the mayor for his advocacy in this area."
+    },
+    {
+      "index": 205,
+      "start": "00:17:18.240",
+      "end": "00:17:23.210",
+      "text": "I know many Councillors took whatever opportunity they could"
+    },
+    {
+      "index": 206,
+      "start": "00:17:23.210",
+      "end": "00:17:25.990",
+      "text": "when speaking to our provincial counterparts"
+    },
+    {
+      "index": 207,
+      "start": "00:17:25.990",
+      "end": "00:17:28.460",
+      "text": "to talk about this issue."
+    },
+    {
+      "index": 208,
+      "start": "00:17:28.460",
+      "end": "00:17:32.820",
+      "text": "I know in ward five, I have a very, very large employer,"
+    },
+    {
+      "index": 209,
+      "start": "00:17:32.820",
+      "end": "00:17:36.180",
+      "text": "the Masonville Place Mall, it's owned by Cadillac Fairview"
+    },
+    {
+      "index": 210,
+      "start": "00:17:36.180",
+      "end": "00:17:41.030",
+      "text": "and they could illustrate in very real concrete terms"
+    },
+    {
+      "index": 211,
+      "start": "00:17:41.030",
+      "end": "00:17:44.020",
+      "text": "the difference that they were paying for business education"
+    },
+    {
+      "index": 212,
+      "start": "00:17:44.020",
+      "end": "00:17:48.520",
+      "text": "taxes compared to their properties in Toronto and Ottawa"
+    },
+    {
+      "index": 213,
+      "start": "00:17:48.520",
+      "end": "00:17:50.270",
+      "text": "and other larger cities."
+    },
+    {
+      "index": 214,
+      "start": "00:17:50.270",
+      "end": "00:17:53.340",
+      "text": "And so they really did see that inequity"
+    },
+    {
+      "index": 215,
+      "start": "00:17:53.340",
+      "end": "00:17:55.960",
+      "text": "that businesses in London were having to deal with."
+    },
+    {
+      "index": 216,
+      "start": "00:17:55.960",
+      "end": "00:17:59.350",
+      "text": "So again, I'm really happy this issue's being resolved"
+    },
+    {
+      "index": 217,
+      "start": "00:17:59.350",
+      "end": "00:18:03.050",
+      "text": "and hopefully we can handle that other little part"
+    },
+    {
+      "index": 218,
+      "start": "00:18:03.050",
+      "end": "00:18:05.640",
+      "text": "on behalf of all municipalities in Ontario,"
+    },
+    {
+      "index": 219,
+      "start": "00:18:05.640",
+      "end": "00:18:06.480",
+      "text": "not just London."
+    },
+    {
+      "index": 220,
+      "start": "00:18:06.480",
+      "end": "00:18:08.720",
+      "text": "So thank you."
+    },
+    {
+      "index": 221,
+      "start": "00:18:08.720",
+      "end": "00:18:09.820",
+      "text": "Thank you, Councillor Cassidy."
+    },
+    {
+      "index": 222,
+      "start": "00:18:09.820",
+      "end": "00:18:13.150",
+      "text": "And I also have Mayor Holder who would like to make a comment."
+    },
+    {
+      "index": 223,
+      "start": "00:18:13.150",
+      "end": "00:18:16.060",
+      "text": "So your worship will go to you next."
+    },
+    {
+      "index": 224,
+      "start": "00:18:16.060",
+      "end": "00:18:18.420",
+      "text": "Thanks very much and it's nice to be back."
+    },
+    {
+      "index": 225,
+      "start": "00:18:18.420",
+      "end": "00:18:20.380",
+      "text": "Councillor Cassidy, thanks for the kind comment."
+    },
+    {
+      "index": 226,
+      "start": "00:18:20.380",
+      "end": "00:18:23.280",
+      "text": "I will tell you that London was the strongest advocate"
+    },
+    {
+      "index": 227,
+      "start": "00:18:23.280",
+      "end": "00:18:27.050",
+      "text": "for the business education tax issues"
+    },
+    {
+      "index": 228,
+      "start": "00:18:27.050",
+      "end": "00:18:31.120",
+      "text": "and to the point where London was acknowledged"
+    },
+    {
+      "index": 229,
+      "start": "00:18:31.120",
+      "end": "00:18:33.750",
+      "text": "in the last federal budget for being a leader"
+    },
+    {
+      "index": 230,
+      "start": "00:18:33.750",
+      "end": "00:18:37.250",
+      "text": "in promoting the reduction of the business education tax."
+    },
+    {
+      "index": 231,
+      "start": "00:18:37.250",
+      "end": "00:18:40.680",
+      "text": "And I think that was exceptionally important."
+    },
+    {
+      "index": 232,
+      "start": "00:18:40.680",
+      "end": "00:18:42.310",
+      "text": "You asked the question quite rightly"
+    },
+    {
+      "index": 233,
+      "start": "00:18:42.310",
+      "end": "00:18:46.450",
+      "text": "about the unintended consequences of federal agencies"
+    },
+    {
+      "index": 234,
+      "start": "00:18:46.450",
+      "end": "00:18:48.720",
+      "text": "that are trying to take advantage"
+    },
+    {
+      "index": 235,
+      "start": "00:18:48.720",
+      "end": "00:18:52.470",
+      "text": "of the lower business education tax."
+    },
+    {
+      "index": 236,
+      "start": "00:18:52.470",
+      "end": "00:18:54.860",
+      "text": "I would add that we are having"
+    },
+    {
+      "index": 237,
+      "start": "00:18:54.860",
+      "end": "00:18:57.370",
+      "text": "some pretty significant conversations with the federal"
+    },
+    {
+      "index": 238,
+      "start": "00:18:57.370",
+      "end": "00:19:00.740",
+      "text": "government now while it's modest,"
+    },
+    {
+      "index": 239,
+      "start": "00:19:00.740",
+      "end": "00:19:03.900",
+      "text": "relatively speaking in London,"
+    },
+    {
+      "index": 240,
+      "start": "00:19:03.900",
+      "end": "00:19:09.190",
+      "text": "the impact of the federal agencies,"
+    },
+    {
+      "index": 241,
+      "start": "00:19:09.190",
+      "end": "00:19:13.240",
+      "text": "the ground courts that are looking to take advantage"
+    },
+    {
+      "index": 242,
+      "start": "00:19:13.240",
+      "end": "00:19:20.120",
+      "text": "of the built lower rate,"
+    },
+    {
+      "index": 243,
+      "start": "00:19:20.120",
+      "end": "00:19:24.550",
+      "text": "if you're in Ottawa, that's about $13 million."
+    },
+    {
+      "index": 244,
+      "start": "00:19:24.550",
+      "end": "00:19:27.320",
+      "text": "Like it's not an insignificant number,"
+    },
+    {
+      "index": 245,
+      "start": "00:19:27.320",
+      "end": "00:19:29.610",
+      "text": "I would say, and this barbone could correct me,"
+    },
+    {
+      "index": 246,
+      "start": "00:19:29.610",
+      "end": "00:19:31.740",
+      "text": "but I think we're in the range for a couple hundred thousand"
+    },
+    {
+      "index": 247,
+      "start": "00:19:31.740",
+      "end": "00:19:33.440",
+      "text": "dollars, perhaps a touch more."
+    },
+    {
+      "index": 248,
+      "start": "00:19:33.440",
+      "end": "00:19:40.470",
+      "text": "So you can know that certainly the Ontario big city mayors"
+    },
+    {
+      "index": 249,
+      "start": "00:19:41.880",
+      "end": "00:19:46.660",
+      "text": "have been speaking with province"
+    },
+    {
+      "index": 250,
+      "start": "00:19:46.660",
+      "end": "00:19:50.470",
+      "text": "and about the impacts and trying to leverage"
+    },
+    {
+      "index": 251,
+      "start": "00:19:50.470",
+      "end": "00:19:53.070",
+      "text": "the federal government as well for the feds"
+    },
+    {
+      "index": 252,
+      "start": "00:19:53.070",
+      "end": "00:19:58.870",
+      "text": "to, I guess, effectively lean on these federal agencies,"
+    },
+    {
+      "index": 253,
+      "start": "00:19:58.870",
+      "end": "00:20:03.560",
+      "text": "'cause it's just not fair, it's not right."
+    },
+    {
+      "index": 254,
+      "start": "00:20:03.560",
+      "end": "00:20:05.560",
+      "text": "And this barbone is quite correct"
+    },
+    {
+      "index": 255,
+      "start": "00:20:05.560",
+      "end": "00:20:10.240",
+      "text": "that goes directly as tax implications of what we're doing."
+    },
+    {
+      "index": 256,
+      "start": "00:20:10.240",
+      "end": "00:20:13.060",
+      "text": "So with that, stay tuned, we're not done lobbying them."
+    },
+    {
+      "index": 257,
+      "start": "00:20:13.060",
+      "end": "00:20:16.290",
+      "text": "We were good on one, but now we've got this other,"
+    },
+    {
+      "index": 258,
+      "start": "00:20:16.290",
+      "end": "00:20:20.380",
+      "text": "but the great news is that the biggest piece"
+    },
+    {
+      "index": 259,
+      "start": "00:20:20.380",
+      "end": "00:20:23.470",
+      "text": "in the terms of the impact of business has been,"
+    },
+    {
+      "index": 260,
+      "start": "00:20:23.470",
+      "end": "00:20:26.860",
+      "text": "has been well received apparently across the province"
+    },
+    {
+      "index": 261,
+      "start": "00:20:26.860",
+      "end": "00:20:29.970",
+      "text": "in real money, some $600 million a year,"
+    },
+    {
+      "index": 262,
+      "start": "00:20:29.970",
+      "end": "00:20:35.280",
+      "text": "like for as long as no government changes that approach,"
+    },
+    {
+      "index": 263,
+      "start": "00:20:35.280",
+      "end": "00:20:37.780",
+      "text": "but that savings that goes directly to businesses"
+    },
+    {
+      "index": 264,
+      "start": "00:20:37.780",
+      "end": "00:20:40.590",
+      "text": "right across the province and with COVID"
+    },
+    {
+      "index": 265,
+      "start": "00:20:40.590",
+      "end": "00:20:43.970",
+      "text": "as it's been what an appropriate time"
+    },
+    {
+      "index": 266,
+      "start": "00:20:43.970",
+      "end": "00:20:47.970",
+      "text": "to give support to businesses could be."
+    },
+    {
+      "index": 267,
+      "start": "00:20:47.970",
+      "end": "00:20:49.070",
+      "text": "So that's it for me."
+    },
+    {
+      "index": 268,
+      "start": "00:20:49.070",
+      "end": "00:20:51.390",
+      "text": "So I appreciate Councillor Cassidy bringing it up."
+    },
+    {
+      "index": 269,
+      "start": "00:20:51.390",
+      "end": "00:20:52.690",
+      "text": "I think that's appropriate."
+    },
+    {
+      "index": 270,
+      "start": "00:20:52.690",
+      "end": "00:20:55.300",
+      "text": "I'll turn it back to you, Chair."
+    },
+    {
+      "index": 271,
+      "start": "00:20:55.300",
+      "end": "00:20:56.110",
+      "text": "Thank you, Your Worship."
+    },
+    {
+      "index": 272,
+      "start": "00:20:56.110",
+      "end": "00:20:57.950",
+      "text": "And I've got Councillor Hamou"
+    },
+    {
+      "index": 273,
+      "start": "00:20:57.950",
+      "end": "00:21:02.040",
+      "text": "from the committee next on the speaker's list."
+    },
+    {
+      "index": 274,
+      "start": "00:21:02.040",
+      "end": "00:21:02.800",
+      "text": "Thank you, Chair."
+    },
+    {
+      "index": 275,
+      "start": "00:21:02.800",
+      "end": "00:21:09.950",
+      "text": "I wanted to bring your attention to the section 2.8."
+    },
+    {
+      "index": 276,
+      "start": "00:21:09.950",
+      "end": "00:21:13.560",
+      "text": "KPMG clear our file sharing tool."
+    },
+    {
+      "index": 277,
+      "start": "00:21:13.560",
+      "end": "00:21:15.420",
+      "text": "On just maybe through the two,"
+    },
+    {
+      "index": 278,
+      "start": "00:21:15.420",
+      "end": "00:21:18.370",
+      "text": "I'm gonna ask some questions about the security"
+    },
+    {
+      "index": 279,
+      "start": "00:21:18.370",
+      "end": "00:21:19.790",
+      "text": "of this software."
+    },
+    {
+      "index": 280,
+      "start": "00:21:19.790",
+      "end": "00:21:23.100",
+      "text": "I've been hacked personally"
+    },
+    {
+      "index": 281,
+      "start": "00:21:23.100",
+      "end": "00:21:24.680",
+      "text": "by the Syrian electronic army."
+    },
+    {
+      "index": 282,
+      "start": "00:21:24.680",
+      "end": "00:21:27.360",
+      "text": "So I'm always cautious."
+    },
+    {
+      "index": 283,
+      "start": "00:21:27.360",
+      "end": "00:21:32.320",
+      "text": "If you look on page 80 of the notes,"
+    },
+    {
+      "index": 284,
+      "start": "00:21:32.320",
+      "end": "00:21:35.650",
+      "text": "you'll see here that KPMG does not guarantee"
+    },
+    {
+      "index": 285,
+      "start": "00:21:35.650",
+      "end": "00:21:40.880",
+      "text": "that any content posted on KPMG clear"
+    },
+    {
+      "index": 286,
+      "start": "00:21:40.880",
+      "end": "00:21:43.730",
+      "text": "will be free from viruses and/or other code"
+    },
+    {
+      "index": 287,
+      "start": "00:21:43.730",
+      "end": "00:21:46.220",
+      "text": "that may have contaminated or destructive elements."
+    },
+    {
+      "index": 288,
+      "start": "00:21:46.220",
+      "end": "00:21:50.720",
+      "text": "I just want to ensure that everything's being tested"
+    },
+    {
+      "index": 289,
+      "start": "00:21:50.720",
+      "end": "00:21:53.230",
+      "text": "properly before we put it on our servers."
+    },
+    {
+      "index": 290,
+      "start": "00:21:53.230",
+      "end": "00:21:55.410",
+      "text": "Can I have some clarification on that?"
+    },
+    {
+      "index": 291,
+      "start": "00:21:55.410",
+      "end": "00:21:57.270",
+      "text": "Chair, through you."
+    },
+    {
+      "index": 292,
+      "start": "00:21:57.270",
+      "end": "00:21:58.400",
+      "text": "Thank you, Councillor Hamou."
+    },
+    {
+      "index": 293,
+      "start": "00:21:58.400",
+      "end": "00:22:00.790",
+      "text": "And I see Ms. Barbona's turned her camera on."
+    },
+    {
+      "index": 294,
+      "start": "00:22:00.790",
+      "end": "00:22:04.190",
+      "text": "So Ms. Barbona, I'll turn it over to you."
+    },
+    {
+      "index": 295,
+      "start": "00:22:04.190",
+      "end": "00:22:05.550",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 296,
+      "start": "00:22:05.550",
+      "end": "00:22:06.660",
+      "text": "That's an excellent question."
+    },
+    {
+      "index": 297,
+      "start": "00:22:06.660",
+      "end": "00:22:10.960",
+      "text": "And certainly one of our absolute significant concerns"
+    },
+    {
+      "index": 298,
+      "start": "00:22:10.960",
+      "end": "00:22:13.910",
+      "text": "with bringing forward this tool."
+    },
+    {
+      "index": 299,
+      "start": "00:22:13.910",
+      "end": "00:22:18.840",
+      "text": "So our ITS department has reviewed the tool thoroughly"
+    },
+    {
+      "index": 300,
+      "start": "00:22:18.840",
+      "end": "00:22:21.110",
+      "text": "and ensured that it does meet"
+    },
+    {
+      "index": 301,
+      "start": "00:22:21.110",
+      "end": "00:22:24.030",
+      "text": "and has no concerns from their perspective"
+    },
+    {
+      "index": 302,
+      "start": "00:22:24.030",
+      "end": "00:22:27.330",
+      "text": "from ensuring that the information security"
+    },
+    {
+      "index": 303,
+      "start": "00:22:27.330",
+      "end": "00:22:30.290",
+      "text": "and the processes around that are intact."
+    },
+    {
+      "index": 304,
+      "start": "00:22:30.290",
+      "end": "00:22:33.690",
+      "text": "So the information that we are sharing through this"
+    },
+    {
+      "index": 305,
+      "start": "00:22:33.690",
+      "end": "00:22:35.880",
+      "text": "is very much specific with our audit"
+    },
+    {
+      "index": 306,
+      "start": "00:22:35.880",
+      "end": "00:22:38.880",
+      "text": "and we're supplementing the use of the technology"
+    },
+    {
+      "index": 307,
+      "start": "00:22:38.880",
+      "end": "00:22:41.390",
+      "text": "also through some additional procedures"
+    },
+    {
+      "index": 308,
+      "start": "00:22:41.390",
+      "end": "00:22:44.270",
+      "text": "on the file sharing piece on our side also."
+    },
+    {
+      "index": 309,
+      "start": "00:22:44.270",
+      "end": "00:22:46.260",
+      "text": "So we believe the risk on this"
+    },
+    {
+      "index": 310,
+      "start": "00:22:46.260",
+      "end": "00:22:50.890",
+      "text": "is certainly well managed as well as we can."
+    },
+    {
+      "index": 311,
+      "start": "00:22:50.890",
+      "end": "00:22:53.730",
+      "text": "Now, I was standing that certainly their agreement"
+    },
+    {
+      "index": 312,
+      "start": "00:22:53.730",
+      "end": "00:22:57.240",
+      "text": "does allow those other indemnities that are there,"
+    },
+    {
+      "index": 313,
+      "start": "00:22:57.240",
+      "end": "00:23:00.470",
+      "text": "which we always want to bring to council's attention."
+    },
+    {
+      "index": 314,
+      "start": "00:23:00.470",
+      "end": "00:23:05.460",
+      "text": "So our IT security department has reviewed this thoroughly."
+    },
+    {
+      "index": 315,
+      "start": "00:23:05.460",
+      "end": "00:23:07.820",
+      "text": "And if there were concerns,"
+    },
+    {
+      "index": 316,
+      "start": "00:23:07.820",
+      "end": "00:23:10.930",
+      "text": "this would not have been brought forward to the council."
+    },
+    {
+      "index": 317,
+      "start": "00:23:10.930",
+      "end": "00:23:13.650",
+      "text": "And we would have had to through the internal processes"
+    },
+    {
+      "index": 318,
+      "start": "00:23:13.650",
+      "end": "00:23:15.760",
+      "text": "rectified that process first"
+    },
+    {
+      "index": 319,
+      "start": "00:23:15.760",
+      "end": "00:23:17.600",
+      "text": "before it would ever have brought forward"
+    },
+    {
+      "index": 320,
+      "start": "00:23:17.600",
+      "end": "00:23:20.990",
+      "text": "for a review by the committee."
+    },
+    {
+      "index": 321,
+      "start": "00:23:20.990",
+      "end": "00:23:22.230",
+      "text": "Thank you, Ms. Barbone."
+    },
+    {
+      "index": 322,
+      "start": "00:23:22.230",
+      "end": "00:23:24.350",
+      "text": "Councilor, can we, no, no for all of that."
+    },
+    {
+      "index": 323,
+      "start": "00:23:24.350",
+      "end": "00:23:26.880",
+      "text": "Good, thank you, thank you."
+    },
+    {
+      "index": 324,
+      "start": "00:23:26.880",
+      "end": "00:23:30.280",
+      "text": "And we will now go with thanks for her patience"
+    },
+    {
+      "index": 325,
+      "start": "00:23:30.280",
+      "end": "00:23:32.640",
+      "text": "as she waited for committee members to ask their questions."
+    },
+    {
+      "index": 326,
+      "start": "00:23:32.640",
+      "end": "00:23:37.150",
+      "text": "We'll go to Councilor Hopkins next."
+    },
+    {
+      "index": 327,
+      "start": "00:23:37.150",
+      "end": "00:23:39.530",
+      "text": "Thank you, Mr. Chair, for recognizing me."
+    },
+    {
+      "index": 328,
+      "start": "00:23:39.530",
+      "end": "00:23:42.110",
+      "text": "And I was quite busy since I got kicked out of the meeting"
+    },
+    {
+      "index": 329,
+      "start": "00:23:42.110",
+      "end": "00:23:43.940",
+      "text": "and had to make my way back again."
+    },
+    {
+      "index": 330,
+      "start": "00:23:45.010",
+      "end": "00:23:49.430",
+      "text": "So, thank you for allowing me to speak to 2.10."
+    },
+    {
+      "index": 331,
+      "start": "00:23:49.430",
+      "end": "00:23:51.650",
+      "text": "It is the AMO update."
+    },
+    {
+      "index": 332,
+      "start": "00:23:51.650",
+      "end": "00:23:57.180",
+      "text": "And I would like to just make some comments"
+    },
+    {
+      "index": 333,
+      "start": "00:23:57.180",
+      "end": "00:24:01.230",
+      "text": "on the update that I am providing committee and council."
+    },
+    {
+      "index": 334,
+      "start": "00:24:01.230",
+      "end": "00:24:06.870",
+      "text": "For those of you who may not be that familiar with AMO,"
+    },
+    {
+      "index": 335,
+      "start": "00:24:06.870",
+      "end": "00:24:10.020",
+      "text": "which stands for the Association of Municipalities of Ontario,"
+    },
+    {
+      "index": 336,
+      "start": "00:24:10.020",
+      "end": "00:24:13.060",
+      "text": "the board meets five times a year."
+    },
+    {
+      "index": 337,
+      "start": "00:24:13.060",
+      "end": "00:24:14.890",
+      "text": "And as chair of the large ribbon caucus,"
+    },
+    {
+      "index": 338,
+      "start": "00:24:14.890",
+      "end": "00:24:17.620",
+      "text": "it's invested on the executive and the executive,"
+    },
+    {
+      "index": 339,
+      "start": "00:24:17.620",
+      "end": "00:24:21.660",
+      "text": "it just meets monthly as well as meeting"
+    },
+    {
+      "index": 340,
+      "start": "00:24:21.660",
+      "end": "00:24:24.900",
+      "text": "with the provincial government at the MOU,"
+    },
+    {
+      "index": 341,
+      "start": "00:24:24.900",
+      "end": "00:24:26.950",
+      "text": "which is the memorandum of understanding"
+    },
+    {
+      "index": 342,
+      "start": "00:24:26.950",
+      "end": "00:24:31.470",
+      "text": "that the AMO has with the province."
+    },
+    {
+      "index": 343,
+      "start": "00:24:31.470",
+      "end": "00:24:35.110",
+      "text": "Housing has been of great interest to AMO lately."
+    },
+    {
+      "index": 344,
+      "start": "00:24:35.110",
+      "end": "00:24:36.930",
+      "text": "There has a number of board meetings"
+    },
+    {
+      "index": 345,
+      "start": "00:24:36.930",
+      "end": "00:24:40.180",
+      "text": "that we have had this year."
+    },
+    {
+      "index": 346,
+      "start": "00:24:40.180",
+      "end": "00:24:42.840",
+      "text": "There's been great conversation,"
+    },
+    {
+      "index": 347,
+      "start": "00:24:42.840",
+      "end": "00:24:47.460",
+      "text": "about that every municipality, big or small,"
+    },
+    {
+      "index": 348,
+      "start": "00:24:47.460",
+      "end": "00:24:50.740",
+      "text": "rural or urban has concerns about."
+    },
+    {
+      "index": 349,
+      "start": "00:24:50.740",
+      "end": "00:24:57.020",
+      "text": "And the housing blueprint in February that AMO released"
+    },
+    {
+      "index": 350,
+      "start": "00:24:57.020",
+      "end": "00:24:59.570",
+      "text": "included a summary on the committee."
+    },
+    {
+      "index": 351,
+      "start": "00:24:59.570",
+      "end": "00:25:02.630",
+      "text": "And you see that summary on the committee agenda,"
+    },
+    {
+      "index": 352,
+      "start": "00:25:02.630",
+      "end": "00:25:03.780",
+      "text": "just for your information."
+    },
+    {
+      "index": 353,
+      "start": "00:25:03.780",
+      "end": "00:25:07.030",
+      "text": "I'd really encourage you, it's just an executive summary,"
+    },
+    {
+      "index": 354,
+      "start": "00:25:07.030",
+      "end": "00:25:09.060",
+      "text": "but there is lots of information,"
+    },
+    {
+      "index": 355,
+      "start": "00:25:09.060",
+      "end": "00:25:11.800",
+      "text": "a lot of work, AMO staff and the board,"
+    },
+    {
+      "index": 356,
+      "start": "00:25:14.300",
+      "end": "00:25:16.580",
+      "text": "sort of commit a lot of work and time"
+    },
+    {
+      "index": 357,
+      "start": "00:25:16.580",
+      "end": "00:25:20.920",
+      "text": "in coming up with the housing action blueprint."
+    },
+    {
+      "index": 358,
+      "start": "00:25:20.920",
+      "end": "00:25:24.200",
+      "text": "Now housing blueprint provides a new starting point"
+    },
+    {
+      "index": 359,
+      "start": "00:25:24.200",
+      "end": "00:25:27.170",
+      "text": "for AMO's housing related advocacy"
+    },
+    {
+      "index": 360,
+      "start": "00:25:27.170",
+      "end": "00:25:30.850",
+      "text": "and includes recommendations for all levels of government,"
+    },
+    {
+      "index": 361,
+      "start": "00:25:30.850",
+      "end": "00:25:33.470",
+      "text": "as well as the development community."
+    },
+    {
+      "index": 362,
+      "start": "00:25:33.470",
+      "end": "00:25:38.650",
+      "text": "Importantly, the blueprint includes principles"
+    },
+    {
+      "index": 363,
+      "start": "00:25:38.650",
+      "end": "00:25:43.000",
+      "text": "and recommendations that reflect London's housing related needs."
+    },
+    {
+      "index": 364,
+      "start": "00:25:43.000",
+      "end": "00:25:46.300",
+      "text": "With the provincial election coming up in June,"
+    },
+    {
+      "index": 365,
+      "start": "00:25:46.300",
+      "end": "00:25:48.440",
+      "text": "the blueprint will be a useful resource"
+    },
+    {
+      "index": 366,
+      "start": "00:25:48.440",
+      "end": "00:25:51.540",
+      "text": "to political parties and candidates"
+    },
+    {
+      "index": 367,
+      "start": "00:25:51.540",
+      "end": "00:25:53.370",
+      "text": "on municipal housing priorities"
+    },
+    {
+      "index": 368,
+      "start": "00:25:53.370",
+      "end": "00:25:57.140",
+      "text": "and provide additional support to our local efforts."
+    },
+    {
+      "index": 369,
+      "start": "00:25:57.140",
+      "end": "00:26:02.210",
+      "text": "I'd like to give a further update to the blueprint as well,"
+    },
+    {
+      "index": 370,
+      "start": "00:26:02.210",
+      "end": "00:26:07.480",
+      "text": "since AMO did release their comments"
+    },
+    {
+      "index": 371,
+      "start": "00:26:07.480",
+      "end": "00:26:10.700",
+      "text": "on the provincial housing task force."
+    },
+    {
+      "index": 372,
+      "start": "00:26:10.700",
+      "end": "00:26:15.230",
+      "text": "It provided response report earlier this month,"
+    },
+    {
+      "index": 373,
+      "start": "00:26:15.230",
+      "end": "00:26:18.640",
+      "text": "the provincial task force was informed primarily"
+    },
+    {
+      "index": 374,
+      "start": "00:26:18.640",
+      "end": "00:26:20.030",
+      "text": "by the development industry"
+    },
+    {
+      "index": 375,
+      "start": "00:26:20.030",
+      "end": "00:26:23.860",
+      "text": "and AMO's response emphasized the need"
+    },
+    {
+      "index": 376,
+      "start": "00:26:23.860",
+      "end": "00:26:28.120",
+      "text": "to include municipal input and expertise"
+    },
+    {
+      "index": 377,
+      "start": "00:26:28.120",
+      "end": "00:26:32.230",
+      "text": "into provincial decisions around housing affordability."
+    },
+    {
+      "index": 378,
+      "start": "00:26:32.230",
+      "end": "00:26:33.980",
+      "text": "That's really important that AMO,"
+    },
+    {
+      "index": 379,
+      "start": "00:26:33.980",
+      "end": "00:26:37.280",
+      "text": "the discussion around the affordability."
+    },
+    {
+      "index": 380,
+      "start": "00:26:37.280",
+      "end": "00:26:40.380",
+      "text": "AMO board and staff continue to work on this issue"
+    },
+    {
+      "index": 381,
+      "start": "00:26:40.380",
+      "end": "00:26:44.230",
+      "text": "with the ultimate goal of protecting local decision-making"
+    },
+    {
+      "index": 382,
+      "start": "00:26:44.230",
+      "end": "00:26:48.320",
+      "text": "while taking meaningful steps to address the affordability"
+    },
+    {
+      "index": 383,
+      "start": "00:26:48.320",
+      "end": "00:26:54.930",
+      "text": "and availability of safe quality housing."
+    },
+    {
+      "index": 384,
+      "start": "00:26:54.930",
+      "end": "00:26:56.660",
+      "text": "As the chair of the large urban caucus"
+    },
+    {
+      "index": 385,
+      "start": "00:26:56.660",
+      "end": "00:27:00.810",
+      "text": "have regular opportunities to talk with council members"
+    },
+    {
+      "index": 386,
+      "start": "00:27:00.810",
+      "end": "00:27:03.430",
+      "text": "from other cities about shared priorities"
+    },
+    {
+      "index": 387,
+      "start": "00:27:03.430",
+      "end": "00:27:07.280",
+      "text": "and to bring these discussions to inform AMO's advocacy."
+    },
+    {
+      "index": 388,
+      "start": "00:27:07.280",
+      "end": "00:27:11.360",
+      "text": "Some of the advocacy items I've been most involved"
+    },
+    {
+      "index": 389,
+      "start": "00:27:11.360",
+      "end": "00:27:15.530",
+      "text": "in recently include the additional homeless prevention"
+    },
+    {
+      "index": 390,
+      "start": "00:27:15.530",
+      "end": "00:27:19.350",
+      "text": "funding to preserve the progress made possible"
+    },
+    {
+      "index": 391,
+      "start": "00:27:19.350",
+      "end": "00:27:22.050",
+      "text": "through the SSRF."
+    },
+    {
+      "index": 392,
+      "start": "00:27:22.050",
+      "end": "00:27:25.420",
+      "text": "And we know the great work that we have been able to do here"
+    },
+    {
+      "index": 393,
+      "start": "00:27:25.420",
+      "end": "00:27:28.010",
+      "text": "in the city of London with this funding."
+    },
+    {
+      "index": 394,
+      "start": "00:27:28.010",
+      "end": "00:27:31.760",
+      "text": "And hopefully it will continue."
+    },
+    {
+      "index": 395,
+      "start": "00:27:31.760",
+      "end": "00:27:34.270",
+      "text": "Completion of provincial federal negotiations"
+    },
+    {
+      "index": 396,
+      "start": "00:27:34.270",
+      "end": "00:27:36.820",
+      "text": "on the national childcare framework"
+    },
+    {
+      "index": 397,
+      "start": "00:27:36.820",
+      "end": "00:27:39.960",
+      "text": "and a commitment to $10 a day childcare."
+    },
+    {
+      "index": 398,
+      "start": "00:27:39.960",
+      "end": "00:27:41.670",
+      "text": "And we heard an announcement today."
+    },
+    {
+      "index": 399,
+      "start": "00:27:41.670",
+      "end": "00:27:45.760",
+      "text": "So thank you to the province for signing that agreement"
+    },
+    {
+      "index": 400,
+      "start": "00:27:45.760",
+      "end": "00:27:47.120",
+      "text": "with the federal government."
+    },
+    {
+      "index": 401,
+      "start": "00:27:47.120",
+      "end": "00:27:49.440",
+      "text": "It's very much appreciated."
+    },
+    {
+      "index": 402,
+      "start": "00:27:49.440",
+      "end": "00:27:53.620",
+      "text": "Recognizing the municipal role in strong pandemic recovery,"
+    },
+    {
+      "index": 403,
+      "start": "00:27:53.620",
+      "end": "00:27:57.270",
+      "text": "both economically and socially, is still a conversation"
+    },
+    {
+      "index": 404,
+      "start": "00:27:57.270",
+      "end": "00:27:59.820",
+      "text": "that we have at the large urban caucus."
+    },
+    {
+      "index": 405,
+      "start": "00:27:59.820",
+      "end": "00:28:02.680",
+      "text": "I just wanna give my thanks, Mr. Chair, to committee"
+    },
+    {
+      "index": 406,
+      "start": "00:28:02.680",
+      "end": "00:28:06.450",
+      "text": "and to council for your confidence in me."
+    },
+    {
+      "index": 407,
+      "start": "00:28:06.450",
+      "end": "00:28:12.590",
+      "text": "And I really appreciate representing the city of London"
+    },
+    {
+      "index": 408,
+      "start": "00:28:14.540",
+      "end": "00:28:16.480",
+      "text": "at the AMO board."
+    },
+    {
+      "index": 409,
+      "start": "00:28:16.480",
+      "end": "00:28:21.050",
+      "text": "I also wanna send my thanks to Nick Steinberg,"
+    },
+    {
+      "index": 410,
+      "start": "00:28:21.050",
+      "end": "00:28:23.910",
+      "text": "who is assisting me through"
+    },
+    {
+      "index": 411,
+      "start": "00:28:23.910",
+      "end": "00:28:26.890",
+      "text": "the governmental external relations."
+    },
+    {
+      "index": 412,
+      "start": "00:28:26.890",
+      "end": "00:28:32.110",
+      "text": "Without his support, it is really so much appreciated."
+    },
+    {
+      "index": 413,
+      "start": "00:28:32.110",
+      "end": "00:28:34.320",
+      "text": "There's a lot of time and effort"
+    },
+    {
+      "index": 414,
+      "start": "00:28:34.320",
+      "end": "00:28:36.700",
+      "text": "that goes on behind the scenes."
+    },
+    {
+      "index": 415,
+      "start": "00:28:36.700",
+      "end": "00:28:39.670",
+      "text": "And I just wanna recognize staff support"
+    },
+    {
+      "index": 416,
+      "start": "00:28:39.670",
+      "end": "00:28:43.250",
+      "text": "with the work that's been going on."
+    },
+    {
+      "index": 417,
+      "start": "00:28:43.250",
+      "end": "00:28:46.680",
+      "text": "And it's been a very busy, not only year,"
+    },
+    {
+      "index": 418,
+      "start": "00:28:46.680",
+      "end": "00:28:51.020",
+      "text": "but especially the past two years with the pandemic"
+    },
+    {
+      "index": 419,
+      "start": "00:28:51.020",
+      "end": "00:28:55.240",
+      "text": "and having municipal concerns at the forefront"
+    },
+    {
+      "index": 420,
+      "start": "00:28:55.240",
+      "end": "00:28:56.430",
+      "text": "with the provincial government"
+    },
+    {
+      "index": 421,
+      "start": "00:28:56.430",
+      "end": "00:28:58.700",
+      "text": "has been a great opportunity for me"
+    },
+    {
+      "index": 422,
+      "start": "00:28:58.700",
+      "end": "00:29:00.610",
+      "text": "to represent the city of London."
+    },
+    {
+      "index": 423,
+      "start": "00:29:00.610",
+      "end": "00:29:03.700",
+      "text": "So thank you."
+    },
+    {
+      "index": 424,
+      "start": "00:29:03.700",
+      "end": "00:29:05.360",
+      "text": "Thank you, Councilor Hopkins."
+    },
+    {
+      "index": 425,
+      "start": "00:29:05.360",
+      "end": "00:29:08.370",
+      "text": "And I think I can speak on behalf of all committee"
+    },
+    {
+      "index": 426,
+      "start": "00:29:08.370",
+      "end": "00:29:11.310",
+      "text": "and likely on behalf of council on this."
+    },
+    {
+      "index": 427,
+      "start": "00:29:11.310",
+      "end": "00:29:14.060",
+      "text": "When I say thank you for the work that you put into this,"
+    },
+    {
+      "index": 428,
+      "start": "00:29:14.060",
+      "end": "00:29:15.890",
+      "text": "I know you spent a lot of hours on this."
+    },
+    {
+      "index": 429,
+      "start": "00:29:15.890",
+      "end": "00:29:18.630",
+      "text": "And thanks to Mr. Steinberg as well,"
+    },
+    {
+      "index": 430,
+      "start": "00:29:18.630",
+      "end": "00:29:20.940",
+      "text": "because staff support is of course critically important."
+    },
+    {
+      "index": 431,
+      "start": "00:29:20.940",
+      "end": "00:29:23.130",
+      "text": "So thank you and Mr. Steinberg"
+    },
+    {
+      "index": 432,
+      "start": "00:29:23.130",
+      "end": "00:29:27.460",
+      "text": "for your efforts on our behalf at AMO."
+    },
+    {
+      "index": 433,
+      "start": "00:29:27.460",
+      "end": "00:29:29.360",
+      "text": "I have no one else on the speakers list colleagues."
+    },
+    {
+      "index": 434,
+      "start": "00:29:29.360",
+      "end": "00:29:32.450",
+      "text": "So unless anyone wants to raise their hand"
+    },
+    {
+      "index": 435,
+      "start": "00:29:32.450",
+      "end": "00:29:33.400",
+      "text": "on any other items,"
+    },
+    {
+      "index": 436,
+      "start": "00:29:33.400",
+      "end": "00:29:57.160",
+      "text": "we are going to open the vote on the consent agenda."
+    },
+    {
+      "index": 437,
+      "start": "00:29:57.160",
+      "end": "00:30:02.370",
+      "text": "Using the vote, the motion's passed six to zero."
+    },
+    {
+      "index": 438,
+      "start": "00:30:02.370",
+      "end": "00:30:05.780",
+      "text": "Okay, colleagues, moving on to the next items"
+    },
+    {
+      "index": 439,
+      "start": "00:30:05.780",
+      "end": "00:30:06.600",
+      "text": "in the agenda."
+    },
+    {
+      "index": 440,
+      "start": "00:30:06.600",
+      "end": "00:30:10.670",
+      "text": "Scheduled items, item four is items for direction."
+    },
+    {
+      "index": 441,
+      "start": "00:30:10.670",
+      "end": "00:30:13.170",
+      "text": "We have three items here."
+    },
+    {
+      "index": 442,
+      "start": "00:30:13.170",
+      "end": "00:30:16.790",
+      "text": "These are dealing with applications for proclamations"
+    },
+    {
+      "index": 443,
+      "start": "00:30:16.790",
+      "end": "00:30:19.550",
+      "text": "and the city hall flag policy."
+    },
+    {
+      "index": 444,
+      "start": "00:30:19.550",
+      "end": "00:30:20.990",
+      "text": "So we'll start with 4.1,"
+    },
+    {
+      "index": 445,
+      "start": "00:30:20.990",
+      "end": "00:30:23.340",
+      "text": "an application for issuance of proclamation,"
+    },
+    {
+      "index": 446,
+      "start": "00:30:23.340",
+      "end": "00:30:29.090",
+      "text": "Gillian Baer, syndrome and chronic inflammatory,"
+    },
+    {
+      "index": 447,
+      "start": "00:30:29.090",
+      "end": "00:30:33.270",
+      "text": "dye-millinating, poly-normal-pathy awareness month."
+    },
+    {
+      "index": 448,
+      "start": "00:30:33.270",
+      "end": "00:30:35.580",
+      "text": "And I will express my sincere apologies"
+    },
+    {
+      "index": 449,
+      "start": "00:30:35.580",
+      "end": "00:30:39.830",
+      "text": "to Mr. Bedford right off the top"
+    },
+    {
+      "index": 450,
+      "start": "00:30:39.830",
+      "end": "00:30:43.550",
+      "text": "if I probably did mangle some of those words,"
+    },
+    {
+      "index": 451,
+      "start": "00:30:43.550",
+      "end": "00:30:45.710",
+      "text": "but we'll see if there's somebody who wants"
+    },
+    {
+      "index": 452,
+      "start": "00:30:45.710",
+      "end": "00:30:47.620",
+      "text": "to put that on the floor."
+    },
+    {
+      "index": 453,
+      "start": "00:30:47.620",
+      "end": "00:30:49.100",
+      "text": "That's moved by Councillor Haimou"
+    },
+    {
+      "index": 454,
+      "start": "00:30:49.100",
+      "end": "00:30:51.970",
+      "text": "and seconded by Councillor Fife-Milar."
+    },
+    {
+      "index": 455,
+      "start": "00:30:51.970",
+      "end": "00:30:56.300",
+      "text": "Any questions or comments on this colleagues?"
+    },
+    {
+      "index": 456,
+      "start": "00:30:56.300",
+      "end": "00:31:08.820",
+      "text": "Seeing none, we will open the vote."
+    },
+    {
+      "index": 457,
+      "start": "00:31:08.820",
+      "end": "00:31:13.170",
+      "text": "Closing the vote, the motion's passed six to zero."
+    },
+    {
+      "index": 458,
+      "start": "00:31:13.170",
+      "end": "00:31:15.540",
+      "text": "On the agenda, colleagues is item 4.2,"
+    },
+    {
+      "index": 459,
+      "start": "00:31:15.540",
+      "end": "00:31:17.790",
+      "text": "application for issuance of proclamation"
+    },
+    {
+      "index": 460,
+      "start": "00:31:17.790",
+      "end": "00:31:21.250",
+      "text": "for the Failand Daffa week 2022."
+    },
+    {
+      "index": 461,
+      "start": "00:31:21.250",
+      "end": "00:31:25.350",
+      "text": "Do we have a mover for that move by Councillor Cassidy"
+    },
+    {
+      "index": 462,
+      "start": "00:31:25.350",
+      "end": "00:31:28.910",
+      "text": "and look for a seconder, Councillor Fife-Milar?"
+    },
+    {
+      "index": 463,
+      "start": "00:31:28.910",
+      "end": "00:31:32.900",
+      "text": "Any questions or comments?"
+    },
+    {
+      "index": 464,
+      "start": "00:31:32.900",
+      "end": "00:31:42.760",
+      "text": "Seeing none, we will open the vote."
+    },
+    {
+      "index": 465,
+      "start": "00:31:42.760",
+      "end": "00:31:44.310",
+      "text": "Certainly the mover was Councillor Cassidy,"
+    },
+    {
+      "index": 466,
+      "start": "00:31:44.310",
+      "end": "00:31:57.400",
+      "text": "the seconder was Councillor Fife-Milar."
+    },
+    {
+      "index": 467,
+      "start": "00:31:57.400",
+      "end": "00:32:02.660",
+      "text": "Closing the vote, the motion is passed six to zero."
+    },
+    {
+      "index": 468,
+      "start": "00:32:02.660",
+      "end": "00:32:05.360",
+      "text": "And colleagues, item 4.3 is an appeal of flags"
+    },
+    {
+      "index": 469,
+      "start": "00:32:05.360",
+      "end": "00:32:07.670",
+      "text": "at city hall policy."
+    },
+    {
+      "index": 470,
+      "start": "00:32:07.670",
+      "end": "00:32:09.670",
+      "text": "You have the communications on this."
+    },
+    {
+      "index": 471,
+      "start": "00:32:09.670",
+      "end": "00:32:16.420",
+      "text": "I am in your hands as to how you want to proceed."
+    },
+    {
+      "index": 472,
+      "start": "00:32:16.420",
+      "end": "00:32:20.410",
+      "text": "I will just say if we, oh, Mayor Holder, floor is--"
+    },
+    {
+      "index": 473,
+      "start": "00:32:20.410",
+      "end": "00:32:21.950",
+      "text": "Thanks very much."
+    },
+    {
+      "index": 474,
+      "start": "00:32:21.950",
+      "end": "00:32:24.740",
+      "text": "Thanks very much, Chair. I think we have a very consistent"
+    },
+    {
+      "index": 475,
+      "start": "00:32:24.740",
+      "end": "00:32:27.070",
+      "text": "flags policy at city hall."
+    },
+    {
+      "index": 476,
+      "start": "00:32:27.070",
+      "end": "00:32:31.420",
+      "text": "And from my standpoint, I don't see a need to."
+    },
+    {
+      "index": 477,
+      "start": "00:32:31.420",
+      "end": "00:32:36.550",
+      "text": "We've already now acknowledged the importance"
+    },
+    {
+      "index": 478,
+      "start": "00:32:36.550",
+      "end": "00:32:40.080",
+      "text": "of the event through the proclamation."
+    },
+    {
+      "index": 479,
+      "start": "00:32:40.080",
+      "end": "00:32:41.690",
+      "text": "I don't think it's necessary at this stage"
+    },
+    {
+      "index": 480,
+      "start": "00:32:41.690",
+      "end": "00:32:47.180",
+      "text": "then to change our policy for any one individual organization"
+    },
+    {
+      "index": 481,
+      "start": "00:32:47.180",
+      "end": "00:32:50.760",
+      "text": "in this, we have some exceptions,"
+    },
+    {
+      "index": 482,
+      "start": "00:32:50.760",
+      "end": "00:32:52.520",
+      "text": "but this doesn't qualify."
+    },
+    {
+      "index": 483,
+      "start": "00:32:52.520",
+      "end": "00:32:56.880",
+      "text": "So I'm prepared to recommend that we maintain status quo"
+    },
+    {
+      "index": 484,
+      "start": "00:32:56.880",
+      "end": "00:33:02.140",
+      "text": "as it relates to the Philandoppa request for the flag poll."
+    },
+    {
+      "index": 485,
+      "start": "00:33:02.140",
+      "end": "00:33:07.250",
+      "text": "And with that, reject the appeal"
+    },
+    {
+      "index": 486,
+      "start": "00:33:07.250",
+      "end": "00:33:11.360",
+      "text": "and maintain the city's policy."
+    },
+    {
+      "index": 487,
+      "start": "00:33:11.360",
+      "end": "00:33:13.230",
+      "text": "So your worship, I just want to be clear"
+    },
+    {
+      "index": 488,
+      "start": "00:33:13.230",
+      "end": "00:33:17.110",
+      "text": "from a clerking standpoint for a motion."
+    },
+    {
+      "index": 489,
+      "start": "00:33:17.110",
+      "end": "00:33:20.720",
+      "text": "Are you moving to receive and take no action?"
+    },
+    {
+      "index": 490,
+      "start": "00:33:20.720",
+      "end": "00:33:23.650",
+      "text": "Not so much more articulate than I could be, Chair,"
+    },
+    {
+      "index": 491,
+      "start": "00:33:23.650",
+      "end": "00:33:25.250",
+      "text": "and that works for me."
+    },
+    {
+      "index": 492,
+      "start": "00:33:25.250",
+      "end": "00:33:26.730",
+      "text": "Okay, and we'll look to see if there's a seconder"
+    },
+    {
+      "index": 493,
+      "start": "00:33:26.730",
+      "end": "00:33:29.680",
+      "text": "for that, seconded by Councillor Hamu."
+    },
+    {
+      "index": 494,
+      "start": "00:33:29.680",
+      "end": "00:33:31.930",
+      "text": "Any further question or comment colleagues?"
+    },
+    {
+      "index": 495,
+      "start": "00:33:31.930",
+      "end": "00:33:35.330",
+      "text": "Councillor Cassidy."
+    },
+    {
+      "index": 496,
+      "start": "00:33:35.330",
+      "end": "00:33:40.080",
+      "text": "Thanks, Mr. Chair, just, I guess to the clerk,"
+    },
+    {
+      "index": 497,
+      "start": "00:33:40.080",
+      "end": "00:33:42.180",
+      "text": "the either the city clerk if he's on the line"
+    },
+    {
+      "index": 498,
+      "start": "00:33:42.180",
+      "end": "00:33:47.520",
+      "text": "or to the deputy city clerk, how do we determine"
+    },
+    {
+      "index": 499,
+      "start": "00:33:47.520",
+      "end": "00:33:50.240",
+      "text": "if an organization is religious or political"
+    },
+    {
+      "index": 500,
+      "start": "00:33:50.240",
+      "end": "00:33:55.520",
+      "text": "and therefore doesn't qualify under our flag policy?"
+    },
+    {
+      "index": 501,
+      "start": "00:33:55.520",
+      "end": "00:33:57.350",
+      "text": "And I think the city clerk is on the line."
+    },
+    {
+      "index": 502,
+      "start": "00:33:57.350",
+      "end": "00:33:59.820",
+      "text": "So we will go to the city clerk."
+    },
+    {
+      "index": 503,
+      "start": "00:33:59.820",
+      "end": "00:34:01.870",
+      "text": "Thank you, and through the chair."
+    },
+    {
+      "index": 504,
+      "start": "00:34:01.870",
+      "end": "00:34:04.040",
+      "text": "That's a very good question, Councillor,"
+    },
+    {
+      "index": 505,
+      "start": "00:34:04.040",
+      "end": "00:34:05.420",
+      "text": "and very difficult."
+    },
+    {
+      "index": 506,
+      "start": "00:34:05.420",
+      "end": "00:34:07.670",
+      "text": "I can say that this particular application"
+    },
+    {
+      "index": 507,
+      "start": "00:34:07.670",
+      "end": "00:34:10.680",
+      "text": "was assessed by the prior city clerk"
+    },
+    {
+      "index": 508,
+      "start": "00:34:10.680",
+      "end": "00:34:15.330",
+      "text": "and was deemed to be religious and/or political in nature"
+    },
+    {
+      "index": 509,
+      "start": "00:34:15.330",
+      "end": "00:34:18.170",
+      "text": "and was denied last year."
+    },
+    {
+      "index": 510,
+      "start": "00:34:18.170",
+      "end": "00:34:20.970",
+      "text": "And in my view, I would take the same approach"
+    },
+    {
+      "index": 511,
+      "start": "00:34:20.970",
+      "end": "00:34:23.810",
+      "text": "and be consistent with that determination"
+    },
+    {
+      "index": 512,
+      "start": "00:34:23.810",
+      "end": "00:34:27.000",
+      "text": "from the previous year."
+    },
+    {
+      "index": 513,
+      "start": "00:34:27.000",
+      "end": "00:34:33.130",
+      "text": "So just to comment, Mr. Chair, this is a difficult one."
+    },
+    {
+      "index": 514,
+      "start": "00:34:33.640",
+      "end": "00:34:35.990",
+      "text": "I'm going to vote against take no action."
+    },
+    {
+      "index": 515,
+      "start": "00:34:35.990",
+      "end": "00:34:41.250",
+      "text": "I, my concern is when we see what's going on around the world"
+    },
+    {
+      "index": 516,
+      "start": "00:34:41.250",
+      "end": "00:34:47.390",
+      "text": "and we see authoritarian regimes taking,"
+    },
+    {
+      "index": 517,
+      "start": "00:34:47.390",
+      "end": "00:34:50.220",
+      "text": "actually it's the authoritarian regime"
+    },
+    {
+      "index": 518,
+      "start": "00:34:50.220",
+      "end": "00:34:54.200",
+      "text": "that is deciding that an organization"
+    },
+    {
+      "index": 519,
+      "start": "00:34:54.200",
+      "end": "00:34:57.380",
+      "text": "is political or not or religious or not."
+    },
+    {
+      "index": 520,
+      "start": "00:34:57.380",
+      "end": "00:35:01.650",
+      "text": "And I don't think it's in our free democratic society"
+    },
+    {
+      "index": 521,
+      "start": "00:35:01.650",
+      "end": "00:35:07.070",
+      "text": "that it's on us to agree with that regime."
+    },
+    {
+      "index": 522,
+      "start": "00:35:07.070",
+      "end": "00:35:10.390",
+      "text": "So I understand where this will probably go."
+    },
+    {
+      "index": 523,
+      "start": "00:35:10.390",
+      "end": "00:35:15.050",
+      "text": "I will be voting against the motion that's on the floor."
+    },
+    {
+      "index": 524,
+      "start": "00:35:15.050",
+      "end": "00:35:16.690",
+      "text": "Thank you, Councillor Cassidy."
+    },
+    {
+      "index": 525,
+      "start": "00:35:16.690",
+      "end": "00:35:22.610",
+      "text": "Do we have any further comments on this, Mayor Holder?"
+    },
+    {
+      "index": 526,
+      "start": "00:35:22.610",
+      "end": "00:35:25.150",
+      "text": "Yeah, thanks very much."
+    },
+    {
+      "index": 527,
+      "start": "00:35:25.150",
+      "end": "00:35:28.450",
+      "text": "You know, we dealt with the federal level as well."
+    },
+    {
+      "index": 528,
+      "start": "00:35:28.450",
+      "end": "00:35:34.400",
+      "text": "And so while we have empathy with this particular organization,"
+    },
+    {
+      "index": 529,
+      "start": "00:35:34.400",
+      "end": "00:35:39.530",
+      "text": "and I think we've shown that, frankly,"
+    },
+    {
+      "index": 530,
+      "start": "00:35:39.530",
+      "end": "00:35:41.500",
+      "text": "by virtue of the proclamation,"
+    },
+    {
+      "index": 531,
+      "start": "00:35:41.500",
+      "end": "00:35:43.890",
+      "text": "the week-long proclamation just supported,"
+    },
+    {
+      "index": 532,
+      "start": "00:35:43.890",
+      "end": "00:35:44.890",
+      "text": "I think for us to presume"
+    },
+    {
+      "index": 533,
+      "start": "00:35:44.890",
+      "end": "00:35:48.360",
+      "text": "it's anything other than political is not true."
+    },
+    {
+      "index": 534,
+      "start": "00:35:48.360",
+      "end": "00:35:53.800",
+      "text": "And I mean, I'll come back to Councillor Cassidy's comments."
+    },
+    {
+      "index": 535,
+      "start": "00:35:53.800",
+      "end": "00:35:59.360",
+      "text": "And I know she says this with this most serious of regard"
+    },
+    {
+      "index": 536,
+      "start": "00:35:59.360",
+      "end": "00:36:01.060",
+      "text": "for oppression in the world,"
+    },
+    {
+      "index": 537,
+      "start": "00:36:01.060",
+      "end": "00:36:04.570",
+      "text": "but the very nature of that description suggests to me"
+    },
+    {
+      "index": 538,
+      "start": "00:36:04.570",
+      "end": "00:36:08.480",
+      "text": "and frankly, everything I know of this organization,"
+    },
+    {
+      "index": 539,
+      "start": "00:36:08.480",
+      "end": "00:36:10.410",
+      "text": "it's absolutely a movement"
+    },
+    {
+      "index": 540,
+      "start": "00:36:10.410",
+      "end": "00:36:12.600",
+      "text": "and it's intended to respond, as they've said,"
+    },
+    {
+      "index": 541,
+      "start": "00:36:12.600",
+      "end": "00:36:14.210",
+      "text": "to communist China."
+    },
+    {
+      "index": 542,
+      "start": "00:36:14.210",
+      "end": "00:36:16.940",
+      "text": "And so I get that and I understand why they are,"
+    },
+    {
+      "index": 543,
+      "start": "00:36:16.940",
+      "end": "00:36:19.560",
+      "text": "but you know what, to change our flag policy,"
+    },
+    {
+      "index": 544,
+      "start": "00:36:19.560",
+      "end": "00:36:25.220",
+      "text": "to accommodate this, I mean, there's time and place"
+    },
+    {
+      "index": 545,
+      "start": "00:36:25.220",
+      "end": "00:36:30.280",
+      "text": "and I do not believe that this is either the time"
+    },
+    {
+      "index": 546,
+      "start": "00:36:30.280",
+      "end": "00:36:32.520",
+      "text": "nor the place for this purpose."
+    },
+    {
+      "index": 547,
+      "start": "00:36:32.520",
+      "end": "00:36:33.490",
+      "text": "But I just wanna make it clear,"
+    },
+    {
+      "index": 548,
+      "start": "00:36:33.490",
+      "end": "00:36:39.630",
+      "text": "this is not just a cultural organization,"
+    },
+    {
+      "index": 549,
+      "start": "00:36:39.630",
+      "end": "00:36:40.750",
+      "text": "as they suggest."
+    },
+    {
+      "index": 550,
+      "start": "00:36:40.750",
+      "end": "00:36:44.040",
+      "text": "I can suggest to you the lobbying that we would have"
+    },
+    {
+      "index": 551,
+      "start": "00:36:44.040",
+      "end": "00:36:47.320",
+      "text": "at the federal level was exceptionally significant."
+    },
+    {
+      "index": 552,
+      "start": "00:36:47.320",
+      "end": "00:36:48.380",
+      "text": "And they're an important group."
+    },
+    {
+      "index": 553,
+      "start": "00:36:48.380",
+      "end": "00:36:50.020",
+      "text": "I'm not, and I'm not cascading them,"
+    },
+    {
+      "index": 554,
+      "start": "00:36:50.020",
+      "end": "00:36:52.440",
+      "text": "which is why I supported their proclamation,"
+    },
+    {
+      "index": 555,
+      "start": "00:36:52.440",
+      "end": "00:36:55.690",
+      "text": "but I cannot support changing our flag policy"
+    },
+    {
+      "index": 556,
+      "start": "00:36:55.690",
+      "end": "00:36:59.470",
+      "text": "to accommodate what is clearly a political direction."
+    },
+    {
+      "index": 557,
+      "start": "00:36:59.470",
+      "end": "00:37:00.880",
+      "text": "And I don't wish them poorly,"
+    },
+    {
+      "index": 558,
+      "start": "00:37:00.880",
+      "end": "00:37:06.940",
+      "text": "I just don't think it's perfect to change our policy."
+    },
+    {
+      "index": 559,
+      "start": "00:37:06.940",
+      "end": "00:37:09.980",
+      "text": "Thank you, Your Worship and Councillor Cassidy."
+    },
+    {
+      "index": 560,
+      "start": "00:37:09.980",
+      "end": "00:37:11.950",
+      "text": "Yeah, I just wanna make a comment,"
+    },
+    {
+      "index": 561,
+      "start": "00:37:11.950",
+      "end": "00:37:16.810",
+      "text": "not disputing anything that the mayor is saying or anything."
+    },
+    {
+      "index": 562,
+      "start": "00:37:16.810",
+      "end": "00:37:18.350",
+      "text": "I just wanna say that I'm not in favor"
+    },
+    {
+      "index": 563,
+      "start": "00:37:18.350",
+      "end": "00:37:19.940",
+      "text": "of changing the flag policy."
+    },
+    {
+      "index": 564,
+      "start": "00:37:19.940",
+      "end": "00:37:24.370",
+      "text": "My concern is the designation of a particular group"
+    },
+    {
+      "index": 565,
+      "start": "00:37:24.370",
+      "end": "00:37:26.970",
+      "text": "and I would support the appeal"
+    },
+    {
+      "index": 566,
+      "start": "00:37:26.970",
+      "end": "00:37:31.970",
+      "text": "for those reasons that I don't agree"
+    },
+    {
+      "index": 567,
+      "start": "00:37:31.970",
+      "end": "00:37:35.010",
+      "text": "that they're necessarily political by choice."
+    },
+    {
+      "index": 568,
+      "start": "00:37:35.010",
+      "end": "00:37:38.980",
+      "text": "And that's all."
+    },
+    {
+      "index": 569,
+      "start": "00:37:38.980",
+      "end": "00:37:39.810",
+      "text": "Thank you."
+    },
+    {
+      "index": 570,
+      "start": "00:37:39.810",
+      "end": "00:37:41.780",
+      "text": "And Mayor Holder, you still have your hand up."
+    },
+    {
+      "index": 571,
+      "start": "00:37:41.780",
+      "end": "00:37:43.480",
+      "text": "I'm presuming that that's a leftover"
+    },
+    {
+      "index": 572,
+      "start": "00:37:43.480",
+      "end": "00:37:47.190",
+      "text": "from your putting it up a couple of minutes ago."
+    },
+    {
+      "index": 573,
+      "start": "00:37:47.190",
+      "end": "00:37:49.070",
+      "text": "I've been so absent in the last little while,"
+    },
+    {
+      "index": 574,
+      "start": "00:37:49.070",
+      "end": "00:37:55.840",
+      "text": "just nice to be recognized, thank you all take it down."
+    },
+    {
+      "index": 575,
+      "start": "00:37:55.840",
+      "end": "00:37:57.330",
+      "text": "And I see no other speakers,"
+    },
+    {
+      "index": 576,
+      "start": "00:37:57.330",
+      "end": "00:38:18.180",
+      "text": "so we will open the vote on this item."
+    },
+    {
+      "index": 577,
+      "start": "00:38:18.180",
+      "end": "00:38:22.560",
+      "text": "Using the vote, the motion's passed five to one."
+    },
+    {
+      "index": 578,
+      "start": "00:38:22.560",
+      "end": "00:38:23.390",
+      "text": "Thank you colleagues."
+    },
+    {
+      "index": 579,
+      "start": "00:38:23.390",
+      "end": "00:38:25.370",
+      "text": "Moving on to item five, deferred matters,"
+    },
+    {
+      "index": 580,
+      "start": "00:38:25.370",
+      "end": "00:38:27.200",
+      "text": "additional business, we have three items"
+    },
+    {
+      "index": 581,
+      "start": "00:38:27.200",
+      "end": "00:38:30.050",
+      "text": "of additional business on our added agenda."
+    },
+    {
+      "index": 582,
+      "start": "00:38:30.050",
+      "end": "00:38:33.110",
+      "text": "The first is 5.1, it's an application"
+    },
+    {
+      "index": 583,
+      "start": "00:38:33.110",
+      "end": "00:38:37.940",
+      "text": "for the issuance of proclamation, world press freedom day."
+    },
+    {
+      "index": 584,
+      "start": "00:38:37.940",
+      "end": "00:38:39.470",
+      "text": "And we'll look for a mover and a seconder"
+    },
+    {
+      "index": 585,
+      "start": "00:38:39.470",
+      "end": "00:38:41.360",
+      "text": "to get that on the floor, moved by Councillor Cassidy"
+    },
+    {
+      "index": 586,
+      "start": "00:38:41.360",
+      "end": "00:38:45.260",
+      "text": "and seconded by Deputy Mayor Morgan."
+    },
+    {
+      "index": 587,
+      "start": "00:38:45.260",
+      "end": "00:38:47.170",
+      "text": "Any questions or comments?"
+    },
+    {
+      "index": 588,
+      "start": "00:38:47.170",
+      "end": "00:38:49.420",
+      "text": "Councillor Cassidy."
+    },
+    {
+      "index": 589,
+      "start": "00:38:49.420",
+      "end": "00:38:51.220",
+      "text": "Thanks, Mr. Chair, happy to move this again."
+    },
+    {
+      "index": 590,
+      "start": "00:38:51.220",
+      "end": "00:38:54.890",
+      "text": "We did this last year and again,"
+    },
+    {
+      "index": 591,
+      "start": "00:38:54.890",
+      "end": "00:38:57.810",
+      "text": "with the climate of the world today."
+    },
+    {
+      "index": 592,
+      "start": "00:38:57.810",
+      "end": "00:39:05.150",
+      "text": "Press freedom is more important now than ever."
+    },
+    {
+      "index": 593,
+      "start": "00:39:05.150",
+      "end": "00:39:06.720",
+      "text": "And I see no other hands and a whole lot"
+    },
+    {
+      "index": 594,
+      "start": "00:39:06.720",
+      "end": "00:39:09.010",
+      "text": "of nodding of heads to Councillor Cassidy's comments."
+    },
+    {
+      "index": 595,
+      "start": "00:39:09.010",
+      "end": "00:39:17.900",
+      "text": "So we will open the vote on this item."
+    },
+    {
+      "index": 596,
+      "start": "00:39:17.900",
+      "end": "00:39:22.470",
+      "text": "Using the vote, the motion's passed six to zero."
+    },
+    {
+      "index": 597,
+      "start": "00:39:22.470",
+      "end": "00:39:24.040",
+      "text": "Thank you, Clerk and colleagues."
+    },
+    {
+      "index": 598,
+      "start": "00:39:24.040",
+      "end": "00:39:27.430",
+      "text": "Item 5.2 on the added is court security"
+    },
+    {
+      "index": 599,
+      "start": "00:39:27.430",
+      "end": "00:39:31.340",
+      "text": "and prisoner transportation program transfer payment agreement."
+    },
+    {
+      "index": 600,
+      "start": "00:39:31.340",
+      "end": "00:39:33.500",
+      "text": "This is an agreement between the city and the province"
+    },
+    {
+      "index": 601,
+      "start": "00:39:33.500",
+      "end": "00:39:35.190",
+      "text": "and we'll look for a mover and a seconder"
+    },
+    {
+      "index": 602,
+      "start": "00:39:35.190",
+      "end": "00:39:38.160",
+      "text": "to get this on the floor."
+    },
+    {
+      "index": 603,
+      "start": "00:39:38.160",
+      "end": "00:39:39.860",
+      "text": "Moved by Councillor Hmueh and seconded"
+    },
+    {
+      "index": 604,
+      "start": "00:39:39.860",
+      "end": "00:39:41.780",
+      "text": "by Councillor Fife-Milar."
+    },
+    {
+      "index": 605,
+      "start": "00:39:41.780",
+      "end": "00:39:47.270",
+      "text": "Questions or comments on this item?"
+    },
+    {
+      "index": 606,
+      "start": "00:39:47.270",
+      "end": "00:40:04.170",
+      "text": "Okay, seeing none, we will open the vote on this item."
+    },
+    {
+      "index": 607,
+      "start": "00:40:04.170",
+      "end": "00:40:08.930",
+      "text": "Seeing the vote, the motion is passed six to zero."
+    },
+    {
+      "index": 608,
+      "start": "00:40:08.930",
+      "end": "00:40:12.590",
+      "text": "Item 5.3 is the last item on our public agenda."
+    },
+    {
+      "index": 609,
+      "start": "00:40:12.590",
+      "end": "00:40:17.380",
+      "text": "And that is the added election signed by law update."
+    },
+    {
+      "index": 610,
+      "start": "00:40:17.380",
+      "end": "00:40:20.200",
+      "text": "As colleagues will recall, this is a referral back"
+    },
+    {
+      "index": 611,
+      "start": "00:40:20.200",
+      "end": "00:40:25.810",
+      "text": "from council, our last council meeting."
+    },
+    {
+      "index": 612,
+      "start": "00:40:25.810",
+      "end": "00:40:29.360",
+      "text": "And I will look, Deputy Mayor Morgan"
+    },
+    {
+      "index": 613,
+      "start": "00:40:29.360",
+      "end": "00:40:31.910",
+      "text": "and then Councillor Hmueh."
+    },
+    {
+      "index": 614,
+      "start": "00:40:31.910",
+      "end": "00:40:34.020",
+      "text": "Yes, I'd like to ask some questions about this."
+    },
+    {
+      "index": 615,
+      "start": "00:40:34.020",
+      "end": "00:40:37.310",
+      "text": "And it's really, I don't necessarily need changes"
+    },
+    {
+      "index": 616,
+      "start": "00:40:37.310",
+      "end": "00:40:39.730",
+      "text": "to the by-law, but I want to understand how our staff"
+    },
+    {
+      "index": 617,
+      "start": "00:40:39.730",
+      "end": "00:40:43.110",
+      "text": "interpret the by-law from a practical standpoint"
+    },
+    {
+      "index": 618,
+      "start": "00:40:43.110",
+      "end": "00:40:45.830",
+      "text": "when they're actually enforcing it."
+    },
+    {
+      "index": 619,
+      "start": "00:40:45.830",
+      "end": "00:40:50.860",
+      "text": "And it's related to the 100 meters between signs."
+    },
+    {
+      "index": 620,
+      "start": "00:40:50.860",
+      "end": "00:40:53.100",
+      "text": "My understanding from the discussion,"
+    },
+    {
+      "index": 621,
+      "start": "00:40:53.100",
+      "end": "00:40:54.450",
+      "text": "although I'm not sure it's clear"
+    },
+    {
+      "index": 622,
+      "start": "00:40:54.450",
+      "end": "00:40:56.000",
+      "text": "from my reading of the by-law,"
+    },
+    {
+      "index": 623,
+      "start": "00:40:56.000",
+      "end": "00:41:00.210",
+      "text": "is that signs would, it's not 100 meters"
+    },
+    {
+      "index": 624,
+      "start": "00:41:00.210",
+      "end": "00:41:03.660",
+      "text": "from a specific sign as a radius in all directions."
+    },
+    {
+      "index": 625,
+      "start": "00:41:03.660",
+      "end": "00:41:06.420",
+      "text": "But it refers to the same side of the road."
+    },
+    {
+      "index": 626,
+      "start": "00:41:06.420",
+      "end": "00:41:09.880",
+      "text": "In other words, if you had a sign on one side of,"
+    },
+    {
+      "index": 627,
+      "start": "00:41:09.880",
+      "end": "00:41:13.100",
+      "text": "say Wonderland Road, you could have a sign,"
+    },
+    {
+      "index": 628,
+      "start": "00:41:13.100",
+      "end": "00:41:15.050",
+      "text": "right across the road from it on the other side"
+    },
+    {
+      "index": 629,
+      "start": "00:41:15.050",
+      "end": "00:41:18.390",
+      "text": "going the other direction for traffic the other way."
+    },
+    {
+      "index": 630,
+      "start": "00:41:18.390",
+      "end": "00:41:20.260",
+      "text": "They may be within 100 meters of each other,"
+    },
+    {
+      "index": 631,
+      "start": "00:41:20.260",
+      "end": "00:41:23.170",
+      "text": "but that the 100 meter issue is more so"
+    },
+    {
+      "index": 632,
+      "start": "00:41:23.170",
+      "end": "00:41:26.260",
+      "text": "for signs on the same side of the road,"
+    },
+    {
+      "index": 633,
+      "start": "00:41:26.260",
+      "end": "00:41:28.520",
+      "text": "which would then, I think, be a little more permissive"
+    },
+    {
+      "index": 634,
+      "start": "00:41:28.520",
+      "end": "00:41:31.730",
+      "text": "at intersections where you have different turning radiuses"
+    },
+    {
+      "index": 635,
+      "start": "00:41:31.730",
+      "end": "00:41:35.140",
+      "text": "given where essentially four different sides"
+    },
+    {
+      "index": 636,
+      "start": "00:41:35.140",
+      "end": "00:41:36.480",
+      "text": "of the road meet."
+    },
+    {
+      "index": 637,
+      "start": "00:41:36.480",
+      "end": "00:41:39.750",
+      "text": "So I just want to, if our staff could comment on,"
+    },
+    {
+      "index": 638,
+      "start": "00:41:39.750",
+      "end": "00:41:41.200",
+      "text": "is that how it would be enforced?"
+    },
+    {
+      "index": 639,
+      "start": "00:41:41.200",
+      "end": "00:41:44.260",
+      "text": "It's not 100 meter radius to the sign,"
+    },
+    {
+      "index": 640,
+      "start": "00:41:44.260",
+      "end": "00:41:49.570",
+      "text": "but it is 100 meters for signs on the same side of the road."
+    },
+    {
+      "index": 641,
+      "start": "00:41:49.570",
+      "end": "00:41:50.510",
+      "text": "Thank you, Deputy Mayor."
+    },
+    {
+      "index": 642,
+      "start": "00:41:50.510",
+      "end": "00:41:54.880",
+      "text": "And I think perhaps, I know Ms. Chapman is with us"
+    },
+    {
+      "index": 643,
+      "start": "00:41:54.880",
+      "end": "00:41:56.760",
+      "text": "in the meeting, Ms. Chapman,"
+    },
+    {
+      "index": 644,
+      "start": "00:41:56.760",
+      "end": "00:42:00.090",
+      "text": "could you comment on that?"
+    },
+    {
+      "index": 645,
+      "start": "00:42:00.090",
+      "end": "00:42:02.680",
+      "text": "Sure, measuring would be on the same side"
+    },
+    {
+      "index": 646,
+      "start": "00:42:02.680",
+      "end": "00:42:05.680",
+      "text": "of the road between signs."
+    },
+    {
+      "index": 647,
+      "start": "00:42:05.680",
+      "end": "00:42:12.240",
+      "text": "So the 100 meter distance and never crossing over the road."
+    },
+    {
+      "index": 648,
+      "start": "00:42:12.240",
+      "end": "00:42:13.550",
+      "text": "Thank you, Deputy Mayor."
+    },
+    {
+      "index": 649,
+      "start": "00:42:13.550",
+      "end": "00:42:15.800",
+      "text": "Okay, now I'll make some comments on the general bylaws."
+    },
+    {
+      "index": 650,
+      "start": "00:42:15.800",
+      "end": "00:42:18.130",
+      "text": "So I appreciate that we've had a back and forth discussion."
+    },
+    {
+      "index": 651,
+      "start": "00:42:18.130",
+      "end": "00:42:19.830",
+      "text": "We've referred this back a few times."
+    },
+    {
+      "index": 652,
+      "start": "00:42:19.830",
+      "end": "00:42:22.860",
+      "text": "Overall, given that answer,"
+    },
+    {
+      "index": 653,
+      "start": "00:42:22.860",
+      "end": "00:42:27.240",
+      "text": "I'm going to support this overall package of changes."
+    },
+    {
+      "index": 654,
+      "start": "00:42:27.240",
+      "end": "00:42:29.270",
+      "text": "I will say there's not everything in here"
+    },
+    {
+      "index": 655,
+      "start": "00:42:29.270",
+      "end": "00:42:31.380",
+      "text": "is something that I certainly supported"
+    },
+    {
+      "index": 656,
+      "start": "00:42:31.380",
+      "end": "00:42:32.690",
+      "text": "through the discussion."
+    },
+    {
+      "index": 657,
+      "start": "00:42:32.690",
+      "end": "00:42:37.270",
+      "text": "I still do have my own concerns about the 96 hours to 72 hours."
+    },
+    {
+      "index": 658,
+      "start": "00:42:37.270",
+      "end": "00:42:39.340",
+      "text": "I think there are good points on other side."
+    },
+    {
+      "index": 659,
+      "start": "00:42:39.340",
+      "end": "00:42:42.920",
+      "text": "I just, having one in election and lost an election,"
+    },
+    {
+      "index": 660,
+      "start": "00:42:42.920",
+      "end": "00:42:45.180",
+      "text": "I can just say it is much harder when you lose"
+    },
+    {
+      "index": 661,
+      "start": "00:42:45.180",
+      "end": "00:42:47.570",
+      "text": "to get volunteers to take signs down than when you win."
+    },
+    {
+      "index": 662,
+      "start": "00:42:47.570",
+      "end": "00:42:49.280",
+      "text": "Everybody wants to come and help you when you win."
+    },
+    {
+      "index": 663,
+      "start": "00:42:49.280",
+      "end": "00:42:52.850",
+      "text": "And when you lose, people might not show up as much."
+    },
+    {
+      "index": 664,
+      "start": "00:42:52.850",
+      "end": "00:42:57.510",
+      "text": "And so I was okay with allowing for a little bit extra time,"
+    },
+    {
+      "index": 665,
+      "start": "00:42:57.510",
+      "end": "00:42:58.550",
+      "text": "'cause I think it benefits those"
+    },
+    {
+      "index": 666,
+      "start": "00:42:58.550",
+      "end": "00:43:00.380",
+      "text": "who are not successful in the election."
+    },
+    {
+      "index": 667,
+      "start": "00:43:00.380",
+      "end": "00:43:02.410",
+      "text": "That being said, I appreciate the dialogue and discussion"
+    },
+    {
+      "index": 668,
+      "start": "00:43:02.410",
+      "end": "00:43:03.250",
+      "text": "and that this is something"
+    },
+    {
+      "index": 669,
+      "start": "00:43:03.250",
+      "end": "00:43:05.170",
+      "text": "we're building consensus around as a council."
+    },
+    {
+      "index": 670,
+      "start": "00:43:05.170",
+      "end": "00:43:07.480",
+      "text": "And so I'll support the overall package,"
+    },
+    {
+      "index": 671,
+      "start": "00:43:07.480",
+      "end": "00:43:08.760",
+      "text": "even though there's a couple of things in there"
+    },
+    {
+      "index": 672,
+      "start": "00:43:08.760",
+      "end": "00:43:10.310",
+      "text": "that aren't my personal preference,"
+    },
+    {
+      "index": 673,
+      "start": "00:43:10.310",
+      "end": "00:43:13.260",
+      "text": "but I think council's done a good job of debating this"
+    },
+    {
+      "index": 674,
+      "start": "00:43:13.260",
+      "end": "00:43:16.650",
+      "text": "and the Councillors who have hammered out the compromises."
+    },
+    {
+      "index": 675,
+      "start": "00:43:16.650",
+      "end": "00:43:21.280",
+      "text": "I'm going to support them and their ability to find something"
+    },
+    {
+      "index": 676,
+      "start": "00:43:21.280",
+      "end": "00:43:23.310",
+      "text": "that I think there's some common ground on this."
+    },
+    {
+      "index": 677,
+      "start": "00:43:23.310",
+      "end": "00:43:25.940",
+      "text": "So thank you to the Councillors who are pushing this"
+    },
+    {
+      "index": 678,
+      "start": "00:43:25.940",
+      "end": "00:43:29.890",
+      "text": "and I will support this version of the bylaw."
+    },
+    {
+      "index": 679,
+      "start": "00:43:29.890",
+      "end": "00:43:32.430",
+      "text": "Thank you, Deputy Mayor Morgan, Councillor Cassidy,"
+    },
+    {
+      "index": 680,
+      "start": "00:43:32.430",
+      "end": "00:43:34.250",
+      "text": "you had your hand up and then it went down,"
+    },
+    {
+      "index": 681,
+      "start": "00:43:34.250",
+      "end": "00:43:36.150",
+      "text": "but did you want to make some comments on this"
+    },
+    {
+      "index": 682,
+      "start": "00:43:36.150",
+      "end": "00:43:39.710",
+      "text": "as I know you and I worked on this?"
+    },
+    {
+      "index": 683,
+      "start": "00:43:39.710",
+      "end": "00:43:41.470",
+      "text": "Yeah, no, I'm fine, Mr. Chair."
+    },
+    {
+      "index": 684,
+      "start": "00:43:41.470",
+      "end": "00:43:43.890",
+      "text": "I decided, you know, we've spoken a lot about this."
+    },
+    {
+      "index": 685,
+      "start": "00:43:43.890",
+      "end": "00:43:45.440",
+      "text": "I'm happy with these compromises."
+    },
+    {
+      "index": 686,
+      "start": "00:43:45.440",
+      "end": "00:43:47.230",
+      "text": "And thanks to you and to Councillor Morgan"
+    },
+    {
+      "index": 687,
+      "start": "00:43:47.230",
+      "end": "00:43:51.890",
+      "text": "for the work that we've done to try to reach a consensus."
+    },
+    {
+      "index": 688,
+      "start": "00:43:51.890",
+      "end": "00:43:55.670",
+      "text": "So I hope that the committee supports this work."
+    },
+    {
+      "index": 689,
+      "start": "00:43:55.670",
+      "end": "00:43:59.680",
+      "text": "And I guess we won't know till the vote's closed."
+    },
+    {
+      "index": 690,
+      "start": "00:43:59.680",
+      "end": "00:44:00.740",
+      "text": "Thank you, Councillor Cassidy."
+    },
+    {
+      "index": 691,
+      "start": "00:44:00.740",
+      "end": "00:44:05.270",
+      "text": "And I've got Councillor Fyfmalar on the speaker's list next."
+    },
+    {
+      "index": 692,
+      "start": "00:44:05.270",
+      "end": "00:44:07.750",
+      "text": "Thank you, Chair, through you, just to confirm"
+    },
+    {
+      "index": 693,
+      "start": "00:44:07.750",
+      "end": "00:44:11.580",
+      "text": "as I read this and I'm in support of the bylaw here,"
+    },
+    {
+      "index": 694,
+      "start": "00:44:11.580",
+      "end": "00:44:14.390",
+      "text": "but on the item that's 100 meters,"
+    },
+    {
+      "index": 695,
+      "start": "00:44:14.390",
+      "end": "00:44:17.750",
+      "text": "I assume that refers to public property"
+    },
+    {
+      "index": 696,
+      "start": "00:44:17.750",
+      "end": "00:44:20.290",
+      "text": "and not private property, is that correct?"
+    },
+    {
+      "index": 697,
+      "start": "00:44:20.290",
+      "end": "00:44:25.390",
+      "text": "I will go back to Ms. Chapman just to confirm"
+    },
+    {
+      "index": 698,
+      "start": "00:44:25.390",
+      "end": "00:44:30.900",
+      "text": "that the 100 meter separation is for public property signs."
+    },
+    {
+      "index": 699,
+      "start": "00:44:30.900",
+      "end": "00:44:34.170",
+      "text": "Chair, yes, that is my understanding of the bylaw."
+    },
+    {
+      "index": 700,
+      "start": "00:44:34.170",
+      "end": "00:44:36.710",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 701,
+      "start": "00:44:36.710",
+      "end": "00:44:38.030",
+      "text": "Thank you, Councillor Fyfmalar."
+    },
+    {
+      "index": 702,
+      "start": "00:44:38.030",
+      "end": "00:44:42.340",
+      "text": "And we have no other speakers to this."
+    },
+    {
+      "index": 703,
+      "start": "00:44:42.340",
+      "end": "00:44:44.870",
+      "text": "If committee will indulge me to just make a comment"
+    },
+    {
+      "index": 704,
+      "start": "00:44:44.870",
+      "end": "00:44:46.520",
+      "text": "very quickly from the chair,"
+    },
+    {
+      "index": 705,
+      "start": "00:44:46.520",
+      "end": "00:44:48.970",
+      "text": "I just wanna thank Councillor Cassidy"
+    },
+    {
+      "index": 706,
+      "start": "00:44:48.970",
+      "end": "00:44:50.850",
+      "text": "for working with me on this."
+    },
+    {
+      "index": 707,
+      "start": "00:44:50.850",
+      "end": "00:44:53.420",
+      "text": "I know that we both had some different views"
+    },
+    {
+      "index": 708,
+      "start": "00:44:53.420",
+      "end": "00:44:54.250",
+      "text": "on where it could go."
+    },
+    {
+      "index": 709,
+      "start": "00:44:54.250",
+      "end": "00:44:56.500",
+      "text": "And I think we've found a good compromise here"
+    },
+    {
+      "index": 710,
+      "start": "00:44:56.500",
+      "end": "00:45:01.550",
+      "text": "where we're gonna help reduce public property sign"
+    },
+    {
+      "index": 711,
+      "start": "00:45:01.550",
+      "end": "00:45:05.720",
+      "text": "visual pollution and yet allow the freedom"
+    },
+    {
+      "index": 712,
+      "start": "00:45:05.720",
+      "end": "00:45:09.860",
+      "text": "of people who wanna display a sign on their own private lawn"
+    },
+    {
+      "index": 713,
+      "start": "00:45:09.860",
+      "end": "00:45:12.330",
+      "text": "an opportunity to do so when it's appropriate for them."
+    },
+    {
+      "index": 714,
+      "start": "00:45:12.330",
+      "end": "00:45:15.210",
+      "text": "So I'm really happy where this has landed."
+    },
+    {
+      "index": 715,
+      "start": "00:45:15.210",
+      "end": "00:45:17.780",
+      "text": "I think it's been a good process to get here."
+    },
+    {
+      "index": 716,
+      "start": "00:45:17.780",
+      "end": "00:45:20.190",
+      "text": "Even though we are pushing up against the deadline"
+    },
+    {
+      "index": 717,
+      "start": "00:45:20.190",
+      "end": "00:45:22.290",
+      "text": "to get it in place, we managed to do that."
+    },
+    {
+      "index": 718,
+      "start": "00:45:22.290",
+      "end": "00:45:27.300",
+      "text": "So thank you colleagues and since there's no other hands up,"
+    },
+    {
+      "index": 719,
+      "start": "00:45:27.300",
+      "end": "00:45:52.980",
+      "text": "I'm going to ask the clerk to open the vote on this."
+    },
+    {
+      "index": 720,
+      "start": "00:45:52.980",
+      "end": "00:45:58.310",
+      "text": "Closing the vote, the motion's passed six to zero."
+    },
+    {
+      "index": 721,
+      "start": "00:45:58.310",
+      "end": "00:45:59.500",
+      "text": "Thank you colleagues."
+    },
+    {
+      "index": 722,
+      "start": "00:45:59.500",
+      "end": "00:46:01.110",
+      "text": "That concludes the items on our public agenda."
+    },
+    {
+      "index": 723,
+      "start": "00:46:01.110",
+      "end": "00:46:05.790",
+      "text": "We do have four items for which we need to move in camera."
+    },
+    {
+      "index": 724,
+      "start": "00:46:05.790",
+      "end": "00:46:08.730",
+      "text": "So I'm gonna look for a motion to move in camera now."
+    },
+    {
+      "index": 725,
+      "start": "00:46:08.730",
+      "end": "00:46:10.250",
+      "text": "And that's moved by Councillor Hamou"
+    },
+    {
+      "index": 726,
+      "start": "00:46:10.250",
+      "end": "00:46:13.610",
+      "text": "and seconded by Councillor Cassidy"
+    },
+    {
+      "index": 727,
+      "start": "00:46:13.610",
+      "end": "00:46:24.680",
+      "text": "and we'll open the vote on that."
+    },
+    {
+      "index": 728,
+      "start": "00:46:24.680",
+      "end": "00:46:28.880",
+      "text": "Closing the vote, the motion's passed six to zero."
+    },
+    {
+      "index": 729,
+      "start": "00:46:28.880",
+      "end": "00:46:30.560",
+      "text": "Ask for your patience for just a couple of moments"
+    },
+    {
+      "index": 730,
+      "start": "00:46:30.560",
+      "end": "00:47:16.080",
+      "text": "while we get everything arranged for our in-camera session."
+    },
+    {
+      "index": 731,
+      "start": "00:47:16.080",
+      "end": "00:47:16.910",
+      "text": "Thank you colleagues."
+    },
+    {
+      "index": 732,
+      "start": "00:47:16.910",
+      "end": "00:47:19.170",
+      "text": "We are back in public session"
+    },
+    {
+      "index": 733,
+      "start": "00:47:19.170",
+      "end": "00:47:21.900",
+      "text": "for the fifth meeting of the Corporate Services Committee."
+    },
+    {
+      "index": 734,
+      "start": "00:47:21.900",
+      "end": "00:47:23.600",
+      "text": "And I will ask Vice Chair Hamou"
+    },
+    {
+      "index": 735,
+      "start": "00:47:23.600",
+      "end": "00:47:27.940",
+      "text": "to report out from confidential session."
+    },
+    {
+      "index": 736,
+      "start": "00:47:27.940",
+      "end": "00:47:30.800",
+      "text": "Thank you, progress is made for all items"
+    },
+    {
+      "index": 737,
+      "start": "00:47:30.800",
+      "end": "00:47:34.610",
+      "text": "on the confidential agenda."
+    },
+    {
+      "index": 738,
+      "start": "00:47:34.610",
+      "end": "00:47:36.440",
+      "text": "Thank you, Councillor Hamou."
+    },
+    {
+      "index": 739,
+      "start": "00:47:36.440",
+      "end": "00:47:38.400",
+      "text": "That leaves just a motion to adjourn"
+    },
+    {
+      "index": 740,
+      "start": "00:47:38.400",
+      "end": "00:47:40.990",
+      "text": "as our final item of business colleagues."
+    },
+    {
+      "index": 741,
+      "start": "00:47:40.990",
+      "end": "00:47:44.740",
+      "text": "So we'll look for someone to move that."
+    },
+    {
+      "index": 742,
+      "start": "00:47:44.740",
+      "end": "00:47:48.040",
+      "text": "Moved by Councillor Cassidy, seconded by Councillor Fife-Milar."
+    },
+    {
+      "index": 743,
+      "start": "00:47:48.040",
+      "end": "00:47:52.090",
+      "text": "And we can do that by hand, all those in favor."
+    },
+    {
+      "index": 744,
+      "start": "00:47:52.090",
+      "end": "00:47:53.310",
+      "text": "Thank you colleagues, we're adjourned."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Corporate%20Services%20Committee/2022/03-28/.transcript.srt"
+}

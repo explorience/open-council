@@ -1,1 +1,958 @@
-{"title": "6th Special Meeting of the Community and Protective Services Committee", "datetime": "2025-03-24 11:30:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2b2b7a05-edad-420a-8ae5-19c914b048b2&Agenda=PostMinutes&lang=English", "meeting_type": "Community and Protective Services Committee", "bills": null, "present": ["D. Ferreira", "H. McAlister", "P. Cuddy", "J. Pribil", "S. Trosow"], "also_present": ["M. Butlin", "D. Escobar", "M. Espinoza", "M. Feldberg", "S. Mathers", "J. Bunn"], "remote_attendance": ["K. Dickins", "E. Hunt", "C. Smith", "E. Skalski"], "content": {"string": "The meeting was called to order at 11:31 AM.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-24 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [], "items": {"1": {"title": "736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated March 24, 2025, related to an Approval of a Contribution Agreement with The London Cross-Cultural Learner Centre for the property located at 736-773 Dundas Street:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0The London Cross-Cultural Learner Centre\u2019s affordable housing project at 736-773 Dundas Street BE APPROVED for Ontario Priorities Housing Initiative Year 6 (\u201cOPHI\u201d) funding of $2,343,400.00 and the Civic Administration BE DIRECTED to recommend this project for funding to the Ministry of Municipal Affairs and Housing;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council special meeting to be held on March 25, 2025, to:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0approve the Contribution Agreement between The Corporation of the City of London and The London Cross-Cultural Learner Centre (the \u201cContribution Agreement\u201d), as appended to the above-noted by-law;\n\nii) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement;\u00a0\n\niii) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the Contribution Agreement; and;\n\niv) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve and execute amending agreements to the Contribution Agreement.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["H. McAlister", "P. Cuddy", "J. Pribil", "S. Trosow", "D. Ferreira"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-03-24 11:30:00", "attachments": [{"empty_flag": false, "title": "2025-03-24 SR 736-773 Dundas Street - Approval of Contribution Agmt - Part 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115127", "date": "2025-03-24 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2025-03-24 SR 736-773 Dundas Street - Approval of Contribution Agmt - Part 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115128", "date": "2025-03-24 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2025-03-24 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-24 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-24 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-03-24 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 11:39 AM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2025-03-24 11:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "6th Special Meeting of the Community and Protective Services Committee",
+  "datetime": "2025-03-24 11:30:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2b2b7a05-edad-420a-8ae5-19c914b048b2&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Community and Protective Services Committee",
+  "bills": null,
+  "present": [
+    "D. Ferreira",
+    "H. McAlister",
+    "P. Cuddy",
+    "J. Pribil",
+    "S. Trosow"
+  ],
+  "also_present": [
+    "M. Butlin",
+    "D. Escobar",
+    "M. Espinoza",
+    "M. Feldberg",
+    "S. Mathers",
+    "J. Bunn"
+  ],
+  "remote_attendance": [
+    "K. Dickins",
+    "E. Hunt",
+    "C. Smith",
+    "E. Skalski"
+  ],
+  "content": {
+    "string": "The meeting was called to order at 11:31 AM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-24 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated March 24, 2025, related to an Approval of a Contribution Agreement with The London Cross-Cultural Learner Centre for the property located at 736-773 Dundas Street:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0The London Cross-Cultural Learner Centre\u2019s affordable housing project at 736-773 Dundas Street BE APPROVED for Ontario Priorities Housing Initiative Year 6 (\u201cOPHI\u201d) funding of $2,343,400.00 and the Civic Administration BE DIRECTED to recommend this project for funding to the Ministry of Municipal Affairs and Housing;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council special meeting to be held on March 25, 2025, to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0approve the Contribution Agreement between The Corporation of the City of London and The London Cross-Cultural Learner Centre (the \u201cContribution Agreement\u201d), as appended to the above-noted by-law;\n\nii) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement;\u00a0\n\niii) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the Contribution Agreement; and;\n\niv) \u00a0 \u00a0authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve and execute amending agreements to the Contribution Agreement.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "D. Ferreira"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-03-24 11:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-03-24 SR 736-773 Dundas Street - Approval of Contribution Agmt - Part 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115127",
+              "date": "2025-03-24 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2025-03-24 SR 736-773 Dundas Street - Approval of Contribution Agmt - Part 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=115128",
+              "date": "2025-03-24 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2025-03-24 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-24 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-24 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-24 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 11:39 AM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-03-24 11:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:23:23.810",
+      "end": "00:23:27.840",
+      "text": "All right, everybody, I will be calling to order the sixth meeting of the Community and"
+    },
+    {
+      "index": 2,
+      "start": "00:23:27.840",
+      "end": "00:23:29.400",
+      "text": "Protective Services Committee."
+    },
+    {
+      "index": 3,
+      "start": "00:23:29.400",
+      "end": "00:23:33.520",
+      "text": "This is a special meeting with one item on the agenda."
+    },
+    {
+      "index": 4,
+      "start": "00:23:33.520",
+      "end": "00:23:37.210",
+      "text": "Please check the City website for additional meeting detail information."
+    },
+    {
+      "index": 5,
+      "start": "00:23:37.210",
+      "end": "00:23:41.460",
+      "text": "The City of London is situated on the traditional lands of the Anishnabek, Haudenosaunee, Linda"
+    },
+    {
+      "index": 6,
+      "start": "00:23:41.460",
+      "end": "00:23:43.410",
+      "text": "Peiwak, and Adawandran."
+    },
+    {
+      "index": 7,
+      "start": "00:23:43.410",
+      "end": "00:23:47.500",
+      "text": "We honor and respect the history, languages, and culture of the diverse indigenous people"
+    },
+    {
+      "index": 8,
+      "start": "00:23:47.500",
+      "end": "00:23:49.480",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 9,
+      "start": "00:23:49.480",
+      "end": "00:23:55.150",
+      "text": "The City of London is currently home to many First Nations, M\u00e9tis, and Inuit today as representatives"
+    },
+    {
+      "index": 10,
+      "start": "00:23:55.150",
+      "end": "00:23:59.520",
+      "text": "of the people of the City of London, we are grateful to have the opportunity to work and"
+    },
+    {
+      "index": 11,
+      "start": "00:23:59.520",
+      "end": "00:24:02.010",
+      "text": "live in this territory."
+    },
+    {
+      "index": 12,
+      "start": "00:24:02.010",
+      "end": "00:24:06.270",
+      "text": "City of London is committed to making every effort to provide alternate formats and communication"
+    },
+    {
+      "index": 13,
+      "start": "00:24:06.270",
+      "end": "00:24:09.510",
+      "text": "supports for meetings upon request."
+    },
+    {
+      "index": 14,
+      "start": "00:24:09.510",
+      "end": "00:24:19.890",
+      "text": "To make a request specific to this meeting, please contact CPSC@london.ca or dial 519-661-2489"
+    },
+    {
+      "index": 15,
+      "start": "00:24:19.890",
+      "end": "00:24:23.130",
+      "text": "extension-2425."
+    },
+    {
+      "index": 16,
+      "start": "00:24:23.130",
+      "end": "00:24:27.200",
+      "text": "I am with committee members in chambers today."
+    },
+    {
+      "index": 17,
+      "start": "00:24:27.200",
+      "end": "00:24:31.400",
+      "text": "I have Councillor McAllister, Ward 1, to my right."
+    },
+    {
+      "index": 18,
+      "start": "00:24:31.400",
+      "end": "00:24:34.670",
+      "text": "I have Councillor Peter Petty, Ward 3, to my right."
+    },
+    {
+      "index": 19,
+      "start": "00:24:34.670",
+      "end": "00:24:39.160",
+      "text": "I have Councillor Jerry Perbal, Ward 5, to my right."
+    },
+    {
+      "index": 20,
+      "start": "00:24:39.160",
+      "end": "00:24:42.660",
+      "text": "And Councillor Sam Traso, Ward 6, to my right."
+    },
+    {
+      "index": 21,
+      "start": "00:24:42.660",
+      "end": "00:24:45.290",
+      "text": "So I'll first be looking to committee for any disclosures of interest."
+    },
+    {
+      "index": 22,
+      "start": "00:24:45.290",
+      "end": "00:24:48.680",
+      "text": "I have none."
+    },
+    {
+      "index": 23,
+      "start": "00:24:48.680",
+      "end": "00:24:50.360",
+      "text": "Okay, one item on the consent."
+    },
+    {
+      "index": 24,
+      "start": "00:24:50.360",
+      "end": "00:24:55.800",
+      "text": "It's 2.1 regarding 736-773 Dundas Street."
+    },
+    {
+      "index": 25,
+      "start": "00:24:55.800",
+      "end": "00:25:00.040",
+      "text": "It's an approval of a contribution agreement with the London Cross Cultural Learner Center."
+    },
+    {
+      "index": 26,
+      "start": "00:25:00.040",
+      "end": "00:25:03.760",
+      "text": "So I will look to committee to move and second the motion."
+    },
+    {
+      "index": 27,
+      "start": "00:25:03.760",
+      "end": "00:25:06.600",
+      "text": "It's moved by Councillor Cuddy, seconded by Councillor McAllister."
+    },
+    {
+      "index": 28,
+      "start": "00:25:06.600",
+      "end": "00:25:15.730",
+      "text": "So looking to committee for a speaker's list."
+    },
+    {
+      "index": 29,
+      "start": "00:25:15.730",
+      "end": "00:25:20.160",
+      "text": "Councillor Traso."
+    },
+    {
+      "index": 30,
+      "start": "00:25:20.160",
+      "end": "00:25:27.360",
+      "text": "If I could ask staff to the chair to explain to me in more detail in what I'm getting from"
+    },
+    {
+      "index": 31,
+      "start": "00:25:27.360",
+      "end": "00:25:32.750",
+      "text": "this read, what is this money being diverted from?"
+    },
+    {
+      "index": 32,
+      "start": "00:25:32.750",
+      "end": "00:25:36.280",
+      "text": "I get the sense in here that this is something that was going to go someplace else and now"
+    },
+    {
+      "index": 33,
+      "start": "00:25:36.280",
+      "end": "00:25:37.640",
+      "text": "it's going to this."
+    },
+    {
+      "index": 34,
+      "start": "00:25:37.640",
+      "end": "00:25:38.870",
+      "text": "Could you help me with that?"
+    },
+    {
+      "index": 35,
+      "start": "00:25:38.870",
+      "end": "00:25:41.100",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 36,
+      "start": "00:25:41.100",
+      "end": "00:25:42.490",
+      "text": "I will go to Mr. Felberg."
+    },
+    {
+      "index": 37,
+      "start": "00:25:42.490",
+      "end": "00:25:44.990",
+      "text": "Thank you through you, Mr. Chair."
+    },
+    {
+      "index": 38,
+      "start": "00:25:44.990",
+      "end": "00:25:53.230",
+      "text": "So back in September, we awarded an affordable housing project and property to Wastell developments"
+    },
+    {
+      "index": 39,
+      "start": "00:25:53.230",
+      "end": "00:25:57.190",
+      "text": "to develop a block at the Duluth subdivision."
+    },
+    {
+      "index": 40,
+      "start": "00:25:57.190",
+      "end": "00:26:04.500",
+      "text": "As part of that award, it included the Ontario Priorities and Housing Initiative, OPHI, OPHI"
+    },
+    {
+      "index": 41,
+      "start": "00:26:04.500",
+      "end": "00:26:06.800",
+      "text": "dollars."
+    },
+    {
+      "index": 42,
+      "start": "00:26:06.800",
+      "end": "00:26:12.520",
+      "text": "And through the development process and through the planning process, what Wastell has established"
+    },
+    {
+      "index": 43,
+      "start": "00:26:12.520",
+      "end": "00:26:19.160",
+      "text": "that the restrictions in the OPHI funding do not allow them to, from their perspective,"
+    },
+    {
+      "index": 44,
+      "start": "00:26:19.160",
+      "end": "00:26:25.560",
+      "text": "be able to operate a viable performer into the long term for the project."
+    },
+    {
+      "index": 45,
+      "start": "00:26:25.560",
+      "end": "00:26:32.660",
+      "text": "So given that we have, there's a deadline for us to sign a contribution agreement with"
+    },
+    {
+      "index": 46,
+      "start": "00:26:32.660",
+      "end": "00:26:36.750",
+      "text": "for the OPHI dollars, the date currently is March 28th."
+    },
+    {
+      "index": 47,
+      "start": "00:26:36.750",
+      "end": "00:26:41.920",
+      "text": "So we need to sign and register it and find a partner."
+    },
+    {
+      "index": 48,
+      "start": "00:26:41.920",
+      "end": "00:26:45.750",
+      "text": "They didn't feel that they could advance the project effectively and be able to meet the"
+    },
+    {
+      "index": 49,
+      "start": "00:26:45.750",
+      "end": "00:26:51.380",
+      "text": "120 day timeline from the time that they sign the agreement."
+    },
+    {
+      "index": 50,
+      "start": "00:26:51.380",
+      "end": "00:26:57.480",
+      "text": "So this report before you today is transferring the funds from the Wastell project to another"
+    },
+    {
+      "index": 51,
+      "start": "00:26:57.480",
+      "end": "00:27:02.170",
+      "text": "one of our roadmap projects, which is the Cross Cultural Learning Center."
+    },
+    {
+      "index": 52,
+      "start": "00:27:02.170",
+      "end": "00:27:06.100",
+      "text": "We feel that they've advanced enough in the planning process and they've come in through"
+    },
+    {
+      "index": 53,
+      "start": "00:27:06.100",
+      "end": "00:27:10.150",
+      "text": "some of the development work with the site plan and building permit application."
+    },
+    {
+      "index": 54,
+      "start": "00:27:10.150",
+      "end": "00:27:16.200",
+      "text": "We feel that they will be able to succeed and meet that 120 day timeline."
+    },
+    {
+      "index": 55,
+      "start": "00:27:16.200",
+      "end": "00:27:18.580",
+      "text": "Thank you."
+    },
+    {
+      "index": 56,
+      "start": "00:27:18.580",
+      "end": "00:27:19.560",
+      "text": "Thank you."
+    },
+    {
+      "index": 57,
+      "start": "00:27:19.560",
+      "end": "00:27:21.170",
+      "text": "And also through the chair."
+    },
+    {
+      "index": 58,
+      "start": "00:27:21.170",
+      "end": "00:27:25.040",
+      "text": "So what is the impact on the other program of this transfer?"
+    },
+    {
+      "index": 59,
+      "start": "00:27:25.040",
+      "end": "00:27:31.690",
+      "text": "And could you, you said the name, but could you tell me the address and what the other"
+    },
+    {
+      "index": 60,
+      "start": "00:27:31.690",
+      "end": "00:27:34.300",
+      "text": "one is about in a little more detail?"
+    },
+    {
+      "index": 61,
+      "start": "00:27:34.300",
+      "end": "00:27:35.550",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 62,
+      "start": "00:27:35.550",
+      "end": "00:27:37.960",
+      "text": "Mr. Talbert."
+    },
+    {
+      "index": 63,
+      "start": "00:27:37.960",
+      "end": "00:27:38.940",
+      "text": "Through you, Mr. Chair."
+    },
+    {
+      "index": 64,
+      "start": "00:27:38.940",
+      "end": "00:27:42.050",
+      "text": "When you're talking about the other project, you mean the Wastell project, the location"
+    },
+    {
+      "index": 65,
+      "start": "00:27:42.050",
+      "end": "00:27:43.040",
+      "text": "of it?"
+    },
+    {
+      "index": 66,
+      "start": "00:27:43.040",
+      "end": "00:27:46.350",
+      "text": "Is that what you're referring to?"
+    },
+    {
+      "index": 67,
+      "start": "00:27:46.350",
+      "end": "00:27:50.840",
+      "text": "So that's the former St. Robert schools, the Duluth subdivision."
+    },
+    {
+      "index": 68,
+      "start": "00:27:50.840",
+      "end": "00:27:55.380",
+      "text": "We as the city purchase an old school site and we've gone through a subdivision approval"
+    },
+    {
+      "index": 69,
+      "start": "00:27:55.380",
+      "end": "00:28:00.020",
+      "text": "process and we've established a number of lots and blocks that we will be making available"
+    },
+    {
+      "index": 70,
+      "start": "00:28:00.020",
+      "end": "00:28:01.760",
+      "text": "for affordable housing."
+    },
+    {
+      "index": 71,
+      "start": "00:28:01.760",
+      "end": "00:28:04.870",
+      "text": "So block five is the property."
+    },
+    {
+      "index": 72,
+      "start": "00:28:04.870",
+      "end": "00:28:10.900",
+      "text": "It doesn't have a municipal address yet because we don't have a road at this point."
+    },
+    {
+      "index": 73,
+      "start": "00:28:10.900",
+      "end": "00:28:18.920",
+      "text": "When it does have a municipal address, it will be 260 unit buildings, of which Wastell's"
+    },
+    {
+      "index": 74,
+      "start": "00:28:18.920",
+      "end": "00:28:23.990",
+      "text": "application had identified 50 affordable units in both buildings."
+    },
+    {
+      "index": 75,
+      "start": "00:28:23.990",
+      "end": "00:28:26.280",
+      "text": "That project is still going to move forward."
+    },
+    {
+      "index": 76,
+      "start": "00:28:26.280",
+      "end": "00:28:34.050",
+      "text": "They're still going to be working towards getting financing from CMHC or some other entity."
+    },
+    {
+      "index": 77,
+      "start": "00:28:34.050",
+      "end": "00:28:39.430",
+      "text": "And they are still planning on progressing forward with that project, just not with the"
+    },
+    {
+      "index": 78,
+      "start": "00:28:39.430",
+      "end": "00:28:42.690",
+      "text": "financial funding tied to it."
+    },
+    {
+      "index": 79,
+      "start": "00:28:42.690",
+      "end": "00:28:43.680",
+      "text": "Thank you, Mr. Robert."
+    },
+    {
+      "index": 80,
+      "start": "00:28:43.680",
+      "end": "00:28:44.670",
+      "text": "Councillor."
+    },
+    {
+      "index": 81,
+      "start": "00:28:44.670",
+      "end": "00:28:45.660",
+      "text": "Thank you."
+    },
+    {
+      "index": 82,
+      "start": "00:28:45.660",
+      "end": "00:28:46.650",
+      "text": "My final question to the chairs."
+    },
+    {
+      "index": 83,
+      "start": "00:28:46.650",
+      "end": "00:28:48.370",
+      "text": "My final comment is thank you."
+    },
+    {
+      "index": 84,
+      "start": "00:28:48.370",
+      "end": "00:28:49.360",
+      "text": "That's very helpful."
+    },
+    {
+      "index": 85,
+      "start": "00:28:49.360",
+      "end": "00:28:56.520",
+      "text": "I wanted to make sure that this wasn't a decision to shut something else down in order to proceed"
+    },
+    {
+      "index": 86,
+      "start": "00:28:56.520",
+      "end": "00:28:57.510",
+      "text": "with this."
+    },
+    {
+      "index": 87,
+      "start": "00:28:57.510",
+      "end": "00:29:01.550",
+      "text": "And I'm happy to hear that we're going to be pursuing the other one as well."
+    },
+    {
+      "index": 88,
+      "start": "00:29:01.550",
+      "end": "00:29:04.890",
+      "text": "So thank you very much for that."
+    },
+    {
+      "index": 89,
+      "start": "00:29:04.890",
+      "end": "00:29:08.440",
+      "text": "Councillor, I have Councillor Pribble next."
+    },
+    {
+      "index": 90,
+      "start": "00:29:08.440",
+      "end": "00:29:24.350",
+      "text": "Thank you, Mr. Chair, I really like this project that's a lot in front of us, but my question is, were there other considerations, potential of other projects, or was there potential to split this amount to the project to get us further and to get us more units?"
+    },
+    {
+      "index": 91,
+      "start": "00:29:24.350",
+      "end": "00:29:26.210",
+      "text": "Thank you."
+    },
+    {
+      "index": 92,
+      "start": "00:29:26.210",
+      "end": "00:29:27.150",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 93,
+      "start": "00:29:27.150",
+      "end": "00:29:28.720",
+      "text": "Mr. Felberg."
+    },
+    {
+      "index": 94,
+      "start": "00:29:28.720",
+      "end": "00:29:29.720",
+      "text": "Through you, Mr. Chair."
+    },
+    {
+      "index": 95,
+      "start": "00:29:29.720",
+      "end": "00:29:30.720",
+      "text": "Actually, absolutely."
+    },
+    {
+      "index": 96,
+      "start": "00:29:30.720",
+      "end": "00:29:34.580",
+      "text": "We took a look at three different projects when we were making the decision."
+    },
+    {
+      "index": 97,
+      "start": "00:29:34.580",
+      "end": "00:29:45.550",
+      "text": "But we did determine, though, that the complexity of finding three different partners to sign an agreement and register the funding on a property would become very challenging in the constrained timeline that we have."
+    },
+    {
+      "index": 98,
+      "start": "00:29:45.550",
+      "end": "00:29:48.540",
+      "text": "I think we have till Friday."
+    },
+    {
+      "index": 99,
+      "start": "00:29:48.540",
+      "end": "00:29:57.520",
+      "text": "So what we did, we took a look at some of the populations or the targeted populations under the National Housing Strategy and the Cross Cultural Learning Center."
+    },
+    {
+      "index": 100,
+      "start": "00:29:57.520",
+      "end": "00:30:10.540",
+      "text": "It only does it help revitalize a neighborhood in Old East Village, but it also is providing support to a number of the folks on the National Housing Strategy and a number of those targeted populations."
+    },
+    {
+      "index": 101,
+      "start": "00:30:10.540",
+      "end": "00:30:24.500",
+      "text": "Overall, it's also constructing 247 units total, and there are 75 of them are affordable, supporting seniors, newcomers, and refugees, which we think is a really good opportunity."
+    },
+    {
+      "index": 102,
+      "start": "00:30:24.500",
+      "end": "00:30:31.480",
+      "text": "We do have other projects within the roadmap that we're supporting as well that we're considered, but this we felt was the best option."
+    },
+    {
+      "index": 103,
+      "start": "00:30:31.480",
+      "end": "00:30:33.040",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 104,
+      "start": "00:30:33.040",
+      "end": "00:30:34.420",
+      "text": "Thank you."
+    },
+    {
+      "index": 105,
+      "start": "00:30:34.420",
+      "end": "00:30:38.350",
+      "text": "Thank you for doing this and making sure that we don't lose these funds from higher levels of government."
+    },
+    {
+      "index": 106,
+      "start": "00:30:38.350",
+      "end": "00:30:40.490",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 107,
+      "start": "00:30:40.490",
+      "end": "00:30:41.470",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 108,
+      "start": "00:30:41.470",
+      "end": "00:30:42.460",
+      "text": "All right."
+    },
+    {
+      "index": 109,
+      "start": "00:30:42.460",
+      "end": "00:30:50.070",
+      "text": "Looking to committee for a last call for any questions or comments."
+    },
+    {
+      "index": 110,
+      "start": "00:30:50.070",
+      "end": "00:30:51.070",
+      "text": "I see none."
+    },
+    {
+      "index": 111,
+      "start": "00:30:51.070",
+      "end": "00:30:51.990",
+      "text": "Okay."
+    },
+    {
+      "index": 112,
+      "start": "00:30:51.990",
+      "end": "00:30:55.500",
+      "text": "Let's call the question."
+    },
+    {
+      "index": 113,
+      "start": "00:30:55.500",
+      "end": "00:31:04.610",
+      "text": "Yes, closing the vote."
+    },
+    {
+      "index": 114,
+      "start": "00:31:04.610",
+      "end": "00:31:06.530",
+      "text": "The motion carries five to zero."
+    },
+    {
+      "index": 115,
+      "start": "00:31:06.530",
+      "end": "00:31:14.520",
+      "text": "Okay, we have nothing for scheduled items, nothing for items for direction, nothing for deferred matters or additional business that leads us to adjournment."
+    },
+    {
+      "index": 116,
+      "start": "00:31:14.520",
+      "end": "00:31:18.480",
+      "text": "So looking for a motion to adjourn moved by Councillor McAllister, seconded by Councillor Pribble."
+    },
+    {
+      "index": 117,
+      "start": "00:31:18.480",
+      "end": "00:31:19.510",
+      "text": "This is a hand vote."
+    },
+    {
+      "index": 118,
+      "start": "00:31:19.510",
+      "end": "00:31:21.380",
+      "text": "All those in favor?"
+    },
+    {
+      "index": 119,
+      "start": "00:31:21.380",
+      "end": "00:31:22.310",
+      "text": "All those opposed?"
+    },
+    {
+      "index": 120,
+      "start": "00:31:22.310",
+      "end": "00:31:23.490",
+      "text": "We are adjourned."
+    },
+    {
+      "index": 121,
+      "start": "00:31:23.490",
+      "end": "00:31:24.030",
+      "text": "Thank you."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Community%20and%20Protective%20Services%20Committee/2025/03-24/.transcript.srt"
+}

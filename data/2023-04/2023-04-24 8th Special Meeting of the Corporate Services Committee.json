@@ -1,1 +1,738 @@
-{"title": "8th Special Meeting of the Corporate Services Committee", "datetime": "2023-04-24 12:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=183fd70e-1a1c-4f11-a91a-3aa7675def79&Agenda=PostMinutes&lang=English", "meeting_type": "Corporate Services Committee", "bills": null, "present": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow", "D. Ferreira"], "also_present": ["J. Pribil", "L. Livingstone", "A. Barbon", "M. Galczynski", "A. Job", "K. Murray", "B. Westlake-Power"], "remote_attendance": ["B. Card", "S. Corman"], "content": {"string": "The meeting is called to order at 12:00 PM.", "__class__": "Paragraph"}, "absent": ["J. Morgan"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-04-24 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-04-24 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-04-24 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "2023 Debenture Issuance Update", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Trosow", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 City of London Debenture Issuance:\n\n\n\na) \u00a0 \u00a0the issuance of serial debentures for a total of $21,500,000 BE APPROVED; it being noted that the average all-in rate is 3.881% over a 10-year term and that all debt has been placed with investors in the capital markets; and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law as appended to the staff report dated April 24, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on April 25, 2023 to execute the borrowing upon serial debentures in the aggregate principal amount of $21,500,000 towards the cost of certain capital works of the Corporation of the City of London.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow,D. Ferreira"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-04-24 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-04-24 Staff Report - 2023 Debenture Issuance Update", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=98873", "date": "2023-04-24 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2023-04-24 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-04-24 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by H. McAlister", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 12:04 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2023-04-24 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "8th Special Meeting of the Corporate Services Committee",
+  "datetime": "2023-04-24 12:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=183fd70e-1a1c-4f11-a91a-3aa7675def79&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Corporate Services Committee",
+  "bills": null,
+  "present": [
+    "S. Lewis",
+    "H. McAlister",
+    "S. Stevenson",
+    "S. Trosow",
+    "D. Ferreira"
+  ],
+  "also_present": [
+    "J. Pribil",
+    "L. Livingstone",
+    "A. Barbon",
+    "M. Galczynski",
+    "A. Job",
+    "K. Murray",
+    "B. Westlake-Power"
+  ],
+  "remote_attendance": [
+    "B. Card",
+    "S. Corman"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 12:00 PM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "J. Morgan"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-04-24 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-04-24 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-04-24 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "2023 Debenture Issuance Update",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Trosow",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 City of London Debenture Issuance:\n\n\n\na) \u00a0 \u00a0the issuance of serial debentures for a total of $21,500,000 BE APPROVED; it being noted that the average all-in rate is 3.881% over a 10-year term and that all debt has been placed with investors in the capital markets; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the proposed by-law as appended to the staff report dated April 24, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on April 25, 2023 to execute the borrowing upon serial debentures in the aggregate principal amount of $21,500,000 towards the cost of certain capital works of the Corporation of the City of London.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Trosow,D. Ferreira"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "Mayor J. Morgan"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-04-24 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-04-24 Staff Report - 2023 Debenture Issuance Update",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=98873",
+              "date": "2023-04-24 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2023-04-24 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-04-24 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by H. McAlister",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 12:04 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-04-24 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:03:25.440",
+      "end": "00:03:28.340",
+      "text": "Hello everyone, welcome to the eighth special meeting"
+    },
+    {
+      "index": 2,
+      "start": "00:03:28.340",
+      "end": "00:03:30.440",
+      "text": "of the Corporate Services Committee."
+    },
+    {
+      "index": 3,
+      "start": "00:03:30.440",
+      "end": "00:03:34.080",
+      "text": "At being 12 p.m., I'm going to call the meeting to order."
+    },
+    {
+      "index": 4,
+      "start": "00:03:34.080",
+      "end": "00:03:35.700",
+      "text": "I will begin, as always, by acknowledging"
+    },
+    {
+      "index": 5,
+      "start": "00:03:35.700",
+      "end": "00:03:37.040",
+      "text": "that the City of London is situated"
+    },
+    {
+      "index": 6,
+      "start": "00:03:37.040",
+      "end": "00:03:38.940",
+      "text": "on the traditional lands of the Anishinaabek,"
+    },
+    {
+      "index": 7,
+      "start": "00:03:38.940",
+      "end": "00:03:42.260",
+      "text": "the Haudenosaunee, the Lene Peiwak, and Adawanderin."
+    },
+    {
+      "index": 8,
+      "start": "00:03:42.260",
+      "end": "00:03:43.910",
+      "text": "We honor and respect the history,"
+    },
+    {
+      "index": 9,
+      "start": "00:03:43.910",
+      "end": "00:03:46.430",
+      "text": "languages, and culture of the diverse indigenous people"
+    },
+    {
+      "index": 10,
+      "start": "00:03:46.430",
+      "end": "00:03:48.440",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 11,
+      "start": "00:03:48.440",
+      "end": "00:03:49.730",
+      "text": "The City of London is currently home"
+    },
+    {
+      "index": 12,
+      "start": "00:03:49.730",
+      "end": "00:03:53.030",
+      "text": "to many First Nations, M\u00e9tis, and Inuit people today."
+    },
+    {
+      "index": 13,
+      "start": "00:03:53.030",
+      "end": "00:03:55.230",
+      "text": "And as representatives of the people of the City of London,"
+    },
+    {
+      "index": 14,
+      "start": "00:03:55.230",
+      "end": "00:03:57.280",
+      "text": "we are grateful to have the opportunity to work"
+    },
+    {
+      "index": 15,
+      "start": "00:03:57.280",
+      "end": "00:03:59.570",
+      "text": "and live in this territory."
+    },
+    {
+      "index": 16,
+      "start": "00:03:59.570",
+      "end": "00:04:01.420",
+      "text": "I will also remind everyone that the City of London"
+    },
+    {
+      "index": 17,
+      "start": "00:04:01.420",
+      "end": "00:04:02.880",
+      "text": "is committed to making every effort"
+    },
+    {
+      "index": 18,
+      "start": "00:04:02.880",
+      "end": "00:04:05.990",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 19,
+      "start": "00:04:05.990",
+      "end": "00:04:07.820",
+      "text": "for meetings upon request."
+    },
+    {
+      "index": 20,
+      "start": "00:04:07.820",
+      "end": "00:04:10.120",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 21,
+      "start": "00:04:10.120",
+      "end": "00:04:15.940",
+      "text": "please contact csclondon.ca or 519-661-2489,"
+    },
+    {
+      "index": 22,
+      "start": "00:04:15.940",
+      "end": "00:04:23.480",
+      "text": "extension 2425."
+    },
+    {
+      "index": 23,
+      "start": "00:04:23.480",
+      "end": "00:04:24.890",
+      "text": "Colleagues, we have a short agenda,"
+    },
+    {
+      "index": 24,
+      "start": "00:04:24.890",
+      "end": "00:04:26.610",
+      "text": "so I am going to dive right in,"
+    },
+    {
+      "index": 25,
+      "start": "00:04:26.610",
+      "end": "00:04:31.080",
+      "text": "and item one is disclosures of pecanary interest."
+    },
+    {
+      "index": 26,
+      "start": "00:04:31.080",
+      "end": "00:04:32.740",
+      "text": "I see none."
+    },
+    {
+      "index": 27,
+      "start": "00:04:32.740",
+      "end": "00:04:36.190",
+      "text": "There are no items on the consent agenda"
+    },
+    {
+      "index": 28,
+      "start": "00:04:36.190",
+      "end": "00:04:37.300",
+      "text": "and no scheduled items."
+    },
+    {
+      "index": 29,
+      "start": "00:04:37.300",
+      "end": "00:04:39.280",
+      "text": "We just have one item for direction."
+    },
+    {
+      "index": 30,
+      "start": "00:04:39.280",
+      "end": "00:04:43.190",
+      "text": "This is the 2023 DaPensher issuance update."
+    },
+    {
+      "index": 31,
+      "start": "00:04:43.190",
+      "end": "00:04:45.290",
+      "text": "We have the report from staff,"
+    },
+    {
+      "index": 32,
+      "start": "00:04:45.290",
+      "end": "00:04:49.510",
+      "text": "so I will look to see if perhaps we have a mover"
+    },
+    {
+      "index": 33,
+      "start": "00:04:49.510",
+      "end": "00:04:51.480",
+      "text": "and a seconder to frame the debate,"
+    },
+    {
+      "index": 34,
+      "start": "00:04:51.480",
+      "end": "00:04:53.520",
+      "text": "and then we can move into questions and comments."
+    },
+    {
+      "index": 35,
+      "start": "00:04:53.520",
+      "end": "00:04:55.520",
+      "text": "Moved by Councillor Trussow,"
+    },
+    {
+      "index": 36,
+      "start": "00:04:55.520",
+      "end": "00:05:00.180",
+      "text": "seconded by Councillor Stevenson."
+    },
+    {
+      "index": 37,
+      "start": "00:05:00.180",
+      "end": "00:05:06.510",
+      "text": "We'll look for any questions or comments for our staff."
+    },
+    {
+      "index": 38,
+      "start": "00:05:06.510",
+      "end": "00:05:07.640",
+      "text": "Councillor Trussow."
+    },
+    {
+      "index": 39,
+      "start": "00:05:07.640",
+      "end": "00:05:10.410",
+      "text": "Does someone understand the timing of this?"
+    },
+    {
+      "index": 40,
+      "start": "00:05:10.410",
+      "end": "00:05:13.140",
+      "text": "We don't wait for shifts in the market."
+    },
+    {
+      "index": 41,
+      "start": "00:05:13.140",
+      "end": "00:05:16.270",
+      "text": "We just do these regularly understanding"
+    },
+    {
+      "index": 42,
+      "start": "00:05:16.270",
+      "end": "00:05:19.780",
+      "text": "that it just sort of plays out over a period of time,"
+    },
+    {
+      "index": 43,
+      "start": "00:05:19.780",
+      "end": "00:05:22.380",
+      "text": "even in a volatile market."
+    },
+    {
+      "index": 44,
+      "start": "00:05:22.380",
+      "end": "00:05:25.770",
+      "text": "Ms. Barboon."
+    },
+    {
+      "index": 45,
+      "start": "00:05:25.770",
+      "end": "00:05:27.260",
+      "text": "Thank you, through the chair."
+    },
+    {
+      "index": 46,
+      "start": "00:05:27.260",
+      "end": "00:05:28.500",
+      "text": "That is correct."
+    },
+    {
+      "index": 47,
+      "start": "00:05:28.500",
+      "end": "00:05:30.450",
+      "text": "One of the things that we've learned over time"
+    },
+    {
+      "index": 48,
+      "start": "00:05:30.450",
+      "end": "00:05:33.360",
+      "text": "is that markets can shift quite dramatically,"
+    },
+    {
+      "index": 49,
+      "start": "00:05:33.360",
+      "end": "00:05:34.320",
+      "text": "depending on the time."
+    },
+    {
+      "index": 50,
+      "start": "00:05:34.320",
+      "end": "00:05:36.320",
+      "text": "And nobody has a crystal ball to know"
+    },
+    {
+      "index": 51,
+      "start": "00:05:36.320",
+      "end": "00:05:38.270",
+      "text": "how the markets might shift over time."
+    },
+    {
+      "index": 52,
+      "start": "00:05:38.270",
+      "end": "00:05:40.980",
+      "text": "So traditionally, we have always been active"
+    },
+    {
+      "index": 53,
+      "start": "00:05:40.980",
+      "end": "00:05:44.450",
+      "text": "in the spring market, and the market expects the city"
+    },
+    {
+      "index": 54,
+      "start": "00:05:44.450",
+      "end": "00:05:47.480",
+      "text": "of London to look forward to initiatives at some point."
+    },
+    {
+      "index": 55,
+      "start": "00:05:47.480",
+      "end": "00:05:51.470",
+      "text": "So we certainly have opportunity with respect"
+    },
+    {
+      "index": 56,
+      "start": "00:05:51.470",
+      "end": "00:05:54.110",
+      "text": "to the amount that we issue to be able to ensure"
+    },
+    {
+      "index": 57,
+      "start": "00:05:54.110",
+      "end": "00:05:57.460",
+      "text": "that we stay within budget and don't have any concerns"
+    },
+    {
+      "index": 58,
+      "start": "00:05:57.460",
+      "end": "00:06:03.520",
+      "text": "with the total impact over the course of the term."
+    },
+    {
+      "index": 59,
+      "start": "00:06:03.520",
+      "end": "00:06:09.070",
+      "text": "And I also noticed that we have a 3.8 all-in rate"
+    },
+    {
+      "index": 60,
+      "start": "00:06:09.070",
+      "end": "00:06:13.170",
+      "text": "to average over 10 years, and that would protect us"
+    },
+    {
+      "index": 61,
+      "start": "00:06:13.170",
+      "end": "00:06:16.570",
+      "text": "against further volatility in the markets"
+    },
+    {
+      "index": 62,
+      "start": "00:06:16.570",
+      "end": "00:06:18.400",
+      "text": "in terms of the rates going up."
+    },
+    {
+      "index": 63,
+      "start": "00:06:18.400",
+      "end": "00:06:23.850",
+      "text": "This isn't variable, this is locked in."
+    },
+    {
+      "index": 64,
+      "start": "00:06:23.850",
+      "end": "00:06:25.910",
+      "text": "Ms. Barboon."
+    },
+    {
+      "index": 65,
+      "start": "00:06:25.910",
+      "end": "00:06:30.510",
+      "text": "Yeah, thank you, thank you very much."
+    },
+    {
+      "index": 66,
+      "start": "00:06:30.510",
+      "end": "00:06:32.980",
+      "text": "Through the chair, I can confirm those are locked in rates."
+    },
+    {
+      "index": 67,
+      "start": "00:06:32.980",
+      "end": "00:06:36.920",
+      "text": "And if rates go up, certainly they are not a variable rate,"
+    },
+    {
+      "index": 68,
+      "start": "00:06:36.920",
+      "end": "00:06:39.500",
+      "text": "so it will be for the duration."
+    },
+    {
+      "index": 69,
+      "start": "00:06:39.500",
+      "end": "00:06:42.090",
+      "text": "And the debt is not callable,"
+    },
+    {
+      "index": 70,
+      "start": "00:06:42.090",
+      "end": "00:06:45.150",
+      "text": "so that will fulfill the term dates"
+    },
+    {
+      "index": 71,
+      "start": "00:06:45.150",
+      "end": "00:06:48.840",
+      "text": "as has been outlined in the report."
+    },
+    {
+      "index": 72,
+      "start": "00:06:48.840",
+      "end": "00:06:52.530",
+      "text": "Thank you for that, any other questions or comments?"
+    },
+    {
+      "index": 73,
+      "start": "00:06:52.530",
+      "end": "00:07:05.270",
+      "text": "I see none, so I'll ask the clerk to open the vote."
+    },
+    {
+      "index": 74,
+      "start": "00:07:05.270",
+      "end": "00:07:09.400",
+      "text": "Closing the vote, the motion's passed, five to zero."
+    },
+    {
+      "index": 75,
+      "start": "00:07:09.400",
+      "end": "00:07:10.230",
+      "text": "Thank you, colleagues."
+    },
+    {
+      "index": 76,
+      "start": "00:07:10.230",
+      "end": "00:07:11.800",
+      "text": "That concludes the agenda for the eighth"
+    },
+    {
+      "index": 77,
+      "start": "00:07:11.800",
+      "end": "00:07:13.610",
+      "text": "and special meeting of the Corporate Services Committee."
+    },
+    {
+      "index": 78,
+      "start": "00:07:13.610",
+      "end": "00:07:16.170",
+      "text": "We just need a motion to adjourn."
+    },
+    {
+      "index": 79,
+      "start": "00:07:16.170",
+      "end": "00:07:17.500",
+      "text": "Moved by Councilor McAllister"
+    },
+    {
+      "index": 80,
+      "start": "00:07:17.500",
+      "end": "00:07:18.910",
+      "text": "and seconded by Councilor Stevenson."
+    },
+    {
+      "index": 81,
+      "start": "00:07:18.910",
+      "end": "00:07:23.230",
+      "text": "All those in favor, by hand."
+    },
+    {
+      "index": 82,
+      "start": "00:07:23.230",
+      "end": "00:07:25.570",
+      "text": "The motion's passed."
+    },
+    {
+      "index": 83,
+      "start": "00:07:25.570",
+      "end": "00:07:26.340",
+      "text": "Thank you, everyone."
+    },
+    {
+      "index": 84,
+      "start": "00:07:26.340",
+      "end": "00:07:28.150",
+      "text": "And there's two special meetings today,"
+    },
+    {
+      "index": 85,
+      "start": "00:07:28.150",
+      "end": "00:07:32.250",
+      "text": "so if you're really wanting to get some more committee work in,"
+    },
+    {
+      "index": 86,
+      "start": "00:07:32.250",
+      "end": "00:07:33.600",
+      "text": "civic works is at 1 p.m."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Corporate%20Services%20Committee/2023/04-24/.transcript.srt"
+}

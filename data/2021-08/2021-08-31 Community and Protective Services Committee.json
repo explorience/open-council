@@ -1,1 +1,5120 @@
-{"title": null, "datetime": "2021-08-31 16:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=874bb614-9678-420d-ba91-2eb015189308&Agenda=PostMinutes&lang=English", "meeting_type": "Community and Protective Services Committee", "bills": null, "present": ["J. Helmer", "S. Lewis", "M. Salih"], "also_present": ["J. Bunn", "J. Taylor\n\n\n\n M. Cassidy", "M. van Holst", "G. Belch", "C. Cooper", "K. Dickins", "Deputy Fire Chief R. Hayes", "G. Kotsifas", "D. Purdy", "M. Schulthess", "J. Smit", "C. Smith", "B. Somers", "S. Tatavarti", "B. Westlake-Power\n\n\n\nThe meeting was called to order at 4:00 PM", "it being noted that Committee Member  M. Salih was in remote attendance."], "remote_attendance": [], "content": {"__class__": "Content"}, "absent": ["A. Kayabaga", "S. Hillier", "E. Holder"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That Items 2.1 to 2.7 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer,S. Lewis"]}, {"vote": "Absent:", "voters": ["S. Hillier", "A. Kayabaga,E. Holder"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Research Into Labour Market Participation Rates in the London Economic Region - Final Report", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated August 31, 2021, with respect to the final report on the Research Into Labour Market Participation Rates in the London Economic Region, BE RECEIVED. (L04A)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-31 SR Research into Labour Market Participation Rates in the London Economic Region", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84648", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-08-31 SR Research into Labour Market Participation Rates in the London Economic Region - Schedule 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84649", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Homeless Prevention COVID-19 Response Extension (Single Source Procurement SS21-29, Council Approved June 22, 2021)", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the Homeless Prevention COVID-19 response Extension (Single Source Procurement SS21-29, Council Approved June 22, 2021), as per The Corporation of the City of London Procurement Policy Section 14.5 a. ii, requiring Committee and City Council approval for single source procurements greater than $50,000:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0extensions to existing Purchase of Service Agreements BE APPROVED as set out in the Housing Stability Services COVID-19 Response Allocations, as appended to the staff report dated August 31, 2021; it being noted that a combined total funding amount up to $3,055,000 (excluding taxes) in 2021-2022 to provide COVID-19 Response Housing and Support Services;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this matter; and,", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into and/or amending Purchase of Service Agreements with Agencies outlined in the above-noted staff report. (2021-S08/S14)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-31 SR Homeless Prevention COVID-19 Reponse Extension - SS Procurement SS21-29", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84650", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Community Safety and Well-Being Plan", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the City of London Community Safety and Well-Being Plan:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the Community Safety and Well-Being Plan, as appended to the staff report dated August 31, 2021, BE ADOPTED in accordance with the Police Services Act, R.S.O. 1990, c. P.15, Section 143 (1);", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the above-noted Plan BE SUBMITTED to the Ontario Ministry of the Solicitor General; and,", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the remainder of the above-noted report BE RECEIVED. (2021-S08/P15)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-31 SR Community Safety and Well-Being Plan", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84644", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-08-31 SR Community Safety and Well-Being Plan - Appendix A", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84645", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "London Fire Department Emergency Apparatus Procurement", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report dated August 31, 2021, with respect to the London Fire Department Emergency Apparatus Procurement:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the above-noted staff report BE RECEIVED in accordance with Section 14.2 of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the funding for this procurement BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2021-F17/V01)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-31 SR London Fire Department Emergency Apparatus Procurement", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84646", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "London Fire Department Single Source Apparatus Procurement", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report dated August 31, 2021, with respect to the London Fire Department Single Source Apparatus Procurement:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0in accordance with Sections 14.4(d) and (k) of the Procurement of Goods and Services Policy, Fire Administration BE AUTHORIZED to enter into negotiations with 12000 Darch Fire of 9-402 Harmony Road, Ayr, Ontario, N0B 1E0 for pricing for a single source contract for one (1) year for the provision of one fire Engine for the London Fire Department;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the above-noted approval BE CONDITIONAL upon The Corporation of the City of London negotiating satisfactory prices, terms, conditions, and entering into a contract with 12000 Darch Fire to provide one fire Engine to the London Fire Department;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with the above-noted authorization; and,", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0that the funding for this procurement BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2021-F17/V01)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-31 SR London Fire Department Single Source Apparatus Procurement", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84647", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Investing in Canada Infrastructure Plan: Community, Culture, and Recreation Stream \u2013 Transfer Payment Agreement  ", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report dated August 31, 2021, BE INTRODUCED at the Municipal Council meeting to be held on September 14, 2021, to:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0approve the Investing in Canada Infrastructure Plan Transfer Payment Agreement between Her Majesty the Queen in Right of the Province of Ontario, as represented by the Minister of Infrastructure for the Province of Ontario and The Corporation of the City of London, as appended to the above-noted by-law;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Agreement;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to approve and execute any further amendments to the above-noted Agreement if the amendments are substantially in the form of the above-noted Agreement; and,", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to undertake all the administrative, financial and reporting acts that are necessary in connection with the above-noted Agreement. (2021-F11/R05B)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-31 SR ICIP Community Culture and Recreation Stream Transfer Payment Agreement", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84651", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Canada-Ontario Community Housing Initiative (COCHI) and Ontario Priorities Housing Initiative (OPHI) Approval of Ontario Transfer Payment Amending Agreement", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated August 31, 2021, BE INTRODUCED at the Municipal Council meeting to be held on September 14, 2021 to:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0approve the Ontario Transfer Payment Amending Agreement, as appended to the above-noted staff report, and satisfactory to the City Solicitor, between Her Majesty the Queen in the Right of Ontario, as represented by the Ministry of Municipal Affairs and Housing and The Corporation of the City of London;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Agreement; and,", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0delegate authority to the Deputy City Manager, Planning and Economic Development, or written designate, to authorize and approve such further and other documents, including an Investment Plan, and including agreements that may be required in furtherance of the above-noted Agreement that are consistent with the requirements contained in that Agreement and that do not require additional funding or are provided for in the City\u2019s current budget and that do not increase the indebtedness or contingent liabilities of The Corporation of the City of London, subject to prior review and approval by the Deputy City Manager, Planning and Economic Development and the City Solictor. (2021-F11/S11)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "4th Report of the London Housing Advisory Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That the following actions be taken with respect to the 4th Report of the London Housing Advisory Committee, from its meeting held on July 14, 2021:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the following actions be taken with respect to the Notice of Planning Application dated May 12, 2021 from C. Maton, Planner II, related to an Official Plan and Zoning By-law Amendments for the property at 2009 Wharncliffe Road South:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0 \u00a0 \u00a0 the Civic Administration BE REQUESTED to attend the next London Housing Advisory Committee to provide additional information with respect to the above-mentioned application; and,\n\nii) \u00a0 \u00a0the above-mentioned Notice BE RECEIVED;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the following actions be taken with respect to the staff report dated May 17, 2021, from C. Saunders, City Clerk, related to the Advisory Committee Review \u2013 Interim Report VI:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0 \u00a0 \u00a0the Governance Working Group BE ADVISED that the London Housing Advisory Committee (LHAC) endorses the continuation of an advisory committee dedicated to addressing housing and homelessness issues in the City of London;\n\nii) \u00a0 \u00a0 \u00a0 \u00a0the Governance Working Group BE REQUESTED to consider broadening the mandate of LHAC; and,\n\niii) \u00a0 \u00a0 \u00a0 \u00a0 the above-noted report BE RECEIVED;\n\nit being noted that B. Westlake-Power, Deputy City Clerk provided an overview with respect to this matter; and,", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0clauses 1.1, 2.1, 3.1, 3.2, 3.4, 5.1 and 5.2, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer,S. Lewis"]}, {"vote": "Absent:", "voters": ["S. Hillier", "A. Kayabaga,E. Holder"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-14 LHAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84641", "date": "2021-07-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "London's Opioid Crisis\u00a0", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That it BE NOTED that the following actions be taken with respect to the delegation from C. Ryan and J. Scott with respect to London\u2019s Opioid Crisis:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the presentation, as appended to the Agenda, and the verbal delegation from C. Ryan and J. Scott, with respect to London\u2019s Opioid Crisis, BE RECEIVED; and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the above-noted presentation BE FORWARDED to the Civic Administration for consideration in updating the City of London website. (2021-S08)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer,S. Lewis"]}, {"vote": "Absent:", "voters": ["S. Hillier", "A. Kayabaga,E. Holder"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Voting Record:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Salih", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Lewis", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer,S. Lewis"]}, {"vote": "Absent:", "voters": ["S. Hillier", "A. Kayabaga,E. Holder"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-31 Sub. London Opiod Crisis - C. Ryan", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84642", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-08-31 Sub", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84643", "date": "2021-08-31 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [], "items": {"1": {"title": "Deferred Matters List", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That the Deferred Matters List for the Community and Protective Services Committee, as at August 4, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer,S. Lewis"]}, {"vote": "Absent:", "voters": ["S. Hillier", "A. Kayabaga,E. Holder"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [{"empty_flag": false, "title": "CPSC DEFERRED MATTERS as at August 4, 2021", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84652", "date": "2021-08-31 16:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "That the Community and Protective Services Committee convene, In Closed Session, for the purpose of considering the following:", "__class__": "Paragraph"}, {"string": "6.1. Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations", "__class__": "Paragraph"}, {"string": "A matter pertaining to the proposed or pending lease of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer,S. Lewis"]}, {"vote": "Absent:", "voters": ["S. Hillier", "A. Kayabaga,E. Holder"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Community and Protective Services Committee convened, In Closed Session, from 4:32 PM to 4:43 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"string": "The meeting adjourned at 4:44 PM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-08-31 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2021-08-31 16:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=874bb614-9678-420d-ba91-2eb015189308&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Community and Protective Services Committee",
+  "bills": null,
+  "present": [
+    "J. Helmer",
+    "S. Lewis",
+    "M. Salih"
+  ],
+  "also_present": [
+    "J. Bunn",
+    "J. Taylor\n\n\n\n M. Cassidy",
+    "M. van Holst",
+    "G. Belch",
+    "C. Cooper",
+    "K. Dickins",
+    "Deputy Fire Chief R. Hayes",
+    "G. Kotsifas",
+    "D. Purdy",
+    "M. Schulthess",
+    "J. Smit",
+    "C. Smith",
+    "B. Somers",
+    "S. Tatavarti",
+    "B. Westlake-Power\n\n\n\nThe meeting was called to order at 4:00 PM",
+    "it being noted that Committee Member  M. Salih was in remote attendance."
+  ],
+  "remote_attendance": [],
+  "content": {
+    "__class__": "Content"
+  },
+  "absent": [
+    "A. Kayabaga",
+    "S. Hillier",
+    "E. Holder"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-08-31 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by M. Salih",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Items 2.1 to 2.7 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "M. Salih",
+                  "J. Helmer,S. Lewis"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Hillier",
+                  "A. Kayabaga,E. Holder"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (3 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "Research Into Labour Market Participation Rates in the London Economic Region - Final Report",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated August 31, 2021, with respect to the final report on the Research Into Labour Market Participation Rates in the London Economic Region, BE RECEIVED. (L04A)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR Research into Labour Market Participation Rates in the London Economic Region",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84648",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR Research into Labour Market Participation Rates in the London Economic Region - Schedule 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84649",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Homeless Prevention COVID-19 Response Extension (Single Source Procurement SS21-29, Council Approved June 22, 2021)",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the Homeless Prevention COVID-19 response Extension (Single Source Procurement SS21-29, Council Approved June 22, 2021), as per The Corporation of the City of London Procurement Policy Section 14.5 a. ii, requiring Committee and City Council approval for single source procurements greater than $50,000:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0extensions to existing Purchase of Service Agreements BE APPROVED as set out in the Housing Stability Services COVID-19 Response Allocations, as appended to the staff report dated August 31, 2021; it being noted that a combined total funding amount up to $3,055,000 (excluding taxes) in 2021-2022 to provide COVID-19 Response Housing and Support Services;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this matter; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into and/or amending Purchase of Service Agreements with Agencies outlined in the above-noted staff report. (2021-S08/S14)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR Homeless Prevention COVID-19 Reponse Extension - SS Procurement SS21-29",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84650",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Community Safety and Well-Being Plan",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the City of London Community Safety and Well-Being Plan:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the Community Safety and Well-Being Plan, as appended to the staff report dated August 31, 2021, BE ADOPTED in accordance with the Police Services Act, R.S.O. 1990, c. P.15, Section 143 (1);",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the above-noted Plan BE SUBMITTED to the Ontario Ministry of the Solicitor General; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the remainder of the above-noted report BE RECEIVED. (2021-S08/P15)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR Community Safety and Well-Being Plan",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84644",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR Community Safety and Well-Being Plan - Appendix A",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84645",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "London Fire Department Emergency Apparatus Procurement",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report dated August 31, 2021, with respect to the London Fire Department Emergency Apparatus Procurement:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the above-noted staff report BE RECEIVED in accordance with Section 14.2 of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the funding for this procurement BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2021-F17/V01)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR London Fire Department Emergency Apparatus Procurement",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84646",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "London Fire Department Single Source Apparatus Procurement",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report dated August 31, 2021, with respect to the London Fire Department Single Source Apparatus Procurement:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0in accordance with Sections 14.4(d) and (k) of the Procurement of Goods and Services Policy, Fire Administration BE AUTHORIZED to enter into negotiations with 12000 Darch Fire of 9-402 Harmony Road, Ayr, Ontario, N0B 1E0 for pricing for a single source contract for one (1) year for the provision of one fire Engine for the London Fire Department;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the above-noted approval BE CONDITIONAL upon The Corporation of the City of London negotiating satisfactory prices, terms, conditions, and entering into a contract with 12000 Darch Fire to provide one fire Engine to the London Fire Department;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with the above-noted authorization; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0that the funding for this procurement BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2021-F17/V01)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR London Fire Department Single Source Apparatus Procurement",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84647",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "Investing in Canada Infrastructure Plan: Community, Culture, and Recreation Stream \u2013 Transfer Payment Agreement  ",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report dated August 31, 2021, BE INTRODUCED at the Municipal Council meeting to be held on September 14, 2021, to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0approve the Investing in Canada Infrastructure Plan Transfer Payment Agreement between Her Majesty the Queen in Right of the Province of Ontario, as represented by the Minister of Infrastructure for the Province of Ontario and The Corporation of the City of London, as appended to the above-noted by-law;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Agreement;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to approve and execute any further amendments to the above-noted Agreement if the amendments are substantially in the form of the above-noted Agreement; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to undertake all the administrative, financial and reporting acts that are necessary in connection with the above-noted Agreement. (2021-F11/R05B)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 SR ICIP Community Culture and Recreation Stream Transfer Payment Agreement",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84651",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "Canada-Ontario Community Housing Initiative (COCHI) and Ontario Priorities Housing Initiative (OPHI) Approval of Ontario Transfer Payment Amending Agreement",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated August 31, 2021, BE INTRODUCED at the Municipal Council meeting to be held on September 14, 2021 to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0approve the Ontario Transfer Payment Amending Agreement, as appended to the above-noted staff report, and satisfactory to the City Solicitor, between Her Majesty the Queen in the Right of Ontario, as represented by the Ministry of Municipal Affairs and Housing and The Corporation of the City of London;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0authorize the Mayor and the City Clerk to execute the above-noted Agreement; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0delegate authority to the Deputy City Manager, Planning and Economic Development, or written designate, to authorize and approve such further and other documents, including an Investment Plan, and including agreements that may be required in furtherance of the above-noted Agreement that are consistent with the requirements contained in that Agreement and that do not require additional funding or are provided for in the City\u2019s current budget and that do not increase the indebtedness or contingent liabilities of The Corporation of the City of London, subject to prior review and approval by the Deputy City Manager, Planning and Economic Development and the City Solictor. (2021-F11/S11)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-08-31 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-08-31 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "4th Report of the London Housing Advisory Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the following actions be taken with respect to the 4th Report of the London Housing Advisory Committee, from its meeting held on July 14, 2021:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the following actions be taken with respect to the Notice of Planning Application dated May 12, 2021 from C. Maton, Planner II, related to an Official Plan and Zoning By-law Amendments for the property at 2009 Wharncliffe Road South:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0 \u00a0 \u00a0 the Civic Administration BE REQUESTED to attend the next London Housing Advisory Committee to provide additional information with respect to the above-mentioned application; and,\n\nii) \u00a0 \u00a0the above-mentioned Notice BE RECEIVED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the following actions be taken with respect to the staff report dated May 17, 2021, from C. Saunders, City Clerk, related to the Advisory Committee Review \u2013 Interim Report VI:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0 \u00a0 \u00a0the Governance Working Group BE ADVISED that the London Housing Advisory Committee (LHAC) endorses the continuation of an advisory committee dedicated to addressing housing and homelessness issues in the City of London;\n\nii) \u00a0 \u00a0 \u00a0 \u00a0the Governance Working Group BE REQUESTED to consider broadening the mandate of LHAC; and,\n\niii) \u00a0 \u00a0 \u00a0 \u00a0 the above-noted report BE RECEIVED;\n\nit being noted that B. Westlake-Power, Deputy City Clerk provided an overview with respect to this matter; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0clauses 1.1, 2.1, 3.1, 3.2, 3.4, 5.1 and 5.2, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer,S. Lewis"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Hillier",
+                      "A. Kayabaga,E. Holder"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (3 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-14 LHAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84641",
+              "date": "2021-07-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "London's Opioid Crisis\u00a0",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That it BE NOTED that the following actions be taken with respect to the delegation from C. Ryan and J. Scott with respect to London\u2019s Opioid Crisis:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the presentation, as appended to the Agenda, and the verbal delegation from C. Ryan and J. Scott, with respect to London\u2019s Opioid Crisis, BE RECEIVED; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the above-noted presentation BE FORWARDED to the Civic Administration for consideration in updating the City of London website. (2021-S08)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer,S. Lewis"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Hillier",
+                      "A. Kayabaga,E. Holder"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (3 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Voting Record:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by M. Salih",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Lewis",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer,S. Lewis"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Hillier",
+                      "A. Kayabaga,E. Holder"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (3 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 Sub. London Opiod Crisis - C. Ryan",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84642",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-08-31 Sub",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84643",
+              "date": "2021-08-31 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-08-31 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Deferred Matters List",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Deferred Matters List for the Community and Protective Services Committee, as at August 4, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer,S. Lewis"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Hillier",
+                      "A. Kayabaga,E. Holder"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (3 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-08-31 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "CPSC DEFERRED MATTERS as at August 4, 2021",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=84652",
+              "date": "2021-08-31 16:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-08-31 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by M. Salih",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Community and Protective Services Committee convene, In Closed Session, for the purpose of considering the following:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.1. Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to the proposed or pending lease of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "M. Salih",
+                  "J. Helmer,S. Lewis"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Hillier",
+                  "A. Kayabaga,E. Holder"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (3 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Community and Protective Services Committee convened, In Closed Session, from 4:32 PM to 4:43 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-08-31 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "string": "The meeting adjourned at 4:44 PM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-08-31 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:07:23.390",
+      "end": "00:07:28.640",
+      "text": "Just a test of audio for council chambers."
+    },
+    {
+      "index": 2,
+      "start": "00:07:28.640",
+      "end": "00:07:30.080",
+      "text": "Really good."
+    },
+    {
+      "index": 3,
+      "start": "00:07:30.080",
+      "end": "00:19:48.170",
+      "text": "Great, thank you."
+    },
+    {
+      "index": 4,
+      "start": "00:19:48.170",
+      "end": "00:19:50.720",
+      "text": "Yeah, I'd like to call the 12th meeting"
+    },
+    {
+      "index": 5,
+      "start": "00:19:50.720",
+      "end": "00:19:53.820",
+      "text": "of community and protective services committee to order."
+    },
+    {
+      "index": 6,
+      "start": "00:19:53.820",
+      "end": "00:19:57.940",
+      "text": "This is a virtual meeting during the COVID-19 emergency."
+    },
+    {
+      "index": 7,
+      "start": "00:19:57.940",
+      "end": "00:19:59.800",
+      "text": "Meetings can be viewed by live streaming on YouTube"
+    },
+    {
+      "index": 8,
+      "start": "00:19:59.800",
+      "end": "00:20:01.710",
+      "text": "and the city website."
+    },
+    {
+      "index": 9,
+      "start": "00:20:01.710",
+      "end": "00:20:04.010",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 10,
+      "start": "00:20:04.010",
+      "end": "00:20:06.700",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 11,
+      "start": "00:20:06.700",
+      "end": "00:20:09.070",
+      "text": "for council, standing or advisory committee meetings"
+    },
+    {
+      "index": 12,
+      "start": "00:20:09.070",
+      "end": "00:20:11.420",
+      "text": "and information upon request."
+    },
+    {
+      "index": 13,
+      "start": "00:20:11.420",
+      "end": "00:20:13.110",
+      "text": "To make a request for any city service,"
+    },
+    {
+      "index": 14,
+      "start": "00:20:13.110",
+      "end": "00:20:17.440",
+      "text": "please contact accessibility@london.ca"
+    },
+    {
+      "index": 15,
+      "start": "00:20:17.440",
+      "end": "00:20:22.470",
+      "text": "or 516-661-2489 extension 2425."
+    },
+    {
+      "index": 16,
+      "start": "00:20:22.470",
+      "end": "00:20:25.290",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 17,
+      "start": "00:20:25.290",
+      "end": "00:20:29.690",
+      "text": "please contact CPSC@london.ca."
+    },
+    {
+      "index": 18,
+      "start": "00:20:29.690",
+      "end": "00:20:34.560",
+      "text": "Councillor Hillier is unable to attend today's meeting"
+    },
+    {
+      "index": 19,
+      "start": "00:20:34.560",
+      "end": "00:20:37.170",
+      "text": "and Councillor Caiabaga is on the leave of absence"
+    },
+    {
+      "index": 20,
+      "start": "00:20:37.170",
+      "end": "00:20:39.090",
+      "text": "during the federal election."
+    },
+    {
+      "index": 21,
+      "start": "00:20:39.090",
+      "end": "00:20:41.460",
+      "text": "So I think we have a quorum with three members"
+    },
+    {
+      "index": 22,
+      "start": "00:20:41.460",
+      "end": "00:20:42.930",
+      "text": "who are here."
+    },
+    {
+      "index": 23,
+      "start": "00:20:42.930",
+      "end": "00:20:47.780",
+      "text": "Any disclosures of pecuniary interest?"
+    },
+    {
+      "index": 24,
+      "start": "00:20:47.780",
+      "end": "00:20:50.100",
+      "text": "Other members of the committee or guests, I see Councillor Cassidy"
+    },
+    {
+      "index": 25,
+      "start": "00:20:50.100",
+      "end": "00:20:53.100",
+      "text": "has joined us."
+    },
+    {
+      "index": 26,
+      "start": "00:20:53.100",
+      "end": "00:20:55.480",
+      "text": "Okay, if not, let's move to the consent agenda."
+    },
+    {
+      "index": 27,
+      "start": "00:20:55.480",
+      "end": "00:20:57.370",
+      "text": "Any items that colleagues would like to pull"
+    },
+    {
+      "index": 28,
+      "start": "00:20:57.370",
+      "end": "00:21:02.210",
+      "text": "for a separate debate?"
+    },
+    {
+      "index": 29,
+      "start": "00:21:02.210",
+      "end": "00:21:03.000",
+      "text": "Okay, I don't see any."
+    },
+    {
+      "index": 30,
+      "start": "00:21:03.000",
+      "end": "00:21:05.230",
+      "text": "Could I have a mover for the consent items?"
+    },
+    {
+      "index": 31,
+      "start": "00:21:05.230",
+      "end": "00:21:11.290",
+      "text": "Councillor Lewis, seconder."
+    },
+    {
+      "index": 32,
+      "start": "00:21:11.290",
+      "end": "00:21:14.760",
+      "text": "To raise your hand on the screen, Councillor Silly."
+    },
+    {
+      "index": 33,
+      "start": "00:21:14.760",
+      "end": "00:21:15.590",
+      "text": "Thank you."
+    },
+    {
+      "index": 34,
+      "start": "00:21:15.590",
+      "end": "00:21:16.840",
+      "text": "Okay, seconded by Councillor Silly."
+    },
+    {
+      "index": 35,
+      "start": "00:21:16.840",
+      "end": "00:21:21.790",
+      "text": "Any discussion or questions on any of those items?"
+    },
+    {
+      "index": 36,
+      "start": "00:21:21.790",
+      "end": "00:21:24.690",
+      "text": "Councillor Lewis, go ahead."
+    },
+    {
+      "index": 37,
+      "start": "00:21:24.690",
+      "end": "00:21:26.050",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 38,
+      "start": "00:21:26.050",
+      "end": "00:21:28.670",
+      "text": "I just want to take this opportunity to comment"
+    },
+    {
+      "index": 39,
+      "start": "00:21:28.670",
+      "end": "00:21:31.200",
+      "text": "on two items very briefly."
+    },
+    {
+      "index": 40,
+      "start": "00:21:31.200",
+      "end": "00:21:35.240",
+      "text": "First is item 2.3, the community safety and well-being plan."
+    },
+    {
+      "index": 41,
+      "start": "00:21:35.240",
+      "end": "00:21:37.460",
+      "text": "I just want to thank all the staff who were involved"
+    },
+    {
+      "index": 42,
+      "start": "00:21:37.460",
+      "end": "00:21:40.510",
+      "text": "in updating this as well as our community partners"
+    },
+    {
+      "index": 43,
+      "start": "00:21:40.510",
+      "end": "00:21:42.880",
+      "text": "because it involves not only our staff,"
+    },
+    {
+      "index": 44,
+      "start": "00:21:42.880",
+      "end": "00:21:45.450",
+      "text": "but some outside agencies as well."
+    },
+    {
+      "index": 45,
+      "start": "00:21:45.450",
+      "end": "00:21:47.230",
+      "text": "So I want to thank them for the work that went into this."
+    },
+    {
+      "index": 46,
+      "start": "00:21:47.230",
+      "end": "00:21:48.610",
+      "text": "It's something that we have to file"
+    },
+    {
+      "index": 47,
+      "start": "00:21:48.610",
+      "end": "00:21:51.810",
+      "text": "as a provincial requirement and keep up to date."
+    },
+    {
+      "index": 48,
+      "start": "00:21:51.810",
+      "end": "00:21:54.270",
+      "text": "And once again, they're meeting all those requirements"
+    },
+    {
+      "index": 49,
+      "start": "00:21:54.270",
+      "end": "00:21:57.270",
+      "text": "and doing their part to keep our community as safe as possible"
+    },
+    {
+      "index": 50,
+      "start": "00:21:57.270",
+      "end": "00:21:58.620",
+      "text": "in the event of emergency."
+    },
+    {
+      "index": 51,
+      "start": "00:21:58.620",
+      "end": "00:22:02.700",
+      "text": "And sadly, we've seen that plan had to be put into use"
+    },
+    {
+      "index": 52,
+      "start": "00:22:02.700",
+      "end": "00:22:04.970",
+      "text": "on more than one occasion during our term of council,"
+    },
+    {
+      "index": 53,
+      "start": "00:22:04.970",
+      "end": "00:22:07.380",
+      "text": "but it's a good thing to have there"
+    },
+    {
+      "index": 54,
+      "start": "00:22:07.380",
+      "end": "00:22:10.280",
+      "text": "so that everybody knows their role in a stressful time."
+    },
+    {
+      "index": 55,
+      "start": "00:22:10.280",
+      "end": "00:22:12.580",
+      "text": "So thanks to them for the work there."
+    },
+    {
+      "index": 56,
+      "start": "00:22:12.580",
+      "end": "00:22:15.880",
+      "text": "I also wanted to comment just briefly on 2.1,"
+    },
+    {
+      "index": 57,
+      "start": "00:22:15.880",
+      "end": "00:22:19.140",
+      "text": "the research into labor market participation rates,"
+    },
+    {
+      "index": 58,
+      "start": "00:22:19.140",
+      "end": "00:22:20.610",
+      "text": "the final report that's coming back."
+    },
+    {
+      "index": 59,
+      "start": "00:22:20.610",
+      "end": "00:22:22.440",
+      "text": "And this was something that was funded"
+    },
+    {
+      "index": 60,
+      "start": "00:22:22.440",
+      "end": "00:22:27.220",
+      "text": "through provincial dollars for us to do a regional assessment."
+    },
+    {
+      "index": 61,
+      "start": "00:22:27.220",
+      "end": "00:22:28.790",
+      "text": "I'm encouraged to see some of the items"
+    },
+    {
+      "index": 62,
+      "start": "00:22:28.790",
+      "end": "00:22:31.670",
+      "text": "that were identified in this report come back to us"
+    },
+    {
+      "index": 63,
+      "start": "00:22:31.670",
+      "end": "00:22:34.110",
+      "text": "because I think there are some opportunities"
+    },
+    {
+      "index": 64,
+      "start": "00:22:34.110",
+      "end": "00:22:36.470",
+      "text": "that we as a municipality can consider."
+    },
+    {
+      "index": 65,
+      "start": "00:22:36.470",
+      "end": "00:22:38.760",
+      "text": "I certainly noted, and I know, Mr. Chair,"
+    },
+    {
+      "index": 66,
+      "start": "00:22:38.760",
+      "end": "00:22:42.960",
+      "text": "that as a member of the London Transit Commission,"
+    },
+    {
+      "index": 67,
+      "start": "00:22:42.960",
+      "end": "00:22:45.010",
+      "text": "you will have taken note of some of the considerations"
+    },
+    {
+      "index": 68,
+      "start": "00:22:45.010",
+      "end": "00:22:49.010",
+      "text": "about transit considerations for people to be able to get to"
+    },
+    {
+      "index": 69,
+      "start": "00:22:49.010",
+      "end": "00:22:52.250",
+      "text": "and from work and how important it will be in transit planning"
+    },
+    {
+      "index": 70,
+      "start": "00:22:52.250",
+      "end": "00:22:56.380",
+      "text": "for people to be able to access employment opportunities."
+    },
+    {
+      "index": 71,
+      "start": "00:22:56.380",
+      "end": "00:23:01.580",
+      "text": "I did note that there was still a fairly significant percentage"
+    },
+    {
+      "index": 72,
+      "start": "00:23:01.580",
+      "end": "00:23:05.190",
+      "text": "who indicated that even with the barriers removed,"
+    },
+    {
+      "index": 73,
+      "start": "00:23:05.190",
+      "end": "00:23:08.490",
+      "text": "they might still not be available to participate"
+    },
+    {
+      "index": 74,
+      "start": "00:23:08.490",
+      "end": "00:23:12.490",
+      "text": "in the labor market, but I think when you see the percentages"
+    },
+    {
+      "index": 75,
+      "start": "00:23:12.490",
+      "end": "00:23:14.710",
+      "text": "that said if some of the barriers removed,"
+    },
+    {
+      "index": 76,
+      "start": "00:23:14.710",
+      "end": "00:23:16.300",
+      "text": "they would be participating."
+    },
+    {
+      "index": 77,
+      "start": "00:23:16.300",
+      "end": "00:23:18.520",
+      "text": "It was a pretty substantial number,"
+    },
+    {
+      "index": 78,
+      "start": "00:23:18.520",
+      "end": "00:23:21.130",
+      "text": "and that's a good number for us to keep in mind"
+    },
+    {
+      "index": 79,
+      "start": "00:23:21.130",
+      "end": "00:23:24.270",
+      "text": "as we look for ways to remove those barriers."
+    },
+    {
+      "index": 80,
+      "start": "00:23:24.270",
+      "end": "00:23:27.410",
+      "text": "And I'll just say again, most notably for me,"
+    },
+    {
+      "index": 81,
+      "start": "00:23:27.410",
+      "end": "00:23:30.130",
+      "text": "the transit issue and the ability for people"
+    },
+    {
+      "index": 82,
+      "start": "00:23:30.130",
+      "end": "00:23:32.020",
+      "text": "to get to the jobs that are available"
+    },
+    {
+      "index": 83,
+      "start": "00:23:32.020",
+      "end": "00:23:35.270",
+      "text": "is the one that really stood out for me."
+    },
+    {
+      "index": 84,
+      "start": "00:23:35.270",
+      "end": "00:23:39.470",
+      "text": "Thank you, Councillor Slee, or Councillor Cassidy,"
+    },
+    {
+      "index": 85,
+      "start": "00:23:39.470",
+      "end": "00:23:45.890",
+      "text": "any questions or comments on any of the consent items?"
+    },
+    {
+      "index": 86,
+      "start": "00:23:45.890",
+      "end": "00:23:48.530",
+      "text": "Okay, if not, I just wanted to say a couple of things."
+    },
+    {
+      "index": 87,
+      "start": "00:23:48.530",
+      "end": "00:23:51.090",
+      "text": "One is on the labor market participation report,"
+    },
+    {
+      "index": 88,
+      "start": "00:23:51.090",
+      "end": "00:23:54.050",
+      "text": "I appreciate Councillor Lewis drawing attention"
+    },
+    {
+      "index": 89,
+      "start": "00:23:54.050",
+      "end": "00:23:55.980",
+      "text": "to the need for better transit."
+    },
+    {
+      "index": 90,
+      "start": "00:23:55.980",
+      "end": "00:23:57.940",
+      "text": "And I will say that there's a report"
+    },
+    {
+      "index": 91,
+      "start": "00:23:57.940",
+      "end": "00:24:01.270",
+      "text": "coming to the commission later in September"
+    },
+    {
+      "index": 92,
+      "start": "00:24:01.270",
+      "end": "00:24:04.770",
+      "text": "about alternative service delivery in industrial areas,"
+    },
+    {
+      "index": 93,
+      "start": "00:24:04.770",
+      "end": "00:24:06.640",
+      "text": "which I'm certainly looking forward to."
+    },
+    {
+      "index": 94,
+      "start": "00:24:06.640",
+      "end": "00:24:08.420",
+      "text": "We're still moving forward on that,"
+    },
+    {
+      "index": 95,
+      "start": "00:24:08.420",
+      "end": "00:24:11.230",
+      "text": "despite the fact that the pandemic really impacted"
+    },
+    {
+      "index": 96,
+      "start": "00:24:11.230",
+      "end": "00:24:14.350",
+      "text": "a lot of the growth plans for London Transit."
+    },
+    {
+      "index": 97,
+      "start": "00:24:14.350",
+      "end": "00:24:16.230",
+      "text": "The community safety and wellbeing plan,"
+    },
+    {
+      "index": 98,
+      "start": "00:24:16.230",
+      "end": "00:24:19.580",
+      "text": "I actually had the opportunity to serve in the advisory group"
+    },
+    {
+      "index": 99,
+      "start": "00:24:19.580",
+      "end": "00:24:22.390",
+      "text": "as a representative from the London Police Services Board"
+    },
+    {
+      "index": 100,
+      "start": "00:24:22.390",
+      "end": "00:24:25.190",
+      "text": "on the group that helped develop this plan."
+    },
+    {
+      "index": 101,
+      "start": "00:24:25.190",
+      "end": "00:24:27.500",
+      "text": "I know that was a really great team effort"
+    },
+    {
+      "index": 102,
+      "start": "00:24:27.500",
+      "end": "00:24:29.860",
+      "text": "to try and engage the community,"
+    },
+    {
+      "index": 103,
+      "start": "00:24:29.860",
+      "end": "00:24:32.930",
+      "text": "to restart and kind of re-engage the community"
+    },
+    {
+      "index": 104,
+      "start": "00:24:32.930",
+      "end": "00:24:36.100",
+      "text": "when the pandemic had the consultation on this project"
+    },
+    {
+      "index": 105,
+      "start": "00:24:36.100",
+      "end": "00:24:38.560",
+      "text": "ended part way through February, 2020."
+    },
+    {
+      "index": 106,
+      "start": "00:24:38.560",
+      "end": "00:24:41.060",
+      "text": "So I think people's understanding of community safety"
+    },
+    {
+      "index": 107,
+      "start": "00:24:41.060",
+      "end": "00:24:44.790",
+      "text": "and wellbeing was shifted quite a bit in the month after that."
+    },
+    {
+      "index": 108,
+      "start": "00:24:44.790",
+      "end": "00:24:47.530",
+      "text": "And it's been quite the project to get it over the line"
+    },
+    {
+      "index": 109,
+      "start": "00:24:47.530",
+      "end": "00:24:50.780",
+      "text": "and I appreciate leadership from Cheryl Smith"
+    },
+    {
+      "index": 110,
+      "start": "00:24:50.780",
+      "end": "00:24:52.950",
+      "text": "and Dave O'Brien in particular"
+    },
+    {
+      "index": 111,
+      "start": "00:24:52.950",
+      "end": "00:24:55.960",
+      "text": "over the course of the development of that plan."
+    },
+    {
+      "index": 112,
+      "start": "00:24:55.960",
+      "end": "00:24:58.550",
+      "text": "Happy to see the improvements coming through"
+    },
+    {
+      "index": 113,
+      "start": "00:24:58.550",
+      "end": "00:25:00.500",
+      "text": "that transfer payment agreement"
+    },
+    {
+      "index": 114,
+      "start": "00:25:00.500",
+      "end": "00:25:02.470",
+      "text": "for Carling Heights Optimist Center."
+    },
+    {
+      "index": 115,
+      "start": "00:25:02.470",
+      "end": "00:25:04.280",
+      "text": "That's great to see those improvements coming in"
+    },
+    {
+      "index": 116,
+      "start": "00:25:04.280",
+      "end": "00:25:09.250",
+      "text": "and also Lebat Park, which is a jewel in London."
+    },
+    {
+      "index": 117,
+      "start": "00:25:09.250",
+      "end": "00:25:14.200",
+      "text": "And I just wanted to say on the fire pieces,"
+    },
+    {
+      "index": 118,
+      "start": "00:25:14.200",
+      "end": "00:25:16.100",
+      "text": "I know these things are difficult to manage through"
+    },
+    {
+      "index": 119,
+      "start": "00:25:16.100",
+      "end": "00:25:18.240",
+      "text": "and I'm glad that we've got policies in place"
+    },
+    {
+      "index": 120,
+      "start": "00:25:18.240",
+      "end": "00:25:20.880",
+      "text": "that allow for this kind of nimble decision-making"
+    },
+    {
+      "index": 121,
+      "start": "00:25:20.880",
+      "end": "00:25:24.460",
+      "text": "when things happen that are really unfortunate."
+    },
+    {
+      "index": 122,
+      "start": "00:25:24.460",
+      "end": "00:25:25.700",
+      "text": "And we have to respond quickly"
+    },
+    {
+      "index": 123,
+      "start": "00:25:25.700",
+      "end": "00:25:28.680",
+      "text": "and we have to be able to act to seize on opportunities"
+    },
+    {
+      "index": 124,
+      "start": "00:25:28.680",
+      "end": "00:25:31.030",
+      "text": "and the single-source procurement, for example,"
+    },
+    {
+      "index": 125,
+      "start": "00:25:31.030",
+      "end": "00:25:34.200",
+      "text": "so we can get a fire engine in place"
+    },
+    {
+      "index": 126,
+      "start": "00:25:34.200",
+      "end": "00:25:36.430",
+      "text": "so that we don't have any impacts on service"
+    },
+    {
+      "index": 127,
+      "start": "00:25:36.430",
+      "end": "00:25:38.470",
+      "text": "beyond what's already been experienced."
+    },
+    {
+      "index": 128,
+      "start": "00:25:38.470",
+      "end": "00:25:39.640",
+      "text": "I think it's really important."
+    },
+    {
+      "index": 129,
+      "start": "00:25:39.640",
+      "end": "00:25:43.100",
+      "text": "So I'm glad to see the staff acting so quickly on that front"
+    },
+    {
+      "index": 130,
+      "start": "00:25:43.100",
+      "end": "00:25:47.590",
+      "text": "and the extension of the homeless prevention services"
+    },
+    {
+      "index": 131,
+      "start": "00:25:47.590",
+      "end": "00:25:49.350",
+      "text": "all the way into March of next year."
+    },
+    {
+      "index": 132,
+      "start": "00:25:49.350",
+      "end": "00:25:52.620",
+      "text": "Also really glad to see that happening."
+    },
+    {
+      "index": 133,
+      "start": "00:25:52.620",
+      "end": "00:25:55.860",
+      "text": "So that's really all the items in the consent agenda."
+    },
+    {
+      "index": 134,
+      "start": "00:25:55.860",
+      "end": "00:25:59.380",
+      "text": "Certainly a lot of good news in the reports."
+    },
+    {
+      "index": 135,
+      "start": "00:25:59.380",
+      "end": "00:26:02.440",
+      "text": "Councillor Cassidy, go ahead."
+    },
+    {
+      "index": 136,
+      "start": "00:26:02.440",
+      "end": "00:26:05.880",
+      "text": "Thank you, Mr. Chair, my apologies for being slow"
+    },
+    {
+      "index": 137,
+      "start": "00:26:05.880",
+      "end": "00:26:08.710",
+      "text": "on the draw, trying to get my hand up and everything."
+    },
+    {
+      "index": 138,
+      "start": "00:26:08.710",
+      "end": "00:26:12.500",
+      "text": "I did want to comment on the homeless prevention response,"
+    },
+    {
+      "index": 139,
+      "start": "00:26:12.500",
+      "end": "00:26:16.640",
+      "text": "the extension of the hotel room space, actually."
+    },
+    {
+      "index": 140,
+      "start": "00:26:16.640",
+      "end": "00:26:20.230",
+      "text": "I'm pleased to see that being extended right through"
+    },
+    {
+      "index": 141,
+      "start": "00:26:20.230",
+      "end": "00:26:25.210",
+      "text": "the winter, so that will eliminate some of that uncertainty"
+    },
+    {
+      "index": 142,
+      "start": "00:26:25.290",
+      "end": "00:26:27.480",
+      "text": "as the colder months start approaching."
+    },
+    {
+      "index": 143,
+      "start": "00:26:27.480",
+      "end": "00:26:29.750",
+      "text": "And I'm really grateful also to the federal"
+    },
+    {
+      "index": 144,
+      "start": "00:26:29.750",
+      "end": "00:26:32.830",
+      "text": "and the provincial governments for their funding for this."
+    },
+    {
+      "index": 145,
+      "start": "00:26:32.830",
+      "end": "00:26:34.810",
+      "text": "So it'll give us the isolation space."
+    },
+    {
+      "index": 146,
+      "start": "00:26:34.810",
+      "end": "00:26:36.640",
+      "text": "It's the testing and monitoring space,"
+    },
+    {
+      "index": 147,
+      "start": "00:26:36.640",
+      "end": "00:26:38.700",
+      "text": "physical distancing space."
+    },
+    {
+      "index": 148,
+      "start": "00:26:38.700",
+      "end": "00:26:43.240",
+      "text": "And I also know a number of, quite a large number"
+    },
+    {
+      "index": 149,
+      "start": "00:26:43.240",
+      "end": "00:26:46.500",
+      "text": "of community organizations pitching in on this as well"
+    },
+    {
+      "index": 150,
+      "start": "00:26:46.500",
+      "end": "00:26:49.320",
+      "text": "to help with some of those supports"
+    },
+    {
+      "index": 151,
+      "start": "00:26:49.320",
+      "end": "00:26:52.100",
+      "text": "for the people that will be using these hotel rooms."
+    },
+    {
+      "index": 152,
+      "start": "00:26:52.100",
+      "end": "00:26:55.630",
+      "text": "I have a question for staff about that, knowing"
+    },
+    {
+      "index": 153,
+      "start": "00:26:55.630",
+      "end": "00:27:00.620",
+      "text": "that we used these hotel rooms in the previous,"
+    },
+    {
+      "index": 154,
+      "start": "00:27:00.620",
+      "end": "00:27:04.710",
+      "text": "have been using them really since COVID really hit us hard."
+    },
+    {
+      "index": 155,
+      "start": "00:27:04.710",
+      "end": "00:27:07.610",
+      "text": "I'm wondering how many people that have access"
+    },
+    {
+      "index": 156,
+      "start": "00:27:07.610",
+      "end": "00:27:10.440",
+      "text": "these hotel rooms, if any of them have transitioned"
+    },
+    {
+      "index": 157,
+      "start": "00:27:10.440",
+      "end": "00:27:15.340",
+      "text": "into permanent housing, are we serving the same clientele"
+    },
+    {
+      "index": 158,
+      "start": "00:27:15.340",
+      "end": "00:27:18.700",
+      "text": "or has it been people coming in and out"
+    },
+    {
+      "index": 159,
+      "start": "00:27:18.700",
+      "end": "00:27:20.360",
+      "text": "of these hotel spaces?"
+    },
+    {
+      "index": 160,
+      "start": "00:27:20.360",
+      "end": "00:27:22.780",
+      "text": "So that's my question."
+    },
+    {
+      "index": 161,
+      "start": "00:27:22.780",
+      "end": "00:27:24.960",
+      "text": "Mr. Dickens."
+    },
+    {
+      "index": 162,
+      "start": "00:27:24.960",
+      "end": "00:27:27.680",
+      "text": "Thank you and through you, Chair."
+    },
+    {
+      "index": 163,
+      "start": "00:27:27.680",
+      "end": "00:27:30.320",
+      "text": "It's a combination of folks that have been in and out"
+    },
+    {
+      "index": 164,
+      "start": "00:27:30.320",
+      "end": "00:27:33.280",
+      "text": "of the hotels and the consistent population"
+    },
+    {
+      "index": 165,
+      "start": "00:27:33.280",
+      "end": "00:27:34.870",
+      "text": "that we've been supporting."
+    },
+    {
+      "index": 166,
+      "start": "00:27:34.870",
+      "end": "00:27:37.380",
+      "text": "When we initially launched the hotel response,"
+    },
+    {
+      "index": 167,
+      "start": "00:27:37.380",
+      "end": "00:27:41.920",
+      "text": "it was targeting individuals amongst the unsheltered"
+    },
+    {
+      "index": 168,
+      "start": "00:27:41.920",
+      "end": "00:27:43.840",
+      "text": "and the precariously housed population"
+    },
+    {
+      "index": 169,
+      "start": "00:27:43.840",
+      "end": "00:27:45.870",
+      "text": "that were medically vulnerable."
+    },
+    {
+      "index": 170,
+      "start": "00:27:45.870",
+      "end": "00:27:48.260",
+      "text": "And that group remains fairly consistent,"
+    },
+    {
+      "index": 171,
+      "start": "00:27:48.260",
+      "end": "00:27:50.770",
+      "text": "although some people have successfully transitioned"
+    },
+    {
+      "index": 172,
+      "start": "00:27:50.770",
+      "end": "00:27:52.800",
+      "text": "out of hotels and into housing."
+    },
+    {
+      "index": 173,
+      "start": "00:27:52.800",
+      "end": "00:27:54.990",
+      "text": "Mr. Cooper is on the meeting today"
+    },
+    {
+      "index": 174,
+      "start": "00:27:54.990",
+      "end": "00:27:59.060",
+      "text": "and I'll ask him to speak specifically to your question."
+    },
+    {
+      "index": 175,
+      "start": "00:27:59.060",
+      "end": "00:28:00.880",
+      "text": "Go ahead, Mr. Cooper."
+    },
+    {
+      "index": 176,
+      "start": "00:28:00.880",
+      "end": "00:28:03.760",
+      "text": "Thank you, Mr. Dickens and Mr. Chair and through you."
+    },
+    {
+      "index": 177,
+      "start": "00:28:03.760",
+      "end": "00:28:06.430",
+      "text": "Thank you for the question, Councillor Cassidy."
+    },
+    {
+      "index": 178,
+      "start": "00:28:06.430",
+      "end": "00:28:08.750",
+      "text": "We have had some great success"
+    },
+    {
+      "index": 179,
+      "start": "00:28:08.750",
+      "end": "00:28:11.620",
+      "text": "with housing individuals from the hotel."
+    },
+    {
+      "index": 180,
+      "start": "00:28:11.620",
+      "end": "00:28:15.180",
+      "text": "The last number, I believe I saw from some of my team members"
+    },
+    {
+      "index": 181,
+      "start": "00:28:15.180",
+      "end": "00:28:17.650",
+      "text": "of the 135 people that we've been able to transition"
+    },
+    {
+      "index": 182,
+      "start": "00:28:17.650",
+      "end": "00:28:19.730",
+      "text": "to permanent housing from the hotels."
+    },
+    {
+      "index": 183,
+      "start": "00:28:19.730",
+      "end": "00:28:23.680",
+      "text": "We can provide a further update to that number,"
+    },
+    {
+      "index": 184,
+      "start": "00:28:23.680",
+      "end": "00:28:26.520",
+      "text": "but overall, we've had some success"
+    },
+    {
+      "index": 185,
+      "start": "00:28:26.520",
+      "end": "00:28:29.710",
+      "text": "in the last year of housing people in general."
+    },
+    {
+      "index": 186,
+      "start": "00:28:29.710",
+      "end": "00:28:33.460",
+      "text": "It's been over 600 people from the housing stability services"
+    },
+    {
+      "index": 187,
+      "start": "00:28:33.460",
+      "end": "00:28:37.420",
+      "text": "team acquiring permanent housing for individuals."
+    },
+    {
+      "index": 188,
+      "start": "00:28:37.420",
+      "end": "00:28:39.010",
+      "text": "We have seen a bit of a transition"
+    },
+    {
+      "index": 189,
+      "start": "00:28:39.010",
+      "end": "00:28:41.490",
+      "text": "through the hotel spaces."
+    },
+    {
+      "index": 190,
+      "start": "00:28:41.490",
+      "end": "00:28:43.800",
+      "text": "They are acting as shelter extension spaces."
+    },
+    {
+      "index": 191,
+      "start": "00:28:43.800",
+      "end": "00:28:47.040",
+      "text": "So sometimes individuals aren't as successful"
+    },
+    {
+      "index": 192,
+      "start": "00:28:47.040",
+      "end": "00:28:49.110",
+      "text": "in those locations for various reasons."
+    },
+    {
+      "index": 193,
+      "start": "00:28:49.110",
+      "end": "00:28:51.750",
+      "text": "We do have some guest management challenges."
+    },
+    {
+      "index": 194,
+      "start": "00:28:51.750",
+      "end": "00:28:53.270",
+      "text": "We have some other challenges in the spaces,"
+    },
+    {
+      "index": 195,
+      "start": "00:28:53.270",
+      "end": "00:28:55.560",
+      "text": "but the agencies that we're working with"
+    },
+    {
+      "index": 196,
+      "start": "00:28:55.560",
+      "end": "00:28:57.590",
+      "text": "and funding to provide service to those spaces"
+    },
+    {
+      "index": 197,
+      "start": "00:28:57.590",
+      "end": "00:29:00.580",
+      "text": "are doing a phenomenal job in a very difficult time."
+    },
+    {
+      "index": 198,
+      "start": "00:29:00.580",
+      "end": "00:29:03.050",
+      "text": "Our focus right now really is around the vaccination"
+    },
+    {
+      "index": 199,
+      "start": "00:29:03.050",
+      "end": "00:29:05.200",
+      "text": "and increasing the vaccination rate"
+    },
+    {
+      "index": 200,
+      "start": "00:29:05.200",
+      "end": "00:29:07.670",
+      "text": "for those vulnerable folks in the hotels"
+    },
+    {
+      "index": 201,
+      "start": "00:29:07.670",
+      "end": "00:29:09.580",
+      "text": "and trying to work with our health unit,"
+    },
+    {
+      "index": 202,
+      "start": "00:29:09.580",
+      "end": "00:29:11.380",
+      "text": "work on educating some of the individuals"
+    },
+    {
+      "index": 203,
+      "start": "00:29:11.380",
+      "end": "00:29:13.570",
+      "text": "around the benefit of a vaccine"
+    },
+    {
+      "index": 204,
+      "start": "00:29:13.570",
+      "end": "00:29:15.840",
+      "text": "and really making sure that they're making an informed"
+    },
+    {
+      "index": 205,
+      "start": "00:29:15.840",
+      "end": "00:29:18.270",
+      "text": "decision when they do choose to get the vaccine"
+    },
+    {
+      "index": 206,
+      "start": "00:29:18.270",
+      "end": "00:29:22.210",
+      "text": "or not get the vaccine."
+    },
+    {
+      "index": 207,
+      "start": "00:29:22.210",
+      "end": "00:29:23.980",
+      "text": "Councillor Cassidy."
+    },
+    {
+      "index": 208,
+      "start": "00:29:23.980",
+      "end": "00:29:25.370",
+      "text": "That's really good information."
+    },
+    {
+      "index": 209,
+      "start": "00:29:25.370",
+      "end": "00:29:26.210",
+      "text": "Thank you."
+    },
+    {
+      "index": 210,
+      "start": "00:29:26.210",
+      "end": "00:29:27.750",
+      "text": "Through you, Mr. Chair, thank you to staff."
+    },
+    {
+      "index": 211,
+      "start": "00:29:27.750",
+      "end": "00:29:31.010",
+      "text": "And this is again, just one little piece."
+    },
+    {
+      "index": 212,
+      "start": "00:29:31.010",
+      "end": "00:29:33.630",
+      "text": "We keep here having these different reports"
+    },
+    {
+      "index": 213,
+      "start": "00:29:33.630",
+      "end": "00:29:38.660",
+      "text": "on our homelessness prevention progress here in the city."
+    },
+    {
+      "index": 214,
+      "start": "00:29:38.660",
+      "end": "00:29:40.260",
+      "text": "And I just want to say thank you to staff"
+    },
+    {
+      "index": 215,
+      "start": "00:29:40.260",
+      "end": "00:29:42.690",
+      "text": "for keeping on, keeping on."
+    },
+    {
+      "index": 216,
+      "start": "00:29:42.690",
+      "end": "00:29:44.290",
+      "text": "I know when we announce something,"
+    },
+    {
+      "index": 217,
+      "start": "00:29:44.290",
+      "end": "00:29:45.800",
+      "text": "somebody often comes forward,"
+    },
+    {
+      "index": 218,
+      "start": "00:29:45.800",
+      "end": "00:29:47.400",
+      "text": "especially through social media and says,"
+    },
+    {
+      "index": 219,
+      "start": "00:29:47.400",
+      "end": "00:29:48.480",
+      "text": "okay, that's fine with that."
+    },
+    {
+      "index": 220,
+      "start": "00:29:48.480",
+      "end": "00:29:50.710",
+      "text": "But what about this over here?"
+    },
+    {
+      "index": 221,
+      "start": "00:29:50.710",
+      "end": "00:29:52.830",
+      "text": "And the response from staff is generally,"
+    },
+    {
+      "index": 222,
+      "start": "00:29:52.830",
+      "end": "00:29:54.860",
+      "text": "well, this is what we're working on over here."
+    },
+    {
+      "index": 223,
+      "start": "00:29:54.860",
+      "end": "00:29:56.420",
+      "text": "So it's never just one thing."
+    },
+    {
+      "index": 224,
+      "start": "00:29:56.420",
+      "end": "00:30:00.170",
+      "text": "I know our city staff are working really hard to tackle"
+    },
+    {
+      "index": 225,
+      "start": "00:30:00.170",
+      "end": "00:30:04.400",
+      "text": "all of the really, really complicated and complex issues"
+    },
+    {
+      "index": 226,
+      "start": "00:30:04.400",
+      "end": "00:30:06.990",
+      "text": "of this problem in the city"
+    },
+    {
+      "index": 227,
+      "start": "00:30:06.990",
+      "end": "00:30:10.500",
+      "text": "and trying to get vulnerable people housed"
+    },
+    {
+      "index": 228,
+      "start": "00:30:10.500",
+      "end": "00:30:13.490",
+      "text": "and precariously housed people permanently housed."
+    },
+    {
+      "index": 229,
+      "start": "00:30:13.490",
+      "end": "00:30:15.770",
+      "text": "And I'm just really thankful for the work that staff does."
+    },
+    {
+      "index": 230,
+      "start": "00:30:15.770",
+      "end": "00:30:17.840",
+      "text": "So thanks, Mr. Chair."
+    },
+    {
+      "index": 231,
+      "start": "00:30:17.840",
+      "end": "00:30:19.010",
+      "text": "Okay. I see Councillor Ioannon."
+    },
+    {
+      "index": 232,
+      "start": "00:30:19.010",
+      "end": "00:30:19.830",
+      "text": "Also has joined us."
+    },
+    {
+      "index": 233,
+      "start": "00:30:19.830",
+      "end": "00:30:20.650",
+      "text": "He has to stand up."
+    },
+    {
+      "index": 234,
+      "start": "00:30:20.650",
+      "end": "00:30:22.290",
+      "text": "Go ahead, Councillor very much."
+    },
+    {
+      "index": 235,
+      "start": "00:30:22.290",
+      "end": "00:30:23.700",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 236,
+      "start": "00:30:23.700",
+      "end": "00:30:27.670",
+      "text": "And then just let me confirm we're talking about item 2.2."
+    },
+    {
+      "index": 237,
+      "start": "00:30:27.670",
+      "end": "00:30:29.920",
+      "text": "We're talking about the entire consent agenda."
+    },
+    {
+      "index": 238,
+      "start": "00:30:29.920",
+      "end": "00:30:30.730",
+      "text": "Oh, well, wonderful."
+    },
+    {
+      "index": 239,
+      "start": "00:30:30.730",
+      "end": "00:30:32.520",
+      "text": "And then that's fine."
+    },
+    {
+      "index": 240,
+      "start": "00:30:32.520",
+      "end": "00:30:37.180",
+      "text": "My question was regarding the,"
+    },
+    {
+      "index": 241,
+      "start": "00:30:37.180",
+      "end": "00:30:42.140",
+      "text": "we've got another $3 million intended for hotel rooms,"
+    },
+    {
+      "index": 242,
+      "start": "00:30:42.140",
+      "end": "00:30:46.440",
+      "text": "but my concern about that is at the end of it,"
+    },
+    {
+      "index": 243,
+      "start": "00:30:46.440",
+      "end": "00:30:48.590",
+      "text": "we've got nothing to show for it."
+    },
+    {
+      "index": 244,
+      "start": "00:30:48.590",
+      "end": "00:30:53.730",
+      "text": "And I still see people sleeping in doorways"
+    },
+    {
+      "index": 245,
+      "start": "00:30:54.090",
+      "end": "00:30:59.070",
+      "text": "and I wonder if there's some hope in the future"
+    },
+    {
+      "index": 246,
+      "start": "00:30:59.070",
+      "end": "00:31:03.370",
+      "text": "for a spectrum of or some transitional housing"
+    },
+    {
+      "index": 247,
+      "start": "00:31:03.370",
+      "end": "00:31:04.370",
+      "text": "that's more permanent,"
+    },
+    {
+      "index": 248,
+      "start": "00:31:04.370",
+      "end": "00:31:09.340",
+      "text": "something that the city owns that we can offer to people"
+    },
+    {
+      "index": 249,
+      "start": "00:31:09.340",
+      "end": "00:31:13.960",
+      "text": "as opposed to and something permanent"
+    },
+    {
+      "index": 250,
+      "start": "00:31:13.960",
+      "end": "00:31:20.760",
+      "text": "and a permanent asset as opposed to the hotel rooms."
+    },
+    {
+      "index": 251,
+      "start": "00:31:20.760",
+      "end": "00:31:21.560",
+      "text": "I'd like to handle that one."
+    },
+    {
+      "index": 252,
+      "start": "00:31:21.560",
+      "end": "00:31:23.800",
+      "text": "Mr. Dickens for Mr. Cooper."
+    },
+    {
+      "index": 253,
+      "start": "00:31:23.800",
+      "end": "00:31:24.620",
+      "text": "Thank you, Chair."
+    },
+    {
+      "index": 254,
+      "start": "00:31:24.620",
+      "end": "00:31:27.370",
+      "text": "I will attempt to take that in or that question."
+    },
+    {
+      "index": 255,
+      "start": "00:31:27.370",
+      "end": "00:31:29.520",
+      "text": "Thank you for the question."
+    },
+    {
+      "index": 256,
+      "start": "00:31:29.520",
+      "end": "00:31:33.490",
+      "text": "I would offer that we do have some things,"
+    },
+    {
+      "index": 257,
+      "start": "00:31:33.490",
+      "end": "00:31:35.920",
+      "text": "some outcomes to show for it at this point"
+    },
+    {
+      "index": 258,
+      "start": "00:31:35.920",
+      "end": "00:31:38.980",
+      "text": "as Mr. Cooper just articulated at last count,"
+    },
+    {
+      "index": 259,
+      "start": "00:31:38.980",
+      "end": "00:31:43.790",
+      "text": "roughly 135 vulnerable individuals have been housed"
+    },
+    {
+      "index": 260,
+      "start": "00:31:43.790",
+      "end": "00:31:45.910",
+      "text": "from the hotel system."
+    },
+    {
+      "index": 261,
+      "start": "00:31:45.910",
+      "end": "00:31:50.700",
+      "text": "The hotel system was a measure to combat"
+    },
+    {
+      "index": 262,
+      "start": "00:31:50.700",
+      "end": "00:31:53.990",
+      "text": "the congregate living settings during COVID at its peak."
+    },
+    {
+      "index": 263,
+      "start": "00:31:53.990",
+      "end": "00:31:56.090",
+      "text": "And we see that we're still battling"
+    },
+    {
+      "index": 264,
+      "start": "00:31:56.090",
+      "end": "00:31:57.910",
+      "text": "that COVID reality still today."
+    },
+    {
+      "index": 265,
+      "start": "00:31:57.910",
+      "end": "00:32:01.300",
+      "text": "When we look at the hotel response,"
+    },
+    {
+      "index": 266,
+      "start": "00:32:01.300",
+      "end": "00:32:04.970",
+      "text": "it was a measure to keep people safe."
+    },
+    {
+      "index": 267,
+      "start": "00:32:04.970",
+      "end": "00:32:08.420",
+      "text": "And as we've seen since March of 2020,"
+    },
+    {
+      "index": 268,
+      "start": "00:32:08.420",
+      "end": "00:32:12.230",
+      "text": "we've had very few COVID outbreaks"
+    },
+    {
+      "index": 269,
+      "start": "00:32:12.230",
+      "end": "00:32:14.160",
+      "text": "amongst our vulnerable population,"
+    },
+    {
+      "index": 270,
+      "start": "00:32:14.160",
+      "end": "00:32:16.500",
+      "text": "which is a testament to the organizations"
+    },
+    {
+      "index": 271,
+      "start": "00:32:16.500",
+      "end": "00:32:18.910",
+      "text": "that are offering the services,"
+    },
+    {
+      "index": 272,
+      "start": "00:32:18.910",
+      "end": "00:32:21.330",
+      "text": "but also to the work that Mr. Cooper and his team does"
+    },
+    {
+      "index": 273,
+      "start": "00:32:21.330",
+      "end": "00:32:25.810",
+      "text": "to provide safe space such as hotels during this pandemic."
+    },
+    {
+      "index": 274,
+      "start": "00:32:25.810",
+      "end": "00:32:29.370",
+      "text": "So some very, very positive outcomes coming out of this."
+    },
+    {
+      "index": 275,
+      "start": "00:32:29.370",
+      "end": "00:32:33.980",
+      "text": "On the capital side or on the permanent housing side,"
+    },
+    {
+      "index": 276,
+      "start": "00:32:33.980",
+      "end": "00:32:35.860",
+      "text": "council will be familiar with the fact"
+    },
+    {
+      "index": 277,
+      "start": "00:32:35.860",
+      "end": "00:32:38.410",
+      "text": "that we are nearing completion"
+    },
+    {
+      "index": 278,
+      "start": "00:32:38.410",
+      "end": "00:32:43.480",
+      "text": "on a modular housing project, 122 baseline."
+    },
+    {
+      "index": 279,
+      "start": "00:32:43.480",
+      "end": "00:32:46.040",
+      "text": "It is set for completion at the end of the calendar year"
+    },
+    {
+      "index": 280,
+      "start": "00:32:46.040",
+      "end": "00:32:49.430",
+      "text": "in occupancy to begin in January."
+    },
+    {
+      "index": 281,
+      "start": "00:32:49.430",
+      "end": "00:32:52.540",
+      "text": "Well, it is not targeting strictly unsheltered"
+    },
+    {
+      "index": 282,
+      "start": "00:32:52.540",
+      "end": "00:32:53.700",
+      "text": "homeless populations."
+    },
+    {
+      "index": 283,
+      "start": "00:32:53.700",
+      "end": "00:32:55.340",
+      "text": "It is an affordable housing project,"
+    },
+    {
+      "index": 284,
+      "start": "00:32:55.340",
+      "end": "00:32:59.250",
+      "text": "which will create some movement within the housing continuum."
+    },
+    {
+      "index": 285,
+      "start": "00:32:59.250",
+      "end": "00:33:04.280",
+      "text": "We are also in the midst of submitting our plans to CMHC"
+    },
+    {
+      "index": 286,
+      "start": "00:33:04.280",
+      "end": "00:33:07.430",
+      "text": "on the second round of rapid housing"
+    },
+    {
+      "index": 287,
+      "start": "00:33:07.430",
+      "end": "00:33:09.310",
+      "text": "for another modular housing project."
+    },
+    {
+      "index": 288,
+      "start": "00:33:09.310",
+      "end": "00:33:11.580",
+      "text": "And we continue to work with a number"
+    },
+    {
+      "index": 289,
+      "start": "00:33:11.580",
+      "end": "00:33:13.460",
+      "text": "of community organizations"
+    },
+    {
+      "index": 290,
+      "start": "00:33:13.460",
+      "end": "00:33:16.410",
+      "text": "on their affordable housing development projects."
+    },
+    {
+      "index": 291,
+      "start": "00:33:16.410",
+      "end": "00:33:21.150",
+      "text": "We are as civic administration, Mr. Cots of us and myself"
+    },
+    {
+      "index": 292,
+      "start": "00:33:21.150",
+      "end": "00:33:23.330",
+      "text": "working on a report back to council,"
+    },
+    {
+      "index": 293,
+      "start": "00:33:23.330",
+      "end": "00:33:27.050",
+      "text": "which will come later this fall on an implementation strategy"
+    },
+    {
+      "index": 294,
+      "start": "00:33:27.050",
+      "end": "00:33:31.190",
+      "text": "to create 3,000 affordable units over the next five years."
+    },
+    {
+      "index": 295,
+      "start": "00:33:31.190",
+      "end": "00:33:32.970",
+      "text": "We feel that there's opportunity there"
+    },
+    {
+      "index": 296,
+      "start": "00:33:32.970",
+      "end": "00:33:36.890",
+      "text": "to highlight the good work and set a path forward"
+    },
+    {
+      "index": 297,
+      "start": "00:33:36.890",
+      "end": "00:33:41.870",
+      "text": "to really address the questions that the council has."
+    },
+    {
+      "index": 298,
+      "start": "00:33:41.870",
+      "end": "00:33:43.780",
+      "text": "Councilor Reynolds."
+    },
+    {
+      "index": 299,
+      "start": "00:33:43.780",
+      "end": "00:33:47.260",
+      "text": "Yes, thank you for the answer."
+    },
+    {
+      "index": 300,
+      "start": "00:33:47.260",
+      "end": "00:33:48.830",
+      "text": "I think those are encouraging things."
+    },
+    {
+      "index": 301,
+      "start": "00:33:48.830",
+      "end": "00:33:53.610",
+      "text": "And of course, I don't want to detract anyway"
+    },
+    {
+      "index": 302,
+      "start": "00:33:53.610",
+      "end": "00:33:55.260",
+      "text": "from the work that's done."
+    },
+    {
+      "index": 303,
+      "start": "00:33:55.260",
+      "end": "00:33:58.560",
+      "text": "I'm afraid I'm kind of a half a person"
+    },
+    {
+      "index": 304,
+      "start": "00:33:58.560",
+      "end": "00:34:01.070",
+      "text": "who's the glass is half empty."
+    },
+    {
+      "index": 305,
+      "start": "00:34:01.070",
+      "end": "00:34:02.310",
+      "text": "I'm always looking for there,"
+    },
+    {
+      "index": 306,
+      "start": "00:34:02.310",
+      "end": "00:34:06.930",
+      "text": "or even a 10th or 5% empty looking for that extra little bit."
+    },
+    {
+      "index": 307,
+      "start": "00:34:06.930",
+      "end": "00:34:11.990",
+      "text": "I was sharing breakfast with a gentleman"
+    },
+    {
+      "index": 308,
+      "start": "00:34:11.990",
+      "end": "00:34:14.330",
+      "text": "who had slept overnight in the back"
+    },
+    {
+      "index": 309,
+      "start": "00:34:14.330",
+      "end": "00:34:17.720",
+      "text": "of the Hamilton Road Senior Center."
+    },
+    {
+      "index": 310,
+      "start": "00:34:17.720",
+      "end": "00:34:24.280",
+      "text": "And notice, well, when I asked about"
+    },
+    {
+      "index": 311,
+      "start": "00:34:24.280",
+      "end": "00:34:26.230",
+      "text": "what kind of support he was getting,"
+    },
+    {
+      "index": 312,
+      "start": "00:34:26.230",
+      "end": "00:34:31.650",
+      "text": "suggested that he had some challenges with the mission"
+    },
+    {
+      "index": 313,
+      "start": "00:34:31.650",
+      "end": "00:34:36.880",
+      "text": "and another one of the other service providers."
+    },
+    {
+      "index": 314,
+      "start": "00:34:36.880",
+      "end": "00:34:42.320",
+      "text": "And I think this is a common thing"
+    },
+    {
+      "index": 315,
+      "start": "00:34:42.320",
+      "end": "00:34:46.690",
+      "text": "for the people that we find sleeping on the streets."
+    },
+    {
+      "index": 316,
+      "start": "00:34:46.690",
+      "end": "00:34:53.690",
+      "text": "And I wonder if there's any strategies or ideas"
+    },
+    {
+      "index": 317,
+      "start": "00:34:53.690",
+      "end": "00:34:56.380",
+      "text": "we're looking at to deal with that"
+    },
+    {
+      "index": 318,
+      "start": "00:34:56.380",
+      "end": "00:35:02.850",
+      "text": "or somehow make that a little more attractive"
+    },
+    {
+      "index": 319,
+      "start": "00:35:02.850",
+      "end": "00:35:08.680",
+      "text": "to people, or at least again, find some alternative"
+    },
+    {
+      "index": 320,
+      "start": "00:35:08.680",
+      "end": "00:35:14.940",
+      "text": "to those which deals with the particular complaints they have."
+    },
+    {
+      "index": 321,
+      "start": "00:35:14.940",
+      "end": "00:35:16.800",
+      "text": "I'm just going to go to staff"
+    },
+    {
+      "index": 322,
+      "start": "00:35:16.800",
+      "end": "00:35:19.600",
+      "text": "to see if you want to add anything to that question."
+    },
+    {
+      "index": 323,
+      "start": "00:35:19.600",
+      "end": "00:35:21.250",
+      "text": "But this matter that we're dealing with here"
+    },
+    {
+      "index": 324,
+      "start": "00:35:21.250",
+      "end": "00:35:24.090",
+      "text": "is really just the extension of the procurement"
+    },
+    {
+      "index": 325,
+      "start": "00:35:24.090",
+      "end": "00:35:25.350",
+      "text": "for these specific services."
+    },
+    {
+      "index": 326,
+      "start": "00:35:25.350",
+      "end": "00:35:26.880",
+      "text": "And the broader discussion"
+    },
+    {
+      "index": 327,
+      "start": "00:35:26.880",
+      "end": "00:35:28.250",
+      "text": "about what's happening with the shelter system,"
+    },
+    {
+      "index": 328,
+      "start": "00:35:28.250",
+      "end": "00:35:30.800",
+      "text": "I think it's probably better for a discussion related"
+    },
+    {
+      "index": 329,
+      "start": "00:35:30.800",
+      "end": "00:35:34.800",
+      "text": "to the RFP we're going into to get some services"
+    },
+    {
+      "index": 330,
+      "start": "00:35:34.800",
+      "end": "00:35:36.410",
+      "text": "in place for next year."
+    },
+    {
+      "index": 331,
+      "start": "00:35:36.410",
+      "end": "00:35:38.810",
+      "text": "And I just wonder if Councilman Holst"
+    },
+    {
+      "index": 332,
+      "start": "00:35:38.810",
+      "end": "00:35:39.980",
+      "text": "will get an initial answer here,"
+    },
+    {
+      "index": 333,
+      "start": "00:35:39.980",
+      "end": "00:35:41.390",
+      "text": "but some of that is a bit broader"
+    },
+    {
+      "index": 334,
+      "start": "00:35:41.390",
+      "end": "00:35:43.540",
+      "text": "than the matter that's before us right now."
+    },
+    {
+      "index": 335,
+      "start": "00:35:43.540",
+      "end": "00:35:46.620",
+      "text": "Go ahead. - Thank you."
+    },
+    {
+      "index": 336,
+      "start": "00:35:46.620",
+      "end": "00:35:48.800",
+      "text": "Thank you, Chair."
+    },
+    {
+      "index": 337,
+      "start": "00:35:48.800",
+      "end": "00:35:50.510",
+      "text": "That would have been my response as well"
+    },
+    {
+      "index": 338,
+      "start": "00:35:50.510",
+      "end": "00:35:53.340",
+      "text": "is that Mr. Cooper's team is currently"
+    },
+    {
+      "index": 339,
+      "start": "00:35:53.340",
+      "end": "00:35:56.200",
+      "text": "in the midst of wrapping up consultations"
+    },
+    {
+      "index": 340,
+      "start": "00:35:56.200",
+      "end": "00:36:00.050",
+      "text": "with the community and those who use the shelter system"
+    },
+    {
+      "index": 341,
+      "start": "00:36:00.050",
+      "end": "00:36:03.110",
+      "text": "to look at a comprehensive RFP"
+    },
+    {
+      "index": 342,
+      "start": "00:36:03.110",
+      "end": "00:36:06.710",
+      "text": "for more low barrier shelter services"
+    },
+    {
+      "index": 343,
+      "start": "00:36:06.710",
+      "end": "00:36:12.470",
+      "text": "and transitional housing support programs."
+    },
+    {
+      "index": 344,
+      "start": "00:36:12.470",
+      "end": "00:36:13.980",
+      "text": "Satisfied."
+    },
+    {
+      "index": 345,
+      "start": "00:36:13.980",
+      "end": "00:36:15.410",
+      "text": "Okay, thank you, Mr. Chair."
+    },
+    {
+      "index": 346,
+      "start": "00:36:15.410",
+      "end": "00:36:16.240",
+      "text": "That's it."
+    },
+    {
+      "index": 347,
+      "start": "00:36:16.240",
+      "end": "00:36:18.850",
+      "text": "The reason I was asking is I was hesitating"
+    },
+    {
+      "index": 348,
+      "start": "00:36:18.850",
+      "end": "00:36:20.230",
+      "text": "about the $3 million,"
+    },
+    {
+      "index": 349,
+      "start": "00:36:20.230",
+      "end": "00:36:23.760",
+      "text": "but that was the encouraging piece of information"
+    },
+    {
+      "index": 350,
+      "start": "00:36:23.760",
+      "end": "00:36:25.030",
+      "text": "I was looking for."
+    },
+    {
+      "index": 351,
+      "start": "00:36:25.030",
+      "end": "00:36:27.170",
+      "text": "And if that's part of the plan,"
+    },
+    {
+      "index": 352,
+      "start": "00:36:27.170",
+      "end": "00:36:29.230",
+      "text": "then I'm happy to move forward."
+    },
+    {
+      "index": 353,
+      "start": "00:36:29.230",
+      "end": "00:36:30.100",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 354,
+      "start": "00:36:30.100",
+      "end": "00:36:33.650",
+      "text": "I appreciate the time I've taken at your committee."
+    },
+    {
+      "index": 355,
+      "start": "00:36:33.650",
+      "end": "00:36:35.160",
+      "text": "Okay, we're gonna open up the vote."
+    },
+    {
+      "index": 356,
+      "start": "00:36:35.160",
+      "end": "00:36:37.460",
+      "text": "I'm at the end of the speaker's list."
+    },
+    {
+      "index": 357,
+      "start": "00:36:37.460",
+      "end": "00:36:48.010",
+      "text": "So open that up."
+    },
+    {
+      "index": 358,
+      "start": "00:36:48.010",
+      "end": "00:36:51.810",
+      "text": "Closing the vote, the motion carries three to zero."
+    },
+    {
+      "index": 359,
+      "start": "00:36:51.810",
+      "end": "00:36:54.080",
+      "text": "To item 4.1, which is the fourth report"
+    },
+    {
+      "index": 360,
+      "start": "00:36:54.080",
+      "end": "00:36:55.670",
+      "text": "of the London Housing Advisory Committee."
+    },
+    {
+      "index": 361,
+      "start": "00:36:55.670",
+      "end": "00:36:57.650",
+      "text": "You'll notice there's an item for direction in there,"
+    },
+    {
+      "index": 362,
+      "start": "00:36:57.650",
+      "end": "00:37:00.310",
+      "text": "which is request to staff to come to the advisory committee."
+    },
+    {
+      "index": 363,
+      "start": "00:37:00.310",
+      "end": "00:37:01.980",
+      "text": "I understand that's not a problem at all."
+    },
+    {
+      "index": 364,
+      "start": "00:37:01.980",
+      "end": "00:37:04.240",
+      "text": "So is there a mover for the report"
+    },
+    {
+      "index": 365,
+      "start": "00:37:04.240",
+      "end": "00:37:05.600",
+      "text": "from the Housing Advisory Committee?"
+    },
+    {
+      "index": 366,
+      "start": "00:37:05.600",
+      "end": "00:37:06.880",
+      "text": "Councilor Lewis."
+    },
+    {
+      "index": 367,
+      "start": "00:37:06.880",
+      "end": "00:37:14.850",
+      "text": "Seconder, thank you, Councilor Saleh."
+    },
+    {
+      "index": 368,
+      "start": "00:37:14.850",
+      "end": "00:37:28.070",
+      "text": "We'll open that up for a vote."
+    },
+    {
+      "index": 369,
+      "start": "00:37:28.070",
+      "end": "00:37:32.620",
+      "text": "Closing the vote, the motion carries three to zero."
+    },
+    {
+      "index": 370,
+      "start": "00:37:32.620",
+      "end": "00:37:34.380",
+      "text": "Okay, that brings us to the delegation request"
+    },
+    {
+      "index": 371,
+      "start": "00:37:34.380",
+      "end": "00:37:38.010",
+      "text": "from Calista Ryan and Jaya Scott."
+    },
+    {
+      "index": 372,
+      "start": "00:37:38.010",
+      "end": "00:37:39.520",
+      "text": "This is about London's opioid crisis."
+    },
+    {
+      "index": 373,
+      "start": "00:37:39.520",
+      "end": "00:37:42.410",
+      "text": "You will see that they circulated some materials as well"
+    },
+    {
+      "index": 374,
+      "start": "00:37:42.410",
+      "end": "00:37:43.230",
+      "text": "in the package."
+    },
+    {
+      "index": 375,
+      "start": "00:37:43.230",
+      "end": "00:37:45.490",
+      "text": "I understand that the delegates are here"
+    },
+    {
+      "index": 376,
+      "start": "00:37:45.490",
+      "end": "00:37:46.940",
+      "text": "if we were to approve the delegation."
+    },
+    {
+      "index": 377,
+      "start": "00:37:46.940",
+      "end": "00:37:48.350",
+      "text": "So I look to committee members to see"
+    },
+    {
+      "index": 378,
+      "start": "00:37:48.350",
+      "end": "00:37:54.250",
+      "text": "what you'd like to hear from the delegates today."
+    },
+    {
+      "index": 379,
+      "start": "00:37:54.250",
+      "end": "00:37:55.050",
+      "text": "So I need a mover."
+    },
+    {
+      "index": 380,
+      "start": "00:37:55.050",
+      "end": "00:37:56.840",
+      "text": "Okay, Councilor Saleh is moving that."
+    },
+    {
+      "index": 381,
+      "start": "00:37:56.840",
+      "end": "00:37:58.420",
+      "text": "I'll see if there's a seconder."
+    },
+    {
+      "index": 382,
+      "start": "00:37:58.420",
+      "end": "00:37:59.450",
+      "text": "Councilor Lewis, okay."
+    },
+    {
+      "index": 383,
+      "start": "00:37:59.450",
+      "end": "00:38:20.040",
+      "text": "We'll just vote on that."
+    },
+    {
+      "index": 384,
+      "start": "00:38:20.040",
+      "end": "00:38:23.990",
+      "text": "Closing the vote, the motion carries three to zero."
+    },
+    {
+      "index": 385,
+      "start": "00:38:23.990",
+      "end": "00:38:25.340",
+      "text": "I'm gonna turn it over to the delegates."
+    },
+    {
+      "index": 386,
+      "start": "00:38:25.340",
+      "end": "00:38:27.830",
+      "text": "You have up to five minutes to address the committee."
+    },
+    {
+      "index": 387,
+      "start": "00:38:27.830",
+      "end": "00:38:29.920",
+      "text": "And thanks very much for providing your material in advance."
+    },
+    {
+      "index": 388,
+      "start": "00:38:29.920",
+      "end": "00:38:32.570",
+      "text": "I'm sure all the committee members are at it with interest."
+    },
+    {
+      "index": 389,
+      "start": "00:38:32.570",
+      "end": "00:38:38.040",
+      "text": "So five minutes, go ahead."
+    },
+    {
+      "index": 390,
+      "start": "00:38:38.040",
+      "end": "00:38:38.880",
+      "text": "Hello everyone."
+    },
+    {
+      "index": 391,
+      "start": "00:38:38.880",
+      "end": "00:38:40.070",
+      "text": "Thanks so much for having us here today."
+    },
+    {
+      "index": 392,
+      "start": "00:38:40.070",
+      "end": "00:38:42.180",
+      "text": "I'm Calista Ryan here with Jaya Scott."
+    },
+    {
+      "index": 393,
+      "start": "00:38:42.180",
+      "end": "00:38:45.010",
+      "text": "And we're here to represent our policy pitch"
+    },
+    {
+      "index": 394,
+      "start": "00:38:45.010",
+      "end": "00:38:48.270",
+      "text": "that we presented to the Policy Pitch Association"
+    },
+    {
+      "index": 395,
+      "start": "00:38:48.270",
+      "end": "00:38:49.380",
+      "text": "in this past March."
+    },
+    {
+      "index": 396,
+      "start": "00:38:49.380",
+      "end": "00:38:51.850",
+      "text": "And we had Councilor Cassidy come and chat with us"
+    },
+    {
+      "index": 397,
+      "start": "00:38:51.850",
+      "end": "00:38:53.720",
+      "text": "and say that this would be a great presentation"
+    },
+    {
+      "index": 398,
+      "start": "00:38:53.720",
+      "end": "00:38:54.560",
+      "text": "to bring to the committee."
+    },
+    {
+      "index": 399,
+      "start": "00:38:54.560",
+      "end": "00:38:59.460",
+      "text": "So we're super excited to share this with you."
+    },
+    {
+      "index": 400,
+      "start": "00:38:59.460",
+      "end": "00:39:02.240",
+      "text": "Those little focuses on connecting peoples"
+    },
+    {
+      "index": 401,
+      "start": "00:39:02.240",
+      "end": "00:39:05.290",
+      "text": "and resources that are already existing in the city of London."
+    },
+    {
+      "index": 402,
+      "start": "00:39:05.290",
+      "end": "00:39:06.990",
+      "text": "And the first place we looked for that was"
+    },
+    {
+      "index": 403,
+      "start": "00:39:06.990",
+      "end": "00:39:09.570",
+      "text": "on the city of London website ourselves."
+    },
+    {
+      "index": 404,
+      "start": "00:39:09.570",
+      "end": "00:39:12.680",
+      "text": "We want to make the website a place that reduces barriers"
+    },
+    {
+      "index": 405,
+      "start": "00:39:12.680",
+      "end": "00:39:16.230",
+      "text": "and destigmatizes access to supports and services"
+    },
+    {
+      "index": 406,
+      "start": "00:39:16.230",
+      "end": "00:39:19.520",
+      "text": "for those who are facing opioid addiction."
+    },
+    {
+      "index": 407,
+      "start": "00:39:19.520",
+      "end": "00:39:22.070",
+      "text": "We believe that communications will increase awareness"
+    },
+    {
+      "index": 408,
+      "start": "00:39:22.070",
+      "end": "00:39:25.360",
+      "text": "and accessibility so community members get supports faster."
+    },
+    {
+      "index": 409,
+      "start": "00:39:25.360",
+      "end": "00:39:27.100",
+      "text": "So that's why we're here today to talk to you"
+    },
+    {
+      "index": 410,
+      "start": "00:39:27.100",
+      "end": "00:39:29.610",
+      "text": "about Municipal Health and Communication Strategies"
+    },
+    {
+      "index": 411,
+      "start": "00:39:29.610",
+      "end": "00:39:32.580",
+      "text": "to tackle London's opioid crisis."
+    },
+    {
+      "index": 412,
+      "start": "00:39:32.580",
+      "end": "00:39:36.090",
+      "text": "Jay and I both grew up in British Columbia,"
+    },
+    {
+      "index": 413,
+      "start": "00:39:36.090",
+      "end": "00:39:38.360",
+      "text": "which is one of the cities that are tackling"
+    },
+    {
+      "index": 414,
+      "start": "00:39:38.360",
+      "end": "00:39:40.550",
+      "text": "the opioid crisis in Canada."
+    },
+    {
+      "index": 415,
+      "start": "00:39:40.550",
+      "end": "00:39:43.490",
+      "text": "And we both have lost relatives and friends in our lives"
+    },
+    {
+      "index": 416,
+      "start": "00:39:43.490",
+      "end": "00:39:44.490",
+      "text": "to the opioid crisis."
+    },
+    {
+      "index": 417,
+      "start": "00:39:44.490",
+      "end": "00:39:46.320",
+      "text": "And so when we learned that this was the topic"
+    },
+    {
+      "index": 418,
+      "start": "00:39:46.320",
+      "end": "00:39:48.670",
+      "text": "for the Policy Pitch Association this year,"
+    },
+    {
+      "index": 419,
+      "start": "00:39:48.670",
+      "end": "00:39:51.380",
+      "text": "we had a lot of ideas and we really wanted to come through"
+    },
+    {
+      "index": 420,
+      "start": "00:39:51.380",
+      "end": "00:39:54.480",
+      "text": "with an accessible approach that was feasible"
+    },
+    {
+      "index": 421,
+      "start": "00:39:54.480",
+      "end": "00:39:55.440",
+      "text": "for the city of London."
+    },
+    {
+      "index": 422,
+      "start": "00:39:55.440",
+      "end": "00:39:57.890",
+      "text": "And so it kind of rooted into this question of"
+    },
+    {
+      "index": 423,
+      "start": "00:39:57.890",
+      "end": "00:39:59.780",
+      "text": "how can we raise awareness about opioids"
+    },
+    {
+      "index": 424,
+      "start": "00:39:59.780",
+      "end": "00:40:02.320",
+      "text": "and connect our community members to resources?"
+    },
+    {
+      "index": 425,
+      "start": "00:40:02.320",
+      "end": "00:40:05.670",
+      "text": "And so our ask in this committee is update the city"
+    },
+    {
+      "index": 426,
+      "start": "00:40:05.670",
+      "end": "00:40:08.160",
+      "text": "of London website to better communicate those resources"
+    },
+    {
+      "index": 427,
+      "start": "00:40:08.160",
+      "end": "00:40:11.260",
+      "text": "and services."
+    },
+    {
+      "index": 428,
+      "start": "00:40:11.260",
+      "end": "00:40:14.290",
+      "text": "We believe the effective communications can maximize"
+    },
+    {
+      "index": 429,
+      "start": "00:40:14.290",
+      "end": "00:40:18.270",
+      "text": "ongoing already happening prevention efforts."
+    },
+    {
+      "index": 430,
+      "start": "00:40:18.270",
+      "end": "00:40:20.230",
+      "text": "We think that the city of London can become a place"
+    },
+    {
+      "index": 431,
+      "start": "00:40:20.230",
+      "end": "00:40:22.820",
+      "text": "where not only those struggling with addiction to opioids,"
+    },
+    {
+      "index": 432,
+      "start": "00:40:22.820",
+      "end": "00:40:25.170",
+      "text": "but also the networks and people around them,"
+    },
+    {
+      "index": 433,
+      "start": "00:40:25.170",
+      "end": "00:40:29.430",
+      "text": "communities and in a holistic way can find resources"
+    },
+    {
+      "index": 434,
+      "start": "00:40:29.430",
+      "end": "00:40:32.100",
+      "text": "and information to adequately be aware of causes,"
+    },
+    {
+      "index": 435,
+      "start": "00:40:32.100",
+      "end": "00:40:36.640",
+      "text": "supports and responses in the city of London."
+    },
+    {
+      "index": 436,
+      "start": "00:40:36.640",
+      "end": "00:40:38.200",
+      "text": "And so when we were working on our pitch,"
+    },
+    {
+      "index": 437,
+      "start": "00:40:38.200",
+      "end": "00:40:41.200",
+      "text": "we noticed that finding information on addictions"
+    },
+    {
+      "index": 438,
+      "start": "00:40:41.200",
+      "end": "00:40:43.720",
+      "text": "and mental health resources on the city of London website"
+    },
+    {
+      "index": 439,
+      "start": "00:40:43.720",
+      "end": "00:40:45.150",
+      "text": "is extremely difficult."
+    },
+    {
+      "index": 440,
+      "start": "00:40:45.150",
+      "end": "00:40:47.550",
+      "text": "If you were to do a keyword search for opioids,"
+    },
+    {
+      "index": 441,
+      "start": "00:40:47.550",
+      "end": "00:40:49.350",
+      "text": "you wouldn't be able to find anything related"
+    },
+    {
+      "index": 442,
+      "start": "00:40:49.350",
+      "end": "00:40:50.830",
+      "text": "to the resources at all."
+    },
+    {
+      "index": 443,
+      "start": "00:40:50.830",
+      "end": "00:40:53.300",
+      "text": "And this is important as we have a lot of newcomers"
+    },
+    {
+      "index": 444,
+      "start": "00:40:53.300",
+      "end": "00:40:55.780",
+      "text": "and citizens in the city of London that might not know"
+    },
+    {
+      "index": 445,
+      "start": "00:40:55.780",
+      "end": "00:40:57.020",
+      "text": "where to go to find resources,"
+    },
+    {
+      "index": 446,
+      "start": "00:40:57.020",
+      "end": "00:40:59.370",
+      "text": "but might rely on the city for that information."
+    },
+    {
+      "index": 447,
+      "start": "00:40:59.370",
+      "end": "00:41:01.850",
+      "text": "And so when you actually go down to looking"
+    },
+    {
+      "index": 448,
+      "start": "00:41:01.850",
+      "end": "00:41:03.650",
+      "text": "for mental health resources specifically,"
+    },
+    {
+      "index": 449,
+      "start": "00:41:03.650",
+      "end": "00:41:05.890",
+      "text": "you have to click through six different web links."
+    },
+    {
+      "index": 450,
+      "start": "00:41:05.890",
+      "end": "00:41:10.200",
+      "text": "As you can see on my chart on page 222 in the packet,"
+    },
+    {
+      "index": 451,
+      "start": "00:41:10.200",
+      "end": "00:41:11.920",
+      "text": "you have to go through several different web links"
+    },
+    {
+      "index": 452,
+      "start": "00:41:11.920",
+      "end": "00:41:15.110",
+      "text": "to find mental health and addiction service resources."
+    },
+    {
+      "index": 453,
+      "start": "00:41:15.110",
+      "end": "00:41:17.310",
+      "text": "And notably, it's also only housed"
+    },
+    {
+      "index": 454,
+      "start": "00:41:17.310",
+      "end": "00:41:19.270",
+      "text": "under homeless prevention and housing."
+    },
+    {
+      "index": 455,
+      "start": "00:41:19.270",
+      "end": "00:41:22.020",
+      "text": "While this is an important link to attach"
+    },
+    {
+      "index": 456,
+      "start": "00:41:22.020",
+      "end": "00:41:24.340",
+      "text": "in that category, individuals and families"
+    },
+    {
+      "index": 457,
+      "start": "00:41:24.340",
+      "end": "00:41:27.100",
+      "text": "who are home and secure are not the only demographic"
+    },
+    {
+      "index": 458,
+      "start": "00:41:27.100",
+      "end": "00:41:30.810",
+      "text": "affected by the opioid crisis or with mental health as well."
+    },
+    {
+      "index": 459,
+      "start": "00:41:30.810",
+      "end": "00:41:32.650",
+      "text": "So this is an important correlation"
+    },
+    {
+      "index": 460,
+      "start": "00:41:32.650",
+      "end": "00:41:35.530",
+      "text": "that we wanted to kind of bring up with the city of London."
+    },
+    {
+      "index": 461,
+      "start": "00:41:35.530",
+      "end": "00:41:38.280",
+      "text": "This is an easy switch that can be made"
+    },
+    {
+      "index": 462,
+      "start": "00:41:38.280",
+      "end": "00:41:40.320",
+      "text": "by regrouping and recategorizing"
+    },
+    {
+      "index": 463,
+      "start": "00:41:40.320",
+      "end": "00:41:43.270",
+      "text": "and making the resources a bit more accessible and clear,"
+    },
+    {
+      "index": 464,
+      "start": "00:41:43.270",
+      "end": "00:41:45.790",
+      "text": "because those that might not be home and secure"
+    },
+    {
+      "index": 465,
+      "start": "00:41:45.790",
+      "end": "00:41:48.310",
+      "text": "who might be struggling or know someone who's struggling,"
+    },
+    {
+      "index": 466,
+      "start": "00:41:48.310",
+      "end": "00:41:50.790",
+      "text": "if they see that this category is under"
+    },
+    {
+      "index": 467,
+      "start": "00:41:50.790",
+      "end": "00:41:51.860",
+      "text": "homeless prevention and housing,"
+    },
+    {
+      "index": 468,
+      "start": "00:41:51.860",
+      "end": "00:41:54.080",
+      "text": "they might not know if this resource is for them."
+    },
+    {
+      "index": 469,
+      "start": "00:41:54.080",
+      "end": "00:41:55.550",
+      "text": "And when you actually get to the mental health"
+    },
+    {
+      "index": 470,
+      "start": "00:41:55.550",
+      "end": "00:41:57.300",
+      "text": "and addiction service resources,"
+    },
+    {
+      "index": 471,
+      "start": "00:41:57.300",
+      "end": "00:41:59.920",
+      "text": "it says there's two, now there are three,"
+    },
+    {
+      "index": 472,
+      "start": "00:41:59.920",
+      "end": "00:42:01.940",
+      "text": "but they're not up to date and they're not local either."
+    },
+    {
+      "index": 473,
+      "start": "00:42:01.940",
+      "end": "00:42:03.650",
+      "text": "And so that's something that we also wanted"
+    },
+    {
+      "index": 474,
+      "start": "00:42:03.650",
+      "end": "00:42:06.230",
+      "text": "to draw attention to."
+    },
+    {
+      "index": 475,
+      "start": "00:42:06.230",
+      "end": "00:42:08.790",
+      "text": "As Callista mentioned, we're both from British Columbia."
+    },
+    {
+      "index": 476,
+      "start": "00:42:08.790",
+      "end": "00:42:11.220",
+      "text": "And so we were looking at some of the things,"
+    },
+    {
+      "index": 477,
+      "start": "00:42:11.220",
+      "end": "00:42:15.100",
+      "text": "and I'd still struggle here in BC Vancouver as well."
+    },
+    {
+      "index": 478,
+      "start": "00:42:15.100",
+      "end": "00:42:17.490",
+      "text": "But it's an example of a way that the Sea of London"
+    },
+    {
+      "index": 479,
+      "start": "00:42:17.490",
+      "end": "00:42:19.250",
+      "text": "could perhaps approach this,"
+    },
+    {
+      "index": 480,
+      "start": "00:42:19.250",
+      "end": "00:42:21.240",
+      "text": "is on the main menu of the City of Vancouver."
+    },
+    {
+      "index": 481,
+      "start": "00:42:21.240",
+      "end": "00:42:24.040",
+      "text": "So you'll see on page 223 of the agenda."
+    },
+    {
+      "index": 482,
+      "start": "00:42:24.040",
+      "end": "00:42:25.350",
+      "text": "Under people and programs,"
+    },
+    {
+      "index": 483,
+      "start": "00:42:25.350",
+      "end": "00:42:26.710",
+      "text": "you can find healthy Vancouver."
+    },
+    {
+      "index": 484,
+      "start": "00:42:26.710",
+      "end": "00:42:28.350",
+      "text": "So it's under health generally."
+    },
+    {
+      "index": 485,
+      "start": "00:42:28.350",
+      "end": "00:42:30.340",
+      "text": "And then within that mental health and addictions"
+    },
+    {
+      "index": 486,
+      "start": "00:42:30.340",
+      "end": "00:42:31.300",
+      "text": "is an option right there,"
+    },
+    {
+      "index": 487,
+      "start": "00:42:31.300",
+      "end": "00:42:32.980",
+      "text": "invisible on the main menu."
+    },
+    {
+      "index": 488,
+      "start": "00:42:32.980",
+      "end": "00:42:33.930",
+      "text": "So when you click on that,"
+    },
+    {
+      "index": 489,
+      "start": "00:42:33.930",
+      "end": "00:42:37.130",
+      "text": "you'll notice that it's not that there's particular services"
+    },
+    {
+      "index": 490,
+      "start": "00:42:37.130",
+      "end": "00:42:39.600",
+      "text": "being offered by the City of Vancouver itself,"
+    },
+    {
+      "index": 491,
+      "start": "00:42:39.600",
+      "end": "00:42:41.800",
+      "text": "but programs being offered throughout the community,"
+    },
+    {
+      "index": 492,
+      "start": "00:42:41.800",
+      "end": "00:42:43.630",
+      "text": "including Mom Stop the Harm."
+    },
+    {
+      "index": 493,
+      "start": "00:42:43.630",
+      "end": "00:42:45.310",
+      "text": "So in a very similar way,"
+    },
+    {
+      "index": 494,
+      "start": "00:42:45.310",
+      "end": "00:42:46.710",
+      "text": "there are many different organizations"
+    },
+    {
+      "index": 495,
+      "start": "00:42:46.710",
+      "end": "00:42:48.380",
+      "text": "working on this issue throughout London,"
+    },
+    {
+      "index": 496,
+      "start": "00:42:48.380",
+      "end": "00:42:50.060",
+      "text": "and the city is a great place"
+    },
+    {
+      "index": 497,
+      "start": "00:42:50.060",
+      "end": "00:42:52.090",
+      "text": "to bring those resources together."
+    },
+    {
+      "index": 498,
+      "start": "00:42:52.090",
+      "end": "00:42:54.650",
+      "text": "Yeah, and so our ask is to update the website."
+    },
+    {
+      "index": 499,
+      "start": "00:42:54.650",
+      "end": "00:42:56.050",
+      "text": "Jay and I both went to Western,"
+    },
+    {
+      "index": 500,
+      "start": "00:42:56.050",
+      "end": "00:42:57.680",
+      "text": "and now I work in the City of London,"
+    },
+    {
+      "index": 501,
+      "start": "00:42:57.680",
+      "end": "00:42:59.760",
+      "text": "and I call the city my home now too."
+    },
+    {
+      "index": 502,
+      "start": "00:42:59.760",
+      "end": "00:43:01.270",
+      "text": "And when I moved here,"
+    },
+    {
+      "index": 503,
+      "start": "00:43:01.270",
+      "end": "00:43:02.350",
+      "text": "when we both moved here,"
+    },
+    {
+      "index": 504,
+      "start": "00:43:02.350",
+      "end": "00:43:04.500",
+      "text": "acquainting ourself with the local government"
+    },
+    {
+      "index": 505,
+      "start": "00:43:04.500",
+      "end": "00:43:06.260",
+      "text": "and resources in our community"
+    },
+    {
+      "index": 506,
+      "start": "00:43:06.260",
+      "end": "00:43:07.940",
+      "text": "is very important for students"
+    },
+    {
+      "index": 507,
+      "start": "00:43:07.940",
+      "end": "00:43:10.610",
+      "text": "and new members to the city to access,"
+    },
+    {
+      "index": 508,
+      "start": "00:43:10.610",
+      "end": "00:43:12.680",
+      "text": "as well as longtime locals as well."
+    },
+    {
+      "index": 509,
+      "start": "00:43:12.680",
+      "end": "00:43:15.600",
+      "text": "And so we believe that this can be one of the solutions"
+    },
+    {
+      "index": 510,
+      "start": "00:43:15.600",
+      "end": "00:43:18.910",
+      "text": "to tackling the opioid crisis among many,"
+    },
+    {
+      "index": 511,
+      "start": "00:43:18.910",
+      "end": "00:43:20.980",
+      "text": "but it's grounded in community communications"
+    },
+    {
+      "index": 512,
+      "start": "00:43:20.980",
+      "end": "00:43:22.540",
+      "text": "and prevention strategies."
+    },
+    {
+      "index": 513,
+      "start": "00:43:22.540",
+      "end": "00:43:24.500",
+      "text": "And we believe it's feasible, affordable,"
+    },
+    {
+      "index": 514,
+      "start": "00:43:24.500",
+      "end": "00:43:26.610",
+      "text": "and actionable for the City of London."
+    },
+    {
+      "index": 515,
+      "start": "00:43:26.610",
+      "end": "00:43:27.650",
+      "text": "And we would look forward"
+    },
+    {
+      "index": 516,
+      "start": "00:43:27.650",
+      "end": "00:43:30.040",
+      "text": "to seeing a proactive communications approach,"
+    },
+    {
+      "index": 517,
+      "start": "00:43:30.040",
+      "end": "00:43:31.560",
+      "text": "and we'd love to hear back from you"
+    },
+    {
+      "index": 518,
+      "start": "00:43:31.560",
+      "end": "00:43:33.350",
+      "text": "and any feedback that you might have."
+    },
+    {
+      "index": 519,
+      "start": "00:43:33.350",
+      "end": "00:43:34.760",
+      "text": "Thank you so much."
+    },
+    {
+      "index": 520,
+      "start": "00:43:34.760",
+      "end": "00:43:35.650",
+      "text": "Okay, thanks very much,"
+    },
+    {
+      "index": 521,
+      "start": "00:43:35.650",
+      "end": "00:43:37.570",
+      "text": "and thanks for keeping to the time."
+    },
+    {
+      "index": 522,
+      "start": "00:43:37.570",
+      "end": "00:43:38.990",
+      "text": "I'll just go to committee members"
+    },
+    {
+      "index": 523,
+      "start": "00:43:38.990",
+      "end": "00:43:41.830",
+      "text": "to see what you'd like to do with the delegation."
+    },
+    {
+      "index": 524,
+      "start": "00:43:41.830",
+      "end": "00:43:43.400",
+      "text": "We're certainly gonna receive it."
+    },
+    {
+      "index": 525,
+      "start": "00:43:43.400",
+      "end": "00:43:44.580",
+      "text": "Perhaps we also wanna forward it"
+    },
+    {
+      "index": 526,
+      "start": "00:43:44.580",
+      "end": "00:43:47.760",
+      "text": "onto communication staff for them to review"
+    },
+    {
+      "index": 527,
+      "start": "00:43:47.760",
+      "end": "00:43:50.640",
+      "text": "and see if there's changes they wanna make to the website."
+    },
+    {
+      "index": 528,
+      "start": "00:43:50.640",
+      "end": "00:43:52.850",
+      "text": "Pastor Lewis."
+    },
+    {
+      "index": 529,
+      "start": "00:43:52.850",
+      "end": "00:43:54.910",
+      "text": "Thank you, Mr. Chair, and just through you,"
+    },
+    {
+      "index": 530,
+      "start": "00:43:54.910",
+      "end": "00:43:57.560",
+      "text": "I'd move that we receive this,"
+    },
+    {
+      "index": 531,
+      "start": "00:43:57.560",
+      "end": "00:43:59.820",
+      "text": "as well as forward it to corporate communications"
+    },
+    {
+      "index": 532,
+      "start": "00:43:59.820",
+      "end": "00:44:01.080",
+      "text": "for their consideration."
+    },
+    {
+      "index": 533,
+      "start": "00:44:01.080",
+      "end": "00:44:05.860",
+      "text": "I'll put that on the floor and see if I have a seconder,"
+    },
+    {
+      "index": 534,
+      "start": "00:44:05.860",
+      "end": "00:44:07.550",
+      "text": "and then I'll just offer one other comment."
+    },
+    {
+      "index": 535,
+      "start": "00:44:07.550",
+      "end": "00:44:09.230",
+      "text": "Okay, can I go to Councillor Sleeh,"
+    },
+    {
+      "index": 536,
+      "start": "00:44:09.230",
+      "end": "00:44:12.460",
+      "text": "can you just let us know out loud if you're seconding?"
+    },
+    {
+      "index": 537,
+      "start": "00:44:12.460",
+      "end": "00:44:30.960",
+      "text": "I just wanna make sure we can hear you, Councillor Sleeh."
+    },
+    {
+      "index": 538,
+      "start": "00:44:30.960",
+      "end": "00:44:32.300",
+      "text": "See your hand, but I can't hear you."
+    },
+    {
+      "index": 539,
+      "start": "00:44:32.300",
+      "end": "00:45:05.160",
+      "text": "Are you able to unmute?"
+    },
+    {
+      "index": 540,
+      "start": "00:45:05.160",
+      "end": "00:45:06.250",
+      "text": "You just bear with me a moment,"
+    },
+    {
+      "index": 541,
+      "start": "00:45:06.250",
+      "end": "00:45:49.480",
+      "text": "where we just make sure we got Councillor Sleeh there."
+    },
+    {
+      "index": 542,
+      "start": "00:45:49.480",
+      "end": "00:45:51.040",
+      "text": "Sorry, I was having difficulties with my audio,"
+    },
+    {
+      "index": 543,
+      "start": "00:45:51.040",
+      "end": "00:45:52.170",
+      "text": "so I have to re-log back in,"
+    },
+    {
+      "index": 544,
+      "start": "00:45:52.170",
+      "end": "00:45:55.040",
+      "text": "but yes, I'm seconding in motion."
+    },
+    {
+      "index": 545,
+      "start": "00:45:55.040",
+      "end": "00:45:56.110",
+      "text": "Thanks very much, Councillor Sleeh,"
+    },
+    {
+      "index": 546,
+      "start": "00:45:56.110",
+      "end": "00:45:58.360",
+      "text": "we can hear you just fine now, okay."
+    },
+    {
+      "index": 547,
+      "start": "00:45:58.360",
+      "end": "00:45:59.740",
+      "text": "Okay, that's been moved and seconded."
+    },
+    {
+      "index": 548,
+      "start": "00:45:59.740",
+      "end": "00:46:02.500",
+      "text": "Councillor Cassidy, is there anything you wanted to say?"
+    },
+    {
+      "index": 549,
+      "start": "00:46:02.500",
+      "end": "00:46:03.680",
+      "text": "It seemed like you might be at the meeting"
+    },
+    {
+      "index": 550,
+      "start": "00:46:03.680",
+      "end": "00:46:04.510",
+      "text": "for this presentation."
+    },
+    {
+      "index": 551,
+      "start": "00:46:04.510",
+      "end": "00:46:06.330",
+      "text": "Go ahead."
+    },
+    {
+      "index": 552,
+      "start": "00:46:06.330",
+      "end": "00:46:08.770",
+      "text": "Enough, Councillor, I know I just wanted to go first."
+    },
+    {
+      "index": 553,
+      "start": "00:46:08.770",
+      "end": "00:46:10.340",
+      "text": "I think he does, actually."
+    },
+    {
+      "index": 554,
+      "start": "00:46:10.340",
+      "end": "00:46:13.260",
+      "text": "He did say he had something to say, go ahead."
+    },
+    {
+      "index": 555,
+      "start": "00:46:13.260",
+      "end": "00:46:15.120",
+      "text": "Thank you, and thank you, Councillor Cassidy,"
+    },
+    {
+      "index": 556,
+      "start": "00:46:15.120",
+      "end": "00:46:17.560",
+      "text": "although I'd happily yield and let you comment."
+    },
+    {
+      "index": 557,
+      "start": "00:46:17.560",
+      "end": "00:46:20.430",
+      "text": "I'll just be very, very brief and say,"
+    },
+    {
+      "index": 558,
+      "start": "00:46:20.430",
+      "end": "00:46:22.100",
+      "text": "I appreciate when people are sharing"
+    },
+    {
+      "index": 559,
+      "start": "00:46:22.100",
+      "end": "00:46:24.750",
+      "text": "with us difficulties that they're finding,"
+    },
+    {
+      "index": 560,
+      "start": "00:46:24.750",
+      "end": "00:46:26.900",
+      "text": "particularly people, young people with experience"
+    },
+    {
+      "index": 561,
+      "start": "00:46:26.900",
+      "end": "00:46:29.790",
+      "text": "navigating online resources."
+    },
+    {
+      "index": 562,
+      "start": "00:46:29.790",
+      "end": "00:46:32.640",
+      "text": "I certainly have experienced some challenges myself"
+    },
+    {
+      "index": 563,
+      "start": "00:46:32.640",
+      "end": "00:46:34.360",
+      "text": "finding things that I used to know exactly"
+    },
+    {
+      "index": 564,
+      "start": "00:46:34.360",
+      "end": "00:46:36.800",
+      "text": "where they were on the old city website."
+    },
+    {
+      "index": 565,
+      "start": "00:46:36.800",
+      "end": "00:46:39.470",
+      "text": "And now I sometimes struggle to find them as well,"
+    },
+    {
+      "index": 566,
+      "start": "00:46:39.470",
+      "end": "00:46:40.610",
+      "text": "so I think it's really important"
+    },
+    {
+      "index": 567,
+      "start": "00:46:40.610",
+      "end": "00:46:42.930",
+      "text": "that we're not only receiving this,"
+    },
+    {
+      "index": 568,
+      "start": "00:46:42.930",
+      "end": "00:46:45.320",
+      "text": "but we're sharing it with the staff responsible"
+    },
+    {
+      "index": 569,
+      "start": "00:46:45.320",
+      "end": "00:46:48.790",
+      "text": "as they continue to fine tune the new website"
+    },
+    {
+      "index": 570,
+      "start": "00:46:48.790",
+      "end": "00:46:49.610",
+      "text": "that we've rolled out."
+    },
+    {
+      "index": 571,
+      "start": "00:46:49.610",
+      "end": "00:46:51.690",
+      "text": "And I know that there have been some problems"
+    },
+    {
+      "index": 572,
+      "start": "00:46:51.690",
+      "end": "00:46:53.860",
+      "text": "and I just wanted to share with our delegation"
+    },
+    {
+      "index": 573,
+      "start": "00:46:53.860",
+      "end": "00:46:55.800",
+      "text": "that there have been some challenges"
+    },
+    {
+      "index": 574,
+      "start": "00:46:55.800",
+      "end": "00:47:00.210",
+      "text": "making sure that everything could be AODA compliant as well"
+    },
+    {
+      "index": 575,
+      "start": "00:47:00.210",
+      "end": "00:47:02.440",
+      "text": "for accessibility."
+    },
+    {
+      "index": 576,
+      "start": "00:47:02.440",
+      "end": "00:47:04.230",
+      "text": "But I think that as we continue to move forward,"
+    },
+    {
+      "index": 577,
+      "start": "00:47:04.230",
+      "end": "00:47:05.930",
+      "text": "it's really important to get that kind of feedback."
+    },
+    {
+      "index": 578,
+      "start": "00:47:05.930",
+      "end": "00:47:09.220",
+      "text": "And I appreciate you offering that really great input"
+    },
+    {
+      "index": 579,
+      "start": "00:47:09.220",
+      "end": "00:47:11.480",
+      "text": "for us today that can go to our staff"
+    },
+    {
+      "index": 580,
+      "start": "00:47:11.480",
+      "end": "00:47:15.300",
+      "text": "and hopefully improve our website."
+    },
+    {
+      "index": 581,
+      "start": "00:47:15.300",
+      "end": "00:47:16.950",
+      "text": "Councillor Cassidy."
+    },
+    {
+      "index": 582,
+      "start": "00:47:16.950",
+      "end": "00:47:18.540",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 583,
+      "start": "00:47:18.540",
+      "end": "00:47:20.290",
+      "text": "Second time we're speaking at your committee tonight,"
+    },
+    {
+      "index": 584,
+      "start": "00:47:20.290",
+      "end": "00:47:21.560",
+      "text": "so I appreciate that."
+    },
+    {
+      "index": 585,
+      "start": "00:47:21.560",
+      "end": "00:47:26.320",
+      "text": "I was asked to participate in this policy pitch competition"
+    },
+    {
+      "index": 586,
+      "start": "00:47:26.320",
+      "end": "00:47:28.780",
+      "text": "back in March and asked to be one of the judges."
+    },
+    {
+      "index": 587,
+      "start": "00:47:28.780",
+      "end": "00:47:33.270",
+      "text": "And the presentations were pretty amazing"
+    },
+    {
+      "index": 588,
+      "start": "00:47:33.270",
+      "end": "00:47:35.240",
+      "text": "and the judges, I was in the company"
+    },
+    {
+      "index": 589,
+      "start": "00:47:35.240",
+      "end": "00:47:37.170",
+      "text": "of Dr. Andrea Sarita."
+    },
+    {
+      "index": 590,
+      "start": "00:47:37.170",
+      "end": "00:47:41.940",
+      "text": "It's been in one, Mr. John Fleming was also a judge as well."
+    },
+    {
+      "index": 591,
+      "start": "00:47:41.940",
+      "end": "00:47:46.340",
+      "text": "And it was tackling the opioid crisis"
+    },
+    {
+      "index": 592,
+      "start": "00:47:46.340",
+      "end": "00:47:51.310",
+      "text": "through changes in policy and so groups of students"
+    },
+    {
+      "index": 593,
+      "start": "00:47:51.310",
+      "end": "00:47:54.690",
+      "text": "were given that task and they made their pitch"
+    },
+    {
+      "index": 594,
+      "start": "00:47:54.690",
+      "end": "00:47:55.730",
+      "text": "to the judges."
+    },
+    {
+      "index": 595,
+      "start": "00:47:55.730",
+      "end": "00:47:58.790",
+      "text": "And Ms. Ryan, Ms. Scott were in the group"
+    },
+    {
+      "index": 596,
+      "start": "00:47:58.790",
+      "end": "00:48:00.380",
+      "text": "that was one of the finalists."
+    },
+    {
+      "index": 597,
+      "start": "00:48:00.380",
+      "end": "00:48:05.370",
+      "text": "And I was pretty impressed with the simplicity"
+    },
+    {
+      "index": 598,
+      "start": "00:48:05.370",
+      "end": "00:48:10.250",
+      "text": "of their pitch and how it could be quickly implemented."
+    },
+    {
+      "index": 599,
+      "start": "00:48:10.250",
+      "end": "00:48:13.680",
+      "text": "And recognizing that City of London is not the delivery"
+    },
+    {
+      "index": 600,
+      "start": "00:48:13.680",
+      "end": "00:48:15.120",
+      "text": "of every single one of these services,"
+    },
+    {
+      "index": 601,
+      "start": "00:48:15.120",
+      "end": "00:48:18.520",
+      "text": "but I draw attention to if I don't know if everybody"
+    },
+    {
+      "index": 602,
+      "start": "00:48:18.520",
+      "end": "00:48:20.560",
+      "text": "has seen this, but there's a pamphlet"
+    },
+    {
+      "index": 603,
+      "start": "00:48:20.560",
+      "end": "00:48:22.350",
+      "text": "that City of London produces called"
+    },
+    {
+      "index": 604,
+      "start": "00:48:22.350",
+      "end": "00:48:23.830",
+      "text": "Help Yourself Through Hard Time."
+    },
+    {
+      "index": 605,
+      "start": "00:48:23.830",
+      "end": "00:48:26.870",
+      "text": "So this would be the analog version"
+    },
+    {
+      "index": 606,
+      "start": "00:48:26.870",
+      "end": "00:48:30.600",
+      "text": "of what these young people are proposing here."
+    },
+    {
+      "index": 607,
+      "start": "00:48:30.600",
+      "end": "00:48:33.780",
+      "text": "And the Help Yourself Through Hard Times brochure"
+    },
+    {
+      "index": 608,
+      "start": "00:48:33.780",
+      "end": "00:48:37.170",
+      "text": "came up a lot when I was doing the community engagement"
+    },
+    {
+      "index": 609,
+      "start": "00:48:37.170",
+      "end": "00:48:39.850",
+      "text": "through the poverty panel work."
+    },
+    {
+      "index": 610,
+      "start": "00:48:39.850",
+      "end": "00:48:44.410",
+      "text": "A few agencies held it up and called it their Bible."
+    },
+    {
+      "index": 611,
+      "start": "00:48:44.410",
+      "end": "00:48:48.240",
+      "text": "This is what they relied on to help clients"
+    },
+    {
+      "index": 612,
+      "start": "00:48:48.240",
+      "end": "00:48:49.960",
+      "text": "through some of the difficult times"
+    },
+    {
+      "index": 613,
+      "start": "00:48:49.960",
+      "end": "00:48:51.760",
+      "text": "that they were navigating."
+    },
+    {
+      "index": 614,
+      "start": "00:48:51.760",
+      "end": "00:48:56.750",
+      "text": "So I really liked the pitch of making the website,"
+    },
+    {
+      "index": 615,
+      "start": "00:48:56.750",
+      "end": "00:48:59.470",
+      "text": "having the access through the website"
+    },
+    {
+      "index": 616,
+      "start": "00:48:59.470",
+      "end": "00:49:01.370",
+      "text": "is sort of a digital version of this,"
+    },
+    {
+      "index": 617,
+      "start": "00:49:01.370",
+      "end": "00:49:02.740",
+      "text": "Help Yourself Through Hard Times,"
+    },
+    {
+      "index": 618,
+      "start": "00:49:02.740",
+      "end": "00:49:04.980",
+      "text": "where everything is in one place"
+    },
+    {
+      "index": 619,
+      "start": "00:49:04.980",
+      "end": "00:49:07.740",
+      "text": "and easily accessible through that."
+    },
+    {
+      "index": 620,
+      "start": "00:49:07.740",
+      "end": "00:49:12.530",
+      "text": "So I'm happy to hear the motion that's on the floor"
+    },
+    {
+      "index": 621,
+      "start": "00:49:12.530",
+      "end": "00:49:14.410",
+      "text": "and the support coming from this committee."
+    },
+    {
+      "index": 622,
+      "start": "00:49:14.410",
+      "end": "00:49:16.330",
+      "text": "I knew I didn't doubt that it would happen."
+    },
+    {
+      "index": 623,
+      "start": "00:49:16.330",
+      "end": "00:49:19.800",
+      "text": "And that's why I suggested that Colissa and Daya"
+    },
+    {
+      "index": 624,
+      "start": "00:49:19.800",
+      "end": "00:49:23.280",
+      "text": "come to your committee and make a mini version"
+    },
+    {
+      "index": 625,
+      "start": "00:49:23.280",
+      "end": "00:49:24.440",
+      "text": "of their pitch to you."
+    },
+    {
+      "index": 626,
+      "start": "00:49:24.440",
+      "end": "00:49:28.410",
+      "text": "So thank you for your support."
+    },
+    {
+      "index": 627,
+      "start": "00:49:28.410",
+      "end": "00:49:30.860",
+      "text": "Hey, thank you very much to the delegates."
+    },
+    {
+      "index": 628,
+      "start": "00:49:30.860",
+      "end": "00:49:32.680",
+      "text": "I want to say, I think it's appropriate"
+    },
+    {
+      "index": 629,
+      "start": "00:49:32.680",
+      "end": "00:49:34.650",
+      "text": "that you're giving the delegation"
+    },
+    {
+      "index": 630,
+      "start": "00:49:34.650",
+      "end": "00:49:38.040",
+      "text": "on international opioid overdose awareness day,"
+    },
+    {
+      "index": 631,
+      "start": "00:49:38.040",
+      "end": "00:49:39.300",
+      "text": "which is today."
+    },
+    {
+      "index": 632,
+      "start": "00:49:39.300",
+      "end": "00:49:44.000",
+      "text": "And very sadly, last year we lost 6,200 people"
+    },
+    {
+      "index": 633,
+      "start": "00:49:44.000",
+      "end": "00:49:47.220",
+      "text": "to opioid toxicity deaths in Canada alone."
+    },
+    {
+      "index": 634,
+      "start": "00:49:47.220",
+      "end": "00:49:51.350",
+      "text": "And a lot of those people around 2,400 were in Ontario."
+    },
+    {
+      "index": 635,
+      "start": "00:49:51.350",
+      "end": "00:49:53.530",
+      "text": "And a lot of them were in London."
+    },
+    {
+      "index": 636,
+      "start": "00:49:53.530",
+      "end": "00:49:55.540",
+      "text": "And there's a lot of things we have to change"
+    },
+    {
+      "index": 637,
+      "start": "00:49:55.540",
+      "end": "00:49:57.000",
+      "text": "to the policy level."
+    },
+    {
+      "index": 638,
+      "start": "00:49:57.000",
+      "end": "00:49:59.160",
+      "text": "Some of them are very big and require action"
+    },
+    {
+      "index": 639,
+      "start": "00:49:59.160",
+      "end": "00:50:00.070",
+      "text": "at other levels of government,"
+    },
+    {
+      "index": 640,
+      "start": "00:50:00.070",
+      "end": "00:50:02.380",
+      "text": "like the province and the federal government."
+    },
+    {
+      "index": 641,
+      "start": "00:50:02.380",
+      "end": "00:50:04.350",
+      "text": "Some of them are smaller and can be done very quickly."
+    },
+    {
+      "index": 642,
+      "start": "00:50:04.350",
+      "end": "00:50:05.860",
+      "text": "And I'm glad that you came forward with something"
+    },
+    {
+      "index": 643,
+      "start": "00:50:05.860",
+      "end": "00:50:07.910",
+      "text": "that we can act on here locally,"
+    },
+    {
+      "index": 644,
+      "start": "00:50:07.910",
+      "end": "00:50:10.360",
+      "text": "something we could do fairly quickly."
+    },
+    {
+      "index": 645,
+      "start": "00:50:10.360",
+      "end": "00:50:12.600",
+      "text": "And I think it's gonna be a good improvement."
+    },
+    {
+      "index": 646,
+      "start": "00:50:12.600",
+      "end": "00:50:13.430",
+      "text": "So thanks very much."
+    },
+    {
+      "index": 647,
+      "start": "00:50:13.430",
+      "end": "00:50:16.480",
+      "text": "I know the staff appreciate this kind of constructive feedback"
+    },
+    {
+      "index": 648,
+      "start": "00:50:16.480",
+      "end": "00:50:17.660",
+      "text": "on how we could do better."
+    },
+    {
+      "index": 649,
+      "start": "00:50:17.660",
+      "end": "00:50:33.070",
+      "text": "And I'll just call the vote on the motion."
+    },
+    {
+      "index": 650,
+      "start": "00:50:33.070",
+      "end": "00:50:37.160",
+      "text": "Opposing the vote, the motion carries three to zero."
+    },
+    {
+      "index": 651,
+      "start": "00:50:37.160",
+      "end": "00:50:37.920",
+      "text": "Okay, thank you very much."
+    },
+    {
+      "index": 652,
+      "start": "00:50:37.920",
+      "end": "00:50:41.490",
+      "text": "That's passed and we'll go to council 14th of September"
+    },
+    {
+      "index": 653,
+      "start": "00:50:41.490",
+      "end": "00:50:43.460",
+      "text": "where I'm sure it will be supported by the full council."
+    },
+    {
+      "index": 654,
+      "start": "00:50:43.460",
+      "end": "00:50:45.310",
+      "text": "Thanks very much."
+    },
+    {
+      "index": 655,
+      "start": "00:50:45.310",
+      "end": "00:50:48.510",
+      "text": "That brings us to our deferred matters list."
+    },
+    {
+      "index": 656,
+      "start": "00:50:48.510",
+      "end": "00:50:50.730",
+      "text": "Let's see if there's a mover for that."
+    },
+    {
+      "index": 657,
+      "start": "00:50:50.730",
+      "end": "00:50:56.320",
+      "text": "Councillor Lewis, seconder."
+    },
+    {
+      "index": 658,
+      "start": "00:50:56.320",
+      "end": "00:50:58.500",
+      "text": "Councillor Sallie, thank you very much."
+    },
+    {
+      "index": 659,
+      "start": "00:50:58.500",
+      "end": "00:51:01.250",
+      "text": "I asked Mr. Tolek about one item"
+    },
+    {
+      "index": 660,
+      "start": "00:51:01.250",
+      "end": "00:51:03.650",
+      "text": "that I think we were expecting to be on our agenda"
+    },
+    {
+      "index": 661,
+      "start": "00:51:03.650",
+      "end": "00:51:05.950",
+      "text": "for August, which is the report back"
+    },
+    {
+      "index": 662,
+      "start": "00:51:05.950",
+      "end": "00:51:10.320",
+      "text": "about the pure discretion, sort of warning labels"
+    },
+    {
+      "index": 663,
+      "start": "00:51:10.320",
+      "end": "00:51:12.820",
+      "text": "around offensive material"
+    },
+    {
+      "index": 664,
+      "start": "00:51:12.820",
+      "end": "00:51:16.120",
+      "text": "that's getting delivered to people's homes door to door."
+    },
+    {
+      "index": 665,
+      "start": "00:51:16.120",
+      "end": "00:51:18.380",
+      "text": "And I'm advised that we should expect"
+    },
+    {
+      "index": 666,
+      "start": "00:51:18.380",
+      "end": "00:51:19.690",
+      "text": "that report in September."
+    },
+    {
+      "index": 667,
+      "start": "00:51:19.690",
+      "end": "00:51:22.350",
+      "text": "So with that said, any questions"
+    },
+    {
+      "index": 668,
+      "start": "00:51:22.350",
+      "end": "00:51:26.550",
+      "text": "about any of the items on the deferred matters list?"
+    },
+    {
+      "index": 669,
+      "start": "00:51:26.550",
+      "end": "00:51:44.090",
+      "text": "No, we're gonna open up for a vote."
+    },
+    {
+      "index": 670,
+      "start": "00:51:44.090",
+      "end": "00:51:48.000",
+      "text": "Opposing the vote, the motion carries three to zero."
+    },
+    {
+      "index": 671,
+      "start": "00:51:48.000",
+      "end": "00:51:49.200",
+      "text": "To our confidential session,"
+    },
+    {
+      "index": 672,
+      "start": "00:51:49.200",
+      "end": "00:51:52.470",
+      "text": "you'll see there's one matter listed on the agenda,"
+    },
+    {
+      "index": 673,
+      "start": "00:51:52.470",
+      "end": "00:51:54.960",
+      "text": "which is 6.1, the land acquisition."
+    },
+    {
+      "index": 674,
+      "start": "00:51:54.960",
+      "end": "00:51:56.570",
+      "text": "It's a number of reasons to go into closed session,"
+    },
+    {
+      "index": 675,
+      "start": "00:51:56.570",
+      "end": "00:51:58.690",
+      "text": "but it's related to the proposed repenting lease of land"
+    },
+    {
+      "index": 676,
+      "start": "00:51:58.690",
+      "end": "00:51:59.510",
+      "text": "by the municipality,"
+    },
+    {
+      "index": 677,
+      "start": "00:51:59.510",
+      "end": "00:52:01.840",
+      "text": "including communications necessary to the purpose"
+    },
+    {
+      "index": 678,
+      "start": "00:52:01.840",
+      "end": "00:52:04.410",
+      "text": "and a number of other reasons that are listed."
+    },
+    {
+      "index": 679,
+      "start": "00:52:04.410",
+      "end": "00:52:06.400",
+      "text": "Do I have a mover?"
+    },
+    {
+      "index": 680,
+      "start": "00:52:06.400",
+      "end": "00:52:09.580",
+      "text": "Councillor Lewis, seconder."
+    },
+    {
+      "index": 681,
+      "start": "00:52:09.580",
+      "end": "00:52:29.260",
+      "text": "Councillor Sallie, thank you."
+    },
+    {
+      "index": 682,
+      "start": "00:52:29.260",
+      "end": "00:52:33.130",
+      "text": "Opposing the vote, the motion carries three to zero."
+    },
+    {
+      "index": 683,
+      "start": "00:52:33.130",
+      "end": "00:52:35.250",
+      "text": "Closed session, we will come back into public session,"
+    },
+    {
+      "index": 684,
+      "start": "00:52:35.250",
+      "end": "00:52:38.350",
+      "text": "but the live stream will not come back on."
+    },
+    {
+      "index": 685,
+      "start": "00:52:38.350",
+      "end": "00:52:40.180",
+      "text": "We will adjourn from public session"
+    },
+    {
+      "index": 686,
+      "start": "00:52:40.180",
+      "end": "00:52:42.680",
+      "text": "after we've come back at a closed session."
+    },
+    {
+      "index": 687,
+      "start": "00:52:42.680",
+      "end": "00:53:39.710",
+      "text": "Thanks very much, good to go."
+    },
+    {
+      "index": 688,
+      "start": "00:53:39.710",
+      "end": "00:53:41.120",
+      "text": "Okay, we're back into public session."
+    },
+    {
+      "index": 689,
+      "start": "00:53:41.120",
+      "end": "00:53:43.390",
+      "text": "I'm gonna ask Councillor Lewis to report progress"
+    },
+    {
+      "index": 690,
+      "start": "00:53:43.390",
+      "end": "00:53:45.470",
+      "text": "on closed session."
+    },
+    {
+      "index": 691,
+      "start": "00:53:45.470",
+      "end": "00:53:46.290",
+      "text": "Thank you, Mr. Chair,"
+    },
+    {
+      "index": 692,
+      "start": "00:53:46.290",
+      "end": "00:53:48.280",
+      "text": "and I'm happy to report progress on the item"
+    },
+    {
+      "index": 693,
+      "start": "00:53:48.280",
+      "end": "00:53:50.220",
+      "text": "for which we went in camera."
+    },
+    {
+      "index": 694,
+      "start": "00:53:50.220",
+      "end": "00:53:51.090",
+      "text": "Thank you."
+    },
+    {
+      "index": 695,
+      "start": "00:53:51.090",
+      "end": "00:53:53.280",
+      "text": "I look for a motion to adjourn."
+    },
+    {
+      "index": 696,
+      "start": "00:53:53.280",
+      "end": "00:53:56.800",
+      "text": "Councillor Lewis, seconded by Councillor Sallie."
+    },
+    {
+      "index": 697,
+      "start": "00:53:56.800",
+      "end": "00:53:57.610",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 698,
+      "start": "00:53:57.610",
+      "end": "00:54:00.770",
+      "text": "All those in favor of adjourning?"
+    },
+    {
+      "index": 699,
+      "start": "00:54:00.770",
+      "end": "00:54:02.300",
+      "text": "That's carried, three zero."
+    },
+    {
+      "index": 700,
+      "start": "00:54:02.300",
+      "end": "00:54:11.700",
+      "text": "Thank you very much, everyone."
+    },
+    {
+      "index": 701,
+      "start": "00:54:11.700",
+      "end": "00:54:13.790",
+      "text": "Recording stopped."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Community%20and%20Protective%20Services%20Committee/2021/08-31/.transcript.srt"
+}

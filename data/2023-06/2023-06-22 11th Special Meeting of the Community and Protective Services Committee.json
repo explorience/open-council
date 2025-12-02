@@ -1,1 +1,1460 @@
-{"title": "11th Special Meeting of the Community and Protective Services Committee", "datetime": "2023-06-22 12:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5ffd26ee-7908-47ff-8db3-40a7cdf9c00e&Agenda=PostMinutes&lang=English", "meeting_type": "Community and Protective Services Committee", "bills": null, "present": ["E. Peloza", "S. Stevenson", "J. Pribil", "C. Rahman", "D. Ferreira"], "also_present": ["J. Bunn", "M. Dellamora", "D. Escobar", "T. Fowler", "K. Pawelec", "C. Smith\n\n\n\nS. Corman", "Vanetia R.", "B. Westlake-Power\n\n\n\nThe meeting was called to order at 12:00 PM", "it being noted that  C. Rahman", "S. Stevenson were in remote attendance."], "remote_attendance": [], "content": {"__class__": "Content"}, "absent": ["J. Morgan"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-06-22 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-06-22 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-06-22 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Building Safer Communities Fund (BSCF) Multi-Year Contribution Agreement", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by D. Ferreira", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed By-law, as appended to the staff report dated June 22, 2023, BE INTRODUCED at the Municipal Council meeting to be held on June 27, 2023, to:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0repeal Schedule \u201cA\u201d to By-law No. A.-8328-35, being \u201ca by-law to approve and authorize the execution of the amended Building Safer Communities Fund (BSCF) Contribution Agreement between His Majesty the King in right of Canada, as represented by the Minister of Public Safety and Emergency Preparedness and The Corporation of the City of London\u201d and replace with the new Schedule \u201cA\u201d, as appended to the above-noted by-law;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services to execute the above-noted Building Safer Communities Fund (BSCF) Contribution Agreement;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services to approve and execute any future amendments to the above-noted Building Safer Communities Fund (BCFS) Contribution Agreement; and,", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to undertake all the administrative, financial and reporting acts that are necessary in connection with the above-noted Agreement. (2023-P03)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["E. Peloza", "S. Stevenson", "J. Pribil", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-06-22 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-06-22 - (4.1) Staff Report - Building Safer Communities Fund Multi-Year Contribution Agreement", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=100799", "date": "2023-06-22 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2023-06-22 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-06-22 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"string": "The meeting adjourned at 12:12 PM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-06-22 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "11th Special Meeting of the Community and Protective Services Committee",
+  "datetime": "2023-06-22 12:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5ffd26ee-7908-47ff-8db3-40a7cdf9c00e&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Community and Protective Services Committee",
+  "bills": null,
+  "present": [
+    "E. Peloza",
+    "S. Stevenson",
+    "J. Pribil",
+    "C. Rahman",
+    "D. Ferreira"
+  ],
+  "also_present": [
+    "J. Bunn",
+    "M. Dellamora",
+    "D. Escobar",
+    "T. Fowler",
+    "K. Pawelec",
+    "C. Smith\n\n\n\nS. Corman",
+    "Vanetia R.",
+    "B. Westlake-Power\n\n\n\nThe meeting was called to order at 12:00 PM",
+    "it being noted that  C. Rahman",
+    "S. Stevenson were in remote attendance."
+  ],
+  "remote_attendance": [],
+  "content": {
+    "__class__": "Content"
+  },
+  "absent": [
+    "J. Morgan"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-06-22 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-06-22 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-06-22 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Building Safer Communities Fund (BSCF) Multi-Year Contribution Agreement",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Pribil",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed By-law, as appended to the staff report dated June 22, 2023, BE INTRODUCED at the Municipal Council meeting to be held on June 27, 2023, to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0repeal Schedule \u201cA\u201d to By-law No. A.-8328-35, being \u201ca by-law to approve and authorize the execution of the amended Building Safer Communities Fund (BSCF) Contribution Agreement between His Majesty the King in right of Canada, as represented by the Minister of Public Safety and Emergency Preparedness and The Corporation of the City of London\u201d and replace with the new Schedule \u201cA\u201d, as appended to the above-noted by-law;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services to execute the above-noted Building Safer Communities Fund (BSCF) Contribution Agreement;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0authorize the Deputy City Manager, Neighbourhood and Community-Wide Services to approve and execute any future amendments to the above-noted Building Safer Communities Fund (BCFS) Contribution Agreement; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0delegate authority to the Deputy City Manager, Neighbourhood and Community-Wide Services, or written designate, to undertake all the administrative, financial and reporting acts that are necessary in connection with the above-noted Agreement. (2023-P03)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "E. Peloza",
+                      "S. Stevenson",
+                      "J. Pribil",
+                      "D. Ferreira",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "Mayor J. Morgan"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-06-22 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-06-22 - (4.1) Staff Report - Building Safer Communities Fund Multi-Year Contribution Agreement",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=100799",
+              "date": "2023-06-22 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2023-06-22 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-06-22 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "string": "The meeting adjourned at 12:12 PM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-06-22 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:11:53.280",
+      "end": "00:13:16.130",
+      "text": "made before or during."
+    },
+    {
+      "index": 2,
+      "start": "00:13:16.130",
+      "end": "00:13:17.170",
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "index": 3,
+      "start": "00:13:17.170",
+      "end": "00:13:18.270",
+      "text": "This is a special meeting"
+    },
+    {
+      "index": 4,
+      "start": "00:13:18.270",
+      "end": "00:13:20.120",
+      "text": "in the Community and Protective Services Committee."
+    },
+    {
+      "index": 5,
+      "start": "00:13:20.120",
+      "end": "00:13:22.450",
+      "text": "It's our 11th meeting."
+    },
+    {
+      "index": 6,
+      "start": "00:13:22.450",
+      "end": "00:13:24.660",
+      "text": "The city of London is situated on the traditional lands"
+    },
+    {
+      "index": 7,
+      "start": "00:13:24.660",
+      "end": "00:13:29.120",
+      "text": "of the Nishnajbak, Potashone, Linamak, and Adwondron."
+    },
+    {
+      "index": 8,
+      "start": "00:13:29.120",
+      "end": "00:13:30.490",
+      "text": "We honor and respect the history,"
+    },
+    {
+      "index": 9,
+      "start": "00:13:30.490",
+      "end": "00:13:31.360",
+      "text": "and languages, and culture,"
+    },
+    {
+      "index": 10,
+      "start": "00:13:31.360",
+      "end": "00:13:34.490",
+      "text": "the diverse indigenous people who call this territory home."
+    },
+    {
+      "index": 11,
+      "start": "00:13:34.490",
+      "end": "00:13:35.850",
+      "text": "The city of London is currently home"
+    },
+    {
+      "index": 12,
+      "start": "00:13:35.850",
+      "end": "00:13:39.010",
+      "text": "to many First Nation, M\u00e9tis, and Inuit today."
+    },
+    {
+      "index": 13,
+      "start": "00:13:39.010",
+      "end": "00:13:41.550",
+      "text": "As representatives of the people of the city of London,"
+    },
+    {
+      "index": 14,
+      "start": "00:13:41.550",
+      "end": "00:13:43.690",
+      "text": "we are grateful to have the opportunity"
+    },
+    {
+      "index": 15,
+      "start": "00:13:43.690",
+      "end": "00:13:48.630",
+      "text": "to work and live in this territory."
+    },
+    {
+      "index": 16,
+      "start": "00:13:48.630",
+      "end": "00:13:51.690",
+      "text": "I will ask, I believe we have Councillor Stevenson"
+    },
+    {
+      "index": 17,
+      "start": "00:13:51.690",
+      "end": "00:13:53.630",
+      "text": "and Councillor Raman joining us virtually."
+    },
+    {
+      "index": 18,
+      "start": "00:13:53.630",
+      "end": "00:13:56.560",
+      "text": "I will ask you to put on your screens for a moment"
+    },
+    {
+      "index": 19,
+      "start": "00:13:56.560",
+      "end": "00:14:07.190",
+      "text": "just to verify that you are here with us for quorum."
+    },
+    {
+      "index": 20,
+      "start": "00:14:07.190",
+      "end": "00:14:10.380",
+      "text": "Big thank you for your information."
+    },
+    {
+      "index": 21,
+      "start": "00:14:10.380",
+      "end": "00:14:11.800",
+      "text": "I have Councillor Ferreira"
+    },
+    {
+      "index": 22,
+      "start": "00:14:11.800",
+      "end": "00:14:14.170",
+      "text": "and Councillor Pripple joining me in chambers today."
+    },
+    {
+      "index": 23,
+      "start": "00:14:14.170",
+      "end": "00:14:18.110",
+      "text": "So we do have quorum and we are verified."
+    },
+    {
+      "index": 24,
+      "start": "00:14:18.110",
+      "end": "00:14:20.160",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 25,
+      "start": "00:14:20.160",
+      "end": "00:14:22.440",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 26,
+      "start": "00:14:22.440",
+      "end": "00:14:24.090",
+      "text": "for meetings upon request."
+    },
+    {
+      "index": 27,
+      "start": "00:14:24.090",
+      "end": "00:14:25.690",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 28,
+      "start": "00:14:25.690",
+      "end": "00:14:30.820",
+      "text": "please contact CPSC at London.ca or 519-661-2489,"
+    },
+    {
+      "index": 29,
+      "start": "00:14:30.820",
+      "end": "00:14:35.620",
+      "text": "extension 2425."
+    },
+    {
+      "index": 30,
+      "start": "00:14:35.620",
+      "end": "00:14:37.000",
+      "text": "I'm looking into committee for disclosures"
+    },
+    {
+      "index": 31,
+      "start": "00:14:37.000",
+      "end": "00:14:43.920",
+      "text": "of pecuniary interest, seeing none."
+    },
+    {
+      "index": 32,
+      "start": "00:14:43.920",
+      "end": "00:14:46.330",
+      "text": "We have no consent items, no scheduled items."
+    },
+    {
+      "index": 33,
+      "start": "00:14:46.330",
+      "end": "00:14:48.420",
+      "text": "We have one item under items for direction,"
+    },
+    {
+      "index": 34,
+      "start": "00:14:48.420",
+      "end": "00:14:52.100",
+      "text": "being 4.1, Building Safer Community Funds,"
+    },
+    {
+      "index": 35,
+      "start": "00:14:52.100",
+      "end": "00:14:54.350",
+      "text": "Multi-Year Contribution Agreement."
+    },
+    {
+      "index": 36,
+      "start": "00:14:54.350",
+      "end": "00:14:56.910",
+      "text": "I'm gonna go to staff first for a brief overview"
+    },
+    {
+      "index": 37,
+      "start": "00:14:56.910",
+      "end": "00:14:59.120",
+      "text": "recognizing it's a special meeting"
+    },
+    {
+      "index": 38,
+      "start": "00:14:59.120",
+      "end": "00:15:07.890",
+      "text": "and an exciting report before us, Ms. Smith."
+    },
+    {
+      "index": 39,
+      "start": "00:15:07.890",
+      "end": "00:15:09.250",
+      "text": "Thank you and through the chair,"
+    },
+    {
+      "index": 40,
+      "start": "00:15:09.250",
+      "end": "00:15:11.270",
+      "text": "before you today is our second report,"
+    },
+    {
+      "index": 41,
+      "start": "00:15:11.270",
+      "end": "00:15:14.020",
+      "text": "seeking council's approval to enter into agreement"
+    },
+    {
+      "index": 42,
+      "start": "00:15:14.020",
+      "end": "00:15:16.640",
+      "text": "with the federal government in order to flow"
+    },
+    {
+      "index": 43,
+      "start": "00:15:16.640",
+      "end": "00:15:18.310",
+      "text": "the second allotment of funding,"
+    },
+    {
+      "index": 44,
+      "start": "00:15:18.310",
+      "end": "00:15:21.690",
+      "text": "which is approximately $3 million to London."
+    },
+    {
+      "index": 45,
+      "start": "00:15:21.690",
+      "end": "00:15:25.720",
+      "text": "This is part of the federal's Building Safer Communities Funds."
+    },
+    {
+      "index": 46,
+      "start": "00:15:25.720",
+      "end": "00:15:28.050",
+      "text": "The report also provides you an overview"
+    },
+    {
+      "index": 47,
+      "start": "00:15:28.050",
+      "end": "00:15:30.880",
+      "text": "of the needs assessment and engagement undertaken"
+    },
+    {
+      "index": 48,
+      "start": "00:15:30.880",
+      "end": "00:15:33.490",
+      "text": "with community organizations and young people"
+    },
+    {
+      "index": 49,
+      "start": "00:15:33.490",
+      "end": "00:15:36.340",
+      "text": "and an overview of the proposed multi-year strategy"
+    },
+    {
+      "index": 50,
+      "start": "00:15:36.340",
+      "end": "00:15:40.940",
+      "text": "and plan that was developed based on this engagement."
+    },
+    {
+      "index": 51,
+      "start": "00:15:40.940",
+      "end": "00:15:44.150",
+      "text": "Thank you for allowing us to hold this special meeting today"
+    },
+    {
+      "index": 52,
+      "start": "00:15:44.150",
+      "end": "00:15:46.950",
+      "text": "as our current agreement with the federal government"
+    },
+    {
+      "index": 53,
+      "start": "00:15:46.950",
+      "end": "00:15:49.920",
+      "text": "expires on June 30th, 2023."
+    },
+    {
+      "index": 54,
+      "start": "00:15:49.920",
+      "end": "00:15:52.800",
+      "text": "So in order to receive the next installment of funding,"
+    },
+    {
+      "index": 55,
+      "start": "00:15:52.800",
+      "end": "00:15:56.200",
+      "text": "the government requires we enter into a signed agreement"
+    },
+    {
+      "index": 56,
+      "start": "00:15:56.200",
+      "end": "00:16:00.230",
+      "text": "and submitted to the government by June 30th, 2023."
+    },
+    {
+      "index": 57,
+      "start": "00:16:00.230",
+      "end": "00:16:02.440",
+      "text": "Hence the urgency of this matter."
+    },
+    {
+      "index": 58,
+      "start": "00:16:02.440",
+      "end": "00:16:04.820",
+      "text": "I have staff here if you have any further questions"
+    },
+    {
+      "index": 59,
+      "start": "00:16:04.820",
+      "end": "00:16:07.510",
+      "text": "on the report itself, thank you."
+    },
+    {
+      "index": 60,
+      "start": "00:16:07.510",
+      "end": "00:16:09.520",
+      "text": "Thank you and as already stated,"
+    },
+    {
+      "index": 61,
+      "start": "00:16:09.520",
+      "end": "00:16:11.560",
+      "text": "thank you for committee making this meeting possible,"
+    },
+    {
+      "index": 62,
+      "start": "00:16:11.560",
+      "end": "00:16:14.790",
+      "text": "realizing we will deal with this item today"
+    },
+    {
+      "index": 63,
+      "start": "00:16:14.790",
+      "end": "00:16:17.280",
+      "text": "and it will go to council on the 27th"
+    },
+    {
+      "index": 64,
+      "start": "00:16:17.280",
+      "end": "00:16:19.490",
+      "text": "for our final approval in advance"
+    },
+    {
+      "index": 65,
+      "start": "00:16:19.490",
+      "end": "00:16:22.950",
+      "text": "of the federal government's deadline to receive any funds."
+    },
+    {
+      "index": 66,
+      "start": "00:16:22.950",
+      "end": "00:16:26.430",
+      "text": "Opening up, I guess looking for a moverner speaker,"
+    },
+    {
+      "index": 67,
+      "start": "00:16:26.430",
+      "end": "00:16:28.210",
+      "text": "a moverner speaker, a moverner and a seconder"
+    },
+    {
+      "index": 68,
+      "start": "00:16:28.210",
+      "end": "00:16:29.440",
+      "text": "and then I'll do speakers."
+    },
+    {
+      "index": 69,
+      "start": "00:16:29.440",
+      "end": "00:16:30.670",
+      "text": "Moved by Councillor Ferreira,"
+    },
+    {
+      "index": 70,
+      "start": "00:16:30.670",
+      "end": "00:16:32.490",
+      "text": "count seconded by Councillor Pribble,"
+    },
+    {
+      "index": 71,
+      "start": "00:16:32.490",
+      "end": "00:16:34.110",
+      "text": "starting a speakers list of anyone"
+    },
+    {
+      "index": 72,
+      "start": "00:16:34.110",
+      "end": "00:16:36.840",
+      "text": "who would like to make comments."
+    },
+    {
+      "index": 73,
+      "start": "00:16:36.840",
+      "end": "00:16:38.890",
+      "text": "Councillor Ferreira."
+    },
+    {
+      "index": 74,
+      "start": "00:16:38.890",
+      "end": "00:16:40.160",
+      "text": "Thank you and through you."
+    },
+    {
+      "index": 75,
+      "start": "00:16:40.160",
+      "end": "00:16:43.240",
+      "text": "Two, I guess Ms. Smith and your team,"
+    },
+    {
+      "index": 76,
+      "start": "00:16:43.240",
+      "end": "00:16:45.660",
+      "text": "I was wondering if you could expand on some of the initiatives"
+    },
+    {
+      "index": 77,
+      "start": "00:16:45.660",
+      "end": "00:16:48.050",
+      "text": "that the building saver communities fund"
+    },
+    {
+      "index": 78,
+      "start": "00:16:48.050",
+      "end": "00:16:51.610",
+      "text": "would move along."
+    },
+    {
+      "index": 79,
+      "start": "00:16:51.610",
+      "end": "00:16:54.790",
+      "text": "Ms. Smith and team."
+    },
+    {
+      "index": 80,
+      "start": "00:16:54.790",
+      "end": "00:16:56.220",
+      "text": "Sure, thank you and through the chair."
+    },
+    {
+      "index": 81,
+      "start": "00:16:56.220",
+      "end": "00:16:58.200",
+      "text": "So I'm gonna have the staff enter,"
+    },
+    {
+      "index": 82,
+      "start": "00:16:58.200",
+      "end": "00:17:02.080",
+      "text": "give you a few more details on this and an overview."
+    },
+    {
+      "index": 83,
+      "start": "00:17:02.080",
+      "end": "00:17:05.800",
+      "text": "As you know, this is a grant of funding agreement."
+    },
+    {
+      "index": 84,
+      "start": "00:17:05.800",
+      "end": "00:17:07.040",
+      "text": "So the purpose of this,"
+    },
+    {
+      "index": 85,
+      "start": "00:17:07.040",
+      "end": "00:17:08.830",
+      "text": "we went out and did a community engagement"
+    },
+    {
+      "index": 86,
+      "start": "00:17:08.830",
+      "end": "00:17:11.260",
+      "text": "in a need assessment to hear the priorities."
+    },
+    {
+      "index": 87,
+      "start": "00:17:11.260",
+      "end": "00:17:12.860",
+      "text": "We then had to align the priorities"
+    },
+    {
+      "index": 88,
+      "start": "00:17:12.860",
+      "end": "00:17:15.650",
+      "text": "with the overall outcomes of the federal program."
+    },
+    {
+      "index": 89,
+      "start": "00:17:15.650",
+      "end": "00:17:19.070",
+      "text": "And then what we did through intense engagement"
+    },
+    {
+      "index": 90,
+      "start": "00:17:19.070",
+      "end": "00:17:22.220",
+      "text": "is understand what are the priorities right now in London"
+    },
+    {
+      "index": 91,
+      "start": "00:17:22.220",
+      "end": "00:17:24.890",
+      "text": "that align with the purpose of this fund."
+    },
+    {
+      "index": 92,
+      "start": "00:17:24.890",
+      "end": "00:17:28.320",
+      "text": "And so we will then go out through a grant"
+    },
+    {
+      "index": 93,
+      "start": "00:17:28.320",
+      "end": "00:17:31.590",
+      "text": "and application process and seek organizations"
+    },
+    {
+      "index": 94,
+      "start": "00:17:31.590",
+      "end": "00:17:34.400",
+      "text": "to implement projects and programs"
+    },
+    {
+      "index": 95,
+      "start": "00:17:34.400",
+      "end": "00:17:36.890",
+      "text": "that align with the grant priorities."
+    },
+    {
+      "index": 96,
+      "start": "00:17:36.890",
+      "end": "00:17:39.060",
+      "text": "So I'll turn it over to Ms. Pollack"
+    },
+    {
+      "index": 97,
+      "start": "00:17:39.060",
+      "end": "00:17:42.280",
+      "text": "to explain some of those priorities."
+    },
+    {
+      "index": 98,
+      "start": "00:17:42.280",
+      "end": "00:17:44.190",
+      "text": "Thank you and through the chair."
+    },
+    {
+      "index": 99,
+      "start": "00:17:44.190",
+      "end": "00:17:47.190",
+      "text": "So there's two key activities that are included"
+    },
+    {
+      "index": 100,
+      "start": "00:17:47.190",
+      "end": "00:17:48.620",
+      "text": "within the submission."
+    },
+    {
+      "index": 101,
+      "start": "00:17:48.620",
+      "end": "00:17:50.740",
+      "text": "One is a grant program."
+    },
+    {
+      "index": 102,
+      "start": "00:17:50.740",
+      "end": "00:17:52.300",
+      "text": "So the purpose of this grant program"
+    },
+    {
+      "index": 103,
+      "start": "00:17:52.300",
+      "end": "00:17:55.730",
+      "text": "is to get the funding into the community where it's needed."
+    },
+    {
+      "index": 104,
+      "start": "00:17:55.730",
+      "end": "00:17:58.400",
+      "text": "And so as Ms. Smith mentioned,"
+    },
+    {
+      "index": 105,
+      "start": "00:17:58.400",
+      "end": "00:18:01.400",
+      "text": "we will be doing a full call for proposals"
+    },
+    {
+      "index": 106,
+      "start": "00:18:01.400",
+      "end": "00:18:04.070",
+      "text": "based off of the engagement that we've already undertaken."
+    },
+    {
+      "index": 107,
+      "start": "00:18:04.070",
+      "end": "00:18:07.430",
+      "text": "And in addition, given that this is one time funding,"
+    },
+    {
+      "index": 108,
+      "start": "00:18:07.430",
+      "end": "00:18:09.380",
+      "text": "there's another activity that we submitted"
+    },
+    {
+      "index": 109,
+      "start": "00:18:09.380",
+      "end": "00:18:13.610",
+      "text": "related to training, coaching, and capacity building."
+    },
+    {
+      "index": 110,
+      "start": "00:18:13.610",
+      "end": "00:18:18.170",
+      "text": "So this funding will go directly to the organizations"
+    },
+    {
+      "index": 111,
+      "start": "00:18:18.170",
+      "end": "00:18:21.600",
+      "text": "that are on receipt of funding for support with evaluation,"
+    },
+    {
+      "index": 112,
+      "start": "00:18:21.600",
+      "end": "00:18:25.310",
+      "text": "for support with anti-racism and anti-oppression training"
+    },
+    {
+      "index": 113,
+      "start": "00:18:25.310",
+      "end": "00:18:28.310",
+      "text": "as well as help with implementing programs."
+    },
+    {
+      "index": 114,
+      "start": "00:18:28.310",
+      "end": "00:18:31.620",
+      "text": "So the purpose here is to help build some sustainability"
+    },
+    {
+      "index": 115,
+      "start": "00:18:31.620",
+      "end": "00:18:33.700",
+      "text": "and capacity within the community."
+    },
+    {
+      "index": 116,
+      "start": "00:18:33.700",
+      "end": "00:18:35.710",
+      "text": "Thank you."
+    },
+    {
+      "index": 117,
+      "start": "00:18:35.710",
+      "end": "00:18:37.900",
+      "text": "Councilor Perreira, follow up?"
+    },
+    {
+      "index": 118,
+      "start": "00:18:37.900",
+      "end": "00:18:38.680",
+      "text": "Now through you."
+    },
+    {
+      "index": 119,
+      "start": "00:18:38.680",
+      "end": "00:18:40.130",
+      "text": "Thank you for that, that's all."
+    },
+    {
+      "index": 120,
+      "start": "00:18:40.130",
+      "end": "00:18:43.390",
+      "text": "Thank you, Councilor Perreira."
+    },
+    {
+      "index": 121,
+      "start": "00:18:43.390",
+      "end": "00:18:44.940",
+      "text": "Good morning, through the chair to the staff."
+    },
+    {
+      "index": 122,
+      "start": "00:18:44.940",
+      "end": "00:18:46.140",
+      "text": "I do have a few questions."
+    },
+    {
+      "index": 123,
+      "start": "00:18:46.140",
+      "end": "00:18:48.400",
+      "text": "If you can go up, please, to page 15."
+    },
+    {
+      "index": 124,
+      "start": "00:18:48.400",
+      "end": "00:18:51.540",
+      "text": "I mean, that's eligible expenses for fiscal year."
+    },
+    {
+      "index": 125,
+      "start": "00:18:51.540",
+      "end": "00:18:54.720",
+      "text": "The expenses categories, was that done by us,"
+    },
+    {
+      "index": 126,
+      "start": "00:18:54.720",
+      "end": "00:18:59.190",
+      "text": "or was that given to us by Public Safety Canada?"
+    },
+    {
+      "index": 127,
+      "start": "00:18:59.190",
+      "end": "00:19:00.600",
+      "text": "To staff."
+    },
+    {
+      "index": 128,
+      "start": "00:19:00.600",
+      "end": "00:19:02.720",
+      "text": "Thank you, and through you, Chair, that's a good question."
+    },
+    {
+      "index": 129,
+      "start": "00:19:02.720",
+      "end": "00:19:05.700",
+      "text": "These are Public Safety Canada funding lines"
+    },
+    {
+      "index": 130,
+      "start": "00:19:05.700",
+      "end": "00:19:10.480",
+      "text": "that we had to fill in the amounts for."
+    },
+    {
+      "index": 131,
+      "start": "00:19:10.480",
+      "end": "00:19:12.290",
+      "text": "Councilor Perreira?"
+    },
+    {
+      "index": 132,
+      "start": "00:19:12.290",
+      "end": "00:19:13.940",
+      "text": "Categories then are by Canada,"
+    },
+    {
+      "index": 133,
+      "start": "00:19:13.940",
+      "end": "00:19:21.050",
+      "text": "and us, we did include the amounts there, how do you think?"
+    },
+    {
+      "index": 134,
+      "start": "00:19:21.050",
+      "end": "00:19:21.890",
+      "text": "Staff."
+    },
+    {
+      "index": 135,
+      "start": "00:19:21.890",
+      "end": "00:19:22.720",
+      "text": "Through the chair, that is correct."
+    },
+    {
+      "index": 136,
+      "start": "00:19:22.720",
+      "end": "00:19:24.390",
+      "text": "These are their expense categories."
+    },
+    {
+      "index": 137,
+      "start": "00:19:24.390",
+      "end": "00:19:26.490",
+      "text": "We don't have any flexibility on those,"
+    },
+    {
+      "index": 138,
+      "start": "00:19:26.490",
+      "end": "00:19:30.550",
+      "text": "and then we had to estimate our, what percentages"
+    },
+    {
+      "index": 139,
+      "start": "00:19:30.550",
+      "end": "00:19:32.850",
+      "text": "of our overall allotment for each year"
+    },
+    {
+      "index": 140,
+      "start": "00:19:32.850",
+      "end": "00:19:36.200",
+      "text": "would be in each of those categories."
+    },
+    {
+      "index": 141,
+      "start": "00:19:36.200",
+      "end": "00:19:37.130",
+      "text": "Councilor?"
+    },
+    {
+      "index": 142,
+      "start": "00:19:37.130",
+      "end": "00:19:40.120",
+      "text": "So now when the grants are gonna come in,"
+    },
+    {
+      "index": 143,
+      "start": "00:19:40.120",
+      "end": "00:19:42.430",
+      "text": "how about if they don't fit into these categories?"
+    },
+    {
+      "index": 144,
+      "start": "00:19:42.430",
+      "end": "00:19:44.140",
+      "text": "Do we have a room to shuffle it around?"
+    },
+    {
+      "index": 145,
+      "start": "00:19:44.140",
+      "end": "00:19:47.600",
+      "text": "Because I, for example, saw the consulting 100,000, 100,000,"
+    },
+    {
+      "index": 146,
+      "start": "00:19:47.600",
+      "end": "00:19:49.700",
+      "text": "50,000, which again, I would think"
+    },
+    {
+      "index": 147,
+      "start": "00:19:49.700",
+      "end": "00:19:52.410",
+      "text": "that certainly may be for the first year,"
+    },
+    {
+      "index": 148,
+      "start": "00:19:52.410",
+      "end": "00:19:55.590",
+      "text": "but for second year and third year consulting in these,"
+    },
+    {
+      "index": 149,
+      "start": "00:19:55.590",
+      "end": "00:19:58.910",
+      "text": "so do we have a flexibility, and can we adjust it"
+    },
+    {
+      "index": 150,
+      "start": "00:19:58.910",
+      "end": "00:20:01.700",
+      "text": "as the grants come in?"
+    },
+    {
+      "index": 151,
+      "start": "00:20:01.700",
+      "end": "00:20:04.000",
+      "text": "Ms. Smith and team."
+    },
+    {
+      "index": 152,
+      "start": "00:20:04.000",
+      "end": "00:20:05.390",
+      "text": "Thank you for the question and through the chair."
+    },
+    {
+      "index": 153,
+      "start": "00:20:05.390",
+      "end": "00:20:07.450",
+      "text": "Yes, there is some room to amend."
+    },
+    {
+      "index": 154,
+      "start": "00:20:07.450",
+      "end": "00:20:10.980",
+      "text": "Less than 20%, we're able to do an administrative amendment"
+    },
+    {
+      "index": 155,
+      "start": "00:20:10.980",
+      "end": "00:20:12.490",
+      "text": "with Public Safety Canada."
+    },
+    {
+      "index": 156,
+      "start": "00:20:12.490",
+      "end": "00:20:15.150",
+      "text": "Otherwise, we can do a full amended agreement"
+    },
+    {
+      "index": 157,
+      "start": "00:20:15.150",
+      "end": "00:20:18.300",
+      "text": "if necessary, thank you."
+    },
+    {
+      "index": 158,
+      "start": "00:20:18.300",
+      "end": "00:20:19.570",
+      "text": "Councilor Preble, follow up?"
+    },
+    {
+      "index": 159,
+      "start": "00:20:19.570",
+      "end": "00:20:21.790",
+      "text": "Okay, thank you for that, yes, I do,"
+    },
+    {
+      "index": 160,
+      "start": "00:20:21.790",
+      "end": "00:20:26.100",
+      "text": "and when I look at page six, the proposal,"
+    },
+    {
+      "index": 161,
+      "start": "00:20:26.100",
+      "end": "00:20:30.070",
+      "text": "grants will become a bill start September 23rd,"
+    },
+    {
+      "index": 162,
+      "start": "00:20:30.070",
+      "end": "00:20:34.800",
+      "text": "and they are gonna actually start January 24th,"
+    },
+    {
+      "index": 163,
+      "start": "00:20:34.800",
+      "end": "00:20:37.340",
+      "text": "sorry, January 2024."
+    },
+    {
+      "index": 164,
+      "start": "00:20:37.340",
+      "end": "00:20:40.930",
+      "text": "And if I look at the first allotment of the $1 million,"
+    },
+    {
+      "index": 165,
+      "start": "00:20:40.930",
+      "end": "00:20:45.360",
+      "text": "it's until March 24th, which will give us,"
+    },
+    {
+      "index": 166,
+      "start": "00:20:45.360",
+      "end": "00:20:47.260",
+      "text": "it gives us only three months."
+    },
+    {
+      "index": 167,
+      "start": "00:20:47.260",
+      "end": "00:20:49.830",
+      "text": "Are we obligated to spend the million dollars"
+    },
+    {
+      "index": 168,
+      "start": "00:20:49.830",
+      "end": "00:20:56.260",
+      "text": "in the first three months, or can we carry it on over?"
+    },
+    {
+      "index": 169,
+      "start": "00:20:56.260",
+      "end": "00:20:57.810",
+      "text": "Thank you, and through the chair,"
+    },
+    {
+      "index": 170,
+      "start": "00:20:57.810",
+      "end": "00:21:01.150",
+      "text": "that deadline is for us to allocate funds to the community,"
+    },
+    {
+      "index": 171,
+      "start": "00:21:01.150",
+      "end": "00:21:03.580",
+      "text": "not specifically for the community to spend,"
+    },
+    {
+      "index": 172,
+      "start": "00:21:03.580",
+      "end": "00:21:06.000",
+      "text": "so as long as those funds are allocated"
+    },
+    {
+      "index": 173,
+      "start": "00:21:06.000",
+      "end": "00:21:08.860",
+      "text": "from the city of London to the community organizations,"
+    },
+    {
+      "index": 174,
+      "start": "00:21:08.860",
+      "end": "00:21:13.250",
+      "text": "it's considered spent to the federal government."
+    },
+    {
+      "index": 175,
+      "start": "00:21:13.250",
+      "end": "00:21:14.200",
+      "text": "Perfect, thank you very much,"
+    },
+    {
+      "index": 176,
+      "start": "00:21:14.200",
+      "end": "00:21:16.280",
+      "text": "and last question on page 10."
+    },
+    {
+      "index": 177,
+      "start": "00:21:16.280",
+      "end": "00:21:21.520",
+      "text": "It says 5.2 for fiscal year, 2223, it was 309,000."
+    },
+    {
+      "index": 178,
+      "start": "00:21:21.520",
+      "end": "00:21:24.650",
+      "text": "Did we take advantage of it?"
+    },
+    {
+      "index": 179,
+      "start": "00:21:24.650",
+      "end": "00:21:27.670",
+      "text": "Did we allocate that amount?"
+    },
+    {
+      "index": 180,
+      "start": "00:21:27.670",
+      "end": "00:21:31.810",
+      "text": "Ms. Poplak, thank you, and through the chair, yes,"
+    },
+    {
+      "index": 181,
+      "start": "00:21:31.810",
+      "end": "00:21:34.780",
+      "text": "we were able to allocate almost all of that funding,"
+    },
+    {
+      "index": 182,
+      "start": "00:21:34.780",
+      "end": "00:21:39.740",
+      "text": "we allocated roughly $277,000, there was a $30,000 variance."
+    },
+    {
+      "index": 183,
+      "start": "00:21:39.740",
+      "end": "00:21:44.100",
+      "text": "Thank you."
+    },
+    {
+      "index": 184,
+      "start": "00:21:44.100",
+      "end": "00:21:46.200",
+      "text": "Follow up, Councilor Preble?"
+    },
+    {
+      "index": 185,
+      "start": "00:21:46.200",
+      "end": "00:21:47.120",
+      "text": "No more follow up questions,"
+    },
+    {
+      "index": 186,
+      "start": "00:21:47.120",
+      "end": "00:21:49.490",
+      "text": "thank you very much for all the answers."
+    },
+    {
+      "index": 187,
+      "start": "00:21:49.490",
+      "end": "00:21:51.110",
+      "text": "Thank you."
+    },
+    {
+      "index": 188,
+      "start": "00:21:51.110",
+      "end": "00:21:54.390",
+      "text": "Looking online to see if Councilor Stevenson"
+    },
+    {
+      "index": 189,
+      "start": "00:21:54.390",
+      "end": "00:21:56.410",
+      "text": "or Councilor Ramen would like to make comment,"
+    },
+    {
+      "index": 190,
+      "start": "00:21:56.410",
+      "end": "00:22:03.200",
+      "text": "as I have exhausted my speaker's list within chambers."
+    },
+    {
+      "index": 191,
+      "start": "00:22:03.200",
+      "end": "00:22:07.120",
+      "text": "Okay, seeing none, it's been moved and seconded,"
+    },
+    {
+      "index": 192,
+      "start": "00:22:07.120",
+      "end": "00:22:08.770",
+      "text": "speakers list has concluded,"
+    },
+    {
+      "index": 193,
+      "start": "00:22:08.770",
+      "end": "00:22:18.820",
+      "text": "calling the question in e-scrap."
+    },
+    {
+      "index": 194,
+      "start": "00:22:18.820",
+      "end": "00:22:27.090",
+      "text": "I will vote yes."
+    },
+    {
+      "index": 195,
+      "start": "00:22:27.090",
+      "end": "00:22:30.850",
+      "text": "Seeing the vote, the motion carries, five to zero."
+    },
+    {
+      "index": 196,
+      "start": "00:22:30.850",
+      "end": "00:22:32.390",
+      "text": "Thank you, looking to committee to see if there's any"
+    },
+    {
+      "index": 197,
+      "start": "00:22:32.390",
+      "end": "00:22:34.990",
+      "text": "deferred matters or additional business,"
+    },
+    {
+      "index": 198,
+      "start": "00:22:34.990",
+      "end": "00:22:37.940",
+      "text": "as I've not been made aware of, any."
+    },
+    {
+      "index": 199,
+      "start": "00:22:37.940",
+      "end": "00:22:40.140",
+      "text": "Seeing none from chambers, nothing online,"
+    },
+    {
+      "index": 200,
+      "start": "00:22:40.140",
+      "end": "00:22:41.270",
+      "text": "that moves us to adjournment,"
+    },
+    {
+      "index": 201,
+      "start": "00:22:41.270",
+      "end": "00:22:43.690",
+      "text": "so looking for a motion to adjourn."
+    },
+    {
+      "index": 202,
+      "start": "00:22:43.690",
+      "end": "00:22:48.260",
+      "text": "Moved by Councilor Preble, seconded by Councilor Ferreira."
+    },
+    {
+      "index": 203,
+      "start": "00:22:48.260",
+      "end": "00:22:50.710",
+      "text": "A hand vote or a verbal vote of all those"
+    },
+    {
+      "index": 204,
+      "start": "00:22:50.710",
+      "end": "00:22:53.440",
+      "text": "in favor of adjournment."
+    },
+    {
+      "index": 205,
+      "start": "00:22:53.440",
+      "end": "00:22:58.170",
+      "text": "I vote yes, motion carries."
+    },
+    {
+      "index": 206,
+      "start": "00:22:58.170",
+      "end": "00:23:00.370",
+      "text": "Thank you again to staff and committee"
+    },
+    {
+      "index": 207,
+      "start": "00:23:00.370",
+      "end": "00:23:02.290",
+      "text": "for making this special meeting possible"
+    },
+    {
+      "index": 208,
+      "start": "00:23:02.290",
+      "end": "00:23:03.690",
+      "text": "to meet government deadlines,"
+    },
+    {
+      "index": 209,
+      "start": "00:23:03.690",
+      "end": "00:23:04.930",
+      "text": "and I wish you all a wonderful day."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Community%20and%20Protective%20Services%20Committee/2023/06-22/.transcript.srt"
+}

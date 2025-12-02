@@ -269,4 +269,35 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:34 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (27 minutes)</summary>
+
+**[19:51]** Good afternoon, everyone. We will get started with the fourth meeting of the Infrastructure and Corporate Services Committee. I'll start with the land acknowledgement. The city of London is situated on the traditional lands of the Anishinaabak, Haudenosaunee, Lenapawik, and Adawandran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, Métis and Inuit today as representatives of the people of the city of London. We are grateful to have the opportunity to work and live in this territory.
+
+**[20:25]** I am joined today in chambers with the Councillor Hopkins, Councillor Frank and myself, and online with Councillor Van Mirbergen. Hello, everyone, and I want to say thank you to our visiting Councillor today, Councillor McAllister, confusing me by sitting on the wrong side of the room, but that's okay, I'll get it right. We'll start off with item one, disclosure of pecuniary interest. The none. We'll move to our consent items. We have a number of items under consent. I have not received any requests to pull any as of yet, but please indicate if you'd like me to pull anything.
+
+**[21:02]** Seeing none, I'll look for a mover and a seconder on these items, and then we'll have discussion. Councillor Frank and Councillor Hopkins, thank you and anyone for discussion on these items. Councillor Hopkins, go ahead. Thank you, Madam Chair, and thanks to staff for the report. It's a lot of good news items here, getting rid of some surplus lands, as well as the appointment of consulting engineers for the Duluth Crescent subdivision.
+
+**[21:38]** Really pleased to see that come aboard and creating opportunities for affordable housing. I do have a question regarding the contract award for Innovation Industrial Parks subdivision. Now, we're spending lots of money on sewers and roads, and I just would like to have a better understanding on how that process looks like moving forward. Thank you, and I will go to Mr. McIntosh, thank you.
+
+**[22:13]** For the chair, thank you. So we've done the design and we're bringing on board approximately 200 acres of industrial land. So the intent is to approximately three subdivisions, or sorry, three parcels that can be subdivided if necessary, but the intent is for future industrial growth in that area of land, along with the rest of Innovation Park. Follow up, Councillor?
+
+**[22:46]** Yeah, thank you for that. I know we're providing services to this area to support subdivisions, and just was curious to know when this work will roll out. Mr. McIntosh? Thank you, through the chair. The intent is to start April 1 this year, and completion is spring 2026. Good to know that there will be services there for the developments that we need to move forward. So thank you for that. Thank you, any further questions?
+
+**[23:25]** Seeing none, I want to thank staff for the 2024 Drinking Water Report that was in front of us today. It was a really good summary, so thank you for that. As well as the rest of the information contained in the report, I did have one question if members of committee would indulge me with a question from the chair. It's related to item 2.7, and I'm just wondering when we do the lease of city owned farmland. I'm just wondering if we do a comparator to look at whether or not lease is the best option, or if a sale at the time is the best option. To do the chair, I'm not sure I'd quite understand your question, you're referring to the best option as far as the price, yes.
+
+**[24:05]** While we have qualified people on staff that do look at the market, we reach out to realtors and appraisers. We don't do individual appraisals of each of the parcel, but we do track the market and also follow it through the farm credit corporation, so we're sure that we're receiving good fair market value and good value for the city. Thank you, it's great to see farmed farmland in the city, so I appreciate that. Okay, with that, and not seeing any further questions, I'll look to call the vote.
+
+**[24:43]** I'll vote yes. Closing the vote, motion carries for us, y'all. Thank you, we had no scheduled items for direction or deferred matters additional business. We do have one added item for confidential today, and that's a solicitor client privilege advice, and I'm looking for a mover and seconder to move us in camera. Councilor Hopkins, Councilor Frank, and we'll open the vote. Oh yes.
+
+**[25:22]** Closing the vote, motion carries four to zero. Recording in progress. Okay, thank you everyone.
+
+**[26:47]** I'll look to Councilor Frank to report it, please. Thank you, and I'm pleased to share that progress has been made for the reason that we went in camera for. Thank you, we're onto item number seven, adjournment, and looking for a motion to adjourn. Thank you, Councillor Frank, Councillor Hopkins, and all in favor, by hand, we are adjourned.
+
+</details>

@@ -81,4 +81,39 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 11:39 AM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (31 minutes)</summary>
+
+**[23:23]** All right, everybody, I will be calling to order the sixth meeting of the Community and Protective Services Committee. This is a special meeting with one item on the agenda. Please check the City website for additional meeting detail information. The City of London is situated on the traditional lands of the Anishnabek, Haudenosaunee, Linda Peiwak, and Adawandran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The City of London is currently home to many First Nations, Métis, and Inuit today as representatives of the people of the City of London, we are grateful to have the opportunity to work and live in this territory.
+
+**[24:02]** City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact CPSC@london.ca or dial 519-661-2489 extension-2425. I am with committee members in chambers today. I have Councillor McAllister, Ward 1, to my right. I have Councillor Peter Petty, Ward 3, to my right. I have Councillor Jerry Perbal, Ward 5, to my right.
+
+**[24:39]** And Councillor Sam Traso, Ward 6, to my right. So I'll first be looking to committee for any disclosures of interest. I have none. Okay, one item on the consent. It's 2.1 regarding 736-773 Dundas Street. It's an approval of a contribution agreement with the London Cross Cultural Learner Center. So I will look to committee to move and second the motion. It's moved by Councillor Cuddy, seconded by Councillor McAllister. So looking to committee for a speaker's list. Councillor Traso.
+
+**[25:20]** If I could ask staff to the chair to explain to me in more detail in what I'm getting from this read, what is this money being diverted from? I get the sense in here that this is something that was going to go someplace else and now it's going to this. Could you help me with that? Thank you, Councillor. I will go to Mr. Felberg. Thank you through you, Mr. Chair. So back in September, we awarded an affordable housing project and property to Wastell developments to develop a block at the Duluth subdivision.
+
+**[25:57]** As part of that award, it included the Ontario Priorities and Housing Initiative, OPHI, OPHI dollars. And through the development process and through the planning process, what Wastell has established that the restrictions in the OPHI funding do not allow them to, from their perspective, be able to operate a viable performer into the long term for the project. So given that we have, there's a deadline for us to sign a contribution agreement with for the OPHI dollars, the date currently is March 28th.
+
+**[26:36]** So we need to sign and register it and find a partner. They didn't feel that they could advance the project effectively and be able to meet the 120 day timeline from the time that they sign the agreement. So this report before you today is transferring the funds from the Wastell project to another one of our roadmap projects, which is the Cross Cultural Learning Center. We feel that they've advanced enough in the planning process and they've come in through some of the development work with the site plan and building permit application. We feel that they will be able to succeed and meet that 120 day timeline.
+
+**[27:16]** Thank you. Thank you. And also through the chair. So what is the impact on the other program of this transfer? And could you, you said the name, but could you tell me the address and what the other one is about in a little more detail? Thank you, Councillor. Mr. Talbert. Through you, Mr. Chair. When you're talking about the other project, you mean the Wastell project, the location of it? Is that what you're referring to? So that's the former St. Robert schools, the Duluth subdivision.
+
+**[27:50]** We as the city purchase an old school site and we've gone through a subdivision approval process and we've established a number of lots and blocks that we will be making available for affordable housing. So block five is the property. It doesn't have a municipal address yet because we don't have a road at this point. When it does have a municipal address, it will be 260 unit buildings, of which Wastell's application had identified 50 affordable units in both buildings. That project is still going to move forward.
+
+**[28:26]** They're still going to be working towards getting financing from CMHC or some other entity. And they are still planning on progressing forward with that project, just not with the financial funding tied to it. Thank you, Mr. Robert. Councillor. Thank you. My final question to the chairs. My final comment is thank you. That's very helpful. I wanted to make sure that this wasn't a decision to shut something else down in order to proceed with this.
+
+**[28:57]** And I'm happy to hear that we're going to be pursuing the other one as well. So thank you very much for that. Councillor, I have Councillor Pribble next. Thank you, Mr. Chair, I really like this project that's a lot in front of us, but my question is, were there other considerations, potential of other projects, or was there potential to split this amount to the project to get us further and to get us more units? Thank you. Thank you, Councillor. Mr. Felberg. Through you, Mr. Chair.
+
+**[29:29]** Actually, absolutely. We took a look at three different projects when we were making the decision. But we did determine, though, that the complexity of finding three different partners to sign an agreement and register the funding on a property would become very challenging in the constrained timeline that we have. I think we have till Friday. So what we did, we took a look at some of the populations or the targeted populations under the National Housing Strategy and the Cross Cultural Learning Center. It only does it help revitalize a neighborhood in Old East Village, but it also is providing support to a number of the folks on the National Housing Strategy and a number of those targeted populations. Overall, it's also constructing 247 units total, and there are 75 of them are affordable, supporting seniors, newcomers, and refugees, which we think is a really good opportunity.
+
+**[30:24]** We do have other projects within the roadmap that we're supporting as well that we're considered, but this we felt was the best option. Thank you, Councillor. Thank you. Thank you for doing this and making sure that we don't lose these funds from higher levels of government. Thank you very much. Thank you, Councillor. All right. Looking to committee for a last call for any questions or comments. I see none. Okay. Let's call the question. Yes, closing the vote.
+
+**[31:04]** The motion carries five to zero. Okay, we have nothing for scheduled items, nothing for items for direction, nothing for deferred matters or additional business that leads us to adjournment. So looking for a motion to adjourn moved by Councillor McAllister, seconded by Councillor Pribble. This is a hand vote. All those in favor? All those opposed? We are adjourned. Thank you.
+
+</details>

@@ -168,4 +168,21 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:03 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (18 minutes)</summary>
+
+**[12:17]** Good afternoon. This is the 8th mean the Civic Works Committee held virtually during the COVID-19 emergency. The City of London is committed to making every effort to provide alternate formats of communication supports for council standing or advisory committee meetings and information upon request. To make requests for any city service please contact accessibility@london.ca or 519-661-2489 extension 2425. To make a request specific to this meeting please contact cwc@london.ca.
+
+**[15:14]** For everyone's information I have Councillor Fife Mallar in chambers with me today, Councillor Van Holst is absent and sent his regrets and Councillor Helmer and Councillor Van Merbergen is online. Looking to committee to see if there's any disclosures of preliminary interest then. Consistent items we have three items before us today as nothing has been added to our agenda. Looking to see if anyone would like anything pulled separate. Okay I would look for a mover and a seconder to move consent items 2.1 through to 2.3. Moved by Councillor Fife Mallar seconded by Councillor or Mayor Holder. Perfect. Looking for any questions or comments in regards to our consent agenda today. Noting that item 2.2 is a contract award and an increase in that one due to efficiencies that we can gain and work that needs to be done. Okay last call for anyone on the speakers list for all the consent items 2.1 through to 2.3. Okay calling the vote.
+
+**[16:29]** Councillor Van Merbergen would you like to vote? Yes I'll vote yes. Closing the vote the motion carries five to zero. Now where have any scheduled items or items for direction. Looking for any deferred matters questions or additional business committee members would like to bring up visiting Councillors or members of committee. Okay I need a motion to make to accept the deferred matters list moved by Councillor Halmer seconded by Councillor Fife Mallar calling the question. I'm in favor. Thank you. All vote yes. Thank you Councillor Van Merbergen. Closing the vote the motion carries five to zero. Well I think we've set a record looking for a motion to adjourn moved by Councillor Halmer seconded by Councillor Fife Mallar a hand vote or verbal vote of all in favor. Councillor Halmer that's yes Councillor Van Merbergen. I'm in favor yes. Motion carries.
+
+**[17:55]** Thank you everyone and I hope you have efficient day just like this meeting. Congratulations Chair. Couldn't do it without you. Wow.
+
+</details>

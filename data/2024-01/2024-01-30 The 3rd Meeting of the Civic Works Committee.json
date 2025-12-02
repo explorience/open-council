@@ -1,1 +1,4221 @@
-{"title": "The 3rd Meeting of the Civic Works Committee", "datetime": "2024-01-30 09:30:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b20c72b9-09c4-4c7c-9cba-b916778e6935&Agenda=PostMinutes&lang=English", "meeting_type": "Civic Works Committee", "bills": null, "present": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"], "also_present": ["S. Stevenson", "S. Chambers", "G. Dales", "J. Dann", "A. Job", "D. MacRae", "A. Rammeloo", "A. Rozentals", "K. Scherr", "A. Spahiu", "J. Stanford", "J. Trela", "J. Bunn  \n\n\n\nM. Butlin", "E. Hunt", "E. Skalski\n\n\n\nThe meeting was called to order at 9:30 AM", "it being noted that  D. Ferreira", "S. Franke were in remote attendance."], "remote_attendance": [], "content": {"__class__": "Content"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "2nd Report of the Integrated Transportation Community Advisory Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "The following actions be taken with respect to the Integrated Transportation Community Advisory Committee (ITCAC), from the meeting held on January 17, 2024:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the Civic Administration BE REQUESTED to attend a future meeting of the ITCAC to present options for Thames Valley Parkway detours during the upcoming Greenway Wastewater Treatment Plant Flood Protection Project; and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0 clauses 1.1, 2.1, 2.2, 3.1 and 3.3 and 4.1 BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-17 ITCAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106562", "date": "2024-01-17 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "2023 External Audit of London\u2019s Drinking Water Quality Management System and 2022 Management Review", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the staff report, dated January 30, 2024, with respect to the 2023 External Audit of London\u2019s Drinking Water Quality Management System and 2022 Management Review, BE RECEIVED. (2024-E13)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-30 SR 2023 External Audit of London", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106563", "date": "2024-01-30 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "RFP 2023-189 Large Diameter Watermain Inspection ", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to RFP 2023-189 Large Diameter Watermain Inspection:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0GHD Limited BE APPOINTED to conduct consulting engineer services in the amount of $1,275,707.94 including contingency (excluding HST), in accordance with Section 12.2(b) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for the project BE APPROVED in accordance with the \u201cSources of Financing Report\u201d, as appended to the above-noted staff report;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the approvals given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and,", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-E13)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-30 SR Large Diameter Watermain Inspection - RFP 2023-189 - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106564", "date": "2024-01-30 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Contract Award - Tender No. RFT-2023-241 - East London Link and Municipal Infrastructure Improvements Phase 3C - Highbury Avenue", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-241 for the East London Link and Municipal Infrastructure Improvements Phase 3C Highbury Avenue:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the bid submitted by Bre-ex Construction Inc. at its tendered price of $28,487,258.16 (excluding HST), for the East London Link and Municipal Infrastructure Improvements Phase 3C project, BE ACCEPTED; it being noted that the bid submitted by Bre-ex Construction Inc. was the lowest of six bids received and meets the City's specifications and requirements in all areas;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0Dillon Consulting Limited BE AUTHORIZED to carry out the resident inspection and contract administration for the said project in accordance with the estimate, on file, at an upset amount of $2,253,446.80 (excluding HST), in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project as it relates to interaction with Canadian Pacific and Kansas City Southern (CPCK) Railway;", "__class__": "Paragraph"}, {"string": "f) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to approve Memorandums of Understanding between the Corporation of the City of London and public utilities and private service owners in relation to the cost-sharing of servicing works contained within the East London Link and Municipal Infrastructure Improvements Phase 3C project contract;", "__class__": "Paragraph"}, {"string": "g) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (Tender RFT-2023-241); and,", "__class__": "Paragraph"}, {"string": "h) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-L04)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-30 SR Contract Award - East London Link - Phase 3C - Highbury Ave - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106566", "date": "2024-01-30 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Contract Award - Tender No. RFT-2022-314 - Rapid Transit Implementation - Clarks Bridge and Wellington Road from Thames River to Watson Street", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2022-314 for Rapid Transit Implementation at Clarks Bridge and Wellington Road from the Thames River to Watson Street:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the bid submitted by Bre-Ex Construction Inc, at its tendered price of $18,297,251.48 (excluding HST), for the Rapid Transit Implementation, Clarks Bridge and Wellington Road from Thames River to Watson Street project, BE ACCEPTED; it being noted that the bid submitted by Bre-Ex Construction Inc was the lowest of three (3) bids received and meets the City's specifications and requirements in all areas;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0AECOM Canada Ltd. BE AUTHORIZED to carry out the resident inspection and contract administration for the said project in accordance with the estimate, on file, at an upset amount of $1,899,245 (excluding HST), in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the \u201cSources of Financing Report\u201d, as appended to the above-noted staff report;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to approve Memorandums of Understanding between the Corporation of the City of London and public utilities and private service owners in relation to the cost-sharing of servicing works contained within the Rapid Transit Implementation \u2013 Clarks Bridge and Wellington Road from Thames River to Watson Street project contract;", "__class__": "Paragraph"}, {"string": "f) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (Tender RFT-2022-314); and,", "__class__": "Paragraph"}, {"string": "g) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-T03)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-30 SR Rapid Transit - Clarks Bridge and Wellington Road RFT-2022-314 - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106567", "date": "2024-01-30 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Professional Consulting over $100k: Highway 401 and Wellington Road/Highbury Avenue Area Traffic Study ", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to Professional Consulting over $100k for the Highway 401 and Wellington Road/Highbury Avenue Area Traffic Study:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the contract with WSP E&I Canada Limited BE INCREASED by $31,948, to a total amended value of $122,438 (excluding HST), to allow for completion of additional traffic study activities, in accordance with Section 15.1 c) of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this contract amendment BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract amendment; and,", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-T08)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-30 SR Highway 401 and Wellington Highbury Area Traffic Study - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106568", "date": "2024-01-30 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Trosow", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the bid submitted by Bre-Ex Construction Inc., at its tendered price of $9,277,302.47 (excluding HST), for the East London Link Phase 3A West project, BE ACCEPTED; it being noted that the bid submitted by Bre-Ex Construction Inc. was the lowest of five (5) bids received and meets the City's specifications and requirements in all areas;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0Dillon Consulting Limited BE AUTHORIZED to carry out the resident inspection and contract administration for the said project in accordance with the estimate, on file, at an upset amount of $1,244,545.50 (excluding HST), in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project, as it relates to interaction with Canadian National Railway (CNR);", "__class__": "Paragraph"}, {"string": "f) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to approve Memorandums of Understanding between The Corporation of the City of London and public utilities and private service owners in relation to the cost-sharing of servicing works contained within the East London Link and Municipal Infrastructure Improvements Phase 3A project contract;", "__class__": "Paragraph"}, {"string": "g) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (Tender RFT-2023-264); and,", "__class__": "Paragraph"}, {"string": "h) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-L04)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-30 SR Contract Award - East London Link 3A West - Dundas Street - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106565", "date": "2024-01-30 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-01-30 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [], "items": {"1": {"title": "Jenkens Municipal Drain Improvements", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to the Jenkens Municipal Drain Improvements:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the drainage report, as appended to the above-noted staff report, prepared by Spriet Associates London Ltd, Consulting Engineers, for the for the construction of the Jenkens Municipal Drain (2023) BE ADOPTED; it being noted the notice of the public meeting was provided in accordance with the provisions of Section 41 of the Drainage Act; and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at this meeting and BE GIVEN two readings at the February 13, 2024 Council meeting to authorize the construction of the Jenkens Municipal Drain 2023 project; it being noted that the third reading of the by-law for enactment would occur at the Council meeting after holding of the Court of Revision in connection with the project. (2024-E09)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Additional Votes:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to open the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Trosow", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to close the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-01-30 SR Jenkens Municipal Drain Improvements - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106569", "date": "2024-01-30 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-01-30 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"string": "The meeting adjourned at 9:58 AM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-01-30 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "The 3rd Meeting of the Civic Works Committee",
+  "datetime": "2024-01-30 09:30:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b20c72b9-09c4-4c7c-9cba-b916778e6935&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Civic Works Committee",
+  "bills": null,
+  "present": [
+    "A. Hopkins",
+    "J. Pribil",
+    "S. Trosow",
+    "S. Franke",
+    "D. Ferreira"
+  ],
+  "also_present": [
+    "S. Stevenson",
+    "S. Chambers",
+    "G. Dales",
+    "J. Dann",
+    "A. Job",
+    "D. MacRae",
+    "A. Rammeloo",
+    "A. Rozentals",
+    "K. Scherr",
+    "A. Spahiu",
+    "J. Stanford",
+    "J. Trela",
+    "J. Bunn  \n\n\n\nM. Butlin",
+    "E. Hunt",
+    "E. Skalski\n\n\n\nThe meeting was called to order at 9:30 AM",
+    "it being noted that  D. Ferreira",
+    "S. Franke were in remote attendance."
+  ],
+  "remote_attendance": [],
+  "content": {
+    "__class__": "Content"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-30 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Franke",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "A. Hopkins",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "2nd Report of the Integrated Transportation Community Advisory Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "The following actions be taken with respect to the Integrated Transportation Community Advisory Committee (ITCAC), from the meeting held on January 17, 2024:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the Civic Administration BE REQUESTED to attend a future meeting of the ITCAC to present options for Thames Valley Parkway detours during the upcoming Greenway Wastewater Treatment Plant Flood Protection Project; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0 clauses 1.1, 2.1, 2.2, 3.1 and 3.3 and 4.1 BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-17 ITCAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106562",
+              "date": "2024-01-17 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "2023 External Audit of London\u2019s Drinking Water Quality Management System and 2022 Management Review",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the staff report, dated January 30, 2024, with respect to the 2023 External Audit of London\u2019s Drinking Water Quality Management System and 2022 Management Review, BE RECEIVED. (2024-E13)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-30 SR 2023 External Audit of London",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106563",
+              "date": "2024-01-30 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "RFP 2023-189 Large Diameter Watermain Inspection ",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to RFP 2023-189 Large Diameter Watermain Inspection:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0GHD Limited BE APPOINTED to conduct consulting engineer services in the amount of $1,275,707.94 including contingency (excluding HST), in accordance with Section 12.2(b) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for the project BE APPROVED in accordance with the \u201cSources of Financing Report\u201d, as appended to the above-noted staff report;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the approvals given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-E13)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-30 SR Large Diameter Watermain Inspection - RFP 2023-189 - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106564",
+              "date": "2024-01-30 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Contract Award - Tender No. RFT-2023-241 - East London Link and Municipal Infrastructure Improvements Phase 3C - Highbury Avenue",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-241 for the East London Link and Municipal Infrastructure Improvements Phase 3C Highbury Avenue:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the bid submitted by Bre-ex Construction Inc. at its tendered price of $28,487,258.16 (excluding HST), for the East London Link and Municipal Infrastructure Improvements Phase 3C project, BE ACCEPTED; it being noted that the bid submitted by Bre-ex Construction Inc. was the lowest of six bids received and meets the City's specifications and requirements in all areas;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0Dillon Consulting Limited BE AUTHORIZED to carry out the resident inspection and contract administration for the said project in accordance with the estimate, on file, at an upset amount of $2,253,446.80 (excluding HST), in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project as it relates to interaction with Canadian Pacific and Kansas City Southern (CPCK) Railway;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "f) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to approve Memorandums of Understanding between the Corporation of the City of London and public utilities and private service owners in relation to the cost-sharing of servicing works contained within the East London Link and Municipal Infrastructure Improvements Phase 3C project contract;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "g) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (Tender RFT-2023-241); and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "h) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-L04)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-30 SR Contract Award - East London Link - Phase 3C - Highbury Ave - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106566",
+              "date": "2024-01-30 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "Contract Award - Tender No. RFT-2022-314 - Rapid Transit Implementation - Clarks Bridge and Wellington Road from Thames River to Watson Street",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2022-314 for Rapid Transit Implementation at Clarks Bridge and Wellington Road from the Thames River to Watson Street:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the bid submitted by Bre-Ex Construction Inc, at its tendered price of $18,297,251.48 (excluding HST), for the Rapid Transit Implementation, Clarks Bridge and Wellington Road from Thames River to Watson Street project, BE ACCEPTED; it being noted that the bid submitted by Bre-Ex Construction Inc was the lowest of three (3) bids received and meets the City's specifications and requirements in all areas;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0AECOM Canada Ltd. BE AUTHORIZED to carry out the resident inspection and contract administration for the said project in accordance with the estimate, on file, at an upset amount of $1,899,245 (excluding HST), in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the \u201cSources of Financing Report\u201d, as appended to the above-noted staff report;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to approve Memorandums of Understanding between the Corporation of the City of London and public utilities and private service owners in relation to the cost-sharing of servicing works contained within the Rapid Transit Implementation \u2013 Clarks Bridge and Wellington Road from Thames River to Watson Street project contract;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "f) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (Tender RFT-2022-314); and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "g) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-T03)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-30 SR Rapid Transit - Clarks Bridge and Wellington Road RFT-2022-314 - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106567",
+              "date": "2024-01-30 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "Professional Consulting over $100k: Highway 401 and Wellington Road/Highbury Avenue Area Traffic Study ",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to Professional Consulting over $100k for the Highway 401 and Wellington Road/Highbury Avenue Area Traffic Study:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the contract with WSP E&I Canada Limited BE INCREASED by $31,948, to a total amended value of $122,438 (excluding HST), to allow for completion of additional traffic study activities, in accordance with Section 15.1 c) of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this contract amendment BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract amendment; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-T08)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-30 SR Highway 401 and Wellington Highbury Area Traffic Study - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106568",
+              "date": "2024-01-30 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Trosow",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the bid submitted by Bre-Ex Construction Inc., at its tendered price of $9,277,302.47 (excluding HST), for the East London Link Phase 3A West project, BE ACCEPTED; it being noted that the bid submitted by Bre-Ex Construction Inc. was the lowest of five (5) bids received and meets the City's specifications and requirements in all areas;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0Dillon Consulting Limited BE AUTHORIZED to carry out the resident inspection and contract administration for the said project in accordance with the estimate, on file, at an upset amount of $1,244,545.50 (excluding HST), in accordance with Section 15.2 (g) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project, as it relates to interaction with Canadian National Railway (CNR);",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "f) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to approve Memorandums of Understanding between The Corporation of the City of London and public utilities and private service owners in relation to the cost-sharing of servicing works contained within the East London Link and Municipal Infrastructure Improvements Phase 3A project contract;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "g) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (Tender RFT-2023-264); and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "h) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-L04)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "A. Hopkins",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-30 SR Contract Award - East London Link 3A West - Dundas Street - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106565",
+              "date": "2024-01-30 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-01-30 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Jenkens Municipal Drain Improvements",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to the Jenkens Municipal Drain Improvements:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the drainage report, as appended to the above-noted staff report, prepared by Spriet Associates London Ltd, Consulting Engineers, for the for the construction of the Jenkens Municipal Drain (2023) BE ADOPTED; it being noted the notice of the public meeting was provided in accordance with the provisions of Section 41 of the Drainage Act; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at this meeting and BE GIVEN two readings at the February 13, 2024 Council meeting to authorize the construction of the Jenkens Municipal Drain 2023 project; it being noted that the third reading of the by-law for enactment would occur at the Council meeting after holding of the Court of Revision in connection with the project. (2024-E09)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "A. Hopkins",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Additional Votes:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Pribil",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to open the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "A. Hopkins",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Trosow",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to close the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "A. Hopkins",
+                      "J. Pribil",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-01-30 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-01-30 SR Jenkens Municipal Drain Improvements - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106569",
+              "date": "2024-01-30 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-01-30 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-30 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-30 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "string": "The meeting adjourned at 9:58 AM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-01-30 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:12:59.520",
+      "end": "00:13:02.110",
+      "text": "Good morning, everyone."
+    },
+    {
+      "index": 2,
+      "start": "00:13:02.110",
+      "end": "00:13:05.730",
+      "text": "And welcome to the third meeting of Civic Works Committee."
+    },
+    {
+      "index": 3,
+      "start": "00:13:05.730",
+      "end": "00:13:07.080",
+      "text": "Please check the city website"
+    },
+    {
+      "index": 4,
+      "start": "00:13:07.080",
+      "end": "00:13:09.890",
+      "text": "for additional meeting detail information."
+    },
+    {
+      "index": 5,
+      "start": "00:13:09.890",
+      "end": "00:13:13.140",
+      "text": "Meetings can be viewed via live streaming"
+    },
+    {
+      "index": 6,
+      "start": "00:13:13.140",
+      "end": "00:13:17.030",
+      "text": "on YouTube and the city website."
+    },
+    {
+      "index": 7,
+      "start": "00:13:17.030",
+      "end": "00:13:18.650",
+      "text": "The city of London is situated"
+    },
+    {
+      "index": 8,
+      "start": "00:13:18.650",
+      "end": "00:13:21.730",
+      "text": "on the traditional lands of this Anishnabek,"
+    },
+    {
+      "index": 9,
+      "start": "00:13:21.730",
+      "end": "00:13:24.590",
+      "text": "the Haudenosaunee at the Atlanta Paywalk"
+    },
+    {
+      "index": 10,
+      "start": "00:13:24.590",
+      "end": "00:13:26.410",
+      "text": "and the Adam Wandren."
+    },
+    {
+      "index": 11,
+      "start": "00:13:26.410",
+      "end": "00:13:29.660",
+      "text": "We honor and respect the history, languages,"
+    },
+    {
+      "index": 12,
+      "start": "00:13:29.660",
+      "end": "00:13:32.700",
+      "text": "and culture of the diverse indigenous people"
+    },
+    {
+      "index": 13,
+      "start": "00:13:32.700",
+      "end": "00:13:35.520",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 14,
+      "start": "00:13:35.520",
+      "end": "00:13:37.560",
+      "text": "The city of London is currently home"
+    },
+    {
+      "index": 15,
+      "start": "00:13:37.560",
+      "end": "00:13:41.630",
+      "text": "to many First Nations, M\u00e9tis, Inuit,"
+    },
+    {
+      "index": 16,
+      "start": "00:13:41.630",
+      "end": "00:13:46.600",
+      "text": "and today as representatives of the people of the city of London,"
+    },
+    {
+      "index": 17,
+      "start": "00:13:46.600",
+      "end": "00:13:49.320",
+      "text": "we are grateful to have the opportunity to work"
+    },
+    {
+      "index": 18,
+      "start": "00:13:49.320",
+      "end": "00:13:51.990",
+      "text": "and live in this territory."
+    },
+    {
+      "index": 19,
+      "start": "00:13:51.990",
+      "end": "00:13:55.430",
+      "text": "We are joined virtually in line"
+    },
+    {
+      "index": 20,
+      "start": "00:13:55.430",
+      "end": "00:13:57.680",
+      "text": "by two of our committee members,"
+    },
+    {
+      "index": 21,
+      "start": "00:13:57.680",
+      "end": "00:14:03.000",
+      "text": "Councillor Frank and Councillor Ferrera, good morning."
+    },
+    {
+      "index": 22,
+      "start": "00:14:03.000",
+      "end": "00:14:05.290",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 23,
+      "start": "00:14:05.290",
+      "end": "00:14:08.770",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 24,
+      "start": "00:14:08.770",
+      "end": "00:14:10.910",
+      "text": "for meetings upon request."
+    },
+    {
+      "index": 25,
+      "start": "00:14:10.910",
+      "end": "00:14:13.500",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 26,
+      "start": "00:14:13.500",
+      "end": "00:14:18.630",
+      "text": "please contact CWC at London.ca or 519-661-2489,"
+    },
+    {
+      "index": 27,
+      "start": "00:14:18.630",
+      "end": "00:14:25.750",
+      "text": "extension 2425."
+    },
+    {
+      "index": 28,
+      "start": "00:14:25.750",
+      "end": "00:14:33.740",
+      "text": "Moving on to any disclosures of pecuniary interest."
+    },
+    {
+      "index": 29,
+      "start": "00:14:33.740",
+      "end": "00:14:39.300",
+      "text": "Seeing none, moving on to consent item number two."
+    },
+    {
+      "index": 30,
+      "start": "00:14:39.300",
+      "end": "00:14:50.500",
+      "text": "I have been advised to pull 2.4."
+    },
+    {
+      "index": 31,
+      "start": "00:14:50.500",
+      "end": "00:14:55.780",
+      "text": "The no other committee members wanting to pull anything."
+    },
+    {
+      "index": 32,
+      "start": "00:14:55.780",
+      "end": "00:15:00.020",
+      "text": "Therefore, I would like to look for a motion"
+    },
+    {
+      "index": 33,
+      "start": "00:15:00.020",
+      "end": "00:15:06.170",
+      "text": "to put forward 2.1, 2.2, 2.3, 2.5, 2.6, and 2.7 on the floor."
+    },
+    {
+      "index": 34,
+      "start": "00:15:09.690",
+      "end": "00:15:15.030",
+      "text": "Motion by Councillor Frank, seconded by Councillor Ferrera."
+    },
+    {
+      "index": 35,
+      "start": "00:15:15.030",
+      "end": "00:15:20.780",
+      "text": "Questions, comments from the committee?"
+    },
+    {
+      "index": 36,
+      "start": "00:15:20.780",
+      "end": "00:15:22.890",
+      "text": "Councillor Pribble."
+    },
+    {
+      "index": 37,
+      "start": "00:15:22.890",
+      "end": "00:15:25.600",
+      "text": "Thank you, Mr. Chair, to the staff, the 2.2,"
+    },
+    {
+      "index": 38,
+      "start": "00:15:25.600",
+      "end": "00:15:28.300",
+      "text": "which is the audit."
+    },
+    {
+      "index": 39,
+      "start": "00:15:28.300",
+      "end": "00:15:30.050",
+      "text": "I just had a question there."
+    },
+    {
+      "index": 40,
+      "start": "00:15:30.050",
+      "end": "00:15:34.140",
+      "text": "There are six items, action items identified."
+    },
+    {
+      "index": 41,
+      "start": "00:15:34.140",
+      "end": "00:15:35.890",
+      "text": "If you are planning to go with some of them,"
+    },
+    {
+      "index": 42,
+      "start": "00:15:35.890",
+      "end": "00:15:37.040",
+      "text": "with all of them ahead,"
+    },
+    {
+      "index": 43,
+      "start": "00:15:37.040",
+      "end": "00:15:41.380",
+      "text": "and in terms of if the items that we will be going ahead,"
+    },
+    {
+      "index": 44,
+      "start": "00:15:41.380",
+      "end": "00:15:42.760",
+      "text": "if they are budgeted,"
+    },
+    {
+      "index": 45,
+      "start": "00:15:42.760",
+      "end": "00:15:44.980",
+      "text": "or we put in the forecast update,"
+    },
+    {
+      "index": 46,
+      "start": "00:15:44.980",
+      "end": "00:15:46.440",
+      "text": "if you could give me this information."
+    },
+    {
+      "index": 47,
+      "start": "00:15:46.440",
+      "end": "00:15:50.130",
+      "text": "Thank you."
+    },
+    {
+      "index": 48,
+      "start": "00:15:50.130",
+      "end": "00:15:51.590",
+      "text": "Good stuff."
+    },
+    {
+      "index": 49,
+      "start": "00:15:51.590",
+      "end": "00:15:56.690",
+      "text": "Was that just a comment?"
+    },
+    {
+      "index": 50,
+      "start": "00:15:56.690",
+      "end": "00:15:57.610",
+      "text": "Yes, thank you through the chair."
+    },
+    {
+      "index": 51,
+      "start": "00:15:57.610",
+      "end": "00:16:00.040",
+      "text": "So yes, these are items that staff have identified"
+    },
+    {
+      "index": 52,
+      "start": "00:16:00.040",
+      "end": "00:16:03.890",
+      "text": "for action and have been are either in current work plans,"
+    },
+    {
+      "index": 53,
+      "start": "00:16:03.890",
+      "end": "00:16:04.810",
+      "text": "budgets, et cetera."
+    },
+    {
+      "index": 54,
+      "start": "00:16:04.810",
+      "end": "00:16:07.630",
+      "text": "Some of these have already been undertaken,"
+    },
+    {
+      "index": 55,
+      "start": "00:16:07.630",
+      "end": "00:16:11.290",
+      "text": "such as replacing the three leaking pressure relief valves."
+    },
+    {
+      "index": 56,
+      "start": "00:16:11.290",
+      "end": "00:16:13.200",
+      "text": "So we have tenders out for that work,"
+    },
+    {
+      "index": 57,
+      "start": "00:16:13.200",
+      "end": "00:16:17.610",
+      "text": "and these things are underway, so."
+    },
+    {
+      "index": 58,
+      "start": "00:16:17.610",
+      "end": "00:16:22.070",
+      "text": "And when these points arise from any audits,"
+    },
+    {
+      "index": 59,
+      "start": "00:16:22.070",
+      "end": "00:16:24.170",
+      "text": "do we, are they kind of budgeted,"
+    },
+    {
+      "index": 60,
+      "start": "00:16:24.170",
+      "end": "00:16:27.690",
+      "text": "or is there a reserved fund to do such items,"
+    },
+    {
+      "index": 61,
+      "start": "00:16:27.690",
+      "end": "00:16:29.310",
+      "text": "or how does it reflect?"
+    },
+    {
+      "index": 62,
+      "start": "00:16:29.310",
+      "end": "00:16:33.470",
+      "text": "How do we plan with these items?"
+    },
+    {
+      "index": 63,
+      "start": "00:16:33.470",
+      "end": "00:16:34.300",
+      "text": "Through the chair."
+    },
+    {
+      "index": 64,
+      "start": "00:16:34.300",
+      "end": "00:16:36.160",
+      "text": "So that really depends on the nature of the item,"
+    },
+    {
+      "index": 65,
+      "start": "00:16:36.160",
+      "end": "00:16:37.550",
+      "text": "I suppose, and the timing of it."
+    },
+    {
+      "index": 66,
+      "start": "00:16:37.550",
+      "end": "00:16:40.160",
+      "text": "Oftentimes these are items that we're aware of"
+    },
+    {
+      "index": 67,
+      "start": "00:16:40.160",
+      "end": "00:16:40.990",
+      "text": "that are coming up."
+    },
+    {
+      "index": 68,
+      "start": "00:16:40.990",
+      "end": "00:16:45.160",
+      "text": "So we've, they're included in sort of maintenance budgets,"
+    },
+    {
+      "index": 69,
+      "start": "00:16:45.160",
+      "end": "00:16:47.350",
+      "text": "or ongoing operational budgets."
+    },
+    {
+      "index": 70,
+      "start": "00:16:47.350",
+      "end": "00:16:49.460",
+      "text": "So we can typically include those there."
+    },
+    {
+      "index": 71,
+      "start": "00:16:49.460",
+      "end": "00:16:51.690",
+      "text": "If something came up that was larger,"
+    },
+    {
+      "index": 72,
+      "start": "00:16:51.690",
+      "end": "00:16:53.870",
+      "text": "that required, you know, a larger capital budget,"
+    },
+    {
+      "index": 73,
+      "start": "00:16:53.870",
+      "end": "00:16:55.110",
+      "text": "and we would have to reevaluate."
+    },
+    {
+      "index": 74,
+      "start": "00:16:55.110",
+      "end": "00:16:57.890",
+      "text": "But oftentimes these are of an operational nature"
+    },
+    {
+      "index": 75,
+      "start": "00:16:57.890",
+      "end": "00:16:59.840",
+      "text": "that we can absorb, and are sometimes even doing"
+    },
+    {
+      "index": 76,
+      "start": "00:16:59.840",
+      "end": "00:17:04.820",
+      "text": "with our own forces."
+    },
+    {
+      "index": 77,
+      "start": "00:17:04.820",
+      "end": "00:17:07.740",
+      "text": "So do we, you answered, I would imagine these are"
+    },
+    {
+      "index": 78,
+      "start": "00:17:07.740",
+      "end": "00:17:10.110",
+      "text": "in the amounts that we can fit it into the operational"
+    },
+    {
+      "index": 79,
+      "start": "00:17:10.110",
+      "end": "00:17:13.520",
+      "text": "budgets that are currently in place, correct?"
+    },
+    {
+      "index": 80,
+      "start": "00:17:13.520",
+      "end": "00:17:16.700",
+      "text": "Yes, through the chair, that's correct."
+    },
+    {
+      "index": 81,
+      "start": "00:17:16.700",
+      "end": "00:17:17.500",
+      "text": "Thank you, Kelly."
+    },
+    {
+      "index": 82,
+      "start": "00:17:17.500",
+      "end": "00:17:20.900",
+      "text": "Thank you, no more questions, thank you."
+    },
+    {
+      "index": 83,
+      "start": "00:17:20.900",
+      "end": "00:17:23.410",
+      "text": "Yeah, the questions, comments from committee members,"
+    },
+    {
+      "index": 84,
+      "start": "00:17:23.410",
+      "end": "00:17:30.550",
+      "text": "and the consent items that we have on the floor."
+    },
+    {
+      "index": 85,
+      "start": "00:17:30.550",
+      "end": "00:17:32.940",
+      "text": "I see none, if the committee will allow me,"
+    },
+    {
+      "index": 86,
+      "start": "00:17:32.940",
+      "end": "00:17:36.490",
+      "text": "just to make a couple comments from the chair."
+    },
+    {
+      "index": 87,
+      "start": "00:17:36.490",
+      "end": "00:17:39.510",
+      "text": "I just wanna follow up on 2.2, the audit,"
+    },
+    {
+      "index": 88,
+      "start": "00:17:39.510",
+      "end": "00:17:43.060",
+      "text": "and really pleased to see no incidents"
+    },
+    {
+      "index": 89,
+      "start": "00:17:43.060",
+      "end": "00:17:45.090",
+      "text": "of non-compliance were identified."
+    },
+    {
+      "index": 90,
+      "start": "00:17:45.090",
+      "end": "00:17:50.060",
+      "text": "Congrats again on another annual report that is 100%."
+    },
+    {
+      "index": 91,
+      "start": "00:17:50.060",
+      "end": "00:17:52.420",
+      "text": "So thank you for that."
+    },
+    {
+      "index": 92,
+      "start": "00:17:52.420",
+      "end": "00:17:57.350",
+      "text": "And 2.3, large diameter water main inspection coming forward."
+    },
+    {
+      "index": 93,
+      "start": "00:17:57.350",
+      "end": "00:18:01.750",
+      "text": "Just wanted to make, I guess, the community aware"
+    },
+    {
+      "index": 94,
+      "start": "00:18:01.750",
+      "end": "00:18:06.490",
+      "text": "there's really no interruptions or disruptions"
+    },
+    {
+      "index": 95,
+      "start": "00:18:06.490",
+      "end": "00:18:09.560",
+      "text": "when these inspections take place,"
+    },
+    {
+      "index": 96,
+      "start": "00:18:09.560",
+      "end": "00:18:14.140",
+      "text": "so much needed work that needs to be done"
+    },
+    {
+      "index": 97,
+      "start": "00:18:14.140",
+      "end": "00:18:16.280",
+      "text": "though in these communities."
+    },
+    {
+      "index": 98,
+      "start": "00:18:16.280",
+      "end": "00:18:21.210",
+      "text": "And with that, I would like to go to our visiting counselor,"
+    },
+    {
+      "index": 99,
+      "start": "00:18:21.210",
+      "end": "00:18:23.070",
+      "text": "Councilor Stevenson."
+    },
+    {
+      "index": 100,
+      "start": "00:18:23.070",
+      "end": "00:18:25.100",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 101,
+      "start": "00:18:25.100",
+      "end": "00:18:28.770",
+      "text": "I just had a couple of questions on the BRT Eastlink."
+    },
+    {
+      "index": 102,
+      "start": "00:18:28.770",
+      "end": "00:18:33.870",
+      "text": "So on page 31, it talks about station operations,"
+    },
+    {
+      "index": 103,
+      "start": "00:18:34.790",
+      "end": "00:18:38.450",
+      "text": "the maintenance of four new rapid transit median stations"
+    },
+    {
+      "index": 104,
+      "start": "00:18:38.450",
+      "end": "00:18:40.590",
+      "text": "at 192,000."
+    },
+    {
+      "index": 105,
+      "start": "00:18:40.590",
+      "end": "00:18:44.050",
+      "text": "I noticed it's on the other section of the Eastlink as well."
+    },
+    {
+      "index": 106,
+      "start": "00:18:44.050",
+      "end": "00:18:47.000",
+      "text": "So it works out to about 50,000 per station."
+    },
+    {
+      "index": 107,
+      "start": "00:18:47.000",
+      "end": "00:18:50.120",
+      "text": "I just wondered if you could explain what that might involve,"
+    },
+    {
+      "index": 108,
+      "start": "00:18:50.120",
+      "end": "00:18:54.170",
+      "text": "and is that similar to our other bus shelters,"
+    },
+    {
+      "index": 109,
+      "start": "00:18:54.170",
+      "end": "00:19:00.000",
+      "text": "how it differs, and when those costs might start?"
+    },
+    {
+      "index": 110,
+      "start": "00:19:00.000",
+      "end": "00:19:01.390",
+      "text": "Yes, through the chair."
+    },
+    {
+      "index": 111,
+      "start": "00:19:01.390",
+      "end": "00:19:04.060",
+      "text": "So the stations for rapid transit are enhanced stations."
+    },
+    {
+      "index": 112,
+      "start": "00:19:04.060",
+      "end": "00:19:05.250",
+      "text": "They include a number of elements"
+    },
+    {
+      "index": 113,
+      "start": "00:19:05.250",
+      "end": "00:19:09.040",
+      "text": "that you wouldn't see in a typical local transit stop."
+    },
+    {
+      "index": 114,
+      "start": "00:19:09.040",
+      "end": "00:19:10.390",
+      "text": "They're also considerably larger."
+    },
+    {
+      "index": 115,
+      "start": "00:19:10.390",
+      "end": "00:19:13.940",
+      "text": "So we've got quite a bit of glass area to be able to maintain."
+    },
+    {
+      "index": 116,
+      "start": "00:19:13.940",
+      "end": "00:19:16.170",
+      "text": "We know that we do see some damage of that."
+    },
+    {
+      "index": 117,
+      "start": "00:19:16.170",
+      "end": "00:19:18.160",
+      "text": "These also will have security cameras"
+    },
+    {
+      "index": 118,
+      "start": "00:19:18.160",
+      "end": "00:19:19.840",
+      "text": "and other elements that need to be maintained."
+    },
+    {
+      "index": 119,
+      "start": "00:19:19.840",
+      "end": "00:19:22.900",
+      "text": "So they will be more involved than a much more involved"
+    },
+    {
+      "index": 120,
+      "start": "00:19:22.900",
+      "end": "00:19:28.130",
+      "text": "than a typical local bus station."
+    },
+    {
+      "index": 121,
+      "start": "00:19:28.130",
+      "end": "00:19:28.970",
+      "text": "Councilor?"
+    },
+    {
+      "index": 122,
+      "start": "00:19:28.970",
+      "end": "00:19:29.800",
+      "text": "Thank you."
+    },
+    {
+      "index": 123,
+      "start": "00:19:29.800",
+      "end": "00:19:32.690",
+      "text": "And when I took a quick look here,"
+    },
+    {
+      "index": 124,
+      "start": "00:19:32.690",
+      "end": "00:19:34.550",
+      "text": "let me just make sure I saw it correctly."
+    },
+    {
+      "index": 125,
+      "start": "00:19:34.550",
+      "end": "00:19:41.230",
+      "text": "I didn't see those costs for the Wellington portion."
+    },
+    {
+      "index": 126,
+      "start": "00:19:41.230",
+      "end": "00:19:42.070",
+      "text": "Yes, through the chair,"
+    },
+    {
+      "index": 127,
+      "start": "00:19:42.070",
+      "end": "00:19:43.770",
+      "text": "the Wellington Clark's bridge contract"
+    },
+    {
+      "index": 128,
+      "start": "00:19:43.770",
+      "end": "00:19:45.190",
+      "text": "includes the widening of the bridge"
+    },
+    {
+      "index": 129,
+      "start": "00:19:45.190",
+      "end": "00:19:47.810",
+      "text": "and extending civil roadworks as far as Watson Street."
+    },
+    {
+      "index": 130,
+      "start": "00:19:47.810",
+      "end": "00:19:49.310",
+      "text": "There isn't a shelter within that stretch"
+    },
+    {
+      "index": 131,
+      "start": "00:19:49.310",
+      "end": "00:19:54.440",
+      "text": "of the Wellington Gateway corridor."
+    },
+    {
+      "index": 132,
+      "start": "00:19:54.440",
+      "end": "00:19:55.980",
+      "text": "Just a final follow-up there then."
+    },
+    {
+      "index": 133,
+      "start": "00:19:55.980",
+      "end": "00:19:59.690",
+      "text": "So is it safe to assume it's like $50,000 a year maintenance"
+    },
+    {
+      "index": 134,
+      "start": "00:19:59.690",
+      "end": "00:20:04.670",
+      "text": "per rapid transit station going forward?"
+    },
+    {
+      "index": 135,
+      "start": "00:20:04.670",
+      "end": "00:20:11.300",
+      "text": "We can expect that along both routes of the BRT."
+    },
+    {
+      "index": 136,
+      "start": "00:20:11.300",
+      "end": "00:20:13.570",
+      "text": "Yes, that's our estimated cost to maintain them."
+    },
+    {
+      "index": 137,
+      "start": "00:20:13.570",
+      "end": "00:20:14.770",
+      "text": "What you're starting to see now"
+    },
+    {
+      "index": 138,
+      "start": "00:20:14.770",
+      "end": "00:20:17.240",
+      "text": "as we're reaching segments of the RT section"
+    },
+    {
+      "index": 139,
+      "start": "00:20:17.240",
+      "end": "00:20:19.390",
+      "text": "that will have shelters installed,"
+    },
+    {
+      "index": 140,
+      "start": "00:20:19.390",
+      "end": "00:20:20.860",
+      "text": "we're starting to account for that."
+    },
+    {
+      "index": 141,
+      "start": "00:20:20.860",
+      "end": "00:20:23.050",
+      "text": "So while the overall corridor won't be running"
+    },
+    {
+      "index": 142,
+      "start": "00:20:23.050",
+      "end": "00:20:26.030",
+      "text": "with rapid transit service until the full corridor's finished,"
+    },
+    {
+      "index": 143,
+      "start": "00:20:26.030",
+      "end": "00:20:28.190",
+      "text": "we are constructing these shelters as we go."
+    },
+    {
+      "index": 144,
+      "start": "00:20:28.190",
+      "end": "00:20:29.860",
+      "text": "And so we'll start to have maintenance costs"
+    },
+    {
+      "index": 145,
+      "start": "00:20:29.860",
+      "end": "00:20:30.690",
+      "text": "that go with them."
+    },
+    {
+      "index": 146,
+      "start": "00:20:30.690",
+      "end": "00:20:34.110",
+      "text": "So that's why you're seeing that recorded in the report."
+    },
+    {
+      "index": 147,
+      "start": "00:20:34.110",
+      "end": "00:20:35.050",
+      "text": "Sorry, one more question."
+    },
+    {
+      "index": 148,
+      "start": "00:20:35.050",
+      "end": "00:20:36.570",
+      "text": "Then do we contract that out?"
+    },
+    {
+      "index": 149,
+      "start": "00:20:36.570",
+      "end": "00:20:41.380",
+      "text": "Or would that be city employees that will be doing that?"
+    },
+    {
+      "index": 150,
+      "start": "00:20:41.380",
+      "end": "00:20:42.210",
+      "text": "Through the chair."
+    },
+    {
+      "index": 151,
+      "start": "00:20:42.210",
+      "end": "00:20:45.900",
+      "text": "That'll be a combination of LTC staff,"
+    },
+    {
+      "index": 152,
+      "start": "00:20:45.900",
+      "end": "00:20:47.800",
+      "text": "as well as some road operation staff,"
+    },
+    {
+      "index": 153,
+      "start": "00:20:47.800",
+      "end": "00:20:52.520",
+      "text": "depending on the platform itself versus the shelter itself."
+    },
+    {
+      "index": 154,
+      "start": "00:20:52.520",
+      "end": "00:20:54.250",
+      "text": "Councillor?"
+    },
+    {
+      "index": 155,
+      "start": "00:20:54.250",
+      "end": "00:20:55.080",
+      "text": "Thank you."
+    },
+    {
+      "index": 156,
+      "start": "00:20:55.080",
+      "end": "00:20:57.890",
+      "text": "And with that, I see no further comments,"
+    },
+    {
+      "index": 157,
+      "start": "00:20:57.890",
+      "end": "00:20:59.820",
+      "text": "questions from committee members."
+    },
+    {
+      "index": 158,
+      "start": "00:20:59.820",
+      "end": "00:21:19.370",
+      "text": "And we can proceed to vote."
+    },
+    {
+      "index": 159,
+      "start": "00:21:19.370",
+      "end": "00:21:24.370",
+      "text": "Closing the vote, the motion carries, five to zero."
+    },
+    {
+      "index": 160,
+      "start": "00:21:24.370",
+      "end": "00:21:26.820",
+      "text": "Next time, we'll move to scheduled items,"
+    },
+    {
+      "index": 161,
+      "start": "00:21:26.820",
+      "end": "00:21:32.690",
+      "text": "3.1, just one moment."
+    },
+    {
+      "index": 162,
+      "start": "00:21:32.690",
+      "end": "00:21:36.270",
+      "text": "I'd like to move 2.4 to the end of the agenda,"
+    },
+    {
+      "index": 163,
+      "start": "00:21:36.270",
+      "end": "00:21:39.250",
+      "text": "which would be items for direction."
+    },
+    {
+      "index": 164,
+      "start": "00:21:39.250",
+      "end": "00:21:43.660",
+      "text": "And with that, I'd like to proceed on to scheduled items."
+    },
+    {
+      "index": 165,
+      "start": "00:21:43.660",
+      "end": "00:21:47.740",
+      "text": "3.1, which is a public participation meeting"
+    },
+    {
+      "index": 166,
+      "start": "00:21:47.740",
+      "end": "00:21:50.780",
+      "text": "for the Jenkins Municipal Drain Improvements."
+    },
+    {
+      "index": 167,
+      "start": "00:21:50.780",
+      "end": "00:21:52.250",
+      "text": "I'm looking to committee members"
+    },
+    {
+      "index": 168,
+      "start": "00:21:52.250",
+      "end": "00:21:55.540",
+      "text": "to open up the public participation meeting."
+    },
+    {
+      "index": 169,
+      "start": "00:21:55.540",
+      "end": "00:21:59.600",
+      "text": "Councillor Frank, seconded by Councillor Cribal."
+    },
+    {
+      "index": 170,
+      "start": "00:21:59.600",
+      "end": "00:22:12.990",
+      "text": "And with that, we can proceed to vote."
+    },
+    {
+      "index": 171,
+      "start": "00:22:12.990",
+      "end": "00:22:17.440",
+      "text": "Closing the vote, the motion carries, five to zero."
+    },
+    {
+      "index": 172,
+      "start": "00:22:17.440",
+      "end": "00:22:19.970",
+      "text": "And moving forward, so we've opened up"
+    },
+    {
+      "index": 173,
+      "start": "00:22:19.970",
+      "end": "00:22:21.590",
+      "text": "the public participation meeting."
+    },
+    {
+      "index": 174,
+      "start": "00:22:21.590",
+      "end": "00:22:26.140",
+      "text": "This is part of the process before we go to tender."
+    },
+    {
+      "index": 175,
+      "start": "00:22:26.140",
+      "end": "00:22:29.540",
+      "text": "And I would like to go to the public"
+    },
+    {
+      "index": 176,
+      "start": "00:22:29.540",
+      "end": "00:22:32.500",
+      "text": "if there's anyone here that would like to speak"
+    },
+    {
+      "index": 177,
+      "start": "00:22:32.500",
+      "end": "00:22:39.030",
+      "text": "to the strain improvement."
+    },
+    {
+      "index": 178,
+      "start": "00:22:39.030",
+      "end": "00:22:41.400",
+      "text": "See no one, no one online."
+    },
+    {
+      "index": 179,
+      "start": "00:22:41.400",
+      "end": "00:22:43.100",
+      "text": "And I will ask one more time"
+    },
+    {
+      "index": 180,
+      "start": "00:22:43.100",
+      "end": "00:22:44.630",
+      "text": "if there's anyone here from the public"
+    },
+    {
+      "index": 181,
+      "start": "00:22:44.630",
+      "end": "00:22:49.560",
+      "text": "that would like to speak."
+    },
+    {
+      "index": 182,
+      "start": "00:22:49.560",
+      "end": "00:22:51.640",
+      "text": "Seeing none, I will look to the committee"
+    },
+    {
+      "index": 183,
+      "start": "00:22:51.640",
+      "end": "00:22:54.850",
+      "text": "to close the public participation meeting."
+    },
+    {
+      "index": 184,
+      "start": "00:22:54.850",
+      "end": "00:22:59.950",
+      "text": "Councillor Trussell, seconded by Councillor Frank."
+    },
+    {
+      "index": 185,
+      "start": "00:22:59.950",
+      "end": "00:23:09.600",
+      "text": "You can proceed to vote."
+    },
+    {
+      "index": 186,
+      "start": "00:23:09.600",
+      "end": "00:23:13.790",
+      "text": "Closing the vote, the motion carries, five to zero."
+    },
+    {
+      "index": 187,
+      "start": "00:23:13.790",
+      "end": "00:23:16.940",
+      "text": "And with that committee members,"
+    },
+    {
+      "index": 188,
+      "start": "00:23:16.940",
+      "end": "00:23:20.080",
+      "text": "I just want to review the recommendation."
+    },
+    {
+      "index": 189,
+      "start": "00:23:20.080",
+      "end": "00:23:23.260",
+      "text": "We are adopting the notice of public meeting"
+    },
+    {
+      "index": 190,
+      "start": "00:23:23.260",
+      "end": "00:23:28.230",
+      "text": "as well as going forward to based on a petition"
+    },
+    {
+      "index": 191,
+      "start": "00:23:28.230",
+      "end": "00:23:35.350",
+      "text": "from the community to move forward"
+    },
+    {
+      "index": 192,
+      "start": "00:23:35.350",
+      "end": "00:23:40.960",
+      "text": "with the municipal drain improvements on Jenkins"
+    },
+    {
+      "index": 193,
+      "start": "00:23:40.960",
+      "end": "00:23:46.420",
+      "text": "looking for a motion to move that forward."
+    },
+    {
+      "index": 194,
+      "start": "00:23:46.420",
+      "end": "00:23:52.420",
+      "text": "Councillor Frank, seconded by Councillor Ferrera."
+    },
+    {
+      "index": 195,
+      "start": "00:23:52.420",
+      "end": "00:23:57.050",
+      "text": "Questions, comments?"
+    },
+    {
+      "index": 196,
+      "start": "00:23:57.050",
+      "end": "00:24:12.650",
+      "text": "Be none, so we can proceed to vote."
+    },
+    {
+      "index": 197,
+      "start": "00:24:12.650",
+      "end": "00:24:16.700",
+      "text": "Vote the motion carries, five to zero."
+    },
+    {
+      "index": 198,
+      "start": "00:24:16.700",
+      "end": "00:24:19.280",
+      "text": "So we're moving on to items for direction."
+    },
+    {
+      "index": 199,
+      "start": "00:24:19.280",
+      "end": "00:24:23.840",
+      "text": "We have moved 2.4, which is the contract award"
+    },
+    {
+      "index": 200,
+      "start": "00:24:23.840",
+      "end": "00:24:28.410",
+      "text": "for the East London Link Phase 3A West Dundas Street."
+    },
+    {
+      "index": 201,
+      "start": "00:24:28.410",
+      "end": "00:24:35.170",
+      "text": "That has been pulled by Councillor Prebo."
+    },
+    {
+      "index": 202,
+      "start": "00:24:35.170",
+      "end": "00:24:37.910",
+      "text": "I'd like to go to Councillor Prebo."
+    },
+    {
+      "index": 203,
+      "start": "00:24:37.910",
+      "end": "00:24:41.180",
+      "text": "Thank you very much, and through the chair to the staff."
+    },
+    {
+      "index": 204,
+      "start": "00:24:41.180",
+      "end": "00:24:42.490",
+      "text": "I have a, I pulled out this one,"
+    },
+    {
+      "index": 205,
+      "start": "00:24:42.490",
+      "end": "00:24:45.720",
+      "text": "but it's kind of a question to all of them,"
+    },
+    {
+      "index": 206,
+      "start": "00:24:45.720",
+      "end": "00:24:48.470",
+      "text": "or sorry, all BRT ones."
+    },
+    {
+      "index": 207,
+      "start": "00:24:48.470",
+      "end": "00:24:50.790",
+      "text": "When I look at the budget that we are currently going through,"
+    },
+    {
+      "index": 208,
+      "start": "00:24:50.790",
+      "end": "00:24:53.860",
+      "text": "there is, for example, East London link $120 million"
+    },
+    {
+      "index": 209,
+      "start": "00:24:53.860",
+      "end": "00:24:57.360",
+      "text": "for 2023, then we also have in our appendix,"
+    },
+    {
+      "index": 210,
+      "start": "00:24:57.360",
+      "end": "00:25:02.110",
+      "text": "we have current expenditures which are proposed."
+    },
+    {
+      "index": 211,
+      "start": "00:25:02.110",
+      "end": "00:25:04.220",
+      "text": "My question, kind of the bigger picture,"
+    },
+    {
+      "index": 212,
+      "start": "00:25:04.220",
+      "end": "00:25:09.210",
+      "text": "in terms of the $120 million for this year."
+    },
+    {
+      "index": 213,
+      "start": "00:25:09.210",
+      "end": "00:25:12.580",
+      "text": "Are we, this current expenditure"
+    },
+    {
+      "index": 214,
+      "start": "00:25:12.580",
+      "end": "00:25:16.200",
+      "text": "and whatever we have proposal right now in front of us?"
+    },
+    {
+      "index": 215,
+      "start": "00:25:16.200",
+      "end": "00:25:18.510",
+      "text": "Are we within the budget, or do we already know"
+    },
+    {
+      "index": 216,
+      "start": "00:25:18.510",
+      "end": "00:25:20.180",
+      "text": "that there is going to be certain constraints"
+    },
+    {
+      "index": 217,
+      "start": "00:25:20.180",
+      "end": "00:25:22.330",
+      "text": "that we might have to revisit"
+    },
+    {
+      "index": 218,
+      "start": "00:25:22.330",
+      "end": "00:25:25.470",
+      "text": "and to look at potentially changing funding"
+    },
+    {
+      "index": 219,
+      "start": "00:25:25.470",
+      "end": "00:25:27.860",
+      "text": "from somewhere, what we did last week,"
+    },
+    {
+      "index": 220,
+      "start": "00:25:27.860",
+      "end": "00:25:29.210",
+      "text": "or a couple of weeks ago,"
+    },
+    {
+      "index": 221,
+      "start": "00:25:29.210",
+      "end": "00:25:31.920",
+      "text": "or are we currently still on track,"
+    },
+    {
+      "index": 222,
+      "start": "00:25:31.920",
+      "end": "00:25:35.280",
+      "text": "visit the budget and with current planned expenditures?"
+    },
+    {
+      "index": 223,
+      "start": "00:25:35.280",
+      "end": "00:25:36.890",
+      "text": "Thank you."
+    },
+    {
+      "index": 224,
+      "start": "00:25:36.890",
+      "end": "00:25:39.930",
+      "text": "Just looking to staff."
+    },
+    {
+      "index": 225,
+      "start": "00:25:39.930",
+      "end": "00:25:42.440",
+      "text": "Ms. Chair, are we on track?"
+    },
+    {
+      "index": 226,
+      "start": "00:25:42.440",
+      "end": "00:25:43.840",
+      "text": "Through you, Madam Chair, Ms. Dan May,"
+    },
+    {
+      "index": 227,
+      "start": "00:25:43.840",
+      "end": "00:25:45.390",
+      "text": "wish to add something to this."
+    },
+    {
+      "index": 228,
+      "start": "00:25:45.390",
+      "end": "00:25:47.020",
+      "text": "These three awards can be accommodated"
+    },
+    {
+      "index": 229,
+      "start": "00:25:47.020",
+      "end": "00:25:48.410",
+      "text": "with an existing budgets."
+    },
+    {
+      "index": 230,
+      "start": "00:25:48.410",
+      "end": "00:25:50.590",
+      "text": "The request that's being considered as part of multi-year"
+    },
+    {
+      "index": 231,
+      "start": "00:25:50.590",
+      "end": "00:25:52.140",
+      "text": "will allow us to conclude the work,"
+    },
+    {
+      "index": 232,
+      "start": "00:25:52.140",
+      "end": "00:25:53.700",
+      "text": "and we're confident that those budgets"
+    },
+    {
+      "index": 233,
+      "start": "00:25:53.700",
+      "end": "00:25:56.280",
+      "text": "reflect the current post-pandemic real estate"
+    },
+    {
+      "index": 234,
+      "start": "00:25:56.280",
+      "end": "00:26:00.510",
+      "text": "and input and labor cost realities in London."
+    },
+    {
+      "index": 235,
+      "start": "00:26:00.510",
+      "end": "00:26:03.510",
+      "text": "That's for approval."
+    },
+    {
+      "index": 236,
+      "start": "00:26:03.510",
+      "end": "00:26:04.340",
+      "text": "Thank you."
+    },
+    {
+      "index": 237,
+      "start": "00:26:04.340",
+      "end": "00:26:05.160",
+      "text": "Any you know it was for this one?"
+    },
+    {
+      "index": 238,
+      "start": "00:26:05.160",
+      "end": "00:26:06.820",
+      "text": "It is for the, I pulled on the this one,"
+    },
+    {
+      "index": 239,
+      "start": "00:26:06.820",
+      "end": "00:26:10.390",
+      "text": "but that would be for all current, is that correct?"
+    },
+    {
+      "index": 240,
+      "start": "00:26:10.390",
+      "end": "00:26:11.940",
+      "text": "Through you, Madam Chair, that is correct."
+    },
+    {
+      "index": 241,
+      "start": "00:26:11.940",
+      "end": "00:26:13.530",
+      "text": "And I would note that all three of these"
+    },
+    {
+      "index": 242,
+      "start": "00:26:13.530",
+      "end": "00:26:14.960",
+      "text": "actually came in somewhat lower"
+    },
+    {
+      "index": 243,
+      "start": "00:26:14.960",
+      "end": "00:26:17.260",
+      "text": "than the engineer's estimate that went out to tenders."
+    },
+    {
+      "index": 244,
+      "start": "00:26:17.260",
+      "end": "00:26:19.560",
+      "text": "So we feel that we're seeing some stability"
+    },
+    {
+      "index": 245,
+      "start": "00:26:19.560",
+      "end": "00:26:21.870",
+      "text": "in the marketplace, which gives us confidence as well"
+    },
+    {
+      "index": 246,
+      "start": "00:26:21.870",
+      "end": "00:26:25.070",
+      "text": "for the multi-year budget discussions that are coming up."
+    },
+    {
+      "index": 247,
+      "start": "00:26:25.070",
+      "end": "00:26:26.790",
+      "text": "Perfect, thank you very much, no more questions."
+    },
+    {
+      "index": 248,
+      "start": "00:26:26.790",
+      "end": "00:26:29.710",
+      "text": "Thank you."
+    },
+    {
+      "index": 249,
+      "start": "00:26:29.710",
+      "end": "00:26:31.350",
+      "text": "Thank you, are there any other questions"
+    },
+    {
+      "index": 250,
+      "start": "00:26:31.350",
+      "end": "00:26:33.550",
+      "text": "from committee members?"
+    },
+    {
+      "index": 251,
+      "start": "00:26:33.550",
+      "end": "00:26:36.270",
+      "text": "I see none, just from the chair of the committee."
+    },
+    {
+      "index": 252,
+      "start": "00:26:36.270",
+      "end": "00:26:39.550",
+      "text": "Oh, Councillor Stevenson, please go."
+    },
+    {
+      "index": 253,
+      "start": "00:26:39.550",
+      "end": "00:26:40.780",
+      "text": "Thank you and through the chair."
+    },
+    {
+      "index": 254,
+      "start": "00:26:40.780",
+      "end": "00:26:43.790",
+      "text": "I do have a few questions on this particular section"
+    },
+    {
+      "index": 255,
+      "start": "00:26:43.790",
+      "end": "00:26:46.810",
+      "text": "of the BRT East London link,"
+    },
+    {
+      "index": 256,
+      "start": "00:26:46.810",
+      "end": "00:26:48.480",
+      "text": "and I'm gonna set up an appointment"
+    },
+    {
+      "index": 257,
+      "start": "00:26:48.480",
+      "end": "00:26:50.230",
+      "text": "'cause I got a ton of detailed questions,"
+    },
+    {
+      "index": 258,
+      "start": "00:26:50.230",
+      "end": "00:26:52.100",
+      "text": "and so I'll do that separately."
+    },
+    {
+      "index": 259,
+      "start": "00:26:52.100",
+      "end": "00:26:56.670",
+      "text": "But I just wondered with the previous phase"
+    },
+    {
+      "index": 260,
+      "start": "00:26:56.670",
+      "end": "00:26:58.730",
+      "text": "that just finished up, my understanding is"
+    },
+    {
+      "index": 261,
+      "start": "00:26:58.730",
+      "end": "00:27:01.590",
+      "text": "that they're gonna need to come back"
+    },
+    {
+      "index": 262,
+      "start": "00:27:01.590",
+      "end": "00:27:03.490",
+      "text": "and do some work in finishing that,"
+    },
+    {
+      "index": 263,
+      "start": "00:27:03.490",
+      "end": "00:27:07.310",
+      "text": "and I'm wondering the concern is"
+    },
+    {
+      "index": 264,
+      "start": "00:27:07.310",
+      "end": "00:27:09.060",
+      "text": "with the businesses and the residents around there"
+    },
+    {
+      "index": 265,
+      "start": "00:27:09.060",
+      "end": "00:27:12.380",
+      "text": "and the disruption, that was there any thought"
+    },
+    {
+      "index": 266,
+      "start": "00:27:12.380",
+      "end": "00:27:15.820",
+      "text": "of maybe postponing this one, this section,"
+    },
+    {
+      "index": 267,
+      "start": "00:27:15.820",
+      "end": "00:27:17.330",
+      "text": "given that we're still not finished"
+    },
+    {
+      "index": 268,
+      "start": "00:27:17.330",
+      "end": "00:27:21.860",
+      "text": "with the previous section on Dendes?"
+    },
+    {
+      "index": 269,
+      "start": "00:27:21.860",
+      "end": "00:27:24.140",
+      "text": "So through the chair, we always anticipate"
+    },
+    {
+      "index": 270,
+      "start": "00:27:24.140",
+      "end": "00:27:26.180",
+      "text": "they were gonna have carryover and deficiency work"
+    },
+    {
+      "index": 271,
+      "start": "00:27:26.180",
+      "end": "00:27:28.010",
+      "text": "with each of these phases of construction,"
+    },
+    {
+      "index": 272,
+      "start": "00:27:28.010",
+      "end": "00:27:29.610",
+      "text": "particularly with the BRT projects"
+    },
+    {
+      "index": 273,
+      "start": "00:27:29.610",
+      "end": "00:27:32.320",
+      "text": "covering such a large territory of land."
+    },
+    {
+      "index": 274,
+      "start": "00:27:32.320",
+      "end": "00:27:34.560",
+      "text": "We know that we're trying to fit as much in as we can."
+    },
+    {
+      "index": 275,
+      "start": "00:27:34.560",
+      "end": "00:27:36.150",
+      "text": "We were able to substantially complete"
+    },
+    {
+      "index": 276,
+      "start": "00:27:36.150",
+      "end": "00:27:38.830",
+      "text": "the work on Dendes Street as part of East Two,"
+    },
+    {
+      "index": 277,
+      "start": "00:27:38.830",
+      "end": "00:27:41.180",
+      "text": "but we will be coming back for a top-code asphalt,"
+    },
+    {
+      "index": 278,
+      "start": "00:27:41.180",
+      "end": "00:27:43.580",
+      "text": "some sidewalk deficiencies, things like that."
+    },
+    {
+      "index": 279,
+      "start": "00:27:43.580",
+      "end": "00:27:45.250",
+      "text": "We've been communicating with all the businesses"
+    },
+    {
+      "index": 280,
+      "start": "00:27:45.250",
+      "end": "00:27:47.730",
+      "text": "along those stretches, so those who have some deficiencies"
+    },
+    {
+      "index": 281,
+      "start": "00:27:47.730",
+      "end": "00:27:49.560",
+      "text": "where we need to come in and do repair work,"
+    },
+    {
+      "index": 282,
+      "start": "00:27:49.560",
+      "end": "00:27:51.640",
+      "text": "they're aware of that and they know we're coming."
+    },
+    {
+      "index": 283,
+      "start": "00:27:51.640",
+      "end": "00:27:53.630",
+      "text": "It's important that we continue to keep moving on"
+    },
+    {
+      "index": 284,
+      "start": "00:27:53.630",
+      "end": "00:27:55.790",
+      "text": "and getting as much done."
+    },
+    {
+      "index": 285,
+      "start": "00:27:55.790",
+      "end": "00:27:58.100",
+      "text": "These three contracts are gonna add"
+    },
+    {
+      "index": 286,
+      "start": "00:27:58.100",
+      "end": "00:28:00.900",
+      "text": "another 2.2 kilometers worth of rapid transit"
+    },
+    {
+      "index": 287,
+      "start": "00:28:00.900",
+      "end": "00:28:03.490",
+      "text": "to the 4.8 we've already built in the last three years,"
+    },
+    {
+      "index": 288,
+      "start": "00:28:03.490",
+      "end": "00:28:07.360",
+      "text": "so we've really been covering a lot of ground."
+    },
+    {
+      "index": 289,
+      "start": "00:28:07.360",
+      "end": "00:28:08.350",
+      "text": "Councillor?"
+    },
+    {
+      "index": 290,
+      "start": "00:28:08.350",
+      "end": "00:28:09.860",
+      "text": "Thank you and through the chair."
+    },
+    {
+      "index": 291,
+      "start": "00:28:09.860",
+      "end": "00:28:12.750",
+      "text": "So in going back to the previous phase,"
+    },
+    {
+      "index": 292,
+      "start": "00:28:12.750",
+      "end": "00:28:14.170",
+      "text": "there's nothing substantial."
+    },
+    {
+      "index": 293,
+      "start": "00:28:14.170",
+      "end": "00:28:19.340",
+      "text": "To be done there, it's gonna be very quick top surface."
+    },
+    {
+      "index": 294,
+      "start": "00:28:19.340",
+      "end": "00:28:20.330",
+      "text": "Yes, through the chair."
+    },
+    {
+      "index": 295,
+      "start": "00:28:20.330",
+      "end": "00:28:23.360",
+      "text": "You'll see top surface asphalt, permanent pavement markings"
+    },
+    {
+      "index": 296,
+      "start": "00:28:23.360",
+      "end": "00:28:28.140",
+      "text": "and the red bus lane treatment will be going in this spring."
+    },
+    {
+      "index": 297,
+      "start": "00:28:28.140",
+      "end": "00:28:29.790",
+      "text": "Thank you and through the chair."
+    },
+    {
+      "index": 298,
+      "start": "00:28:29.790",
+      "end": "00:28:32.890",
+      "text": "I just wondered too, there's in this, like,"
+    },
+    {
+      "index": 299,
+      "start": "00:28:32.890",
+      "end": "00:28:36.420",
+      "text": "that area was under so much construction last year"
+    },
+    {
+      "index": 300,
+      "start": "00:28:36.420",
+      "end": "00:28:39.870",
+      "text": "between Dundas Adelaide and Quebec, it was pretty rough."
+    },
+    {
+      "index": 301,
+      "start": "00:28:39.870",
+      "end": "00:28:42.170",
+      "text": "I'm not hearing complaints about the hybrid section,"
+    },
+    {
+      "index": 302,
+      "start": "00:28:42.170",
+      "end": "00:28:44.900",
+      "text": "but this one is a concern, this section."
+    },
+    {
+      "index": 303,
+      "start": "00:28:44.900",
+      "end": "00:28:50.240",
+      "text": "So it refers on page 15."
+    },
+    {
+      "index": 304,
+      "start": "00:28:50.240",
+      "end": "00:28:55.220",
+      "text": "It talks about the need to do the underground works,"
+    },
+    {
+      "index": 305,
+      "start": "00:28:55.220",
+      "end": "00:28:57.850",
+      "text": "which we understand in terms of our roads,"
+    },
+    {
+      "index": 306,
+      "start": "00:28:57.850",
+      "end": "00:28:59.160",
+      "text": "but then at the bottom of the page,"
+    },
+    {
+      "index": 307,
+      "start": "00:28:59.160",
+      "end": "00:29:02.340",
+      "text": "it says this particular section doesn't have a lot"
+    },
+    {
+      "index": 308,
+      "start": "00:29:02.340",
+      "end": "00:29:04.050",
+      "text": "of infrastructure renewal work"
+    },
+    {
+      "index": 309,
+      "start": "00:29:04.050",
+      "end": "00:29:06.670",
+      "text": "because it was done in 2018."
+    },
+    {
+      "index": 310,
+      "start": "00:29:06.670",
+      "end": "00:29:09.660",
+      "text": "So again, the question is really,"
+    },
+    {
+      "index": 311,
+      "start": "00:29:09.660",
+      "end": "00:29:14.070",
+      "text": "like is there any, how disruptive would it be"
+    },
+    {
+      "index": 312,
+      "start": "00:29:14.070",
+      "end": "00:29:16.300",
+      "text": "to change the order a little bit"
+    },
+    {
+      "index": 313,
+      "start": "00:29:16.300",
+      "end": "00:29:18.550",
+      "text": "and give this section of our city"
+    },
+    {
+      "index": 314,
+      "start": "00:29:18.550",
+      "end": "00:29:23.390",
+      "text": "just a little bit of a reprieve in 2024?"
+    },
+    {
+      "index": 315,
+      "start": "00:29:23.390",
+      "end": "00:29:24.220",
+      "text": "Councillor?"
+    },
+    {
+      "index": 316,
+      "start": "00:29:24.220",
+      "end": "00:29:25.060",
+      "text": "Yes, through the chair."
+    },
+    {
+      "index": 317,
+      "start": "00:29:25.060",
+      "end": "00:29:27.650",
+      "text": "So underground infrastructure work was done in 2018"
+    },
+    {
+      "index": 318,
+      "start": "00:29:27.650",
+      "end": "00:29:29.490",
+      "text": "on this stretch and so what that means is"
+    },
+    {
+      "index": 319,
+      "start": "00:29:29.490",
+      "end": "00:29:32.240",
+      "text": "we don't have a lot of municipal underground infrastructure,"
+    },
+    {
+      "index": 320,
+      "start": "00:29:32.240",
+      "end": "00:29:34.440",
+      "text": "but there is quite a bit of private utility work"
+    },
+    {
+      "index": 321,
+      "start": "00:29:34.440",
+      "end": "00:29:36.550",
+      "text": "that's involved in this contract."
+    },
+    {
+      "index": 322,
+      "start": "00:29:36.550",
+      "end": "00:29:38.350",
+      "text": "Because we aren't doing the deep sewer work,"
+    },
+    {
+      "index": 323,
+      "start": "00:29:38.350",
+      "end": "00:29:41.060",
+      "text": "we are able to keep one lane of traffic open"
+    },
+    {
+      "index": 324,
+      "start": "00:29:41.060",
+      "end": "00:29:42.300",
+      "text": "in each direction."
+    },
+    {
+      "index": 325,
+      "start": "00:29:42.300",
+      "end": "00:29:44.900",
+      "text": "This is only 0.6 kilometers of a stretch,"
+    },
+    {
+      "index": 326,
+      "start": "00:29:44.900",
+      "end": "00:29:47.130",
+      "text": "which normally we can actually finish quite quicker,"
+    },
+    {
+      "index": 327,
+      "start": "00:29:47.130",
+      "end": "00:29:48.570",
+      "text": "but we're anticipating it'll take us"
+    },
+    {
+      "index": 328,
+      "start": "00:29:48.570",
+      "end": "00:29:50.160",
+      "text": "most of the construction season"
+    },
+    {
+      "index": 329,
+      "start": "00:29:50.160",
+      "end": "00:29:52.160",
+      "text": "because we wanna maintain traffic throughout."
+    },
+    {
+      "index": 330,
+      "start": "00:29:52.160",
+      "end": "00:29:53.840",
+      "text": "We wanna maintain access to businesses"
+    },
+    {
+      "index": 331,
+      "start": "00:29:53.840",
+      "end": "00:29:54.750",
+      "text": "throughout the construction."
+    },
+    {
+      "index": 332,
+      "start": "00:29:54.750",
+      "end": "00:29:56.630",
+      "text": "So we're gonna be taking a little longer"
+    },
+    {
+      "index": 333,
+      "start": "00:29:56.630",
+      "end": "00:29:58.860",
+      "text": "but keeping traffic accessing this area."
+    },
+    {
+      "index": 334,
+      "start": "00:29:58.860",
+      "end": "00:30:01.140",
+      "text": "We do still have some of that underground utility work."
+    },
+    {
+      "index": 335,
+      "start": "00:30:01.140",
+      "end": "00:30:02.970",
+      "text": "A lot of that is under the sidewalk area."
+    },
+    {
+      "index": 336,
+      "start": "00:30:02.970",
+      "end": "00:30:04.970",
+      "text": "So again, really working closely with businesses"
+    },
+    {
+      "index": 337,
+      "start": "00:30:04.970",
+      "end": "00:30:08.850",
+      "text": "to make sure we're maintaining access throughout that work."
+    },
+    {
+      "index": 338,
+      "start": "00:30:08.850",
+      "end": "00:30:10.400",
+      "text": "Councillor?"
+    },
+    {
+      "index": 339,
+      "start": "00:30:10.400",
+      "end": "00:30:11.230",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 340,
+      "start": "00:30:11.230",
+      "end": "00:30:12.850",
+      "text": "This is all helpful."
+    },
+    {
+      "index": 341,
+      "start": "00:30:12.850",
+      "end": "00:30:14.910",
+      "text": "I also wanted to, I get a lot of questions"
+    },
+    {
+      "index": 342,
+      "start": "00:30:14.910",
+      "end": "00:30:16.180",
+      "text": "about the concerns."
+    },
+    {
+      "index": 343,
+      "start": "00:30:16.180",
+      "end": "00:30:19.080",
+      "text": "Again, more about the Dundas Street section"
+    },
+    {
+      "index": 344,
+      "start": "00:30:19.080",
+      "end": "00:30:22.460",
+      "text": "and it's gonna go from four lanes of traffic down to two."
+    },
+    {
+      "index": 345,
+      "start": "00:30:22.460",
+      "end": "00:30:25.410",
+      "text": "So on page 13, it says that it's gonna improve"
+    },
+    {
+      "index": 346,
+      "start": "00:30:25.410",
+      "end": "00:30:27.510",
+      "text": "the capacity in general traffic lanes"
+    },
+    {
+      "index": 347,
+      "start": "00:30:27.510",
+      "end": "00:30:29.740",
+      "text": "by removing buses from mixed traffic."
+    },
+    {
+      "index": 348,
+      "start": "00:30:29.740",
+      "end": "00:30:31.800",
+      "text": "And I wonder if you could just explain that a little bit."
+    },
+    {
+      "index": 349,
+      "start": "00:30:31.800",
+      "end": "00:30:36.320",
+      "text": "How, like, what benefits we do have to look forward to there?"
+    },
+    {
+      "index": 350,
+      "start": "00:30:36.320",
+      "end": "00:30:37.230",
+      "text": "Yes, through the chair."
+    },
+    {
+      "index": 351,
+      "start": "00:30:37.230",
+      "end": "00:30:38.750",
+      "text": "Under the current configuration,"
+    },
+    {
+      "index": 352,
+      "start": "00:30:38.750",
+      "end": "00:30:41.660",
+      "text": "you've got two lanes of traffic in each direction on Dundas."
+    },
+    {
+      "index": 353,
+      "start": "00:30:41.660",
+      "end": "00:30:44.690",
+      "text": "What we're doing is that we're creating a dedicated bus lane"
+    },
+    {
+      "index": 354,
+      "start": "00:30:44.690",
+      "end": "00:30:47.450",
+      "text": "on the curbside lane, both east and westbound,"
+    },
+    {
+      "index": 355,
+      "start": "00:30:47.450",
+      "end": "00:30:49.640",
+      "text": "that gets those buses out of mixed traffic."
+    },
+    {
+      "index": 356,
+      "start": "00:30:49.640",
+      "end": "00:30:52.230",
+      "text": "Right now buses and cars are all mixing together"
+    },
+    {
+      "index": 357,
+      "start": "00:30:52.230",
+      "end": "00:30:54.270",
+      "text": "and it really affects the traffic flow."
+    },
+    {
+      "index": 358,
+      "start": "00:30:54.270",
+      "end": "00:30:55.940",
+      "text": "We're also at each of the intersection"
+    },
+    {
+      "index": 359,
+      "start": "00:30:55.940",
+      "end": "00:30:58.140",
+      "text": "adding dedicated left turn lanes."
+    },
+    {
+      "index": 360,
+      "start": "00:30:58.140",
+      "end": "00:31:00.930",
+      "text": "So what that does is folks that are looking to make left"
+    },
+    {
+      "index": 361,
+      "start": "00:31:00.930",
+      "end": "00:31:03.840",
+      "text": "turns out of the corridor will be out of the flow of traffic."
+    },
+    {
+      "index": 362,
+      "start": "00:31:03.840",
+      "end": "00:31:06.400",
+      "text": "So the one lane of general traffic that is maintained"
+    },
+    {
+      "index": 363,
+      "start": "00:31:06.400",
+      "end": "00:31:07.950",
+      "text": "will be free flowing and steady."
+    },
+    {
+      "index": 364,
+      "start": "00:31:07.950",
+      "end": "00:31:10.340",
+      "text": "And so even though it seems like we're reducing"
+    },
+    {
+      "index": 365,
+      "start": "00:31:10.340",
+      "end": "00:31:11.300",
+      "text": "the capacity of the road,"
+    },
+    {
+      "index": 366,
+      "start": "00:31:11.300",
+      "end": "00:31:12.940",
+      "text": "we're actually improving the operations"
+    },
+    {
+      "index": 367,
+      "start": "00:31:12.940",
+      "end": "00:31:16.220",
+      "text": "of that one single lane."
+    },
+    {
+      "index": 368,
+      "start": "00:31:16.220",
+      "end": "00:31:17.060",
+      "text": "Councillor."
+    },
+    {
+      "index": 369,
+      "start": "00:31:17.060",
+      "end": "00:31:19.360",
+      "text": "Thank you and through the chair."
+    },
+    {
+      "index": 370,
+      "start": "00:31:19.360",
+      "end": "00:31:21.830",
+      "text": "Is there any information available that I can share"
+    },
+    {
+      "index": 371,
+      "start": "00:31:21.830",
+      "end": "00:31:23.730",
+      "text": "with the public that will assure them"
+    },
+    {
+      "index": 372,
+      "start": "00:31:23.730",
+      "end": "00:31:26.470",
+      "text": "that the reduction of general traffic"
+    },
+    {
+      "index": 373,
+      "start": "00:31:26.470",
+      "end": "00:31:32.370",
+      "text": "from two lanes down to one isn't going to be that impactful?"
+    },
+    {
+      "index": 374,
+      "start": "00:31:32.370",
+      "end": "00:31:33.210",
+      "text": "Yes, through the chair,"
+    },
+    {
+      "index": 375,
+      "start": "00:31:33.210",
+      "end": "00:31:34.730",
+      "text": "there's actually quite a bit of information"
+    },
+    {
+      "index": 376,
+      "start": "00:31:34.730",
+      "end": "00:31:37.080",
+      "text": "about the configuration, the design choices"
+    },
+    {
+      "index": 377,
+      "start": "00:31:37.080",
+      "end": "00:31:39.750",
+      "text": "on the get involved site for the East London link."
+    },
+    {
+      "index": 378,
+      "start": "00:31:39.750",
+      "end": "00:31:42.860",
+      "text": "You can visit there and see the PowerPoint presentations"
+    },
+    {
+      "index": 379,
+      "start": "00:31:42.860",
+      "end": "00:31:44.810",
+      "text": "from our most recent public impact"
+    },
+    {
+      "index": 380,
+      "start": "00:31:44.810",
+      "end": "00:31:46.080",
+      "text": "or public input meeting."
+    },
+    {
+      "index": 381,
+      "start": "00:31:46.080",
+      "end": "00:31:48.630",
+      "text": "And then we'll also very shortly be hosting"
+    },
+    {
+      "index": 382,
+      "start": "00:31:48.630",
+      "end": "00:31:50.870",
+      "text": "a pre-construction webinar for this year's phase"
+    },
+    {
+      "index": 383,
+      "start": "00:31:50.870",
+      "end": "00:31:52.900",
+      "text": "of construction to not only revisit"
+    },
+    {
+      "index": 384,
+      "start": "00:31:52.900",
+      "end": "00:31:55.170",
+      "text": "and remind people what the design is and what to expect,"
+    },
+    {
+      "index": 385,
+      "start": "00:31:55.170",
+      "end": "00:31:57.760",
+      "text": "but also how to manage the impacts of construction"
+    },
+    {
+      "index": 386,
+      "start": "00:31:57.760",
+      "end": "00:32:02.000",
+      "text": "and what supports we have in place for them."
+    },
+    {
+      "index": 387,
+      "start": "00:32:02.000",
+      "end": "00:32:02.820",
+      "text": "Thank you."
+    },
+    {
+      "index": 388,
+      "start": "00:32:02.820",
+      "end": "00:32:05.820",
+      "text": "And just with specifically in regards to traffic,"
+    },
+    {
+      "index": 389,
+      "start": "00:32:05.820",
+      "end": "00:32:09.030",
+      "text": "knowing that we've got the development at Kellogg Lane,"
+    },
+    {
+      "index": 390,
+      "start": "00:32:09.030",
+      "end": "00:32:11.890",
+      "text": "we've got a lot of development coming in all these village"
+    },
+    {
+      "index": 391,
+      "start": "00:32:11.890",
+      "end": "00:32:14.510",
+      "text": "in terms of high rise apartments with medallion"
+    },
+    {
+      "index": 392,
+      "start": "00:32:14.510",
+      "end": "00:32:17.490",
+      "text": "and with CCLC."
+    },
+    {
+      "index": 393,
+      "start": "00:32:17.490",
+      "end": "00:32:22.740",
+      "text": "So just looking, again, have the studies looked at that"
+    },
+    {
+      "index": 394,
+      "start": "00:32:22.740",
+      "end": "00:32:27.070",
+      "text": "in terms of reducing the traffic down to one lane,"
+    },
+    {
+      "index": 395,
+      "start": "00:32:27.070",
+      "end": "00:32:29.130",
+      "text": "and we're going to have additional traffic"
+    },
+    {
+      "index": 396,
+      "start": "00:32:29.130",
+      "end": "00:32:30.820",
+      "text": "in terms of road construction"
+    },
+    {
+      "index": 397,
+      "start": "00:32:30.820",
+      "end": "00:32:36.560",
+      "text": "and hopefully a lot of development construction tracks."
+    },
+    {
+      "index": 398,
+      "start": "00:32:36.560",
+      "end": "00:32:37.560",
+      "text": "Yes, through the chair,"
+    },
+    {
+      "index": 399,
+      "start": "00:32:37.560",
+      "end": "00:32:40.620",
+      "text": "the environmental assessment did traffic modeling out to 2050"
+    },
+    {
+      "index": 400,
+      "start": "00:32:40.620",
+      "end": "00:32:43.170",
+      "text": "and it accounted for the intensification that's identified"
+    },
+    {
+      "index": 401,
+      "start": "00:32:43.170",
+      "end": "00:32:45.680",
+      "text": "within the London plan along these RT corridors."
+    },
+    {
+      "index": 402,
+      "start": "00:32:45.680",
+      "end": "00:32:48.300",
+      "text": "That was really one of the big drivers of rapid transit"
+    },
+    {
+      "index": 403,
+      "start": "00:32:48.300",
+      "end": "00:32:49.970",
+      "text": "is to drive transit oriented development."
+    },
+    {
+      "index": 404,
+      "start": "00:32:49.970",
+      "end": "00:32:52.440",
+      "text": "So we certainly plan for what the future state"
+    },
+    {
+      "index": 405,
+      "start": "00:32:52.440",
+      "end": "00:32:54.030",
+      "text": "of traffic along these corridors would be"
+    },
+    {
+      "index": 406,
+      "start": "00:32:54.030",
+      "end": "00:32:55.870",
+      "text": "when we made these design decisions."
+    },
+    {
+      "index": 407,
+      "start": "00:32:55.870",
+      "end": "00:32:58.550",
+      "text": "Councilor."
+    },
+    {
+      "index": 408,
+      "start": "00:32:58.550",
+      "end": "00:33:04.360",
+      "text": "Thank you, my last question on that is when we envision,"
+    },
+    {
+      "index": 409,
+      "start": "00:33:04.360",
+      "end": "00:33:06.260",
+      "text": "so I guess there's two questions in it."
+    },
+    {
+      "index": 410,
+      "start": "00:33:06.260",
+      "end": "00:33:08.840",
+      "text": "One is we're starting to see the dedicated lanes"
+    },
+    {
+      "index": 411,
+      "start": "00:33:08.840",
+      "end": "00:33:13.170",
+      "text": "being already dedicated prior to rapid transit starting."
+    },
+    {
+      "index": 412,
+      "start": "00:33:13.170",
+      "end": "00:33:14.960",
+      "text": "So is that what we can expect to see"
+    },
+    {
+      "index": 413,
+      "start": "00:33:14.960",
+      "end": "00:33:19.540",
+      "text": "that we're going to be reduced to one lane of traffic each way,"
+    },
+    {
+      "index": 414,
+      "start": "00:33:19.540",
+      "end": "00:33:23.650",
+      "text": "even before rapid transit starts to be in full service?"
+    },
+    {
+      "index": 415,
+      "start": "00:33:23.650",
+      "end": "00:33:28.130",
+      "text": "And the other question is that there's a concern"
+    },
+    {
+      "index": 416,
+      "start": "00:33:28.130",
+      "end": "00:33:33.840",
+      "text": "of the number two bus and other ones that do frequent stops"
+    },
+    {
+      "index": 417,
+      "start": "00:33:33.840",
+      "end": "00:33:36.900",
+      "text": "which allow the residents to get the service"
+    },
+    {
+      "index": 418,
+      "start": "00:33:36.900",
+      "end": "00:33:38.930",
+      "text": "that they're used to and that they like,"
+    },
+    {
+      "index": 419,
+      "start": "00:33:38.930",
+      "end": "00:33:40.840",
+      "text": "where are those buses going to go"
+    },
+    {
+      "index": 420,
+      "start": "00:33:40.840",
+      "end": "00:33:42.870",
+      "text": "when we've got the rapid transit lane?"
+    },
+    {
+      "index": 421,
+      "start": "00:33:42.870",
+      "end": "00:33:44.860",
+      "text": "Are they going to be in the mixed traffic"
+    },
+    {
+      "index": 422,
+      "start": "00:33:44.860",
+      "end": "00:33:49.630",
+      "text": "or are they going to be in the rapid transit lane?"
+    },
+    {
+      "index": 423,
+      "start": "00:33:49.630",
+      "end": "00:33:50.990",
+      "text": "Yes, so through the chair,"
+    },
+    {
+      "index": 424,
+      "start": "00:33:50.990",
+      "end": "00:33:54.550",
+      "text": "already as we build out rapid transit dedicated lanes,"
+    },
+    {
+      "index": 425,
+      "start": "00:33:54.550",
+      "end": "00:33:57.100",
+      "text": "the local bus service is getting to take advantage of that."
+    },
+    {
+      "index": 426,
+      "start": "00:33:57.100",
+      "end": "00:33:59.580",
+      "text": "So we've already seen that on the downtown loop"
+    },
+    {
+      "index": 427,
+      "start": "00:33:59.580",
+      "end": "00:34:00.660",
+      "text": "with the East London Link,"
+    },
+    {
+      "index": 428,
+      "start": "00:34:00.660",
+      "end": "00:34:03.410",
+      "text": "the work that we've built so far to get as far as Egerton."
+    },
+    {
+      "index": 429,
+      "start": "00:34:03.410",
+      "end": "00:34:06.410",
+      "text": "We're looking to actually move one of the Dundas buses over"
+    },
+    {
+      "index": 430,
+      "start": "00:34:06.410",
+      "end": "00:34:08.000",
+      "text": "so that you're seeing bus traffic"
+    },
+    {
+      "index": 431,
+      "start": "00:34:08.000",
+      "end": "00:34:09.720",
+      "text": "using those lanes on King Street."
+    },
+    {
+      "index": 432,
+      "start": "00:34:09.720",
+      "end": "00:34:11.800",
+      "text": "And then likewise, one of the decisions"
+    },
+    {
+      "index": 433,
+      "start": "00:34:11.800",
+      "end": "00:34:14.430",
+      "text": "to go to a curbside design for Dundas,"
+    },
+    {
+      "index": 434,
+      "start": "00:34:14.430",
+      "end": "00:34:17.870",
+      "text": "which was a much smaller footprint,"
+    },
+    {
+      "index": 435,
+      "start": "00:34:17.870",
+      "end": "00:34:19.840",
+      "text": "impacted less businesses, improved access,"
+    },
+    {
+      "index": 436,
+      "start": "00:34:19.840",
+      "end": "00:34:22.780",
+      "text": "but it also had previously when you just had"
+    },
+    {
+      "index": 437,
+      "start": "00:34:22.780",
+      "end": "00:34:24.740",
+      "text": "the center running with only one lane of traffic,"
+    },
+    {
+      "index": 438,
+      "start": "00:34:24.740",
+      "end": "00:34:26.970",
+      "text": "those local buses would have had to be in the bus lane"
+    },
+    {
+      "index": 439,
+      "start": "00:34:26.970",
+      "end": "00:34:29.410",
+      "text": "so they didn't stop the flow of traffic."
+    },
+    {
+      "index": 440,
+      "start": "00:34:29.410",
+      "end": "00:34:32.280",
+      "text": "By going curbside, we can now have both RT buses"
+    },
+    {
+      "index": 441,
+      "start": "00:34:32.280",
+      "end": "00:34:33.840",
+      "text": "and local buses in the curb lane."
+    },
+    {
+      "index": 442,
+      "start": "00:34:33.840",
+      "end": "00:34:36.080",
+      "text": "So we'll have our RT spacing,"
+    },
+    {
+      "index": 443,
+      "start": "00:34:36.080",
+      "end": "00:34:38.390",
+      "text": "but we also have an opportunity to use those local stops"
+    },
+    {
+      "index": 444,
+      "start": "00:34:38.390",
+      "end": "00:34:40.670",
+      "text": "to be able to make maybe shorter spacing stops"
+    },
+    {
+      "index": 445,
+      "start": "00:34:40.670",
+      "end": "00:34:42.870",
+      "text": "to support people with less mobility."
+    },
+    {
+      "index": 446,
+      "start": "00:34:42.870",
+      "end": "00:34:43.980",
+      "text": "So I think it's actually gonna be"
+    },
+    {
+      "index": 447,
+      "start": "00:34:43.980",
+      "end": "00:34:45.260",
+      "text": "a much more functional design."
+    },
+    {
+      "index": 448,
+      "start": "00:34:45.260",
+      "end": "00:34:46.580",
+      "text": "So yeah, those bus lanes,"
+    },
+    {
+      "index": 449,
+      "start": "00:34:46.580",
+      "end": "00:34:47.460",
+      "text": "as soon as we build them,"
+    },
+    {
+      "index": 450,
+      "start": "00:34:47.460",
+      "end": "00:34:51.070",
+      "text": "local buses are starting to benefit."
+    },
+    {
+      "index": 451,
+      "start": "00:34:51.070",
+      "end": "00:34:51.910",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 452,
+      "start": "00:34:51.910",
+      "end": "00:34:54.450",
+      "text": "It's reassuring to hear that those frequent stops,"
+    },
+    {
+      "index": 453,
+      "start": "00:34:54.450",
+      "end": "00:34:56.870",
+      "text": "especially for the people with accessibility issues,"
+    },
+    {
+      "index": 454,
+      "start": "00:34:56.870",
+      "end": "00:34:58.810",
+      "text": "there's a lot of people who use the transit"
+    },
+    {
+      "index": 455,
+      "start": "00:34:58.810",
+      "end": "00:35:00.640",
+      "text": "in Old East Village and around"
+    },
+    {
+      "index": 456,
+      "start": "00:35:00.640",
+      "end": "00:35:02.940",
+      "text": "and it's just really good to be reassured"
+    },
+    {
+      "index": 457,
+      "start": "00:35:02.940",
+      "end": "00:35:06.820",
+      "text": "that the rapid transit's not gonna rapidly"
+    },
+    {
+      "index": 458,
+      "start": "00:35:06.820",
+      "end": "00:35:08.110",
+      "text": "go right past that area."
+    },
+    {
+      "index": 459,
+      "start": "00:35:08.110",
+      "end": "00:35:09.520",
+      "text": "Thanks."
+    },
+    {
+      "index": 460,
+      "start": "00:35:09.520",
+      "end": "00:35:10.400",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 461,
+      "start": "00:35:10.400",
+      "end": "00:35:11.600",
+      "text": "You are the Ward Councillor."
+    },
+    {
+      "index": 462,
+      "start": "00:35:11.600",
+      "end": "00:35:13.710",
+      "text": "I really appreciate you being here with us"
+    },
+    {
+      "index": 463,
+      "start": "00:35:13.710",
+      "end": "00:35:18.100",
+      "text": "and asking the questions as well."
+    },
+    {
+      "index": 464,
+      "start": "00:35:18.100",
+      "end": "00:35:21.730",
+      "text": "I just wanna do a follow up too."
+    },
+    {
+      "index": 465,
+      "start": "00:35:21.730",
+      "end": "00:35:25.240",
+      "text": "We have three rapid transit projects on the agenda"
+    },
+    {
+      "index": 466,
+      "start": "00:35:25.240",
+      "end": "00:35:26.670",
+      "text": "of lots of money that we're spending."
+    },
+    {
+      "index": 467,
+      "start": "00:35:26.670",
+      "end": "00:35:31.660",
+      "text": "I think it's exciting, improving our infrastructure,"
+    },
+    {
+      "index": 468,
+      "start": "00:35:31.660",
+      "end": "00:35:36.400",
+      "text": "creating better transit connections,"
+    },
+    {
+      "index": 469,
+      "start": "00:35:36.400",
+      "end": "00:35:40.110",
+      "text": "working underground, a lot of the work is underground."
+    },
+    {
+      "index": 470,
+      "start": "00:35:40.110",
+      "end": "00:35:43.120",
+      "text": "I think that's really important"
+    },
+    {
+      "index": 471,
+      "start": "00:35:43.120",
+      "end": "00:35:45.360",
+      "text": "to understand the infrastructure projects"
+    },
+    {
+      "index": 472,
+      "start": "00:35:45.360",
+      "end": "00:35:46.910",
+      "text": "that we have in front of us."
+    },
+    {
+      "index": 473,
+      "start": "00:35:46.910",
+      "end": "00:35:49.230",
+      "text": "Really wanna thank staff for the community engagement"
+    },
+    {
+      "index": 474,
+      "start": "00:35:49.230",
+      "end": "00:35:51.980",
+      "text": "and keeping that going as we go"
+    },
+    {
+      "index": 475,
+      "start": "00:35:51.980",
+      "end": "00:35:56.300",
+      "text": "through the infrastructure approaches."
+    },
+    {
+      "index": 476,
+      "start": "00:35:56.300",
+      "end": "00:35:58.170",
+      "text": "I think that's really, really helpful."
+    },
+    {
+      "index": 477,
+      "start": "00:35:58.170",
+      "end": "00:36:00.370",
+      "text": "We heard from the Councillor about the businesses"
+    },
+    {
+      "index": 478,
+      "start": "00:36:00.370",
+      "end": "00:36:02.360",
+      "text": "and the challenges in the community"
+    },
+    {
+      "index": 479,
+      "start": "00:36:02.360",
+      "end": "00:36:05.080",
+      "text": "and making sure that communication is going."
+    },
+    {
+      "index": 480,
+      "start": "00:36:05.080",
+      "end": "00:36:08.750",
+      "text": "I often think that we can never do enough"
+    },
+    {
+      "index": 481,
+      "start": "00:36:08.750",
+      "end": "00:36:12.230",
+      "text": "to make sure that not only supporting the business,"
+    },
+    {
+      "index": 482,
+      "start": "00:36:12.230",
+      "end": "00:36:14.220",
+      "text": "but allowing the community to know"
+    },
+    {
+      "index": 483,
+      "start": "00:36:14.220",
+      "end": "00:36:17.850",
+      "text": "that we are still open for businesses is also important."
+    },
+    {
+      "index": 484,
+      "start": "00:36:17.850",
+      "end": "00:36:19.530",
+      "text": "I do have a quick question."
+    },
+    {
+      "index": 485,
+      "start": "00:36:19.530",
+      "end": "00:36:21.730",
+      "text": "If the committee will allow me from the chair,"
+    },
+    {
+      "index": 486,
+      "start": "00:36:21.730",
+      "end": "00:36:25.000",
+      "text": "as it relates to the timelines for these projects,"
+    },
+    {
+      "index": 487,
+      "start": "00:36:25.000",
+      "end": "00:36:28.030",
+      "text": "are we sort of starting all three projects"
+    },
+    {
+      "index": 488,
+      "start": "00:36:28.030",
+      "end": "00:36:31.550",
+      "text": "or how are we going to be managing the projects"
+    },
+    {
+      "index": 489,
+      "start": "00:36:31.550",
+      "end": "00:36:33.470",
+      "text": "and the timelines?"
+    },
+    {
+      "index": 490,
+      "start": "00:36:33.470",
+      "end": "00:36:36.450",
+      "text": "What can we expect?"
+    },
+    {
+      "index": 491,
+      "start": "00:36:36.450",
+      "end": "00:36:37.530",
+      "text": "Yes, through the chair,"
+    },
+    {
+      "index": 492,
+      "start": "00:36:37.530",
+      "end": "00:36:39.610",
+      "text": "these are all quite substantial projects,"
+    },
+    {
+      "index": 493,
+      "start": "00:36:39.610",
+      "end": "00:36:40.890",
+      "text": "so we're anticipating they'll take"
+    },
+    {
+      "index": 494,
+      "start": "00:36:40.890",
+      "end": "00:36:42.680",
+      "text": "the full construction season."
+    },
+    {
+      "index": 495,
+      "start": "00:36:42.680",
+      "end": "00:36:44.520",
+      "text": "We've already had a chance to have early discussions"
+    },
+    {
+      "index": 496,
+      "start": "00:36:44.520",
+      "end": "00:36:46.030",
+      "text": "with the successful contractor"
+    },
+    {
+      "index": 497,
+      "start": "00:36:46.030",
+      "end": "00:36:47.230",
+      "text": "and know that they're anxious"
+    },
+    {
+      "index": 498,
+      "start": "00:36:47.230",
+      "end": "00:36:49.510",
+      "text": "to get started on highberry as soon as possible"
+    },
+    {
+      "index": 499,
+      "start": "00:36:49.510",
+      "end": "00:36:51.940",
+      "text": "and then soon after moving over to Dundas."
+    },
+    {
+      "index": 500,
+      "start": "00:36:51.940",
+      "end": "00:36:53.300",
+      "text": "With the Clark's Bridge project,"
+    },
+    {
+      "index": 501,
+      "start": "00:36:53.300",
+      "end": "00:36:55.930",
+      "text": "we've got some advanced works that we need to do"
+    },
+    {
+      "index": 502,
+      "start": "00:36:55.930",
+      "end": "00:36:59.370",
+      "text": "by the fact that we have in water sensitive work."
+    },
+    {
+      "index": 503,
+      "start": "00:36:59.370",
+      "end": "00:37:01.440",
+      "text": "We've got some advanced environmental work"
+    },
+    {
+      "index": 504,
+      "start": "00:37:01.440",
+      "end": "00:37:03.760",
+      "text": "to put in erosion, sediment control measures,"
+    },
+    {
+      "index": 505,
+      "start": "00:37:03.760",
+      "end": "00:37:05.910",
+      "text": "bird netting on the bridge itself"
+    },
+    {
+      "index": 506,
+      "start": "00:37:05.910",
+      "end": "00:37:07.830",
+      "text": "and do some tree removals,"
+    },
+    {
+      "index": 507,
+      "start": "00:37:07.830",
+      "end": "00:37:09.460",
+      "text": "all with the goal of trying to be ready"
+    },
+    {
+      "index": 508,
+      "start": "00:37:09.460",
+      "end": "00:37:10.620",
+      "text": "to be doing in water works"
+    },
+    {
+      "index": 509,
+      "start": "00:37:10.620",
+      "end": "00:37:13.540",
+      "text": "when the fisheries window opens on July 1st."
+    },
+    {
+      "index": 510,
+      "start": "00:37:13.540",
+      "end": "00:37:15.170",
+      "text": "So we've got a lot of prep work to do"
+    },
+    {
+      "index": 511,
+      "start": "00:37:15.170",
+      "end": "00:37:16.930",
+      "text": "before you're actually going to see some impacts"
+    },
+    {
+      "index": 512,
+      "start": "00:37:16.930",
+      "end": "00:37:19.160",
+      "text": "to Wellington, but that's a big project."
+    },
+    {
+      "index": 513,
+      "start": "00:37:19.160",
+      "end": "00:37:21.280",
+      "text": "That project is planned to start this year"
+    },
+    {
+      "index": 514,
+      "start": "00:37:21.280",
+      "end": "00:37:25.050",
+      "text": "and carry over into 2025."
+    },
+    {
+      "index": 515,
+      "start": "00:37:25.050",
+      "end": "00:37:27.890",
+      "text": "Thank you for that, so long projects"
+    },
+    {
+      "index": 516,
+      "start": "00:37:27.890",
+      "end": "00:37:31.010",
+      "text": "and massive projects going forward out in the East End."
+    },
+    {
+      "index": 517,
+      "start": "00:37:31.010",
+      "end": "00:37:38.390",
+      "text": "With that, I'm looking for a motion to 2.4,"
+    },
+    {
+      "index": 518,
+      "start": "00:37:38.390",
+      "end": "00:37:44.550",
+      "text": "which is the East London Link Phase 3A West,"
+    },
+    {
+      "index": 519,
+      "start": "00:37:44.550",
+      "end": "00:37:48.970",
+      "text": "Councillor Torsault, and he's moving the motion"
+    },
+    {
+      "index": 520,
+      "start": "00:37:48.970",
+      "end": "00:37:51.890",
+      "text": "and I've got Councillor Frank seconding it."
+    },
+    {
+      "index": 521,
+      "start": "00:37:51.890",
+      "end": "00:38:06.150",
+      "text": "And with that, we can proceed to vote."
+    },
+    {
+      "index": 522,
+      "start": "00:38:06.150",
+      "end": "00:38:09.920",
+      "text": "Building the vote, the motion carries five to zero."
+    },
+    {
+      "index": 523,
+      "start": "00:38:09.920",
+      "end": "00:38:12.910",
+      "text": "Moving on to number five, deferred matters"
+    },
+    {
+      "index": 524,
+      "start": "00:38:12.910",
+      "end": "00:38:17.750",
+      "text": "and additional business, Councillor Torsault."
+    },
+    {
+      "index": 525,
+      "start": "00:38:17.750",
+      "end": "00:38:19.670",
+      "text": "Yes, I'm not preparing a motion,"
+    },
+    {
+      "index": 526,
+      "start": "00:38:19.670",
+      "end": "00:38:21.120",
+      "text": "but I just have a very quick question"
+    },
+    {
+      "index": 527,
+      "start": "00:38:21.120",
+      "end": "00:38:23.550",
+      "text": "which I think will save a lot of trouble"
+    },
+    {
+      "index": 528,
+      "start": "00:38:23.550",
+      "end": "00:38:26.840",
+      "text": "and has it tend to approach all the other members"
+    },
+    {
+      "index": 529,
+      "start": "00:38:26.840",
+      "end": "00:38:28.370",
+      "text": "of the committee outside of the meeting."
+    },
+    {
+      "index": 530,
+      "start": "00:38:28.370",
+      "end": "00:38:30.020",
+      "text": "So I'll ask this."
+    },
+    {
+      "index": 531,
+      "start": "00:38:30.020",
+      "end": "00:38:34.910",
+      "text": "I received a number of inquiries from my residents"
+    },
+    {
+      "index": 532,
+      "start": "00:38:34.910",
+      "end": "00:38:37.800",
+      "text": "that their garbage was not picked up today,"
+    },
+    {
+      "index": 533,
+      "start": "00:38:37.800",
+      "end": "00:38:40.250",
+      "text": "it was supposed to have been picked up."
+    },
+    {
+      "index": 534,
+      "start": "00:38:40.250",
+      "end": "00:38:43.580",
+      "text": "And I just refer them to service London."
+    },
+    {
+      "index": 535,
+      "start": "00:38:43.580",
+      "end": "00:38:46.760",
+      "text": "And while I don't like to make representations"
+    },
+    {
+      "index": 536,
+      "start": "00:38:46.760",
+      "end": "00:38:50.730",
+      "text": "for the city, I try to assure them"
+    },
+    {
+      "index": 537,
+      "start": "00:38:50.730",
+      "end": "00:38:54.160",
+      "text": "that things might just be running a little bit late"
+    },
+    {
+      "index": 538,
+      "start": "00:38:54.160",
+      "end": "00:38:57.420",
+      "text": "at the beginning and that people should not worry about it"
+    },
+    {
+      "index": 539,
+      "start": "00:38:57.420",
+      "end": "00:38:59.960",
+      "text": "and that it'll get picked up"
+    },
+    {
+      "index": 540,
+      "start": "00:38:59.960",
+      "end": "00:39:03.160",
+      "text": "and people are not gonna be charged for additional tags"
+    },
+    {
+      "index": 541,
+      "start": "00:39:03.160",
+      "end": "00:39:05.130",
+      "text": "if they miss a week."
+    },
+    {
+      "index": 542,
+      "start": "00:39:05.130",
+      "end": "00:39:09.380",
+      "text": "Is that a reasonable thing for me to be saying?"
+    },
+    {
+      "index": 543,
+      "start": "00:39:09.380",
+      "end": "00:39:13.700",
+      "text": "Through the chair, Mr. Stanford."
+    },
+    {
+      "index": 544,
+      "start": "00:39:13.700",
+      "end": "00:39:14.990",
+      "text": "Thank you and through the chair."
+    },
+    {
+      "index": 545,
+      "start": "00:39:14.990",
+      "end": "00:39:18.500",
+      "text": "Yes, those are very appropriate words to be sharing."
+    },
+    {
+      "index": 546,
+      "start": "00:39:18.500",
+      "end": "00:39:19.970",
+      "text": "During a transition like this,"
+    },
+    {
+      "index": 547,
+      "start": "00:39:19.970",
+      "end": "00:39:22.790",
+      "text": "there are often delays that occur"
+    },
+    {
+      "index": 548,
+      "start": "00:39:22.790",
+      "end": "00:39:26.330",
+      "text": "and getting used to the biweekly garbage pickup is very key."
+    },
+    {
+      "index": 549,
+      "start": "00:39:26.330",
+      "end": "00:39:28.230",
+      "text": "So there are times when people put out garbage"
+    },
+    {
+      "index": 550,
+      "start": "00:39:28.230",
+      "end": "00:39:30.020",
+      "text": "and it will not be collected"
+    },
+    {
+      "index": 551,
+      "start": "00:39:30.020",
+      "end": "00:39:32.390",
+      "text": "'cause it's meant to be the next week."
+    },
+    {
+      "index": 552,
+      "start": "00:39:32.390",
+      "end": "00:39:37.320",
+      "text": "And what we're finding is that by not collecting the garbage,"
+    },
+    {
+      "index": 553,
+      "start": "00:39:37.320",
+      "end": "00:39:38.880",
+      "text": "they clearly look at the message,"
+    },
+    {
+      "index": 554,
+      "start": "00:39:38.880",
+      "end": "00:39:40.710",
+      "text": "they clearly look at the schedule"
+    },
+    {
+      "index": 555,
+      "start": "00:39:40.710",
+      "end": "00:39:43.680",
+      "text": "and then they realize the error they've made."
+    },
+    {
+      "index": 556,
+      "start": "00:39:43.680",
+      "end": "00:39:46.480",
+      "text": "So that is the plan that we're gonna carry forward"
+    },
+    {
+      "index": 557,
+      "start": "00:39:46.480",
+      "end": "00:39:48.890",
+      "text": "and should there be difficult situations,"
+    },
+    {
+      "index": 558,
+      "start": "00:39:48.890",
+      "end": "00:39:53.660",
+      "text": "we're definitely here to help."
+    },
+    {
+      "index": 559,
+      "start": "00:39:53.660",
+      "end": "00:39:55.210",
+      "text": "Councillor, thank you for that question."
+    },
+    {
+      "index": 560,
+      "start": "00:39:55.210",
+      "end": "00:39:57.720",
+      "text": "I think we're all a little bit anxious"
+    },
+    {
+      "index": 561,
+      "start": "00:39:57.720",
+      "end": "00:39:59.910",
+      "text": "wondering if our garbage is going to be picked up"
+    },
+    {
+      "index": 562,
+      "start": "00:39:59.910",
+      "end": "00:40:01.540",
+      "text": "as we go through that transitional."
+    },
+    {
+      "index": 563,
+      "start": "00:40:01.540",
+      "end": "00:40:03.690",
+      "text": "I think it's only normal and natural."
+    },
+    {
+      "index": 564,
+      "start": "00:40:03.690",
+      "end": "00:40:06.120",
+      "text": "I wanna thank staff for always being there"
+    },
+    {
+      "index": 565,
+      "start": "00:40:06.120",
+      "end": "00:40:08.030",
+      "text": "and answering the questions and the concerns"
+    },
+    {
+      "index": 566,
+      "start": "00:40:08.030",
+      "end": "00:40:08.940",
+      "text": "from the community."
+    },
+    {
+      "index": 567,
+      "start": "00:40:08.940",
+      "end": "00:40:12.940",
+      "text": "So thank you, Councillor, for asking that question."
+    },
+    {
+      "index": 568,
+      "start": "00:40:12.940",
+      "end": "00:40:17.230",
+      "text": "And with that, I am looking for an adjournment."
+    },
+    {
+      "index": 569,
+      "start": "00:40:17.230",
+      "end": "00:40:21.690",
+      "text": "Councillor Trissell, seconded by Councillor Ferrera."
+    },
+    {
+      "index": 570,
+      "start": "00:40:21.690",
+      "end": "00:40:24.270",
+      "text": "And can we do a hand vote?"
+    },
+    {
+      "index": 571,
+      "start": "00:40:24.270",
+      "end": "00:40:28.400",
+      "text": "Hand vote, with that, we adjourn."
+    },
+    {
+      "index": 572,
+      "start": "00:40:28.400",
+      "end": "00:40:29.210",
+      "text": "Thanks, everyone."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Civic%20Works%20Committee/2024/01-30/.transcript.srt"
+}

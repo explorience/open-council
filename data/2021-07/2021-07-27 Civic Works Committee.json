@@ -1,1 +1,2858 @@
-{"title": null, "datetime": "2021-07-27 12:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=938c5d9e-fedb-4ef9-86ec-6008cd94fdf0&Agenda=PostMinutes&lang=English", "meeting_type": "Civic Works Committee", "bills": null, "present": ["E. Peloza", "J. Helmer", "M. Cassidy", "P. Van Meerbergen", "E. Holder"], "also_present": ["K. Van Lammeren", "A. Pascual.\n\n\n\n S. Hillier", "S. Lewis", "G. Belch", "J. Dann", "U. DeCandido", "D. MacRae", "K. Oudekerk", "D. Popadic", "A. Rammeloo", "K. Scherr", "J. Simon", "B. Somers", "J. Stanford", "B. Westlake-Power.\n\n\n\nThe meeting was called to order at 12:01 PM with  E. Peloza in the Chair", "it being noted that the following Members were in  E. Holder", "M. Cassidy", "J. Helmer", "P. Van Meerbergen."], "remote_attendance": [], "content": {"__class__": "Content"}, "absent": ["S. Turner"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, and 2.8 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "M. Cassidy", "E. Peloza", "P. Van Meerbergen,E. Holder"]}, {"vote": "Absent:", "voters": ["S. Turner"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "6th Report of the Transportation Advisory Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That the 6th Report of the Transportation Advisory Committee, from its meeting held on June 29, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-06-29 TAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82890", "date": "2021-06-29 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Amendments to the Traffic and Parking By-law\u00a0", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the three proposed by-laws as appended to the staff report dated July 27, 2021 as Appendices A, B, and C, BE INTRODUCED at the Municipal Council meeting to be held on August 10, 2021, to amend By-law PS-113 entitled, \u201cA by-law to regulate traffic and the parking of motor vehicles in the City of London\u201d. (2021-T02/T08)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27 SR - Traffic and Parking By-law Amendment", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82892", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Greenway Organic Rankine Cycle Project - Connection Agreement with London Hydro", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to the execution of a Connection Agreement between The Corporation of the City of London and London Hydro for power generation at the Greenway Wastewater Treatment Plant:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the proposed by-law, as included on the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on August 10, 2021, to authorize the Mayor and the City Clerk to execute the above-noted Agreement; and,", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any additional documents, if required, to give effect to the Agreement. (2021-E06)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"a": {"title": "(ADDED) By-law", "number": "a", "content": [], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27 SR - Greenway ORC London Hydro Connection Agreement - By-law", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82899", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27 SR - Greenway ORC London Hydro Connection Agreement - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82895", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "RFT 21-51 Supply and Delivery of Steel Guiderail and Accessories", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to tender RFT 21-51, Supply and Delivery of Steel Guiderail and Accessories:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0approval hereby BE GIVEN to enter into an eight-month contract, with four (4) one-year options for the Supply and Delivery of Steel Guiderail and Accessories to Royal Fence Limited at the quoted price of $478,840.00; it being noted that this is an irregular result where pricing exceeds the budget but award can proceed in accordance with Section 8.10 (a) of the City of London\u2019s Procurement of Goods and Service Policy;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Mayor and City Clerk BE AUTHORIZED to execute any contract or other documents, as required, to give effect to these recommendations; and,", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract. (2021-T04)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27 SR - Traffic Guide Rails Tender Award", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82891", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Emergency Purchase of a MagnaDrive Adjustable Speed Drive ", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to the emergency, non-competitive purchase of a MagnaDrive Adjustable Speed Drive for the Southeast Reservoir and Pumping Station:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the purchase order for the purchase of a MagnaDrive Adjustable Speed Drive from SCG Process at a total price of $94,382.00, excluding HST, BE CONFIRMED, in accordance with Section 14.2 of the City of London\u2019s Procurement of Goods and Services Policy; and,", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2021-E03)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27 SR - MagnaDrive Adjustable Speed Drive - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82894", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Renewal of the Lead Service Extension Replacement Loan Program", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law as included on the Added Agenda, BE INTRODUCED at the Municipal Council meeting on August 10, 2021, to amend By-law No. A.-6123-196 entitled \u201cA By-law to provide for a Lead Service Extension Replacement Loan Program Pilot Project for owner-occupied dwellings of three or less dwelling units\u201d.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"a": {"title": "(ADDED) By-law", "number": "a", "content": [], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-26 SR - Lead Service Extension Replacement Program - By-law", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82900", "date": "2021-07-26 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27 SR - Lead Service Extension Replacement Loan Program", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82898", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "8": {"title": "RFT 21-03 Rental of Winter Maintenance Equipment with Operator, Sander and Salters with Plow and Wing ", "number": "8", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to tender RFT 21-03, Rental of Winter Maintenance Equipment with Operator, Sander and Salter with Plow and Wing:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the bids submitted by Mobil Services Inc., S&B Construction Ltd., B and A Davies Paving and Construction Inc., Ferrari Concrete Ltd. and CH Excavating (2013) at their tendered prices BE ACCEPTED;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract; and,", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 the approval given herein BE CONDITIONAL upon the Corporation entering into a formal contract, or having a purchase order, or contract record relating to the subject matter of this approval. (2021-V01)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27-CWC SR - Winter Maintenance Equipment Rental", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82893", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Participation in the South London Air Monitoring Network Pilot Project", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "That the staff report dated July 27, 2021 with respect to the South London Air Monitoring Network Pilot Project BE DEFERRED to the next Civic Works Committee meeting for consideration. (2021-E05)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "M. Cassidy", "E. Peloza", "P. Van Meerbergen,E. Holder"]}, {"vote": "Absent:", "voters": ["S. Turner"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "2021-07-27 SR - South London Air Monitoring Pilot Project - Full", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82897", "date": "2021-07-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [], "items": {"1": {"title": "Deferred Matters List", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "That the Civic Works Committee Deferred Matters List as at July 19, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "M. Cassidy", "E. Peloza", "P. Van Meerbergen,E. Holder"]}, {"vote": "Absent:", "voters": ["S. Turner"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [{"empty_flag": false, "title": "CWC DEFERRED MATTERS as at July 19, 2021", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82896", "date": "2021-07-27 12:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential (Enclosed for Members Only)", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. Cassidy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That the Civic Works Committee convene, In Closed Session, for the purpose of considering the following:", "__class__": "Paragraph"}, {"string": "6.1 Litigation / Solicitor-Client Privileged Advice", "__class__": "Paragraph"}, {"string": "A matter pertaining to litigation or potential litigation; advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers and employees of the Corporation with respect to litigation currently before the Superior Court of Justice, Court file No. 2278/18 and 2278/18-A1 affecting the municipality in relation to the Bradley Avenue West Extension and Wharncliffe Road South Improvements.", "__class__": "Paragraph"}, {"string": "6.2 Litigation / Solicitor-Client Privileged Advice", "__class__": "Paragraph"}, {"string": "A matter pertaining to litigation or potential litigation; advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers and employees of the Corporation with respect to litigation currently before the Superior Court of Justice, Court file 783/19 affecting the municipality in relation to the 2016 Sarnia Road Improvements.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "M. Cassidy", "E. Peloza", "P. Van Meerbergen,E. Holder"]}, {"vote": "Absent:", "voters": ["S. Turner"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Civic Works Committee convenes, in Closed Session, from 12:20 PM to 12:46 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {"1": {"title": "Litigation / Solicitor-Client Privileged Advice", "number": "1", "content": [], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Litigation / Solicitor-Client Privileged Advice", "number": "2", "content": [], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"string": "The meeting adjourned at 12:47 PM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-07-27 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2021-07-27 12:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=938c5d9e-fedb-4ef9-86ec-6008cd94fdf0&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Civic Works Committee",
+  "bills": null,
+  "present": [
+    "E. Peloza",
+    "J. Helmer",
+    "M. Cassidy",
+    "P. Van Meerbergen",
+    "E. Holder"
+  ],
+  "also_present": [
+    "K. Van Lammeren",
+    "A. Pascual.\n\n\n\n S. Hillier",
+    "S. Lewis",
+    "G. Belch",
+    "J. Dann",
+    "U. DeCandido",
+    "D. MacRae",
+    "K. Oudekerk",
+    "D. Popadic",
+    "A. Rammeloo",
+    "K. Scherr",
+    "J. Simon",
+    "B. Somers",
+    "J. Stanford",
+    "B. Westlake-Power.\n\n\n\nThe meeting was called to order at 12:01 PM with  E. Peloza in the Chair",
+    "it being noted that the following Members were in  E. Holder",
+    "M. Cassidy",
+    "J. Helmer",
+    "P. Van Meerbergen."
+  ],
+  "remote_attendance": [],
+  "content": {
+    "__class__": "Content"
+  },
+  "absent": [
+    "S. Turner"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-07-27 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by J. Helmer",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, and 2.8 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "J. Helmer",
+                  "M. Cassidy",
+                  "E. Peloza",
+                  "P. Van Meerbergen,E. Holder"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Turner"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "6th Report of the Transportation Advisory Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 6th Report of the Transportation Advisory Committee, from its meeting held on June 29, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-06-29 TAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82890",
+              "date": "2021-06-29 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Amendments to the Traffic and Parking By-law\u00a0",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the three proposed by-laws as appended to the staff report dated July 27, 2021 as Appendices A, B, and C, BE INTRODUCED at the Municipal Council meeting to be held on August 10, 2021, to amend By-law PS-113 entitled, \u201cA by-law to regulate traffic and the parking of motor vehicles in the City of London\u201d. (2021-T02/T08)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-27 SR - Traffic and Parking By-law Amendment",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82892",
+              "date": "2021-07-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Greenway Organic Rankine Cycle Project - Connection Agreement with London Hydro",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to the execution of a Connection Agreement between The Corporation of the City of London and London Hydro for power generation at the Greenway Wastewater Treatment Plant:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the proposed by-law, as included on the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on August 10, 2021, to authorize the Mayor and the City Clerk to execute the above-noted Agreement; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any additional documents, if required, to give effect to the Agreement. (2021-E06)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {
+            "a": {
+              "title": "(ADDED) By-law",
+              "number": "a",
+              "content": [],
+              "items": {},
+              "datetime": "2021-07-27 12:00:00",
+              "attachments": [
+                {
+                  "empty_flag": false,
+                  "title": "2021-07-27 SR - Greenway ORC London Hydro Connection Agreement - By-law",
+                  "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82899",
+                  "date": "2021-07-27 00:00:00",
+                  "local_page": null,
+                  "__class__": "Attachment"
+                }
+              ],
+              "report": null,
+              "__class__": "MeetingItem"
+            }
+          },
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-27 SR - Greenway ORC London Hydro Connection Agreement - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82895",
+              "date": "2021-07-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "RFT 21-51 Supply and Delivery of Steel Guiderail and Accessories",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to tender RFT 21-51, Supply and Delivery of Steel Guiderail and Accessories:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0approval hereby BE GIVEN to enter into an eight-month contract, with four (4) one-year options for the Supply and Delivery of Steel Guiderail and Accessories to Royal Fence Limited at the quoted price of $478,840.00; it being noted that this is an irregular result where pricing exceeds the budget but award can proceed in accordance with Section 8.10 (a) of the City of London\u2019s Procurement of Goods and Service Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Mayor and City Clerk BE AUTHORIZED to execute any contract or other documents, as required, to give effect to these recommendations; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract. (2021-T04)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-27 SR - Traffic Guide Rails Tender Award",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82891",
+              "date": "2021-07-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Emergency Purchase of a MagnaDrive Adjustable Speed Drive ",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to the emergency, non-competitive purchase of a MagnaDrive Adjustable Speed Drive for the Southeast Reservoir and Pumping Station:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the purchase order for the purchase of a MagnaDrive Adjustable Speed Drive from SCG Process at a total price of $94,382.00, excluding HST, BE CONFIRMED, in accordance with Section 14.2 of the City of London\u2019s Procurement of Goods and Services Policy; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2021-E03)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-27 SR - MagnaDrive Adjustable Speed Drive - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82894",
+              "date": "2021-07-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "Renewal of the Lead Service Extension Replacement Loan Program",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law as included on the Added Agenda, BE INTRODUCED at the Municipal Council meeting on August 10, 2021, to amend By-law No. A.-6123-196 entitled \u201cA By-law to provide for a Lead Service Extension Replacement Loan Program Pilot Project for owner-occupied dwellings of three or less dwelling units\u201d.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {
+            "a": {
+              "title": "(ADDED) By-law",
+              "number": "a",
+              "content": [],
+              "items": {},
+              "datetime": "2021-07-27 12:00:00",
+              "attachments": [
+                {
+                  "empty_flag": false,
+                  "title": "2021-07-26 SR - Lead Service Extension Replacement Program - By-law",
+                  "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82900",
+                  "date": "2021-07-26 00:00:00",
+                  "local_page": null,
+                  "__class__": "Attachment"
+                }
+              ],
+              "report": null,
+              "__class__": "MeetingItem"
+            }
+          },
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-27 SR - Lead Service Extension Replacement Loan Program",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82898",
+              "date": "2021-07-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "8": {
+          "title": "RFT 21-03 Rental of Winter Maintenance Equipment with Operator, Sander and Salters with Plow and Wing ",
+          "number": "8",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 27, 2021, related to tender RFT 21-03, Rental of Winter Maintenance Equipment with Operator, Sander and Salter with Plow and Wing:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the bids submitted by Mobil Services Inc., S&B Construction Ltd., B and A Davies Paving and Construction Inc., Ferrari Concrete Ltd. and CH Excavating (2013) at their tendered prices BE ACCEPTED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 the approval given herein BE CONDITIONAL upon the Corporation entering into a formal contract, or having a purchase order, or contract record relating to the subject matter of this approval. (2021-V01)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-27-CWC SR - Winter Maintenance Equipment Rental",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82893",
+              "date": "2021-07-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "Participation in the South London Air Monitoring Network Pilot Project",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by E. Holder",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the staff report dated July 27, 2021 with respect to the South London Air Monitoring Network Pilot Project BE DEFERRED to the next Civic Works Committee meeting for consideration. (2021-E05)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "J. Helmer",
+                      "M. Cassidy",
+                      "E. Peloza",
+                      "P. Van Meerbergen,E. Holder"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Turner"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-07-27 SR - South London Air Monitoring Pilot Project - Full",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82897",
+              "date": "2021-07-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-07-27 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-07-27 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-07-27 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Deferred Matters List",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by E. Holder",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Civic Works Committee Deferred Matters List as at July 19, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "J. Helmer",
+                      "M. Cassidy",
+                      "E. Peloza",
+                      "P. Van Meerbergen,E. Holder"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Turner"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "CWC DEFERRED MATTERS as at July 19, 2021",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=82896",
+              "date": "2021-07-27 12:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-07-27 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential (Enclosed for Members Only)",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by M. Cassidy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Civic Works Committee convene, In Closed Session, for the purpose of considering the following:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.1 Litigation / Solicitor-Client Privileged Advice",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to litigation or potential litigation; advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers and employees of the Corporation with respect to litigation currently before the Superior Court of Justice, Court file No. 2278/18 and 2278/18-A1 affecting the municipality in relation to the Bradley Avenue West Extension and Wharncliffe Road South Improvements.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.2 Litigation / Solicitor-Client Privileged Advice",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to litigation or potential litigation; advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers and employees of the Corporation with respect to litigation currently before the Superior Court of Justice, Court file 783/19 affecting the municipality in relation to the 2016 Sarnia Road Improvements.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "J. Helmer",
+                  "M. Cassidy",
+                  "E. Peloza",
+                  "P. Van Meerbergen,E. Holder"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Turner"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Civic Works Committee convenes, in Closed Session, from 12:20 PM to 12:46 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "Litigation / Solicitor-Client Privileged Advice",
+          "number": "1",
+          "content": [],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Litigation / Solicitor-Client Privileged Advice",
+          "number": "2",
+          "content": [],
+          "items": {},
+          "datetime": "2021-07-27 12:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-07-27 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "string": "The meeting adjourned at 12:47 PM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-07-27 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:08:32.390",
+      "end": "00:08:34.180",
+      "text": "Good afternoon committee, we're just giving a moment"
+    },
+    {
+      "index": 2,
+      "start": "00:08:34.180",
+      "end": "00:09:23.120",
+      "text": "for a couple more people to log in and then we'll commence."
+    },
+    {
+      "index": 3,
+      "start": "00:09:23.120",
+      "end": "00:09:25.920",
+      "text": "Good afternoon committee, we do have quorum."
+    },
+    {
+      "index": 4,
+      "start": "00:09:25.920",
+      "end": "00:09:27.940",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 5,
+      "start": "00:09:27.940",
+      "end": "00:09:30.310",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 6,
+      "start": "00:09:30.310",
+      "end": "00:09:32.320",
+      "text": "for council, standing our advisory committee meetings"
+    },
+    {
+      "index": 7,
+      "start": "00:09:32.320",
+      "end": "00:09:34.310",
+      "text": "and information upon request."
+    },
+    {
+      "index": 8,
+      "start": "00:09:34.310",
+      "end": "00:09:36.000",
+      "text": "To make requests for any city service,"
+    },
+    {
+      "index": 9,
+      "start": "00:09:36.000",
+      "end": "00:09:39.050",
+      "text": "please contact accessibility@london.ca"
+    },
+    {
+      "index": 10,
+      "start": "00:09:39.050",
+      "end": "00:09:43.960",
+      "text": "or 519-661-2489 extension 2425."
+    },
+    {
+      "index": 11,
+      "start": "00:09:43.960",
+      "end": "00:09:46.480",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 12,
+      "start": "00:09:46.480",
+      "end": "00:09:50.120",
+      "text": "please contact CWC@london.ca."
+    },
+    {
+      "index": 13,
+      "start": "00:09:50.120",
+      "end": "00:09:52.240",
+      "text": "For the public, please note city hall is open"
+    },
+    {
+      "index": 14,
+      "start": "00:09:52.240",
+      "end": "00:09:53.930",
+      "text": "with a limited capacity."
+    },
+    {
+      "index": 15,
+      "start": "00:09:53.930",
+      "end": "00:09:56.810",
+      "text": "So please call ahead to make sure we could service you"
+    },
+    {
+      "index": 16,
+      "start": "00:09:56.810",
+      "end": "00:09:58.560",
+      "text": "on your arrival."
+    },
+    {
+      "index": 17,
+      "start": "00:09:58.560",
+      "end": "00:09:59.960",
+      "text": "For our committee's information,"
+    },
+    {
+      "index": 18,
+      "start": "00:09:59.960",
+      "end": "00:10:03.150",
+      "text": "we are just waiting for councilor Cassidy to join us"
+    },
+    {
+      "index": 19,
+      "start": "00:10:03.150",
+      "end": "00:10:05.170",
+      "text": "and councilor Turner will be absent today,"
+    },
+    {
+      "index": 20,
+      "start": "00:10:05.170",
+      "end": "00:10:06.910",
+      "text": "but we do have quorum."
+    },
+    {
+      "index": 21,
+      "start": "00:10:06.910",
+      "end": "00:10:09.500",
+      "text": "So we can proceed and I will now look to committee"
+    },
+    {
+      "index": 22,
+      "start": "00:10:09.500",
+      "end": "00:10:29.610",
+      "text": "for disclosures of the culinary interest."
+    },
+    {
+      "index": 23,
+      "start": "00:10:29.610",
+      "end": "00:10:32.890",
+      "text": "Seeing no disclosures, I will now turn to our consent items."
+    },
+    {
+      "index": 24,
+      "start": "00:10:32.890",
+      "end": "00:10:37.460",
+      "text": "We have eight items before us on the consent docket"
+    },
+    {
+      "index": 25,
+      "start": "00:10:37.460",
+      "end": "00:10:42.770",
+      "text": "and item 2.7 is going to be pulled due to staff request,"
+    },
+    {
+      "index": 26,
+      "start": "00:10:42.770",
+      "end": "00:10:44.540",
+      "text": "which we'll discuss when we get to it."
+    },
+    {
+      "index": 27,
+      "start": "00:10:44.540",
+      "end": "00:10:47.360",
+      "text": "Looking to committee to see if there's anything else"
+    },
+    {
+      "index": 28,
+      "start": "00:10:47.360",
+      "end": "00:11:10.050",
+      "text": "from 2.1 to 2.8 that you would like to deal with separate."
+    },
+    {
+      "index": 29,
+      "start": "00:11:10.050",
+      "end": "00:11:13.470",
+      "text": "Okay, so that leaves us items 2.1 through to 2.8"
+    },
+    {
+      "index": 30,
+      "start": "00:11:13.470",
+      "end": "00:11:17.060",
+      "text": "with the exclusion of 2.7."
+    },
+    {
+      "index": 31,
+      "start": "00:11:17.060",
+      "end": "00:11:19.380",
+      "text": "Looking to committee for a mover and a seconder"
+    },
+    {
+      "index": 32,
+      "start": "00:11:19.380",
+      "end": "00:11:22.730",
+      "text": "or if you would like a discussion beforehand,"
+    },
+    {
+      "index": 33,
+      "start": "00:11:22.730",
+      "end": "00:11:27.740",
+      "text": "councilor Helmer will move."
+    },
+    {
+      "index": 34,
+      "start": "00:11:27.740",
+      "end": "00:11:31.390",
+      "text": "Councilor Van Merbergen will second."
+    },
+    {
+      "index": 35,
+      "start": "00:11:31.390",
+      "end": "00:11:34.230",
+      "text": "Okay, and opening it up now for committee's questions,"
+    },
+    {
+      "index": 36,
+      "start": "00:11:34.230",
+      "end": "00:11:36.510",
+      "text": "comments or concerns or stuff is with us"
+    },
+    {
+      "index": 37,
+      "start": "00:11:36.510",
+      "end": "00:11:41.860",
+      "text": "and are on standby to answer what we need."
+    },
+    {
+      "index": 38,
+      "start": "00:11:41.860",
+      "end": "00:11:43.480",
+      "text": "Okay, my speaker's list will now commence"
+    },
+    {
+      "index": 39,
+      "start": "00:11:43.480",
+      "end": "00:11:46.570",
+      "text": "with councilor Helmer."
+    },
+    {
+      "index": 40,
+      "start": "00:11:46.570",
+      "end": "00:11:47.810",
+      "text": "Thank you."
+    },
+    {
+      "index": 41,
+      "start": "00:11:47.810",
+      "end": "00:11:50.840",
+      "text": "Through the chair, I had a question about item 2.5,"
+    },
+    {
+      "index": 42,
+      "start": "00:11:50.840",
+      "end": "00:11:54.800",
+      "text": "which is the emergency purchase for the magnet drive."
+    },
+    {
+      "index": 43,
+      "start": "00:11:54.800",
+      "end": "00:12:00.290",
+      "text": "Obviously not great to see those components failing,"
+    },
+    {
+      "index": 44,
+      "start": "00:12:00.290",
+      "end": "00:12:02.130",
+      "text": "especially in the southeast reservoir,"
+    },
+    {
+      "index": 45,
+      "start": "00:12:02.130",
+      "end": "00:12:05.320",
+      "text": "which for many years has just come online"
+    },
+    {
+      "index": 46,
+      "start": "00:12:05.320",
+      "end": "00:12:08.150",
+      "text": "and up and running and then we have this problem."
+    },
+    {
+      "index": 47,
+      "start": "00:12:08.150",
+      "end": "00:12:11.520",
+      "text": "My question is whether the equipment is being used"
+    },
+    {
+      "index": 48,
+      "start": "00:12:11.520",
+      "end": "00:12:13.770",
+      "text": "in any of the other pumping stations"
+    },
+    {
+      "index": 49,
+      "start": "00:12:13.770",
+      "end": "00:12:16.210",
+      "text": "or if it's just limited to the southeast reservoir"
+    },
+    {
+      "index": 50,
+      "start": "00:12:16.210",
+      "end": "00:12:21.260",
+      "text": "and do staff have any concerns about any other locations"
+    },
+    {
+      "index": 51,
+      "start": "00:12:21.260",
+      "end": "00:12:25.930",
+      "text": "and vulnerabilities related to this issue."
+    },
+    {
+      "index": 52,
+      "start": "00:12:25.930",
+      "end": "00:12:26.940",
+      "text": "Thank you for that question"
+    },
+    {
+      "index": 53,
+      "start": "00:12:26.940",
+      "end": "00:12:29.260",
+      "text": "as it is a critical piece of equipment."
+    },
+    {
+      "index": 54,
+      "start": "00:12:29.260",
+      "end": "00:12:32.790",
+      "text": "And I believe Mr. Otterkirk is my go-to on that one."
+    },
+    {
+      "index": 55,
+      "start": "00:12:32.790",
+      "end": "00:12:41.820",
+      "text": "So the floor is yours."
+    },
+    {
+      "index": 56,
+      "start": "00:12:41.820",
+      "end": "00:12:42.630",
+      "text": "Thank you, Madam Chair."
+    },
+    {
+      "index": 57,
+      "start": "00:12:42.630",
+      "end": "00:12:45.610",
+      "text": "Actually, that's a drinking water side."
+    },
+    {
+      "index": 58,
+      "start": "00:12:45.610",
+      "end": "00:12:47.740",
+      "text": "I can speak to the fact that we do have magnet drives"
+    },
+    {
+      "index": 59,
+      "start": "00:12:47.740",
+      "end": "00:12:49.620",
+      "text": "installed in our plant as well,"
+    },
+    {
+      "index": 60,
+      "start": "00:12:49.620",
+      "end": "00:12:52.050",
+      "text": "but I'll let Mr. Simon handle that question."
+    },
+    {
+      "index": 61,
+      "start": "00:12:52.050",
+      "end": "00:12:55.430",
+      "text": "Thank you."
+    },
+    {
+      "index": 62,
+      "start": "00:12:55.430",
+      "end": "00:12:56.290",
+      "text": "Yes, I certainly can."
+    },
+    {
+      "index": 63,
+      "start": "00:12:56.290",
+      "end": "00:12:58.640",
+      "text": "Through the chair, southeast reservoir"
+    },
+    {
+      "index": 64,
+      "start": "00:12:58.640",
+      "end": "00:13:00.950",
+      "text": "is the only location that we have magnet drive units."
+    },
+    {
+      "index": 65,
+      "start": "00:13:00.950",
+      "end": "00:13:04.350",
+      "text": "So there are four in total there."
+    },
+    {
+      "index": 66,
+      "start": "00:13:04.350",
+      "end": "00:13:08.000",
+      "text": "Follow up questions, Councilor Helmer?"
+    },
+    {
+      "index": 67,
+      "start": "00:13:08.000",
+      "end": "00:13:11.150",
+      "text": "Yeah, well, since Mr. Otterkirk has volunteered it."
+    },
+    {
+      "index": 68,
+      "start": "00:13:11.150",
+      "end": "00:13:16.190",
+      "text": "What's the extent of the magnet drives on the wastewater side?"
+    },
+    {
+      "index": 69,
+      "start": "00:13:16.190",
+      "end": "00:13:18.710",
+      "text": "They are, sorry, through the chair,"
+    },
+    {
+      "index": 70,
+      "start": "00:13:18.710",
+      "end": "00:13:20.160",
+      "text": "the magnet drives are installed"
+    },
+    {
+      "index": 71,
+      "start": "00:13:20.160",
+      "end": "00:13:22.250",
+      "text": "on two of our low lift pumps at Greenway."
+    },
+    {
+      "index": 72,
+      "start": "00:13:22.250",
+      "end": "00:13:23.670",
+      "text": "Those are the only location that we have"
+    },
+    {
+      "index": 73,
+      "start": "00:13:23.670",
+      "end": "00:13:27.250",
+      "text": "or not typically we use VFDs, but in this location,"
+    },
+    {
+      "index": 74,
+      "start": "00:13:27.250",
+      "end": "00:13:29.580",
+      "text": "they made sense."
+    },
+    {
+      "index": 75,
+      "start": "00:13:29.580",
+      "end": "00:13:31.760",
+      "text": "And they've, sorry to follow up or clarify,"
+    },
+    {
+      "index": 76,
+      "start": "00:13:31.760",
+      "end": "00:13:34.090",
+      "text": "that's been since 2004."
+    },
+    {
+      "index": 77,
+      "start": "00:13:34.090",
+      "end": "00:13:35.630",
+      "text": "They've been installed for quite some time."
+    },
+    {
+      "index": 78,
+      "start": "00:13:35.630",
+      "end": "00:13:40.470",
+      "text": "So our success rate with them is fairly high."
+    },
+    {
+      "index": 79,
+      "start": "00:13:40.470",
+      "end": "00:13:41.720",
+      "text": "Mr. Helmer?"
+    },
+    {
+      "index": 80,
+      "start": "00:13:41.720",
+      "end": "00:13:43.500",
+      "text": "That's it for me, thanks."
+    },
+    {
+      "index": 81,
+      "start": "00:13:43.500",
+      "end": "00:13:46.650",
+      "text": "To Councilor Cassidy, welcome to committee."
+    },
+    {
+      "index": 82,
+      "start": "00:13:46.650",
+      "end": "00:13:49.670",
+      "text": "All items of consent are currently on the floor"
+    },
+    {
+      "index": 83,
+      "start": "00:13:49.670",
+      "end": "00:13:52.590",
+      "text": "with the exception of 2.7."
+    },
+    {
+      "index": 84,
+      "start": "00:13:52.590",
+      "end": "00:13:54.400",
+      "text": "So we're just going through questions now."
+    },
+    {
+      "index": 85,
+      "start": "00:13:54.400",
+      "end": "00:13:58.720",
+      "text": "So if you have anything, I will come to you in a moment,"
+    },
+    {
+      "index": 86,
+      "start": "00:13:58.720",
+      "end": "00:14:00.630",
+      "text": "looking to committee for other questions"
+    },
+    {
+      "index": 87,
+      "start": "00:14:00.630",
+      "end": "00:14:08.640",
+      "text": "in regards to the consent items."
+    },
+    {
+      "index": 88,
+      "start": "00:14:08.640",
+      "end": "00:14:10.730",
+      "text": "Councilor Cassidy, please proceed."
+    },
+    {
+      "index": 89,
+      "start": "00:14:10.730",
+      "end": "00:14:11.550",
+      "text": "Thank you, Madam Chair."
+    },
+    {
+      "index": 90,
+      "start": "00:14:11.550",
+      "end": "00:14:15.100",
+      "text": "My apologies for being late."
+    },
+    {
+      "index": 91,
+      "start": "00:14:15.100",
+      "end": "00:14:17.870",
+      "text": "And hopefully I'm not going to cover any items"
+    },
+    {
+      "index": 92,
+      "start": "00:14:17.870",
+      "end": "00:14:20.240",
+      "text": "that have already been covered,"
+    },
+    {
+      "index": 93,
+      "start": "00:14:20.240",
+      "end": "00:14:24.610",
+      "text": "but I'm wondering for the, for 2.4,"
+    },
+    {
+      "index": 94,
+      "start": "00:14:24.610",
+      "end": "00:14:27.400",
+      "text": "the steel guide rail and access and accessories."
+    },
+    {
+      "index": 95,
+      "start": "00:14:28.560",
+      "end": "00:14:32.310",
+      "text": "I wonder why it is so much the two bids"
+    },
+    {
+      "index": 96,
+      "start": "00:14:32.310",
+      "end": "00:14:39.640",
+      "text": "that we received were so much over the expected budget."
+    },
+    {
+      "index": 97,
+      "start": "00:14:39.640",
+      "end": "00:14:40.470",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 98,
+      "start": "00:14:40.470",
+      "end": "00:14:41.620",
+      "text": "And to Councilor, the only item"
+    },
+    {
+      "index": 99,
+      "start": "00:14:41.620",
+      "end": "00:14:44.000",
+      "text": "that we've actually discussed so far was 2.5."
+    },
+    {
+      "index": 100,
+      "start": "00:14:44.000",
+      "end": "00:14:46.020",
+      "text": "So every other question will be new."
+    },
+    {
+      "index": 101,
+      "start": "00:14:46.020",
+      "end": "00:14:47.760",
+      "text": "So Mr. McCray, I will turn it over to you"
+    },
+    {
+      "index": 102,
+      "start": "00:14:47.760",
+      "end": "00:14:51.500",
+      "text": "for item 2.4 and the Councilor's questions."
+    },
+    {
+      "index": 103,
+      "start": "00:14:51.500",
+      "end": "00:14:53.780",
+      "text": "Yeah, thank you through the chair."
+    },
+    {
+      "index": 104,
+      "start": "00:14:53.780",
+      "end": "00:14:57.690",
+      "text": "It is a function of a couple of things."
+    },
+    {
+      "index": 105,
+      "start": "00:14:57.690",
+      "end": "00:15:01.600",
+      "text": "One is a lot of these are addressed on a flow through basis"
+    },
+    {
+      "index": 106,
+      "start": "00:15:01.600",
+      "end": "00:15:04.860",
+      "text": "where the funds are recovered from insurance claims."
+    },
+    {
+      "index": 107,
+      "start": "00:15:04.860",
+      "end": "00:15:07.940",
+      "text": "So there is no impact to the city budget."
+    },
+    {
+      "index": 108,
+      "start": "00:15:07.940",
+      "end": "00:15:12.620",
+      "text": "And the other is, it's just based on assumed quantities"
+    },
+    {
+      "index": 109,
+      "start": "00:15:12.620",
+      "end": "00:15:16.000",
+      "text": "in the contract to help contractors bid,"
+    },
+    {
+      "index": 110,
+      "start": "00:15:16.000",
+      "end": "00:15:20.430",
+      "text": "but really the work and the quantities of the work"
+    },
+    {
+      "index": 111,
+      "start": "00:15:20.430",
+      "end": "00:15:22.960",
+      "text": "under this contract are somewhat unpredictable"
+    },
+    {
+      "index": 112,
+      "start": "00:15:22.960",
+      "end": "00:15:26.420",
+      "text": "and certainly scalable as it's a unit price contract."
+    },
+    {
+      "index": 113,
+      "start": "00:15:26.420",
+      "end": "00:15:29.450",
+      "text": "And the quantities were estimated to be"
+    },
+    {
+      "index": 114,
+      "start": "00:15:30.690",
+      "end": "00:15:33.900",
+      "text": "with some conservatism to allow the city flexibility"
+    },
+    {
+      "index": 115,
+      "start": "00:15:33.900",
+      "end": "00:15:36.830",
+      "text": "in the future, but it certainly doesn't commit us"
+    },
+    {
+      "index": 116,
+      "start": "00:15:36.830",
+      "end": "00:15:38.530",
+      "text": "to that level of expenditure."
+    },
+    {
+      "index": 117,
+      "start": "00:15:38.530",
+      "end": "00:15:41.070",
+      "text": "So there's no concerns on the budget side."
+    },
+    {
+      "index": 118,
+      "start": "00:15:41.070",
+      "end": "00:15:42.290",
+      "text": "Okay, great."
+    },
+    {
+      "index": 119,
+      "start": "00:15:42.290",
+      "end": "00:15:43.120",
+      "text": "Three, Madam Chair."
+    },
+    {
+      "index": 120,
+      "start": "00:15:43.120",
+      "end": "00:15:46.030",
+      "text": "I also have a, I do have some questions on 2.5."
+    },
+    {
+      "index": 121,
+      "start": "00:15:46.030",
+      "end": "00:15:55.230",
+      "text": "What is the, so there were four years of these mechanisms"
+    },
+    {
+      "index": 122,
+      "start": "00:15:55.230",
+      "end": "00:15:57.850",
+      "text": "in use it looks like."
+    },
+    {
+      "index": 123,
+      "start": "00:15:57.850",
+      "end": "00:15:59.510",
+      "text": "And so I'm wondering what's a normal"
+    },
+    {
+      "index": 124,
+      "start": "00:15:59.510",
+      "end": "00:16:03.790",
+      "text": "or what would be expected lifespan on these mechanisms?"
+    },
+    {
+      "index": 125,
+      "start": "00:16:03.790",
+      "end": "00:16:10.020",
+      "text": "Okay, to staff."
+    },
+    {
+      "index": 126,
+      "start": "00:16:10.020",
+      "end": "00:16:10.810",
+      "text": "Thank you."
+    },
+    {
+      "index": 127,
+      "start": "00:16:10.810",
+      "end": "00:16:13.250",
+      "text": "It's John Simon here through the chair."
+    },
+    {
+      "index": 128,
+      "start": "00:16:13.250",
+      "end": "00:16:16.430",
+      "text": "The expectation would be somewhere between 10 and 20 years"
+    },
+    {
+      "index": 129,
+      "start": "00:16:16.430",
+      "end": "00:16:18.100",
+      "text": "if things functioned well."
+    },
+    {
+      "index": 130,
+      "start": "00:16:18.100",
+      "end": "00:16:20.530",
+      "text": "We're not entirely sure why they failed"
+    },
+    {
+      "index": 131,
+      "start": "00:16:20.530",
+      "end": "00:16:22.350",
+      "text": "or were on their way to failure."
+    },
+    {
+      "index": 132,
+      "start": "00:16:22.350",
+      "end": "00:16:26.100",
+      "text": "So we pulled them out of service to do the investigation,"
+    },
+    {
+      "index": 133,
+      "start": "00:16:26.100",
+      "end": "00:16:29.480",
+      "text": "conduct some forensics to see what could have been the problem."
+    },
+    {
+      "index": 134,
+      "start": "00:16:29.480",
+      "end": "00:16:31.230",
+      "text": "We're working with the manufacturer presently."
+    },
+    {
+      "index": 135,
+      "start": "00:16:31.230",
+      "end": "00:16:32.700",
+      "text": "We do have the, of course,"
+    },
+    {
+      "index": 136,
+      "start": "00:16:32.700",
+      "end": "00:16:35.520",
+      "text": "through this council submission,"
+    },
+    {
+      "index": 137,
+      "start": "00:16:35.520",
+      "end": "00:16:39.420",
+      "text": "a new unit being prepared for us."
+    },
+    {
+      "index": 138,
+      "start": "00:16:39.420",
+      "end": "00:16:42.940",
+      "text": "And we'll see how it works and go from there after that."
+    },
+    {
+      "index": 139,
+      "start": "00:16:42.940",
+      "end": "00:16:43.820",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 140,
+      "start": "00:16:43.820",
+      "end": "00:16:46.170",
+      "text": "And through you, Madam Chair, some follow up questions."
+    },
+    {
+      "index": 141,
+      "start": "00:16:46.170",
+      "end": "00:16:49.150",
+      "text": "Did the smaller pumps use a similar mechanism?"
+    },
+    {
+      "index": 142,
+      "start": "00:16:49.150",
+      "end": "00:16:51.380",
+      "text": "And I see in the report there's,"
+    },
+    {
+      "index": 143,
+      "start": "00:16:51.380",
+      "end": "00:16:55.630",
+      "text": "we wanna get one of the larger pumps back online"
+    },
+    {
+      "index": 144,
+      "start": "00:16:55.630",
+      "end": "00:16:57.620",
+      "text": "to mitigate any risk of the smaller ones."
+    },
+    {
+      "index": 145,
+      "start": "00:16:57.620",
+      "end": "00:17:01.110",
+      "text": "But do they have a similar mechanism in use?"
+    },
+    {
+      "index": 146,
+      "start": "00:17:01.110",
+      "end": "00:17:03.180",
+      "text": "Through the chair, it's John here again."
+    },
+    {
+      "index": 147,
+      "start": "00:17:03.180",
+      "end": "00:17:07.360",
+      "text": "No, they are on standard variable frequency drive"
+    },
+    {
+      "index": 148,
+      "start": "00:17:07.360",
+      "end": "00:17:08.190",
+      "text": "electrical units."
+    },
+    {
+      "index": 149,
+      "start": "00:17:08.190",
+      "end": "00:17:10.160",
+      "text": "So they are somewhat different on the smaller units"
+    },
+    {
+      "index": 150,
+      "start": "00:17:10.160",
+      "end": "00:17:12.800",
+      "text": "and they're functioning perfectly."
+    },
+    {
+      "index": 151,
+      "start": "00:17:12.800",
+      "end": "00:17:16.450",
+      "text": "So two more questions and I'll ask them at the same time."
+    },
+    {
+      "index": 152,
+      "start": "00:17:16.450",
+      "end": "00:17:19.550",
+      "text": "Number one, does this, the adjustable speed drive,"
+    },
+    {
+      "index": 153,
+      "start": "00:17:19.550",
+      "end": "00:17:25.110",
+      "text": "does it slow the water down before coming into smaller systems"
+    },
+    {
+      "index": 154,
+      "start": "00:17:25.110",
+      "end": "00:17:28.550",
+      "text": "so that it doesn't like blow something"
+    },
+    {
+      "index": 155,
+      "start": "00:17:28.550",
+      "end": "00:17:29.700",
+      "text": "or overload the system?"
+    },
+    {
+      "index": 156,
+      "start": "00:17:29.700",
+      "end": "00:17:31.840",
+      "text": "So that's just a question of what does this mechanism"
+    },
+    {
+      "index": 157,
+      "start": "00:17:31.840",
+      "end": "00:17:32.710",
+      "text": "actually do?"
+    },
+    {
+      "index": 158,
+      "start": "00:17:32.710",
+      "end": "00:17:35.610",
+      "text": "And secondly, is there a warranty?"
+    },
+    {
+      "index": 159,
+      "start": "00:17:35.610",
+      "end": "00:17:39.680",
+      "text": "Are they under warranty in any way?"
+    },
+    {
+      "index": 160,
+      "start": "00:17:39.680",
+      "end": "00:17:41.540",
+      "text": "Through the chair, John Simon again,"
+    },
+    {
+      "index": 161,
+      "start": "00:17:41.540",
+      "end": "00:17:45.180",
+      "text": "there was a warranty, we've lapsed the warranty period."
+    },
+    {
+      "index": 162,
+      "start": "00:17:45.180",
+      "end": "00:17:47.750",
+      "text": "We are trying to negotiate with the manufacturer"
+    },
+    {
+      "index": 163,
+      "start": "00:17:47.750",
+      "end": "00:17:52.270",
+      "text": "of the peculiarity of this failure or impending failure"
+    },
+    {
+      "index": 164,
+      "start": "00:17:52.270",
+      "end": "00:17:54.090",
+      "text": "and to see if there's something available there."
+    },
+    {
+      "index": 165,
+      "start": "00:17:54.090",
+      "end": "00:17:55.630",
+      "text": "So there's no news on that yet."
+    },
+    {
+      "index": 166,
+      "start": "00:17:55.630",
+      "end": "00:17:59.310",
+      "text": "The way they do function is they do ramp up"
+    },
+    {
+      "index": 167,
+      "start": "00:17:59.310",
+      "end": "00:18:02.330",
+      "text": "and they do ramp down to control flow and pressure"
+    },
+    {
+      "index": 168,
+      "start": "00:18:02.330",
+      "end": "00:18:06.300",
+      "text": "and they're completely adjustable and run by SCADA systems"
+    },
+    {
+      "index": 169,
+      "start": "00:18:06.300",
+      "end": "00:18:07.450",
+      "text": "as they operate."
+    },
+    {
+      "index": 170,
+      "start": "00:18:07.450",
+      "end": "00:18:11.860",
+      "text": "So there's lots of diversity as they operate."
+    },
+    {
+      "index": 171,
+      "start": "00:18:11.860",
+      "end": "00:18:20.670",
+      "text": "Thank you, thank you, Madam Chair."
+    },
+    {
+      "index": 172,
+      "start": "00:18:20.670",
+      "end": "00:18:22.340",
+      "text": "And welcome, Councillor Lewis to committee,"
+    },
+    {
+      "index": 173,
+      "start": "00:18:22.340",
+      "end": "00:18:26.490",
+      "text": "looking to committee and guest Councillors"
+    },
+    {
+      "index": 174,
+      "start": "00:18:26.490",
+      "end": "00:18:28.380",
+      "text": "if there's any further questions in regards"
+    },
+    {
+      "index": 175,
+      "start": "00:18:28.380",
+      "end": "00:18:30.680",
+      "text": "to the consent items 2.1 through to 2.8"
+    },
+    {
+      "index": 176,
+      "start": "00:18:30.680",
+      "end": "00:18:35.740",
+      "text": "with the exception of 2.7."
+    },
+    {
+      "index": 177,
+      "start": "00:18:35.740",
+      "end": "00:18:38.980",
+      "text": "I'll recognize Councillor Lewis."
+    },
+    {
+      "index": 178,
+      "start": "00:18:38.980",
+      "end": "00:18:41.020",
+      "text": "Thank you, Madam Chair."
+    },
+    {
+      "index": 179,
+      "start": "00:18:41.020",
+      "end": "00:18:44.700",
+      "text": "I wanted to just join today to ask about the area"
+    },
+    {
+      "index": 180,
+      "start": "00:18:44.700",
+      "end": "00:18:48.620",
+      "text": "speed limits in the traffic and parking by-law changes"
+    },
+    {
+      "index": 181,
+      "start": "00:18:48.620",
+      "end": "00:18:54.490",
+      "text": "and primarily while I support moving the residential areas"
+    },
+    {
+      "index": 182,
+      "start": "00:18:54.490",
+      "end": "00:18:57.480",
+      "text": "to 40 kilometers an hour,"
+    },
+    {
+      "index": 183,
+      "start": "00:18:57.480",
+      "end": "00:19:00.770",
+      "text": "the six that are being recommended for implementation,"
+    },
+    {
+      "index": 184,
+      "start": "00:19:00.770",
+      "end": "00:19:02.840",
+      "text": "I certainly have no problem with those."
+    },
+    {
+      "index": 185,
+      "start": "00:19:02.840",
+      "end": "00:19:06.190",
+      "text": "What I kind of have a concern about though"
+    },
+    {
+      "index": 186,
+      "start": "00:19:06.190",
+      "end": "00:19:10.390",
+      "text": "is that we've got the first one that's in the agenda,"
+    },
+    {
+      "index": 187,
+      "start": "00:19:10.390",
+      "end": "00:19:13.690",
+      "text": "the East London bounded by Highbury, Oxford, Clark"
+    },
+    {
+      "index": 188,
+      "start": "00:19:13.690",
+      "end": "00:19:17.700",
+      "text": "and Dundas, and then we move down to the fifth one,"
+    },
+    {
+      "index": 189,
+      "start": "00:19:17.700",
+      "end": "00:19:20.500",
+      "text": "the South East London area bounded by Highbury,"
+    },
+    {
+      "index": 190,
+      "start": "00:19:20.500",
+      "end": "00:19:25.580",
+      "text": "CN Rail, Clark and Goar and Veterans Memorial."
+    },
+    {
+      "index": 191,
+      "start": "00:19:25.580",
+      "end": "00:19:30.920",
+      "text": "We're actually leaving out, well, pretty much more too."
+    },
+    {
+      "index": 192,
+      "start": "00:19:30.920",
+      "end": "00:19:34.060",
+      "text": "And it is actually a little bit of a concern to me"
+    },
+    {
+      "index": 193,
+      "start": "00:19:34.060",
+      "end": "00:19:37.490",
+      "text": "that we're gonna have a South area and a North area"
+    },
+    {
+      "index": 194,
+      "start": "00:19:37.490",
+      "end": "00:19:40.900",
+      "text": "with different speed limits than the central part"
+    },
+    {
+      "index": 195,
+      "start": "00:19:40.900",
+      "end": "00:19:45.250",
+      "text": "of the East End and one of the things that I've heard"
+    },
+    {
+      "index": 196,
+      "start": "00:19:45.250",
+      "end": "00:19:49.610",
+      "text": "from feedback from residents on speed limit changes is,"
+    },
+    {
+      "index": 197,
+      "start": "00:19:49.610",
+      "end": "00:19:52.540",
+      "text": "can you be consistent?"
+    },
+    {
+      "index": 198,
+      "start": "00:19:52.540",
+      "end": "00:19:54.230",
+      "text": "On my commute, I'm going through three"
+    },
+    {
+      "index": 199,
+      "start": "00:19:54.230",
+      "end": "00:19:55.920",
+      "text": "or four different speed zones."
+    },
+    {
+      "index": 200,
+      "start": "00:19:55.920",
+      "end": "00:19:57.420",
+      "text": "I'd like it to be something consistent."
+    },
+    {
+      "index": 201,
+      "start": "00:19:57.420",
+      "end": "00:20:02.270",
+      "text": "So I'm just through you wondering if staff can comment"
+    },
+    {
+      "index": 202,
+      "start": "00:20:02.270",
+      "end": "00:20:05.140",
+      "text": "on when the rest of the East End"
+    },
+    {
+      "index": 203,
+      "start": "00:20:05.140",
+      "end": "00:20:10.890",
+      "text": "and specifically South of Dundas to Trafalgar"
+    },
+    {
+      "index": 204,
+      "start": "00:20:10.890",
+      "end": "00:20:16.660",
+      "text": "or to the north side of the CN rail line will be addressed."
+    },
+    {
+      "index": 205,
+      "start": "00:20:16.660",
+      "end": "00:20:17.940",
+      "text": "Thank you for those questions."
+    },
+    {
+      "index": 206,
+      "start": "00:20:17.940",
+      "end": "00:20:22.390",
+      "text": "Mr. McCrae, for your response, please."
+    },
+    {
+      "index": 207,
+      "start": "00:20:22.390",
+      "end": "00:20:23.170",
+      "text": "Yeah, thank you."
+    },
+    {
+      "index": 208,
+      "start": "00:20:23.170",
+      "end": "00:20:26.790",
+      "text": "Through the chair, so the area speed limits"
+    },
+    {
+      "index": 209,
+      "start": "00:20:26.790",
+      "end": "00:20:29.050",
+      "text": "just by virtue of the magnitude of the program"
+    },
+    {
+      "index": 210,
+      "start": "00:20:29.050",
+      "end": "00:20:33.300",
+      "text": "is being phased in and the phasing is constrained"
+    },
+    {
+      "index": 211,
+      "start": "00:20:33.300",
+      "end": "00:20:38.400",
+      "text": "by the previous direction to consider operating impacts"
+    },
+    {
+      "index": 212,
+      "start": "00:20:38.400",
+      "end": "00:20:40.830",
+      "text": "to the London Transit Commission."
+    },
+    {
+      "index": 213,
+      "start": "00:20:40.830",
+      "end": "00:20:45.150",
+      "text": "And with some minor exceptions that we talked through"
+    },
+    {
+      "index": 214,
+      "start": "00:20:45.150",
+      "end": "00:20:49.130",
+      "text": "with London Transit, we were currently limited"
+    },
+    {
+      "index": 215,
+      "start": "00:20:49.130",
+      "end": "00:20:53.310",
+      "text": "to implementing in areas that they've identified"
+    },
+    {
+      "index": 216,
+      "start": "00:20:53.310",
+      "end": "00:20:58.200",
+      "text": "as no to minimal impacts or potential impacts"
+    },
+    {
+      "index": 217,
+      "start": "00:20:58.200",
+      "end": "00:21:03.240",
+      "text": "to their operating until they are able to review"
+    },
+    {
+      "index": 218,
+      "start": "00:21:03.240",
+      "end": "00:21:06.850",
+      "text": "and assess the actual impacts to rationalize"
+    },
+    {
+      "index": 219,
+      "start": "00:21:06.850",
+      "end": "00:21:08.800",
+      "text": "against what they had predicted earlier."
+    },
+    {
+      "index": 220,
+      "start": "00:21:08.800",
+      "end": "00:21:11.220",
+      "text": "So that unfortunately is somewhat dictates"
+    },
+    {
+      "index": 221,
+      "start": "00:21:11.220",
+      "end": "00:21:13.560",
+      "text": "which areas we can expand to"
+    },
+    {
+      "index": 222,
+      "start": "00:21:13.560",
+      "end": "00:21:16.040",
+      "text": "in the contiguous nature of them."
+    },
+    {
+      "index": 223,
+      "start": "00:21:16.040",
+      "end": "00:21:19.750",
+      "text": "So we're in continuous dialogue with LPC on that."
+    },
+    {
+      "index": 224,
+      "start": "00:21:19.750",
+      "end": "00:21:22.830",
+      "text": "Their analysis unfortunately is delayed somewhat"
+    },
+    {
+      "index": 225,
+      "start": "00:21:22.830",
+      "end": "00:21:27.890",
+      "text": "by the pandemic impacts on their service"
+    },
+    {
+      "index": 226,
+      "start": "00:21:27.890",
+      "end": "00:21:32.510",
+      "text": "and trying to compare this while there's other"
+    },
+    {
+      "index": 227,
+      "start": "00:21:32.510",
+      "end": "00:21:34.260",
+      "text": "external factors at play."
+    },
+    {
+      "index": 228,
+      "start": "00:21:34.260",
+      "end": "00:21:37.960",
+      "text": "So that guides the implementation of it."
+    },
+    {
+      "index": 229,
+      "start": "00:21:37.960",
+      "end": "00:21:41.390",
+      "text": "That said, we certainly are open to your feedback"
+    },
+    {
+      "index": 230,
+      "start": "00:21:41.390",
+      "end": "00:21:45.090",
+      "text": "and we'll specifically review the area"
+    },
+    {
+      "index": 231,
+      "start": "00:21:45.090",
+      "end": "00:21:49.260",
+      "text": "that you mentioned for future implementation phases."
+    },
+    {
+      "index": 232,
+      "start": "00:21:49.260",
+      "end": "00:21:52.150",
+      "text": "Councillor Lewis to follow up or are you okay?"
+    },
+    {
+      "index": 233,
+      "start": "00:21:52.150",
+      "end": "00:21:55.070",
+      "text": "I'll just a brief comment then Madam Chair"
+    },
+    {
+      "index": 234,
+      "start": "00:21:55.070",
+      "end": "00:21:58.000",
+      "text": "and I appreciate everything just McCrae said"
+    },
+    {
+      "index": 235,
+      "start": "00:21:58.000",
+      "end": "00:22:01.280",
+      "text": "and it makes a lot of sense with the ARGAL"
+    },
+    {
+      "index": 236,
+      "start": "00:22:01.280",
+      "end": "00:22:03.290",
+      "text": "while being a transit hub."
+    },
+    {
+      "index": 237,
+      "start": "00:22:03.290",
+      "end": "00:22:05.940",
+      "text": "And I certainly know that the West and sorry,"
+    },
+    {
+      "index": 238,
+      "start": "00:22:05.940",
+      "end": "00:22:07.640",
+      "text": "the number seven and the number two"
+    },
+    {
+      "index": 239,
+      "start": "00:22:07.640",
+      "end": "00:22:09.220",
+      "text": "are busy transit routes"
+    },
+    {
+      "index": 240,
+      "start": "00:22:09.220",
+      "end": "00:22:11.690",
+      "text": "that we want to be careful about impacting as well"
+    },
+    {
+      "index": 241,
+      "start": "00:22:11.690",
+      "end": "00:22:13.060",
+      "text": "and those run right through the board."
+    },
+    {
+      "index": 242,
+      "start": "00:22:13.060",
+      "end": "00:22:16.580",
+      "text": "So understanding those considerations"
+    },
+    {
+      "index": 243,
+      "start": "00:22:16.580",
+      "end": "00:22:18.510",
+      "text": "and certainly the impact pandemic has had"
+    },
+    {
+      "index": 244,
+      "start": "00:22:18.510",
+      "end": "00:22:22.900",
+      "text": "on transit ridership and what that might mean in the future."
+    },
+    {
+      "index": 245,
+      "start": "00:22:22.900",
+      "end": "00:22:25.700",
+      "text": "Hearing that, I'm more than content to wait"
+    },
+    {
+      "index": 246,
+      "start": "00:22:25.700",
+      "end": "00:22:27.970",
+      "text": "and staff will get to it when they get to it."
+    },
+    {
+      "index": 247,
+      "start": "00:22:27.970",
+      "end": "00:22:29.780",
+      "text": "Thank you."
+    },
+    {
+      "index": 248,
+      "start": "00:22:29.780",
+      "end": "00:22:34.010",
+      "text": "Thank you for that and I'll recognize Councillor Cassidy."
+    },
+    {
+      "index": 249,
+      "start": "00:22:34.010",
+      "end": "00:22:36.250",
+      "text": "Madam Chair, thank you for recognizing me again."
+    },
+    {
+      "index": 250,
+      "start": "00:22:36.250",
+      "end": "00:22:38.250",
+      "text": "I forgot a question that I had as well"
+    },
+    {
+      "index": 251,
+      "start": "00:22:38.250",
+      "end": "00:22:41.220",
+      "text": "for the 2.6 renewal"
+    },
+    {
+      "index": 252,
+      "start": "00:22:41.220",
+      "end": "00:22:44.360",
+      "text": "of the lead service extension replacement loan program."
+    },
+    {
+      "index": 253,
+      "start": "00:22:44.360",
+      "end": "00:22:46.780",
+      "text": "So I'm wondering what happens upon the sale of a house"
+    },
+    {
+      "index": 254,
+      "start": "00:22:46.780",
+      "end": "00:22:50.040",
+      "text": "if they have not yet repaid the total loan"
+    },
+    {
+      "index": 255,
+      "start": "00:22:50.040",
+      "end": "00:22:54.510",
+      "text": "as it's phased out over 10 years."
+    },
+    {
+      "index": 256,
+      "start": "00:22:54.510",
+      "end": "00:22:55.330",
+      "text": "Thank you for that one"
+    },
+    {
+      "index": 257,
+      "start": "00:22:55.330",
+      "end": "00:23:02.460",
+      "text": "and I will go to I believe Ms. Chair as for comment."
+    },
+    {
+      "index": 258,
+      "start": "00:23:02.460",
+      "end": "00:23:03.280",
+      "text": "Thank you, Madam Chair."
+    },
+    {
+      "index": 259,
+      "start": "00:23:03.280",
+      "end": "00:23:05.720",
+      "text": "Mr. Odekirk is here to speak to lead service replacement"
+    },
+    {
+      "index": 260,
+      "start": "00:23:05.720",
+      "end": "00:23:06.550",
+      "text": "project."
+    },
+    {
+      "index": 261,
+      "start": "00:23:06.550",
+      "end": "00:23:08.340",
+      "text": "I'm sorry, Mr. Simon is here."
+    },
+    {
+      "index": 262,
+      "start": "00:23:08.340",
+      "end": "00:23:09.570",
+      "text": "My people."
+    },
+    {
+      "index": 263,
+      "start": "00:23:09.570",
+      "end": "00:23:11.700",
+      "text": "Mr. Simon."
+    },
+    {
+      "index": 264,
+      "start": "00:23:11.700",
+      "end": "00:23:13.290",
+      "text": "Yes, through the chair."
+    },
+    {
+      "index": 265,
+      "start": "00:23:13.290",
+      "end": "00:23:16.410",
+      "text": "I believe all outstanding charges are discharged"
+    },
+    {
+      "index": 266,
+      "start": "00:23:16.410",
+      "end": "00:23:17.640",
+      "text": "at the time of sale."
+    },
+    {
+      "index": 267,
+      "start": "00:23:17.640",
+      "end": "00:23:18.950",
+      "text": "I'd have to look into the details."
+    },
+    {
+      "index": 268,
+      "start": "00:23:18.950",
+      "end": "00:23:21.980",
+      "text": "It's a legal matter, but I think it's encompassed"
+    },
+    {
+      "index": 269,
+      "start": "00:23:21.980",
+      "end": "00:23:26.660",
+      "text": "within the by-law itself."
+    },
+    {
+      "index": 270,
+      "start": "00:23:26.660",
+      "end": "00:23:27.670",
+      "text": "Councillor Cassidy, did you have a follow-up?"
+    },
+    {
+      "index": 271,
+      "start": "00:23:27.670",
+      "end": "00:23:28.920",
+      "text": "Are you okay?"
+    },
+    {
+      "index": 272,
+      "start": "00:23:28.920",
+      "end": "00:23:30.440",
+      "text": "Okay, perfect."
+    },
+    {
+      "index": 273,
+      "start": "00:23:30.440",
+      "end": "00:23:31.780",
+      "text": "Okay."
+    },
+    {
+      "index": 274,
+      "start": "00:23:31.780",
+      "end": "00:23:33.610",
+      "text": "Last call for questions on the consent items"
+    },
+    {
+      "index": 275,
+      "start": "00:23:33.610",
+      "end": "00:23:36.640",
+      "text": "that are on the floor at the moment."
+    },
+    {
+      "index": 276,
+      "start": "00:23:36.640",
+      "end": "00:23:39.070",
+      "text": "Seeing nothing further, it's been moved and seconded"
+    },
+    {
+      "index": 277,
+      "start": "00:23:39.070",
+      "end": "00:23:59.620",
+      "text": "and the vote will now be opening in the ascribe."
+    },
+    {
+      "index": 278,
+      "start": "00:23:59.620",
+      "end": "00:24:04.500",
+      "text": "Closing the vote, the motion carries five to zero."
+    },
+    {
+      "index": 279,
+      "start": "00:24:04.500",
+      "end": "00:24:07.060",
+      "text": "Regress item 2.7 being participation"
+    },
+    {
+      "index": 280,
+      "start": "00:24:07.060",
+      "end": "00:24:10.760",
+      "text": "in the South London Air Monitoring Network Pilot Project."
+    },
+    {
+      "index": 281,
+      "start": "00:24:10.760",
+      "end": "00:24:12.090",
+      "text": "Really excited for this one,"
+    },
+    {
+      "index": 282,
+      "start": "00:24:12.090",
+      "end": "00:24:14.810",
+      "text": "but the wording that we're looking at considering"
+    },
+    {
+      "index": 283,
+      "start": "00:24:14.810",
+      "end": "00:24:20.120",
+      "text": "due to a reporting procedural issue is that staff,"
+    },
+    {
+      "index": 284,
+      "start": "00:24:20.120",
+      "end": "00:24:22.580",
+      "text": "the staff reported dated July 27th"
+    },
+    {
+      "index": 285,
+      "start": "00:24:22.580",
+      "end": "00:24:24.720",
+      "text": "with respect to the South London Air Monitoring Network"
+    },
+    {
+      "index": 286,
+      "start": "00:24:24.720",
+      "end": "00:24:27.370",
+      "text": "Pilot Project be deferred to the next civic works committee"
+    },
+    {
+      "index": 287,
+      "start": "00:24:27.370",
+      "end": "00:24:29.610",
+      "text": "meeting for consideration."
+    },
+    {
+      "index": 288,
+      "start": "00:24:29.610",
+      "end": "00:24:32.980",
+      "text": "I will go to Mr. Stanford just for comment"
+    },
+    {
+      "index": 289,
+      "start": "00:24:32.980",
+      "end": "00:24:34.190",
+      "text": "on why we need to defer it,"
+    },
+    {
+      "index": 290,
+      "start": "00:24:34.190",
+      "end": "00:24:39.190",
+      "text": "and then I will look for a mover and a seconder of deferral."
+    },
+    {
+      "index": 291,
+      "start": "00:24:39.190",
+      "end": "00:24:40.770",
+      "text": "Thank you, Madam Chair."
+    },
+    {
+      "index": 292,
+      "start": "00:24:40.770",
+      "end": "00:24:44.850",
+      "text": "The procedural piece here is one on staff side."
+    },
+    {
+      "index": 293,
+      "start": "00:24:44.850",
+      "end": "00:24:49.090",
+      "text": "We must have completed an information security check"
+    },
+    {
+      "index": 294,
+      "start": "00:24:49.090",
+      "end": "00:24:51.830",
+      "text": "to the satisfaction of our right information technology"
+    },
+    {
+      "index": 295,
+      "start": "00:24:51.830",
+      "end": "00:24:55.010",
+      "text": "services director according to the purchasing by-law."
+    },
+    {
+      "index": 296,
+      "start": "00:24:55.010",
+      "end": "00:24:58.070",
+      "text": "So this is a step that is underway right now,"
+    },
+    {
+      "index": 297,
+      "start": "00:24:58.070",
+      "end": "00:24:59.500",
+      "text": "but it must be completed"
+    },
+    {
+      "index": 298,
+      "start": "00:24:59.500",
+      "end": "00:25:02.080",
+      "text": "before we start the committee and council process."
+    },
+    {
+      "index": 299,
+      "start": "00:25:02.080",
+      "end": "00:25:04.950",
+      "text": "So as a result, we're gonna be delayed a couple of weeks"
+    },
+    {
+      "index": 300,
+      "start": "00:25:04.950",
+      "end": "00:25:06.870",
+      "text": "and that process that I just described"
+    },
+    {
+      "index": 301,
+      "start": "00:25:06.870",
+      "end": "00:25:10.040",
+      "text": "is underway right now."
+    },
+    {
+      "index": 302,
+      "start": "00:25:10.040",
+      "end": "00:25:12.460",
+      "text": "Thank you for that, looking to committee for any questions"
+    },
+    {
+      "index": 303,
+      "start": "00:25:12.460",
+      "end": "00:25:14.530",
+      "text": "they have of Mr. Stanford."
+    },
+    {
+      "index": 304,
+      "start": "00:25:14.530",
+      "end": "00:25:18.400",
+      "text": "In regards to that item or someone to remove and second,"
+    },
+    {
+      "index": 305,
+      "start": "00:25:18.400",
+      "end": "00:25:21.930",
+      "text": "receive the report and defer it to the next CWC cycle."
+    },
+    {
+      "index": 306,
+      "start": "00:25:21.930",
+      "end": "00:25:24.170",
+      "text": "I have a mover and councilor Halmer,"
+    },
+    {
+      "index": 307,
+      "start": "00:25:24.170",
+      "end": "00:25:28.160",
+      "text": "a seconder in the mayor holder."
+    },
+    {
+      "index": 308,
+      "start": "00:25:28.160",
+      "end": "00:25:29.440",
+      "text": "Any further comments or questions"
+    },
+    {
+      "index": 309,
+      "start": "00:25:29.440",
+      "end": "00:25:34.190",
+      "text": "before the vote opens in the East Guard?"
+    },
+    {
+      "index": 310,
+      "start": "00:25:34.190",
+      "end": "00:25:36.160",
+      "text": "Seeing none, we'll save that wholesome discussion"
+    },
+    {
+      "index": 311,
+      "start": "00:25:36.160",
+      "end": "00:25:38.320",
+      "text": "and exciting opportunities for the next committee cycle,"
+    },
+    {
+      "index": 312,
+      "start": "00:25:38.320",
+      "end": "00:26:00.190",
+      "text": "and you are now able to vote."
+    },
+    {
+      "index": 313,
+      "start": "00:26:00.190",
+      "end": "00:26:04.850",
+      "text": "Closing the vote, the motion carries five to zero."
+    },
+    {
+      "index": 314,
+      "start": "00:26:04.850",
+      "end": "00:26:08.960",
+      "text": "We scheduled items, no items for direction."
+    },
+    {
+      "index": 315,
+      "start": "00:26:08.960",
+      "end": "00:26:11.290",
+      "text": "Looking, we do have our deferred matters list,"
+    },
+    {
+      "index": 316,
+      "start": "00:26:11.290",
+      "end": "00:26:14.320",
+      "text": "which has been updated and the mayor's conflict"
+    },
+    {
+      "index": 317,
+      "start": "00:26:14.320",
+      "end": "00:26:16.120",
+      "text": "has been removed from it."
+    },
+    {
+      "index": 318,
+      "start": "00:26:16.120",
+      "end": "00:26:18.130",
+      "text": "So looking to committee to a mover"
+    },
+    {
+      "index": 319,
+      "start": "00:26:18.130",
+      "end": "00:26:19.830",
+      "text": "and a seconder for the deferred matters list"
+    },
+    {
+      "index": 320,
+      "start": "00:26:19.830",
+      "end": "00:26:21.840",
+      "text": "and looking to see if there's any additional business."
+    },
+    {
+      "index": 321,
+      "start": "00:26:21.840",
+      "end": "00:26:25.520",
+      "text": "So I have a mover and councilor Van Merberg"
+    },
+    {
+      "index": 322,
+      "start": "00:26:25.520",
+      "end": "00:26:28.400",
+      "text": "and a seconder and mayor holder looking to see"
+    },
+    {
+      "index": 323,
+      "start": "00:26:28.400",
+      "end": "00:26:33.400",
+      "text": "if there's any comments in the deferred matters list."
+    },
+    {
+      "index": 324,
+      "start": "00:26:33.400",
+      "end": "00:26:43.630",
+      "text": "Seeing none, we can open that for voting."
+    },
+    {
+      "index": 325,
+      "start": "00:26:43.630",
+      "end": "00:26:48.910",
+      "text": "Closing the vote, the motion carries five to zero."
+    },
+    {
+      "index": 326,
+      "start": "00:26:48.910",
+      "end": "00:26:52.320",
+      "text": "Not aware of any additional business for committee,"
+    },
+    {
+      "index": 327,
+      "start": "00:26:52.320",
+      "end": "00:26:54.600",
+      "text": "but we do have two items to be considered"
+    },
+    {
+      "index": 328,
+      "start": "00:26:54.600",
+      "end": "00:26:58.380",
+      "text": "in confidential session relating to litigation,"
+    },
+    {
+      "index": 329,
+      "start": "00:26:58.380",
+      "end": "00:27:02.630",
+      "text": "SAC, solicitor client privileged advice."
+    },
+    {
+      "index": 330,
+      "start": "00:27:02.630",
+      "end": "00:27:05.730",
+      "text": "Looking to committee for a mover and a seconder"
+    },
+    {
+      "index": 331,
+      "start": "00:27:05.730",
+      "end": "00:27:07.550",
+      "text": "to move into closed session."
+    },
+    {
+      "index": 332,
+      "start": "00:27:07.550",
+      "end": "00:27:09.100",
+      "text": "Moved by councilor Cassidy,"
+    },
+    {
+      "index": 333,
+      "start": "00:27:09.100",
+      "end": "00:27:24.390",
+      "text": "seconded by councilor Van Merberg and the vote is now opening."
+    },
+    {
+      "index": 334,
+      "start": "00:27:24.390",
+      "end": "00:27:32.460",
+      "text": "Closing the vote, the motion carries five to zero."
+    },
+    {
+      "index": 335,
+      "start": "00:27:32.460",
+      "end": "00:27:36.730",
+      "text": "For the public, we will adjourn in public session"
+    },
+    {
+      "index": 336,
+      "start": "00:27:36.730",
+      "end": "00:27:37.830",
+      "text": "once we come out of closed session,"
+    },
+    {
+      "index": 337,
+      "start": "00:27:37.830",
+      "end": "00:27:39.050",
+      "text": "but you will not see us again."
+    },
+    {
+      "index": 338,
+      "start": "00:27:39.050",
+      "end": "00:27:41.020",
+      "text": "So if you're watching, thank you."
+    },
+    {
+      "index": 339,
+      "start": "00:27:41.020",
+      "end": "00:27:42.130",
+      "text": "And to members of committee,"
+    },
+    {
+      "index": 340,
+      "start": "00:27:42.130",
+      "end": "00:27:44.490",
+      "text": "just give us a moment while we get the correct people"
+    },
+    {
+      "index": 341,
+      "start": "00:27:44.490",
+      "end": "00:27:46.400",
+      "text": "in the room and we'll commence."
+    },
+    {
+      "index": 342,
+      "start": "00:27:46.400",
+      "end": "00:27:46.910",
+      "text": "So."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Civic%20Works%20Committee/2021/07-27/.transcript.srt"
+}

@@ -1,1 +1,2276 @@
-{"title": "12th Meeting of the Civic Works Committee", "datetime": "2024-09-10 09:30:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=abe239ac-2b58-4d58-a260-bfaf3bc0f027&Agenda=PostMinutes&lang=English", "meeting_type": "Civic Works Committee", "bills": null, "present": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"], "also_present": ["J. Dann", "D. Escobar", "D. MacRae", "C. McCreery", "K. Oudekerk", "A. Rammeloo", "K. Scherr", "J. Stanford", "J. Bunn"], "remote_attendance": ["D. Freeman", "E. Skalski"], "content": {"string": "The meeting was called to order at 9:30 AM.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That Items 2.1 to 2.6 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "J. Pribil", "S. Trosow", "S. Franke", "D. Ferreira"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "9th Report of the Integrated Transportation Community Advisory Committee ", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That the 9th Report of the Integrated Transportation Community Advisory Committee, from the meeting held on August 21, 2024, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-08-21 ITCAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111477", "date": "2024-08-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Operations and Management of Three City of London EnviroDepots", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to the Operations and Management of Three City of London EnviroDepots:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the Civic Administration BE DIRECTED to negotiate a single source agreement for the procurement of Oxford Street and Clarke Road EnviroDepots Operations and Management services as per Section 14.4(d) and (e) of the Procurement of Goods and Services Policy with Try Recycling Inc. for a term of one (1) and a one (1) year extension option at the sole discretion of the City starting January 1, 2025; it being noted that the award and final contract will be subject to approval by Council;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Civic Administration BE DIRECTED to negotiate a sole source agreement for the procurement of the continued use of the North end EnviroDepot located at Try Recycling, 21462 Clarke Rd. and for the Operations and Management services as per Section 14.3(c) of the Procurement of Goods and Services Policy with Try Recycling Inc. for a term of three years with two (2), one (1) year options at the sole discretion of the City starting January 1, 2025; it being noted that the award and the final contract will be subject to approval by Council; and,", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE DIRECTED to prepare a Request for Proposal for the EnviroDepot Operations and Management Program (Oxford Street and Clarke Road) starting January 1, 2026 for four (4) years plus three (3), one (1) year option years at the sole discretion of the City. (2024-E07)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-09-10 SR Operations and mgmt of 3 City of London EnviroDepots", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111478", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Emergency Repair of Centrifuges at Greenway Wastewater Treatment Plant", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to Emergency Repair of Centrifuges at Greenway Wastewater Treatment Plant:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the purchase orders issued for emergency repairs to the centrifuges at Greenway Wastewater Treatment Plant under Section 14.2 of the Procurement of Goods and Services Policy at a total cost of $325,017.49 (HST excluded), BE CONFIRMED;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations; and,", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project. (2024-E03)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-09-10 SR Emergency Repair of Centrifuges at Greenway WTP - Part 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111479", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2024-09-10 SR Emergency Repair of Centrifuges at Greenway WTP - Part 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111480", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Single Source SS-2024-276 - Pottersburg Wastewater Treatment Plant UV Disinfection Equipment", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to Single Source SS-2024-276 for the Pottersburg Wastewater Treatment Plant UV Disinfection Equipment:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the contract for purchase of a UV disinfection system BE AWARDED to Trojan Technologies as a single source procurement for a total value of $998,720.00 plus HST in accordance with Sections 14.4 (d) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for the project BE APPROVED in accordance with the \u201cSources of Financing Report\u201d, as appended to the above-noted staff report;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the approvals given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and,", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-E03)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-09-10 SR SS-2024-276 - Pottersburg WTP UV Disinfection Equipment - Part 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111481", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2024-09-10 SR SS-2024-276 - Pottersburg WTP UV Disinfection Equipment - Part 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111482", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Closing Phillip Street Road Allowance", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to Closing Philip Street Road Allowance:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the closing of part of Phillip Street on Registered Plan 38 designated as Part 2 on Plan 33R-21948 BE APPROVED, and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on September 24, 2024 for the purpose of closing Phillip Street. (2024-T09)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-09-10 SR Closing Philip Street Road Allowance", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111483", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Emergency Purchase of a Mack-Wittke Top Loading Garbage Packer", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the staff report, dated September 10, 2024, related to the Emergency Purchase of a Mack-Wittke Top Loading Garbage Picker:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the purchase order for the purchase of a 2024 Mack-Wittke Top Loader unit from Amtruck Limited, 1920 Yonge Street, Suite 200, Toronto, Ontario M4S 3E2 under Section 14.2 of the Procurement of Goods and Services Policy at a total price of $417,900 (HST excluded) BE CONFIRMED noting that part of the purchasing agreement requires the renting of the unit for four months at a fee of $43,200 (HST excluded); and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2024-E07)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [{"empty_flag": false, "title": "2024-09-10 SR Emergency Purchase of a Mack-Wittke Top Loading Garbage Packer - Part 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111484", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2024-09-10 SR Emergency Purchase of a Mack-Wittke Top Loading Garbage Packer - Part 2", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111485", "date": "2024-09-10 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-09-10 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"string": "The meeting adjourned at 9:43 AM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-09-10 09:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "12th Meeting of the Civic Works Committee",
+  "datetime": "2024-09-10 09:30:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=abe239ac-2b58-4d58-a260-bfaf3bc0f027&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Civic Works Committee",
+  "bills": null,
+  "present": [
+    "A. Hopkins",
+    "J. Pribil",
+    "S. Trosow",
+    "S. Franke",
+    "D. Ferreira"
+  ],
+  "also_present": [
+    "J. Dann",
+    "D. Escobar",
+    "D. MacRae",
+    "C. McCreery",
+    "K. Oudekerk",
+    "A. Rammeloo",
+    "K. Scherr",
+    "J. Stanford",
+    "J. Bunn"
+  ],
+  "remote_attendance": [
+    "D. Freeman",
+    "E. Skalski"
+  ],
+  "content": {
+    "string": "The meeting was called to order at 9:30 AM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-09-10 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Franke",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Items 2.1 to 2.6 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "A. Hopkins",
+                  "J. Pribil",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "9th Report of the Integrated Transportation Community Advisory Committee ",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 9th Report of the Integrated Transportation Community Advisory Committee, from the meeting held on August 21, 2024, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-09-10 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-08-21 ITCAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111477",
+              "date": "2024-08-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Operations and Management of Three City of London EnviroDepots",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to the Operations and Management of Three City of London EnviroDepots:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the Civic Administration BE DIRECTED to negotiate a single source agreement for the procurement of Oxford Street and Clarke Road EnviroDepots Operations and Management services as per Section 14.4(d) and (e) of the Procurement of Goods and Services Policy with Try Recycling Inc. for a term of one (1) and a one (1) year extension option at the sole discretion of the City starting January 1, 2025; it being noted that the award and final contract will be subject to approval by Council;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Civic Administration BE DIRECTED to negotiate a sole source agreement for the procurement of the continued use of the North end EnviroDepot located at Try Recycling, 21462 Clarke Rd. and for the Operations and Management services as per Section 14.3(c) of the Procurement of Goods and Services Policy with Try Recycling Inc. for a term of three years with two (2), one (1) year options at the sole discretion of the City starting January 1, 2025; it being noted that the award and the final contract will be subject to approval by Council; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE DIRECTED to prepare a Request for Proposal for the EnviroDepot Operations and Management Program (Oxford Street and Clarke Road) starting January 1, 2026 for four (4) years plus three (3), one (1) year option years at the sole discretion of the City. (2024-E07)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-09-10 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR Operations and mgmt of 3 City of London EnviroDepots",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111478",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Emergency Repair of Centrifuges at Greenway Wastewater Treatment Plant",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to Emergency Repair of Centrifuges at Greenway Wastewater Treatment Plant:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the purchase orders issued for emergency repairs to the centrifuges at Greenway Wastewater Treatment Plant under Section 14.2 of the Procurement of Goods and Services Policy at a total cost of $325,017.49 (HST excluded), BE CONFIRMED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project. (2024-E03)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-09-10 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR Emergency Repair of Centrifuges at Greenway WTP - Part 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111479",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR Emergency Repair of Centrifuges at Greenway WTP - Part 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111480",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Single Source SS-2024-276 - Pottersburg Wastewater Treatment Plant UV Disinfection Equipment",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to Single Source SS-2024-276 for the Pottersburg Wastewater Treatment Plant UV Disinfection Equipment:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the contract for purchase of a UV disinfection system BE AWARDED to Trojan Technologies as a single source procurement for a total value of $998,720.00 plus HST in accordance with Sections 14.4 (d) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for the project BE APPROVED in accordance with the \u201cSources of Financing Report\u201d, as appended to the above-noted staff report;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the approvals given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2024-E03)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-09-10 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR SS-2024-276 - Pottersburg WTP UV Disinfection Equipment - Part 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111481",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR SS-2024-276 - Pottersburg WTP UV Disinfection Equipment - Part 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111482",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Closing Phillip Street Road Allowance",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 10, 2024, related to Closing Philip Street Road Allowance:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the closing of part of Phillip Street on Registered Plan 38 designated as Part 2 on Plan 33R-21948 BE APPROVED, and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on September 24, 2024 for the purpose of closing Phillip Street. (2024-T09)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-09-10 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR Closing Philip Street Road Allowance",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111483",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "Emergency Purchase of a Mack-Wittke Top Loading Garbage Packer",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the staff report, dated September 10, 2024, related to the Emergency Purchase of a Mack-Wittke Top Loading Garbage Picker:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the purchase order for the purchase of a 2024 Mack-Wittke Top Loader unit from Amtruck Limited, 1920 Yonge Street, Suite 200, Toronto, Ontario M4S 3E2 under Section 14.2 of the Procurement of Goods and Services Policy at a total price of $417,900 (HST excluded) BE CONFIRMED noting that part of the purchasing agreement requires the renting of the unit for four months at a fee of $43,200 (HST excluded); and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the above-noted staff report. (2024-E07)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-09-10 09:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR Emergency Purchase of a Mack-Wittke Top Loading Garbage Packer - Part 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111484",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2024-09-10 SR Emergency Purchase of a Mack-Wittke Top Loading Garbage Packer - Part 2",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=111485",
+              "date": "2024-09-10 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-09-10 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-09-10 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-09-10 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-09-10 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "string": "The meeting adjourned at 9:43 AM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-09-10 09:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:16:23.490",
+      "end": "00:16:25.200",
+      "text": "Good morning, everyone."
+    },
+    {
+      "index": 2,
+      "start": "00:16:25.200",
+      "end": "00:16:28.160",
+      "text": "Welcome to CWC."
+    },
+    {
+      "index": 3,
+      "start": "00:16:28.160",
+      "end": "00:16:30.060",
+      "text": "Please check the city website"
+    },
+    {
+      "index": 4,
+      "start": "00:16:30.060",
+      "end": "00:16:32.470",
+      "text": "for additional meeting, detail, information."
+    },
+    {
+      "index": 5,
+      "start": "00:16:32.470",
+      "end": "00:16:35.170",
+      "text": "Meetings can be viewed via live streaming"
+    },
+    {
+      "index": 6,
+      "start": "00:16:35.170",
+      "end": "00:16:38.720",
+      "text": "on YouTube and the city website."
+    },
+    {
+      "index": 7,
+      "start": "00:16:38.720",
+      "end": "00:16:42.410",
+      "text": "The city of London is situated on the traditional lands"
+    },
+    {
+      "index": 8,
+      "start": "00:16:42.410",
+      "end": "00:16:44.630",
+      "text": "of the Anishinaabe, the Haudenosaunee,"
+    },
+    {
+      "index": 9,
+      "start": "00:16:44.630",
+      "end": "00:16:48.210",
+      "text": "and the Lupine Walk, and the Adwondron."
+    },
+    {
+      "index": 10,
+      "start": "00:16:48.210",
+      "end": "00:16:51.020",
+      "text": "We honor and respect the history, languages,"
+    },
+    {
+      "index": 11,
+      "start": "00:16:51.020",
+      "end": "00:16:54.420",
+      "text": "and culture of the diverse indigenous people"
+    },
+    {
+      "index": 12,
+      "start": "00:16:54.420",
+      "end": "00:16:57.070",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 13,
+      "start": "00:16:57.070",
+      "end": "00:16:58.790",
+      "text": "The city of London is currently home"
+    },
+    {
+      "index": 14,
+      "start": "00:16:58.790",
+      "end": "00:17:02.740",
+      "text": "to many First Nations, M\u00e9tis, and Inuit today."
+    },
+    {
+      "index": 15,
+      "start": "00:17:02.740",
+      "end": "00:17:06.340",
+      "text": "As representatives of the people of the city of London,"
+    },
+    {
+      "index": 16,
+      "start": "00:17:06.340",
+      "end": "00:17:08.910",
+      "text": "we are grateful to have the opportunity to work"
+    },
+    {
+      "index": 17,
+      "start": "00:17:08.910",
+      "end": "00:17:11.730",
+      "text": "and live in this territory."
+    },
+    {
+      "index": 18,
+      "start": "00:17:11.730",
+      "end": "00:17:16.030",
+      "text": "It's like all members of the committee are in chambers."
+    },
+    {
+      "index": 19,
+      "start": "00:17:16.030",
+      "end": "00:17:19.070",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 20,
+      "start": "00:17:19.070",
+      "end": "00:17:22.910",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 21,
+      "start": "00:17:22.910",
+      "end": "00:17:25.130",
+      "text": "for meetings upon request,"
+    },
+    {
+      "index": 22,
+      "start": "00:17:25.130",
+      "end": "00:17:28.760",
+      "text": "to make a request specific to this meeting."
+    },
+    {
+      "index": 23,
+      "start": "00:17:28.760",
+      "end": "00:17:33.660",
+      "text": "Please contact CWC at London.ca or 519-661-2489"
+    },
+    {
+      "index": 24,
+      "start": "00:17:33.660",
+      "end": "00:17:39.510",
+      "text": "extension 2425."
+    },
+    {
+      "index": 25,
+      "start": "00:17:39.510",
+      "end": "00:17:45.770",
+      "text": "Moving on, are there any disclosures of pecuniary interest?"
+    },
+    {
+      "index": 26,
+      "start": "00:17:45.770",
+      "end": "00:17:49.370",
+      "text": "Denon, moving on to the consent items."
+    },
+    {
+      "index": 27,
+      "start": "00:17:49.370",
+      "end": "00:17:51.490",
+      "text": "There are six consent items."
+    },
+    {
+      "index": 28,
+      "start": "00:17:51.490",
+      "end": "00:17:55.270",
+      "text": "I'm looking for a mover to move the consent items,"
+    },
+    {
+      "index": 29,
+      "start": "00:17:55.270",
+      "end": "00:17:59.320",
+      "text": "Councillor Frank, and second by Councillor Ferrera."
+    },
+    {
+      "index": 30,
+      "start": "00:17:59.320",
+      "end": "00:18:04.540",
+      "text": "Any questions?"
+    },
+    {
+      "index": 31,
+      "start": "00:18:04.540",
+      "end": "00:18:06.520",
+      "text": "Councillor Ferrera."
+    },
+    {
+      "index": 32,
+      "start": "00:18:06.520",
+      "end": "00:18:07.340",
+      "text": "Thank you, Chair."
+    },
+    {
+      "index": 33,
+      "start": "00:18:07.340",
+      "end": "00:18:08.160",
+      "text": "I won't take too long."
+    },
+    {
+      "index": 34,
+      "start": "00:18:08.160",
+      "end": "00:18:10.920",
+      "text": "I just got two questions, or two, I guess,"
+    },
+    {
+      "index": 35,
+      "start": "00:18:10.920",
+      "end": "00:18:12.880",
+      "text": "maybe I'll make a question out of this one."
+    },
+    {
+      "index": 36,
+      "start": "00:18:12.880",
+      "end": "00:18:15.300",
+      "text": "For the emergency repair of centrifuges at Greenway,"
+    },
+    {
+      "index": 37,
+      "start": "00:18:15.300",
+      "end": "00:18:19.630",
+      "text": "so I can see all three centrifuges went down"
+    },
+    {
+      "index": 38,
+      "start": "00:18:19.630",
+      "end": "00:18:22.190",
+      "text": "in sequential order here."
+    },
+    {
+      "index": 39,
+      "start": "00:18:22.190",
+      "end": "00:18:25.120",
+      "text": "Is that normal?"
+    },
+    {
+      "index": 40,
+      "start": "00:18:25.120",
+      "end": "00:18:26.460",
+      "text": "Is that a normal thing?"
+    },
+    {
+      "index": 41,
+      "start": "00:18:26.460",
+      "end": "00:18:27.560",
+      "text": "Is this planned obsolescence?"
+    },
+    {
+      "index": 42,
+      "start": "00:18:27.560",
+      "end": "00:18:30.810",
+      "text": "'Cause they all came from the same company, I guess,"
+    },
+    {
+      "index": 43,
+      "start": "00:18:30.810",
+      "end": "00:18:31.750",
+      "text": "originally, right?"
+    },
+    {
+      "index": 44,
+      "start": "00:18:31.750",
+      "end": "00:18:34.830",
+      "text": "So that's my question for that one."
+    },
+    {
+      "index": 45,
+      "start": "00:18:34.830",
+      "end": "00:18:39.230",
+      "text": "I'll go to staff for that, Mr. Dan."
+    },
+    {
+      "index": 46,
+      "start": "00:18:39.230",
+      "end": "00:18:42.100",
+      "text": "Oh, sorry, yes."
+    },
+    {
+      "index": 47,
+      "start": "00:18:42.100",
+      "end": "00:18:43.130",
+      "text": "Hi, thank you, through the chair."
+    },
+    {
+      "index": 48,
+      "start": "00:18:43.130",
+      "end": "00:18:45.850",
+      "text": "Yes, we undertake a preventive maintenance program"
+    },
+    {
+      "index": 49,
+      "start": "00:18:45.850",
+      "end": "00:18:46.940",
+      "text": "in all of our centrifuges,"
+    },
+    {
+      "index": 50,
+      "start": "00:18:46.940",
+      "end": "00:18:50.250",
+      "text": "and the first problem was found, or not problem,"
+    },
+    {
+      "index": 51,
+      "start": "00:18:50.250",
+      "end": "00:18:52.540",
+      "text": "but we wanted to make sure that everything was buttoned up"
+    },
+    {
+      "index": 52,
+      "start": "00:18:52.540",
+      "end": "00:18:54.280",
+      "text": "before we went into our incinerator shutdown,"
+    },
+    {
+      "index": 53,
+      "start": "00:18:54.280",
+      "end": "00:18:56.390",
+      "text": "where things were gonna become much more critical."
+    },
+    {
+      "index": 54,
+      "start": "00:18:56.390",
+      "end": "00:18:59.020",
+      "text": "And that's where the first problem was found."
+    },
+    {
+      "index": 55,
+      "start": "00:18:59.020",
+      "end": "00:19:02.710",
+      "text": "But then, of course, as one comes out of service load"
+    },
+    {
+      "index": 56,
+      "start": "00:19:02.710",
+      "end": "00:19:04.430",
+      "text": "on the other two, gets increased,"
+    },
+    {
+      "index": 57,
+      "start": "00:19:04.430",
+      "end": "00:19:06.110",
+      "text": "and so as that time went on,"
+    },
+    {
+      "index": 58,
+      "start": "00:19:06.110",
+      "end": "00:19:08.020",
+      "text": "it just got harder and harder on them,"
+    },
+    {
+      "index": 59,
+      "start": "00:19:08.020",
+      "end": "00:19:09.620",
+      "text": "and failures happened,"
+    },
+    {
+      "index": 60,
+      "start": "00:19:09.620",
+      "end": "00:19:11.380",
+      "text": "so we just had to make sure that we were on top of it,"
+    },
+    {
+      "index": 61,
+      "start": "00:19:11.380",
+      "end": "00:19:13.860",
+      "text": "and had it all buttoned up before the shutdown."
+    },
+    {
+      "index": 62,
+      "start": "00:19:13.860",
+      "end": "00:19:15.370",
+      "text": "We got it in just under the wire,"
+    },
+    {
+      "index": 63,
+      "start": "00:19:15.370",
+      "end": "00:19:20.190",
+      "text": "but things are going well, knock on wood."
+    },
+    {
+      "index": 64,
+      "start": "00:19:20.190",
+      "end": "00:19:21.440",
+      "text": "Councillor."
+    },
+    {
+      "index": 65,
+      "start": "00:19:21.440",
+      "end": "00:19:22.540",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 66,
+      "start": "00:19:22.540",
+      "end": "00:19:25.020",
+      "text": "So I guess that does make sense,"
+    },
+    {
+      "index": 67,
+      "start": "00:19:25.020",
+      "end": "00:19:27.310",
+      "text": "but good work on that, solace."
+    },
+    {
+      "index": 68,
+      "start": "00:19:27.310",
+      "end": "00:19:30.400",
+      "text": "And the centrifuges are still being worked on."
+    },
+    {
+      "index": 69,
+      "start": "00:19:30.400",
+      "end": "00:19:31.830",
+      "text": "We're still bringing those in right now, right?"
+    },
+    {
+      "index": 70,
+      "start": "00:19:31.830",
+      "end": "00:19:36.930",
+      "text": "So we are short, was it one or two on the report still?"
+    },
+    {
+      "index": 71,
+      "start": "00:19:36.930",
+      "end": "00:19:39.390",
+      "text": "Just through the chair?"
+    },
+    {
+      "index": 72,
+      "start": "00:19:39.390",
+      "end": "00:19:40.640",
+      "text": "Yes, and through the chair, actually,"
+    },
+    {
+      "index": 73,
+      "start": "00:19:40.640",
+      "end": "00:19:44.020",
+      "text": "we're up and running now, so we're in good shape."
+    },
+    {
+      "index": 74,
+      "start": "00:19:44.020",
+      "end": "00:19:45.410",
+      "text": "You know, the repairs have all been done,"
+    },
+    {
+      "index": 75,
+      "start": "00:19:45.410",
+      "end": "00:19:47.110",
+      "text": "and as I indicated in the report,"
+    },
+    {
+      "index": 76,
+      "start": "00:19:47.110",
+      "end": "00:19:50.400",
+      "text": "the reason that we have to do this in short order,"
+    },
+    {
+      "index": 77,
+      "start": "00:19:50.400",
+      "end": "00:19:51.430",
+      "text": "and as a single source,"
+    },
+    {
+      "index": 78,
+      "start": "00:19:51.430",
+      "end": "00:19:52.500",
+      "text": "is that that's the only place"
+    },
+    {
+      "index": 79,
+      "start": "00:19:52.500",
+      "end": "00:19:57.910",
+      "text": "that we can get those centrifuges serviced anywhere."
+    },
+    {
+      "index": 80,
+      "start": "00:19:57.910",
+      "end": "00:20:01.470",
+      "text": "Councillor, thank you, Chair, and through the chair."
+    },
+    {
+      "index": 81,
+      "start": "00:20:01.470",
+      "end": "00:20:03.040",
+      "text": "Okay, my last question would be"
+    },
+    {
+      "index": 82,
+      "start": "00:20:03.040",
+      "end": "00:20:05.090",
+      "text": "for the emergency purchases of the MAC,"
+    },
+    {
+      "index": 83,
+      "start": "00:20:05.090",
+      "end": "00:20:07.370",
+      "text": "a Witkey top loading garbage packer."
+    },
+    {
+      "index": 84,
+      "start": "00:20:07.370",
+      "end": "00:20:12.150",
+      "text": "My only question is, is why do we have to have the rental"
+    },
+    {
+      "index": 85,
+      "start": "00:20:12.150",
+      "end": "00:20:17.470",
+      "text": "for the same vehicle before we do the purchase?"
+    },
+    {
+      "index": 86,
+      "start": "00:20:17.470",
+      "end": "00:20:18.790",
+      "text": "Mr. Stanford?"
+    },
+    {
+      "index": 87,
+      "start": "00:20:18.790",
+      "end": "00:20:22.790",
+      "text": "Through the chair, it is part of the arrangement."
+    },
+    {
+      "index": 88,
+      "start": "00:20:22.790",
+      "end": "00:20:27.130",
+      "text": "It's one of those, they normally do a rent-home program,"
+    },
+    {
+      "index": 89,
+      "start": "00:20:27.130",
+      "end": "00:20:28.870",
+      "text": "so it's part of the agreement."
+    },
+    {
+      "index": 90,
+      "start": "00:20:28.870",
+      "end": "00:20:30.890",
+      "text": "In our negotiation, it was going to be"
+    },
+    {
+      "index": 91,
+      "start": "00:20:30.890",
+      "end": "00:20:32.480",
+      "text": "for a six-month period."
+    },
+    {
+      "index": 92,
+      "start": "00:20:32.480",
+      "end": "00:20:34.420",
+      "text": "We did negotiate it down to four months."
+    },
+    {
+      "index": 93,
+      "start": "00:20:34.420",
+      "end": "00:20:39.050",
+      "text": "It's just the requirement of the use truck market."
+    },
+    {
+      "index": 94,
+      "start": "00:20:39.050",
+      "end": "00:20:40.360",
+      "text": "Councillor?"
+    },
+    {
+      "index": 95,
+      "start": "00:20:40.360",
+      "end": "00:20:41.190",
+      "text": "Thank you, Chair, through the chair."
+    },
+    {
+      "index": 96,
+      "start": "00:20:41.190",
+      "end": "00:20:43.220",
+      "text": "That's it, thank you."
+    },
+    {
+      "index": 97,
+      "start": "00:20:43.220",
+      "end": "00:20:46.430",
+      "text": "I'd like to now go to Councillor Prabell."
+    },
+    {
+      "index": 98,
+      "start": "00:20:46.430",
+      "end": "00:20:48.150",
+      "text": "Thank you very much, Mr. Chair, to the staff."
+    },
+    {
+      "index": 99,
+      "start": "00:20:48.150",
+      "end": "00:20:51.250",
+      "text": "I'm going to start in, I have four errors to talk about,"
+    },
+    {
+      "index": 100,
+      "start": "00:20:51.250",
+      "end": "00:20:54.400",
+      "text": "but I'll start with the centrifuges as well, actually."
+    },
+    {
+      "index": 101,
+      "start": "00:20:54.400",
+      "end": "00:20:56.830",
+      "text": "I wanted to ask you, what would happen?"
+    },
+    {
+      "index": 102,
+      "start": "00:20:56.830",
+      "end": "00:20:58.580",
+      "text": "What would be the actual consequences"
+    },
+    {
+      "index": 103,
+      "start": "00:20:58.580",
+      "end": "00:21:00.290",
+      "text": "if we didn't get kind of lucky enough"
+    },
+    {
+      "index": 104,
+      "start": "00:21:00.290",
+      "end": "00:21:02.640",
+      "text": "that when the third one went down,"
+    },
+    {
+      "index": 105,
+      "start": "00:21:02.640",
+      "end": "00:21:04.590",
+      "text": "the other two were already repaired?"
+    },
+    {
+      "index": 106,
+      "start": "00:21:04.590",
+      "end": "00:21:06.300",
+      "text": "What would be, if all three went down,"
+    },
+    {
+      "index": 107,
+      "start": "00:21:06.300",
+      "end": "00:21:09.920",
+      "text": "what would be the consequences?"
+    },
+    {
+      "index": 108,
+      "start": "00:21:09.920",
+      "end": "00:21:11.000",
+      "text": "Yes."
+    },
+    {
+      "index": 109,
+      "start": "00:21:11.000",
+      "end": "00:21:13.980",
+      "text": "So through the chair, so we have three centrifuges."
+    },
+    {
+      "index": 110,
+      "start": "00:21:13.980",
+      "end": "00:21:16.240",
+      "text": "Two of them are just capable of keeping up"
+    },
+    {
+      "index": 111,
+      "start": "00:21:16.240",
+      "end": "00:21:18.470",
+      "text": "with our day-to-day demands."
+    },
+    {
+      "index": 112,
+      "start": "00:21:18.470",
+      "end": "00:21:20.530",
+      "text": "So if we lose one, then we have no standby."
+    },
+    {
+      "index": 113,
+      "start": "00:21:20.530",
+      "end": "00:21:22.240",
+      "text": "So if we did experience a failure,"
+    },
+    {
+      "index": 114,
+      "start": "00:21:22.240",
+      "end": "00:21:24.850",
+      "text": "there would be, we would be short."
+    },
+    {
+      "index": 115,
+      "start": "00:21:24.850",
+      "end": "00:21:28.380",
+      "text": "And so the consequences of that are that we would be forced"
+    },
+    {
+      "index": 116,
+      "start": "00:21:28.380",
+      "end": "00:21:31.360",
+      "text": "to go into a much costlier form of sludge disposal,"
+    },
+    {
+      "index": 117,
+      "start": "00:21:31.360",
+      "end": "00:21:35.210",
+      "text": "which could require us hauling liquids sludge away,"
+    },
+    {
+      "index": 118,
+      "start": "00:21:35.210",
+      "end": "00:21:37.560",
+      "text": "as opposed to some of the fertilizer products"
+    },
+    {
+      "index": 119,
+      "start": "00:21:37.560",
+      "end": "00:21:39.390",
+      "text": "that we're producing now as part of this plan"
+    },
+    {
+      "index": 120,
+      "start": "00:21:39.390",
+      "end": "00:21:40.220",
+      "text": "for the shutdown."
+    },
+    {
+      "index": 121,
+      "start": "00:21:40.220",
+      "end": "00:21:43.160",
+      "text": "So the centrifuges, no matter whether we're incinerating"
+    },
+    {
+      "index": 122,
+      "start": "00:21:43.160",
+      "end": "00:21:46.980",
+      "text": "or we're hauling, you know, fertilizer or solids,"
+    },
+    {
+      "index": 123,
+      "start": "00:21:46.980",
+      "end": "00:21:52.470",
+      "text": "the centrifuges are in a critical link in our process."
+    },
+    {
+      "index": 124,
+      "start": "00:21:52.470",
+      "end": "00:21:55.590",
+      "text": "Thank you, follow up on this one for the sort of chair."
+    },
+    {
+      "index": 125,
+      "start": "00:21:55.590",
+      "end": "00:21:57.040",
+      "text": "When do you even, we do these repairs"
+    },
+    {
+      "index": 126,
+      "start": "00:21:57.040",
+      "end": "00:21:58.660",
+      "text": "for our specific ones?"
+    },
+    {
+      "index": 127,
+      "start": "00:21:58.660",
+      "end": "00:22:01.850",
+      "text": "Do we have certain warranties from the supplier"
+    },
+    {
+      "index": 128,
+      "start": "00:22:01.850",
+      "end": "00:22:04.380",
+      "text": "that did the work?"
+    },
+    {
+      "index": 129,
+      "start": "00:22:04.380",
+      "end": "00:22:06.220",
+      "text": "Through the chair, they are out of warranty."
+    },
+    {
+      "index": 130,
+      "start": "00:22:06.220",
+      "end": "00:22:11.200",
+      "text": "So we've had these since, I believe, 2013, 2014."
+    },
+    {
+      "index": 131,
+      "start": "00:22:11.200",
+      "end": "00:22:14.030",
+      "text": "So they are not long in the tooth yet,"
+    },
+    {
+      "index": 132,
+      "start": "00:22:14.030",
+      "end": "00:22:15.190",
+      "text": "but they are getting up there."
+    },
+    {
+      "index": 133,
+      "start": "00:22:15.190",
+      "end": "00:22:16.710",
+      "text": "So our preventive maintenance program"
+    },
+    {
+      "index": 134,
+      "start": "00:22:16.710",
+      "end": "00:22:18.140",
+      "text": "is intended to stay ahead of that."
+    },
+    {
+      "index": 135,
+      "start": "00:22:18.140",
+      "end": "00:22:21.650",
+      "text": "And for the most part, we are typically able to do that,"
+    },
+    {
+      "index": 136,
+      "start": "00:22:21.650",
+      "end": "00:22:23.130",
+      "text": "but there are times that we have to just be"
+    },
+    {
+      "index": 137,
+      "start": "00:22:23.130",
+      "end": "00:22:25.520",
+      "text": "a little more forceful with timing"
+    },
+    {
+      "index": 138,
+      "start": "00:22:25.520",
+      "end": "00:22:27.150",
+      "text": "in terms of getting the repairs done."
+    },
+    {
+      "index": 139,
+      "start": "00:22:27.150",
+      "end": "00:22:29.070",
+      "text": "So we're out of warranty."
+    },
+    {
+      "index": 140,
+      "start": "00:22:29.070",
+      "end": "00:22:31.380",
+      "text": "The support is done by the original manufacturer,"
+    },
+    {
+      "index": 141,
+      "start": "00:22:31.380",
+      "end": "00:22:33.330",
+      "text": "so the repairs that we're getting done"
+    },
+    {
+      "index": 142,
+      "start": "00:22:33.330",
+      "end": "00:22:37.800",
+      "text": "are by the manufacturer and they are to their specs."
+    },
+    {
+      "index": 143,
+      "start": "00:22:37.800",
+      "end": "00:22:38.640",
+      "text": "Council."
+    },
+    {
+      "index": 144,
+      "start": "00:22:38.640",
+      "end": "00:22:39.470",
+      "text": "Thank you, Nuflova."
+    },
+    {
+      "index": 145,
+      "start": "00:22:39.470",
+      "end": "00:22:41.370",
+      "text": "So the repairs that were done currently,"
+    },
+    {
+      "index": 146,
+      "start": "00:22:41.370",
+      "end": "00:22:43.150",
+      "text": "I do understand it's out of the warranty,"
+    },
+    {
+      "index": 147,
+      "start": "00:22:43.150",
+      "end": "00:22:44.780",
+      "text": "but the repairs that were done currently,"
+    },
+    {
+      "index": 148,
+      "start": "00:22:44.780",
+      "end": "00:22:46.840",
+      "text": "do we have any warranties kind of going forward"
+    },
+    {
+      "index": 149,
+      "start": "00:22:46.840",
+      "end": "00:22:50.960",
+      "text": "for the work that has been currently done?"
+    },
+    {
+      "index": 150,
+      "start": "00:22:50.960",
+      "end": "00:22:52.430",
+      "text": "Absolutely. - And through the chair,"
+    },
+    {
+      "index": 151,
+      "start": "00:22:52.430",
+      "end": "00:22:55.440",
+      "text": "they are, most of the repairs that are being done"
+    },
+    {
+      "index": 152,
+      "start": "00:22:55.440",
+      "end": "00:22:57.470",
+      "text": "are on wear components, typically."
+    },
+    {
+      "index": 153,
+      "start": "00:22:57.470",
+      "end": "00:23:01.130",
+      "text": "So it's relatively rare that the main components"
+    },
+    {
+      "index": 154,
+      "start": "00:23:01.130",
+      "end": "00:23:04.270",
+      "text": "of the centrifuge breakdown, but they do wear out."
+    },
+    {
+      "index": 155,
+      "start": "00:23:04.270",
+      "end": "00:23:06.380",
+      "text": "It's a very demanding application for these things."
+    },
+    {
+      "index": 156,
+      "start": "00:23:06.380",
+      "end": "00:23:09.200",
+      "text": "So the parts that are done, they wear out,"
+    },
+    {
+      "index": 157,
+      "start": "00:23:09.200",
+      "end": "00:23:11.750",
+      "text": "but we do anticipate having to do these types of rebuilds"
+    },
+    {
+      "index": 158,
+      "start": "00:23:11.750",
+      "end": "00:23:14.750",
+      "text": "every one to three years, typically."
+    },
+    {
+      "index": 159,
+      "start": "00:23:14.750",
+      "end": "00:23:16.500",
+      "text": "So we try to plan it out that way"
+    },
+    {
+      "index": 160,
+      "start": "00:23:16.500",
+      "end": "00:23:20.630",
+      "text": "and our inspection frequencies are set for that."
+    },
+    {
+      "index": 161,
+      "start": "00:23:20.630",
+      "end": "00:23:21.980",
+      "text": "And sometimes they discover things"
+    },
+    {
+      "index": 162,
+      "start": "00:23:21.980",
+      "end": "00:23:23.890",
+      "text": "that happen out of the ordinary,"
+    },
+    {
+      "index": 163,
+      "start": "00:23:23.890",
+      "end": "00:23:25.680",
+      "text": "but typically that's the schedule that we stick with."
+    },
+    {
+      "index": 164,
+      "start": "00:23:25.680",
+      "end": "00:23:29.350",
+      "text": "So yeah, one to three years is about what we expect."
+    },
+    {
+      "index": 165,
+      "start": "00:23:29.350",
+      "end": "00:23:30.340",
+      "text": "Councilor?"
+    },
+    {
+      "index": 166,
+      "start": "00:23:30.340",
+      "end": "00:23:32.050",
+      "text": "Thank you for those answers."
+    },
+    {
+      "index": 167,
+      "start": "00:23:32.050",
+      "end": "00:23:35.930",
+      "text": "And the other one that was already mentioned is 2.6"
+    },
+    {
+      "index": 168,
+      "start": "00:23:35.930",
+      "end": "00:23:37.550",
+      "text": "for the four month rental."
+    },
+    {
+      "index": 169,
+      "start": "00:23:37.550",
+      "end": "00:23:42.190",
+      "text": "As we are purchasing a used one,"
+    },
+    {
+      "index": 170,
+      "start": "00:23:42.190",
+      "end": "00:23:43.880",
+      "text": "are there any warranties on that one?"
+    },
+    {
+      "index": 171,
+      "start": "00:23:43.880",
+      "end": "00:23:46.240",
+      "text": "Point one, point two, if something goes wrong"
+    },
+    {
+      "index": 172,
+      "start": "00:23:46.240",
+      "end": "00:23:55.760",
+      "text": "within the four month, are we obligated to make the purchase?"
+    },
+    {
+      "index": 173,
+      "start": "00:23:55.760",
+      "end": "00:23:58.830",
+      "text": "Through the chair, I don't have the specific information"
+    },
+    {
+      "index": 174,
+      "start": "00:23:58.830",
+      "end": "00:24:00.040",
+      "text": "dealing with the warranties."
+    },
+    {
+      "index": 175,
+      "start": "00:24:00.040",
+      "end": "00:24:02.850",
+      "text": "Drew Freeman is online right now."
+    },
+    {
+      "index": 176,
+      "start": "00:24:02.850",
+      "end": "00:24:04.630",
+      "text": "He may have that information,"
+    },
+    {
+      "index": 177,
+      "start": "00:24:04.630",
+      "end": "00:24:07.240",
+      "text": "but generally all those types of items are covered,"
+    },
+    {
+      "index": 178,
+      "start": "00:24:07.240",
+      "end": "00:24:10.570",
+      "text": "but if hopefully Drew can provide additional information"
+    },
+    {
+      "index": 179,
+      "start": "00:24:10.570",
+      "end": "00:24:11.810",
+      "text": "through the chair."
+    },
+    {
+      "index": 180,
+      "start": "00:24:11.810",
+      "end": "00:24:13.480",
+      "text": "Mr. Freeman?"
+    },
+    {
+      "index": 181,
+      "start": "00:24:13.480",
+      "end": "00:24:16.040",
+      "text": "Thank you, and through the chair."
+    },
+    {
+      "index": 182,
+      "start": "00:24:16.040",
+      "end": "00:24:18.900",
+      "text": "So typically there's the OEM, MAC,"
+    },
+    {
+      "index": 183,
+      "start": "00:24:18.900",
+      "end": "00:24:22.760",
+      "text": "certainly, and Woodkeep and Liberty Woodkeep"
+    },
+    {
+      "index": 184,
+      "start": "00:24:22.760",
+      "end": "00:24:25.940",
+      "text": "will certainly have their standard OEM warranties"
+    },
+    {
+      "index": 185,
+      "start": "00:24:25.940",
+      "end": "00:24:28.110",
+      "text": "that they'll honor."
+    },
+    {
+      "index": 186,
+      "start": "00:24:28.110",
+      "end": "00:24:32.530",
+      "text": "We obviously, the option to purchase is our discretion."
+    },
+    {
+      "index": 187,
+      "start": "00:24:32.530",
+      "end": "00:24:35.300",
+      "text": "So at the end of the rental period,"
+    },
+    {
+      "index": 188,
+      "start": "00:24:35.300",
+      "end": "00:24:37.510",
+      "text": "we'll definitely make an assessment,"
+    },
+    {
+      "index": 189,
+      "start": "00:24:37.510",
+      "end": "00:24:39.530",
+      "text": "based on the truck that we've been handed."
+    },
+    {
+      "index": 190,
+      "start": "00:24:39.530",
+      "end": "00:24:40.960",
+      "text": "It's got fairly low mileage,"
+    },
+    {
+      "index": 191,
+      "start": "00:24:40.960",
+      "end": "00:24:43.730",
+      "text": "maybe only 45,000 kilometers on it."
+    },
+    {
+      "index": 192,
+      "start": "00:24:43.730",
+      "end": "00:24:46.490",
+      "text": "So it's fairly new."
+    },
+    {
+      "index": 193,
+      "start": "00:24:46.490",
+      "end": "00:24:51.040",
+      "text": "So we expect the warranty to be honored"
+    },
+    {
+      "index": 194,
+      "start": "00:24:51.040",
+      "end": "00:24:52.400",
+      "text": "as they would normally."
+    },
+    {
+      "index": 195,
+      "start": "00:24:52.400",
+      "end": "00:24:54.970",
+      "text": "Thank you."
+    },
+    {
+      "index": 196,
+      "start": "00:24:54.970",
+      "end": "00:24:55.920",
+      "text": "Councilor?"
+    },
+    {
+      "index": 197,
+      "start": "00:24:55.920",
+      "end": "00:24:57.150",
+      "text": "Thank you very much for those answers."
+    },
+    {
+      "index": 198,
+      "start": "00:24:57.150",
+      "end": "00:25:00.270",
+      "text": "No more questions on that. One, 2.2,"
+    },
+    {
+      "index": 199,
+      "start": "00:25:00.270",
+      "end": "00:25:04.900",
+      "text": "those are the management of street London Envire Depos."
+    },
+    {
+      "index": 200,
+      "start": "00:25:04.900",
+      "end": "00:25:06.970",
+      "text": "Clark Road, we are stating that there was going to be"
+    },
+    {
+      "index": 201,
+      "start": "00:25:06.970",
+      "end": "00:25:09.520",
+      "text": "six months closure in 2025."
+    },
+    {
+      "index": 202,
+      "start": "00:25:09.520",
+      "end": "00:25:14.210",
+      "text": "Oxford will need several repair projects for the Oxford."
+    },
+    {
+      "index": 203,
+      "start": "00:25:14.210",
+      "end": "00:25:15.280",
+      "text": "Is it going to be closed,"
+    },
+    {
+      "index": 204,
+      "start": "00:25:15.280",
+      "end": "00:25:17.940",
+      "text": "or is it still going to be operating during the month,"
+    },
+    {
+      "index": 205,
+      "start": "00:25:17.940",
+      "end": "00:25:22.380",
+      "text": "those month, 0.1 and 0.2 are we coordinating it?"
+    },
+    {
+      "index": 206,
+      "start": "00:25:22.380",
+      "end": "00:25:25.090",
+      "text": "So it's not closed if it is going to be closed"
+    },
+    {
+      "index": 207,
+      "start": "00:25:25.090",
+      "end": "00:25:26.740",
+      "text": "at the same time as Clark Road."
+    },
+    {
+      "index": 208,
+      "start": "00:25:26.740",
+      "end": "00:25:28.830",
+      "text": "Thank you."
+    },
+    {
+      "index": 209,
+      "start": "00:25:28.830",
+      "end": "00:25:29.650",
+      "text": "Mr. Sandford."
+    },
+    {
+      "index": 210,
+      "start": "00:25:29.650",
+      "end": "00:25:35.250",
+      "text": "Through the chair, Oxford will require one"
+    },
+    {
+      "index": 211,
+      "start": "00:25:35.250",
+      "end": "00:25:37.650",
+      "text": "or possibly two day closure,"
+    },
+    {
+      "index": 212,
+      "start": "00:25:37.650",
+      "end": "00:25:41.280",
+      "text": "and that will have to occur during the months of June, July,"
+    },
+    {
+      "index": 213,
+      "start": "00:25:41.280",
+      "end": "00:25:44.590",
+      "text": "or August for the nature of the work that has to be done."
+    },
+    {
+      "index": 214,
+      "start": "00:25:44.590",
+      "end": "00:25:47.810",
+      "text": "That will occur with weekday activities."
+    },
+    {
+      "index": 215,
+      "start": "00:25:47.810",
+      "end": "00:25:50.670",
+      "text": "So where the depot basically is being used less,"
+    },
+    {
+      "index": 216,
+      "start": "00:25:50.670",
+      "end": "00:25:52.140",
+      "text": "we will be open for the weekend."
+    },
+    {
+      "index": 217,
+      "start": "00:25:52.140",
+      "end": "00:25:54.920",
+      "text": "So there will be probably a one or two day period"
+    },
+    {
+      "index": 218,
+      "start": "00:25:54.920",
+      "end": "00:25:57.900",
+      "text": "where both depots would be closed in the summer,"
+    },
+    {
+      "index": 219,
+      "start": "00:25:57.900",
+      "end": "00:26:00.210",
+      "text": "noting that with Clark Road,"
+    },
+    {
+      "index": 220,
+      "start": "00:26:00.210",
+      "end": "00:26:01.940",
+      "text": "that we do have the two other options"
+    },
+    {
+      "index": 221,
+      "start": "00:26:01.940",
+      "end": "00:26:03.670",
+      "text": "that people will become quite familiar with"
+    },
+    {
+      "index": 222,
+      "start": "00:26:03.670",
+      "end": "00:26:07.130",
+      "text": "by that point in time."
+    },
+    {
+      "index": 223,
+      "start": "00:26:07.130",
+      "end": "00:26:08.030",
+      "text": "Councillor."
+    },
+    {
+      "index": 224,
+      "start": "00:26:08.030",
+      "end": "00:26:08.870",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 225,
+      "start": "00:26:08.870",
+      "end": "00:26:09.700",
+      "text": "No more questions from everyone."
+    },
+    {
+      "index": 226,
+      "start": "00:26:09.700",
+      "end": "00:26:12.290",
+      "text": "And the last ones for the chair to the staff."
+    },
+    {
+      "index": 227,
+      "start": "00:26:12.290",
+      "end": "00:26:17.260",
+      "text": "2.2, when we are, sorry, 2.2 and 0.2.2,"
+    },
+    {
+      "index": 228,
+      "start": "00:26:17.260",
+      "end": "00:26:20.880",
+      "text": "reviewing options for North and city owned works yard"
+    },
+    {
+      "index": 229,
+      "start": "00:26:20.880",
+      "end": "00:26:25.140",
+      "text": "would not be approved until 2028."
+    },
+    {
+      "index": 230,
+      "start": "00:26:25.140",
+      "end": "00:26:29.450",
+      "text": "The reasons why it would not be approved until 2028."
+    },
+    {
+      "index": 231,
+      "start": "00:26:29.450",
+      "end": "00:26:32.770",
+      "text": "Thank you."
+    },
+    {
+      "index": 232,
+      "start": "00:26:32.770",
+      "end": "00:26:40.790",
+      "text": "Councillors, this on 2.2, sorry, I missed that."
+    },
+    {
+      "index": 233,
+      "start": "00:26:40.790",
+      "end": "00:26:43.800",
+      "text": "Mr. Stanford."
+    },
+    {
+      "index": 234,
+      "start": "00:26:43.800",
+      "end": "00:26:47.220",
+      "text": "Through the chair, yes, it's on 2.2."
+    },
+    {
+      "index": 235,
+      "start": "00:26:47.220",
+      "end": "00:26:49.770",
+      "text": "And this is part of the rationale for putting forward"
+    },
+    {
+      "index": 236,
+      "start": "00:26:49.770",
+      "end": "00:26:52.580",
+      "text": "a longer period of time for the North and depot."
+    },
+    {
+      "index": 237,
+      "start": "00:26:52.580",
+      "end": "00:26:55.200",
+      "text": "We are currently working with our colleagues in fleet,"
+    },
+    {
+      "index": 238,
+      "start": "00:26:55.200",
+      "end": "00:26:57.250",
+      "text": "sorry, in facilities,"
+    },
+    {
+      "index": 239,
+      "start": "00:26:57.250",
+      "end": "00:27:00.050",
+      "text": "looking at the potential of a North and facility."
+    },
+    {
+      "index": 240,
+      "start": "00:27:00.050",
+      "end": "00:27:02.820",
+      "text": "At this point in time, a location has not been identified,"
+    },
+    {
+      "index": 241,
+      "start": "00:27:02.820",
+      "end": "00:27:06.830",
+      "text": "nor has budget been set aside for this particular project."
+    },
+    {
+      "index": 242,
+      "start": "00:27:06.830",
+      "end": "00:27:09.600",
+      "text": "So this is work that will occur over the next couple of years"
+    },
+    {
+      "index": 243,
+      "start": "00:27:09.600",
+      "end": "00:27:12.900",
+      "text": "and will enter into the next multi-year budget process."
+    },
+    {
+      "index": 244,
+      "start": "00:27:12.900",
+      "end": "00:27:15.110",
+      "text": "So right now there is no budget available"
+    },
+    {
+      "index": 245,
+      "start": "00:27:15.110",
+      "end": "00:27:17.400",
+      "text": "for this particular yard."
+    },
+    {
+      "index": 246,
+      "start": "00:27:17.400",
+      "end": "00:27:19.400",
+      "text": "So there will be work to be done"
+    },
+    {
+      "index": 247,
+      "start": "00:27:19.400",
+      "end": "00:27:20.770",
+      "text": "and then information brought forward"
+    },
+    {
+      "index": 248,
+      "start": "00:27:20.770",
+      "end": "00:27:23.060",
+      "text": "to committee and council."
+    },
+    {
+      "index": 249,
+      "start": "00:27:23.060",
+      "end": "00:27:24.350",
+      "text": "Council."
+    },
+    {
+      "index": 250,
+      "start": "00:27:24.350",
+      "end": "00:27:25.190",
+      "text": "Okay, thank you for that."
+    },
+    {
+      "index": 251,
+      "start": "00:27:25.190",
+      "end": "00:27:27.920",
+      "text": "And I did forget one, sorry about that, the last one."
+    },
+    {
+      "index": 252,
+      "start": "00:27:27.920",
+      "end": "00:27:29.630",
+      "text": "And that's going back to 2.5."
+    },
+    {
+      "index": 253,
+      "start": "00:27:29.630",
+      "end": "00:27:31.650",
+      "text": "And sorry, I didn't ask this in advance."
+    },
+    {
+      "index": 254,
+      "start": "00:27:31.650",
+      "end": "00:27:35.110",
+      "text": "And maybe it's an answer or question for the finance,"
+    },
+    {
+      "index": 255,
+      "start": "00:27:35.110",
+      "end": "00:27:38.510",
+      "text": "I was just curious, for purchasing,"
+    },
+    {
+      "index": 256,
+      "start": "00:27:38.510",
+      "end": "00:27:41.510",
+      "text": "going back to the purchase of the MAC"
+    },
+    {
+      "index": 257,
+      "start": "00:27:41.510",
+      "end": "00:27:44.130",
+      "text": "with K top loading garbage packer,"
+    },
+    {
+      "index": 258,
+      "start": "00:27:44.130",
+      "end": "00:27:46.520",
+      "text": "we are actually taking some of this funding"
+    },
+    {
+      "index": 259,
+      "start": "00:27:46.520",
+      "end": "00:27:51.210",
+      "text": "from the operations and not all of it from the reserves."
+    },
+    {
+      "index": 260,
+      "start": "00:27:51.210",
+      "end": "00:27:52.560",
+      "text": "I know it's a smaller amount,"
+    },
+    {
+      "index": 261,
+      "start": "00:27:52.560",
+      "end": "00:27:55.260",
+      "text": "but was there a specific reason why it was taken"
+    },
+    {
+      "index": 262,
+      "start": "00:27:55.260",
+      "end": "00:27:57.400",
+      "text": "from operations, the smaller amount,"
+    },
+    {
+      "index": 263,
+      "start": "00:27:57.400",
+      "end": "00:28:05.040",
+      "text": "and not everything funded finance through the reserves?"
+    },
+    {
+      "index": 264,
+      "start": "00:28:05.040",
+      "end": "00:28:08.490",
+      "text": "Through the chair, our normal practice for a rental unit"
+    },
+    {
+      "index": 265,
+      "start": "00:28:08.490",
+      "end": "00:28:12.780",
+      "text": "would be to have that as basically as an operating cost."
+    },
+    {
+      "index": 266,
+      "start": "00:28:12.780",
+      "end": "00:28:14.020",
+      "text": "We have done this in the past"
+    },
+    {
+      "index": 267,
+      "start": "00:28:14.020",
+      "end": "00:28:16.280",
+      "text": "and we've always used the operating funds associated"
+    },
+    {
+      "index": 268,
+      "start": "00:28:16.280",
+      "end": "00:28:19.470",
+      "text": "with that and we typically have an amount set aside"
+    },
+    {
+      "index": 269,
+      "start": "00:28:19.470",
+      "end": "00:28:22.610",
+      "text": "'cause it's not uncommon to run into some vehicle difficulties"
+    },
+    {
+      "index": 270,
+      "start": "00:28:22.610",
+      "end": "00:28:24.520",
+      "text": "and require a vehicle to be rented"
+    },
+    {
+      "index": 271,
+      "start": "00:28:24.520",
+      "end": "00:28:25.990",
+      "text": "for a one or two month period."
+    },
+    {
+      "index": 272,
+      "start": "00:28:25.990",
+      "end": "00:28:28.380",
+      "text": "This one just happens to be a little bit of a unique one,"
+    },
+    {
+      "index": 273,
+      "start": "00:28:28.380",
+      "end": "00:28:33.520",
+      "text": "but the budget is available in our operating group."
+    },
+    {
+      "index": 274,
+      "start": "00:28:33.520",
+      "end": "00:28:36.480",
+      "text": "Thank you for all the answers, no more questions."
+    },
+    {
+      "index": 275,
+      "start": "00:28:36.480",
+      "end": "00:28:37.870",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 276,
+      "start": "00:28:37.870",
+      "end": "00:28:40.840",
+      "text": "Any other questions from committee members?"
+    },
+    {
+      "index": 277,
+      "start": "00:28:40.840",
+      "end": "00:28:43.960",
+      "text": "I see none moving on."
+    },
+    {
+      "index": 278,
+      "start": "00:28:43.960",
+      "end": "00:28:46.960",
+      "text": "I guess we should be voting on the consent items"
+    },
+    {
+      "index": 279,
+      "start": "00:28:46.960",
+      "end": "00:28:48.150",
+      "text": "before we move on."
+    },
+    {
+      "index": 280,
+      "start": "00:28:48.150",
+      "end": "00:28:59.540",
+      "text": "And so if you could look at your screens."
+    },
+    {
+      "index": 281,
+      "start": "00:28:59.540",
+      "end": "00:29:06.530",
+      "text": "Also votes, yes."
+    },
+    {
+      "index": 282,
+      "start": "00:29:06.530",
+      "end": "00:29:10.730",
+      "text": "Closing the vote, the motion carries five to zero."
+    },
+    {
+      "index": 283,
+      "start": "00:29:10.730",
+      "end": "00:29:13.510",
+      "text": "Moving on to scheduled items."
+    },
+    {
+      "index": 284,
+      "start": "00:29:13.510",
+      "end": "00:29:16.170",
+      "text": "There are none, items for direction."
+    },
+    {
+      "index": 285,
+      "start": "00:29:16.170",
+      "end": "00:29:21.280",
+      "text": "There are none, deferred matters, additional business."
+    },
+    {
+      "index": 286,
+      "start": "00:29:21.280",
+      "end": "00:29:23.100",
+      "text": "Any?"
+    },
+    {
+      "index": 287,
+      "start": "00:29:23.100",
+      "end": "00:29:27.940",
+      "text": "I see none, I'm looking for adjournment."
+    },
+    {
+      "index": 288,
+      "start": "00:29:27.940",
+      "end": "00:29:31.320",
+      "text": "Moved by Councillor Trussell and seconded by Councillor Frank."
+    },
+    {
+      "index": 289,
+      "start": "00:29:31.320",
+      "end": "00:29:33.380",
+      "text": "Can we do a hand vote?"
+    },
+    {
+      "index": 290,
+      "start": "00:29:33.380",
+      "end": "00:29:39.010",
+      "text": "All those in favor, have a great day, everyone."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Civic%20Works%20Committee/2024/09-10/.transcript.srt"
+}

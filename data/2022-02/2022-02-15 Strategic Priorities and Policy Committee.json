@@ -1,1 +1,1259 @@
-{"title": null, "datetime": "2022-02-15 15:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1c0f958-da92-41d0-8393-b4bfe0082f50&Agenda=PostMinutes&lang=English", "meeting_type": "Strategic Priorities and Policy Committee", "bills": null, "present": ["E. Holder", "M. van Holst", "S. Lewis", "M. Salih", "J. Helmer", "M. Cassidy", "M. Hamou", "J. Morgan", "S. Lehman", "A. Hopkins", "P. Van Meerbergen", "S. Turner", "E. Peloza", "J. Fyfe-Millar", "S. Hillier"], "also_present": ["J. Taylor", "B. Westlake-Power"], "remote_attendance": ["L. Livingstone", "A. Barbon", "G. Barrett", "B. Card", "S. Corman", "J. Davison", "K. Dickins", "M. Feldberg", "G. Kotsifas", "K. Scherr", "C. Smith", "M. Schulthess"], "content": {"string": "The meeting is called to order at 3:00 PM; it being noted that the following members were in remote attendance: Councillors M. van Holst, M. Salih, J. Helmer, M. Cassidy, M. Hamou, J. Morgan, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza, S. Hillier.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-02-15 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [], "items": {"1": {"title": "Streamline Development Approval Fund \u2013 Transfer Payment Agreement", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lehman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by A. Hopkins", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken:\n\n\n\na)\u00a0 \u00a0 the proposed by-law as appended to the staff report dated February 15, 2022 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting on February 15, 2022, to:\n\n\n\ni)\u00a0 \u00a0 approve the Ontario Transfer Payment Agreement, attached as Schedule A to the proposed by-law, for the Streamline Development Approval Fund (the \u201cAgreement\u201d) between Her Majesty the Queen in Right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London;\n\n\n\nii)\u00a0 \u00a0 authorize the Mayor and the City Clerk to execute the Agreement; \n\n\n\niii)\u00a0 \u00a0 delegate authority to the Deputy City Manager, Planning and Economic Development, or their written delegate, to approve further Amending Agreements to the above-noted Transfer Payment Agreement for the Streamline Development Approval Fund;\n\n\n\niv)\u00a0 \u00a0 authorize the Mayor and Clerk to execute any amending agreements approved by the Deputy City Manager, Planning and Economic Development; and,\n\n\n\nv)\u00a0 \u00a0 authorize the Deputy City Manager, Planning and Economic Development, or their written delegate, to execute any financial reports required under this Agreement and to undertake all administrative, financial, and reporting acts necessary in connection with the Agreement;\n\n\n\nb)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this matter.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. van Holst", "M. Salih", "J. Helmer", "M. Cassidy", "J. Morgan", "A. Hopkins", "S. Turner", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "Mayor E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (15 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-02-15 15:00:00", "attachments": [{"empty_flag": false, "title": "2022-02-15 Staff Report - Streamline Development Approval Fund", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=89930", "date": "2022-02-15 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2022-02-15 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "None.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-02-15 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "None.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-02-15 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "None.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-02-15 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by M. van Holst", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Peloza", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. van Holst", "M. Salih", "J. Helmer", "M. Cassidy", "J. Morgan", "A. Hopkins", "S. Turner", "S. Lewis", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "Mayor E. Holder", "J. Fyfe-Millar,M. Hamou"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (15 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 3:08 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2022-02-15 15:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2022-02-15 15:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1c0f958-da92-41d0-8393-b4bfe0082f50&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Strategic Priorities and Policy Committee",
+  "bills": null,
+  "present": [
+    "E. Holder",
+    "M. van Holst",
+    "S. Lewis",
+    "M. Salih",
+    "J. Helmer",
+    "M. Cassidy",
+    "M. Hamou",
+    "J. Morgan",
+    "S. Lehman",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "S. Turner",
+    "E. Peloza",
+    "J. Fyfe-Millar",
+    "S. Hillier"
+  ],
+  "also_present": [
+    "J. Taylor",
+    "B. Westlake-Power"
+  ],
+  "remote_attendance": [
+    "L. Livingstone",
+    "A. Barbon",
+    "G. Barrett",
+    "B. Card",
+    "S. Corman",
+    "J. Davison",
+    "K. Dickins",
+    "M. Feldberg",
+    "G. Kotsifas",
+    "K. Scherr",
+    "C. Smith",
+    "M. Schulthess"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 3:00 PM; it being noted that the following members were in remote attendance: Councillors M. van Holst, M. Salih, J. Helmer, M. Cassidy, M. Hamou, J. Morgan, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza, S. Hillier.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-02-15 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Streamline Development Approval Fund \u2013 Transfer Payment Agreement",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lehman",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by A. Hopkins",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken:\n\n\n\na)\u00a0 \u00a0 the proposed by-law as appended to the staff report dated February 15, 2022 as Appendix \u201cA\u201d BE INTRODUCED at the Municipal Council meeting on February 15, 2022, to:\n\n\n\ni)\u00a0 \u00a0 approve the Ontario Transfer Payment Agreement, attached as Schedule A to the proposed by-law, for the Streamline Development Approval Fund (the \u201cAgreement\u201d) between Her Majesty the Queen in Right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London;\n\n\n\nii)\u00a0 \u00a0 authorize the Mayor and the City Clerk to execute the Agreement; \n\n\n\niii)\u00a0 \u00a0 delegate authority to the Deputy City Manager, Planning and Economic Development, or their written delegate, to approve further Amending Agreements to the above-noted Transfer Payment Agreement for the Streamline Development Approval Fund;\n\n\n\niv)\u00a0 \u00a0 authorize the Mayor and Clerk to execute any amending agreements approved by the Deputy City Manager, Planning and Economic Development; and,\n\n\n\nv)\u00a0 \u00a0 authorize the Deputy City Manager, Planning and Economic Development, or their written delegate, to execute any financial reports required under this Agreement and to undertake all administrative, financial, and reporting acts necessary in connection with the Agreement;\n\n\n\nb)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this matter.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. van Holst",
+                      "M. Salih",
+                      "J. Helmer",
+                      "M. Cassidy",
+                      "J. Morgan",
+                      "A. Hopkins",
+                      "S. Turner",
+                      "S. Lewis",
+                      "S. Hillier",
+                      "E. Peloza",
+                      "P. Van Meerbergen",
+                      "S. Lehman",
+                      "Mayor E. Holder",
+                      "J. Fyfe-Millar,M. Hamou"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (15 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-02-15 15:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-02-15 Staff Report - Streamline Development Approval Fund",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=89930",
+              "date": "2022-02-15 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2022-02-15 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "None.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-02-15 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "None.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-02-15 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "None.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-02-15 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by M. van Holst",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by E. Peloza",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "M. van Holst",
+                  "M. Salih",
+                  "J. Helmer",
+                  "M. Cassidy",
+                  "J. Morgan",
+                  "A. Hopkins",
+                  "S. Turner",
+                  "S. Lewis",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "Mayor E. Holder",
+                  "J. Fyfe-Millar,M. Hamou"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (15 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 3:08 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-02-15 15:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:03:08.160",
+      "end": "00:03:12.650",
+      "text": "Can you do a sound check from Chambers, please?"
+    },
+    {
+      "index": 2,
+      "start": "00:03:12.650",
+      "end": "00:03:13.520",
+      "text": "You sound good."
+    },
+    {
+      "index": 3,
+      "start": "00:03:13.520",
+      "end": "00:03:16.180",
+      "text": "Can you hear me okay?"
+    },
+    {
+      "index": 4,
+      "start": "00:03:16.180",
+      "end": "00:03:17.870",
+      "text": "Vercan, thank you."
+    },
+    {
+      "index": 5,
+      "start": "00:03:17.870",
+      "end": "00:13:31.560",
+      "text": "No problem."
+    },
+    {
+      "index": 6,
+      "start": "00:13:31.560",
+      "end": "00:13:49.570",
+      "text": "Call on colleagues, please, to have screens on."
+    },
+    {
+      "index": 7,
+      "start": "00:13:49.570",
+      "end": "00:13:54.260",
+      "text": "That's the correct firm quorum."
+    },
+    {
+      "index": 8,
+      "start": "00:13:54.260",
+      "end": "00:13:56.520",
+      "text": "I can confirm quorum, Your Worship."
+    },
+    {
+      "index": 9,
+      "start": "00:13:56.520",
+      "end": "00:13:58.990",
+      "text": "Thank you very much, colleagues."
+    },
+    {
+      "index": 10,
+      "start": "00:13:58.990",
+      "end": "00:14:04.610",
+      "text": "This is a special strategic priorities and policy meeting"
+    },
+    {
+      "index": 11,
+      "start": "00:14:04.610",
+      "end": "00:14:05.750",
+      "text": "with that."
+    },
+    {
+      "index": 12,
+      "start": "00:14:05.750",
+      "end": "00:14:15.010",
+      "text": "I will first ask for any disclosures of pecuniary interest."
+    },
+    {
+      "index": 13,
+      "start": "00:14:15.010",
+      "end": "00:14:18.890",
+      "text": "I see an undeclared, and I will now read out"
+    },
+    {
+      "index": 14,
+      "start": "00:14:18.890",
+      "end": "00:14:22.220",
+      "text": "the statements regarding virtual meeting and accessibility."
+    },
+    {
+      "index": 15,
+      "start": "00:14:22.220",
+      "end": "00:14:24.680",
+      "text": "And as the City of London is committed to making every effort"
+    },
+    {
+      "index": 16,
+      "start": "00:14:24.680",
+      "end": "00:14:27.890",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 17,
+      "start": "00:14:27.890",
+      "end": "00:14:30.940",
+      "text": "for council, standing or advisory committee meetings,"
+    },
+    {
+      "index": 18,
+      "start": "00:14:30.940",
+      "end": "00:14:32.870",
+      "text": "and information upon request."
+    },
+    {
+      "index": 19,
+      "start": "00:14:32.870",
+      "end": "00:14:34.500",
+      "text": "To make a request for any city service,"
+    },
+    {
+      "index": 20,
+      "start": "00:14:34.500",
+      "end": "00:14:39.980",
+      "text": "please contact accessibility@london.ca or 519-661-2489."
+    },
+    {
+      "index": 21,
+      "start": "00:14:39.980",
+      "end": "00:14:46.180",
+      "text": "So with that, colleagues, we have one item"
+    },
+    {
+      "index": 22,
+      "start": "00:14:46.180",
+      "end": "00:14:50.580",
+      "text": "on the consent agenda, 2.1 on your agenda."
+    },
+    {
+      "index": 23,
+      "start": "00:14:50.580",
+      "end": "00:14:52.740",
+      "text": "Dealing with the Streamline Development Approval Fund,"
+    },
+    {
+      "index": 24,
+      "start": "00:14:52.740",
+      "end": "00:14:57.230",
+      "text": "I wonder because this was called by virtue of its timeliness,"
+    },
+    {
+      "index": 25,
+      "start": "00:14:57.230",
+      "end": "00:15:06.500",
+      "text": "wonder if perhaps Mr. Cotsfis would take us through it."
+    },
+    {
+      "index": 26,
+      "start": "00:15:06.500",
+      "end": "00:15:11.220",
+      "text": "And I will go to Mr. Falver, please."
+    },
+    {
+      "index": 27,
+      "start": "00:15:11.220",
+      "end": "00:15:12.990",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 28,
+      "start": "00:15:12.990",
+      "end": "00:15:15.140",
+      "text": "Can everybody hear me?"
+    },
+    {
+      "index": 29,
+      "start": "00:15:15.140",
+      "end": "00:15:16.460",
+      "text": "We hear you fine."
+    },
+    {
+      "index": 30,
+      "start": "00:15:16.460",
+      "end": "00:15:17.360",
+      "text": "Great."
+    },
+    {
+      "index": 31,
+      "start": "00:15:17.360",
+      "end": "00:15:20.720",
+      "text": "So basically what we've got here is the provinces"
+    },
+    {
+      "index": 32,
+      "start": "00:15:20.720",
+      "end": "00:15:24.600",
+      "text": "providing us with about $1.7 million for us"
+    },
+    {
+      "index": 33,
+      "start": "00:15:24.600",
+      "end": "00:15:29.500",
+      "text": "to apply to efficiencies in the development process."
+    },
+    {
+      "index": 34,
+      "start": "00:15:29.500",
+      "end": "00:15:31.120",
+      "text": "So staff have taken a look."
+    },
+    {
+      "index": 35,
+      "start": "00:15:31.120",
+      "end": "00:15:32.310",
+      "text": "We have a number of different things"
+    },
+    {
+      "index": 36,
+      "start": "00:15:32.310",
+      "end": "00:15:36.220",
+      "text": "that we've been working on in our continuous improvement"
+    },
+    {
+      "index": 37,
+      "start": "00:15:36.220",
+      "end": "00:15:40.960",
+      "text": "strategy, lean six reviews of different processes,"
+    },
+    {
+      "index": 38,
+      "start": "00:15:40.960",
+      "end": "00:15:45.270",
+      "text": "even going as far as to bring in alignment"
+    },
+    {
+      "index": 39,
+      "start": "00:15:45.270",
+      "end": "00:15:48.850",
+      "text": "a number of the things associated with the reorg."
+    },
+    {
+      "index": 40,
+      "start": "00:15:48.850",
+      "end": "00:15:54.140",
+      "text": "So things like scanning paper files, moving paper files,"
+    },
+    {
+      "index": 41,
+      "start": "00:15:54.140",
+      "end": "00:15:58.520",
+      "text": "and then even bringing on staff to help with backlogs"
+    },
+    {
+      "index": 42,
+      "start": "00:15:58.520",
+      "end": "00:16:02.800",
+      "text": "for different applications."
+    },
+    {
+      "index": 43,
+      "start": "00:16:02.800",
+      "end": "00:16:06.340",
+      "text": "So, I mean, this is a wonderful thing for us."
+    },
+    {
+      "index": 44,
+      "start": "00:16:06.340",
+      "end": "00:16:09.360",
+      "text": "This actually lets us speed up a number of the processes"
+    },
+    {
+      "index": 45,
+      "start": "00:16:09.360",
+      "end": "00:16:12.230",
+      "text": "that we've been working on in the background."
+    },
+    {
+      "index": 46,
+      "start": "00:16:12.230",
+      "end": "00:16:14.450",
+      "text": "And then they even could help support"
+    },
+    {
+      "index": 47,
+      "start": "00:16:14.450",
+      "end": "00:16:18.020",
+      "text": "some of our digital transformation"
+    },
+    {
+      "index": 48,
+      "start": "00:16:18.020",
+      "end": "00:16:20.930",
+      "text": "towards our strategic business case"
+    },
+    {
+      "index": 49,
+      "start": "00:16:20.930",
+      "end": "00:16:24.340",
+      "text": "to bring in a Planning Act application software tracking"
+    },
+    {
+      "index": 50,
+      "start": "00:16:24.340",
+      "end": "00:16:27.180",
+      "text": "system."
+    },
+    {
+      "index": 51,
+      "start": "00:16:27.180",
+      "end": "00:16:29.970",
+      "text": "Pretty much sums it up at this point."
+    },
+    {
+      "index": 52,
+      "start": "00:16:29.970",
+      "end": "00:16:34.130",
+      "text": "If there's anything further, please feel free to--"
+    },
+    {
+      "index": 53,
+      "start": "00:16:34.130",
+      "end": "00:16:35.480",
+      "text": "Well, let's do that."
+    },
+    {
+      "index": 54,
+      "start": "00:16:35.480",
+      "end": "00:16:38.200",
+      "text": "So before I request a mover and seconder,"
+    },
+    {
+      "index": 55,
+      "start": "00:16:38.200",
+      "end": "00:16:40.260",
+      "text": "I'll ask if there are any questions from colleagues"
+    },
+    {
+      "index": 56,
+      "start": "00:16:40.260",
+      "end": "00:16:44.080",
+      "text": "for Mr. Felbert."
+    },
+    {
+      "index": 57,
+      "start": "00:16:44.080",
+      "end": "00:16:47.170",
+      "text": "Councillor Turner."
+    },
+    {
+      "index": 58,
+      "start": "00:16:47.170",
+      "end": "00:16:50.300",
+      "text": "Just a quick question in terms of the metrics"
+    },
+    {
+      "index": 59,
+      "start": "00:16:50.300",
+      "end": "00:16:53.160",
+      "text": "that the province will be looking for in exchange"
+    },
+    {
+      "index": 60,
+      "start": "00:16:53.160",
+      "end": "00:16:54.150",
+      "text": "for the grants."
+    },
+    {
+      "index": 61,
+      "start": "00:16:54.150",
+      "end": "00:16:56.500",
+      "text": "They typically have a suite of things"
+    },
+    {
+      "index": 62,
+      "start": "00:16:56.500",
+      "end": "00:16:58.250",
+      "text": "that you have to report and deliverables."
+    },
+    {
+      "index": 63,
+      "start": "00:16:58.250",
+      "end": "00:17:01.940",
+      "text": "And if these will also be reported up to us,"
+    },
+    {
+      "index": 64,
+      "start": "00:17:01.940",
+      "end": "00:17:05.070",
+      "text": "just to see how our processes are improved as a result."
+    },
+    {
+      "index": 65,
+      "start": "00:17:05.070",
+      "end": "00:17:07.910",
+      "text": "Mr. Felbert."
+    },
+    {
+      "index": 66,
+      "start": "00:17:07.910",
+      "end": "00:17:11.080",
+      "text": "Yeah, this has been pretty fast and furious"
+    },
+    {
+      "index": 67,
+      "start": "00:17:11.080",
+      "end": "00:17:13.160",
+      "text": "for actually working through the agreement right now."
+    },
+    {
+      "index": 68,
+      "start": "00:17:13.160",
+      "end": "00:17:17.990",
+      "text": "But we'll be, I think we have until April"
+    },
+    {
+      "index": 69,
+      "start": "00:17:17.990",
+      "end": "00:17:19.660",
+      "text": "to put together a list of projects"
+    },
+    {
+      "index": 70,
+      "start": "00:17:19.660",
+      "end": "00:17:22.650",
+      "text": "that will be bringing forward."
+    },
+    {
+      "index": 71,
+      "start": "00:17:22.650",
+      "end": "00:17:24.220",
+      "text": "My assumption is that we would come back"
+    },
+    {
+      "index": 72,
+      "start": "00:17:24.220",
+      "end": "00:17:28.020",
+      "text": "and talk to you folks if appropriate."
+    },
+    {
+      "index": 73,
+      "start": "00:17:28.020",
+      "end": "00:17:29.930",
+      "text": "Councillor Turner, any follow-up?"
+    },
+    {
+      "index": 74,
+      "start": "00:17:29.930",
+      "end": "00:17:30.850",
+      "text": "That's a good thanks."
+    },
+    {
+      "index": 75,
+      "start": "00:17:30.850",
+      "end": "00:17:35.910",
+      "text": "Thank you, Councillor Hopkins."
+    },
+    {
+      "index": 76,
+      "start": "00:17:35.910",
+      "end": "00:17:37.110",
+      "text": "Yeah, thank you, Mr. Chair."
+    },
+    {
+      "index": 77,
+      "start": "00:17:37.110",
+      "end": "00:17:39.300",
+      "text": "And of course, very supportive of the city"
+    },
+    {
+      "index": 78,
+      "start": "00:17:39.300",
+      "end": "00:17:42.130",
+      "text": "taking advantage of the streamline funding"
+    },
+    {
+      "index": 79,
+      "start": "00:17:42.130",
+      "end": "00:17:45.360",
+      "text": "that's available 1.75 million, it's quite a bit of money."
+    },
+    {
+      "index": 80,
+      "start": "00:17:45.360",
+      "end": "00:17:47.960",
+      "text": "I know it's within a limited timeframe"
+    },
+    {
+      "index": 81,
+      "start": "00:17:47.960",
+      "end": "00:17:52.780",
+      "text": "but really I'm glad to see staff taking advantage"
+    },
+    {
+      "index": 82,
+      "start": "00:17:52.780",
+      "end": "00:17:56.890",
+      "text": "and getting the timelines for these agreements"
+    },
+    {
+      "index": 83,
+      "start": "00:17:56.890",
+      "end": "00:17:59.440",
+      "text": "to take place to the province."
+    },
+    {
+      "index": 84,
+      "start": "00:17:59.440",
+      "end": "00:18:02.070",
+      "text": "I just have general comments"
+    },
+    {
+      "index": 85,
+      "start": "00:18:02.070",
+      "end": "00:18:08.100",
+      "text": "and I was really pleased to see temporary staff"
+    },
+    {
+      "index": 86,
+      "start": "00:18:08.100",
+      "end": "00:18:13.400",
+      "text": "in getting the internship programs"
+    },
+    {
+      "index": 87,
+      "start": "00:18:15.230",
+      "end": "00:18:18.830",
+      "text": "and supporting diversification on planning"
+    },
+    {
+      "index": 88,
+      "start": "00:18:18.830",
+      "end": "00:18:20.210",
+      "text": "and building departments."
+    },
+    {
+      "index": 89,
+      "start": "00:18:20.210",
+      "end": "00:18:24.250",
+      "text": "And I know we're looking more at the internship there"
+    },
+    {
+      "index": 90,
+      "start": "00:18:24.250",
+      "end": "00:18:27.730",
+      "text": "but I would hope that there would be opportunities"
+    },
+    {
+      "index": 91,
+      "start": "00:18:27.730",
+      "end": "00:18:32.300",
+      "text": "to take advantage of the funding"
+    },
+    {
+      "index": 92,
+      "start": "00:18:32.300",
+      "end": "00:18:37.310",
+      "text": "from the planning and development process of policies"
+    },
+    {
+      "index": 93,
+      "start": "00:18:37.310",
+      "end": "00:18:40.560",
+      "text": "that we really can do."
+    },
+    {
+      "index": 94,
+      "start": "00:18:40.560",
+      "end": "00:18:44.480",
+      "text": "I know a number of them are being set aside for now"
+    },
+    {
+      "index": 95,
+      "start": "00:18:44.480",
+      "end": "00:18:48.270",
+      "text": "but as we look at offering internships to graduates"
+    },
+    {
+      "index": 96,
+      "start": "00:18:48.270",
+      "end": "00:18:51.220",
+      "text": "with focusing on disabilities and diversity"
+    },
+    {
+      "index": 97,
+      "start": "00:18:51.220",
+      "end": "00:18:54.330",
+      "text": "and indigenous and Black and racial and gender,"
+    },
+    {
+      "index": 98,
+      "start": "00:18:54.330",
+      "end": "00:18:58.080",
+      "text": "we can also take that opportunity to look at how policies"
+    },
+    {
+      "index": 99,
+      "start": "00:18:58.080",
+      "end": "00:19:02.630",
+      "text": "and how we can incorporate that in our planning policies."
+    },
+    {
+      "index": 100,
+      "start": "00:19:02.630",
+      "end": "00:19:04.830",
+      "text": "I know we've had a number of conversations"
+    },
+    {
+      "index": 101,
+      "start": "00:19:04.830",
+      "end": "00:19:08.060",
+      "text": "in the past as well about better ways"
+    },
+    {
+      "index": 102,
+      "start": "00:19:08.060",
+      "end": "00:19:09.890",
+      "text": "to improve public participation,"
+    },
+    {
+      "index": 103,
+      "start": "00:19:09.890",
+      "end": "00:19:13.290",
+      "text": "better ways to improve our agendas, et cetera."
+    },
+    {
+      "index": 104,
+      "start": "00:19:13.290",
+      "end": "00:19:16.080",
+      "text": "I think those are important projects"
+    },
+    {
+      "index": 105,
+      "start": "00:19:16.080",
+      "end": "00:19:21.070",
+      "text": "that we will be able to take advantage of through this funding"
+    },
+    {
+      "index": 106,
+      "start": "00:19:21.070",
+      "end": "00:19:27.270",
+      "text": "and just wanted to make those comments known at this meeting."
+    },
+    {
+      "index": 107,
+      "start": "00:19:27.270",
+      "end": "00:19:28.200",
+      "text": "Thank you."
+    },
+    {
+      "index": 108,
+      "start": "00:19:28.200",
+      "end": "00:19:29.020",
+      "text": "Thank you, Mr. Felberg."
+    },
+    {
+      "index": 109,
+      "start": "00:19:29.020",
+      "end": "00:19:34.450",
+      "text": "Any comment with respect to Councillor Hopkins comments yourself."
+    },
+    {
+      "index": 110,
+      "start": "00:19:34.450",
+      "end": "00:19:35.280",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 111,
+      "start": "00:19:35.280",
+      "end": "00:19:37.700",
+      "text": "Maybe Mr. Barrett might wanna fill in afterwards"
+    },
+    {
+      "index": 112,
+      "start": "00:19:37.700",
+      "end": "00:19:41.470",
+      "text": "but did speak with Ms. Morris prior to putting in our list"
+    },
+    {
+      "index": 113,
+      "start": "00:19:41.470",
+      "end": "00:19:45.080",
+      "text": "of planned projects and we did talk about some possibilities"
+    },
+    {
+      "index": 114,
+      "start": "00:19:45.080",
+      "end": "00:19:50.230",
+      "text": "of including some looks at EDI policies for the city"
+    },
+    {
+      "index": 115,
+      "start": "00:19:50.230",
+      "end": "00:19:53.920",
+      "text": "or potentially planning policies."
+    },
+    {
+      "index": 116,
+      "start": "00:19:53.920",
+      "end": "00:19:56.930",
+      "text": "Not sure if Mr. Barrett has anything further to add to that."
+    },
+    {
+      "index": 117,
+      "start": "00:19:56.930",
+      "end": "00:19:58.630",
+      "text": "Mr. Barrett."
+    },
+    {
+      "index": 118,
+      "start": "00:19:58.630",
+      "end": "00:19:59.710",
+      "text": "Thank you, Your Worship."
+    },
+    {
+      "index": 119,
+      "start": "00:19:59.710",
+      "end": "00:20:02.740",
+      "text": "Just part of what we could look at through this"
+    },
+    {
+      "index": 120,
+      "start": "00:20:02.740",
+      "end": "00:20:04.290",
+      "text": "is just broadening that out a little bit"
+    },
+    {
+      "index": 121,
+      "start": "00:20:04.290",
+      "end": "00:20:06.650",
+      "text": "is on the public consultation process"
+    },
+    {
+      "index": 122,
+      "start": "00:20:06.650",
+      "end": "00:20:08.200",
+      "text": "as part of the whole streamlining in ways"
+    },
+    {
+      "index": 123,
+      "start": "00:20:08.200",
+      "end": "00:20:10.710",
+      "text": "that we have a better outreach to broader communities"
+    },
+    {
+      "index": 124,
+      "start": "00:20:10.710",
+      "end": "00:20:14.660",
+      "text": "and what we're then who were able to reach now."
+    },
+    {
+      "index": 125,
+      "start": "00:20:14.660",
+      "end": "00:20:16.450",
+      "text": "So that could be part of,"
+    },
+    {
+      "index": 126,
+      "start": "00:20:16.450",
+      "end": "00:20:18.520",
+      "text": "as part of the streamlining is actually having a better way"
+    },
+    {
+      "index": 127,
+      "start": "00:20:18.520",
+      "end": "00:20:21.430",
+      "text": "to deal with the public and more efficient way to consult"
+    },
+    {
+      "index": 128,
+      "start": "00:20:21.430",
+      "end": "00:20:22.270",
+      "text": "with the public."
+    },
+    {
+      "index": 129,
+      "start": "00:20:22.270",
+      "end": "00:20:24.020",
+      "text": "So that's certainly something that we could look at"
+    },
+    {
+      "index": 130,
+      "start": "00:20:24.020",
+      "end": "00:20:26.160",
+      "text": "as one of the projects to incorporate."
+    },
+    {
+      "index": 131,
+      "start": "00:20:26.160",
+      "end": "00:20:26.950",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 132,
+      "start": "00:20:26.950",
+      "end": "00:20:30.590",
+      "text": "Any other comments or questions?"
+    },
+    {
+      "index": 133,
+      "start": "00:20:30.590",
+      "end": "00:20:34.050",
+      "text": "Always nice when the province wants to give us some money"
+    },
+    {
+      "index": 134,
+      "start": "00:20:34.050",
+      "end": "00:20:36.000",
+      "text": "and this is not just a little money"
+    },
+    {
+      "index": 135,
+      "start": "00:20:36.000",
+      "end": "00:20:37.580",
+      "text": "because it relates to continuous improvement."
+    },
+    {
+      "index": 136,
+      "start": "00:20:37.580",
+      "end": "00:20:40.320",
+      "text": "So with that, I'll look for a motion to approve."
+    },
+    {
+      "index": 137,
+      "start": "00:20:40.320",
+      "end": "00:20:42.090",
+      "text": "Councillor Layman, seconded by Councillor Hopkins."
+    },
+    {
+      "index": 138,
+      "start": "00:20:42.090",
+      "end": "00:20:43.490",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 139,
+      "start": "00:20:43.490",
+      "end": "00:21:00.810",
+      "text": "We've had discussion, let's call the vote."
+    },
+    {
+      "index": 140,
+      "start": "00:21:00.810",
+      "end": "00:21:02.410",
+      "text": "I vote, yeah, in your Worship."
+    },
+    {
+      "index": 141,
+      "start": "00:21:02.410",
+      "end": "00:21:09.280",
+      "text": "Thank you."
+    },
+    {
+      "index": 142,
+      "start": "00:21:09.280",
+      "end": "00:21:13.700",
+      "text": "In the vote, the motion's passed 15 to zero."
+    },
+    {
+      "index": 143,
+      "start": "00:21:13.700",
+      "end": "00:21:16.680",
+      "text": "We have no scheduled items, no items for direction."
+    },
+    {
+      "index": 144,
+      "start": "00:21:16.680",
+      "end": "00:21:19.020",
+      "text": "We have no deferred matters, no additional business."
+    },
+    {
+      "index": 145,
+      "start": "00:21:19.020",
+      "end": "00:21:21.440",
+      "text": "So with that, I'll look for a motion to adjourn."
+    },
+    {
+      "index": 146,
+      "start": "00:21:21.440",
+      "end": "00:21:24.610",
+      "text": "We'll by Councillor Van Hal seconded by Councillor Palosa."
+    },
+    {
+      "index": 147,
+      "start": "00:21:24.610",
+      "end": "00:21:25.870",
+      "text": "We'll turn your attention to the screen"
+    },
+    {
+      "index": 148,
+      "start": "00:21:25.870",
+      "end": "00:21:41.980",
+      "text": "as we conclude the meeting."
+    },
+    {
+      "index": 149,
+      "start": "00:21:41.980",
+      "end": "00:21:46.130",
+      "text": "Closing the vote, the motion's passed 15 to zero."
+    },
+    {
+      "index": 150,
+      "start": "00:21:46.130",
+      "end": "00:21:46.970",
+      "text": "Clearly meeting adjourned."
+    },
+    {
+      "index": 151,
+      "start": "00:21:46.970",
+      "end": "00:21:48.330",
+      "text": "We'll see you all back at four o'clock."
+    },
+    {
+      "index": 152,
+      "start": "00:21:48.330",
+      "end": "00:21:48.700",
+      "text": "Thank you."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Strategic%20Priorities%20and%20Policy%20Committee/2022/02-15/.transcript.srt"
+}

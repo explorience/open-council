@@ -166,4 +166,25 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:20 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (19 minutes)</summary>
+
+**[13:55]** Okay, good afternoon, everyone. Call the 16th meeting of the Corporate Services Committee to order. Just a reminder for counselors joining us online to have their cameras on, please. Thank you, see those coming up. Okay, please check the city website for additional meeting detail information. Meetings can be viewed via live streaming on YouTube and the city website. The city of London is situated on the traditional lands of the Anishinaabek, the Haudenosaunee in the Leno Wapak and the Adwondering. We honor and respect the history, languages and culture, the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, Metis and Inuit today.
+
+**[14:33]** As representatives of the people of the city of London, we were grateful to have the opportunity to work and live in this territory. We have all members of the committee present, thank you. The city of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make requests specific to this meeting, please contact CSC at London.ca or 519-661-2489, extension 2425. Looking for any disclosures of pecuniary interest. Okay, seeing none, we are on two consent items.
+
+**[15:09]** I have had no requests for any of these polls, so looking for a motion for 2.1 to 2.3 to be put on the floor. Okay, thank you, Councilor Van Mirbergen and seconded by Councilor Cuddy. So items 2.1 to 2.3 are now on the floor for any discussion or questions. Okay, I'm not seeing any, so we'll open the vote on that. This is Stevenson votes, yes. I'm having trouble logging in, Councilor Robin votes, yes.
+
+**[15:48]** Councilor Van Mirbergen. Opposed in the vote, motion carries, 5-0. Okay, we are on two scheduled items. We do not have any items for direction. We also don't have any and no deferred matters or additional business, so we are on to number six, which is confidential. Looking for a motion to go into confidential session. Councilor Cuddy, Councilor Robin, thank you. Okay, and we'll open that for voting. Vote, yes. Councilor Stevenson votes, yes.
+
+**[16:25]** Closing the vote, motion carries, 5-0. Okay, just give us a moment to shuffle people around. And we're at the next session, and I'll look to Councilor Cuddy to report out.
+
+**[18:33]** Thank you, Chair and through you. Committee went into in-camera session from 1.05 to 1.17 PM. Matters of a confidential matter, nature we're discussed and progress was made. Thank you, and we are on to adjournment. Can I get a motion to adjourn? Okay, Councilor Cuddy, Councilor Van Mirbergen, all those in favor? Any opposed? Motion carries. Thank you everybody.
+
+</details>

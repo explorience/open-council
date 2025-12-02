@@ -1,1 +1,704 @@
-{"title": "4th Meeting of the Audit Committee", "datetime": "2022-09-07 12:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=334ac8e5-634c-41db-b7fa-64f421a0d413&Agenda=PostMinutes&lang=English", "meeting_type": "Audit Committee", "bills": null, "present": ["Deputy  J. Morgan", "M. van Holst", "J. Helmer", "S. Turner", "L. Higgs"], "also_present": ["A. Job", "M. Schulthess."], "remote_attendance": ["Remote Staff Attendance: L. Livingstone", "A. Barbon", "V. Bila (MNP)", "B. Card", "D. Jaswal (MNP)", "S. Swance", "J. Westbrook."], "content": {"string": "The meeting is called to order at 12:00 PM; it being noted that the following were in remote attendance: Councillors M. van Holst, J. Helmer, S. Turner; and L. Higgs.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no Pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-09-07 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-09-07 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-09-07 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Internal Audit Follow Up Activities Dashboard", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the communication from MNP, with respect to the internal audit follow up activities update dashboard, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2022-09-07 12:00:00", "attachments": [{"empty_flag": false, "title": "2022-09-07 Submission - Activities Dashboard", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=94774", "date": "2022-09-07 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2022-09-07 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2022-09-07 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 12:03 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2022-09-07 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "4th Meeting of the Audit Committee",
+  "datetime": "2022-09-07 12:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=334ac8e5-634c-41db-b7fa-64f421a0d413&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Audit Committee",
+  "bills": null,
+  "present": [
+    "Deputy  J. Morgan",
+    "M. van Holst",
+    "J. Helmer",
+    "S. Turner",
+    "L. Higgs"
+  ],
+  "also_present": [
+    "A. Job",
+    "M. Schulthess."
+  ],
+  "remote_attendance": [
+    "Remote Staff Attendance: L. Livingstone",
+    "A. Barbon",
+    "V. Bila (MNP)",
+    "B. Card",
+    "D. Jaswal (MNP)",
+    "S. Swance",
+    "J. Westbrook."
+  ],
+  "content": {
+    "string": "The meeting is called to order at 12:00 PM; it being noted that the following were in remote attendance: Councillors M. van Holst, J. Helmer, S. Turner; and L. Higgs.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no Pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-09-07 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-09-07 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-09-07 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Internal Audit Follow Up Activities Dashboard",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the communication from MNP, with respect to the internal audit follow up activities update dashboard, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2022-09-07 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2022-09-07 Submission - Activities Dashboard",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=94774",
+              "date": "2022-09-07 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2022-09-07 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-09-07 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 12:03 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2022-09-07 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:02:18.080",
+      "end": "00:02:21.090",
+      "text": "Audio test from council chambers."
+    },
+    {
+      "index": 2,
+      "start": "00:02:21.090",
+      "end": "00:02:22.950",
+      "text": "I can hear you loud and clear."
+    },
+    {
+      "index": 3,
+      "start": "00:02:22.950",
+      "end": "00:02:38.560",
+      "text": "Thank you."
+    },
+    {
+      "index": 4,
+      "start": "00:02:38.560",
+      "end": "00:02:42.320",
+      "text": "You want me to talk and test it?"
+    },
+    {
+      "index": 5,
+      "start": "00:02:42.320",
+      "end": "00:10:01.170",
+      "text": "Thank you."
+    },
+    {
+      "index": 6,
+      "start": "00:10:01.170",
+      "end": "00:10:02.070",
+      "text": "For colleagues on the committee,"
+    },
+    {
+      "index": 7,
+      "start": "00:10:02.070",
+      "end": "00:10:03.230",
+      "text": "I'll just have you turn on your cameras"
+    },
+    {
+      "index": 8,
+      "start": "00:10:03.230",
+      "end": "00:10:08.310",
+      "text": "so the clerk can confirm quorum."
+    },
+    {
+      "index": 9,
+      "start": "00:10:08.310",
+      "end": "00:10:11.140",
+      "text": "You do have quorum."
+    },
+    {
+      "index": 10,
+      "start": "00:10:11.140",
+      "end": "00:10:12.730",
+      "text": "Perfect. Well, then I'll call the fourth meeting"
+    },
+    {
+      "index": 11,
+      "start": "00:10:12.730",
+      "end": "00:10:14.980",
+      "text": "of the audit committee to order."
+    },
+    {
+      "index": 12,
+      "start": "00:10:14.980",
+      "end": "00:10:17.790",
+      "text": "I'm gonna do a land acknowledgement"
+    },
+    {
+      "index": 13,
+      "start": "00:10:17.790",
+      "end": "00:10:20.260",
+      "text": "and then we'll move right into the agenda."
+    },
+    {
+      "index": 14,
+      "start": "00:10:20.260",
+      "end": "00:10:22.350",
+      "text": "The city of London is situated on the traditional lands"
+    },
+    {
+      "index": 15,
+      "start": "00:10:22.350",
+      "end": "00:10:25.260",
+      "text": "of the Anishinaabe, Haudenosaunee, Lenny Paywalk,"
+    },
+    {
+      "index": 16,
+      "start": "00:10:25.260",
+      "end": "00:10:27.170",
+      "text": "and Adawandran."
+    },
+    {
+      "index": 17,
+      "start": "00:10:27.170",
+      "end": "00:10:29.840",
+      "text": "We honor and respect the history, language and culture,"
+    },
+    {
+      "index": 18,
+      "start": "00:10:29.840",
+      "end": "00:10:31.550",
+      "text": "the diverse indigenous people"
+    },
+    {
+      "index": 19,
+      "start": "00:10:31.550",
+      "end": "00:10:33.130",
+      "text": "called this territory home."
+    },
+    {
+      "index": 20,
+      "start": "00:10:33.130",
+      "end": "00:10:34.370",
+      "text": "The city of London is currently home"
+    },
+    {
+      "index": 21,
+      "start": "00:10:34.370",
+      "end": "00:10:38.050",
+      "text": "to many First Nations, M\u00e9tis and Inuit people today."
+    },
+    {
+      "index": 22,
+      "start": "00:10:38.050",
+      "end": "00:10:40.470",
+      "text": "As representatives of the people of the city of London,"
+    },
+    {
+      "index": 23,
+      "start": "00:10:40.470",
+      "end": "00:10:42.030",
+      "text": "we are grateful to have the opportunity"
+    },
+    {
+      "index": 24,
+      "start": "00:10:42.030",
+      "end": "00:10:46.110",
+      "text": "to work and live in this territory."
+    },
+    {
+      "index": 25,
+      "start": "00:10:46.110",
+      "end": "00:10:47.740",
+      "text": "The city of London is also committed"
+    },
+    {
+      "index": 26,
+      "start": "00:10:47.740",
+      "end": "00:10:50.520",
+      "text": "to making every effort to provide alternate formats"
+    },
+    {
+      "index": 27,
+      "start": "00:10:50.520",
+      "end": "00:10:52.510",
+      "text": "and communication supports for all of our meetings"
+    },
+    {
+      "index": 28,
+      "start": "00:10:52.510",
+      "end": "00:10:53.580",
+      "text": "upon request."
+    },
+    {
+      "index": 29,
+      "start": "00:10:53.580",
+      "end": "00:10:55.410",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 30,
+      "start": "00:10:55.410",
+      "end": "00:10:57.990",
+      "text": "you can contact accessibility@lenny.ca"
+    },
+    {
+      "index": 31,
+      "start": "00:10:57.990",
+      "end": "00:11:03.140",
+      "text": "or 519-661-2489, extension 2425."
+    },
+    {
+      "index": 32,
+      "start": "00:11:03.140",
+      "end": "00:11:07.870",
+      "text": "I will start with disclosures of pecuniary interest."
+    },
+    {
+      "index": 33,
+      "start": "00:11:07.870",
+      "end": "00:11:11.650",
+      "text": "Are there any?"
+    },
+    {
+      "index": 34,
+      "start": "00:11:11.650",
+      "end": "00:11:12.480",
+      "text": "I see none."
+    },
+    {
+      "index": 35,
+      "start": "00:11:12.480",
+      "end": "00:11:13.460",
+      "text": "We have no consent items."
+    },
+    {
+      "index": 36,
+      "start": "00:11:13.460",
+      "end": "00:11:15.270",
+      "text": "We have no scheduled items."
+    },
+    {
+      "index": 37,
+      "start": "00:11:15.270",
+      "end": "00:11:16.970",
+      "text": "We have one item for direction,"
+    },
+    {
+      "index": 38,
+      "start": "00:11:16.970",
+      "end": "00:11:20.400",
+      "text": "which is the follow up on some items"
+    },
+    {
+      "index": 39,
+      "start": "00:11:20.400",
+      "end": "00:11:24.130",
+      "text": "from the internal audit dashboard."
+    },
+    {
+      "index": 40,
+      "start": "00:11:24.130",
+      "end": "00:11:28.990",
+      "text": "We have members from MNP, MNP available here,"
+    },
+    {
+      "index": 41,
+      "start": "00:11:28.990",
+      "end": "00:11:30.170",
+      "text": "if colleagues have any questions."
+    },
+    {
+      "index": 42,
+      "start": "00:11:30.170",
+      "end": "00:11:32.420",
+      "text": "Maybe I'll go straight to colleagues for questions"
+    },
+    {
+      "index": 43,
+      "start": "00:11:32.420",
+      "end": "00:11:34.000",
+      "text": "and if there are none, this will be a motion to receive."
+    },
+    {
+      "index": 44,
+      "start": "00:11:34.000",
+      "end": "00:11:35.620",
+      "text": "But let's go see if there's any questions first"
+    },
+    {
+      "index": 45,
+      "start": "00:11:35.620",
+      "end": "00:11:42.940",
+      "text": "that colleagues have questions."
+    },
+    {
+      "index": 46,
+      "start": "00:11:42.940",
+      "end": "00:11:47.150",
+      "text": "Councilor Van Wollst."
+    },
+    {
+      "index": 47,
+      "start": "00:11:47.150",
+      "end": "00:11:48.010",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 48,
+      "start": "00:11:48.010",
+      "end": "00:11:51.940",
+      "text": "And to you, I see there's the,"
+    },
+    {
+      "index": 49,
+      "start": "00:11:51.940",
+      "end": "00:11:53.960",
+      "text": "we've got just off the top,"
+    },
+    {
+      "index": 50,
+      "start": "00:11:53.960",
+      "end": "00:12:00.460",
+      "text": "key performance indicators for the ICO system."
+    },
+    {
+      "index": 51,
+      "start": "00:12:00.460",
+      "end": "00:12:12.230",
+      "text": "And now when will that be in place?"
+    },
+    {
+      "index": 52,
+      "start": "00:12:12.230",
+      "end": "00:12:16.850",
+      "text": "Sure, if that's a question for our staff or Mr. Jazzwell."
+    },
+    {
+      "index": 53,
+      "start": "00:12:16.850",
+      "end": "00:12:24.090",
+      "text": "Like perhaps our staff, but maybe our auditors know the answer."
+    },
+    {
+      "index": 54,
+      "start": "00:12:24.090",
+      "end": "00:12:29.390",
+      "text": "Sure, good afternoon, everybody."
+    },
+    {
+      "index": 55,
+      "start": "00:12:29.390",
+      "end": "00:12:31.780",
+      "text": "It's Veronica Beale here from MNP."
+    },
+    {
+      "index": 56,
+      "start": "00:12:31.780",
+      "end": "00:12:35.380",
+      "text": "So we did do the follow up on these items"
+    },
+    {
+      "index": 57,
+      "start": "00:12:35.380",
+      "end": "00:12:37.630",
+      "text": "and it's this specific one"
+    },
+    {
+      "index": 58,
+      "start": "00:12:37.630",
+      "end": "00:12:38.980",
+      "text": "for the key performance indicators"
+    },
+    {
+      "index": 59,
+      "start": "00:12:38.980",
+      "end": "00:12:42.150",
+      "text": "for the fire process assessment audit."
+    },
+    {
+      "index": 60,
+      "start": "00:12:42.150",
+      "end": "00:12:44.950",
+      "text": "The due date is December, 2022."
+    },
+    {
+      "index": 61,
+      "start": "00:12:44.950",
+      "end": "00:12:46.900",
+      "text": "Management has told us that they are on track"
+    },
+    {
+      "index": 62,
+      "start": "00:12:46.900",
+      "end": "00:12:53.020",
+      "text": "to complete that by that due date."
+    },
+    {
+      "index": 63,
+      "start": "00:12:53.020",
+      "end": "00:12:54.540",
+      "text": "Thank you."
+    },
+    {
+      "index": 64,
+      "start": "00:12:54.540",
+      "end": "00:12:56.350",
+      "text": "Councilor Turner is joining us, Councilor Turner,"
+    },
+    {
+      "index": 65,
+      "start": "00:12:56.350",
+      "end": "00:12:58.880",
+      "text": "we're on questions on the report"
+    },
+    {
+      "index": 66,
+      "start": "00:12:58.880",
+      "end": "00:13:00.260",
+      "text": "and just going around with colleagues"
+    },
+    {
+      "index": 67,
+      "start": "00:13:00.260",
+      "end": "00:13:01.840",
+      "text": "to see if they have any."
+    },
+    {
+      "index": 68,
+      "start": "00:13:01.840",
+      "end": "00:13:05.100",
+      "text": "Any further questions on this?"
+    },
+    {
+      "index": 69,
+      "start": "00:13:05.100",
+      "end": "00:13:06.580",
+      "text": "Okay, I look for a mover."
+    },
+    {
+      "index": 70,
+      "start": "00:13:06.580",
+      "end": "00:13:10.420",
+      "text": "This is an information report for receipt."
+    },
+    {
+      "index": 71,
+      "start": "00:13:10.420",
+      "end": "00:13:13.510",
+      "text": "Moved by Councilor Halmer, seconded by Councilor Turner."
+    },
+    {
+      "index": 72,
+      "start": "00:13:13.510",
+      "end": "00:13:16.880",
+      "text": "Any discussion on receipt of this?"
+    },
+    {
+      "index": 73,
+      "start": "00:13:16.880",
+      "end": "00:13:18.110",
+      "text": "Okay, then we'll do this vote by hand."
+    },
+    {
+      "index": 74,
+      "start": "00:13:18.110",
+      "end": "00:13:21.710",
+      "text": "All those in favor of receipt?"
+    },
+    {
+      "index": 75,
+      "start": "00:13:21.710",
+      "end": "00:13:24.640",
+      "text": "For motion carries."
+    },
+    {
+      "index": 76,
+      "start": "00:13:24.640",
+      "end": "00:13:26.680",
+      "text": "And that is the only item we had for direction."
+    },
+    {
+      "index": 77,
+      "start": "00:13:26.680",
+      "end": "00:13:27.970",
+      "text": "Are there any other deferred matters"
+    },
+    {
+      "index": 78,
+      "start": "00:13:27.970",
+      "end": "00:13:30.860",
+      "text": "or additional business colleagues?"
+    },
+    {
+      "index": 79,
+      "start": "00:13:30.860",
+      "end": "00:13:34.220",
+      "text": "Seeing none, I'd look for a motion to adjourn."
+    },
+    {
+      "index": 80,
+      "start": "00:13:34.220",
+      "end": "00:13:37.160",
+      "text": "Councilor Turner, seconded by Councilor Vanholz,"
+    },
+    {
+      "index": 81,
+      "start": "00:13:37.160",
+      "end": "00:13:37.970",
+      "text": "if we need one."
+    },
+    {
+      "index": 82,
+      "start": "00:13:37.970",
+      "end": "00:13:40.570",
+      "text": "All those in favor of adjournment today?"
+    },
+    {
+      "index": 83,
+      "start": "00:13:40.570",
+      "end": "00:13:41.370",
+      "text": "Motion carries."
+    },
+    {
+      "index": 84,
+      "start": "00:13:41.370",
+      "end": "00:13:44.270",
+      "text": "Okay, thank you for your time today, everyone."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Audit%20Committee/2022/09-07/.transcript.srt"
+}

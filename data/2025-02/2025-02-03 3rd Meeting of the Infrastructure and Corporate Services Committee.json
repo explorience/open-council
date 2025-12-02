@@ -1,1 +1,1070 @@
-{"title": "3rd Meeting of the Infrastructure and Corporate Services Committee", "datetime": "2025-02-03 13:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=871eeff7-f711-4fab-a652-b129ed0f3850&Agenda=PostMinutes&lang=English", "meeting_type": "Infrastructure and Corporate Services Committee", "bills": null, "present": ["C. Rahman", "A. Hopkins", "P. Van Meerbergen", "S. Franke"], "also_present": ["S. Datars Bere", "A. Abraham", "A. Barbon", "M. Barnes", "R. Danter", "A. Kaczmarczyk", "D. MacRae", "J. Paradis", "T. Pollitt", "A. Rozentals", "K. Scherr", "E. Skalski", "L. Stewart", "J. Wills", "C Wray."], "remote_attendance": ["E. Peloza", "S. Hillier", "E. Hunt", "B. Warner"], "content": {"string": "The meeting is called to order at 1:00 PM.", "__class__": "Paragraph"}, "absent": ["J. Pribil"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That Consent Items 2.1 to 2.5 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "P. Van Meerbergen", "S. Franke", "C. Rahman"]}, {"vote": "Absent:", "voters": ["J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "RFP 2024-228: Consulting Services for Operations Masterplan Study", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the Request for Proposals for Prime Consulting Services for Operations Masterplan Feasibility Study (RFP-2024-228):z", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 the proposal submitted by Stirling Rothesay Consulting Incorporated, 24 Deanbank Drive, Thornhill, Ontario BE ACCEPTED at the submitted fee of $119,000.00 excluding HST; it being noted that the evaluation team determined the proposal submitted by Stirling Rothesay Consulting Incorporated provided the best technical and financial value to the Corporation; met the City\u2019s requirements in all areas; and acceptance is in accordance with section 15.2 of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated February 3, 2025 as Appendix \u201cA\u201d;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary to undertake the project;", "__class__": "Paragraph"}, {"string": "d)\u00a0 \u00a0 the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract with the consultant for the work; and", "__class__": "Paragraph"}, {"string": "e)\u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute a contract or any other documents, as required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-02-03 Staff Report - RFP 2024-228 Consulting Services for Operations Master Plan", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113961", "date": "2025-02-03 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "2024 External Audit of London\u2019s Drinking Water Quality Management System and 2024 Management Review", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the report on the 2024 External Audit of London\u2019s Drinking Water Quality Management System and the 2024 Management Review BE RECEIVED for information.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-02-03 Staff Report - 2024 External Audit of London\u2019s Drinking Water Quality", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113962", "date": "2025-02-03 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "2024 Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the report on the Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System BE RECEIVED for information.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-02-03 Staff Report - 2024 Ministry of the Environment, Conservation and Parks Inspection", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113963", "date": "2025-02-03 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Appointment of Consulting Engineer: Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard\u00a0", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the appointment of a consulting engineer for the detailed design and tendering of the Sunningdale Road West Improvements project from Hyde Park Road to Jordan Boulevard:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0MTE Consultants Inc. BE AUTHORIZED as the consulting engineer to complete the detailed design and tendering services at an upset amount of $296,883.40 excluding HST, in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the financing for this contract amendment BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated February 3, 2025 as Appendix\u00a0 \"A\";", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract; and", "__class__": "Paragraph"}, {"string": "d)\u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-02-03 Staff Report - Appointment of Consulting Engineer-Sunningdale Road West Improvements", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113964", "date": "2025-02-03 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Appointment of Consulting Engineer: Construction Administration Services for Rehabilitation of the Adelaide Street North Bridge", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the appointment of a consulting engineer for construction administration services for the rehabilitation of the Adelaide Street North Bridge:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0Dillon Consulting Limited BE AUTHORIZED as the consulting engineer to complete the construction administration services at an upset amount of $225,665 excluding HST, in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the financing for this contract amendment BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated February 3, 2025 as Appendix\u00a0 \"A\";", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract; and", "__class__": "Paragraph"}, {"string": "d)\u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-02-03 Staff Report - Appointment of Consulting Engineer-Adelaide St N Bridge", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113965", "date": "2025-02-03 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2025-02-03 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential (Enclosed for Members only.)", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "The Infrastructure and Corporate Services Committee convenes In Closed session to consider the following:", "__class__": "Paragraph"}, {"string": "6.1 Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiation.", "__class__": "Paragraph"}, {"string": "A matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.", "__class__": "Paragraph"}, {"string": "6.2 Solicitor-Client Privileged Advice / Litigation/Potential Litigation", "__class__": "Paragraph"}, {"string": "A matter pertaining to advice subject to solicitor-client privilege, including communications necessary for that purpose, and advice with respect to litigation with respect to various personal injury and property damage claims against the City.", "__class__": "Paragraph"}, {"string": "6.3 Labour Relations/Employee Negotiations", "__class__": "Paragraph"}, {"string": "A matter pertaining to personnel, labour relations and potential employee negotiations in regards to the Corporation\u2019s management employee group, advice and recommendations of officers and employees of the Corporation including communications necessary for that purpose.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["A. Hopkins", "P. Van Meerbergen", "S. Franke", "C. Rahman"]}, {"vote": "Absent:", "voters": ["J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Infrastructure and Corporate Services Committee convenes In Closed Session from 1:10 PM to 1:26 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by A. Hopkins", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 1:29 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2025-02-03 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "3rd Meeting of the Infrastructure and Corporate Services Committee",
+  "datetime": "2025-02-03 13:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=871eeff7-f711-4fab-a652-b129ed0f3850&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Infrastructure and Corporate Services Committee",
+  "bills": null,
+  "present": [
+    "C. Rahman",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "S. Franke"
+  ],
+  "also_present": [
+    "S. Datars Bere",
+    "A. Abraham",
+    "A. Barbon",
+    "M. Barnes",
+    "R. Danter",
+    "A. Kaczmarczyk",
+    "D. MacRae",
+    "J. Paradis",
+    "T. Pollitt",
+    "A. Rozentals",
+    "K. Scherr",
+    "E. Skalski",
+    "L. Stewart",
+    "J. Wills",
+    "C Wray."
+  ],
+  "remote_attendance": [
+    "E. Peloza",
+    "S. Hillier",
+    "E. Hunt",
+    "B. Warner"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 1:00 PM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "J. Pribil"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-02-03 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Franke",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Consent Items 2.1 to 2.5 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "A. Hopkins",
+                  "P. Van Meerbergen",
+                  "S. Franke",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "J. Pribil"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (4 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "RFP 2024-228: Consulting Services for Operations Masterplan Study",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the Request for Proposals for Prime Consulting Services for Operations Masterplan Feasibility Study (RFP-2024-228):z",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 the proposal submitted by Stirling Rothesay Consulting Incorporated, 24 Deanbank Drive, Thornhill, Ontario BE ACCEPTED at the submitted fee of $119,000.00 excluding HST; it being noted that the evaluation team determined the proposal submitted by Stirling Rothesay Consulting Incorporated provided the best technical and financial value to the Corporation; met the City\u2019s requirements in all areas; and acceptance is in accordance with section 15.2 of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the financing for this project BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated February 3, 2025 as Appendix \u201cA\u201d;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary to undertake the project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d)\u00a0 \u00a0 the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract with the consultant for the work; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e)\u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute a contract or any other documents, as required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-02-03 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-02-03 Staff Report - RFP 2024-228 Consulting Services for Operations Master Plan",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113961",
+              "date": "2025-02-03 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "2024 External Audit of London\u2019s Drinking Water Quality Management System and 2024 Management Review",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the report on the 2024 External Audit of London\u2019s Drinking Water Quality Management System and the 2024 Management Review BE RECEIVED for information.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-02-03 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-02-03 Staff Report - 2024 External Audit of London\u2019s Drinking Water Quality",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113962",
+              "date": "2025-02-03 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "2024 Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the report on the Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System BE RECEIVED for information.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-02-03 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-02-03 Staff Report - 2024 Ministry of the Environment, Conservation and Parks Inspection",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113963",
+              "date": "2025-02-03 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Appointment of Consulting Engineer: Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard\u00a0",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the appointment of a consulting engineer for the detailed design and tendering of the Sunningdale Road West Improvements project from Hyde Park Road to Jordan Boulevard:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0MTE Consultants Inc. BE AUTHORIZED as the consulting engineer to complete the detailed design and tendering services at an upset amount of $296,883.40 excluding HST, in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the financing for this contract amendment BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated February 3, 2025 as Appendix\u00a0 \"A\";",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d)\u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-02-03 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-02-03 Staff Report - Appointment of Consulting Engineer-Sunningdale Road West Improvements",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113964",
+              "date": "2025-02-03 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Appointment of Consulting Engineer: Construction Administration Services for Rehabilitation of the Adelaide Street North Bridge",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the appointment of a consulting engineer for construction administration services for the rehabilitation of the Adelaide Street North Bridge:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0Dillon Consulting Limited BE AUTHORIZED as the consulting engineer to complete the construction administration services at an upset amount of $225,665 excluding HST, in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the financing for this contract amendment BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated February 3, 2025 as Appendix\u00a0 \"A\";",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d)\u00a0 \u00a0 the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-02-03 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-02-03 Staff Report - Appointment of Consulting Engineer-Adelaide St N Bridge",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=113965",
+              "date": "2025-02-03 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2025-02-03 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-02-03 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-02-03 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-02-03 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential (Enclosed for Members only.)",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by A. Hopkins",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "The Infrastructure and Corporate Services Committee convenes In Closed session to consider the following:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.1 Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiation.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.2 Solicitor-Client Privileged Advice / Litigation/Potential Litigation",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to advice subject to solicitor-client privilege, including communications necessary for that purpose, and advice with respect to litigation with respect to various personal injury and property damage claims against the City.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.3 Labour Relations/Employee Negotiations",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to personnel, labour relations and potential employee negotiations in regards to the Corporation\u2019s management employee group, advice and recommendations of officers and employees of the Corporation including communications necessary for that purpose.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "A. Hopkins",
+                  "P. Van Meerbergen",
+                  "S. Franke",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "J. Pribil"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (4 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Infrastructure and Corporate Services Committee convenes In Closed Session from 1:10 PM to 1:26 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-02-03 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by A. Hopkins",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 1:29 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-02-03 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:08:59.550",
+      "end": "00:18:25.720",
+      "text": "Good afternoon everyone. I will look to call this meeting to order the third meeting of"
+    },
+    {
+      "index": 2,
+      "start": "00:18:25.720",
+      "end": "00:18:31.050",
+      "text": "the structure and corporate service committee. From our agenda please check the city website"
+    },
+    {
+      "index": 3,
+      "start": "00:18:31.050",
+      "end": "00:18:36.810",
+      "text": "for additional meeting details, detail information. The city of London is situated on the traditional"
+    },
+    {
+      "index": 4,
+      "start": "00:18:36.810",
+      "end": "00:18:41.930",
+      "text": "land of the Anishinaabic, the Haudenosaunee, the Lenapawik, and Adawanarn people. We honor"
+    },
+    {
+      "index": 5,
+      "start": "00:18:41.930",
+      "end": "00:18:46.650",
+      "text": "and respect the history, languages, and culture of the diverse indigenous people who call this"
+    },
+    {
+      "index": 6,
+      "start": "00:18:46.650",
+      "end": "00:18:52.120",
+      "text": "territory home. The city of London is currently home to many First Nations, M\u00e9tis, and Inuit"
+    },
+    {
+      "index": 7,
+      "start": "00:18:52.120",
+      "end": "00:18:56.210",
+      "text": "today as representatives of the people of the city of London. We are grateful to have the"
+    },
+    {
+      "index": 8,
+      "start": "00:18:56.210",
+      "end": "00:19:03.510",
+      "text": "opportunity to work and live in this territory. Today I'm joined in chambers with Councillor"
+    },
+    {
+      "index": 9,
+      "start": "00:19:03.510",
+      "end": "00:19:10.790",
+      "text": "Hopkins, Councillor Van Neerbergen, and Councillor Frank. And online we have Councillor Palosa"
+    },
+    {
+      "index": 10,
+      "start": "00:19:10.790",
+      "end": "00:19:16.430",
+      "text": "joining us as well. With that I will look, oh sorry one more thing, the City of London"
+    },
+    {
+      "index": 11,
+      "start": "00:19:16.430",
+      "end": "00:19:20.970",
+      "text": "is committed to making every effort to provide alternate formats and communication support"
+    },
+    {
+      "index": 12,
+      "start": "00:19:20.970",
+      "end": "00:19:27.420",
+      "text": "for meetings upon request. To make a request specific for this meeting please contact icsc@london.ca"
+    },
+    {
+      "index": 13,
+      "start": "00:19:27.420",
+      "end": "00:19:35.710",
+      "text": "or 519-661-2489 extension 2425. With that we'll go to item 1, disclosures of pecuniary interest."
+    },
+    {
+      "index": 14,
+      "start": "00:19:35.710",
+      "end": "00:19:45.960",
+      "text": "Seeing none, I'll look to item 2, which is our items for consent for today. I have not been"
+    },
+    {
+      "index": 15,
+      "start": "00:19:45.960",
+      "end": "00:19:51.420",
+      "text": "asked to pull anything yet at this time looking to committee if there's any requests, if not I'll"
+    },
+    {
+      "index": 16,
+      "start": "00:19:51.420",
+      "end": "00:19:59.250",
+      "text": "look to someone craft a motion. Councillor Van Neerbergen and Councillor Frank, thank you,"
+    },
+    {
+      "index": 17,
+      "start": "00:19:59.250",
+      "end": "00:20:04.660",
+      "text": "and we have a mover and a seconder, I'll look for discussion. Councillor Van Neerbergen."
+    },
+    {
+      "index": 18,
+      "start": "00:20:04.660",
+      "end": "00:20:14.170",
+      "text": "Thank you, Chair. 2.1, I wanted to confirm that this is indeed a Canadian company, if I could,"
+    },
+    {
+      "index": 19,
+      "start": "00:20:14.170",
+      "end": "00:20:24.660",
+      "text": "through staff. Thank you, and I'll look to Miss Barbone to direct that question maybe elsewhere."
+    },
+    {
+      "index": 20,
+      "start": "00:20:29.850",
+      "end": "00:20:38.330",
+      "text": "Through the chair, they have a mailing address in Ontario. We would need to look specifically"
+    },
+    {
+      "index": 21,
+      "start": "00:20:38.330",
+      "end": "00:20:45.170",
+      "text": "whether or not that is, but certainly they are within a couple hours drive and we're successful"
+    },
+    {
+      "index": 22,
+      "start": "00:20:45.170",
+      "end": "00:20:51.300",
+      "text": "through the RFP process. So we need to go back and take a look specifically to see if they have"
+    },
+    {
+      "index": 23,
+      "start": "00:20:51.300",
+      "end": "00:20:59.820",
+      "text": "from any US part of their company. Okay, so as far as we know they are Canadian,"
+    },
+    {
+      "index": 24,
+      "start": "00:21:00.950",
+      "end": "00:21:08.640",
+      "text": "would that be an accurate statement? Through the chair, as far as I know they are located"
+    },
+    {
+      "index": 25,
+      "start": "00:21:08.640",
+      "end": "00:21:17.470",
+      "text": "here in the province. I think, as we all know, the environment that we're in right now and the"
+    },
+    {
+      "index": 26,
+      "start": "00:21:17.470",
+      "end": "00:21:21.710",
+      "text": "threats that are being made against us, not only as Canadians, but indeed as Londoners,"
+    },
+    {
+      "index": 27,
+      "start": "00:21:21.710",
+      "end": "00:21:30.680",
+      "text": "demands that our procurement give first priority obviously to Canadian companies."
+    },
+    {
+      "index": 28,
+      "start": "00:21:30.680",
+      "end": "00:21:39.870",
+      "text": "This moment, could you tell us roughly how many contracts we currently have with American companies?"
+    },
+    {
+      "index": 29,
+      "start": "00:21:39.870",
+      "end": "00:21:50.010",
+      "text": "Barbone, thank you through the chair. So what we have to be able to pull information very simply"
+    },
+    {
+      "index": 30,
+      "start": "00:21:50.010",
+      "end": "00:21:56.780",
+      "text": "is mailing addresses and where the locations are. So the challenge that we run into is that there"
+    },
+    {
+      "index": 31,
+      "start": "00:21:56.780",
+      "end": "00:22:03.300",
+      "text": "are US companies that do have American addresses. So the definition of local becomes a little bit"
+    },
+    {
+      "index": 32,
+      "start": "00:22:03.300",
+      "end": "00:22:09.370",
+      "text": "more challenging to define in terms of what it is we're specifically looking for. With respect to"
+    },
+    {
+      "index": 33,
+      "start": "00:22:09.370",
+      "end": "00:22:14.330",
+      "text": "overall vendors, what I can tell you is that when we did a search of the vendors that we have"
+    },
+    {
+      "index": 34,
+      "start": "00:22:14.330",
+      "end": "00:22:20.800",
+      "text": "in our system, less than 0.1% have addresses that are located in the US. So a very, very fine"
+    },
+    {
+      "index": 35,
+      "start": "00:22:20.800",
+      "end": "00:22:27.430",
+      "text": "out number. When we did a more specific search on the city of London, about 63% have addresses"
+    },
+    {
+      "index": 36,
+      "start": "00:22:27.430",
+      "end": "00:22:32.940",
+      "text": "that are located within the city of London. And that does not include the neighbouring areas we"
+    },
+    {
+      "index": 37,
+      "start": "00:22:32.940",
+      "end": "00:22:38.850",
+      "text": "looked specifically for London. So overwhelmingly the majority have addresses that are in fairly"
+    },
+    {
+      "index": 38,
+      "start": "00:22:38.850",
+      "end": "00:22:46.600",
+      "text": "close proximity. That does not of course mean that they are not potentially US in some manner."
+    },
+    {
+      "index": 39,
+      "start": "00:22:46.600",
+      "end": "00:22:52.670",
+      "text": "So that's where I think from our intents and purposes, we can tell you that the addresses are"
+    },
+    {
+      "index": 40,
+      "start": "00:22:52.670",
+      "end": "00:22:59.310",
+      "text": "certainly very local in nature. Typically that might mean perhaps in a lot of cases that they"
+    },
+    {
+      "index": 41,
+      "start": "00:22:59.310",
+      "end": "00:23:05.220",
+      "text": "are local, but it may not cover all of them in that case. So just doing a quick search on this"
+    },
+    {
+      "index": 42,
+      "start": "00:23:05.220",
+      "end": "00:23:11.530",
+      "text": "company, they're out of Thornhill and they appear to be a smaller firm. So I believe they are primarily"
+    },
+    {
+      "index": 43,
+      "start": "00:23:11.530",
+      "end": "00:23:18.640",
+      "text": "Canadian. But certainly when you start doing the digging, there are other nuances that can be found"
+    },
+    {
+      "index": 44,
+      "start": "00:23:18.640",
+      "end": "00:23:24.810",
+      "text": "that may be more problematic to define when you're going through a procurement. Councillor."
+    },
+    {
+      "index": 45,
+      "start": "00:23:24.810",
+      "end": "00:23:30.600",
+      "text": "Really appreciate that information. At least what we're able to determine now,"
+    },
+    {
+      "index": 46,
+      "start": "00:23:30.600",
+      "end": "00:23:38.850",
+      "text": "it's quite small. It sounds like less than 0.1%. Obviously things are really fluid at the moment."
+    },
+    {
+      "index": 47,
+      "start": "00:23:38.850",
+      "end": "00:23:44.420",
+      "text": "We will know better probably tomorrow morning. But obviously this is the direction I think that"
+    },
+    {
+      "index": 48,
+      "start": "00:23:44.420",
+      "end": "00:23:49.350",
+      "text": "we're going to have to start looking to as we move forward. And I think the mayor has got"
+    },
+    {
+      "index": 49,
+      "start": "00:23:49.350",
+      "end": "00:23:58.520",
+      "text": "some plans that he will unveil as well. So I just wanted to get that information up front."
+    },
+    {
+      "index": 50,
+      "start": "00:23:58.520",
+      "end": "00:24:05.870",
+      "text": "And thank you very much. Thank you. Timely and appropriate. I'll go into Councillor Hopkins."
+    },
+    {
+      "index": 51,
+      "start": "00:24:05.870",
+      "end": "00:24:12.820",
+      "text": "And I noticed Councillor Hilliard is online as well. So welcome. Thank you, Madam Chair. And"
+    },
+    {
+      "index": 52,
+      "start": "00:24:12.820",
+      "end": "00:24:23.280",
+      "text": "thanks to staff for bringing forward some of these RFP agreements that we are going to be"
+    },
+    {
+      "index": 53,
+      "start": "00:24:23.280",
+      "end": "00:24:33.590",
+      "text": "proving this afternoon. And it's amazing how the conversations are out there when it comes to"
+    },
+    {
+      "index": 54,
+      "start": "00:24:33.590",
+      "end": "00:24:40.090",
+      "text": "tariffs and trade. And I look at these recommendations at committee now in a different light given the"
+    },
+    {
+      "index": 55,
+      "start": "00:24:40.090",
+      "end": "00:24:47.480",
+      "text": "conversations. And I too am looking forward to the mayor's comments later on today as well. But"
+    },
+    {
+      "index": 56,
+      "start": "00:24:47.480",
+      "end": "00:24:53.150",
+      "text": "I'm just following up on, and I'm just going to make a few comments regarding most of the consent"
+    },
+    {
+      "index": 57,
+      "start": "00:24:53.150",
+      "end": "00:25:00.420",
+      "text": "items. But in particular RFP process, just coming off an AMO board meeting last week where it was a"
+    },
+    {
+      "index": 58,
+      "start": "00:25:00.420",
+      "end": "00:25:10.320",
+      "text": "very important topic that municipalities were discussing on how we are going to move forward,"
+    },
+    {
+      "index": 59,
+      "start": "00:25:10.320",
+      "end": "00:25:16.950",
+      "text": "not only in Ontario, but also in Canada. And AMO is coming out with a resolution. And there's one"
+    },
+    {
+      "index": 60,
+      "start": "00:25:16.950",
+      "end": "00:25:23.340",
+      "text": "thing for sure, AMO and its members stand ready to play out part in protecting our shared social"
+    },
+    {
+      "index": 61,
+      "start": "00:25:23.340",
+      "end": "00:25:32.050",
+      "text": "and economic prosperity in Ontario and Canada. I think that was something that every municipality"
+    },
+    {
+      "index": 62,
+      "start": "00:25:32.050",
+      "end": "00:25:38.440",
+      "text": "stands behind. And again, every municipality is going to be coming forward with some response"
+    },
+    {
+      "index": 63,
+      "start": "00:25:38.440",
+      "end": "00:25:45.230",
+      "text": "or a resolution on behalf of their municipalities. I think I'm also pleased to"
+    },
+    {
+      "index": 64,
+      "start": "00:25:46.980",
+      "end": "00:25:54.530",
+      "text": "note that I understand we are probably going to go through a review of procurement process, so I'm"
+    },
+    {
+      "index": 65,
+      "start": "00:25:54.530",
+      "end": "00:26:00.640",
+      "text": "pleased that staff are ahead of the game a little bit too in terms of really having the information"
+    },
+    {
+      "index": 66,
+      "start": "00:26:00.640",
+      "end": "00:26:07.910",
+      "text": "and understanding what we can and can't do here as a municipality. Not only in our procurement"
+    },
+    {
+      "index": 67,
+      "start": "00:26:07.910",
+      "end": "00:26:14.490",
+      "text": "process, but boy, we do own a lot of infrastructure as well and how we take care of that. It's also"
+    },
+    {
+      "index": 68,
+      "start": "00:26:14.490",
+      "end": "00:26:20.700",
+      "text": "going to be another conversation that we're going to be dealing with. So those are my comments."
+    },
+    {
+      "index": 69,
+      "start": "00:26:20.700",
+      "end": "00:26:30.340",
+      "text": "Thank you. Thank you. Just looking to any other members of committee or anyone online for any"
+    },
+    {
+      "index": 70,
+      "start": "00:26:30.340",
+      "end": "00:26:50.500",
+      "text": "additional comments on the consent items. Seeing none, we'll open the vote. Closing the vote. Motion"
+    },
+    {
+      "index": 71,
+      "start": "00:26:50.500",
+      "end": "00:26:59.390",
+      "text": "carries 4 to 0. Okay, thanks everyone. Looking to move on in our agenda, we have no items for"
+    },
+    {
+      "index": 72,
+      "start": "00:26:59.390",
+      "end": "00:27:04.820",
+      "text": "scheduled items, we have no items for direction or deferred matters additional business that I've"
+    },
+    {
+      "index": 73,
+      "start": "00:27:04.820",
+      "end": "00:27:11.920",
+      "text": "been made aware of. So we'll look to go to our confidential items. We have 6.1 land acquisitions"
+    },
+    {
+      "index": 74,
+      "start": "00:27:11.920",
+      "end": "00:27:17.190",
+      "text": "list or client privilege advice, a position plan procedure criteria or instruction to be"
+    },
+    {
+      "index": 75,
+      "start": "00:27:17.190",
+      "end": "00:27:22.610",
+      "text": "applied to any negotiations, 6.2 solicitor client privilege advice, litigation potential"
+    },
+    {
+      "index": 76,
+      "start": "00:27:22.610",
+      "end": "00:27:27.880",
+      "text": "litigation, and 6.3 labor relations employee negotiation items to deal with in camera looking"
+    },
+    {
+      "index": 77,
+      "start": "00:27:27.880",
+      "end": "00:27:31.790",
+      "text": "for a motion to go in camera from committee. Councillor Hopkins, Councillor Van Meerberg"
+    },
+    {
+      "index": 78,
+      "start": "00:27:31.790",
+      "end": "00:29:22.990",
+      "text": "and I'll open the vote. Closing the vote. Motion carries 4 to 0. Okay, thank you. I will go to"
+    },
+    {
+      "index": 79,
+      "start": "00:29:22.990",
+      "end": "00:29:28.010",
+      "text": "Councillor Frank to report out from in camera. Thank you. I'm pleased to say that progress has"
+    },
+    {
+      "index": 80,
+      "start": "00:29:28.010",
+      "end": "00:29:32.920",
+      "text": "been made on all matters that we went in camera for. Thank you and with that, I'll look for a motion"
+    },
+    {
+      "index": 81,
+      "start": "00:29:32.920",
+      "end": "00:29:37.860",
+      "text": "to adjourn. Councillor Hopkins, super fast, and then Councillor Van Meerberg and as a second,"
+    },
+    {
+      "index": 82,
+      "start": "00:29:37.860",
+      "end": "00:29:43.510",
+      "text": "all in favor, by hand. Motion carries. Thanks everyone. Have a great"
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Infrastructure%20and%20Corporate%20Services%20Committee/2025/02-03/.transcript.srt"
+}

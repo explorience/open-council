@@ -1,1 +1,2421 @@
-{"title": "10th Meeting of the Corporate Services Committee", "datetime": "2024-05-27 13:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48c3aaf6-cb8e-4c0d-9d7a-2e860186100c&Agenda=PostMinutes&lang=English", "meeting_type": "Corporate Services Committee", "bills": null, "present": ["H. McAlister", "P. Cuddy", "S. Stevenson", "C. Rahman", "P. Van Meerbergen"], "also_present": ["Deputy  S. Lewis", "J. Pribil", "E. Peloza", "S. Datars Bere", "A. Barbon", "I. Collins", "D. Escobar", "J. Dann", "A. Hagan", "P. Ladouceur", "K. Murray", "J. Paradis", "T. Pollitt", "E. Skalski", "B. Warner."], "remote_attendance": ["D. Bordin", "S. Corman", "J. Dann", "J. Davies", "E. Hunt", "M. Schulthess", "P. Yeoman."], "content": {"string": "The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and S. Stevenson were in remote attendance.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That consent items 2.1 to 2.7 BE APPROVED excluding item 2.3", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "P. Cuddy", "S. Stevenson", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "2023 Annual Update on Budweiser Gardens", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Finance Supports, the 2023 Annual Report on Budweiser Gardens, as appended to the staff report as Appendix \"B\", BE RECEIVED for information.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Staff Report - Bud Gardens Annual Update", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108868", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Budweiser Gardens Expansion Project Memorandum of Understanding", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the report entitled \u201cBudweiser Gardens Expansion Project Memorandum of Understanding\u201d BE RECEIVED for information; and", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the proposed by-law, as appended to the staff report as Appendix \u201cA\u201d, BE INTRODUCED at the Municipal Council meeting to be held on June 4, 2024 to execute the proposed Memorandum of Understanding (MOU) (Schedule \u201cA\") documenting the timing and manner of contributions and disbursements for the previously approved Budweiser Gardens Expansion Project.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Staff Report - Budweiser Gardens MOU", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108863", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Development Charge Alternative Payment Agreement Amendments", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report as Appendix \u201cA\u201d, BE INTRODUCED at the Municipal Council meeting to be held on June 4, 2024 to amend By-law No. A.-7956-84, as amended, being \u201cA by-law to approve and authorize a Development Charges Alternative Payment Agreement template to provide for the alternative payment of Development Charges for developments that qualify for deferred Development Charge payments made under Section 27 of the Development Charges Act, 1997 S.O. 1997, c. 27, as amended; and to delegate the authority to enter into such Agreements to the City Treasurer or delegate\u201d, to repeal and replace Schedule \u201c1\u201d to the by-law.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Staff Report - DC Alternative Payment Agreement Amendments", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108862", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "2024 Reserve and Reserve Fund Monitoring and Housekeeping Report", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the 2024 Reserve and Reserve Fund Monitoring and Housekeeping Report BE RECEIVED for information; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the reserve fund proposed by-laws, as appended to the staff report as Appendix \"C\u201d, BE INTRODUCED at the Municipal Council meeting to be held on June 4, 2024.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Staff Report - 2024 Reserve and Reserve Fund Monitoring and Housekeeping Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108864", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "2023 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:\n\n\n\na) \u00a0 \u00a0the 2023 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring BE RECEIVED for information in accordance with section 43 (1) of the Development Charges Act, 1997, which requires the City Treasurer to provide a financial statement relating to development charge by-laws and associated reserve funds; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Deputy City Manager, Finance Supports BE DIRECTED to make the 2023 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring available to the public on the City of London website to fulfill Council\u2019s obligation under section 43 (2.1) of the Development Charges Act, 1997.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Staff Report - 2023 Annual Report on Development Charges", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108865", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "2023 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:\n\n\n\na) \u00a0 \u00a0the 2023 Parkland Reserve Fund annual financial statement BE RECEIVED for information in accordance with section 42 (17) of the Planning Act, 1990;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the 2023 reporting of former Section 37 bonusing funds held by the City of London BE RECEIVED for information; and", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Deputy City Manager, Finance Supports BE DIRECTED to make the 2023 Parkland Reserve Fund annual financial statement and reporting of former Section 37 Planning Act (Bonusing) funds still held available to the public on the City of London website.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Staff Report - 2023 Annual Report on Parkland Reserve Fund", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108866", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Expropriation of Lands - Wellington Gateway Project - Clark's Bridge Civil Works", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0application be made by The Corporation of the City of London as Expropriating Authority to the Council of The Corporation of the City of London as approving authority, for the approval to expropriate the land required for the Wellington Gateway project Clark\u2019s Bridge Civil Works;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 The Corporation of the City of London serve and publish notice of the above application in accordance with the terms of the Expropriations Act;", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 The Corporation of the City of London forward to the Chief Inquiry Officer any requests for a hearing that may be received and report such to the Council of The Corporation of the City of London for its information; and", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the proposed by-law, as appended to the staff report as Schedule \u201cB\u201d, BE INTRODUCED at the Council meeting to be held on June 4, 2024 to authorize the foregoing and direct the Civic Administration to carry out all necessary administrative actions.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["H. McAlister", "P. Cuddy", "C. Rahman"]}, {"vote": "Nays:", "voters": ["P. Van Meerbergen", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 2)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Staff Report - Expropriation Wellington Gateway Project", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108867", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-05-27 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Request of Removal of Glass Barrier in Council Chambers - Councillor E. Peloza", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by C. Rahman", "__class__": "Mover"}, "motion_texts": [{"string": "That the Civic Administration BE DIRECTED to take the necessary steps to remove the temporary barrier and all associated supports from the public gallery of the Council Chambers; it being noted that the Corporate Services Committee received a communication dated May 9, 2024 from Councilor E. Peloza with respect to this matter.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "P. Cuddy", "S. Stevenson", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Submission - Request of Removal of Glass Barrier-E. Peloza", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108860", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Application - Issuance of Proclamation - Shine the Light on Woman Abuse", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by C. Rahman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That the following actions be taken with respect to the proclamation requests listed on the agenda for the May 27, 2024 Corporate Services Committee:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee; and\n\nb) \u00a0 \u00a0the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.", "__class__": "Paragraph"}, {"string": "4.2\u00a0 \u00a0Application - Issuance of Proclamation - Shine the Light on Woman Abuse", "__class__": "Paragraph"}, {"string": "4.3 \u00a0 Application - Issuance of Proclamation - Christian Heritage Month", "__class__": "Paragraph"}, {"string": "4.4 \u00a0 Application - Issuance of Proclamation - Childhood Cancer Awareness Month", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["H. McAlister", "P. Cuddy", "C. Rahman"]}, {"vote": "Nays:", "voters": ["P. Van Meerbergen", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 2)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [{"empty_flag": false, "title": "2024-05-27 Submission - Proclamation-Shine the Light", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108861", "date": "2024-05-27 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-05-27 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential (Enclosed for Members only.)", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by C. Rahman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the Corporate Services Committee convenes In Closed Session to consider the following:", "__class__": "Paragraph"}, {"string": "6.1 Labour Relations/Employee Negotiations", "__class__": "Paragraph"}, {"string": "A matter pertaining to reports, advice and recommendations of officers and employees of the Corporation concerning labour relations and employee negotiations in regard to one of the Corporation\u2019s unions including communications necessary for that purpose and for the purpose of providing instructions and direction to officers and employees of the Corporation.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "P. Cuddy", "S. Stevenson", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Corporate Services Committee convenes In Closed Session from 1:30 PM to 1:37 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by C. Rahman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 1:40 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2024-05-27 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "10th Meeting of the Corporate Services Committee",
+  "datetime": "2024-05-27 13:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48c3aaf6-cb8e-4c0d-9d7a-2e860186100c&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Corporate Services Committee",
+  "bills": null,
+  "present": [
+    "H. McAlister",
+    "P. Cuddy",
+    "S. Stevenson",
+    "C. Rahman",
+    "P. Van Meerbergen"
+  ],
+  "also_present": [
+    "Deputy  S. Lewis",
+    "J. Pribil",
+    "E. Peloza",
+    "S. Datars Bere",
+    "A. Barbon",
+    "I. Collins",
+    "D. Escobar",
+    "J. Dann",
+    "A. Hagan",
+    "P. Ladouceur",
+    "K. Murray",
+    "J. Paradis",
+    "T. Pollitt",
+    "E. Skalski",
+    "B. Warner."
+  ],
+  "remote_attendance": [
+    "D. Bordin",
+    "S. Corman",
+    "J. Dann",
+    "J. Davies",
+    "E. Hunt",
+    "M. Schulthess",
+    "P. Yeoman."
+  ],
+  "content": {
+    "string": "The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and S. Stevenson were in remote attendance.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-05-27 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by H. McAlister",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That consent items 2.1 to 2.7 BE APPROVED excluding item 2.3",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "P. Van Meerbergen",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "2023 Annual Update on Budweiser Gardens",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Finance Supports, the 2023 Annual Report on Budweiser Gardens, as appended to the staff report as Appendix \"B\", BE RECEIVED for information.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Staff Report - Bud Gardens Annual Update",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108868",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Budweiser Gardens Expansion Project Memorandum of Understanding",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the report entitled \u201cBudweiser Gardens Expansion Project Memorandum of Understanding\u201d BE RECEIVED for information; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the proposed by-law, as appended to the staff report as Appendix \u201cA\u201d, BE INTRODUCED at the Municipal Council meeting to be held on June 4, 2024 to execute the proposed Memorandum of Understanding (MOU) (Schedule \u201cA\") documenting the timing and manner of contributions and disbursements for the previously approved Budweiser Gardens Expansion Project.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Staff Report - Budweiser Gardens MOU",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108863",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Development Charge Alternative Payment Agreement Amendments",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report as Appendix \u201cA\u201d, BE INTRODUCED at the Municipal Council meeting to be held on June 4, 2024 to amend By-law No. A.-7956-84, as amended, being \u201cA by-law to approve and authorize a Development Charges Alternative Payment Agreement template to provide for the alternative payment of Development Charges for developments that qualify for deferred Development Charge payments made under Section 27 of the Development Charges Act, 1997 S.O. 1997, c. 27, as amended; and to delegate the authority to enter into such Agreements to the City Treasurer or delegate\u201d, to repeal and replace Schedule \u201c1\u201d to the by-law.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Staff Report - DC Alternative Payment Agreement Amendments",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108862",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "2024 Reserve and Reserve Fund Monitoring and Housekeeping Report",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the 2024 Reserve and Reserve Fund Monitoring and Housekeeping Report BE RECEIVED for information; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the reserve fund proposed by-laws, as appended to the staff report as Appendix \"C\u201d, BE INTRODUCED at the Municipal Council meeting to be held on June 4, 2024.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Staff Report - 2024 Reserve and Reserve Fund Monitoring and Housekeeping Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108864",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "2023 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:\n\n\n\na) \u00a0 \u00a0the 2023 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring BE RECEIVED for information in accordance with section 43 (1) of the Development Charges Act, 1997, which requires the City Treasurer to provide a financial statement relating to development charge by-laws and associated reserve funds; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Deputy City Manager, Finance Supports BE DIRECTED to make the 2023 Annual Report on Development Charges Reserve Funds and Development Charges Monitoring available to the public on the City of London website to fulfill Council\u2019s obligation under section 43 (2.1) of the Development Charges Act, 1997.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Staff Report - 2023 Annual Report on Development Charges",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108865",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "2023 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:\n\n\n\na) \u00a0 \u00a0the 2023 Parkland Reserve Fund annual financial statement BE RECEIVED for information in accordance with section 42 (17) of the Planning Act, 1990;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the 2023 reporting of former Section 37 bonusing funds held by the City of London BE RECEIVED for information; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Deputy City Manager, Finance Supports BE DIRECTED to make the 2023 Parkland Reserve Fund annual financial statement and reporting of former Section 37 Planning Act (Bonusing) funds still held available to the public on the City of London website.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Staff Report - 2023 Annual Report on Parkland Reserve Fund",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108866",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Expropriation of Lands - Wellington Gateway Project - Clark's Bridge Civil Works",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0application be made by The Corporation of the City of London as Expropriating Authority to the Council of The Corporation of the City of London as approving authority, for the approval to expropriate the land required for the Wellington Gateway project Clark\u2019s Bridge Civil Works;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 The Corporation of the City of London serve and publish notice of the above application in accordance with the terms of the Expropriations Act;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 The Corporation of the City of London forward to the Chief Inquiry Officer any requests for a hearing that may be received and report such to the Council of The Corporation of the City of London for its information; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the proposed by-law, as appended to the staff report as Schedule \u201cB\u201d, BE INTRODUCED at the Council meeting to be held on June 4, 2024 to authorize the foregoing and direct the Civic Administration to carry out all necessary administrative actions.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Nays:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (3 to 2)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Staff Report - Expropriation Wellington Gateway Project",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108867",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-05-27 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-05-27 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Request of Removal of Glass Barrier in Council Chambers - Councillor E. Peloza",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by C. Rahman",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Civic Administration BE DIRECTED to take the necessary steps to remove the temporary barrier and all associated supports from the public gallery of the Council Chambers; it being noted that the Corporate Services Committee received a communication dated May 9, 2024 from Councilor E. Peloza with respect to this matter.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "S. Stevenson",
+                      "C. Rahman"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Submission - Request of Removal of Glass Barrier-E. Peloza",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108860",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Application - Issuance of Proclamation - Shine the Light on Woman Abuse",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by C. Rahman",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the following actions be taken with respect to the proclamation requests listed on the agenda for the May 27, 2024 Corporate Services Committee:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee; and\n\nb) \u00a0 \u00a0the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "4.2\u00a0 \u00a0Application - Issuance of Proclamation - Shine the Light on Woman Abuse",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "4.3 \u00a0 Application - Issuance of Proclamation - Christian Heritage Month",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "4.4 \u00a0 Application - Issuance of Proclamation - Childhood Cancer Awareness Month",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Nays:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (3 to 2)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-05-27 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-05-27 Submission - Proclamation-Shine the Light",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=108861",
+              "date": "2024-05-27 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-05-27 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-05-27 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential (Enclosed for Members only.)",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by C. Rahman",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Corporate Services Committee convenes In Closed Session to consider the following:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.1 Labour Relations/Employee Negotiations",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to reports, advice and recommendations of officers and employees of the Corporation concerning labour relations and employee negotiations in regard to one of the Corporation\u2019s unions including communications necessary for that purpose and for the purpose of providing instructions and direction to officers and employees of the Corporation.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "P. Van Meerbergen",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Corporate Services Committee convenes In Closed Session from 1:30 PM to 1:37 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-05-27 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by C. Rahman",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 1:40 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-05-27 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:15:25.860",
+      "end": "00:15:34.460",
+      "text": "if everyone would like to take their seat, I'd like to call the 10th meeting the corporate services"
+    },
+    {
+      "index": 2,
+      "start": "00:15:34.460",
+      "end": "00:15:39.180",
+      "text": "committee to order. Please check the city website for additional meeting detail information,"
+    },
+    {
+      "index": 3,
+      "start": "00:15:39.180",
+      "end": "00:15:44.640",
+      "text": "meetings can be viewed via live streaming on YouTube or on the city's website. The city of London is"
+    },
+    {
+      "index": 4,
+      "start": "00:15:44.640",
+      "end": "00:15:49.770",
+      "text": "situated on the traditional lands of the Anishinaabeck, the Haudenosaunee and the Leno Wampack and the"
+    },
+    {
+      "index": 5,
+      "start": "00:15:49.770",
+      "end": "00:15:55.170",
+      "text": "Edwandran. We honor and respect the history languages and culture of the diverse indigenous who call"
+    },
+    {
+      "index": 6,
+      "start": "00:15:55.170",
+      "end": "00:16:00.430",
+      "text": "this territory home. The city of London is currently home to many First Nations, M\u00e9tis and Inuit today."
+    },
+    {
+      "index": 7,
+      "start": "00:16:00.430",
+      "end": "00:16:05.090",
+      "text": "As representatives of the people of the city of London, we are grateful to have the opportunity"
+    },
+    {
+      "index": 8,
+      "start": "00:16:05.090",
+      "end": "00:16:12.630",
+      "text": "to work and live in this territory, noting that we have Councillors Raman, Cudi and myself and"
+    },
+    {
+      "index": 9,
+      "start": "00:16:12.630",
+      "end": "00:16:17.810",
+      "text": "Councillor Van Meerberg and I'm online. Councillor Stevenson is not with us today and we have"
+    },
+    {
+      "index": 10,
+      "start": "00:16:17.810",
+      "end": "00:16:23.270",
+      "text": "visiting Councillors Pribble and Deputy Mayor Lewis with us as well. The city of London is"
+    },
+    {
+      "index": 11,
+      "start": "00:16:23.270",
+      "end": "00:16:27.450",
+      "text": "committed to making every effort to provide alternative formats and communication supports"
+    },
+    {
+      "index": 12,
+      "start": "00:16:27.450",
+      "end": "00:16:32.140",
+      "text": "for meeting meetings upon request. To make a request specific to this meeting, please contact"
+    },
+    {
+      "index": 13,
+      "start": "00:16:32.140",
+      "end": "00:16:41.930",
+      "text": "csc@london.ca 519-661-2489, extension 2425. Look to my colleagues for any disclosures of"
+    },
+    {
+      "index": 14,
+      "start": "00:16:41.930",
+      "end": "00:16:53.760",
+      "text": "community interest. Seeing none, we will move on to the consent item. So, could any consent items"
+    },
+    {
+      "index": 15,
+      "start": "00:16:53.760",
+      "end": "00:17:01.330",
+      "text": "to be pulled? Councillor Van Meerberg and did you want the Wellington Gateway project pulled"
+    },
+    {
+      "index": 16,
+      "start": "00:17:01.330",
+      "end": "00:17:13.120",
+      "text": "separately? Yes, that would be most appreciated. Thank you. Okay, so looking then for a mover and"
+    },
+    {
+      "index": 17,
+      "start": "00:17:13.120",
+      "end": "00:17:22.600",
+      "text": "seconder for consent items 2.1, 2.2 and 2.4 to 2.7. Okay, moved by Councillor Cudi. I will second"
+    },
+    {
+      "index": 18,
+      "start": "00:17:22.600",
+      "end": "00:17:29.750",
+      "text": "that. Okay, so that's being moved and seconded for 2.1, 2.2 and then 2.4 to 2.7. Looking to"
+    },
+    {
+      "index": 19,
+      "start": "00:17:29.750",
+      "end": "00:17:41.790",
+      "text": "committee for any questions they might have. Okay, seeing any? I will just make a few notes."
+    },
+    {
+      "index": 20,
+      "start": "00:17:41.790",
+      "end": "00:17:47.420",
+      "text": "So, in terms of the annual update and budget guidance, I was happy for that update. It's nice"
+    },
+    {
+      "index": 21,
+      "start": "00:17:47.420",
+      "end": "00:17:53.330",
+      "text": "to see entertainment rebounding, nice to see those increased numbers for that venue and look"
+    },
+    {
+      "index": 22,
+      "start": "00:17:53.330",
+      "end": "00:17:59.170",
+      "text": "forward to seeing those projects. So, appreciate the work that staff did on that and the MOU"
+    },
+    {
+      "index": 23,
+      "start": "00:17:59.170",
+      "end": "00:18:05.030",
+      "text": "with moving forward didn't have any other comments, actually. So, any other colleagues?"
+    },
+    {
+      "index": 24,
+      "start": "00:18:05.030",
+      "end": "00:18:13.550",
+      "text": "Go ahead, Councillor interjecting. Thank you and through you. I did have a chance to submit my"
+    },
+    {
+      "index": 25,
+      "start": "00:18:13.550",
+      "end": "00:18:18.000",
+      "text": "questions about these reports ahead of time. So, thank you to staff for the quick reply."
+    },
+    {
+      "index": 26,
+      "start": "00:18:18.000",
+      "end": "00:18:28.550",
+      "text": "Much appreciated. Just some things I wanted to discuss in terms of the report. Just as you"
+    },
+    {
+      "index": 27,
+      "start": "00:18:28.550",
+      "end": "00:18:35.340",
+      "text": "indicated, I was pleased to see the Budweiser Gardens rebound in terms of their numbers in the"
+    },
+    {
+      "index": 28,
+      "start": "00:18:35.340",
+      "end": "00:18:42.370",
+      "text": "operational side and ticket sales look good. And again, love to see that country music is doing"
+    },
+    {
+      "index": 29,
+      "start": "00:18:42.370",
+      "end": "00:18:48.590",
+      "text": "really well here in the City of London and is definitely a huge revenue generator as well as our"
+    },
+    {
+      "index": 30,
+      "start": "00:18:48.590",
+      "end": "00:18:56.260",
+      "text": "London Knights. I just had some questions related to the planned construction, so the other reports"
+    },
+    {
+      "index": 31,
+      "start": "00:18:56.260",
+      "end": "00:19:04.800",
+      "text": "as well. So, related to the phased construction and any potential cost implications or revenue"
+    },
+    {
+      "index": 32,
+      "start": "00:19:04.800",
+      "end": "00:19:10.150",
+      "text": "implications for us in this case. I know that they're going to do their best, but I'm just wondering"
+    },
+    {
+      "index": 33,
+      "start": "00:19:10.150",
+      "end": "00:19:16.220",
+      "text": "what kind of updates we're getting from them in terms of if they see any potential costs or"
+    },
+    {
+      "index": 34,
+      "start": "00:19:16.220",
+      "end": "00:19:23.260",
+      "text": "sorry, any potential impacts because of the construction. Go ahead, staff."
+    },
+    {
+      "index": 35,
+      "start": "00:19:23.260",
+      "end": "00:19:29.090",
+      "text": "Thank you through the chair. So, the construction and the planning for the construction has been"
+    },
+    {
+      "index": 36,
+      "start": "00:19:29.090",
+      "end": "00:19:36.270",
+      "text": "phased around what activities are going on. So, the majority of that work is likely to take place"
+    },
+    {
+      "index": 37,
+      "start": "00:19:36.270",
+      "end": "00:19:43.300",
+      "text": "over the summer when the different types of activities are lower. So, they are primarily not"
+    },
+    {
+      "index": 38,
+      "start": "00:19:43.300",
+      "end": "00:19:49.690",
+      "text": "impacting the venue. A lot of the ones that are most impactful in phase one are things that are"
+    },
+    {
+      "index": 39,
+      "start": "00:19:49.690",
+      "end": "00:19:54.800",
+      "text": "within the building that are tied to their revenue generation around food and beverage sales."
+    },
+    {
+      "index": 40,
+      "start": "00:19:54.800",
+      "end": "00:19:59.750",
+      "text": "So, certainly, they will be working around the events so that they're not impacting revenue in"
+    },
+    {
+      "index": 41,
+      "start": "00:19:59.750",
+      "end": "00:20:06.060",
+      "text": "any way, and the construction is behind. So, as they work to do that, they're able to"
+    },
+    {
+      "index": 42,
+      "start": "00:20:06.060",
+      "end": "00:20:11.010",
+      "text": "thoughtfully go through and as the phase in occurs over phase one and two, they're able to manage"
+    },
+    {
+      "index": 43,
+      "start": "00:20:11.010",
+      "end": "00:20:18.860",
+      "text": "that. So, the intent is not to impact revenues in any ways. And as they are, I think, primarily"
+    },
+    {
+      "index": 44,
+      "start": "00:20:18.860",
+      "end": "00:20:24.370",
+      "text": "trying to have everything completed early in the fall, so that particularly when the Londonites"
+    },
+    {
+      "index": 45,
+      "start": "00:20:24.370",
+      "end": "00:20:29.640",
+      "text": "begin to play, everything is done and completed by that time. So, there is no anticipation of"
+    },
+    {
+      "index": 46,
+      "start": "00:20:29.640",
+      "end": "00:20:34.750",
+      "text": "having any impacts. And as they're able to start to implement some of that, the intent is to have"
+    },
+    {
+      "index": 47,
+      "start": "00:20:34.750",
+      "end": "00:20:39.930",
+      "text": "the entirely the opposite effect. So, we are going to be meeting. We haven't had our working"
+    },
+    {
+      "index": 48,
+      "start": "00:20:39.930",
+      "end": "00:20:44.720",
+      "text": "group meeting yet. So, we are anticipating we will get regular updates. And certainly,"
+    },
+    {
+      "index": 49,
+      "start": "00:20:44.720",
+      "end": "00:20:50.230",
+      "text": "they've been waiting to officially begin once the agreement to the MOU is there to be able to"
+    },
+    {
+      "index": 50,
+      "start": "00:20:50.230",
+      "end": "00:20:54.620",
+      "text": "flow the funds to them. But they've been working behind the scenes, trying to get everything ready"
+    },
+    {
+      "index": 51,
+      "start": "00:20:54.620",
+      "end": "00:21:00.210",
+      "text": "to go. And so, that once the MOU is approved, they'll be able to begin and have things happen"
+    },
+    {
+      "index": 52,
+      "start": "00:21:00.210",
+      "end": "00:21:04.930",
+      "text": "quite quickly over the summer. A follow-up, Councillor?"
+    },
+    {
+      "index": 53,
+      "start": "00:21:04.930",
+      "end": "00:21:10.370",
+      "text": "Thank you. I know that we had some -- or that Budweiser Gardens had some COVID-related debt"
+    },
+    {
+      "index": 54,
+      "start": "00:21:10.370",
+      "end": "00:21:16.660",
+      "text": "and that there's still some debt outstanding that will need to be recouped in the future years."
+    },
+    {
+      "index": 55,
+      "start": "00:21:16.660",
+      "end": "00:21:22.910",
+      "text": "I'm just wondering, based on forecasting what we foresee in terms of any impact to"
+    },
+    {
+      "index": 56,
+      "start": "00:21:22.910",
+      "end": "00:21:31.260",
+      "text": "our bottom line from their revenue? Good stuff. Thank you, through the chair. So, last year,"
+    },
+    {
+      "index": 57,
+      "start": "00:21:31.260",
+      "end": "00:21:36.260",
+      "text": "if you recall the report that we brought forward, there is a minimum payment that the city receives"
+    },
+    {
+      "index": 58,
+      "start": "00:21:36.260",
+      "end": "00:21:44.520",
+      "text": "of the $50,000 annually. And then, on top of that, everything else goes into the cost-sharing"
+    },
+    {
+      "index": 59,
+      "start": "00:21:44.520",
+      "end": "00:21:51.130",
+      "text": "applicability based on the percentage. One of the things that we had not anticipated was the extent"
+    },
+    {
+      "index": 60,
+      "start": "00:21:51.130",
+      "end": "00:21:57.500",
+      "text": "of the COVID and recovery back from some of the impacts they had seen. We had actually"
+    },
+    {
+      "index": 61,
+      "start": "00:21:57.500",
+      "end": "00:22:04.260",
+      "text": "forecasted that there was going to be minimal revenue until that -- all the losses from COVID"
+    },
+    {
+      "index": 62,
+      "start": "00:22:04.260",
+      "end": "00:22:09.690",
+      "text": "had been repaid. So, there is a cap on that amount, but because the revenue was so large,"
+    },
+    {
+      "index": 63,
+      "start": "00:22:09.690",
+      "end": "00:22:16.080",
+      "text": "the city actually was able to receive quite a substantial payment this year. So, each and every"
+    },
+    {
+      "index": 64,
+      "start": "00:22:16.080",
+      "end": "00:22:21.670",
+      "text": "year as we go forward, certainly with the expansion, they're hoping that the revenue will increase"
+    },
+    {
+      "index": 65,
+      "start": "00:22:21.670",
+      "end": "00:22:26.450",
+      "text": "even further and that the city's share will even grow. So, certainly, that will take a little bit"
+    },
+    {
+      "index": 66,
+      "start": "00:22:26.450",
+      "end": "00:22:31.240",
+      "text": "of time to see that recovery, but it is phased in and capped at a certain amount each year."
+    },
+    {
+      "index": 67,
+      "start": "00:22:31.240",
+      "end": "00:22:36.990",
+      "text": "And that cap does reduce once the new agreement takes into play when the expansion is complete."
+    },
+    {
+      "index": 68,
+      "start": "00:22:36.990",
+      "end": "00:22:42.100",
+      "text": "So, certainly, I think we're very happy to see the results that they've been able to achieve over"
+    },
+    {
+      "index": 69,
+      "start": "00:22:42.100",
+      "end": "00:22:47.210",
+      "text": "the last year and signal are a really strong recovery that they'll be able to sustain well"
+    },
+    {
+      "index": 70,
+      "start": "00:22:47.210",
+      "end": "00:22:50.900",
+      "text": "into the future. >> Follow-up, Councillor."
+    },
+    {
+      "index": 71,
+      "start": "00:22:50.900",
+      "end": "00:22:57.080",
+      "text": ">> Thank you. And thank you for mentioning the working group. So, the working group would"
+    },
+    {
+      "index": 72,
+      "start": "00:22:57.080",
+      "end": "00:23:03.270",
+      "text": "receive any forecasts as well as any growth plans that Reiser Gardens is sharing with Council."
+    },
+    {
+      "index": 73,
+      "start": "00:23:03.270",
+      "end": "00:23:09.800",
+      "text": ">> To staff, go ahead. >> Thank you. Through the chair, the working group is primarily an"
+    },
+    {
+      "index": 74,
+      "start": "00:23:09.800",
+      "end": "00:23:15.310",
+      "text": "oversight. So, that's their communication vehicle. We received their annual financial statements"
+    },
+    {
+      "index": 75,
+      "start": "00:23:15.310",
+      "end": "00:23:19.850",
+      "text": "and we would look at their capital repair fund. There's just a number of things that we would"
+    },
+    {
+      "index": 76,
+      "start": "00:23:19.850",
+      "end": "00:23:24.720",
+      "text": "receive information. So, certainly, at any time, they do provide us quarterly updates on their"
+    },
+    {
+      "index": 77,
+      "start": "00:23:24.720",
+      "end": "00:23:29.510",
+      "text": "financial progress throughout the year as well that we're monitoring to see how things are going."
+    },
+    {
+      "index": 78,
+      "start": "00:23:29.510",
+      "end": "00:23:34.690",
+      "text": "So, they're not limited solely to the working groups, but that is the formal vehicle where"
+    },
+    {
+      "index": 79,
+      "start": "00:23:34.690",
+      "end": "00:23:39.160",
+      "text": "all the partners do come together and are able to share the information with the city formally at"
+    },
+    {
+      "index": 80,
+      "start": "00:23:39.160",
+      "end": "00:23:46.580",
+      "text": "that time. >> Okay. Follow-up, Councillor. >> Thank you. Was there a time that the growth plan came to"
+    },
+    {
+      "index": 81,
+      "start": "00:23:46.580",
+      "end": "00:23:53.460",
+      "text": "Council or if there were, for instance, any operational, significant operational changes"
+    },
+    {
+      "index": 82,
+      "start": "00:23:53.460",
+      "end": "00:23:57.370",
+      "text": "would those come to us? >> To staff, go ahead."
+    },
+    {
+      "index": 83,
+      "start": "00:23:57.370",
+      "end": "00:24:01.520",
+      "text": ">> Thank you, through the chair. So, generally, the most significant operational change is the one"
+    },
+    {
+      "index": 84,
+      "start": "00:24:01.520",
+      "end": "00:24:08.550",
+      "text": "that we brought forward starting last year. Up until that time, since the inception,"
+    },
+    {
+      "index": 85,
+      "start": "00:24:08.550",
+      "end": "00:24:14.450",
+      "text": "it's been operating as had been planned and there were no significant changes that were brought"
+    },
+    {
+      "index": 86,
+      "start": "00:24:14.450",
+      "end": "00:24:20.360",
+      "text": "forward. So, on an annual basis, we bring forward the annual report and we provide any changes"
+    },
+    {
+      "index": 87,
+      "start": "00:24:20.360",
+      "end": "00:24:25.780",
+      "text": "and we give the summary of where we've been trending. So, certainly, this expansion is the"
+    },
+    {
+      "index": 88,
+      "start": "00:24:25.780",
+      "end": "00:24:30.250",
+      "text": "most significant change that has occurred and that certainly requires Council approval,"
+    },
+    {
+      "index": 89,
+      "start": "00:24:30.250",
+      "end": "00:24:34.240",
+      "text": "but each and every year going forward as the annual report is brought forward, we will continue"
+    },
+    {
+      "index": 90,
+      "start": "00:24:34.240",
+      "end": "00:24:39.020",
+      "text": "to bring that before the Council and we're happy to provide any updates on the status of the"
+    },
+    {
+      "index": 91,
+      "start": "00:24:39.020",
+      "end": "00:24:42.220",
+      "text": "expansion at that time as well and incorporate it into the report."
+    },
+    {
+      "index": 92,
+      "start": "00:24:42.220",
+      "end": "00:24:50.080",
+      "text": ">> Thank you for those answers. >> Okay. Looking for any other questions and just noting,"
+    },
+    {
+      "index": 93,
+      "start": "00:24:50.080",
+      "end": "00:24:55.470",
+      "text": "oh, Councillor Van Meregan, Mayor, excuse me, Van Meregan, but just noting that Councillor"
+    },
+    {
+      "index": 94,
+      "start": "00:24:55.470",
+      "end": "00:24:59.390",
+      "text": "Stevenson has joined us online as well. >> Go ahead."
+    },
+    {
+      "index": 95,
+      "start": "00:24:59.390",
+      "end": "00:25:07.390",
+      "text": ">> Thank you. Thank you, Chair. And I know a lot of these long Irish names can be hard to pronounce."
+    },
+    {
+      "index": 96,
+      "start": "00:25:07.390",
+      "end": "00:25:19.910",
+      "text": "So, thanks. I just want to make a comment on the Labat Center/Bud Gardens. The fact of the"
+    },
+    {
+      "index": 97,
+      "start": "00:25:19.910",
+      "end": "00:25:28.030",
+      "text": "matter is we are still fortunate in London, Ontario to have this facility. This report is just"
+    },
+    {
+      "index": 98,
+      "start": "00:25:28.030",
+      "end": "00:25:34.530",
+      "text": "another reminder of how, indeed, fortunate we should be on the gift that just keeps on giving."
+    },
+    {
+      "index": 99,
+      "start": "00:25:34.530",
+      "end": "00:25:41.860",
+      "text": "And as I've stated previously, there was London, Ontario before the Labat Center/Bud Gardens and"
+    },
+    {
+      "index": 100,
+      "start": "00:25:41.860",
+      "end": "00:25:48.470",
+      "text": "there was London, Ontario after it. And I think we can all agree how much better it is in London,"
+    },
+    {
+      "index": 101,
+      "start": "00:25:48.470",
+      "end": "00:25:54.310",
+      "text": "Ontario for all of us since the creation of this wonderful facility. So, I just wanted to make"
+    },
+    {
+      "index": 102,
+      "start": "00:25:54.310",
+      "end": "00:26:00.840",
+      "text": "those comments. Thank you, Chair. >> Thank you. And you'll be thankful that I always have to stop"
+    },
+    {
+      "index": 103,
+      "start": "00:26:00.840",
+      "end": "00:26:05.050",
+      "text": "myself from saying Van Mere Burger. I don't know why, but Burger is always the first thing that"
+    },
+    {
+      "index": 104,
+      "start": "00:26:05.050",
+      "end": "00:26:09.670",
+      "text": "comes to my mind. Unfortunately, I see your name, Paul. I do have-- >> I mean, I make the best"
+    },
+    {
+      "index": 105,
+      "start": "00:26:09.670",
+      "end": "00:26:14.050",
+      "text": "burgers in the world. So, I can understand. >> There you go. Perfect. Name change. I do have"
+    },
+    {
+      "index": 106,
+      "start": "00:26:14.050",
+      "end": "00:26:17.530",
+      "text": "Councillor Perball and then Councillor Cuddy. Oh, Councillor Cuddy, you are a member of the"
+    },
+    {
+      "index": 107,
+      "start": "00:26:17.530",
+      "end": "00:26:21.580",
+      "text": "committee. So, sir, you go first. >> Thank you, Chair, and through you. And I just want to reiterate"
+    },
+    {
+      "index": 108,
+      "start": "00:26:21.580",
+      "end": "00:26:29.850",
+      "text": "what Van-- Councillor Van Mereberg and said so well. You know, the Bud Gardens is an absolute"
+    },
+    {
+      "index": 109,
+      "start": "00:26:29.850",
+      "end": "00:26:35.930",
+      "text": "jewel. We are so fortunate to have this great facility. And I might add a very, very well managed"
+    },
+    {
+      "index": 110,
+      "start": "00:26:35.930",
+      "end": "00:26:45.320",
+      "text": "facility. You know, I'm a regular market goer. My wife and I enjoy cycling to the market and"
+    },
+    {
+      "index": 111,
+      "start": "00:26:45.320",
+      "end": "00:26:52.260",
+      "text": "we like to be downtown. And Bud Gardens is a part of that and a huge part of it. It's the nucleus."
+    },
+    {
+      "index": 112,
+      "start": "00:26:52.260",
+      "end": "00:27:00.760",
+      "text": "And to have the Covid Garden Market, to have Bud Gardens, to have our downtown, we are very,"
+    },
+    {
+      "index": 113,
+      "start": "00:27:00.760",
+      "end": "00:27:08.640",
+      "text": "very fortunate in this city, in this country, to have such a unique downtown. And Chair, thank you"
+    },
+    {
+      "index": 114,
+      "start": "00:27:08.640",
+      "end": "00:27:13.130",
+      "text": "for allowing me to speak. And I just want to, again, want to thank the management. I want to thank"
+    },
+    {
+      "index": 115,
+      "start": "00:27:13.130",
+      "end": "00:27:18.270",
+      "text": "City staff, but I want to thank everybody involved with Bud Gardens because it is a truly a gem for"
+    },
+    {
+      "index": 116,
+      "start": "00:27:18.270",
+      "end": "00:27:23.800",
+      "text": "this city. Thank you. >> Okay. Thank you, Councillor Cuddy. And I mean, if you ever want to sponsor,"
+    },
+    {
+      "index": 117,
+      "start": "00:27:23.800",
+      "end": "00:27:27.510",
+      "text": "I'm sure they'd love to have a cutting box seat at some points. So feel free to get some points."
+    },
+    {
+      "index": 118,
+      "start": "00:27:27.510",
+      "end": "00:27:32.590",
+      "text": "We do have Councillor Preble next. Go ahead. >> Thank you. Just a couple of comments, 2.1."
+    },
+    {
+      "index": 119,
+      "start": "00:27:32.590",
+      "end": "00:27:40.830",
+      "text": "Just, again, great news. And it chose us our numbers that we aren't the right track. And I just"
+    },
+    {
+      "index": 120,
+      "start": "00:27:40.830",
+      "end": "00:27:46.470",
+      "text": "want to maybe go a little bit further for all of us to realize that we do have additional"
+    },
+    {
+      "index": 121,
+      "start": "00:27:46.470",
+      "end": "00:27:51.640",
+      "text": "income through the Bud Gardens and mad to the hotels, municipal accommodation tax, the hotels"
+    },
+    {
+      "index": 122,
+      "start": "00:27:51.640",
+      "end": "00:28:00.010",
+      "text": "that they collect, and for our infrastructure, and for our bids and services for the tourism"
+    },
+    {
+      "index": 123,
+      "start": "00:28:00.010",
+      "end": "00:28:05.180",
+      "text": "London. Those all things really honestly come together and it's coming really nicely, positively,"
+    },
+    {
+      "index": 124,
+      "start": "00:28:05.180",
+      "end": "00:28:12.370",
+      "text": "and I really think in downtown a lot of operators, even though there are still things for us to work"
+    },
+    {
+      "index": 125,
+      "start": "00:28:12.370",
+      "end": "00:28:18.100",
+      "text": "on, that we are on the right track and looking back at the numbers, what were pre-pandemic. So"
+    },
+    {
+      "index": 126,
+      "start": "00:28:18.100",
+      "end": "00:28:24.300",
+      "text": "really positive, 2.4 as well. I have to say that I'm really pleased that we came up as the industry"
+    },
+    {
+      "index": 127,
+      "start": "00:28:24.300",
+      "end": "00:28:30.240",
+      "text": "with other alternative options because I really do think that it's going to make a difference now"
+    },
+    {
+      "index": 128,
+      "start": "00:28:30.240",
+      "end": "00:28:36.520",
+      "text": "as well, and as well beyond the right track for the 47,000 units, et cetera. So overall,"
+    },
+    {
+      "index": 129,
+      "start": "00:28:36.520",
+      "end": "00:28:41.370",
+      "text": "very positive news. And let's make sure we stay on track and keep reaching our goals."
+    },
+    {
+      "index": 130,
+      "start": "00:28:41.370",
+      "end": "00:28:47.910",
+      "text": "Thank you. >> Thank you, Councillor Pribble, and glowing reviews for Bud Gardens from"
+    },
+    {
+      "index": 131,
+      "start": "00:28:47.910",
+      "end": "00:28:52.360",
+      "text": "corporate services. So that's good for them. So we have moved and seconded that."
+    },
+    {
+      "index": 132,
+      "start": "00:28:52.360",
+      "end": "00:28:59.730",
+      "text": "If there are no other comments, I will look to move those items. Okay, none. We'll open that for"
+    },
+    {
+      "index": 133,
+      "start": "00:28:59.730",
+      "end": "00:29:23.430",
+      "text": "voting. >> Opposing the vote. Motion carries. 5-0. >> Thank you, everyone. We are now on to"
+    },
+    {
+      "index": 134,
+      "start": "00:29:23.430",
+      "end": "00:29:28.350",
+      "text": "item 2.3, which is the expropriation of Lands Wellington Gateway Project. This is the Clark's"
+    },
+    {
+      "index": 135,
+      "start": "00:29:28.350",
+      "end": "00:29:33.510",
+      "text": "Bridge Civil Works. I just want to start off our conversation by saying thank you to staff for"
+    },
+    {
+      "index": 136,
+      "start": "00:29:33.510",
+      "end": "00:29:39.380",
+      "text": "getting the presentation for myself and Councillor Frank. The four properties are on"
+    },
+    {
+      "index": 137,
+      "start": "00:29:39.380",
+      "end": "00:29:44.470",
+      "text": "Councillor Frank's side and one property on my side. So one in 11 were kind of the ones that were"
+    },
+    {
+      "index": 138,
+      "start": "00:29:44.470",
+      "end": "00:29:49.170",
+      "text": "impacted by this. So appreciate staff taking the time to do that. And if my colleagues have any"
+    },
+    {
+      "index": 139,
+      "start": "00:29:49.170",
+      "end": "00:29:52.670",
+      "text": "questions, I'm sure staff would be happy to talk to them about the Wellington Project."
+    },
+    {
+      "index": 140,
+      "start": "00:29:52.670",
+      "end": "00:29:59.500",
+      "text": "With that, I'm looking for a mover and a seconder for this. Okay, Councillor Cudi. I will second."
+    },
+    {
+      "index": 141,
+      "start": "00:29:59.500",
+      "end": "00:30:09.730",
+      "text": "Okay. It's been moved and seconded. Any questions or comments? Seeing any in chambers or online,"
+    },
+    {
+      "index": 142,
+      "start": "00:30:09.730",
+      "end": "00:30:25.480",
+      "text": "we'll open that for voting. >> Opposing the vote. Motion carries. 3-2."
+    },
+    {
+      "index": 143,
+      "start": "00:30:25.480",
+      "end": "00:30:35.490",
+      "text": ">> Okay. We are now on to items for direction. We have item 4.1, which is the request for"
+    },
+    {
+      "index": 144,
+      "start": "00:30:35.490",
+      "end": "00:30:42.260",
+      "text": "the removal of the glass barrier on council chambers. Can I get a mover and a seconder? Okay,"
+    },
+    {
+      "index": 145,
+      "start": "00:30:42.260",
+      "end": "00:30:48.190",
+      "text": "Councillor Cudi. Councillor Rhonda seconds. Okay. Any questions or comments on this item?"
+    },
+    {
+      "index": 146,
+      "start": "00:30:48.190",
+      "end": "00:30:51.970",
+      "text": "We do have Councillor Palazzo joining us as well, but just looking to any committee members."
+    },
+    {
+      "index": 147,
+      "start": "00:30:51.970",
+      "end": "00:30:56.520",
+      "text": "Okay. Go ahead, Councillor Cudi. >> Thank you, Chair. And I'm very delighted to move this."
+    },
+    {
+      "index": 148,
+      "start": "00:30:56.520",
+      "end": "00:31:00.070",
+      "text": "And I want to thank Councillor Palazzo, actually Budget Chief Palazzo for bringing this forward."
+    },
+    {
+      "index": 149,
+      "start": "00:31:00.070",
+      "end": "00:31:06.570",
+      "text": "I think it's a great motion to move. And thank you for asking me to move it. And please be a"
+    },
+    {
+      "index": 150,
+      "start": "00:31:06.570",
+      "end": "00:31:13.450",
+      "text": "part of it. >> Okay. Thank you for any other committee members first. Go ahead, Councillor"
+    },
+    {
+      "index": 151,
+      "start": "00:31:13.450",
+      "end": "00:31:26.030",
+      "text": "Van Meuberg. >> Holy support. Thank you, Chair. >> And to the point, thank you, sir. I will"
+    },
+    {
+      "index": 152,
+      "start": "00:31:26.030",
+      "end": "00:31:30.810",
+      "text": "go to Councillor Palazzo now. She'd like to comment on this. >> Thank you. And just thank you to"
+    },
+    {
+      "index": 153,
+      "start": "00:31:30.810",
+      "end": "00:31:37.840",
+      "text": "committee for your support on this. We heard through the public process about the visual barrier issues"
+    },
+    {
+      "index": 154,
+      "start": "00:31:37.840",
+      "end": "00:31:42.640",
+      "text": "with, despite IT trying to fix it, some acoustic issues as someone who's recovering from a concussion"
+    },
+    {
+      "index": 155,
+      "start": "00:31:42.640",
+      "end": "00:31:48.340",
+      "text": "still. The glare on the plexiglass coming back also makes things harder for accessibility and"
+    },
+    {
+      "index": 156,
+      "start": "00:31:48.340",
+      "end": "00:31:53.750",
+      "text": "paying attention during long periods of time. And noting that staff had confirmed that there's"
+    },
+    {
+      "index": 157,
+      "start": "00:31:53.750",
+      "end": "00:31:57.800",
+      "text": "no cost to remove the barrier other than the staff time. And it's going to be put into storage in"
+    },
+    {
+      "index": 158,
+      "start": "00:31:57.800",
+      "end": "00:32:02.490",
+      "text": "the interim. It was originally put up during COVID. And that waits in storage. Since we decided"
+    },
+    {
+      "index": 159,
+      "start": "00:32:02.490",
+      "end": "00:32:06.830",
+      "text": "through the budget process, we were not interested in a permanent one at this time. It would also"
+    },
+    {
+      "index": 160,
+      "start": "00:32:06.830",
+      "end": "00:32:11.420",
+      "text": "allow the front row of the gallery to open up again for some capacity seating issues to welcome"
+    },
+    {
+      "index": 161,
+      "start": "00:32:11.420",
+      "end": "00:32:17.120",
+      "text": "the residents. So thank you for your support. >> Okay. Thank you for those comments. Any further"
+    },
+    {
+      "index": 162,
+      "start": "00:32:17.120",
+      "end": "00:32:23.580",
+      "text": "questions or comments from anyone? Committee? Online? Okay. Seeing none, we'll open that for"
+    },
+    {
+      "index": 163,
+      "start": "00:32:23.580",
+      "end": "00:32:42.750",
+      "text": "voting. >> Opposing the vote. Motion carries. 5 to 0. >> Okay. Thank you. We are now onto"
+    },
+    {
+      "index": 164,
+      "start": "00:32:42.750",
+      "end": "00:32:54.330",
+      "text": "proclamations. This is 4.2, 4.3, and 4.4. Looking to committee for the motions. Okay. Go"
+    },
+    {
+      "index": 165,
+      "start": "00:32:54.330",
+      "end": "00:33:01.640",
+      "text": "ahead, Councillor Cuddy. Do you have a motion? Or are you just, oh, actually it's Councillor"
+    },
+    {
+      "index": 166,
+      "start": "00:33:01.640",
+      "end": "00:33:04.690",
+      "text": "Ramen in case she wanted to go first. So just one moment. Go ahead, Councillor Ramen."
+    },
+    {
+      "index": 167,
+      "start": "00:33:04.690",
+      "end": "00:33:20.040",
+      "text": ">> Thank you. I had provided some language to committee for an alternative motion."
+    },
+    {
+      "index": 168,
+      "start": "00:33:20.040",
+      "end": "00:33:28.670",
+      "text": "And it's regarding, since I've been on this committee and on council, just some inconsistencies"
+    },
+    {
+      "index": 169,
+      "start": "00:33:28.670",
+      "end": "00:33:34.260",
+      "text": "that I've noted when it comes to our process around proclamations, that I do think that"
+    },
+    {
+      "index": 170,
+      "start": "00:33:34.260",
+      "end": "00:33:42.250",
+      "text": "we should take some time to review and to seek some further clarification from staff"
+    },
+    {
+      "index": 171,
+      "start": "00:33:42.250",
+      "end": "00:33:49.680",
+      "text": "on our current process and how we go about issuing proclamations. So with that in mind,"
+    },
+    {
+      "index": 172,
+      "start": "00:33:49.680",
+      "end": "00:33:55.600",
+      "text": "I've prepared a motion that the following actions take place with respect to items 4.2,"
+    },
+    {
+      "index": 173,
+      "start": "00:33:55.600",
+      "end": "00:34:01.510",
+      "text": "4.3, and 4.4. And that is the issuance of proclamations be referred to a future meeting"
+    },
+    {
+      "index": 174,
+      "start": "00:34:01.510",
+      "end": "00:34:06.310",
+      "text": "of the corporate services committee and the civic administration be directed to review the"
+    },
+    {
+      "index": 175,
+      "start": "00:34:06.310",
+      "end": "00:34:11.900",
+      "text": "current issuance of proclamations policy, including clarifying that request for proclamations can"
+    },
+    {
+      "index": 176,
+      "start": "00:34:11.900",
+      "end": "00:34:17.330",
+      "text": "be made by individuals and report back to a future meeting of the corporate services committee."
+    },
+    {
+      "index": 177,
+      "start": "00:34:17.330",
+      "end": "00:34:24.690",
+      "text": "And in speaking with staff, they have confirmed that all the proclamation requests that are included"
+    },
+    {
+      "index": 178,
+      "start": "00:34:24.690",
+      "end": "00:34:30.280",
+      "text": "in this submission would be able to be reviewed in a timely manner in order to allow for those"
+    },
+    {
+      "index": 179,
+      "start": "00:34:30.280",
+      "end": "00:34:38.350",
+      "text": "proclamations if we chose to issue them in time for their dates. So if perhaps staff want to"
+    },
+    {
+      "index": 180,
+      "start": "00:34:38.350",
+      "end": "00:34:46.510",
+      "text": "comment on that as well. So this wouldn't hold up the process by which these proclamations are"
+    },
+    {
+      "index": 181,
+      "start": "00:34:46.510",
+      "end": "00:34:53.180",
+      "text": "further issued in time for their recognitions, but it would allow us a chance to be able to"
+    },
+    {
+      "index": 182,
+      "start": "00:34:55.060",
+      "end": "00:35:01.950",
+      "text": "further recognize and take into account what the intent of the proclamation policy was in the first"
+    },
+    {
+      "index": 183,
+      "start": "00:35:01.950",
+      "end": "00:35:07.840",
+      "text": "place and get some more clarity. So I'm hoping I have a seconder for that. Okay, I will second that."
+    },
+    {
+      "index": 184,
+      "start": "00:35:07.840",
+      "end": "00:35:13.960",
+      "text": "Having that referred, I don't know if staff want to comment or you're good, all good. Okay,"
+    },
+    {
+      "index": 185,
+      "start": "00:35:13.960",
+      "end": "00:35:18.340",
+      "text": "you talked to them beforehand, so we're all good. I will Deputy Mayor would like to say"
+    },
+    {
+      "index": 186,
+      "start": "00:35:18.340",
+      "end": "00:35:23.570",
+      "text": "something but just looking to committee members if anyone else wanted to speak first. Seeing none,"
+    },
+    {
+      "index": 187,
+      "start": "00:35:23.570",
+      "end": "00:35:31.390",
+      "text": "go ahead, Deputy Mayor. Thank you, Chair, and through you, I'm very supportive of Councilor"
+    },
+    {
+      "index": 188,
+      "start": "00:35:31.390",
+      "end": "00:35:37.260",
+      "text": "Raman's motion. I appreciate the work she's put into bringing this forward. I do think that we need"
+    },
+    {
+      "index": 189,
+      "start": "00:35:37.260",
+      "end": "00:35:43.620",
+      "text": "to put a bit of a pause on our proclamation approvals and review the policy before we continue to"
+    },
+    {
+      "index": 190,
+      "start": "00:35:43.620",
+      "end": "00:35:52.790",
+      "text": "issue them. I've had concerns about this process since day one, including proclamations coming"
+    },
+    {
+      "index": 191,
+      "start": "00:35:52.790",
+      "end": "00:35:58.290",
+      "text": "before this committee in the last year when I was the chair that had no connection to the city"
+    },
+    {
+      "index": 192,
+      "start": "00:35:58.290",
+      "end": "00:36:05.880",
+      "text": "of London whatsoever. Our proclamations were originally meant to recognize London specific"
+    },
+    {
+      "index": 193,
+      "start": "00:36:05.880",
+      "end": "00:36:15.610",
+      "text": "and we have seen many circumstances where that has gotten away from us. I think it also creates,"
+    },
+    {
+      "index": 194,
+      "start": "00:36:15.610",
+      "end": "00:36:23.700",
+      "text": "I think our current policy also creates what I want to call a level of division amongst community"
+    },
+    {
+      "index": 195,
+      "start": "00:36:23.700",
+      "end": "00:36:29.240",
+      "text": "members about certain things that are being proclaimed and other things that are not. So,"
+    },
+    {
+      "index": 196,
+      "start": "00:36:29.240",
+      "end": "00:36:35.270",
+      "text": "I think it's very valuable for us to take a breath and take a pause because I think we do need to"
+    },
+    {
+      "index": 197,
+      "start": "00:36:35.270",
+      "end": "00:36:39.760",
+      "text": "refine this process if we're going to continue it. I think we also need to be mindful of the"
+    },
+    {
+      "index": 198,
+      "start": "00:36:39.760",
+      "end": "00:36:46.580",
+      "text": "considerable amount of staff time that goes into processing these as they come in. We've regularly"
+    },
+    {
+      "index": 199,
+      "start": "00:36:46.580",
+      "end": "00:36:51.100",
+      "text": "asked staff to go back to applicants to seek more information. Staff shouldn't have to do that."
+    },
+    {
+      "index": 200,
+      "start": "00:36:52.960",
+      "end": "00:36:57.440",
+      "text": "It's consuming hours and hours and hours and hours of clerk's time that should be used,"
+    },
+    {
+      "index": 201,
+      "start": "00:36:57.440",
+      "end": "00:37:04.450",
+      "text": "frankly, on more, I don't want to say more important, but on council focused municipal business."
+    },
+    {
+      "index": 202,
+      "start": "00:37:04.450",
+      "end": "00:37:09.850",
+      "text": "And so, I am very supportive of this. I will be 100% of supportive of it in council."
+    },
+    {
+      "index": 203,
+      "start": "00:37:09.850",
+      "end": "00:37:17.260",
+      "text": "And I think we just need to pause here. And this seems to be the time to do it."
+    },
+    {
+      "index": 204,
+      "start": "00:37:17.260",
+      "end": "00:37:24.090",
+      "text": "Okay. Thank you for that. Any other comments? Okay. I'm not seeing any. We'll open this for"
+    },
+    {
+      "index": 205,
+      "start": "00:37:24.090",
+      "end": "00:37:28.220",
+      "text": "voting. Oh, sorry. Councillor Stevenson, you wanted to speak. Go ahead."
+    },
+    {
+      "index": 206,
+      "start": "00:37:28.220",
+      "end": "00:37:34.020",
+      "text": "Yeah, thank you. I'm just wondering why the need to pause. Why not just go ahead and approve these"
+    },
+    {
+      "index": 207,
+      "start": "00:37:34.020",
+      "end": "00:37:43.830",
+      "text": "and look at improving things going forward? I'm sorry. Is that a question to Councillor"
+    },
+    {
+      "index": 208,
+      "start": "00:37:43.830",
+      "end": "00:37:49.220",
+      "text": "Ramen or who? That's a question to Councillor Ramen or to staff. I mean, I just don't know why"
+    },
+    {
+      "index": 209,
+      "start": "00:37:49.220",
+      "end": "00:37:56.130",
+      "text": "we would pause on these while we clarify when we've been working under the existing policy already."
+    },
+    {
+      "index": 210,
+      "start": "00:37:56.130",
+      "end": "00:38:02.440",
+      "text": "I mean, the one that is here that is an individual that I can see is the Christian Heritage Month."
+    },
+    {
+      "index": 211,
+      "start": "00:38:02.440",
+      "end": "00:38:09.400",
+      "text": "So, I don't know if that's the particular one that's of concern in terms of it being an individual,"
+    },
+    {
+      "index": 212,
+      "start": "00:38:09.400",
+      "end": "00:38:13.630",
+      "text": "rather than an organization, but just wondering why hold these up."
+    },
+    {
+      "index": 213,
+      "start": "00:38:13.630",
+      "end": "00:38:21.500",
+      "text": "Councillor Ramen, do you want to speak to this? Thank you, through you. So, again, to confirm with"
+    },
+    {
+      "index": 214,
+      "start": "00:38:21.500",
+      "end": "00:38:27.770",
+      "text": "staff that this isn't holding them up because they won't be impacting the dates that they're"
+    },
+    {
+      "index": 215,
+      "start": "00:38:27.770",
+      "end": "00:38:34.740",
+      "text": "asking to be proclaimed. To the clerks, go ahead. Thank you, through the chair."
+    },
+    {
+      "index": 216,
+      "start": "00:38:34.740",
+      "end": "00:38:39.890",
+      "text": "The proclamation month's requested are September, November, and December. So,"
+    },
+    {
+      "index": 217,
+      "start": "00:38:39.890",
+      "end": "00:38:47.930",
+      "text": "that gives a civic administration ample time to review the policy. Okay. Anything further,"
+    },
+    {
+      "index": 218,
+      "start": "00:38:47.930",
+      "end": "00:38:55.040",
+      "text": "Councillor Ramen? Okay. Okay. So, any other comments? Okay, Councillor Stevenson, go ahead."
+    },
+    {
+      "index": 219,
+      "start": "00:38:55.040",
+      "end": "00:39:01.790",
+      "text": "Thank you. Yeah, just to clarify, I didn't mean holding up the actual having of the month. I'm"
+    },
+    {
+      "index": 220,
+      "start": "00:39:01.790",
+      "end": "00:39:07.850",
+      "text": "just questioning the hold up of the vote. Like, as I said, I'm all for clarifying the process,"
+    },
+    {
+      "index": 221,
+      "start": "00:39:07.850",
+      "end": "00:39:11.730",
+      "text": "but I'm not sure why we wouldn't just continue doing what we're doing while we wait for staff to"
+    },
+    {
+      "index": 222,
+      "start": "00:39:11.730",
+      "end": "00:39:20.090",
+      "text": "come back. Is there something that I should be aware of? I believe Councillor Ramen has already"
+    },
+    {
+      "index": 223,
+      "start": "00:39:20.090",
+      "end": "00:39:26.340",
+      "text": "answered your questions. So, staff have given their response. There's ample time. So, nothing"
+    },
+    {
+      "index": 224,
+      "start": "00:39:26.340",
+      "end": "00:39:30.690",
+      "text": "further to add to that unless you have any other questions. Okay, Councillor Van Neubergen,"
+    },
+    {
+      "index": 225,
+      "start": "00:39:30.690",
+      "end": "00:39:37.840",
+      "text": "you will side your hand up. Yeah, we've been doing this for some time. This is nothing new."
+    },
+    {
+      "index": 226,
+      "start": "00:39:37.840",
+      "end": "00:39:43.580",
+      "text": "I've never once heard anything negative about any of the proclamations. I mean, we get proclamations"
+    },
+    {
+      "index": 227,
+      "start": "00:39:43.580",
+      "end": "00:39:50.940",
+      "text": "to everybody and anybody under the sun. Now, all line of order. Sorry. Okay, my order has been"
+    },
+    {
+      "index": 228,
+      "start": "00:39:50.940",
+      "end": "00:39:57.300",
+      "text": "called. So, we have to pause. Go ahead, Deputy Mayor. Well, the Councillor may feel that we give"
+    },
+    {
+      "index": 229,
+      "start": "00:39:57.300",
+      "end": "00:40:03.350",
+      "text": "them out to everyone. I just need to point out that this committee has refused several proclamations."
+    },
+    {
+      "index": 230,
+      "start": "00:40:04.070",
+      "end": "00:40:07.410",
+      "text": "For not meeting the policy, Councillor. So, it's simply not true that we give"
+    },
+    {
+      "index": 231,
+      "start": "00:40:07.410",
+      "end": "00:40:11.070",
+      "text": "them out to everybody and everybody through you, Chair. I don't want to go into a direct argument"
+    },
+    {
+      "index": 232,
+      "start": "00:40:11.070",
+      "end": "00:40:17.700",
+      "text": "with you, Sean, but I'm telling you, we give out proclamations on a continual basis. We all know"
+    },
+    {
+      "index": 233,
+      "start": "00:40:17.700",
+      "end": "00:40:23.580",
+      "text": "that. And this has been going on for quite some time. Now, all of a sudden, at 1259 today,"
+    },
+    {
+      "index": 234,
+      "start": "00:40:23.580",
+      "end": "00:40:30.460",
+      "text": "we get a motion coming forward to us. We haven't even had time to even really digest the motions."
+    },
+    {
+      "index": 235,
+      "start": "00:40:30.460",
+      "end": "00:40:36.480",
+      "text": "And here we are. I'm wanting to send it back and creating a problem where really none exists. Again,"
+    },
+    {
+      "index": 236,
+      "start": "00:40:36.480",
+      "end": "00:40:42.480",
+      "text": "I've never had somebody come to me and say, hey, really don't like the way you guys do proclamations."
+    },
+    {
+      "index": 237,
+      "start": "00:40:42.480",
+      "end": "00:40:49.540",
+      "text": "So I just want to put that out there. Thank you, Chair. Okay. Thank you. Any further comments or"
+    },
+    {
+      "index": 238,
+      "start": "00:40:49.540",
+      "end": "00:40:57.140",
+      "text": "questions on the motion? Not seeing any. We'll open that for Councillor Stevenson. Go ahead."
+    },
+    {
+      "index": 239,
+      "start": "00:40:57.140",
+      "end": "00:41:06.050",
+      "text": "Yes. Thank you. I did just want to say, as I said, it feels as though it's this"
+    },
+    {
+      "index": 240,
+      "start": "00:41:06.050",
+      "end": "00:41:13.590",
+      "text": "Christian heritage month that's being pulled aside here, because it's the one that has a person's"
+    },
+    {
+      "index": 241,
+      "start": "00:41:13.590",
+      "end": "00:41:19.820",
+      "text": "name. And so I just don't like the possible perception that that is going to give. And I'm"
+    },
+    {
+      "index": 242,
+      "start": "00:41:19.820",
+      "end": "00:41:27.400",
+      "text": "wondering if it would be possible for us to approve these and go ahead and get clarity for future."
+    },
+    {
+      "index": 243,
+      "start": "00:41:27.400",
+      "end": "00:41:31.760",
+      "text": "Just so Councillor. I'll stop it. We did there is a referral on the floor. So that does take"
+    },
+    {
+      "index": 244,
+      "start": "00:41:31.760",
+      "end": "00:41:37.430",
+      "text": "precedence. So we have to deal with what's on the floor currently. So yes, that's where we're at with"
+    },
+    {
+      "index": 245,
+      "start": "00:41:37.430",
+      "end": "00:41:41.300",
+      "text": "this. We can't go back. There is a referral on the floor. So we have to vote on that."
+    },
+    {
+      "index": 246,
+      "start": "00:41:41.300",
+      "end": "00:41:47.210",
+      "text": "All right. Well, I'm not going to be supporting this. And if it fails, I would support the, you"
+    },
+    {
+      "index": 247,
+      "start": "00:41:47.210",
+      "end": "00:41:52.430",
+      "text": "know, add direction to staff to have clarity going forward. Okay. Councillor Robin, you want to speak?"
+    },
+    {
+      "index": 248,
+      "start": "00:41:52.430",
+      "end": "00:42:02.670",
+      "text": "Go ahead. Thank you. I'm not sure why the Councillor feels that one proclamation is being targeted,"
+    },
+    {
+      "index": 249,
+      "start": "00:42:02.670",
+      "end": "00:42:10.830",
+      "text": "but the referral was for all three proclamations. And it's again related to tying the motion to"
+    },
+    {
+      "index": 250,
+      "start": "00:42:10.830",
+      "end": "00:42:18.010",
+      "text": "referral to view all proclamations, our process as we go through this."
+    },
+    {
+      "index": 251,
+      "start": "00:42:18.010",
+      "end": "00:42:29.890",
+      "text": "But again, I'm not sure why it's being seen as though it's an attack on or pulling out one"
+    },
+    {
+      "index": 252,
+      "start": "00:42:29.890",
+      "end": "00:42:38.630",
+      "text": "particular proclamation. I did note that there was a difference in the fact that this was submitted"
+    },
+    {
+      "index": 253,
+      "start": "00:42:38.630",
+      "end": "00:42:43.610",
+      "text": "from an individual, but we have had other proclamations submitted by individuals."
+    },
+    {
+      "index": 254,
+      "start": "00:42:43.610",
+      "end": "00:42:50.590",
+      "text": "The point is I think that there's some inconsistencies in the way that we apply proclamations as well"
+    },
+    {
+      "index": 255,
+      "start": "00:42:50.590",
+      "end": "00:42:56.380",
+      "text": "as what we're proclaiming. And I do think that it should be reviewed by staff just to make sure"
+    },
+    {
+      "index": 256,
+      "start": "00:42:56.380",
+      "end": "00:43:05.150",
+      "text": "there's no alignment. Okay. Go ahead. Councillor Stevenson. Thank you. I just wanted to be clear."
+    },
+    {
+      "index": 257,
+      "start": "00:43:05.150",
+      "end": "00:43:10.700",
+      "text": "The reason I say that is because it refers to whether it says include, including clarifying"
+    },
+    {
+      "index": 258,
+      "start": "00:43:10.700",
+      "end": "00:43:16.460",
+      "text": "that requests for proclamations can be made by individuals. And only one of the three is"
+    },
+    {
+      "index": 259,
+      "start": "00:43:16.460",
+      "end": "00:43:25.480",
+      "text": "by an individual, which, as you said, we have done in the past. So I've already made my comments."
+    },
+    {
+      "index": 260,
+      "start": "00:43:25.480",
+      "end": "00:43:32.220",
+      "text": "Okay. Not seeing any other comments or questions. We'll open this for both of you."
+    },
+    {
+      "index": 261,
+      "start": "00:43:32.220",
+      "end": "00:43:58.680",
+      "text": "Closing the vote. Motion carries three to two. Okay. We are now on to third matters,"
+    },
+    {
+      "index": 262,
+      "start": "00:43:58.680",
+      "end": "00:44:05.000",
+      "text": "which we have none. So we are now into confidential. So I'll just ask for everyone to get situated"
+    },
+    {
+      "index": 263,
+      "start": "00:44:05.000",
+      "end": "00:44:09.160",
+      "text": "for that. So just give us a moment. Oh, we need a vote. Sorry to go to the closed session. Okay."
+    },
+    {
+      "index": 264,
+      "start": "00:44:09.160",
+      "end": "00:44:12.990",
+      "text": "Councillor ramen. Councillor Cudi. Thank you. Okay. And we'll open that for voting."
+    },
+    {
+      "index": 265,
+      "start": "00:44:12.990",
+      "end": "00:44:53.940",
+      "text": "Closing the vote. Motion carries five to zero. Okay. Just give us a moment to get situated."
+    },
+    {
+      "index": 266,
+      "start": "00:44:53.940",
+      "end": "00:46:40.960",
+      "text": "Okay. We're back in open session. I'm asked Councillor Cudi to report out on our closed session."
+    },
+    {
+      "index": 267,
+      "start": "00:46:40.960",
+      "end": "00:46:49.630",
+      "text": "Thank you, Chair, through you. Committee went into confidential session from 1.30 pm until 1.35 pm."
+    },
+    {
+      "index": 268,
+      "start": "00:46:49.630",
+      "end": "00:46:57.310",
+      "text": "Matters that were discussed. We made progress in all of those issues discussed."
+    },
+    {
+      "index": 269,
+      "start": "00:46:57.310",
+      "end": "00:47:01.960",
+      "text": "Thank you. Okay. Thank you. We are on last item, which is adjournment."
+    },
+    {
+      "index": 270,
+      "start": "00:47:01.960",
+      "end": "00:47:05.580",
+      "text": "Could I get a motion to adjourn? Councillor ramen. Councillor Cudi. Thank you."
+    },
+    {
+      "index": 271,
+      "start": "00:47:05.580",
+      "end": "00:47:15.000",
+      "text": "All those in favor of adjournment? Any opposed? Motion carries."
+    },
+    {
+      "index": 272,
+      "start": "00:47:15.000",
+      "end": "00:47:17.050",
+      "text": "Thank you. Everyone have a good afternoon."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Corporate%20Services%20Committee/2024/05-27/.transcript.srt"
+}

@@ -1,1 +1,4833 @@
-{"title": null, "datetime": "2021-09-21 16:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=acb37c08-d01e-4bde-819c-436fab76887a&Agenda=PostMinutes&lang=English", "meeting_type": "Community and Protective Services Committee", "bills": null, "present": ["J. Helmer", "S. Lewis", "M. Salih", "S. Hillier", "E. Holder"], "also_present": ["J. Bunn", "M. Schulthess", "J. Taylor\n\n\n\n A. Hopkins", "M. van Holst", "C. Cooper", "C. DeForest", "K. Dickins", "S. Glover", "O. Katolyk", "G. Kotsifas", "L. Marshall", "P. Masse", "N. Musicco", "J. Raycroft", "C. Smith", "J. Tansley", "B. Westlake-Power\n\n\n\nThe meeting was called to order at 4:03 PM", "it being noted that the following Members were in  E. Holder", "M. Salih", "S. Hillier"], "remote_attendance": [], "content": {"__class__": "Content"}, "absent": ["A. Kayabaga"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That Items 2.1 to 2.3 and 2.5 to 2.10 BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer", "S. Lewis", "S. Hillier,E. Holder"]}, {"vote": "Absent:", "voters": ["A. Kayabaga"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "7th and 8th Reports of the Animal Welfare Advisory Committee", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the 7th and 8th Reports of the Animal Welfare Advisory Committee, from the meetings held on August 5, 2021 and September 2, 2021, respectively, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-05 AWAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85573", "date": "2021-08-05 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-09-02 AWAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85574", "date": "2021-09-02 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "7th Report of the Accessibility Advisory Committee", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the 7th Report of the Accessibility Advisory Committee, from its meeting held on August 26, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-26 ACCAC Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85575", "date": "2021-08-26 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "4th and 5th Reports of the Community Safety and Crime Prevention Advisory Committee", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the 4th and 5th Reports of the Community Safety and Crime Prevention Advisory Committee, from the meetings held on August 26, 2021 and September 13, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-08-26 CSCP Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85578", "date": "2021-08-26 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-09-13 CSCP Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85579", "date": "2021-09-13 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Property Standards Related Demolition - 72 Wellington Street", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the by-law, as appended to the staff report dated September 21, 2021, BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2021, to approve the demolition of an abandoned building at the municipal address of 72 Wellington Street, in the City of London; it being noted that property shall be cleared of all identified buildings, structures, debris and refuse and left in a graded and levelled condition in accordance with the City of London Property Standards By-law and Building Code Act. (2021-P10D)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-09-21 SR Property Standards Related Demolition - 72 Wellington Street", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85576", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "mobiIINSPECT By-law and Enforcement - A Mobile Application for Inspections by Partho Technologies Inc.", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated September 21, 2021, with respect to mobilINSPECT By-law and Enforcement \u2013 A Mobile Application for Inspections by Partho Technologies Inc.:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the price of $99,000 (HST extra), negotiated with Partho Technologies Inc., for the provision of mobiINSPECT By-law and Enforcement, BE ACCEPTED on a Single Source basis in accordance with sections 14.4 (d) and 14.4 (e) of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this purchase;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the approvals given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into a formal contract for this purchase;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract, statement of work or other documents, if required, to give effect to these recommendations; and,", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2021, to:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0approve the Statement of Work, as appended to the above-noted by-law, between The Corporation of the City of London and Partho Technologies Inc. for the purpose of using mobilINSPECT Enforce; and,\n\nii) \u00a0 \u00a0authorize the Deputy City Manager, Planning and Economic Development to execute the above-noted Statement of Work. (2021-P01)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-09-21 SR mobilINSPECT By-law and Enforcement", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85584", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Discrimination Experienced by Immigrants, Visible Minorities and Indigenous Peoples in London and Middlesex, An Empirical Study by the London and Middlesex Local Immigration Partnership", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report, dated September 21, 2021, with respect to Discrimination Experienced by Immigrants, Visible Minorities and Indigenous Peoples in London and Middlesex, An Empirical Study by the London and Middlesex Local Immigration Partnership, BE RECEIVED. (2021-S15)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-09-21 SR Discrimination Experienced in London and Middlesex - An Empirical Study", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85580", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2021-09-21 SR Discrimination Experienced in London and Middlesex - An Empirical Study - Schedule 1", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85581", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Update on London's Newcomer Strategy: Choose London - Innovative, Vibrant and Global", "number": "8", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated September 21, 2021, with respect to an Update on London\u2019s Newcomer Strategy: Choose London \u2013 Innovative, Vibrant and Global, BE RECEIVED. (2021-D01)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-09-21 SR Update on London", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85582", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Housing Stability for All Plan - Mid-Year Update", "number": "9", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, and the Deputy City Manager Planning and Economic Development, the staff report dated September 21, 2021, with respect to a mid-year update on the Housing Stability for All Plan, BE RECEIVED. (2021-S11)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-09-21 SR Housing Stability for All Plan - Mid-Year Update", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85583", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Single Source - Life Stabilization: Electronic Document Management (EDM)", "number": "10", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated September 21, 2021, with respect to Electronic Document Management for Life Stabilization:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0a Change Order to the existing Single Source Master Services Agreement with Nimble Information Strategies Inc. (SS20-33) BE APPROVED as per Council Policy By-law No. A.-6151-17, Schedule C, Section 20.3, as amended, for a total funding amount of $342,930, plus applicable taxes, to digitize active Ontario Works files by December 31st, 2021;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0proposed By-law, as appended to the staff report dated September 21, 2021, BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2021, to:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0approve the Change Order, as appended to the above-noted by-law, which amends the Master Services Agreement; and,\n\nii) \u00a0 \u00a0authorize the Deputy City Manager, Social and Health Development, to execute the above noted Change Order;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this matter. (2021-A10)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-09-21 SR Single Source - Life Stabilization - Electronic Document Management", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85585", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Property Standards Matters (March 2021 Council Resolution)", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the following actions be taken with respect to the staff report dated September 21, 2021, related to Property Standards Matters (March 2021 Council Resolution):", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the Civic Administration BE DIRECTED to report back at a future meeting of the Community and Protective Services Committee on how a RentSafeLondon by-law enforcement program, modelled after the RentSafeTO program, could be implemented, including proposed fees for registration and building audits;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the verbal delegations from S. Lawrence, D. Devine, J. Phoenix and N. Chiles, with respect to this matter, BE RECEIVED; and,", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the following items, as well as the above-noted staff report, with respect to this matter, BE RECEIVED:", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from S. Lawrence;", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from D. Devine;", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from J. Phoenix;", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from N. Chiles;", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from ACORN London; and,", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from J. Hoffer, Cohen Highley. (2021-P01)", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Voting Record:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to approve the delegation requests from S. Lawrence, D. Devine, J. Phoenix and N. Chiles, as appended to the Added Agenda to be heard at this meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer", "S. Lewis", "S. Hillier,E. Holder"]}, {"vote": "Absent:", "voters": ["A. Kayabaga"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to receive the verbal delegations from S. Lawrence, D. Devine, J. Phoenix and N. Chiles as well as the communications listed on the Added Agenda.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer", "S. Lewis", "S. Hillier,E. Holder"]}, {"vote": "Absent:", "voters": ["A. Kayabaga"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by M. Salih", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to approve part a) of the clause and to receive the staff report.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer", "S. Lewis", "S. Hillier,E. Holder"]}, {"vote": "Absent:", "voters": ["A. Kayabaga"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "2021-09-21 SR Property Standards Related Matters - March 2021 Council Reso", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85577", "date": "2021-09-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Flyer Deliveries to Residential Properties", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Helmer", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "That the following actions be taken with respect to the staff report dated September 21, 2021, with respect to Flyer Deliveries to Residential Properties:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the matter of flyer deliveries to residential properties BE REFERRED to a future meeting of the Community and Protective Services Committee (CPSC) to provide an opportunity for further discussion of this matter; and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the delegation requests from A. Marchand, as appended to the Agenda, and D. Ronson, as appended to the Added Agenda, BE REFFERED to a future meeting of the CPSC;", "__class__": "Paragraph"}, {"string": "it being noted that the following communications, with respect to this matter, were received:", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Agenda, from A. Marchand;", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from D. Ronson;", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from the Viewer Discretion Legislation Coalition; and,", "__class__": "Paragraph"}, {"string": "- a communication, as appended to the Added Agenda, from S. Trosow. (2021-S08/T07)", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer", "S. Lewis", "S. Hillier,E. Holder"]}, {"vote": "Absent:", "voters": ["A. Kayabaga"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [], "items": {"1": {"title": "Deferred Matters List", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "That the Deferred Matters List for the Community and Protective Services Committee, as at September 13, 2021, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["M. Salih", "J. Helmer", "S. Lewis", "S. Hillier,E. Holder"]}, {"vote": "Absent:", "voters": ["A. Kayabaga"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [{"empty_flag": false, "title": "CPSC DEFERRED MATTERS as at September 13, 2021", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85586", "date": "2021-09-21 16:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Lewis", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by E. Holder", "__class__": "Mover"}, "motion_texts": [{"string": "That the Community and Protective Services Committee convene, In Closed Session, for the purpose of considering the following:", "__class__": "Paragraph"}, {"string": "6.1. Solicitor-Client Privilege", "__class__": "Paragraph"}, {"string": "A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, regarding flyer deliveries to residential properties.", "__class__": "Paragraph"}, {"string": "6.2. Personal Matters / Identifiable Individual", "__class__": "Paragraph"}, {"string": "A personal matter pertaining to identifiable individuals, including municipal employees, with respect to the 2022 Mayor's New Year's Honour List.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["J. Helmer", "S. Lewis", "S. Hillier,E. Holder"]}, {"vote": "Absent:", "voters": ["M. Salih,A. Kayabaga"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Community and Protective Services Committee convened, In Closed Session, from 4:07 PM to 4:51 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"string": "The meeting adjourned at 5:59 PM.", "__class__": "Paragraph"}], "items": {}, "datetime": "2021-09-21 16:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2021-09-21 16:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=acb37c08-d01e-4bde-819c-436fab76887a&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Community and Protective Services Committee",
+  "bills": null,
+  "present": [
+    "J. Helmer",
+    "S. Lewis",
+    "M. Salih",
+    "S. Hillier",
+    "E. Holder"
+  ],
+  "also_present": [
+    "J. Bunn",
+    "M. Schulthess",
+    "J. Taylor\n\n\n\n A. Hopkins",
+    "M. van Holst",
+    "C. Cooper",
+    "C. DeForest",
+    "K. Dickins",
+    "S. Glover",
+    "O. Katolyk",
+    "G. Kotsifas",
+    "L. Marshall",
+    "P. Masse",
+    "N. Musicco",
+    "J. Raycroft",
+    "C. Smith",
+    "J. Tansley",
+    "B. Westlake-Power\n\n\n\nThe meeting was called to order at 4:03 PM",
+    "it being noted that the following Members were in  E. Holder",
+    "M. Salih",
+    "S. Hillier"
+  ],
+  "remote_attendance": [],
+  "content": {
+    "__class__": "Content"
+  },
+  "absent": [
+    "A. Kayabaga"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-09-21 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Hillier",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Items 2.1 to 2.3 and 2.5 to 2.10 BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "M. Salih",
+                  "J. Helmer",
+                  "S. Lewis",
+                  "S. Hillier,E. Holder"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "A. Kayabaga"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "7th and 8th Reports of the Animal Welfare Advisory Committee",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 7th and 8th Reports of the Animal Welfare Advisory Committee, from the meetings held on August 5, 2021 and September 2, 2021, respectively, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-05 AWAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85573",
+              "date": "2021-08-05 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-09-02 AWAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85574",
+              "date": "2021-09-02 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "7th Report of the Accessibility Advisory Committee",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 7th Report of the Accessibility Advisory Committee, from its meeting held on August 26, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-26 ACCAC Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85575",
+              "date": "2021-08-26 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "4th and 5th Reports of the Community Safety and Crime Prevention Advisory Committee",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 4th and 5th Reports of the Community Safety and Crime Prevention Advisory Committee, from the meetings held on August 26, 2021 and September 13, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-08-26 CSCP Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85578",
+              "date": "2021-08-26 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-09-13 CSCP Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85579",
+              "date": "2021-09-13 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Property Standards Related Demolition - 72 Wellington Street",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the by-law, as appended to the staff report dated September 21, 2021, BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2021, to approve the demolition of an abandoned building at the municipal address of 72 Wellington Street, in the City of London; it being noted that property shall be cleared of all identified buildings, structures, debris and refuse and left in a graded and levelled condition in accordance with the City of London Property Standards By-law and Building Code Act. (2021-P10D)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR Property Standards Related Demolition - 72 Wellington Street",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85576",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "mobiIINSPECT By-law and Enforcement - A Mobile Application for Inspections by Partho Technologies Inc.",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated September 21, 2021, with respect to mobilINSPECT By-law and Enforcement \u2013 A Mobile Application for Inspections by Partho Technologies Inc.:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the price of $99,000 (HST extra), negotiated with Partho Technologies Inc., for the provision of mobiINSPECT By-law and Enforcement, BE ACCEPTED on a Single Source basis in accordance with sections 14.4 (d) and 14.4 (e) of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this purchase;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the approvals given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into a formal contract for this purchase;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract, statement of work or other documents, if required, to give effect to these recommendations; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2021, to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0approve the Statement of Work, as appended to the above-noted by-law, between The Corporation of the City of London and Partho Technologies Inc. for the purpose of using mobilINSPECT Enforce; and,\n\nii) \u00a0 \u00a0authorize the Deputy City Manager, Planning and Economic Development to execute the above-noted Statement of Work. (2021-P01)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR mobilINSPECT By-law and Enforcement",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85584",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "Discrimination Experienced by Immigrants, Visible Minorities and Indigenous Peoples in London and Middlesex, An Empirical Study by the London and Middlesex Local Immigration Partnership",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report, dated September 21, 2021, with respect to Discrimination Experienced by Immigrants, Visible Minorities and Indigenous Peoples in London and Middlesex, An Empirical Study by the London and Middlesex Local Immigration Partnership, BE RECEIVED. (2021-S15)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR Discrimination Experienced in London and Middlesex - An Empirical Study",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85580",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR Discrimination Experienced in London and Middlesex - An Empirical Study - Schedule 1",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85581",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "8": {
+          "title": "Update on London's Newcomer Strategy: Choose London - Innovative, Vibrant and Global",
+          "number": "8",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated September 21, 2021, with respect to an Update on London\u2019s Newcomer Strategy: Choose London \u2013 Innovative, Vibrant and Global, BE RECEIVED. (2021-D01)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR Update on London",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85582",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "9": {
+          "title": "Housing Stability for All Plan - Mid-Year Update",
+          "number": "9",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, and the Deputy City Manager Planning and Economic Development, the staff report dated September 21, 2021, with respect to a mid-year update on the Housing Stability for All Plan, BE RECEIVED. (2021-S11)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR Housing Stability for All Plan - Mid-Year Update",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85583",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "10": {
+          "title": "Single Source - Life Stabilization: Electronic Document Management (EDM)",
+          "number": "10",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated September 21, 2021, with respect to Electronic Document Management for Life Stabilization:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0a Change Order to the existing Single Source Master Services Agreement with Nimble Information Strategies Inc. (SS20-33) BE APPROVED as per Council Policy By-law No. A.-6151-17, Schedule C, Section 20.3, as amended, for a total funding amount of $342,930, plus applicable taxes, to digitize active Ontario Works files by December 31st, 2021;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0proposed By-law, as appended to the staff report dated September 21, 2021, BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2021, to:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0approve the Change Order, as appended to the above-noted by-law, which amends the Master Services Agreement; and,\n\nii) \u00a0 \u00a0authorize the Deputy City Manager, Social and Health Development, to execute the above noted Change Order;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this matter. (2021-A10)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR Single Source - Life Stabilization - Electronic Document Management",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85585",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Property Standards Matters (March 2021 Council Resolution)",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the following actions be taken with respect to the staff report dated September 21, 2021, related to Property Standards Matters (March 2021 Council Resolution):",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the Civic Administration BE DIRECTED to report back at a future meeting of the Community and Protective Services Committee on how a RentSafeLondon by-law enforcement program, modelled after the RentSafeTO program, could be implemented, including proposed fees for registration and building audits;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the verbal delegations from S. Lawrence, D. Devine, J. Phoenix and N. Chiles, with respect to this matter, BE RECEIVED; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the following items, as well as the above-noted staff report, with respect to this matter, BE RECEIVED:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from S. Lawrence;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from D. Devine;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from J. Phoenix;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from N. Chiles;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from ACORN London; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from J. Hoffer, Cohen Highley. (2021-P01)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Voting Record:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to approve the delegation requests from S. Lawrence, D. Devine, J. Phoenix and N. Chiles, as appended to the Added Agenda to be heard at this meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer",
+                      "S. Lewis",
+                      "S. Hillier,E. Holder"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "A. Kayabaga"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by E. Holder",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to receive the verbal delegations from S. Lawrence, D. Devine, J. Phoenix and N. Chiles as well as the communications listed on the Added Agenda.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer",
+                      "S. Lewis",
+                      "S. Hillier,E. Holder"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "A. Kayabaga"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by M. Salih",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to approve part a) of the clause and to receive the staff report.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer",
+                      "S. Lewis",
+                      "S. Hillier,E. Holder"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "A. Kayabaga"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2021-09-21 SR Property Standards Related Matters - March 2021 Council Reso",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85577",
+              "date": "2021-09-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-09-21 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-09-21 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Flyer Deliveries to Residential Properties",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Helmer",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by E. Holder",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the following actions be taken with respect to the staff report dated September 21, 2021, with respect to Flyer Deliveries to Residential Properties:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the matter of flyer deliveries to residential properties BE REFERRED to a future meeting of the Community and Protective Services Committee (CPSC) to provide an opportunity for further discussion of this matter; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the delegation requests from A. Marchand, as appended to the Agenda, and D. Ronson, as appended to the Added Agenda, BE REFFERED to a future meeting of the CPSC;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that the following communications, with respect to this matter, were received:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Agenda, from A. Marchand;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from D. Ronson;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from the Viewer Discretion Legislation Coalition; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- a communication, as appended to the Added Agenda, from S. Trosow. (2021-S08/T07)",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer",
+                      "S. Lewis",
+                      "S. Hillier,E. Holder"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "A. Kayabaga"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-09-21 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Deferred Matters List",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Lewis",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by E. Holder",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Deferred Matters List for the Community and Protective Services Committee, as at September 13, 2021, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "M. Salih",
+                      "J. Helmer",
+                      "S. Lewis",
+                      "S. Hillier,E. Holder"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "A. Kayabaga"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2021-09-21 16:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "CPSC DEFERRED MATTERS as at September 13, 2021",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=85586",
+              "date": "2021-09-21 16:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2021-09-21 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Lewis",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by E. Holder",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Community and Protective Services Committee convene, In Closed Session, for the purpose of considering the following:",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.1. Solicitor-Client Privilege",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, regarding flyer deliveries to residential properties.",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "6.2. Personal Matters / Identifiable Individual",
+              "__class__": "Paragraph"
+            },
+            {
+              "string": "A personal matter pertaining to identifiable individuals, including municipal employees, with respect to the 2022 Mayor's New Year's Honour List.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "J. Helmer",
+                  "S. Lewis",
+                  "S. Hillier,E. Holder"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "M. Salih,A. Kayabaga"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (4 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Community and Protective Services Committee convened, In Closed Session, from 4:07 PM to 4:51 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-09-21 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "string": "The meeting adjourned at 5:59 PM.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2021-09-21 16:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:00:42.980",
+      "end": "00:00:47.730",
+      "text": "Jerry, we were going to wait on the stream until after post session."
+    },
+    {
+      "index": 2,
+      "start": "00:00:47.730",
+      "end": "00:00:53.510",
+      "text": "Um, I thought we were doing eScribe first and then YouTube after."
+    },
+    {
+      "index": 3,
+      "start": "00:00:53.510",
+      "end": "00:00:57.650",
+      "text": "Okay. All right. Just making sure I haven't got those other windows open yet."
+    },
+    {
+      "index": 4,
+      "start": "00:00:57.650",
+      "end": "00:01:05.650",
+      "text": "Thanks. You're you're ahead of me. Okay. Okay."
+    },
+    {
+      "index": 5,
+      "start": "00:01:05.650",
+      "end": "00:01:50.680",
+      "text": "Okay. Thanks for taking such a preparement."
+    },
+    {
+      "index": 6,
+      "start": "00:01:50.680",
+      "end": "00:01:58.680",
+      "text": "This one's going to go any. I'm going to mute one and two."
+    },
+    {
+      "index": 7,
+      "start": "00:01:58.680",
+      "end": "00:04:57.930",
+      "text": "Hey, Barb. It may be better to have committee room one and two."
+    },
+    {
+      "index": 8,
+      "start": "00:04:57.930",
+      "end": "00:05:07.300",
+      "text": "Do the muting on their side because when you've muted it, they can't unmute without host permission."
+    },
+    {
+      "index": 9,
+      "start": "00:05:07.300",
+      "end": "00:05:14.500",
+      "text": "So I don't gotcha. Okay. I will I will ask them to unmute and then"
+    },
+    {
+      "index": 10,
+      "start": "00:05:14.500",
+      "end": "00:05:18.220",
+      "text": "Penny can unmute and then mute again. Perfect."
+    },
+    {
+      "index": 11,
+      "start": "00:05:18.220",
+      "end": "00:17:03.190",
+      "text": "Okay. I'm going to call meeting of the county and protective services committee to order."
+    },
+    {
+      "index": 12,
+      "start": "00:17:03.190",
+      "end": "00:17:09.680",
+      "text": "This is our 13th meeting. This is a virtual meeting held during the COVID-19 emergency."
+    },
+    {
+      "index": 13,
+      "start": "00:17:10.810",
+      "end": "00:17:15.760",
+      "text": "City of London is committed to making every effort to provide alternate formats and communication"
+    },
+    {
+      "index": 14,
+      "start": "00:17:15.760",
+      "end": "00:17:21.310",
+      "text": "supports for council, standing or advisory committee meetings and information upon request"
+    },
+    {
+      "index": 15,
+      "start": "00:17:21.310",
+      "end": "00:17:29.360",
+      "text": "to make a request for any city service. Please contact accessibility@london.ca or 51661-2489"
+    },
+    {
+      "index": 16,
+      "start": "00:17:29.360",
+      "end": "00:17:38.710",
+      "text": "extension 2425 to make a request to this specific to this meeting. Please contact cpsc@london.ca."
+    },
+    {
+      "index": 17,
+      "start": "00:17:39.630",
+      "end": "00:17:46.630",
+      "text": "A couple of things before we get into the full agenda. One is the YouTube streaming is not up."
+    },
+    {
+      "index": 18,
+      "start": "00:17:46.630",
+      "end": "00:17:53.420",
+      "text": "Yes, as long as the committee is agreeable to it, we're going to go into closed session to get legal"
+    },
+    {
+      "index": 19,
+      "start": "00:17:53.420",
+      "end": "00:17:57.590",
+      "text": "advice right off the top of the meeting. It's related to a matter we're going to deal with on"
+    },
+    {
+      "index": 20,
+      "start": "00:17:57.590",
+      "end": "00:18:01.640",
+      "text": "the public agenda. And then we're going to come back into public session at which point the YouTube"
+    },
+    {
+      "index": 21,
+      "start": "00:18:01.640",
+      "end": "00:18:06.320",
+      "text": "will kick on. The eScribe system is up and running right now. This is going to make things a little"
+    },
+    {
+      "index": 22,
+      "start": "00:18:06.320",
+      "end": "00:18:12.830",
+      "text": "bit simpler from a transition point of view. The other thing is I want to read a trigger warning"
+    },
+    {
+      "index": 23,
+      "start": "00:18:12.830",
+      "end": "00:18:17.710",
+      "text": "because some of the items we're going to be talking about today at the meeting, the subject matter"
+    },
+    {
+      "index": 24,
+      "start": "00:18:17.710",
+      "end": "00:18:22.500",
+      "text": "may create feelings of discomfort and maybe triggering for some individuals. It is important"
+    },
+    {
+      "index": 25,
+      "start": "00:18:22.500",
+      "end": "00:18:27.570",
+      "text": "to practice self-care when engaging with this material. If you or someone you know requires"
+    },
+    {
+      "index": 26,
+      "start": "00:18:27.570",
+      "end": "00:18:36.130",
+      "text": "support, please call ANOVA's 24/7 crisis and support line at 519-642-3000 or the London Abuse"
+    },
+    {
+      "index": 27,
+      "start": "00:18:36.130",
+      "end": "00:18:45.220",
+      "text": "Women's Center at 519-432-2204. I'll move to item number one, which is disclosures of"
+    },
+    {
+      "index": 28,
+      "start": "00:18:45.220",
+      "end": "00:18:50.870",
+      "text": "pecuniary interest and see if there are any. Raise your hand on the screen if you're on Zoom."
+    },
+    {
+      "index": 29,
+      "start": "00:18:50.870",
+      "end": "00:18:58.610",
+      "text": "Okay, I don't see any. At this point, I'd like to move into closed session so we can"
+    },
+    {
+      "index": 30,
+      "start": "00:18:58.610",
+      "end": "00:19:04.110",
+      "text": "deal with these matters 6-1 and 6-2, which are listed on the public agenda. One relates to legal"
+    },
+    {
+      "index": 31,
+      "start": "00:19:04.110",
+      "end": "00:19:11.090",
+      "text": "advice. The other one is a report related to support for our advisory committee. I have a motion to do"
+    },
+    {
+      "index": 32,
+      "start": "00:19:11.090",
+      "end": "00:19:19.000",
+      "text": "that. Councillor Lewis, seconded by Mayor Holder. Thank you. We'll get that up on the screen. For"
+    },
+    {
+      "index": 33,
+      "start": "00:19:19.000",
+      "end": "00:19:27.290",
+      "text": "those members of the public, I don't see, but I don't expect it will be very, very long."
+    },
+    {
+      "index": 34,
+      "start": "00:19:27.290",
+      "end": "00:19:37.950",
+      "text": "Sure, I'm not an e-scribe, but I'll vote yes. Okay, and you've got some time to log in."
+    },
+    {
+      "index": 35,
+      "start": "00:19:37.950",
+      "end": "00:20:49.100",
+      "text": "I will. I'll do my very best. Closing the vote, the motion carries 4-0."
+    },
+    {
+      "index": 36,
+      "start": "00:20:49.100",
+      "end": "00:22:46.210",
+      "text": "Okay, here we are back in public session. Thanks very much for your patience as we are in closed"
+    },
+    {
+      "index": 37,
+      "start": "00:22:46.210",
+      "end": "00:22:50.970",
+      "text": "session for a bit longer than I indicated at the beginning. I apologize. I should know better"
+    },
+    {
+      "index": 38,
+      "start": "00:22:50.970",
+      "end": "00:22:56.450",
+      "text": "than to try and predict how long that's going to go. That brings us to the consent agenda. We have"
+    },
+    {
+      "index": 39,
+      "start": "00:22:56.450",
+      "end": "00:23:00.370",
+      "text": "a number of items on there, and I just wonder if colleagues want to pull any of them for"
+    },
+    {
+      "index": 40,
+      "start": "00:23:00.370",
+      "end": "00:23:07.120",
+      "text": "separate voting. Councillor Lewis. Thank you, Mr. Chair. I think that 2.4"
+    },
+    {
+      "index": 41,
+      "start": "00:23:07.120",
+      "end": "00:23:12.910",
+      "text": "probably merits some discussion, and there may not be consensus, so I'd like to pull that one for"
+    },
+    {
+      "index": 42,
+      "start": "00:23:12.910",
+      "end": "00:23:19.000",
+      "text": "voting separately. Okay, that's the property standards matters. There's a number of delegation"
+    },
+    {
+      "index": 43,
+      "start": "00:23:19.000",
+      "end": "00:23:24.060",
+      "text": "requests also accompanying that one. I will notice there's an added by-law on 2.6."
+    },
+    {
+      "index": 44,
+      "start": "00:23:24.060",
+      "end": "00:23:27.620",
+      "text": "Doesn't mean we have to pull out a consent, but I just want to make sure everyone is aware of that."
+    },
+    {
+      "index": 45,
+      "start": "00:23:27.620",
+      "end": "00:23:34.030",
+      "text": "So at this point, we'd have everything except 2.4. Is there a mover for that? Councillor Lewis,"
+    },
+    {
+      "index": 46,
+      "start": "00:23:34.030",
+      "end": "00:23:39.300",
+      "text": "is there a seconder for that? Councillor Hillier. Okay, discussion on all those items that are in"
+    },
+    {
+      "index": 47,
+      "start": "00:23:39.300",
+      "end": "00:23:51.080",
+      "text": "the consent agenda other than a 2.4, which has been pulled. We have everyone time to see if you have"
+    },
+    {
+      "index": 48,
+      "start": "00:23:51.080",
+      "end": "00:24:00.180",
+      "text": "any comments or questions about any of those items in the consent agenda. Councillor Vanholst, go ahead."
+    },
+    {
+      "index": 49,
+      "start": "00:24:00.180",
+      "end": "00:24:12.440",
+      "text": "Yes, thank you, Mr. Chair. So I was looking at item 2.5, and just glancing at the building,"
+    },
+    {
+      "index": 50,
+      "start": "00:24:12.440",
+      "end": "00:24:21.850",
+      "text": "I understand that we took that off the heritage list in June. Because it looks like one of the"
+    },
+    {
+      "index": 51,
+      "start": "00:24:21.850",
+      "end": "00:24:32.210",
+      "text": "buildings that we would be voting on for designation, if somebody could remind me what staff's reasoning"
+    },
+    {
+      "index": 52,
+      "start": "00:24:32.210",
+      "end": "00:24:45.760",
+      "text": "for taking that off was. Chair, this matter has been before PEC. A report was submitted approximately 1-2"
+    },
+    {
+      "index": 53,
+      "start": "00:24:45.760",
+      "end": "00:24:53.840",
+      "text": "sessions at PEC by the city's heritage planner, and council approved its removal. It was not,"
+    },
+    {
+      "index": 54,
+      "start": "00:24:53.840",
+      "end": "00:25:02.380",
+      "text": "I believe, a designated property under section 4-5. It was just a property of interest. Okay, all right,"
+    },
+    {
+      "index": 55,
+      "start": "00:25:02.380",
+      "end": "00:25:09.620",
+      "text": "thank you. Any other questions or comments about any of those items in the consent agenda?"
+    },
+    {
+      "index": 56,
+      "start": "00:25:09.620",
+      "end": "00:25:19.380",
+      "text": "If not, I just want to, Councillor Lewis, go ahead. Sorry, Mr. Chair, just a very brief comment"
+    },
+    {
+      "index": 57,
+      "start": "00:25:19.380",
+      "end": "00:25:28.620",
+      "text": "on item 2.7. That's the discrimination experienced by peoples here in London and Middlesex. And I do"
+    },
+    {
+      "index": 58,
+      "start": "00:25:28.620",
+      "end": "00:25:34.690",
+      "text": "want to just extend my thanks to the London Middlesex Local Immigration Partnership, who spearheaded"
+    },
+    {
+      "index": 59,
+      "start": "00:25:34.690",
+      "end": "00:25:41.020",
+      "text": "this. It's an 86-page report. There's a lot to absorb. I will confess that I am going to reread it"
+    },
+    {
+      "index": 60,
+      "start": "00:25:41.020",
+      "end": "00:25:48.650",
+      "text": "a couple of times because there's lots to take in there and process. And of course, we've only had"
+    },
+    {
+      "index": 61,
+      "start": "00:25:48.650",
+      "end": "00:25:52.360",
+      "text": "this agenda for a week, and I don't think I've fully processed it all yet, but I just want to"
+    },
+    {
+      "index": 62,
+      "start": "00:25:52.360",
+      "end": "00:25:56.500",
+      "text": "thank the folks who were involved for their work on this. And I think it's going to be helpful for"
+    },
+    {
+      "index": 63,
+      "start": "00:25:56.500",
+      "end": "00:26:01.900",
+      "text": "us moving forward to think about things in the perspective of the experiences of people with"
+    },
+    {
+      "index": 64,
+      "start": "00:26:01.900",
+      "end": "00:26:06.780",
+      "text": "different lived experiences than we may have. So I just want to thank them for the work that went"
+    },
+    {
+      "index": 65,
+      "start": "00:26:06.780",
+      "end": "00:26:13.150",
+      "text": "into this and let them know that this is one that I will be saving on my desktop for referral back"
+    },
+    {
+      "index": 66,
+      "start": "00:26:13.150",
+      "end": "00:26:19.600",
+      "text": "to regularly as we start to. And particularly as we start to move into some of our deliberations"
+    },
+    {
+      "index": 67,
+      "start": "00:26:19.600",
+      "end": "00:26:23.890",
+      "text": "later this year around budget allocations and things like that, I think it's important to take"
+    },
+    {
+      "index": 68,
+      "start": "00:26:23.890",
+      "end": "00:26:31.110",
+      "text": "into account those different experiences. Any other comments? I see Mayor Holder, go ahead."
+    },
+    {
+      "index": 69,
+      "start": "00:26:31.110",
+      "end": "00:26:36.630",
+      "text": "Thanks very much. I think, Chair, I think it's important that we acknowledge the work of"
+    },
+    {
+      "index": 70,
+      "start": "00:26:37.180",
+      "end": "00:26:43.400",
+      "text": "on item 2.9, the Housing Stability for All Plan, and the work that Mr. Dickens and his team"
+    },
+    {
+      "index": 71,
+      "start": "00:26:43.400",
+      "end": "00:26:50.910",
+      "text": "have put together. Now, this is an update and interim update, but I'd like to just say again,"
+    },
+    {
+      "index": 72,
+      "start": "00:26:50.910",
+      "end": "00:26:58.520",
+      "text": "when this has all had to be done under the veil of COVID and what has to happen,"
+    },
+    {
+      "index": 73,
+      "start": "00:26:58.520",
+      "end": "00:27:06.190",
+      "text": "I mean, this is exceptionally thorough. And so beyond just a few pages, I think we all have a"
+    },
+    {
+      "index": 74,
+      "start": "00:27:06.190",
+      "end": "00:27:11.280",
+      "text": "sense of appreciation of the real work that goes into this to Mr. Dickens and his team. I just"
+    },
+    {
+      "index": 75,
+      "start": "00:27:11.280",
+      "end": "00:27:15.590",
+      "text": "want to say thanks. It's a good update. I know our intention and I think, frankly, just to receive"
+    },
+    {
+      "index": 76,
+      "start": "00:27:15.590",
+      "end": "00:27:20.440",
+      "text": "this report, I just don't think that quite does it enough justice to be able to say well done to them"
+    },
+    {
+      "index": 77,
+      "start": "00:27:20.440",
+      "end": "00:27:25.070",
+      "text": "in taking care of our most vulnerable. And I think that's so, so important, so bravo."
+    },
+    {
+      "index": 78,
+      "start": "00:27:25.070",
+      "end": "00:27:34.420",
+      "text": "Thank you very much. Any other comments? Okay, I don't see any. So Councillor Lewis and the Mayor"
+    },
+    {
+      "index": 79,
+      "start": "00:27:34.420",
+      "end": "00:27:39.800",
+      "text": "save me for making my comments. I just want to reinforce for the Housing Stability update."
+    },
+    {
+      "index": 80,
+      "start": "00:27:39.800",
+      "end": "00:27:44.800",
+      "text": "A lot of really good progress for a mid-year report. You know, we just had a report on housing"
+    },
+    {
+      "index": 81,
+      "start": "00:27:44.800",
+      "end": "00:27:52.370",
+      "text": "stability plan for 2020. And this is just the mid-year report for 2021. And I just draw everyone's"
+    },
+    {
+      "index": 82,
+      "start": "00:27:52.370",
+      "end": "00:27:57.950",
+      "text": "attention to some of the outcomes that are happening as a result of this plan. This is really good,"
+    },
+    {
+      "index": 83,
+      "start": "00:27:57.950",
+      "end": "00:28:02.330",
+      "text": "really good work. I know that this is an area where we still have to do more and do better. And"
+    },
+    {
+      "index": 84,
+      "start": "00:28:02.330",
+      "end": "00:28:08.100",
+      "text": "it's a really difficult area to be working in for many of the staff, especially with the pandemic"
+    },
+    {
+      "index": 85,
+      "start": "00:28:08.100",
+      "end": "00:28:11.950",
+      "text": "overtop of everything. It's actually been very difficult for everyone. And I wanted to commend"
+    },
+    {
+      "index": 86,
+      "start": "00:28:11.950",
+      "end": "00:28:18.310",
+      "text": "them for their work. I think this is really positive outcomes across a whole range of areas"
+    },
+    {
+      "index": 87,
+      "start": "00:28:18.310",
+      "end": "00:28:23.840",
+      "text": "in the Housing Stability Plan, especially considering it's just for part of the year. Okay, we're"
+    },
+    {
+      "index": 88,
+      "start": "00:28:23.840",
+      "end": "00:28:52.800",
+      "text": "going to open up the vote on everything except 2.4 on the screen. Closing the vote, the motion carries"
+    },
+    {
+      "index": 89,
+      "start": "00:28:52.800",
+      "end": "00:28:59.450",
+      "text": "five to zero. This is to 2.4. And first, I want to check with committee to see how you'd like to"
+    },
+    {
+      "index": 90,
+      "start": "00:28:59.450",
+      "end": "00:29:04.040",
+      "text": "handle the delegation requests. There are four of them there listed on the agenda. Would you like"
+    },
+    {
+      "index": 91,
+      "start": "00:29:04.040",
+      "end": "00:29:08.920",
+      "text": "to hear the delegations at this meeting? And if you would, would you like to do them now or after"
+    },
+    {
+      "index": 92,
+      "start": "00:29:08.920",
+      "end": "00:29:13.460",
+      "text": "we've heard a staff overview after we've had a bit of debate? When would you like to hear the"
+    },
+    {
+      "index": 93,
+      "start": "00:29:13.460",
+      "end": "00:29:26.380",
+      "text": "delegations? Sir Lewis? Thank you, Mr. Chair. I think that I'll move that we hear from the delegates."
+    },
+    {
+      "index": 94,
+      "start": "00:29:26.380",
+      "end": "00:29:33.380",
+      "text": "I don't know if I have a seconder for that now, but I'll move that with the proviso that I think a"
+    },
+    {
+      "index": 95,
+      "start": "00:29:33.380",
+      "end": "00:29:40.350",
+      "text": "brief staff overview before we go into the delegations would be helpful. And then we can have our"
+    },
+    {
+      "index": 96,
+      "start": "00:29:40.350",
+      "end": "00:29:47.050",
+      "text": "debate from there. Okay, is there a seconder for that? Yeah, Councillor Hillier. Okay, so I have"
+    },
+    {
+      "index": 97,
+      "start": "00:29:47.050",
+      "end": "00:29:55.860",
+      "text": "four delegations here. So S. Lawrence, D. Divine, J. Phoenix, and Chili's to be approved. So those"
+    },
+    {
+      "index": 98,
+      "start": "00:29:55.860",
+      "end": "00:30:00.200",
+      "text": "are the four people. This is not a public participation meeting. So it is just the four delegates. And"
+    },
+    {
+      "index": 99,
+      "start": "00:30:00.200",
+      "end": "00:30:06.350",
+      "text": "then each person will have up to five minutes. And once we get a brief overview from the staff,"
+    },
+    {
+      "index": 100,
+      "start": "00:30:06.350",
+      "end": "00:30:11.380",
+      "text": "I will hear from the delegates in that order. If they're all here and want to participate or"
+    },
+    {
+      "index": 101,
+      "start": "00:30:11.380",
+      "end": "00:30:17.100",
+      "text": "can participate online. Okay, so I'll open up the vote on approving delegation requests."
+    },
+    {
+      "index": 102,
+      "start": "00:30:17.100",
+      "end": "00:30:31.790",
+      "text": "Closing the vote, the motion carries five to zero. To staff for just a brief overview,"
+    },
+    {
+      "index": 103,
+      "start": "00:30:31.790",
+      "end": "00:30:38.580",
+      "text": "we have the report in front of us. I know that it covers many topics, especially the task force"
+    },
+    {
+      "index": 104,
+      "start": "00:30:38.580",
+      "end": "00:30:42.980",
+      "text": "cover, potentially a very wide range of topics. So I'm going to try and keep it focused as much"
+    },
+    {
+      "index": 105,
+      "start": "00:30:42.980",
+      "end": "00:30:48.190",
+      "text": "as I can. And I would say when we get to delegations, if somebody has already said some of the things"
+    },
+    {
+      "index": 106,
+      "start": "00:30:48.190",
+      "end": "00:30:52.580",
+      "text": "you want to say, there's no need to repeat them. Just an interest of time we'd like to keep it"
+    },
+    {
+      "index": 107,
+      "start": "00:30:52.580",
+      "end": "00:31:01.190",
+      "text": "as tight as we can. Mr. Kitalik, I think. Yes, thank you through the chair. The report before you is"
+    },
+    {
+      "index": 108,
+      "start": "00:31:01.190",
+      "end": "00:31:06.880",
+      "text": "in response to a council direction to prepare a draft turns a reference for a tenant landlord task"
+    },
+    {
+      "index": 109,
+      "start": "00:31:06.880",
+      "end": "00:31:14.600",
+      "text": "force. The goal of this task force is to engage relevant tenant and landlord agencies in an effort"
+    },
+    {
+      "index": 110,
+      "start": "00:31:14.600",
+      "end": "00:31:21.010",
+      "text": "to engage discussions to improve processes in an effort to improve living accommodations"
+    },
+    {
+      "index": 111,
+      "start": "00:31:21.010",
+      "end": "00:31:27.860",
+      "text": "in rental premises. The report also provides a summary of the complaints process, provides a"
+    },
+    {
+      "index": 112,
+      "start": "00:31:27.860",
+      "end": "00:31:35.710",
+      "text": "summary of complaints between 2015 and 2020. Within that time period, municipal law enforcement"
+    },
+    {
+      "index": 113,
+      "start": "00:31:35.710",
+      "end": "00:31:44.870",
+      "text": "officers responded to approximately 45,000 complaints. And of those complaints, 7% pertains to"
+    },
+    {
+      "index": 114,
+      "start": "00:31:44.870",
+      "end": "00:31:52.470",
+      "text": "apartments and apartment units, 3% pertained to townhouses. The majority of complaints that we"
+    },
+    {
+      "index": 115,
+      "start": "00:31:52.470",
+      "end": "00:32:00.820",
+      "text": "receive historically are focused on single detached dwellings, both owner occupied and rental. The"
+    },
+    {
+      "index": 116,
+      "start": "00:32:00.820",
+      "end": "00:32:07.800",
+      "text": "current properties related complaints process plus the multi-agency referral protocol, where we get"
+    },
+    {
+      "index": 117,
+      "start": "00:32:07.800",
+      "end": "00:32:16.070",
+      "text": "referrals from our partner agencies, be that the London police, fire prevention, health unit,"
+    },
+    {
+      "index": 118,
+      "start": "00:32:16.070",
+      "end": "00:32:23.050",
+      "text": "and other partner agencies applies to all rental properties. Civic administration looks forward"
+    },
+    {
+      "index": 119,
+      "start": "00:32:23.050",
+      "end": "00:32:33.150",
+      "text": "to engaging in discussions with relevant tenant and landlord agencies to improve the processes of"
+    },
+    {
+      "index": 120,
+      "start": "00:32:33.150",
+      "end": "00:32:40.310",
+      "text": "complaint referrals. Nicole Musico is at the meeting tonight also. Should there be any future"
+    },
+    {
+      "index": 121,
+      "start": "00:32:40.310",
+      "end": "00:32:45.870",
+      "text": "specific questions? Thank you. Okay. Thanks, Mr. Catolic. I'm just going to see if there are any"
+    },
+    {
+      "index": 122,
+      "start": "00:32:45.870",
+      "end": "00:32:50.090",
+      "text": "questions from committee members just before we hear from delegations. We can definitely get"
+    },
+    {
+      "index": 123,
+      "start": "00:32:50.090",
+      "end": "00:32:53.080",
+      "text": "into questions afterwards. So there's no need to do it now. But if there's something you really"
+    },
+    {
+      "index": 124,
+      "start": "00:32:53.080",
+      "end": "00:33:00.630",
+      "text": "want to clarify off the top, it might be helpful for everyone. Okay. So let's go to S Lawrence first"
+    },
+    {
+      "index": 125,
+      "start": "00:33:00.630",
+      "end": "00:33:12.790",
+      "text": "if you're here to speak. Well, thank you for having me. My name is Samantha Lawrence. I've dealt with"
+    },
+    {
+      "index": 126,
+      "start": "00:33:12.790",
+      "end": "00:33:20.350",
+      "text": "both sides of the single family dwellings as well as the tall buildings that are not really covered"
+    },
+    {
+      "index": 127,
+      "start": "00:33:20.350",
+      "end": "00:33:29.670",
+      "text": "due to a lack of landlord licensing. There's bigger results than just on the tenants ourselves."
+    },
+    {
+      "index": 128,
+      "start": "00:33:29.670",
+      "end": "00:33:37.180",
+      "text": "These by-law infractions that these landlords are getting away with also are affecting our climate"
+    },
+    {
+      "index": 129,
+      "start": "00:33:37.180",
+      "end": "00:33:44.210",
+      "text": "change. You know, it has a huge trickle down effect. It would be so helpful if we could license the"
+    },
+    {
+      "index": 130,
+      "start": "00:33:44.210",
+      "end": "00:33:50.300",
+      "text": "buildings, not individual units, but the buildings themselves. I'm currently dealing with a single"
+    },
+    {
+      "index": 131,
+      "start": "00:33:50.300",
+      "end": "00:34:01.090",
+      "text": "family home zoning, just an absolute mess with my current landlord. And it's, you know, the by-laws"
+    },
+    {
+      "index": 132,
+      "start": "00:34:01.090",
+      "end": "00:34:10.690",
+      "text": "are great, but they really need to be enforced. $450 fines and stuff like that for, especially when"
+    },
+    {
+      "index": 133,
+      "start": "00:34:10.690",
+      "end": "00:34:19.020",
+      "text": "it comes to reoccurring or non-compliant landlords that aren't even licensed. You know, I think"
+    },
+    {
+      "index": 134,
+      "start": "00:34:19.020",
+      "end": "00:34:26.230",
+      "text": "there's a lot that can be done if we all work together. Thank you for your time. Thanks very"
+    },
+    {
+      "index": 135,
+      "start": "00:34:26.230",
+      "end": "00:34:34.310",
+      "text": "much. Thanks for being here. I'm going to go to the divine who I think joined online. Go ahead."
+    },
+    {
+      "index": 136,
+      "start": "00:34:34.310",
+      "end": "00:34:42.330",
+      "text": "Hi, how are you? Thank you for letting me join and speak here today. Like Samantha, I'm a member"
+    },
+    {
+      "index": 137,
+      "start": "00:34:42.330",
+      "end": "00:34:51.200",
+      "text": "of Acorn, and I've been dealing with a negligent absentee landlord who lives in Toronto and basically"
+    },
+    {
+      "index": 138,
+      "start": "00:34:51.200",
+      "end": "00:34:59.280",
+      "text": "uses that as an excuse why he does nothing as far as maintenance here goes. When I moved into the"
+    },
+    {
+      "index": 139,
+      "start": "00:34:59.280",
+      "end": "00:35:04.840",
+      "text": "place, I was promised certain things would be done. You know, things like rotting windows being"
+    },
+    {
+      "index": 140,
+      "start": "00:35:04.840",
+      "end": "00:35:11.550",
+      "text": "replaced and rotting door frames, etc. And I've been here going on five years and none of it has"
+    },
+    {
+      "index": 141,
+      "start": "00:35:11.550",
+      "end": "00:35:20.140",
+      "text": "been done. And when he does do things, it's begrudgingly. It's with a lot of, you know, pushing pull on my"
+    },
+    {
+      "index": 142,
+      "start": "00:35:20.140",
+      "end": "00:35:25.890",
+      "text": "part. And when I went to the city, they gave him, I don't know what they did, actually, other than"
+    },
+    {
+      "index": 143,
+      "start": "00:35:25.890",
+      "end": "00:35:32.290",
+      "text": "told him to make a few minor repairs because they only looked from outside, not inside. And he's done"
+    },
+    {
+      "index": 144,
+      "start": "00:35:32.290",
+      "end": "00:35:37.470",
+      "text": "nothing. Nothing has changed. And he just kind of laughs at the city because he knows that it's"
+    },
+    {
+      "index": 145,
+      "start": "00:35:37.470",
+      "end": "00:35:44.060",
+      "text": "not going to be enforced in any major way. And now it's so bad that there's such a real infestation"
+    },
+    {
+      "index": 146,
+      "start": "00:35:44.060",
+      "end": "00:35:49.080",
+      "text": "that I don't think any form of pest control would be able to take care of it anymore. The building"
+    },
+    {
+      "index": 147,
+      "start": "00:35:49.080",
+      "end": "00:35:56.140",
+      "text": "is basically condemnable. And nothing gets done by the city bylaw. And it's not just buildings"
+    },
+    {
+      "index": 148,
+      "start": "00:35:56.140",
+      "end": "00:36:01.720",
+      "text": "like mine, which is a residential that's been converted. But I've got family and friends that"
+    },
+    {
+      "index": 149,
+      "start": "00:36:01.720",
+      "end": "00:36:07.280",
+      "text": "live in the high rises that are not as severe as a situation like mine, but it's still dealing with"
+    },
+    {
+      "index": 150,
+      "start": "00:36:07.280",
+      "end": "00:36:14.830",
+      "text": "things like bed bugs and cockroaches and un-maintained apartments like as far as, you know, repairs and"
+    },
+    {
+      "index": 151,
+      "start": "00:36:14.830",
+      "end": "00:36:22.070",
+      "text": "upkeep go. So yeah, it's a landlord licensing is very much needed across the board. And as my"
+    },
+    {
+      "index": 152,
+      "start": "00:36:22.070",
+      "end": "00:36:30.400",
+      "text": "co-members said, eight, Samantha, we're not expecting individual units to be licensed individually,"
+    },
+    {
+      "index": 153,
+      "start": "00:36:30.400",
+      "end": "00:36:37.850",
+      "text": "just an entire building so that once a year, the city bylaw office has the right to come in and"
+    },
+    {
+      "index": 154,
+      "start": "00:36:37.850",
+      "end": "00:36:44.230",
+      "text": "inspect the building as a whole. And if they find infractions such as bugs or something in the main"
+    },
+    {
+      "index": 155,
+      "start": "00:36:44.230",
+      "end": "00:36:51.230",
+      "text": "building, then they can, you know, if they feel inspect further into individual units. If buildings"
+    },
+    {
+      "index": 156,
+      "start": "00:36:51.230",
+      "end": "00:36:57.830",
+      "text": "aren't inspected annually, going from high rise to buildings like what I live in, we're getting far"
+    },
+    {
+      "index": 157,
+      "start": "00:36:57.830",
+      "end": "00:37:04.310",
+      "text": "too many landlords for lack of a better word going from private owners to corporate owners because"
+    },
+    {
+      "index": 158,
+      "start": "00:37:04.310",
+      "end": "00:37:09.140",
+      "text": "most of them are just in it for the money. They really are not concerned at all with how their"
+    },
+    {
+      "index": 159,
+      "start": "00:37:09.140",
+      "end": "00:37:15.020",
+      "text": "tenants are living. So you have people like me with health issues living in unhealthy conditions"
+    },
+    {
+      "index": 160,
+      "start": "00:37:15.020",
+      "end": "00:37:20.830",
+      "text": "that we can't get out of because we can't afford to move like to pay the rent where we are and"
+    },
+    {
+      "index": 161,
+      "start": "00:37:20.830",
+      "end": "00:37:30.370",
+      "text": "save to move for somewhere else. Thanks very much. You kept it to two minutes, 45 seconds. You've"
+    },
+    {
+      "index": 162,
+      "start": "00:37:30.370",
+      "end": "00:37:36.920",
+      "text": "got a bit more time or are you done? No, that's everything. Thank you. Thanks very much. Okay. We're"
+    },
+    {
+      "index": 163,
+      "start": "00:37:36.920",
+      "end": "00:37:49.240",
+      "text": "going to move to Jay Phoenix. I'd like to thank the members of the committee for my opportunity to"
+    },
+    {
+      "index": 164,
+      "start": "00:37:49.240",
+      "end": "00:37:56.810",
+      "text": "speak again on this issue as a delegate. I'm representing London Acorn in a leadership capacity"
+    },
+    {
+      "index": 165,
+      "start": "00:37:56.810",
+      "end": "00:38:03.290",
+      "text": "this evening. We reached out when we read the staff recommendation, we reached out to members,"
+    },
+    {
+      "index": 166,
+      "start": "00:38:03.290",
+      "end": "00:38:09.380",
+      "text": "all members of CAHPS committee, and we were able to have very successful conversations"
+    },
+    {
+      "index": 167,
+      "start": "00:38:09.380",
+      "end": "00:38:14.670",
+      "text": "with some of the counselors. During those conversations, I think it's fair to say that we"
+    },
+    {
+      "index": 168,
+      "start": "00:38:14.670",
+      "end": "00:38:22.970",
+      "text": "concurred on a lot of things. The staff recommendation itself has some inconsistencies in it. First off,"
+    },
+    {
+      "index": 169,
+      "start": "00:38:22.970",
+      "end": "00:38:30.690",
+      "text": "London Acorn has never asked for an inspection of every single rental unit in the city of London."
+    },
+    {
+      "index": 170,
+      "start": "00:38:32.040",
+      "end": "00:38:39.070",
+      "text": "We know that would be physically impossible to do on any kind of a budget. So I'm not too sure"
+    },
+    {
+      "index": 171,
+      "start": "00:38:39.070",
+      "end": "00:38:42.860",
+      "text": "where that came from. So that's not what we're looking for. We're looking for accountability"
+    },
+    {
+      "index": 172,
+      "start": "00:38:42.860",
+      "end": "00:38:50.250",
+      "text": "for the landlords. For all landlords, whether you have a single family dwelling that you're renting"
+    },
+    {
+      "index": 173,
+      "start": "00:38:50.250",
+      "end": "00:38:56.020",
+      "text": "out to a single monitor kids, or whether you're a multi-billion dollar corporation who has high"
+    },
+    {
+      "index": 174,
+      "start": "00:38:56.020",
+      "end": "00:39:02.940",
+      "text": "rise and more developments on the way, we want accountability. As you guys know, we as tenants"
+    },
+    {
+      "index": 175,
+      "start": "00:39:02.940",
+      "end": "00:39:10.100",
+      "text": "are accountable every single day. Those landlords are after us for any type of infraction that the"
+    },
+    {
+      "index": 176,
+      "start": "00:39:10.100",
+      "end": "00:39:17.680",
+      "text": "tribunal is full of complaints from landlords to tenants. So we want landlords to share their"
+    },
+    {
+      "index": 177,
+      "start": "00:39:17.680",
+      "end": "00:39:27.660",
+      "text": "part of accountability too. The one thing that London Acorn members were dismayed about is linking"
+    },
+    {
+      "index": 178,
+      "start": "00:39:28.550",
+      "end": "00:39:38.520",
+      "text": "solutions to being not relevant fiscally. That's quite insulting to us. You guys just talked about"
+    },
+    {
+      "index": 179,
+      "start": "00:39:38.520",
+      "end": "00:39:43.310",
+      "text": "housing stability and all the good work you've done in this. This kind of a program would be"
+    },
+    {
+      "index": 180,
+      "start": "00:39:43.310",
+      "end": "00:39:48.310",
+      "text": "the second step to that because you can't house people that are vulnerable and then forget them."
+    },
+    {
+      "index": 181,
+      "start": "00:39:48.310",
+      "end": "00:39:54.310",
+      "text": "We've housed you, but we're not too concerned about the conditions you're going to be living in."
+    },
+    {
+      "index": 182,
+      "start": "00:39:54.310",
+      "end": "00:39:59.470",
+      "text": "So what we're proposing is something very similar to Toronto Rec Safe. I know that there's many"
+    },
+    {
+      "index": 183,
+      "start": "00:39:59.470",
+      "end": "00:40:05.970",
+      "text": "counselors that have reviewed it, and there's some good stuff in there, right? I'm not sure"
+    },
+    {
+      "index": 184,
+      "start": "00:40:05.970",
+      "end": "00:40:11.890",
+      "text": "the staff recommendation includes any that's in Toronto Rec Safe. I'm not even sure if they included"
+    },
+    {
+      "index": 185,
+      "start": "00:40:11.890",
+      "end": "00:40:18.620",
+      "text": "that in looking at that in the research in preparation for the report. So what an urgent caps committee"
+    },
+    {
+      "index": 186,
+      "start": "00:40:18.620",
+      "end": "00:40:27.020",
+      "text": "to do is to embrace what we have in common, what we've concurred on. We know there's a problem. We"
+    },
+    {
+      "index": 187,
+      "start": "00:40:27.020",
+      "end": "00:40:33.000",
+      "text": "know that all complaints right now are tenant driven. If the tenant doesn't call with a complaint,"
+    },
+    {
+      "index": 188,
+      "start": "00:40:33.000",
+      "end": "00:40:38.150",
+      "text": "nobody's going to show up. And then sometimes they still don't show up. That's been my personal"
+    },
+    {
+      "index": 189,
+      "start": "00:40:38.150",
+      "end": "00:40:46.300",
+      "text": "experience. The awareness of the process and that these property standards bylaws even exist"
+    },
+    {
+      "index": 190,
+      "start": "00:40:46.300",
+      "end": "00:40:52.740",
+      "text": "will account for your very low numbers of complaints by tenants. So we're looking for somewhere where"
+    },
+    {
+      "index": 191,
+      "start": "00:40:52.740",
+      "end": "00:40:59.930",
+      "text": "we can start. Build a foundation. Let's do something instead of nothing. We all know what's needed."
+    },
+    {
+      "index": 192,
+      "start": "00:40:59.930",
+      "end": "00:41:08.030",
+      "text": "We all can look around our city and see these slumlords. They're accountable for it. They're"
+    },
+    {
+      "index": 193,
+      "start": "00:41:08.030",
+      "end": "00:41:14.620",
+      "text": "accountable. Not the tenants. They're accountable. So let's build a foundation. Let's have a pilot"
+    },
+    {
+      "index": 194,
+      "start": "00:41:14.620",
+      "end": "00:41:19.980",
+      "text": "project where we can agree to take the best out of Toronto Rec Safe. Apply it to us in the city of"
+    },
+    {
+      "index": 195,
+      "start": "00:41:19.980",
+      "end": "00:41:26.420",
+      "text": "London. Do a pilot for you. And that reassessed what was good? What was bad? What do we need to do"
+    },
+    {
+      "index": 196,
+      "start": "00:41:26.420",
+      "end": "00:41:34.840",
+      "text": "better? What do we not need to do at all? So please, Captain, I urge you to refer this back to staff"
+    },
+    {
+      "index": 197,
+      "start": "00:41:34.840",
+      "end": "00:41:44.660",
+      "text": "with a narrow scope of what we're actually trying to get. Thank you. Thank you, Miss Phoenix. I'm going"
+    },
+    {
+      "index": 198,
+      "start": "00:41:44.660",
+      "end": "00:41:52.570",
+      "text": "to go to N. Chili's. I'm not sure if you're in. Yep, there you are. Come on up. Hello there. My name"
+    },
+    {
+      "index": 199,
+      "start": "00:41:52.570",
+      "end": "00:42:00.650",
+      "text": "is Nautam Childs. I am a co-chair for London Acorn. I largely agree with everything Miss Phoenix has"
+    },
+    {
+      "index": 200,
+      "start": "00:42:00.650",
+      "end": "00:42:09.440",
+      "text": "just said, so I won't bother reiterating on that. What I will talk about is this proposal for this"
+    },
+    {
+      "index": 201,
+      "start": "00:42:09.440",
+      "end": "00:42:16.640",
+      "text": "tenant landlord task force, which seems to imply that our issue is simply one of communication,"
+    },
+    {
+      "index": 202,
+      "start": "00:42:16.640",
+      "end": "00:42:24.320",
+      "text": "when that is not the case. These landlords know quite well what tenants are asking. And in fact,"
+    },
+    {
+      "index": 203,
+      "start": "00:42:24.320",
+      "end": "00:42:31.670",
+      "text": "the issue is that they are in a position of power over the tenants, in that they control their access"
+    },
+    {
+      "index": 204,
+      "start": "00:42:31.670",
+      "end": "00:42:39.730",
+      "text": "to housing, and that they have directly contrary interests to the tenants. That is, do not maintain"
+    },
+    {
+      "index": 205,
+      "start": "00:42:39.730",
+      "end": "00:42:44.690",
+      "text": "the property to get the best return on investment, whereas the tenant, of course, has an interest"
+    },
+    {
+      "index": 206,
+      "start": "00:42:44.690",
+      "end": "00:42:51.050",
+      "text": "in a healthy home. So I absolutely agree with Miss Phoenix that we should be doing something"
+    },
+    {
+      "index": 207,
+      "start": "00:42:51.050",
+      "end": "00:42:57.450",
+      "text": "rather than nothing. And I would urge everybody here to consider at least outlining a baseline."
+    },
+    {
+      "index": 208,
+      "start": "00:42:57.450",
+      "end": "00:43:04.000",
+      "text": "This tenant landlord task force distracts from the real root of the problem. And while we sure are"
+    },
+    {
+      "index": 209,
+      "start": "00:43:04.000",
+      "end": "00:43:12.520",
+      "text": "doing something, if we do that, it's not going to be something helpful. Thank you. Thanks very"
+    },
+    {
+      "index": 210,
+      "start": "00:43:12.520",
+      "end": "00:43:17.590",
+      "text": "much. That brings us to the end of the delegations. I wonder if we could have a motion just to receive"
+    },
+    {
+      "index": 211,
+      "start": "00:43:17.590",
+      "end": "00:43:21.630",
+      "text": "the delegations. We'll get into any other motions that are on the pass of the committee."
+    },
+    {
+      "index": 212,
+      "start": "00:43:21.630",
+      "end": "00:43:26.970",
+      "text": "Councillor Lewis, seconder for receiving the delegations. Mayor Holder, okay."
+    },
+    {
+      "index": 213,
+      "start": "00:43:26.970",
+      "end": "00:43:36.020",
+      "text": "Mr. Chair, I think just in the interest of efficiency, if we could also receive the two added"
+    },
+    {
+      "index": 214,
+      "start": "00:43:36.020",
+      "end": "00:43:42.030",
+      "text": "communications that we're seeing as well. Yeah, let's get that up on the screen. And then I'm"
+    },
+    {
+      "index": 215,
+      "start": "00:43:42.030",
+      "end": "00:43:46.280",
+      "text": "going to start a speaker's list so we can talk about the substantive issues that are in the"
+    },
+    {
+      "index": 216,
+      "start": "00:43:46.280",
+      "end": "00:43:54.980",
+      "text": "recommendation from staff. So if you want to get on the speaker's list, just let me know. I see"
+    },
+    {
+      "index": 217,
+      "start": "00:43:54.980",
+      "end": "00:44:00.870",
+      "text": "once we get this vote done. So the motion to receive the delegations and the communications"
+    },
+    {
+      "index": 218,
+      "start": "00:44:00.870",
+      "end": "00:44:24.140",
+      "text": "is up. We can pass any other motions that we want after that. Voting is open, so make sure you vote"
+    },
+    {
+      "index": 219,
+      "start": "00:44:24.140",
+      "end": "00:44:39.870",
+      "text": "and he's scribed. Or if you're not logged in to he's scribed, let me know. Closing the vote,"
+    },
+    {
+      "index": 220,
+      "start": "00:44:39.870",
+      "end": "00:44:46.780",
+      "text": "the motion carries five to zero. To committee members for discussion. I will say, you know,"
+    },
+    {
+      "index": 221,
+      "start": "00:44:46.780",
+      "end": "00:44:50.320",
+      "text": "I don't know where we're going to land as a committee, but I have drafted up some language"
+    },
+    {
+      "index": 222,
+      "start": "00:44:50.320",
+      "end": "00:44:55.930",
+      "text": "about asking some administration to report back on something similar to rent safe in Toronto."
+    },
+    {
+      "index": 223,
+      "start": "00:44:55.930",
+      "end": "00:44:59.790",
+      "text": "And I'm not sure if we want to do that, but that's at least with the way I'm headed."
+    },
+    {
+      "index": 224,
+      "start": "00:44:59.790",
+      "end": "00:45:03.220",
+      "text": "And if we don't get a motion on the floor, I might bring that up and get out of the chair to do that."
+    },
+    {
+      "index": 225,
+      "start": "00:45:03.220",
+      "end": "00:45:11.280",
+      "text": "So, Councillor Lewis. Thank you, Mr. Chair. First, I want to thank the delegates for taking their"
+    },
+    {
+      "index": 226,
+      "start": "00:45:11.280",
+      "end": "00:45:16.670",
+      "text": "time. And I do want to thank Ms. Phoenix and the other members of Acorn who gave some time to meet"
+    },
+    {
+      "index": 227,
+      "start": "00:45:16.670",
+      "end": "00:45:22.510",
+      "text": "with me directly, and I agree we did have a productive discussion. And we all want to work"
+    },
+    {
+      "index": 228,
+      "start": "00:45:22.510",
+      "end": "00:45:30.180",
+      "text": "towards better housing for all in this city. And really, the discussion is about how we get there."
+    },
+    {
+      "index": 229,
+      "start": "00:45:30.180",
+      "end": "00:45:34.690",
+      "text": "I don't think there's any disagreement that there are opportunities for some improvement"
+    },
+    {
+      "index": 230,
+      "start": "00:45:34.690",
+      "end": "00:45:42.930",
+      "text": "to be made. I do think it's really important, though, to be clear that municipal council resolved"
+    },
+    {
+      "index": 231,
+      "start": "00:45:42.930",
+      "end": "00:45:50.060",
+      "text": "based on the letter that came through this committee, that it was very specific, that all new and"
+    },
+    {
+      "index": 232,
+      "start": "00:45:50.060",
+      "end": "00:45:58.240",
+      "text": "existing rental units be licensed regardless of unit type, and that inspections were to be taken"
+    },
+    {
+      "index": 233,
+      "start": "00:45:58.240",
+      "end": "00:46:07.860",
+      "text": "under insure compliance. So, this was very much the direction that staff was given. So, I don't"
+    },
+    {
+      "index": 234,
+      "start": "00:46:07.860",
+      "end": "00:46:13.030",
+      "text": "think that we can, in fairness, say staff didn't do what we asked them to do. I think they did"
+    },
+    {
+      "index": 235,
+      "start": "00:46:13.030",
+      "end": "00:46:19.450",
+      "text": "exactly what we asked them to do, which was to report back on the existing by-law, and whether"
+    },
+    {
+      "index": 236,
+      "start": "00:46:19.450",
+      "end": "00:46:26.610",
+      "text": "it was something that they would recommend expanding. So, I just want to make that very clear from"
+    },
+    {
+      "index": 237,
+      "start": "00:46:26.610",
+      "end": "00:46:31.280",
+      "text": "the beginning that this is what council, based on the communications that were received, directed"
+    },
+    {
+      "index": 238,
+      "start": "00:46:31.280",
+      "end": "00:46:37.540",
+      "text": "our staff to do. I do, through you, Mr. Chair, want to ask Mr. Catolek a question about some of the"
+    },
+    {
+      "index": 239,
+      "start": "00:46:37.540",
+      "end": "00:46:45.640",
+      "text": "statistics that were in the report around complaints and enforcement efforts, and specifically,"
+    },
+    {
+      "index": 240,
+      "start": "00:46:45.640",
+      "end": "00:46:52.220",
+      "text": "I'm wondering if Mr. Catolek can give us a sense, and I'm sorry, I didn't ask him for this in advance,"
+    },
+    {
+      "index": 241,
+      "start": "00:46:52.220",
+      "end": "00:46:59.730",
+      "text": "but how many of the complaints, knowing that there were a large number, could he ballpark"
+    },
+    {
+      "index": 242,
+      "start": "00:46:59.730",
+      "end": "00:47:06.950",
+      "text": "how many of those complaints might be, what could be categorized as repeat offenders? In other words,"
+    },
+    {
+      "index": 243,
+      "start": "00:47:06.950",
+      "end": "00:47:14.470",
+      "text": "multiple complaints coming over the course of time for the same property. Mr. Catolek, you happen"
+    },
+    {
+      "index": 244,
+      "start": "00:47:14.470",
+      "end": "00:47:21.000",
+      "text": "to have that available? Through the Chair, no, not for this meeting, that would involve a bit of"
+    },
+    {
+      "index": 245,
+      "start": "00:47:21.000",
+      "end": "00:47:29.310",
+      "text": "data mining, but it could be available for a future meeting. Thank you, that's fair, and I"
+    },
+    {
+      "index": 246,
+      "start": "00:47:29.310",
+      "end": "00:47:33.500",
+      "text": "apologize for not getting that request to you soon or Mr. Catolek, so you could take a look,"
+    },
+    {
+      "index": 247,
+      "start": "00:47:33.500",
+      "end": "00:47:40.490",
+      "text": "but I do understand it would take some time to review that. I am very cognizant of the fact that"
+    },
+    {
+      "index": 248,
+      "start": "00:47:41.730",
+      "end": "00:47:47.130",
+      "text": "in my award, certainly the majority of the complaints that I hear are around those"
+    },
+    {
+      "index": 249,
+      "start": "00:47:47.130",
+      "end": "00:47:52.770",
+      "text": "converted units, those single family dwelling units that have been converted into rental units"
+    },
+    {
+      "index": 250,
+      "start": "00:47:52.770",
+      "end": "00:47:59.580",
+      "text": "over time. And through you, Mr. Chair, I just want to be clear with our staff, right now our,"
+    },
+    {
+      "index": 251,
+      "start": "00:47:59.580",
+      "end": "00:48:05.120",
+      "text": "and for the public's benefit, right now our current process for licensing, there is only a"
+    },
+    {
+      "index": 252,
+      "start": "00:48:05.120",
+      "end": "00:48:09.960",
+      "text": "preliminary inspection, correct? And then after that, there's just an annual renewal where we,"
+    },
+    {
+      "index": 253,
+      "start": "00:48:09.960",
+      "end": "00:48:18.760",
+      "text": "we do not do an in-house inspection currently. Through the Chair, that is correct. Thank you,"
+    },
+    {
+      "index": 254,
+      "start": "00:48:18.760",
+      "end": "00:48:25.040",
+      "text": "and I know that, and again, I'm asking this more for the sake of the public, as I know it has"
+    },
+    {
+      "index": 255,
+      "start": "00:48:25.040",
+      "end": "00:48:30.270",
+      "text": "resumed, but we did have a pause on internal inspections during the preliminary months of the"
+    },
+    {
+      "index": 256,
+      "start": "00:48:30.270",
+      "end": "00:48:37.830",
+      "text": "pandemic, but that has recently resumed correct through you, Mr. Chair. That is correct. Thank you,"
+    },
+    {
+      "index": 257,
+      "start": "00:48:37.830",
+      "end": "00:48:45.440",
+      "text": "so I appreciate that. I will share with committee members that I support the part of the"
+    },
+    {
+      "index": 258,
+      "start": "00:48:45.440",
+      "end": "00:48:51.600",
+      "text": "staff recommendation that is not recommending expanding it to new categories of rental units"
+    },
+    {
+      "index": 259,
+      "start": "00:48:51.600",
+      "end": "00:49:00.610",
+      "text": "right now. Where I'm not confident we are necessarily in agreement with the staff recommendation for"
+    },
+    {
+      "index": 260,
+      "start": "00:49:00.610",
+      "end": "00:49:12.660",
+      "text": "myself is that the current licensing regime is working well and that the complaint process is"
+    },
+    {
+      "index": 261,
+      "start": "00:49:12.660",
+      "end": "00:49:18.930",
+      "text": "adequate. I feel like there may be some of these conversion units that are allowed to sort of"
+    },
+    {
+      "index": 262,
+      "start": "00:49:18.930",
+      "end": "00:49:25.730",
+      "text": "deteriorate through neglect once that preliminary inspection has been made, so I'm not confident"
+    },
+    {
+      "index": 263,
+      "start": "00:49:25.730",
+      "end": "00:49:33.800",
+      "text": "that we don't have to do anything else with converted units, that we may need to look at a"
+    },
+    {
+      "index": 264,
+      "start": "00:49:33.800",
+      "end": "00:49:38.380",
+      "text": "little more proactive follow-up when those licenses come up for renewal, and I'm not sure whether that"
+    },
+    {
+      "index": 265,
+      "start": "00:49:38.380",
+      "end": "00:49:43.580",
+      "text": "would be annually or biannually or what step we might take there. I've been giving this a lot of"
+    },
+    {
+      "index": 266,
+      "start": "00:49:43.580",
+      "end": "00:49:50.050",
+      "text": "thought after my meeting with the eight horn members, and so I just want to share right now"
+    },
+    {
+      "index": 267,
+      "start": "00:49:50.050",
+      "end": "00:49:57.860",
+      "text": "my my thought process to committee members is that we support the staff direction"
+    },
+    {
+      "index": 268,
+      "start": "00:49:57.860",
+      "end": "00:50:05.610",
+      "text": "to not expand the licensing and inspections at this point, but I'm open to further discussion"
+    },
+    {
+      "index": 269,
+      "start": "00:50:05.610",
+      "end": "00:50:13.370",
+      "text": "around what other steps we might need to take, so I'll certainly look to hear what our committee"
+    },
+    {
+      "index": 270,
+      "start": "00:50:13.370",
+      "end": "00:50:20.890",
+      "text": "chair may wish to bring forward as well, but for me it's the licensing and the annual inspections"
+    },
+    {
+      "index": 271,
+      "start": "00:50:20.890",
+      "end": "00:50:26.000",
+      "text": "and the numbers that are put out here, I support what the staff are saying, but I don't think"
+    },
+    {
+      "index": 272,
+      "start": "00:50:26.000",
+      "end": "00:50:33.430",
+      "text": "that our current licensing regime is also addressing some of the very serious concerns that are out"
+    },
+    {
+      "index": 273,
+      "start": "00:50:33.430",
+      "end": "00:50:39.260",
+      "text": "there, and how we tackle those, I'm not quite sure, but I'm going to look to hear what other"
+    },
+    {
+      "index": 274,
+      "start": "00:50:39.260",
+      "end": "00:50:45.570",
+      "text": "members of the committee have to say. Let's see what other committee members have to say,"
+    },
+    {
+      "index": 275,
+      "start": "00:50:45.570",
+      "end": "00:50:49.490",
+      "text": "anyone else want to weigh in on this issue, I don't see anyone else on the speaker's list,"
+    },
+    {
+      "index": 276,
+      "start": "00:50:49.490",
+      "end": "00:50:56.230",
+      "text": "certainly guests of the committee are also welcome. No, okay, well I was going to turn the chair"
+    },
+    {
+      "index": 277,
+      "start": "00:50:56.230",
+      "end": "00:51:00.890",
+      "text": "over to Councillor Lewis, if it's just him and I talking, it's going to be awkward,"
+    },
+    {
+      "index": 278,
+      "start": "00:51:00.890",
+      "end": "00:51:06.090",
+      "text": "Councillor Hillier, could you chair for where you are? Not a problem, I have the chair and I"
+    },
+    {
+      "index": 279,
+      "start": "00:51:06.090",
+      "end": "00:51:15.520",
+      "text": "recognize Councillor Hummer. Thanks very much, Vice Chair, so I understand what the staff are"
+    },
+    {
+      "index": 280,
+      "start": "00:51:15.520",
+      "end": "00:51:20.640",
+      "text": "saying, I want to say on the landlord tenant task force, I think that the terms of reference"
+    },
+    {
+      "index": 281,
+      "start": "00:51:20.640",
+      "end": "00:51:24.720",
+      "text": "is an okay place to start. I remain a little bit skeptical about whether we're going to get"
+    },
+    {
+      "index": 282,
+      "start": "00:51:24.720",
+      "end": "00:51:30.070",
+      "text": "great outcomes out of the task force, but I think it's worth a shot. Sometimes we've got to try new"
+    },
+    {
+      "index": 283,
+      "start": "00:51:30.070",
+      "end": "00:51:35.210",
+      "text": "things and see if we can make some improvements and getting people together to talk about these"
+    },
+    {
+      "index": 284,
+      "start": "00:51:35.210",
+      "end": "00:51:40.380",
+      "text": "issues, I think there's some potential upside there. My own preference is that we don't have it"
+    },
+    {
+      "index": 285,
+      "start": "00:51:40.380",
+      "end": "00:51:45.720",
+      "text": "go on for a really long time, I think we should have some kind of outcome we're aiming for that's"
+    },
+    {
+      "index": 286,
+      "start": "00:51:45.720",
+      "end": "00:51:51.510",
+      "text": "relatively soon in terms of when we're here back, in terms of changes that might come up, but I think"
+    },
+    {
+      "index": 287,
+      "start": "00:51:51.510",
+      "end": "00:51:55.780",
+      "text": "until we start meeting we're not going to know how useful it's going to be, and I think we're"
+    },
+    {
+      "index": 288,
+      "start": "00:51:55.780",
+      "end": "00:52:00.010",
+      "text": "going to have to keep a close eye on it to see if it's sort of meeting the objectives that I think"
+    },
+    {
+      "index": 289,
+      "start": "00:52:00.010",
+      "end": "00:52:03.890",
+      "text": "people have in mind. So I support the terms of reference, I want to be clear about that, the"
+    },
+    {
+      "index": 290,
+      "start": "00:52:03.890",
+      "end": "00:52:09.900",
+      "text": "recommendation is to receive those terms of reference and I support that, but I don't support is not"
+    },
+    {
+      "index": 291,
+      "start": "00:52:09.900",
+      "end": "00:52:16.130",
+      "text": "doing anything about these many, many thousands of units that are not rental license, and certainly"
+    },
+    {
+      "index": 292,
+      "start": "00:52:16.130",
+      "end": "00:52:22.090",
+      "text": "as a Councillor who represents an area where we have a lot of very tall apartment buildings in"
+    },
+    {
+      "index": 293,
+      "start": "00:52:22.090",
+      "end": "00:52:28.100",
+      "text": "Ward 4, thousands of people live in those buildings, and as you would imagine there's lots of issues"
+    },
+    {
+      "index": 294,
+      "start": "00:52:28.100",
+      "end": "00:52:33.360",
+      "text": "in buildings and they tend to be concentrated in particular buildings, so it's not as though"
+    },
+    {
+      "index": 295,
+      "start": "00:52:33.360",
+      "end": "00:52:38.630",
+      "text": "every building has the same kind of problem, and I would say generally it follows the ownership"
+    },
+    {
+      "index": 296,
+      "start": "00:52:38.630",
+      "end": "00:52:42.660",
+      "text": "of the buildings. Some landlords are very good, they really invest in their properties and they"
+    },
+    {
+      "index": 297,
+      "start": "00:52:42.660",
+      "end": "00:52:48.160",
+      "text": "look after them, and as a result you have fewer issues that people are complaining about in those"
+    },
+    {
+      "index": 298,
+      "start": "00:52:48.160",
+      "end": "00:52:53.980",
+      "text": "buildings. Other landlords are extracting as much income as they possibly can on a net basis out of"
+    },
+    {
+      "index": 299,
+      "start": "00:52:53.980",
+      "end": "00:52:59.310",
+      "text": "the properties, and they're running the buildings into the ground either slowly or fast, and in those"
+    },
+    {
+      "index": 300,
+      "start": "00:52:59.310",
+      "end": "00:53:04.230",
+      "text": "buildings you can have a lot of very significant problems, and they tend to cluster, so once you"
+    },
+    {
+      "index": 301,
+      "start": "00:53:04.230",
+      "end": "00:53:10.710",
+      "text": "start having some problems you get more problems, and so I actually see a lot of value in the inspections"
+    },
+    {
+      "index": 302,
+      "start": "00:53:10.710",
+      "end": "00:53:16.940",
+      "text": "being proactive, especially as buildings are aging, and they're owned unfortunately by some"
+    },
+    {
+      "index": 303,
+      "start": "00:53:16.940",
+      "end": "00:53:21.950",
+      "text": "landlords who are really not looking after the buildings very well, so fortunately you know it's"
+    },
+    {
+      "index": 304,
+      "start": "00:53:21.950",
+      "end": "00:53:26.790",
+      "text": "not as though all landlords are bad landlords, and they're all doing bad things, but I think we have"
+    },
+    {
+      "index": 305,
+      "start": "00:53:26.790",
+      "end": "00:53:33.300",
+      "text": "to come up with a regime for property standards that's prioritizing the interests of people living"
+    },
+    {
+      "index": 306,
+      "start": "00:53:33.300",
+      "end": "00:53:37.940",
+      "text": "in their homes, right? That's what we need to keep the focus on, is the well-being of people,"
+    },
+    {
+      "index": 307,
+      "start": "00:53:37.940",
+      "end": "00:53:42.390",
+      "text": "making sure that people have a decent place to live, and I wish we lived in a world where we didn't"
+    },
+    {
+      "index": 308,
+      "start": "00:53:42.390",
+      "end": "00:53:46.230",
+      "text": "have to have rules for every single thing, and people would just do the right thing, but we don't"
+    },
+    {
+      "index": 309,
+      "start": "00:53:46.230",
+      "end": "00:53:51.520",
+      "text": "live in that world, and we do have to have rules, and set certain standards, so what I like from the"
+    },
+    {
+      "index": 310,
+      "start": "00:53:51.520",
+      "end": "00:53:56.350",
+      "text": "staff report is they're very clear about what the resource implications would be of doing what we"
+    },
+    {
+      "index": 311,
+      "start": "00:53:56.350",
+      "end": "00:54:01.770",
+      "text": "had asked them to do, which is if we were to inspect all these units, what would it cost? I'm probably"
+    },
+    {
+      "index": 312,
+      "start": "00:54:01.770",
+      "end": "00:54:06.000",
+      "text": "not surprised that they're saying don't do it, because it's a lot of resources to put into that"
+    },
+    {
+      "index": 313,
+      "start": "00:54:06.000",
+      "end": "00:54:10.430",
+      "text": "particular activity, and I don't think there's a whole lot to be gained, for example, of inspecting"
+    },
+    {
+      "index": 314,
+      "start": "00:54:10.430",
+      "end": "00:54:14.640",
+      "text": "every unit in a brand new luxury building that just got built downtown. I just don't think we're"
+    },
+    {
+      "index": 315,
+      "start": "00:54:14.640",
+      "end": "00:54:18.060",
+      "text": "going to run into a lot of problems in that building. What we need to do is come up with"
+    },
+    {
+      "index": 316,
+      "start": "00:54:18.060",
+      "end": "00:54:22.970",
+      "text": "something that is focused, that's getting to the problem areas, that's helping the people who are"
+    },
+    {
+      "index": 317,
+      "start": "00:54:22.970",
+      "end": "00:54:27.590",
+      "text": "experiencing the biggest challenges in their housing, and improving the situation for people"
+    },
+    {
+      "index": 318,
+      "start": "00:54:27.590",
+      "end": "00:54:34.370",
+      "text": "in that housing. So I was looking around, we talked with Acorn folks, the rent-safe program"
+    },
+    {
+      "index": 319,
+      "start": "00:54:34.370",
+      "end": "00:54:39.220",
+      "text": "that they have in Toronto, it's not perfect, but it's going in the right direction in terms of"
+    },
+    {
+      "index": 320,
+      "start": "00:54:39.220",
+      "end": "00:54:44.190",
+      "text": "being a bit more proactive, looking at buildings as their own units, like a separate entity,"
+    },
+    {
+      "index": 321,
+      "start": "00:54:45.270",
+      "end": "00:54:50.260",
+      "text": "where you'd have registration of those buildings, and then if you need to do an audit of the building,"
+    },
+    {
+      "index": 322,
+      "start": "00:54:50.260",
+      "end": "00:54:53.510",
+      "text": "and you see some things that are concerning, then you start to escalate it from there."
+    },
+    {
+      "index": 323,
+      "start": "00:54:53.510",
+      "end": "00:54:56.910",
+      "text": "So it's taking some of the responsibility away from the tenants to have to report all these"
+    },
+    {
+      "index": 324,
+      "start": "00:54:56.910",
+      "end": "00:55:01.030",
+      "text": "issues all the time, do all that extra work while they're doing it all the rest of their lives,"
+    },
+    {
+      "index": 325,
+      "start": "00:55:01.030",
+      "end": "00:55:06.330",
+      "text": "trying to go about their regular day, go to work, they can't be their own reporting squad,"
+    },
+    {
+      "index": 326,
+      "start": "00:55:06.330",
+      "end": "00:55:10.840",
+      "text": "trying to flag every single problem that they run into in buildings. So I think that that is the"
+    },
+    {
+      "index": 327,
+      "start": "00:55:10.840",
+      "end": "00:55:16.600",
+      "text": "direction we need to head in, and I think to decide what we should do, we need to see what the"
+    },
+    {
+      "index": 328,
+      "start": "00:55:16.600",
+      "end": "00:55:21.030",
+      "text": "implications of that be. So what would it cost, how much would the fees be? In a Toronto, they're"
+    },
+    {
+      "index": 329,
+      "start": "00:55:21.030",
+      "end": "00:55:26.230",
+      "text": "charging something like $1,124 a unit, that's the registration fee, and then the inspections are about"
+    },
+    {
+      "index": 330,
+      "start": "00:55:26.230",
+      "end": "00:55:31.320",
+      "text": "$1,900 a year. So that seems pretty reasonable to me, I think that people can handle that, there's"
+    },
+    {
+      "index": 331,
+      "start": "00:55:31.320",
+      "end": "00:55:37.000",
+      "text": "lots of landlords who can absorb that cost into their business, and we could have an inspection"
+    },
+    {
+      "index": 332,
+      "start": "00:55:37.000",
+      "end": "00:55:42.270",
+      "text": "regime that's not checking every single unit all the time, but it's a bit more targeted and we're"
+    },
+    {
+      "index": 333,
+      "start": "00:55:42.270",
+      "end": "00:55:46.730",
+      "text": "making sure they're registering those buildings. So we don't have to do something exactly like"
+    },
+    {
+      "index": 334,
+      "start": "00:55:46.730",
+      "end": "00:55:51.370",
+      "text": "rent safe, but it seems like an okay model. And so what I'm suggesting is that we have staff report"
+    },
+    {
+      "index": 335,
+      "start": "00:55:51.370",
+      "end": "00:55:56.780",
+      "text": "back on a model that would be similar to that, and what those fees would be, so we can make a"
+    },
+    {
+      "index": 336,
+      "start": "00:55:56.780",
+      "end": "00:56:01.850",
+      "text": "more informed decision about if that's something we want to do here in London. So that is what I"
+    },
+    {
+      "index": 337,
+      "start": "00:56:01.850",
+      "end": "00:56:06.960",
+      "text": "would add to the discussion as a motion. I've circulated the language to the clerks, it's not"
+    },
+    {
+      "index": 338,
+      "start": "00:56:06.960",
+      "end": "00:56:11.660",
+      "text": "committing us to doing that, but it does give us the benefit of getting the information about it,"
+    },
+    {
+      "index": 339,
+      "start": "00:56:11.660",
+      "end": "00:56:16.110",
+      "text": "what would it cost, what would be the resource implications, and we can start thinking about what"
+    },
+    {
+      "index": 340,
+      "start": "00:56:16.110",
+      "end": "00:56:20.950",
+      "text": "the benefits would be to, because I think sometimes here, Acorn's frustration, it can be a lot about"
+    },
+    {
+      "index": 341,
+      "start": "00:56:20.950",
+      "end": "00:56:25.390",
+      "text": "the costs and not so much about the benefits, and certainly I can see a lot of benefits in that."
+    },
+    {
+      "index": 342,
+      "start": "00:56:25.390",
+      "end": "00:56:31.130",
+      "text": "So that's my motion, I don't know if there's a seconder for that, but I don't think, you know,"
+    },
+    {
+      "index": 343,
+      "start": "00:56:31.130",
+      "end": "00:56:34.390",
+      "text": "doing nothing is the right thing to do with leaving everything the way it is."
+    },
+    {
+      "index": 344,
+      "start": "00:56:34.390",
+      "end": "00:56:38.760",
+      "text": "Good to second. - Looking for a second, sorry, I heard one."
+    },
+    {
+      "index": 345,
+      "start": "00:56:38.760",
+      "end": "00:56:44.830",
+      "text": "Consta, thank you, Mo. Appreciate it. I returned the chair to you."
+    },
+    {
+      "index": 346,
+      "start": "00:56:44.830",
+      "end": "00:56:53.540",
+      "text": "Okay, the clerk is pointing out that she doesn't have the wording, so I'm going to"
+    },
+    {
+      "index": 347,
+      "start": "00:56:54.770",
+      "end": "00:56:57.810",
+      "text": "send it somewhere, or I send it to Mr. Katolek, that's why, one second."
+    },
+    {
+      "index": 348,
+      "start": "00:56:57.810",
+      "end": "00:57:08.370",
+      "text": "To see if there's any speakers, just why I'm getting the language to the clerk, which I thought"
+    },
+    {
+      "index": 349,
+      "start": "00:57:08.370",
+      "end": "00:57:18.930",
+      "text": "I had done. Councillor Reynolds. - Thank you, Mr. Chair, and through you,"
+    },
+    {
+      "index": 350,
+      "start": "00:57:18.930",
+      "end": "00:57:28.550",
+      "text": "my question to staff, we recently introduced some penalties and some actions that were available"
+    },
+    {
+      "index": 351,
+      "start": "00:57:28.550",
+      "end": "00:57:38.560",
+      "text": "through our administrative and monetary penalties for things like bed bugs and roaches."
+    },
+    {
+      "index": 352,
+      "start": "00:57:38.560",
+      "end": "00:57:45.340",
+      "text": "And I wanted to find out, I see some action being taken on these and some other things as well."
+    },
+    {
+      "index": 353,
+      "start": "00:57:45.340",
+      "end": "00:57:52.790",
+      "text": "I wonder if we could just have an update on how those things are working out."
+    },
+    {
+      "index": 354,
+      "start": "00:57:52.790",
+      "end": "00:58:02.950",
+      "text": "Yes, through the chair, when the property standards bylaw was passed this past summer, it's a new bylaw."
+    },
+    {
+      "index": 355,
+      "start": "00:58:02.950",
+      "end": "00:58:09.110",
+      "text": "So we had to reissue all of our orders, which have been done."
+    },
+    {
+      "index": 356,
+      "start": "00:58:09.110",
+      "end": "00:58:17.130",
+      "text": "And also in the orders, we mentioned that there is a new penalty regime, and that is AMPS."
+    },
+    {
+      "index": 357,
+      "start": "00:58:17.130",
+      "end": "00:58:26.970",
+      "text": "And to remind Council of the AMPS bylaw for repeat offenders is a doubling of the penalty amount."
+    },
+    {
+      "index": 358,
+      "start": "00:58:26.970",
+      "end": "00:58:36.120",
+      "text": "So if the penalty is $400, the next time that the same violation occurs in any subsequent times,"
+    },
+    {
+      "index": 359,
+      "start": "00:58:36.120",
+      "end": "00:58:46.460",
+      "text": "the fine amount is $800. Just last week, we had our first hearing where a landlord challenged"
+    },
+    {
+      "index": 360,
+      "start": "00:58:46.460",
+      "end": "00:58:55.320",
+      "text": "an AMP issued for rental licensing. It was a good hearing. The decision was"
+    },
+    {
+      "index": 361,
+      "start": "00:58:56.190",
+      "end": "00:59:02.610",
+      "text": "adjourned to allow the landlord to look into further licensing options."
+    },
+    {
+      "index": 362,
+      "start": "00:59:02.610",
+      "end": "00:59:10.620",
+      "text": "So we are certainly, even within, we're very much focused on COVID right now and new regulations"
+    },
+    {
+      "index": 363,
+      "start": "00:59:10.620",
+      "end": "00:59:16.350",
+      "text": "coming out and new duties for our officers. We are still very much focused on responding"
+    },
+    {
+      "index": 364,
+      "start": "00:59:16.350",
+      "end": "00:59:24.710",
+      "text": "to property standards complaints. - Councilor Riddle? - Councilor Lewis."
+    },
+    {
+      "index": 365,
+      "start": "00:59:27.400",
+      "end": "00:59:33.610",
+      "text": "Thank you. Sorry, I was hoping we might have the language visible. Let's see if we can get it"
+    },
+    {
+      "index": 366,
+      "start": "00:59:33.610",
+      "end": "00:59:54.260",
+      "text": "up on the screen. If you refresh, you might be able to see it. - Okay, now I can see it. Thank"
+    },
+    {
+      "index": 367,
+      "start": "00:59:54.260",
+      "end": "01:00:02.190",
+      "text": "you. Sorry about that for the delay there while I was refreshing. So I'm certainly interested in"
+    },
+    {
+      "index": 368,
+      "start": "01:00:02.190",
+      "end": "01:00:10.680",
+      "text": "looking into this. I'm mindful of something that you yourself indicated, Mr. Chair, I wouldn't expect"
+    },
+    {
+      "index": 369,
+      "start": "01:00:11.650",
+      "end": "01:00:20.330",
+      "text": "any sort of immediate problems in a brand new 30-story tower downtown that's just had people"
+    },
+    {
+      "index": 370,
+      "start": "01:00:20.330",
+      "end": "01:00:27.730",
+      "text": "start to move in. But certainly, I could see how, and I would think just a couple of the three-story"
+    },
+    {
+      "index": 371,
+      "start": "01:00:27.730",
+      "end": "01:00:37.210",
+      "text": "walk-ups in my ward, which have been around for decades and have, in my opinion, been somewhat"
+    },
+    {
+      "index": 372,
+      "start": "01:00:37.940",
+      "end": "01:00:46.980",
+      "text": "victims of deterioration by neglect. And so I think this is worth looking into. I just want to"
+    },
+    {
+      "index": 373,
+      "start": "01:00:46.980",
+      "end": "01:00:54.560",
+      "text": "comment that my first staff to think about, I would, in terms of an audit for a building,"
+    },
+    {
+      "index": 374,
+      "start": "01:00:54.560",
+      "end": "01:01:02.040",
+      "text": "want to see options around perhaps exempting buildings under a certain age. I'm not sure if a"
+    },
+    {
+      "index": 375,
+      "start": "01:01:02.040",
+      "end": "01:01:07.730",
+      "text": "building that's five years or younger necessarily needs to have an audit that's not typical when"
+    },
+    {
+      "index": 376,
+      "start": "01:01:07.730",
+      "end": "01:01:13.640",
+      "text": "something's built to code for things to go wrong that quickly. But certainly on the older buildings"
+    },
+    {
+      "index": 377,
+      "start": "01:01:13.640",
+      "end": "01:01:21.280",
+      "text": "around the city, I could see where that value exists. I am a little concerned about a couple of"
+    },
+    {
+      "index": 378,
+      "start": "01:01:21.280",
+      "end": "01:01:27.010",
+      "text": "things around the cost, which is how that gets passed on to tenants through landlords passing"
+    },
+    {
+      "index": 379,
+      "start": "01:01:27.010",
+      "end": "01:01:31.980",
+      "text": "on their costs under the Residential Tenancies Act allowance that exceeds the 2% that they can"
+    },
+    {
+      "index": 380,
+      "start": "01:01:31.980",
+      "end": "01:01:39.840",
+      "text": "do annually. But I think that that can come back in the staff report. They can advise us about that"
+    },
+    {
+      "index": 381,
+      "start": "01:01:39.840",
+      "end": "01:01:48.650",
+      "text": "portion as well. The other, the question that I do have awkwardly, perhaps,"
+    },
+    {
+      "index": 382,
+      "start": "01:01:48.650",
+      "end": "01:02:01.840",
+      "text": "for you, Mr. Chair, is do we see these audits applying to London housings inventory as well as"
+    },
+    {
+      "index": 383,
+      "start": "01:02:01.840",
+      "end": "01:02:10.080",
+      "text": "inventory in the private sector? If committee wants me to turn it back over to Councillor Hillier,"
+    },
+    {
+      "index": 384,
+      "start": "01:02:10.080",
+      "end": "01:02:15.230",
+      "text": "the Chair, I'm happy to do that. Just let me know. I would say, my understanding from the Toronto"
+    },
+    {
+      "index": 385,
+      "start": "01:02:15.230",
+      "end": "01:02:19.360",
+      "text": "rent-safe program is that there's a number of exemptions where it just doesn't apply. And I"
+    },
+    {
+      "index": 386,
+      "start": "01:02:19.360",
+      "end": "01:02:23.950",
+      "text": "think that community housing is one of those areas. I think also nonprofit and other kinds of social"
+    },
+    {
+      "index": 387,
+      "start": "01:02:23.950",
+      "end": "01:02:28.840",
+      "text": "housing doesn't apply. I think the idea is that there's different accountability mechanisms for"
+    },
+    {
+      "index": 388,
+      "start": "01:02:28.840",
+      "end": "01:02:33.660",
+      "text": "those specific landlords. I'm not saying that that's necessarily something we need to follow"
+    },
+    {
+      "index": 389,
+      "start": "01:02:33.660",
+      "end": "01:02:39.590",
+      "text": "in London. But I think I'm suggesting we start with it as a model if the circuit tool or the"
+    },
+    {
+      "index": 390,
+      "start": "01:02:39.590",
+      "end": "01:02:44.400",
+      "text": "staff who are reviewing it think we need to modify this or that, because it fits the London context"
+    },
+    {
+      "index": 391,
+      "start": "01:02:44.400",
+      "end": "01:02:48.210",
+      "text": "better. I think we could have that in a report. I don't want to be too prescriptive about it."
+    },
+    {
+      "index": 392,
+      "start": "01:02:48.210",
+      "end": "01:02:55.310",
+      "text": "Thank you for that answer. And that's helpful. And that's fine with me as a starting point. I think"
+    },
+    {
+      "index": 393,
+      "start": "01:02:55.310",
+      "end": "01:03:01.610",
+      "text": "that there are reasons to exempt certain properties. I mentioned the age one. And I think agencies that"
+    },
+    {
+      "index": 394,
+      "start": "01:03:01.610",
+      "end": "01:03:07.500",
+      "text": "have other accountability measures is another one that we could consider. So I'm certainly willing to"
+    },
+    {
+      "index": 395,
+      "start": "01:03:07.500",
+      "end": "01:03:14.910",
+      "text": "be supportive of this and see what we get back. It might not be exactly the rent-safe model that"
+    },
+    {
+      "index": 396,
+      "start": "01:03:14.910",
+      "end": "01:03:20.520",
+      "text": "Toronto uses. But I think to your point, it could be a starting point for a model that could be a"
+    },
+    {
+      "index": 397,
+      "start": "01:03:20.520",
+      "end": "01:03:27.800",
+      "text": "London-made model that we could look at implementing here. So I can support this. And thank you for"
+    },
+    {
+      "index": 398,
+      "start": "01:03:27.800",
+      "end": "01:03:32.090",
+      "text": "bringing it forward, because I've been thinking about this for much of last night in this morning."
+    },
+    {
+      "index": 399,
+      "start": "01:03:32.090",
+      "end": "01:03:35.420",
+      "text": "And I hadn't had time to put language together. So I thank you for doing that."
+    },
+    {
+      "index": 400,
+      "start": "01:03:35.420",
+      "end": "01:03:50.760",
+      "text": "Any other discussion? If not, we're going to open up the vote. I see this as just this specific"
+    },
+    {
+      "index": 401,
+      "start": "01:03:50.760",
+      "end": "01:03:55.260",
+      "text": "motion. But can we also have the receipt of the task force? That's the original staff recommendation."
+    },
+    {
+      "index": 402,
+      "start": "01:03:55.260",
+      "end": "01:04:02.160",
+      "text": "Is that included in this that we're voting on? This is both the motion that I suggested and also"
+    },
+    {
+      "index": 403,
+      "start": "01:04:02.160",
+      "end": "01:04:14.340",
+      "text": "the receipt of the terms of reference. Closing the vote, the motion carries five to zero."
+    },
+    {
+      "index": 404,
+      "start": "01:04:14.340",
+      "end": "01:04:21.790",
+      "text": "This is to the end of 2.4. Thanks very much, everyone, for a good discussion. You're welcome"
+    },
+    {
+      "index": 405,
+      "start": "01:04:21.790",
+      "end": "01:04:26.910",
+      "text": "to stick around for our next item, if you like, folks in the gallery. We're moving on to item"
+    },
+    {
+      "index": 406,
+      "start": "01:04:26.910",
+      "end": "01:04:36.630",
+      "text": "4.1. This is flyer deliveries to residential properties. It also has some delegation requests"
+    },
+    {
+      "index": 407,
+      "start": "01:04:36.630",
+      "end": "01:04:41.360",
+      "text": "for this matter. And I think in the interest of letting the delegations know whether they're"
+    },
+    {
+      "index": 408,
+      "start": "01:04:41.360",
+      "end": "01:04:46.250",
+      "text": "speaking at this meeting or not, we should deal with those soon so that they know what they're"
+    },
+    {
+      "index": 409,
+      "start": "01:04:46.250",
+      "end": "01:04:53.410",
+      "text": "working with. If, for example, there's the idea of referring this to a future meeting or having a"
+    },
+    {
+      "index": 410,
+      "start": "01:04:53.410",
+      "end": "01:04:58.250",
+      "text": "future discussion about some kind of different bylaw, maybe we might want to have the delegations"
+    },
+    {
+      "index": 411,
+      "start": "01:04:58.250",
+      "end": "01:05:03.160",
+      "text": "at that meeting rather than right now and also at the meeting that's coming up. I'll leave it"
+    },
+    {
+      "index": 412,
+      "start": "01:05:03.160",
+      "end": "01:05:07.710",
+      "text": "in your hands to see if you'd like to hear the delegations now. There's been some suggestions"
+    },
+    {
+      "index": 413,
+      "start": "01:05:07.710",
+      "end": "01:05:12.590",
+      "text": "that we should have a public participation meeting out in the future, in which case you might want"
+    },
+    {
+      "index": 414,
+      "start": "01:05:12.590",
+      "end": "01:05:20.600",
+      "text": "to postpone the delegation. So go to Councillor Lewis. Thank you, Mr. Chair. I hope this is the most"
+    },
+    {
+      "index": 415,
+      "start": "01:05:21.540",
+      "end": "01:05:32.520",
+      "text": "efficient way forward on this. My suggestion is that we vote to receive the delegations at a future"
+    },
+    {
+      "index": 416,
+      "start": "01:05:32.520",
+      "end": "01:05:39.400",
+      "text": "meeting. And the reason I'm suggesting that is I actually want to put a motion on the floor to"
+    },
+    {
+      "index": 417,
+      "start": "01:05:39.400",
+      "end": "01:05:48.790",
+      "text": "refer this staff report back. And I have sent some with her fantastic help. Our committee clerk has"
+    },
+    {
+      "index": 418,
+      "start": "01:05:48.790",
+      "end": "01:05:53.940",
+      "text": "come up with language. I'll just read it for folks that the matter of flyer deliveries to"
+    },
+    {
+      "index": 419,
+      "start": "01:05:53.940",
+      "end": "01:05:58.640",
+      "text": "residential properties be referred to the civic administration for further review,"
+    },
+    {
+      "index": 420,
+      "start": "01:05:58.640",
+      "end": "01:06:03.860",
+      "text": "taking into consideration the comments received with a report back to a future meeting of the"
+    },
+    {
+      "index": 421,
+      "start": "01:06:03.860",
+      "end": "01:06:08.520",
+      "text": "Community Protective Services Committee with a revised bylaw that includes administrative"
+    },
+    {
+      "index": 422,
+      "start": "01:06:08.520",
+      "end": "01:06:19.150",
+      "text": "monetary penalties for violations. And I'll just add very quickly here that we do have written"
+    },
+    {
+      "index": 423,
+      "start": "01:06:19.150",
+      "end": "01:06:23.900",
+      "text": "comments from all of the individuals who are seeking delegation status. So I'm suggesting that"
+    },
+    {
+      "index": 424,
+      "start": "01:06:23.900",
+      "end": "01:06:30.130",
+      "text": "we receive their written submissions for civic administration to take into consideration,"
+    },
+    {
+      "index": 425,
+      "start": "01:06:30.130",
+      "end": "01:06:36.230",
+      "text": "come back to us with a revised bylaw. And then at that point, I think that would be the appropriate"
+    },
+    {
+      "index": 426,
+      "start": "01:06:36.230",
+      "end": "01:06:43.140",
+      "text": "time to hear the delegations or give committees preferences to have a PPM at that time. I'd be"
+    },
+    {
+      "index": 427,
+      "start": "01:06:43.140",
+      "end": "01:06:48.330",
+      "text": "supportive of that as well. But I'd like to have staff bring back a revision before we get into"
+    },
+    {
+      "index": 428,
+      "start": "01:06:49.190",
+      "end": "01:06:56.310",
+      "text": "a PPM on this. Okay, I'm just going to see if there's a seconder for that as a way of handling"
+    },
+    {
+      "index": 429,
+      "start": "01:06:56.310",
+      "end": "01:07:06.050",
+      "text": "the delegation request. Sorry, what are we, sorry, Chair, excuse me. What are we, are we voting on"
+    },
+    {
+      "index": 430,
+      "start": "01:07:06.050",
+      "end": "01:07:12.680",
+      "text": "the delegation request? Are we considering what Councillor Lewis has said, which is much more"
+    },
+    {
+      "index": 431,
+      "start": "01:07:12.680",
+      "end": "01:07:17.810",
+      "text": "encompassing? So Councillor Lewis has suggested two things. One is that he'd like to approve the"
+    },
+    {
+      "index": 432,
+      "start": "01:07:17.810",
+      "end": "01:07:23.240",
+      "text": "delegation request for a future meeting, sort of this one item there. And he put that in the context"
+    },
+    {
+      "index": 433,
+      "start": "01:07:23.240",
+      "end": "01:07:27.300",
+      "text": "of I'd also like to talk about this whole issue at a future meeting. And I'm going to refer the"
+    },
+    {
+      "index": 434,
+      "start": "01:07:27.300",
+      "end": "01:07:31.930",
+      "text": "whole matter. And if that's successful, then I hear the delegations of that future meeting. So"
+    },
+    {
+      "index": 435,
+      "start": "01:07:31.930",
+      "end": "01:07:35.480",
+      "text": "they're kind of tied together. If everything's done at this meeting, there's no reason to refer"
+    },
+    {
+      "index": 436,
+      "start": "01:07:35.480",
+      "end": "01:07:41.840",
+      "text": "them to this future. But Chair, that's not exactly what I heard. I heard Councillor Lewis come back"
+    },
+    {
+      "index": 437,
+      "start": "01:07:41.840",
+      "end": "01:07:47.630",
+      "text": "and say that what he was interested in was having staff come back with some recommendations. And"
+    },
+    {
+      "index": 438,
+      "start": "01:07:47.630",
+      "end": "01:07:53.000",
+      "text": "it feels a bit like ready fire aim and no disrespect to the intent behind it because they get a sense"
+    },
+    {
+      "index": 439,
+      "start": "01:07:53.000",
+      "end": "01:07:58.900",
+      "text": "of it. Maybe it's my understanding, misunderstanding, Councillor Lewis can clarify. But how do we,"
+    },
+    {
+      "index": 440,
+      "start": "01:07:58.900",
+      "end": "01:08:06.440",
+      "text": "how do we have staff go back and review public interest situation prior to having heard the public?"
+    },
+    {
+      "index": 441,
+      "start": "01:08:06.440",
+      "end": "01:08:12.270",
+      "text": "And again, perhaps I misunderstood it and I'll stand to be corrected. But could I ask you to"
+    },
+    {
+      "index": 442,
+      "start": "01:08:12.270",
+      "end": "01:08:15.990",
+      "text": "have the Councillor clarify exactly so make sure I've heard it correctly, please?"
+    },
+    {
+      "index": 443,
+      "start": "01:08:15.990",
+      "end": "01:08:21.410",
+      "text": "Okay, I'm going to go to Councillor Lewis and we'll see if he can clarify. One thing I'm going"
+    },
+    {
+      "index": 444,
+      "start": "01:08:21.410",
+      "end": "01:08:26.630",
+      "text": "to try to avoid is having a very long process discussion before we talk about the substance"
+    },
+    {
+      "index": 445,
+      "start": "01:08:26.630",
+      "end": "01:08:31.320",
+      "text": "and maybe we want to get into the substance discussion sooner rather than later to find out"
+    },
+    {
+      "index": 446,
+      "start": "01:08:31.320",
+      "end": "01:08:34.170",
+      "text": "where we're on ahead. But Councillor Lewis to try and clarify."
+    },
+    {
+      "index": 447,
+      "start": "01:08:34.170",
+      "end": "01:08:41.060",
+      "text": "I will do my very best to clarify this quickly for the Mayor. Through you, Chair, your worship,"
+    },
+    {
+      "index": 448,
+      "start": "01:08:41.060",
+      "end": "01:08:47.610",
+      "text": "my intention is to refer this back to staff. I think that approving the delegation request today"
+    },
+    {
+      "index": 449,
+      "start": "01:08:47.610",
+      "end": "01:08:54.060",
+      "text": "is getting the cart before the horse and that we may be asking them to comment on"
+    },
+    {
+      "index": 450,
+      "start": "01:08:54.690",
+      "end": "01:08:58.630",
+      "text": "on something that is not actually going to be passed today that's actually going to be referred"
+    },
+    {
+      "index": 451,
+      "start": "01:08:58.630",
+      "end": "01:09:06.390",
+      "text": "back for some changes. I'm happy to hear from them at a point where I think we have something"
+    },
+    {
+      "index": 452,
+      "start": "01:09:06.390",
+      "end": "01:09:12.100",
+      "text": "to discuss, but I think the referral takes precedence. So I'm putting that referral on the floor"
+    },
+    {
+      "index": 453,
+      "start": "01:09:12.100",
+      "end": "01:09:20.040",
+      "text": "and then suggesting that we refer the delegations to a future committee meeting when that referral"
+    },
+    {
+      "index": 454,
+      "start": "01:09:20.040",
+      "end": "01:09:30.190",
+      "text": "comes back. Okay, so I guess that's one way of handling it, which is we can have the referral"
+    },
+    {
+      "index": 455,
+      "start": "01:09:30.190",
+      "end": "01:09:34.400",
+      "text": "motion on the floor and then we can deal with the delegation request. If the referral failed,"
+    },
+    {
+      "index": 456,
+      "start": "01:09:34.400",
+      "end": "01:09:38.280",
+      "text": "for example, doing to have a bit of a different situation in terms of hearing the delegation"
+    },
+    {
+      "index": 457,
+      "start": "01:09:38.280",
+      "end": "01:09:41.430",
+      "text": "request. So that might be the right order of operations, Mayor Holder."
+    },
+    {
+      "index": 458,
+      "start": "01:09:41.430",
+      "end": "01:09:46.880",
+      "text": "Yeah, I'm comfortable with the order. I'm just not sure about the substance of the referral. I was"
+    },
+    {
+      "index": 459,
+      "start": "01:09:46.880",
+      "end": "01:09:56.350",
+      "text": "looking at what's on the table thus far. And so my concern is there is already something"
+    },
+    {
+      "index": 460,
+      "start": "01:09:56.350",
+      "end": "01:10:03.580",
+      "text": "I think that's in the report. We've all read it. And I think there's a fair amount of information"
+    },
+    {
+      "index": 461,
+      "start": "01:10:03.580",
+      "end": "01:10:10.610",
+      "text": "in here that we could use as the basis for either supporting or not supporting. But if you're"
+    },
+    {
+      "index": 462,
+      "start": "01:10:10.610",
+      "end": "01:10:15.920",
+      "text": "suggesting that staff come back something different than this, and I'm not trying to have this debate"
+    },
+    {
+      "index": 463,
+      "start": "01:10:15.920",
+      "end": "01:10:21.270",
+      "text": "chair with Kyle Lewis and me, but I'm not sure what they're coming back with. We already have"
+    },
+    {
+      "index": 464,
+      "start": "01:10:21.270",
+      "end": "01:10:25.940",
+      "text": "something from them that they've come back with. So I guess what I'm trying to understand is what"
+    },
+    {
+      "index": 465,
+      "start": "01:10:25.940",
+      "end": "01:10:33.920",
+      "text": "more prior to like, I'm really happy to refer the delegations to a future date, but I'm just not"
+    },
+    {
+      "index": 466,
+      "start": "01:10:33.920",
+      "end": "01:10:40.350",
+      "text": "sure what the what the counselor's trying to accomplish with this. So I'll stop going back"
+    },
+    {
+      "index": 467,
+      "start": "01:10:40.350",
+      "end": "01:10:46.180",
+      "text": "and forth, but I'm just trying to clarify. Okay, I'm going to go to the counselor to this one more"
+    },
+    {
+      "index": 468,
+      "start": "01:10:46.180",
+      "end": "01:10:51.680",
+      "text": "time. Thank you, Mr. Chair. I think it's very important to point out that a referral actually"
+    },
+    {
+      "index": 469,
+      "start": "01:10:51.680",
+      "end": "01:10:56.330",
+      "text": "has to have a reason for referral. You can't just refer something because you want to deal with it"
+    },
+    {
+      "index": 470,
+      "start": "01:10:56.330",
+      "end": "01:11:00.530",
+      "text": "later. It has to have a reason for referral. And my reason for referral is I want them to come back"
+    },
+    {
+      "index": 471,
+      "start": "01:11:00.530",
+      "end": "01:11:07.730",
+      "text": "with a revised bylaw that includes administrative monetary penalties. And so that's what the referral"
+    },
+    {
+      "index": 472,
+      "start": "01:11:07.730",
+      "end": "01:11:11.670",
+      "text": "I'm putting on the floor. There has to be a reason for a referral. That's why that's there."
+    },
+    {
+      "index": 473,
+      "start": "01:11:11.670",
+      "end": "01:11:21.340",
+      "text": "Then I'll just bearholder. Yes, I'll just finish that off. And I won't support the referral, but"
+    },
+    {
+      "index": 474,
+      "start": "01:11:21.340",
+      "end": "01:11:26.640",
+      "text": "but having said it, I respect the direction that the counselor's trying to take."
+    },
+    {
+      "index": 475,
+      "start": "01:11:26.640",
+      "end": "01:11:33.780",
+      "text": "Okay, so we have a motion to refer to incorporate like to receive the feedback from the public,"
+    },
+    {
+      "index": 476,
+      "start": "01:11:33.780",
+      "end": "01:11:37.970",
+      "text": "refer it to staff, and have a revised bylaw come forward with administrative monetary"
+    },
+    {
+      "index": 477,
+      "start": "01:11:37.970",
+      "end": "01:11:56.540",
+      "text": "penalties. Is there a second or an idea? Okay, I don't see a seconder for the referral. So let's"
+    },
+    {
+      "index": 478,
+      "start": "01:11:56.540",
+      "end": "01:12:01.110",
+      "text": "give more discussion and we can return to the idea of a referral, perhaps after we've had more"
+    },
+    {
+      "index": 479,
+      "start": "01:12:01.110",
+      "end": "01:12:13.470",
+      "text": "debate. We'd like to talk about the issue. Councillor Hilliard, would you take over the chair for a"
+    },
+    {
+      "index": 480,
+      "start": "01:12:13.470",
+      "end": "01:12:22.630",
+      "text": "second? No problem. I recognize Councillor Hoehr. Okay, thank you very much. So colleagues, I'm not"
+    },
+    {
+      "index": 481,
+      "start": "01:12:22.630",
+      "end": "01:12:28.290",
+      "text": "sure that the staff recommendation has really hit the mark in terms of how I think we should"
+    },
+    {
+      "index": 482,
+      "start": "01:12:28.290",
+      "end": "01:12:34.470",
+      "text": "proceed. I appreciate the recommendation. It seems to me like we're designing an approach which is"
+    },
+    {
+      "index": 483,
+      "start": "01:12:34.470",
+      "end": "01:12:39.990",
+      "text": "like we have a garbage problem and we want to reduce garbage. So let's pass a bylaw that says"
+    },
+    {
+      "index": 484,
+      "start": "01:12:39.990",
+      "end": "01:12:45.940",
+      "text": "you can't do this. And I mean, that is a problem in the sense that there's a lot of flyers delivered"
+    },
+    {
+      "index": 485,
+      "start": "01:12:45.940",
+      "end": "01:12:50.950",
+      "text": "that nobody really wants and it generates a lot of waste, which goes into recycling stream. But"
+    },
+    {
+      "index": 486,
+      "start": "01:12:50.950",
+      "end": "01:12:55.410",
+      "text": "that's not the problem that people are bringing to our attention right now. The problem we have"
+    },
+    {
+      "index": 487,
+      "start": "01:12:55.410",
+      "end": "01:13:00.410",
+      "text": "now is people are distributing really offensive graphic flyers that are triggering people and"
+    },
+    {
+      "index": 488,
+      "start": "01:13:00.410",
+      "end": "01:13:05.460",
+      "text": "causing a bunch of harm when they open up their mailbox. And I mean, it's kind of a strange world"
+    },
+    {
+      "index": 489,
+      "start": "01:13:05.460",
+      "end": "01:13:10.290",
+      "text": "we live in where people are willing to do that to each other. But apparently that is the world"
+    },
+    {
+      "index": 490,
+      "start": "01:13:10.290",
+      "end": "01:13:15.790",
+      "text": "we live in. And that's the issue that people are raising that we need to act on. So my own,"
+    },
+    {
+      "index": 491,
+      "start": "01:13:15.790",
+      "end": "01:13:21.190",
+      "text": "and I don't have a great solution for this problem. And unfortunately, it is a very difficult thing"
+    },
+    {
+      "index": 492,
+      "start": "01:13:21.190",
+      "end": "01:13:28.250",
+      "text": "to address. I don't think this is going to do it. So I'm uncomfortable with the bylaw the way it's"
+    },
+    {
+      "index": 493,
+      "start": "01:13:28.250",
+      "end": "01:13:33.570",
+      "text": "drafted. I just don't think it's really getting at the root problem. And even with administrative"
+    },
+    {
+      "index": 494,
+      "start": "01:13:33.570",
+      "end": "01:13:38.300",
+      "text": "monetary penalties, I don't know that that's going to really resolve it. You know, certainly,"
+    },
+    {
+      "index": 495,
+      "start": "01:13:38.300",
+      "end": "01:13:42.780",
+      "text": "it would make the consequences for delivering flyers where people have said I don't want flyers."
+    },
+    {
+      "index": 496,
+      "start": "01:13:42.780",
+      "end": "01:13:50.220",
+      "text": "But a lot of people would like a lot of things, but not this one specific kind of thing. And you know,"
+    },
+    {
+      "index": 497,
+      "start": "01:13:50.220",
+      "end": "01:13:53.690",
+      "text": "I think we have to be a bit more specific in what we're doing. The approach that I've seen that"
+    },
+    {
+      "index": 498,
+      "start": "01:13:53.690",
+      "end": "01:13:59.420",
+      "text": "seems to be the best is like what Calgary has done in their community standards bylaw,"
+    },
+    {
+      "index": 499,
+      "start": "01:13:59.420",
+      "end": "01:14:03.390",
+      "text": "where they say, if you put up a notice that says, I don't want flyers like this,"
+    },
+    {
+      "index": 500,
+      "start": "01:14:03.390",
+      "end": "01:14:08.650",
+      "text": "you can't deliver them. So the problem is people don't want to receive these flyers."
+    },
+    {
+      "index": 501,
+      "start": "01:14:08.650",
+      "end": "01:14:14.950",
+      "text": "And people keep bringing them regardless of that. And so if we put in a consequence that says,"
+    },
+    {
+      "index": 502,
+      "start": "01:14:14.950",
+      "end": "01:14:19.090",
+      "text": "look, you can't bring fires like this. If people put up a notice saying they don't want them,"
+    },
+    {
+      "index": 503,
+      "start": "01:14:19.090",
+      "end": "01:14:24.230",
+      "text": "then I don't know. I feel like we have a way of solving this problem. We don't say you can't"
+    },
+    {
+      "index": 504,
+      "start": "01:14:24.230",
+      "end": "01:14:29.630",
+      "text": "deliver them at all. We just say if people have indicated they don't want them, you can't deliver."
+    },
+    {
+      "index": 505,
+      "start": "01:14:29.630",
+      "end": "01:14:35.600",
+      "text": "So I think that there's some way to deal with this. I think that it's not really a garbage problem."
+    },
+    {
+      "index": 506,
+      "start": "01:14:35.600",
+      "end": "01:14:40.590",
+      "text": "The problem is the graphic images that people are distributing of a board that are terminated"
+    },
+    {
+      "index": 507,
+      "start": "01:14:40.590",
+      "end": "01:14:45.580",
+      "text": "fetuses are awful. And they're putting them in people's mailboxes. And people are opening them"
+    },
+    {
+      "index": 508,
+      "start": "01:14:45.580",
+      "end": "01:14:49.940",
+      "text": "up and their kids are seeing them, people who've had pregnancies terminated, people who've had"
+    },
+    {
+      "index": 509,
+      "start": "01:14:49.940",
+      "end": "01:14:55.520",
+      "text": "abortions are picking this stuff up in their mailbox. And it's bad. Like they should not"
+    },
+    {
+      "index": 510,
+      "start": "01:14:55.520",
+      "end": "01:15:00.110",
+      "text": "have to go through that. And so we have to figure out a way to stop it. Unfortunately,"
+    },
+    {
+      "index": 511,
+      "start": "01:15:00.110",
+      "end": "01:15:05.280",
+      "text": "the organizations that are doing this, they're relentless in their approach. And I think they"
+    },
+    {
+      "index": 512,
+      "start": "01:15:05.280",
+      "end": "01:15:10.130",
+      "text": "thrive on this kind of discussion, the attention they get from it. This is all part of the strategy."
+    },
+    {
+      "index": 513,
+      "start": "01:15:10.130",
+      "end": "01:15:16.600",
+      "text": "So I don't want to feed media coverage of their strategy, even be talking about this issue to"
+    },
+    {
+      "index": 514,
+      "start": "01:15:16.600",
+      "end": "01:15:21.060",
+      "text": "drive attention to the organization. I won't even mention them by name. But I think we do have to"
+    },
+    {
+      "index": 515,
+      "start": "01:15:21.060",
+      "end": "01:15:27.240",
+      "text": "come up with an effective way of stopping the practice, which is harmful. And we do this for"
+    },
+    {
+      "index": 516,
+      "start": "01:15:27.240",
+      "end": "01:15:31.730",
+      "text": "all kinds of different things people do that cause harm. And I think if we recognize that this"
+    },
+    {
+      "index": 517,
+      "start": "01:15:31.730",
+      "end": "01:15:36.860",
+      "text": "is causing harm, we should try and figure a way to stop it. So I don't really support the referral,"
+    },
+    {
+      "index": 518,
+      "start": "01:15:36.860",
+      "end": "01:15:40.400",
+      "text": "which is why I didn't second it, because it's really adding penalties to something that I think"
+    },
+    {
+      "index": 519,
+      "start": "01:15:40.400",
+      "end": "01:15:46.150",
+      "text": "is going after the wrong problem. I think we do have to have a discussion in the future. So I'm"
+    },
+    {
+      "index": 520,
+      "start": "01:15:46.150",
+      "end": "01:15:51.620",
+      "text": "in favor of a referral. But I do think we need to be a bit more targeted in what we're doing. Maybe"
+    },
+    {
+      "index": 521,
+      "start": "01:15:51.620",
+      "end": "01:15:57.330",
+      "text": "if we have a, you know, if you put up a notice or a sticker that's not about all flyers, but about"
+    },
+    {
+      "index": 522,
+      "start": "01:15:57.330",
+      "end": "01:16:03.890",
+      "text": "certain kinds of flyers, you know, maybe that's the solution. So, you know, I, I'm not sure exactly"
+    },
+    {
+      "index": 523,
+      "start": "01:16:03.890",
+      "end": "01:16:08.370",
+      "text": "how to proceed. I think referring the whole matter to a future meeting might be the best,"
+    },
+    {
+      "index": 524,
+      "start": "01:16:08.370",
+      "end": "01:16:12.470",
+      "text": "the best way to do it instead of giving really specific direction right now. Maybe the specific"
+    },
+    {
+      "index": 525,
+      "start": "01:16:12.470",
+      "end": "01:16:18.750",
+      "text": "direction can come at council about what needs to be in that referral. But I do appreciate that"
+    },
+    {
+      "index": 526,
+      "start": "01:16:18.750",
+      "end": "01:16:23.560",
+      "text": "many, many members of the community have raised this issue. It's been really difficult one for a"
+    },
+    {
+      "index": 527,
+      "start": "01:16:23.560",
+      "end": "01:16:27.810",
+      "text": "lot of people. And I think it's incumbent on us to figure out some kind of solution that's going"
+    },
+    {
+      "index": 528,
+      "start": "01:16:27.810",
+      "end": "01:16:34.210",
+      "text": "to be effective. So those are my comments. I would support a referral to the next CAHPS meeting."
+    },
+    {
+      "index": 529,
+      "start": "01:16:34.210",
+      "end": "01:16:41.170",
+      "text": "And we can maybe craft on to the referral at council the specific direction if we don't have"
+    },
+    {
+      "index": 530,
+      "start": "01:16:41.170",
+      "end": "01:16:47.940",
+      "text": "agreement on what that should be at committee. Thank you, Councillor Homer. I return the chair"
+    },
+    {
+      "index": 531,
+      "start": "01:16:47.940",
+      "end": "01:16:53.440",
+      "text": "to you. And we have the mayor and then Councillor Hopkins next. Okay. So I guess I'm looking for a"
+    },
+    {
+      "index": 532,
+      "start": "01:16:53.440",
+      "end": "01:16:58.640",
+      "text": "seconder for my referral, which is really just referring the matter to a future committee meeting."
+    },
+    {
+      "index": 533,
+      "start": "01:16:59.770",
+      "end": "01:17:04.700",
+      "text": "My anticipation is that sometime at council, we would add in some more specifics about what"
+    },
+    {
+      "index": 534,
+      "start": "01:17:04.700",
+      "end": "01:17:12.480",
+      "text": "it is we wanted to have see changed. I'll second. Okay. So discussion on the referral,"
+    },
+    {
+      "index": 535,
+      "start": "01:17:12.480",
+      "end": "01:17:20.970",
+      "text": "Councillor Hopkins. I just wanted to second it unconditionally. No. Okay. Go ahead."
+    },
+    {
+      "index": 536,
+      "start": "01:17:20.970",
+      "end": "01:17:27.590",
+      "text": "I have a Cape Breton mother. I have many opinions that chair. Listen, first, I really appreciate"
+    },
+    {
+      "index": 537,
+      "start": "01:17:27.590",
+      "end": "01:17:31.600",
+      "text": "where Councillor Lewis was trying to come from in terms of trying to put some substance around this."
+    },
+    {
+      "index": 538,
+      "start": "01:17:31.600",
+      "end": "01:17:36.640",
+      "text": "And it and it is has been pointed at an exceptionally difficult issue. I recall"
+    },
+    {
+      "index": 539,
+      "start": "01:17:36.640",
+      "end": "01:17:41.420",
+      "text": "when I was in another level of government, one of the issues that we had was the issue of spam."
+    },
+    {
+      "index": 540,
+      "start": "01:17:41.420",
+      "end": "01:17:47.770",
+      "text": "So to deal with spam, we just decided that unless you had really extremely formal permissions,"
+    },
+    {
+      "index": 541,
+      "start": "01:17:47.770",
+      "end": "01:17:55.210",
+      "text": "no legitimate company, small business, particularly Canadian small business was able to market to"
+    },
+    {
+      "index": 542,
+      "start": "01:17:55.210",
+      "end": "01:18:02.200",
+      "text": "their own communities for fear that there were these permissions that they'd be in violation of"
+    },
+    {
+      "index": 543,
+      "start": "01:18:02.200",
+      "end": "01:18:07.060",
+      "text": "the law, which they would be. And so here we were trying to deal with issues like international,"
+    },
+    {
+      "index": 544,
+      "start": "01:18:07.060",
+      "end": "01:18:13.240",
+      "text": "which it did not do. So my point is, is that as we consider the crafting what a bylaw could look like,"
+    },
+    {
+      "index": 545,
+      "start": "01:18:13.240",
+      "end": "01:18:19.920",
+      "text": "here you've got another situation where there's very specific and we're like, can I say offensive"
+    },
+    {
+      "index": 546,
+      "start": "01:18:19.920",
+      "end": "01:18:26.480",
+      "text": "heinous material that goes to people's doors? But as soon as you've put no flyers and you're"
+    },
+    {
+      "index": 547,
+      "start": "01:18:26.480",
+      "end": "01:18:32.810",
+      "text": "directing it specifically to one area, I think how you establish the definition of terms as we"
+    },
+    {
+      "index": 548,
+      "start": "01:18:32.810",
+      "end": "01:18:38.790",
+      "text": "experience in a former life of mine is extremely difficult. And if you put no flyers, it's really"
+    },
+    {
+      "index": 549,
+      "start": "01:18:38.790",
+      "end": "01:18:43.170",
+      "text": "clear. And for some, that might be the perfect way to be. They might be extremely happy. But"
+    },
+    {
+      "index": 550,
+      "start": "01:18:43.170",
+      "end": "01:18:47.780",
+      "text": "then there are those that wanted discern whether I want A or I want B. And that really becomes the"
+    },
+    {
+      "index": 551,
+      "start": "01:18:47.780",
+      "end": "01:18:54.820",
+      "text": "mess of all this and the challenge. So I think that's why, if we can, I'd be happy to work with"
+    },
+    {
+      "index": 552,
+      "start": "01:18:54.820",
+      "end": "01:18:59.020",
+      "text": "Councillor Lewis too and see if we can find a way to get somewhere. But in the meantime,"
+    },
+    {
+      "index": 553,
+      "start": "01:18:59.020",
+      "end": "01:19:04.120",
+      "text": "I think the referral over is probably the next best way to go at this stage."
+    },
+    {
+      "index": 554,
+      "start": "01:19:04.120",
+      "end": "01:19:06.820",
+      "text": "Councillor Hopkins."
+    },
+    {
+      "index": 555,
+      "start": "01:19:06.820",
+      "end": "01:19:14.400",
+      "text": "Yeah, thank you, Mr. Chair, for recognizing me. And I do want to thank you all on this committee"
+    },
+    {
+      "index": 556,
+      "start": "01:19:14.400",
+      "end": "01:19:23.280",
+      "text": "for the conversation. I've been listening very intently and I know it is not an easy situation"
+    },
+    {
+      "index": 557,
+      "start": "01:19:23.280",
+      "end": "01:19:31.000",
+      "text": "that we find ourselves in. But I appreciate the committee's willingness to do something more"
+    },
+    {
+      "index": 558,
+      "start": "01:19:31.000",
+      "end": "01:19:39.520",
+      "text": "than what we've received to date. So thank you to Councillor Lewis, you know, and I automatically"
+    },
+    {
+      "index": 559,
+      "start": "01:19:39.520",
+      "end": "01:19:46.330",
+      "text": "thought, oh, we should find too. But I think we need that broader conversation. And to specifically"
+    },
+    {
+      "index": 560,
+      "start": "01:19:46.330",
+      "end": "01:19:54.750",
+      "text": "look at the graphic images, I think each and every one of us knows that this is just not acceptable."
+    },
+    {
+      "index": 561,
+      "start": "01:19:55.480",
+      "end": "01:20:04.130",
+      "text": "And how can we deal with it as a city to protect residents from having to deal with these images"
+    },
+    {
+      "index": 562,
+      "start": "01:20:04.130",
+      "end": "01:20:11.560",
+      "text": "that can be quite traumatic to them? So I really would encourage you to do the referral. I think"
+    },
+    {
+      "index": 563,
+      "start": "01:20:11.560",
+      "end": "01:20:18.340",
+      "text": "there's further conversations that are needed. I do want to just point out some of the other"
+    },
+    {
+      "index": 564,
+      "start": "01:20:18.340",
+      "end": "01:20:25.290",
+      "text": "resolutions that other municipalities have made coming from the municipality to not only the"
+    },
+    {
+      "index": 565,
+      "start": "01:20:25.290",
+      "end": "01:20:31.990",
+      "text": "provincial government. And as you can see, there is a members bill before the provincial government,"
+    },
+    {
+      "index": 566,
+      "start": "01:20:31.990",
+      "end": "01:20:39.340",
+      "text": "but also to the federal government. And I just think we need to have more of a broader conversation."
+    },
+    {
+      "index": 567,
+      "start": "01:20:39.340",
+      "end": "01:20:45.330",
+      "text": "And here from the delegation, I request as well. So thank you again for taking this"
+    },
+    {
+      "index": 568,
+      "start": "01:20:46.760",
+      "end": "01:20:54.460",
+      "text": "conversation, I think, to a place where we need to have a fuller discussion around the graphic"
+    },
+    {
+      "index": 569,
+      "start": "01:20:54.460",
+      "end": "01:21:03.800",
+      "text": "details of what residents are having to deal with. Okay, any more discussion? Councillor Lewis."
+    },
+    {
+      "index": 570,
+      "start": "01:21:03.800",
+      "end": "01:21:06.930",
+      "text": "Thank you, Mr. Chair. And I'll certainly support your referral on this as well."
+    },
+    {
+      "index": 571,
+      "start": "01:21:06.930",
+      "end": "01:21:12.330",
+      "text": "You know, my desire is to see something come forward that has some teeth. One thing that we know"
+    },
+    {
+      "index": 572,
+      "start": "01:21:12.330",
+      "end": "01:21:18.630",
+      "text": "very clearly on a number of bylaws that we have in the city is that voluntary compliance,"
+    },
+    {
+      "index": 573,
+      "start": "01:21:19.270",
+      "end": "01:21:28.040",
+      "text": "if there's not perhaps some enforcement action and some financial penalties for those violations,"
+    },
+    {
+      "index": 574,
+      "start": "01:21:28.040",
+      "end": "01:21:34.660",
+      "text": "the voluntary compliance tends to not be terribly successful. So, but I am certainly open to,"
+    },
+    {
+      "index": 575,
+      "start": "01:21:34.660",
+      "end": "01:21:40.090",
+      "text": "because I agree with you, Mr. Chair, what we have before us misses the mark in terms of what I'm"
+    },
+    {
+      "index": 576,
+      "start": "01:21:40.090",
+      "end": "01:21:46.100",
+      "text": "what I was hoping to see when myself and Councillor Hopkins and Councillor Palosa,"
+    },
+    {
+      "index": 577,
+      "start": "01:21:46.100",
+      "end": "01:21:53.240",
+      "text": "and now today, MP-elect Kayabaga brought forward the letter almost a year ago. So, I'm happy to,"
+    },
+    {
+      "index": 578,
+      "start": "01:21:53.240",
+      "end": "01:21:58.440",
+      "text": "you know, send this to Council and then have it come back to another CAPS meeting"
+    },
+    {
+      "index": 579,
+      "start": "01:21:58.440",
+      "end": "01:22:05.460",
+      "text": "in terms of how we can make this better. So, I'll just add to, you know, when it does come back,"
+    },
+    {
+      "index": 580,
+      "start": "01:22:05.460",
+      "end": "01:22:10.510",
+      "text": "I certainly am going to want to see some some enforcement component to that, but I'm open to"
+    },
+    {
+      "index": 581,
+      "start": "01:22:10.510",
+      "end": "01:22:17.750",
+      "text": "other suggestions as well. Okay, so just I'm going to give an overview of what would happen if there"
+    },
+    {
+      "index": 582,
+      "start": "01:22:17.750",
+      "end": "01:22:22.270",
+      "text": "was a referral, and I think it's probably prudent to check in with staff to make sure that what"
+    },
+    {
+      "index": 583,
+      "start": "01:22:22.270",
+      "end": "01:22:25.160",
+      "text": "I'm going to say is actually accurate, and then I'm going to go to Councillor Ranholst,"
+    },
+    {
+      "index": 584,
+      "start": "01:22:25.160",
+      "end": "01:22:29.910",
+      "text": "because I see you got your hand up. So, if we had a referral recommendation here from committee,"
+    },
+    {
+      "index": 585,
+      "start": "01:22:29.910",
+      "end": "01:22:34.800",
+      "text": "that would go to Council two weeks from now. At Council, either that would pass or something"
+    },
+    {
+      "index": 586,
+      "start": "01:22:34.800",
+      "end": "01:22:38.590",
+      "text": "else would happen, like it could be amended, for example, with more specific direction about the"
+    },
+    {
+      "index": 587,
+      "start": "01:22:38.590",
+      "end": "01:22:44.760",
+      "text": "referral. And then our next CAPS meeting would be the 13th of October, I believe. So, if everything"
+    },
+    {
+      "index": 588,
+      "start": "01:22:44.760",
+      "end": "01:22:52.630",
+      "text": "were to go very quickly, that would be the soonest we'd be dealing with it again, I think. And I just"
+    },
+    {
+      "index": 589,
+      "start": "01:22:52.630",
+      "end": "01:22:58.650",
+      "text": "check with staff that that's sort of the order. I don't even know what's on the agenda for the"
+    },
+    {
+      "index": 590,
+      "start": "01:22:58.650",
+      "end": "01:23:12.910",
+      "text": "13th of October, if that's overloaded already. Councillor Ranholst."
+    },
+    {
+      "index": 591,
+      "start": "01:23:12.910",
+      "end": "01:23:20.620",
+      "text": "Thank you, Mr. Chair. And through you, though, I would always like to hear from delegates."
+    },
+    {
+      "index": 592,
+      "start": "01:23:20.620",
+      "end": "01:23:25.950",
+      "text": "I'm trying to have, there's four. I've only seen one on the main list. I haven't looked at the"
+    },
+    {
+      "index": 593,
+      "start": "01:23:25.950",
+      "end": "01:23:32.870",
+      "text": "added agenda to see who else is there, although I know that people have written me about hoping"
+    },
+    {
+      "index": 594,
+      "start": "01:23:32.870",
+      "end": "01:23:42.310",
+      "text": "for this bylaw. And their concern was it wasn't really going to make them happy. What I hope we"
+    },
+    {
+      "index": 595,
+      "start": "01:23:42.310",
+      "end": "01:23:49.530",
+      "text": "don't do is, instead of finding, because we're unable to make a bylaw that makes somebody happy,"
+    },
+    {
+      "index": 596,
+      "start": "01:23:49.530",
+      "end": "01:23:54.920",
+      "text": "we make a bylaw that makes no one happy, I don't think that's going to be valuable for us. But if"
+    },
+    {
+      "index": 597,
+      "start": "01:23:54.920",
+      "end": "01:24:04.000",
+      "text": "this is going to go back for referral, I hope the staff will also look to see if there are already"
+    },
+    {
+      "index": 598,
+      "start": "01:24:04.000",
+      "end": "01:24:09.100",
+      "text": "other remedies available, or I know that there's other remedies available, just how we might be"
+    },
+    {
+      "index": 599,
+      "start": "01:24:09.100",
+      "end": "01:24:18.090",
+      "text": "able to help with those. So anyone can take take some legal action, which prevents a particular"
+    },
+    {
+      "index": 600,
+      "start": "01:24:18.090",
+      "end": "01:24:26.120",
+      "text": "organization. And in this case, there is a particular organization that and prevent them from coming"
+    },
+    {
+      "index": 601,
+      "start": "01:24:26.120",
+      "end": "01:24:34.190",
+      "text": "on to their property and delivering flyers, which at this point, normally is just is an accepted"
+    },
+    {
+      "index": 602,
+      "start": "01:24:34.190",
+      "end": "01:24:43.590",
+      "text": "reason for trespassing. So people can deliver flyers that that's okay, unless you say it's not okay"
+    },
+    {
+      "index": 603,
+      "start": "01:24:43.590",
+      "end": "01:24:53.530",
+      "text": "for you to come on my property. So that would, because it has some legal teeth behind it,"
+    },
+    {
+      "index": 604,
+      "start": "01:24:53.530",
+      "end": "01:25:00.210",
+      "text": "be, I think, a good solution. And one where the city doesn't have to take action, they can"
+    },
+    {
+      "index": 605,
+      "start": "01:25:00.210",
+      "end": "01:25:07.770",
+      "text": "immediately go with the with the police. What we could do is make that a little more known and a"
+    },
+    {
+      "index": 606,
+      "start": "01:25:07.770",
+      "end": "01:25:15.570",
+      "text": "little more available to people. And that might, that might solve the problem rather than us trying"
+    },
+    {
+      "index": 607,
+      "start": "01:25:15.570",
+      "end": "01:25:24.410",
+      "text": "to come up with something that is, is easily challengeable by someone with a different worldview,"
+    },
+    {
+      "index": 608,
+      "start": "01:25:24.410",
+      "end": "01:25:34.890",
+      "text": "or something challenged because it's, it's vague and doesn't really meet the municipal purposes."
+    },
+    {
+      "index": 609,
+      "start": "01:25:35.520",
+      "end": "01:25:42.040",
+      "text": "So I think there's something there. I hope that's already available to us. I hope staff will look at"
+    },
+    {
+      "index": 610,
+      "start": "01:25:42.040",
+      "end": "01:25:47.490",
+      "text": "that as well as a, as a, as a potential solution. Thank you, Mr. Chair."
+    },
+    {
+      "index": 611,
+      "start": "01:25:47.490",
+      "end": "01:25:53.390",
+      "text": "Okay, I will note that it is mentioned in the staff report, you know, trespassed property act"
+    },
+    {
+      "index": 612,
+      "start": "01:25:53.390",
+      "end": "01:25:58.200",
+      "text": "and that individuals can enforce that themselves. But the onus, of course, is on the individuals"
+    },
+    {
+      "index": 613,
+      "start": "01:25:58.200",
+      "end": "01:26:02.990",
+      "text": "to do that. I'm going to just look to see if there's any last round of speakers. If not,"
+    },
+    {
+      "index": 614,
+      "start": "01:26:02.990",
+      "end": "01:26:07.100",
+      "text": "I'm going to open up the motion or the voting. So this would be to approve the delegations"
+    },
+    {
+      "index": 615,
+      "start": "01:26:07.100",
+      "end": "01:26:12.670",
+      "text": "at a future meeting to have the referral to the future meeting. We haven't specified the date"
+    },
+    {
+      "index": 616,
+      "start": "01:26:12.670",
+      "end": "01:26:18.670",
+      "text": "to leave it a little flexible, but it could be the 13th of October. Okay, that's going to come"
+    },
+    {
+      "index": 617,
+      "start": "01:26:18.670",
+      "end": "01:26:37.720",
+      "text": "up on the screen. I seem to have logged out of eScribe. So I'll vote in favor of that."
+    },
+    {
+      "index": 618,
+      "start": "01:26:37.720",
+      "end": "01:27:09.800",
+      "text": "Closing the vote, the motion carries five to zero. Okay, that brings us to deferred matters,"
+    },
+    {
+      "index": 619,
+      "start": "01:27:09.800",
+      "end": "01:27:16.910",
+      "text": "additional business, any additional business. Anyone want to move the deferred matters list?"
+    },
+    {
+      "index": 620,
+      "start": "01:27:16.910",
+      "end": "01:27:27.280",
+      "text": "Sir Lewis, seconder, or holder, any discussion? So open that up for a vote, voting in favor."
+    },
+    {
+      "index": 621,
+      "start": "01:27:27.280",
+      "end": "01:27:48.180",
+      "text": "Closing the vote, the motion carries five to zero. Okay, motion to adjourn. Sir Lewis,"
+    },
+    {
+      "index": 622,
+      "start": "01:27:48.180",
+      "end": "01:27:58.790",
+      "text": "seconder, Sir Hillier, all those in favor, hand vote. Okay, thank you, Councillor Slee."
+    },
+    {
+      "index": 623,
+      "start": "01:27:58.790",
+      "end": "01:28:01.580",
+      "text": "We are adjourned. Thanks, everyone. Thank you."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Community%20and%20Protective%20Services%20Committee/2021/09-21/.transcript.srt"
+}

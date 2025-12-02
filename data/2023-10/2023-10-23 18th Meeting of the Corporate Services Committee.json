@@ -1,1 +1,4176 @@
-{"title": "18th Meeting of the Corporate Services Committee", "datetime": "2023-10-23 12:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a45207b4-18a4-418c-b88a-95195bad2b25&Agenda=PostMinutes&lang=English", "meeting_type": "Corporate Services Committee", "bills": null, "present": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow", "D. Ferreira"], "also_present": ["E. Peloza", "J. Pribil", "L. Livingstone", "A. Barbon", "I. Collins", "S. Corman", "J. McMillan", "K. Murray", "J. Paradis", "E. Skalski", "J. Taylor", "B. Warner."], "remote_attendance": ["S. Hillier", "E. Bennett", "B. Card."], "content": {"string": "The meeting is called to order at 12:00 PM.", "__class__": "Paragraph"}, "absent": ["J. Morgan"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That consent items 2.1 to 2.5 BE APPROVED, with the exclusion of item 2.3", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow", "D. Ferreira"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Declare Surplus - City-Owned Property - 39 Redwood Lane", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned vacant property located at 39 Redwood Lane, legally described as Lot 96-1, Plan 33-M200, in the City of London, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the subject property BE DECLARED SURPLUS; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE TRANSFERRED to the abutting property owner, in accordance with the City\u2019s Sale and Other Disposition of Land Policy.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-10-23 Staff Report - Declare Surplus and Sale - 39 Redwood Lane", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104451", "date": "2023-10-23 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Declare Surplus - City-Owned Property - Part of Berkshire Park - 510 Berkshire Drive", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned property, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the subject property being a portion of Berkshire Park located at 510 Berkshire Drive, in the City of London, legally described as Parts of Block P, Plan 932, London / Westminster, being Parts of PIN 084050053, to be described in a reference plan to be deposited, BE DECLARED SURPLUS; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE TRANSFERRED to the abutting property owner in accordance with the City\u2019s Sale and Other Disposition of Land Policy.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-10-23 Staff Report - Declare Surplus and Sale - Part of Berkshire Park", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104452", "date": "2023-10-23 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Declare Surplus - City-Owned Property - Part of 20 Granville Street", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to a portion of City-owned property municipally known as 20 Granville Street, being Part of Lot 2, West of Wharncliffe Road, Crown Plan 30, City of London, as shown in Appendix \u201cB\u201d, as appended to the staff report, and to be further described in a reference plan to be deposited (the \u201cSubject Property\u201d), the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the Subject Property BE DECLARED SURPLUS; and,", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Subject Property BE OFFERED for sale in accordance with the City\u2019s Sale and Other Disposition of Land Policy.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-10-23 Staff Report - Declare Surplus Report - 20 Granville St", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104454", "date": "2023-10-23 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Pre-Authorized Tax Payment Plan By-law and Collection of Property Taxes By-law", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to property taxation for 2024:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 the by-law, as appended to the staff report dated October 23, 2023 as Appendix \"A\" BE INTRODUCED at the Council meeting on November 7, 2023, to amend By-law A.-5505-497 being \u201ca by-law to authorize the implementation of a pre-authorized payment plan\u201d so that the calculation of pre-authorized payments is based on the previous year\u2019s taxes increased by the average increase in total property tax rates in the residential class of the previous year; and", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the by-law, as appended to the staff report dated October 23, 2023 as Appendix \"B\" BE INTRODUCED at the Council meeting on November 7, 2023, to enact a Property Tax Collection by-law and to repeal By-law A-8, as amended.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-10-23 Staff Report - Pre-Authorized Tax Payment Plan By-Law", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104449", "date": "2023-10-23 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Declare Surplus - City-Owned Property - Public Walkway South of 10 Rossmore Court", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Trosow", "__class__": "Mover"}, "motion_texts": [{"string": "That the staff report dated October 23, 2023 regarding the declaration of surplus city owned property \u2013 Public Walkway South of 10 Rossmore Court, BE REFERRED to a future meeting of Corporate Services Committee for consideration to allow for community engagement.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow", "D. Ferreira"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-10-23 Staff Report - Declare Surplus and Sale - Walkway South of 10 Rossmore", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104453", "date": "2023-10-23 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2023-10-23 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Delegation - Emily Williams, CEO and David Jansseune, Assistant Director, Finance, Middlesex-London Health Unit - Request for Redirection of 2022 Surplus Funds", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by H. McAlister", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That the application of the City of London\u2019s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU\u2019s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED;", "__class__": "Paragraph"}, {"string": "it being noted that the Corporate Services Committee received a communication dated October 23, 2023 from Emily Williams, CEO, Middlesex-London Health Unit with respect to this matter.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "H. McAlister", "S. Trosow", "D. Ferreira"]}, {"vote": "Nays:", "voters": ["S. Stevenson"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 1)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "ADDITIONAL VOTES:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to receive the delegation from Emily Williams, CEO, Middlesex-London Health Unit", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow", "D. Ferreira"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-10-23 Submission - MLHU - Redirection of Funds", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104450", "date": "2023-10-23 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Application - Issuance of Proclamation - Hindu Heritage Month", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by D. Ferreira", "__class__": "Mover"}, "motion_texts": [{"string": "That based on the application dated October 12, 2023 from Hindu Legacy, the month of November 2023 BE PROCLAIMED Hindu Heritage Month.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow", "D. Ferreira"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [{"empty_flag": false, "title": "2023-10-23 Submission - Proclamation-Hindu Heritage Month", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104448", "date": "2023-10-23 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2023-10-23 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential (Enclosed for Members only.)", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That the Corporate Services Committee convenes In Closed Session to consider the following:\n\n\n\n6.1\u00a0 Land Acquisition/Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations\n\n\n\nA matter pertaining to the proposed or pending lease of building by the municipality, including communications necessary for that purpose;\n\nadvice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "H. McAlister", "S. Stevenson", "S. Trosow", "D. Ferreira"]}, {"vote": "Absent:", "voters": ["Mayor J. Morgan"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The Corporate Services Committee convenes In Closed Session from 12:30 PM to 12:38 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by D. Ferreira", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 12:41 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2023-10-23 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "18th Meeting of the Corporate Services Committee",
+  "datetime": "2023-10-23 12:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a45207b4-18a4-418c-b88a-95195bad2b25&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Corporate Services Committee",
+  "bills": null,
+  "present": [
+    "S. Lewis",
+    "H. McAlister",
+    "S. Stevenson",
+    "S. Trosow",
+    "D. Ferreira"
+  ],
+  "also_present": [
+    "E. Peloza",
+    "J. Pribil",
+    "L. Livingstone",
+    "A. Barbon",
+    "I. Collins",
+    "S. Corman",
+    "J. McMillan",
+    "K. Murray",
+    "J. Paradis",
+    "E. Skalski",
+    "J. Taylor",
+    "B. Warner."
+  ],
+  "remote_attendance": [
+    "S. Hillier",
+    "E. Bennett",
+    "B. Card."
+  ],
+  "content": {
+    "string": "The meeting is called to order at 12:00 PM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "J. Morgan"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-10-23 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That consent items 2.1 to 2.5 BE APPROVED, with the exclusion of item 2.3",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "S. Lewis",
+                  "H. McAlister",
+                  "S. Stevenson",
+                  "S. Trosow",
+                  "D. Ferreira"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "Mayor J. Morgan"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "Declare Surplus - City-Owned Property - 39 Redwood Lane",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned vacant property located at 39 Redwood Lane, legally described as Lot 96-1, Plan 33-M200, in the City of London, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the subject property BE DECLARED SURPLUS; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE TRANSFERRED to the abutting property owner, in accordance with the City\u2019s Sale and Other Disposition of Land Policy.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-10-23 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-10-23 Staff Report - Declare Surplus and Sale - 39 Redwood Lane",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104451",
+              "date": "2023-10-23 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Declare Surplus - City-Owned Property - Part of Berkshire Park - 510 Berkshire Drive",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned property, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the subject property being a portion of Berkshire Park located at 510 Berkshire Drive, in the City of London, legally described as Parts of Block P, Plan 932, London / Westminster, being Parts of PIN 084050053, to be described in a reference plan to be deposited, BE DECLARED SURPLUS; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the subject property (\u201cSurplus Lands\u201d) BE TRANSFERRED to the abutting property owner in accordance with the City\u2019s Sale and Other Disposition of Land Policy.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-10-23 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-10-23 Staff Report - Declare Surplus and Sale - Part of Berkshire Park",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104452",
+              "date": "2023-10-23 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Declare Surplus - City-Owned Property - Part of 20 Granville Street",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to a portion of City-owned property municipally known as 20 Granville Street, being Part of Lot 2, West of Wharncliffe Road, Crown Plan 30, City of London, as shown in Appendix \u201cB\u201d, as appended to the staff report, and to be further described in a reference plan to be deposited (the \u201cSubject Property\u201d), the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the Subject Property BE DECLARED SURPLUS; and,",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Subject Property BE OFFERED for sale in accordance with the City\u2019s Sale and Other Disposition of Land Policy.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-10-23 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-10-23 Staff Report - Declare Surplus Report - 20 Granville St",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104454",
+              "date": "2023-10-23 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "Pre-Authorized Tax Payment Plan By-law and Collection of Property Taxes By-law",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to property taxation for 2024:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 the by-law, as appended to the staff report dated October 23, 2023 as Appendix \"A\" BE INTRODUCED at the Council meeting on November 7, 2023, to amend By-law A.-5505-497 being \u201ca by-law to authorize the implementation of a pre-authorized payment plan\u201d so that the calculation of pre-authorized payments is based on the previous year\u2019s taxes increased by the average increase in total property tax rates in the residential class of the previous year; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the by-law, as appended to the staff report dated October 23, 2023 as Appendix \"B\" BE INTRODUCED at the Council meeting on November 7, 2023, to enact a Property Tax Collection by-law and to repeal By-law A-8, as amended.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-10-23 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-10-23 Staff Report - Pre-Authorized Tax Payment Plan By-Law",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104449",
+              "date": "2023-10-23 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Declare Surplus - City-Owned Property - Public Walkway South of 10 Rossmore Court",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Trosow",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the staff report dated October 23, 2023 regarding the declaration of surplus city owned property \u2013 Public Walkway South of 10 Rossmore Court, BE REFERRED to a future meeting of Corporate Services Committee for consideration to allow for community engagement.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Trosow",
+                      "D. Ferreira"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "Mayor J. Morgan"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-10-23 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-10-23 Staff Report - Declare Surplus and Sale - Walkway South of 10 Rossmore",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104453",
+              "date": "2023-10-23 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2023-10-23 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-10-23 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Delegation - Emily Williams, CEO and David Jansseune, Assistant Director, Finance, Middlesex-London Health Unit - Request for Redirection of 2022 Surplus Funds",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by H. McAlister",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the application of the City of London\u2019s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU\u2019s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that the Corporate Services Committee received a communication dated October 23, 2023 from Emily Williams, CEO, Middlesex-London Health Unit with respect to this matter.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "H. McAlister",
+                      "S. Trosow",
+                      "D. Ferreira"
+                    ]
+                  },
+                  {
+                    "vote": "Nays:",
+                    "voters": [
+                      "S. Stevenson"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "Mayor J. Morgan"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (4 to 1)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "ADDITIONAL VOTES:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to receive the delegation from Emily Williams, CEO, Middlesex-London Health Unit",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Trosow",
+                      "D. Ferreira"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "Mayor J. Morgan"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-10-23 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-10-23 Submission - MLHU - Redirection of Funds",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104450",
+              "date": "2023-10-23 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Application - Issuance of Proclamation - Hindu Heritage Month",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by D. Ferreira",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That based on the application dated October 12, 2023 from Hindu Legacy, the month of November 2023 BE PROCLAIMED Hindu Heritage Month.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Trosow",
+                      "D. Ferreira"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "Mayor J. Morgan"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2023-10-23 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2023-10-23 Submission - Proclamation-Hindu Heritage Month",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104448",
+              "date": "2023-10-23 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2023-10-23 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-10-23 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential (Enclosed for Members only.)",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by H. McAlister",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Corporate Services Committee convenes In Closed Session to consider the following:\n\n\n\n6.1\u00a0 Land Acquisition/Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations\n\n\n\nA matter pertaining to the proposed or pending lease of building by the municipality, including communications necessary for that purpose;\n\nadvice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "S. Lewis",
+                  "H. McAlister",
+                  "S. Stevenson",
+                  "S. Trosow",
+                  "D. Ferreira"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "Mayor J. Morgan"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The Corporate Services Committee convenes In Closed Session from 12:30 PM to 12:38 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-10-23 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by D. Ferreira",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by H. McAlister",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 12:41 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2023-10-23 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:16:13.670",
+      "end": "00:16:14.980",
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "index": 2,
+      "start": "00:16:14.980",
+      "end": "00:16:16.660",
+      "text": "I'm gonna call the 18th meeting"
+    },
+    {
+      "index": 3,
+      "start": "00:16:16.660",
+      "end": "00:16:20.930",
+      "text": "of the Corporate Services Committee to order."
+    },
+    {
+      "index": 4,
+      "start": "00:16:20.930",
+      "end": "00:16:24.190",
+      "text": "It is 12 p.m., and we do have quorum."
+    },
+    {
+      "index": 5,
+      "start": "00:16:24.190",
+      "end": "00:16:26.430",
+      "text": "I would like to acknowledge that the City of London"
+    },
+    {
+      "index": 6,
+      "start": "00:16:26.430",
+      "end": "00:16:29.640",
+      "text": "is situated on traditional lands of the Anishinaabeck,"
+    },
+    {
+      "index": 7,
+      "start": "00:16:29.640",
+      "end": "00:16:33.100",
+      "text": "Haudenosaunee, Lene Peiwak, and Adawanderin peoples."
+    },
+    {
+      "index": 8,
+      "start": "00:16:33.100",
+      "end": "00:16:35.310",
+      "text": "And we honor and respect the history, languages,"
+    },
+    {
+      "index": 9,
+      "start": "00:16:35.310",
+      "end": "00:16:37.090",
+      "text": "and culture of the diverse indigenous people"
+    },
+    {
+      "index": 10,
+      "start": "00:16:37.090",
+      "end": "00:16:38.910",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 11,
+      "start": "00:16:38.910",
+      "end": "00:16:40.300",
+      "text": "The City of London is currently home"
+    },
+    {
+      "index": 12,
+      "start": "00:16:40.300",
+      "end": "00:16:43.780",
+      "text": "to many M\u00e9tis, Inuit, and First Nations people today."
+    },
+    {
+      "index": 13,
+      "start": "00:16:43.780",
+      "end": "00:16:45.980",
+      "text": "And as representatives of the people of the City of London,"
+    },
+    {
+      "index": 14,
+      "start": "00:16:45.980",
+      "end": "00:16:47.670",
+      "text": "we are grateful to have the opportunity to work"
+    },
+    {
+      "index": 15,
+      "start": "00:16:47.670",
+      "end": "00:16:50.030",
+      "text": "and live in this territory."
+    },
+    {
+      "index": 16,
+      "start": "00:16:50.030",
+      "end": "00:16:51.810",
+      "text": "The City of London is also committed"
+    },
+    {
+      "index": 17,
+      "start": "00:16:51.810",
+      "end": "00:16:54.860",
+      "text": "to making every effort to provide alternate formats"
+    },
+    {
+      "index": 18,
+      "start": "00:16:54.860",
+      "end": "00:16:58.100",
+      "text": "and communication supports for meetings upon request"
+    },
+    {
+      "index": 19,
+      "start": "00:16:58.100",
+      "end": "00:17:00.630",
+      "text": "and to make a request specific to this meeting,"
+    },
+    {
+      "index": 20,
+      "start": "00:17:00.630",
+      "end": "00:17:06.020",
+      "text": "please email csc@london.ca or phone 519-661-2489,"
+    },
+    {
+      "index": 21,
+      "start": "00:17:06.020",
+      "end": "00:17:14.410",
+      "text": "extension 2425."
+    },
+    {
+      "index": 22,
+      "start": "00:17:14.410",
+      "end": "00:17:16.250",
+      "text": "Colleagues, I'm going to begin by looking"
+    },
+    {
+      "index": 23,
+      "start": "00:17:16.250",
+      "end": "00:17:22.560",
+      "text": "for any disclosures of pecuniary interest, being none."
+    },
+    {
+      "index": 24,
+      "start": "00:17:22.560",
+      "end": "00:17:25.570",
+      "text": "We will move along to the consent agenda."
+    },
+    {
+      "index": 25,
+      "start": "00:17:25.570",
+      "end": "00:17:29.600",
+      "text": "I do have a request from our visiting councilor Pelosa"
+    },
+    {
+      "index": 26,
+      "start": "00:17:29.600",
+      "end": "00:17:34.370",
+      "text": "to have 2.3 dealt with separate from the rest of the consent."
+    },
+    {
+      "index": 27,
+      "start": "00:17:34.370",
+      "end": "00:17:36.990",
+      "text": "Do I have a member of the committee"
+    },
+    {
+      "index": 28,
+      "start": "00:17:36.990",
+      "end": "00:17:39.990",
+      "text": "who will request to have that pulled?"
+    },
+    {
+      "index": 29,
+      "start": "00:17:39.990",
+      "end": "00:17:42.440",
+      "text": "Thank you, Councilor Trussow."
+    },
+    {
+      "index": 30,
+      "start": "00:17:42.440",
+      "end": "00:17:46.590",
+      "text": "So we will deal with 2.3 separately."
+    },
+    {
+      "index": 31,
+      "start": "00:17:46.590",
+      "end": "00:17:49.520",
+      "text": "And I will look to see if anyone wants anything else"
+    },
+    {
+      "index": 32,
+      "start": "00:17:49.520",
+      "end": "00:17:51.130",
+      "text": "dealt with separately on the consent agenda"
+    },
+    {
+      "index": 33,
+      "start": "00:17:51.130",
+      "end": "00:17:52.810",
+      "text": "or whether we can look for a motion to move"
+    },
+    {
+      "index": 34,
+      "start": "00:17:52.810",
+      "end": "00:17:54.120",
+      "text": "the remainder of the agenda."
+    },
+    {
+      "index": 35,
+      "start": "00:17:54.120",
+      "end": "00:17:55.620",
+      "text": "Councilor Stevenson."
+    },
+    {
+      "index": 36,
+      "start": "00:17:55.620",
+      "end": "00:17:59.120",
+      "text": "I'll make a motion to move the rest of the agenda."
+    },
+    {
+      "index": 37,
+      "start": "00:17:59.120",
+      "end": "00:18:04.310",
+      "text": "Okay, so 2.1, 2.2, 2.4, and 2.5 are on the floor."
+    },
+    {
+      "index": 38,
+      "start": "00:18:04.310",
+      "end": "00:18:08.450",
+      "text": "Is there a seconder for that?"
+    },
+    {
+      "index": 39,
+      "start": "00:18:08.450",
+      "end": "00:18:11.020",
+      "text": "Councilor Ferrera, and now we'll look"
+    },
+    {
+      "index": 40,
+      "start": "00:18:11.020",
+      "end": "00:18:17.100",
+      "text": "for any questions or comments."
+    },
+    {
+      "index": 41,
+      "start": "00:18:17.100",
+      "end": "00:18:20.380",
+      "text": "Seeing none, then I will ask the clerk"
+    },
+    {
+      "index": 42,
+      "start": "00:18:20.380",
+      "end": "00:18:22.780",
+      "text": "to open the vote on the consent agenda."
+    },
+    {
+      "index": 43,
+      "start": "00:18:22.780",
+      "end": "00:18:55.660",
+      "text": "Everything excluding 2.3."
+    },
+    {
+      "index": 44,
+      "start": "00:18:55.660",
+      "end": "00:18:59.550",
+      "text": "Closing the vote, motion carries, five to zero."
+    },
+    {
+      "index": 45,
+      "start": "00:18:59.550",
+      "end": "00:19:00.380",
+      "text": "Thank you, colleagues."
+    },
+    {
+      "index": 46,
+      "start": "00:19:00.380",
+      "end": "00:19:01.750",
+      "text": "So as is our practice,"
+    },
+    {
+      "index": 47,
+      "start": "00:19:01.750",
+      "end": "00:19:03.550",
+      "text": "we will move to items for direction next,"
+    },
+    {
+      "index": 48,
+      "start": "00:19:03.550",
+      "end": "00:19:06.340",
+      "text": "and then we will come back to 2.3"
+    },
+    {
+      "index": 49,
+      "start": "00:19:06.340",
+      "end": "00:19:07.870",
+      "text": "under the deferred matters,"
+    },
+    {
+      "index": 50,
+      "start": "00:19:07.870",
+      "end": "00:19:10.490",
+      "text": "additional business component of our meeting."
+    },
+    {
+      "index": 51,
+      "start": "00:19:10.490",
+      "end": "00:19:13.490",
+      "text": "So 4.1 in the items for direction."
+    },
+    {
+      "index": 52,
+      "start": "00:19:13.490",
+      "end": "00:19:18.660",
+      "text": "We have a delegation request from Emily Williams, CEO,"
+    },
+    {
+      "index": 53,
+      "start": "00:19:18.660",
+      "end": "00:19:20.950",
+      "text": "and David Janosun."
+    },
+    {
+      "index": 54,
+      "start": "00:19:20.950",
+      "end": "00:19:23.420",
+      "text": "Sorry if I massacred your name there."
+    },
+    {
+      "index": 55,
+      "start": "00:19:23.420",
+      "end": "00:19:26.000",
+      "text": "Assistant Director of Finance"
+    },
+    {
+      "index": 56,
+      "start": "00:19:26.000",
+      "end": "00:19:28.300",
+      "text": "from the Middlesex London Health Unit."
+    },
+    {
+      "index": 57,
+      "start": "00:19:28.300",
+      "end": "00:19:30.440",
+      "text": "I'm gonna look to see if we have a mover"
+    },
+    {
+      "index": 58,
+      "start": "00:19:30.440",
+      "end": "00:19:32.580",
+      "text": "and a seconder to receive the delegation"
+    },
+    {
+      "index": 59,
+      "start": "00:19:32.580",
+      "end": "00:19:33.730",
+      "text": "moved by Councilor McAllister"
+    },
+    {
+      "index": 60,
+      "start": "00:19:33.730",
+      "end": "00:19:36.070",
+      "text": "and seconded by Councilor Stevenson."
+    },
+    {
+      "index": 61,
+      "start": "00:19:36.070",
+      "end": "00:19:37.670",
+      "text": "We'll just ask the clerk to open the vote,"
+    },
+    {
+      "index": 62,
+      "start": "00:19:37.670",
+      "end": "00:20:26.710",
+      "text": "and once we approve your delegation, that will go to you."
+    },
+    {
+      "index": 63,
+      "start": "00:20:26.710",
+      "end": "00:20:29.850",
+      "text": "Closing the vote, motion carries, five to zero."
+    },
+    {
+      "index": 64,
+      "start": "00:20:29.850",
+      "end": "00:20:32.700",
+      "text": "You colleagues, so we'll go to Ms. Williams now"
+    },
+    {
+      "index": 65,
+      "start": "00:20:32.700",
+      "end": "00:20:34.830",
+      "text": "for your delegation."
+    },
+    {
+      "index": 66,
+      "start": "00:20:34.830",
+      "end": "00:20:44.460",
+      "text": "You've got five minutes, so please go ahead."
+    },
+    {
+      "index": 67,
+      "start": "00:20:44.460",
+      "end": "00:20:47.350",
+      "text": "Sorry, Ms. Williams, can we just get you to turn the mic on"
+    },
+    {
+      "index": 68,
+      "start": "00:20:47.350",
+      "end": "00:20:48.170",
+      "text": "so everybody can hear?"
+    },
+    {
+      "index": 69,
+      "start": "00:20:48.170",
+      "end": "00:20:49.450",
+      "text": "The first time, here we go."
+    },
+    {
+      "index": 70,
+      "start": "00:20:49.450",
+      "end": "00:20:52.020",
+      "text": "Thank you, Mr. Chair, and through you to the committee."
+    },
+    {
+      "index": 71,
+      "start": "00:20:52.020",
+      "end": "00:20:55.660",
+      "text": "Thank you for having myself and Mr. Dan soon here this morning."
+    },
+    {
+      "index": 72,
+      "start": "00:20:55.660",
+      "end": "00:20:58.570",
+      "text": "And for your consideration of this request."
+    },
+    {
+      "index": 73,
+      "start": "00:20:58.570",
+      "end": "00:21:01.220",
+      "text": "The financial situation for the Middlesex London Health Unit"
+    },
+    {
+      "index": 74,
+      "start": "00:21:01.220",
+      "end": "00:21:03.630",
+      "text": "has been evolving over the last several years"
+    },
+    {
+      "index": 75,
+      "start": "00:21:03.630",
+      "end": "00:21:06.760",
+      "text": "as we come out of the COVID-19 pandemic."
+    },
+    {
+      "index": 76,
+      "start": "00:21:06.760",
+      "end": "00:21:11.330",
+      "text": "The request before you relates to our 2022 financial year end"
+    },
+    {
+      "index": 77,
+      "start": "00:21:11.330",
+      "end": "00:21:12.800",
+      "text": "when we posted a surplus."
+    },
+    {
+      "index": 78,
+      "start": "00:21:12.800",
+      "end": "00:21:15.950",
+      "text": "This was due in large part to the redeployment"
+    },
+    {
+      "index": 79,
+      "start": "00:21:15.950",
+      "end": "00:21:19.690",
+      "text": "of COVID-19 of staff to COVID-19 related work."
+    },
+    {
+      "index": 80,
+      "start": "00:21:19.690",
+      "end": "00:21:22.150",
+      "text": "And the upcoming budget year for 2024"
+    },
+    {
+      "index": 81,
+      "start": "00:21:22.150",
+      "end": "00:21:26.250",
+      "text": "is opposing considerable difficulties for the health unit"
+    },
+    {
+      "index": 82,
+      "start": "00:21:26.250",
+      "end": "00:21:31.540",
+      "text": "where we're projecting a $2.6 to $2.8 million shortfall."
+    },
+    {
+      "index": 83,
+      "start": "00:21:31.540",
+      "end": "00:21:35.410",
+      "text": "The province had announced a 1% increase to our base funding"
+    },
+    {
+      "index": 84,
+      "start": "00:21:35.410",
+      "end": "00:21:39.870",
+      "text": "for all public health units in August for the next three years."
+    },
+    {
+      "index": 85,
+      "start": "00:21:39.870",
+      "end": "00:21:44.400",
+      "text": "However, this is insufficient to address our 2% increase"
+    },
+    {
+      "index": 86,
+      "start": "00:21:44.400",
+      "end": "00:21:47.130",
+      "text": "to staffing costs as well as our corporate inflationary"
+    },
+    {
+      "index": 87,
+      "start": "00:21:47.130",
+      "end": "00:21:48.130",
+      "text": "pressures."
+    },
+    {
+      "index": 88,
+      "start": "00:21:48.130",
+      "end": "00:21:50.860",
+      "text": "We are unionized environments and have contracts in place"
+    },
+    {
+      "index": 89,
+      "start": "00:21:50.860",
+      "end": "00:21:53.210",
+      "text": "until 2025."
+    },
+    {
+      "index": 90,
+      "start": "00:21:53.210",
+      "end": "00:21:57.350",
+      "text": "Our corporate inflation is projected to be around 3.9%."
+    },
+    {
+      "index": 91,
+      "start": "00:21:57.350",
+      "end": "00:22:00.210",
+      "text": "One of the pressures is related to the variable loan"
+    },
+    {
+      "index": 92,
+      "start": "00:22:00.210",
+      "end": "00:22:02.910",
+      "text": "that was taken out at the time of the health unit relocation"
+    },
+    {
+      "index": 93,
+      "start": "00:22:02.910",
+      "end": "00:22:06.160",
+      "text": "to City Plaza and with rising interest rates"
+    },
+    {
+      "index": 94,
+      "start": "00:22:06.160",
+      "end": "00:22:10.080",
+      "text": "that we know are impacting lots of people."
+    },
+    {
+      "index": 95,
+      "start": "00:22:10.080",
+      "end": "00:22:12.750",
+      "text": "We are projecting an almost $50,000 increase"
+    },
+    {
+      "index": 96,
+      "start": "00:22:12.750",
+      "end": "00:22:15.260",
+      "text": "to our interest payments for next year."
+    },
+    {
+      "index": 97,
+      "start": "00:22:15.260",
+      "end": "00:22:17.490",
+      "text": "So the request before you is to use"
+    },
+    {
+      "index": 98,
+      "start": "00:22:17.490",
+      "end": "00:22:20.360",
+      "text": "the City of London portion of our 2022 surplus,"
+    },
+    {
+      "index": 99,
+      "start": "00:22:20.360",
+      "end": "00:22:26.610",
+      "text": "which is $423, $548 to pay down the variable bank loan."
+    },
+    {
+      "index": 100,
+      "start": "00:22:26.610",
+      "end": "00:22:29.310",
+      "text": "We did make the same request to the County of Middlesex,"
+    },
+    {
+      "index": 101,
+      "start": "00:22:29.310",
+      "end": "00:22:31.370",
+      "text": "which was approved earlier this month."
+    },
+    {
+      "index": 102,
+      "start": "00:22:31.370",
+      "end": "00:22:33.860",
+      "text": "Thank you."
+    },
+    {
+      "index": 103,
+      "start": "00:22:33.860",
+      "end": "00:22:35.590",
+      "text": "Thank you, Ms. Williams."
+    },
+    {
+      "index": 104,
+      "start": "00:22:35.590",
+      "end": "00:22:39.610",
+      "text": "And very succinct, you had like 3 and 1/2 minutes left there."
+    },
+    {
+      "index": 105,
+      "start": "00:22:39.610",
+      "end": "00:22:41.830",
+      "text": "I'm going to look to colleagues for any questions or comments"
+    },
+    {
+      "index": 106,
+      "start": "00:22:41.830",
+      "end": "00:22:44.290",
+      "text": "and we'll start with Councillor Truss out."
+    },
+    {
+      "index": 107,
+      "start": "00:22:44.290",
+      "end": "00:22:48.250",
+      "text": "Thank you very much for your report."
+    },
+    {
+      "index": 108,
+      "start": "00:22:48.250",
+      "end": "00:22:50.590",
+      "text": "My first question is--"
+    },
+    {
+      "index": 109,
+      "start": "00:22:50.590",
+      "end": "00:22:53.100",
+      "text": "and I'm sure there's a good answer to this."
+    },
+    {
+      "index": 110,
+      "start": "00:22:53.100",
+      "end": "00:22:56.760",
+      "text": "I haven't been following the finances of your agency."
+    },
+    {
+      "index": 111,
+      "start": "00:22:56.760",
+      "end": "00:23:01.630",
+      "text": "But I have to say, when I see right"
+    },
+    {
+      "index": 112,
+      "start": "00:23:01.630",
+      "end": "00:23:05.290",
+      "text": "at the beginning of this report that there was a surplus"
+    },
+    {
+      "index": 113,
+      "start": "00:23:05.290",
+      "end": "00:23:07.240",
+      "text": "at a time when we were coming out of a-- well,"
+    },
+    {
+      "index": 114,
+      "start": "00:23:07.240",
+      "end": "00:23:09.630",
+      "text": "when we were in a public health emergency,"
+    },
+    {
+      "index": 115,
+      "start": "00:23:09.630",
+      "end": "00:23:11.530",
+      "text": "I don't understand how an agency that's"
+    },
+    {
+      "index": 116,
+      "start": "00:23:11.530",
+      "end": "00:23:14.280",
+      "text": "charged with dealing with the public health emergency"
+    },
+    {
+      "index": 117,
+      "start": "00:23:14.280",
+      "end": "00:23:15.190",
+      "text": "could have a surplus."
+    },
+    {
+      "index": 118,
+      "start": "00:23:15.190",
+      "end": "00:23:17.530",
+      "text": "If anything, it seems intuitive that you"
+    },
+    {
+      "index": 119,
+      "start": "00:23:17.530",
+      "end": "00:23:19.320",
+      "text": "would be spending more money."
+    },
+    {
+      "index": 120,
+      "start": "00:23:19.320",
+      "end": "00:23:22.670",
+      "text": "Could you address that?"
+    },
+    {
+      "index": 121,
+      "start": "00:23:22.670",
+      "end": "00:23:23.490",
+      "text": "Ms. Williams."
+    },
+    {
+      "index": 122,
+      "start": "00:23:23.490",
+      "end": "00:23:24.960",
+      "text": "And through the chair, yeah."
+    },
+    {
+      "index": 123,
+      "start": "00:23:24.960",
+      "end": "00:23:28.480",
+      "text": "So our program-related staff were redeployed"
+    },
+    {
+      "index": 124,
+      "start": "00:23:28.480",
+      "end": "00:23:30.700",
+      "text": "to COVID-19 work."
+    },
+    {
+      "index": 125,
+      "start": "00:23:30.700",
+      "end": "00:23:34.150",
+      "text": "And those costs were covered by the provincial government"
+    },
+    {
+      "index": 126,
+      "start": "00:23:34.150",
+      "end": "00:23:36.130",
+      "text": "as COVID extraordinary expenses."
+    },
+    {
+      "index": 127,
+      "start": "00:23:36.130",
+      "end": "00:23:40.190",
+      "text": "So these were staff that weren't doing their regular health"
+    },
+    {
+      "index": 128,
+      "start": "00:23:40.190",
+      "end": "00:23:42.790",
+      "text": "unit work because they were doing COVID-related work"
+    },
+    {
+      "index": 129,
+      "start": "00:23:42.790",
+      "end": "00:23:46.950",
+      "text": "and the province covered those expenses."
+    },
+    {
+      "index": 130,
+      "start": "00:23:46.950",
+      "end": "00:23:47.660",
+      "text": "Councillor--"
+    },
+    {
+      "index": 131,
+      "start": "00:23:47.660",
+      "end": "00:23:48.400",
+      "text": "Thank you."
+    },
+    {
+      "index": 132,
+      "start": "00:23:48.400",
+      "end": "00:23:49.640",
+      "text": "Still to the chair."
+    },
+    {
+      "index": 133,
+      "start": "00:23:49.640",
+      "end": "00:23:51.830",
+      "text": "That's an excellent answer."
+    },
+    {
+      "index": 134,
+      "start": "00:23:51.830",
+      "end": "00:23:53.610",
+      "text": "And I think that's very sensible."
+    },
+    {
+      "index": 135,
+      "start": "00:23:53.610",
+      "end": "00:23:55.840",
+      "text": "I get it."
+    },
+    {
+      "index": 136,
+      "start": "00:23:55.840",
+      "end": "00:23:58.330",
+      "text": "I guess my next question is if we're"
+    },
+    {
+      "index": 137,
+      "start": "00:23:58.330",
+      "end": "00:24:03.300",
+      "text": "going to be using the money, pay down the debt."
+    },
+    {
+      "index": 138,
+      "start": "00:24:03.300",
+      "end": "00:24:08.570",
+      "text": "Are there other resident-oriented programs that"
+    },
+    {
+      "index": 139,
+      "start": "00:24:08.570",
+      "end": "00:24:12.010",
+      "text": "could also be a reasonable claim on that money"
+    },
+    {
+      "index": 140,
+      "start": "00:24:12.010",
+      "end": "00:24:16.160",
+      "text": "that we should be thinking about, Ms. Williams?"
+    },
+    {
+      "index": 141,
+      "start": "00:24:16.160",
+      "end": "00:24:16.680",
+      "text": "I'm sorry."
+    },
+    {
+      "index": 142,
+      "start": "00:24:16.680",
+      "end": "00:24:17.950",
+      "text": "Through the chair."
+    },
+    {
+      "index": 143,
+      "start": "00:24:17.950",
+      "end": "00:24:22.010",
+      "text": "At this point, the 2020's year end is closed."
+    },
+    {
+      "index": 144,
+      "start": "00:24:22.010",
+      "end": "00:24:25.790",
+      "text": "And we do not carry funding year over year."
+    },
+    {
+      "index": 145,
+      "start": "00:24:25.790",
+      "end": "00:24:27.980",
+      "text": "And so typically, in the past, we"
+    },
+    {
+      "index": 146,
+      "start": "00:24:27.980",
+      "end": "00:24:31.320",
+      "text": "would have returned that funding to the city of London,"
+    },
+    {
+      "index": 147,
+      "start": "00:24:31.320",
+      "end": "00:24:35.430",
+      "text": "which is why we're asking to redirect it."
+    },
+    {
+      "index": 148,
+      "start": "00:24:35.430",
+      "end": "00:24:36.710",
+      "text": "Councillor Trussoff."
+    },
+    {
+      "index": 149,
+      "start": "00:24:36.710",
+      "end": "00:24:37.640",
+      "text": "Thank you."
+    },
+    {
+      "index": 150,
+      "start": "00:24:37.640",
+      "end": "00:24:39.830",
+      "text": "And my final question is not a question."
+    },
+    {
+      "index": 151,
+      "start": "00:24:39.830",
+      "end": "00:24:43.310",
+      "text": "It's a comment."
+    },
+    {
+      "index": 152,
+      "start": "00:24:43.310",
+      "end": "00:24:45.510",
+      "text": "I just don't see how the province can expect"
+    },
+    {
+      "index": 153,
+      "start": "00:24:45.510",
+      "end": "00:24:51.830",
+      "text": "you to operate on a 1% increase, especially"
+    },
+    {
+      "index": 154,
+      "start": "00:24:51.830",
+      "end": "00:24:56.860",
+      "text": "given inflation, interest rates, and staff costs,"
+    },
+    {
+      "index": 155,
+      "start": "00:24:56.860",
+      "end": "00:24:59.620",
+      "text": "which you projected to be much higher."
+    },
+    {
+      "index": 156,
+      "start": "00:24:59.620",
+      "end": "00:25:02.660",
+      "text": "What kind of cuts are we going to be"
+    },
+    {
+      "index": 157,
+      "start": "00:25:02.660",
+      "end": "00:25:06.310",
+      "text": "looking at in terms of resident-facing programs,"
+    },
+    {
+      "index": 158,
+      "start": "00:25:06.310",
+      "end": "00:25:12.070",
+      "text": "if we're not able to persuade the province to increase this?"
+    },
+    {
+      "index": 159,
+      "start": "00:25:12.070",
+      "end": "00:25:15.090",
+      "text": "Or will this be an increase on a claim"
+    },
+    {
+      "index": 160,
+      "start": "00:25:15.090",
+      "end": "00:25:19.520",
+      "text": "against the city of London?"
+    },
+    {
+      "index": 161,
+      "start": "00:25:19.520",
+      "end": "00:25:21.230",
+      "text": "Well, that's a comment also."
+    },
+    {
+      "index": 162,
+      "start": "00:25:21.230",
+      "end": "00:25:23.040",
+      "text": "Actually, there was a question, too."
+    },
+    {
+      "index": 163,
+      "start": "00:25:23.040",
+      "end": "00:25:26.230",
+      "text": "But also not germane to the item that we're discussing right"
+    },
+    {
+      "index": 164,
+      "start": "00:25:26.230",
+      "end": "00:25:28.240",
+      "text": "now, which is the redirection of their surplus."
+    },
+    {
+      "index": 165,
+      "start": "00:25:28.240",
+      "end": "00:25:31.070",
+      "text": "So that would be more appropriately directed"
+    },
+    {
+      "index": 166,
+      "start": "00:25:31.070",
+      "end": "00:25:33.480",
+      "text": "to their budget submission to us."
+    },
+    {
+      "index": 167,
+      "start": "00:25:33.480",
+      "end": "00:25:36.440",
+      "text": "But still, they're here, and I think it's a reasonable question"
+    },
+    {
+      "index": 168,
+      "start": "00:25:36.440",
+      "end": "00:25:39.310",
+      "text": "that's on the mind of the public."
+    },
+    {
+      "index": 169,
+      "start": "00:25:39.310",
+      "end": "00:25:41.700",
+      "text": "And it's not going to take very long."
+    },
+    {
+      "index": 170,
+      "start": "00:25:41.700",
+      "end": "00:25:43.770",
+      "text": "So I'm not going to require Ms. Williams to answer"
+    },
+    {
+      "index": 171,
+      "start": "00:25:43.770",
+      "end": "00:25:46.190",
+      "text": "if she wants to, and I don't know that their budget is"
+    },
+    {
+      "index": 172,
+      "start": "00:25:46.190",
+      "end": "00:25:49.050",
+      "text": "necessarily completely finalized for 2024,"
+    },
+    {
+      "index": 173,
+      "start": "00:25:49.050",
+      "end": "00:25:51.630",
+      "text": "so she may not be able to provide significant details."
+    },
+    {
+      "index": 174,
+      "start": "00:25:51.630",
+      "end": "00:25:55.720",
+      "text": "But I will allow her if she wants to share any response"
+    },
+    {
+      "index": 175,
+      "start": "00:25:55.720",
+      "end": "00:26:01.650",
+      "text": "to that that she may have."
+    },
+    {
+      "index": 176,
+      "start": "00:26:01.650",
+      "end": "00:26:04.490",
+      "text": "Go ahead, Ms. Williams."
+    },
+    {
+      "index": 177,
+      "start": "00:26:04.490",
+      "end": "00:26:06.480",
+      "text": "Through you, Mr. Chair, thank you."
+    },
+    {
+      "index": 178,
+      "start": "00:26:06.480",
+      "end": "00:26:07.990",
+      "text": "What I can say, and you are correct,"
+    },
+    {
+      "index": 179,
+      "start": "00:26:07.990",
+      "end": "00:26:11.490",
+      "text": "we are in the process of developing our 2024 budget."
+    },
+    {
+      "index": 180,
+      "start": "00:26:11.490",
+      "end": "00:26:14.310",
+      "text": "And we are looking at programmatic disinvestments"
+    },
+    {
+      "index": 181,
+      "start": "00:26:14.310",
+      "end": "00:26:17.700",
+      "text": "at this point in time, because as you noted,"
+    },
+    {
+      "index": 182,
+      "start": "00:26:17.700",
+      "end": "00:26:21.890",
+      "text": "the funding is insufficient based on our projected needs."
+    },
+    {
+      "index": 183,
+      "start": "00:26:21.890",
+      "end": "00:26:24.540",
+      "text": "We are not finalized yet, as that matter needs"
+    },
+    {
+      "index": 184,
+      "start": "00:26:24.540",
+      "end": "00:26:26.950",
+      "text": "Board of Health approval."
+    },
+    {
+      "index": 185,
+      "start": "00:26:26.950",
+      "end": "00:26:30.210",
+      "text": "Thank you."
+    },
+    {
+      "index": 186,
+      "start": "00:26:30.210",
+      "end": "00:26:32.460",
+      "text": "Look to see if there's any other committee members first,"
+    },
+    {
+      "index": 187,
+      "start": "00:26:32.460",
+      "end": "00:26:34.080",
+      "text": "and then Councilor Preble, I did see your hand,"
+    },
+    {
+      "index": 188,
+      "start": "00:26:34.080",
+      "end": "00:26:35.150",
+      "text": "so I've got you on the list, but I'm"
+    },
+    {
+      "index": 189,
+      "start": "00:26:35.150",
+      "end": "00:26:36.580",
+      "text": "going to go to Councilor Stevenson first"
+    },
+    {
+      "index": 190,
+      "start": "00:26:36.580",
+      "end": "00:26:38.180",
+      "text": "as a member of the committee."
+    },
+    {
+      "index": 191,
+      "start": "00:26:38.180",
+      "end": "00:26:39.460",
+      "text": "OK, thank you."
+    },
+    {
+      "index": 192,
+      "start": "00:26:39.460",
+      "end": "00:26:41.870",
+      "text": "And thank you, I've just got a couple of questions."
+    },
+    {
+      "index": 193,
+      "start": "00:26:41.870",
+      "end": "00:26:44.230",
+      "text": "What happens with the Ministry of Health portion"
+    },
+    {
+      "index": 194,
+      "start": "00:26:44.230",
+      "end": "00:26:47.220",
+      "text": "of the surplus?"
+    },
+    {
+      "index": 195,
+      "start": "00:26:47.220",
+      "end": "00:26:47.990",
+      "text": "Ms. Williams."
+    },
+    {
+      "index": 196,
+      "start": "00:26:47.990",
+      "end": "00:26:52.680",
+      "text": "Through you, Mr. Chair, it gets returned to the province."
+    },
+    {
+      "index": 197,
+      "start": "00:26:52.680",
+      "end": "00:26:53.880",
+      "text": "That's all right."
+    },
+    {
+      "index": 198,
+      "start": "00:26:53.880",
+      "end": "00:26:54.610",
+      "text": "Thank you."
+    },
+    {
+      "index": 199,
+      "start": "00:26:54.610",
+      "end": "00:27:02.480",
+      "text": "And I have a couple of questions."
+    },
+    {
+      "index": 200,
+      "start": "00:27:02.480",
+      "end": "00:27:06.440",
+      "text": "So when you talk about that the reason for the surplus"
+    },
+    {
+      "index": 201,
+      "start": "00:27:06.440",
+      "end": "00:27:08.800",
+      "text": "is because we weren't doing, or the staff weren't"
+    },
+    {
+      "index": 202,
+      "start": "00:27:08.800",
+      "end": "00:27:12.270",
+      "text": "doing regular programming, and that's"
+    },
+    {
+      "index": 203,
+      "start": "00:27:12.270",
+      "end": "00:27:17.530",
+      "text": "been for a few years, I assume now."
+    },
+    {
+      "index": 204,
+      "start": "00:27:17.530",
+      "end": "00:27:24.210",
+      "text": "It seems to me that, sorry, I've got a few things going on"
+    },
+    {
+      "index": 205,
+      "start": "00:27:24.210",
+      "end": "00:27:26.110",
+      "text": "in my head."
+    },
+    {
+      "index": 206,
+      "start": "00:27:26.110",
+      "end": "00:27:29.140",
+      "text": "So in this case, the request for it to go against the loan,"
+    },
+    {
+      "index": 207,
+      "start": "00:27:29.140",
+      "end": "00:27:33.980",
+      "text": "I'm curious on that, knowing that there is a deficit projected"
+    },
+    {
+      "index": 208,
+      "start": "00:27:33.980",
+      "end": "00:27:38.580",
+      "text": "going forward, wondering why that money is going towards the loan"
+    },
+    {
+      "index": 209,
+      "start": "00:27:38.580",
+      "end": "00:27:42.050",
+      "text": "rather than to come back consistent with the Ministry of Health."
+    },
+    {
+      "index": 210,
+      "start": "00:27:42.050",
+      "end": "00:27:46.060",
+      "text": "So just wondering, like, sort of sell me on that idea,"
+    },
+    {
+      "index": 211,
+      "start": "00:27:46.060",
+      "end": "00:27:48.950",
+      "text": "because the interest rate is only going to be $50,000"
+    },
+    {
+      "index": 212,
+      "start": "00:27:48.950",
+      "end": "00:27:49.790",
+      "text": "difference a year."
+    },
+    {
+      "index": 213,
+      "start": "00:27:49.790",
+      "end": "00:27:52.680",
+      "text": "I understand it will reduce expenses going forward,"
+    },
+    {
+      "index": 214,
+      "start": "00:27:52.680",
+      "end": "00:27:57.910",
+      "text": "but in a time where the budgets were being stretched so much,"
+    },
+    {
+      "index": 215,
+      "start": "00:27:57.910",
+      "end": "00:28:00.770",
+      "text": "I'm more inclined to have the money back to then give it"
+    },
+    {
+      "index": 216,
+      "start": "00:28:00.770",
+      "end": "00:28:02.560",
+      "text": "out where it's needed."
+    },
+    {
+      "index": 217,
+      "start": "00:28:02.560",
+      "end": "00:28:04.860",
+      "text": "So if you could just--"
+    },
+    {
+      "index": 218,
+      "start": "00:28:04.860",
+      "end": "00:28:08.030",
+      "text": "if anything else to add in terms of why do it this way,"
+    },
+    {
+      "index": 219,
+      "start": "00:28:08.030",
+      "end": "00:28:12.380",
+      "text": "and have we done it before in the past?"
+    },
+    {
+      "index": 220,
+      "start": "00:28:12.380",
+      "end": "00:28:15.300",
+      "text": "So I'll go to Ms. Williams first."
+    },
+    {
+      "index": 221,
+      "start": "00:28:15.300",
+      "end": "00:28:17.660",
+      "text": "And through you, Mr. Chair, to my knowledge,"
+    },
+    {
+      "index": 222,
+      "start": "00:28:17.660",
+      "end": "00:28:20.880",
+      "text": "no, we have not made this request in the past."
+    },
+    {
+      "index": 223,
+      "start": "00:28:20.880",
+      "end": "00:28:22.750",
+      "text": "And I think from our perspective,"
+    },
+    {
+      "index": 224,
+      "start": "00:28:22.750",
+      "end": "00:28:26.090",
+      "text": "it's attempting to pay down those variable costs,"
+    },
+    {
+      "index": 225,
+      "start": "00:28:26.090",
+      "end": "00:28:30.030",
+      "text": "not having certainty around further increases in interest"
+    },
+    {
+      "index": 226,
+      "start": "00:28:30.030",
+      "end": "00:28:33.250",
+      "text": "rates, and knowing that we, as I noted earlier,"
+    },
+    {
+      "index": 227,
+      "start": "00:28:33.250",
+      "end": "00:28:35.870",
+      "text": "aren't able to then apply the funding to our budget"
+    },
+    {
+      "index": 228,
+      "start": "00:28:35.870",
+      "end": "00:28:39.970",
+      "text": "pressure for the 2020/24 year."
+    },
+    {
+      "index": 229,
+      "start": "00:28:39.970",
+      "end": "00:28:42.660",
+      "text": "And while I know it was directed specifically"
+    },
+    {
+      "index": 230,
+      "start": "00:28:42.660",
+      "end": "00:28:46.280",
+      "text": "to our guests from Middlesex London Health Unit,"
+    },
+    {
+      "index": 231,
+      "start": "00:28:46.280",
+      "end": "00:28:49.160",
+      "text": "I am going to also see if our treasurer, Ms. Barbone,"
+    },
+    {
+      "index": 232,
+      "start": "00:28:49.160",
+      "end": "00:28:53.190",
+      "text": "wants to comment in terms of the impact of this being"
+    },
+    {
+      "index": 233,
+      "start": "00:28:53.190",
+      "end": "00:28:55.670",
+      "text": "returned to us, and what that would mean for our budget,"
+    },
+    {
+      "index": 234,
+      "start": "00:28:55.670",
+      "end": "00:28:59.550",
+      "text": "versus using it to offset debt."
+    },
+    {
+      "index": 235,
+      "start": "00:28:59.550",
+      "end": "00:29:02.160",
+      "text": "Ms. Barbone, did you have anything you wanted to share"
+    },
+    {
+      "index": 236,
+      "start": "00:29:02.160",
+      "end": "00:29:04.670",
+      "text": "with us on that?"
+    },
+    {
+      "index": 237,
+      "start": "00:29:04.670",
+      "end": "00:29:05.710",
+      "text": "Thank you through the chairs."
+    },
+    {
+      "index": 238,
+      "start": "00:29:05.710",
+      "end": "00:29:10.300",
+      "text": "So at this time in 2023, based on the previous report"
+    },
+    {
+      "index": 239,
+      "start": "00:29:10.300",
+      "end": "00:29:12.760",
+      "text": "that just got approved at council just recently"
+    },
+    {
+      "index": 240,
+      "start": "00:29:12.760",
+      "end": "00:29:16.180",
+      "text": "with our annual surplus monitoring reports,"
+    },
+    {
+      "index": 241,
+      "start": "00:29:16.180",
+      "end": "00:29:19.160",
+      "text": "we are projecting a surplus, as was represented"
+    },
+    {
+      "index": 242,
+      "start": "00:29:19.160",
+      "end": "00:29:20.590",
+      "text": "through those reports."
+    },
+    {
+      "index": 243,
+      "start": "00:29:20.590",
+      "end": "00:29:24.830",
+      "text": "So from a 2023 perspective, having it come back"
+    },
+    {
+      "index": 244,
+      "start": "00:29:24.830",
+      "end": "00:29:28.150",
+      "text": "is not a pressure that would benefit the city"
+    },
+    {
+      "index": 245,
+      "start": "00:29:28.150",
+      "end": "00:29:29.740",
+      "text": "at this point in time."
+    },
+    {
+      "index": 246,
+      "start": "00:29:29.740",
+      "end": "00:29:33.380",
+      "text": "And alternatively, I would say that certainly"
+    },
+    {
+      "index": 247,
+      "start": "00:29:33.380",
+      "end": "00:29:35.260",
+      "text": "from rolling it over into future years,"
+    },
+    {
+      "index": 248,
+      "start": "00:29:35.260",
+      "end": "00:29:36.690",
+      "text": "that's a bit of a different conversation."
+    },
+    {
+      "index": 249,
+      "start": "00:29:36.690",
+      "end": "00:29:38.610",
+      "text": "That's where the budget going forward"
+    },
+    {
+      "index": 250,
+      "start": "00:29:38.610",
+      "end": "00:29:41.520",
+      "text": "is because it's multi-year would be up to council"
+    },
+    {
+      "index": 251,
+      "start": "00:29:41.520",
+      "end": "00:29:45.440",
+      "text": "to deliberate based on that request that is coming forward."
+    },
+    {
+      "index": 252,
+      "start": "00:29:45.440",
+      "end": "00:29:47.830",
+      "text": "The only other thing I would add is that historically,"
+    },
+    {
+      "index": 253,
+      "start": "00:29:47.830",
+      "end": "00:29:51.070",
+      "text": "the surpluses have been barely insignificant"
+    },
+    {
+      "index": 254,
+      "start": "00:29:51.070",
+      "end": "00:29:52.510",
+      "text": "where they've gone forward."
+    },
+    {
+      "index": 255,
+      "start": "00:29:52.510",
+      "end": "00:29:55.100",
+      "text": "This was actually because it was anticipated"
+    },
+    {
+      "index": 256,
+      "start": "00:29:55.100",
+      "end": "00:29:56.820",
+      "text": "that it would need to, 'cause originally,"
+    },
+    {
+      "index": 257,
+      "start": "00:29:56.820",
+      "end": "00:30:00.170",
+      "text": "the province had indicated that anything would need"
+    },
+    {
+      "index": 258,
+      "start": "00:30:00.170",
+      "end": "00:30:03.450",
+      "text": "to go back and that any surplus on the health unit side"
+    },
+    {
+      "index": 259,
+      "start": "00:30:03.450",
+      "end": "00:30:05.960",
+      "text": "was originally supposed to be applied towards COVID."
+    },
+    {
+      "index": 260,
+      "start": "00:30:05.960",
+      "end": "00:30:08.360",
+      "text": "They did in fact end up covering those costs."
+    },
+    {
+      "index": 261,
+      "start": "00:30:08.360",
+      "end": "00:30:11.070",
+      "text": "So that was a significant benefit ultimately"
+    },
+    {
+      "index": 262,
+      "start": "00:30:11.070",
+      "end": "00:30:13.870",
+      "text": "to the city also in terms of providing that surplus."
+    },
+    {
+      "index": 263,
+      "start": "00:30:13.870",
+      "end": "00:30:16.310",
+      "text": "So I think certainly from that perspective,"
+    },
+    {
+      "index": 264,
+      "start": "00:30:16.310",
+      "end": "00:30:18.940",
+      "text": "there isn't a pressing need that a one-time source"
+    },
+    {
+      "index": 265,
+      "start": "00:30:18.940",
+      "end": "00:30:23.600",
+      "text": "at this time would be beneficial that the city requires."
+    },
+    {
+      "index": 266,
+      "start": "00:30:23.600",
+      "end": "00:30:24.650",
+      "text": "Thank you, Ms. Barbong."
+    },
+    {
+      "index": 267,
+      "start": "00:30:24.650",
+      "end": "00:30:27.730",
+      "text": "Ms. Stevenson, Councilor and Councilor Stevenson."
+    },
+    {
+      "index": 268,
+      "start": "00:30:27.730",
+      "end": "00:30:29.510",
+      "text": "Thank you, and I think I understand that"
+    },
+    {
+      "index": 269,
+      "start": "00:30:29.510",
+      "end": "00:30:32.400",
+      "text": "because based on the practice that we have"
+    },
+    {
+      "index": 270,
+      "start": "00:30:32.400",
+      "end": "00:30:34.490",
+      "text": "with our surplus and what we do with it,"
+    },
+    {
+      "index": 271,
+      "start": "00:30:34.490",
+      "end": "00:30:36.480",
+      "text": "we wouldn't have a benefit."
+    },
+    {
+      "index": 272,
+      "start": "00:30:36.480",
+      "end": "00:30:39.910",
+      "text": "So I understand that, but from a taxpayer perspective,"
+    },
+    {
+      "index": 273,
+      "start": "00:30:39.910",
+      "end": "00:30:42.280",
+      "text": "I'm just wondering if there's anything else"
+    },
+    {
+      "index": 274,
+      "start": "00:30:42.280",
+      "end": "00:30:44.060",
+      "text": "that you've got to say in terms of explaining"
+    },
+    {
+      "index": 275,
+      "start": "00:30:44.060",
+      "end": "00:30:46.750",
+      "text": "to the taxpayer why we would say it wouldn't benefit us"
+    },
+    {
+      "index": 276,
+      "start": "00:30:46.750",
+      "end": "00:30:51.660",
+      "text": "to get money back because that's gonna be"
+    },
+    {
+      "index": 277,
+      "start": "00:30:51.660",
+      "end": "00:30:57.590",
+      "text": "not well understood, I think."
+    },
+    {
+      "index": 278,
+      "start": "00:30:57.590",
+      "end": "00:31:00.250",
+      "text": "And I don't know if Ms. Williams or Ms. Barbong"
+    },
+    {
+      "index": 279,
+      "start": "00:31:00.250",
+      "end": "00:31:01.770",
+      "text": "have any further comment to that."
+    },
+    {
+      "index": 280,
+      "start": "00:31:01.770",
+      "end": "00:31:04.140",
+      "text": "I mean, Councilor, you kind of left it open-ended"
+    },
+    {
+      "index": 281,
+      "start": "00:31:04.140",
+      "end": "00:31:06.330",
+      "text": "to whether there was anything else they wanted to add."
+    },
+    {
+      "index": 282,
+      "start": "00:31:06.330",
+      "end": "00:31:12.020",
+      "text": "So, and I'm not seeing anybody looking to speak, so."
+    },
+    {
+      "index": 283,
+      "start": "00:31:12.020",
+      "end": "00:31:12.840",
+      "text": "Okay, thanks."
+    },
+    {
+      "index": 284,
+      "start": "00:31:12.840",
+      "end": "00:31:16.050",
+      "text": "So just one last question, then if we were to get it back,"
+    },
+    {
+      "index": 285,
+      "start": "00:31:16.050",
+      "end": "00:31:19.490",
+      "text": "then we would based on our practices be applying it"
+    },
+    {
+      "index": 286,
+      "start": "00:31:19.490",
+      "end": "00:31:21.900",
+      "text": "to our own, like where would that go"
+    },
+    {
+      "index": 287,
+      "start": "00:31:21.900",
+      "end": "00:31:25.080",
+      "text": "if we were to take that money back?"
+    },
+    {
+      "index": 288,
+      "start": "00:31:25.080",
+      "end": "00:31:26.840",
+      "text": "Ms. Barbong."
+    },
+    {
+      "index": 289,
+      "start": "00:31:26.840",
+      "end": "00:31:29.100",
+      "text": "Through the chair, so if that money were to come back"
+    },
+    {
+      "index": 290,
+      "start": "00:31:29.100",
+      "end": "00:31:32.830",
+      "text": "because our books are closed for 2022,"
+    },
+    {
+      "index": 291,
+      "start": "00:31:32.830",
+      "end": "00:31:35.840",
+      "text": "they would create additional surplus in 2023"
+    },
+    {
+      "index": 292,
+      "start": "00:31:35.840",
+      "end": "00:31:41.430",
+      "text": "through their receipt of that funding returned."
+    },
+    {
+      "index": 293,
+      "start": "00:31:41.430",
+      "end": "00:31:43.520",
+      "text": "And I think Councilor Stevenson was just asking,"
+    },
+    {
+      "index": 294,
+      "start": "00:31:43.520",
+      "end": "00:31:48.610",
+      "text": "we would use our standard application of surplus"
+    },
+    {
+      "index": 295,
+      "start": "00:31:48.610",
+      "end": "00:31:50.450",
+      "text": "to 50% to pay down the debt"
+    },
+    {
+      "index": 296,
+      "start": "00:31:50.450",
+      "end": "00:31:54.920",
+      "text": "and the other 50% could be looked at for other things, correct?"
+    },
+    {
+      "index": 297,
+      "start": "00:31:54.920",
+      "end": "00:31:57.210",
+      "text": "Sorry, what was the second 50%?"
+    },
+    {
+      "index": 298,
+      "start": "00:31:57.210",
+      "end": "00:31:59.710",
+      "text": "Ms. Barbong."
+    },
+    {
+      "index": 299,
+      "start": "00:31:59.710",
+      "end": "00:32:00.550",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 300,
+      "start": "00:32:00.550",
+      "end": "00:32:03.880",
+      "text": "So 50% to reduce authorized but in a shoe debt"
+    },
+    {
+      "index": 301,
+      "start": "00:32:03.880",
+      "end": "00:32:08.250",
+      "text": "and then 25 to the infrastructure gap reserve fund"
+    },
+    {
+      "index": 302,
+      "start": "00:32:08.250",
+      "end": "00:32:10.990",
+      "text": "and the remaining 25 to the community investment"
+    },
+    {
+      "index": 303,
+      "start": "00:32:10.990",
+      "end": "00:32:15.720",
+      "text": "reserve fund is the policy."
+    },
+    {
+      "index": 304,
+      "start": "00:32:15.720",
+      "end": "00:32:18.070",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 305,
+      "start": "00:32:18.070",
+      "end": "00:32:20.940",
+      "text": "Not to belabor this point, but now even I'm saying,"
+    },
+    {
+      "index": 306,
+      "start": "00:32:20.940",
+      "end": "00:32:24.790",
+      "text": "and how is that not a benefit to us to do that?"
+    },
+    {
+      "index": 307,
+      "start": "00:32:24.790",
+      "end": "00:32:27.320",
+      "text": "'Cause we're saying it would be of no benefit"
+    },
+    {
+      "index": 308,
+      "start": "00:32:27.320",
+      "end": "00:32:33.330",
+      "text": "to get it back to the city."
+    },
+    {
+      "index": 309,
+      "start": "00:32:33.330",
+      "end": "00:32:35.170",
+      "text": "Yeah, I don't think Ms. Barbong said it would be"
+    },
+    {
+      "index": 310,
+      "start": "00:32:35.170",
+      "end": "00:32:38.770",
+      "text": "no benefit but that it would be of benefit"
+    },
+    {
+      "index": 311,
+      "start": "00:32:38.770",
+      "end": "00:32:40.790",
+      "text": "that was rather insignificant in terms of the amount"
+    },
+    {
+      "index": 312,
+      "start": "00:32:40.790",
+      "end": "00:32:43.080",
+      "text": "of funding we're talking about in this case."
+    },
+    {
+      "index": 313,
+      "start": "00:32:43.080",
+      "end": "00:32:47.310",
+      "text": "So I do think she didn't say there was no benefit"
+    },
+    {
+      "index": 314,
+      "start": "00:32:47.310",
+      "end": "00:32:53.090",
+      "text": "just that it would be a minimal value to us."
+    },
+    {
+      "index": 315,
+      "start": "00:32:53.090",
+      "end": "00:32:55.140",
+      "text": "I don't have any other committee members on the list"
+    },
+    {
+      "index": 316,
+      "start": "00:32:55.140",
+      "end": "00:32:57.510",
+      "text": "so I'm gonna go to Councilor Perbal next."
+    },
+    {
+      "index": 317,
+      "start": "00:32:57.510",
+      "end": "00:32:59.100",
+      "text": "Thank you and I have two questions."
+    },
+    {
+      "index": 318,
+      "start": "00:32:59.100",
+      "end": "00:33:00.340",
+      "text": "First one was holiday answered"
+    },
+    {
+      "index": 319,
+      "start": "00:33:00.340",
+      "end": "00:33:03.200",
+      "text": "because I did wanna have the feedback from our staff"
+    },
+    {
+      "index": 320,
+      "start": "00:33:03.200",
+      "end": "00:33:04.720",
+      "text": "about this proposal."
+    },
+    {
+      "index": 321,
+      "start": "00:33:04.720",
+      "end": "00:33:05.630",
+      "text": "So thank you for that."
+    },
+    {
+      "index": 322,
+      "start": "00:33:05.630",
+      "end": "00:33:09.060",
+      "text": "And serve the chair to actually Mrs. Williams."
+    },
+    {
+      "index": 323,
+      "start": "00:33:09.060",
+      "end": "00:33:12.250",
+      "text": "I want to ask you, we have the from the province"
+    },
+    {
+      "index": 324,
+      "start": "00:33:12.250",
+      "end": "00:33:14.910",
+      "text": "one percent increase."
+    },
+    {
+      "index": 325,
+      "start": "00:33:14.910",
+      "end": "00:33:17.300",
+      "text": "How was it if we take out previous years,"
+    },
+    {
+      "index": 326,
+      "start": "00:33:17.300",
+      "end": "00:33:19.690",
+      "text": "if we take out the extraordinary expenses"
+    },
+    {
+      "index": 327,
+      "start": "00:33:19.690",
+      "end": "00:33:24.810",
+      "text": "that province subsidized, if it's the right word,"
+    },
+    {
+      "index": 328,
+      "start": "00:33:24.810",
+      "end": "00:33:27.780",
+      "text": "what was the percentage increase in previous years?"
+    },
+    {
+      "index": 329,
+      "start": "00:33:27.780",
+      "end": "00:33:32.320",
+      "text": "Was it in the same line, 1% or what was it before?"
+    },
+    {
+      "index": 330,
+      "start": "00:33:32.320",
+      "end": "00:33:34.850",
+      "text": "Ms. Williams."
+    },
+    {
+      "index": 331,
+      "start": "00:33:34.850",
+      "end": "00:33:36.510",
+      "text": "Thank you, Mr. Chair and through you."
+    },
+    {
+      "index": 332,
+      "start": "00:33:36.510",
+      "end": "00:33:38.650",
+      "text": "It has been some time since we've had an increase"
+    },
+    {
+      "index": 333,
+      "start": "00:33:38.650",
+      "end": "00:33:42.070",
+      "text": "from the province, we did get one in 2020."
+    },
+    {
+      "index": 334,
+      "start": "00:33:42.070",
+      "end": "00:33:45.840",
+      "text": "We got 1% increase in 2020 to our base funding"
+    },
+    {
+      "index": 335,
+      "start": "00:33:45.840",
+      "end": "00:33:50.090",
+      "text": "but prior to that it had been,"
+    },
+    {
+      "index": 336,
+      "start": "00:33:50.090",
+      "end": "00:33:52.050",
+      "text": "we think over 10 years since we've had an increase"
+    },
+    {
+      "index": 337,
+      "start": "00:33:52.050",
+      "end": "00:33:56.370",
+      "text": "in our funding from our base funding from the province."
+    },
+    {
+      "index": 338,
+      "start": "00:33:56.370",
+      "end": "00:34:01.750",
+      "text": "Councilor Perbal, okay, thank you."
+    },
+    {
+      "index": 339,
+      "start": "00:34:01.750",
+      "end": "00:34:02.890",
+      "text": "If colleagues will just indulge,"
+    },
+    {
+      "index": 340,
+      "start": "00:34:02.890",
+      "end": "00:34:05.650",
+      "text": "I'm just gonna share a brief comment from the chair."
+    },
+    {
+      "index": 341,
+      "start": "00:34:05.650",
+      "end": "00:34:09.260",
+      "text": "I'm very supportive of allowing you to do this."
+    },
+    {
+      "index": 342,
+      "start": "00:34:09.260",
+      "end": "00:34:12.040",
+      "text": "I mean, it is consistent with how we deal"
+    },
+    {
+      "index": 343,
+      "start": "00:34:12.040",
+      "end": "00:34:14.890",
+      "text": "with our own surplus and certainly"
+    },
+    {
+      "index": 344,
+      "start": "00:34:14.890",
+      "end": "00:34:16.640",
+      "text": "with a variable interest loan."
+    },
+    {
+      "index": 345,
+      "start": "00:34:16.640",
+      "end": "00:34:18.420",
+      "text": "I think it's not lost on anyone"
+    },
+    {
+      "index": 346,
+      "start": "00:34:18.420",
+      "end": "00:34:20.980",
+      "text": "that while the projection is right now"
+    },
+    {
+      "index": 347,
+      "start": "00:34:20.980",
+      "end": "00:34:24.580",
+      "text": "only about $50,000 in savings annually,"
+    },
+    {
+      "index": 348,
+      "start": "00:34:24.580",
+      "end": "00:34:26.650",
+      "text": "if interest rates continue to go the direction they have,"
+    },
+    {
+      "index": 349,
+      "start": "00:34:26.650",
+      "end": "00:34:31.550",
+      "text": "it potentially be more and certainly paying down sources"
+    },
+    {
+      "index": 350,
+      "start": "00:34:31.550",
+      "end": "00:34:34.410",
+      "text": "of debt first is always a good use of surplus funds"
+    },
+    {
+      "index": 351,
+      "start": "00:34:34.410",
+      "end": "00:34:36.510",
+      "text": "because it frees up that money"
+    },
+    {
+      "index": 352,
+      "start": "00:34:36.510",
+      "end": "00:34:39.090",
+      "text": "in perpetuity moving forward on the interest rate."
+    },
+    {
+      "index": 353,
+      "start": "00:34:39.090",
+      "end": "00:34:42.750",
+      "text": "So it's not just 50,000 this year,"
+    },
+    {
+      "index": 354,
+      "start": "00:34:42.750",
+      "end": "00:34:44.850",
+      "text": "it's 50,000 next year and the next year"
+    },
+    {
+      "index": 355,
+      "start": "00:34:44.850",
+      "end": "00:34:46.040",
+      "text": "until that loan is paid off."
+    },
+    {
+      "index": 356,
+      "start": "00:34:46.040",
+      "end": "00:34:49.220",
+      "text": "So well, it's a bit of an extraordinary circumstance."
+    },
+    {
+      "index": 357,
+      "start": "00:34:49.220",
+      "end": "00:34:52.240",
+      "text": "I think that this is a good value to the city"
+    },
+    {
+      "index": 358,
+      "start": "00:34:52.240",
+      "end": "00:34:55.550",
+      "text": "because we're still ultimately using this surplus"
+    },
+    {
+      "index": 359,
+      "start": "00:34:55.550",
+      "end": "00:34:56.420",
+      "text": "to pay down debt."
+    },
+    {
+      "index": 360,
+      "start": "00:34:56.420",
+      "end": "00:34:57.970",
+      "text": "It's just not debt held by the city,"
+    },
+    {
+      "index": 361,
+      "start": "00:34:57.970",
+      "end": "00:34:59.280",
+      "text": "it's debt held by the health unit."
+    },
+    {
+      "index": 362,
+      "start": "00:34:59.280",
+      "end": "00:35:01.660",
+      "text": "So I can be supportive of that."
+    },
+    {
+      "index": 363,
+      "start": "00:35:01.660",
+      "end": "00:35:03.720",
+      "text": "And I do thank you for bringing this forward"
+    },
+    {
+      "index": 364,
+      "start": "00:35:03.720",
+      "end": "00:35:05.650",
+      "text": "for our consideration."
+    },
+    {
+      "index": 365,
+      "start": "00:35:05.650",
+      "end": "00:35:07.620",
+      "text": "So that's the end of my comments."
+    },
+    {
+      "index": 366,
+      "start": "00:35:07.620",
+      "end": "00:35:09.120",
+      "text": "I'm just gonna look to see if there's any others"
+    },
+    {
+      "index": 367,
+      "start": "00:35:09.120",
+      "end": "00:35:13.210",
+      "text": "before I look for a motion."
+    },
+    {
+      "index": 368,
+      "start": "00:35:13.210",
+      "end": "00:35:14.330",
+      "text": "I see no others."
+    },
+    {
+      "index": 369,
+      "start": "00:35:14.330",
+      "end": "00:35:18.130",
+      "text": "So I'm gonna look for a motion on this item."
+    },
+    {
+      "index": 370,
+      "start": "00:35:18.130",
+      "end": "00:35:21.630",
+      "text": "So if colleagues are of a mind,"
+    },
+    {
+      "index": 371,
+      "start": "00:35:21.630",
+      "end": "00:35:24.370",
+      "text": "then we would look for a motion to approve the request"
+    },
+    {
+      "index": 372,
+      "start": "00:35:24.370",
+      "end": "00:35:27.610",
+      "text": "from the Middlesex London Health Unit"
+    },
+    {
+      "index": 373,
+      "start": "00:35:27.610",
+      "end": "00:35:29.540",
+      "text": "for the allocation of their surplus."
+    },
+    {
+      "index": 374,
+      "start": "00:35:29.540",
+      "end": "00:35:35.980",
+      "text": "Councillor McAllister, seconded by Councillor Ferrera."
+    },
+    {
+      "index": 375,
+      "start": "00:35:35.980",
+      "end": "00:35:37.270",
+      "text": "And we're just gonna give the clerks a minute"
+    },
+    {
+      "index": 376,
+      "start": "00:35:37.270",
+      "end": "00:35:40.980",
+      "text": "to get that typed up for us."
+    },
+    {
+      "index": 377,
+      "start": "00:35:40.980",
+      "end": "00:36:01.330",
+      "text": "And if you'd like to cast your vote."
+    },
+    {
+      "index": 378,
+      "start": "00:36:01.330",
+      "end": "00:36:05.160",
+      "text": "Closing the vote, motion carries four to one."
+    },
+    {
+      "index": 379,
+      "start": "00:36:05.160",
+      "end": "00:36:06.780",
+      "text": "Thank you colleagues."
+    },
+    {
+      "index": 380,
+      "start": "00:36:06.780",
+      "end": "00:36:09.700",
+      "text": "Moving on, the next item for direction"
+    },
+    {
+      "index": 381,
+      "start": "00:36:09.700",
+      "end": "00:36:15.030",
+      "text": "is the application for the issuance of Hindu Heritage Month."
+    },
+    {
+      "index": 382,
+      "start": "00:36:15.030",
+      "end": "00:36:19.780",
+      "text": "And I'll look to see if we have a mover for this."
+    },
+    {
+      "index": 383,
+      "start": "00:36:19.780",
+      "end": "00:36:24.430",
+      "text": "It was submitted by a Londoner with a London address."
+    },
+    {
+      "index": 384,
+      "start": "00:36:24.430",
+      "end": "00:36:27.030",
+      "text": "So it meets our local connection requirement."
+    },
+    {
+      "index": 385,
+      "start": "00:36:27.030",
+      "end": "00:36:29.160",
+      "text": "Councillor Stevenson, you're willing to move."
+    },
+    {
+      "index": 386,
+      "start": "00:36:29.160",
+      "end": "00:36:29.960",
+      "text": "Do we have a seconder?"
+    },
+    {
+      "index": 387,
+      "start": "00:36:29.960",
+      "end": "00:36:32.050",
+      "text": "Councillor Ferrera."
+    },
+    {
+      "index": 388,
+      "start": "00:36:32.050",
+      "end": "00:36:49.180",
+      "text": "And I will ask the clerk to open the vote on that."
+    },
+    {
+      "index": 389,
+      "start": "00:36:49.180",
+      "end": "00:37:01.230",
+      "text": "Councillor Trussell, closing the vote motion passes five to zero."
+    },
+    {
+      "index": 390,
+      "start": "00:37:01.230",
+      "end": "00:37:02.050",
+      "text": "Thank you colleagues."
+    },
+    {
+      "index": 391,
+      "start": "00:37:02.050",
+      "end": "00:37:05.330",
+      "text": "Moving on to deferred matters and additional business."
+    },
+    {
+      "index": 392,
+      "start": "00:37:05.330",
+      "end": "00:37:08.620",
+      "text": "We do have one deferred matter from earlier in the agenda."
+    },
+    {
+      "index": 393,
+      "start": "00:37:08.620",
+      "end": "00:37:12.840",
+      "text": "That is 2.3, the declare surplus city owned property,"
+    },
+    {
+      "index": 394,
+      "start": "00:37:12.840",
+      "end": "00:37:16.030",
+      "text": "public walkway, south of 10 Rossmore courts."
+    },
+    {
+      "index": 395,
+      "start": "00:37:16.030",
+      "end": "00:37:19.570",
+      "text": "And that was pulled as the word Councillor"
+    },
+    {
+      "index": 396,
+      "start": "00:37:19.570",
+      "end": "00:37:23.170",
+      "text": "and visiting Councillor Palosa asked for us to pull this."
+    },
+    {
+      "index": 397,
+      "start": "00:37:23.170",
+      "end": "00:37:25.850",
+      "text": "So if no one from committee wishes to go first,"
+    },
+    {
+      "index": 398,
+      "start": "00:37:25.850",
+      "end": "00:37:27.420",
+      "text": "I'm gonna go directly to the word councilor"
+    },
+    {
+      "index": 399,
+      "start": "00:37:27.420",
+      "end": "00:37:31.260",
+      "text": "to give her an opportunity to raise her reason"
+    },
+    {
+      "index": 400,
+      "start": "00:37:31.260",
+      "end": "00:37:33.750",
+      "text": "for asking for this to be dealt with separately."
+    },
+    {
+      "index": 401,
+      "start": "00:37:33.750",
+      "end": "00:37:35.330",
+      "text": "Councillor Palosa."
+    },
+    {
+      "index": 402,
+      "start": "00:37:35.330",
+      "end": "00:37:37.090",
+      "text": "Thank you, Mr. Chair and members of the committee"
+    },
+    {
+      "index": 403,
+      "start": "00:37:37.090",
+      "end": "00:37:39.520",
+      "text": "for allowing me to speak on this item today."
+    },
+    {
+      "index": 404,
+      "start": "00:37:39.520",
+      "end": "00:37:43.600",
+      "text": "I am looking for you not to initially take staff's recommendation,"
+    },
+    {
+      "index": 405,
+      "start": "00:37:43.600",
+      "end": "00:37:46.370",
+      "text": "but rather to refer this, refer it back to staff"
+    },
+    {
+      "index": 406,
+      "start": "00:37:46.370",
+      "end": "00:37:49.380",
+      "text": "for an opportunity for a community consultation."
+    },
+    {
+      "index": 407,
+      "start": "00:37:49.380",
+      "end": "00:37:54.230",
+      "text": "Though I usually am in favor of closing out these walkway systems,"
+    },
+    {
+      "index": 408,
+      "start": "00:37:54.230",
+      "end": "00:37:55.470",
+      "text": "selling them off to property owners,"
+    },
+    {
+      "index": 409,
+      "start": "00:37:55.470",
+      "end": "00:37:58.690",
+      "text": "realizing the city saves on maintenance upkeep"
+    },
+    {
+      "index": 410,
+      "start": "00:37:58.690",
+      "end": "00:38:01.870",
+      "text": "and can become a neighborhood nuisance."
+    },
+    {
+      "index": 411,
+      "start": "00:38:01.870",
+      "end": "00:38:04.340",
+      "text": "What is not within this report was"
+    },
+    {
+      "index": 412,
+      "start": "00:38:04.340",
+      "end": "00:38:07.560",
+      "text": "that this was a neighborhood trail connection,"
+    },
+    {
+      "index": 413,
+      "start": "00:38:07.560",
+      "end": "00:38:10.860",
+      "text": "back in 2020, the boardwalk,"
+    },
+    {
+      "index": 414,
+      "start": "00:38:10.860",
+      "end": "00:38:15.250",
+      "text": "part of the boardwalk was replaced, part of this trail system."
+    },
+    {
+      "index": 415,
+      "start": "00:38:15.250",
+      "end": "00:38:17.020",
+      "text": "The boardwalk was in poor condition"
+    },
+    {
+      "index": 416,
+      "start": "00:38:17.020",
+      "end": "00:38:19.590",
+      "text": "in environmentally sensitive area."
+    },
+    {
+      "index": 417,
+      "start": "00:38:19.590",
+      "end": "00:38:23.890",
+      "text": "The city removed it to residents' displeasure"
+    },
+    {
+      "index": 418,
+      "start": "00:38:23.890",
+      "end": "00:38:26.640",
+      "text": "as it is a well-loved connection throughout this neighborhood."
+    },
+    {
+      "index": 419,
+      "start": "00:38:26.640",
+      "end": "00:38:29.580",
+      "text": "And the compromise made at that time with residents"
+    },
+    {
+      "index": 420,
+      "start": "00:38:29.580",
+      "end": "00:38:31.540",
+      "text": "was you will have a lookout."
+    },
+    {
+      "index": 421,
+      "start": "00:38:31.540",
+      "end": "00:38:35.360",
+      "text": "So in July of 2021, area residents were advised"
+    },
+    {
+      "index": 422,
+      "start": "00:38:35.360",
+      "end": "00:38:37.360",
+      "text": "of this lookout that was completed and built"
+    },
+    {
+      "index": 423,
+      "start": "00:38:37.360",
+      "end": "00:38:39.110",
+      "text": "by the fall of that year."
+    },
+    {
+      "index": 424,
+      "start": "00:38:39.110",
+      "end": "00:38:42.700",
+      "text": "So I was surprised to see that barely two years on"
+    },
+    {
+      "index": 425,
+      "start": "00:38:42.700",
+      "end": "00:38:45.570",
+      "text": "that staff's recommendation is to close off the property,"
+    },
+    {
+      "index": 426,
+      "start": "00:38:45.570",
+      "end": "00:38:49.480",
+      "text": "remove the lookout and sell it to a private owner."
+    },
+    {
+      "index": 427,
+      "start": "00:38:49.480",
+      "end": "00:38:55.280",
+      "text": "So I usually understand why we're doing this."
+    },
+    {
+      "index": 428,
+      "start": "00:38:55.280",
+      "end": "00:38:58.470",
+      "text": "With our parks team, was surprised to see this one today"
+    },
+    {
+      "index": 429,
+      "start": "00:38:58.470",
+      "end": "00:39:00.060",
+      "text": "as I was given no advance notice,"
+    },
+    {
+      "index": 430,
+      "start": "00:39:00.060",
+      "end": "00:39:02.290",
+      "text": "except for the agenda when it became public"
+    },
+    {
+      "index": 431,
+      "start": "00:39:02.290",
+      "end": "00:39:06.550",
+      "text": "and that it was already a lookout built for area residents."
+    },
+    {
+      "index": 432,
+      "start": "00:39:06.550",
+      "end": "00:39:09.410",
+      "text": "So surprised to see it being closed and moved to private hands"
+    },
+    {
+      "index": 433,
+      "start": "00:39:09.410",
+      "end": "00:39:10.330",
+      "text": "so soon."
+    },
+    {
+      "index": 434,
+      "start": "00:39:10.330",
+      "end": "00:39:11.520",
+      "text": "So looking for an opportunity,"
+    },
+    {
+      "index": 435,
+      "start": "00:39:11.520",
+      "end": "00:39:15.720",
+      "text": "staff's welcome to comment today if there's specific areas"
+    },
+    {
+      "index": 436,
+      "start": "00:39:15.720",
+      "end": "00:39:18.760",
+      "text": "as the map of the trail system that this had connected to"
+    },
+    {
+      "index": 437,
+      "start": "00:39:18.760",
+      "end": "00:39:21.410",
+      "text": "was not part of your agenda package for information,"
+    },
+    {
+      "index": 438,
+      "start": "00:39:21.410",
+      "end": "00:39:25.500",
+      "text": "but looking to see if we're just selling it"
+    },
+    {
+      "index": 439,
+      "start": "00:39:25.500",
+      "end": "00:39:27.110",
+      "text": "or what residents can have instead"
+    },
+    {
+      "index": 440,
+      "start": "00:39:27.110",
+      "end": "00:39:28.170",
+      "text": "since they're losing a lookout"
+    },
+    {
+      "index": 441,
+      "start": "00:39:28.170",
+      "end": "00:39:32.480",
+      "text": "that the city just built for them."
+    },
+    {
+      "index": 442,
+      "start": "00:39:32.480",
+      "end": "00:39:33.560",
+      "text": "Thank you, Councillor Ploza."
+    },
+    {
+      "index": 443,
+      "start": "00:39:33.560",
+      "end": "00:39:36.500",
+      "text": "And I will note that we do not have anyone"
+    },
+    {
+      "index": 444,
+      "start": "00:39:36.500",
+      "end": "00:39:39.250",
+      "text": "from Parks and Forestry with us in the meeting."
+    },
+    {
+      "index": 445,
+      "start": "00:39:39.250",
+      "end": "00:39:42.990",
+      "text": "So, and I hear your request is for a referral for a cycle"
+    },
+    {
+      "index": 446,
+      "start": "00:39:42.990",
+      "end": "00:39:44.660",
+      "text": "so you can have those discussions with them."
+    },
+    {
+      "index": 447,
+      "start": "00:39:44.660",
+      "end": "00:39:47.730",
+      "text": "I am gonna look to see if Ms. Barbone or Mr. Warner,"
+    },
+    {
+      "index": 448,
+      "start": "00:39:47.730",
+      "end": "00:39:49.990",
+      "text": "as their names are on the report,"
+    },
+    {
+      "index": 449,
+      "start": "00:39:49.990",
+      "end": "00:39:53.800",
+      "text": "if they have any thing that they would like to add to this"
+    },
+    {
+      "index": 450,
+      "start": "00:39:53.800",
+      "end": "00:39:55.980",
+      "text": "or if they have any concerns about a referral"
+    },
+    {
+      "index": 451,
+      "start": "00:39:55.980",
+      "end": "00:39:58.240",
+      "text": "for a cycle for further information"
+    },
+    {
+      "index": 452,
+      "start": "00:39:58.240",
+      "end": "00:39:59.310",
+      "text": "to come from our parks team."
+    },
+    {
+      "index": 453,
+      "start": "00:39:59.310",
+      "end": "00:40:00.820",
+      "text": "So I'll start with Ms. Barbone"
+    },
+    {
+      "index": 454,
+      "start": "00:40:00.820",
+      "end": "00:40:05.710",
+      "text": "and then we'll see if Mr. Warner has anything to add."
+    },
+    {
+      "index": 455,
+      "start": "00:40:05.710",
+      "end": "00:40:07.480",
+      "text": "I'll defer to Mr. Warner, thank you."
+    },
+    {
+      "index": 456,
+      "start": "00:40:07.480",
+      "end": "00:40:09.400",
+      "text": "Okay, Ms. Barbone's gonna defer to Mr. Warner,"
+    },
+    {
+      "index": 457,
+      "start": "00:40:09.400",
+      "end": "00:40:11.460",
+      "text": "so we'll go to Mr. Warner."
+    },
+    {
+      "index": 458,
+      "start": "00:40:11.460",
+      "end": "00:40:13.040",
+      "text": "Thank you, and through the chair."
+    },
+    {
+      "index": 459,
+      "start": "00:40:13.040",
+      "end": "00:40:16.110",
+      "text": "So we did have a discussion with the Parks and Forestry"
+    },
+    {
+      "index": 460,
+      "start": "00:40:16.110",
+      "end": "00:40:17.980",
+      "text": "and it was our understanding that"
+    },
+    {
+      "index": 461,
+      "start": "00:40:17.980",
+      "end": "00:40:19.640",
+      "text": "from a technical perspective operational"
+    },
+    {
+      "index": 462,
+      "start": "00:40:19.640",
+      "end": "00:40:22.550",
+      "text": "that they were recommending that this walkway"
+    },
+    {
+      "index": 463,
+      "start": "00:40:22.550",
+      "end": "00:40:26.220",
+      "text": "be essentially declared surplus and sole."
+    },
+    {
+      "index": 464,
+      "start": "00:40:26.220",
+      "end": "00:40:29.440",
+      "text": "But I hear the Councillor's concerns and comments"
+    },
+    {
+      "index": 465,
+      "start": "00:40:29.440",
+      "end": "00:40:31.940",
+      "text": "and so I'd like the opportunity to go back"
+    },
+    {
+      "index": 466,
+      "start": "00:40:31.940",
+      "end": "00:40:36.190",
+      "text": "and review this again with Mr. yeoman and Mr. Bruin"
+    },
+    {
+      "index": 467,
+      "start": "00:40:36.190",
+      "end": "00:40:39.700",
+      "text": "and engage in conversations with the Councillor as well."
+    },
+    {
+      "index": 468,
+      "start": "00:40:39.700",
+      "end": "00:40:41.150",
+      "text": "Thank you."
+    },
+    {
+      "index": 469,
+      "start": "00:40:41.150",
+      "end": "00:40:42.200",
+      "text": "Thank you, Mr. Warner."
+    },
+    {
+      "index": 470,
+      "start": "00:40:42.200",
+      "end": "00:40:44.370",
+      "text": "Well, we have a request from the Ward Councilor"
+    },
+    {
+      "index": 471,
+      "start": "00:40:44.370",
+      "end": "00:40:45.870",
+      "text": "and a concurrence from staff."
+    },
+    {
+      "index": 472,
+      "start": "00:40:45.870",
+      "end": "00:40:49.100",
+      "text": "So I'm gonna look to see Councillor Trussow."
+    },
+    {
+      "index": 473,
+      "start": "00:40:49.100",
+      "end": "00:40:50.830",
+      "text": "Through the chair, I'm just wondering"
+    },
+    {
+      "index": 474,
+      "start": "00:40:50.830",
+      "end": "00:40:53.030",
+      "text": "why members of the immediate area"
+    },
+    {
+      "index": 475,
+      "start": "00:40:53.030",
+      "end": "00:40:58.580",
+      "text": "and the Councillor were not aware of this before."
+    },
+    {
+      "index": 476,
+      "start": "00:40:58.580",
+      "end": "00:41:00.600",
+      "text": "I don't think staff can,"
+    },
+    {
+      "index": 477,
+      "start": "00:41:00.600",
+      "end": "00:41:03.640",
+      "text": "the staff that are here today can speculate on that,"
+    },
+    {
+      "index": 478,
+      "start": "00:41:03.640",
+      "end": "00:41:06.180",
+      "text": "but I think that's the point of the request for a referral."
+    },
+    {
+      "index": 479,
+      "start": "00:41:06.180",
+      "end": "00:41:07.920",
+      "text": "I think they certainly can."
+    },
+    {
+      "index": 480,
+      "start": "00:41:07.920",
+      "end": "00:41:10.810",
+      "text": "Was any attempt made to notify the Ward Councilor"
+    },
+    {
+      "index": 481,
+      "start": "00:41:10.810",
+      "end": "00:41:11.960",
+      "text": "or members of the public?"
+    },
+    {
+      "index": 482,
+      "start": "00:41:11.960",
+      "end": "00:41:13.360",
+      "text": "Councillor."
+    },
+    {
+      "index": 483,
+      "start": "00:41:13.360",
+      "end": "00:41:14.190",
+      "text": "No, I think that's--"
+    },
+    {
+      "index": 484,
+      "start": "00:41:14.190",
+      "end": "00:41:15.460",
+      "text": "No, I'm sorry, Councillor."
+    },
+    {
+      "index": 485,
+      "start": "00:41:15.460",
+      "end": "00:41:17.440",
+      "text": "I've made a ruling and I'm gonna rule that out of order."
+    },
+    {
+      "index": 486,
+      "start": "00:41:17.440",
+      "end": "00:41:20.570",
+      "text": "Mr. Warner has indicated he has spoken to the park staff,"
+    },
+    {
+      "index": 487,
+      "start": "00:41:20.570",
+      "end": "00:41:21.920",
+      "text": "but you're asking him to speculate"
+    },
+    {
+      "index": 488,
+      "start": "00:41:21.920",
+      "end": "00:41:25.210",
+      "text": "on the park staff's communications piece"
+    },
+    {
+      "index": 489,
+      "start": "00:41:25.210",
+      "end": "00:41:27.080",
+      "text": "and as a member of Realty Services,"
+    },
+    {
+      "index": 490,
+      "start": "00:41:27.080",
+      "end": "00:41:28.950",
+      "text": "he's not in a position to do that."
+    },
+    {
+      "index": 491,
+      "start": "00:41:28.950",
+      "end": "00:41:30.750",
+      "text": "Let me rephrase the question then."
+    },
+    {
+      "index": 492,
+      "start": "00:41:30.750",
+      "end": "00:41:34.270",
+      "text": "To your knowledge, Mr. Warner,"
+    },
+    {
+      "index": 493,
+      "start": "00:41:34.270",
+      "end": "00:41:37.350",
+      "text": "was any notice given to the Councillor"
+    },
+    {
+      "index": 494,
+      "start": "00:41:37.350",
+      "end": "00:41:40.640",
+      "text": "or members of the public just to your knowledge?"
+    },
+    {
+      "index": 495,
+      "start": "00:41:40.640",
+      "end": "00:41:42.050",
+      "text": "Mr. Warner."
+    },
+    {
+      "index": 496,
+      "start": "00:41:42.050",
+      "end": "00:41:44.380",
+      "text": "Through the chair, so part of the process is"
+    },
+    {
+      "index": 497,
+      "start": "00:41:44.380",
+      "end": "00:41:47.010",
+      "text": "we do a property lease on"
+    },
+    {
+      "index": 498,
+      "start": "00:41:47.010",
+      "end": "00:41:49.870",
+      "text": "and we usually do copy the word council on that."
+    },
+    {
+      "index": 499,
+      "start": "00:41:49.870",
+      "end": "00:41:54.130",
+      "text": "I can't say today to my knowledge that that was specifically"
+    },
+    {
+      "index": 500,
+      "start": "00:41:54.130",
+      "end": "00:41:56.410",
+      "text": "done and I would like the opportunity to check our records,"
+    },
+    {
+      "index": 501,
+      "start": "00:41:56.410",
+      "end": "00:41:59.520",
+      "text": "but in any event, we would normally,"
+    },
+    {
+      "index": 502,
+      "start": "00:41:59.520",
+      "end": "00:42:02.620",
+      "text": "we would include a communication like that."
+    },
+    {
+      "index": 503,
+      "start": "00:42:02.620",
+      "end": "00:42:04.800",
+      "text": "It's called a property lease on."
+    },
+    {
+      "index": 504,
+      "start": "00:42:04.800",
+      "end": "00:42:07.150",
+      "text": "It goes to all the internal service areas"
+    },
+    {
+      "index": 505,
+      "start": "00:42:07.150",
+      "end": "00:42:09.590",
+      "text": "and including the Ward Councilor."
+    },
+    {
+      "index": 506,
+      "start": "00:42:09.590",
+      "end": "00:42:11.310",
+      "text": "Councillor Trussa."
+    },
+    {
+      "index": 507,
+      "start": "00:42:11.310",
+      "end": "00:42:15.140",
+      "text": "Finally, to the chair and as you know,"
+    },
+    {
+      "index": 508,
+      "start": "00:42:15.140",
+      "end": "00:42:16.600",
+      "text": "this question has come up before"
+    },
+    {
+      "index": 509,
+      "start": "00:42:16.600",
+      "end": "00:42:18.020",
+      "text": "and it's a matter of my concern."
+    },
+    {
+      "index": 510,
+      "start": "00:42:18.020",
+      "end": "00:42:22.910",
+      "text": "So what can be done to make sure that better notice"
+    },
+    {
+      "index": 511,
+      "start": "00:42:22.910",
+      "end": "00:42:29.010",
+      "text": "is given in the future, in your opinion?"
+    },
+    {
+      "index": 512,
+      "start": "00:42:29.010",
+      "end": "00:42:30.630",
+      "text": "Mr. Warner, did you have any comment"
+    },
+    {
+      "index": 513,
+      "start": "00:42:30.630",
+      "end": "00:42:32.330",
+      "text": "that you wanted to share on that?"
+    },
+    {
+      "index": 514,
+      "start": "00:42:32.330",
+      "end": "00:42:36.260",
+      "text": "Through the chair, we'll review our internal processes,"
+    },
+    {
+      "index": 515,
+      "start": "00:42:36.260",
+      "end": "00:42:39.240",
+      "text": "but typically we don't usually miss this stuff."
+    },
+    {
+      "index": 516,
+      "start": "00:42:39.240",
+      "end": "00:42:41.510",
+      "text": "If we've missed it, then I'll take responsibility,"
+    },
+    {
+      "index": 517,
+      "start": "00:42:41.510",
+      "end": "00:42:44.470",
+      "text": "but I would definitely agree with the referral"
+    },
+    {
+      "index": 518,
+      "start": "00:42:44.470",
+      "end": "00:42:46.400",
+      "text": "and we can correct it."
+    },
+    {
+      "index": 519,
+      "start": "00:42:46.400",
+      "end": "00:42:47.720",
+      "text": "Thank you."
+    },
+    {
+      "index": 520,
+      "start": "00:42:47.720",
+      "end": "00:42:49.150",
+      "text": "Thank you, that's all for now."
+    },
+    {
+      "index": 521,
+      "start": "00:42:49.150",
+      "end": "00:42:51.070",
+      "text": "Okay, Councillor Stevenson."
+    },
+    {
+      "index": 522,
+      "start": "00:42:51.070",
+      "end": "00:42:54.350",
+      "text": "I'd like to refer this motion back."
+    },
+    {
+      "index": 523,
+      "start": "00:42:54.350",
+      "end": "00:42:56.310",
+      "text": "Okay, Councillor Stevenson has moved"
+    },
+    {
+      "index": 524,
+      "start": "00:42:56.310",
+      "end": "00:43:00.360",
+      "text": "and Councillor Trussa was willing to second a referral."
+    },
+    {
+      "index": 525,
+      "start": "00:43:00.360",
+      "end": "00:43:02.370",
+      "text": "Do you want to put a timeline on that Councillor"
+    },
+    {
+      "index": 526,
+      "start": "00:43:02.370",
+      "end": "00:43:03.780",
+      "text": "or do you just want to send it back"
+    },
+    {
+      "index": 527,
+      "start": "00:43:03.780",
+      "end": "00:43:07.820",
+      "text": "for community engagement?"
+    },
+    {
+      "index": 528,
+      "start": "00:43:07.820",
+      "end": "00:43:10.290",
+      "text": "Just back for community engagement."
+    },
+    {
+      "index": 529,
+      "start": "00:43:10.290",
+      "end": "00:43:14.260",
+      "text": "Okay, so we've got a motion to refer this back"
+    },
+    {
+      "index": 530,
+      "start": "00:43:14.260",
+      "end": "00:43:16.080",
+      "text": "that would allow our staff and the Ward Councilor"
+    },
+    {
+      "index": 531,
+      "start": "00:43:16.080",
+      "end": "00:43:18.140",
+      "text": "an opportunity to have a discussion,"
+    },
+    {
+      "index": 532,
+      "start": "00:43:18.140",
+      "end": "00:43:19.770",
+      "text": "perhaps some community engagement on that"
+    },
+    {
+      "index": 533,
+      "start": "00:43:19.770",
+      "end": "00:43:23.670",
+      "text": "and then come back at a future corporate services meeting."
+    },
+    {
+      "index": 534,
+      "start": "00:43:23.670",
+      "end": "00:43:25.760",
+      "text": "So we're just going to give the clerk an opportunity"
+    },
+    {
+      "index": 535,
+      "start": "00:43:25.760",
+      "end": "00:43:27.060",
+      "text": "to type up that referral"
+    },
+    {
+      "index": 536,
+      "start": "00:43:27.060",
+      "end": "00:43:28.160",
+      "text": "and then we'll get that language up"
+    },
+    {
+      "index": 537,
+      "start": "00:43:28.160",
+      "end": "00:44:00.050",
+      "text": "for everyone's consideration."
+    },
+    {
+      "index": 538,
+      "start": "00:44:00.050",
+      "end": "00:44:01.720",
+      "text": "Okay, and that language is up for you now"
+    },
+    {
+      "index": 539,
+      "start": "00:44:01.720",
+      "end": "00:44:13.520",
+      "text": "and is open for your vote."
+    },
+    {
+      "index": 540,
+      "start": "00:44:13.520",
+      "end": "00:44:17.820",
+      "text": "Closing the vote, motion carries, five to zero."
+    },
+    {
+      "index": 541,
+      "start": "00:44:17.820",
+      "end": "00:44:19.690",
+      "text": "Thank you, colleagues."
+    },
+    {
+      "index": 542,
+      "start": "00:44:19.690",
+      "end": "00:44:21.470",
+      "text": "That completes our deferred matters"
+    },
+    {
+      "index": 543,
+      "start": "00:44:21.470",
+      "end": "00:44:22.460",
+      "text": "and additional business."
+    },
+    {
+      "index": 544,
+      "start": "00:44:22.460",
+      "end": "00:44:25.700",
+      "text": "We do have one item for confidential session,"
+    },
+    {
+      "index": 545,
+      "start": "00:44:25.700",
+      "end": "00:44:29.420",
+      "text": "so I'm going to look for a motion now to move in camera."
+    },
+    {
+      "index": 546,
+      "start": "00:44:29.420",
+      "end": "00:44:30.740",
+      "text": "We'll buy Councillor Stevenson"
+    },
+    {
+      "index": 547,
+      "start": "00:44:30.740",
+      "end": "00:44:32.930",
+      "text": "and seconded by Councillor McAllister"
+    },
+    {
+      "index": 548,
+      "start": "00:44:32.930",
+      "end": "00:44:46.420",
+      "text": "and we'll ask the clerk to open the vote on that."
+    },
+    {
+      "index": 549,
+      "start": "00:44:46.420",
+      "end": "00:44:52.580",
+      "text": "Closing the vote, motion passes, five to zero."
+    },
+    {
+      "index": 550,
+      "start": "00:44:52.580",
+      "end": "00:44:53.370",
+      "text": "Thank you, colleagues."
+    },
+    {
+      "index": 551,
+      "start": "00:44:53.370",
+      "end": "00:44:56.440",
+      "text": "Give us a moment to close off the public streams"
+    },
+    {
+      "index": 552,
+      "start": "00:44:56.440",
+      "end": "00:46:32.110",
+      "text": "and shuffle the deck chairs."
+    },
+    {
+      "index": 553,
+      "start": "00:46:32.110",
+      "end": "00:46:46.260",
+      "text": "Recording stopped."
+    },
+    {
+      "index": 554,
+      "start": "00:46:46.260",
+      "end": "00:46:47.760",
+      "text": "Okay, committee, the clerk informs me"
+    },
+    {
+      "index": 555,
+      "start": "00:46:47.760",
+      "end": "00:46:50.390",
+      "text": "that we are back now in public session."
+    },
+    {
+      "index": 556,
+      "start": "00:46:50.390",
+      "end": "00:46:51.770",
+      "text": "Streams are running."
+    },
+    {
+      "index": 557,
+      "start": "00:46:51.770",
+      "end": "00:46:55.490",
+      "text": "We are now going to ask Vice Chair Trussow"
+    },
+    {
+      "index": 558,
+      "start": "00:46:55.490",
+      "end": "00:46:58.770",
+      "text": "to report out on our confidential session."
+    },
+    {
+      "index": 559,
+      "start": "00:46:58.770",
+      "end": "00:47:01.780",
+      "text": "On October 23rd, 2023,"
+    },
+    {
+      "index": 560,
+      "start": "00:47:01.780",
+      "end": "00:47:06.530",
+      "text": "the 18th meeting of the Corporate Services Committee"
+    },
+    {
+      "index": 561,
+      "start": "00:47:06.530",
+      "end": "00:47:08.680",
+      "text": "entertained a confidential matter"
+    },
+    {
+      "index": 562,
+      "start": "00:47:08.680",
+      "end": "00:47:10.910",
+      "text": "pertaining to land acquisition"
+    },
+    {
+      "index": 563,
+      "start": "00:47:10.910",
+      "end": "00:47:13.740",
+      "text": "with respect to a lease extension"
+    },
+    {
+      "index": 564,
+      "start": "00:47:13.740",
+      "end": "00:47:17.610",
+      "text": "and we can report that progress was made on this matter."
+    },
+    {
+      "index": 565,
+      "start": "00:47:17.610",
+      "end": "00:47:19.810",
+      "text": "Thank you, Councillor."
+    },
+    {
+      "index": 566,
+      "start": "00:47:19.810",
+      "end": "00:47:21.630",
+      "text": "And colleagues, that concludes our agenda."
+    },
+    {
+      "index": 567,
+      "start": "00:47:21.630",
+      "end": "00:47:24.000",
+      "text": "I just need a motion to adjourn."
+    },
+    {
+      "index": 568,
+      "start": "00:47:24.000",
+      "end": "00:47:25.300",
+      "text": "Moved by Councillor Ferrer"
+    },
+    {
+      "index": 569,
+      "start": "00:47:25.300",
+      "end": "00:47:27.620",
+      "text": "and seconded by Councillor McAllister."
+    },
+    {
+      "index": 570,
+      "start": "00:47:27.620",
+      "end": "00:47:35.380",
+      "text": "And this one we can call by hand, all those in favor."
+    },
+    {
+      "index": 571,
+      "start": "00:47:35.380",
+      "end": "00:47:37.550",
+      "text": "Closing the vote, motion passes."
+    },
+    {
+      "index": 572,
+      "start": "00:47:37.550",
+      "end": "00:47:39.050",
+      "text": "Thank you, colleagues."
+    },
+    {
+      "index": 573,
+      "start": "00:47:39.050",
+      "end": "00:47:41.890",
+      "text": "And committee work will resume at 4 p.m."
+    },
+    {
+      "index": 574,
+      "start": "00:47:41.890",
+      "end": "00:47:43.230",
+      "text": "with the Planning and Environment Committee."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Corporate%20Services%20Committee/2023/10-23/.transcript.srt"
+}

@@ -1,1 +1,3695 @@
-{"title": null, "datetime": "2024-02-14 12:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=283e9a80-c195-4484-9f89-0f8f377ef14b&Agenda=PostMinutes&lang=English", "meeting_type": "Audit Committee", "bills": null, "present": ["E. Peloza", "P. Cuddy", "J. Pribil"], "also_present": ["L. Livingstone", "A. Barbon", "I. Collins", "M. Daley", "K. denBok (KPMG)", "P. Ladouceur", "J. Paradis", "M. Redden (KPMG)", "T. Pollitt", "M. Schulthess", "S. Swance", "J. Taylor"], "remote_attendance": ["R. Armistead", "S. Hejazi (MNP)", "E. Hunt", "D. Jaswal (MNP)", "J. McCloskey", "K. Pawelec", "D. Thompson"], "content": {"string": "The meeting is called to order at 12:01 PM.", "__class__": "Paragraph"}, "absent": ["S. Stevenson", "I. Cheema"], "items": {"1": {"title": "Call to Order", "number": "1", "content": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That is BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Election of Vice Chair for the term ending November 30, 2024", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil; and", "__class__": "Mover"}, "motion_texts": [{"string": "That Councillor S. Stevenson BE APPOINTED as Vice Chair for the term ending November 30, 2024.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Briefing Note From Internal Audit - MNP", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil; and", "__class__": "Mover"}, "motion_texts": [{"string": "That the communication from MNP, with respect to the briefing note from the internal auditor, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [{"empty_flag": false, "title": "2024-02-14 Submission - Briefing Note-MNP", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106770", "date": "2024-02-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Internal Audit Follow Up Activities Dashboard - MNP", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil; and", "__class__": "Mover"}, "motion_texts": [{"string": "That the communication from MNP, with respect to the internal audit follow up activities update dashboard, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [{"empty_flag": false, "title": "2024-02-14 Submission - Dashboard-MNP", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106771", "date": "2024-02-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Downtown Closed Circuit Television Program - KPMG", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil; and", "__class__": "Mover"}, "motion_texts": [{"string": "That the KPMG Report on Specified Auditing Procedures for the London Downtown Closed Circuit Television Program, for the year ending December 31, 2023, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [{"empty_flag": false, "title": "2024-02-14 Submission - CCTV Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106772", "date": "2024-02-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Audit Planning Report - KPMG", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by J. Pribil; and", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the KPMG LLP Audit Planning Report, for the year ending December 31, 2023, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [{"empty_flag": false, "title": "2024-02-14 Submission - Audit Planning Report-KPMG", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106773", "date": "2024-02-14 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential (Enclosed for Members only.)", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil; and", "__class__": "Mover"}, "motion_texts": [{"string": "That the Audit Committee convenes In Closed Session to consider the following:\u00a0\n\n\n\n6.1\u00a0 Security of Property\n\n\n\nA matter pertaining to the security of the property of the municipality or local board.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "That the Audit Committee convenes In Closed Session from12:27 PM to 12:40 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {"1": {"title": "Security of Property", "number": "1", "content": [], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by J. Pribil; and", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 12:40 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2024-02-14 12:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": null,
+  "datetime": "2024-02-14 12:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=283e9a80-c195-4484-9f89-0f8f377ef14b&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Audit Committee",
+  "bills": null,
+  "present": [
+    "E. Peloza",
+    "P. Cuddy",
+    "J. Pribil"
+  ],
+  "also_present": [
+    "L. Livingstone",
+    "A. Barbon",
+    "I. Collins",
+    "M. Daley",
+    "K. denBok (KPMG)",
+    "P. Ladouceur",
+    "J. Paradis",
+    "M. Redden (KPMG)",
+    "T. Pollitt",
+    "M. Schulthess",
+    "S. Swance",
+    "J. Taylor"
+  ],
+  "remote_attendance": [
+    "R. Armistead",
+    "S. Hejazi (MNP)",
+    "E. Hunt",
+    "D. Jaswal (MNP)",
+    "J. McCloskey",
+    "K. Pawelec",
+    "D. Thompson"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 12:01 PM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "S. Stevenson",
+    "I. Cheema"
+  ],
+  "items": {
+    "1": {
+      "title": "Call to Order",
+      "number": "1",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Disclosures of Pecuniary Interest",
+          "number": "1",
+          "content": [
+            {
+              "string": "That is BE NOTED that no pecuniary interests were disclosed.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-02-14 12:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Election of Vice Chair for the term ending November 30, 2024",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Pribil; and",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That Councillor S. Stevenson BE APPOINTED as Vice Chair for the term ending November 30, 2024.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-02-14 12:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-02-14 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-02-14 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-02-14 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Briefing Note From Internal Audit - MNP",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Pribil; and",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the communication from MNP, with respect to the briefing note from the internal auditor, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-02-14 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-02-14 Submission - Briefing Note-MNP",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106770",
+              "date": "2024-02-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Internal Audit Follow Up Activities Dashboard - MNP",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Pribil; and",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the communication from MNP, with respect to the internal audit follow up activities update dashboard, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-02-14 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-02-14 Submission - Dashboard-MNP",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106771",
+              "date": "2024-02-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Downtown Closed Circuit Television Program - KPMG",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by J. Pribil; and",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the KPMG Report on Specified Auditing Procedures for the London Downtown Closed Circuit Television Program, for the year ending December 31, 2023, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-02-14 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-02-14 Submission - CCTV Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106772",
+              "date": "2024-02-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "Audit Planning Report - KPMG",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by J. Pribil; and",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the KPMG LLP Audit Planning Report, for the year ending December 31, 2023, BE APPROVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2024-02-14 12:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2024-02-14 Submission - Audit Planning Report-KPMG",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=106773",
+              "date": "2024-02-14 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-02-14 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-02-14 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential (Enclosed for Members only.)",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by J. Pribil; and",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the Audit Committee convenes In Closed Session to consider the following:\u00a0\n\n\n\n6.1\u00a0 Security of Property\n\n\n\nA matter pertaining to the security of the property of the municipality or local board.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "That the Audit Committee convenes In Closed Session from12:27 PM to 12:40 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "Security of Property",
+          "number": "1",
+          "content": [],
+          "items": {},
+          "datetime": "2024-02-14 12:00:00",
+          "attachments": [],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2024-02-14 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by J. Pribil; and",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 12:40 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2024-02-14 12:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:04:39.270",
+      "end": "00:04:55.370",
+      "text": "Audio test for council chambers."
+    },
+    {
+      "index": 2,
+      "start": "00:04:55.370",
+      "end": "00:04:57.560",
+      "text": "Just one more test."
+    },
+    {
+      "index": 3,
+      "start": "00:04:57.560",
+      "end": "00:05:02.630",
+      "text": "Ms. Hunt, can you hear council chambers adequately?"
+    },
+    {
+      "index": 4,
+      "start": "00:05:02.630",
+      "end": "00:05:04.470",
+      "text": "Yes, I can hear you just fine."
+    },
+    {
+      "index": 5,
+      "start": "00:05:04.470",
+      "end": "00:07:35.390",
+      "text": "Thank you."
+    },
+    {
+      "index": 6,
+      "start": "00:07:35.390",
+      "end": "00:07:37.840",
+      "text": "A little bit morning."
+    },
+    {
+      "index": 7,
+      "start": "00:07:37.840",
+      "end": "00:07:43.570",
+      "text": "Good morning, Mr. Nijazi."
+    },
+    {
+      "index": 8,
+      "start": "00:07:43.570",
+      "end": "00:07:44.400",
+      "text": "Good morning."
+    },
+    {
+      "index": 9,
+      "start": "00:07:44.400",
+      "end": "00:07:53.830",
+      "text": "I believe the time that I will be speaking"
+    },
+    {
+      "index": 10,
+      "start": "00:07:53.830",
+      "end": "00:07:57.510",
+      "text": "is gonna be, I think, further down the road"
+    },
+    {
+      "index": 11,
+      "start": "00:07:57.510",
+      "end": "00:08:01.180",
+      "text": "to you and me and so I'll be meeting myself"
+    },
+    {
+      "index": 12,
+      "start": "00:08:01.180",
+      "end": "00:08:04.550",
+      "text": "unless I'm called upon or summoned."
+    },
+    {
+      "index": 13,
+      "start": "00:08:04.550",
+      "end": "00:15:19.470",
+      "text": "Thank you."
+    },
+    {
+      "index": 14,
+      "start": "00:15:19.470",
+      "end": "00:15:21.130",
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "index": 15,
+      "start": "00:15:21.130",
+      "end": "00:15:23.550",
+      "text": "The city of London is situated on the traditional lands"
+    },
+    {
+      "index": 16,
+      "start": "00:15:23.550",
+      "end": "00:15:27.310",
+      "text": "of the Nachenabek, Hodeshone, Lenapuok, and Adwondren."
+    },
+    {
+      "index": 17,
+      "start": "00:15:27.310",
+      "end": "00:15:29.450",
+      "text": "We honor and respect the history and language and culture,"
+    },
+    {
+      "index": 18,
+      "start": "00:15:29.450",
+      "end": "00:15:32.020",
+      "text": "the diverse indigenous people who call this territory home."
+    },
+    {
+      "index": 19,
+      "start": "00:15:32.020",
+      "end": "00:15:33.130",
+      "text": "The city of London is currently home"
+    },
+    {
+      "index": 20,
+      "start": "00:15:33.130",
+      "end": "00:15:35.830",
+      "text": "to many First Nation, M\u00e9tis, and Inuit today."
+    },
+    {
+      "index": 21,
+      "start": "00:15:35.830",
+      "end": "00:15:37.900",
+      "text": "And as representatives of the people of the city of London,"
+    },
+    {
+      "index": 22,
+      "start": "00:15:37.900",
+      "end": "00:15:40.110",
+      "text": "we are grateful to have the opportunity to work"
+    },
+    {
+      "index": 23,
+      "start": "00:15:40.110",
+      "end": "00:15:42.330",
+      "text": "and live in this territory."
+    },
+    {
+      "index": 24,
+      "start": "00:15:42.330",
+      "end": "00:15:45.470",
+      "text": "This is the first meeting of the audit committee"
+    },
+    {
+      "index": 25,
+      "start": "00:15:45.470",
+      "end": "00:15:48.880",
+      "text": "for everyone's information."
+    },
+    {
+      "index": 26,
+      "start": "00:15:48.880",
+      "end": "00:15:50.050",
+      "text": "I'm now the chair of this committee,"
+    },
+    {
+      "index": 27,
+      "start": "00:15:50.050",
+      "end": "00:15:53.890",
+      "text": "so thank you for joining me."
+    },
+    {
+      "index": 28,
+      "start": "00:15:53.890",
+      "end": "00:15:57.340",
+      "text": "Councillor Stevenson and Chima have sent the regrets"
+    },
+    {
+      "index": 29,
+      "start": "00:15:57.340",
+      "end": "00:15:59.450",
+      "text": "and they're absent today and chambers."
+    },
+    {
+      "index": 30,
+      "start": "00:15:59.450",
+      "end": "00:16:02.370",
+      "text": "I do have Councillors Cuddy and Pribbles,"
+    },
+    {
+      "index": 31,
+      "start": "00:16:02.370",
+      "end": "00:16:05.130",
+      "text": "so we do have Quorum and can proceed."
+    },
+    {
+      "index": 32,
+      "start": "00:16:05.130",
+      "end": "00:16:07.340",
+      "text": "The city of London is committed to making every effort"
+    },
+    {
+      "index": 33,
+      "start": "00:16:07.340",
+      "end": "00:16:09.660",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 34,
+      "start": "00:16:09.660",
+      "end": "00:16:11.300",
+      "text": "for meetings upon request."
+    },
+    {
+      "index": 35,
+      "start": "00:16:11.300",
+      "end": "00:16:14.360",
+      "text": "To make a request for specific to this meeting,"
+    },
+    {
+      "index": 36,
+      "start": "00:16:14.360",
+      "end": "00:16:17.870",
+      "text": "please contact accessibility@london.ca"
+    },
+    {
+      "index": 37,
+      "start": "00:16:17.870",
+      "end": "00:16:22.910",
+      "text": "or 519-661-2489, extension 2425."
+    },
+    {
+      "index": 38,
+      "start": "00:16:24.870",
+      "end": "00:16:26.200",
+      "text": "As I call this meeting to order,"
+    },
+    {
+      "index": 39,
+      "start": "00:16:26.200",
+      "end": "00:16:28.120",
+      "text": "I looked to committee members for disclosures"
+    },
+    {
+      "index": 40,
+      "start": "00:16:28.120",
+      "end": "00:16:30.700",
+      "text": "of pecuniary interest."
+    },
+    {
+      "index": 41,
+      "start": "00:16:30.700",
+      "end": "00:16:34.010",
+      "text": "Seeing none on our agenda today is the election of Vice Chair"
+    },
+    {
+      "index": 42,
+      "start": "00:16:34.010",
+      "end": "00:16:39.460",
+      "text": "for the term ending November 30th, 2024."
+    },
+    {
+      "index": 43,
+      "start": "00:16:39.460",
+      "end": "00:16:44.510",
+      "text": "Councillor Stevenson and I did speak before today"
+    },
+    {
+      "index": 44,
+      "start": "00:16:44.510",
+      "end": "00:16:45.740",
+      "text": "as they were gonna be absent,"
+    },
+    {
+      "index": 45,
+      "start": "00:16:45.740",
+      "end": "00:16:47.480",
+      "text": "and they are interested in letting their name stand"
+    },
+    {
+      "index": 46,
+      "start": "00:16:47.480",
+      "end": "00:16:49.980",
+      "text": "for Vice Chair, looking to members of committee"
+    },
+    {
+      "index": 47,
+      "start": "00:16:49.980",
+      "end": "00:16:52.920",
+      "text": "to see if anyone else is interested in serving Vice Chair"
+    },
+    {
+      "index": 48,
+      "start": "00:16:52.920",
+      "end": "00:16:55.940",
+      "text": "or if someone wishes to move Councillor Stevenson's name."
+    },
+    {
+      "index": 49,
+      "start": "00:16:55.940",
+      "end": "00:16:57.800",
+      "text": "Councillor Cuddy."
+    },
+    {
+      "index": 50,
+      "start": "00:16:57.800",
+      "end": "00:16:58.610",
+      "text": "Thank you."
+    },
+    {
+      "index": 51,
+      "start": "00:16:58.610",
+      "end": "00:17:02.750",
+      "text": "You Madam Chair, I'll nominate Councillor Stevenson."
+    },
+    {
+      "index": 52,
+      "start": "00:17:02.750",
+      "end": "00:17:03.560",
+      "text": "Thank you."
+    },
+    {
+      "index": 53,
+      "start": "00:17:03.560",
+      "end": "00:17:06.680",
+      "text": "I've been mover and seconder in Councillor Pribbles."
+    },
+    {
+      "index": 54,
+      "start": "00:17:06.680",
+      "end": "00:17:12.610",
+      "text": "Any questions or comments?"
+    },
+    {
+      "index": 55,
+      "start": "00:17:12.610",
+      "end": "00:17:14.850",
+      "text": "Sorry, we don't eat."
+    },
+    {
+      "index": 56,
+      "start": "00:17:14.850",
+      "end": "00:17:15.660",
+      "text": "I'm used to the E-Scribe."
+    },
+    {
+      "index": 57,
+      "start": "00:17:15.660",
+      "end": "00:17:17.580",
+      "text": "So just a hand vote of all in favor"
+    },
+    {
+      "index": 58,
+      "start": "00:17:17.580",
+      "end": "00:17:21.000",
+      "text": "of Councillor Stevenson for Vice Chair."
+    },
+    {
+      "index": 59,
+      "start": "00:17:21.000",
+      "end": "00:17:22.570",
+      "text": "That motion carries."
+    },
+    {
+      "index": 60,
+      "start": "00:17:22.570",
+      "end": "00:17:23.950",
+      "text": "Thank you."
+    },
+    {
+      "index": 61,
+      "start": "00:17:23.950",
+      "end": "00:17:24.850",
+      "text": "Consent items, we have none."
+    },
+    {
+      "index": 62,
+      "start": "00:17:24.850",
+      "end": "00:17:26.190",
+      "text": "Scheduled items, we have none."
+    },
+    {
+      "index": 63,
+      "start": "00:17:26.190",
+      "end": "00:17:28.820",
+      "text": "And our items for direction, we do have four."
+    },
+    {
+      "index": 64,
+      "start": "00:17:28.820",
+      "end": "00:17:33.580",
+      "text": "My advice to committee is to handle 4.1 and 4.2 together"
+    },
+    {
+      "index": 65,
+      "start": "00:17:33.580",
+      "end": "00:17:35.870",
+      "text": "as it's received to those reports."
+    },
+    {
+      "index": 66,
+      "start": "00:17:35.870",
+      "end": "00:17:38.530",
+      "text": "And then, so looking for a mover and a seconder"
+    },
+    {
+      "index": 67,
+      "start": "00:17:38.530",
+      "end": "00:17:40.950",
+      "text": "of items 4.1 and 4.2."
+    },
+    {
+      "index": 68,
+      "start": "00:17:40.950",
+      "end": "00:17:43.670",
+      "text": "Moved by Councillor Cuddy, seconded by Councillor Pribble."
+    },
+    {
+      "index": 69,
+      "start": "00:17:43.670",
+      "end": "00:17:44.970",
+      "text": "And I know there are some questions,"
+    },
+    {
+      "index": 70,
+      "start": "00:17:44.970",
+      "end": "00:17:48.940",
+      "text": "so I'll start my speaker's list with Councillor Pribble."
+    },
+    {
+      "index": 71,
+      "start": "00:17:48.940",
+      "end": "00:17:49.870",
+      "text": "Thank you, Chair."
+    },
+    {
+      "index": 72,
+      "start": "00:17:49.870",
+      "end": "00:17:53.620",
+      "text": "And through you to the staff, on page nine,"
+    },
+    {
+      "index": 73,
+      "start": "00:17:53.620",
+      "end": "00:17:55.520",
+      "text": "when we have the Management Actions Plan,"
+    },
+    {
+      "index": 74,
+      "start": "00:17:55.520",
+      "end": "00:17:58.720",
+      "text": "there is one that states number one,"
+    },
+    {
+      "index": 75,
+      "start": "00:17:58.720",
+      "end": "00:18:01.010",
+      "text": "Mender Management Office."
+    },
+    {
+      "index": 76,
+      "start": "00:18:01.010",
+      "end": "00:18:05.800",
+      "text": "And it's creating high and remediation status is closed."
+    },
+    {
+      "index": 77,
+      "start": "00:18:05.800",
+      "end": "00:18:07.900",
+      "text": "And I want to get the kind of update on this one"
+    },
+    {
+      "index": 78,
+      "start": "00:18:07.900",
+      "end": "00:18:10.020",
+      "text": "because the way it is, first of all,"
+    },
+    {
+      "index": 79,
+      "start": "00:18:10.020",
+      "end": "00:18:12.000",
+      "text": "the budget hasn't been approved."
+    },
+    {
+      "index": 80,
+      "start": "00:18:12.000",
+      "end": "00:18:17.020",
+      "text": "And even currently, P73 is not included in Mayor's budget."
+    },
+    {
+      "index": 81,
+      "start": "00:18:17.020",
+      "end": "00:18:20.340",
+      "text": "So I just want to ask you, in terms of that,"
+    },
+    {
+      "index": 82,
+      "start": "00:18:20.340",
+      "end": "00:18:23.940",
+      "text": "we are considering it closed if we should reevaluate it"
+    },
+    {
+      "index": 83,
+      "start": "00:18:23.940",
+      "end": "00:18:26.170",
+      "text": "and still have it open."
+    },
+    {
+      "index": 84,
+      "start": "00:18:26.170",
+      "end": "00:18:28.960",
+      "text": "If I can get a feedback from the staff, please."
+    },
+    {
+      "index": 85,
+      "start": "00:18:28.960",
+      "end": "00:18:31.020",
+      "text": "Thank you, Ms. Barbara."
+    },
+    {
+      "index": 86,
+      "start": "00:18:31.020",
+      "end": "00:18:32.660",
+      "text": "Thank you, through the chair."
+    },
+    {
+      "index": 87,
+      "start": "00:18:32.660",
+      "end": "00:18:35.380",
+      "text": "So civic, the recommendation was that the city"
+    },
+    {
+      "index": 88,
+      "start": "00:18:35.380",
+      "end": "00:18:38.970",
+      "text": "should consider this and should look to put forward"
+    },
+    {
+      "index": 89,
+      "start": "00:18:38.970",
+      "end": "00:18:39.810",
+      "text": "a business case."
+    },
+    {
+      "index": 90,
+      "start": "00:18:39.810",
+      "end": "00:18:42.840",
+      "text": "So from an action item, from some management,"
+    },
+    {
+      "index": 91,
+      "start": "00:18:42.840",
+      "end": "00:18:44.800",
+      "text": "we have created the business case,"
+    },
+    {
+      "index": 92,
+      "start": "00:18:44.800",
+      "end": "00:18:46.360",
+      "text": "we have done the evaluation,"
+    },
+    {
+      "index": 93,
+      "start": "00:18:46.360",
+      "end": "00:18:49.630",
+      "text": "and we put that forward through the multi-year budget process."
+    },
+    {
+      "index": 94,
+      "start": "00:18:49.630",
+      "end": "00:18:52.870",
+      "text": "Should Council wish to fund that, then it would proceed."
+    },
+    {
+      "index": 95,
+      "start": "00:18:52.870",
+      "end": "00:18:56.100",
+      "text": "If Council does choose not to fund that ultimately"
+    },
+    {
+      "index": 96,
+      "start": "00:18:56.100",
+      "end": "00:18:59.660",
+      "text": "when the budget is final and it is not put forward,"
+    },
+    {
+      "index": 97,
+      "start": "00:18:59.660",
+      "end": "00:19:02.530",
+      "text": "then the vendor management office cannot proceed"
+    },
+    {
+      "index": 98,
+      "start": "00:19:02.530",
+      "end": "00:19:05.330",
+      "text": "because we don't have the resources to implement it."
+    },
+    {
+      "index": 99,
+      "start": "00:19:05.330",
+      "end": "00:19:10.320",
+      "text": "So certainly when the internal audit report came forward,"
+    },
+    {
+      "index": 100,
+      "start": "00:19:10.320",
+      "end": "00:19:13.870",
+      "text": "we had identified that if in the event that it wasn't funded,"
+    },
+    {
+      "index": 101,
+      "start": "00:19:13.870",
+      "end": "00:19:17.270",
+      "text": "we would certainly do our best to try to implement"
+    },
+    {
+      "index": 102,
+      "start": "00:19:17.270",
+      "end": "00:19:20.060",
+      "text": "and move that forward with the policy reviews."
+    },
+    {
+      "index": 103,
+      "start": "00:19:20.060",
+      "end": "00:19:22.940",
+      "text": "And we have lots of work that is currently underway."
+    },
+    {
+      "index": 104,
+      "start": "00:19:22.940",
+      "end": "00:19:25.450",
+      "text": "However, there would not be an office established"
+    },
+    {
+      "index": 105,
+      "start": "00:19:25.450",
+      "end": "00:19:27.810",
+      "text": "if the Council ultimately does not fund that"
+    },
+    {
+      "index": 106,
+      "start": "00:19:27.810",
+      "end": "00:19:30.430",
+      "text": "through the budget process."
+    },
+    {
+      "index": 107,
+      "start": "00:19:30.430",
+      "end": "00:19:31.250",
+      "text": "Councilor?"
+    },
+    {
+      "index": 108,
+      "start": "00:19:31.250",
+      "end": "00:19:32.810",
+      "text": "Thank you and follow up."
+    },
+    {
+      "index": 109,
+      "start": "00:19:32.810",
+      "end": "00:19:37.560",
+      "text": "Do we have current existing resources"
+    },
+    {
+      "index": 110,
+      "start": "00:19:37.560",
+      "end": "00:19:40.050",
+      "text": "or can we introduce certain internal controls"
+    },
+    {
+      "index": 111,
+      "start": "00:19:40.050",
+      "end": "00:19:45.170",
+      "text": "or anything that we could address this issue without B73?"
+    },
+    {
+      "index": 112,
+      "start": "00:19:45.170",
+      "end": "00:19:51.640",
+      "text": "Ms. Birbal?"
+    },
+    {
+      "index": 113,
+      "start": "00:19:51.640",
+      "end": "00:19:52.600",
+      "text": "Thank you through the chair."
+    },
+    {
+      "index": 114,
+      "start": "00:19:52.600",
+      "end": "00:19:55.880",
+      "text": "So I think through the recommendations that are there"
+    },
+    {
+      "index": 115,
+      "start": "00:19:55.880",
+      "end": "00:20:00.670",
+      "text": "that are still listed with items number two to five,"
+    },
+    {
+      "index": 116,
+      "start": "00:20:00.670",
+      "end": "00:20:02.940",
+      "text": "though are through two to six,"
+    },
+    {
+      "index": 117,
+      "start": "00:20:02.940",
+      "end": "00:20:06.300",
+      "text": "we are certainly, we've already initiated some work."
+    },
+    {
+      "index": 118,
+      "start": "00:20:06.300",
+      "end": "00:20:09.130",
+      "text": "Obviously the capacity is very limited"
+    },
+    {
+      "index": 119,
+      "start": "00:20:09.130",
+      "end": "00:20:12.840",
+      "text": "to the extent to which we can have the time to implement it."
+    },
+    {
+      "index": 120,
+      "start": "00:20:12.840",
+      "end": "00:20:15.920",
+      "text": "But our intent is to, through the policy review,"
+    },
+    {
+      "index": 121,
+      "start": "00:20:15.920",
+      "end": "00:20:19.590",
+      "text": "we have a consultant that is reviewing all of the processes"
+    },
+    {
+      "index": 122,
+      "start": "00:20:19.590",
+      "end": "00:20:22.390",
+      "text": "with the intent to put forward recommendations"
+    },
+    {
+      "index": 123,
+      "start": "00:20:22.390",
+      "end": "00:20:24.380",
+      "text": "that we would look to implement over time."
+    },
+    {
+      "index": 124,
+      "start": "00:20:24.380",
+      "end": "00:20:28.450",
+      "text": "So it means the work will happen but very, very slowly"
+    },
+    {
+      "index": 125,
+      "start": "00:20:28.450",
+      "end": "00:20:31.250",
+      "text": "because it is done on the side of our desks"
+    },
+    {
+      "index": 126,
+      "start": "00:20:31.250",
+      "end": "00:20:33.760",
+      "text": "and we don't have resources that are dedicated"
+    },
+    {
+      "index": 127,
+      "start": "00:20:33.760",
+      "end": "00:20:36.840",
+      "text": "to do this work, primarily they're there to try"
+    },
+    {
+      "index": 128,
+      "start": "00:20:36.840",
+      "end": "00:20:38.950",
+      "text": "to support the business and the procurement work"
+    },
+    {
+      "index": 129,
+      "start": "00:20:38.950",
+      "end": "00:20:41.510",
+      "text": "that they're at capacity given the volume"
+    },
+    {
+      "index": 130,
+      "start": "00:20:41.510",
+      "end": "00:20:44.290",
+      "text": "that is already there for the staff we have."
+    },
+    {
+      "index": 131,
+      "start": "00:20:44.290",
+      "end": "00:20:47.160",
+      "text": "Councilor?"
+    },
+    {
+      "index": 132,
+      "start": "00:20:47.160",
+      "end": "00:20:47.970",
+      "text": "Thank you."
+    },
+    {
+      "index": 133,
+      "start": "00:20:47.970",
+      "end": "00:20:48.780",
+      "text": "And thank you for the replies."
+    },
+    {
+      "index": 134,
+      "start": "00:20:48.780",
+      "end": "00:20:50.810",
+      "text": "No more questions?"
+    },
+    {
+      "index": 135,
+      "start": "00:20:50.810",
+      "end": "00:20:53.710",
+      "text": "Looking for their questions or comments?"
+    },
+    {
+      "index": 136,
+      "start": "00:20:53.710",
+      "end": "00:20:55.540",
+      "text": "Call on the question of all in favor of receipts"
+    },
+    {
+      "index": 137,
+      "start": "00:20:55.540",
+      "end": "00:20:59.040",
+      "text": "of item 4.1 and 4.2."
+    },
+    {
+      "index": 138,
+      "start": "00:20:59.040",
+      "end": "00:21:01.030",
+      "text": "Motion carries."
+    },
+    {
+      "index": 139,
+      "start": "00:21:01.030",
+      "end": "00:21:01.840",
+      "text": "Thank you."
+    },
+    {
+      "index": 140,
+      "start": "00:21:01.840",
+      "end": "00:21:03.260",
+      "text": "This is item 4.3 now,"
+    },
+    {
+      "index": 141,
+      "start": "00:21:03.260",
+      "end": "00:21:08.160",
+      "text": "the downtown closed circuit television program with KPMG."
+    },
+    {
+      "index": 142,
+      "start": "00:21:08.160",
+      "end": "00:21:09.610",
+      "text": "This one's also for receipts."
+    },
+    {
+      "index": 143,
+      "start": "00:21:09.610",
+      "end": "00:21:12.750",
+      "text": "So looking for a mover and a seconder of receipt."
+    },
+    {
+      "index": 144,
+      "start": "00:21:12.750",
+      "end": "00:21:16.190",
+      "text": "Moved by Councillor Cuddy."
+    },
+    {
+      "index": 145,
+      "start": "00:21:16.190",
+      "end": "00:21:17.960",
+      "text": "Seconded by Councillor Pervall."
+    },
+    {
+      "index": 146,
+      "start": "00:21:17.960",
+      "end": "00:21:21.350",
+      "text": "Looking to see if there's any questions or comments"
+    },
+    {
+      "index": 147,
+      "start": "00:21:21.350",
+      "end": "00:21:25.300",
+      "text": "in regards to 4.3."
+    },
+    {
+      "index": 148,
+      "start": "00:21:25.300",
+      "end": "00:21:26.780",
+      "text": "Councillor Pervall?"
+    },
+    {
+      "index": 149,
+      "start": "00:21:26.780",
+      "end": "00:21:27.940",
+      "text": "Just a quick question."
+    },
+    {
+      "index": 150,
+      "start": "00:21:27.940",
+      "end": "00:21:32.460",
+      "text": "I know it's at that you have selected 48 recordings"
+    },
+    {
+      "index": 151,
+      "start": "00:21:32.460",
+      "end": "00:21:34.400",
+      "text": "for testing throughout the year."
+    },
+    {
+      "index": 152,
+      "start": "00:21:34.400",
+      "end": "00:21:37.890",
+      "text": "Would the 48 recordings be kind of the standard number"
+    },
+    {
+      "index": 153,
+      "start": "00:21:37.890",
+      "end": "00:21:39.910",
+      "text": "or do you think that sufficient number"
+    },
+    {
+      "index": 154,
+      "start": "00:21:39.910",
+      "end": "00:21:43.190",
+      "text": "or should there be additional actions taken?"
+    },
+    {
+      "index": 155,
+      "start": "00:21:43.190",
+      "end": "00:21:49.660",
+      "text": "I think you can walk through you, Madam Chair."
+    },
+    {
+      "index": 156,
+      "start": "00:21:49.660",
+      "end": "00:21:52.720",
+      "text": "48 is the number that was agreed upon"
+    },
+    {
+      "index": 157,
+      "start": "00:21:52.720",
+      "end": "00:21:55.230",
+      "text": "when we were engaged to perform this work."
+    },
+    {
+      "index": 158,
+      "start": "00:21:55.230",
+      "end": "00:21:57.070",
+      "text": "It's not a matter of judgment on our part."
+    },
+    {
+      "index": 159,
+      "start": "00:21:57.070",
+      "end": "00:22:01.330",
+      "text": "It's whatever management or the committee feels is acceptable."
+    },
+    {
+      "index": 160,
+      "start": "00:22:01.330",
+      "end": "00:22:03.880",
+      "text": "So 48 was the agreed upon number"
+    },
+    {
+      "index": 161,
+      "start": "00:22:03.880",
+      "end": "00:22:06.630",
+      "text": "and has been for a number of years now."
+    },
+    {
+      "index": 162,
+      "start": "00:22:06.630",
+      "end": "00:22:10.850",
+      "text": "If there is appetite to increase that or decrease that,"
+    },
+    {
+      "index": 163,
+      "start": "00:22:10.850",
+      "end": "00:22:13.990",
+      "text": "we can certainly accommodate."
+    },
+    {
+      "index": 164,
+      "start": "00:22:13.990",
+      "end": "00:22:15.640",
+      "text": "Thank you Councillor."
+    },
+    {
+      "index": 165,
+      "start": "00:22:15.640",
+      "end": "00:22:16.470",
+      "text": "Thank you for the answer."
+    },
+    {
+      "index": 166,
+      "start": "00:22:16.470",
+      "end": "00:22:20.450",
+      "text": "No more questions?"
+    },
+    {
+      "index": 167,
+      "start": "00:22:20.450",
+      "end": "00:22:22.120",
+      "text": "Okay, looking to see if there's any further questions"
+    },
+    {
+      "index": 168,
+      "start": "00:22:22.120",
+      "end": "00:22:24.330",
+      "text": "or comments on items 4.3."
+    },
+    {
+      "index": 169,
+      "start": "00:22:24.330",
+      "end": "00:22:26.460",
+      "text": "If not, receipt has been moved and seconded."
+    },
+    {
+      "index": 170,
+      "start": "00:22:26.460",
+      "end": "00:22:29.580",
+      "text": "Call on the question."
+    },
+    {
+      "index": 171,
+      "start": "00:22:29.580",
+      "end": "00:22:31.560",
+      "text": "And motion carries."
+    },
+    {
+      "index": 172,
+      "start": "00:22:31.560",
+      "end": "00:22:33.540",
+      "text": "Thank you, this brings us to item 4.4"
+    },
+    {
+      "index": 173,
+      "start": "00:22:33.540",
+      "end": "00:22:35.680",
+      "text": "being the audit planning report from KPMG."
+    },
+    {
+      "index": 174,
+      "start": "00:22:35.680",
+      "end": "00:22:37.270",
+      "text": "This one was larger."
+    },
+    {
+      "index": 175,
+      "start": "00:22:37.270",
+      "end": "00:22:39.250",
+      "text": "So looking to committee to see if you would like"
+    },
+    {
+      "index": 176,
+      "start": "00:22:39.250",
+      "end": "00:22:41.230",
+      "text": "an overview provided by KPMG"
+    },
+    {
+      "index": 177,
+      "start": "00:22:41.230",
+      "end": "00:22:43.010",
+      "text": "before we start our questions"
+    },
+    {
+      "index": 178,
+      "start": "00:22:43.010",
+      "end": "00:22:48.820",
+      "text": "or if you want to just go into questions."
+    },
+    {
+      "index": 179,
+      "start": "00:22:48.820",
+      "end": "00:22:52.210",
+      "text": "Okay, yep, so I'll turn it over to KPMG and your team."
+    },
+    {
+      "index": 180,
+      "start": "00:22:52.210",
+      "end": "00:22:53.980",
+      "text": "You can divvy up your time as you like,"
+    },
+    {
+      "index": 181,
+      "start": "00:22:53.980",
+      "end": "00:22:57.920",
+      "text": "just ideally I keep these to five minutes or less."
+    },
+    {
+      "index": 182,
+      "start": "00:22:59.650",
+      "end": "00:23:02.210",
+      "text": "Okay, thank you and through you Madam Chair."
+    },
+    {
+      "index": 183,
+      "start": "00:23:02.210",
+      "end": "00:23:04.250",
+      "text": "Thank you for having us here."
+    },
+    {
+      "index": 184,
+      "start": "00:23:04.250",
+      "end": "00:23:05.610",
+      "text": "Just by way of reminder,"
+    },
+    {
+      "index": 185,
+      "start": "00:23:05.610",
+      "end": "00:23:06.800",
+      "text": "my name is Katie Dembach."
+    },
+    {
+      "index": 186,
+      "start": "00:23:06.800",
+      "end": "00:23:09.480",
+      "text": "I'm the external audit partner for the city of London"
+    },
+    {
+      "index": 187,
+      "start": "00:23:09.480",
+      "end": "00:23:11.240",
+      "text": "and the boards and commissions."
+    },
+    {
+      "index": 188,
+      "start": "00:23:11.240",
+      "end": "00:23:13.120",
+      "text": "And with me today is Melissa Redden,"
+    },
+    {
+      "index": 189,
+      "start": "00:23:13.120",
+      "end": "00:23:15.230",
+      "text": "who is a senior manager,"
+    },
+    {
+      "index": 190,
+      "start": "00:23:15.230",
+      "end": "00:23:18.030",
+      "text": "has been also the senior manager on the city"
+    },
+    {
+      "index": 191,
+      "start": "00:23:18.030",
+      "end": "00:23:19.670",
+      "text": "for a number of years now."
+    },
+    {
+      "index": 192,
+      "start": "00:23:19.670",
+      "end": "00:23:21.540",
+      "text": "And we will walk you through the highlights"
+    },
+    {
+      "index": 193,
+      "start": "00:23:21.540",
+      "end": "00:23:23.340",
+      "text": "of the audit plan that we've put together"
+    },
+    {
+      "index": 194,
+      "start": "00:23:23.340",
+      "end": "00:23:26.740",
+      "text": "and try to keep to your five minute timeline here."
+    },
+    {
+      "index": 195,
+      "start": "00:23:26.740",
+      "end": "00:23:29.770",
+      "text": "So we'll really just hit the highlights."
+    },
+    {
+      "index": 196,
+      "start": "00:23:29.770",
+      "end": "00:23:33.930",
+      "text": "So starting on page four of our audit plan that we provided,"
+    },
+    {
+      "index": 197,
+      "start": "00:23:33.930",
+      "end": "00:23:36.880",
+      "text": "really I just wanted to give a reminder to the committee,"
+    },
+    {
+      "index": 198,
+      "start": "00:23:36.880",
+      "end": "00:23:39.600",
+      "text": "this plan is put together in order to help you"
+    },
+    {
+      "index": 199,
+      "start": "00:23:39.600",
+      "end": "00:23:43.230",
+      "text": "in your oversight role over the external audit process."
+    },
+    {
+      "index": 200,
+      "start": "00:23:43.230",
+      "end": "00:23:45.830",
+      "text": "We'll go through a couple of key items"
+    },
+    {
+      "index": 201,
+      "start": "00:23:45.830",
+      "end": "00:23:47.470",
+      "text": "mainly being the materiality"
+    },
+    {
+      "index": 202,
+      "start": "00:23:47.470",
+      "end": "00:23:50.700",
+      "text": "that we anticipate using for our audit,"
+    },
+    {
+      "index": 203,
+      "start": "00:23:50.700",
+      "end": "00:23:52.980",
+      "text": "some significant risks that we've identified"
+    },
+    {
+      "index": 204,
+      "start": "00:23:52.980",
+      "end": "00:23:55.970",
+      "text": "that will be addressed through our audit procedures,"
+    },
+    {
+      "index": 205,
+      "start": "00:23:55.970",
+      "end": "00:23:58.530",
+      "text": "as well as just a note for the committee"
+    },
+    {
+      "index": 206,
+      "start": "00:23:58.530",
+      "end": "00:24:00.330",
+      "text": "that we are independent of the city"
+    },
+    {
+      "index": 207,
+      "start": "00:24:00.330",
+      "end": "00:24:02.320",
+      "text": "and its boards and commissions and will remain."
+    },
+    {
+      "index": 208,
+      "start": "00:24:02.320",
+      "end": "00:24:04.720",
+      "text": "So as we are required to be,"
+    },
+    {
+      "index": 209,
+      "start": "00:24:04.720",
+      "end": "00:24:09.690",
+      "text": "that's what allows us to issue an independent auditor's report."
+    },
+    {
+      "index": 210,
+      "start": "00:24:09.690",
+      "end": "00:24:12.350",
+      "text": "I'm gonna skip through to page seven of our plan,"
+    },
+    {
+      "index": 211,
+      "start": "00:24:12.350",
+      "end": "00:24:15.410",
+      "text": "which goes over the group materiality."
+    },
+    {
+      "index": 212,
+      "start": "00:24:15.410",
+      "end": "00:24:18.430",
+      "text": "So because we do issue an audit opinion"
+    },
+    {
+      "index": 213,
+      "start": "00:24:18.430",
+      "end": "00:24:21.400",
+      "text": "over a consolidated set of financial statements,"
+    },
+    {
+      "index": 214,
+      "start": "00:24:21.400",
+      "end": "00:24:25.220",
+      "text": "this is considered what we call a group audit."
+    },
+    {
+      "index": 215,
+      "start": "00:24:25.220",
+      "end": "00:24:27.880",
+      "text": "So the materiality level that we use,"
+    },
+    {
+      "index": 216,
+      "start": "00:24:27.880",
+      "end": "00:24:32.500",
+      "text": "anticipate using for fiscal 2023 is $22 million."
+    },
+    {
+      "index": 217,
+      "start": "00:24:32.500",
+      "end": "00:24:35.680",
+      "text": "And just a reminder, that's sort of the highest level"
+    },
+    {
+      "index": 218,
+      "start": "00:24:35.680",
+      "end": "00:24:40.320",
+      "text": "that we use to scope and do our risk assessment."
+    },
+    {
+      "index": 219,
+      "start": "00:24:40.320",
+      "end": "00:24:42.790",
+      "text": "What is more important for this committee, in my opinion,"
+    },
+    {
+      "index": 220,
+      "start": "00:24:42.790",
+      "end": "00:24:45.330",
+      "text": "is our audit misstatement posting threshold,"
+    },
+    {
+      "index": 221,
+      "start": "00:24:45.330",
+      "end": "00:24:47.240",
+      "text": "which is $1.1 million."
+    },
+    {
+      "index": 222,
+      "start": "00:24:47.240",
+      "end": "00:24:49.820",
+      "text": "And that's the level at which we would come back to you"
+    },
+    {
+      "index": 223,
+      "start": "00:24:49.820",
+      "end": "00:24:51.690",
+      "text": "through our audit findings report"
+    },
+    {
+      "index": 224,
+      "start": "00:24:51.690",
+      "end": "00:24:54.240",
+      "text": "to report any corrected or uncorrected misstatements"
+    },
+    {
+      "index": 225,
+      "start": "00:24:54.240",
+      "end": "00:24:57.190",
+      "text": "that are identified during the course of the audit."
+    },
+    {
+      "index": 226,
+      "start": "00:24:57.190",
+      "end": "00:24:59.610",
+      "text": "On page eight, we've also identified"
+    },
+    {
+      "index": 227,
+      "start": "00:24:59.610",
+      "end": "00:25:01.600",
+      "text": "the component materiality."
+    },
+    {
+      "index": 228,
+      "start": "00:25:01.600",
+      "end": "00:25:03.620",
+      "text": "So that's the materiality level we use"
+    },
+    {
+      "index": 229,
+      "start": "00:25:03.620",
+      "end": "00:25:07.310",
+      "text": "for the city of London on a non-consolidated basis."
+    },
+    {
+      "index": 230,
+      "start": "00:25:07.310",
+      "end": "00:25:10.270",
+      "text": "And again, for the same purpose."
+    },
+    {
+      "index": 231,
+      "start": "00:25:10.270",
+      "end": "00:25:12.490",
+      "text": "Page nine highlights some of the other experts"
+    },
+    {
+      "index": 232,
+      "start": "00:25:12.490",
+      "end": "00:25:14.510",
+      "text": "that are used in the course of our audit."
+    },
+    {
+      "index": 233,
+      "start": "00:25:14.510",
+      "end": "00:25:18.520",
+      "text": "So those include Mercer and KPMG's actuarial specialists"
+    },
+    {
+      "index": 234,
+      "start": "00:25:18.520",
+      "end": "00:25:22.940",
+      "text": "when it comes to assessing employee future benefits,"
+    },
+    {
+      "index": 235,
+      "start": "00:25:22.940",
+      "end": "00:25:24.930",
+      "text": "as well as facilities personnel"
+    },
+    {
+      "index": 236,
+      "start": "00:25:24.930",
+      "end": "00:25:27.690",
+      "text": "for the asset retirement obligation standards specifically,"
+    },
+    {
+      "index": 237,
+      "start": "00:25:27.690",
+      "end": "00:25:30.130",
+      "text": "which Melissa will get into shortly,"
+    },
+    {
+      "index": 238,
+      "start": "00:25:30.130",
+      "end": "00:25:32.550",
+      "text": "as well as legal personnel within the city"
+    },
+    {
+      "index": 239,
+      "start": "00:25:32.550",
+      "end": "00:25:36.850",
+      "text": "to help assess the appropriateness of accruals."
+    },
+    {
+      "index": 240,
+      "start": "00:25:36.850",
+      "end": "00:25:38.770",
+      "text": "Slides nine and 10 really just talk"
+    },
+    {
+      "index": 241,
+      "start": "00:25:38.770",
+      "end": "00:25:41.170",
+      "text": "about what's changed significantly year over year."
+    },
+    {
+      "index": 242,
+      "start": "00:25:41.170",
+      "end": "00:25:44.440",
+      "text": "And I think the really big thing to note for the committee"
+    },
+    {
+      "index": 243,
+      "start": "00:25:44.440",
+      "end": "00:25:46.320",
+      "text": "are the requirement for the city"
+    },
+    {
+      "index": 244,
+      "start": "00:25:46.320",
+      "end": "00:25:49.510",
+      "text": "to implement two new accounting standards"
+    },
+    {
+      "index": 245,
+      "start": "00:25:49.510",
+      "end": "00:25:50.950",
+      "text": "for fiscal 2023."
+    },
+    {
+      "index": 246,
+      "start": "00:25:50.950",
+      "end": "00:25:54.140",
+      "text": "So those are the asset retirement obligation standard,"
+    },
+    {
+      "index": 247,
+      "start": "00:25:54.140",
+      "end": "00:25:56.780",
+      "text": "as well as the financial instruments suite of standards."
+    },
+    {
+      "index": 248,
+      "start": "00:25:56.780",
+      "end": "00:26:00.130",
+      "text": "And Melissa will talk shortly a little bit more"
+    },
+    {
+      "index": 249,
+      "start": "00:26:00.130",
+      "end": "00:26:03.410",
+      "text": "on the asset retirement obligation standard."
+    },
+    {
+      "index": 250,
+      "start": "00:26:03.410",
+      "end": "00:26:05.680",
+      "text": "Slide 12 just talks about group scoping."
+    },
+    {
+      "index": 251,
+      "start": "00:26:05.680",
+      "end": "00:26:09.720",
+      "text": "So this shows that through our main financial statement audit,"
+    },
+    {
+      "index": 252,
+      "start": "00:26:09.720",
+      "end": "00:26:13.030",
+      "text": "we cover 88% of the total assets."
+    },
+    {
+      "index": 253,
+      "start": "00:26:13.030",
+      "end": "00:26:16.820",
+      "text": "And 93% of the total revenues are subject"
+    },
+    {
+      "index": 254,
+      "start": "00:26:16.820",
+      "end": "00:26:19.220",
+      "text": "to our audit procedures."
+    },
+    {
+      "index": 255,
+      "start": "00:26:19.220",
+      "end": "00:26:20.540",
+      "text": "The boards and commissions,"
+    },
+    {
+      "index": 256,
+      "start": "00:26:20.540",
+      "end": "00:26:23.650",
+      "text": "we do issue standalone audit opinions on as well"
+    },
+    {
+      "index": 257,
+      "start": "00:26:23.650",
+      "end": "00:26:26.370",
+      "text": "to their own standalone level of materiality."
+    },
+    {
+      "index": 258,
+      "start": "00:26:26.370",
+      "end": "00:26:29.680",
+      "text": "So the scope of work has not changed from previous years."
+    },
+    {
+      "index": 259,
+      "start": "00:26:29.680",
+      "end": "00:26:31.680",
+      "text": "And I'll hand it to Melissa to talk"
+    },
+    {
+      "index": 260,
+      "start": "00:26:31.680",
+      "end": "00:26:39.180",
+      "text": "through some risk assessment."
+    },
+    {
+      "index": 261,
+      "start": "00:26:39.180",
+      "end": "00:26:40.220",
+      "text": "Sorry."
+    },
+    {
+      "index": 262,
+      "start": "00:26:40.220",
+      "end": "00:26:42.450",
+      "text": "So moving on to our risk assessment summary,"
+    },
+    {
+      "index": 263,
+      "start": "00:26:42.450",
+      "end": "00:26:44.280",
+      "text": "this slide and the next slide are a summary"
+    },
+    {
+      "index": 264,
+      "start": "00:26:44.280",
+      "end": "00:26:47.940",
+      "text": "of the risk areas that we will cover over the next few slides."
+    },
+    {
+      "index": 265,
+      "start": "00:26:47.940",
+      "end": "00:26:50.170",
+      "text": "And just wanting to note that we do rebut"
+    },
+    {
+      "index": 266,
+      "start": "00:26:50.170",
+      "end": "00:26:53.320",
+      "text": "the presumed risk relating to fraudulent revenue recognition"
+    },
+    {
+      "index": 267,
+      "start": "00:26:53.320",
+      "end": "00:26:55.190",
+      "text": "consistent with a prior year."
+    },
+    {
+      "index": 268,
+      "start": "00:26:55.190",
+      "end": "00:26:58.060",
+      "text": "We do also note a couple of additional risk areas this year"
+    },
+    {
+      "index": 269,
+      "start": "00:26:58.060",
+      "end": "00:27:03.120",
+      "text": "due to the implementation of the new accounting standards."
+    },
+    {
+      "index": 270,
+      "start": "00:27:03.120",
+      "end": "00:27:05.550",
+      "text": "Moving on to slide 15."
+    },
+    {
+      "index": 271,
+      "start": "00:27:05.550",
+      "end": "00:27:08.060",
+      "text": "This discusses the management override of controls."
+    },
+    {
+      "index": 272,
+      "start": "00:27:08.060",
+      "end": "00:27:10.560",
+      "text": "This is a presumed risk that cannot be rebutted"
+    },
+    {
+      "index": 273,
+      "start": "00:27:10.560",
+      "end": "00:27:12.630",
+      "text": "and that is present in all entities."
+    },
+    {
+      "index": 274,
+      "start": "00:27:12.630",
+      "end": "00:27:15.290",
+      "text": "There are certain procedures that we are required to perform"
+    },
+    {
+      "index": 275,
+      "start": "00:27:15.290",
+      "end": "00:27:17.760",
+      "text": "to address this risk, which are listed on this slide,"
+    },
+    {
+      "index": 276,
+      "start": "00:27:17.760",
+      "end": "00:27:23.090",
+      "text": "and which will be performed during the course of the audit."
+    },
+    {
+      "index": 277,
+      "start": "00:27:23.090",
+      "end": "00:27:26.040",
+      "text": "On the next slide, it talks about new significant risk"
+    },
+    {
+      "index": 278,
+      "start": "00:27:26.040",
+      "end": "00:27:27.870",
+      "text": "this year relating to the implementation"
+    },
+    {
+      "index": 279,
+      "start": "00:27:27.870",
+      "end": "00:27:30.540",
+      "text": "of the asset retirement obligation."
+    },
+    {
+      "index": 280,
+      "start": "00:27:30.540",
+      "end": "00:27:33.120",
+      "text": "This is a new standard effective for the current year."
+    },
+    {
+      "index": 281,
+      "start": "00:27:33.120",
+      "end": "00:27:35.030",
+      "text": "And it's a complex accounting standard,"
+    },
+    {
+      "index": 282,
+      "start": "00:27:35.030",
+      "end": "00:27:38.220",
+      "text": "which requires the application of professional judgment"
+    },
+    {
+      "index": 283,
+      "start": "00:27:38.220",
+      "end": "00:27:40.170",
+      "text": "and will result in significant changes"
+    },
+    {
+      "index": 284,
+      "start": "00:27:40.170",
+      "end": "00:27:42.160",
+      "text": "to the city's financial statements."
+    },
+    {
+      "index": 285,
+      "start": "00:27:42.160",
+      "end": "00:27:45.540",
+      "text": "This is an estimate, so we have assessed this"
+    },
+    {
+      "index": 286,
+      "start": "00:27:45.540",
+      "end": "00:27:47.920",
+      "text": "as a significant risk given its nature."
+    },
+    {
+      "index": 287,
+      "start": "00:27:47.920",
+      "end": "00:27:49.580",
+      "text": "And we've noted on the slide the procedures"
+    },
+    {
+      "index": 288,
+      "start": "00:27:49.580",
+      "end": "00:27:52.080",
+      "text": "that are to be performed over this balance,"
+    },
+    {
+      "index": 289,
+      "start": "00:27:52.080",
+      "end": "00:27:56.330",
+      "text": "as well in quite a bit of detail."
+    },
+    {
+      "index": 290,
+      "start": "00:27:56.330",
+      "end": "00:27:58.600",
+      "text": "The next several slides go over the main areas"
+    },
+    {
+      "index": 291,
+      "start": "00:27:58.600",
+      "end": "00:28:00.110",
+      "text": "of focus for the audit."
+    },
+    {
+      "index": 292,
+      "start": "00:28:00.110",
+      "end": "00:28:02.060",
+      "text": "The implementation of financial instruments"
+    },
+    {
+      "index": 293,
+      "start": "00:28:02.060",
+      "end": "00:28:04.810",
+      "text": "is the first that's noted on slide 17."
+    },
+    {
+      "index": 294,
+      "start": "00:28:04.810",
+      "end": "00:28:07.120",
+      "text": "There will be additional procedures performed here, as well,"
+    },
+    {
+      "index": 295,
+      "start": "00:28:07.120",
+      "end": "00:28:09.430",
+      "text": "due to the new accounting standard,"
+    },
+    {
+      "index": 296,
+      "start": "00:28:09.430",
+      "end": "00:28:12.050",
+      "text": "with the main focus being on identifying those areas"
+    },
+    {
+      "index": 297,
+      "start": "00:28:12.050",
+      "end": "00:28:13.520",
+      "text": "that are within the scope of the standard"
+    },
+    {
+      "index": 298,
+      "start": "00:28:13.520",
+      "end": "00:28:14.480",
+      "text": "and ensuring that they align"
+    },
+    {
+      "index": 299,
+      "start": "00:28:14.480",
+      "end": "00:28:18.040",
+      "text": "with the new measurement and reporting requirements."
+    },
+    {
+      "index": 300,
+      "start": "00:28:18.040",
+      "end": "00:28:20.390",
+      "text": "The other areas of focus on the next few slides"
+    },
+    {
+      "index": 301,
+      "start": "00:28:20.390",
+      "end": "00:28:22.310",
+      "text": "are consistent with the prior year,"
+    },
+    {
+      "index": 302,
+      "start": "00:28:22.310",
+      "end": "00:28:25.770",
+      "text": "and they have been included for your reference."
+    },
+    {
+      "index": 303,
+      "start": "00:28:25.770",
+      "end": "00:28:27.110",
+      "text": "We're not going to go into detail on these,"
+    },
+    {
+      "index": 304,
+      "start": "00:28:27.110",
+      "end": "00:28:33.750",
+      "text": "and we're going to skip to slide 24."
+    },
+    {
+      "index": 305,
+      "start": "00:28:33.750",
+      "end": "00:28:35.180",
+      "text": "This slide provides information"
+    },
+    {
+      "index": 306,
+      "start": "00:28:35.180",
+      "end": "00:28:37.960",
+      "text": "on the timing of certain work that is performed."
+    },
+    {
+      "index": 307,
+      "start": "00:28:37.960",
+      "end": "00:28:39.500",
+      "text": "Planning and risk assessment procedures"
+    },
+    {
+      "index": 308,
+      "start": "00:28:39.500",
+      "end": "00:28:41.720",
+      "text": "were completed in December and January,"
+    },
+    {
+      "index": 309,
+      "start": "00:28:41.720",
+      "end": "00:28:42.950",
+      "text": "with fieldwork starting in April,"
+    },
+    {
+      "index": 310,
+      "start": "00:28:42.950",
+      "end": "00:28:46.490",
+      "text": "and wrapping up in June with final reporting."
+    },
+    {
+      "index": 311,
+      "start": "00:28:46.490",
+      "end": "00:28:47.940",
+      "text": "That brings us to our appendices."
+    },
+    {
+      "index": 312,
+      "start": "00:28:47.940",
+      "end": "00:28:52.190",
+      "text": "So just going to highlight a few key areas here,"
+    },
+    {
+      "index": 313,
+      "start": "00:28:52.190",
+      "end": "00:28:54.050",
+      "text": "but skip over them relatively quickly."
+    },
+    {
+      "index": 314,
+      "start": "00:28:54.050",
+      "end": "00:28:56.230",
+      "text": "The first appendix is just some links to information"
+    },
+    {
+      "index": 315,
+      "start": "00:28:56.230",
+      "end": "00:28:59.040",
+      "text": "on quality inspection results over the past couple of years."
+    },
+    {
+      "index": 316,
+      "start": "00:28:59.040",
+      "end": "00:29:02.460",
+      "text": "Appendix B is some,"
+    },
+    {
+      "index": 317,
+      "start": "00:29:02.460",
+      "end": "00:29:03.920",
+      "text": "KPMG players are audit platforms,"
+    },
+    {
+      "index": 318,
+      "start": "00:29:03.920",
+      "end": "00:29:06.930",
+      "text": "so just some further information for you relating to that."
+    },
+    {
+      "index": 319,
+      "start": "00:29:06.930",
+      "end": "00:29:08.900",
+      "text": "Appendix C and D is some information"
+    },
+    {
+      "index": 320,
+      "start": "00:29:08.900",
+      "end": "00:29:11.310",
+      "text": "on how we deliver audit quality."
+    },
+    {
+      "index": 321,
+      "start": "00:29:11.310",
+      "end": "00:29:12.820",
+      "text": "Specifically in Appendix D,"
+    },
+    {
+      "index": 322,
+      "start": "00:29:12.820",
+      "end": "00:29:14.880",
+      "text": "it has audit quality indicators"
+    },
+    {
+      "index": 323,
+      "start": "00:29:14.880",
+      "end": "00:29:18.130",
+      "text": "that we will report back on in our audit findings report in June,"
+    },
+    {
+      "index": 324,
+      "start": "00:29:18.130",
+      "end": "00:29:20.110",
+      "text": "and these are the ones that we consider critical"
+    },
+    {
+      "index": 325,
+      "start": "00:29:20.110",
+      "end": "00:29:23.060",
+      "text": "when we are considering audit quality."
+    },
+    {
+      "index": 326,
+      "start": "00:29:23.060",
+      "end": "00:29:26.260",
+      "text": "Appendix C are the new audit quality standards"
+    },
+    {
+      "index": 327,
+      "start": "00:29:26.260",
+      "end": "00:29:30.000",
+      "text": "that are effective for the current year and notes that,"
+    },
+    {
+      "index": 328,
+      "start": "00:29:30.000",
+      "end": "00:29:32.160",
+      "text": "and then there is a revised standard relating to group audits"
+    },
+    {
+      "index": 329,
+      "start": "00:29:32.160",
+      "end": "00:29:35.150",
+      "text": "that will come into effect next year."
+    },
+    {
+      "index": 330,
+      "start": "00:29:35.150",
+      "end": "00:29:37.100",
+      "text": "Appendix F provides some information"
+    },
+    {
+      "index": 331,
+      "start": "00:29:37.100",
+      "end": "00:29:40.030",
+      "text": "on upcoming changes in accounting standards."
+    },
+    {
+      "index": 332,
+      "start": "00:29:40.030",
+      "end": "00:29:41.020",
+      "text": "So in the earlier slides,"
+    },
+    {
+      "index": 333,
+      "start": "00:29:41.020",
+      "end": "00:29:43.000",
+      "text": "we discussed the changes in the accounting standards"
+    },
+    {
+      "index": 334,
+      "start": "00:29:43.000",
+      "end": "00:29:44.550",
+      "text": "for the current year and the impact to the audit"
+    },
+    {
+      "index": 335,
+      "start": "00:29:44.550",
+      "end": "00:29:46.570",
+      "text": "as a result of those."
+    },
+    {
+      "index": 336,
+      "start": "00:29:46.570",
+      "end": "00:29:48.360",
+      "text": "Next year, there will be three additional standards"
+    },
+    {
+      "index": 337,
+      "start": "00:29:48.360",
+      "end": "00:29:49.750",
+      "text": "that come into effect,"
+    },
+    {
+      "index": 338,
+      "start": "00:29:49.750",
+      "end": "00:29:51.820",
+      "text": "and then there will also be a couple of additional standards"
+    },
+    {
+      "index": 339,
+      "start": "00:29:51.820",
+      "end": "00:29:53.450",
+      "text": "that are coming down the pipeline,"
+    },
+    {
+      "index": 340,
+      "start": "00:29:53.450",
+      "end": "00:29:56.700",
+      "text": "but those wouldn't be impacting the city until fiscal 2027."
+    },
+    {
+      "index": 341,
+      "start": "00:29:56.700",
+      "end": "00:30:03.120",
+      "text": "So just some high-level detail on those in Appendix F."
+    },
+    {
+      "index": 342,
+      "start": "00:30:03.120",
+      "end": "00:30:07.610",
+      "text": "Appendix G is a report on indicators of financial performance."
+    },
+    {
+      "index": 343,
+      "start": "00:30:07.610",
+      "end": "00:30:09.200",
+      "text": "This is one that we update each year"
+    },
+    {
+      "index": 344,
+      "start": "00:30:09.200",
+      "end": "00:30:11.700",
+      "text": "and focuses on sustainability, flexibility,"
+    },
+    {
+      "index": 345,
+      "start": "00:30:11.700",
+      "end": "00:30:15.680",
+      "text": "and vulnerability through a few key financial indicators."
+    },
+    {
+      "index": 346,
+      "start": "00:30:15.680",
+      "end": "00:30:20.860",
+      "text": "You can see on some of the, I think slide three,"
+    },
+    {
+      "index": 347,
+      "start": "00:30:20.860",
+      "end": "00:30:23.050",
+      "text": "that there's a summary of the financial indicators"
+    },
+    {
+      "index": 348,
+      "start": "00:30:23.050",
+      "end": "00:30:24.330",
+      "text": "that have been included in the report"
+    },
+    {
+      "index": 349,
+      "start": "00:30:24.330",
+      "end": "00:30:26.560",
+      "text": "and which of these areas they fall under."
+    },
+    {
+      "index": 350,
+      "start": "00:30:26.560",
+      "end": "00:30:28.400",
+      "text": "A detailed description of the indicator"
+    },
+    {
+      "index": 351,
+      "start": "00:30:28.400",
+      "end": "00:30:30.310",
+      "text": "is included on the relevant slide,"
+    },
+    {
+      "index": 352,
+      "start": "00:30:30.310",
+      "end": "00:30:31.830",
+      "text": "and just highlighting that this analysis"
+    },
+    {
+      "index": 353,
+      "start": "00:30:31.830",
+      "end": "00:30:34.820",
+      "text": "is based on 2022 data with comparative information"
+    },
+    {
+      "index": 354,
+      "start": "00:30:34.820",
+      "end": "00:30:37.570",
+      "text": "for 2018 to 2021."
+    },
+    {
+      "index": 355,
+      "start": "00:30:37.570",
+      "end": "00:30:39.450",
+      "text": "It does include comparator municipalities"
+    },
+    {
+      "index": 356,
+      "start": "00:30:39.450",
+      "end": "00:30:41.680",
+      "text": "consistent with those determined in prior years,"
+    },
+    {
+      "index": 357,
+      "start": "00:30:41.680",
+      "end": "00:30:44.320",
+      "text": "and the analysis shows that there are generally"
+    },
+    {
+      "index": 358,
+      "start": "00:30:44.320",
+      "end": "00:30:46.230",
+      "text": "consistent results for London"
+    },
+    {
+      "index": 359,
+      "start": "00:30:46.230",
+      "end": "00:30:48.940",
+      "text": "and a continuation of trends seen in prior years."
+    },
+    {
+      "index": 360,
+      "start": "00:30:48.940",
+      "end": "00:30:50.380",
+      "text": "Again, not going to go into any detail"
+    },
+    {
+      "index": 361,
+      "start": "00:30:50.380",
+      "end": "00:30:52.570",
+      "text": "as you would have all had this report in advance,"
+    },
+    {
+      "index": 362,
+      "start": "00:30:52.570",
+      "end": "00:30:53.650",
+      "text": "but if there are any questions,"
+    },
+    {
+      "index": 363,
+      "start": "00:30:53.650",
+      "end": "00:30:59.580",
+      "text": "we'd be happy to respond to those at the end of our report."
+    },
+    {
+      "index": 364,
+      "start": "00:30:59.580",
+      "end": "00:31:02.250",
+      "text": "Moving along to Appendix H."
+    },
+    {
+      "index": 365,
+      "start": "00:31:02.250",
+      "end": "00:31:06.210",
+      "text": "Again, just some information on lean process mapping."
+    },
+    {
+      "index": 366,
+      "start": "00:31:06.210",
+      "end": "00:31:08.170",
+      "text": "We typically do offer a session a year"
+    },
+    {
+      "index": 367,
+      "start": "00:31:08.170",
+      "end": "00:31:10.700",
+      "text": "over a financial reporting process to our clients,"
+    },
+    {
+      "index": 368,
+      "start": "00:31:10.700",
+      "end": "00:31:13.960",
+      "text": "so just some information relating to that."
+    },
+    {
+      "index": 369,
+      "start": "00:31:13.960",
+      "end": "00:31:16.720",
+      "text": "Appendix I provides links to some additional thought"
+    },
+    {
+      "index": 370,
+      "start": "00:31:16.720",
+      "end": "00:31:18.180",
+      "text": "leadership and information that we thought"
+    },
+    {
+      "index": 371,
+      "start": "00:31:18.180",
+      "end": "00:31:20.110",
+      "text": "may be of interest to counsel."
+    },
+    {
+      "index": 372,
+      "start": "00:31:20.110",
+      "end": "00:31:25.100",
+      "text": "Appendix J has some information relating to fraud."
+    },
+    {
+      "index": 373,
+      "start": "00:31:25.100",
+      "end": "00:31:28.660",
+      "text": "It's been a hot topic, so just some information here"
+    },
+    {
+      "index": 374,
+      "start": "00:31:28.660",
+      "end": "00:31:33.530",
+      "text": "on one of the key members assisting with this in our office."
+    },
+    {
+      "index": 375,
+      "start": "00:31:33.530",
+      "end": "00:31:36.120",
+      "text": "Moving on to the next several slides,"
+    },
+    {
+      "index": 376,
+      "start": "00:31:36.120",
+      "end": "00:31:39.300",
+      "text": "a few other hot topics relate to climate risk"
+    },
+    {
+      "index": 377,
+      "start": "00:31:39.300",
+      "end": "00:31:41.120",
+      "text": "and the impact on the financial statements,"
+    },
+    {
+      "index": 378,
+      "start": "00:31:41.120",
+      "end": "00:31:44.260",
+      "text": "as well as ESG and generative AI,"
+    },
+    {
+      "index": 379,
+      "start": "00:31:44.260",
+      "end": "00:31:45.650",
+      "text": "so we thought that may be of some interest."
+    },
+    {
+      "index": 380,
+      "start": "00:31:45.650",
+      "end": "00:31:47.760",
+      "text": "And again, it's just some additional information"
+    },
+    {
+      "index": 381,
+      "start": "00:31:47.760",
+      "end": "00:31:56.370",
+      "text": "for counsel, and that concludes our report."
+    },
+    {
+      "index": 382,
+      "start": "00:31:56.370",
+      "end": "00:32:01.600",
+      "text": "Thank you for that."
+    },
+    {
+      "index": 383,
+      "start": "00:32:01.600",
+      "end": "00:32:06.980",
+      "text": "I will start my speakers list,"
+    },
+    {
+      "index": 384,
+      "start": "00:32:06.980",
+      "end": "00:32:10.940",
+      "text": "I'm sorry, my speakers list with Council approval."
+    },
+    {
+      "index": 385,
+      "start": "00:32:10.940",
+      "end": "00:32:12.720",
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "index": 386,
+      "start": "00:32:12.720",
+      "end": "00:32:14.670",
+      "text": "Thank you for that speedy report."
+    },
+    {
+      "index": 387,
+      "start": "00:32:14.670",
+      "end": "00:32:16.690",
+      "text": "By the way, is there a process"
+    },
+    {
+      "index": 388,
+      "start": "00:32:16.690",
+      "end": "00:32:20.170",
+      "text": "or let's say if we wanted to give more than five minutes"
+    },
+    {
+      "index": 389,
+      "start": "00:32:20.170",
+      "end": "00:32:22.980",
+      "text": "for next time, what is the process that we can do"
+    },
+    {
+      "index": 390,
+      "start": "00:32:22.980",
+      "end": "00:32:27.030",
+      "text": "because I really think this is a very fast sprint?"
+    },
+    {
+      "index": 391,
+      "start": "00:32:27.030",
+      "end": "00:32:29.130",
+      "text": "Yeah, they did use eight and a half,"
+    },
+    {
+      "index": 392,
+      "start": "00:32:29.130",
+      "end": "00:32:31.220",
+      "text": "I certainly didn't stop another five."
+    },
+    {
+      "index": 393,
+      "start": "00:32:31.220",
+      "end": "00:32:35.450",
+      "text": "I usually tend to use the five-minute benchmark"
+    },
+    {
+      "index": 394,
+      "start": "00:32:35.450",
+      "end": "00:32:38.040",
+      "text": "'cause not everyone has meaningful dialogue"
+    },
+    {
+      "index": 395,
+      "start": "00:32:38.040",
+      "end": "00:32:39.930",
+      "text": "in their five minutes."
+    },
+    {
+      "index": 396,
+      "start": "00:32:39.930",
+      "end": "00:32:41.940",
+      "text": "And that's why I just try to keep it to five."
+    },
+    {
+      "index": 397,
+      "start": "00:32:41.940",
+      "end": "00:32:45.750",
+      "text": "Next, I'm now knowing, I certainly could have said 10,"
+    },
+    {
+      "index": 398,
+      "start": "00:32:45.750",
+      "end": "00:32:46.800",
+      "text": "or I don't stop them,"
+    },
+    {
+      "index": 399,
+      "start": "00:32:46.800",
+      "end": "00:32:48.760",
+      "text": "but we can certainly have that conversation going forward"
+    },
+    {
+      "index": 400,
+      "start": "00:32:48.760",
+      "end": "00:32:51.870",
+      "text": "of we would like to receive."
+    },
+    {
+      "index": 401,
+      "start": "00:32:51.870",
+      "end": "00:32:54.570",
+      "text": "I think you said there was a June update coming."
+    },
+    {
+      "index": 402,
+      "start": "00:32:54.570",
+      "end": "00:32:55.680",
+      "text": "If we want to give direction now"
+    },
+    {
+      "index": 403,
+      "start": "00:32:55.680",
+      "end": "00:32:58.170",
+      "text": "that it could be allotted and noted"
+    },
+    {
+      "index": 404,
+      "start": "00:32:58.170",
+      "end": "00:33:00.190",
+      "text": "that we'd like a 10-minute presentation,"
+    },
+    {
+      "index": 405,
+      "start": "00:33:00.190",
+      "end": "00:33:02.210",
+      "text": "a 15-minute presentation,"
+    },
+    {
+      "index": 406,
+      "start": "00:33:02.210",
+      "end": "00:33:05.190",
+      "text": "that they would plan accordingly."
+    },
+    {
+      "index": 407,
+      "start": "00:33:05.190",
+      "end": "00:33:07.450",
+      "text": "So we'd like 10 to 15 going in June,"
+    },
+    {
+      "index": 408,
+      "start": "00:33:07.450",
+      "end": "00:33:09.900",
+      "text": "just so we can plan accordingly."
+    },
+    {
+      "index": 409,
+      "start": "00:33:09.900",
+      "end": "00:33:12.320",
+      "text": "I personally would love to have 15."
+    },
+    {
+      "index": 410,
+      "start": "00:33:12.320",
+      "end": "00:33:15.740",
+      "text": "Yeah, so that's noted by KPMG and as Chair in June,"
+    },
+    {
+      "index": 411,
+      "start": "00:33:15.740",
+      "end": "00:33:18.260",
+      "text": "I'll note a 10, that for 15 minutes, so thank you."
+    },
+    {
+      "index": 412,
+      "start": "00:33:18.260",
+      "end": "00:33:19.290",
+      "text": "Perfect, thank you."
+    },
+    {
+      "index": 413,
+      "start": "00:33:19.290",
+      "end": "00:33:20.960",
+      "text": "So I do have a few questions,"
+    },
+    {
+      "index": 414,
+      "start": "00:33:20.960",
+      "end": "00:33:22.830",
+      "text": "and I love the financial indicators,"
+    },
+    {
+      "index": 415,
+      "start": "00:33:22.830",
+      "end": "00:33:23.910",
+      "text": "and thank you for that."
+    },
+    {
+      "index": 416,
+      "start": "00:33:23.910",
+      "end": "00:33:26.420",
+      "text": "And I know it was mentioned"
+    },
+    {
+      "index": 417,
+      "start": "00:33:26.420",
+      "end": "00:33:28.170",
+      "text": "that the other five municipalities,"
+    },
+    {
+      "index": 418,
+      "start": "00:33:28.170",
+      "end": "00:33:32.710",
+      "text": "that it's historical, but besides historical,"
+    },
+    {
+      "index": 419,
+      "start": "00:33:32.710",
+      "end": "00:33:35.610",
+      "text": "are these the municipalities that you are auditing as well,"
+    },
+    {
+      "index": 420,
+      "start": "00:33:35.610",
+      "end": "00:33:39.940",
+      "text": "or is this from your getting the figures,"
+    },
+    {
+      "index": 421,
+      "start": "00:33:39.940",
+      "end": "00:33:43.900",
+      "text": "the numbers from some statistical data?"
+    },
+    {
+      "index": 422,
+      "start": "00:33:43.900",
+      "end": "00:33:45.290",
+      "text": "So through you, Madam Chair,"
+    },
+    {
+      "index": 423,
+      "start": "00:33:45.290",
+      "end": "00:33:48.160",
+      "text": "some of these are audit clients of KPMG."
+    },
+    {
+      "index": 424,
+      "start": "00:33:48.160",
+      "end": "00:33:50.880",
+      "text": "However, all of the information that we use in this analysis"
+    },
+    {
+      "index": 425,
+      "start": "00:33:50.880",
+      "end": "00:33:53.660",
+      "text": "is pulled from publicly available FIR data."
+    },
+    {
+      "index": 426,
+      "start": "00:33:53.660",
+      "end": "00:33:58.790",
+      "text": "So that's where that information comes from."
+    },
+    {
+      "index": 427,
+      "start": "00:33:58.790",
+      "end": "00:33:59.810",
+      "text": "There might be a couple slides"
+    },
+    {
+      "index": 428,
+      "start": "00:33:59.810",
+      "end": "00:34:02.020",
+      "text": "that use publicly available census data,"
+    },
+    {
+      "index": 429,
+      "start": "00:34:02.020",
+      "end": "00:34:02.930",
+      "text": "but for the most part,"
+    },
+    {
+      "index": 430,
+      "start": "00:34:02.930",
+      "end": "00:34:07.180",
+      "text": "it's what's being reported through the FIRs."
+    },
+    {
+      "index": 431,
+      "start": "00:34:07.180",
+      "end": "00:34:09.540",
+      "text": "Councillor?"
+    },
+    {
+      "index": 432,
+      "start": "00:34:09.540",
+      "end": "00:34:12.210",
+      "text": "Thank you, and to follow up,"
+    },
+    {
+      "index": 433,
+      "start": "00:34:12.210",
+      "end": "00:34:13.350",
+      "text": "financial limitations,"
+    },
+    {
+      "index": 434,
+      "start": "00:34:13.350",
+      "end": "00:34:16.360",
+      "text": "and I think that those are some really great points."
+    },
+    {
+      "index": 435,
+      "start": "00:34:16.360",
+      "end": "00:34:17.710",
+      "text": "But what I was looking for,"
+    },
+    {
+      "index": 436,
+      "start": "00:34:17.710",
+      "end": "00:34:19.320",
+      "text": "where would be more for me,"
+    },
+    {
+      "index": 437,
+      "start": "00:34:19.320",
+      "end": "00:34:23.010",
+      "text": "kind of the positive stuff, the potential opportunities?"
+    },
+    {
+      "index": 438,
+      "start": "00:34:23.010",
+      "end": "00:34:26.740",
+      "text": "And is this something that you go beyond this,"
+    },
+    {
+      "index": 439,
+      "start": "00:34:26.740",
+      "end": "00:34:29.030",
+      "text": "that especially if you are auditing"
+    },
+    {
+      "index": 440,
+      "start": "00:34:29.030",
+      "end": "00:34:32.420",
+      "text": "some of these municipalities as well?"
+    },
+    {
+      "index": 441,
+      "start": "00:34:32.420",
+      "end": "00:34:33.790",
+      "text": "Are there certain opportunities"
+    },
+    {
+      "index": 442,
+      "start": "00:34:33.790",
+      "end": "00:34:35.230",
+      "text": "that we are living on the table"
+    },
+    {
+      "index": 443,
+      "start": "00:34:35.230",
+      "end": "00:34:37.720",
+      "text": "and we could take more advantage of?"
+    },
+    {
+      "index": 444,
+      "start": "00:34:37.720",
+      "end": "00:34:39.290",
+      "text": "Do you go beyond that?"
+    },
+    {
+      "index": 445,
+      "start": "00:34:39.290",
+      "end": "00:34:42.950",
+      "text": "Because the potential limitations, it's more negative,"
+    },
+    {
+      "index": 446,
+      "start": "00:34:42.950",
+      "end": "00:34:45.630",
+      "text": "but the positive, let's learn from it,"
+    },
+    {
+      "index": 447,
+      "start": "00:34:45.630",
+      "end": "00:34:47.360",
+      "text": "and how can we learn from the best,"
+    },
+    {
+      "index": 448,
+      "start": "00:34:47.360",
+      "end": "00:34:50.750",
+      "text": "so we are the best in everything."
+    },
+    {
+      "index": 449,
+      "start": "00:34:50.750",
+      "end": "00:34:52.090",
+      "text": "Dan Bach?"
+    },
+    {
+      "index": 450,
+      "start": "00:34:52.090",
+      "end": "00:34:53.630",
+      "text": "Through you, Madam Chair."
+    },
+    {
+      "index": 451,
+      "start": "00:34:53.630",
+      "end": "00:34:57.960",
+      "text": "So this report, we provide sort of as a conversation starter"
+    },
+    {
+      "index": 452,
+      "start": "00:34:57.960",
+      "end": "00:34:59.340",
+      "text": "for the Committee or for Council."
+    },
+    {
+      "index": 453,
+      "start": "00:34:59.340",
+      "end": "00:35:01.880",
+      "text": "It's not really a byproduct of our audit."
+    },
+    {
+      "index": 454,
+      "start": "00:35:01.880",
+      "end": "00:35:05.940",
+      "text": "We just thought, we added it in several years ago"
+    },
+    {
+      "index": 455,
+      "start": "00:35:05.940",
+      "end": "00:35:08.310",
+      "text": "in order to add some value to the conversations"
+    },
+    {
+      "index": 456,
+      "start": "00:35:08.310",
+      "end": "00:35:09.370",
+      "text": "that we were having."
+    },
+    {
+      "index": 457,
+      "start": "00:35:09.370",
+      "end": "00:35:12.420",
+      "text": "It's not part of the scope of work"
+    },
+    {
+      "index": 458,
+      "start": "00:35:12.420",
+      "end": "00:35:13.940",
+      "text": "that we've been engaged to do"
+    },
+    {
+      "index": 459,
+      "start": "00:35:13.940",
+      "end": "00:35:16.530",
+      "text": "to sort of look for opportunities."
+    },
+    {
+      "index": 460,
+      "start": "00:35:16.530",
+      "end": "00:35:19.840",
+      "text": "Our focus is really on the fairness of presentation"
+    },
+    {
+      "index": 461,
+      "start": "00:35:19.840",
+      "end": "00:35:22.190",
+      "text": "of the financial statements as a whole."
+    },
+    {
+      "index": 462,
+      "start": "00:35:22.190",
+      "end": "00:35:24.310",
+      "text": "That being said, it's not beyond the scope"
+    },
+    {
+      "index": 463,
+      "start": "00:35:24.310",
+      "end": "00:35:26.180",
+      "text": "of what we could possibly do,"
+    },
+    {
+      "index": 464,
+      "start": "00:35:26.180",
+      "end": "00:35:29.210",
+      "text": "not part as the financial statement audit engagement,"
+    },
+    {
+      "index": 465,
+      "start": "00:35:29.210",
+      "end": "00:35:32.640",
+      "text": "but as a service provider to the city"
+    },
+    {
+      "index": 466,
+      "start": "00:35:32.640",
+      "end": "00:35:35.350",
+      "text": "to comment further on opportunities"
+    },
+    {
+      "index": 467,
+      "start": "00:35:35.350",
+      "end": "00:35:37.030",
+      "text": "that may be out there."
+    },
+    {
+      "index": 468,
+      "start": "00:35:37.030",
+      "end": "00:35:39.300",
+      "text": "Certainly, I'm in constant communication"
+    },
+    {
+      "index": 469,
+      "start": "00:35:39.300",
+      "end": "00:35:40.380",
+      "text": "with management of the city"
+    },
+    {
+      "index": 470,
+      "start": "00:35:40.380",
+      "end": "00:35:42.970",
+      "text": "if I do become aware of opportunities"
+    },
+    {
+      "index": 471,
+      "start": "00:35:42.970",
+      "end": "00:35:44.690",
+      "text": "that the city should be aware of."
+    },
+    {
+      "index": 472,
+      "start": "00:35:44.690",
+      "end": "00:35:48.640",
+      "text": "Thank you, and the last question."
+    },
+    {
+      "index": 473,
+      "start": "00:35:48.640",
+      "end": "00:35:53.330",
+      "text": "Does he say it is beyond or it is not beyond the scope?"
+    },
+    {
+      "index": 474,
+      "start": "00:35:53.330",
+      "end": "00:35:59.460",
+      "text": "It is beyond the scope of what we have been engaged to do."
+    },
+    {
+      "index": 475,
+      "start": "00:35:59.460",
+      "end": "00:36:00.230",
+      "text": "Thank you very much."
+    },
+    {
+      "index": 476,
+      "start": "00:36:00.230",
+      "end": "00:36:02.900",
+      "text": "No more questions?"
+    },
+    {
+      "index": 477,
+      "start": "00:36:02.900",
+      "end": "00:36:03.850",
+      "text": "Thank you."
+    },
+    {
+      "index": 478,
+      "start": "00:36:03.850",
+      "end": "00:36:11.100",
+      "text": "I did have one, he'd allow me as chair, through the chair."
+    },
+    {
+      "index": 479,
+      "start": "00:36:11.100",
+      "end": "00:36:13.720",
+      "text": "Ms. Redden did mention, I think it was additional training,"
+    },
+    {
+      "index": 480,
+      "start": "00:36:13.720",
+      "end": "00:36:16.510",
+      "text": "I believe that's on page 72,"
+    },
+    {
+      "index": 481,
+      "start": "00:36:16.510",
+      "end": "00:36:20.990",
+      "text": "and it's the KPMG is your ESG performance driving real value"
+    },
+    {
+      "index": 482,
+      "start": "00:36:20.990",
+      "end": "00:36:23.840",
+      "text": "and it was the program overview slide."
+    },
+    {
+      "index": 483,
+      "start": "00:36:23.840",
+      "end": "00:36:27.590",
+      "text": "Is this included with what we've contracted for?"
+    },
+    {
+      "index": 484,
+      "start": "00:36:27.590",
+      "end": "00:36:32.010",
+      "text": "Is an extra fee for service just verifying?"
+    },
+    {
+      "index": 485,
+      "start": "00:36:32.010",
+      "end": "00:36:35.860",
+      "text": "Yeah, so the ESG Discovery document in here,"
+    },
+    {
+      "index": 486,
+      "start": "00:36:35.860",
+      "end": "00:36:39.550",
+      "text": "it's an additional service that KPMG is available to provide,"
+    },
+    {
+      "index": 487,
+      "start": "00:36:39.550",
+      "end": "00:36:41.570",
+      "text": "but does not currently fall within the scope"
+    },
+    {
+      "index": 488,
+      "start": "00:36:41.570",
+      "end": "00:36:44.110",
+      "text": "of the audit of the financial statements."
+    },
+    {
+      "index": 489,
+      "start": "00:36:44.110",
+      "end": "00:36:46.340",
+      "text": "Thank you for that clarification."
+    },
+    {
+      "index": 490,
+      "start": "00:36:46.340",
+      "end": "00:36:48.990",
+      "text": "Looking to see if there's any other questions or comments"
+    },
+    {
+      "index": 491,
+      "start": "00:36:48.990",
+      "end": "00:36:51.750",
+      "text": "from chambers, since we have nobody online."
+    },
+    {
+      "index": 492,
+      "start": "00:36:51.750",
+      "end": "00:36:55.670",
+      "text": "Hey, it's been, it has not been moved and seconded,"
+    },
+    {
+      "index": 493,
+      "start": "00:36:55.670",
+      "end": "00:36:57.320",
+      "text": "I've been terrible as a chair."
+    },
+    {
+      "index": 494,
+      "start": "00:36:57.320",
+      "end": "00:37:00.860",
+      "text": "So I need a mover and a seconder for approval"
+    },
+    {
+      "index": 495,
+      "start": "00:37:00.860",
+      "end": "00:37:03.300",
+      "text": "of the audit planning report from KPMG,"
+    },
+    {
+      "index": 496,
+      "start": "00:37:03.300",
+      "end": "00:37:05.440",
+      "text": "moved by Councillor Pribble,"
+    },
+    {
+      "index": 497,
+      "start": "00:37:05.440",
+      "end": "00:37:06.860",
+      "text": "seconded by Councillor Cuddy."
+    },
+    {
+      "index": 498,
+      "start": "00:37:06.860",
+      "end": "00:37:08.810",
+      "text": "All in favor?"
+    },
+    {
+      "index": 499,
+      "start": "00:37:08.810",
+      "end": "00:37:11.050",
+      "text": "Madam motion carries."
+    },
+    {
+      "index": 500,
+      "start": "00:37:11.050",
+      "end": "00:37:12.870",
+      "text": "Thank you, that concludes that item."
+    },
+    {
+      "index": 501,
+      "start": "00:37:12.870",
+      "end": "00:37:15.730",
+      "text": "We will see you back in June with a 15 minute presentation"
+    },
+    {
+      "index": 502,
+      "start": "00:37:15.730",
+      "end": "00:37:17.630",
+      "text": "and Q and A as well."
+    },
+    {
+      "index": 503,
+      "start": "00:37:17.630",
+      "end": "00:37:19.840",
+      "text": "I have no deferred matters and additional business"
+    },
+    {
+      "index": 504,
+      "start": "00:37:19.840",
+      "end": "00:37:21.560",
+      "text": "that I'm aware of."
+    },
+    {
+      "index": 505,
+      "start": "00:37:21.560",
+      "end": "00:37:23.480",
+      "text": "I don't see anyone raising anything in chambers."
+    },
+    {
+      "index": 506,
+      "start": "00:37:23.480",
+      "end": "00:37:25.480",
+      "text": "We do have one item for confidential session,"
+    },
+    {
+      "index": 507,
+      "start": "00:37:25.480",
+      "end": "00:37:29.280",
+      "text": "so I will thank KPMG and wish you luck"
+    },
+    {
+      "index": 508,
+      "start": "00:37:29.280",
+      "end": "00:37:32.110",
+      "text": "and happy Valentine's Day with your day."
+    },
+    {
+      "index": 509,
+      "start": "00:37:32.110",
+      "end": "00:37:33.540",
+      "text": "And any other staff that is not required"
+    },
+    {
+      "index": 510,
+      "start": "00:37:33.540",
+      "end": "00:37:34.580",
+      "text": "for the confidential item,"
+    },
+    {
+      "index": 511,
+      "start": "00:37:34.580",
+      "end": "00:37:38.000",
+      "text": "please also go and enjoy your day and productiveness."
+    },
+    {
+      "index": 512,
+      "start": "00:37:38.000",
+      "end": "00:37:40.550",
+      "text": "And we are staying in chambers for confidential session."
+    },
+    {
+      "index": 513,
+      "start": "00:37:40.550",
+      "end": "00:37:43.250",
+      "text": "So just, sorry, mover and seconder to go"
+    },
+    {
+      "index": 514,
+      "start": "00:37:43.250",
+      "end": "00:37:44.890",
+      "text": "into confidential move by Councillor Pribble,"
+    },
+    {
+      "index": 515,
+      "start": "00:37:44.890",
+      "end": "00:37:46.240",
+      "text": "seconded by Councillor Cuddy."
+    },
+    {
+      "index": 516,
+      "start": "00:37:46.240",
+      "end": "00:37:47.370",
+      "text": "All in favor?"
+    },
+    {
+      "index": 517,
+      "start": "00:37:47.370",
+      "end": "00:37:48.390",
+      "text": "That's carried."
+    },
+    {
+      "index": 518,
+      "start": "00:37:48.390",
+      "end": "00:37:49.220",
+      "text": "Okay, thank you."
+    },
+    {
+      "index": 519,
+      "start": "00:37:49.220",
+      "end": "00:37:50.200",
+      "text": "We're just gonna secure chambers."
+    },
+    {
+      "index": 520,
+      "start": "00:37:50.200",
+      "end": "00:37:51.470",
+      "text": "And for the public record,"
+    },
+    {
+      "index": 521,
+      "start": "00:37:51.470",
+      "end": "00:37:52.760",
+      "text": "the reason for going in camera"
+    },
+    {
+      "index": 522,
+      "start": "00:37:52.760",
+      "end": "00:38:24.410",
+      "text": "is as indicated on the public agenda."
+    },
+    {
+      "index": 523,
+      "start": "00:38:24.410",
+      "end": "00:40:24.100",
+      "text": "Recording in progress."
+    },
+    {
+      "index": 524,
+      "start": "00:40:24.100",
+      "end": "00:40:25.420",
+      "text": "Hey, we're now back in open session."
+    },
+    {
+      "index": 525,
+      "start": "00:40:25.420",
+      "end": "00:40:28.380",
+      "text": "Looking at Councillor Cuddy to report out for me?"
+    },
+    {
+      "index": 526,
+      "start": "00:40:28.380",
+      "end": "00:40:30.110",
+      "text": "Thank you, Madam Chair and through you."
+    },
+    {
+      "index": 527,
+      "start": "00:40:30.110",
+      "end": "00:40:33.820",
+      "text": "Committee met in closed session from 12/20 to 12/40."
+    },
+    {
+      "index": 528,
+      "start": "00:40:33.820",
+      "end": "00:40:36.410",
+      "text": "We made progress on matters"
+    },
+    {
+      "index": 529,
+      "start": "00:40:36.410",
+      "end": "00:40:37.780",
+      "text": "that were discussed in confidence."
+    },
+    {
+      "index": 530,
+      "start": "00:40:37.780",
+      "end": "00:40:40.070",
+      "text": "Thank you."
+    },
+    {
+      "index": 531,
+      "start": "00:40:40.070",
+      "end": "00:40:40.900",
+      "text": "Thank you."
+    },
+    {
+      "index": 532,
+      "start": "00:40:40.900",
+      "end": "00:40:42.320",
+      "text": "That concludes the entire agenda,"
+    },
+    {
+      "index": 533,
+      "start": "00:40:42.320",
+      "end": "00:40:44.460",
+      "text": "which can bring us to item seven for adjournment."
+    },
+    {
+      "index": 534,
+      "start": "00:40:44.460",
+      "end": "00:40:46.080",
+      "text": "Motion to adjourn, move by Councillor Cuddy,"
+    },
+    {
+      "index": 535,
+      "start": "00:40:46.080",
+      "end": "00:40:47.150",
+      "text": "seconded by Councillor Pribble."
+    },
+    {
+      "index": 536,
+      "start": "00:40:47.150",
+      "end": "00:40:48.800",
+      "text": "All in favor of adjournment?"
+    },
+    {
+      "index": 537,
+      "start": "00:40:48.800",
+      "end": "00:40:50.220",
+      "text": "No motion to answer."
+    },
+    {
+      "index": 538,
+      "start": "00:40:50.220",
+      "end": "00:40:53.190",
+      "text": "Thank you everyone and have a wonderful day."
+    },
+    {
+      "index": 539,
+      "start": "00:40:53.190",
+      "end": "00:40:54.910",
+      "text": "Thank you everyone."
+    },
+    {
+      "index": 540,
+      "start": "00:40:54.910",
+      "end": "00:40:55.260",
+      "text": "Thank you."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Audit%20Committee/2024/02-14/.transcript.srt"
+}

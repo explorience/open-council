@@ -221,4 +221,47 @@ None.
 # 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:14 PM.
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (16 minutes)</summary>
+
+**[2:57]** Of course, who have been able to log into eScribe, I've just opened up a test vote. Could I see Councillor Hillier has already voted? If you're able to submit a test vote for me, that would be really helpful, thank you. I'm still, Councillor Silly's having technical difficulty still. Thank you, Councillor Silly. Are we still good to go, Chair?
+
+**[4:16]** Mr. Mayor, we're having some technical difficulties with eScribe and we are trying to fix them. Thank you, one of the few times I've not, so I was ready. It is the remote attendees are doing okay and it is the in person in City Hall here chambers that's having a problem. Thank you. Chair, I just have to step out of the meeting.
+
+**[6:35]** Something came up, so I'll try to be back. Hopefully there's still quorum. We do have quorum. Thank you, Councillor Silly. Thank you, take care. So just for members of the public who might be signed into our YouTube video, we are having some technical difficulties and we are trying to resolve those and get the meeting started.
+
+**[7:56]** Thanks for your patience. We will get started.
+
+**[8:29]** We are still having difficulties with eScribe. So we will do verbal votes like we used to do in the old days when we first started these virtual meetings. Takes a little bit longer, but that's okay. So I will call the first meeting of the community and protective services committee to order. It is a virtual meeting during the COVID emergency and please check the city website for current details of COVID-19 service impact and meetings can be viewed via live streaming on YouTube and the city website, although I'm not sure about the city website today.
+
+**[9:05]** The city of London is committed to making every effort to provide alternate formats and communication supports for council, standing or advisory committee meetings and information upon request. To make a request for any city service, please contact accessibility@london.ca or 509-661-2489 extension 2425. To make a request specific to this meeting, please contact CPSC@london.ca. I'm going to Ms. Westlake Power right now.
+
+**[9:43]** Thank you. Before we get any further, Madam Chair, I'd just like to let folks know that the remote access to eScribe appears to be working fine and the streaming functionality is working. So I will be able to administer eScribe remotely. So except for those in chambers where I will register the verbal votes that everybody else should be able to see the votes come up. So thank you very much. Thank you, Madam Deputy Clerk. So remote attendees can vote through eScribe. I'm Councillor Hamou and I, who are the only committee members here in chambers, we will vote by hand and record our votes verbally actually.
+
+**[10:26]** With that, I will check to see if there are any disclosures of pecuniary interest. Dangnan, the first order of business is the election of the vice chair. For the term ending November 14th, 2022, I'm gonna look to the committee to see if anybody is interested in serving as vice chair. We have a hard no here in council chambers and we weren't virtually interested. The chair to Councillor Hamou for a second.
+
+**[11:04]** Sure. I'm not sure if you're willing, but I would like to nominate Councillor Halmer for vice chair for this committee for this term. Would you be interested in Councillor Halmer? Exactly a stampede of people wanting to be vice chair. Yes, I'm happy to do it. If the committee would like me to do that, there's no problem. Okay, so I'm not in the chair, but I've moved to that and I'll look to the presiding officer to conduct the election.
+
+**[11:40]** Chair, okay, Mayor, Mayor Holder. Thanks, Chair. That sounds so good, Councillor Abu. I was going to second, but I think Councillor Cassidy, if there hasn't been a second, I'm not sure I'm pleased to do that. And with thanks to Councillor Halmer for accepting the roll. Yes, we do accept the second, your second. So let's call vote. All those in favor of having, oh, sorry, okay. So Councillor Hamou, so they can, they remote attendees can vote on E-Scribe and you and I will vote live in person and I'm indicating that my vote is a yes.
+
+**[12:25]** Mine is also a yes. Chair, in the spirit of the old days, I will not be voting E-Scribe tonight minus a yes. Thank you. Closing the vote and the motion is passed five to zero. Thank you, thank you. And I will pass it back to Councillor Cassidy. Thank you, Councillor Hamou. Excellent, so that's out of the way. Congratulations and thank you for serving as vice chair, Councillor Halmer.
+
+**[12:59]** I'm gonna go to the consent items. There are five items. Would any member like to pull any of the consent items? Not seeing any interest in pulling those. So I'll look for a mover and a seconder to put the entire consent agenda on the floor, moved by Councillor Hillier, seconded by Councillor Halmer. Any comment or discussion on those items? Councillor Hillier. Just one comment on page 4041. The fines if you mess with trees in London.
+
+**[13:32]** I gotta say, it's very nice to know the forest city is gonna become the forest city. Again, people don't mess with trees in London. The fines are huge. Thank you very much. Thank you, Councillor Hillier. Any other comments, questions, discussion? Seeing none, the consent items have all been moved and seconded, so I will call the vote. Anyone that can vote electronically, please do so. And Councillor, Mr. Mayor, I will-- Thank you, I'll vote yes, Chair, thanks.
+
+**[14:06]** Okay, thank you, Councillor Hamou. I also vote yes. And I vote yes. Closing the vote, the motion's passed, five to zero. Thank you for that. That was rather quick and not a lot of comment, but I do wanna say that the 2.4 and 2.5 are really excellent items and I'm glad that those passed unanimously.
+
+**[14:45]** Of course, they would, did not expect anything otherwise. There are no scheduled items. There are no items for direction. There is a deferred matters list. Is there any discussion, comment or questions on the deferred matters list? I'm gonna move her and seconder for that. Moved by Councillor Hillier, seconded by Councillor Hamou. I'm gonna call the question, Mr. Mayor. Thanks, Chair. Thank you, Councillor Hamou.
+
+**[15:19]** I'm a yes as well. Thank you, and I vote yes. Closing the vote and the motion is passed, five to zero. This is for 10s, good things to come for this committee. It's been an extremely efficient meeting despite the technical difficulties. I would look for a motion to adjourn. Moved by Councillor Hillier, and seconded by Councillor Hamou. I'll do a hand before we go ahead, Mr. Mayor. We lost your audio, Mr. Mayor, just as you were about to say something very profound.
+
+**[16:02]** It was profound, Chair. I just wanted to compliment the Chair on her direction on moving this meeting along expeditiously. Thank you, Mr. Mayor. And I'll call that vote. All those in favor of adjournment. I'll vote yes. Thank you. That motion's carried, thank you. Thanks, everybody, and thanks for dealing with those technical problems to the clerks. All of the clerks, thanks so much. Have a great afternoon.
+
+</details>

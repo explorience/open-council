@@ -304,4 +304,51 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:30 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (22 minutes)</summary>
+
+**[9:34]** Good afternoon, everyone. We have quorum of the committee. We have two committee members who are absent. All the one has indicated that he may be late. I'm not sure that that will be timely enough for this meeting. So I am going to call meeting of the 15th meeting of the Corporate Services Committee to order. As always, I would like to begin by acknowledging that the City of London is situated on the traditional lands of the Anishinaabic, the Haudenosaunee, Lene Peiwak, and Adirwander. And we honor and respect the history, languages, and culture of the diverse Indigenous people who call this territory home.
+
+**[10:08]** The City of London is currently home to many First Nations, Métis, and Inuit peoples. And as representatives of the people of the City of London, we are grateful to have the opportunity to work and live in this territory. The City of London is also committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact csc@london.ca or phone 519-661-2489, extension 2425. Colleagues, I'm going to look for any disclosures of pecanary interest.
+
+**[10:47]** Seeing none, then we're gonna move right along in the consent agenda. There is only one item. I am, however, at this time, going to ask Councilor McAllister to take the chair just briefly, because I want to suggest one minor amendment. Councilor McAllister. Recognizing that I have the chair and I have Deputy Mayor Lewis on the speaker's list. Go ahead. Thank you, colleagues. And I'm just trying to set the tone quick by bringing forward amendments right off the bat on my first time speaking to anything, as was indicated we're gonna be doing from now on.
+
+**[11:26]** So when you're reading through these policies, I'm not gonna provide a long preamble on this. I would just like to suggest one change to the illumination policy and that is, so we would be proposing an amendment, I'm gonna propose an amendment to acknowledge the following motion that the proposed illumination of the City of London buildings and amenities policy be amended by adding the remainder of the month of June to be allocated for national pride month.
+
+**[12:00]** That would change part J to be amended to read as follows. Notwithstanding the above, the City of London buildings and amenities with multi-color capable LED light installations shall be illuminated on the following occasions. One, June six, purple and green for our London family. Part two, the remainder of June, rainbow for national pride month, noting that individual lighting requests will also be accommodated. Part three, July first, red and white for Canada day. Part four, September 30th, Orange for National Day of Truth and Reconciliation.
+
+**[12:36]** Part five, November 10 and 11, red for Remembrance Day. Part six, the remainder of November purple for shine the light on women abuse and part seven, red and green for the holidays in December. So it's just adding that part two and remembering the others so that June would show rainbow for national pride month, noting that we do have one special accommodation already for our London family and that other special day accommodations would be provided for. So I'm hoping I have a seconder for that and I will talk and my speech there, Councillor McAllister, and look back to you.
+
+**[13:18]** Councillor Ferri, are you gonna second? Okay, you're gonna seconder there. Any discussion? Go ahead, Councillor Ferri. Thank you, through you. I know that we're following the procedural, just a little bit more. So I don't know if I can speak to this. I wanna speak to the main motion with the amendment. So I just wanted to say to the flag policy, I do appreciate staff's work on the flag policy. I know I've been in contact with the clerk just a little bit and I'm happy that that's come through and I know that our constituency would be pretty pleased to see the changes to the flag policy.
+
+**[13:56]** So I just wanted to say that and I'm happy to second the amendment to the motion. The other speakers, seeing none, I will pass the chair back over to Deputy Mayor. Opposing the vote and the amendment is passed three to zero.
+
+**[14:38]** Thank you colleagues and thank you, Councillor McAllister for chairing that part so I could put that motion on the floor. So we've had a brief discussion on this already. What this would change in terms of the staff recommendation on the main motion would just be that part B. So again, if colleagues are amenable to this process, the staff recommendations would all stay the same other than part B would now read. The city clerk be directed to bring forward to a future meeting of Corporate Services Committee, the necessary bylaw to enact the proposed changes to the illumination of the city of London buildings and amenities policy, including the addition of National Pride Month.
+
+**[15:22]** So the clerk's advised me that that's the language we need now on for the main motion as amended. So I'm gonna look to see if there's a mover and a seconder for the staff recommendation as amended. Moved by Councillor McAllister and seconded by Councillor Ferreira. Any discussion on that motion? Seeing none, then I will ask the clerk to open the vote. Seeing the vote, the motion's passed three to zero.
+
+**[16:00]** Thank you, colleagues, moving on. There are no scheduled items under section four, items for direction. We have three requests for proclamation. I am just going to be proactive from the chair and advise as this question is one that we have every time we have proclamations. The first proclamation application does have a direct connection to the city of London. Applications of 4.2 and 4.3 did not appear to. So we can deal with them together. We can deal with them separately. I'm in your hands, but I'm looking for some direction or emotion on items for direction.
+
+**[16:45]** Councillor McAllister. I would recommend that we vote for them separately, noting that the other two didn't indicate the London connection. If we could have those referred back in terms of what we've done in the past practices and inform the applicants that they can include a London connection that we could pass those along. Okay, so I'm hearing a motion to deal with 4.1 first on its own. So do we have a mover and a seconder to approve 4.1? Moved by Councillor McAllister and seconded by Councillor Ferreira.
+
+**[17:23]** And we'll get the clerk to open the vote on that. Closing the vote, item 4.1 is carried three to zero. Thank you colleagues. Now I'm going to go back to Councillor McAllister. And I just want to make sure that I'm capturing the spirit of what you said. You'd like to move that 4.2 and 4.3 be received. And that the clerk be directed to communicate back to the applicants that they can resubmit with a more specific London connection if they wish to do so.
+
+**[18:08]** Councillor? Yes, that's correct. Just to keep consistency in terms of what we've done in the past, I think that's fair to the applicants. And I'm seeing a nodding of heads. We're just going to give the clerk a moment to get that typed up. And we'll see if there's any discussion on that. Councillor Ferreira. Thank you and through you. I, as we've done in the past, just being consistent, we do want to look at the London connection. I do see that I think the dates for the two of the two items that we're going to be setting back is in October, late October and late November.
+
+**[18:42]** So I feel like that should be sufficient time. So I feel like, or I will second that and just stop it there. Okay. And we'll just ask the clerk to open the vote once that's ready to go. Closing the vote, the motion is passed three to zero.
+
+**[19:37]** Thank you colleagues. That concludes section four of the agenda items for direction. There are under section five, no deferred matters or additional business. That brings us to section six, confidential items. So I'm just going to look for the committee for a motion to move into closed session. Moved by Councillor McAllister, seconded by Councillor Ferreira. And we'll just ask the clerk to open the vote on that. Closing the vote, the motion's passed three to zero.
+
+**[20:26]** Thank you colleagues. We will just secure the room for confidential session. I'll just advise members of the public. The reason for going in camera today is all related to land acquisition or disposition, solicitor, client, privileged advice, position or plan of the corporation. Recording in progress.
+
+**[22:11]** All right, the clerk has advised me we are good to resume our public session. And as our vice chairs away, I will call on Councillor McAllister to report out from confidential session. Thank you and through you reporting out that progress was made on all items, guarding land disposition, progress was made, thank you. Thank you, Councillor McAllister. That concludes section six of our agenda that leaves us only with the last item, the best item, of course, the motion to adjourn. Looking for a mover, moved by Councillor Ferreira, seconded by Councillor McAllister.
+
+**[22:46]** All those in favor, by hand. That motion's carried. We stand adjourned and as always, those who are looking for more committee excitement can tune in at 4pm for planning and environment committee.
+
+</details>
