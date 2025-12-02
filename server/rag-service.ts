@@ -689,6 +689,15 @@ export class RAGService {
       this.logUniqueMeetings(sorted);
       console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent + ${councillorNameResults.length} name + ${councillorTopicResults.length} topic = ${sorted.length} unique chunks`);
 
+      // DEBUG: Log first 5 chunks to see what context the model receives
+      console.log(`\n📋 DEBUG - First 5 chunks being sent to model:`);
+      sorted.slice(0, 5).forEach((chunk, i) => {
+        const preview = chunk.text.substring(0, 200).replace(/\n/g, ' ');
+        console.log(`   ${i + 1}. [${chunk.metadata.meeting_date}] ${chunk.metadata.meeting_title}`);
+        console.log(`      "${preview}..."`);
+      });
+      console.log('');
+
       return sorted.slice(0, topK);
     }
 
