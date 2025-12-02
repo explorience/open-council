@@ -152,7 +152,8 @@ app.post('/api/chat', async (req, res) => {
   }
 });
 
-// Trigger incremental embedding regeneration (for when new meetings are added)
+// Trigger embedding regeneration (for when new meetings are added)
+// Use ?full=true or set FORCE_REGENERATE=true env var to regenerate ALL embeddings
 app.post('/api/regenerate', async (req, res) => {
   try {
     // Check if already regenerating
@@ -168,40 +169,63 @@ app.post('/api/regenerate', async (req, res) => {
       return res.status(500).json({ error: 'OPENAI_API_KEY not configured' });
     }
 
+    // Check for full regeneration mode
+    const fullMode = req.query.full === 'true' || process.env.FORCE_REGENERATE === 'true';
+
     // Start regeneration in background
     isRegenerating = true;
 
     // Send immediate response
     res.json({
       status: 'started',
-      message: 'Incremental embedding generation started. Check /api/stats to monitor progress.'
+      mode: fullMode ? 'full' : 'incremental',
+      message: fullMode
+        ? 'FULL embedding regeneration started. This may take a while. Check /api/stats to monitor progress.'
+        : 'Incremental embedding generation started. Check /api/stats to monitor progress.'
     });
 
     // Run regeneration in background
     (async () => {
       try {
-        console.log('\n🔄 Starting incremental embedding generation...');
+        if (fullMode) {
+          console.log('\n🔄 Starting FULL embedding regeneration...');
+          console.log('⚠️  This will replace all existing embeddings.\n');
 
-        const dataDir = resolve(process.cwd(), 'data');
-        const generator = new EmbeddingGenerator(openaiKey, dataDir);
+          const dataDir = resolve(process.cwd(), 'data');
+          const generator = new EmbeddingGenerator(openaiKey, dataDir);
 
-        // Get existing chunk IDs
-        const existingIds = await vectorStore.getExistingChunkIds();
-        console.log(`Found ${existingIds.size} existing chunks`);
+          const chunks = await generator.generateAll();
+          console.log(`\n✅ Generated ${chunks.length} embeddings`);
 
-        // Generate embeddings for new chunks only
-        const newChunks = await generator.generateIncremental(existingIds);
+          console.log('\n📊 Replacing vector database...\n');
+          await vectorStore.createTable(chunks);
 
-        if (newChunks.length > 0) {
-          // Add new chunks to vector store
-          await vectorStore.addChunks(newChunks);
-          console.log(`✅ Added ${newChunks.length} new embeddings to database`);
+          const stats = await vectorStore.getStats();
+          console.log(`📊 Total vectors in database: ${stats.count}\n`);
         } else {
-          console.log('✅ No new meetings to process');
-        }
+          console.log('\n🔄 Starting incremental embedding generation...');
 
-        const stats = await vectorStore.getStats();
-        console.log(`📊 Total vectors in database: ${stats.count}\n`);
+          const dataDir = resolve(process.cwd(), 'data');
+          const generator = new EmbeddingGenerator(openaiKey, dataDir);
+
+          // Get existing chunk IDs
+          const existingIds = await vectorStore.getExistingChunkIds();
+          console.log(`Found ${existingIds.size} existing chunks`);
+
+          // Generate embeddings for new chunks only
+          const newChunks = await generator.generateIncremental(existingIds);
+
+          if (newChunks.length > 0) {
+            // Add new chunks to vector store
+            await vectorStore.addChunks(newChunks);
+            console.log(`✅ Added ${newChunks.length} new embeddings to database`);
+          } else {
+            console.log('✅ No new meetings to process');
+          }
+
+          const stats = await vectorStore.getStats();
+          console.log(`📊 Total vectors in database: ${stats.count}\n`);
+        }
       } catch (error) {
         console.error('❌ Error during regeneration:', error);
       } finally {
