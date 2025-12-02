@@ -4,12 +4,14 @@ type: committee
 slug: "planning-environment"
 meetingCount: 286
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "How can I find out about upcoming development applications in my neighborhood that will be reviewed by the Planning and Environment Committee?"
+  - "What is the process for citizens to speak at Planning and Environment Committee meetings about projects they support or oppose?"
+  - "Where can I access the committee's meeting agendas, reports, and voting records to stay informed about planning decisions affecting London?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Planning and Environment Committee is a standing committee of London City Council that plays a crucial role in shaping the city's physical development and environmental stewardship. This committee typically handles land use planning matters, including reviewing development applications, zoning amendments, subdivision proposals, and official plan updates that guide how London grows and evolves. They examine projects ranging from residential subdivisions and commercial developments to major infrastructure initiatives, ensuring these align with the city's strategic planning objectives and provincial planning legislation.
+
+Beyond development matters, the committee addresses environmental sustainability issues, climate action initiatives, and policies related to natural heritage protection. They review environmental assessments, consider urban design guidelines, and evaluate how proposed developments impact London's environmental goals. The committee serves as a key forum for public consultation on planning matters, where residents, developers, and stakeholders can present their views on projects that affect neighborhoods and the broader community. With 286 meetings held to date, this committee demonstrates the ongoing and intensive nature of municipal planning work in a growing city like London.
 
 ## Recent Meetings
 

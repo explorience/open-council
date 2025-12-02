@@ -6,12 +6,12 @@ meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Joni Baechler's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during their 2011-2014 term?"
+  - "How often did Baechler vote with the majority versus taking independent positions, and were there particular policy areas where they frequently dissented?"
+  - "Did Joni Baechler sponsor or champion any specific motions, bylaws, or initiatives during their four years on council, and what were the outcomes of those proposals?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Joni Baechler served on London City Council from 2011-2014, completing one full term during this four-year period. Throughout their tenure, they demonstrated consistent engagement by attending 132 council meetings. Baechler participated actively in the committee system, serving on seven different committees, which indicates broad involvement across various municipal issues and policy areas during their time in office.
 
 ## Terms of Service
 

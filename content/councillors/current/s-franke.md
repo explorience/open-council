@@ -6,12 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
+  - "Which specific committees has Franke served on, and what has been their level of participation and leadership roles within those committees?"
+  - "How does Franke's meeting attendance rate of 179 meetings compare to other council members and the expected number of meetings during their 2022-2025 term?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Skylar Franke has been an active member of London City Council, Canada, serving from 2022-2025. During their tenure, they have demonstrated consistent participation by attending 179 council meetings. Franke has served on seven different committees, showing broad engagement across various municipal governance areas, though the specific committee names are not clearly specified in the available data.
+
+Their participation record indicates regular involvement in council business throughout their term, suggesting a commitment to their municipal responsibilities and constituent representation during this period.
 
 ## Terms of Service
 

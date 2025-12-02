@@ -6,12 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Jerry Pribil served on during his time on London City Council?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approval, development proposals, or policy changes?"
+  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. His council involvement has included service on eight different committees, indicating broad engagement across various municipal areas and responsibilities.
+
+His consistent meeting attendance and multi-committee participation suggests regular involvement in council business and decision-making processes throughout his term. The scope of his committee work reflects participation in diverse aspects of municipal governance during his time on council.
 
 ## Terms of Service
 

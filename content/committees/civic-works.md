@@ -4,12 +4,14 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is the current budget allocation for the Civic Works Committee's key infrastructure projects, and how are priorities determined for road repairs and capital improvements?"
+  - "How does the committee coordinate with other municipal departments and regional partners when planning major infrastructure projects that cross jurisdictional boundaries?"
+  - "What opportunities exist for public input on Civic Works Committee decisions, and how can residents stay informed about upcoming infrastructure projects in their neighborhoods?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Civic Works Committee is a standing committee of London City Council that plays a crucial role in overseeing the city's physical infrastructure and public works operations. This committee typically handles matters related to transportation infrastructure including road construction, maintenance, and traffic management; water and wastewater systems; waste management and recycling programs; parks and recreation facilities; and public transit initiatives. As one of the key committees in London's municipal governance structure, it reviews staff reports, approves budgets, and makes recommendations to City Council on capital projects and operational policies that directly impact residents' daily lives.
+
+With 203 meetings held to date, the Civic Works Committee demonstrates the ongoing nature of municipal infrastructure management and the continuous need for oversight of public services. The committee serves as an important interface between city administration and elected officials, ensuring that infrastructure projects align with council priorities and community needs. Their decisions influence everything from snow removal and road repairs to major capital investments in water treatment facilities and transportation networks, making it one of the most practically impactful committees for London residents.
 
 ## Recent Meetings
 

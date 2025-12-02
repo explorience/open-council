@@ -4,12 +4,14 @@ type: committee
 slug: "city-council"
 meetingCount: 169
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "How can residents attend City Council meetings or access meeting agendas, minutes, and voting records to stay informed about decisions affecting their community?"
+  - "What is the process for citizens to bring forward concerns, petitions, or proposals to City Council, and during which part of the meeting can public input be provided?"
+  - "How does the City Council prioritize and allocate the municipal budget across different departments and services, and when are budget deliberations typically held each year?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The London City Council serves as the primary governing body for the City of London, Ontario, Canada, responsible for making key decisions that affect the municipality and its residents. As the main legislative and policy-making authority, the Council addresses a broad spectrum of municipal issues including budget approval, bylaw creation and amendments, urban planning and development, infrastructure projects, public services, and community programs. The Council's work encompasses both regular scheduled meetings and special meetings called to address urgent or time-sensitive matters that require immediate attention.
+
+With 169 meetings held to date, the Council demonstrates an active and engaged approach to municipal governance, meeting regularly throughout the year to conduct city business. The mix of regular and special council meetings indicates the body's responsiveness to both routine municipal operations and emerging issues that require prompt action. The Council's decisions directly impact residents' daily lives through matters such as property taxation, zoning regulations, public transit, emergency services, recreation facilities, environmental initiatives, and economic development strategies for the city.
 
 ## Recent Meetings
 
