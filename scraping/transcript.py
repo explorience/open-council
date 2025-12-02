@@ -28,17 +28,18 @@ FIRECRAWL_API_URL = "https://api.firecrawl.dev/v1/scrape"
 FIRECRAWL_API_KEY = os.environ.get('FIRECRAWL_API_KEY', '')
 
 # Mapping from our meeting types to Lillian's directory structure
+# Lillian uses full committee names in the URL (URL-encoded with %20 for spaces)
 MEETING_TYPE_MAPPING = {
     "Council": "Council",
     "City Council": "Council",
-    "Planning and Environment Committee": "PEC",
-    "Corporate Services Committee": "CSC",
-    "Community and Protective Services Committee": "CPSC",
-    "Civic Works Committee": "CWC",
-    "Strategic Priorities and Policy Committee": "SPPC",
-    "Infrastructure and Corporate Services Committee": "ICSC",
-    "Audit Committee": "Audit",
-    "Budget Committee": "Budget",
+    "Planning and Environment Committee": "Planning and Environment Committee",
+    "Corporate Services Committee": "Corporate Services Committee",
+    "Community and Protective Services Committee": "Community and Protective Services Committee",
+    "Civic Works Committee": "Civic Works Committee",
+    "Strategic Priorities and Policy Committee": "Strategic Priorities and Policy Committee",
+    "Infrastructure and Corporate Services Committee": "Infrastructure and Corporate Services Committee",
+    "Audit Committee": "Audit Committee",
+    "Budget Committee": "Budget Committee",
 }
 
 
@@ -134,8 +135,10 @@ def build_transcript_url(date: datetime, meeting_type: str, verbose: bool = Fals
     Build the URL for a transcript on Lillian's archive.
 
     Example URL structure:
-    https://london.lillianskinner.ca/Meetings/Council/2025/11-26/.transcript.srt
+    https://london.lillianskinner.ca/Meetings/Planning%20and%20Environment%20Committee/2025/11-12/.transcript.srt
     """
+    from urllib.parse import quote
+
     mapped_type = MEETING_TYPE_MAPPING.get(meeting_type)
     if not mapped_type:
         if verbose:
@@ -145,7 +148,10 @@ def build_transcript_url(date: datetime, meeting_type: str, verbose: bool = Fals
     year = date.strftime('%Y')
     month_day = date.strftime('%m-%d')
 
-    return f"{ARCHIVE_BASE_URL}/Meetings/{mapped_type}/{year}/{month_day}/.transcript.srt"
+    # URL-encode the committee name (spaces become %20)
+    encoded_type = quote(mapped_type, safe='')
+
+    return f"{ARCHIVE_BASE_URL}/Meetings/{encoded_type}/{year}/{month_day}/.transcript.srt"
 
 
 def fetch_transcript_via_firecrawl(url: str, verbose: bool = False) -> Optional[str]:
