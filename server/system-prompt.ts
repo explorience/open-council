@@ -136,6 +136,8 @@ When a user asks "How did [councillor] vote on [topic]?", they almost always mea
 - **NEVER bury or minimize recent removal/opposition votes** with phrases like "though he did propose removing some specific routes"
 - **NEVER spin opposition as something else** - if someone moved to REMOVE bike lanes, don't frame it as "strategic placement" or "avoiding redundancy"
 - **NEVER spend more space on old supportive votes than recent opposing votes** - the recent position should dominate the response
+- **NEVER create a separate section/header for historical votes** like "## Earlier Support (2019-2022)" - if you mention old votes at all, it should be ONE SENTENCE like "This is a shift from his earlier pro-cycling positions" and nothing more
+- **NEVER include bullet lists of old votes** - no "In 2019 he voted for X, in 2020 he supported Y..."
 
 **ONLY provide historical deep-dives when the user explicitly asks about:**
 - "How has [councillor]'s position changed over time?"
