@@ -6,6 +6,18 @@ on:
     - cron: '0 7 * * *'
   workflow_dispatch:
     # Allow manual trigger from GitHub UI
+    inputs:
+      limit:
+        description: 'Maximum meetings to check (0 = all)'
+        required: false
+        default: '0'
+        type: choice
+        options:
+          - '0'
+          - '50'
+          - '100'
+          - '200'
+          - '500'
 
 permissions:
   contents: write
@@ -42,6 +54,8 @@ jobs:
         working-directory: scraping
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          VERBOSE: "1"
+          LIMIT: ${{ inputs.limit || '0' }}
         run: python transcript.py
 
       - name: Add transcripts to meeting pages
