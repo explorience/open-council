@@ -192,14 +192,37 @@ def fetch_transcript_via_firecrawl(url: str, verbose: bool = False) -> Optional[
                 # For SRT files, the content is in rawHtml
                 raw_content = data.get('data', {}).get('rawHtml', '')
                 if raw_content:
-                    # Validate it looks like an SRT file (should start with "1\n" or have timestamp patterns)
+                    # Check if content is already valid SRT format
                     if '-->' in raw_content and re.search(r'\d{2}:\d{2}:\d{2}', raw_content):
                         if verbose:
                             print(f"    → Found transcript ({len(raw_content)} bytes)")
                         return raw_content
+
+                    # Firecrawl may wrap SRT in HTML - extract text from <pre> or <body>
+                    if raw_content.strip().startswith('<'):
+                        from bs4 import BeautifulSoup
+                        soup = BeautifulSoup(raw_content, 'html.parser')
+
+                        # Try to find content in <pre> tag first (common for plain text files)
+                        pre_tag = soup.find('pre')
+                        if pre_tag:
+                            text_content = pre_tag.get_text()
+                        else:
+                            # Fall back to body text
+                            text_content = soup.get_text()
+
+                        # Check if extracted content is valid SRT
+                        if '-->' in text_content and re.search(r'\d{2}:\d{2}:\d{2}', text_content):
+                            if verbose:
+                                print(f"    → Found transcript in HTML ({len(text_content)} bytes)")
+                            return text_content
+                        else:
+                            if verbose:
+                                preview = text_content[:100].replace('\n', '\\n')
+                                print(f"    → Extracted text is not SRT format: {preview}...")
+                            return None
                     else:
                         if verbose:
-                            # Show first 100 chars to help debug what we got
                             preview = raw_content[:100].replace('\n', '\\n')
                             print(f"    → Response is not SRT format ({len(raw_content)} bytes): {preview}...")
                         return None
