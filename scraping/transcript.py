@@ -27,6 +27,333 @@ ARCHIVE_BASE_URL = "https://london.lillianskinner.ca"
 FIRECRAWL_API_URL = "https://api.firecrawl.dev/v1/scrape"
 FIRECRAWL_API_KEY = os.environ.get('FIRECRAWL_API_KEY', '')
 
+# News sources to search for meeting coverage
+NEWS_SOURCES = [
+    {
+        "name": "London Free Press",
+        "search_url": "https://lfpress.com/?s=",
+        "domain": "lfpress.com"
+    }
+]
+
+
+def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = False) -> List[Dict[str, Any]]:
+    """
+    Search for news articles covering a council meeting.
+
+    Searches London Free Press for articles about the meeting published
+    within 2 days of the meeting date.
+
+    Args:
+        date: Meeting date
+        meeting_type: Type of meeting (e.g., "Council")
+        verbose: Whether to print detailed logging
+
+    Returns:
+        List of news coverage dicts with source, url, title, summary, vote_info
+    """
+    if not FIRECRAWL_API_KEY:
+        if verbose:
+            print("    → Skipping news search: FIRECRAWL_API_KEY not set")
+        return []
+
+    coverage = []
+    date_str = date.strftime('%Y-%m-%d')
+
+    # Build search query
+    # Focus on council + key topics that often have votes
+    search_terms = [
+        f"london city council {date.strftime('%B %d')}",  # "london city council November 25"
+        f"council vote {date.strftime('%B')} {date.year}",
+    ]
+
+    for search_term in search_terms[:1]:  # Just use first search for now
+        search_url = f"https://lfpress.com/?s={requests.utils.quote(search_term)}"
+
+        if verbose:
+            print(f"    → Searching news: {search_term}")
+
+        try:
+            # Use Firecrawl to search
+            response = requests.post(
+                FIRECRAWL_API_URL,
+                headers={
+                    'Authorization': f'Bearer {FIRECRAWL_API_KEY}',
+                    'Content-Type': 'application/json'
+                },
+                json={
+                    'url': search_url,
+                    'formats': ['markdown'],
+                    'waitFor': 2000,
+                },
+                timeout=30
+            )
+
+            if response.status_code != 200:
+                if verbose:
+                    print(f"    → News search failed: {response.status_code}")
+                continue
+
+            data = response.json()
+            if not data.get('success'):
+                continue
+
+            markdown = data.get('data', {}).get('markdown', '')
+
+            # Parse search results to find article URLs
+            # LFPress search results have links like [Title](url)
+            article_links = re.findall(r'\[([^\]]+)\]\((https://lfpress\.com/news/[^)]+)\)', markdown)
+
+            if verbose:
+                print(f"    → Found {len(article_links)} potential articles")
+
+            # Check each article to see if it's about this meeting
+            for title, url in article_links[:5]:  # Check first 5 results
+                # Skip if title doesn't seem relevant
+                title_lower = title.lower()
+                if not any(word in title_lower for word in ['council', 'vote', 'councillor', 'city hall', 'budget']):
+                    continue
+
+                article = fetch_news_article(url, date, verbose=verbose)
+                if article:
+                    coverage.append(article)
+                    if verbose:
+                        print(f"    ✓ Found relevant article: {article['title'][:50]}...")
+                    break  # One good article is enough
+
+        except Exception as e:
+            if verbose:
+                print(f"    → Error searching news: {e}")
+
+    return coverage
+
+
+def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) -> Optional[Dict[str, Any]]:
+    """
+    Fetch and parse a news article for vote information.
+
+    Args:
+        url: Article URL
+        meeting_date: The meeting date to verify article relevance
+        verbose: Whether to print detailed logging
+
+    Returns:
+        Dict with source, url, title, date, summary, vote_info or None if not relevant
+    """
+    if not FIRECRAWL_API_KEY:
+        return None
+
+    try:
+        response = requests.post(
+            FIRECRAWL_API_URL,
+            headers={
+                'Authorization': f'Bearer {FIRECRAWL_API_KEY}',
+                'Content-Type': 'application/json'
+            },
+            json={
+                'url': url,
+                'formats': ['markdown'],
+                'waitFor': 2000,
+            },
+            timeout=30
+        )
+
+        if response.status_code != 200:
+            return None
+
+        data = response.json()
+        if not data.get('success'):
+            return None
+
+        markdown = data.get('data', {}).get('markdown', '')
+        metadata = data.get('data', {}).get('metadata', {})
+
+        # Check if article is from around the meeting date (same day or next day)
+        article_date = None
+        # Try to find date in metadata or content
+        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', str(metadata))
+        if date_match:
+            try:
+                article_date = datetime.strptime(date_match.group(1), '%Y-%m-%d')
+            except:
+                pass
+
+        # Extract title
+        title = metadata.get('title', '') or metadata.get('og:title', '')
+        if not title:
+            title_match = re.search(r'^#\s+(.+?)$', markdown, re.MULTILINE)
+            title = title_match.group(1) if title_match else 'Unknown'
+
+        # Extract vote information from the article
+        vote_data = extract_vote_info(markdown)
+
+        # Create summary (first ~500 chars of meaningful content)
+        summary = create_article_summary(markdown)
+
+        return {
+            "source": "London Free Press",
+            "url": url,
+            "title": title.strip(),
+            "date": article_date.strftime('%Y-%m-%d') if article_date else meeting_date.strftime('%Y-%m-%d'),
+            "summary": summary,
+            "vote_summary": vote_data["vote_summary"],
+            "councillors_for": vote_data["councillors_for"],
+            "councillors_against": vote_data["councillors_against"],
+        }
+
+    except Exception as e:
+        if verbose:
+            print(f"    → Error fetching article: {e}")
+        return None
+
+
+def extract_vote_info(markdown: str) -> Dict[str, Any]:
+    """
+    Extract vote tallies and councillor positions from article text.
+
+    Looks for patterns like:
+    - "passed 8-7"
+    - "voted 10-5"
+    - "Councillor X voted against"
+    - "unanimous"
+    - Lists of councillors who voted for/against
+
+    Args:
+        markdown: Article content in markdown format
+
+    Returns:
+        Dict with vote_summary (str), councillors_for (list), councillors_against (list)
+    """
+    result = {
+        "vote_summary": "",
+        "councillors_for": [],
+        "councillors_against": [],
+        "raw_mentions": []
+    }
+
+    # Known councillor names (current London council)
+    councillor_names = [
+        "Morgan", "Lewis", "Lehman", "Peloza", "Stevenson", "Hopkins",
+        "Cassidy", "Ferreira", "Franke", "Hillier", "McAlister", "Pribil",
+        "Rahman", "Trosow", "Van Meerbergen"
+    ]
+
+    vote_summary_parts = []
+
+    # Look for vote tallies
+    vote_patterns = [
+        r'(pass(?:ed)?|approv(?:ed)?|defeat(?:ed)?|reject(?:ed)?|fail(?:ed)?)\s+(\d+[-–]\d+)',
+        r'(\d+[-–]\d+)\s+(vote|in favour|against)',
+        r'(unanimous(?:ly)?)',
+        r'(split|divided|close)\s+(?:vote|decision)',
+    ]
+
+    for pattern in vote_patterns:
+        matches = re.findall(pattern, markdown, re.IGNORECASE)
+        for match in matches:
+            if isinstance(match, tuple):
+                vote_summary_parts.append(' '.join(match))
+            else:
+                vote_summary_parts.append(match)
+
+    # Look for "voting against were:" or "voting in favour were:" patterns
+    against_list_patterns = [
+        r'(?:voting|voted)\s+(?:against|no)\s*(?:were|:)\s*([^.]+)',
+        r'(?:opposed|opposing)\s*(?:were|:)\s*([^.]+)',
+        r'(?:the\s+)?no\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
+    ]
+
+    for pattern in against_list_patterns:
+        matches = re.findall(pattern, markdown, re.IGNORECASE)
+        for match in matches:
+            # Extract councillor names from the list
+            for name in councillor_names:
+                if name.lower() in match.lower():
+                    if name not in result["councillors_against"]:
+                        result["councillors_against"].append(name)
+
+    favour_list_patterns = [
+        r'(?:voting|voted)\s+(?:in favour|for|yes)\s*(?:were|:)\s*([^.]+)',
+        r'(?:supporting|in support)\s*(?:were|:)\s*([^.]+)',
+        r'(?:the\s+)?yes\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
+    ]
+
+    for pattern in favour_list_patterns:
+        matches = re.findall(pattern, markdown, re.IGNORECASE)
+        for match in matches:
+            for name in councillor_names:
+                if name.lower() in match.lower():
+                    if name not in result["councillors_for"]:
+                        result["councillors_for"].append(name)
+
+    # Look for individual councillor mentions with voting stance
+    councillor_patterns = [
+        r'(?:Councillor|Coun\.|Deputy Mayor|Mayor)\s+(\w+)\s+(?:voted|was)\s+(against|in favour|for|no|yes)',
+        r'(\w+)\s+(?:voted|was one of[^.]*voting)\s+(against|in favour|for|no|yes)',
+        r'(\w+)\s+(?:opposed|supported)\s+(?:the|this)',
+    ]
+
+    for pattern in councillor_patterns:
+        matches = re.findall(pattern, markdown, re.IGNORECASE)
+        for match in matches:
+            name = match[0] if isinstance(match, tuple) else match
+            stance = match[1].lower() if isinstance(match, tuple) and len(match) > 1 else ""
+
+            # Verify it's a known councillor name
+            if name in councillor_names:
+                result["raw_mentions"].append(f"{name} {stance}")
+                if stance in ['against', 'no', 'opposed']:
+                    if name not in result["councillors_against"]:
+                        result["councillors_against"].append(name)
+                elif stance in ['for', 'yes', 'in favour', 'supported']:
+                    if name not in result["councillors_for"]:
+                        result["councillors_for"].append(name)
+
+    # Build vote summary
+    result["vote_summary"] = '; '.join(list(set(vote_summary_parts))[:5]) if vote_summary_parts else ''
+
+    return result
+
+
+def create_article_summary(markdown: str) -> str:
+    """
+    Create a brief summary from article content.
+
+    Args:
+        markdown: Article content in markdown format
+
+    Returns:
+        Summary string (first ~500 meaningful characters)
+    """
+    # Remove markdown formatting
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', markdown)  # Links
+    text = re.sub(r'[#*_`]', '', text)  # Formatting chars
+    text = re.sub(r'\n+', ' ', text)  # Newlines
+    text = re.sub(r'\s+', ' ', text)  # Multiple spaces
+
+    # Skip common header/nav content
+    skip_phrases = ['subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content']
+    lines = text.split('. ')
+
+    summary_parts = []
+    char_count = 0
+
+    for line in lines:
+        line = line.strip()
+        if not line or len(line) < 20:
+            continue
+        if any(phrase in line.lower() for phrase in skip_phrases):
+            continue
+
+        summary_parts.append(line)
+        char_count += len(line)
+
+        if char_count > 500:
+            break
+
+    return '. '.join(summary_parts)[:600] + '...' if summary_parts else ''
+
+
 # Mapping from our meeting types to Lillian's directory structure
 # Lillian uses full committee names in the URL (URL-encoded with %20 for spaces)
 MEETING_TYPE_MAPPING = {
@@ -443,7 +770,8 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False, limit: in
 def create_transcript_only_meeting(
     date: datetime,
     meeting_type: str,
-    data_dir: Path = None
+    data_dir: Path = None,
+    fetch_news: bool = True
 ) -> Optional[Path]:
     """
     Create a meeting JSON file from transcript only (no official minutes yet).
@@ -451,10 +779,14 @@ def create_transcript_only_meeting(
     This is useful when Lillian's archive has the transcript but the city
     hasn't published official minutes yet.
 
+    Also searches for news coverage to supplement the transcript with
+    vote information from London Free Press.
+
     Args:
         date: Meeting date
         meeting_type: Meeting type (e.g., "Council", "Planning and Environment Committee")
         data_dir: Path to data directory (defaults to ../data)
+        fetch_news: Whether to search for news coverage (default True)
 
     Returns:
         Path to created JSON file, or None if transcript not available
@@ -482,6 +814,14 @@ def create_transcript_only_meeting(
         print(f"  Meeting file already exists: {json_path}")
         return None
 
+    # Search for news coverage (for vote information)
+    news_coverage = []
+    if fetch_news and meeting_type in ['Council', 'City Council']:
+        print(f"  📰 Searching for news coverage...")
+        news_coverage = search_news_coverage(date, meeting_type, verbose=True)
+        if news_coverage:
+            print(f"  ✓ Found {len(news_coverage)} news article(s) with vote info")
+
     # Create meeting structure with transcript only
     meeting_data = {
         "title": f"{meeting_type} Meeting",
@@ -490,12 +830,14 @@ def create_transcript_only_meeting(
         "meeting_type": meeting_type,
         "data_sources": {
             "official_minutes": False,
-            "transcript": True
+            "transcript": True,
+            "news_coverage": bool(news_coverage)
         },
         "transcript": transcript,
         "transcript_source": "lillian_skinner_archive",
         "transcript_source_url": build_transcript_url(date, meeting_type),
         "transcript_duration": get_transcript_duration(transcript),
+        "news_coverage": news_coverage,
         # Empty placeholders for official minutes data
         "present": [],
         "absent": [],

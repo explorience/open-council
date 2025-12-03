@@ -10,7 +10,7 @@ export interface TranscriptSegment {
 export interface Meeting {
   title: string;
   datetime: string;
-  url: string;
+  url: string | null;
   meeting_type: string;
   present: string[];
   also_present?: string[];
@@ -24,6 +24,22 @@ export interface Meeting {
   transcript?: TranscriptSegment[];
   transcript_source?: string;
   transcript_source_url?: string;
+  data_sources?: {
+    official_minutes: boolean;
+    transcript: boolean;
+  };
+  news_coverage?: NewsCoverage[];
+}
+
+export interface NewsCoverage {
+  source: string;
+  url: string;
+  title: string;
+  date: string;
+  summary: string;
+  vote_summary?: string;
+  councillors_for?: string[];
+  councillors_against?: string[];
 }
 
 export interface MeetingItem {
@@ -71,13 +87,14 @@ export interface EmbeddingChunk {
     meeting_title: string;
     meeting_date: string;
     meeting_type: string;
-    meeting_url: string;
+    meeting_url: string | null;
     item_number?: string;
     item_title?: string;
     chunk_type: 'motion' | 'content' | 'bill' | 'attendance' | 'transcript';
     file_path: string;
     transcript_start?: string;
     transcript_end?: string;
+    has_official_minutes?: boolean;  // false = transcript-only, no vote records
   };
 }
 
