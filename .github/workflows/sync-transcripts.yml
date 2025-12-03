@@ -50,7 +50,13 @@ jobs:
       - name: Install Node dependencies
         run: npm ci
 
-      - name: Sync transcripts from Lillian's archive
+      - name: Scan for new transcripts (create transcript-only meetings)
+        working-directory: scraping
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: python transcript.py --scan 14
+
+      - name: Sync transcripts to existing meetings
         working-directory: scraping
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}

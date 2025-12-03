@@ -181,7 +181,9 @@ def fetch_transcript_via_firecrawl(url: str, verbose: bool = False) -> Optional[
             },
             json={
                 'url': url,
-                'formats': ['rawHtml']
+                'formats': ['rawHtml'],
+                'waitFor': 2000,  # Wait 2 seconds for any JS/redirects
+                'timeout': 30000,  # 30 second timeout
             },
             timeout=60
         )
@@ -380,16 +382,24 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False, limit: in
     if data_dir is None:
         data_dir = Path(__file__).parent.parent / 'data'
 
-    stats = {'added': 0, 'skipped': 0, 'errors': 0, 'already_have': 0, 'no_mapping': 0}
+    stats = {'added': 0, 'skipped': 0, 'errors': 0, 'already_have': 0, 'no_mapping': 0, 'too_old': 0}
+
+    # Lillian's archive only has transcripts from ~mid-2024 onwards
+    # Skip older meetings to avoid wasting API calls on non-existent transcripts
+    TRANSCRIPT_CUTOFF = "2024-06"
 
     # Get all month directories, sorted newest first
-    month_dirs = sorted(
+    all_month_dirs = sorted(
         [d for d in data_dir.iterdir() if d.is_dir() and re.match(r'\d{4}-\d{2}', d.name)],
         key=lambda x: x.name,
         reverse=True
     )
 
-    print(f"Scanning {len(month_dirs)} month directories for transcripts...")
+    # Filter to only include months after the cutoff
+    month_dirs = [d for d in all_month_dirs if d.name >= TRANSCRIPT_CUTOFF]
+    skipped_months = len(all_month_dirs) - len(month_dirs)
+
+    print(f"Scanning {len(month_dirs)} month directories for transcripts (skipping {skipped_months} months before {TRANSCRIPT_CUTOFF})...")
     print(f"Firecrawl API key: {'configured' if FIRECRAWL_API_KEY else 'NOT SET'}")
     print(f"Verbose mode: {'enabled' if verbose else 'disabled (set VERBOSE=1 to enable)'}")
     print(f"Limit: {limit if limit > 0 else 'unlimited'}")
