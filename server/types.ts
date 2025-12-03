@@ -37,7 +37,9 @@ export interface NewsCoverage {
   title: string;
   date: string;
   summary: string;
-  vote_info?: string;
+  vote_summary?: string;
+  councillors_for?: string[];
+  councillors_against?: string[];
 }
 
 export interface MeetingItem {

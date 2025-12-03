@@ -189,12 +189,26 @@ export class EmbeddingGenerator {
     // News coverage chunks (supplements transcript-only meetings with vote info)
     if (meeting.news_coverage?.length) {
       meeting.news_coverage.forEach((article, idx) => {
+        // Build councillor vote breakdown if available
+        const voteBreakdown: string[] = [];
+        if (article.councillors_for?.length) {
+          voteBreakdown.push(`Councillors who voted FOR: ${article.councillors_for.join(', ')}`);
+        }
+        if (article.councillors_against?.length) {
+          voteBreakdown.push(`Councillors who voted AGAINST: ${article.councillors_against.join(', ')}`);
+        }
+
         const newsText = [
-          `[News Coverage from ${article.source}]`,
+          `[NEWS COVERAGE - Source: ${article.source}]`,
+          `⚠️ IMPORTANT: When citing this vote information, you MUST include "(source: [${article.source}](${article.url}))" in your response.`,
+          ``,
           `Title: ${article.title}`,
-          article.vote_info ? `Vote Information: ${article.vote_info}` : '',
+          article.vote_summary ? `Vote Result: ${article.vote_summary}` : '',
+          ...voteBreakdown,
+          ``,
           `Summary: ${article.summary}`,
-          `Source: ${article.url}`,
+          ``,
+          `Full article: ${article.url}`,
         ].filter(Boolean).join('\n');
 
         chunks.push({

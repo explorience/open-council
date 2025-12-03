@@ -185,7 +185,7 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
             title = title_match.group(1) if title_match else 'Unknown'
 
         # Extract vote information from the article
-        vote_info = extract_vote_info(markdown)
+        vote_data = extract_vote_info(markdown)
 
         # Create summary (first ~500 chars of meaningful content)
         summary = create_article_summary(markdown)
@@ -196,7 +196,9 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
             "title": title.strip(),
             "date": article_date.strftime('%Y-%m-%d') if article_date else meeting_date.strftime('%Y-%m-%d'),
             "summary": summary,
-            "vote_info": vote_info
+            "vote_summary": vote_data["vote_summary"],
+            "councillors_for": vote_data["councillors_for"],
+            "councillors_against": vote_data["councillors_against"],
         }
 
     except Exception as e:
@@ -205,7 +207,7 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
         return None
 
 
-def extract_vote_info(markdown: str) -> str:
+def extract_vote_info(markdown: str) -> Dict[str, Any]:
     """
     Extract vote tallies and councillor positions from article text.
 
@@ -214,14 +216,29 @@ def extract_vote_info(markdown: str) -> str:
     - "voted 10-5"
     - "Councillor X voted against"
     - "unanimous"
+    - Lists of councillors who voted for/against
 
     Args:
         markdown: Article content in markdown format
 
     Returns:
-        Extracted vote information as a string
+        Dict with vote_summary (str), councillors_for (list), councillors_against (list)
     """
-    vote_info_parts = []
+    result = {
+        "vote_summary": "",
+        "councillors_for": [],
+        "councillors_against": [],
+        "raw_mentions": []
+    }
+
+    # Known councillor names (current London council)
+    councillor_names = [
+        "Morgan", "Lewis", "Lehman", "Peloza", "Stevenson", "Hopkins",
+        "Cassidy", "Ferreira", "Franke", "Hillier", "McAlister", "Pribil",
+        "Rahman", "Trosow", "Van Meerbergen"
+    ]
+
+    vote_summary_parts = []
 
     # Look for vote tallies
     vote_patterns = [
@@ -235,31 +252,67 @@ def extract_vote_info(markdown: str) -> str:
         matches = re.findall(pattern, markdown, re.IGNORECASE)
         for match in matches:
             if isinstance(match, tuple):
-                vote_info_parts.append(' '.join(match))
+                vote_summary_parts.append(' '.join(match))
             else:
-                vote_info_parts.append(match)
+                vote_summary_parts.append(match)
 
-    # Look for councillor voting mentions
+    # Look for "voting against were:" or "voting in favour were:" patterns
+    against_list_patterns = [
+        r'(?:voting|voted)\s+(?:against|no)\s*(?:were|:)\s*([^.]+)',
+        r'(?:opposed|opposing)\s*(?:were|:)\s*([^.]+)',
+        r'(?:the\s+)?no\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
+    ]
+
+    for pattern in against_list_patterns:
+        matches = re.findall(pattern, markdown, re.IGNORECASE)
+        for match in matches:
+            # Extract councillor names from the list
+            for name in councillor_names:
+                if name.lower() in match.lower():
+                    if name not in result["councillors_against"]:
+                        result["councillors_against"].append(name)
+
+    favour_list_patterns = [
+        r'(?:voting|voted)\s+(?:in favour|for|yes)\s*(?:were|:)\s*([^.]+)',
+        r'(?:supporting|in support)\s*(?:were|:)\s*([^.]+)',
+        r'(?:the\s+)?yes\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
+    ]
+
+    for pattern in favour_list_patterns:
+        matches = re.findall(pattern, markdown, re.IGNORECASE)
+        for match in matches:
+            for name in councillor_names:
+                if name.lower() in match.lower():
+                    if name not in result["councillors_for"]:
+                        result["councillors_for"].append(name)
+
+    # Look for individual councillor mentions with voting stance
     councillor_patterns = [
-        r'(Councillor|Coun\.|Deputy Mayor)\s+(\w+)\s+(voted|supported|opposed|against|in favour)',
-        r'(\w+)\s+(voted|moved|seconded)\s+(against|in favour|for|to)',
+        r'(?:Councillor|Coun\.|Deputy Mayor|Mayor)\s+(\w+)\s+(?:voted|was)\s+(against|in favour|for|no|yes)',
+        r'(\w+)\s+(?:voted|was one of[^.]*voting)\s+(against|in favour|for|no|yes)',
+        r'(\w+)\s+(?:opposed|supported)\s+(?:the|this)',
     ]
 
     for pattern in councillor_patterns:
         matches = re.findall(pattern, markdown, re.IGNORECASE)
         for match in matches:
-            vote_info_parts.append(' '.join(match))
+            name = match[0] if isinstance(match, tuple) else match
+            stance = match[1].lower() if isinstance(match, tuple) and len(match) > 1 else ""
 
-    # Deduplicate and join
-    seen = set()
-    unique_parts = []
-    for part in vote_info_parts:
-        part_lower = part.lower().strip()
-        if part_lower and part_lower not in seen:
-            seen.add(part_lower)
-            unique_parts.append(part.strip())
+            # Verify it's a known councillor name
+            if name in councillor_names:
+                result["raw_mentions"].append(f"{name} {stance}")
+                if stance in ['against', 'no', 'opposed']:
+                    if name not in result["councillors_against"]:
+                        result["councillors_against"].append(name)
+                elif stance in ['for', 'yes', 'in favour', 'supported']:
+                    if name not in result["councillors_for"]:
+                        result["councillors_for"].append(name)
 
-    return '; '.join(unique_parts[:10]) if unique_parts else ''
+    # Build vote summary
+    result["vote_summary"] = '; '.join(list(set(vote_summary_parts))[:5]) if vote_summary_parts else ''
+
+    return result
 
 
 def create_article_summary(markdown: str) -> str:
