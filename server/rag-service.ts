@@ -938,6 +938,23 @@ ${result.text}
     const context = this.buildContextString(results);
     const systemPrompt = getSystemPrompt(context);
 
+    // Log context size for debugging token limits
+    const contextChars = context.length;
+    const systemPromptChars = systemPrompt.length;
+    const historyChars = history.reduce((sum, msg) => sum + msg.content.length, 0);
+    const messageChars = message.length;
+    const totalChars = systemPromptChars + historyChars + messageChars;
+    // Rough estimate: ~4 chars per token for English text
+    const estimatedTokens = Math.ceil(totalChars / 4);
+
+    console.log(`📊 Token estimate for request:`);
+    console.log(`   Context: ${contextChars.toLocaleString()} chars`);
+    console.log(`   System prompt (with context): ${systemPromptChars.toLocaleString()} chars`);
+    console.log(`   History: ${historyChars.toLocaleString()} chars (${history.length} messages)`);
+    console.log(`   User message: ${messageChars.toLocaleString()} chars`);
+    console.log(`   Total: ~${estimatedTokens.toLocaleString()} tokens (estimated)`);
+    console.log(`   Model limit: 128,000 tokens (gpt-4o)`);
+
     // Populate metadata for logging
     if (metadataCollector) {
       const analysis = this.analyzeQuery(message);
@@ -958,19 +975,27 @@ ${result.text}
     ];
 
     // Stream response
-    const stream = await this.openai.chat.completions.create({
-      model: 'gpt-4o',
-      messages,
-      stream: true,
-      temperature: 0.4,  // Lower for more focused, consistent responses
-      max_tokens: 4000,
-    });
+    try {
+      const stream = await this.openai.chat.completions.create({
+        model: 'gpt-4o',
+        messages,
+        stream: true,
+        temperature: 0.4,  // Lower for more focused, consistent responses
+        max_tokens: 4000,
+      });
 
-    for await (const chunk of stream) {
-      const content = chunk.choices[0]?.delta?.content || '';
-      if (content) {
-        yield content;
+      for await (const chunk of stream) {
+        const content = chunk.choices[0]?.delta?.content || '';
+        if (content) {
+          yield content;
+        }
       }
+    } catch (error: any) {
+      console.error('❌ OpenAI API Error:', error?.message || error);
+      console.error('   Status:', error?.status);
+      console.error('   Type:', error?.type);
+      console.error('   Code:', error?.code);
+      throw error;
     }
   }
 
