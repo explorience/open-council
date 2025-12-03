@@ -430,6 +430,140 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False, limit: in
     return stats
 
 
+def create_transcript_only_meeting(
+    date: datetime,
+    meeting_type: str,
+    data_dir: Path = None
+) -> Optional[Path]:
+    """
+    Create a meeting JSON file from transcript only (no official minutes yet).
+
+    This is useful when Lillian's archive has the transcript but the city
+    hasn't published official minutes yet.
+
+    Args:
+        date: Meeting date
+        meeting_type: Meeting type (e.g., "Council", "Planning and Environment Committee")
+        data_dir: Path to data directory (defaults to ../data)
+
+    Returns:
+        Path to created JSON file, or None if transcript not available
+    """
+    if data_dir is None:
+        data_dir = Path(__file__).parent.parent / 'data'
+
+    # Fetch transcript
+    transcript = fetch_transcript(date, meeting_type)
+    if not transcript:
+        print(f"  No transcript available for {date.strftime('%Y-%m-%d')} {meeting_type}")
+        return None
+
+    # Create month directory if needed
+    month_dir = data_dir / date.strftime('%Y-%m')
+    month_dir.mkdir(parents=True, exist_ok=True)
+
+    # Generate filename
+    mapped_type = MEETING_TYPE_MAPPING.get(meeting_type, meeting_type.replace(' ', '-'))
+    filename = f"{date.strftime('%Y-%m-%d')}-{mapped_type}.json"
+    json_path = month_dir / filename
+
+    # Check if file already exists
+    if json_path.exists():
+        print(f"  Meeting file already exists: {json_path}")
+        return None
+
+    # Create meeting structure with transcript only
+    meeting_data = {
+        "title": f"{meeting_type} Meeting",
+        "datetime": date.strftime('%Y-%m-%d'),
+        "url": None,  # No official minutes URL yet
+        "meeting_type": meeting_type,
+        "data_sources": {
+            "official_minutes": False,
+            "transcript": True
+        },
+        "transcript": transcript,
+        "transcript_source": "lillian_skinner_archive",
+        "transcript_source_url": build_transcript_url(date, meeting_type),
+        "transcript_duration": get_transcript_duration(transcript),
+        # Empty placeholders for official minutes data
+        "present": [],
+        "absent": [],
+        "also_present": [],
+        "items": {}
+    }
+
+    # Save to file
+    try:
+        with open(json_path, 'w') as f:
+            json.dump(meeting_data, f, indent=2)
+        print(f"  ✓ Created transcript-only meeting: {json_path.name}")
+        return json_path
+    except IOError as e:
+        print(f"  Error writing {json_path}: {e}")
+        return None
+
+
+def scan_archive_for_new_transcripts(
+    data_dir: Path = None,
+    days_back: int = 30
+) -> Dict[str, Any]:
+    """
+    Scan Lillian's archive for transcripts we don't have yet.
+
+    Checks recent dates for each meeting type and creates transcript-only
+    meeting files for any new transcripts found.
+
+    Args:
+        data_dir: Path to data directory (defaults to ../data)
+        days_back: How many days back to scan (default 30)
+
+    Returns:
+        Dict with counts: created, already_exist, not_available
+    """
+    if data_dir is None:
+        data_dir = Path(__file__).parent.parent / 'data'
+
+    stats = {'created': 0, 'already_exist': 0, 'not_available': 0}
+
+    # Meeting types to check
+    meeting_types = list(MEETING_TYPE_MAPPING.keys())
+
+    # Generate dates to check (newest first)
+    today = datetime.now()
+    dates_to_check = [today - timedelta(days=i) for i in range(days_back)]
+
+    print(f"Scanning Lillian's archive for new transcripts...")
+    print(f"  Checking {len(dates_to_check)} days across {len(meeting_types)} meeting types\n")
+
+    for date in dates_to_check:
+        for meeting_type in meeting_types:
+            # Build expected filename
+            mapped_type = MEETING_TYPE_MAPPING.get(meeting_type, meeting_type.replace(' ', '-'))
+            month_dir = data_dir / date.strftime('%Y-%m')
+            filename = f"{date.strftime('%Y-%m-%d')}-{mapped_type}.json"
+            json_path = month_dir / filename
+
+            # Skip if we already have this meeting
+            if json_path.exists():
+                stats['already_exist'] += 1
+                continue
+
+            # Check if transcript is available
+            url = build_transcript_url(date, meeting_type)
+            if not url:
+                continue
+
+            # Try to create transcript-only meeting
+            result = create_transcript_only_meeting(date, meeting_type, data_dir)
+            if result:
+                stats['created'] += 1
+            else:
+                stats['not_available'] += 1
+
+    return stats
+
+
 if __name__ == '__main__':
     import sys
 
@@ -442,8 +576,36 @@ if __name__ == '__main__':
     except ValueError:
         limit = 0
 
-    if len(sys.argv) == 3:
-        # Fetch specific meeting transcript
+    if len(sys.argv) >= 2 and sys.argv[1] == '--scan':
+        # Scan archive for new transcripts (creates transcript-only meetings)
+        days = int(sys.argv[2]) if len(sys.argv) > 2 else 30
+        print(f"🔍 Scanning Lillian's Archive for New Transcripts\n")
+        stats = scan_archive_for_new_transcripts(days_back=days)
+
+        print(f"\n📊 Results:")
+        print(f"   Created: {stats['created']}")
+        print(f"   Already exist: {stats['already_exist']}")
+        print(f"   Not available: {stats['not_available']}")
+
+    elif len(sys.argv) >= 2 and sys.argv[1] == '--create':
+        # Create transcript-only meeting for specific date/type
+        if len(sys.argv) < 4:
+            print("Usage: python transcript.py --create 2025-11-25 Council")
+            sys.exit(1)
+
+        date_str = sys.argv[2]
+        meeting_type = sys.argv[3]
+        date = datetime.strptime(date_str, '%Y-%m-%d')
+
+        print(f"📝 Creating transcript-only meeting for {date_str} {meeting_type}\n")
+        result = create_transcript_only_meeting(date, meeting_type)
+        if result:
+            print(f"\n✅ Created: {result}")
+        else:
+            print("\n❌ Failed to create meeting file")
+
+    elif len(sys.argv) == 3:
+        # Fetch specific meeting transcript (preview only, don't save)
         date_str = sys.argv[1]
         meeting_type = sys.argv[2]
 
@@ -459,8 +621,14 @@ if __name__ == '__main__':
         else:
             print("Transcript not available")
     else:
-        # Sync all transcripts
+        # Sync all transcripts (add to existing meetings)
         print("🎙️ Transcript Sync\n")
+        print("This adds transcripts to EXISTING meeting files.\n")
+        print("To scan for NEW meetings from Lillian's archive, use:")
+        print("  python transcript.py --scan [days_back]\n")
+        print("To create a specific transcript-only meeting, use:")
+        print("  python transcript.py --create 2025-11-25 Council\n")
+
         stats = sync_all_transcripts(verbose=verbose, limit=limit)
 
         print(f"\n📊 Results:")
