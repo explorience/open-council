@@ -913,11 +913,16 @@ export class RAGService {
           .replace('.json', '')
           .replace(/ /g, '-');
 
+        // Add warning for transcript-only data (no official vote records)
+        const transcriptWarning = meta.has_official_minutes === false
+          ? `\n⚠️ **TRANSCRIPT ONLY - NO VOTE RECORDS:** This meeting only has transcript data. DO NOT state how individual councillors voted - you can only report what they SAID. If someone "agreed with colleagues" who opposed something, report that, but don't claim to know their actual vote.`
+          : '';
+
         return `
 ## Context ${idx + 1}
 **Meeting:** ${meta.meeting_title} (${meta.meeting_date})
 **Type:** ${meta.chunk_type}${meta.item_title ? ` - ${meta.item_title}` : ''}
-**Internal Minutes:** ${internalUrl}${meta.meeting_url ? `\n**City Website:** ${meta.meeting_url}` : ''}
+**Internal Minutes:** ${internalUrl}${meta.meeting_url ? `\n**City Website:** ${meta.meeting_url}` : ''}${transcriptWarning}
 
 ${result.text}
 ---`;

@@ -116,12 +116,16 @@ export class EmbeddingGenerator {
    */
   createChunks(meeting: Meeting, filePath: string): EmbeddingChunk[] {
     const chunks: EmbeddingChunk[] = [];
+    // Check if this is a transcript-only meeting (no official minutes)
+    const hasOfficialMinutes = meeting.data_sources?.official_minutes !== false;
+
     const baseMetadata = {
       meeting_title: meeting.title,
       meeting_date: meeting.datetime,
       meeting_type: meeting.meeting_type,
       meeting_url: meeting.url,
       file_path: filePath,
+      has_official_minutes: hasOfficialMinutes,
     };
 
     // Chunk 1: Attendance information
@@ -180,6 +184,29 @@ export class EmbeddingGenerator {
     if (meeting.transcript?.length) {
       const transcriptChunks = this.createTranscriptChunks(meeting.transcript, baseMetadata, filePath);
       chunks.push(...transcriptChunks);
+    }
+
+    // News coverage chunks (supplements transcript-only meetings with vote info)
+    if (meeting.news_coverage?.length) {
+      meeting.news_coverage.forEach((article, idx) => {
+        const newsText = [
+          `[News Coverage from ${article.source}]`,
+          `Title: ${article.title}`,
+          article.vote_info ? `Vote Information: ${article.vote_info}` : '',
+          `Summary: ${article.summary}`,
+          `Source: ${article.url}`,
+        ].filter(Boolean).join('\n');
+
+        chunks.push({
+          id: `${filePath}:news:${idx}`,
+          text: newsText,
+          metadata: {
+            ...baseMetadata,
+            chunk_type: 'content',  // Use 'content' type so it's included in searches
+            item_title: `News: ${article.title}`,
+          },
+        });
+      });
     }
 
     return chunks;
