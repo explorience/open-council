@@ -70,13 +70,13 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet data/ content/months/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+          git add data/ content/months/
+          git diff --cached --quiet || echo "has_changes=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         if: steps.changes.outputs.has_changes == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ content/months/
           git commit -m "chore: sync transcripts from Lillian Skinner archive [automated]"
           git push
