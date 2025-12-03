@@ -6,12 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting attendance rate and were there any notable patterns in their meeting participation over the 2014-2021 period?"
-  - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Phil Squire vote on major municipal issues like budget approvals, development projects, or policy changes during their time on council?"
+  - "What was Phil Squire's voting record on major municipal issues such as budget approvals, development projects, and infrastructure investments?"
+  - "How did Phil Squire's attendance rate compare to other council members during the 2014-2021 period?"
+  - "Which specific committees did Phil Squire serve on, and did they hold any chair or vice-chair positions on these committees?"
 ---
 
-Phil Squire served on London City Council, Canada from 2014 to 2021, demonstrating consistent participation over nearly two full terms. During this seven-year period, they attended 372 council meetings and served on six different committees, indicating active involvement in the council's work. Their attendance record suggests regular engagement with municipal governance and committee responsibilities throughout their tenure.
+Phil Squire served on London City Council from 2014 to 2021, demonstrating consistent participation with attendance at 372 meetings over this seven-year period. This represents an average of approximately 53 meetings per year during their tenure. Squire's council involvement extended beyond general council meetings, as they served on six different committees, indicating active engagement in the committee structure that supports council's legislative and oversight functions.
+
+While the specific committee names are not clearly displayed in the available data, Squire's participation across multiple committees suggests broad involvement in various aspects of municipal governance throughout their time on council.
 
 ## Terms of Service
 

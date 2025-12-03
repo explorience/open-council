@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Jesse Helmer serve on during their time on London City Council?"
-  - "What was Jesse Helmer's voting record on major city issues like budget approvals, development projects, or policy changes?"
-  - "How did Jesse Helmer's meeting attendance rate compare to other council members during their 2014-2022 tenure?"
+  - "What was Jesse Helmer's voting record on key municipal issues like budget approvals, development projects, and bylaw amendments?"
+  - "How often did Jesse Helmer vote in alignment with the majority versus taking dissenting positions on council decisions?"
+  - "Which specific committees did Jesse Helmer serve on, and did they hold any leadership roles such as chair or vice-chair positions?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, spanning an eight-year period of municipal service. During this tenure, Helmer demonstrated consistent participation by attending 580 council meetings and served on eight different committees throughout their time in office.
+Jesse Helmer served on London City Council from 2014 to 2022, spanning an eight-year period. During this time, they demonstrated consistent participation by attending 580 council meetings. Helmer was actively involved in committee work, serving on eight different committees throughout their tenure, indicating broad engagement across various municipal issue areas and policy domains.
 
-Helmer's extensive committee involvement and high meeting attendance record indicates active engagement in the council's work over nearly a full decade. Their service period covered two full terms on council, suggesting they were re-elected during this timeframe to continue representing their constituents.
+Their substantial meeting attendance record and extensive committee participation suggests a high level of civic engagement and commitment to municipal governance during their eight years of service on London City Council.
 
 ## Terms of Service
 

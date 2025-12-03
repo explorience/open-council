@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has she served on and what were her roles or positions within those committees?"
-  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives during her time in office?"
+  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during her tenure?"
+  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on these committees?"
+  - "How has her voting pattern aligned with council majority decisions versus dissenting votes during her time in office?"
 ---
 
-Elizabeth Peloza has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 452 council meetings during this period. Her council involvement spans approximately seven years, indicating she has served multiple terms or an extended term period. Peloza has been an active committee participant, serving on nine different committees throughout her tenure, though the specific names of these committees are not clearly specified in the available data.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating substantial commitment to municipal governance through her attendance at 452 council meetings during this period. Her extensive participation extends beyond regular council sessions, as she has served on nine different committees throughout her tenure, indicating broad engagement across various areas of municipal policy and administration.
 
-Her attendance record of 452 meetings over roughly seven years suggests regular engagement with council business and municipal governance responsibilities. The breadth of her committee involvement, spanning nine different committees, indicates diverse participation across various aspects of municipal government and policy areas.
+Her seven-year term on council shows sustained dedication to public service, with her meeting attendance record suggesting consistent participation in the city's decision-making processes. The breadth of her committee involvement reflects engagement with diverse aspects of municipal governance, though the specific nature of these committees would require additional information to detail.
 
 ## Terms of Service
 

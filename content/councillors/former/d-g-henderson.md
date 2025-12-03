@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting pattern on major budget decisions during their 2011-2014 term?"
-  - "How did Henderson vote on key development and planning issues that came before council?"
-  - "What was Henderson's attendance rate and participation level on the specific committees they served on?"
+  - "What was Dale Henderson's voting record on major municipal issues like budget approvals, development proposals, and infrastructure projects during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on, and what was their attendance rate and level of participation in committee work?"
+  - "How did Henderson's meeting attendance rate of 142 sessions compare to other council members during the same 2011-2014 period?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, completing a full four-year term. During this period, Henderson demonstrated active participation by attending 142 council meetings. Henderson served on four different committees during their tenure, though the specific committee names are not clearly displayed in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during their term. Henderson served on four committees during their time on council, though the specific committee names are not clearly displayed in the available data. Their three-year tenure represents one full term of municipal service in London, Ontario.
 
-Henderson's attendance record suggests consistent engagement with council business throughout their term. Their committee involvement indicates participation in the detailed work that occurs beyond regular council meetings, contributing to various aspects of municipal governance during their four years of service.
+Henderson's meeting attendance of 142 sessions over the 2011-2014 period indicates consistent engagement with council business and municipal governance responsibilities during their time as an elected representative.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on key municipal issues like budget approvals, development proposals, and infrastructure projects during his 2014-2018 term?"
-  - "Which specific committees did Zaifman serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "Did Zaifman bring forward any motions or initiatives during his time on council, and how did he vote on controversial or closely-contested issues?"
+  - "What was Jared Zaifman's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during his 2014-2018 term?"
+  - "Which specific committees did he serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "How did his meeting attendance record of 142 meetings compare to other council members during the same 2014-2018 term?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he maintained active participation by attending 142 council meetings. He served on four different committees during his time on council, demonstrating involvement in various aspects of municipal governance and policy development.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a four-year term. During this period, he attended 142 council meetings, demonstrating consistent participation in the city's governance processes. He served on four committees during his tenure, though the specific committee names are not clearly displayed in the available data.
 
-His attendance record and committee participation indicate consistent engagement with council duties throughout his term. The four-year service period represents a standard municipal council term in Ontario, suggesting he served either one complete term or was appointed partway through and completed the remainder of a term.
+His attendance record of 142 meetings over four years indicates regular engagement with council business and committee work. As a council member during this period, Zaifman would have participated in various municipal decisions affecting London, Ontario residents during the mid-2010s.
 
 ## Terms of Service
 

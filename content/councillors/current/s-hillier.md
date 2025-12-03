@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "How does Steve Hillier's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Steve Hillier's voting pattern on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Steve Hillier served on and what were his roles or positions within those committees?"
+  - "Has Steve Hillier been absent from any significant votes or key council decisions during his tenure?"
 ---
 
-Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated strong participation by attending 453 council meetings. His involvement extends beyond general council meetings through his service on seven different committees, indicating broad engagement across various municipal issues and governance areas.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent engagement with council duties, attending 453 meetings over this seven-year period. His participation extends beyond general council meetings, as he has served on seven different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-Hillier's consistent attendance record over his seven-year term suggests dedicated participation in the city's democratic processes. His multi-committee involvement reflects the comprehensive nature of municipal governance, where councillors typically contribute to specialized areas of city business through committee work in addition to their participation in full council sessions.
+His meeting attendance record suggests a high level of commitment to his council responsibilities, averaging approximately 65 meetings per year throughout his service period. The diversity of his committee involvement demonstrates engagement across multiple areas of city administration and governance.
 
 ## Terms of Service
 

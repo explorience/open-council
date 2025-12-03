@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approval, development projects, or policy initiatives?"
-  - "How does Peter Cuddy's meeting attendance rate compare to other council members, and has he missed any significant votes or decisions?"
+  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has Peter Cuddy served on and what roles did he hold on those committees?"
+  - "Has Peter Cuddy sponsored or co-sponsored any major motions or initiatives during his time on council?"
 ---
 
-Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 204 meetings during this period. His council involvement extends beyond regular council sessions, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
+Peter Cuddy has served on London City Council from 2022-2025, demonstrating active participation with attendance at 204 meetings during this period. His council involvement extends beyond general council meetings, as he has served on eight different committees throughout his tenure, indicating broad engagement across various municipal portfolios and policy areas.
 
-His consistent meeting attendance and extensive committee work suggests a commitment to municipal governance and active participation in the decision-making processes of London City Council. The multi-committee involvement indicates he has been engaged with diverse aspects of city administration and policy development during his current term.
+His consistent meeting attendance and extensive committee participation suggest a committed approach to municipal governance during his term on council.
 
 ## Terms of Service
 

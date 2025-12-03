@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other London City Council members?"
-  - "Which specific committees has he served on and what policy areas do those committees oversee?"
-  - "How has his committee participation or leadership roles evolved throughout his 14-year tenure on council?"
+  - "What is Paul Van Meerbergen's voting record on major municipal issues like budget approvals, development projects, and infrastructure investments?"
+  - "How often did he vote with the majority versus dissenting on council decisions, and on which types of issues did he most frequently dissent?"
+  - "Which specific committees did he serve on and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Paul Van Meerbergen has served on London City Council for 14 years, from 2011 to 2025, demonstrating sustained civic engagement and commitment to municipal governance. During his tenure, he has attended 499 council meetings and served on seven different committees, indicating active participation in the council's deliberative processes and committee work that supports the city's decision-making structure.
+Paul Van Meerbergen has been an active member of London City Council, Canada, serving from 2011 to 2025, representing a 14-year tenure. During this period, he has demonstrated consistent participation by attending 499 council meetings. His committee involvement has been extensive, serving on seven different committees throughout his time on council, indicating broad engagement across various areas of municipal governance.
 
-His extensive meeting attendance record and multi-committee involvement suggest consistent engagement with London's municipal affairs across more than a decade of service. This level of participation reflects a councillor who has been actively involved in the ongoing business of city governance throughout multiple council terms.
+His substantial meeting attendance record and multi-committee participation suggest a high level of civic engagement and commitment to his council responsibilities over more than a decade of public service.
 
 ## Terms of Service
 

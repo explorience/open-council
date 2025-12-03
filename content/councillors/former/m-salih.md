@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during the same period?"
-  - "Which specific committees did Mo Salih serve on and did they hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Mo Salih's committee assignments and meeting participation change over the course of their eight years in office?"
+  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and public services during their 2014-2022 tenure?"
+  - "Which specific committees did Mo Salih serve on, and what was their level of participation and leadership roles within those committees?"
+  - "How did Mo Salih's meeting attendance rate compare to other council members during the same period, and were there any notable patterns in their participation?"
 ---
 
-Mo Salih served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During their tenure, they attended 350 council meetings and served on four committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests regular engagement with municipal governance responsibilities throughout their time in office.
+Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating sustained civic engagement over an eight-year period. During their tenure, they attended 350 council meetings, indicating active participation in municipal governance. Salih served on four committees during their time on council, though the specific committee names are not clearly identified in the available data.
 
-Their eight-year service span indicates they likely served at least two full terms on council, given typical municipal election cycles. The substantial number of meetings attended reflects active participation in the council's deliberative processes during this period.
+Their eight-year service span suggests they likely served at least two full terms on council, given typical municipal election cycles. The high meeting attendance figure reflects regular engagement with council business and community issues during their time in office.
 
 ## Terms of Service
 

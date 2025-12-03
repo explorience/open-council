@@ -6,14 +6,14 @@ meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Judy Bryant's attendance rate compared to other council members during her 2011-2014 term?"
-  - "Which specific committees did Judy Bryant serve on and what were her primary areas of focus?"
-  - "How did Judy Bryant vote on major city issues and budget decisions during her time on council?"
+  - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
+  - "How did her meeting attendance compare to other council members during the same period?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, representing a four-year term during which she maintained active participation in council proceedings. Over the course of her tenure, she attended 168 meetings and served on six different committees, demonstrating consistent engagement with the city's governance processes.
+Judy Bryant served on London City Council from 2011-2014, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 168 council meetings. Bryant was actively involved in the committee structure of the council, serving on six different committees throughout her term, though the specific names of these committees are not clearly specified in the available data.
 
-Bryant's council participation spanned the full term from 2011-2014, indicating she completed her elected mandate. Her attendance at 168 meetings over four years suggests regular participation in both regular council sessions and committee work, though the specific committees she served on are not clearly identified in the available data.
+Her attendance record and committee involvement indicate she was an engaged member of council during her term. The 168 meetings attended over four years suggests regular participation in both regular council sessions and committee work, which are essential components of municipal governance.
 
 ## Terms of Service
 

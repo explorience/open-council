@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "What has been David Ferreira's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does David Ferreira's meeting attendance rate of 208 meetings compare to other council members during the same 2022-2025 term?"
+  - "What is David Ferreira's voting record on major budget decisions and tax rate changes during his 2022-2025 term?"
+  - "How often has he voted with or against the majority on contentious issues that came before council?"
+  - "What specific initiatives or motions has he introduced or championed during his time on the various committees he has served on?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong attendance with 208 meetings attended. His council participation includes service on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated strong engagement with council responsibilities, attending 208 meetings. His involvement extends across multiple council committees, serving on eight different committees throughout his time in office.
 
-Ferreira's consistent meeting attendance and extensive committee participation suggest dedicated engagement in the council's work throughout his current term. His involvement spans multiple committees, which typically allows council members to contribute specialized expertise and oversight across different aspects of municipal government operations.
+His consistent meeting attendance and broad committee participation suggests a hands-on approach to municipal governance. The scope of his committee involvement indicates engagement across various aspects of city administration and policy areas during his council term.
 
 ## Terms of Service
 

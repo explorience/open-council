@@ -6,14 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
-  - "Which specific committees has Franke served on, and what has been their level of participation and leadership roles within those committees?"
-  - "How does Franke's meeting attendance rate of 179 meetings compare to other council members and the expected number of meetings during their 2022-2025 term?"
+  - "What is Skylar Franke's voting record on major municipal issues like budget approvals, development projects, and policy changes?"
+  - "Which specific committees did Skylar Franke serve on, and what was their attendance rate for committee meetings versus general council meetings?"
+  - "How does Skylar Franke's meeting attendance of 179 sessions compare to other council members during the same 2022-2025 period?"
 ---
 
-Skylar Franke has been an active member of London City Council, Canada, serving from 2022-2025. During their tenure, they have demonstrated consistent participation by attending 179 council meetings. Franke has served on seven different committees, showing broad engagement across various municipal governance areas, though the specific committee names are not clearly specified in the available data.
+Skylar Franke has served on London City Council from 2022-2025, demonstrating active participation with attendance at 179 council meetings during this period. Their council involvement extends beyond general meetings, as they have served on seven different committees, indicating broad engagement across various municipal areas and responsibilities.
 
-Their participation record indicates regular involvement in council business throughout their term, suggesting a commitment to their municipal responsibilities and constituent representation during this period.
+Franke's participation appears consistent with an engaged council member role, maintaining regular attendance and committee involvement throughout their term. The multi-committee service suggests they have taken on diverse municipal responsibilities across different policy areas during their time in office.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "How does Lewis's voting record align on key municipal issues such as budget approvals, development projects, and public services?"
-  - "What has been Lewis's attendance rate and participation level in committee meetings compared to regular council sessions?"
+  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Lewis served on and what roles (chair, vice-chair, or member) have they held on these committees?"
+  - "How has Lewis voted on major municipal issues such as budget approvals, development proposals, and policy initiatives during their time on council?"
 ---
 
-Shawn Lewis has been an active member of London City Council from 2018 to 2025, demonstrating significant engagement through attendance at 495 meetings during this period. This attendance record reflects consistent participation in council proceedings over their seven-year tenure. Lewis has served on eight different committees during their time on council, indicating broad involvement across various municipal portfolios and policy areas.
+Shawn Lewis has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through attendance at 495 council meetings during this seven-year period. This represents an average of approximately 71 meetings per year, indicating regular participation in council proceedings.
 
-The substantial meeting attendance and multiple committee assignments suggest Lewis has maintained an active role in London's municipal governance, participating regularly in the decision-making processes that guide city operations and policy development.
+Lewis has served on eight different committees during their tenure, showing involvement across multiple areas of municipal governance. Their sustained participation from 2018 through 2025 spans nearly two full council terms, suggesting they have maintained their council position through re-election and have accumulated substantial experience in London's municipal decision-making processes.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 328
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Matt Brown's voting attendance rate and did he miss any significant votes during his seven years on council?"
-  - "Which committees did Matt Brown chair or serve in leadership roles on, and what were his key contributions to those committees?"
-  - "How did Matt Brown's voting patterns align with other council members, and were there particular issues where he consistently voted differently from the majority?"
+  - "What was Matt Brown's voting attendance rate and how did it compare to other council members during his tenure?"
+  - "Which specific committees did Matt Brown serve on and did he hold any leadership positions such as chair or vice-chair roles?"
+  - "What were the key issues or policy areas where Matt Brown was most active in terms of motions brought forward or voting patterns?"
 ---
 
-Matt Brown served on London City Council from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent participation by attending 328 council meetings. He was actively involved in committee work, serving on eight different committees throughout his time on council, indicating broad engagement across various municipal portfolios and policy areas.
+Matt Brown served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 328 meetings over his seven-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and policy areas.
 
-His sustained attendance record and extensive committee involvement suggest he was an engaged council member who participated regularly in both the formal council proceedings and the detailed committee work that forms much of the foundation of municipal decision-making.
+His sustained engagement throughout nearly two full terms suggests an active role in London's municipal governance, with his meeting attendance and committee participation reflecting regular involvement in the city's decision-making processes during this period.
 
 ## Terms of Service
 

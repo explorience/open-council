@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Virginia Ridley's voting pattern on key municipal issues such as budget approvals, development proposals, and public services during her 2014-2018 term?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did her meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What was Virginia Ridley's voting record on key municipal issues during her 2014-2018 term?"
+  - "Which specific committees did she serve on and what role did she play in committee work?"
+  - "How did her attendance rate of 212 meetings compare to other council members during the same period?"
 ---
 
-Virginia Ridley served on London City Council, Canada from 2014 to 2018, completing a four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. She was actively involved in the committee structure of the council, serving on six different committees throughout her term, though the specific names of these committees are not clearly specified in the available data.
+Virginia Ridley served on London City Council from 2014 to 2018, completing a four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. Ridley was an active committee member, serving on six different committees throughout her time on council, though the specific committee names are not clearly displayed in the available data.
 
-Her attendance record suggests regular engagement with council business over the four-year period, indicating active participation in the municipal decision-making process during her term of service.
+Her attendance record and committee involvement suggest she maintained regular engagement with council business and contributed to various aspects of municipal governance during her term.
 
 ## Terms of Service
 

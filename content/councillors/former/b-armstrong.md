@@ -6,12 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's attendance rate as a percentage of total possible meetings during his 2012-2018 term?"
-  - "Which specific committees did Bill Armstrong serve on and what were the primary responsibilities of those committees?"
-  - "How did Bill Armstrong's meeting attendance compare to other council members who served during the same 2012-2018 period?"
+  - "What was Bill Armstrong's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending during his 2012-2018 term?"
+  - "Which specific committees did Armstrong serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Armstrong's attendance rate compare to other council members during his tenure, and were there any notable absences from important votes?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, demonstrating consistent participation throughout his six-year tenure. During this period, he attended 245 council meetings and served on five different committees, indicating active engagement in the city's governance processes. His attendance record and committee involvement suggest he maintained regular participation in both general council sessions and specialized committee work during his time in office.
+Bill Armstrong served on London City Council from 2012 to 2018, demonstrating consistent participation with attendance at 245 meetings over his six-year tenure. During his time on council, he served on five different committees, indicating active involvement in the committee structure that supports municipal governance. His participation record shows regular engagement with council business throughout his term.
+
+Armstrong's six-year service period represents either one full term plus a partial term or potentially service across multiple electoral cycles, depending on London's municipal election schedule. His meeting attendance of 245 sessions suggests steady participation in both regular council meetings and committee work during his tenure.
 
 ## Terms of Service
 

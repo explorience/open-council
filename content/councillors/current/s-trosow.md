@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has Sam Trosow served on and what policy areas do they cover?"
-  - "How has Sam Trosow voted on major municipal issues and budget items during their tenure?"
+  - "What specific committees has Sam Trosow served on during their time on London City Council?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members during the 2022-2025 term?"
+  - "What has been Sam Trosow's voting pattern on major municipal issues such as budget approvals, development proposals, or policy initiatives?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong engagement through attendance at 209 council meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees throughout their tenure, indicating broad involvement across various municipal governance areas.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 209 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees, indicating broad engagement across various municipal governance areas.
 
-This level of meeting attendance and committee participation suggests consistent engagement with council business and municipal decision-making processes. Serving on multiple committees allows council members to contribute specialized attention to different aspects of city governance and policy development.
+Trosow's participation level suggests consistent involvement in council business throughout their current term. The multiple committee appointments reflect either their areas of expertise or interest in diverse municipal issues, contributing to the detailed work that committees perform in supporting full council decision-making.
 
 ## Terms of Service
 

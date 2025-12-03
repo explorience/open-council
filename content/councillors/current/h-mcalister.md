@@ -6,14 +6,14 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
-  - "How does McAlister's meeting attendance record of 203 meetings compare to other council members during the same period?"
-  - "What has been McAlister's voting pattern on key municipal issues and bylaws brought before council?"
+  - "What is Hadleigh McAlister's voting record on key municipal issues such as budget approval, development projects, and policy initiatives?"
+  - "Which specific committees has McAlister served on and what has been their level of participation or leadership role on these committees?"
+  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members and the expected meeting schedule during their 2022-2025 term?"
 ---
 
-Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 council meetings during this period. Their council involvement includes service on six different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement in the municipal governance process over their term of service.
+Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various municipal portfolios and policy areas.
 
-McAlister's participation appears to reflect a commitment to the council's work, with their multi-committee involvement indicating engagement across various areas of municipal responsibility during their current term.
+McAlister's participation record shows consistent engagement in council business through regular meeting attendance and committee work. Their multi-committee involvement suggests they have taken on responsibilities spanning different areas of municipal governance during their term on council.
 
 ## Terms of Service
 

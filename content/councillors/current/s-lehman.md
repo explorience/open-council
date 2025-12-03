@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
-  - "How often has he been absent from council meetings, and what is his overall attendance rate compared to other council members?"
-  - "Which specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "Which specific committees has he served on, and what has been his attendance rate for committee meetings versus general council meetings?"
+  - "How often has Steve Lehman introduced motions or amendments during council sessions, and what topics have they typically addressed?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings during this period. Throughout his tenure, he has served on six different committees, indicating active involvement in the council's committee structure and various areas of municipal governance.
+Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His council involvement extends beyond general council sessions, as he has served on six different committees, indicating broad engagement across various municipal matters and policy areas.
 
-His seven-year term on council shows sustained civic engagement, with his meeting attendance record suggesting regular participation in council proceedings. The breadth of his committee service indicates involvement across multiple aspects of city administration and policy development.
+His seven-year term represents substantial experience in municipal governance, and his high meeting attendance record suggests regular participation in the council's decision-making processes. The multiple committee appointments reflect his involvement in specialized areas of municipal administration and policy development.
 
 ## Terms of Service
 

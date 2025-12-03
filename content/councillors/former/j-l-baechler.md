@@ -6,12 +6,14 @@ meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joni Baechler's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during their 2011-2014 term?"
-  - "How often did Baechler vote with the majority versus taking independent positions, and were there particular policy areas where they frequently dissented?"
-  - "Did Joni Baechler sponsor or champion any specific motions, bylaws, or initiatives during their four years on council, and what were the outcomes of those proposals?"
+  - "What was Joni Baechler's voting alignment with other council members on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Baechler serve on and what was their attendance rate for committee meetings versus regular council meetings?"
+  - "Did Baechler initiate any motions or bylaws during their term, and what was their success rate in getting proposals passed?"
 ---
 
-Joni Baechler served on London City Council from 2011-2014, completing one full term during this four-year period. Throughout their tenure, they demonstrated consistent engagement by attending 132 council meetings. Baechler participated actively in the committee system, serving on seven different committees, which indicates broad involvement across various municipal issues and policy areas during their time in office.
+Joni Baechler served on London City Council from 2011-2014, demonstrating active participation during their term with attendance at 132 meetings over this four-year period. During their tenure, Baechler served on seven different committees, indicating broad involvement across various areas of municipal governance and policy development.
+
+Their meeting attendance record suggests consistent engagement with council business, averaging approximately 33 meetings per year during their time in office. The committee participation shows Baechler took on significant committee responsibilities beyond regular council meetings, contributing to the detailed work that committees perform in municipal government.
 
 ## Terms of Service
 

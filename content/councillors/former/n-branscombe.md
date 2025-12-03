@@ -7,13 +7,13 @@ yearsActive: "2006 - 2014"
 isCurrent: false
 prefillQuestions:
   - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her role or contribution to each committee?"
-  - "How did her meeting attendance rate of 119 meetings compare to other council members during the same period?"
+  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
+  - "How did her attendance rate of 119 meetings compare to other council members during the same period?"
 ---
 
-Nancy Branscombe served on London City Council, Canada from 2011 to 2014, a four-year term during which she attended 119 meetings. During her tenure, she participated in committee work, serving on eight different committees, demonstrating active engagement in the council's committee structure. Her meeting attendance record shows consistent participation in council proceedings throughout her term.
+Nancy Branscombe served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her term. She was involved in committee work, serving on eight different committees throughout her time on council, which indicates broad engagement across various municipal issues and administrative functions.
 
-Her involvement across multiple committees suggests she took on a broad range of municipal responsibilities during her time in office. The specific committees she served on are not clearly identifiable from the available data, but her participation in eight different committees indicates a willingness to engage in various aspects of municipal governance during her single term on council.
+Her four-year tenure and consistent meeting attendance suggest regular participation in council duties and decision-making processes. The extent of her committee involvement shows she took on responsibilities beyond regular council meetings, contributing to the detailed work that committees typically handle in municipal government.
 
 ## Terms of Service
 

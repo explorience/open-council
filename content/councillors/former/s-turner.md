@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting record on key municipal issues during his time on council?"
-  - "Which specific committees did Stephen Turner serve on and what roles did he hold on those committees?"
-  - "How did Stephen Turner's attendance rate compare to other council members during his tenure from 2014-2022?"
+  - "What was Stephen Turner's voting record on major budget decisions during his 2014-2022 tenure?"
+  - "Which specific committees did Turner serve on and what were his key contributions to those committees?"
+  - "How did Turner's attendance rate compare to other council members, and were there particular types of meetings or issues where his participation was most notable?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, spanning an eight-year period. During his tenure, he demonstrated consistent engagement by attending 417 council meetings. Turner participated in the governance structure by serving on seven different committees, showing involvement across multiple areas of municipal administration and policy development.
+Stephen Turner served on London City Council from 2014 to 2022, demonstrating consistent engagement through his attendance at 417 meetings over his eight-year tenure. During his time on council, Turner participated in the committee system by serving on seven different committees, indicating broad involvement in various areas of municipal governance and policy development.
 
-His attendance record and committee participation indicate active involvement in the council's work throughout his two-term period. The substantial number of meetings attended over eight years suggests regular participation in both regular council sessions and committee work.
+His multi-year service and substantial meeting attendance record suggests regular participation in council proceedings and committee work throughout his two terms in office.
 
 ## Terms of Service
 

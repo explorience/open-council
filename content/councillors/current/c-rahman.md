@@ -6,12 +6,12 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during their time on London City Council?"
-  - "How does Rahman's meeting attendance record of 216 meetings compare to other council members during the same period?"
-  - "What has been Rahman's voting pattern on key municipal issues and bylaws brought before council?"
+  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
+  - "Which specific committees has Rahman served on, and what has been their level of participation and leadership roles within those committees?"
+  - "How does Rahman's attendance rate and committee involvement compare to other council members during the same period?"
 ---
 
-Corrine Rahman has served on London City Council from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Rahman has been involved in committee work, serving on 8 different committees throughout their tenure on council. This level of meeting attendance and committee participation indicates consistent engagement in the council's work and municipal governance processes.
+Corrine Rahman has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Rahman has been involved in extensive committee work, serving on eight different committees throughout their tenure. This level of meeting attendance and committee involvement suggests consistent engagement in the council's decision-making processes and municipal governance activities.
 
 ## Terms of Service
 
