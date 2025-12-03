@@ -917,8 +917,7 @@ export class RAGService {
 ## Context ${idx + 1}
 **Meeting:** ${meta.meeting_title} (${meta.meeting_date})
 **Type:** ${meta.chunk_type}${meta.item_title ? ` - ${meta.item_title}` : ''}
-**Internal Minutes:** ${internalUrl}
-**City Website:** ${meta.meeting_url}
+**Internal Minutes:** ${internalUrl}${meta.meeting_url ? `\n**City Website:** ${meta.meeting_url}` : ''}
 
 ${result.text}
 ---`;
