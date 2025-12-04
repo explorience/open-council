@@ -823,7 +823,7 @@ def create_transcript_only_meeting(
 
     # Search for news coverage (for vote information)
     news_coverage = []
-    if fetch_news and meeting_type in ['Council', 'City Council']:
+    if fetch_news and meeting_type in ['Council', 'City Council', 'Budget Committee']:
         print(f"  📰 Searching for news coverage...")
         news_coverage = search_news_coverage(date, meeting_type, verbose=True)
         if news_coverage:
