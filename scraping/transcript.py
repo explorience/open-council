@@ -65,10 +65,13 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
     # Use simple "city council" query - date filtering happens after fetch
     search_term = "city council"
 
-    # Search first 2 pages of results (20 articles) to catch older articles
+    # Search first 5 pages of results (50 articles) to catch older articles
     search_urls = [
         f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc",
         f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=10",
+        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=20",
+        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=30",
+        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=40",
     ]
 
     max_articles = 5  # Collect up to 5 relevant articles
@@ -121,6 +124,8 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
 
                 # Skip duplicates
                 if url in seen_urls:
+                    if verbose:
+                        print(f"    → Skipped [{i+1}]: duplicate URL")
                     continue
                 seen_urls.add(url)
 
