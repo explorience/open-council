@@ -58,6 +58,7 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
         return []
 
     coverage = []
+    seen_urls = set()  # Track URLs to avoid duplicates across pages
     date_str = date.strftime('%Y-%m-%d')
 
     # Search LFPress for council-related articles
@@ -70,7 +71,12 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
         f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=10",
     ]
 
+    max_articles = 5  # Collect up to 5 relevant articles
+
     for page_num, search_url in enumerate(search_urls, 1):
+        if len(coverage) >= max_articles:
+            break
+
         if verbose:
             print(f"    → Searching news: {search_term} (page {page_num})")
 
@@ -110,6 +116,14 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
 
             # Check each article to see if it's about this meeting
             for i, (title, url) in enumerate(article_links[:15]):  # Check first 15 results
+                if len(coverage) >= max_articles:
+                    break
+
+                # Skip duplicates
+                if url in seen_urls:
+                    continue
+                seen_urls.add(url)
+
                 # Skip if title doesn't seem relevant
                 title_lower = title.lower()
                 if not any(word in title_lower for word in ['council', 'vote', 'councillor', 'city hall', 'budget']):
@@ -125,17 +139,12 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
                     coverage.append(article)
                     if verbose:
                         print(f"    ✓ Found relevant article: {article['title'][:50]}...")
-                    break  # One good article is enough
                 elif verbose:
                     print(f"    → Failed to fetch article [{i+1}]")
 
         except Exception as e:
             if verbose:
                 print(f"    → Error searching news: {e}")
-
-        # Stop searching if we found an article
-        if coverage:
-            break
 
     return coverage
 
