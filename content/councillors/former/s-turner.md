@@ -6,14 +6,12 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting record on major budget decisions during his 2014-2022 tenure?"
-  - "Which specific committees did Turner serve on and what were his key contributions to those committees?"
-  - "How did Turner's attendance rate compare to other council members, and were there particular types of meetings or issues where his participation was most notable?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Stephen Turner served on London City Council from 2014 to 2022, demonstrating consistent engagement through his attendance at 417 meetings over his eight-year tenure. During his time on council, Turner participated in the committee system by serving on seven different committees, indicating broad involvement in various areas of municipal governance and policy development.
-
-His multi-year service and substantial meeting attendance record suggests regular participation in council proceedings and committee work throughout his two terms in office.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

@@ -6,14 +6,12 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting record on major municipal issues like budget approvals, development projects, and infrastructure investments?"
-  - "How often did he vote with the majority versus dissenting on council decisions, and on which types of issues did he most frequently dissent?"
-  - "Which specific committees did he serve on and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council, Canada, serving from 2011 to 2025, representing a 14-year tenure. During this period, he has demonstrated consistent participation by attending 499 council meetings. His committee involvement has been extensive, serving on seven different committees throughout his time on council, indicating broad engagement across various areas of municipal governance.
-
-His substantial meeting attendance record and multi-committee participation suggest a high level of civic engagement and commitment to his council responsibilities over more than a decade of public service.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

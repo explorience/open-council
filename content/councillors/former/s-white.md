@@ -6,14 +6,12 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their attendance rate for committee meetings versus full council meetings?"
-  - "Did Sandy White run for re-election after their 2011-2014 term, and if so, what were the results?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Sandy White served on London City Council from 2011-2014, completing one full term during this four-year period. Throughout their tenure, White demonstrated consistent participation by attending 164 meetings. They were appointed to serve on five different committees during their time in office, indicating active involvement in the detailed work of municipal governance beyond regular council sessions.
-
-White's participation record shows regular engagement with council business over the course of their term, with their meeting attendance reflecting the typical workload of a municipal councillor who participates in both full council sessions and committee work.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

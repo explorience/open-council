@@ -4,14 +4,12 @@ type: committee
 slug: "planning-environment"
 meetingCount: 286
 prefillQuestions:
-  - "How can residents participate in Planning and Environment Committee meetings to voice concerns or support for development projects in their neighborhoods?"
-  - "What criteria does the committee use to evaluate development applications, and how do they balance growth needs with environmental protection and community interests?"
-  - "How far in advance are committee meeting agendas published, and where can citizens access detailed information about specific planning applications being reviewed?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Planning and Environment Committee is a standing committee of London City Council that plays a crucial role in shaping the city's physical development and environmental stewardship. This committee typically handles matters related to urban planning, zoning applications, development proposals, environmental policies, and land use decisions that affect how London grows and evolves. As one of the key committees in the city's governance structure, it reviews and makes recommendations on planning applications, official plan amendments, subdivision proposals, and environmental initiatives before they proceed to full City Council for final approval.
-
-The committee serves as a critical forum for public input on development and environmental matters, allowing residents, developers, and stakeholders to present their views on projects that impact their neighborhoods and the broader community. With 286 meetings held to date, the committee demonstrates the ongoing and intensive nature of planning and environmental oversight in a growing city like London. The committee's work directly influences the city's future by addressing issues such as residential and commercial development, heritage conservation, environmental protection measures, transportation planning integration, and ensuring development aligns with the city's official plans and strategic objectives.
+Summary generation failed. Please try again later.
 
 ## Recent Meetings
 

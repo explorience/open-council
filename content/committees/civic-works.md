@@ -4,14 +4,12 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "How can residents submit concerns or suggestions about local infrastructure issues like road repairs, traffic signals, or park maintenance to the Civic Works Committee?"
-  - "What is the typical timeline and process for major infrastructure projects reviewed by this committee, from initial proposal to completion?"
-  - "How does the Civic Works Committee prioritize competing infrastructure needs across different neighborhoods in London, and what criteria do they use to make these decisions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Civic Works Committee of London City Council serves as a key municipal governance body responsible for overseeing the city's physical infrastructure and public works operations. This committee typically handles matters related to transportation infrastructure, including road construction, maintenance, and traffic management; water and wastewater systems; waste management and recycling programs; parks and recreation facilities; and other essential civic infrastructure projects. As an active committee that has held 203 meetings, it plays a crucial role in reviewing, planning, and making recommendations on capital projects and operational matters that directly impact residents' daily lives.
-
-The committee functions as an intermediary between city staff and full City Council, reviewing detailed reports, budgets, and proposals before they advance to Council for final approval. Issues commonly addressed include seasonal road maintenance programs, infrastructure renewal projects, development of cycling networks, public transit improvements, environmental initiatives, and responses to citizen concerns about municipal services. The committee's work ensures that London's civic infrastructure remains functional, safe, and responsive to the community's growing needs while balancing fiscal responsibility with service delivery expectations.
+Summary generation failed. Please try again later.
 
 ## Recent Meetings
 

@@ -4,14 +4,12 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What specific infrastructure projects and corporate services initiatives has this committee prioritized in recent meetings, and how do these align with London's strategic plan?"
-  - "How does the committee balance competing demands between maintaining existing infrastructure and investing in new corporate services or technological improvements within budget constraints?"
-  - "What opportunities exist for public input on the committee's decisions, and how can residents stay informed about infrastructure and corporate services issues that may affect their neighborhoods or city services?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) serves as a key standing committee of London City Council, responsible for overseeing critical municipal operations and policy development. Based on the committee's evolution from "Corporate Services" to "Infrastructure and Corporate Services," this body appears to have expanded its mandate to encompass both internal municipal administration and the city's physical infrastructure needs. The committee typically handles matters related to municipal finance, human resources, information technology, procurement, facility management, and administrative policies, while also addressing infrastructure planning, public works, transportation, and capital projects.
-
-As an integral part of London's municipal governance structure, this committee reviews staff reports, makes recommendations to City Council, and provides oversight on significant operational and strategic decisions. The committee's 280 total meetings demonstrate its active role in municipal decision-making, with regular meetings addressing ongoing city business and special meetings called when urgent matters arise. The types of issues likely addressed include budget approvals, infrastructure investments, service delivery improvements, organizational restructuring, technology upgrades, and long-term strategic planning initiatives that support the city's growth and operational efficiency.
+Summary generation failed. Please try again later.
 
 ## Recent Meetings
 

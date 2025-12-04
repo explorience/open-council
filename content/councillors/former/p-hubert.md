@@ -6,12 +6,12 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major budget decisions during his 2011-2018 term?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions?"
-  - "How did Paul Hubert's attendance rate of 363 meetings compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating active participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he served on eight different committees, showing broad engagement across various municipal governance areas. His consistent meeting attendance and multi-committee involvement suggests he was an engaged council member who participated regularly in the city's decision-making processes throughout his tenure.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 
