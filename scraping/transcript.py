@@ -108,11 +108,16 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
                 print(f"    → Found {len(article_links)} potential articles")
 
             # Check each article to see if it's about this meeting
-            for title, url in article_links[:5]:  # Check first 5 results
+            for i, (title, url) in enumerate(article_links[:15]):  # Check first 15 results
                 # Skip if title doesn't seem relevant
                 title_lower = title.lower()
                 if not any(word in title_lower for word in ['council', 'vote', 'councillor', 'city hall', 'budget']):
+                    if verbose:
+                        print(f"    → Skipped [{i+1}]: title lacks keywords: {title[:60]}...")
                     continue
+
+                if verbose:
+                    print(f"    → Checking [{i+1}]: {title[:60]}...")
 
                 article = fetch_news_article(url, date, verbose=verbose)
                 if article:
@@ -120,6 +125,8 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
                     if verbose:
                         print(f"    ✓ Found relevant article: {article['title'][:50]}...")
                     break  # One good article is enough
+                elif verbose:
+                    print(f"    → Failed to fetch article [{i+1}]")
 
         except Exception as e:
             if verbose:
