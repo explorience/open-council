@@ -60,18 +60,19 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
     coverage = []
     date_str = date.strftime('%Y-%m-%d')
 
-    # Build search query
-    # Focus on council + key topics that often have votes
-    search_terms = [
-        f"london city council {date.strftime('%B %d')}",  # "london city council November 25"
-        f"council vote {date.strftime('%B')} {date.year}",
+    # Search LFPress for council-related articles
+    # Use simple "city council" query - date filtering happens after fetch
+    search_term = "city council"
+
+    # Search first 2 pages of results (20 articles) to catch older articles
+    search_urls = [
+        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc",
+        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=10",
     ]
 
-    for search_term in search_terms[:1]:  # Just use first search for now
-        search_url = f"https://lfpress.com/?s={requests.utils.quote(search_term)}"
-
+    for page_num, search_url in enumerate(search_urls, 1):
         if verbose:
-            print(f"    → Searching news: {search_term}")
+            print(f"    → Searching news: {search_term} (page {page_num})")
 
         try:
             # Use Firecrawl to search
@@ -131,6 +132,10 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
         except Exception as e:
             if verbose:
                 print(f"    → Error searching news: {e}")
+
+        # Stop searching if we found an article
+        if coverage:
+            break
 
     return coverage
 
