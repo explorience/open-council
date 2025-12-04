@@ -199,11 +199,27 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
             except:
                 pass
 
+        # Filter by date: article must be within 3 days of meeting date
+        if article_date:
+            days_diff = abs((article_date - meeting_date).days)
+            if days_diff > 3:
+                if verbose:
+                    print(f"      → Rejected: article date {article_date.strftime('%Y-%m-%d')} too far from meeting date")
+                return None
+
         # Extract title
         title = metadata.get('title', '') or metadata.get('og:title', '')
         if not title:
             title_match = re.search(r'^#\s+(.+?)$', markdown, re.MULTILINE)
             title = title_match.group(1) if title_match else 'Unknown'
+
+        # Filter out articles about other cities (e.g., St. Thomas)
+        title_lower = title.lower()
+        if 'st. thomas' in title_lower or 'st thomas' in title_lower:
+            if 'london' not in title_lower:
+                if verbose:
+                    print(f"      → Rejected: article about St. Thomas, not London")
+                return None
 
         # Extract vote information from the article
         vote_data = extract_vote_info(markdown)
