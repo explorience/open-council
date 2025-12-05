@@ -206,7 +206,8 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                     if verbose:
                         print(f"      → Using archive.org version")
 
-        # If archive.org failed or returned homepage, try direct URL
+        # If archive.org failed or returned homepage, try direct URL with Googlebot headers
+        # Many paywalls allow Googlebot through for SEO indexing
         if not archive_ok:
             if verbose:
                 print(f"      → Archive.org unavailable, trying direct URL...")
@@ -220,6 +221,10 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                     'url': url,
                     'formats': ['markdown'],
                     'waitFor': 2000,
+                    'headers': {
+                        'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+                        'Referer': 'https://www.google.com/',
+                    }
                 },
                 timeout=30
             )
