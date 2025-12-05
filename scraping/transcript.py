@@ -66,12 +66,14 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
     search_term = "city council"
 
     # Search first 5 pages of results (50 articles) to catch older articles
+    # Note: date_range=-365d is required for pagination to work on LFPress
+    base_params = f"search_text={requests.utils.quote(search_term)}&date_range=-365d&sort=desc"
     search_urls = [
-        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc",
-        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=10",
-        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=20",
-        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=30",
-        f"https://lfpress.com/search/?search_text={requests.utils.quote(search_term)}&sort=desc&from=40",
+        f"https://lfpress.com/search/?{base_params}",
+        f"https://lfpress.com/search/?{base_params}&from=10",
+        f"https://lfpress.com/search/?{base_params}&from=20",
+        f"https://lfpress.com/search/?{base_params}&from=30",
+        f"https://lfpress.com/search/?{base_params}&from=40",
     ]
 
     max_articles = 5  # Collect up to 5 relevant articles
