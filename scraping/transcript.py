@@ -143,9 +143,18 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
                         print(f"    → Skipped [{i+1}]: URL indicates other city: {url[:70]}...")
                     continue
 
-                # Skip if title doesn't seem relevant
+                # Skip if title doesn't seem relevant to council business
                 title_lower = title.lower()
-                if not any(word in title_lower for word in ['council', 'vote', 'councillor', 'city hall', 'budget']):
+
+                # Skip crime/court news about councillors (not meeting business)
+                crime_keywords = ['charged', 'arrest', 'extortion', 'criminal', 'court', 'police', 'investigation']
+                if any(word in title_lower for word in crime_keywords):
+                    if verbose:
+                        print(f"    → Skipped [{i+1}]: crime/court news, not meeting business: {title[:60]}...")
+                    continue
+
+                # Require council-related keywords
+                if not any(word in title_lower for word in ['council', 'vote', 'councillor', 'city hall', 'budget', 'committee']):
                     if verbose:
                         print(f"    → Skipped [{i+1}]: title lacks keywords: {title[:60]}...")
                     continue
