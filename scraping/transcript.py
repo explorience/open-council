@@ -175,6 +175,7 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
         # Try archive.org first to bypass paywall
         # Format: https://web.archive.org/web/2/{url} gets most recent snapshot
         archive_url = f"https://web.archive.org/web/2/{url}"
+        use_archive = False
 
         response = requests.post(
             FIRECRAWL_API_URL,
@@ -190,10 +191,26 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
             timeout=45
         )
 
-        # If archive.org fails, try direct URL
-        if response.status_code != 200 or not response.json().get('success'):
+        # Check if archive.org returned actual article content (not its homepage)
+        archive_ok = False
+        if response.status_code == 200:
+            data = response.json()
+            if data.get('success'):
+                markdown = data.get('data', {}).get('markdown', '')
+                metadata = data.get('data', {}).get('metadata', {})
+                title = metadata.get('title', '') or ''
+                # Detect archive.org homepage/error pages
+                if 'Wayback Machine' not in title and 'Internet Archive' not in markdown[:500]:
+                    archive_ok = True
+                    use_archive = True
+                    if verbose:
+                        print(f"      → Using archive.org version")
+
+        # If archive.org failed or returned homepage, try direct URL with Googlebot headers
+        # Many paywalls allow Googlebot through for SEO indexing
+        if not archive_ok:
             if verbose:
-                print(f"      → Archive.org failed, trying direct URL...")
+                print(f"      → Archive.org unavailable, trying direct URL...")
             response = requests.post(
                 FIRECRAWL_API_URL,
                 headers={
@@ -204,6 +221,10 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                     'url': url,
                     'formats': ['markdown'],
                     'waitFor': 2000,
+                    'headers': {
+                        'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+                        'Referer': 'https://www.google.com/',
+                    }
                 },
                 timeout=30
             )
@@ -397,8 +418,13 @@ def create_article_summary(markdown: str) -> str:
     text = re.sub(r'\n+', ' ', text)  # Newlines
     text = re.sub(r'\s+', ' ', text)  # Multiple spaces
 
-    # Skip common header/nav content
-    skip_phrases = ['subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content']
+    # Skip common header/nav/paywall content
+    skip_phrases = [
+        'subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content',
+        'sign in', 'create an account', 'email address', 'continue or', 'view more offers',
+        'article content', 'google', 'microsoft', 'apple', 'facebook',
+        'already have an account', 'forgot password', 'log in', 'register'
+    ]
     lines = text.split('. ')
 
     summary_parts = []
