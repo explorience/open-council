@@ -206,8 +206,8 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                     if verbose:
                         print(f"      → Using archive.org version")
 
-        # If archive.org failed or returned homepage, try direct URL with Googlebot headers
-        # Many paywalls allow Googlebot through for SEO indexing
+        # If archive.org failed or returned homepage, try direct URL with social media bot headers
+        # Postmedia sites sometimes allow social media crawlers through for link previews
         if not archive_ok:
             if verbose:
                 print(f"      → Archive.org unavailable, trying direct URL...")
@@ -222,8 +222,8 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                     'formats': ['markdown'],
                     'waitFor': 2000,
                     'headers': {
-                        'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
-                        'Referer': 'https://www.google.com/',
+                        'User-Agent': 'Twitterbot/1.0',
+                        'Referer': 'https://t.co/',
                     }
                 },
                 timeout=30
@@ -239,15 +239,32 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
         markdown = data.get('data', {}).get('markdown', '')
         metadata = data.get('data', {}).get('metadata', {})
 
-        # Check if article is from around the meeting date (same day or next day)
+        # Check if article is from around the meeting date
         article_date = None
-        # Try to find date in metadata or content
-        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', str(metadata))
+
+        # For archive.org, look for date in article content (metadata has archive timestamp)
+        # Look for patterns like "Nov. 26, 2025" or "November 26, 2025"
+        month_pattern = r'(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)[.\s]+(\d{1,2}),?\s+(\d{4})'
+        date_match = re.search(month_pattern, markdown, re.IGNORECASE)
         if date_match:
             try:
-                article_date = datetime.strptime(date_match.group(1), '%Y-%m-%d')
+                month_str, day, year = date_match.groups()
+                # Normalize month abbreviations
+                month_map = {'jan': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'may': 5, 'jun': 6,
+                             'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12}
+                month = month_map.get(month_str[:3].lower(), 1)
+                article_date = datetime(int(year), month, int(day))
             except:
                 pass
+
+        # Fallback: try YYYY-MM-DD in metadata (but not for archive.org which has wrong dates)
+        if not article_date and not use_archive:
+            date_match = re.search(r'(\d{4}-\d{2}-\d{2})', str(metadata))
+            if date_match:
+                try:
+                    article_date = datetime.strptime(date_match.group(1), '%Y-%m-%d')
+                except:
+                    pass
 
         # Filter by date: article must be within 3 days of meeting date
         if article_date:
@@ -418,12 +435,24 @@ def create_article_summary(markdown: str) -> str:
     text = re.sub(r'\n+', ' ', text)  # Newlines
     text = re.sub(r'\s+', ' ', text)  # Multiple spaces
 
+    # Remove common paywall/newsletter garbage blocks
+    garbage_patterns = [
+        r'Thanks for signing up!.*?junk folder\.?',
+        r'A welcome email is on its way\.?',
+        r'The next issue of.*?will soon be in your inbox\.?',
+        r'We encountered an issue signing you up\.?',
+        r'If you don\'t see it,.*?junk folder\.?',
+    ]
+    for pattern in garbage_patterns:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+
     # Skip common header/nav/paywall content
     skip_phrases = [
         'subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content',
         'sign in', 'create an account', 'email address', 'continue or', 'view more offers',
         'article content', 'google', 'microsoft', 'apple', 'facebook',
-        'already have an account', 'forgot password', 'log in', 'register'
+        'already have an account', 'forgot password', 'log in', 'register',
+        'welcome email', 'junk folder', 'inbox'
     ]
     lines = text.split('. ')
 
