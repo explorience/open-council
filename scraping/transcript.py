@@ -133,8 +133,12 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
 
                 # Skip articles about other cities based on URL path
                 url_lower = url.lower()
-                other_city_paths = ['/st-thomas/', '/stthomas/', '/woodstock/', '/strathroy/', '/chatham/', '/windsor/']
-                if any(path in url_lower for path in other_city_paths):
+                # Check for city names in URL (with word boundaries using hyphen separators)
+                other_city_patterns = [
+                    'st-thomas', 'stthomas', '-woodstock', 'woodstock-',
+                    '-strathroy', 'strathroy-', '-chatham', 'chatham-', '-windsor', 'windsor-'
+                ]
+                if any(pattern in url_lower for pattern in other_city_patterns):
                     if verbose:
                         print(f"    → Skipped [{i+1}]: URL indicates other city: {url[:70]}...")
                     continue
