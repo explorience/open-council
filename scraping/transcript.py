@@ -413,8 +413,13 @@ def create_article_summary(markdown: str) -> str:
     text = re.sub(r'\n+', ' ', text)  # Newlines
     text = re.sub(r'\s+', ' ', text)  # Multiple spaces
 
-    # Skip common header/nav content
-    skip_phrases = ['subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content']
+    # Skip common header/nav/paywall content
+    skip_phrases = [
+        'subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content',
+        'sign in', 'create an account', 'email address', 'continue or', 'view more offers',
+        'article content', 'google', 'microsoft', 'apple', 'facebook',
+        'already have an account', 'forgot password', 'log in', 'register'
+    ]
     lines = text.split('. ')
 
     summary_parts = []
