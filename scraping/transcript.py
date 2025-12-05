@@ -470,10 +470,10 @@ def create_article_summary(markdown: str) -> str:
         summary_parts.append(line)
         char_count += len(line)
 
-        if char_count > 1000:
+        if char_count > 2000:
             break
 
-    return '. '.join(summary_parts)[:1200] + '...' if summary_parts else ''
+    return '. '.join(summary_parts)[:2000] + '...' if summary_parts else ''
 
 
 # Mapping from our meeting types to Lillian's directory structure
