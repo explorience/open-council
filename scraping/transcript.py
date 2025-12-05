@@ -172,6 +172,10 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
         return None
 
     try:
+        # Try archive.org first to bypass paywall
+        # Format: https://web.archive.org/web/2/{url} gets most recent snapshot
+        archive_url = f"https://web.archive.org/web/2/{url}"
+
         response = requests.post(
             FIRECRAWL_API_URL,
             headers={
@@ -179,12 +183,30 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                 'Content-Type': 'application/json'
             },
             json={
-                'url': url,
+                'url': archive_url,
                 'formats': ['markdown'],
-                'waitFor': 2000,
+                'waitFor': 3000,
             },
-            timeout=30
+            timeout=45
         )
+
+        # If archive.org fails, try direct URL
+        if response.status_code != 200 or not response.json().get('success'):
+            if verbose:
+                print(f"      → Archive.org failed, trying direct URL...")
+            response = requests.post(
+                FIRECRAWL_API_URL,
+                headers={
+                    'Authorization': f'Bearer {FIRECRAWL_API_KEY}',
+                    'Content-Type': 'application/json'
+                },
+                json={
+                    'url': url,
+                    'formats': ['markdown'],
+                    'waitFor': 2000,
+                },
+                timeout=30
+            )
 
         if response.status_code != 200:
             return None
