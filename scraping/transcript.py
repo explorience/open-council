@@ -131,6 +131,14 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
                     continue
                 seen_urls.add(url)
 
+                # Skip articles about other cities based on URL path
+                url_lower = url.lower()
+                other_city_paths = ['/st-thomas/', '/stthomas/', '/woodstock/', '/strathroy/', '/chatham/', '/windsor/']
+                if any(path in url_lower for path in other_city_paths):
+                    if verbose:
+                        print(f"    → Skipped [{i+1}]: URL indicates other city: {url[:70]}...")
+                    continue
+
                 # Skip if title doesn't seem relevant
                 title_lower = title.lower()
                 if not any(word in title_lower for word in ['council', 'vote', 'councillor', 'city hall', 'budget']):
@@ -240,38 +248,20 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
         metadata = data.get('data', {}).get('metadata', {})
 
         # Check if article is from around the meeting date
+        # Only use metadata dates - content dates are unreliable
         article_date = None
-        date_from_metadata = False
 
-        # Try to get date from metadata first (more reliable)
         if not use_archive:
             date_match = re.search(r'(\d{4}-\d{2}-\d{2})', str(metadata))
             if date_match:
                 try:
                     article_date = datetime.strptime(date_match.group(1), '%Y-%m-%d')
-                    date_from_metadata = True
-                except:
-                    pass
-
-        # Only filter by date if we got it from metadata (content dates are unreliable)
-        if article_date and date_from_metadata:
-            days_diff = abs((article_date - meeting_date).days)
-            if days_diff > 3:
-                if verbose:
-                    print(f"      → Rejected: article date {article_date.strftime('%Y-%m-%d')} too far from meeting date")
-                return None
-
-        # For display purposes, try to find date in content if not in metadata
-        if not article_date:
-            month_pattern = r'(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)[.\s]+(\d{1,2}),?\s+(\d{4})'
-            date_match = re.search(month_pattern, markdown, re.IGNORECASE)
-            if date_match:
-                try:
-                    month_str, day, year = date_match.groups()
-                    month_map = {'jan': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'may': 5, 'jun': 6,
-                                 'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12}
-                    month = month_map.get(month_str[:3].lower(), 1)
-                    article_date = datetime(int(year), month, int(day))
+                    # Filter out articles too far from meeting date
+                    days_diff = abs((article_date - meeting_date).days)
+                    if days_diff > 3:
+                        if verbose:
+                            print(f"      → Rejected: article date {article_date.strftime('%Y-%m-%d')} too far from meeting date")
+                        return None
                 except:
                     pass
 
@@ -281,13 +271,21 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
             title_match = re.search(r'^#\s+(.+?)$', markdown, re.MULTILINE)
             title = title_match.group(1) if title_match else 'Unknown'
 
-        # Filter out articles about other cities (e.g., St. Thomas)
+        # Filter out articles about other cities (e.g., St. Thomas, Woodstock)
         title_lower = title.lower()
-        if 'st. thomas' in title_lower or 'st thomas' in title_lower:
-            if 'london' not in title_lower:
-                if verbose:
-                    print(f"      → Rejected: article about St. Thomas, not London")
-                return None
+        # Check for St. Thomas in various formats
+        st_thomas_patterns = [
+            'st. thomas', 'st thomas', 'stthomas',
+            'thomas city', 'thomas council', 'thomas mayor',
+            'thomas citycouncil',  # URL slug variant
+        ]
+        other_cities = ['woodstock', 'strathroy', 'chatham', 'windsor']
+
+        is_other_city = any(p in title_lower for p in st_thomas_patterns + other_cities)
+        if is_other_city and 'london' not in title_lower:
+            if verbose:
+                print(f"      → Rejected: article about another city, not London")
+            return None
 
         # Extract vote information from the article
         vote_data = extract_vote_info(markdown)
@@ -428,32 +426,51 @@ def create_article_summary(markdown: str) -> str:
         markdown: Article content in markdown format
 
     Returns:
-        Summary string (first ~500 meaningful characters)
+        Summary string (first ~2000 meaningful characters)
     """
     # Remove markdown formatting
-    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', markdown)  # Links
+    text = re.sub(r'!\[[^\]]*\]\([^)]+\)', '', markdown)  # Remove images first (![...](url))
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)  # Links - keep text, remove URL
     text = re.sub(r'[#*_`]', '', text)  # Formatting chars
     text = re.sub(r'\n+', ' ', text)  # Newlines
     text = re.sub(r'\s+', ' ', text)  # Multiple spaces
 
-    # Remove common paywall/newsletter garbage blocks
+    # Remove common garbage patterns (paywall, newsletter, footer, etc.)
     garbage_patterns = [
         r'Thanks for signing up!.*?junk folder\.?',
         r'A welcome email is on its way\.?',
         r'The next issue of.*?will soon be in your inbox\.?',
         r'We encountered an issue signing you up\.?',
         r'If you don\'t see it,.*?junk folder\.?',
+        r'Local News\s*',  # Category labels
+        r'News\s*Local News\s*',
+        r'Share this Story:.*?Email',  # Share buttons
+        r'Related Stories.*',  # Related articles section
+        r'More on this Topic.*',
+        r'Recommended from Editorial.*',
+        r'Postmedia is committed to.*',
+        r'Comments\s*Postmedia.*',
+        r'This Week in Flyers.*',
+        r'Article content\s*',
+        r'breadcrumb.*?Local News',
+        r'We apologize, but this video has failed to load',
+        r'Try refreshing your browser',
+        r'tap here to see other videos from our team',
     ]
     for pattern in garbage_patterns:
-        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE | re.DOTALL)
 
-    # Skip common header/nav/paywall content
+    # Phrases that indicate we should skip this sentence entirely
     skip_phrases = [
         'subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content',
         'sign in', 'create an account', 'email address', 'continue or', 'view more offers',
-        'article content', 'google', 'microsoft', 'apple', 'facebook',
+        'google', 'microsoft', 'apple', 'facebook',
         'already have an account', 'forgot password', 'log in', 'register',
-        'welcome email', 'junk folder', 'inbox'
+        'welcome email', 'junk folder', 'inbox', 'cookie', 'privacy policy',
+        'terms of service', 'share this', 'recommended from', 'more on this topic',
+        'comments are closed', 'posting guidelines', 'report an error',
+        'have a story idea', 'send it to us', 'related stories',
+        'this week in flyers', 'postmedia network', 'postmedia is committed',
     ]
     lines = text.split('. ')
 
@@ -462,18 +479,31 @@ def create_article_summary(markdown: str) -> str:
 
     for line in lines:
         line = line.strip()
-        if not line or len(line) < 20:
+        # Skip very short lines or lines that are just category/byline fragments
+        if not line or len(line) < 25:
             continue
+        # Skip lines with garbage phrases
         if any(phrase in line.lower() for phrase in skip_phrases):
+            continue
+        # Skip lines that are just author bylines
+        if re.match(r'^By\s+[A-Z][a-z]+\s+[A-Z]', line):
+            continue
+        # Skip lines that are just dates
+        if re.match(r'^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)', line):
             continue
 
         summary_parts.append(line)
-        char_count += len(line)
+        char_count += len(line) + 2  # +2 for ". " separator
 
-        if char_count > 2000:
+        if char_count >= 2000:
             break
 
-    return '. '.join(summary_parts)[:2000] + '...' if summary_parts else ''
+    result = '. '.join(summary_parts)
+
+    # Only add "..." if we actually truncated
+    if char_count >= 2000 and result:
+        return result[:2000] + '...'
+    return result
 
 
 # Mapping from our meeting types to Lillian's directory structure
