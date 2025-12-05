@@ -239,15 +239,32 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
         markdown = data.get('data', {}).get('markdown', '')
         metadata = data.get('data', {}).get('metadata', {})
 
-        # Check if article is from around the meeting date (same day or next day)
+        # Check if article is from around the meeting date
         article_date = None
-        # Try to find date in metadata or content
-        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', str(metadata))
+
+        # For archive.org, look for date in article content (metadata has archive timestamp)
+        # Look for patterns like "Nov. 26, 2025" or "November 26, 2025"
+        month_pattern = r'(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)[.\s]+(\d{1,2}),?\s+(\d{4})'
+        date_match = re.search(month_pattern, markdown, re.IGNORECASE)
         if date_match:
             try:
-                article_date = datetime.strptime(date_match.group(1), '%Y-%m-%d')
+                month_str, day, year = date_match.groups()
+                # Normalize month abbreviations
+                month_map = {'jan': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'may': 5, 'jun': 6,
+                             'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12}
+                month = month_map.get(month_str[:3].lower(), 1)
+                article_date = datetime(int(year), month, int(day))
             except:
                 pass
+
+        # Fallback: try YYYY-MM-DD in metadata (but not for archive.org which has wrong dates)
+        if not article_date and not use_archive:
+            date_match = re.search(r'(\d{4}-\d{2}-\d{2})', str(metadata))
+            if date_match:
+                try:
+                    article_date = datetime.strptime(date_match.group(1), '%Y-%m-%d')
+                except:
+                    pass
 
         # Filter by date: article must be within 3 days of meeting date
         if article_date:
