@@ -76,7 +76,7 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
         f"https://lfpress.com/search/?{base_params}&from=40",
     ]
 
-    max_articles = 5  # Collect up to 5 relevant articles
+    max_articles = 10  # Collect up to 10 relevant articles
 
     for page_num, search_url in enumerate(search_urls, 1):
         if len(coverage) >= max_articles:
