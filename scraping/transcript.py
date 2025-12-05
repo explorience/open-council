@@ -418,12 +418,24 @@ def create_article_summary(markdown: str) -> str:
     text = re.sub(r'\n+', ' ', text)  # Newlines
     text = re.sub(r'\s+', ' ', text)  # Multiple spaces
 
+    # Remove common paywall/newsletter garbage blocks
+    garbage_patterns = [
+        r'Thanks for signing up!.*?junk folder\.?',
+        r'A welcome email is on its way\.?',
+        r'The next issue of.*?will soon be in your inbox\.?',
+        r'We encountered an issue signing you up\.?',
+        r'If you don\'t see it,.*?junk folder\.?',
+    ]
+    for pattern in garbage_patterns:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+
     # Skip common header/nav/paywall content
     skip_phrases = [
         'subscribe', 'sign up', 'newsletter', 'advertisement', 'skip to content',
         'sign in', 'create an account', 'email address', 'continue or', 'view more offers',
         'article content', 'google', 'microsoft', 'apple', 'facebook',
-        'already have an account', 'forgot password', 'log in', 'register'
+        'already have an account', 'forgot password', 'log in', 'register',
+        'welcome email', 'junk folder', 'inbox'
     ]
     lines = text.split('. ')
 
