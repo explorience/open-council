@@ -6,12 +6,14 @@ meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Virginia Ridley's voting record on major municipal issues during her 2014-2018 term?"
+  - "Which specific committees did she serve on, and what role did she play in committee work?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Summary generation failed. Please try again later.
+Virginia Ridley served on London City Council, Canada from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. She was actively involved in the committee structure of the council, serving on six different committees throughout her term, though the specific names of these committees are not clearly identified in the available data.
+
+Her attendance record and committee involvement suggest she maintained an engaged presence in municipal governance during her time on council. The four-year service period and substantial meeting attendance indicate she fulfilled her electoral mandate and participated regularly in the decision-making processes of London's municipal government.
 
 ## Terms of Service
 

@@ -6,12 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "How frequently has she missed council meetings or committee sessions, and what is her overall attendance rate?"
+  - "On which committees has she served as chair or vice-chair, and what initiatives has she led or championed during her committee work?"
 ---
 
-Summary generation failed. Please try again later.
+Elizabeth Peloza has been an active member of London City Council, Canada, serving from 2018 to 2025. During her tenure, she has demonstrated consistent participation by attending 452 meetings. Her involvement extends beyond general council sessions, as she has served on nine different committees throughout her time in office, indicating broad engagement across various areas of municipal governance.
+
+Her seven-year term shows sustained commitment to municipal service, with her high meeting attendance record suggesting regular participation in council proceedings and committee work. The breadth of her committee involvement demonstrates engagement across multiple facets of city operations and policy development.
 
 ## Terms of Service
 

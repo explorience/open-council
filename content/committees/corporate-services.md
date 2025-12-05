@@ -4,12 +4,14 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What major infrastructure projects is the committee currently reviewing or recommending for approval, and how will these impact residents and city services?"
+  - "How does the committee prioritize infrastructure spending and administrative improvements, particularly when balancing competing needs with budget constraints?"
+  - "What opportunities exist for public input on the committee's decisions, especially regarding infrastructure projects that may affect specific neighborhoods or the entire city?"
 ---
 
-Summary generation failed. Please try again later.
+The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) serves as a key standing committee of London City Council, responsible for overseeing the city's internal operations and major infrastructure initiatives. This committee typically handles matters related to municipal administration, human resources, information technology, financial management, procurement policies, and facilities management. It also addresses significant infrastructure projects including roads, utilities, public transit, and capital works that support the city's growth and service delivery to residents.
+
+As part of London's governance structure, this committee plays a crucial role in ensuring the city operates efficiently and maintains the physical and administrative infrastructure necessary to serve its population. The committee reviews staff recommendations, evaluates policy proposals, and makes recommendations to City Council on matters ranging from technology upgrades and administrative procedures to major infrastructure investments and service delivery improvements. With 280 meetings held to date, including recent special sessions, the committee demonstrates the ongoing nature of municipal infrastructure and administrative oversight required in a growing city like London, Ontario.
 
 ## Recent Meetings
 

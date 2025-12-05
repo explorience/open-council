@@ -4,12 +4,14 @@ type: committee
 slug: "community-protective-services"
 meetingCount: 196
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "How can residents provide input or present concerns to the Community and Protective Services Committee, and when are the public allowed to speak at meetings?"
+  - "What is the current budget allocation for the services under this committee's oversight, and how are funding priorities determined for community and protective services?"
+  - "How does the committee measure the effectiveness of the programs and services it oversees, and what performance metrics are used to evaluate community safety and wellbeing outcomes?"
 ---
 
-Summary generation failed. Please try again later.
+The Community and Protective Services Committee is a standing committee of London City Council that oversees municipal services focused on public safety, community wellbeing, and protective services for residents. As one of the key governance bodies in London's committee structure, it serves as a forum for reviewing policies, budgets, and operational matters before they proceed to full City Council for final approval. The committee plays a crucial role in the city's decision-making process by providing detailed examination and public input opportunities on matters within its mandate.
+
+The committee typically addresses a broad range of issues including fire and emergency services, paramedic services, police services oversight, bylaw enforcement, housing and homelessness initiatives, public health matters, and various community support programs. With 196 meetings held to date, including both regular and special meetings, the committee demonstrates the extensive scope of community and protective services that require ongoing municipal attention. The committee's work directly impacts residents' daily lives through decisions on emergency response capabilities, community safety measures, social services delivery, and protective regulatory frameworks that help maintain London's quality of life and public safety standards.
 
 ## Recent Meetings
 

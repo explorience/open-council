@@ -6,12 +6,12 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development projects, or infrastructure spending?"
+  - "How consistent has their attendance been at committee meetings compared to their overall council meeting attendance?"
+  - "Which specific committees has Shawn Lewis served on, and have they held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Summary generation failed. Please try again later.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 council meetings during this period. Their council service spans approximately seven years, covering multiple terms of office. Lewis has been involved in committee work, serving on eight different committees throughout their tenure, indicating broad engagement across various municipal policy areas and administrative functions.
 
 ## Terms of Service
 

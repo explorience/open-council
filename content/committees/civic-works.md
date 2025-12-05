@@ -4,12 +4,14 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is the typical timeline and process for how infrastructure projects are proposed, reviewed by the Civic Works Committee, and ultimately approved or rejected?"
+  - "How can residents provide input on upcoming infrastructure projects or service changes that will be discussed at Civic Works Committee meetings?"
+  - "What is the committee's current budget authority, and what types of expenditures require full City Council approval versus those the committee can approve independently?"
 ---
 
-Summary generation failed. Please try again later.
+The Civic Works Committee is a standing committee of London City Council that plays a crucial role in overseeing the city's infrastructure and public works operations. This committee typically handles matters related to transportation infrastructure, including road construction, maintenance, and traffic management; water and wastewater systems; waste management and recycling programs; parks and recreation facilities; and other municipal engineering projects. As one of the primary committees in London's municipal governance structure, it reviews staff reports, makes recommendations to City Council, and provides oversight on capital projects and operational policies that directly impact residents' daily lives.
+
+With 203 meetings held to date, the Civic Works Committee demonstrates the ongoing and substantial nature of municipal infrastructure needs. The committee serves as an important link between city administration and elected officials, ensuring that technical engineering and public works decisions align with council priorities and community needs. Members typically include city councillors who review detailed reports from city staff, hear deputations from residents and stakeholders, and make recommendations on everything from major infrastructure investments to policy changes affecting public services. Their decisions ultimately require ratification by the full City Council but carry significant weight in shaping London's physical infrastructure and service delivery.
 
 ## Recent Meetings
 

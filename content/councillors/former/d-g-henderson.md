@@ -6,12 +6,12 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Dale Henderson serve on and what role did they play in those committees?"
+  - "How did Dale Henderson's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Summary generation failed. Please try again later.
+Dale Henderson served on London City Council from 2011-2014, demonstrating active participation by attending 142 meetings during their four-year term. Henderson contributed to the council's work through service on four different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement with municipal governance responsibilities throughout their term on council.
 
 ## Terms of Service
 
