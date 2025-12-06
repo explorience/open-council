@@ -54,6 +54,8 @@ jobs:
         working-directory: scraping
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          VERBOSE: "1"
         run: python transcript.py --scan 14
 
       - name: Sync transcripts to existing meetings
