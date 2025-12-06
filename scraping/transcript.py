@@ -350,7 +350,7 @@ def extract_vote_info(markdown: str) -> Dict[str, Any]:
     # Known councillor names (current London council)
     councillor_names = [
         "Morgan", "Lewis", "Lehman", "Peloza", "Stevenson", "Hopkins",
-        "Cassidy", "Ferreira", "Franke", "Hillier", "McAlister", "Pribil",
+        "Cuddy", "Ferreira", "Franke", "Hillier", "McAlister", "Pribil",
         "Rahman", "Trosow", "Van Meerbergen"
     ]
 
@@ -372,8 +372,11 @@ def extract_vote_info(markdown: str) -> Dict[str, Any]:
             else:
                 vote_summary_parts.append(match)
 
-    # Look for "voting against were:" or "voting in favour were:" patterns
+    # Look for lists of councillors who voted against
+    # Pattern 1: "Councillors X, Y, Z voted against [thing]"
+    # Pattern 2: "voting against were: X, Y, Z"
     against_list_patterns = [
+        r'[Cc]ouncillors?\s+([^.]+?)\s+voted\s+against',
         r'(?:voting|voted)\s+(?:against|no)\s*(?:were|:)\s*([^.]+)',
         r'(?:opposed|opposing)\s*(?:were|:)\s*([^.]+)',
         r'(?:the\s+)?no\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
@@ -388,7 +391,11 @@ def extract_vote_info(markdown: str) -> Dict[str, Any]:
                     if name not in result["councillors_against"]:
                         result["councillors_against"].append(name)
 
+    # Look for lists of councillors who voted in favour
+    # Pattern 1: "Councillors X, Y, Z voted in favour"
+    # Pattern 2: "voting in favour were: X, Y, Z"
     favour_list_patterns = [
+        r'[Cc]ouncillors?\s+([^.]+?)\s+voted\s+(?:in favour|for|yes)',
         r'(?:voting|voted)\s+(?:in favour|for|yes)\s*(?:were|:)\s*([^.]+)',
         r'(?:supporting|in support)\s*(?:were|:)\s*([^.]+)',
         r'(?:the\s+)?yes\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
