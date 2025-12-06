@@ -1,0 +1,3114 @@
+{
+  "title": "Council Meeting",
+  "datetime": "2025-11-26",
+  "url": null,
+  "meeting_type": "Council",
+  "data_sources": {
+    "official_minutes": false,
+    "transcript": true,
+    "news_coverage": true
+  },
+  "transcript": [
+    {
+      "index": 1,
+      "start": "00:22:06.750",
+      "end": "00:22:12.330",
+      "text": "Okay, thank you, please be seated."
+    },
+    {
+      "index": 2,
+      "start": "00:22:12.330",
+      "end": "00:22:14.240",
+      "text": "So this is the 19th meeting of council."
+    },
+    {
+      "index": 3,
+      "start": "00:22:14.240",
+      "end": "00:22:17.270",
+      "text": "This is a special council meeting related"
+    },
+    {
+      "index": 4,
+      "start": "00:22:17.270",
+      "end": "00:22:20.080",
+      "text": "to the municipal budget."
+    },
+    {
+      "index": 5,
+      "start": "00:22:20.080",
+      "end": "00:22:24.040",
+      "text": "I'm gonna start with the land acknowledgement."
+    },
+    {
+      "index": 6,
+      "start": "00:22:24.040",
+      "end": "00:22:25.230",
+      "text": "We acknowledge that we are gathered today"
+    },
+    {
+      "index": 7,
+      "start": "00:22:25.230",
+      "end": "00:22:26.860",
+      "text": "on the traditional lands of the Anishinaabak,"
+    },
+    {
+      "index": 8,
+      "start": "00:22:26.860",
+      "end": "00:22:29.750",
+      "text": "Haudenosaunee, Lani Peiwak, and Adawan drawn peoples."
+    },
+    {
+      "index": 9,
+      "start": "00:22:29.750",
+      "end": "00:22:31.530",
+      "text": "We honor and respect the history and languages"
+    },
+    {
+      "index": 10,
+      "start": "00:22:31.530",
+      "end": "00:22:33.160",
+      "text": "and culture of the diverse indigenous people"
+    },
+    {
+      "index": 11,
+      "start": "00:22:33.160",
+      "end": "00:22:34.940",
+      "text": "who call this territory home."
+    },
+    {
+      "index": 12,
+      "start": "00:22:34.940",
+      "end": "00:22:36.750",
+      "text": "We acknowledge all of the trees that are specific"
+    },
+    {
+      "index": 13,
+      "start": "00:22:36.750",
+      "end": "00:22:37.580",
+      "text": "to this area."
+    },
+    {
+      "index": 14,
+      "start": "00:22:37.580",
+      "end": "00:22:39.910",
+      "text": "The two row wampum bell tree of the Haudenosaunee Confederacy,"
+    },
+    {
+      "index": 15,
+      "start": "00:22:39.910",
+      "end": "00:22:41.550",
+      "text": "so we're covered in chain."
+    },
+    {
+      "index": 16,
+      "start": "00:22:41.550",
+      "end": "00:22:44.450",
+      "text": "Beaver hunting grounds, the Haudenosaunee Nanfant Treaty"
+    },
+    {
+      "index": 17,
+      "start": "00:22:44.450",
+      "end": "00:22:47.210",
+      "text": "of 1701, the McKee Treaty of 1790,"
+    },
+    {
+      "index": 18,
+      "start": "00:22:47.210",
+      "end": "00:22:49.630",
+      "text": "London Township Treaty of 1796,"
+    },
+    {
+      "index": 19,
+      "start": "00:22:49.630",
+      "end": "00:22:53.380",
+      "text": "the Huron track treaty of 1827 with the Anishinaabak,"
+    },
+    {
+      "index": 20,
+      "start": "00:22:53.380",
+      "end": "00:22:55.160",
+      "text": "and the dish with one spoon covenant wampum"
+    },
+    {
+      "index": 21,
+      "start": "00:22:55.160",
+      "end": "00:22:57.630",
+      "text": "of the Anishinaabak and Haudenosaunee."
+    },
+    {
+      "index": 22,
+      "start": "00:22:57.630",
+      "end": "00:22:59.790",
+      "text": "Three indigenous nations that are neighbors to London"
+    },
+    {
+      "index": 23,
+      "start": "00:22:59.790",
+      "end": "00:23:01.480",
+      "text": "are the Chippewaas of the Thames First Nation,"
+    },
+    {
+      "index": 24,
+      "start": "00:23:01.480",
+      "end": "00:23:03.070",
+      "text": "Oneida Nation of the Thames,"
+    },
+    {
+      "index": 25,
+      "start": "00:23:03.070",
+      "end": "00:23:04.740",
+      "text": "and the Muncie Delaware Nation who all continue"
+    },
+    {
+      "index": 26,
+      "start": "00:23:04.740",
+      "end": "00:23:07.390",
+      "text": "to live as sovereign nations with individual"
+    },
+    {
+      "index": 27,
+      "start": "00:23:07.390",
+      "end": "00:23:13.120",
+      "text": "and unique languages, cultures, and customs."
+    },
+    {
+      "index": 28,
+      "start": "00:23:13.120",
+      "end": "00:23:15.280",
+      "text": "The City of London is also committed to making every effort"
+    },
+    {
+      "index": 29,
+      "start": "00:23:15.280",
+      "end": "00:23:17.640",
+      "text": "to provide alternate formats and communication supports"
+    },
+    {
+      "index": 30,
+      "start": "00:23:17.640",
+      "end": "00:23:19.270",
+      "text": "for meetings upon request."
+    },
+    {
+      "index": 31,
+      "start": "00:23:19.270",
+      "end": "00:23:20.840",
+      "text": "To make a request specific to this meeting,"
+    },
+    {
+      "index": 32,
+      "start": "00:23:20.840",
+      "end": "00:23:25.830",
+      "text": "please contact council agenda at London.ca 519-661-2489,"
+    },
+    {
+      "index": 33,
+      "start": "00:23:25.830",
+      "end": "00:23:28.900",
+      "text": "extension 2425."
+    },
+    {
+      "index": 34,
+      "start": "00:23:28.900",
+      "end": "00:23:34.180",
+      "text": "With that, we do not have an O Canada performer,"
+    },
+    {
+      "index": 35,
+      "start": "00:23:34.180",
+      "end": "00:23:36.000",
+      "text": "but we do have a recording,"
+    },
+    {
+      "index": 36,
+      "start": "00:23:36.000",
+      "end": "00:23:38.540",
+      "text": "and so I'll just ask you to rise"
+    },
+    {
+      "index": 37,
+      "start": "00:23:38.540",
+      "end": "00:25:02.080",
+      "text": "for the playing of the National Anthem."
+    },
+    {
+      "index": 38,
+      "start": "00:25:02.080",
+      "end": "00:25:08.360",
+      "text": "Please be seated."
+    },
+    {
+      "index": 39,
+      "start": "00:25:08.360",
+      "end": "00:25:10.570",
+      "text": "We're on to disclosures of pecuniary interest."
+    },
+    {
+      "index": 40,
+      "start": "00:25:10.570",
+      "end": "00:25:14.980",
+      "text": "I looked for any colleagues who have any disclosures,"
+    },
+    {
+      "index": 41,
+      "start": "00:25:14.980",
+      "end": "00:25:15.790",
+      "text": "seeing none."
+    },
+    {
+      "index": 42,
+      "start": "00:25:15.790",
+      "end": "00:25:17.360",
+      "text": "There are no recognitions today."
+    },
+    {
+      "index": 43,
+      "start": "00:25:17.360",
+      "end": "00:25:19.120",
+      "text": "There are no reviews of matters"
+    },
+    {
+      "index": 44,
+      "start": "00:25:19.120",
+      "end": "00:25:22.160",
+      "text": "from a confidential matters to be considered in public."
+    },
+    {
+      "index": 45,
+      "start": "00:25:22.160",
+      "end": "00:25:24.250",
+      "text": "We have no closed session."
+    },
+    {
+      "index": 46,
+      "start": "00:25:24.250",
+      "end": "00:25:25.900",
+      "text": "We have no minutes to sign."
+    },
+    {
+      "index": 47,
+      "start": "00:25:25.900",
+      "end": "00:25:28.270",
+      "text": "We have one communication."
+    },
+    {
+      "index": 48,
+      "start": "00:25:28.270",
+      "end": "00:25:31.230",
+      "text": "I have a motion to refer that the relevant part"
+    },
+    {
+      "index": 49,
+      "start": "00:25:31.230",
+      "end": "00:25:34.580",
+      "text": "of the agenda, which is in 8.3."
+    },
+    {
+      "index": 50,
+      "start": "00:25:34.580",
+      "end": "00:25:35.960",
+      "text": "So I look for a mover for that."
+    },
+    {
+      "index": 51,
+      "start": "00:25:35.960",
+      "end": "00:25:38.160",
+      "text": "Councilor Ferra, seconded by Councilor Vamerebergen,"
+    },
+    {
+      "index": 52,
+      "start": "00:25:38.160",
+      "end": "00:25:41.540",
+      "text": "any discussion on the referral to that point in the agenda?"
+    },
+    {
+      "index": 53,
+      "start": "00:25:41.540",
+      "end": "00:25:48.730",
+      "text": "Okay, we'll open that for voting."
+    },
+    {
+      "index": 54,
+      "start": "00:25:48.730",
+      "end": "00:25:54.330",
+      "text": "Closing the vote, motion carries 14 to zero."
+    },
+    {
+      "index": 55,
+      "start": "00:25:54.330",
+      "end": "00:25:59.660",
+      "text": "Great, we have no emotions to which notice was given."
+    },
+    {
+      "index": 56,
+      "start": "00:25:59.660",
+      "end": "00:26:01.250",
+      "text": "What we do have is three reports,"
+    },
+    {
+      "index": 57,
+      "start": "00:26:01.250",
+      "end": "00:26:02.690",
+      "text": "and I'll just outline how this is gonna work."
+    },
+    {
+      "index": 58,
+      "start": "00:26:02.690",
+      "end": "00:26:04.910",
+      "text": "First, Councilor blows of the Budget Chair"
+    },
+    {
+      "index": 59,
+      "start": "00:26:04.910",
+      "end": "00:26:07.020",
+      "text": "had to be pulled away at the last moment."
+    },
+    {
+      "index": 60,
+      "start": "00:26:07.020",
+      "end": "00:26:09.000",
+      "text": "The Vice Chair, Councilor Lehman,"
+    },
+    {
+      "index": 61,
+      "start": "00:26:09.000",
+      "end": "00:26:10.730",
+      "text": "is going to present the three reports."
+    },
+    {
+      "index": 62,
+      "start": "00:26:10.730",
+      "end": "00:26:13.400",
+      "text": "Just as a quick overview, the first report"
+    },
+    {
+      "index": 63,
+      "start": "00:26:13.400",
+      "end": "00:26:15.120",
+      "text": "is the tabling of the budget or report."
+    },
+    {
+      "index": 64,
+      "start": "00:26:15.120",
+      "end": "00:26:17.520",
+      "text": "The second report is the public participation meeting."
+    },
+    {
+      "index": 65,
+      "start": "00:26:17.520",
+      "end": "00:26:19.250",
+      "text": "The third report is the work we did last week,"
+    },
+    {
+      "index": 66,
+      "start": "00:26:19.250",
+      "end": "00:26:22.020",
+      "text": "which has the 16 votes that we had."
+    },
+    {
+      "index": 67,
+      "start": "00:26:22.020",
+      "end": "00:26:23.900",
+      "text": "This includes the amendments that were made,"
+    },
+    {
+      "index": 68,
+      "start": "00:26:23.900",
+      "end": "00:26:26.680",
+      "text": "but also the things that we basically just received."
+    },
+    {
+      "index": 69,
+      "start": "00:26:26.680",
+      "end": "00:26:29.930",
+      "text": "I know one Councilor would like to pull"
+    },
+    {
+      "index": 70,
+      "start": "00:26:29.930",
+      "end": "00:26:33.570",
+      "text": "at least one of those items, which is item 16."
+    },
+    {
+      "index": 71,
+      "start": "00:26:33.570",
+      "end": "00:26:36.240",
+      "text": "Councilor Lehman, if you could make a note of that."
+    },
+    {
+      "index": 72,
+      "start": "00:26:36.240",
+      "end": "00:26:38.730",
+      "text": "And at that time, we can consider an amendment"
+    },
+    {
+      "index": 73,
+      "start": "00:26:38.730",
+      "end": "00:26:43.660",
+      "text": "and alternate path on item 16 under the 8.3 report."
+    },
+    {
+      "index": 74,
+      "start": "00:26:43.660",
+      "end": "00:26:45.400",
+      "text": "So that's how we'll proceed."
+    },
+    {
+      "index": 75,
+      "start": "00:26:45.400",
+      "end": "00:26:48.730",
+      "text": "And then I'll have Councilor Lehman present"
+    },
+    {
+      "index": 76,
+      "start": "00:26:48.730",
+      "end": "00:26:50.770",
+      "text": "the first of the three reports."
+    },
+    {
+      "index": 77,
+      "start": "00:26:50.770",
+      "end": "00:26:51.590",
+      "text": "Thank you, Mayor."
+    },
+    {
+      "index": 78,
+      "start": "00:26:51.590",
+      "end": "00:26:55.460",
+      "text": "I'd like to present the fourth report of the Budget Committee."
+    },
+    {
+      "index": 79,
+      "start": "00:26:55.460",
+      "end": "00:26:57.190",
+      "text": "Okay, and this was the tabling of the budget report,"
+    },
+    {
+      "index": 80,
+      "start": "00:26:57.190",
+      "end": "00:26:59.500",
+      "text": "so I'll look for anybody who'd like any of those items"
+    },
+    {
+      "index": 81,
+      "start": "00:26:59.500",
+      "end": "00:27:01.580",
+      "text": "dealt with separately."
+    },
+    {
+      "index": 82,
+      "start": "00:27:01.580",
+      "end": "00:27:07.080",
+      "text": "Seeing none, any comments on this report?"
+    },
+    {
+      "index": 83,
+      "start": "00:27:07.080",
+      "end": "00:27:27.180",
+      "text": "Okay, we'll open that for voting."
+    },
+    {
+      "index": 84,
+      "start": "00:27:27.180",
+      "end": "00:27:31.390",
+      "text": "E-Scribe issue, so I will vote yes."
+    },
+    {
+      "index": 85,
+      "start": "00:27:31.390",
+      "end": "00:27:32.200",
+      "text": "noted, thank you."
+    },
+    {
+      "index": 86,
+      "start": "00:27:32.200",
+      "end": "00:27:35.550",
+      "text": "Closing the vote, motion carries 14-0."
+    },
+    {
+      "index": 87,
+      "start": "00:27:35.550",
+      "end": "00:27:38.300",
+      "text": "Councilor Lehman."
+    },
+    {
+      "index": 88,
+      "start": "00:27:38.300",
+      "end": "00:27:39.100",
+      "text": "Thank you, Mayor."
+    },
+    {
+      "index": 89,
+      "start": "00:27:39.100",
+      "end": "00:27:42.300",
+      "text": "And I will put on the floor of the fifth report"
+    },
+    {
+      "index": 90,
+      "start": "00:27:42.300",
+      "end": "00:27:44.380",
+      "text": "of the Budget Committee."
+    },
+    {
+      "index": 91,
+      "start": "00:27:44.380",
+      "end": "00:27:46.060",
+      "text": "Perfect, this is the public participation meeting."
+    },
+    {
+      "index": 92,
+      "start": "00:27:46.060",
+      "end": "00:27:47.120",
+      "text": "There's really only one item."
+    },
+    {
+      "index": 93,
+      "start": "00:27:47.120",
+      "end": "00:27:51.030",
+      "text": "Any discussion on this one?"
+    },
+    {
+      "index": 94,
+      "start": "00:27:51.030",
+      "end": "00:28:02.930",
+      "text": "Seeing none, we'll open that for voting."
+    },
+    {
+      "index": 95,
+      "start": "00:28:02.930",
+      "end": "00:28:07.190",
+      "text": "Closing the vote, motion carries 14-0."
+    },
+    {
+      "index": 96,
+      "start": "00:28:07.190",
+      "end": "00:28:08.250",
+      "text": "Go ahead, Councilor Lehman."
+    },
+    {
+      "index": 97,
+      "start": "00:28:08.250",
+      "end": "00:28:11.000",
+      "text": "Thank you, and I will now put the sixth report"
+    },
+    {
+      "index": 98,
+      "start": "00:28:11.000",
+      "end": "00:28:14.300",
+      "text": "of the Budget Committee on the floor."
+    },
+    {
+      "index": 99,
+      "start": "00:28:14.300",
+      "end": "00:28:15.670",
+      "text": "Yes, and just for colleagues' reference,"
+    },
+    {
+      "index": 100,
+      "start": "00:28:15.670",
+      "end": "00:28:18.700",
+      "text": "you'll see one through nine are the actual amendments"
+    },
+    {
+      "index": 101,
+      "start": "00:28:18.700",
+      "end": "00:28:21.500",
+      "text": "that were made, 10 through 16 were the other votes"
+    },
+    {
+      "index": 102,
+      "start": "00:28:21.500",
+      "end": "00:28:24.880",
+      "text": "we considered and did not proceed with amendments,"
+    },
+    {
+      "index": 103,
+      "start": "00:28:24.880",
+      "end": "00:28:28.330",
+      "text": "but this was structured this way,"
+    },
+    {
+      "index": 104,
+      "start": "00:28:28.330",
+      "end": "00:28:31.800",
+      "text": "so that like Councilor McAllister would like to do"
+    },
+    {
+      "index": 105,
+      "start": "00:28:31.800",
+      "end": "00:28:32.940",
+      "text": "to make a change to one of those things"
+    },
+    {
+      "index": 106,
+      "start": "00:28:32.940",
+      "end": "00:28:33.760",
+      "text": "that we didn't proceed on."
+    },
+    {
+      "index": 107,
+      "start": "00:28:33.760",
+      "end": "00:28:36.080",
+      "text": "So right now, all of it's on the floor"
+    },
+    {
+      "index": 108,
+      "start": "00:28:36.080",
+      "end": "00:28:37.900",
+      "text": "with the exception of 16."
+    },
+    {
+      "index": 109,
+      "start": "00:28:37.900",
+      "end": "00:28:40.970",
+      "text": "Would anybody like anything else dealt with separately?"
+    },
+    {
+      "index": 110,
+      "start": "00:28:40.970",
+      "end": "00:28:43.770",
+      "text": "Councillor Frank."
+    },
+    {
+      "index": 111,
+      "start": "00:28:43.770",
+      "end": "00:28:48.120",
+      "text": "Thank you, can I vote against number eight?"
+    },
+    {
+      "index": 112,
+      "start": "00:28:48.120",
+      "end": "00:28:50.360",
+      "text": "Yes, we could deal with eight separate, yes."
+    },
+    {
+      "index": 113,
+      "start": "00:28:50.360",
+      "end": "00:28:53.670",
+      "text": "Anything else anybody wants separately?"
+    },
+    {
+      "index": 114,
+      "start": "00:28:53.670",
+      "end": "00:28:55.790",
+      "text": "All of that then please."
+    },
+    {
+      "index": 115,
+      "start": "00:28:55.790",
+      "end": "00:28:57.520",
+      "text": "Oh, I couldn't quite make that out,"
+    },
+    {
+      "index": 116,
+      "start": "00:28:57.520",
+      "end": "00:29:00.370",
+      "text": "Councillor Stevenson."
+    },
+    {
+      "index": 117,
+      "start": "00:29:00.370",
+      "end": "00:29:01.460",
+      "text": "11 please."
+    },
+    {
+      "index": 118,
+      "start": "00:29:01.460",
+      "end": "00:29:02.270",
+      "text": "11, sure."
+    },
+    {
+      "index": 119,
+      "start": "00:29:02.270",
+      "end": "00:29:13.930",
+      "text": "Which is the health unit."
+    },
+    {
+      "index": 120,
+      "start": "00:29:13.930",
+      "end": "00:29:26.090",
+      "text": "Yep, we can do that separate."
+    },
+    {
+      "index": 121,
+      "start": "00:29:26.090",
+      "end": "00:29:27.150",
+      "text": "All right, anything else?"
+    },
+    {
+      "index": 122,
+      "start": "00:29:27.150",
+      "end": "00:29:28.650",
+      "text": "Colleagues, we'll like dealt with separately."
+    },
+    {
+      "index": 123,
+      "start": "00:29:28.650",
+      "end": "00:29:30.930",
+      "text": "Okay, I don't see any, so I'm gonna let"
+    },
+    {
+      "index": 124,
+      "start": "00:29:30.930",
+      "end": "00:29:32.950",
+      "text": "Councillor Lehman craft a motion with what's left."
+    },
+    {
+      "index": 125,
+      "start": "00:29:32.950",
+      "end": "00:29:35.360",
+      "text": "Okay, so what I'd like to do is I'd like to put items"
+    },
+    {
+      "index": 126,
+      "start": "00:29:35.360",
+      "end": "00:29:41.480",
+      "text": "one through seven, nine, 10, 12, 13, 14, and 15."
+    },
+    {
+      "index": 127,
+      "start": "00:29:41.480",
+      "end": "00:29:44.590",
+      "text": "I'll move those."
+    },
+    {
+      "index": 128,
+      "start": "00:29:44.590",
+      "end": "00:29:45.480",
+      "text": "Okay, those are on the floor."
+    },
+    {
+      "index": 129,
+      "start": "00:29:45.480",
+      "end": "00:29:51.970",
+      "text": "Any discussion on any of those items?"
+    },
+    {
+      "index": 130,
+      "start": "00:29:51.970",
+      "end": "00:30:12.740",
+      "text": "Okay, seeing none, we will open that for voting."
+    },
+    {
+      "index": 131,
+      "start": "00:30:12.740",
+      "end": "00:30:16.560",
+      "text": "Close in the vote, motion carries 14 to zero."
+    },
+    {
+      "index": 132,
+      "start": "00:30:16.560",
+      "end": "00:30:17.960",
+      "text": "Go ahead, Councillor Lehman."
+    },
+    {
+      "index": 133,
+      "start": "00:30:17.960",
+      "end": "00:30:21.300",
+      "text": "Thank you, I'd now like to put on item number eight."
+    },
+    {
+      "index": 134,
+      "start": "00:30:21.300",
+      "end": "00:30:24.870",
+      "text": "That was bold."
+    },
+    {
+      "index": 135,
+      "start": "00:30:24.870",
+      "end": "00:30:28.020",
+      "text": "Okay, that's item number eight, 4.9."
+    },
+    {
+      "index": 136,
+      "start": "00:30:28.020",
+      "end": "00:30:31.290",
+      "text": "Any discussion on that?"
+    },
+    {
+      "index": 137,
+      "start": "00:30:31.290",
+      "end": "00:30:47.880",
+      "text": "Okay, seeing none, we'll open that for voting."
+    },
+    {
+      "index": 138,
+      "start": "00:30:47.880",
+      "end": "00:30:52.420",
+      "text": "Close in the vote, motion carries 11 to three."
+    },
+    {
+      "index": 139,
+      "start": "00:30:52.420",
+      "end": "00:30:55.080",
+      "text": "Go ahead, Councillor Lehman."
+    },
+    {
+      "index": 140,
+      "start": "00:30:55.080",
+      "end": "00:30:58.540",
+      "text": "I'd like to now put item 11 regarding 4.3,"
+    },
+    {
+      "index": 141,
+      "start": "00:30:58.540",
+      "end": "00:31:02.860",
+      "text": "budget KSP2 on the floor."
+    },
+    {
+      "index": 142,
+      "start": "00:31:02.860",
+      "end": "00:31:03.730",
+      "text": "Okay, that's on the floor."
+    },
+    {
+      "index": 143,
+      "start": "00:31:03.730",
+      "end": "00:31:08.210",
+      "text": "Any discussion?"
+    },
+    {
+      "index": 144,
+      "start": "00:31:08.210",
+      "end": "00:31:45.920",
+      "text": "Okay, seeing none, then we'll open item 11 for voting."
+    },
+    {
+      "index": 145,
+      "start": "00:31:45.920",
+      "end": "00:31:52.110",
+      "text": "Councillor Brad Nairberg."
+    },
+    {
+      "index": 146,
+      "start": "00:31:52.110",
+      "end": "00:31:57.320",
+      "text": "Close in the vote, motion carries 11 to three."
+    },
+    {
+      "index": 147,
+      "start": "00:31:57.320",
+      "end": "00:31:58.890",
+      "text": "Councillor Lehman."
+    },
+    {
+      "index": 148,
+      "start": "00:31:58.890",
+      "end": "00:32:02.230",
+      "text": "Finally, I'd like to put on number 16 on the floor,"
+    },
+    {
+      "index": 149,
+      "start": "00:32:02.230",
+      "end": "00:32:06.720",
+      "text": "understanding there's an amendment coming to that."
+    },
+    {
+      "index": 150,
+      "start": "00:32:06.720",
+      "end": "00:32:38.970",
+      "text": "Okay, that's on the floor, just give me one second."
+    },
+    {
+      "index": 151,
+      "start": "00:32:38.970",
+      "end": "00:32:40.860",
+      "text": "Okay, so that's on the floor."
+    },
+    {
+      "index": 152,
+      "start": "00:32:40.860",
+      "end": "00:32:43.810",
+      "text": "Councillor McAllister has an amendment to this."
+    },
+    {
+      "index": 153,
+      "start": "00:32:43.810",
+      "end": "00:32:46.590",
+      "text": "Councillor McAllister, I can put it up on the screen"
+    },
+    {
+      "index": 154,
+      "start": "00:32:46.590",
+      "end": "00:32:50.930",
+      "text": "if you need to read it out, unless you have it with you."
+    },
+    {
+      "index": 155,
+      "start": "00:32:50.930",
+      "end": "00:32:52.590",
+      "text": "If you refresh, it should be up."
+    },
+    {
+      "index": 156,
+      "start": "00:32:52.590",
+      "end": "00:32:56.140",
+      "text": "I've offered to second it so that we'll proceed."
+    },
+    {
+      "index": 157,
+      "start": "00:32:56.140",
+      "end": "00:32:57.870",
+      "text": "Okay, thank you, through the mayor."
+    },
+    {
+      "index": 158,
+      "start": "00:32:57.870",
+      "end": "00:32:59.750",
+      "text": "Yes, thank you for seconding."
+    },
+    {
+      "index": 159,
+      "start": "00:32:59.750",
+      "end": "00:33:03.320",
+      "text": "I can read it out, colleagues,"
+    },
+    {
+      "index": 160,
+      "start": "00:33:03.320",
+      "end": "00:33:06.530",
+      "text": "so that the mayor's table 2026 annual budget update"
+    },
+    {
+      "index": 161,
+      "start": "00:33:06.530",
+      "end": "00:33:09.550",
+      "text": "be amended in order to fund the Housing Stability Bank"
+    },
+    {
+      "index": 162,
+      "start": "00:33:09.550",
+      "end": "00:33:12.990",
+      "text": "program, 250,000 for 2026 from the Community Investment"
+    },
+    {
+      "index": 163,
+      "start": "00:33:12.990",
+      "end": "00:33:16.020",
+      "text": "Reserve Fund, 2026 operating expenditures,"
+    },
+    {
+      "index": 164,
+      "start": "00:33:16.020",
+      "end": "00:33:21.110",
+      "text": "250,000, 2026 levy zero, and capital expenditures"
+    },
+    {
+      "index": 165,
+      "start": "00:33:21.110",
+      "end": "00:33:22.930",
+      "text": "for 26, also zero."
+    },
+    {
+      "index": 166,
+      "start": "00:33:22.930",
+      "end": "00:33:24.230",
+      "text": "It being noted that future funding"
+    },
+    {
+      "index": 167,
+      "start": "00:33:24.230",
+      "end": "00:33:26.510",
+      "text": "for the Housing Stability Bank can be brought forward"
+    },
+    {
+      "index": 168,
+      "start": "00:33:26.510",
+      "end": "00:33:28.620",
+      "text": "for debate of the 2027 update,"
+    },
+    {
+      "index": 169,
+      "start": "00:33:28.620",
+      "end": "00:33:32.120",
+      "text": "and that the level of funding for the next multi-year budget"
+    },
+    {
+      "index": 170,
+      "start": "00:33:32.120",
+      "end": "00:33:41.150",
+      "text": "may warrant review based on future demand for this program."
+    },
+    {
+      "index": 171,
+      "start": "00:33:41.150",
+      "end": "00:33:42.390",
+      "text": "Oh, and there's also it being noted"
+    },
+    {
+      "index": 172,
+      "start": "00:33:42.390",
+      "end": "00:33:45.590",
+      "text": "that correspondences received from the Salvation Army."
+    },
+    {
+      "index": 173,
+      "start": "00:33:45.590",
+      "end": "00:33:49.860",
+      "text": "Okay, so that's on the floor, seconded by myself."
+    },
+    {
+      "index": 174,
+      "start": "00:33:49.860",
+      "end": "00:33:51.070",
+      "text": "We can have a debate and discussion on this."
+    },
+    {
+      "index": 175,
+      "start": "00:33:51.070",
+      "end": "00:33:54.720",
+      "text": "Any debate, would you like to proceed, Councillor McAllister?"
+    },
+    {
+      "index": 176,
+      "start": "00:33:54.720",
+      "end": "00:33:56.360",
+      "text": "Yeah, thank you, and through the mayor,"
+    },
+    {
+      "index": 177,
+      "start": "00:33:56.360",
+      "end": "00:33:59.230",
+      "text": "appreciate the opportunity to bring this back,"
+    },
+    {
+      "index": 178,
+      "start": "00:33:59.230",
+      "end": "00:34:02.220",
+      "text": "recognizing the conversation we had at the Budget Committee."
+    },
+    {
+      "index": 179,
+      "start": "00:34:02.220",
+      "end": "00:34:04.880",
+      "text": "I still think there's a lot of value in this,"
+    },
+    {
+      "index": 180,
+      "start": "00:34:04.880",
+      "end": "00:34:08.600",
+      "text": "understanding that this would just be for 2026,"
+    },
+    {
+      "index": 181,
+      "start": "00:34:08.600",
+      "end": "00:34:10.900",
+      "text": "but I do see the need in this community."
+    },
+    {
+      "index": 182,
+      "start": "00:34:10.900",
+      "end": "00:34:14.190",
+      "text": "I have residents who have personally accessed this program,"
+    },
+    {
+      "index": 183,
+      "start": "00:34:14.190",
+      "end": "00:34:16.330",
+      "text": "and they are oversubscribed as is,"
+    },
+    {
+      "index": 184,
+      "start": "00:34:16.330",
+      "end": "00:34:19.110",
+      "text": "with the communication received from the Salvation Army."
+    },
+    {
+      "index": 185,
+      "start": "00:34:19.110",
+      "end": "00:34:21.350",
+      "text": "Any additional funding that they can receive,"
+    },
+    {
+      "index": 186,
+      "start": "00:34:21.350",
+      "end": "00:34:24.490",
+      "text": "we know there's a need, and then there will be used."
+    },
+    {
+      "index": 187,
+      "start": "00:34:24.490",
+      "end": "00:34:27.310",
+      "text": "So I am happy to put this forward."
+    },
+    {
+      "index": 188,
+      "start": "00:34:27.310",
+      "end": "00:34:29.290",
+      "text": "Again, listening to the conversation we had at the committee,"
+    },
+    {
+      "index": 189,
+      "start": "00:34:29.290",
+      "end": "00:34:31.070",
+      "text": "I know there was desire for communication"
+    },
+    {
+      "index": 190,
+      "start": "00:34:31.070",
+      "end": "00:34:33.130",
+      "text": "from the Salvation Army to provide the information"
+    },
+    {
+      "index": 191,
+      "start": "00:34:33.130",
+      "end": "00:34:35.880",
+      "text": "in terms of the program and its usage to date."
+    },
+    {
+      "index": 192,
+      "start": "00:34:35.880",
+      "end": "00:34:38.800",
+      "text": "Also recognizing that this isn't necessarily something"
+    },
+    {
+      "index": 193,
+      "start": "00:34:38.800",
+      "end": "00:34:43.010",
+      "text": "that we as a municipality cannot handle"
+    },
+    {
+      "index": 194,
+      "start": "00:34:43.010",
+      "end": "00:34:44.620",
+      "text": "all of the issues around housing,"
+    },
+    {
+      "index": 195,
+      "start": "00:34:44.620",
+      "end": "00:34:47.600",
+      "text": "but this is one area where we can make a difference."
+    },
+    {
+      "index": 196,
+      "start": "00:34:47.600",
+      "end": "00:34:49.740",
+      "text": "This is a proactive program."
+    },
+    {
+      "index": 197,
+      "start": "00:34:49.740",
+      "end": "00:34:52.460",
+      "text": "We're keeping people housed."
+    },
+    {
+      "index": 198,
+      "start": "00:34:52.460",
+      "end": "00:34:55.740",
+      "text": "We spend a lot of time at Council talking about homelessness,"
+    },
+    {
+      "index": 199,
+      "start": "00:34:55.740",
+      "end": "00:34:57.040",
+      "text": "but those are reactive measures,"
+    },
+    {
+      "index": 200,
+      "start": "00:34:57.040",
+      "end": "00:35:00.530",
+      "text": "and this is a proactive step that we can do right now"
+    },
+    {
+      "index": 201,
+      "start": "00:35:00.530",
+      "end": "00:35:02.830",
+      "text": "for next year to keep people housed."
+    },
+    {
+      "index": 202,
+      "start": "00:35:02.830",
+      "end": "00:35:05.970",
+      "text": "So I really encourage my colleagues to support this."
+    },
+    {
+      "index": 203,
+      "start": "00:35:05.970",
+      "end": "00:35:08.430",
+      "text": "It is just for the one year, it is from the Reserve Fund,"
+    },
+    {
+      "index": 204,
+      "start": "00:35:08.430",
+      "end": "00:35:09.980",
+      "text": "also recognizing what staff said"
+    },
+    {
+      "index": 205,
+      "start": "00:35:09.980",
+      "end": "00:35:13.240",
+      "text": "in terms of not bringing the Reserve Fund below a level"
+    },
+    {
+      "index": 206,
+      "start": "00:35:13.240",
+      "end": "00:35:16.480",
+      "text": "that they don't feel is appropriate based on our policy."
+    },
+    {
+      "index": 207,
+      "start": "00:35:16.480",
+      "end": "00:35:19.510",
+      "text": "I think that this is a path forward,"
+    },
+    {
+      "index": 208,
+      "start": "00:35:19.510",
+      "end": "00:35:22.420",
+      "text": "which I hope I can get wider support from,"
+    },
+    {
+      "index": 209,
+      "start": "00:35:22.420",
+      "end": "00:35:24.650",
+      "text": "based on what we discussed at committee."
+    },
+    {
+      "index": 210,
+      "start": "00:35:24.650",
+      "end": "00:35:27.570",
+      "text": "Again, I just want to stress the importance of this program."
+    },
+    {
+      "index": 211,
+      "start": "00:35:27.570",
+      "end": "00:35:31.810",
+      "text": "It is needed, the current environment that we're facing,"
+    },
+    {
+      "index": 212,
+      "start": "00:35:31.810",
+      "end": "00:35:33.800",
+      "text": "especially with the rental market,"
+    },
+    {
+      "index": 213,
+      "start": "00:35:33.800",
+      "end": "00:35:35.580",
+      "text": "there is a need in the community for this,"
+    },
+    {
+      "index": 214,
+      "start": "00:35:35.580",
+      "end": "00:35:38.130",
+      "text": "not just in my area, but across the city."
+    },
+    {
+      "index": 215,
+      "start": "00:35:38.130",
+      "end": "00:35:39.240",
+      "text": "This is something we can do,"
+    },
+    {
+      "index": 216,
+      "start": "00:35:39.240",
+      "end": "00:35:42.140",
+      "text": "and I really encourage my Council colleagues to support it."
+    },
+    {
+      "index": 217,
+      "start": "00:35:42.140",
+      "end": "00:35:43.540",
+      "text": "Thank you."
+    },
+    {
+      "index": 218,
+      "start": "00:35:43.540",
+      "end": "00:35:47.090",
+      "text": "I have Council Raman and then myself on the speaker's list."
+    },
+    {
+      "index": 219,
+      "start": "00:35:47.090",
+      "end": "00:35:49.670",
+      "text": "Thank you and through you just wanted to say,"
+    },
+    {
+      "index": 220,
+      "start": "00:35:49.670",
+      "end": "00:35:52.180",
+      "text": "I appreciate the amendment in the discussion"
+    },
+    {
+      "index": 221,
+      "start": "00:35:52.180",
+      "end": "00:35:55.280",
+      "text": "that we're having, I'm willing to get behind."
+    },
+    {
+      "index": 222,
+      "start": "00:35:55.280",
+      "end": "00:36:00.240",
+      "text": "This is a 2026 budget amendment coming from the Reserve Fund."
+    },
+    {
+      "index": 223,
+      "start": "00:36:00.240",
+      "end": "00:36:03.690",
+      "text": "I was a little bit challenged on that one."
+    },
+    {
+      "index": 224,
+      "start": "00:36:03.690",
+      "end": "00:36:06.530",
+      "text": "If it was for 2027, just because of the position,"
+    },
+    {
+      "index": 225,
+      "start": "00:36:06.530",
+      "end": "00:36:09.040",
+      "text": "it put the Reserve Fund in as well."
+    },
+    {
+      "index": 226,
+      "start": "00:36:09.040",
+      "end": "00:36:12.710",
+      "text": "And I had a good back and forth with the Salvation Army"
+    },
+    {
+      "index": 227,
+      "start": "00:36:12.710",
+      "end": "00:36:14.350",
+      "text": "about this discussion as well,"
+    },
+    {
+      "index": 228,
+      "start": "00:36:14.350",
+      "end": "00:36:17.030",
+      "text": "and really did appreciate the communication coming forward"
+    },
+    {
+      "index": 229,
+      "start": "00:36:17.030",
+      "end": "00:36:20.380",
+      "text": "from them to give us some more information"
+    },
+    {
+      "index": 230,
+      "start": "00:36:20.380",
+      "end": "00:36:23.130",
+      "text": "and ways to interpret that information."
+    },
+    {
+      "index": 231,
+      "start": "00:36:23.130",
+      "end": "00:36:24.730",
+      "text": "What I think it's important for the community"
+    },
+    {
+      "index": 232,
+      "start": "00:36:24.730",
+      "end": "00:36:26.690",
+      "text": "to understand as well about this"
+    },
+    {
+      "index": 233,
+      "start": "00:36:26.690",
+      "end": "00:36:28.520",
+      "text": "is when they came to us at first"
+    },
+    {
+      "index": 234,
+      "start": "00:36:28.520",
+      "end": "00:36:33.350",
+      "text": "with the initial budget amendment in the multi-year budget,"
+    },
+    {
+      "index": 235,
+      "start": "00:36:33.350",
+      "end": "00:36:35.710",
+      "text": "they asked for additional funds."
+    },
+    {
+      "index": 236,
+      "start": "00:36:35.710",
+      "end": "00:36:40.460",
+      "text": "Then later, there were some changes in terms of how"
+    },
+    {
+      "index": 237,
+      "start": "00:36:40.460",
+      "end": "00:36:43.930",
+      "text": "they receive funding and where they can allocate funding"
+    },
+    {
+      "index": 238,
+      "start": "00:36:43.930",
+      "end": "00:36:48.290",
+      "text": "as it relates to electricity costs."
+    },
+    {
+      "index": 239,
+      "start": "00:36:48.290",
+      "end": "00:36:52.120",
+      "text": "So the Ontario Energy Board made a decision"
+    },
+    {
+      "index": 240,
+      "start": "00:36:52.120",
+      "end": "00:36:56.100",
+      "text": "that anybody that was in electricity"
+    },
+    {
+      "index": 241,
+      "start": "00:36:56.100",
+      "end": "00:36:58.810",
+      "text": "rears needed to be supported through funding"
+    },
+    {
+      "index": 242,
+      "start": "00:36:58.810",
+      "end": "00:37:00.210",
+      "text": "at the Housing Stability Bank,"
+    },
+    {
+      "index": 243,
+      "start": "00:37:00.210",
+      "end": "00:37:02.800",
+      "text": "which helped to free up more dollars"
+    },
+    {
+      "index": 244,
+      "start": "00:37:02.800",
+      "end": "00:37:07.780",
+      "text": "for their programming as well through London Hydro and the OEB."
+    },
+    {
+      "index": 245,
+      "start": "00:37:07.780",
+      "end": "00:37:12.250",
+      "text": "So obviously there is considerable need,"
+    },
+    {
+      "index": 246,
+      "start": "00:37:12.250",
+      "end": "00:37:14.640",
+      "text": "which is why that additional pool of money"
+    },
+    {
+      "index": 247,
+      "start": "00:37:14.640",
+      "end": "00:37:18.190",
+      "text": "and this, they're still running out every month."
+    },
+    {
+      "index": 248,
+      "start": "00:37:18.190",
+      "end": "00:37:22.620",
+      "text": "So happy to support this and hoping for a report later on"
+    },
+    {
+      "index": 249,
+      "start": "00:37:22.620",
+      "end": "00:37:24.970",
+      "text": "at Community and Protective Services"
+    },
+    {
+      "index": 250,
+      "start": "00:37:24.970",
+      "end": "00:37:28.930",
+      "text": "to get some more information about how these funds"
+    },
+    {
+      "index": 251,
+      "start": "00:37:28.930",
+      "end": "00:37:31.880",
+      "text": "will be used and any changes to the program."
+    },
+    {
+      "index": 252,
+      "start": "00:37:31.880",
+      "end": "00:37:35.300",
+      "text": "Thank you."
+    },
+    {
+      "index": 253,
+      "start": "00:37:35.300",
+      "end": "00:37:37.870",
+      "text": "Great, I'll turn the chair over to Deputy Mayor Lewis"
+    },
+    {
+      "index": 254,
+      "start": "00:37:37.870",
+      "end": "00:37:41.510",
+      "text": "'cause I have myself on this speaker's list."
+    },
+    {
+      "index": 255,
+      "start": "00:37:41.510",
+      "end": "00:37:43.670",
+      "text": "Go ahead Mayor Morgan."
+    },
+    {
+      "index": 256,
+      "start": "00:37:43.670",
+      "end": "00:37:45.390",
+      "text": "Thank you, I will be brief on this one."
+    },
+    {
+      "index": 257,
+      "start": "00:37:45.390",
+      "end": "00:37:48.860",
+      "text": "I'm gonna support Councilor McAllister's amendment,"
+    },
+    {
+      "index": 258,
+      "start": "00:37:48.860",
+      "end": "00:37:50.180",
+      "text": "which is why I was willing to second it."
+    },
+    {
+      "index": 259,
+      "start": "00:37:50.180",
+      "end": "00:37:52.370",
+      "text": "I appreciate his dialogue on this."
+    },
+    {
+      "index": 260,
+      "start": "00:37:52.370",
+      "end": "00:37:54.450",
+      "text": "I also appreciate the approach that he took."
+    },
+    {
+      "index": 261,
+      "start": "00:37:54.450",
+      "end": "00:37:57.760",
+      "text": "He listened to what colleagues said around the table."
+    },
+    {
+      "index": 262,
+      "start": "00:37:57.760",
+      "end": "00:37:58.880",
+      "text": "The organization reached out,"
+    },
+    {
+      "index": 263,
+      "start": "00:37:58.880",
+      "end": "00:38:00.840",
+      "text": "they provided additional context."
+    },
+    {
+      "index": 264,
+      "start": "00:38:00.840",
+      "end": "00:38:02.510",
+      "text": "I think he was also respectful of the debate"
+    },
+    {
+      "index": 265,
+      "start": "00:38:02.510",
+      "end": "00:38:04.630",
+      "text": "in proposing the amendment in the way that he did,"
+    },
+    {
+      "index": 266,
+      "start": "00:38:04.630",
+      "end": "00:38:07.620",
+      "text": "using a reserve fund that Council does have discretion"
+    },
+    {
+      "index": 267,
+      "start": "00:38:07.620",
+      "end": "00:38:10.170",
+      "text": "and control over, being respectful of the balance"
+    },
+    {
+      "index": 268,
+      "start": "00:38:10.170",
+      "end": "00:38:11.410",
+      "text": "and the implications of that,"
+    },
+    {
+      "index": 269,
+      "start": "00:38:11.410",
+      "end": "00:38:13.330",
+      "text": "and also doing it just for 2026,"
+    },
+    {
+      "index": 270,
+      "start": "00:38:13.330",
+      "end": "00:38:16.320",
+      "text": "which allows future decision making to be made down the road."
+    },
+    {
+      "index": 271,
+      "start": "00:38:16.320",
+      "end": "00:38:18.360",
+      "text": "I think all of those pieces together"
+    },
+    {
+      "index": 272,
+      "start": "00:38:18.360",
+      "end": "00:38:20.190",
+      "text": "was a very respectful and appropriate way"
+    },
+    {
+      "index": 273,
+      "start": "00:38:20.190",
+      "end": "00:38:21.750",
+      "text": "to approach the amendment on a program"
+    },
+    {
+      "index": 274,
+      "start": "00:38:21.750",
+      "end": "00:38:23.740",
+      "text": "that we know is important to the city,"
+    },
+    {
+      "index": 275,
+      "start": "00:38:23.740",
+      "end": "00:38:26.980",
+      "text": "and I will emphasize, was not a program that we cut,"
+    },
+    {
+      "index": 276,
+      "start": "00:38:26.980",
+      "end": "00:38:30.130",
+      "text": "but we did not support an expansion to it"
+    },
+    {
+      "index": 277,
+      "start": "00:38:30.130",
+      "end": "00:38:31.800",
+      "text": "at the start of the multi-year budget."
+    },
+    {
+      "index": 278,
+      "start": "00:38:31.800",
+      "end": "00:38:33.350",
+      "text": "I think this modest expansion to it"
+    },
+    {
+      "index": 279,
+      "start": "00:38:33.350",
+      "end": "00:38:35.020",
+      "text": "will help some people in the interim,"
+    },
+    {
+      "index": 280,
+      "start": "00:38:35.020",
+      "end": "00:38:37.570",
+      "text": "as we continue to advocate for the other things,"
+    },
+    {
+      "index": 281,
+      "start": "00:38:37.570",
+      "end": "00:38:38.610",
+      "text": "I think, across the system,"
+    },
+    {
+      "index": 282,
+      "start": "00:38:38.610",
+      "end": "00:38:39.680",
+      "text": "including at the provincial level,"
+    },
+    {
+      "index": 283,
+      "start": "00:38:39.680",
+      "end": "00:38:43.070",
+      "text": "that can aid those who are in precarious housing situations"
+    },
+    {
+      "index": 284,
+      "start": "00:38:43.070",
+      "end": "00:38:44.100",
+      "text": "and need some support."
+    },
+    {
+      "index": 285,
+      "start": "00:38:44.100",
+      "end": "00:38:47.050",
+      "text": "So I think a good amendment, I'm fully behind it,"
+    },
+    {
+      "index": 286,
+      "start": "00:38:47.050",
+      "end": "00:38:48.520",
+      "text": "and I wanna thank the Councilor for the approach"
+    },
+    {
+      "index": 287,
+      "start": "00:38:48.520",
+      "end": "00:38:52.350",
+      "text": "that he took to this amendment."
+    },
+    {
+      "index": 288,
+      "start": "00:38:52.350",
+      "end": "00:38:54.820",
+      "text": "Thank you, Mayor Morgan, returning the chair to you."
+    },
+    {
+      "index": 289,
+      "start": "00:38:54.820",
+      "end": "00:38:56.350",
+      "text": "Sure, and I have you next on this speaker's list,"
+    },
+    {
+      "index": 290,
+      "start": "00:38:56.350",
+      "end": "00:39:00.580",
+      "text": "so you go ahead."
+    },
+    {
+      "index": 291,
+      "start": "00:39:00.580",
+      "end": "00:39:06.220",
+      "text": "You do, so I'm gonna say that I will be reluctantly"
+    },
+    {
+      "index": 292,
+      "start": "00:39:06.220",
+      "end": "00:39:13.580",
+      "text": "supporting this, and I say reluctantly for multiple reasons."
+    },
+    {
+      "index": 293,
+      "start": "00:39:13.580",
+      "end": "00:39:16.210",
+      "text": "I don't think the way this came before us"
+    },
+    {
+      "index": 294,
+      "start": "00:39:16.210",
+      "end": "00:39:19.410",
+      "text": "in the Budget Committee was actually appropriate,"
+    },
+    {
+      "index": 295,
+      "start": "00:39:19.410",
+      "end": "00:39:21.060",
+      "text": "and I don't think that, for me,"
+    },
+    {
+      "index": 296,
+      "start": "00:39:21.060",
+      "end": "00:39:24.310",
+      "text": "the communication from the Salvation Army after the fact"
+    },
+    {
+      "index": 297,
+      "start": "00:39:24.310",
+      "end": "00:39:25.810",
+      "text": "doesn't hold weight."
+    },
+    {
+      "index": 298,
+      "start": "00:39:25.810",
+      "end": "00:39:28.590",
+      "text": "Any organization could have written a letter after the fact"
+    },
+    {
+      "index": 299,
+      "start": "00:39:28.590",
+      "end": "00:39:30.880",
+      "text": "and said, yes, of course, we'll take the money."
+    },
+    {
+      "index": 300,
+      "start": "00:39:30.880",
+      "end": "00:39:34.200",
+      "text": "However, I do appreciate the approach"
+    },
+    {
+      "index": 301,
+      "start": "00:39:34.200",
+      "end": "00:39:37.590",
+      "text": "Councilor McAllister has taken to use this"
+    },
+    {
+      "index": 302,
+      "start": "00:39:37.590",
+      "end": "00:39:43.340",
+      "text": "from a reserve fund for one year as an emergency measure"
+    },
+    {
+      "index": 303,
+      "start": "00:39:43.340",
+      "end": "00:39:47.620",
+      "text": "from a reserve fund that we have Council discretion over."
+    },
+    {
+      "index": 304,
+      "start": "00:39:47.620",
+      "end": "00:39:51.220",
+      "text": "I would not support a further expansion of this program"
+    },
+    {
+      "index": 305,
+      "start": "00:39:51.220",
+      "end": "00:39:53.150",
+      "text": "on the property tax levy."
+    },
+    {
+      "index": 306,
+      "start": "00:39:53.150",
+      "end": "00:39:55.750",
+      "text": "I don't think it's good to take from one household"
+    },
+    {
+      "index": 307,
+      "start": "00:39:55.750",
+      "end": "00:39:59.780",
+      "text": "to do support on rental for another household,"
+    },
+    {
+      "index": 308,
+      "start": "00:39:59.780",
+      "end": "00:40:04.000",
+      "text": "but I do acknowledge and Councilor McAllister's comments"
+    },
+    {
+      "index": 309,
+      "start": "00:40:04.000",
+      "end": "00:40:06.600",
+      "text": "about the need out there."
+    },
+    {
+      "index": 310,
+      "start": "00:40:06.600",
+      "end": "00:40:08.740",
+      "text": "Yes, it's there."
+    },
+    {
+      "index": 311,
+      "start": "00:40:08.740",
+      "end": "00:40:11.050",
+      "text": "I disagree that it's proactive."
+    },
+    {
+      "index": 312,
+      "start": "00:40:11.050",
+      "end": "00:40:14.230",
+      "text": "I think this continues to be a reactive situation."
+    },
+    {
+      "index": 313,
+      "start": "00:40:14.230",
+      "end": "00:40:16.740",
+      "text": "I think the proactive situation"
+    },
+    {
+      "index": 314,
+      "start": "00:40:16.740",
+      "end": "00:40:19.320",
+      "text": "is what we are seeing out there in the community."
+    },
+    {
+      "index": 315,
+      "start": "00:40:19.320",
+      "end": "00:40:23.540",
+      "text": "The Vision SoHo redevelopment that will start welcoming tenants"
+    },
+    {
+      "index": 316,
+      "start": "00:40:23.540",
+      "end": "00:40:26.340",
+      "text": "to new affordable housing units in 2026."
+    },
+    {
+      "index": 317,
+      "start": "00:40:26.340",
+      "end": "00:40:28.940",
+      "text": "The partnerships with organizations like St. Vincent DePaul,"
+    },
+    {
+      "index": 318,
+      "start": "00:40:28.940",
+      "end": "00:40:31.110",
+      "text": "Building and Councilor Cuddy's Ward,"
+    },
+    {
+      "index": 319,
+      "start": "00:40:31.110",
+      "end": "00:40:34.290",
+      "text": "the work that is happening with LMCH building new builds."
+    },
+    {
+      "index": 320,
+      "start": "00:40:34.290",
+      "end": "00:40:38.700",
+      "text": "Housing is the answer, not income redistribution."
+    },
+    {
+      "index": 321,
+      "start": "00:40:38.700",
+      "end": "00:40:41.900",
+      "text": "So for me, I'm supporting this reluctantly,"
+    },
+    {
+      "index": 322,
+      "start": "00:40:41.900",
+      "end": "00:40:45.930",
+      "text": "but I'm supporting it as an interim step"
+    },
+    {
+      "index": 323,
+      "start": "00:40:45.930",
+      "end": "00:40:48.360",
+      "text": "from a reserve fund that we have,"
+    },
+    {
+      "index": 324,
+      "start": "00:40:48.360",
+      "end": "00:40:52.330",
+      "text": "as the Mayor mentioned, discretionary control over."
+    },
+    {
+      "index": 325,
+      "start": "00:40:52.330",
+      "end": "00:40:54.180",
+      "text": "I would not support this if it was permanent,"
+    },
+    {
+      "index": 326,
+      "start": "00:40:54.180",
+      "end": "00:40:56.180",
+      "text": "if it was coming on the property tax levy."
+    },
+    {
+      "index": 327,
+      "start": "00:40:56.180",
+      "end": "00:40:59.330",
+      "text": "I think this is a year by year approach to things,"
+    },
+    {
+      "index": 328,
+      "start": "00:40:59.330",
+      "end": "00:41:04.350",
+      "text": "but for me, the long-term solution to housing affordability"
+    },
+    {
+      "index": 329,
+      "start": "00:41:04.350",
+      "end": "00:41:06.480",
+      "text": "is housing inventory on the market"
+    },
+    {
+      "index": 330,
+      "start": "00:41:06.480",
+      "end": "00:41:09.550",
+      "text": "and affordable housing in the 80% AMR,"
+    },
+    {
+      "index": 331,
+      "start": "00:41:09.550",
+      "end": "00:41:12.750",
+      "text": "the RGI and the highly supportive housing realms."
+    },
+    {
+      "index": 332,
+      "start": "00:41:12.750",
+      "end": "00:41:16.100",
+      "text": "We know Elmwood Place is underway on highly supportive."
+    },
+    {
+      "index": 333,
+      "start": "00:41:16.100",
+      "end": "00:41:18.540",
+      "text": "As another example, the Home for Heroes project"
+    },
+    {
+      "index": 334,
+      "start": "00:41:18.540",
+      "end": "00:41:21.310",
+      "text": "at Parkwood Hospital for Veterans is underway."
+    },
+    {
+      "index": 335,
+      "start": "00:41:21.310",
+      "end": "00:41:23.120",
+      "text": "Those are the initiatives that I think"
+    },
+    {
+      "index": 336,
+      "start": "00:41:23.120",
+      "end": "00:41:25.760",
+      "text": "we should be making the long-term investments"
+    },
+    {
+      "index": 337,
+      "start": "00:41:25.760",
+      "end": "00:41:27.480",
+      "text": "in to address this problem."
+    },
+    {
+      "index": 338,
+      "start": "00:41:27.480",
+      "end": "00:41:31.050",
+      "text": "Not drawing from reserve funds for temporary relief"
+    },
+    {
+      "index": 339,
+      "start": "00:41:31.050",
+      "end": "00:41:32.820",
+      "text": "for on an individual basis."
+    },
+    {
+      "index": 340,
+      "start": "00:41:32.820",
+      "end": "00:41:35.900",
+      "text": "It's housing inventory, not income supports"
+    },
+    {
+      "index": 341,
+      "start": "00:41:35.900",
+      "end": "00:41:37.850",
+      "text": "that the municipality can deliver."
+    },
+    {
+      "index": 342,
+      "start": "00:41:37.850",
+      "end": "00:41:42.420",
+      "text": "That said, provincially income supports ODSP and OW"
+    },
+    {
+      "index": 343,
+      "start": "00:41:42.420",
+      "end": "00:41:44.430",
+      "text": "in particular and the shelter allowance,"
+    },
+    {
+      "index": 344,
+      "start": "00:41:44.430",
+      "end": "00:41:47.740",
+      "text": "still extremely inadequate."
+    },
+    {
+      "index": 345,
+      "start": "00:41:47.740",
+      "end": "00:41:49.480",
+      "text": "In the London market and in every other market"
+    },
+    {
+      "index": 346,
+      "start": "00:41:49.480",
+      "end": "00:41:52.690",
+      "text": "and every other major urban center across this province,"
+    },
+    {
+      "index": 347,
+      "start": "00:41:52.690",
+      "end": "00:41:54.430",
+      "text": "and arguably, you could say the same thing"
+    },
+    {
+      "index": 348,
+      "start": "00:41:54.430",
+      "end": "00:41:57.360",
+      "text": "about the assistance programs across this country."
+    },
+    {
+      "index": 349,
+      "start": "00:41:57.360",
+      "end": "00:42:00.560",
+      "text": "You can't get a place for $500 a month"
+    },
+    {
+      "index": 350,
+      "start": "00:42:00.560",
+      "end": "00:42:02.750",
+      "text": "in the city of London, Ontario."
+    },
+    {
+      "index": 351,
+      "start": "00:42:02.750",
+      "end": "00:42:06.390",
+      "text": "And so ODSP and OW rates have to be addressed,"
+    },
+    {
+      "index": 352,
+      "start": "00:42:06.390",
+      "end": "00:42:07.910",
+      "text": "but that is not something we can do."
+    },
+    {
+      "index": 353,
+      "start": "00:42:07.910",
+      "end": "00:42:13.290",
+      "text": "So as an interim step for the short-term,"
+    },
+    {
+      "index": 354,
+      "start": "00:42:13.290",
+      "end": "00:42:16.810",
+      "text": "I'll support this, but I wanted to lay that out now"
+    },
+    {
+      "index": 355,
+      "start": "00:42:16.810",
+      "end": "00:42:19.750",
+      "text": "because should this group or a variation of this group"
+    },
+    {
+      "index": 356,
+      "start": "00:42:19.750",
+      "end": "00:42:22.270",
+      "text": "that I'm a part of be here next year,"
+    },
+    {
+      "index": 357,
+      "start": "00:42:22.270",
+      "end": "00:42:25.590",
+      "text": "I will not be supporting a continuing add"
+    },
+    {
+      "index": 358,
+      "start": "00:42:25.590",
+      "end": "00:42:27.130",
+      "text": "to this fund every year."
+    },
+    {
+      "index": 359,
+      "start": "00:42:27.130",
+      "end": "00:42:28.980",
+      "text": "We've seen what happened in other municipalities"
+    },
+    {
+      "index": 360,
+      "start": "00:42:28.980",
+      "end": "00:42:31.900",
+      "text": "were in Windsor, it's bloomed to $2.6 million a year"
+    },
+    {
+      "index": 361,
+      "start": "00:42:31.900",
+      "end": "00:42:35.650",
+      "text": "because we will never be able to backfill"
+    },
+    {
+      "index": 362,
+      "start": "00:42:35.650",
+      "end": "00:42:39.070",
+      "text": "the entire amount on the property tax base."
+    },
+    {
+      "index": 363,
+      "start": "00:42:39.070",
+      "end": "00:42:42.260",
+      "text": "So I will support it this time,"
+    },
+    {
+      "index": 364,
+      "start": "00:42:42.260",
+      "end": "00:42:46.160",
+      "text": "and I will say credit due to Councilor McAllister"
+    },
+    {
+      "index": 365,
+      "start": "00:42:46.160",
+      "end": "00:42:48.750",
+      "text": "because I was not originally inclined to support this,"
+    },
+    {
+      "index": 366,
+      "start": "00:42:48.750",
+      "end": "00:42:52.040",
+      "text": "but with the amendments he's made and brought forward,"
+    },
+    {
+      "index": 367,
+      "start": "00:42:52.040",
+      "end": "00:42:53.840",
+      "text": "and the approach that he's taken for the source of funding,"
+    },
+    {
+      "index": 368,
+      "start": "00:42:53.840",
+      "end": "00:42:58.380",
+      "text": "I can support it on this one-off basis."
+    },
+    {
+      "index": 369,
+      "start": "00:42:58.380",
+      "end": "00:42:59.520",
+      "text": "Okay, any other speakers to this?"
+    },
+    {
+      "index": 370,
+      "start": "00:42:59.520",
+      "end": "00:43:04.050",
+      "text": "Go ahead, Councilor Trossa."
+    },
+    {
+      "index": 371,
+      "start": "00:43:04.050",
+      "end": "00:43:06.960",
+      "text": "Thank you, Mayor and through you."
+    },
+    {
+      "index": 372,
+      "start": "00:43:06.960",
+      "end": "00:43:10.010",
+      "text": "I'm not going to start the debate"
+    },
+    {
+      "index": 373,
+      "start": "00:43:10.010",
+      "end": "00:43:12.770",
+      "text": "on what our budget deliberations are gonna be."
+    },
+    {
+      "index": 374,
+      "start": "00:43:12.770",
+      "end": "00:43:13.950",
+      "text": "Next year, I'm sure we're gonna have"
+    },
+    {
+      "index": 375,
+      "start": "00:43:13.950",
+      "end": "00:43:18.900",
+      "text": "a very robust discussion about this."
+    },
+    {
+      "index": 376,
+      "start": "00:43:18.900",
+      "end": "00:43:22.730",
+      "text": "Many of the budget items that we look at"
+    },
+    {
+      "index": 377,
+      "start": "00:43:22.730",
+      "end": "00:43:27.650",
+      "text": "target one group or one set of stakeholder holders"
+    },
+    {
+      "index": 378,
+      "start": "00:43:27.650",
+      "end": "00:43:31.100",
+      "text": "at the expense of all the taxpayers."
+    },
+    {
+      "index": 379,
+      "start": "00:43:31.100",
+      "end": "00:43:34.060",
+      "text": "So I don't think that's a good criteria"
+    },
+    {
+      "index": 380,
+      "start": "00:43:34.060",
+      "end": "00:43:38.700",
+      "text": "for determining what should go in the budget."
+    },
+    {
+      "index": 381,
+      "start": "00:43:38.700",
+      "end": "00:43:41.970",
+      "text": "What I want to stress, and I hope I'm wrong,"
+    },
+    {
+      "index": 382,
+      "start": "00:43:41.970",
+      "end": "00:43:45.530",
+      "text": "we've just seen new provincial legislation pass,"
+    },
+    {
+      "index": 383,
+      "start": "00:43:45.530",
+      "end": "00:43:48.460",
+      "text": "and from everything that I'm hearing,"
+    },
+    {
+      "index": 384,
+      "start": "00:43:48.460",
+      "end": "00:43:50.500",
+      "text": "there's no reason to disbelieve"
+    },
+    {
+      "index": 385,
+      "start": "00:43:50.500",
+      "end": "00:43:52.170",
+      "text": "what some of the experts are saying,"
+    },
+    {
+      "index": 386,
+      "start": "00:43:52.170",
+      "end": "00:43:57.880",
+      "text": "we are going to see an increase in rent default evictions."
+    },
+    {
+      "index": 387,
+      "start": "00:43:57.880",
+      "end": "00:44:00.610",
+      "text": "This is an essential program."
+    },
+    {
+      "index": 388,
+      "start": "00:44:00.610",
+      "end": "00:44:04.520",
+      "text": "And again, I think I really want to commend"
+    },
+    {
+      "index": 389,
+      "start": "00:44:04.520",
+      "end": "00:44:08.090",
+      "text": "Councilor Callister for bringing this forward"
+    },
+    {
+      "index": 390,
+      "start": "00:44:08.090",
+      "end": "00:44:11.650",
+      "text": "in a way that we can all support."
+    },
+    {
+      "index": 391,
+      "start": "00:44:11.650",
+      "end": "00:44:16.550",
+      "text": "But the underlying root problem,"
+    },
+    {
+      "index": 392,
+      "start": "00:44:16.550",
+      "end": "00:44:19.670",
+      "text": "that being that rents are too high,"
+    },
+    {
+      "index": 393,
+      "start": "00:44:19.670",
+      "end": "00:44:25.440",
+      "text": "income is too low, people are being displaced,"
+    },
+    {
+      "index": 394,
+      "start": "00:44:25.440",
+      "end": "00:44:31.690",
+      "text": "and people fall behind in rent for a variety of reasons."
+    },
+    {
+      "index": 395,
+      "start": "00:44:31.690",
+      "end": "00:44:34.930",
+      "text": "This is a compassionate program."
+    },
+    {
+      "index": 396,
+      "start": "00:44:34.930",
+      "end": "00:44:37.940",
+      "text": "I would have preferred to see it at the higher level,"
+    },
+    {
+      "index": 397,
+      "start": "00:44:37.940",
+      "end": "00:44:42.160",
+      "text": "but I'm very happy that we've been able to work out,"
+    },
+    {
+      "index": 398,
+      "start": "00:44:42.160",
+      "end": "00:44:44.700",
+      "text": "we've been able to work out a situation here"
+    },
+    {
+      "index": 399,
+      "start": "00:44:44.700",
+      "end": "00:44:46.910",
+      "text": "where we can all support it."
+    },
+    {
+      "index": 400,
+      "start": "00:44:46.910",
+      "end": "00:44:50.470",
+      "text": "So I'm hoping to see a unanimous vote on this,"
+    },
+    {
+      "index": 401,
+      "start": "00:44:50.470",
+      "end": "00:44:54.190",
+      "text": "and to be continued, because this problem"
+    },
+    {
+      "index": 402,
+      "start": "00:44:54.190",
+      "end": "00:44:58.260",
+      "text": "of rents being too high and people being displaced"
+    },
+    {
+      "index": 403,
+      "start": "00:44:58.260",
+      "end": "00:44:59.960",
+      "text": "is not going away."
+    },
+    {
+      "index": 404,
+      "start": "00:44:59.960",
+      "end": "00:45:03.290",
+      "text": "And as a member of CAHPS, in our last council year,"
+    },
+    {
+      "index": 405,
+      "start": "00:45:03.290",
+      "end": "00:45:06.630",
+      "text": "I'm going to be monitoring this very carefully."
+    },
+    {
+      "index": 406,
+      "start": "00:45:06.630",
+      "end": "00:45:09.030",
+      "text": "Thank you."
+    },
+    {
+      "index": 407,
+      "start": "00:45:09.030",
+      "end": "00:45:12.220",
+      "text": "Any other speakers to this?"
+    },
+    {
+      "index": 408,
+      "start": "00:45:12.220",
+      "end": "00:45:15.010",
+      "text": "Okay, so this is on the amendment"
+    },
+    {
+      "index": 409,
+      "start": "00:45:15.010",
+      "end": "00:45:17.690",
+      "text": "by Councilor McAllister, seconded by myself."
+    },
+    {
+      "index": 410,
+      "start": "00:45:17.690",
+      "end": "00:45:37.350",
+      "text": "We're going to open that for voting."
+    },
+    {
+      "index": 411,
+      "start": "00:45:37.350",
+      "end": "00:45:41.450",
+      "text": "Councillor Trostac, can we have your microphone, please?"
+    },
+    {
+      "index": 412,
+      "start": "00:45:41.450",
+      "end": "00:45:45.030",
+      "text": "Closing the vote, motion carries 14-0."
+    },
+    {
+      "index": 413,
+      "start": "00:45:45.030",
+      "end": "00:45:47.500",
+      "text": "Okay, and now we need an as amended motion for that."
+    },
+    {
+      "index": 414,
+      "start": "00:45:47.500",
+      "end": "00:45:49.920",
+      "text": "So if Councilor McAllister, if you're willing"
+    },
+    {
+      "index": 415,
+      "start": "00:45:49.920",
+      "end": "00:45:52.270",
+      "text": "to do the as amended motion, you got to stand up again."
+    },
+    {
+      "index": 416,
+      "start": "00:45:52.270",
+      "end": "00:45:54.840",
+      "text": "I'll second the as amended."
+    },
+    {
+      "index": 417,
+      "start": "00:45:54.840",
+      "end": "00:45:56.220",
+      "text": "So this is the as amended."
+    },
+    {
+      "index": 418,
+      "start": "00:45:56.220",
+      "end": "00:45:57.670",
+      "text": "This is everything this actually brings"
+    },
+    {
+      "index": 419,
+      "start": "00:45:57.670",
+      "end": "00:46:02.430",
+      "text": "into effect the actual amendment to the table budget."
+    },
+    {
+      "index": 420,
+      "start": "00:46:02.430",
+      "end": "00:46:26.060",
+      "text": "So we'll vote on that now."
+    },
+    {
+      "index": 421,
+      "start": "00:46:26.060",
+      "end": "00:46:35.340",
+      "text": "So approval, closing the vote, motion carries 14-0."
+    },
+    {
+      "index": 422,
+      "start": "00:46:35.340",
+      "end": "00:46:36.880",
+      "text": "Councillor Layman."
+    },
+    {
+      "index": 423,
+      "start": "00:46:36.880",
+      "end": "00:46:37.680",
+      "text": "Thank you."
+    },
+    {
+      "index": 424,
+      "start": "00:46:37.680",
+      "end": "00:46:40.050",
+      "text": "That concludes the sixth report of the budget committee."
+    },
+    {
+      "index": 425,
+      "start": "00:46:40.050",
+      "end": "00:46:41.350",
+      "text": "Okay, and that concludes addressing"
+    },
+    {
+      "index": 426,
+      "start": "00:46:41.350",
+      "end": "00:46:43.630",
+      "text": "all of the amendments that Council has made to the budget,"
+    },
+    {
+      "index": 427,
+      "start": "00:46:43.630",
+      "end": "00:46:46.000",
+      "text": "which means we've concluded that piece."
+    },
+    {
+      "index": 428,
+      "start": "00:46:46.000",
+      "end": "00:46:48.530",
+      "text": "We have no added reports, no deferred matters."
+    },
+    {
+      "index": 429,
+      "start": "00:46:48.530",
+      "end": "00:46:50.200",
+      "text": "Any inquiries?"
+    },
+    {
+      "index": 430,
+      "start": "00:46:50.200",
+      "end": "00:46:54.040",
+      "text": "Seeing none, emergent motions."
+    },
+    {
+      "index": 431,
+      "start": "00:46:54.040",
+      "end": "00:46:55.670",
+      "text": "There are none."
+    },
+    {
+      "index": 432,
+      "start": "00:46:55.670",
+      "end": "00:46:57.650",
+      "text": "The bylaws, we only have the confirming bylaw."
+    },
+    {
+      "index": 433,
+      "start": "00:46:57.650",
+      "end": "00:46:59.670",
+      "text": "I'll just remind colleagues, this is the same confirming"
+    },
+    {
+      "index": 434,
+      "start": "00:46:59.670",
+      "end": "00:47:01.090",
+      "text": "bylaw that we do at the end of every meeting."
+    },
+    {
+      "index": 435,
+      "start": "00:47:01.090",
+      "end": "00:47:03.500",
+      "text": "This is not actually related to any sort of budget approval"
+    },
+    {
+      "index": 436,
+      "start": "00:47:03.500",
+      "end": "00:47:04.890",
+      "text": "in any sort of way."
+    },
+    {
+      "index": 437,
+      "start": "00:47:04.890",
+      "end": "00:47:06.930",
+      "text": "The way that we, the process we've gone through"
+    },
+    {
+      "index": 438,
+      "start": "00:47:06.930",
+      "end": "00:47:09.200",
+      "text": "is the budget was tabled."
+    },
+    {
+      "index": 439,
+      "start": "00:47:09.200",
+      "end": "00:47:11.180",
+      "text": "Council made recommendations on amendments."
+    },
+    {
+      "index": 440,
+      "start": "00:47:11.180",
+      "end": "00:47:12.480",
+      "text": "Those amendments have been improved"
+    },
+    {
+      "index": 441,
+      "start": "00:47:12.480",
+      "end": "00:47:13.900",
+      "text": "or incorporated into the budget."
+    },
+    {
+      "index": 442,
+      "start": "00:47:13.900",
+      "end": "00:47:16.070",
+      "text": "That is the budget and the budget is finalized."
+    },
+    {
+      "index": 443,
+      "start": "00:47:16.070",
+      "end": "00:47:18.500",
+      "text": "This is not a global vote on the budget."
+    },
+    {
+      "index": 444,
+      "start": "00:47:18.500",
+      "end": "00:47:20.290",
+      "text": "This is just the confirming bylaw that we do"
+    },
+    {
+      "index": 445,
+      "start": "00:47:20.290",
+      "end": "00:47:22.710",
+      "text": "at the end of each meeting that also gives direction"
+    },
+    {
+      "index": 446,
+      "start": "00:47:22.710",
+      "end": "00:47:24.570",
+      "text": "to the clerk and I to bring into effect"
+    },
+    {
+      "index": 447,
+      "start": "00:47:24.570",
+      "end": "00:47:26.870",
+      "text": "all of the components that happened at the meeting today"
+    },
+    {
+      "index": 448,
+      "start": "00:47:26.870",
+      "end": "00:47:27.950",
+      "text": "if we have to do so."
+    },
+    {
+      "index": 449,
+      "start": "00:47:27.950",
+      "end": "00:47:29.470",
+      "text": "So just wanted to be clear,"
+    },
+    {
+      "index": 450,
+      "start": "00:47:29.470",
+      "end": "00:47:31.770",
+      "text": "in case anybody thought they were voting on the budget."
+    },
+    {
+      "index": 451,
+      "start": "00:47:31.770",
+      "end": "00:47:33.580",
+      "text": "Now, we've actually concluded that piece"
+    },
+    {
+      "index": 452,
+      "start": "00:47:33.580",
+      "end": "00:47:35.070",
+      "text": "we're just voting on the confirming bylaw."
+    },
+    {
+      "index": 453,
+      "start": "00:47:35.070",
+      "end": "00:47:36.960",
+      "text": "So I'll look for a mover and a seconder"
+    },
+    {
+      "index": 454,
+      "start": "00:47:36.960",
+      "end": "00:47:38.180",
+      "text": "of the confirming bylaw today."
+    },
+    {
+      "index": 455,
+      "start": "00:47:38.180",
+      "end": "00:47:41.950",
+      "text": "Councillor Hillier and seconded by Councillor Troso."
+    },
+    {
+      "index": 456,
+      "start": "00:47:41.950",
+      "end": "00:47:52.950",
+      "text": "And we'll do first reading now and we'll open after voting."
+    },
+    {
+      "index": 457,
+      "start": "00:47:52.950",
+      "end": "00:48:16.840",
+      "text": "Closing vote, motion carries 14-0."
+    },
+    {
+      "index": 458,
+      "start": "00:48:16.840",
+      "end": "00:48:18.300",
+      "text": "Second reading, same mover and seconder."
+    },
+    {
+      "index": 459,
+      "start": "00:48:18.300",
+      "end": "00:48:19.130",
+      "text": "You're okay with that."
+    },
+    {
+      "index": 460,
+      "start": "00:48:19.130",
+      "end": "00:48:20.830",
+      "text": "Councillor Hillier, Councillor Troso, yes."
+    },
+    {
+      "index": 461,
+      "start": "00:48:20.830",
+      "end": "00:48:23.400",
+      "text": "Okay, we'll open second reading on the confirming bylaw."
+    },
+    {
+      "index": 462,
+      "start": "00:48:23.400",
+      "end": "00:48:27.500",
+      "text": "See if there's any speakers seeing none."
+    },
+    {
+      "index": 463,
+      "start": "00:48:27.500",
+      "end": "00:48:38.070",
+      "text": "We'll open second reading for voting."
+    },
+    {
+      "index": 464,
+      "start": "00:48:38.070",
+      "end": "00:48:40.660",
+      "text": "Carries 14-0."
+    },
+    {
+      "index": 465,
+      "start": "00:48:40.660",
+      "end": "00:48:41.830",
+      "text": "And same mover and seconder,"
+    },
+    {
+      "index": 466,
+      "start": "00:48:41.830",
+      "end": "00:48:43.830",
+      "text": "third and final reading of the confirming bylaw."
+    },
+    {
+      "index": 467,
+      "start": "00:48:43.830",
+      "end": "00:48:52.160",
+      "text": "We'll open that for voting."
+    },
+    {
+      "index": 468,
+      "start": "00:48:52.160",
+      "end": "00:48:55.250",
+      "text": "Motion carries 14-0."
+    },
+    {
+      "index": 469,
+      "start": "00:48:55.250",
+      "end": "00:48:56.780",
+      "text": "Great, and before I adjourn,"
+    },
+    {
+      "index": 470,
+      "start": "00:48:56.780",
+      "end": "00:49:00.410",
+      "text": "I'm not gonna do a global talk about the budget."
+    },
+    {
+      "index": 471,
+      "start": "00:49:00.410",
+      "end": "00:49:01.530",
+      "text": "I'm not gonna throw that in."
+    },
+    {
+      "index": 472,
+      "start": "00:49:01.530",
+      "end": "00:49:05.060",
+      "text": "What I do wanna say is just thank you to our staff."
+    },
+    {
+      "index": 473,
+      "start": "00:49:05.060",
+      "end": "00:49:07.650",
+      "text": "Obviously the preparation of the budget is months and months"
+    },
+    {
+      "index": 474,
+      "start": "00:49:07.650",
+      "end": "00:49:10.390",
+      "text": "in the making, it requires all civic departments"
+    },
+    {
+      "index": 475,
+      "start": "00:49:10.390",
+      "end": "00:49:12.660",
+      "text": "to participate, it requires all boards and commissions."
+    },
+    {
+      "index": 476,
+      "start": "00:49:12.660",
+      "end": "00:49:14.410",
+      "text": "I know all members of council participated"
+    },
+    {
+      "index": 477,
+      "start": "00:49:14.410",
+      "end": "00:49:17.340",
+      "text": "through the process that we started earlier this year."
+    },
+    {
+      "index": 478,
+      "start": "00:49:17.340",
+      "end": "00:49:20.060",
+      "text": "I appreciate the work of both Budget Chair Ploza"
+    },
+    {
+      "index": 479,
+      "start": "00:49:20.060",
+      "end": "00:49:22.610",
+      "text": "and Vice Chair Layman on navigating us"
+    },
+    {
+      "index": 480,
+      "start": "00:49:22.610",
+      "end": "00:49:24.000",
+      "text": "through the budget process."
+    },
+    {
+      "index": 481,
+      "start": "00:49:24.000",
+      "end": "00:49:25.580",
+      "text": "I just wanted to say just a global thank you"
+    },
+    {
+      "index": 482,
+      "start": "00:49:25.580",
+      "end": "00:49:27.430",
+      "text": "to everybody involved in the budget process"
+    },
+    {
+      "index": 483,
+      "start": "00:49:27.430",
+      "end": "00:49:28.950",
+      "text": "for the work that you did in bringing us"
+    },
+    {
+      "index": 484,
+      "start": "00:49:28.950",
+      "end": "00:49:32.420",
+      "text": "to the point of approving the 2026 budget update."
+    },
+    {
+      "index": 485,
+      "start": "00:49:32.420",
+      "end": "00:49:34.610",
+      "text": "All of that work kinda ends now."
+    },
+    {
+      "index": 486,
+      "start": "00:49:34.610",
+      "end": "00:49:37.360",
+      "text": "And I guess you started thinking about the 2027 budget,"
+    },
+    {
+      "index": 487,
+      "start": "00:49:37.360",
+      "end": "00:49:40.550",
+      "text": "but for now I just wanted to say thanks on behalf of council"
+    },
+    {
+      "index": 488,
+      "start": "00:49:40.550",
+      "end": "00:49:42.830",
+      "text": "for the work that was done to all involved."
+    },
+    {
+      "index": 489,
+      "start": "00:49:42.830",
+      "end": "00:49:45.300",
+      "text": "And with that, I'll look for a motion to adjourn."
+    },
+    {
+      "index": 490,
+      "start": "00:49:45.300",
+      "end": "00:49:47.770",
+      "text": "Councilor Vamever again, seconded by Councilor Hopkins."
+    },
+    {
+      "index": 491,
+      "start": "00:49:47.770",
+      "end": "00:49:48.770",
+      "text": "We can do this one by hand."
+    },
+    {
+      "index": 492,
+      "start": "00:49:48.770",
+      "end": "00:49:51.160",
+      "text": "All those in favor of adjournment."
+    },
+    {
+      "index": 493,
+      "start": "00:49:51.160",
+      "end": "00:49:52.620",
+      "text": "Motion carries."
+    },
+    {
+      "index": 494,
+      "start": "00:49:52.620",
+      "end": "00:49:53.730",
+      "text": "Okay, thank you, we're adjourned."
+    }
+  ],
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Council/2025/11-26/.transcript.srt",
+  "transcript_duration": "49 minutes",
+  "news_coverage": [
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/city-hall-to-london-parents-dont-buy-your-kids-e-scooters-for-christmas",
+      "title": "City hall to parents: Don't buy kids e-scooters for Christmas | London Free Press",
+      "date": "2025-11-26",
+      "summary": "\u201cWhile they can be fun to ride, e-scooters are not toys,\u201d city officials said in a statement. The statement also quoted Shawna Chambers, city hall\u2019s director of climate change, environment and waste management. \u201cWe have heard from a number of concerned residents that they see children riding e-scooters in their neighbourhoods,\u201d Chambers said. \u201cAs we get closer to the holiday season, we want to make sure parents are aware of the legal and safety requirements for riding an e-scooter. \u201cIt is not an appropriate gift for children under 16.\u201d In a recent 8-7 vote, city council approved extending for another six months a pilot project that allows e-scooters and power-assisted cargo bikes on city streets, with the province also recently extending its own pilot project allowing cities to regulate them. The city opted into the province\u2019s e-scooter pilot program in 2023, allowing them for personal use with specific rules but barring e-scooter rental companies within London. Rules for e-scooters include barring riders younger than 16, not riding on sidewalks, not operating on roads with a speed limit greater than 50 kilometres/hour, not riding faster than 24 km/h, and not carrying passengers or cargo. \\\\ City council rejects ban, keeps e-scooters and cargo e-bikes on road 2. \\\\ From rules to risks: What you need to know about riding e-scooters London is taking part in the provincial e-scooter pilot until May 26, 2026, to see if existing rules work well. Skylar Franke led the push to keep the pilot project going, without which e-scooters and cargo bikes would have been banned in London. \u201cA lot of people are actually using these to get to work and to school,\u201d she said. rgoodison@postmedia.com Trending 1. 'Cornerstone' Port Stanley inn shuts restaurant, but not for lack of business [](https://web.archive.org/web/20251204182918/https://lfpress.com/news/local-news/cornerstone-port-stanley-inn-shuts-restaurant-but-not-for-lack-of-business) 2. CAA mourns tow truck driver struck, killed...",
+      "vote_summary": "8-7 vote",
+      "councillors_for": [],
+      "councillors_against": []
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/committee-backs-major-urban-boundary-expansion-amid-first-nation-concerns",
+      "title": "Committee backs major urban boundary growth amid First Nation concerns | London Free Press",
+      "date": "2025-11-26",
+      "summary": "(Mike Hensen/The London Free Press) Despite resistance from a local First Nation, London politicians have endorsed a final version of the city\u2019s urban boundary expansion \u2013 with a small addition. Politicians mostly expressed their desire to end a process that has dragged on for nearly two years and open more land for housing to meet London\u2019s forecast population growth over the next 30-plus years. \u201cWe\u2019re not rushing this, folks. We have had consultation,\u201d Deputy Mayor Shawn Lewis said. \u201cWhen it leaves council, it goes to (Queen\u2019s Park). They have to review it, they have to approve it, and they too have a duty to consult with our local First Nation communities. \u201cOur job is to make a decision, and I\u2019m quite comfortable with the decision we\u2019ve got before us right now.\u201d Lewis, Mayor Josh Morgan, and councillors Steve Lehman, Peter Cuddy, Susan Stevenson and Steven Hillier voted in favour of expanding the boundary. The urban boundary dictates where development can occur within the city\u2019s borders. The proposed expansion \u2013 based on 2024 Queen\u2019s Park population projections for 2051 that have since been revised down by about 55,000 people \u2013 would allow new development mostly in London\u2019s northwest and west ends. Development stakeholders, including London Development Institute head Mike Wallace, supported the final map, stressing the expansion won\u2019t trigger immediate construction. \\\\ Elbow room: By how much should London grow its urban boundary? 2. \\\\ Sprawling concerns: On London's edges, how many homes is too many? \u201cThis is a 30-year plan. The current urban growth boundary is over 30 years old,\u201d Wallace said, adding that council can control the speed of growth. Holding up the map of the expansion, he added: \u201cIf you take this to your neighbours, I will gamble that they will say, \u2018Well, that\u2019s not much for 30 years.\u2019\u201d A map shows proposed additions to London\u2019s urban growth boundary (yellow and red, highlighted in pink) and new industrial lands (blue), with natural heritage areas...",
+      "vote_summary": "",
+      "councillors_for": [
+        "Cuddy",
+        "Stevenson",
+        "Lehman",
+        "Hillier"
+      ],
+      "councillors_against": []
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/push-to-strengthen-londons-renoviction-bylaw-stalls-after-tie-vote",
+      "title": "Push to strengthen London\u2019s renoviction bylaw stalls after tie vote | London Free Press",
+      "date": "2025-11-26",
+      "summary": "(Derek Ruttan/The London Free Press) A proposal to explore closing loopholes in London\u2019s renoviction bylaw failed on a tie vote Monday, despite pleas from several tenants facing eviction to strengthen protections. They argued that because the bylaw focuses only on so-called renovictions, bad-faith landlords can simply issue an N13 that isn\u2019t tied to renovations to avoid the licensing process. \u201cWhen you\u2019re involved in a controversy like this with your landlord. you never go to the (Landlord and Tenant Board) and you\u2019re told, \u2018You won, congratulations, it\u2019s over,\u2019 \u201d Trosow said. \u201cThey can come back and do it again and again. And if they don\u2019t want to use the same tactic they used unsuccessfully the first time, they\u2019ve got a variety of different things they can do.\u201d Trosow and Ferreira voted in favour of the motion at Monday\u2019s community and protective services committee meeting, while councillors Jerry Pribil and Elizabeth Peloza voted against it. Evictions for renovations or repairs are legal under provincial rules, but critics say they\u2019re often used to remove long-term tenants so a unit can be re-listed at a far higher market rate. London\u2019s bylaw \u2013 one of the first in the province \u2013 requires landlords planning major renovation work that needs a unit vacated to apply for a $600 licence within seven days of serving tenants with an N13 eviction notice. City hall says seven licences have been issued so far. \\\\ Renoviction bylaw sees zero applications, but new eviction trend emerges 2. \\\\ London has a new 'renoviction' bylaw: Here's how it works To obtain a licence, landlords must submit a report from an engineer or architect confirming the renovation requires the unit to be empty. Work must begin within six months of the licence being issued, and violations can result in penalties ranging from $1,000 to $5,000. Three renters addressed the committee about their struggles with landlords who have issued N13 notices, along with Jordan Smith, a local leader with tenant-advoca...",
+      "vote_summary": "",
+      "councillors_for": [
+        "Ferreira"
+      ],
+      "councillors_against": [
+        "Pribil",
+        "Peloza"
+      ]
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/the-lfp-podcast-ep-222-what-to-know-about-londons-3-4-tax-hike-for-2026",
+      "title": "LFP Podcast: What to know about London's tax hike for 2026 | London Free Press",
+      "date": "2025-11-26",
+      "summary": "Steven Lehman listen to a citizen speak during a public participation meeting at city hall in London on Tuesday, Nov. (Derek Ruttan/The London Free Press) Host Rachel Gilbert spoke with LFP city hall reporter Jack Moulton, who broke down the details of London\u2019s 2026 municipal budget as city council puts the final touches on an expected 3.4% property tax increase. 222: What to know about London's 3.4% tax hike for 2026 - Copy Link - Email - X - Reddit - Pinterest - LinkedIn - Tumblr Comments You must be logged in to join the discussion or read more comments",
+      "vote_summary": "",
+      "councillors_for": [],
+      "councillors_against": []
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/city-politicians-seek-to-tighten-londons-rules-against-renovictions",
+      "title": "City politicians seek to tighten London's rules against 'renovictions' | London Free Press",
+      "date": "2025-11-26",
+      "summary": "David Ferreira speaks at London city hall on Wednesday November 26, 2025. (Mike Hensen/The London Free Press) Two London city councillors are looking to close what they view as loopholes in the city\u2019s \u201crenoviction\u201d bylaw, which has seen little uptake since being introduced earlier this year. While evictions for renovations or repairs are legal under provincial rules, critics argue it is a common tactic to remove long-term tenants and re-list a unit at a much higher market rate. Downtown councillor David Ferreira said loopholes are being exploited through that bylaw, including eviction for the purpose of demolition or conversion to a non-residential use, which does not require the licence. Sam Trosow are bringing a motion to Monday\u2019s meeting of council\u2019s community and protective services committee to address it. \u201cThis is a motion that\u2019s going to go back to staff to basically find out, what tools can we use? How can we integrate it into the program that we currently have? Hopefully there\u2019s no additional cost for us. to have more tools, more protection mechanisms for tenants,\u201d Ferreira said, adding there\u2019s only been a handful of licences issued. He cited an example in his own ward of four seniors under the same roof, which recently changed ownership, who he says were issued multiple N13 eviction notices for the purpose of converting their units into commercial space. \\\\ Renoviction bylaw sees zero applications, but new eviction trend emerges 2. \\\\ London has a new 'renoviction' bylaw: Here's how it works Ferreira criticized the move, saying there\u2019s more than enough commercial space around the core-area building. The tenants have lived their for decades, Ferreira said, noting it\u2019s \u201ctrue affordable housing\u201d for them. The bylaw makes it mandatory for landlords to get a report from a professional engineer or architect verifying the need for vacancy. Work on the unit needs to begin within six months after the licence is issued. Failing to comply with the rules carries penal...",
+      "vote_summary": "",
+      "councillors_for": [],
+      "councillors_against": []
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/city-council-finalizes-3-4-tax-hike-adds-one-time-rental-relief",
+      "title": "City council finalizes 3.4% tax hike, adds one-time rental relief | London Free Press",
+      "date": "2025-11-26",
+      "summary": "Hadleigh McAlister talks about Salvation Army funding in the city budget after deliberations wrapped up Wednesday, Nov. (Mike Hensen/The London Free Press) Londoners will face a 3.4 per cent property tax hike next year, a figure that includes a new addition of temporary rental assistance as part of the city budget finalized Wednesday. The funding will go toward financial assistance for low-income Londoners for rent and utilities to help them retain housing. Budget chair Elizabeth Peloza was absent. The increase won\u2019t move the needle on next year\u2019s now-final tax hike, which represents a $51 increase for every $100,000 in a home\u2019s assessed property value. \u201cNo, I\u2019m not going to veto any of the changes council made,\u201d he said, promising a formal declaration Thursday. \u201cI do have the ability to waive my veto period to basically no time at all, and then that essentially will end the budget process.\u201d The 2026 budget update initially began at a forecasted 6.4 per cent tax hike at the end of last year\u2019s talks. Right-sizing by city hall and some of its agencies, plus surplus money injected to lower taxes, contributed to the final tally. Among the biggest additions are $2.3 million to help pay off office relocation debt for the Middlesex-London Health Unit, and $784,000 to provide two free hours of on-street parking in London\u2019s core. Both the health unit and London Middlesex Community Housing are also receiving more than $600,000 each to help address funding gaps. Several attempts were made during budget deliberations to increase funding for the Housing Stability Bank that already receives $1.3 million annually from the city. After discussions, Jon DeActis, executive director of the Salvation Army\u2019s Centre of Hope, sent a letter to politicians saying any additional funds would be welcome. \\\\ Chatham-Kent: Council passes budget with 4.63% tax hike 2. \\\\ Windsor mayor seeking 2026 tax freeze The Housing Stability Bank delegates its money monthly to spread assistance through the ye...",
+      "vote_summary": "",
+      "councillors_for": [],
+      "councillors_against": []
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/city-council-rejects-ban-keeps-e-scooters-and-cargo-e-bikes-on-road",
+      "title": "City council rejects ban, keeps e-scooters and cargo e-bikes on road | London Free Press",
+      "date": "2025-11-26",
+      "summary": "(Derek Ruttan/The London Free Press) London politicians narrowly voted in favour of continuing to allow the use of electric scooters and cargo bikes on city streets, as several spoke of neighbourhood concerns about their misuse. Failure to pass that vote would have meant the immediate banning of e-scooters and cargo \u201cpower-assisted\u201d bikes in London. \u201cI think banning them as of tonight. is frankly horrible, when people spent thousands of dollars, especially on (cargo e-bikes) to be able to choose that as their method of transportation,\u201d she said. \u201cA lot of people are actually using these to get to work and to school.\u201d Councillors Corrine Rahman, Peter Cuddy, Paul Van Meerbergen, Steven Hillier, Shawn Lewis, Steve Lehman and Susan Stevenson voted against continuing the pilot, while all others voted in favour. The city opted into the province\u2019s e-scooter pilot program in 2023, allowing for personal use with specific rules but barring e-scooter rental companies from operating in London. Rules include not riding on sidewalks, not operating on roads with a speed limit greater than 50 kilometres per hour, barring riders under the age of 16, and requiring those under 18 to wear a helmet. Both Lewis and Rahman spoke of concerns from residents about scofflaws and the difficulty for those residents to report issues and for city bylaw to follow up. \\\\ London boy advocates for helmet use after injuries in e-scooter crash 2. \\\\ Ride or wrong? City hall seeks input on e-scooters, cargo e-bikes \u201cAt this point, the onus is on residents to report a scooter that they saw flying by them usually at a high rate of speed with no way to differentiate one from the other,\u201d Rahman said. \u201cWhen residents in my ward have tried to complain. they were told to follow the e-scooter home.\u201d Franke\u2019s motion will allow staff to generate a report and gather public feedback on the pilot before it expires. Council, staff pledge changes after $1.3M software goes unused After a snafu that saw city hall spend...",
+      "vote_summary": "8-7 vote",
+      "councillors_for": [
+        "Lewis",
+        "Cuddy",
+        "Stevenson",
+        "Rahman",
+        "Lehman",
+        "Van Meerbergen",
+        "Hillier"
+      ],
+      "councillors_against": [
+        "Lewis",
+        "Cuddy",
+        "Stevenson",
+        "Rahman",
+        "Lehman",
+        "Van Meerbergen",
+        "Hillier"
+      ]
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/city-council-oks-demolition-of-1870s-era-building-for-15-storey-towers",
+      "title": "City council OKs demolition of 1870s-era building for 15-storey towers | London Free Press",
+      "date": "2025-11-26",
+      "summary": "(Mike Hensen/The London Free Press) Politicians have given their approval to demolish a more than 150-year-old farmhouse in Hyde Park in order to build apartments, going against a city staff recommendation. \u201cI certainly understand the desire for development in this area, I certainly know the character and history of the (building),\u201d said Mayor Josh Morgan, a former neighbouring Ward 7 councillor. \u201cIf (the developer wants) to draw the public in though, it\u2019s my strong encouragement that you. preserve some of the components of the building that I think could make very unique and interesting features within a new build.\u201d Both votes Tuesday went against city staff recommendations, which sought heritage designation for the property and sought to deny the development proposal from North Development Corp. based both on heritage concerns and the proposal exceeding the eight-storey height limit. Councillors Anna Hopkins, Skylar Franke, David Ferreira, Elizabeth Peloza and Sam Trosow opposed denying heritage designation for the building, while all others voted in support. \u201cHeritage designation, in my opinion is very warranted. (it\u2019s) one of the few protections that the community has from the loss of these historic and irreplaceable heritage aspects,\u201d Trosow said. \\\\ Should this 1870s-built house, now a restaurant, be razed for apartments? 2. \\\\ City politicians buck staff advice, refuse heritage tag for 1870s-era building On the planning application, Coun. Corrine Rahman joined Hopkins, Trosow, and Peloza in voting against the rezoning granting the density and height, and Franke, Hopkins, Ferreira, Peloza, and Trosow voted against everything else. Under provincial heritage rules, for a property to receive designation it must meet at least two of nine criteria for architectural and historical significance. City staff say the property meets three of those criteria, specifically for its architectural style, its historical connection to the surroundings and its role as a community...",
+      "vote_summary": "",
+      "councillors_for": [],
+      "councillors_against": [
+        "Trosow"
+      ]
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/londons-2026-budget-why-city-council-is-covering-health-unit-moving-debt",
+      "title": "London budget: Why city council is covering health unit moving debt | London Free Press",
+      "date": "2025-11-26",
+      "summary": "(Derek Ruttan/The London Free Press) London city council has shown its support for helping pay off the Middlesex-London Health Unit\u2019s relocation debt, turning the page on what has been a tumultuous chapter for the public health authority amid a budget crunch. LFP\u2019s Jack Moulton reports. Public health offices are in charge of disease prevention and vaccination campaigns, inspections for food-serving businesses, as well as other health programs including sexual health and addiction. The funding breakdown for the health unit works out to 70 per cent from Queen\u2019s Park, and based on population, 25 per cent from London and five per cent from Middlesex County. WHAT IS CITY HALL\u2019S PLAN? Included in Mayor Josh Morgan\u2019s 2026 budget update and so far endorsed by city council is a proposal for London to chip in $2.3 million to help pay off the health unit\u2019s debt from its move from its former building at 50 King St. to downtown\u2019s Citi Plaza mall five years ago. That proposal kicked off the longest debate among politicians during budget talks last week, with councillors Skylar Franke and Susan Stevenson seeking to remove said pitch from the budget, arguing it absolves the province of their share. \u201cI\u2019m not very supportive of that, in that 70 per cent of that debt is the province\u2019s,\u201d said Franke, who sits on the health unit board. \u201cThe reason there is a loan in the first place is because the province would not provide capital funding.\u201d The idea behind the move was to free up the roughly $241,000 the health unit pays annually in principle and interest payments toward the loan for the next 10 years, so that some of the funding can go back into the health unit\u2019s operations. \\\\ Cost-cutting health unit set to shut down main office in Strathroy 2. \\\\ Inside London\u2019s 2026 budget: Tax relief, road repairs and health unit debt In a letter to politicians, health unit chief executive Emily Williams outlined how they are the second-lowest funded public health office in the province per capita...",
+      "vote_summary": "10-5 against",
+      "councillors_for": [],
+      "councillors_against": []
+    },
+    {
+      "source": "London Free Press",
+      "url": "https://lfpress.com/news/local-news/council-eyes-more-free-parking-downtown-and-business-leaders-say-thanks",
+      "title": "Council eyes more free parking downtown, business leaders say thanks | London Free Press",
+      "date": "2025-11-26",
+      "summary": "(Mike Hensen/The London Free Press) Business leaders are thrilled to see London pledge a return to two hours of free parking in the city\u2019s core, just as studies continue into a new strategy for the downtown. Play Video The city has almost continuously had some element of free parking through the Honk app in the core since the pandemic, and with commercial vacancies still high, some politicians sought to ensure more stability. \u201cIf we are wanting to revitalize the downtown. this is what it is, just small little moves that we can make that allow us to open up the downtown for the city at large,\u201d Ferreira said. \u201cIf someone\u2019s coming for an appointment, one hour is not enough, if someone is coming for a lunch, one hour is too tight.\u201d The motion was approved 11-4 with councillors Skylar Franke, Corrine Rahman, Elizabeth Peloza, and Sam Trosow opposed, while all others voted in support. The extension of the Honk app promotion allowing for free on-street parking, recently brought down from two hours to one, was one of the \u201cquick start\u201d actions recommended and approved until the end of the year through the early drafting stages of the new downtown plan. Politicians got a glimpse of the next stage of the new plan, a blueprint for revitalizing the city\u2019s core, last week and endorsed exploring another set of moves. Those include more late-night busing, encouraging more regular and daytime use of public spaces, and either reworking or ditching the Honk app to make parking on public or private lots easier. \\\\ After 50 years, downtown London men's wear store to close 2. \\\\ Amid changes to recycling pickup, London businesses ask: What about us? Much of the debate during Thursday\u2019s budget deliberations boiled down to the question of promoting one or two hours of free parking, but there was still some pushback from politicians about subsidizing vehicle use and encouraging more congestion. \u201cI actually find that we spend more time downtown because it takes longer to get back,\u201d Franke sa...",
+      "vote_summary": "approved 11-4",
+      "councillors_for": [],
+      "councillors_against": []
+    }
+  ],
+  "present": [],
+  "absent": [],
+  "also_present": [],
+  "items": {}
+}
