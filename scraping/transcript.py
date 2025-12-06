@@ -367,6 +367,8 @@ def extract_vote_info_with_ai(markdown: str, verbose: bool = False) -> Optional[
         Dict with vote_summary, councillors_for, councillors_against, or None if failed
     """
     if not ANTHROPIC_API_KEY:
+        if verbose:
+            print(f"      → Skipping AI extraction: ANTHROPIC_API_KEY not set")
         return None
 
     # Truncate article to first 4000 chars to save tokens
@@ -433,11 +435,21 @@ Article text:
 
         if response.status_code != 200:
             if verbose:
-                print(f"      → AI extraction failed: {response.status_code}")
+                print(f"      → AI extraction failed: HTTP {response.status_code}")
+                try:
+                    error_data = response.json()
+                    print(f"      → API error: {error_data.get('error', {}).get('message', 'unknown')}")
+                except:
+                    print(f"      → Response: {response.text[:200]}")
             return None
 
         data = response.json()
         content = data.get("content", [{}])[0].get("text", "")
+
+        if not content:
+            if verbose:
+                print(f"      → AI returned empty content")
+            return None
 
         # Parse JSON from response
         # Handle case where response might have markdown code blocks
@@ -446,7 +458,13 @@ Article text:
         elif "```" in content:
             content = content.split("```")[1].split("```")[0]
 
-        result = json.loads(content.strip())
+        content = content.strip()
+        if not content:
+            if verbose:
+                print(f"      → AI response had no JSON content")
+            return None
+
+        result = json.loads(content)
 
         if verbose:
             print(f"      → AI extracted: {result.get('vote_summary', 'no vote info')}")
