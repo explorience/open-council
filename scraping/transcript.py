@@ -374,7 +374,7 @@ def extract_vote_info_with_ai(markdown: str, verbose: bool = False) -> Optional[
 
     prompt = """Analyze this news article about a London, Ontario city council meeting and extract vote information.
 
-Current London City Council members (2022-2026):
+Current London City Council members (2022-2026) - 15 total:
 - Mayor Josh Morgan
 - Ward 1: Hadleigh McAlister
 - Ward 2: Shawn Lewis
@@ -394,6 +394,8 @@ Current London City Council members (2022-2026):
 Extract the following information in JSON format:
 {
   "vote_summary": "Brief description of the vote result (e.g. '8-7 in favour', 'unanimous', 'tie vote failed')",
+  "vote_tally_for": <number of votes in favour, or null if not mentioned>,
+  "vote_tally_against": <number of votes against, or null if not mentioned>,
   "councillors_for": ["list of councillor LAST NAMES who voted in favour/yes"],
   "councillors_against": ["list of councillor LAST NAMES who voted against/no"]
 }
@@ -406,6 +408,7 @@ CRITICAL RULES:
 - Only include councillors explicitly mentioned as voting for or against
 - Use last names only (e.g. "Morgan", "Lewis", "Van Meerbergen")
 - If no vote information is found, return empty lists and empty vote_summary
+- Extract the numeric vote tally if mentioned (e.g. "8-7 vote" means vote_tally_for=8, vote_tally_against=7)
 
 Article text:
 """
@@ -450,6 +453,8 @@ Article text:
 
         councillors_for = result.get("councillors_for", [])
         councillors_against = result.get("councillors_against", [])
+        vote_tally_for = result.get("vote_tally_for")
+        vote_tally_against = result.get("vote_tally_against")
 
         # CRITICAL: Ensure no councillor appears in both lists (AI sometimes makes this mistake)
         # If a councillor is in both lists, remove them from both (we can't be sure which is correct)
@@ -459,6 +464,33 @@ Article text:
                 print(f"      → Warning: Removing duplicates from both lists: {duplicates}")
             councillors_for = [c for c in councillors_for if c not in duplicates]
             councillors_against = [c for c in councillors_against if c not in duplicates]
+
+        # Try to infer remaining councillors if vote tally adds up to 15 (full council)
+        # This handles "X, Y, Z voted against... while all others voted in favour" cases
+        all_councillors = [
+            "Morgan", "McAlister", "Lewis", "Cuddy", "Stevenson", "Pribil", "Trosow",
+            "Rahman", "Lehman", "Hopkins", "Van Meerbergen", "Franke", "Peloza", "Ferreira", "Hillier"
+        ]
+
+        if vote_tally_for and vote_tally_against:
+            total_votes = vote_tally_for + vote_tally_against
+            if total_votes == 15:  # Full council present
+                # If we have the right number of councillors on one side, infer the other side
+                if len(councillors_against) == vote_tally_against and len(councillors_for) < vote_tally_for:
+                    # We have all the against votes, infer the for votes
+                    inferred_for = [c for c in all_councillors if c not in councillors_against]
+                    if len(inferred_for) == vote_tally_for:
+                        if verbose:
+                            print(f"      → Inferred {len(inferred_for)} councillors voting FOR from 'all others'")
+                        councillors_for = inferred_for
+
+                elif len(councillors_for) == vote_tally_for and len(councillors_against) < vote_tally_against:
+                    # We have all the for votes, infer the against votes
+                    inferred_against = [c for c in all_councillors if c not in councillors_for]
+                    if len(inferred_against) == vote_tally_against:
+                        if verbose:
+                            print(f"      → Inferred {len(inferred_against)} councillors voting AGAINST from 'all others'")
+                        councillors_against = inferred_against
 
         return {
             "vote_summary": result.get("vote_summary", ""),
