@@ -150,11 +150,21 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
                 title_lower = title.lower()
 
                 # Skip crime/court news about councillors (not meeting business)
-                crime_keywords = ['charged', 'arrest', 'extortion', 'criminal', 'court', 'police', 'investigation']
+                crime_keywords = ['charged', 'charges', 'arrest', 'extortion', 'criminal', 'court', 'police', 'investigation', 'allegation', 'allegations']
                 if any(word in title_lower for word in crime_keywords):
                     if verbose:
                         print(f"    → Skipped [{i+1}]: crime/court news, not meeting business: {title[:60]}...")
                     continue
+
+                # Skip celebration/anniversary articles that aren't about council decisions
+                celebration_keywords = ['celebrate', 'celebration', 'anniversary', 'birthday', 'turning 200', 'turning 100', 'turning 150']
+                if any(word in title_lower for word in celebration_keywords):
+                    # Only skip if there's no indication of a council decision
+                    decision_keywords = ['vote', 'passed', 'rejected', 'approved', 'denied', 'defeats', 'backs', 'rejects']
+                    if not any(word in title_lower for word in decision_keywords):
+                        if verbose:
+                            print(f"    → Skipped [{i+1}]: celebration/anniversary news, not meeting business: {title[:60]}...")
+                        continue
 
                 # Require council-related keywords
                 if not any(word in title_lower for word in ['council', 'vote', 'councillor', 'city hall', 'budget', 'committee']):
@@ -303,6 +313,22 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                 print(f"      → Rejected: article about another city, not London")
             return None
 
+        # Second-pass filter: Skip crime/court news (actual title may differ from search result)
+        crime_keywords = ['charged', 'charges', 'arrest', 'extortion', 'criminal', 'court', 'police', 'investigation', 'allegation', 'allegations']
+        if any(word in title_lower for word in crime_keywords):
+            if verbose:
+                print(f"      → Rejected: crime/court news, not meeting business")
+            return None
+
+        # Second-pass filter: Skip celebration/anniversary articles without council decisions
+        celebration_keywords = ['celebrate', 'celebration', 'anniversary', 'birthday', 'turning 200', 'turning 100', 'turning 150']
+        if any(word in title_lower for word in celebration_keywords):
+            decision_keywords = ['vote', 'passed', 'rejected', 'approved', 'denied', 'defeats', 'backs', 'rejects']
+            if not any(word in title_lower for word in decision_keywords):
+                if verbose:
+                    print(f"      → Rejected: celebration/anniversary news, not meeting business")
+                return None
+
         # Extract vote information from the article (uses AI if available)
         vote_data = extract_vote_info(markdown, verbose=verbose)
 
@@ -372,11 +398,14 @@ Extract the following information in JSON format:
   "councillors_against": ["list of councillor LAST NAMES who voted against/no"]
 }
 
-Important:
+CRITICAL RULES:
+- A councillor can ONLY appear in ONE list - either "councillors_for" OR "councillors_against", NEVER both
+- Read carefully to determine which side each councillor voted on
+- Pay attention to phrasing like "voted against" vs "voted in favour" - these are opposites
+- If article says "X, Y, Z voted against... while all others voted in favour", put X, Y, Z in councillors_against only
 - Only include councillors explicitly mentioned as voting for or against
 - Use last names only (e.g. "Morgan", "Lewis", "Van Meerbergen")
 - If no vote information is found, return empty lists and empty vote_summary
-- If article says "all others voted in favour", list those councillors too if you can determine who they are
 
 Article text:
 """
@@ -419,10 +448,22 @@ Article text:
         if verbose:
             print(f"      → AI extracted: {result.get('vote_summary', 'no vote info')}")
 
+        councillors_for = result.get("councillors_for", [])
+        councillors_against = result.get("councillors_against", [])
+
+        # CRITICAL: Ensure no councillor appears in both lists (AI sometimes makes this mistake)
+        # If a councillor is in both lists, remove them from both (we can't be sure which is correct)
+        duplicates = set(councillors_for) & set(councillors_against)
+        if duplicates:
+            if verbose:
+                print(f"      → Warning: Removing duplicates from both lists: {duplicates}")
+            councillors_for = [c for c in councillors_for if c not in duplicates]
+            councillors_against = [c for c in councillors_against if c not in duplicates]
+
         return {
             "vote_summary": result.get("vote_summary", ""),
-            "councillors_for": result.get("councillors_for", []),
-            "councillors_against": result.get("councillors_against", []),
+            "councillors_for": councillors_for,
+            "councillors_against": councillors_against,
             "raw_mentions": []
         }
 
