@@ -27,6 +27,9 @@ ARCHIVE_BASE_URL = "https://london.lillianskinner.ca"
 FIRECRAWL_API_URL = "https://api.firecrawl.dev/v1/scrape"
 FIRECRAWL_API_KEY = os.environ.get('FIRECRAWL_API_KEY', '')
 
+# Anthropic API for AI-powered extraction
+ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
+
 # News sources to search for meeting coverage
 NEWS_SOURCES = [
     {
@@ -300,8 +303,8 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                 print(f"      → Rejected: article about another city, not London")
             return None
 
-        # Extract vote information from the article
-        vote_data = extract_vote_info(markdown)
+        # Extract vote information from the article (uses AI if available)
+        vote_data = extract_vote_info(markdown, verbose=verbose)
 
         # Create summary (first ~500 chars of meaningful content)
         summary = create_article_summary(markdown)
@@ -323,23 +326,131 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
         return None
 
 
-def extract_vote_info(markdown: str) -> Dict[str, Any]:
+def extract_vote_info_with_ai(markdown: str, verbose: bool = False) -> Optional[Dict[str, Any]]:
     """
-    Extract vote tallies and councillor positions from article text.
+    Use AI to extract vote information from article text.
 
-    Looks for patterns like:
-    - "passed 8-7"
-    - "voted 10-5"
-    - "Councillor X voted against"
-    - "unanimous"
-    - Lists of councillors who voted for/against
+    This is more robust than regex patterns as it can understand
+    natural language variations in how votes are reported.
 
     Args:
         markdown: Article content in markdown format
+        verbose: Whether to print debug info
+
+    Returns:
+        Dict with vote_summary, councillors_for, councillors_against, or None if failed
+    """
+    if not ANTHROPIC_API_KEY:
+        return None
+
+    # Truncate article to first 4000 chars to save tokens
+    article_text = markdown[:4000]
+
+    prompt = """Analyze this news article about a London, Ontario city council meeting and extract vote information.
+
+Current London City Council members (2022-2026):
+- Mayor Josh Morgan
+- Ward 1: Hadleigh McAlister
+- Ward 2: Shawn Lewis
+- Ward 3: Peter Cuddy
+- Ward 4: Susan Stevenson
+- Ward 5: Jerry Pribil
+- Ward 6: Sam Trosow
+- Ward 7: Corrine Rahman
+- Ward 8: Steve Lehman
+- Ward 9: Anna Hopkins
+- Ward 10: Paul Van Meerbergen
+- Ward 11: Skylar Franke
+- Ward 12: Elizabeth Peloza
+- Ward 13: David Ferreira
+- Ward 14: Steven Hillier
+
+Extract the following information in JSON format:
+{
+  "vote_summary": "Brief description of the vote result (e.g. '8-7 in favour', 'unanimous', 'tie vote failed')",
+  "councillors_for": ["list of councillor LAST NAMES who voted in favour/yes"],
+  "councillors_against": ["list of councillor LAST NAMES who voted against/no"]
+}
+
+Important:
+- Only include councillors explicitly mentioned as voting for or against
+- Use last names only (e.g. "Morgan", "Lewis", "Van Meerbergen")
+- If no vote information is found, return empty lists and empty vote_summary
+- If article says "all others voted in favour", list those councillors too if you can determine who they are
+
+Article text:
+"""
+
+    try:
+        response = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "content-type": "application/json",
+                "anthropic-version": "2023-06-01"
+            },
+            json={
+                "model": "claude-3-5-haiku-latest",
+                "max_tokens": 500,
+                "messages": [
+                    {"role": "user", "content": prompt + article_text}
+                ]
+            },
+            timeout=30
+        )
+
+        if response.status_code != 200:
+            if verbose:
+                print(f"      → AI extraction failed: {response.status_code}")
+            return None
+
+        data = response.json()
+        content = data.get("content", [{}])[0].get("text", "")
+
+        # Parse JSON from response
+        # Handle case where response might have markdown code blocks
+        if "```json" in content:
+            content = content.split("```json")[1].split("```")[0]
+        elif "```" in content:
+            content = content.split("```")[1].split("```")[0]
+
+        result = json.loads(content.strip())
+
+        if verbose:
+            print(f"      → AI extracted: {result.get('vote_summary', 'no vote info')}")
+
+        return {
+            "vote_summary": result.get("vote_summary", ""),
+            "councillors_for": result.get("councillors_for", []),
+            "councillors_against": result.get("councillors_against", []),
+            "raw_mentions": []
+        }
+
+    except Exception as e:
+        if verbose:
+            print(f"      → AI extraction error: {e}")
+        return None
+
+
+def extract_vote_info(markdown: str, verbose: bool = False) -> Dict[str, Any]:
+    """
+    Extract vote tallies and councillor positions from article text.
+
+    Uses AI extraction if available, falls back to regex patterns.
+
+    Args:
+        markdown: Article content in markdown format
+        verbose: Whether to print debug info
 
     Returns:
         Dict with vote_summary (str), councillors_for (list), councillors_against (list)
     """
+    # Try AI extraction first (more robust)
+    ai_result = extract_vote_info_with_ai(markdown, verbose=verbose)
+    if ai_result and (ai_result["vote_summary"] or ai_result["councillors_for"] or ai_result["councillors_against"]):
+        return ai_result
+
+    # Fall back to regex patterns
     result = {
         "vote_summary": "",
         "councillors_for": [],
@@ -347,11 +458,24 @@ def extract_vote_info(markdown: str) -> Dict[str, Any]:
         "raw_mentions": []
     }
 
-    # Known councillor names (current London council)
+    # Known councillor names (current London council 2022-2026)
+    # Mayor + 14 ward councillors
     councillor_names = [
-        "Morgan", "Lewis", "Lehman", "Peloza", "Stevenson", "Hopkins",
-        "Cassidy", "Ferreira", "Franke", "Hillier", "McAlister", "Pribil",
-        "Rahman", "Trosow", "Van Meerbergen"
+        "Morgan",           # Mayor Josh Morgan
+        "McAlister",        # Ward 1 - Hadleigh McAlister
+        "Lewis",            # Ward 2 - Shawn Lewis
+        "Cuddy",            # Ward 3 - Peter Cuddy
+        "Stevenson",        # Ward 4 - Susan Stevenson
+        "Pribil",           # Ward 5 - Jerry Pribil
+        "Trosow",           # Ward 6 - Sam Trosow
+        "Rahman",           # Ward 7 - Corrine Rahman
+        "Lehman",           # Ward 8 - Steve Lehman
+        "Hopkins",          # Ward 9 - Anna Hopkins
+        "Van Meerbergen",   # Ward 10 - Paul Van Meerbergen
+        "Franke",           # Ward 11 - Skylar Franke
+        "Peloza",           # Ward 12 - Elizabeth Peloza
+        "Ferreira",         # Ward 13 - David Ferreira
+        "Hillier",          # Ward 14 - Steven Hillier
     ]
 
     vote_summary_parts = []
@@ -372,8 +496,11 @@ def extract_vote_info(markdown: str) -> Dict[str, Any]:
             else:
                 vote_summary_parts.append(match)
 
-    # Look for "voting against were:" or "voting in favour were:" patterns
+    # Look for lists of councillors who voted against
+    # Pattern 1: "Councillors X, Y, Z voted against [thing]"
+    # Pattern 2: "voting against were: X, Y, Z"
     against_list_patterns = [
+        r'[Cc]ouncillors?\s+([^.]+?)\s+voted\s+against',
         r'(?:voting|voted)\s+(?:against|no)\s*(?:were|:)\s*([^.]+)',
         r'(?:opposed|opposing)\s*(?:were|:)\s*([^.]+)',
         r'(?:the\s+)?no\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
@@ -388,7 +515,11 @@ def extract_vote_info(markdown: str) -> Dict[str, Any]:
                     if name not in result["councillors_against"]:
                         result["councillors_against"].append(name)
 
+    # Look for lists of councillors who voted in favour
+    # Pattern 1: "Councillors X, Y, Z voted in favour"
+    # Pattern 2: "voting in favour were: X, Y, Z"
     favour_list_patterns = [
+        r'[Cc]ouncillors?\s+([^.]+?)\s+voted\s+(?:in favour|for|yes)',
         r'(?:voting|voted)\s+(?:in favour|for|yes)\s*(?:were|:)\s*([^.]+)',
         r'(?:supporting|in support)\s*(?:were|:)\s*([^.]+)',
         r'(?:the\s+)?yes\s+votes?\s*(?:came from|were|:)\s*([^.]+)',
