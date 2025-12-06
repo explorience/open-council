@@ -456,22 +456,52 @@ Article text:
         vote_tally_for = result.get("vote_tally_for")
         vote_tally_against = result.get("vote_tally_against")
 
-        # CRITICAL: Ensure no councillor appears in both lists (AI sometimes makes this mistake)
-        # If a councillor is in both lists, remove them from both (we can't be sure which is correct)
-        duplicates = set(councillors_for) & set(councillors_against)
-        if duplicates:
-            if verbose:
-                print(f"      → Warning: Removing duplicates from both lists: {duplicates}")
-            councillors_for = [c for c in councillors_for if c not in duplicates]
-            councillors_against = [c for c in councillors_against if c not in duplicates]
+        if verbose:
+            print(f"      → Raw AI result: for={councillors_for}, against={councillors_against}")
+            print(f"      → Vote tallies: for={vote_tally_for}, against={vote_tally_against}")
 
-        # Try to infer remaining councillors if vote tally adds up to 15 (full council)
-        # This handles "X, Y, Z voted against... while all others voted in favour" cases
+        # All councillors for inference
         all_councillors = [
             "Morgan", "McAlister", "Lewis", "Cuddy", "Stevenson", "Pribil", "Trosow",
             "Rahman", "Lehman", "Hopkins", "Van Meerbergen", "Franke", "Peloza", "Ferreira", "Hillier"
         ]
 
+        # CRITICAL: Handle duplicates (AI sometimes puts same councillors in both lists)
+        duplicates = set(councillors_for) & set(councillors_against)
+        if duplicates:
+            if verbose:
+                print(f"      → Warning: Found duplicates in both lists: {duplicates}")
+
+            # Try to use vote tally to determine which side duplicates belong to
+            if vote_tally_for and vote_tally_against:
+                num_duplicates = len(duplicates)
+                if num_duplicates == vote_tally_against:
+                    # Duplicates match the against count - they voted against
+                    if verbose:
+                        print(f"      → Duplicates match against tally ({vote_tally_against}), placing in against")
+                    councillors_against = list(duplicates)
+                    councillors_for = []
+                elif num_duplicates == vote_tally_for:
+                    # Duplicates match the for count - they voted for
+                    if verbose:
+                        print(f"      → Duplicates match for tally ({vote_tally_for}), placing in for")
+                    councillors_for = list(duplicates)
+                    councillors_against = []
+                else:
+                    # Can't determine, remove from both
+                    if verbose:
+                        print(f"      → Can't determine side, removing duplicates from both lists")
+                    councillors_for = [c for c in councillors_for if c not in duplicates]
+                    councillors_against = [c for c in councillors_against if c not in duplicates]
+            else:
+                # No vote tally, remove from both
+                if verbose:
+                    print(f"      → No vote tally, removing duplicates from both lists")
+                councillors_for = [c for c in councillors_for if c not in duplicates]
+                councillors_against = [c for c in councillors_against if c not in duplicates]
+
+        # Try to infer remaining councillors if vote tally adds up to 15 (full council)
+        # This handles "X, Y, Z voted against... while all others voted in favour" cases
         if vote_tally_for and vote_tally_against:
             total_votes = vote_tally_for + vote_tally_against
             if total_votes == 15:  # Full council present
@@ -491,6 +521,9 @@ Article text:
                         if verbose:
                             print(f"      → Inferred {len(inferred_against)} councillors voting AGAINST from 'all others'")
                         councillors_against = inferred_against
+
+        if verbose:
+            print(f"      → Final result: for={councillors_for}, against={councillors_against}")
 
         return {
             "vote_summary": result.get("vote_summary", ""),
