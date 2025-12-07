@@ -88,18 +88,28 @@ The meeting adjourned at 12:04 PM.
 <details>
 <summary>View full transcript (7 minutes)</summary>
 
-**[3:25]** Hello everyone, welcome to the eighth special meeting of the Corporate Services Committee. At being 12 p.m., I'm going to call the meeting to order. I will begin, as always, by acknowledging that the City of London is situated on the traditional lands of the Anishinaabek, the Haudenosaunee, the Lene Peiwak, and Adawanderin. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The City of London is currently home to many First Nations, Métis, and Inuit people today. And as representatives of the people of the City of London, we are grateful to have the opportunity to work and live in this territory.
+Hello everyone, welcome to the eighth special meeting of the Corporate Services Committee. At being 12 p.m., I'm going to call the meeting to order. I will begin, as always, by acknowledging that the City of London is situated on the traditional lands of the Anishinaabek, the Haudenosaunee, the Lene Peiwak, and Adawanderin. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home.
 
-**[3:59]** I will also remind everyone that the City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact csclondon.ca or 519-661-2489, extension 2425. Colleagues, we have a short agenda, so I am going to dive right in, and item one is disclosures of pecanary interest. I see none.
+The City of London is currently home to many First Nations, Métis, and Inuit people today. And as representatives of the people of the City of London, we are grateful to have the opportunity to work and live in this territory. I will also remind everyone that the City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact csclondon.ca or 519-661-2489, extension 2425.
 
-**[4:32]** There are no items on the consent agenda and no scheduled items. We just have one item for direction. This is the 2023 DaPensher issuance update. We have the report from staff, so I will look to see if perhaps we have a mover and a seconder to frame the debate, and then we can move into questions and comments. Moved by Councillor Trussow, seconded by Councillor Stevenson. We'll look for any questions or comments for our staff. Councillor Trussow.
+Colleagues, we have a short agenda, so I am going to dive right in, and item one is disclosures of pecanary interest. I see none. There are no items on the consent agenda and no scheduled items. We just have one item for direction.
 
-**[5:07]** Does someone understand the timing of this? We don't wait for shifts in the market. We just do these regularly understanding that it just sort of plays out over a period of time, even in a volatile market. Ms. Barboon. Thank you, through the chair. That is correct. One of the things that we've learned over time is that markets can shift quite dramatically, depending on the time. And nobody has a crystal ball to know how the markets might shift over time. So traditionally, we have always been active in the spring market, and the market expects the city of London to look forward to initiatives at some point.
+This is the 2023 DaPensher issuance update. We have the report from staff, so I will look to see if perhaps we have a mover and a seconder to frame the debate, and then we can move into questions and comments. Moved by Councillor Trussow, seconded by Councillor Stevenson. We'll look for any questions or comments for our staff.
 
-**[5:47]** So we certainly have opportunity with respect to the amount that we issue to be able to ensure that we stay within budget and don't have any concerns with the total impact over the course of the term. And I also noticed that we have a 3.8 all-in rate to average over 10 years, and that would protect us against further volatility in the markets in terms of the rates going up. This isn't variable, this is locked in.
+Councillor Trussow. Does someone understand the timing of this? We don't wait for shifts in the market. We just do these regularly understanding that it just sort of plays out over a period of time, even in a volatile market.
 
-**[6:23]** Ms. Barboon. Yeah, thank you, thank you very much. Through the chair, I can confirm those are locked in rates. And if rates go up, certainly they are not a variable rate, so it will be for the duration. And the debt is not callable, so that will fulfill the term dates as has been outlined in the report. Thank you for that, any other questions or comments? I see none, so I'll ask the clerk to open the vote. Closing the vote, the motion's passed, five to zero.
+Ms. Barboon. Thank you, through the chair. That is correct.
 
-**[7:09]** Thank you, colleagues. That concludes the agenda for the eighth and special meeting of the Corporate Services Committee. We just need a motion to adjourn. Moved by Councilor McAllister and seconded by Councilor Stevenson. All those in favor, by hand. The motion's passed. Thank you, everyone. And there's two special meetings today, so if you're really wanting to get some more committee work in, civic works is at 1 p.m.
+One of the things that we've learned over time is that markets can shift quite dramatically, depending on the time. And nobody has a crystal ball to know how the markets might shift over time. So traditionally, we have always been active in the spring market, and the market expects the city of London to look forward to initiatives at some point. So we certainly have opportunity with respect to the amount that we issue to be able to ensure that we stay within budget and don't have any concerns with the total impact over the course of the term.
+
+And I also noticed that we have a 3.8 all-in rate to average over 10 years, and that would protect us against further volatility in the markets in terms of the rates going up. This isn't variable, this is locked in. Ms. Barboon.
+
+Yeah, thank you, thank you very much. Through the chair, I can confirm those are locked in rates. And if rates go up, certainly they are not a variable rate, so it will be for the duration. And the debt is not callable, so that will fulfill the term dates as has been outlined in the report.
+
+Thank you for that, any other questions or comments? I see none, so I'll ask the clerk to open the vote. Closing the vote, the motion's passed, five to zero. Thank you, colleagues.
+
+That concludes the agenda for the eighth and special meeting of the Corporate Services Committee. We just need a motion to adjourn. Moved by Councilor McAllister and seconded by Councilor Stevenson. All those in favor, by hand.
+
+The motion's passed. Thank you, everyone. And there's two special meetings today, so if you're really wanting to get some more committee work in, civic works is at 1 p.m.
 
 </details>

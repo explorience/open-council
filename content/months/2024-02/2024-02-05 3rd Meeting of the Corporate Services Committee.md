@@ -198,20 +198,36 @@ The meeting adjourned at 1:19 PM.
 <details>
 <summary>View full transcript (23 minutes)</summary>
 
-**[16:45]** Okay, good afternoon, everyone. I'll call the third meeting of the Corporate Services Committee tour. It's one o'clock right now. Please check the city website for additional meeting, detail information. Meetings can be viewed via live stream on YouTube and the city website. The city of London is situated on the traditional lands of the Anishabeg, Haudenosaunee, Lenna Pawak, and the Anawandran. We honor and respect the history of languages and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, Métis, and Inuit today.
+Okay, good afternoon, everyone. I'll call the third meeting of the Corporate Services Committee tour. It's one o'clock right now. Please check the city website for additional meeting, detail information.
 
-**[17:21]** As representatives of the city of London, we are grateful to have the opportunity to work and live in this territory. The city of London is committed to making every effort, provide alternative formats and communication supports for meeting meetings on a quest. To making a quest specific to this meeting, please contact csc@london.ca or 519-661-2489 extension-2425. We will start with any disclosures of pecuniary interest. Seeing none, we are on to consent items.
+Meetings can be viewed via live stream on YouTube and the city website. The city of London is situated on the traditional lands of the Anishabeg, Haudenosaunee, Lenna Pawak, and the Anawandran. We honor and respect the history of languages and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, Métis, and Inuit today.
 
-**[17:56]** There are two items on here. I haven't got any requests to have anything pulled, so I'm looking for a motion to move the two consent items. Thank you, Councillor Cuddy, Councillor Stevenson. Thank you. Okay, any questions on that? Comments? And either of those items, seeing none. Just like to note, actually, with 2.2, that Councillor Frank did provide a report, and she has indicated if anyone has any questions, you'd be happy to answer those for her.
+As representatives of the city of London, we are grateful to have the opportunity to work and live in this territory. The city of London is committed to making every effort, provide alternative formats and communication supports for meeting meetings on a quest. To making a quest specific to this meeting, please contact csc@london.ca or 519-661-2489 extension-2425. We will start with any disclosures of pecuniary interest.
 
-**[18:35]** So, not seeing anything, we'll open up our voting. Oh, yes. Closing the vote. Motion carries, 4-0. Okay, we have no scheduled items, items for direction. There were two added proclamations. I hope everyone had a chance to look at those. There's one for multiple melanoma awareness month and BGC club day.
+Seeing none, we are on to consent items. There are two items on here. I haven't got any requests to have anything pulled, so I'm looking for a motion to move the two consent items. Thank you, Councillor Cuddy, Councillor Stevenson.
 
-**[19:13]** And both of those did have London addresses attached to them. So, looking for a motion to have those two proclamations. Okay, Councillor Stevenson, Councillor Cuddley. Any discussion on that? Just typing it on one second. For voting in a moment. Closing the vote.
+Thank you. Okay, any questions on that? Comments? And either of those items, seeing none.
 
-**[20:03]** Motion carries, 4-0. Okay, thank you. We're now on to confidential items. If I could get a motion to go in camera, please. Councillor Cuddy, Councillor Stevenson. Thank you. We'll open that for voting in a moment. Councillor Stevenson.
+Just like to note, actually, with 2.2, that Councillor Frank did provide a report, and she has indicated if anyone has any questions, you'd be happy to answer those for her. So, not seeing anything, we'll open up our voting. Oh, yes. Closing the vote.
 
-**[20:47]** Closing the vote. Motion carries, 4-0. Okay, we're back in public session.
+Motion carries, 4-0. Okay, we have no scheduled items, items for direction. There were two added proclamations. I hope everyone had a chance to look at those.
 
-**[23:20]** Councillor Cuddy, can you please report out? Thank you, Chair, and through you, we met in a closed session from 1-0-4 to 1-15 PM. We made progress in the areas that we met, which we met in camera. Thank you. Thank you, and we're on our last item. I'm already adjournment. Can we get a motion to adjourn? Councillor Cuddy, Councillor Stevenson. Okay, just do a hand vote. All those in favor? Put that. Less than 20 minutes. Good job, everybody. Motion passes.
+There's one for multiple melanoma awareness month and BGC club day. And both of those did have London addresses attached to them. So, looking for a motion to have those two proclamations. Okay, Councillor Stevenson, Councillor Cuddley.
+
+Any discussion on that? Just typing it on one second. For voting in a moment. Closing the vote.
+
+Motion carries, 4-0. Okay, thank you. We're now on to confidential items. If I could get a motion to go in camera, please.
+
+Councillor Cuddy, Councillor Stevenson. Thank you. We'll open that for voting in a moment. Councillor Stevenson.
+
+Closing the vote. Motion carries, 4-0. Okay, we're back in public session. Councillor Cuddy, can you please report out?
+
+Thank you, Chair, and through you, we met in a closed session from 1-0-4 to 1-15 PM. We made progress in the areas that we met, which we met in camera. Thank you. Thank you, and we're on our last item.
+
+I'm already adjournment. Can we get a motion to adjourn? Councillor Cuddy, Councillor Stevenson. Okay, just do a hand vote.
+
+All those in favor? Put that. Less than 20 minutes. Good job, everybody.
+
+Motion passes.
 
 </details>

@@ -247,24 +247,48 @@ The meeting adjourned at 11:38 AM.
 <details>
 <summary>View full transcript (23 minutes)</summary>
 
-**[16:27]** Okay, thank you, please be seated. All right, this is a special meeting of council, which means we only deal with the item that's on the agenda and we don't add other things in. That being said, we still do all the normal stuff to start a council meeting, so I'm going to start with the land acknowledgement. Oh, first off, let me pour that say, the city's website is down, but this is still being broadcast on YouTube, so you gotta use YouTube. I'm not sure who's listening, who will hear that, they're probably already on YouTube, but anybody here who wants to tune in, you can tune on on YouTube today, the city's e-scribe platform is down for the moment.
+Okay, thank you, please be seated. All right, this is a special meeting of council, which means we only deal with the item that's on the agenda and we don't add other things in. That being said, we still do all the normal stuff to start a council meeting, so I'm going to start with the land acknowledgement. Oh, first off, let me pour that say, the city's website is down, but this is still being broadcast on YouTube, so you gotta use YouTube.
 
-**[17:08]** We acknowledge that we're gathered here today on the traditional lands of the Anishinaabe, Haudenosaunee, Lene Peiwak, and Adewandran peoples. We honor respect the history, languages, and culture of the diverse indigenous people who call this territory home. We acknowledge all of the treaties that are specific to this area, the True Row Wampum Belt Treaty of the Haudenosaunee Confederacy, Silver Covenant Chain, the Beaver Hunting Grounds Treaty of the Haudenosaunee, Nan Fan Treaty of 1701, McKee Treaty of 1790, the London Township Treaty of 1796, the Huron Track Treaty of 1827 with the Anishinaabe, and the Dish with One Spoon Covenant Wampum of the Anishinaabe and the Haudenosaunee. Three indigenous nations that are neighbors to London, the Chippewaas of the Thames First Nation, Oneida Nation of the Thames, and the Muncie Delaware Nation, will continue to live as sovereign nations with individual and unique languages, cultures, and customs.
+I'm not sure who's listening, who will hear that, they're probably already on YouTube, but anybody here who wants to tune in, you can tune on on YouTube today, the city's e-scribe platform is down for the moment. We acknowledge that we're gathered here today on the traditional lands of the Anishinaabe, Haudenosaunee, Lene Peiwak, and Adewandran peoples. We honor respect the history, languages, and culture of the diverse indigenous people who call this territory home. We acknowledge all of the treaties that are specific to this area, the True Row Wampum Belt Treaty of the Haudenosaunee Confederacy, Silver Covenant Chain, the Beaver Hunting Grounds Treaty of the Haudenosaunee, Nan Fan Treaty of 1701, McKee Treaty of 1790, the London Township Treaty of 1796, the Huron Track Treaty of 1827 with the Anishinaabe, and the Dish with One Spoon Covenant Wampum of the Anishinaabe and the Haudenosaunee.
 
-**[17:52]** City of London is also committed to making every effort to provide alternate supports and formats and communication supports for meetings upon request. To make a request specific to this meeting, you need to contact council agenda at London.ca 4519-661-2489, extension 2425. With that, we don't have an O Canada singer, but we have a recording. So I know Councillor McAllister really wanted to sing along, he's welcome to do so as are all of you. So we will rise and listen to the National Anthem or sing along.
+Three indigenous nations that are neighbors to London, the Chippewaas of the Thames First Nation, Oneida Nation of the Thames, and the Muncie Delaware Nation, will continue to live as sovereign nations with individual and unique languages, cultures, and customs. City of London is also committed to making every effort to provide alternate supports and formats and communication supports for meetings upon request. To make a request specific to this meeting, you need to contact council agenda at London.ca 4519-661-2489, extension 2425. With that, we don't have an O Canada singer, but we have a recording.
 
-**[19:47]** Please be seated. All right, I'll look for any disclosures of pecuniary interest, seeing none in chambers. I'll just note we have three members of council online as well, Councillor Layman, Councillor Hopkins, Councillor Stevenson, see no disclosures of peuniary interest recognitions. Oh, and Councillor Van Mereberg and thank you, Councillor. No recognitions for today. Review of confidential matters to be considered in public. There are none of those. Council in closed session, we don't have one. Confirmation and signing of the minutes of previous meetings.
+So I know Councillor McAllister really wanted to sing along, he's welcome to do so as are all of you. So we will rise and listen to the National Anthem or sing along. Please be seated. All right, I'll look for any disclosures of pecuniary interest, seeing none in chambers.
 
-**[20:21]** We will do that at the April 1st meeting, communications and petitions. There are none, motions at which notice is given. We have none, reports, there are none. Added reports. We have an added report, the sixth report of the Community and Protective Services Committee. I will turn it over to the chair to present the report. Thank you, Mayor. I'm pleased to present the sixth special meeting of the Community and Protective Services Committee. One item on the report. That's consent 2.1 listed as 2.1 on the council agenda. For seven, three, six, seven, seven, three, agenda, street, approval of contribution agreement with the London Cross Cultural Learner Center.
+I'll just note we have three members of council online as well, Councillor Layman, Councillor Hopkins, Councillor Stevenson, see no disclosures of peuniary interest recognitions. Oh, and Councillor Van Mereberg and thank you, Councillor. No recognitions for today. Review of confidential matters to be considered in public.
 
-**[20:58]** I would put that on the floor. Okay, that is on the floor by the chair. Any discussion on this item? Seeing none, then we're gonna open this for voting. Councillor Stevenson votes yes. Councillor Bauchins votes yes. Councillor Layman votes yes. Councillor Trosto votes yes. Opposed in the vote, motion carries 14 to zero.
+There are none of those. Council in closed session, we don't have one. Confirmation and signing of the minutes of previous meetings. We will do that at the April 1st meeting, communications and petitions.
 
-**[21:33]** That's your vote report, great. Deferred matters, we have none. Inquiries, there can only be a requires related to the report that was on there. So I assume there are none. No emergent motions are allowed as a special meeting. So we're on to bylaws. There are two bylaws associated with the decision we just made, the confirming bylaw and the bylaw that is related to the community report. I'll look for a mover and a seconder for both those. Councillor McAllister, Councillor Caddie, you'll be the mover and seconder for all three readings. And so we're gonna open first reading for voting.
+There are none, motions at which notice is given. We have none, reports, there are none. Added reports. We have an added report, the sixth report of the Community and Protective Services Committee.
 
-**[22:10]** Councillor Stevenson votes yes. Councillor Hopkins votes yes. Councillor Trosto votes yes. Councillor Ferris votes yes. Councillor Layton votes yes. President vote, motion carries 14 to zero. All right, we'll move on to second reading. Same mover and seconder. Any discussion on second reading? I guess seeing none, we'll open second reading for voting. Councillor Stevenson votes yes. Councillor Hopkins votes yes.
+I will turn it over to the chair to present the report. Thank you, Mayor. I'm pleased to present the sixth special meeting of the Community and Protective Services Committee. One item on the report.
 
-**[22:44]** Councillor Trosto votes yes. Councillor Layton votes yes. Councillor Ferris votes yes. President vote, motion carries 14 to zero. Okay, same mover and seconder for third and final reading of this item. We'll open third reading for voting. Councillor Stevenson votes yes. Councillor Hopkins votes yes. Councillor Trosto votes yes. Councillor Ferris votes yes. Councillor Lehman votes yes.
+That's consent 2.1 listed as 2.1 on the council agenda. For seven, three, six, seven, seven, three, agenda, street, approval of contribution agreement with the London Cross Cultural Learner Center. I would put that on the floor. Okay, that is on the floor by the chair.
 
-**[23:17]** President vote, motion carries 14 to zero. Okay, that concludes the by-laws. I just need a motion to adjourn. Councillor Ferris, seconded by Councillor McAllister. We'll do that by hand. All those in favor of adjournment? No motion carries. There you go, eight minutes. Deputy Mayor, this afternoon. I will not rise to that challenge.
+Any discussion on this item? Seeing none, then we're gonna open this for voting. Councillor Stevenson votes yes. Councillor Bauchins votes yes.
+
+Councillor Layman votes yes. Councillor Trosto votes yes. Opposed in the vote, motion carries 14 to zero. That's your vote report, great.
+
+Deferred matters, we have none. Inquiries, there can only be a requires related to the report that was on there. So I assume there are none. No emergent motions are allowed as a special meeting.
+
+So we're on to bylaws. There are two bylaws associated with the decision we just made, the confirming bylaw and the bylaw that is related to the community report. I'll look for a mover and a seconder for both those. Councillor McAllister, Councillor Caddie, you'll be the mover and seconder for all three readings.
+
+And so we're gonna open first reading for voting. Councillor Stevenson votes yes. Councillor Hopkins votes yes. Councillor Trosto votes yes.
+
+Councillor Ferris votes yes. Councillor Layton votes yes. President vote, motion carries 14 to zero. All right, we'll move on to second reading.
+
+Same mover and seconder. Any discussion on second reading? I guess seeing none, we'll open second reading for voting. Councillor Stevenson votes yes.
+
+Councillor Hopkins votes yes. Councillor Trosto votes yes. Councillor Layton votes yes. Councillor Ferris votes yes.
+
+President vote, motion carries 14 to zero. Okay, same mover and seconder for third and final reading of this item. We'll open third reading for voting. Councillor Stevenson votes yes.
+
+Councillor Hopkins votes yes. Councillor Trosto votes yes. Councillor Ferris votes yes. Councillor Lehman votes yes.
+
+President vote, motion carries 14 to zero. Okay, that concludes the by-laws. I just need a motion to adjourn. Councillor Ferris, seconded by Councillor McAllister.
+
+We'll do that by hand. All those in favor of adjournment? No motion carries. There you go, eight minutes.
+
+Deputy Mayor, this afternoon. I will not rise to that challenge.
 
 </details>

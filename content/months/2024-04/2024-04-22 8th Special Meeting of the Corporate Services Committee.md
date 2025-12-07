@@ -94,20 +94,32 @@ The meeting adjourned at 1:05 PM.
 <details>
 <summary>View full transcript (19 minutes)</summary>
 
-**[15:12]** Good afternoon. I'd like to call to order the eight special meeting of the Corporate Services Committee. Please check the city website, traditional meeting detail information. Meetings can be viewed via live stream on YouTube and the city website. The city of London is situated on the traditional lands of the Anishwabak, Haudenosaunee, Leno Peiwok, and the Adnawon Run tribes. We honor and respect the history, languages, and culture of the diverse indigenous people call this territory home.
+Good afternoon. I'd like to call to order the eight special meeting of the Corporate Services Committee. Please check the city website, traditional meeting detail information. Meetings can be viewed via live stream on YouTube and the city website.
 
-**[15:49]** The city of London is currently home to many First Nations, Métis and Inuit today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. Colleagues, we have online, Councilor Stevenson, Councilor Raman, and by phone we have Councilor Van Mirbergen, so we do have quorum. And colleagues, I do not take any offense to the fact that none of you have joined me in council today.
+The city of London is situated on the traditional lands of the Anishwabak, Haudenosaunee, Leno Peiwok, and the Adnawon Run tribes. We honor and respect the history, languages, and culture of the diverse indigenous people call this territory home. The city of London is currently home to many First Nations, Métis and Inuit today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory.
 
-**[16:27]** We will begin with disclosures of peccini or interest. We have any disclosures of peccuniary interest. Seeing or hearing none, we'll proceed. We'll move right on to consent items. We have no consent items. We'll move to scheduled items. We have no scheduled items. So we moved to number four items for direction, 4.1, 2024, debenture issue update.
+Colleagues, we have online, Councilor Stevenson, Councilor Raman, and by phone we have Councilor Van Mirbergen, so we do have quorum. And colleagues, I do not take any offense to the fact that none of you have joined me in council today. We will begin with disclosures of peccini or interest. We have any disclosures of peccuniary interest.
 
-**[17:04]** We have a mover and a seconder for that motion. Recognizing Councilor Stevenson as a mover and a seconder, Councilor Raman, thank you. Now move to any questions at this time, and we can open it up to Ms. Barbone if there are any questions. Seeing or hearing none, move to vote on this motion.
+Seeing or hearing none, we'll proceed. We'll move right on to consent items. We have no consent items. We'll move to scheduled items.
 
-**[17:47]** All those in favor? Oh, sorry. Bear with me for a moment. We'll vote through e-scribe. All vote, yes. Chair votes, yes.
+We have no scheduled items. So we moved to number four items for direction, 4.1, 2024, debenture issue update. We have a mover and a seconder for that motion. Recognizing Councilor Stevenson as a mover and a seconder, Councilor Raman, thank you.
 
-**[18:37]** Closing the vote, motion carries, 4-0. Thank you, clerk. We'll move on to deferred matters and additional business. Have none. We have no matters of confidential for discussion. We'll move on for adjournment to Councilor Stevenson. I'll move to adjourn. Oh, thank you, Councilor Van Buren. You'll second that. I'll second.
+Now move to any questions at this time, and we can open it up to Ms. Barbone if there are any questions. Seeing or hearing none, move to vote on this motion. All those in favor?
 
-**[19:08]** Thank you. Meeting is adjourned. Thank you, sorry. Thank you, Chair. We have to vote on that. Go anywhere. Oh, yes. Chair votes, yes. Closing the vote, motion carries. Thank you, colleagues. We are now adjourned. Take it personally that no one came to your meeting today.
+Oh, sorry. Bear with me for a moment. We'll vote through e-scribe. All vote, yes.
 
-**[19:45]** Thank you, Councilor Van Buren. We'll take that under consideration.
+Chair votes, yes. Closing the vote, motion carries, 4-0. Thank you, clerk. We'll move on to deferred matters and additional business.
+
+Have none. We have no matters of confidential for discussion. We'll move on for adjournment to Councilor Stevenson. I'll move to adjourn.
+
+Oh, thank you, Councilor Van Buren. You'll second that. I'll second. Thank you.
+
+Meeting is adjourned. Thank you, sorry. Thank you, Chair. We have to vote on that.
+
+Go anywhere. Oh, yes. Chair votes, yes. Closing the vote, motion carries.
+
+Thank you, colleagues. We are now adjourned. Take it personally that no one came to your meeting today. Thank you, Councilor Van Buren.
+
+We'll take that under consideration.
 
 </details>

@@ -87,16 +87,22 @@ The meeting adjourned at 1:09 PM.
 <details>
 <summary>View full transcript (21 minutes)</summary>
 
-**[16:31]** Good afternoon, everyone. Welcome to the 19th meeting of the Corporate Services Committee. This is a special meeting. I just wanted to advise colleagues of that. So we will only be dealing with items that are on the agenda. I want to begin by acknowledging that the City of London is situated on the traditional lands of the Anishinaabek, Haudenosaunee, Lene Peiwak, and Adwondering. And we honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The City of London is currently home to many First Nations, Métis, and Inuit people.
+Good afternoon, everyone. Welcome to the 19th meeting of the Corporate Services Committee. This is a special meeting. I just wanted to advise colleagues of that.
 
-**[17:07]** And as representatives of the people over the City of London, we are grateful to have the opportunity to work and live in this territory. I also wish to advise that the City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. And to make a request specific to this meeting, please contact csc@london.ca or phone 519-661-2489 extension 2425. Colleagues, I am just going to begin the meeting by looking for any disclosures of pecuniary interest.
+So we will only be dealing with items that are on the agenda. I want to begin by acknowledging that the City of London is situated on the traditional lands of the Anishinaabek, Haudenosaunee, Lene Peiwak, and Adwondering. And we honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The City of London is currently home to many First Nations, Métis, and Inuit people.
 
-**[17:44]** Seeing none, we only have one item on the agenda today as this is a special meeting, and it is a confidential matter. So I am going to look for a motion to move in camera. We would by Councillor Trussow and seconded by Councillor Ferrera. And we will open the vote on that. I vote yes. Holding the vote, the motion carries six to zero.
+And as representatives of the people over the City of London, we are grateful to have the opportunity to work and live in this territory. I also wish to advise that the City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. And to make a request specific to this meeting, please contact csc@london.ca or phone 519-661-2489 extension 2425. Colleagues, I am just going to begin the meeting by looking for any disclosures of pecuniary interest.
 
-**[18:23]** Thank you, colleagues. So we will just have to adjust the room. So I will just advise members of the public. We are moving in confidential session for personal matters, identifiable individuals. And we will report out from that in public session at the end of this meeting. Okay, colleagues, the clerk advises we can resume.
+Seeing none, we only have one item on the agenda today as this is a special meeting, and it is a confidential matter. So I am going to look for a motion to move in camera. We would by Councillor Trussow and seconded by Councillor Ferrera. And we will open the vote on that.
 
-**[21:12]** So I will call on Vice Chair Trussow to report out from our confidential session. The Corporate Services Committee held a special meeting on October 30th for the purpose of regarding a matter pertaining to an identifiable individual in an employment-related matter with advice or recommendations from the officer and employees of the corporation, including communications necessary for that purpose and progress was made. Thank you, Vice Chair. And colleagues, we just need a motion now to adjourn.
+I vote yes. Holding the vote, the motion carries six to zero. Thank you, colleagues. So we will just have to adjust the room.
 
-**[21:47]** Moved by Councillor Stevenson and seconded by Councillor McAllister. We can do that by hand. All those in favor? Motion carries. Thank you, colleagues. We are adjourned.
+So I will just advise members of the public. We are moving in confidential session for personal matters, identifiable individuals. And we will report out from that in public session at the end of this meeting. Okay, colleagues, the clerk advises we can resume.
+
+So I will call on Vice Chair Trussow to report out from our confidential session. The Corporate Services Committee held a special meeting on October 30th for the purpose of regarding a matter pertaining to an identifiable individual in an employment-related matter with advice or recommendations from the officer and employees of the corporation, including communications necessary for that purpose and progress was made. Thank you, Vice Chair. And colleagues, we just need a motion now to adjourn.
+
+Moved by Councillor Stevenson and seconded by Councillor McAllister. We can do that by hand. All those in favor? Motion carries.
+
+Thank you, colleagues. We are adjourned.
 
 </details>

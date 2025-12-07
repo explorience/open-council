@@ -63,18 +63,32 @@ The meeting adjourned at 12:03 PM.
 <details>
 <summary>View full transcript (13 minutes)</summary>
 
-**[2:18]** Audio test from council chambers. I can hear you loud and clear. Thank you. You want me to talk and test it? Thank you. For colleagues on the committee, I'll just have you turn on your cameras so the clerk can confirm quorum.
+Audio test from council chambers. I can hear you loud and clear. Thank you. You want me to talk and test it?
 
-**[10:08]** You do have quorum. Perfect. Well, then I'll call the fourth meeting of the audit committee to order. I'm gonna do a land acknowledgement and then we'll move right into the agenda. The city of London is situated on the traditional lands of the Anishinaabe, Haudenosaunee, Lenny Paywalk, and Adawandran. We honor and respect the history, language and culture, the diverse indigenous people called this territory home. The city of London is currently home to many First Nations, Métis and Inuit people today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory.
+Thank you. For colleagues on the committee, I'll just have you turn on your cameras so the clerk can confirm quorum. You do have quorum. Perfect.
 
-**[10:46]** The city of London is also committed to making every effort to provide alternate formats and communication supports for all of our meetings upon request. To make a request specific to this meeting, you can contact accessibility@lenny.ca or 519-661-2489, extension 2425. I will start with disclosures of pecuniary interest. Are there any? I see none. We have no consent items. We have no scheduled items. We have one item for direction, which is the follow up on some items from the internal audit dashboard.
+Well, then I'll call the fourth meeting of the audit committee to order. I'm gonna do a land acknowledgement and then we'll move right into the agenda. The city of London is situated on the traditional lands of the Anishinaabe, Haudenosaunee, Lenny Paywalk, and Adawandran. We honor and respect the history, language and culture, the diverse indigenous people called this territory home.
 
-**[11:24]** We have members from MNP, MNP available here, if colleagues have any questions. Maybe I'll go straight to colleagues for questions and if there are none, this will be a motion to receive. But let's go see if there's any questions first that colleagues have questions. Councilor Van Wollst. Thank you, Mr. Chair. And to you, I see there's the, we've got just off the top, key performance indicators for the ICO system. And now when will that be in place?
+The city of London is currently home to many First Nations, Métis and Inuit people today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. The city of London is also committed to making every effort to provide alternate formats and communication supports for all of our meetings upon request. To make a request specific to this meeting, you can contact accessibility@lenny.ca or 519-661-2489, extension 2425.
 
-**[12:12]** Sure, if that's a question for our staff or Mr. Jazzwell. Like perhaps our staff, but maybe our auditors know the answer. Sure, good afternoon, everybody. It's Veronica Beale here from MNP. So we did do the follow up on these items and it's this specific one for the key performance indicators for the fire process assessment audit. The due date is December, 2022. Management has told us that they are on track to complete that by that due date.
+I will start with disclosures of pecuniary interest. Are there any? I see none. We have no consent items.
 
-**[12:53]** Thank you. Councilor Turner is joining us, Councilor Turner, we're on questions on the report and just going around with colleagues to see if they have any. Any further questions on this? Okay, I look for a mover. This is an information report for receipt. Moved by Councilor Halmer, seconded by Councilor Turner. Any discussion on receipt of this? Okay, then we'll do this vote by hand. All those in favor of receipt? For motion carries. And that is the only item we had for direction.
+We have no scheduled items. We have one item for direction, which is the follow up on some items from the internal audit dashboard. We have members from MNP, MNP available here, if colleagues have any questions. Maybe I'll go straight to colleagues for questions and if there are none, this will be a motion to receive.
 
-**[13:26]** Are there any other deferred matters or additional business colleagues? Seeing none, I'd look for a motion to adjourn. Councilor Turner, seconded by Councilor Vanholz, if we need one. All those in favor of adjournment today? Motion carries. Okay, thank you for your time today, everyone.
+But let's go see if there's any questions first that colleagues have questions. Councilor Van Wollst. Thank you, Mr. Chair.
+
+And to you, I see there's the, we've got just off the top, key performance indicators for the ICO system. And now when will that be in place? Sure, if that's a question for our staff or Mr. Jazzwell.
+
+Like perhaps our staff, but maybe our auditors know the answer. Sure, good afternoon, everybody. It's Veronica Beale here from MNP. So we did do the follow up on these items and it's this specific one for the key performance indicators for the fire process assessment audit.
+
+The due date is December, 2022. Management has told us that they are on track to complete that by that due date. Thank you. Councilor Turner is joining us, Councilor Turner, we're on questions on the report and just going around with colleagues to see if they have any.
+
+Any further questions on this? Okay, I look for a mover. This is an information report for receipt. Moved by Councilor Halmer, seconded by Councilor Turner.
+
+Any discussion on receipt of this? Okay, then we'll do this vote by hand. All those in favor of receipt? For motion carries.
+
+And that is the only item we had for direction. Are there any other deferred matters or additional business colleagues? Seeing none, I'd look for a motion to adjourn. Councilor Turner, seconded by Councilor Vanholz, if we need one.
+
+All those in favor of adjournment today? Motion carries. Okay, thank you for your time today, everyone.
 
 </details>

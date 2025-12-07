@@ -78,16 +78,22 @@ The meeting adjourned at 12:23 PM.
 <details>
 <summary>View full transcript (18 minutes)</summary>
 
-**[14:23]** Good afternoon folks, it's just after 12 p.m. I'd like to call a special meeting of the Planning Environment Committee to order. Please check the city website for additional meeting, detail, and information. Meetings can be viewed via live streaming on YouTube and the city website. The city of London is situated on the traditional lands of the Anishinaabek, Haudenosaunee, Lenapeiwok, and Adawangran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, Metis, and Inuit today.
+Good afternoon folks, it's just after 12 p.m. I'd like to call a special meeting of the Planning Environment Committee to order. Please check the city website for additional meeting, detail, and information. Meetings can be viewed via live streaming on YouTube and the city website.
 
-**[14:57]** As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. The city of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact PACPTC at London.ca or 519-661-2489 extension-2425 that this time I'll look for any disclosures of pecuniary interest. Seeing none, there are no consent items, there are no scheduled items, items for direction, or deferred matters, additional business.
+The city of London is situated on the traditional lands of the Anishinaabek, Haudenosaunee, Lenapeiwok, and Adawangran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, Metis, and Inuit today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory.
 
-**[15:35]** The next item is confidential, and I'll look for motion to go in camera. Councilor Frank, seconded by Councilor Raman. I'll call the vote. There, can I vote verbally? Is that okay? That's fine, thank you. Thank you, I vote yes. Wasn't the vote, the motion carries forward to zero.
+The city of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact PACPTC at London.ca or 519-661-2489 extension-2425 that this time I'll look for any disclosures of pecuniary interest. Seeing none, there are no consent items, there are no scheduled items, items for direction, or deferred matters, additional business. The next item is confidential, and I'll look for motion to go in camera.
 
-**[16:13]** Thank you, so I'll look for the clerk to prepare the room. I'm sorry. Boarding in progress, recording stopped. Okay, folks, we're back.
+Councilor Frank, seconded by Councilor Raman. I'll call the vote. There, can I vote verbally? Is that okay?
 
-**[17:04]** I'm going to go to the clerk. I made a mistake by not giving a reason for going in camera in the first place, so I'll go to the clerk now to give that information. Through the chair, the committee went in camera to discuss a matter pertaining to advice that is subject to solicitor client privilege, including communications necessary for that purpose, from the solicitor and officers or employees of the corporation, and litigation or potential litigation with respect to appeals related to 1156 Dentistry at the Ontario Land Tribunal, and for the purpose of providing instructions and directions to officers and employees of the corporation.
+That's fine, thank you. Thank you, I vote yes. Wasn't the vote, the motion carries forward to zero. Thank you, so I'll look for the clerk to prepare the room.
 
-**[17:44]** Thank you, and I'll go to Councilor Frank to report out. Thank you, I'd like to report that progress has been made. Thank you, and they're seeing no other business for the committee, I'll look for a motion to adjourn. Councilor Frank, seconded by Councilor Raman. Call vote, hand vote. closing the vote, the motion carries 4-0. Meeting adjourned, thanks folks.
+I'm sorry. Boarding in progress, recording stopped. Okay, folks, we're back. I'm going to go to the clerk.
+
+I made a mistake by not giving a reason for going in camera in the first place, so I'll go to the clerk now to give that information. Through the chair, the committee went in camera to discuss a matter pertaining to advice that is subject to solicitor client privilege, including communications necessary for that purpose, from the solicitor and officers or employees of the corporation, and litigation or potential litigation with respect to appeals related to 1156 Dentistry at the Ontario Land Tribunal, and for the purpose of providing instructions and directions to officers and employees of the corporation. Thank you, and I'll go to Councilor Frank to report out. Thank you, I'd like to report that progress has been made.
+
+Thank you, and they're seeing no other business for the committee, I'll look for a motion to adjourn. Councilor Frank, seconded by Councilor Raman. Call vote, hand vote. closing the vote, the motion carries 4-0.
+
+Meeting adjourned, thanks folks.
 
 </details>

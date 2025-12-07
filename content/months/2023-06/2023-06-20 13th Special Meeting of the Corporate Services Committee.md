@@ -87,16 +87,22 @@ The meeting adjourned at 3:40 PM.
 <details>
 <summary>View full transcript (15 minutes)</summary>
 
-**[9:40]** Good afternoon colleagues. I'm going to call the 13th meeting of the Corporate Services Committee to order. This is a special meeting that has been added to the agenda. And I want to begin by acknowledging that the City of London is situated on the traditional lands of the Anishinaabek, the Haudenosaunee, the Leni Paywalk, and the Adawanda and Peoples. And we honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The City of London is currently home to many First Nations, Métis, and Inuit. And as representatives of the people of the City of London, we are grateful to have the opportunity to work and live in this territory.
+Good afternoon colleagues. I'm going to call the 13th meeting of the Corporate Services Committee to order. This is a special meeting that has been added to the agenda. And I want to begin by acknowledging that the City of London is situated on the traditional lands of the Anishinaabek, the Haudenosaunee, the Leni Paywalk, and the Adawanda and Peoples.
 
-**[10:16]** The City of London is also committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact csc@london.ca or phone 519-661-2489 extension 2425. This is a special meeting. It is only a one item agenda colleagues, but I do first have to call for any disclosures of pecuniary interest, seeing none.
+And we honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The City of London is currently home to many First Nations, Métis, and Inuit. And as representatives of the people of the City of London, we are grateful to have the opportunity to work and live in this territory. The City of London is also committed to making every effort to provide alternate formats and communication supports for meetings upon request.
 
-**[10:51]** We have no consent items, no scheduled items, no items for direction, no deferred matters or additional business, just one item in confidential session. So I'm going to look for Councilor Trussow. I'd like to make a motion that we go into confidential session for the purposes of discussing the labor relations. Thank you for moving that. And we've got a seconder in Councilor Ferreira. So we'll just get the clerk to open the vote on that. And then we can move into confidential session. Fosing the vote motion carries six to zero.
+To make a request specific to this meeting, please contact csc@london.ca or phone 519-661-2489 extension 2425. This is a special meeting. It is only a one item agenda colleagues, but I do first have to call for any disclosures of pecuniary interest, seeing none. We have no consent items, no scheduled items, no items for direction, no deferred matters or additional business, just one item in confidential session.
 
-**[11:54]** Thank you colleagues. We will just wait until we get chambers secured and then we'll proceed with our agenda item. All right, the clerk advises. We are ready to proceed back in public session.
+So I'm going to look for Councilor Trussow. I'd like to make a motion that we go into confidential session for the purposes of discussing the labor relations. Thank you for moving that. And we've got a seconder in Councilor Ferreira.
 
-**[15:09]** So I will ask Councilor Trussow as our vice chair to report out. At the June 20th, 2023, Special Corporate Services Committee, the committee considered a confidential matter pertaining to an identifiable individual, particularly an employment-related matter and progress was made. Thank you, Mr. Vice Chair. Colleagues, that concludes our agenda. We just need a motion to adjourn. We'll fight Councilor Stevenson, seconded by Councilor Ferreira. All those in favor?
+So we'll just get the clerk to open the vote on that. And then we can move into confidential session. Fosing the vote motion carries six to zero. Thank you colleagues.
 
-**[15:42]** Motion carries. Thank you colleagues. We will see everyone back in 20 minutes for strategic priorities and policy committee.
+We will just wait until we get chambers secured and then we'll proceed with our agenda item. All right, the clerk advises. We are ready to proceed back in public session. So I will ask Councilor Trussow as our vice chair to report out.
+
+At the June 20th, 2023, Special Corporate Services Committee, the committee considered a confidential matter pertaining to an identifiable individual, particularly an employment-related matter and progress was made. Thank you, Mr. Vice Chair. Colleagues, that concludes our agenda.
+
+We just need a motion to adjourn. We'll fight Councilor Stevenson, seconded by Councilor Ferreira. All those in favor? Motion carries.
+
+Thank you colleagues. We will see everyone back in 20 minutes for strategic priorities and policy committee.
 
 </details>
