@@ -401,6 +401,112 @@ export class VectorStore {
   }
 
   /**
+   * Search for chunks of a specific type (e.g., "news_coverage", "vote", "motion")
+   * This is useful for finding vote records or news articles specifically
+   */
+  async searchByChunkType(
+    queryEmbedding: number[],
+    chunkType: string,
+    limit: number = 50,
+    recentMonths?: number
+  ): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    try {
+      let whereClause = `chunk_type = '${chunkType}'`;
+
+      // Optionally filter to recent data
+      if (recentMonths) {
+        const cutoff = new Date();
+        cutoff.setMonth(cutoff.getMonth() - recentMonths);
+        const cutoffStr = cutoff.toISOString().split('T')[0];
+        whereClause += ` AND meeting_date >= '${cutoffStr}'`;
+      }
+
+      const results = await this.table
+        .vectorSearch(queryEmbedding)
+        .where(whereClause)
+        .limit(limit)
+        .toArray();
+
+      console.log(`🔍 Found ${results.length} ${chunkType} chunks${recentMonths ? ` from last ${recentMonths} months` : ''}`);
+
+      return results.map((result: any) => ({
+        text: result.text,
+        score: result._distance || 0,
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error) {
+      console.error(`Error searching for ${chunkType} chunks:`, error);
+      return [];
+    }
+  }
+
+  /**
+   * Get recent news_coverage chunks (contains vote breakdowns from articles)
+   * This bypasses semantic search to ensure we get actual vote data
+   */
+  async getRecentNewsCoverage(limit: number = 30, recentMonths: number = 6): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    const dummyVector = new Array(1536).fill(0);
+    const cutoff = new Date();
+    cutoff.setMonth(cutoff.getMonth() - recentMonths);
+    const cutoffStr = cutoff.toISOString().split('T')[0];
+
+    try {
+      const results = await this.table
+        .vectorSearch(dummyVector)
+        .where(`chunk_type = 'news_coverage' AND meeting_date >= '${cutoffStr}'`)
+        .limit(limit * 2)
+        .toArray();
+
+      // Sort by date descending
+      const sorted = results.sort((a: any, b: any) => {
+        const dateA = new Date(a.meeting_date).getTime();
+        const dateB = new Date(b.meeting_date).getTime();
+        return dateB - dateA;
+      });
+
+      console.log(`📰 Found ${sorted.length} news_coverage chunks from last ${recentMonths} months`);
+      if (sorted.length > 0) {
+        console.log(`   Most recent: ${sorted[0].meeting_date} - ${sorted[0].meeting_title}`);
+      }
+
+      return sorted.slice(0, limit).map((result: any) => ({
+        text: result.text,
+        score: 0,
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error) {
+      console.error('Error getting recent news coverage:', error);
+      return [];
+    }
+  }
+
+  /**
    * Get statistics about the vector store
    */
   async getStats(): Promise<{ count: number }> {

@@ -416,8 +416,9 @@ export class RAGService {
       'bicycle': 'bike bicycle cycling cycling network cycling infrastructure active transportation',
       'cycling': 'bike bicycle cycling cycling network cycling infrastructure active transportation mobility master plan',
       'bike lane': 'bike lane cycling infrastructure cycling network removed BE REMOVED mobility master plan',
-      'scooter': 'scooter e-scooter electric scooter micro-mobility shared mobility',
-      'e-scooter': 'scooter e-scooter electric scooter micro-mobility shared mobility',
+      'scooter': 'scooter e-scooter electric scooter kick scooter electric kick scooter micro-mobility pilot program cargo bike voted against voted in favour councillors',
+      'e-scooter': 'scooter e-scooter electric scooter kick scooter electric kick scooter micro-mobility pilot program cargo bike voted against voted in favour councillors',
+      'kick scooter': 'scooter e-scooter electric scooter kick scooter electric kick scooter micro-mobility pilot program cargo bike voted against voted in favour councillors',
       'climate': 'climate environment CEAP climate emergency greenhouse gas emissions net zero',
       'housing': 'housing affordable housing social housing homelessness shelter supportive housing',
       'homeless': 'homeless homelessness shelter encampment supportive housing hub WCSR',
@@ -760,6 +761,7 @@ export class RAGService {
     // Strategy 3: Councillor voting query - HYBRID retrieval
     // Combines semantic search for topic relevance with recent data to ensure temporal coverage
     // Also searches specifically for the councillor's name to find their votes even when absent
+    // CRITICAL: Also includes news_coverage chunks which contain vote breakdowns
     // This prevents bias toward older, more verbose content
     if (isCouncillorVotingQuery) {
       const recentOnly = !wantsHistoricalContext;
@@ -768,33 +770,38 @@ export class RAGService {
       const queryEmbedding = await this.generateQueryEmbedding(query);
 
       // 1. Get semantically relevant results (topic-based)
-      const semanticResults = await this.vectorStore.search(queryEmbedding, Math.floor(topK * 0.5));
+      const semanticResults = await this.vectorStore.search(queryEmbedding, Math.floor(topK * 0.4));
 
       // 2. Get recent results to ensure we don't miss recent votes
-      const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.4));
+      const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.3));
 
-      // 3. If we have a councillor name, do additional targeted searches
+      // 3. CRITICAL: Get recent news_coverage chunks which contain actual vote breakdowns
+      // These are the chunks that say "Councillors who voted AGAINST: ..."
+      const newsCoverageResults = await this.vectorStore.getRecentNewsCoverage(Math.floor(topK * 0.3), 6);
+      console.log(`   News coverage search: ${newsCoverageResults.length} results with vote breakdowns`);
+
+      // 4. If we have a councillor name, do additional targeted searches
       let councillorNameResults: SearchResult[] = [];
       let councillorTopicResults: SearchResult[] = [];
       if (councillorName) {
-        // 3a. Search for the councillor name with voting keywords
-        const nameQuery = `${councillorName} voted vote yeas nays absent council motion moved`;
+        // 4a. Search for the councillor name with voting keywords
+        const nameQuery = `${councillorName} voted vote yeas nays absent council motion moved councillors who voted against`;
         const nameEmbedding = await this.generateQueryEmbedding(nameQuery);
         councillorNameResults = await this.vectorStore.search(nameEmbedding, Math.floor(topK * 0.3));
         console.log(`   Name-based search for "${councillorName}": ${councillorNameResults.length} results`);
 
-        // 3b. Extract topic from original query and search for councillor + topic + action keywords
+        // 4b. Extract topic from original query and search for councillor + topic + action keywords
         // This helps find "Motion made by Lewis" + "cycling" + "BE REMOVED" chunks
         const topicKeywords = this.extractTopicKeywords(query);
         if (topicKeywords) {
-          const topicQuery = `${councillorName} ${topicKeywords} motion moved vote removed approved rejected`;
+          const topicQuery = `${councillorName} ${topicKeywords} motion moved vote removed approved rejected councillors who voted`;
           const topicEmbedding = await this.generateQueryEmbedding(topicQuery);
           councillorTopicResults = await this.vectorStore.search(topicEmbedding, Math.floor(topK * 0.3));
           console.log(`   Topic-based search for "${councillorName}" + "${topicKeywords}": ${councillorTopicResults.length} results`);
         }
       }
 
-      // Combine and deduplicate results, prioritizing recency
+      // Combine and deduplicate results, prioritizing news_coverage and recency
       const seenIds = new Set<string>();
       const combinedResults: SearchResult[] = [];
 
@@ -809,7 +816,8 @@ export class RAGService {
         }
       };
 
-      // Add in order: recent first, then semantic, then name-based, then topic-based
+      // Add in order: news_coverage FIRST (has vote breakdowns), then recent, then semantic, then name-based, then topic-based
+      addResults(newsCoverageResults);  // CRITICAL: These contain "Councillors who voted AGAINST: ..."
       addResults(recentResults);
       addResults(semanticResults);
       addResults(councillorNameResults);
@@ -823,7 +831,7 @@ export class RAGService {
       });
 
       this.logUniqueMeetings(sorted);
-      console.log(`   Combined ${semanticResults.length} semantic + ${recentResults.length} recent + ${councillorNameResults.length} name + ${councillorTopicResults.length} topic = ${sorted.length} unique chunks`);
+      console.log(`   Combined: ${newsCoverageResults.length} news_coverage + ${recentResults.length} recent + ${semanticResults.length} semantic + ${councillorNameResults.length} name + ${councillorTopicResults.length} topic = ${sorted.length} unique chunks`);
 
       // CRITICAL: Filter out old data for councillor voting queries UNLESS user explicitly asked for historical context
       // This prevents the model from elaborating on old votes when the user just wants current position
@@ -842,14 +850,22 @@ export class RAGService {
         console.log(`   🕐 Filtered to recent data (last 2 years): ${finalResults.length} chunks (removed ${sorted.length - finalResults.length} old chunks)`);
       }
 
-      // DEBUG: Log first 5 chunks to see what context the model receives
-      console.log(`\n📋 DEBUG - First 5 chunks being sent to model:`);
-      finalResults.slice(0, 5).forEach((chunk, i) => {
-        const preview = chunk.text.substring(0, 200).replace(/\n/g, ' ');
-        console.log(`   ${i + 1}. [${chunk.metadata.meeting_date}] ${chunk.metadata.meeting_title}`);
+      // DEBUG: Log first 10 chunks to see what context the model receives
+      console.log(`\n📋 DEBUG - First 10 chunks being sent to model:`);
+      finalResults.slice(0, 10).forEach((chunk, i) => {
+        const preview = chunk.text.substring(0, 150).replace(/\n/g, ' ');
+        console.log(`   ${i + 1}. [${chunk.metadata.meeting_date}] ${chunk.metadata.chunk_type} - ${chunk.metadata.meeting_title}`);
         console.log(`      "${preview}..."`);
       });
       console.log('');
+
+      // Log chunk type breakdown for debugging
+      const chunkTypeCounts: Record<string, number> = {};
+      for (const chunk of finalResults) {
+        const type = chunk.metadata.chunk_type;
+        chunkTypeCounts[type] = (chunkTypeCounts[type] || 0) + 1;
+      }
+      console.log(`   📊 Chunk type breakdown: ${Object.entries(chunkTypeCounts).map(([t, c]) => `${t}:${c}`).join(', ')}`);
 
       return finalResults.slice(0, topK);
     }
