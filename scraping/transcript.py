@@ -424,7 +424,7 @@ Article text:
                 "anthropic-version": "2023-06-01"
             },
             json={
-                "model": "claude-3-5-haiku-20241022",
+                "model": "claude-sonnet-4-5-20250929",
                 "max_tokens": 500,
                 "messages": [
                     {"role": "user", "content": prompt + article_text}
