@@ -216,7 +216,7 @@ export class EmbeddingGenerator {
           text: newsText,
           metadata: {
             ...baseMetadata,
-            chunk_type: 'content',  // Use 'content' type so it's included in searches
+            chunk_type: 'news_coverage',  // Specific type for vote breakdown searches
             item_title: `News: ${article.title}`,
           },
         });
