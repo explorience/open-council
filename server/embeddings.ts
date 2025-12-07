@@ -7,7 +7,7 @@ import type { Meeting, EmbeddingChunk, Content } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
 const MAX_BATCH_SIZE = 1000; // Maximum chunks per batch (OpenAI allows up to 2048)
-const MAX_TOKENS_PER_BATCH = 500000; // High limit - real constraint is per-input, not per-batch
+const MAX_TOKENS_PER_BATCH = 250000; // OpenAI limit is 300k tokens per request, use 250k for safety margin
 const MAX_TOKENS_PER_CHUNK = 8000; // Maximum tokens per individual chunk (OpenAI limit is 8191)
 const RATE_LIMIT_DELAY_MS = 0; // No delay between batches (retry logic handles rate limits)
 const MAX_RETRIES = 5;
