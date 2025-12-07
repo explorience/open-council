@@ -45,7 +45,7 @@ def search_news_coverage(date: datetime, meeting_type: str, verbose: bool = Fals
     Search for news articles covering a council meeting.
 
     Searches London Free Press for articles about the meeting published
-    within 2 days of the meeting date.
+    on the meeting date or up to 2 days after (when news coverage is typically published).
 
     Args:
         date: Meeting date
@@ -283,10 +283,13 @@ def fetch_news_article(url: str, meeting_date: datetime, verbose: bool = False) 
                 try:
                     article_date = datetime.strptime(date_match.group(1), '%Y-%m-%d')
                     # Filter out articles too far from meeting date
-                    days_diff = abs((article_date - meeting_date).days)
-                    if days_diff > 3:
+                    days_diff = (article_date - meeting_date).days  # Signed difference
+                    # Only accept articles from meeting day or up to 2 days AFTER
+                    # (news coverage is published same day or day after the meeting)
+                    # Reject articles from BEFORE the meeting (they're about a different meeting)
+                    if days_diff < 0 or days_diff > 2:
                         if verbose:
-                            print(f"      → Rejected: article date {article_date.strftime('%Y-%m-%d')} too far from meeting date")
+                            print(f"      → Rejected: article date {article_date.strftime('%Y-%m-%d')} not covering this meeting (must be 0-2 days after)")
                         return None
                 except:
                     pass
