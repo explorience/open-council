@@ -3,7 +3,7 @@
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 import OpenAI from 'openai';
-import type { Meeting, EmbeddingChunk, Content, TranscriptSegment } from './types.js';
+import type { Meeting, EmbeddingChunk, Content } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
 const MAX_BATCH_SIZE = 100; // Maximum chunks per batch
@@ -11,7 +11,8 @@ const MAX_TOKENS_PER_BATCH = 8000; // text-embedding-3-small has 8192 token limi
 const MAX_TOKENS_PER_CHUNK = 8000; // Maximum tokens per individual chunk
 const RATE_LIMIT_DELAY_MS = 0; // No delay between batches (retry logic handles rate limits)
 const MAX_RETRIES = 5;
-const TRANSCRIPT_CHUNK_DURATION_SECONDS = 300; // 5-minute transcript chunks
+const TRANSCRIPT_CHUNK_TOKENS = 500; // Target tokens per transcript chunk
+const TRANSCRIPT_CHUNK_OVERLAP_TOKENS = 50; // Overlap between chunks for context
 
 /**
  * Rough token count estimation (OpenAI uses ~4 chars per token for English text)
@@ -227,79 +228,101 @@ export class EmbeddingGenerator {
   }
 
   /**
-   * Convert timestamp string (HH:MM:SS.mmm) to seconds
+   * Split text into sentences (approximate - handles common sentence endings)
    */
-  private timestampToSeconds(timestamp: string): number {
-    const parts = timestamp.replace(',', '.').split(':');
-    const hours = parseInt(parts[0], 10);
-    const minutes = parseInt(parts[1], 10);
-    const seconds = parseFloat(parts[2]);
-    return hours * 3600 + minutes * 60 + seconds;
+  private splitIntoSentences(text: string): string[] {
+    // Split on sentence-ending punctuation followed by space or end
+    // This is a simple heuristic that works well for transcripts
+    const sentences = text.split(/(?<=[.!?])\s+/);
+    return sentences.filter(s => s.trim().length > 0);
   }
 
   /**
-   * Create chunks from transcript segments
-   * Groups segments into ~5 minute blocks for embedding
+   * Create chunks from consolidated transcript text
+   * Uses token-based chunking with overlap for better embedding quality
    */
   private createTranscriptChunks(
-    transcript: TranscriptSegment[],
+    transcript: string,
     baseMetadata: any,
     filePath: string
   ): EmbeddingChunk[] {
     const chunks: EmbeddingChunk[] = [];
 
-    if (!transcript.length) return chunks;
+    if (!transcript || transcript.length === 0) return chunks;
 
-    let currentChunkSegments: TranscriptSegment[] = [];
-    let chunkStartTime = this.timestampToSeconds(transcript[0].start);
+    const sentences = this.splitIntoSentences(transcript);
+    if (sentences.length === 0) return chunks;
+
+    let currentChunkSentences: string[] = [];
+    let currentTokenCount = 0;
     let chunkIndex = 0;
 
-    for (const segment of transcript) {
-      const segmentTime = this.timestampToSeconds(segment.start);
+    for (const sentence of sentences) {
+      const sentenceTokens = estimateTokenCount(sentence);
 
-      // Check if we should start a new chunk
-      if (segmentTime - chunkStartTime >= TRANSCRIPT_CHUNK_DURATION_SECONDS && currentChunkSegments.length > 0) {
+      // Check if adding this sentence would exceed the target chunk size
+      if (currentTokenCount + sentenceTokens > TRANSCRIPT_CHUNK_TOKENS && currentChunkSentences.length > 0) {
         // Save current chunk
-        chunks.push(this.buildTranscriptChunk(currentChunkSegments, baseMetadata, filePath, chunkIndex));
+        chunks.push(this.buildTranscriptChunk(currentChunkSentences, baseMetadata, filePath, chunkIndex));
         chunkIndex++;
 
-        // Start new chunk
-        currentChunkSegments = [];
-        chunkStartTime = segmentTime;
+        // Start new chunk with overlap from previous chunk
+        const overlapSentences = this.getOverlapSentences(currentChunkSentences);
+        currentChunkSentences = overlapSentences;
+        currentTokenCount = overlapSentences.reduce((sum, s) => sum + estimateTokenCount(s), 0);
       }
 
-      currentChunkSegments.push(segment);
+      currentChunkSentences.push(sentence);
+      currentTokenCount += sentenceTokens;
     }
 
     // Don't forget the last chunk
-    if (currentChunkSegments.length > 0) {
-      chunks.push(this.buildTranscriptChunk(currentChunkSegments, baseMetadata, filePath, chunkIndex));
+    if (currentChunkSentences.length > 0) {
+      chunks.push(this.buildTranscriptChunk(currentChunkSentences, baseMetadata, filePath, chunkIndex));
     }
 
     return chunks;
   }
 
   /**
-   * Build a single transcript chunk from segments
+   * Get sentences from the end of a chunk to use as overlap for the next chunk
+   */
+  private getOverlapSentences(sentences: string[]): string[] {
+    const overlapSentences: string[] = [];
+    let overlapTokens = 0;
+
+    // Work backwards from the end to get overlap sentences
+    for (let i = sentences.length - 1; i >= 0 && overlapTokens < TRANSCRIPT_CHUNK_OVERLAP_TOKENS; i--) {
+      const sentenceTokens = estimateTokenCount(sentences[i]);
+      if (overlapTokens + sentenceTokens <= TRANSCRIPT_CHUNK_OVERLAP_TOKENS * 1.5) {
+        overlapSentences.unshift(sentences[i]);
+        overlapTokens += sentenceTokens;
+      } else {
+        break;
+      }
+    }
+
+    return overlapSentences;
+  }
+
+  /**
+   * Build a single transcript chunk from sentences
    */
   private buildTranscriptChunk(
-    segments: TranscriptSegment[],
+    sentences: string[],
     baseMetadata: any,
     filePath: string,
     chunkIndex: number
   ): EmbeddingChunk {
-    const text = segments.map(s => s.text).join(' ');
-    const startTime = segments[0].start;
-    const endTime = segments[segments.length - 1].end;
+    const text = sentences.join(' ');
 
     return {
       id: `${filePath}:transcript:${chunkIndex}`,
-      text: `[Transcript ${startTime} - ${endTime}]\n${text}`,
+      text: `[Transcript]\n${text}`,
       metadata: {
         ...baseMetadata,
         chunk_type: 'transcript',
-        transcript_start: startTime,
-        transcript_end: endTime,
+        transcript_chunk_index: chunkIndex,
       },
     };
   }
