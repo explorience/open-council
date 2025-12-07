@@ -182,7 +182,7 @@ export class EmbeddingGenerator {
     }
 
     // Transcript chunks (if available)
-    if (meeting.transcript?.length) {
+    if (meeting.transcript && (typeof meeting.transcript === 'string' ? meeting.transcript.length > 0 : meeting.transcript.length > 0)) {
       const transcriptChunks = this.createTranscriptChunks(meeting.transcript, baseMetadata, filePath);
       chunks.push(...transcriptChunks);
     }
@@ -238,19 +238,30 @@ export class EmbeddingGenerator {
   }
 
   /**
-   * Create chunks from consolidated transcript text
+   * Create chunks from transcript (handles both string and legacy array formats)
    * Uses token-based chunking with overlap for better embedding quality
    */
   private createTranscriptChunks(
-    transcript: string,
+    transcript: string | Array<{ text: string; start?: string; end?: string }>,
     baseMetadata: any,
     filePath: string
   ): EmbeddingChunk[] {
     const chunks: EmbeddingChunk[] = [];
 
-    if (!transcript || transcript.length === 0) return chunks;
+    // Handle both string (new format) and array (legacy format)
+    let transcriptText: string;
+    if (typeof transcript === 'string') {
+      transcriptText = transcript;
+    } else if (Array.isArray(transcript)) {
+      // Legacy format: array of segments - join them
+      transcriptText = transcript.map(seg => seg.text).join(' ');
+    } else {
+      return chunks;
+    }
 
-    const sentences = this.splitIntoSentences(transcript);
+    if (!transcriptText || transcriptText.length === 0) return chunks;
+
+    const sentences = this.splitIntoSentences(transcriptText);
     if (sentences.length === 0) return chunks;
 
     let currentChunkSentences: string[] = [];
