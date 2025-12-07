@@ -10,74 +10,53 @@
 import fs from 'fs/promises'
 import path from 'path'
 
-interface TranscriptSegment {
-  index: number
-  start: string
-  end: string
-  text: string
-}
-
 interface Meeting {
   title: string
   datetime: string
-  transcript?: TranscriptSegment[]
+  transcript?: string  // Consolidated full transcript text
+  transcript_duration?: string  // Pre-computed duration, e.g., "1 hour, 43 minutes"
   transcript_source?: string
   transcript_source_url?: string
 }
 
 /**
- * Convert timestamp to seconds for duration calculation
+ * Split text into paragraphs for better readability
+ * Aims for paragraphs of roughly 3-5 sentences each
  */
-function timestampToSeconds(timestamp: string): number {
-  const parts = timestamp.replace(',', '.').split(':')
-  const hours = parseInt(parts[0], 10)
-  const minutes = parseInt(parts[1], 10)
-  const seconds = parseFloat(parts[2])
-  return hours * 3600 + minutes * 60 + seconds
-}
+function splitIntoParagraphs(text: string): string[] {
+  // Split on sentence endings
+  const sentences = text.split(/(?<=[.!?])\s+/)
+  const paragraphs: string[] = []
+  let currentParagraph: string[] = []
 
-/**
- * Get human-readable duration from transcript segments
- */
-function getTranscriptDuration(transcript: TranscriptSegment[]): string {
-  if (!transcript.length) return '0 minutes'
+  for (const sentence of sentences) {
+    currentParagraph.push(sentence)
 
-  const lastSegment = transcript[transcript.length - 1]
-  const totalSeconds = timestampToSeconds(lastSegment.end)
-
-  const hours = Math.floor(totalSeconds / 3600)
-  const minutes = Math.floor((totalSeconds % 3600) / 60)
-
-  if (hours > 0) {
-    return `${hours} hour${hours !== 1 ? 's' : ''}, ${minutes} minute${minutes !== 1 ? 's' : ''}`
+    // Create a new paragraph every 4-5 sentences or at natural breaks
+    if (currentParagraph.length >= 4) {
+      paragraphs.push(currentParagraph.join(' '))
+      currentParagraph = []
+    }
   }
-  return `${minutes} minute${minutes !== 1 ? 's' : ''}`
-}
 
-/**
- * Format timestamp for display (HH:MM:SS → H:MM:SS or MM:SS)
- */
-function formatTimestamp(timestamp: string): string {
-  const parts = timestamp.replace(',', '.').split(':')
-  const hours = parseInt(parts[0], 10)
-  const minutes = parseInt(parts[1], 10)
-  const seconds = Math.floor(parseFloat(parts[2]))
-
-  if (hours > 0) {
-    return `${hours}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`
+  // Don't forget the last paragraph
+  if (currentParagraph.length > 0) {
+    paragraphs.push(currentParagraph.join(' '))
   }
-  return `${minutes}:${seconds.toString().padStart(2, '0')}`
+
+  return paragraphs
 }
 
 /**
  * Generate the transcript markdown section
  */
 function generateTranscriptMarkdown(
-  transcript: TranscriptSegment[],
+  transcript: string,
+  duration?: string,
   source?: string,
   sourceUrl?: string
 ): string {
-  const duration = getTranscriptDuration(transcript)
+  const durationText = duration || 'full recording'
 
   let md = '\n---\n\n'
   md += '## Full Transcript\n\n'
@@ -89,41 +68,13 @@ function generateTranscriptMarkdown(
   }
 
   md += `<details>\n`
-  md += `<summary>View full transcript (${duration})</summary>\n\n`
+  md += `<summary>View full transcript (${durationText})</summary>\n\n`
 
-  // Group segments into paragraphs (every ~30 seconds or natural breaks)
-  let currentParagraph: TranscriptSegment[] = []
-  let paragraphStartTime = transcript[0]?.start || '00:00:00'
+  // Split into readable paragraphs
+  const paragraphs = splitIntoParagraphs(transcript)
 
-  for (let i = 0; i < transcript.length; i++) {
-    const segment = transcript[i]
-    currentParagraph.push(segment)
-
-    // Start new paragraph every ~30 seconds or at natural speech breaks
-    const segmentTime = timestampToSeconds(segment.start)
-    const paragraphTime = timestampToSeconds(paragraphStartTime)
-    const isLongEnough = segmentTime - paragraphTime >= 30
-    const endsWithPunctuation = /[.!?]$/.test(segment.text.trim())
-
-    if (isLongEnough && endsWithPunctuation) {
-      // Output paragraph
-      const timestamp = formatTimestamp(paragraphStartTime)
-      const text = currentParagraph.map(s => s.text).join(' ')
-      md += `**[${timestamp}]** ${text}\n\n`
-
-      // Reset for next paragraph
-      currentParagraph = []
-      if (i + 1 < transcript.length) {
-        paragraphStartTime = transcript[i + 1].start
-      }
-    }
-  }
-
-  // Don't forget the last paragraph
-  if (currentParagraph.length > 0) {
-    const timestamp = formatTimestamp(paragraphStartTime)
-    const text = currentParagraph.map(s => s.text).join(' ')
-    md += `**[${timestamp}]** ${text}\n\n`
+  for (const paragraph of paragraphs) {
+    md += `${paragraph}\n\n`
   }
 
   md += '</details>\n'
@@ -193,7 +144,36 @@ async function main() {
       }
 
       // Skip if no transcript
-      if (!meeting.transcript || meeting.transcript.length === 0) {
+      const transcript = meeting.transcript
+      if (!transcript || (typeof transcript === 'string' && transcript.length === 0)) {
+        skipped++
+        continue
+      }
+
+      // Handle both old array format and new string format during migration
+      let transcriptText: string
+      let duration: string | undefined = meeting.transcript_duration
+
+      if (typeof transcript === 'string') {
+        transcriptText = transcript
+      } else if (Array.isArray(transcript)) {
+        // Legacy format: array of segments - join them
+        transcriptText = (transcript as any[]).map((s: any) => s.text).join(' ')
+        // Calculate duration from last segment if not provided
+        if (!duration && transcript.length > 0) {
+          const lastSeg = (transcript as any[])[transcript.length - 1]
+          if (lastSeg.end) {
+            const parts = lastSeg.end.replace(',', '.').split(':')
+            const hours = parseInt(parts[0], 10)
+            const minutes = parseInt(parts[1], 10)
+            if (hours > 0) {
+              duration = `${hours} hour${hours !== 1 ? 's' : ''}, ${minutes} minute${minutes !== 1 ? 's' : ''}`
+            } else {
+              duration = `${minutes} minute${minutes !== 1 ? 's' : ''}`
+            }
+          }
+        }
+      } else {
         skipped++
         continue
       }
@@ -220,7 +200,8 @@ async function main() {
 
       // Generate and append transcript section
       const transcriptMd = generateTranscriptMarkdown(
-        meeting.transcript,
+        transcriptText,
+        duration,
         meeting.transcript_source,
         meeting.transcript_source_url
       )

@@ -877,6 +877,25 @@ def get_transcript_duration(segments: List[Dict[str, Any]]) -> str:
     return f"{minutes} minute{'s' if minutes != 1 else ''}"
 
 
+def consolidate_transcript(segments: List[Dict[str, Any]]) -> str:
+    """
+    Consolidate transcript segments into a single text string.
+
+    Joins all segment text with spaces, producing a single continuous transcript.
+    This simplifies storage and improves downstream chunking for embeddings.
+
+    Args:
+        segments: List of transcript segment dicts with 'text' field
+
+    Returns:
+        Consolidated transcript as a single string
+    """
+    if not segments:
+        return ""
+
+    return " ".join(segment['text'] for segment in segments)
+
+
 def build_transcript_url(date: datetime, meeting_type: str, verbose: bool = False) -> Optional[str]:
     """
     Build the URL for a transcript on Lillian's archive.
@@ -1075,7 +1094,8 @@ def add_transcript_to_meeting(json_path: Path, verbose: bool = False) -> bool:
         return False
 
     # Skip if transcript already exists and is non-empty
-    if meeting.get('transcript') and len(meeting.get('transcript', [])) > 0:
+    existing_transcript = meeting.get('transcript')
+    if existing_transcript and (isinstance(existing_transcript, str) or len(existing_transcript) > 0):
         return False
 
     # Parse the meeting date
@@ -1095,12 +1115,13 @@ def add_transcript_to_meeting(json_path: Path, verbose: bool = False) -> bool:
     meeting_type = meeting.get('meeting_type', '')
 
     # Fetch transcript
-    transcript = fetch_transcript(meeting_date, meeting_type, verbose=verbose)
-    if not transcript:
+    transcript_segments = fetch_transcript(meeting_date, meeting_type, verbose=verbose)
+    if not transcript_segments:
         return False
 
-    # Add transcript to meeting data
-    meeting['transcript'] = transcript
+    # Add consolidated transcript to meeting data
+    meeting['transcript'] = consolidate_transcript(transcript_segments)
+    meeting['transcript_duration'] = get_transcript_duration(transcript_segments)
     meeting['transcript_source'] = 'lillian_skinner_archive'
     meeting['transcript_source_url'] = build_transcript_url(meeting_date, meeting_type)
 
@@ -1168,7 +1189,8 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False, limit: in
             try:
                 with open(json_path, 'r') as f:
                     meeting = json.load(f)
-                    if meeting.get('transcript') and len(meeting.get('transcript', [])) > 0:
+                    existing_transcript = meeting.get('transcript')
+                    if existing_transcript and (isinstance(existing_transcript, str) or len(existing_transcript) > 0):
                         stats['already_have'] += 1
                         continue
             except:
@@ -1215,8 +1237,8 @@ def create_transcript_only_meeting(
         data_dir = Path(__file__).parent.parent / 'data'
 
     # Fetch transcript
-    transcript = fetch_transcript(date, meeting_type)
-    if not transcript:
+    transcript_segments = fetch_transcript(date, meeting_type)
+    if not transcript_segments:
         print(f"  No transcript available for {date.strftime('%Y-%m-%d')} {meeting_type}")
         return None
 
@@ -1253,10 +1275,10 @@ def create_transcript_only_meeting(
             "transcript": True,
             "news_coverage": bool(news_coverage)
         },
-        "transcript": transcript,
+        "transcript": consolidate_transcript(transcript_segments),
         "transcript_source": "lillian_skinner_archive",
         "transcript_source_url": build_transcript_url(date, meeting_type),
-        "transcript_duration": get_transcript_duration(transcript),
+        "transcript_duration": get_transcript_duration(transcript_segments),
         "news_coverage": news_coverage,
         # Empty placeholders for official minutes data
         "present": [],

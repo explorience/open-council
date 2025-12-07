@@ -1,12 +1,5 @@
 // Types for London City Council meeting data
 
-export interface TranscriptSegment {
-  index: number;
-  start: string;
-  end: string;
-  text: string;
-}
-
 export interface Meeting {
   title: string;
   datetime: string;
@@ -21,7 +14,8 @@ export interface Meeting {
   bills?: {
     bills: Bill[];
   };
-  transcript?: TranscriptSegment[];
+  transcript?: string;  // Consolidated full transcript text
+  transcript_duration?: string;  // Human-readable duration, e.g., "1 hour, 43 minutes"
   transcript_source?: string;
   transcript_source_url?: string;
   data_sources?: {
@@ -92,8 +86,7 @@ export interface EmbeddingChunk {
     item_title?: string;
     chunk_type: 'motion' | 'content' | 'bill' | 'attendance' | 'transcript';
     file_path: string;
-    transcript_start?: string;
-    transcript_end?: string;
+    transcript_chunk_index?: number;  // Index of this chunk within the transcript
     has_official_minutes?: boolean;  // false = transcript-only, no vote records
   };
 }
