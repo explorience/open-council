@@ -6,14 +6,12 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his 8 years on council?"
-  - "Which specific committees did Turner serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Turner typically vote on major budget decisions and key municipal issues that came before council during his tenure?"
+  - "What was Stephen Turner's voting alignment with other council members on major municipal issues during his 2014-2022 tenure?"
+  - "How did Turner's committee participation and meeting attendance compare to other councillors serving during the same period?"
+  - "What were the key policy areas or initiatives that Turner championed or consistently supported throughout his eight years on council?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, representing an 8-year tenure. During this period, he demonstrated consistent participation by attending 417 council meetings. Turner was actively involved in committee work, serving on 7 different committees throughout his time on council, indicating broad engagement across various municipal policy areas and city governance functions.
-
-His substantial meeting attendance record and multi-committee involvement suggest he was an engaged council member who participated regularly in the city's decision-making processes over nearly a decade of service.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent engagement with an attendance record of 417 meetings over his eight-year tenure. During his time on council, Turner participated in seven different committees, indicating broad involvement across various municipal governance areas. His service spanned two full council terms, suggesting he was re-elected and maintained voter confidence throughout his time in office.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major municipal issues like budget approvals, development projects, and transit initiatives during her time on council?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did her attendance rate and committee participation compare to other council members during the same time period?"
+  - "What was Maureen Cassidy's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How frequently did she propose motions or amendments during council meetings, and what were the main topics she championed?"
+  - "What was her attendance rate and level of participation in the specific committees she served on compared to other council members?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, spanning an eight-year period of municipal service. During her tenure, she demonstrated consistent participation by attending 536 council meetings and served on seven different committees, indicating active involvement in various aspects of city governance and policy development.
+Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings over her eight-year tenure. During her time on council, she served on seven different committees, showing broad engagement across various municipal functions and policy areas.
 
-Her extended service period of eight years suggests she was re-elected at least once during London's four-year municipal election cycles. The high number of meeting attendances reflects regular engagement with council proceedings, while her participation across multiple committees indicates involvement in diverse areas of municipal administration and decision-making.
+Her extended service spanning two full terms indicates sustained civic involvement and commitment to municipal governance. The substantial number of meetings attended suggests regular participation in council proceedings and committee work throughout her tenure.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
-  - "Which specific committees did Mo Salih serve on, and what leadership roles, if any, did they hold on these committees?"
-  - "How does Mo Salih's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What was Mo Salih's voting attendance rate and did they miss any significant votes during their eight years on council?"
+  - "Which specific committees did Mo Salih serve on and did they hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Mo Salih's committee participation and meeting attendance compare to other council members during the same period?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During their tenure, they attended 350 council meetings and served on four different committees, though the specific committee names are not clearly indicated in the available data.
+Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent engagement with council duties, attending 350 meetings over the course of their service. Salih participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly specified in the available data.
 
-Their eight-year term represents two full municipal election cycles, suggesting they were re-elected at least once during their time in office. The high number of meeting attendances over this period indicates regular engagement with council proceedings and municipal governance responsibilities.
+Their eight-year term represents two full council terms, indicating they were re-elected at least once during their time in municipal politics. The substantial number of meetings attended suggests regular participation in both regular council sessions and committee work throughout their time in office.
 
 ## Terms of Service
 

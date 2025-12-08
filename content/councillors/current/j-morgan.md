@@ -6,14 +6,12 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Josh Morgan's voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How frequently has he been absent from council meetings, and what is his attendance rate compared to other council members?"
-  - "Which specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Josh Morgan's attendance rate at council meetings compared to other council members during his tenure?"
+  - "Which specific committees has Josh Morgan served on and what were his roles on each committee?"
+  - "How has Josh Morgan's voting record aligned with council majority decisions versus opposition positions during his time in office?"
 ---
 
-Josh Morgan has been an active member of London City Council, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has attended 654 council meetings, demonstrating consistent engagement in the city's governance process. His service has included participation on eight different committees, indicating broad involvement across various aspects of municipal operations and policy development.
-
-This extensive meeting attendance record and multi-committee involvement suggests Morgan has maintained a high level of participation throughout his council term. His long tenure from 2014 to 2025 spans multiple election cycles, indicating sustained community support and continued commitment to municipal service in London, Ontario.
+Josh Morgan has been an active member of London City Council, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has demonstrated consistent engagement with council duties, attending 654 meetings across his years of service. His involvement extends beyond general council meetings, as he has served on eight different committees throughout his time on council, indicating broad participation across various municipal portfolios and policy areas.
 
 ## Terms of Service
 

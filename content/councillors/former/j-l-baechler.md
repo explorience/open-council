@@ -6,14 +6,14 @@ meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joni Baechler's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Baechler serve on and what role did they play in those committees?"
-  - "How did Baechler's meeting attendance rate compare to other council members during the same period?"
+  - "What was Joni Baechler's voting record on major city budget decisions during their 2011-2014 term?"
+  - "How did they vote on significant development proposals or zoning changes that came before council?"
+  - "What specific committees did Baechler serve on and what was their attendance rate for committee meetings versus regular council sessions?"
 ---
 
-Joni Baechler served on London City Council from 2011-2014, during which time they attended 132 council meetings over their four-year term. Their participation included service on seven different committees, demonstrating active involvement in various aspects of municipal governance during their tenure.
+Joni Baechler served on London City Council from 2011 to 2014, completing one full term of municipal office. During this four-year period, they attended 132 council meetings, demonstrating active participation in the city's governance processes. Baechler served on seven different committees during their tenure, indicating involvement across multiple areas of municipal administration and policy development.
 
-Based on the available data, Baechler maintained consistent attendance at council proceedings throughout their single term of service, participating in the committee structure that helps manage the city's business and policy development processes.
+Their meeting attendance record of 132 sessions over four years suggests consistent engagement with council business and committee work. The breadth of committee involvement shows they took on responsibilities spanning various aspects of city governance during their single term on London City Council.
 
 ## Terms of Service
 

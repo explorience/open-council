@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What was Anna Hopkins' voting attendance rate and how did it compare to other council members during her tenure?"
-  - "Which specific committees did Anna Hopkins serve on and what were her roles or leadership positions within those committees?"
-  - "How did Anna Hopkins vote on major municipal issues like budget approvals, development projects, or significant policy changes during her time on council?"
+  - "What was Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, and tax increases during her time on council?"
+  - "How frequently did Anna Hopkins introduce motions or amendments during council meetings, and what was the success rate of her proposals?"
+  - "What leadership roles, if any, did Anna Hopkins hold on the committees she served on, such as chair or vice-chair positions?"
 ---
 
-Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating over a decade of municipal government participation. During her tenure, she has attended 640 council meetings and served on 8 different committees, indicating active engagement in the city's legislative processes and committee work.
+Anna Hopkins has been an active member of London City Council from 2014 to 2025, demonstrating significant engagement through her attendance at 640 meetings over this 11-year period. This averages to approximately 58 meetings per year, indicating consistent participation in council proceedings. Hopkins has served on eight different committees during her tenure, suggesting broad involvement across various areas of municipal governance and policy development.
 
-Her consistent attendance record and multi-committee involvement suggests sustained participation in London's municipal governance over nearly 11 years of service. The breadth of her committee participation indicates involvement across various areas of city administration and policy development.
+Her extended service span of over a decade represents substantial continuity on London City Council, providing institutional knowledge and experience across multiple council terms. The high meeting attendance record and extensive committee involvement indicate a committed approach to her council responsibilities.
 
 ## Terms of Service
 

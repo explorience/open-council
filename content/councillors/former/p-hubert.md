@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting attendance rate compared to other council members during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert chair or hold leadership positions on during his time on council?"
-  - "How did Paul Hubert vote on major municipal issues such as budget approvals, development projects, or policy changes during his service?"
+  - "What was Paul Hubert's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions on these committees?"
+  - "How did Paul Hubert's attendance rate compare to other councillors during the same period, and were there any notable absences from important votes or meetings?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent engagement through his attendance at 363 meetings over this seven-year period. This represents an average of approximately 52 meetings per year, indicating regular participation in council proceedings.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating significant engagement through his attendance at 363 meetings over his seven-year tenure. This averages to approximately 52 meetings per year, indicating regular participation in council proceedings. During his time on council, Hubert served on eight different committees, showing broad involvement across various municipal portfolios and responsibilities.
 
-During his tenure, Hubert served on eight different committees, showing broad involvement across various aspects of municipal governance. His sustained participation over nearly two full terms suggests he was an active member of the council throughout his service period.
+His extended service period of seven years suggests he was re-elected at least once during his tenure, as municipal terms in Ontario are typically four years. The high meeting attendance record and multiple committee appointments indicate an active councillor who was consistently present for municipal decision-making processes.
 
 ## Terms of Service
 

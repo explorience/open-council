@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "What is Steve Hillier's voting record on major municipal issues and bylaws during his 2018-2025 tenure?"
-  - "How does Steve Hillier's meeting attendance rate of 453 meetings compare to other council members serving during the same period?"
+  - "What is Steve Hillier's voting attendance rate and how does his meeting participation compare to other council members?"
+  - "Has Steve Hillier held any leadership positions, such as committee chair roles, during his tenure on council?"
 ---
 
-Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond regular council sessions, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal matters and policy areas.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal portfolios and policy areas.
 
-His multi-year service spanning seven years shows sustained commitment to municipal governance, with his high meeting attendance suggesting regular participation in the decision-making processes of London's city government. The breadth of his committee involvement indicates he has engaged with diverse aspects of municipal administration during his council tenure.
+Hillier's seven-year term and substantial meeting attendance record suggest a commitment to municipal governance and active participation in London's civic decision-making processes. His multi-committee involvement indicates he has taken on responsibilities across different aspects of city administration and policy development during his council service.
 
 ## Terms of Service
 

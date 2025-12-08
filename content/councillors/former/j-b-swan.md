@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what were his contributions to those committees?"
-  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period?"
+  - "What was Joe Swan's attendance rate as a percentage of total scheduled council meetings during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on and what were the primary responsibilities of those committees?"
+  - "How did Joe Swan vote on major municipal issues and bylaws that came before council during his four-year term?"
 ---
 
-Joe Swan served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, he maintained active participation by attending 147 council meetings. Swan served on six different committees throughout his tenure, demonstrating involvement across multiple areas of municipal governance, though the specific committee names are not clearly displayed in the available data.
+Joe Swan served on London City Council from 2011 to 2014, completing a full four-year term. During this period, he demonstrated active participation by attending 147 council meetings. Swan served on six different committees throughout his tenure, indicating involvement across multiple areas of municipal governance and policy development.
 
-His attendance record and committee involvement suggest consistent engagement with council duties during his term. The meeting attendance figure represents his participation across regular council sessions and committee meetings over the four-year period.
+His attendance record and committee involvement suggest consistent engagement with council business during his term. The four-year service period represents a standard municipal term, and his participation across multiple committees indicates he took on various responsibilities within the council structure.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues during their time on council?"
-  - "Which specific committees did Jesse Helmer serve on and what were their roles or contributions to those committees?"
-  - "How did Jesse Helmer's attendance rate of 580 meetings compare to other council members during the same period?"
+  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "What was Jesse Helmer's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, they served on eight different committees, indicating broad involvement across various municipal portfolios and responsibilities within the council structure.
+Jesse Helmer served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings during this period. Throughout their tenure, Helmer participated in eight different committees, showing broad involvement across various aspects of municipal governance. This level of meeting attendance and committee participation indicates active engagement in the city's decision-making processes over nearly a full decade of service.
 
-Their extended service spanning two full terms reflects sustained civic engagement, with their meeting attendance record suggesting active participation in council proceedings and committee work throughout their time in office.
+The sustained eight-year period of service represents significant continuity on council, allowing for the development of institutional knowledge and long-term perspective on municipal issues. Their participation across multiple committees suggests involvement in diverse areas of city policy and administration.
 
 ## Terms of Service
 

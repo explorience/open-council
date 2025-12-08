@@ -6,14 +6,14 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting pattern on key municipal issues like budget approvals and development proposals during his 2011-2014 term?"
-  - "Which specific committees did Polhill serve on, and what was his attendance record for committee meetings versus general council meetings?"
-  - "How did Polhill's meeting attendance rate of 199 meetings compare to other council members during the same 2011-2014 term?"
+  - "What was Bud Polhill's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what was their role or contribution to those committees?"
+  - "How does Polhill's meeting attendance rate of 199 meetings compare to other council members who served during the same period?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, spanning one full term of municipal government. During this four-year period, he attended 199 council meetings, demonstrating consistent participation in the city's legislative proceedings. Polhill served on five different committees during his tenure, though the specific committee details are not clearly displayed in the available data.
+Bud Polhill served on London City Council from 2011 to 2014, completing a four-year term. During this period, they demonstrated active participation by attending 199 council meetings. Polhill served on five different committees during their tenure, though the specific committee names are not clearly displayed in the available data.
 
-His attendance record of 199 meetings over four years suggests regular engagement with council business and municipal decision-making processes. This level of meeting attendance indicates active participation in London's municipal governance during the 2011-2014 council term.
+Their attendance record suggests consistent engagement with council business over the four-year period, participating in the various meetings required for municipal governance and committee work that forms the foundation of local government decision-making.
 
 ## Terms of Service
 

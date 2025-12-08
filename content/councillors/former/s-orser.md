@@ -6,14 +6,12 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "Which specific committees did Stephen Orser serve on during his 2011-2014 term, and what were his primary areas of focus?"
-  - "What was Stephen Orser's voting attendance rate and how did his 112 meetings attended compare to other council members during the same period?"
-  - "Did Stephen Orser hold any leadership positions on the committees he served on, such as chair or vice-chair roles?"
+  - "What was Stephen Orser's voting record on major budget decisions during his 2011-2014 term?"
+  - "Which specific committees did he serve on and what was his attendance record for committee meetings versus full council meetings?"
+  - "How did his voting patterns align with other council members on key municipal issues like development, transportation, and city services?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, representing a four-year term during which he demonstrated consistent participation by attending 112 meetings. During his tenure, he served on four different committees, indicating active involvement in various aspects of municipal governance beyond regular council sessions.
-
-His participation record shows engagement across multiple areas of city business through his committee work, though the specific committee assignments are not detailed in the available data. The 112 meetings attended over his four-year term reflects regular participation in the council's legislative and administrative processes.
+Stephen Orser served on London City Council from 2011 to 2014, representing a single term of approximately four years. During this period, he demonstrated consistent engagement with council duties by attending 112 meetings. His council participation included service on four different committees, though the specific names of these committees are not clearly indicated in the available data. This level of meeting attendance suggests regular involvement in the city's legislative and administrative processes during his tenure.
 
 ## Terms of Service
 

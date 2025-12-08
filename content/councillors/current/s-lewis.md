@@ -6,12 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development projects, or infrastructure spending?"
-  - "How consistent has their attendance been at committee meetings compared to their overall council meeting attendance?"
-  - "Which specific committees has Shawn Lewis served on, and have they held any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "Which specific committees has Shawn Lewis served on, and what leadership roles, if any, have they held within those committees?"
+  - "How does Shawn Lewis's meeting attendance rate compare to other council members, and have they missed votes on any significant municipal decisions?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 council meetings during this period. Their council service spans approximately seven years, covering multiple terms of office. Lewis has been involved in committee work, serving on eight different committees throughout their tenure, indicating broad engagement across various municipal policy areas and administrative functions.
+Shawn Lewis has been an active member of London City Council, serving from 2018 to 2025. During this period, they have demonstrated strong attendance with participation in 495 council meetings. Lewis has served on eight different committees throughout their tenure, indicating broad involvement across various municipal governance areas and policy domains.
+
+Their seven-year term on council shows sustained civic engagement, with their high meeting attendance suggesting consistent participation in the city's decision-making processes. The extensive committee involvement reflects a willingness to take on additional responsibilities beyond general council duties.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did he serve on and did he hold any chair or vice-chair positions on these committees?"
-  - "How did his voting patterns align with council majority decisions versus minority positions during key policy debates?"
+  - "What was Michael van Holst's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How often did he vote with the majority versus taking minority positions, and on what types of issues did he most frequently dissent?"
+  - "Did he initiate any motions or amendments during his time on council, and what were the outcomes of those initiatives?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolio areas and policy domains.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent engagement through his attendance at 461 council meetings over this eight-year period. During his tenure, he participated on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-His sustained participation over two full council terms suggests active engagement in the city's governance processes, with his committee work likely spanning multiple areas of municipal responsibility from his initial election in 2014 through to 2022.
+His meeting attendance record suggests regular participation in council proceedings throughout his two terms in office. The committee involvement shows he took on responsibilities beyond general council duties, contributing to the detailed work that committees perform in preparing recommendations and reviewing specific policy areas for the full council's consideration.
 
 ## Terms of Service
 

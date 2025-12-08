@@ -6,12 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
-  - "Which specific committees has Jerry Pribil served on, and what has been their level of participation and leadership roles within those committees?"
-  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members and the expected attendance requirements for their term?"
+  - "What is Jerry Pribil's voting attendance rate and how does it compare to other council members during the 2022-2025 term?"
+  - "Which specific committees has Jerry Pribil served on and what roles (chair, vice-chair, member) have they held on each?"
+  - "How has Jerry Pribil voted on major city budget decisions and significant policy initiatives during their tenure?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement includes service on eight different committees, indicating broad engagement across various municipal areas of responsibility. This level of meeting attendance and committee participation suggests consistent involvement in the city's governance and decision-making processes throughout their term.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various municipal issues and portfolios.
+
+This level of meeting attendance and committee participation suggests consistent involvement in the city's governance processes over their current term. The multi-committee service reflects engagement with diverse aspects of municipal administration and policy development during their time as a council member.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
-  - "Which specific committees does David Ferreira serve on, and what are his attendance rates for each individual committee?"
-  - "How does David Ferreira's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2022-2025 term?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
+  - "Which specific committees has he served on and what has been his level of participation in committee work versus full council meetings?"
+  - "How does his attendance rate of 208 meetings compare to other council members during the same 2022-2025 term?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong attendance with 208 meetings attended. His council participation includes service on eight different committees, indicating broad engagement across various municipal portfolio areas and council responsibilities.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his council tenure, he has demonstrated strong participation by attending 208 meetings. His involvement extends across multiple committee assignments, having served on eight different committees throughout his term, indicating broad engagement across various municipal governance areas.
 
-His consistent meeting attendance and extensive committee involvement suggest a high level of civic engagement and dedication to municipal governance during his term on London City Council.
+His consistent meeting attendance and extensive committee participation suggest a committed approach to municipal service during his current term on London City Council.
 
 ## Terms of Service
 

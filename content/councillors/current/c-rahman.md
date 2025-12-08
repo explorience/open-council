@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Corrine Rahman's voting record on major municipal issues such as budget approvals, development projects, or policy changes?"
-  - "How does their meeting attendance rate compare to other council members, and have there been any notable absences from key votes?"
-  - "What specific committees has Rahman served on, and what has been their level of participation or leadership role within those committees?"
+  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 216 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues and bylaws that have come before council?"
 ---
 
-Corrine Rahman has served on London City Council from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Rahman has been involved in committee work, serving on 8 different committees throughout their tenure, indicating broad engagement across various municipal governance areas.
+Corrine Rahman has been an active member of London City Council, Canada, serving from 2022-2025. During this period, she has demonstrated strong participation by attending 216 meetings. Her council involvement extends beyond regular council sessions, as she has served on eight different committees, indicating broad engagement across various municipal functions and policy areas.
 
-Rahman's participation reflects a commitment to council duties through consistent meeting attendance and diverse committee involvement during their current term. The scope of their committee participation suggests engagement with multiple aspects of city governance and municipal decision-making processes.
+Rahman's high meeting attendance record and extensive committee participation suggest consistent involvement in London's municipal governance during her term. Her service across multiple committees allows her to contribute to diverse aspects of city administration and policy development.
 
 ## Terms of Service
 
