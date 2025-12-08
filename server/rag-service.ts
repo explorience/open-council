@@ -467,6 +467,64 @@ export class RAGService {
   }
 
   /**
+   * Normalize query for embedding generation by expanding known synonyms.
+   * This ensures queries like "e-scooters" and "electric kick scooters" produce
+   * similar embeddings by including all synonym variants in the query.
+   *
+   * Example: "how did Stevenson vote on e-scooters?" becomes:
+   * "how did Stevenson vote on e-scooters scooter electric scooter kick scooter electric kick scooter?"
+   */
+  private normalizeQueryForEmbedding(query: string): string {
+    const lowerQuery = query.toLowerCase();
+
+    // Synonym groups - if any term in a group is found, append all related terms
+    // This is separate from topicExpansions because we want JUST the synonyms,
+    // not all the contextual keywords (which are better for topic-specific searches)
+    const synonymGroups: string[][] = [
+      // Scooter variants
+      ['scooter', 'e-scooter', 'e-scooters', 'electric scooter', 'electric scooters', 'kick scooter', 'kick scooters', 'electric kick scooter', 'electric kick scooters'],
+      // Bike variants
+      ['bike', 'bicycle', 'cycling', 'cycle'],
+      // Housing variants
+      ['homeless', 'homelessness', 'unhoused', 'houseless', 'shelter', 'encampment'],
+      // Transit variants
+      ['transit', 'bus', 'brt', 'rapid transit', 'public transit', 'ltc', 'london transit'],
+      // Police variants
+      ['police', 'lps', 'london police', 'law enforcement', 'cops'],
+      // Climate variants
+      ['climate', 'environment', 'environmental', 'greenhouse', 'emissions', 'net zero', 'carbon'],
+      // Development variants
+      ['development', 'zoning', 'rezoning', 'intensification', 'site plan'],
+    ];
+
+    let normalizedQuery = query;
+    const addedTerms = new Set<string>();
+
+    for (const group of synonymGroups) {
+      // Check if any term from this group appears in the query
+      const foundTerm = group.find(term => lowerQuery.includes(term));
+
+      if (foundTerm) {
+        // Add all synonym variants that aren't already in the query
+        for (const synonym of group) {
+          if (!lowerQuery.includes(synonym) && !addedTerms.has(synonym)) {
+            addedTerms.add(synonym);
+          }
+        }
+      }
+    }
+
+    // Append all found synonyms to the query
+    if (addedTerms.size > 0) {
+      const synonymsToAdd = Array.from(addedTerms).join(' ');
+      normalizedQuery = `${query} ${synonymsToAdd}`;
+      console.log(`   📝 Query normalized: added synonyms [${synonymsToAdd}]`);
+    }
+
+    return normalizedQuery;
+  }
+
+  /**
    * Detect if the user is asking for historical context or changes over time
    * If true, we should NOT filter out old data
    */
@@ -767,7 +825,10 @@ export class RAGService {
       const recentOnly = !wantsHistoricalContext;
       console.log(`🗳️ Councillor voting query${councillorName ? ` for ${councillorName}` : ''} - using hybrid retrieval${recentOnly ? ' (RECENT ONLY - filtering out old data)' : ' (historical context requested)'}`);
 
-      const queryEmbedding = await this.generateQueryEmbedding(query);
+      // CRITICAL: Normalize query to include synonym variants before embedding generation
+      // This ensures "e-scooters" and "electric kick scooters" produce similar embeddings
+      const normalizedQuery = this.normalizeQueryForEmbedding(query);
+      const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
 
       // 1. Get semantically relevant results (topic-based)
       const semanticResults = await this.vectorStore.search(queryEmbedding, Math.floor(topK * 0.4));
@@ -872,7 +933,9 @@ export class RAGService {
 
     // Strategy 4: Semantic search with optional meeting type filter
     // For topic-based queries like "housing decisions" or "budget discussions"
-    const queryEmbedding = await this.generateQueryEmbedding(query);
+    // Normalize query to include synonym variants for better embedding match
+    const normalizedQuery = this.normalizeQueryForEmbedding(query);
+    const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
 
     if (meetingTypeFilter) {
       // Use filtered semantic search
