@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
   - "Which specific committees has Shawn Lewis served on, and what leadership roles, if any, have they held within those committees?"
-  - "How does Shawn Lewis's meeting attendance rate compare to other council members, and have they missed votes on any significant municipal decisions?"
+  - "How does Shawn Lewis's meeting attendance rate compare to other council members, and have they missed any significant votes or meetings?"
 ---
 
-Shawn Lewis has been an active member of London City Council, serving from 2018 to 2025. During this period, they have demonstrated strong attendance with participation in 495 council meetings. Lewis has served on eight different committees throughout their tenure, indicating broad involvement across various municipal governance areas and policy domains.
+Shawn Lewis has been an active member of London City Council, Canada, serving from 2018 to 2025. During this seven-year tenure, Lewis has demonstrated consistent participation by attending 495 council meetings. Their involvement extends beyond general council meetings, as they have served on eight different committees throughout their time in office, indicating broad engagement across various municipal governance areas.
 
-Their seven-year term on council shows sustained civic engagement, with their high meeting attendance suggesting consistent participation in the city's decision-making processes. The extensive committee involvement reflects a willingness to take on additional responsibilities beyond general council duties.
+Lewis's substantial meeting attendance record and multi-committee involvement suggests a high level of commitment to their council duties. Their service span covers nearly two full municipal terms, providing them with significant experience in London's civic governance processes and decision-making.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting attendance rate and how does it compare to other council members during the 2022-2025 term?"
-  - "Which specific committees has Jerry Pribil served on and what roles (chair, vice-chair, member) have they held on each?"
-  - "How has Jerry Pribil voted on major city budget decisions and significant policy initiatives during their tenure?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
+  - "Which specific committees has Jerry Pribil served on, and what has been their level of participation and leadership roles within those committees?"
+  - "How does Jerry Pribil's meeting attendance rate of 212 sessions compare to other council members during the same 2022-2025 period?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various municipal issues and portfolios.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 council meetings during this period. Throughout their term, Pribil has been involved in committee work, serving on eight different committees, though the specific names of these committees are not clearly displayed in the available data.
 
-This level of meeting attendance and committee participation suggests consistent involvement in the city's governance processes over their current term. The multi-committee service reflects engagement with diverse aspects of municipal administration and policy development during their time as a council member.
+Pribil's consistent meeting attendance of 212 sessions suggests regular engagement with council business and municipal governance responsibilities during their three-year term on London City Council.
 
 ## Terms of Service
 

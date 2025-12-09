@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "What is Steve Hillier's voting attendance rate and how does his meeting participation compare to other council members?"
-  - "Has Steve Hillier held any leadership positions, such as committee chair roles, during his tenure on council?"
+  - "What is Steve Hillier's voting attendance rate and how often does he vote in favor of or against major municipal initiatives?"
+  - "Which specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
+  - "How does Steve Hillier's meeting attendance and committee participation compare to other council members during the same time period?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal portfolios and policy areas.
+Steve Hillier has been an active member of London City Council from 2018 to 2025, demonstrating significant participation with attendance at 453 meetings during this period. His council service spans approximately seven years, during which he has served on seven different committees, indicating broad engagement across various areas of municipal governance.
 
-Hillier's seven-year term and substantial meeting attendance record suggest a commitment to municipal governance and active participation in London's civic decision-making processes. His multi-committee involvement indicates he has taken on responsibilities across different aspects of city administration and policy development during his council service.
+His consistent attendance record and multi-committee involvement suggests regular participation in London's civic decision-making processes throughout his tenure on council.
 
 ## Terms of Service
 

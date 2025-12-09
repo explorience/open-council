@@ -7,13 +7,13 @@ yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
   - "What was Jared Zaifman's voting record on key municipal issues during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus general council meetings?"
-  - "How did his meeting attendance record compare to other council members during the same period?"
+  - "Which specific committees did he serve on and what was his attendance rate for each committee?"
+  - "How did his meeting attendance compare to other council members during the same term?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During this period, he attended 142 council meetings, demonstrating consistent participation in the city's governance processes. His service included appointments to four different committees, though the specific committee names are not clearly identified in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, demonstrating active participation with attendance at 142 meetings during his four-year term. He participated as a member of four committees during his time on council, contributing to the city's governance through both regular council meetings and committee work.
 
-Zaifman's attendance record of 142 meetings over his four-year tenure suggests regular engagement with council business and municipal decision-making processes. His committee involvement indicates he took on additional responsibilities beyond general council duties, participating in the specialized work that helps inform broader council decisions.
+His attendance record and committee involvement indicate consistent engagement in municipal affairs throughout his single term on council. The meeting attendance figure reflects his participation in various types of council proceedings, including regular council sessions, committee meetings, and other municipal government activities during the 2014-2018 council term.
 
 ## Terms of Service
 

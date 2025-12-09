@@ -6,12 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major budget decisions during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance record for committee meetings versus full council meetings?"
-  - "How did his voting patterns align with other council members on key municipal issues like development, transportation, and city services?"
+  - "What was Stephen Orser's voting attendance rate compared to other council members during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on and what were his primary areas of focus?"
+  - "How did Stephen Orser vote on major municipal issues and bylaws during his time on council?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, representing a single term of approximately four years. During this period, he demonstrated consistent engagement with council duties by attending 112 meetings. His council participation included service on four different committees, though the specific names of these committees are not clearly indicated in the available data. This level of meeting attendance suggests regular involvement in the city's legislative and administrative processes during his tenure.
+Stephen Orser served on London City Council from 2011 to 2014, completing a four-year term during which he attended 112 council meetings. Throughout his tenure, he participated in the work of four different committees, though the specific names of these committees are not clearly identified in the available data.
+
+His meeting attendance record of 112 meetings over a four-year period suggests consistent participation in council proceedings. As a council member during this period, Orser would have been involved in municipal decision-making processes affecting the City of London during the early 2010s.
 
 ## Terms of Service
 

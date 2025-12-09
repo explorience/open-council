@@ -6,14 +6,14 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 178 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues and bylaws brought before council?"
+  - "What is Susan Stevenson's voting record on key municipal issues such as budget approval, zoning changes, and infrastructure projects?"
+  - "How often does Susan Stevenson speak or contribute during council meetings, and what topics does she most frequently address?"
+  - "What specific committees does Susan Stevenson serve on, and has she taken any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her current term, she has demonstrated strong attendance with 178 meetings attended. Her council participation includes service on eight different committees, indicating broad involvement across various municipal governance areas.
+Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her tenure, she has demonstrated consistent participation by attending 178 council meetings. Her involvement extends beyond regular council sessions, as she has served on eight different committees, indicating broad engagement across various municipal functions and policy areas.
 
-Her consistent meeting attendance and extensive committee involvement suggest an engaged approach to municipal governance during her term on London City Council.
+Her high meeting attendance record and extensive committee participation suggest a committed approach to her council responsibilities. With her term spanning from 2022 to 2025, Stevenson appears to maintain regular involvement in the city's governance processes through both general council proceedings and specialized committee work.
 
 ## Terms of Service
 

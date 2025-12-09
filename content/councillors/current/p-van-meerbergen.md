@@ -8,12 +8,12 @@ isCurrent: true
 prefillQuestions:
   - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
   - "Which specific committees has he served on and in what capacity (chair, vice-chair, or member)?"
-  - "How has his committee participation and meeting attendance changed across different terms of office from 2011 to 2025?"
+  - "How has his voting pattern aligned with or differed from the majority decisions made by London City Council over his 14 years of service?"
 ---
 
-Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating sustained civic engagement over a 14-year period. During his tenure, he has attended 499 council meetings and has served on 7 different committees, indicating active participation in the committee structure that supports council operations and decision-making processes.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating consistent engagement through his attendance at 499 council meetings over this 14-year period. His extensive committee involvement shows broad participation in municipal governance, having served on seven different committees during his tenure.
 
-His extensive meeting attendance record and multi-committee involvement suggests consistent engagement with municipal governance responsibilities throughout his time in office. The length of his service spanning from 2011 to 2025 indicates he has been re-elected multiple times, reflecting ongoing community support for his council participation.
+Van Meerbergen's long-term service and high meeting attendance record indicates sustained commitment to his council responsibilities. His multi-committee participation suggests involvement across various aspects of city governance, though the specific nature of these committees would provide additional context about his areas of focus within municipal affairs.
 
 ## Terms of Service
 

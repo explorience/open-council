@@ -7,13 +7,13 @@ yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
   - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what role did they play in those committees?"
-  - "How did Henderson's attendance rate compare to other council members during the same period?"
+  - "Which specific committees did Henderson serve on and what was their level of participation in committee work?"
+  - "How did Henderson's attendance rate of 142 meetings compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, spanning a four-year term. During this period, Henderson demonstrated consistent participation by attending 142 council meetings. Henderson was actively involved in committee work, serving on four different committees throughout their tenure, though the specific committee names are not clearly displayed in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, completing a four-year term during this period. Throughout their tenure, Henderson demonstrated consistent engagement with council duties, attending 142 meetings over the course of their service. They participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly identified in the available data.
 
-Henderson's participation record shows regular engagement with municipal governance during their single term on council. The attendance at 142 meetings over four years suggests active participation in the council's deliberative processes and municipal decision-making during this period.
+Henderson's attendance record suggests active participation in the democratic process at the municipal level. Their four-year term would have coincided with various municipal issues and decisions facing London during the early 2010s, and their committee work would have allowed them to contribute to specialized areas of municipal governance and policy development.
 
 ## Terms of Service
 

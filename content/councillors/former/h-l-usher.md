@@ -6,14 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Harold Usher serve on during his time on London City Council?"
-  - "What was Harold Usher's voting record on major city issues and budget decisions between 2011-2018?"
-  - "How did Harold Usher's meeting attendance rate compare to other council members during his tenure?"
+  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
+  - "Which specific committees did Harold Usher serve on and did he hold any chair or vice-chair positions during his council service?"
+  - "What were the key issues or motions that Harold Usher voted on during major council decisions, and how did he typically align with council majority or minority positions?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, representing a seven-year tenure in municipal government. During this period, he demonstrated consistent engagement with council business by attending 403 meetings and participating on six different committees, indicating active involvement in the city's legislative and administrative processes.
+Harold Usher served on London City Council, Canada for approximately seven years from 2011 to 2018. During his tenure, he demonstrated consistent participation by attending 403 council meetings. Throughout his time in office, Usher served on six different committees, showing active engagement in the committee structure of municipal governance.
 
-His participation spanned nearly two full terms of municipal government, providing him with substantial experience across various aspects of city governance through his committee work and regular attendance at council sessions.
+His extended service period and substantial meeting attendance record suggest he was a regularly participating member of council who remained committed to his municipal duties over nearly two full terms of office.
 
 ## Terms of Service
 

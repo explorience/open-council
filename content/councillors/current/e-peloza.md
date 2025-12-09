@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting record on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
-  - "Which specific committees has she served on, and has she held any leadership positions such as committee chair or vice-chair roles?"
-  - "How does her meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her term?"
+  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "Which committees has she served on and what leadership roles, if any, has she held within those committees?"
+  - "How does her meeting attendance rate compare to other council members, and has she missed votes on any significant municipal matters?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 council meetings during this period. Her participation extends beyond regular council sessions, as she has served on nine different committees throughout her tenure, indicating broad involvement in various aspects of municipal governance and policy development.
+Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated strong attendance and participation, having attended 452 meetings over her years of service. Her council involvement extends beyond regular council meetings, as she has served on nine different committees throughout her time in office, indicating broad engagement across various municipal portfolios and policy areas.
 
-Her sustained presence on multiple committees suggests she has taken on significant responsibilities within the council structure over her seven-year term. The high meeting attendance record reflects regular participation in the formal decision-making processes of London's municipal government.
+Her consistent meeting attendance and extensive committee participation suggests a high level of commitment to her council duties and municipal governance responsibilities. The span of her service from 2018 to 2025 represents nearly a full two-term period on London City Council, providing her with substantial experience in municipal decision-making processes.
 
 ## Terms of Service
 

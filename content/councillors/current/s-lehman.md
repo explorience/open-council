@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
-  - "Which specific committees has he served on and what role did he play in committee decisions and recommendations?"
-  - "How does his meeting attendance rate compare to other council members, and were there any notable absences during important votes or discussions?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Steve Lehman served on and what are his roles or positions within those committees?"
+  - "How has Steve Lehman's meeting attendance pattern changed over his years of service from 2018 to 2025?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. His council involvement spans approximately seven years, indicating he has served through at least one full council term and into another. Lehman has participated on six different committees during his tenure, showing engagement across multiple areas of municipal governance, though the specific committee names are not clearly displayed in the available data.
+Steve Lehman has been an active member of London City Council from 2018 to 2025, demonstrating significant engagement through his attendance at 386 meetings during this period. His participation spans approximately seven years of municipal service, during which he has served on six different committees, indicating broad involvement across various areas of city governance and policy development.
 
-His attendance at 386 meetings over this timespan suggests consistent participation in council proceedings, which would include regular council meetings, committee meetings, and special sessions. This level of meeting attendance indicates a committed approach to his council responsibilities and municipal governance duties.
+His meeting attendance record of 386 sessions suggests consistent participation in council proceedings throughout his tenure. The multi-committee involvement reflects engagement with diverse municipal issues and responsibilities that come before London City Council during his years of service.
 
 ## Terms of Service
 

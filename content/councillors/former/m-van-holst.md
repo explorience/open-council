@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How often did he vote with the majority versus taking minority positions, and on what types of issues did he most frequently dissent?"
-  - "Did he initiate any motions or amendments during his time on council, and what were the outcomes of those initiatives?"
+  - "What was Michael van Holst's voting record on key municipal issues during his time on council?"
+  - "Which specific committees did he serve on and what roles did he play within those committees?"
+  - "How did his voting patterns and policy positions evolve over his eight-year tenure from 2014 to 2022?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent engagement through his attendance at 461 council meetings over this eight-year period. During his tenure, he participated on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During this period, he served on eight different committees, indicating broad engagement across various areas of municipal governance. His extended service span of eight years suggests he was re-elected at least once during his time on council, representing sustained community support for his participation in local government.
 
-His meeting attendance record suggests regular participation in council proceedings throughout his two terms in office. The committee involvement shows he took on responsibilities beyond general council duties, contributing to the detailed work that committees perform in preparing recommendations and reviewing specific policy areas for the full council's consideration.
+His meeting attendance record and committee involvement reflect active participation in the day-to-day operations of London City Council throughout his tenure.
 
 ## Terms of Service
 

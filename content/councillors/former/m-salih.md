@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and did they miss any significant votes during their eight years on council?"
-  - "Which specific committees did Mo Salih serve on and did they hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Mo Salih's committee participation and meeting attendance compare to other council members during the same period?"
+  - "What was Mo Salih's voting record on key municipal issues during their time on council?"
+  - "Which specific committees did Mo Salih serve on and what roles did they play on those committees?"
+  - "How did Mo Salih's attendance rate compare to other council members during the same period?"
 ---
 
-Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent engagement with council duties, attending 350 meetings over the course of their service. Salih participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly specified in the available data.
+Mo Salih served on London City Council in Canada for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 350 council meetings during this period. Throughout their tenure, they served on four different committees, though the specific committee names are not clearly indicated in the available data.
 
-Their eight-year term represents two full council terms, indicating they were re-elected at least once during their time in municipal politics. The substantial number of meetings attended suggests regular participation in both regular council sessions and committee work throughout their time in office.
+Their eight-year service span suggests they served at least two terms on council, showing sustained community engagement and commitment to municipal governance. The high meeting attendance figure indicates active participation in the council's deliberative processes over the course of their service.
 
 ## Terms of Service
 

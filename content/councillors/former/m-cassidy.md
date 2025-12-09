@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How frequently did she propose motions or amendments during council meetings, and what were the main topics she championed?"
-  - "What was her attendance rate and level of participation in the specific committees she served on compared to other council members?"
+  - "What was Maureen Cassidy's voting attendance rate and how did it compare to other council members during her tenure?"
+  - "Which specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair?"
+  - "How did her meeting attendance pattern change over her 8 years in office, and were there any notable periods of absence?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings over her eight-year tenure. During her time on council, she served on seven different committees, showing broad engagement across various municipal functions and policy areas.
+Maureen Cassidy served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During her tenure, she attended 536 council meetings and served on 7 different committees, indicating active engagement in the council's work across multiple areas of municipal governance.
 
-Her extended service spanning two full terms indicates sustained civic involvement and commitment to municipal governance. The substantial number of meetings attended suggests regular participation in council proceedings and committee work throughout her tenure.
+Her attendance record and committee involvement suggest she was a regular participant in council proceedings throughout her two terms in office. The substantial number of meetings attended over her years of service reflects ongoing commitment to her council responsibilities during this period.
 
 ## Terms of Service
 

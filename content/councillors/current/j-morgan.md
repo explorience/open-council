@@ -6,12 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Josh Morgan's attendance rate at council meetings compared to other council members during his tenure?"
-  - "Which specific committees has Josh Morgan served on and what were his roles on each committee?"
-  - "How has Josh Morgan's voting record aligned with council majority decisions versus opposition positions during his time in office?"
+  - "What was Josh Morgan's voting record on major budget decisions during his time on council?"
+  - "How often did Morgan vote against the majority position on key policy issues?"
+  - "What specific committees did Morgan serve on and what was his attendance rate for committee meetings compared to full council meetings?"
 ---
 
-Josh Morgan has been an active member of London City Council, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has demonstrated consistent engagement with council duties, attending 654 meetings across his years of service. His involvement extends beyond general council meetings, as he has served on eight different committees throughout his time on council, indicating broad participation across various municipal portfolios and policy areas.
+Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has attended 654 council meetings, demonstrating consistent engagement in the city's legislative processes. His service has included participation on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+
+Morgan's extensive meeting attendance record and multi-committee involvement suggests a committed approach to his council duties over his eleven-year term. His sustained presence on council through multiple election cycles indicates both electoral success and ongoing community support for his representation.
 
 ## Terms of Service
 

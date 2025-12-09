@@ -6,12 +6,14 @@ meetingCount: 180
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Arielle Kayabaga's voting attendance rate and how did it compare to other council members during the 2018-2021 term?"
-  - "Which specific committees did she serve on and what were her key contributions or initiatives within those committees?"
-  - "How did she vote on major municipal issues such as budget approvals, development projects, or policy changes during her time on council?"
+  - "What was Arielle Kayabaga's voting record on key municipal issues during her time on London City Council?"
+  - "Which specific committees did she serve on, and what was her attendance rate for committee meetings versus regular council meetings?"
+  - "How did her meeting attendance and participation compare to other council members during the same 2018-2021 period?"
 ---
 
-Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation with attendance at 180 meetings during her tenure. Over the course of her approximately three-year term, she served on five different committees, indicating broad involvement across various areas of municipal governance. Her meeting attendance suggests consistent engagement with council business throughout her time in office.
+Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation through her attendance at 180 meetings during this period. Over her three-year tenure, she served on five different committees, though the specific committee names are not clearly displayed in the available data. Her meeting attendance suggests consistent engagement with council business throughout her time in office.
+
+Her service period of 2018-2021 represents a partial term, as she left municipal politics when she was elected as a Member of Parliament for London West in the 2021 federal election. During her time on council, her participation in 180 meetings indicates regular involvement in the decision-making processes of London's municipal government.
 
 ## Terms of Service
 

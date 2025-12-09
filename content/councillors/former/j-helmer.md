@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "What was Jesse Helmer's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What specific committees did Jesse Helmer serve on during their tenure, and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Jesse Helmer's voting patterns align with or differ from other council members on major city issues during their 2014-2022 service period?"
+  - "What was Jesse Helmer's attendance rate compared to other council members, and were there any notable absences during critical votes or decisions?"
 ---
 
-Jesse Helmer served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings during this period. Throughout their tenure, Helmer participated in eight different committees, showing broad involvement across various aspects of municipal governance. This level of meeting attendance and committee participation indicates active engagement in the city's decision-making processes over nearly a full decade of service.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating substantial engagement through attendance at 580 meetings over their eight-year tenure. This represents an average of approximately 73 meetings per year, indicating consistent participation in council proceedings. Helmer served on eight different committees during their time on council, suggesting broad involvement across various areas of municipal governance and policy development.
 
-The sustained eight-year period of service represents significant continuity on council, allowing for the development of institutional knowledge and long-term perspective on municipal issues. Their participation across multiple committees suggests involvement in diverse areas of city policy and administration.
+Their extended service period of eight years spans two full council terms, reflecting either re-election by constituents or appointment to fill a vacant position during this timeframe. The high meeting attendance record and multiple committee appointments suggest active participation in the legislative and administrative functions of London's municipal government.
 
 ## Terms of Service
 

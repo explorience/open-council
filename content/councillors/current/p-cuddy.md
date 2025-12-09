@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
-  - "How does his attendance rate of 204 meetings compare to other council members serving during the same 2022-2025 period?"
-  - "What has been his voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Peter Cuddy's voting alignment with other council members on key municipal issues?"
+  - "How does his meeting attendance rate compare to other councillors serving during the same period?"
+  - "What specific committees has he served on and what roles has he held within those committees?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated consistent participation by attending 204 meetings. His council involvement extends beyond general council meetings, as he has served on 8 different committees, indicating broad engagement across various municipal portfolios and policy areas.
+Peter Cuddy has served on London City Council from 2022-2025, demonstrating active participation with attendance at 204 meetings during this period. His council involvement extends beyond general council meetings, as he has served on eight different committees throughout his tenure, indicating broad engagement across various municipal functions and policy areas.
 
-His high meeting attendance record and extensive committee participation suggests dedicated involvement in the council's work during his term. The multi-committee service indicates he has taken on responsibilities across different aspects of municipal governance, though the specific nature of these committees would provide additional context about his areas of focus within city administration.
+His meeting attendance record suggests consistent participation in council business over his current term. The breadth of his committee involvement reflects engagement with multiple aspects of municipal governance, though the specific nature of these committees is not detailed in the available data.
 
 ## Terms of Service
 

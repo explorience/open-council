@@ -6,14 +6,14 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
-  - "How often has McAlister introduced motions or amendments during council meetings, and what topics have they focused on?"
-  - "What specific committees has McAlister served on, and have they held any leadership positions such as committee chair or vice-chair roles?"
+  - "What specific committees has Hadleigh McAlister served on during their council term?"
+  - "How does McAlister's meeting attendance record compare to other council members during the same period?"
+  - "What has been McAlister's voting pattern on key municipal issues and bylaws during their 2022-2025 term?"
 ---
 
-Hadleigh McAlister has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated strong participation by attending 203 council meetings. McAlister has served on six different committees throughout their time on council, indicating broad involvement in various areas of municipal governance and policy development.
+Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various municipal portfolios and decision-making bodies.
 
-Their consistent meeting attendance and multi-committee participation suggests an engaged approach to their council duties over this three-year period. The substantial number of meetings attended reflects regular participation in the council's decision-making processes during their current term.
+McAlister's consistent meeting attendance of 203 sessions over their term suggests regular involvement in council proceedings and committee work. Their multi-committee participation reflects engagement with diverse aspects of municipal governance during their time in office.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 216 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues and bylaws that have come before council?"
+  - "What is Corrine Rahman's voting attendance rate and how does it compare to other council members during the 2022-2025 term?"
+  - "Which specific committees has Rahman served on and what policy areas do these committees oversee?"
+  - "Has Rahman taken leadership roles on any committees, such as serving as chair or vice-chair during her tenure?"
 ---
 
-Corrine Rahman has been an active member of London City Council, Canada, serving from 2022-2025. During this period, she has demonstrated strong participation by attending 216 meetings. Her council involvement extends beyond regular council sessions, as she has served on eight different committees, indicating broad engagement across various municipal functions and policy areas.
+Corrine Rahman has served on London City Council from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Her council involvement includes service on eight different committees, indicating broad engagement across various municipal portfolios and policy areas.
 
-Rahman's high meeting attendance record and extensive committee participation suggest consistent involvement in London's municipal governance during her term. Her service across multiple committees allows her to contribute to diverse aspects of city administration and policy development.
+Rahman's meeting attendance record suggests consistent participation in council proceedings throughout her term. Her involvement on multiple committees reflects the collaborative nature of municipal governance, where councillors typically serve on several committees to address different aspects of city administration and policy development.
 
 ## Terms of Service
 

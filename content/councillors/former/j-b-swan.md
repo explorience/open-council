@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's attendance rate as a percentage of total scheduled council meetings during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what were the primary responsibilities of those committees?"
-  - "How did Joe Swan vote on major municipal issues and bylaws that came before council during his four-year term?"
+  - "What was Joe Swan's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on and what were their roles or contributions to those committees?"
+  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Joe Swan served on London City Council from 2011 to 2014, completing a full four-year term. During this period, he demonstrated active participation by attending 147 council meetings. Swan served on six different committees throughout his tenure, indicating involvement across multiple areas of municipal governance and policy development.
+Joe Swan served on London City Council from 2011 to 2014, demonstrating consistent engagement through attendance at 147 meetings during this four-year term. Swan participated actively in the committee structure of council, serving on six different committees throughout their tenure, though the specific names of these committees are not clearly indicated in the available data.
 
-His attendance record and committee involvement suggest consistent engagement with council business during his term. The four-year service period represents a standard municipal term, and his participation across multiple committees indicates he took on various responsibilities within the council structure.
+Swan's participation record shows regular involvement in council proceedings over their single term, with an average of approximately 37 meetings attended per year. Their committee involvement suggests they took on additional responsibilities beyond general council meetings, contributing to the detailed work that occurs at the committee level in municipal government.
 
 ## Terms of Service
 

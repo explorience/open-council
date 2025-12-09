@@ -6,12 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during the same period?"
-  - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Phil Squire's meeting attendance pattern change over their seven years of service, and were there any notable periods of absence?"
+  - "What was Phil Squire's voting pattern on major city issues like budget approvals, development projects, or transit initiatives during their 2014-2021 term?"
+  - "Which specific committees did Phil Squire serve on, and what was their level of participation or leadership roles within those committees?"
+  - "How did Phil Squire's attendance rate of 372 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, demonstrating consistent participation with attendance at 372 meetings over this seven-year period. During their tenure, Squire served on six different committees, indicating broad involvement in various aspects of municipal governance. This level of meeting attendance and committee participation suggests active engagement in the council's work throughout their time in office.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire's council involvement extended beyond general meetings, as they served on six different committees, though the specific names of these committees are not clearly indicated in the available data.
+
+Their participation record suggests an active engagement in municipal governance throughout their term, with regular attendance at council sessions being a notable aspect of their service to the city of London, Ontario.
 
 ## Terms of Service
 

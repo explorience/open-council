@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What was Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, and tax increases during her time on council?"
-  - "How frequently did Anna Hopkins introduce motions or amendments during council meetings, and what was the success rate of her proposals?"
-  - "What leadership roles, if any, did Anna Hopkins hold on the committees she served on, such as chair or vice-chair positions?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
+  - "What has been Anna Hopkins' voting record on major city issues such as budget approvals, development projects, or policy changes?"
+  - "How does Anna Hopkins' meeting attendance rate of 640 meetings compare to other council members over the same time period?"
 ---
 
-Anna Hopkins has been an active member of London City Council from 2014 to 2025, demonstrating significant engagement through her attendance at 640 meetings over this 11-year period. This averages to approximately 58 meetings per year, indicating consistent participation in council proceedings. Hopkins has served on eight different committees during her tenure, suggesting broad involvement across various areas of municipal governance and policy development.
+Anna Hopkins has served as a member of London City Council in Canada from 2014 to 2025, representing an 11-year tenure on the council. During this period, she has demonstrated consistent participation by attending 640 meetings. Her council service has included membership on 8 different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Her extended service span of over a decade represents substantial continuity on London City Council, providing institutional knowledge and experience across multiple council terms. The high meeting attendance record and extensive committee involvement indicate a committed approach to her council responsibilities.
+Hopkins' extensive meeting attendance record and multi-committee participation suggests active engagement in the council's work over more than a decade of service. Her long tenure spanning from 2014 to 2025 represents significant experience in municipal government and continuity in representing her constituents' interests at the city level.
 
 ## Terms of Service
 
