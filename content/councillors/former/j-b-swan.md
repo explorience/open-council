@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what were their roles or contributions to those committees?"
-  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period?"
+  - "What was Joe Swan's voting record on key municipal issues during his 2011-2014 term, such as budget approvals, development projects, or tax increases?"
+  - "Which six specific committees did Joe Swan serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Joe Swan's attendance rate of 147 meetings compare to other council members during the same 2011-2014 period?"
 ---
 
-Joe Swan served on London City Council from 2011 to 2014, demonstrating consistent engagement through attendance at 147 meetings during this four-year term. Swan participated actively in the committee structure of council, serving on six different committees throughout their tenure, though the specific names of these committees are not clearly indicated in the available data.
+Joe Swan served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, he attended 147 council meetings, demonstrating consistent participation in the city's legislative processes. Swan served on six different committees during his tenure, indicating broad involvement across various municipal departments and policy areas, though the specific committee names are not clearly indicated in the available data.
 
-Swan's participation record shows regular involvement in council proceedings over their single term, with an average of approximately 37 meetings attended per year. Their committee involvement suggests they took on additional responsibilities beyond general council meetings, contributing to the detailed work that occurs at the committee level in municipal government.
+His attendance record and committee involvement suggest he was an active participant in council proceedings throughout his term. The 147 meetings attended over four years represents substantial engagement with the council's work, encompassing both regular council sessions and committee meetings during his time in office.
 
 ## Terms of Service
 

@@ -6,14 +6,12 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Jesse Helmer serve on during their tenure, and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Jesse Helmer's voting patterns align with or differ from other council members on major city issues during their 2014-2022 service period?"
-  - "What was Jesse Helmer's attendance rate compared to other council members, and were there any notable absences during critical votes or decisions?"
+  - "What was Jesse Helmer's voting record on key municipal issues during their time on council from 2014-2022?"
+  - "Which specific committees did Jesse Helmer serve on, and did they hold any chair or vice-chair positions?"
+  - "How does Jesse Helmer's meeting attendance rate of 580 meetings compare to other council members during the same period?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating substantial engagement through attendance at 580 meetings over their eight-year tenure. This represents an average of approximately 73 meetings per year, indicating consistent participation in council proceedings. Helmer served on eight different committees during their time on council, suggesting broad involvement across various areas of municipal governance and policy development.
-
-Their extended service period of eight years spans two full council terms, reflecting either re-election by constituents or appointment to fill a vacant position during this timeframe. The high meeting attendance record and multiple committee appointments suggest active participation in the legislative and administrative functions of London's municipal government.
+Jesse Helmer served on London City Council in Canada from 2014 to 2022, demonstrating significant engagement through attendance at 580 meetings over their eight-year tenure. During this period, Helmer participated on eight different committees, showing broad involvement across various areas of municipal governance. This level of meeting attendance and committee participation indicates consistent engagement in the council's work throughout their two-term period of service.
 
 ## Terms of Service
 

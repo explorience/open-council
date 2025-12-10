@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on major budget decisions and tax increases during his council term?"
-  - "How often has David Ferreira voted with or against the majority on controversial municipal issues?"
-  - "Which specific committees does David Ferreira serve on, and what has been his attendance rate for each committee?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
+  - "Which specific committees does David Ferreira serve on, and what roles or leadership positions does he hold within those committees?"
+  - "How does David Ferreira's meeting attendance rate compare to other London City Council members during the same period?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong engagement with council duties by attending 208 meetings. His council participation includes service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated consistent engagement with council business, attending 208 meetings. His committee involvement appears to be extensive, having served on eight different committees, indicating broad participation across various areas of municipal governance.
 
-His consistent meeting attendance and extensive committee participation suggest a committed approach to his council responsibilities. The high number of meetings attended over his term reflects regular engagement with both general council sessions and specialized committee work across multiple areas of city administration.
+His high meeting attendance record and multiple committee assignments suggest a committed approach to his council responsibilities. As a member of the current term of council, Ferreira has maintained regular participation in the formal proceedings of municipal government during his years of service.
 
 ## Terms of Service
 

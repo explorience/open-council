@@ -6,14 +6,12 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
-  - "Which specific committees has Shawn Lewis served on, and what leadership roles, if any, have they held within those committees?"
-  - "How does Shawn Lewis's meeting attendance rate compare to other council members, and have they missed any significant votes or meetings?"
+  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Shawn Lewis served on and what roles (chair, vice-chair, member) have they held on these committees?"
+  - "How has Shawn Lewis voted on major municipal issues such as budget approvals, development proposals, and key policy initiatives during their time in office?"
 ---
 
-Shawn Lewis has been an active member of London City Council, Canada, serving from 2018 to 2025. During this seven-year tenure, Lewis has demonstrated consistent participation by attending 495 council meetings. Their involvement extends beyond general council meetings, as they have served on eight different committees throughout their time in office, indicating broad engagement across various municipal governance areas.
-
-Lewis's substantial meeting attendance record and multi-committee involvement suggests a high level of commitment to their council duties. Their service span covers nearly two full municipal terms, providing them with significant experience in London's civic governance processes and decision-making.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating substantial engagement with 495 meetings attended over this seven-year period. This averages to approximately 70-71 meetings per year, indicating consistent participation in council proceedings. Lewis has been appointed to serve on eight different committees during their tenure, showing broad involvement across various aspects of municipal governance and policy areas within the city's committee structure.
 
 ## Terms of Service
 

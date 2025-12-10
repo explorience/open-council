@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting attendance rate and how did it compare to other council members during her tenure?"
-  - "Which specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair?"
-  - "How did her meeting attendance pattern change over her 8 years in office, and were there any notable periods of absence?"
+  - "What was Maureen Cassidy's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during her 2014-2022 tenure?"
+  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did her meeting attendance rate of 536 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
 ---
 
-Maureen Cassidy served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During her tenure, she attended 536 council meetings and served on 7 different committees, indicating active engagement in the council's work across multiple areas of municipal governance.
+Maureen Cassidy served on London City Council from 2014 to 2022, representing an eight-year tenure in municipal government. During this period, she demonstrated consistent participation by attending 536 council meetings. Throughout her time on council, she served on seven different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-Her attendance record and committee involvement suggest she was a regular participant in council proceedings throughout her two terms in office. The substantial number of meetings attended over her years of service reflects ongoing commitment to her council responsibilities during this period.
+Her extensive meeting attendance record and multi-committee participation suggests active engagement in the council's work over nearly a decade of service to the City of London.
 
 ## Terms of Service
 

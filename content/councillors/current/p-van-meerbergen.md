@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and in what capacity (chair, vice-chair, or member)?"
-  - "How has his voting pattern aligned with or differed from the majority decisions made by London City Council over his 14 years of service?"
+  - "What is Paul Van Meerbergen's voting record on major municipal issues such as budget approvals, development projects, and tax increases?"
+  - "Which specific committees has he served on, and what leadership roles, if any, has he held within those committees?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members during the same time period, and what was his attendance percentage?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating consistent engagement through his attendance at 499 council meetings over this 14-year period. His extensive committee involvement shows broad participation in municipal governance, having served on seven different committees during his tenure.
+Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating sustained civic engagement over a 14-year period. During his tenure, he has attended 499 council meetings and has served on seven different committees, indicating active participation in both general council proceedings and specialized committee work that helps shape municipal policy and decision-making.
 
-Van Meerbergen's long-term service and high meeting attendance record indicates sustained commitment to his council responsibilities. His multi-committee participation suggests involvement across various aspects of city governance, though the specific nature of these committees would provide additional context about his areas of focus within municipal affairs.
+His extensive meeting attendance record and multi-committee involvement suggest a consistent presence in London's municipal governance structure throughout his time in office. The duration of his service, spanning multiple council terms, reflects either re-election by constituents or appointment to continued roles within the city's governing body.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
-  - "Which specific committees has Jerry Pribil served on, and what has been their level of participation and leadership roles within those committees?"
-  - "How does Jerry Pribil's meeting attendance rate of 212 sessions compare to other council members during the same 2022-2025 period?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
+  - "Which specific committees does Jerry Pribil serve on, and what role do they play in the committee structure (chair, vice-chair, or member)?"
+  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members during the same 2022-2025 term?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 council meetings during this period. Throughout their term, Pribil has been involved in committee work, serving on eight different committees, though the specific names of these committees are not clearly displayed in the available data.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, they have been involved in committee work, serving on eight different committees, though the specific names of these committees are not clearly displayed in the available data.
 
-Pribil's consistent meeting attendance of 212 sessions suggests regular engagement with council business and municipal governance responsibilities during their three-year term on London City Council.
+Pribil's consistent meeting attendance and multi-committee involvement suggests regular engagement in the council's legislative and administrative processes during their current term, which spans the 2022-2025 council period.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how often does he vote in favor of or against major municipal initiatives?"
-  - "Which specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
-  - "How does Steve Hillier's meeting attendance and committee participation compare to other council members during the same time period?"
+  - "What specific committees has Steve Hillier served on during his time on London City Council?"
+  - "What has been his voting attendance rate and pattern on key municipal issues?"
+  - "How does his meeting attendance record compare to other council members during the same period?"
 ---
 
-Steve Hillier has been an active member of London City Council from 2018 to 2025, demonstrating significant participation with attendance at 453 meetings during this period. His council service spans approximately seven years, during which he has served on seven different committees, indicating broad engagement across various areas of municipal governance.
+Steve Hillier has been an active member of London City Council from 2018 to 2025, demonstrating substantial engagement through his attendance at 453 meetings during this period. His council participation spans approximately seven years, during which he has served on seven different committees, indicating broad involvement across various areas of municipal governance.
 
-His consistent attendance record and multi-committee involvement suggests regular participation in London's civic decision-making processes throughout his tenure on council.
+His consistent meeting attendance and multi-committee participation suggests a committed approach to his council duties. The high number of meetings attended over his tenure reflects regular engagement with both full council sessions and committee work throughout his time in office.
 
 ## Terms of Service
 

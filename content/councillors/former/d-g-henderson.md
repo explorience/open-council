@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their level of participation in committee work?"
-  - "How did Henderson's attendance rate of 142 meetings compare to other council members during the same period?"
+  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus general council meetings?"
+  - "How did Henderson's meeting attendance of 142 sessions compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, completing a four-year term during this period. Throughout their tenure, Henderson demonstrated consistent engagement with council duties, attending 142 meetings over the course of their service. They participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly identified in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during this four-year term. Henderson's council service included involvement on four different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement with council business throughout their tenure.
 
-Henderson's attendance record suggests active participation in the democratic process at the municipal level. Their four-year term would have coincided with various municipal issues and decisions facing London during the early 2010s, and their committee work would have allowed them to contribute to specialized areas of municipal governance and policy development.
+Henderson's service spanned one full term on London City Council during the early 2010s, a period that would have involved various municipal decisions and policy considerations typical of city governance. Their committee participation indicates involvement beyond general council meetings in more specialized areas of municipal administration.
 
 ## Terms of Service
 

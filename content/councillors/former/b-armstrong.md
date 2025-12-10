@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's attendance rate compared to other council members during his 2012-2018 tenure?"
-  - "Which specific committees did Armstrong serve on and what were his roles or contributions to those committees?"
-  - "How did Armstrong vote on major city issues and budget decisions during his six years on London City Council?"
+  - "What was Bill Armstrong's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during his 2012-2018 term?"
+  - "Which specific committees did Armstrong serve on, and what was his attendance rate for committee meetings versus regular council sessions?"
+  - "How did Armstrong's meeting attendance and committee participation compare to other council members who served during the same period?"
 ---
 
-Bill Armstrong served on London City Council for six years from 2012 to 2018. During his tenure, he attended 245 council meetings, demonstrating consistent participation in the city's legislative processes. Armstrong served on five different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
+Bill Armstrong served on London City Council from 2012 to 2018, representing a six-year term of municipal service. During this period, he attended 245 council meetings, demonstrating consistent participation in the city's governance proceedings. Armstrong served on five different committees throughout his tenure, though the specific committee names are not clearly identifiable in the available data.
 
-His six-year term represents a significant period of municipal service, spanning what would typically be two consecutive four-year council terms. The high number of meetings attended suggests regular engagement with council business throughout his period of service.
+His attendance record and committee involvement indicate active engagement in London's municipal affairs over nearly a full decade of service. The 245 meetings attended across his six-year term suggests regular participation in both regular council sessions and committee work.
 
 ## Terms of Service
 

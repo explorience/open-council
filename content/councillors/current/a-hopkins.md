@@ -6,14 +6,12 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "What has been Anna Hopkins' voting record on major city issues such as budget approvals, development projects, or policy changes?"
-  - "How does Anna Hopkins' meeting attendance rate of 640 meetings compare to other council members over the same time period?"
+  - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members during her tenure?"
+  - "Which specific committees has she served on and what leadership roles, if any, has she held on these committees?"
+  - "How has her voting pattern evolved over her 11+ years of service, and on which types of issues does she most frequently vote in favor or opposition?"
 ---
 
-Anna Hopkins has served as a member of London City Council in Canada from 2014 to 2025, representing an 11-year tenure on the council. During this period, she has demonstrated consistent participation by attending 640 meetings. Her council service has included membership on 8 different committees, indicating broad involvement across various areas of municipal governance and policy development.
-
-Hopkins' extensive meeting attendance record and multi-committee participation suggests active engagement in the council's work over more than a decade of service. Her long tenure spanning from 2014 to 2025 represents significant experience in municipal government and continuity in representing her constituents' interests at the city level.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has attended 640 meetings, indicating consistent participation in council proceedings. Hopkins has served on eight different committees throughout her time on council, showing broad involvement across various municipal departments and policy areas. Her extended service period and high meeting attendance suggest she has been an active and engaged member of London's municipal government.
 
 ## Terms of Service
 

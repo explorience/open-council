@@ -6,14 +6,12 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Bud Polhill serve on and what were their main contributions to those committees?"
-  - "How did Bud Polhill's attendance rate of 199 meetings compare to other council members during the same period?"
+  - "What was Bud Polhill's voting record on key municipal issues such as budget approvals and development proposals during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on, and what was their attendance rate for committee meetings versus regular council meetings?"
+  - "Did Bud Polhill seek re-election after their 2011-2014 term, and if so, what were the results?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during their four-year term. They served on five different committees during their tenure, indicating involvement across multiple areas of municipal governance.
-
-Their meeting attendance record suggests consistent engagement with council business over the course of their term. The variety of committee assignments reflects participation in different aspects of city administration and policy development during their time as a council member.
+Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during this four-year term. During their tenure, Polhill served on five different committees, though the specific names of these committees are not clearly displayed in the available data. This level of meeting attendance and committee involvement suggests consistent engagement in municipal governance throughout their single term on council.
 
 ## Terms of Service
 

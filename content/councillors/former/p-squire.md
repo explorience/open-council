@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting pattern on major city issues like budget approvals, development projects, or transit initiatives during their 2014-2021 term?"
-  - "Which specific committees did Phil Squire serve on, and what was their level of participation or leadership roles within those committees?"
-  - "How did Phil Squire's attendance rate of 372 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Phil Squire serve on and what were their primary roles or contributions to those committees?"
+  - "Did Phil Squire sponsor or champion any particular motions or initiatives during their seven years on London City Council?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire's council involvement extended beyond general meetings, as they served on six different committees, though the specific names of these committees are not clearly indicated in the available data.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire served on six different committees throughout their time on council, indicating involvement across multiple areas of municipal governance and policy development.
 
-Their participation record suggests an active engagement in municipal governance throughout their term, with regular attendance at council sessions being a notable aspect of their service to the city of London, Ontario.
+Their participation record shows sustained engagement with the council's work over nearly two full terms of office, contributing to the decision-making processes that shaped London's municipal direction during this period.
 
 ## Terms of Service
 

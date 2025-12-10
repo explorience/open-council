@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major municipal issues such as budget approvals, development projects, and infrastructure spending during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Paul Hubert's meeting attendance rate compare to other council members during the same period, and were there any notable absences during key votes or decisions?"
+  - "What was Paul Hubert's attendance rate at council meetings during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions?"
+  - "How did Paul Hubert vote on major municipal issues like budget approvals, development projects, or policy changes during his time on council?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he was actively involved in committee work, serving on eight different committees throughout his term. This level of meeting attendance and committee participation suggests regular engagement with municipal governance and decision-making processes during his years of service.
+Paul Hubert served on London City Council from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent participation by attending 363 council meetings and served on eight different committees, indicating active engagement in the council's committee work structure.
 
-His multi-year tenure from 2011 to 2018 indicates he served at least two terms on council, providing continuity in representation and allowing him to develop institutional knowledge of municipal operations and policy development over nearly a decade of service.
+His sustained involvement over nearly two full council terms suggests he was an established member of the municipal government during this period. The high number of meetings attended and multiple committee appointments reflect regular participation in London's city council proceedings and governance activities.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on key municipal issues during his time on council?"
-  - "Which specific committees did he serve on and what roles did he play within those committees?"
-  - "How did his voting patterns and policy positions evolve over his eight-year tenure from 2014 to 2022?"
+  - "What was Michael van Holst's voting attendance rate and were there any notable patterns in his absences from council meetings?"
+  - "Which specific committees did he serve on and did he hold any chair or vice-chair positions during his tenure?"
+  - "How did his voting patterns align with other council members, and were there particular issues where he frequently voted differently from the majority?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During this period, he served on eight different committees, indicating broad engagement across various areas of municipal governance. His extended service span of eight years suggests he was re-elected at least once during his time on council, representing sustained community support for his participation in local government.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
 
-His meeting attendance record and committee involvement reflect active participation in the day-to-day operations of London City Council throughout his tenure.
+His sustained participation over two full terms suggests regular engagement with council business and committee work. The high number of meetings attended reflects active participation in the formal decision-making processes of London's municipal government throughout his period of service.
 
 ## Terms of Service
 

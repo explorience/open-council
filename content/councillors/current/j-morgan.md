@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What was Josh Morgan's voting record on major budget decisions during his time on council?"
-  - "How often did Morgan vote against the majority position on key policy issues?"
-  - "What specific committees did Morgan serve on and what was his attendance rate for committee meetings compared to full council meetings?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council, and in what capacity?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members during overlapping terms?"
+  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
-Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has attended 654 council meetings, demonstrating consistent engagement in the city's legislative processes. His service has included participation on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this period, he has demonstrated consistent engagement with council duties, attending 654 meetings. His service has included participation on eight different committees, indicating involvement across multiple areas of municipal governance and policy development.
 
-Morgan's extensive meeting attendance record and multi-committee involvement suggests a committed approach to his council duties over his eleven-year term. His sustained presence on council through multiple election cycles indicates both electoral success and ongoing community support for his representation.
+Morgan's lengthy tenure and substantial meeting attendance record suggest sustained commitment to his council responsibilities. His service spanning from 2014 to 2025 covers nearly three full council terms, providing him with extensive experience in London's municipal decision-making processes and committee work.
 
 ## Terms of Service
 

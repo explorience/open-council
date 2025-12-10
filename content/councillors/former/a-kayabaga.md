@@ -6,14 +6,14 @@ meetingCount: 180
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Arielle Kayabaga's voting record on key municipal issues during her time on London City Council?"
-  - "Which specific committees did she serve on, and what was her attendance rate for committee meetings versus regular council meetings?"
-  - "How did her meeting attendance and participation compare to other council members during the same 2018-2021 period?"
+  - "What was Arielle Kayabaga's voting record on key municipal issues during her 2018-2021 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation through her attendance at 180 meetings during this period. Over her three-year tenure, she served on five different committees, though the specific committee names are not clearly displayed in the available data. Her meeting attendance suggests consistent engagement with council business throughout her time in office.
+Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation with attendance at 180 meetings during her tenure. She served on five different committees during her time on council, though the specific committee names are not clearly indicated in the available data. Her three-year term on council shows consistent engagement in municipal governance and committee work.
 
-Her service period of 2018-2021 represents a partial term, as she left municipal politics when she was elected as a Member of Parliament for London West in the 2021 federal election. During her time on council, her participation in 180 meetings indicates regular involvement in the decision-making processes of London's municipal government.
+Her participation record suggests regular involvement in council proceedings, with meeting attendance that reflects commitment to her municipal duties during her term of service.
 
 ## Terms of Service
 
