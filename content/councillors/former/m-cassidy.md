@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during her 2014-2022 tenure?"
+  - "What was Maureen Cassidy's voting record on key municipal issues like budget approvals, development projects, and policy initiatives during her 2014-2022 tenure?"
   - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did her meeting attendance rate of 536 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "How did her meeting attendance rate compare to other council members, and were there any notable absences during important votes or discussions?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, representing an eight-year tenure in municipal government. During this period, she demonstrated consistent participation by attending 536 council meetings. Throughout her time on council, she served on seven different committees, indicating broad involvement in various aspects of municipal governance and policy development.
+Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings over her eight-year tenure. During her time on council, she was active in committee work, serving on seven different committees throughout her term. This level of meeting attendance and committee involvement suggests regular engagement in the council's decision-making processes and municipal governance activities.
 
-Her extensive meeting attendance record and multi-committee participation suggests active engagement in the council's work over nearly a decade of service to the City of London.
+Her eight-year service span indicates she served at least two full terms on council, given that municipal terms in Ontario are typically four years in length. The substantial number of meetings attended reflects active participation in both regular council sessions and committee work during her tenure.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Phil Squire serve on and what were their primary roles or contributions to those committees?"
-  - "Did Phil Squire sponsor or champion any particular motions or initiatives during their seven years on London City Council?"
+  - "What was Phil Squire's attendance rate and how did it compare to other council members during his tenure?"
+  - "Which specific committees did Phil Squire serve on and what were his roles or leadership positions within those committees?"
+  - "How did Phil Squire vote on major municipal issues such as budget approvals, development projects, or significant policy changes during his 2014-2021 term?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire served on six different committees throughout their time on council, indicating involvement across multiple areas of municipal governance and policy development.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, he demonstrated consistent engagement by attending 372 council meetings and serving on six different committees, indicating active participation in the city's governance processes.
 
-Their participation record shows sustained engagement with the council's work over nearly two full terms of office, contributing to the decision-making processes that shaped London's municipal direction during this period.
+His extended service period suggests he was re-elected at least once during his time on council, as typical municipal terms in Ontario are four years in length. The substantial number of meetings attended and multiple committee assignments reflect a commitment to the various aspects of municipal decision-making and policy development that occur both in full council sessions and specialized committee work.
 
 ## Terms of Service
 

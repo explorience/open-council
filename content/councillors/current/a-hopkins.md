@@ -6,12 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members during her tenure?"
-  - "Which specific committees has she served on and what leadership roles, if any, has she held on these committees?"
-  - "How has her voting pattern evolved over her 11+ years of service, and on which types of issues does she most frequently vote in favor or opposition?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council, and has she held any chair or vice-chair positions?"
+  - "How does Anna Hopkins' meeting attendance rate of 640 meetings compare to other council members serving similar terms?"
+  - "What has been Anna Hopkins' voting pattern on major municipal issues such as budget approvals, development projects, and policy initiatives during her 2014-2025 tenure?"
 ---
 
-Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has attended 640 meetings, indicating consistent participation in council proceedings. Hopkins has served on eight different committees throughout her time on council, showing broad involvement across various municipal departments and policy areas. Her extended service period and high meeting attendance suggest she has been an active and engaged member of London's municipal government.
+Anna Hopkins has served on London City Council for over a decade, maintaining an active role from 2014 to 2025. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings over this period. Her participation extends beyond regular council sessions, as she has served on eight different committees throughout her time in office, indicating broad involvement across various municipal portfolios and policy areas.
+
+Hopkins' lengthy service record and substantial meeting attendance suggest consistent civic engagement and dedication to her council responsibilities. Her multi-committee involvement reflects either rotating assignments over her years of service or simultaneous participation on multiple committees, both of which would indicate active participation in the detailed work of municipal governance beyond the main council chambers.
 
 ## Terms of Service
 

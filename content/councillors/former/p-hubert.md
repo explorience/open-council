@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's attendance rate at council meetings during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions?"
-  - "How did Paul Hubert vote on major municipal issues like budget approvals, development projects, or policy changes during his time on council?"
+  - "What was Paul Hubert's voting pattern on key municipal issues like budget approvals, development proposals, and infrastructure projects during his 2011-2018 term?"
+  - "How frequently did Paul Hubert miss council meetings, and what was his attendance rate compared to other councillors during the same period?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent participation by attending 363 council meetings and served on eight different committees, indicating active engagement in the council's committee work structure.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he was appointed to serve on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
 
-His sustained involvement over nearly two full council terms suggests he was an established member of the municipal government during this period. The high number of meetings attended and multiple committee appointments reflect regular participation in London's city council proceedings and governance activities.
+His meeting attendance record shows regular engagement with council business throughout his term. The breadth of his committee work suggests he took on diverse responsibilities within the municipal government structure during his years of service.
 
 ## Terms of Service
 

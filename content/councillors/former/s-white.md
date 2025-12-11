@@ -6,14 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "Did Sandy White sponsor or champion any particular legislation or initiatives during their time on council?"
+  - "What was Sandy White's voting record on major city initiatives during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on and what was their role or contribution to those committees?"
+  - "How did Sandy White's attendance rate of 164 meetings compare to other council members during the same period?"
 ---
 
-Sandy White served on London City Council from 2011-2014, completing a full four-year term. During this period, they demonstrated active participation by attending 164 meetings and served on five different committees, showing engagement across multiple areas of municipal governance.
+Sandy White served on London City Council from 2011-2014, completing a full four-year term. During this period, they demonstrated consistent engagement with council business, attending 164 meetings over the course of their tenure. White participated in the committee system by serving on five different committees, though the specific names of these committees are not clearly specified in the available data.
 
-Their consistent meeting attendance over the four-year period indicates regular involvement in council proceedings and committee work, suggesting they maintained an active role in London's municipal decision-making processes throughout their term.
+Their attendance record suggests active participation in municipal governance during their term. Serving on multiple committees indicates involvement in various aspects of city administration and policy development that typically characterize the committee structure of municipal councils.
 
 ## Terms of Service
 

@@ -7,13 +7,13 @@ yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
   - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus general council meetings?"
-  - "How did Henderson's meeting attendance of 142 sessions compare to other council members during the same period?"
+  - "Which specific committees did Henderson serve on and what was their role or contribution to those committees?"
+  - "How did Henderson's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during this four-year term. Henderson's council service included involvement on four different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement with council business throughout their tenure.
+Dale Henderson served on London City Council from 2011-2014, completing a full four-year term. During this period, Henderson demonstrated active participation by attending 142 council meetings. Henderson also served on four different committees during their tenure, though the specific committee names are not clearly identified in the available data.
 
-Henderson's service spanned one full term on London City Council during the early 2010s, a period that would have involved various municipal decisions and policy considerations typical of city governance. Their committee participation indicates involvement beyond general council meetings in more specialized areas of municipal administration.
+Henderson's attendance record and committee involvement suggests regular engagement with municipal governance during their term on council. The 142 meetings attended over the four-year period indicates consistent participation in the formal decision-making processes of London's municipal government.
 
 ## Terms of Service
 

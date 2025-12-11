@@ -6,14 +6,14 @@ meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 tenure?"
-  - "Which specific committees did she serve on and what were her primary areas of focus or expertise?"
-  - "How did her attendance rate compare to other council members during the same period?"
+  - "What specific committees did Nancy Branscombe serve on during her time on London City Council?"
+  - "What was her voting record on major municipal issues and bylaws during the 2011-2014 period?"
+  - "How did her meeting attendance rate compare to other council members serving during the same term?"
 ---
 
-Nancy Branscombe served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her tenure. Over this four-year period, she served on eight different committees, indicating broad engagement across various areas of municipal governance and policy development.
+Nancy Branscombe served on London City Council, Canada from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her term. She served on eight different committees during her time on council, indicating broad involvement across various municipal portfolios and responsibilities.
 
-Her consistent meeting attendance and extensive committee involvement suggest she maintained an active role in council proceedings throughout her term. The substantial number of committees she participated in reflects engagement with diverse municipal issues and responsibilities during her time as a council member.
+Her four-year tenure and extensive meeting attendance suggest consistent engagement in council business and committee work throughout her term of office.
 
 ## Terms of Service
 

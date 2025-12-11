@@ -6,14 +6,12 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on key municipal issues during his 2011-2014 term, such as budget approvals, development projects, or tax increases?"
-  - "Which six specific committees did Joe Swan serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Joe Swan's attendance rate of 147 meetings compare to other council members during the same 2011-2014 period?"
+  - "What was Joe Swan's voting record on major budget items and tax increases during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on, and did he hold any chair or vice-chair positions?"
+  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Joe Swan served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, he attended 147 council meetings, demonstrating consistent participation in the city's legislative processes. Swan served on six different committees during his tenure, indicating broad involvement across various municipal departments and policy areas, though the specific committee names are not clearly indicated in the available data.
-
-His attendance record and committee involvement suggest he was an active participant in council proceedings throughout his term. The 147 meetings attended over four years represents substantial engagement with the council's work, encompassing both regular council sessions and committee meetings during his time in office.
+Joe Swan served on London City Council from 2011 to 2014, representing a four-year term during which he demonstrated active participation by attending 147 meetings. Throughout his tenure, he served on six different committees, indicating broad involvement across various municipal matters and policy areas. His consistent meeting attendance over the four-year period suggests regular engagement with council business and committee responsibilities.
 
 ## Terms of Service
 

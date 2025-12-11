@@ -6,14 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Harold Usher serve on and what roles did he hold on those committees?"
-  - "How did Harold Usher vote on major municipal issues like budget approvals, development projects, and policy changes during his 2011-2018 term?"
+  - "What was Harold Usher's voting record on key municipal issues like budget approvals, development projects, and bylaw amendments during his 2011-2018 tenure?"
+  - "Which specific committees did Harold Usher serve on, and did he hold any chair or vice-chair positions on these committees?"
+  - "How did Harold Usher's attendance rate of 403 meetings compare to other council members during the same period, and were there any notable absences during critical votes?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation over his seven-year tenure. During this period, he attended 403 council meetings and served on six different committees, indicating active engagement in the legislative process and committee work that supports municipal governance.
+Harold Usher served on London City Council, Canada from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent participation by attending 403 council meetings and served on six different committees, showing active engagement in the city's governance processes.
 
-His attendance record suggests regular participation in council proceedings throughout his time in office, contributing to the decision-making processes that affect London residents and municipal operations.
+His extended service period and high meeting attendance suggest a commitment to municipal duties and civic participation. The breadth of his committee involvement indicates he contributed to various aspects of city administration and policy development throughout his time on council.
 
 ## Terms of Service
 

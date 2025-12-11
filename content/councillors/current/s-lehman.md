@@ -6,14 +6,12 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What was Steve Lehman's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Steve Lehman serve on and what were his roles or leadership positions within those committees?"
-  - "How did Steve Lehman vote on major city issues and budget decisions during his time on London City Council?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Steve Lehman served on and what were his primary roles or responsibilities on each?"
+  - "Has Steve Lehman held any leadership positions such as committee chair or deputy mayor during his time on council?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent engagement with council duties, attending 386 meetings over his tenure. His participation extends beyond general council sessions, as he has served on six different committees, indicating involvement in various aspects of municipal governance and policy development.
-
-His seven-year term on council shows sustained commitment to municipal service, with his high meeting attendance suggesting regular participation in the decision-making processes of the city. The breadth of his committee involvement indicates engagement across multiple areas of city administration and governance.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. Over his approximately 7-year tenure, he has served on 6 different committees, indicating broad involvement across various areas of municipal governance. His consistent meeting attendance and multi-committee participation suggests regular engagement in the council's work and decision-making processes.
 
 ## Terms of Service
 

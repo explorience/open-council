@@ -6,14 +6,14 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees does Susan Stevenson serve on, and what are her primary areas of focus within those committees?"
-  - "How does her meeting attendance rate of 178 meetings compare to other council members during the same period?"
-  - "What is her voting record on key municipal issues that have come before London City Council during her 2022-2025 term?"
+  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has she served on and what has been her level of participation in committee discussions and decision-making?"
+  - "How does her meeting attendance rate compare to other council members, and has she been absent from any critical votes or important council sessions?"
 ---
 
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022-2025. During her current term, she has demonstrated strong engagement by attending 178 council meetings. Her committee involvement appears extensive, serving on eight different committees, though the specific names of these committees are not clearly displayed in the available data.
+Susan Stevenson has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 178 meetings during her term. She has served on eight different committees, indicating broad engagement across various areas of municipal governance and policy development.
 
-Her high meeting attendance record and broad committee participation suggest she has taken on significant responsibilities across multiple areas of municipal governance during her time on council.
+Her consistent meeting attendance and extensive committee involvement suggests a hands-on approach to her council responsibilities, participating in the detailed work that occurs at the committee level in addition to regular council sessions.
 
 ## Terms of Service
 

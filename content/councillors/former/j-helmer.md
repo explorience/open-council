@@ -6,12 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues during their time on council from 2014-2022?"
-  - "Which specific committees did Jesse Helmer serve on, and did they hold any chair or vice-chair positions?"
-  - "How does Jesse Helmer's meeting attendance rate of 580 meetings compare to other council members during the same period?"
+  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Jesse Helmer typically vote on major municipal issues like budget approvals, development applications, or infrastructure projects?"
 ---
 
-Jesse Helmer served on London City Council in Canada from 2014 to 2022, demonstrating significant engagement through attendance at 580 meetings over their eight-year tenure. During this period, Helmer participated on eight different committees, showing broad involvement across various areas of municipal governance. This level of meeting attendance and committee participation indicates consistent engagement in the council's work throughout their two-term period of service.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent engagement through attendance at 580 council meetings over their eight-year tenure. This represents an average of approximately 72-73 meetings per year, indicating regular participation in council proceedings. Helmer was actively involved in committee work, serving on eight different committees during their time in office, which suggests broad engagement across various municipal policy areas and administrative functions.
+
+Their eight-year service span covers two full council terms, showing sustained commitment to municipal governance in London, Ontario. The high meeting attendance record and extensive committee participation indicates Helmer was an active member of council who engaged regularly with the formal decision-making processes of the municipality.
 
 ## Terms of Service
 

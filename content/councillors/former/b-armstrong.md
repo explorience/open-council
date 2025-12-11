@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during his 2012-2018 term?"
-  - "Which specific committees did Armstrong serve on, and what was his attendance rate for committee meetings versus regular council sessions?"
-  - "How did Armstrong's meeting attendance and committee participation compare to other council members who served during the same period?"
+  - "What was Bill Armstrong's voting pattern on major municipal issues during his 2012-2018 term?"
+  - "Which specific committees did Armstrong serve on and what was his attendance rate for each?"
+  - "How did Armstrong's meeting attendance compare to other council members during the same period?"
 ---
 
-Bill Armstrong served on London City Council from 2012 to 2018, representing a six-year term of municipal service. During this period, he attended 245 council meetings, demonstrating consistent participation in the city's governance proceedings. Armstrong served on five different committees throughout his tenure, though the specific committee names are not clearly identifiable in the available data.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 meetings. Armstrong served on five different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
 
-His attendance record and committee involvement indicate active engagement in London's municipal affairs over nearly a full decade of service. The 245 meetings attended across his six-year term suggests regular participation in both regular council sessions and committee work.
+His attendance record suggests active engagement in municipal governance throughout his term. The substantial number of meetings attended over his six years of service indicates regular participation in both regular council sessions and committee work.
 
 ## Terms of Service
 

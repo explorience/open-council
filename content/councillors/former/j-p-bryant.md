@@ -6,14 +6,14 @@ meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What was Judy Bryant's voting record on key municipal issues such as budget approvals, development projects, and policy changes during her 2011-2014 term?"
+  - "Which specific committees did she serve on, and what was her attendance rate for committee meetings compared to regular council meetings?"
+  - "How did her participation and voting patterns compare to other council members during the same period, and did she initiate any motions or proposals?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, demonstrating active participation through her attendance at 168 meetings during this four-year term. She served on six different committees during her tenure, though the specific committee names are not clearly displayed in the available data. Her participation spanned one full council term, indicating consistent engagement in the municipal governance process.
+Judy Bryant served on London City Council from 2011-2014, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 168 council meetings. Bryant was actively involved in the committee structure of the council, serving on six different committees throughout her term, though the specific names of these committees are not clearly specified in the available data.
 
-Bryant's meeting attendance record suggests regular involvement in council proceedings throughout her term. The breadth of her committee participation, serving on six committees, indicates she took on multiple responsibilities within the council's committee structure during her time in office.
+Her attendance record and committee involvement indicate regular engagement with municipal governance during her time in office. The four-year service period suggests she served either one complete term or was appointed to fill a vacancy and completed the remainder of a term ending in 2014.
 
 ## Terms of Service
 

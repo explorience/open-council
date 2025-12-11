@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting record on major municipal issues such as budget approvals, development projects, and tax increases?"
-  - "Which specific committees has he served on, and what leadership roles, if any, has he held within those committees?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members during the same time period, and what was his attendance percentage?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members during the same time period?"
+  - "What has been his voting pattern on major municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
-Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating sustained civic engagement over a 14-year period. During his tenure, he has attended 499 council meetings and has served on seven different committees, indicating active participation in both general council proceedings and specialized committee work that helps shape municipal policy and decision-making.
+Paul Van Meerbergen has been an active member of London City Council in Canada, serving from 2011 to 2025, representing nearly a decade and a half of municipal service. During his tenure, he has demonstrated consistent participation by attending 499 council meetings and has served on seven different committees, indicating broad involvement across various aspects of municipal governance.
 
-His extensive meeting attendance record and multi-committee involvement suggest a consistent presence in London's municipal governance structure throughout his time in office. The duration of his service, spanning multiple council terms, reflects either re-election by constituents or appointment to continued roles within the city's governing body.
+His extensive meeting attendance record and multi-committee participation suggests a committed approach to his council responsibilities. The span of his service from 2011 to 2025 covers multiple council terms, indicating he has been re-elected by his constituents and has maintained an active role in London's municipal decision-making processes throughout this extended period.
 
 ## Terms of Service
 

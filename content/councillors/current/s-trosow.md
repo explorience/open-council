@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Sam Trosow served on during their time on London City Council?"
-  - "How does Sam Trosow's meeting attendance rate of 209 meetings compare to other council members during the same period?"
-  - "What has been Sam Trosow's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Sam Trosow's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has Sam Trosow served on and what are their roles on each committee?"
+  - "How has Sam Trosow voted on major municipal issues and budget items during their 2022-2025 term?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022 to 2025, demonstrating significant engagement through their attendance at 209 council meetings during this period. Their participation extends beyond general council meetings, as they have served on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Sam Trosow has served on London City Council from 2022-2025, demonstrating active participation with attendance at 209 meetings during this period. Their council involvement includes service on eight different committees, indicating broad engagement across various municipal functions and governance areas.
 
-This level of meeting attendance and committee participation suggests a commitment to the day-to-day operations of city council and active engagement in the legislative process. Serving on multiple committees allows council members to develop expertise in specific policy areas and contribute to detailed review of municipal issues before they reach full council.
+This level of meeting attendance and committee participation suggests consistent involvement in council business throughout their term. The multi-committee service reflects engagement with diverse aspects of municipal governance during their time on council.
 
 ## Terms of Service
 

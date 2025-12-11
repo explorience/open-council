@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Virginia Ridley's voting attendance rate and how did it compare to other council members during 2014-2018?"
-  - "Which specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair?"
-  - "What were her most significant motions or initiatives brought forward during her time on council?"
+  - "What was Virginia Ridley's voting record on key municipal issues during her 2014-2018 term?"
+  - "Which specific committees did she serve on and what roles did she hold within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Virginia Ridley served on London City Council from 2014 to 2018, demonstrating active participation with attendance at 212 meetings during her four-year term. She was appointed to six different committees throughout her tenure, indicating broad involvement in the council's committee work and governance structure.
+Virginia Ridley served on London City Council, Canada from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. She was actively involved in committee work, serving on six different committees throughout her time on council, though the specific committee names are not clearly displayed in the available data.
 
-Her meeting attendance record and committee appointments suggest consistent engagement in municipal government activities during her single term on council. The substantial number of meetings attended over the four-year period reflects regular participation in both regular council sessions and committee work.
+Her attendance at 212 meetings over a four-year period suggests regular engagement with council business and civic duties. The breadth of her committee involvement, spanning six different committees, indicates she took on diverse responsibilities across various areas of municipal governance during her term.
 
 ## Terms of Service
 

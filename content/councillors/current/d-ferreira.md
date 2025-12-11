@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
-  - "Which specific committees does David Ferreira serve on, and what roles or leadership positions does he hold within those committees?"
-  - "How does David Ferreira's meeting attendance rate compare to other London City Council members during the same period?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
+  - "Which specific committees has he served on, and what has been his level of participation and leadership within those committees?"
+  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated consistent engagement with council business, attending 208 meetings. His committee involvement appears to be extensive, having served on eight different committees, indicating broad participation across various areas of municipal governance.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated consistent engagement by attending 208 council meetings. His involvement extends beyond general council sessions, as he has served on eight different committees, indicating broad participation across various municipal governance areas.
 
-His high meeting attendance record and multiple committee assignments suggest a committed approach to his council responsibilities. As a member of the current term of council, Ferreira has maintained regular participation in the formal proceedings of municipal government during his years of service.
+Ferreira's high meeting attendance record and extensive committee involvement suggest a hands-on approach to his council duties. His service span covers the current council term, positioning him as part of the contemporary decision-making body for London's municipal affairs.
 
 ## Terms of Service
 

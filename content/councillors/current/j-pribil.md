@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
-  - "Which specific committees does Jerry Pribil serve on, and what role do they play in the committee structure (chair, vice-chair, or member)?"
-  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members during the same 2022-2025 term?"
+  - "What specific committees has Jerry Pribil served on during his time on London City Council?"
+  - "How does Jerry Pribil's meeting attendance rate compare to other council members during the 2022-2025 term?"
+  - "What has been Jerry Pribil's voting pattern on major city issues and budget decisions during his council tenure?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, they have been involved in committee work, serving on eight different committees, though the specific names of these committees are not clearly displayed in the available data.
+Jerry Pribil has been an active member of London City Council from 2022-2025, demonstrating strong engagement through his attendance at 212 meetings during this period. His council participation includes service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Pribil's consistent meeting attendance and multi-committee involvement suggests regular engagement in the council's legislative and administrative processes during their current term, which spans the 2022-2025 council period.
+Pribil's consistent meeting attendance and extensive committee participation suggest a committed approach to his council responsibilities. His involvement spans the current council term, showing sustained engagement in the city's decision-making processes and governance activities.
 
 ## Terms of Service
 
