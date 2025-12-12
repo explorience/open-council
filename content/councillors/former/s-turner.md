@@ -6,14 +6,12 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during his 2014-2022 tenure?"
-  - "Which specific committees did Stephen Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Stephen Turner's meeting attendance rate of 417 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What was Stephen Turner's voting record on major budget decisions during his time on council?"
+  - "Which specific committees did Stephen Turner serve on, and did he hold any leadership positions within those committees?"
+  - "How did Stephen Turner's meeting attendance rate compare to other council members during the 2014-2022 period?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, representing an 8-year tenure in municipal government. During this period, he demonstrated consistent participation by attending 417 council meetings and served on 7 different committees, indicating active engagement in the city's governance and decision-making processes.
-
-His extensive meeting attendance record and multi-committee involvement suggests he maintained regular participation in council business throughout his nearly decade-long service. The span of his service from 2014 to 2022 covers two full municipal terms, reflecting his continued electoral success and commitment to municipal representation during this period.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating active participation with attendance at 417 meetings over his eight-year tenure. During his time on council, Turner participated in seven different committees, showing involvement across multiple areas of municipal governance. His consistent meeting attendance and multi-committee participation indicates sustained engagement in the council's work throughout his two terms of service.
 
 ## Terms of Service
 

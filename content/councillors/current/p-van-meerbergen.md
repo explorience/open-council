@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members during the same time period?"
-  - "What has been his voting pattern on major municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "What specific committees has Paul Van Meerbergen served on during his tenure, and what policy areas do these committees oversee?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members who served during similar timeframes?"
+  - "What has been his voting pattern on major municipal issues such as budget approvals, development projects, and infrastructure investments?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council in Canada, serving from 2011 to 2025, representing nearly a decade and a half of municipal service. During his tenure, he has demonstrated consistent participation by attending 499 council meetings and has served on seven different committees, indicating broad involvement across various aspects of municipal governance.
+Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating a lengthy tenure of 14 years in municipal government. During this period, he has attended 499 council meetings, indicating active participation in the city's legislative processes. His service has included appointments to seven different committees, showing involvement across multiple areas of municipal governance and policy development.
 
-His extensive meeting attendance record and multi-committee participation suggests a committed approach to his council responsibilities. The span of his service from 2011 to 2025 covers multiple council terms, indicating he has been re-elected by his constituents and has maintained an active role in London's municipal decision-making processes throughout this extended period.
+Van Meerbergen's extensive meeting attendance record and multi-committee involvement suggest consistent engagement with London's civic affairs throughout his time on council. His long-term service spanning over a decade indicates he has been re-elected multiple times, reflecting ongoing community support for his council representation.
 
 ## Terms of Service
 

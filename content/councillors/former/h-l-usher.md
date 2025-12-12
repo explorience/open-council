@@ -6,14 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's voting record on key municipal issues like budget approvals, development projects, and bylaw amendments during his 2011-2018 tenure?"
+  - "What was Harold Usher's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2011-2018 tenure?"
   - "Which specific committees did Harold Usher serve on, and did he hold any chair or vice-chair positions on these committees?"
-  - "How did Harold Usher's attendance rate of 403 meetings compare to other council members during the same period, and were there any notable absences during critical votes?"
+  - "How did Harold Usher's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent participation by attending 403 council meetings and served on six different committees, showing active engagement in the city's governance processes.
+Harold Usher served on London City Council, Canada from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he attended 403 council meetings, demonstrating consistent participation in the city's legislative processes. Usher was appointed to serve on six different committees throughout his time on council, indicating involvement across multiple areas of municipal governance and policy development.
 
-His extended service period and high meeting attendance suggest a commitment to municipal duties and civic participation. The breadth of his committee involvement indicates he contributed to various aspects of city administration and policy development throughout his time on council.
+His attendance record and committee participation suggest an active role in London's municipal affairs during this period. The substantial number of meetings attended over his seven-year term reflects regular engagement with council business and civic responsibilities.
 
 ## Terms of Service
 

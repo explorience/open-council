@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their role or contribution to those committees?"
-  - "How did Henderson's meeting attendance rate compare to other council members during the same period?"
+  - "What was Dale Henderson's voting record on major city budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings?"
+  - "Did Henderson sponsor or champion any particular bylaws or motions during their time on council?"
 ---
 
-Dale Henderson served on London City Council from 2011-2014, completing a full four-year term. During this period, Henderson demonstrated active participation by attending 142 council meetings. Henderson also served on four different committees during their tenure, though the specific committee names are not clearly identified in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, spanning one full term. During this period, Henderson demonstrated consistent participation by attending 142 council meetings. Henderson was active in the committee structure of the council, serving on four different committees throughout their tenure, though the specific committee names are not clearly specified in the available data.
 
-Henderson's attendance record and committee involvement suggests regular engagement with municipal governance during their term on council. The 142 meetings attended over the four-year period indicates consistent participation in the formal decision-making processes of London's municipal government.
+Henderson's four-year term and substantial meeting attendance record suggests regular engagement with municipal governance during their time on council. Their participation across multiple committees indicates involvement in various aspects of city operations and policy development during the 2011-2014 period.
 
 ## Terms of Service
 

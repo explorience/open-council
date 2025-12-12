@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on major municipal issues like budget approvals, development projects, or infrastructure spending during his 2014-2018 term?"
-  - "Which specific committees did he serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "How did his meeting attendance rate of 142 meetings compare to other council members during the same 2014-2018 term?"
+  - "What was Jared Zaifman's voting attendance rate and did he miss any significant votes during his 2014-2018 term?"
+  - "Which specific committees did he serve on and what role did he play in committee decisions?"
+  - "How did his voting patterns align with other council members on major city issues during his four-year tenure?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a four-year term. During this period, he attended 142 council meetings, demonstrating active participation in the city's governance. He served on four different committees during his tenure, though the specific committee names are not clearly identified in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. He was actively involved in the committee structure of the council, serving on four different committees throughout his time in office.
 
-His attendance record of 142 meetings over a four-year period suggests consistent engagement with council business and committee work. As a council member during this term, he would have participated in municipal decision-making processes affecting London, Ontario residents.
+His attendance record and committee involvement suggest he was an engaged member of council who participated regularly in the city's governance processes. The four-year service period represents a standard municipal term, indicating he served one complete term on London City Council.
 
 ## Terms of Service
 

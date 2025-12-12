@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on key municipal issues like budget approvals, development projects, and policy initiatives during her 2014-2022 tenure?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did her meeting attendance rate compare to other council members, and were there any notable absences during important votes or discussions?"
+  - "What was Maureen Cassidy's voting record on key municipal issues such as budget approvals, development proposals, and policy initiatives during her 2014-2022 tenure?"
+  - "Which specific committees did she serve on and what leadership roles, if any, did she hold within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period, and were there any notable patterns in her participation?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings over her eight-year tenure. During her time on council, she was active in committee work, serving on seven different committees throughout her term. This level of meeting attendance and committee involvement suggests regular engagement in the council's decision-making processes and municipal governance activities.
+Maureen Cassidy served on London City Council, Canada from 2014 to 2022, demonstrating significant engagement through her attendance at 536 meetings over this eight-year period. This represents an average of approximately 67 meetings per year, indicating consistent participation in council proceedings. During her tenure, she served on seven different committees, suggesting broad involvement across various areas of municipal governance and policy development.
 
-Her eight-year service span indicates she served at least two full terms on council, given that municipal terms in Ontario are typically four years in length. The substantial number of meetings attended reflects active participation in both regular council sessions and committee work during her tenure.
+Her extended service period of eight years spans at least two full council terms, reflecting sustained community support and commitment to municipal government. The high meeting attendance record and multiple committee appointments indicate an active council member who was regularly engaged in the legislative and administrative processes of London's municipal government.
 
 ## Terms of Service
 

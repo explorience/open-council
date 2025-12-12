@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Jerry Pribil served on during his time on London City Council?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members during the 2022-2025 term?"
-  - "What has been Jerry Pribil's voting pattern on major city issues and budget decisions during his council tenure?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approval, development projects, and infrastructure spending?"
+  - "How often has Jerry Pribil initiated motions or amendments during council meetings, and what topics do they typically focus on?"
+  - "What specific committees does Jerry Pribil chair or serve on, and how active is their participation in committee work compared to regular council meetings?"
 ---
 
-Jerry Pribil has been an active member of London City Council from 2022-2025, demonstrating strong engagement through his attendance at 212 meetings during this period. His council participation includes service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, Pribil has been involved in committee work, serving on eight different committees, though the specific names and details of these committees are not clearly specified in the available data.
 
-Pribil's consistent meeting attendance and extensive committee participation suggest a committed approach to his council responsibilities. His involvement spans the current council term, showing sustained engagement in the city's decision-making processes and governance activities.
+Pribil's participation shows consistent engagement in the council's work, with their meeting attendance indicating regular involvement in municipal governance. Their service spans the current council term, suggesting they are either in their first term or continuing service from a previous term that began in 2022.
 
 ## Terms of Service
 

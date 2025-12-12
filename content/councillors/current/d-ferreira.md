@@ -6,14 +6,12 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
-  - "Which specific committees has he served on, and what has been his level of participation and leadership within those committees?"
+  - "What specific committees has David Ferreira served on during his time on London City Council?"
   - "How does his meeting attendance rate of 208 meetings compare to other council members during the same 2022-2025 period?"
+  - "What has been his voting record on key municipal issues such as budget approvals, zoning changes, or major infrastructure projects?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated consistent engagement by attending 208 council meetings. His involvement extends beyond general council sessions, as he has served on eight different committees, indicating broad participation across various municipal governance areas.
-
-Ferreira's high meeting attendance record and extensive committee involvement suggest a hands-on approach to his council duties. His service span covers the current council term, positioning him as part of the contemporary decision-making body for London's municipal affairs.
+David Ferreira has served on London City Council from 2022-2025, demonstrating active participation with attendance at 208 meetings during this period. Throughout his tenure, he has served on eight different committees, indicating broad engagement across various municipal departments and policy areas. His consistent meeting attendance and extensive committee involvement suggest a high level of civic engagement in London's municipal governance.
 
 ## Terms of Service
 

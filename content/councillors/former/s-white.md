@@ -6,14 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major city initiatives during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their role or contribution to those committees?"
-  - "How did Sandy White's attendance rate of 164 meetings compare to other council members during the same period?"
+  - "What was Sandy White's voting record on major budget decisions and tax increases during their 2011-2014 term?"
+  - "How did Sandy White vote on key development and zoning issues that came before council during this period?"
+  - "What was their attendance rate and participation level on the five committees they served on compared to other committee members?"
 ---
 
-Sandy White served on London City Council from 2011-2014, completing a full four-year term. During this period, they demonstrated consistent engagement with council business, attending 164 meetings over the course of their tenure. White participated in the committee system by serving on five different committees, though the specific names of these committees are not clearly specified in the available data.
+Sandy White served on London City Council from 2011-2014, representing a single four-year term during this period. Over the course of their tenure, White attended 164 council meetings, demonstrating active participation in the city's legislative proceedings. They served on five different committees during their time on council, indicating involvement in various aspects of municipal governance and policy development.
 
-Their attendance record suggests active participation in municipal governance during their term. Serving on multiple committees indicates involvement in various aspects of city administration and policy development that typically characterize the committee structure of municipal councils.
+White's participation appears to have been consistent throughout their four-year term, with their meeting attendance suggesting regular engagement with council business. Their committee work would have involved detailed review of specific policy areas and recommendations to the broader council on various municipal matters.
 
 ## Terms of Service
 

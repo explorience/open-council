@@ -6,14 +6,14 @@ meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Nancy Branscombe serve on during her time on London City Council?"
-  - "What was her voting record on major municipal issues and bylaws during the 2011-2014 period?"
-  - "How did her meeting attendance rate compare to other council members serving during the same term?"
+  - "What was Nancy Branscombe's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
+  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
+  - "Did she sponsor or champion any particular pieces of legislation or municipal initiatives during her four years on council?"
 ---
 
-Nancy Branscombe served on London City Council, Canada from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her term. She served on eight different committees during her time on council, indicating broad involvement across various municipal portfolios and responsibilities.
+Nancy Branscombe served on London City Council from 2011 to 2014, a four-year term during which she attended 119 council meetings. Her participation included service on eight different committees, demonstrating active engagement across multiple areas of municipal governance. This level of meeting attendance and committee involvement suggests consistent participation in the council's work throughout her term.
 
-Her four-year tenure and extensive meeting attendance suggest consistent engagement in council business and committee work throughout her term of office.
+Her service spanned what appears to be a full council term, and her attendance at 119 meetings over four years indicates regular participation in the council's legislative and administrative processes. The breadth of her committee work, serving on eight different committees, suggests she was involved in various aspects of municipal policy and decision-making during her tenure.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Phil Squire serve on and what were his roles or leadership positions within those committees?"
-  - "How did Phil Squire vote on major municipal issues such as budget approvals, development projects, or significant policy changes during his 2014-2021 term?"
+  - "What was Phil Squire's attendance rate compared to other council members during his 2014-2021 tenure?"
+  - "Which specific committees did Phil Squire serve on and what were his roles or leadership positions on those committees?"
+  - "How did Phil Squire vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, he demonstrated consistent engagement by attending 372 council meetings and serving on six different committees, indicating active participation in the city's governance processes.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, he maintained active participation by attending 372 council meetings and served on six different committees, demonstrating consistent engagement in the city's governance processes.
 
-His extended service period suggests he was re-elected at least once during his time on council, as typical municipal terms in Ontario are four years in length. The substantial number of meetings attended and multiple committee assignments reflect a commitment to the various aspects of municipal decision-making and policy development that occur both in full council sessions and specialized committee work.
+His sustained involvement over nearly two full terms indicates a commitment to municipal affairs, with his meeting attendance reflecting regular participation in council deliberations and decision-making processes throughout his time in office.
 
 ## Terms of Service
 

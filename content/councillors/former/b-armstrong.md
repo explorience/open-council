@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting pattern on major municipal issues during his 2012-2018 term?"
-  - "Which specific committees did Armstrong serve on and what was his attendance rate for each?"
-  - "How did Armstrong's meeting attendance compare to other council members during the same period?"
+  - "What was Bill Armstrong's attendance rate as a percentage of total meetings during his 2012-2018 tenure?"
+  - "Which specific committees did Bill Armstrong serve on and what were his primary areas of focus?"
+  - "How did Bill Armstrong vote on major municipal issues such as budget approvals, development proposals, or infrastructure projects during his time on council?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 meetings. Armstrong served on five different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, representing a six-year tenure in municipal government. During this period, he demonstrated consistent participation by attending 245 council meetings and served on five different committees, though the specific names of these committees are not clearly specified in the available data.
 
-His attendance record suggests active engagement in municipal governance throughout his term. The substantial number of meetings attended over his six years of service indicates regular participation in both regular council sessions and committee work.
+Armstrong's attendance record suggests active engagement in the council's work throughout his term. His multi-year service and committee involvement indicate he took on various responsibilities within the municipal government structure during his time representing London residents.
 
 ## Terms of Service
 

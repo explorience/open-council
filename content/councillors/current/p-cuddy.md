@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
-  - "How does Peter Cuddy's meeting attendance record of 204 meetings compare to other council members during the same period?"
-  - "What has been Peter Cuddy's voting pattern on key municipal issues and budget decisions during his 2022-2025 term?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, and city policy changes?"
+  - "Which specific committees does Peter Cuddy serve on, and what has been his attendance rate for each individual committee?"
+  - "How does Peter Cuddy's meeting attendance and committee participation compare to other London City Council members during the same period?"
 ---
 
-Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating significant engagement through his attendance at 204 meetings during this period. His council participation extends beyond general council meetings, as he has served on eight different committees, indicating broad involvement across various municipal governance areas and policy domains.
+Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong attendance with 204 meetings attended. His council participation includes service on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city.
 
-His consistent meeting attendance and extensive committee work suggest a high level of commitment to his council duties. Serving on eight committees represents substantial volunteer time and indicates he has taken on responsibilities across multiple aspects of city governance during his current term.
+His consistent meeting attendance and extensive committee participation suggest regular engagement with council business and municipal affairs. The multi-committee involvement reflects participation in diverse areas of city governance during his current term on council.
 
 ## Terms of Service
 

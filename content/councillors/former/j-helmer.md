@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Jesse Helmer typically vote on major municipal issues like budget approvals, development applications, or infrastructure projects?"
+  - "What was Jesse Helmer's attendance rate compared to other council members during their time in office?"
+  - "Which specific committees did Jesse Helmer serve on and what were their primary roles or contributions?"
+  - "How did Jesse Helmer typically vote on major municipal issues such as budget approvals, development projects, or policy changes?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent engagement through attendance at 580 council meetings over their eight-year tenure. This represents an average of approximately 72-73 meetings per year, indicating regular participation in council proceedings. Helmer was actively involved in committee work, serving on eight different committees during their time in office, which suggests broad engagement across various municipal policy areas and administrative functions.
+Jesse Helmer served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During this tenure, Helmer attended 580 council meetings and served on 8 different committees, indicating active engagement in the council's work across multiple areas of municipal governance.
 
-Their eight-year service span covers two full council terms, showing sustained commitment to municipal governance in London, Ontario. The high meeting attendance record and extensive committee participation indicates Helmer was an active member of council who engaged regularly with the formal decision-making processes of the municipality.
+Helmer's extensive meeting attendance and multi-committee involvement suggests a committed approach to municipal service throughout nearly a decade on council. The breadth of committee participation indicates involvement in various aspects of city operations and policy development during their time in office.
 
 ## Terms of Service
 

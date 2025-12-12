@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting pattern on key municipal issues like budget approvals, development proposals, and infrastructure projects during his 2011-2018 term?"
-  - "How frequently did Paul Hubert miss council meetings, and what was his attendance rate compared to other councillors during the same period?"
+  - "What was Paul Hubert's voting record on major municipal issues such as budget approval, development projects, or infrastructure spending during his 2011-2018 tenure?"
   - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Paul Hubert's attendance rate compared to other council members during his time in office, and were there any notable absences from important votes or meetings?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he was appointed to serve on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
+Paul Hubert served on London City Council for seven years from 2011 to 2018. During his tenure, he demonstrated active participation by attending 363 meetings, which averages to approximately 52 meetings per year. He served on eight different committees throughout his time on council, indicating broad involvement across various municipal departments and issues.
 
-His meeting attendance record shows regular engagement with council business throughout his term. The breadth of his committee work suggests he took on diverse responsibilities within the municipal government structure during his years of service.
+His consistent meeting attendance and extensive committee participation suggest he was an engaged council member who took an active role in municipal governance. The seven-year span represents nearly two full terms of service, showing sustained commitment to his role in London's municipal government.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Shawn Lewis served on and what policy areas do they cover?"
-  - "Has Shawn Lewis held any leadership positions on committees or council, such as chair or vice-chair roles?"
+  - "What specific committees has Shawn Lewis served on, and what policy areas do these committees oversee?"
+  - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Shawn Lewis's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent engagement with a record of attending 495 meetings during this period. Their council participation spans approximately seven years, indicating they have served across multiple terms or was appointed/elected partway through the 2018-2025 council period.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 meetings during this period. Their council involvement spans approximately seven years, indicating they have served through at least one full municipal term and into a second term, as municipal elections in Ontario typically occur every four years.
 
-Lewis has been an active committee participant, serving on eight different committees throughout their tenure, though the specific names of these committees are not clearly readable in the provided data. This level of committee involvement suggests broad engagement across various municipal policy areas and administrative functions of the city.
+Lewis has been appointed to eight different committees during their tenure, suggesting broad involvement across various aspects of municipal governance. This level of committee participation, combined with their meeting attendance record, indicates consistent engagement in the council's work and decision-making processes throughout their time in office.
 
 ## Terms of Service
 

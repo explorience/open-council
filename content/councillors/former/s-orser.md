@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting pattern on major budget decisions during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance record for committee meetings versus general council meetings?"
-  - "How did his voting record align with other council members on key municipal issues like development projects or infrastructure spending?"
+  - "What specific committees did Stephen Orser serve on during his 2011-2014 term, and what were his primary responsibilities on each?"
+  - "How did his meeting attendance rate of 112 meetings compare to other council members during the same period?"
+  - "What were some of the major votes or policy decisions he participated in during his four years on council?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, completing a four-year term during which he attended 112 council meetings. His participation demonstrates consistent engagement with municipal governance throughout his tenure. During his time on council, Orser served on four different committees, though the specific committee names are not clearly displayed in the available data.
+Stephen Orser served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 112 meetings during his four-year term. His council involvement included service on four different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement with council business throughout his tenure.
 
-His meeting attendance record of 112 sessions over the four-year period indicates regular participation in council proceedings. As a municipal councillor during this period, Orser would have been involved in decisions affecting London's municipal policies, budget deliberations, and various local governance matters typical of city council responsibilities.
+His participation spanned a full council term during the early 2010s, a period when London was addressing various municipal challenges and opportunities. The number of meetings attended indicates regular involvement in the decision-making processes that shaped city policy and administration during those years.
 
 ## Terms of Service
 

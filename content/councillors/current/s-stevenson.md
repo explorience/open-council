@@ -6,14 +6,14 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees has she served on and what has been her level of participation in committee discussions and decision-making?"
-  - "How does her meeting attendance rate compare to other council members, and has she been absent from any critical votes or important council sessions?"
+  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 178 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Susan Stevenson has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 178 meetings during her term. She has served on eight different committees, indicating broad engagement across various areas of municipal governance and policy development.
+Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her term, she has demonstrated strong participation by attending 178 meetings, indicating consistent engagement with council business. She has served on eight different committees, showing broad involvement across various areas of municipal governance and policy development.
 
-Her consistent meeting attendance and extensive committee involvement suggests a hands-on approach to her council responsibilities, participating in the detailed work that occurs at the committee level in addition to regular council sessions.
+Her extensive committee participation and high meeting attendance record suggest she has taken an engaged approach to her council responsibilities, contributing to multiple areas of city operations and decision-making processes throughout her current term.
 
 ## Terms of Service
 

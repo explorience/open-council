@@ -6,12 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Skylar Franke's voting attendance rate and how often do they vote in favor of versus against proposed motions?"
-  - "Which specific committees does Skylar Franke serve on and what role do they play on each committee?"
-  - "How does Skylar Franke's meeting attendance record compare to other London City Council members during the same period?"
+  - "What specific committees has Skylar Franke served on during their time on London City Council?"
+  - "How does Skylar Franke's voting record align with other council members on key municipal issues?"
+  - "What has been Skylar Franke's attendance rate compared to other council members, and have they missed any significant votes or meetings?"
 ---
 
-Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated strong participation by attending 179 council meetings. Franke has been involved in committee work, serving on seven different committees, though the specific names of these committees are not clearly displayed in the available data. Their participation spans the current council term, indicating ongoing engagement in municipal governance.
+Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated consistent engagement with council duties, attending 179 meetings. Franke has participated broadly in the committee structure of the council, serving on seven different committees, which indicates involvement across multiple areas of municipal governance and policy development.
+
+Their high meeting attendance record and extensive committee participation suggests a committed approach to their council responsibilities. Serving on seven committees represents substantial engagement with the various aspects of municipal administration and policy-making that London City Council oversees.
 
 ## Terms of Service
 

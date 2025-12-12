@@ -6,14 +6,14 @@ meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Fontana's voting record on key municipal issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for each committee?"
-  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the 2011-2014 period?"
+  - "Which specific committees did Joe Fontana serve on and what were his key contributions or positions on those committees?"
+  - "Were there any notable absences or patterns in Joe Fontana's meeting attendance, and did he hold any leadership positions within the committees he served on?"
 ---
 
-Joe Fontana served on London City Council from 2011 to 2014, attending 139 meetings during this three-year period. He participated in seven different committees during his tenure, demonstrating involvement across multiple areas of municipal governance. His attendance record indicates active participation in council proceedings throughout his term.
+Joe Fontana served on London City Council from 2011 to 2014, during which time he attended 139 meetings. His council participation spanned a three-year period and he served on seven different committees, demonstrating active engagement in various aspects of municipal governance. His meeting attendance record shows consistent participation in council proceedings during his tenure.
 
-Based on the available data, Fontana maintained consistent engagement with council responsibilities during his time in office, though the specific details of his committee assignments are not clearly specified in the records provided.
+The data indicates Fontana maintained regular involvement in council business through both general council meetings and committee work, suggesting a commitment to the administrative and policy-making processes of London's municipal government during his time in office.
 
 ## Terms of Service
 

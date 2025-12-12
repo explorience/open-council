@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council, and has she held any chair or vice-chair positions?"
-  - "How does Anna Hopkins' meeting attendance rate of 640 meetings compare to other council members serving similar terms?"
-  - "What has been Anna Hopkins' voting pattern on major municipal issues such as budget approvals, development projects, and policy initiatives during her 2014-2025 tenure?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council, and what policy areas do these committees oversee?"
+  - "How does Anna Hopkins' meeting attendance rate of 640 meetings compare to other council members serving during the same time period?"
+  - "What has been Anna Hopkins' voting pattern on major municipal issues such as budget approvals, development projects, or infrastructure investments during her tenure?"
 ---
 
-Anna Hopkins has served on London City Council for over a decade, maintaining an active role from 2014 to 2025. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings over this period. Her participation extends beyond regular council sessions, as she has served on eight different committees throughout her time in office, indicating broad involvement across various municipal portfolios and policy areas.
+Anna Hopkins has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings over this period. Her service has included participation on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Hopkins' lengthy service record and substantial meeting attendance suggest consistent civic engagement and dedication to her council responsibilities. Her multi-committee involvement reflects either rotating assignments over her years of service or simultaneous participation on multiple committees, both of which would indicate active participation in the detailed work of municipal governance beyond the main council chambers.
+Hopkins' extensive meeting attendance record and multi-committee involvement suggests consistent participation in the democratic processes of London's municipal government. Her long tenure spanning more than ten years indicates either multiple successful election campaigns or appointments, reflecting sustained engagement with local government service in the London community.
 
 ## Terms of Service
 

@@ -4,14 +4,14 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "What major infrastructure projects or road construction initiatives is the Civic Works Committee currently reviewing that might affect my neighborhood?"
-  - "How does the committee prioritize infrastructure spending and maintenance across different areas of the city, and how can residents provide input on these decisions?"
-  - "What are the committee's current policies and plans regarding environmental sustainability, waste management, and climate resilience in London's infrastructure development?"
+  - "What is the current budget allocation for the civic works projects that this committee oversees, and how are spending priorities determined?"
+  - "How can residents provide input or raise concerns about local infrastructure issues that fall under this committee's jurisdiction?"
+  - "What are the major infrastructure projects or initiatives that the committee is currently reviewing or has recently approved for implementation in London?"
 ---
 
-The Civic Works Committee is a standing committee of London City Council that oversees the city's infrastructure, public works, and engineering services. This committee plays a crucial role in municipal governance by reviewing and making recommendations on matters related to roads, bridges, water and wastewater systems, solid waste management, traffic operations, and other essential civic infrastructure projects. With 203 meetings held to date, the committee demonstrates the ongoing and extensive nature of infrastructure planning and maintenance required for a major Canadian city.
+The Civic Works Committee is a standing committee of London City Council that plays a crucial role in the city's infrastructure and municipal services governance. This committee typically oversees matters related to public works, transportation infrastructure, utilities, waste management, roads and traffic operations, parks and recreation facilities, and environmental services. As one of the most active committees, having held 203 meetings to date, it serves as a key decision-making body that reviews staff reports, evaluates capital projects, and makes recommendations to City Council on matters affecting the city's physical infrastructure and service delivery.
 
-The committee serves as an intermediary between city staff and full City Council, examining technical reports, budget proposals, and policy recommendations before they proceed to Council for final approval. Their work typically encompasses both routine operational matters and major capital projects that impact residents' daily lives, from road repairs and snow removal policies to multi-million dollar infrastructure upgrades and environmental initiatives. The committee's decisions directly affect the quality of municipal services and the long-term sustainability of London's physical infrastructure.
+The committee's responsibilities encompass both operational and strategic planning aspects of civic infrastructure, including budget recommendations for capital works projects, policy development for municipal services, and oversight of major construction and maintenance initiatives. Committee members review proposals for road improvements, utility upgrades, transit infrastructure, environmental programs, and recreational facility development. Their recommendations significantly influence how London allocates resources for maintaining and improving the city's infrastructure, ensuring that civic works projects align with community needs and municipal priorities before advancing to full City Council for final approval.
 
 ## Recent Meetings
 

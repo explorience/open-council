@@ -6,14 +6,14 @@ meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joni Baechler's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did they serve on and what roles did they play in those committees?"
-  - "How did their meeting attendance rate compare to other council members during the same period?"
+  - "What was Joni Baechler's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
+  - "Which specific committees did Joni Baechler serve on and what were their primary roles or chair positions on those committees?"
+  - "What were some of the key motions or initiatives that Joni Baechler proposed or championed during their time on council?"
 ---
 
-Joni Baechler served on London City Council from 2011-2014, completing one full term during this four-year period. During their tenure, they maintained active participation by attending 132 council meetings and served on seven different committees, demonstrating broad engagement across various areas of municipal governance.
+Joni Baechler served on London City Council from 2011-2014, completing a full four-year term. During this period, they demonstrated active participation by attending 132 meetings and serving on seven different committees, indicating substantial involvement in the council's work and committee structure.
 
-Their consistent meeting attendance over the four-year term suggests regular involvement in council proceedings and decision-making processes. The committee work indicates participation in specialized areas of city governance, though the specific nature of these committees is not clearly identified in the available data.
+Their meeting attendance record and committee participation suggest consistent engagement with municipal governance responsibilities throughout their term on council.
 
 ## Terms of Service
 

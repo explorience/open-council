@@ -6,12 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Steve Lehman served on and what were his primary roles or responsibilities on each?"
-  - "Has Steve Lehman held any leadership positions such as committee chair or deputy mayor during his time on council?"
+  - "What is Steve Lehman's attendance rate as a percentage of total possible meetings during his tenure on London City Council?"
+  - "Which specific committees has Steve Lehman served on, and what are his participation rates for each committee?"
+  - "How does Steve Lehman's voting record align with council majority decisions, and are there particular policy areas where he frequently votes differently from his colleagues?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. Over his approximately 7-year tenure, he has served on 6 different committees, indicating broad involvement across various areas of municipal governance. His consistent meeting attendance and multi-committee participation suggests regular engagement in the council's work and decision-making processes.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings during this period. His council tenure spans approximately 7 years, indicating he has served multiple terms. Lehman has been actively involved in the committee structure of the council, having served on six different committees, though the specific committee names are not clearly displayed in the available data.
+
+His attendance record of 386 meetings over his years of service suggests regular engagement with council business and municipal governance responsibilities. The breadth of his committee involvement indicates participation across multiple areas of municipal policy and administration.
 
 ## Terms of Service
 
