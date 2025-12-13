@@ -1,5 +1,5 @@
-// Homepage Hero - Unified Chat Experience
-// Handles both hero state and full-viewport chat mode
+// Full Page Chat - For non-homepage pages
+// A full-viewport chat overlay that can be triggered from any page
 
 import { Marked } from "marked"
 
@@ -8,7 +8,7 @@ interface Message {
   content: string
 }
 
-// Chat history persists across state changes
+// Chat history persists across open/close cycles
 const chatHistory: Message[] = []
 
 // Configure marked for chat-friendly rendering
@@ -32,10 +32,10 @@ function renderMarkdown(content: string): string {
 
 function createMessageElement(role: "user" | "assistant", content: string): HTMLElement {
   const messageDiv = document.createElement("div")
-  messageDiv.className = `chat-message ${role}`
+  messageDiv.className = `fpc-message ${role}`
 
   const contentDiv = document.createElement("div")
-  contentDiv.className = "message-content"
+  contentDiv.className = "fpc-message-content"
   contentDiv.innerHTML = renderMarkdown(content)
   messageDiv.appendChild(contentDiv)
 
@@ -44,13 +44,13 @@ function createMessageElement(role: "user" | "assistant", content: string): HTML
 
 function createLoadingElement(): HTMLElement {
   const messageDiv = document.createElement("div")
-  messageDiv.className = "chat-message assistant"
+  messageDiv.className = "fpc-message assistant"
 
   const contentDiv = document.createElement("div")
-  contentDiv.className = "message-content"
+  contentDiv.className = "fpc-message-content"
 
   const loadingDiv = document.createElement("div")
-  loadingDiv.className = "message-loading"
+  loadingDiv.className = "fpc-loading"
   loadingDiv.setAttribute("role", "status")
   loadingDiv.setAttribute("aria-label", "Loading response")
   loadingDiv.innerHTML = '<div class="dot"></div><div class="dot"></div><div class="dot"></div>'
@@ -111,62 +111,67 @@ function getAllMessages(): string {
 }
 
 document.addEventListener("nav", () => {
-  const hero = document.querySelector(".homepage-hero") as HTMLElement
-  if (!hero) return
+  const chat = document.querySelector(".full-page-chat") as HTMLElement
+  if (!chat) return
 
-  const apiUrl = hero.dataset.apiUrl || "https://open-council-production.up.railway.app"
+  const apiUrl = chat.dataset.apiUrl || "https://open-council-production.up.railway.app"
 
   // Elements
-  const input = hero.querySelector(".chat-input") as HTMLTextAreaElement
-  const sendBtn = hero.querySelector(".chat-send-btn") as HTMLButtonElement
-  const backBtn = hero.querySelector(".chat-back-btn") as HTMLButtonElement
-  const messagesContainer = hero.querySelector(".chat-messages") as HTMLElement
-  const copyLastBtn = hero.querySelector(".chat-copy-last") as HTMLButtonElement
-  const copyAllBtn = hero.querySelector(".chat-copy-all") as HTMLButtonElement
+  const input = chat.querySelector(".fpc-input") as HTMLTextAreaElement
+  const sendBtn = chat.querySelector(".fpc-send-btn") as HTMLButtonElement
+  const backBtn = chat.querySelector(".fpc-back-btn") as HTMLButtonElement
+  const messagesContainer = chat.querySelector(".fpc-messages") as HTMLElement
+  const copyLastBtn = chat.querySelector(".fpc-copy-last") as HTMLButtonElement
+  const copyAllBtn = chat.querySelector(".fpc-copy-all") as HTMLButtonElement
+
+  // Chat trigger button in header
+  const triggerBtn = document.querySelector(".chat-trigger-btn") as HTMLButtonElement
 
   let isStreaming = false
+  let previousFocus: HTMLElement | null = null
 
-  // Activate chat mode
-  function enterChatMode() {
-    hero.classList.add("chat-active")
-    document.body.style.overflow = "hidden" // Prevent background scroll
+  // Open chat
+  function openChat() {
+    previousFocus = document.activeElement as HTMLElement
+    chat.style.display = "flex"
+    document.body.style.overflow = "hidden"
 
-    // Focus the input after transition
     setTimeout(() => {
       input?.focus()
       scrollToBottom(messagesContainer)
     }, 100)
 
-    // Announce mode change to screen readers
+    // Announce to screen readers
     const announcement = document.createElement("div")
     announcement.setAttribute("role", "status")
     announcement.setAttribute("aria-live", "polite")
     announcement.className = "sr-only"
-    announcement.textContent = "Chat mode activated. Type your question."
+    announcement.textContent = "Chat opened. Type your question."
     document.body.appendChild(announcement)
     setTimeout(() => announcement.remove(), 1000)
   }
 
-  // Return to hero mode
-  function exitChatMode() {
-    hero.classList.remove("chat-active")
-    document.body.style.overflow = "" // Restore scroll
+  // Close chat
+  function closeChat() {
+    chat.style.display = "none"
+    document.body.style.overflow = ""
 
-    // Focus the input in hero mode
-    setTimeout(() => input?.focus(), 100)
+    // Return focus to trigger button or previous focus
+    setTimeout(() => {
+      if (previousFocus && document.body.contains(previousFocus)) {
+        previousFocus.focus()
+      } else if (triggerBtn) {
+        triggerBtn.focus()
+      }
+    }, 100)
   }
 
   // Send message
   async function sendMessage(message: string) {
     if (!message.trim() || isStreaming) return
 
-    // Enter chat mode on first message
-    if (!hero.classList.contains("chat-active")) {
-      enterChatMode()
-    }
-
     // Remove the welcome message on first user message
-    const welcomeMessage = messagesContainer.querySelector(".chat-message.assistant")
+    const welcomeMessage = messagesContainer.querySelector(".fpc-message.assistant")
     if (welcomeMessage && chatHistory.length === 0) {
       welcomeMessage.remove()
     }
@@ -208,7 +213,7 @@ document.addEventListener("nav", () => {
       // Create assistant message element
       const assistantMessage = createMessageElement("assistant", "")
       messagesContainer.appendChild(assistantMessage)
-      const contentDiv = assistantMessage.querySelector(".message-content") as HTMLElement
+      const contentDiv = assistantMessage.querySelector(".fpc-message-content") as HTMLElement
 
       // Stream the response
       const reader = response.body?.getReader()
@@ -272,6 +277,10 @@ document.addEventListener("nav", () => {
   }
 
   // Event listeners
+  triggerBtn?.addEventListener("click", () => {
+    openChat()
+  })
+
   sendBtn?.addEventListener("click", () => {
     sendMessage(input.value)
   })
@@ -288,13 +297,15 @@ document.addEventListener("nav", () => {
   })
 
   backBtn?.addEventListener("click", () => {
-    exitChatMode()
+    if (!isStreaming) {
+      closeChat()
+    }
   })
 
-  // Escape key to exit chat mode
+  // Escape key to close
   document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape" && hero.classList.contains("chat-active") && !isStreaming) {
-      exitChatMode()
+    if (e.key === "Escape" && chat.style.display === "flex" && !isStreaming) {
+      closeChat()
     }
   })
 
@@ -312,34 +323,4 @@ document.addEventListener("nav", () => {
       copyToClipboard(text, copyAllBtn)
     }
   })
-
-  // Handle prefill questions clicking (from PrefillQuestions component)
-  document.addEventListener("click", (e) => {
-    const target = e.target as HTMLElement
-    const prefillBtn = target.closest(".prefill-question") as HTMLButtonElement
-
-    if (prefillBtn) {
-      const question = prefillBtn.dataset.question || prefillBtn.textContent
-      if (question) {
-        sendMessage(question)
-      }
-    }
-  })
 })
-
-// Add screen reader only class if not present
-const style = document.createElement("style")
-style.textContent = `
-  .sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
-  }
-`
-document.head.appendChild(style)

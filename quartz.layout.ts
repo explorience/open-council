@@ -151,12 +151,15 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
 
-    // Chatbot on all pages
-    Component.ChatBot({
-      title: "Ask About Council Meetings",
-      placeholder: "Ask about city council meetings...",
-      apiUrl: "https://open-council-production.up.railway.app"
-    })
+    // Full page chat for non-homepage pages (homepage has chat built into HomepageHero)
+    Component.ConditionalRender({
+      component: Component.FullPageChat({
+        title: "Open Council",
+        placeholder: "Ask anything about council meetings...",
+        apiUrl: "https://open-council-production.up.railway.app"
+      }),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   // No sidebars on homepage, sidebars on other pages
   left: [
@@ -184,6 +187,13 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.OpenCouncilHeader(), Component.ArticleTitle(), Component.ContentMeta()],
+  afterBody: [
+    Component.FullPageChat({
+      title: "Open Council",
+      placeholder: "Ask anything about council meetings...",
+      apiUrl: "https://open-council-production.up.railway.app"
+    }),
+  ],
   left: [],
   right: [searchAndExplorer]
 }
