@@ -5,7 +5,7 @@ import script from "./scripts/opencouncilheader.inline"
 const OpenCouncilHeader: QuartzComponent = () => {
   return <div className="open-council-header">
     <div className="title-div">
-      <h1><a href="/">Open Council</a></h1>
+      <h1><a href="/">Open Council</a> <span className="beta-tag">BETA</span></h1>
     </div>
   </div>
 }

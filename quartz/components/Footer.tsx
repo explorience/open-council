@@ -14,7 +14,11 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Website by <a href="https://facebook.com/heenalr">Heenal Rajani</a>
+          Website by <a href="https://facebook.com/heenalr">Heenal Rajani</a> and Ethan Sue for the{" "}
+          <a href="http://communitysustainability.ca">Institute for Community Sustainability</a>
+        </p>
+        <p>
+          Transcripts by Lilian Skinner for <a href="https://london.lillianskinner.ca">The London Archive</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
