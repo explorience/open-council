@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, and city policy changes?"
-  - "Which specific committees does Peter Cuddy serve on, and what has been his attendance rate for each individual committee?"
-  - "How does Peter Cuddy's meeting attendance and committee participation compare to other London City Council members during the same period?"
+  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has Peter Cuddy served on and what are his key areas of focus?"
+  - "How has Peter Cuddy voted on major municipal issues like budget approvals, development projects, or policy changes during his term?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong attendance with 204 meetings attended. His council participation includes service on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city.
+Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 204 meetings during this period. His council involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
 
-His consistent meeting attendance and extensive committee participation suggest regular engagement with council business and municipal affairs. The multi-committee involvement reflects participation in diverse areas of city governance during his current term on council.
+Cuddy's extensive meeting attendance and multi-committee participation suggests consistent involvement in London's municipal decision-making processes. His service span covers the current council term, representing a commitment to municipal governance and community representation through regular participation in both council sessions and specialized committee work.
 
 ## Terms of Service
 

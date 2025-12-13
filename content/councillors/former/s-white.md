@@ -6,14 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major budget decisions and tax increases during their 2011-2014 term?"
-  - "How did Sandy White vote on key development and zoning issues that came before council during this period?"
-  - "What was their attendance rate and participation level on the five committees they served on compared to other committee members?"
+  - "What was Sandy White's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on, and what was their level of participation and leadership roles within those committees?"
+  - "How did Sandy White's attendance rate of 164 meetings compare to other councillors during the same term, and were there any notable absences during key votes?"
 ---
 
-Sandy White served on London City Council from 2011-2014, representing a single four-year term during this period. Over the course of their tenure, White attended 164 council meetings, demonstrating active participation in the city's legislative proceedings. They served on five different committees during their time on council, indicating involvement in various aspects of municipal governance and policy development.
+Sandy White served on London City Council from 2011 to 2014, completing a single four-year term. During this period, they demonstrated active participation by attending 164 council meetings. White served on five different committees during their tenure, though the specific committee names are not clearly displayed in the available data.
 
-White's participation appears to have been consistent throughout their four-year term, with their meeting attendance suggesting regular engagement with council business. Their committee work would have involved detailed review of specific policy areas and recommendations to the broader council on various municipal matters.
+Their attendance record suggests consistent engagement with council business over the course of their term. As a councillor serving during the early 2010s, White would have been involved in municipal decisions during a period of ongoing urban development and municipal governance in London, Ontario.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on, and what policy areas do these committees oversee?"
-  - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Shawn Lewis's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Shawn Lewis served on and what policy areas do they cover?"
+  - "How many motions or initiatives has Shawn Lewis proposed or sponsored during their time on council?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 meetings during this period. Their council involvement spans approximately seven years, indicating they have served through at least one full municipal term and into a second term, as municipal elections in Ontario typically occur every four years.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 meetings during this period. Their council involvement spans approximately seven years, indicating service across multiple council terms. Lewis has participated on eight different committees throughout their tenure, showing broad engagement across various areas of municipal governance and policy development.
 
-Lewis has been appointed to eight different committees during their tenure, suggesting broad involvement across various aspects of municipal governance. This level of committee participation, combined with their meeting attendance record, indicates consistent engagement in the council's work and decision-making processes throughout their time in office.
+The meeting attendance figure of 495 suggests consistent participation in council proceedings, though the specific breakdown between regular council meetings, committee meetings, and other municipal gatherings is not specified in the available data. Their multi-committee involvement indicates participation in diverse aspects of city governance beyond general council duties.
 
 ## Terms of Service
 

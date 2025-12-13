@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council, and in what capacity?"
-  - "How does Josh Morgan's meeting attendance rate compare to other council members during overlapping terms?"
-  - "What has been Josh Morgan's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council?"
+  - "What is Josh Morgan's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his tenure from 2014-2025?"
 ---
 
-Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has demonstrated consistent engagement with council business, attending 654 meetings across his years of service. His involvement extends beyond general council meetings, as he has served on eight different committees throughout his time on council, indicating broad participation in the various specialized areas of municipal governance.
+Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal service. During this period, he has demonstrated strong attendance with 654 meetings attended and has served on eight different committees, indicating broad engagement across various aspects of city governance.
 
-His lengthy tenure and high meeting attendance record suggest a commitment to the responsibilities of municipal office, spanning multiple council terms and providing continuity in city governance over more than ten years of service.
+His extensive meeting attendance record and multi-committee involvement suggest consistent participation in council business over his tenure. The length of his service, spanning more than ten years, indicates either multiple successful election campaigns or appointments, reflecting sustained community support and ongoing commitment to municipal government.
 
 ## Terms of Service
 

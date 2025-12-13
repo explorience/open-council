@@ -6,14 +6,12 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2011-2018 tenure?"
-  - "Which specific committees did Harold Usher serve on, and did he hold any chair or vice-chair positions on these committees?"
-  - "How did Harold Usher's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What was Harold Usher's voting attendance rate and were there any notable patterns in his absences from the 403 meetings he attended?"
+  - "Which specific committees did Harold Usher serve on during his 2011-2018 tenure, and did he hold any leadership positions on these committees?"
+  - "How did Harold Usher's meeting attendance compare to other council members during the same period, and what was his participation level in committee versus full council meetings?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he attended 403 council meetings, demonstrating consistent participation in the city's legislative processes. Usher was appointed to serve on six different committees throughout his time on council, indicating involvement across multiple areas of municipal governance and policy development.
-
-His attendance record and committee participation suggest an active role in London's municipal affairs during this period. The substantial number of meetings attended over his seven-year term reflects regular engagement with council business and civic responsibilities.
+Harold Usher served on London City Council, Canada from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent attendance by participating in 403 council meetings. His involvement extended beyond general council sessions, as he served on six different committees throughout his time in office, indicating active engagement in the detailed work of municipal governance.
 
 ## Terms of Service
 

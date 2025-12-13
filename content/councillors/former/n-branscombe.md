@@ -6,14 +6,12 @@ meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Nancy Branscombe's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
-  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
-  - "Did she sponsor or champion any particular pieces of legislation or municipal initiatives during her four years on council?"
+  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus regular council meetings?"
+  - "How did her meeting attendance of 119 compare to other council members during the same period?"
 ---
 
-Nancy Branscombe served on London City Council from 2011 to 2014, a four-year term during which she attended 119 council meetings. Her participation included service on eight different committees, demonstrating active engagement across multiple areas of municipal governance. This level of meeting attendance and committee involvement suggests consistent participation in the council's work throughout her term.
-
-Her service spanned what appears to be a full council term, and her attendance at 119 meetings over four years indicates regular participation in the council's legislative and administrative processes. The breadth of her committee work, serving on eight different committees, suggests she was involved in various aspects of municipal policy and decision-making during her tenure.
+Nancy Branscombe served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her tenure. Her council involvement extended beyond regular council meetings, as she served on eight different committees throughout her time in office. This level of committee participation indicates a broad engagement with various municipal issues and council responsibilities during her four-year term.
 
 ## Terms of Service
 

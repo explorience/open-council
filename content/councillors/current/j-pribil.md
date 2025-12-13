@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approval, development projects, and infrastructure spending?"
-  - "How often has Jerry Pribil initiated motions or amendments during council meetings, and what topics do they typically focus on?"
-  - "What specific committees does Jerry Pribil chair or serve on, and how active is their participation in committee work compared to regular council meetings?"
+  - "What is Jerry Pribil's voting record on major municipal issues such as budget approvals, development projects, or policy changes?"
+  - "Which specific committees does Jerry Pribil serve on and what role do they play in those committee deliberations?"
+  - "How does Jerry Pribil's meeting attendance rate compare to other London City Council members during the same period?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, Pribil has been involved in committee work, serving on eight different committees, though the specific names and details of these committees are not clearly specified in the available data.
+Jerry Pribil has served as a member of London City Council from 2022-2025, demonstrating active participation with attendance at 212 council meetings during this period. Throughout their tenure, Pribil has been appointed to serve on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Pribil's participation shows consistent engagement in the council's work, with their meeting attendance indicating regular involvement in municipal governance. Their service spans the current council term, suggesting they are either in their first term or continuing service from a previous term that began in 2022.
+Pribil's extensive meeting attendance and multi-committee participation suggests a high level of engagement in London's municipal affairs. Their service span covers the current council term, placing them among the active members contributing to the city's decision-making processes across multiple policy areas.
 
 ## Terms of Service
 

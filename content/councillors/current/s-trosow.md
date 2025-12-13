@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting record on key municipal issues like budget approvals, development proposals, and infrastructure projects?"
-  - "How often does Sam Trosow initiate motions or amendments during council meetings, and what topics do they most frequently address?"
-  - "What leadership roles, if any, has Sam Trosow held on the various committees they serve on, such as committee chair or vice-chair positions?"
+  - "What specific committees has Sam Trosow served on during their time on London City Council?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Sam Trosow's voting pattern on major city issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating significant engagement through attendance at 209 meetings during this period. Their council participation includes service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Sam Trosow has been an active member of London City Council, serving from 2022 to 2025. During this period, they have demonstrated strong engagement with council responsibilities, attending 209 meetings. Their involvement extends beyond general council sessions, as they have served on 8 different committees, indicating broad participation across various areas of municipal governance.
 
-Based on their meeting attendance record and extensive committee participation, Trosow appears to maintain a high level of civic engagement in their council duties, contributing to the deliberative processes across multiple facets of London's municipal operations.
+Trosow's consistent meeting attendance and extensive committee involvement suggests a hands-on approach to their council duties. Their service spans multiple committees, which typically allows council members to develop expertise in different policy areas and contribute to the detailed work that supports council decision-making.
 
 ## Terms of Service
 

@@ -6,14 +6,12 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Skylar Franke served on during their time on London City Council?"
-  - "How does Skylar Franke's voting record align with other council members on key municipal issues?"
-  - "What has been Skylar Franke's attendance rate compared to other council members, and have they missed any significant votes or meetings?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
+  - "Which specific committees does Franke serve on, and what has been their level of participation and leadership within those committees?"
+  - "How does Franke's meeting attendance rate of 179 meetings compare to other council members and the average attendance expectations for London City Council?"
 ---
 
-Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated consistent engagement with council duties, attending 179 meetings. Franke has participated broadly in the committee structure of the council, serving on seven different committees, which indicates involvement across multiple areas of municipal governance and policy development.
-
-Their high meeting attendance record and extensive committee participation suggests a committed approach to their council responsibilities. Serving on seven committees represents substantial engagement with the various aspects of municipal administration and policy-making that London City Council oversees.
+Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During their current term, they have demonstrated strong participation by attending 179 council meetings. Franke has been involved in committee work, serving on seven different committees, though the specific committee names are not clearly displayed in the available data. Their consistent meeting attendance suggests regular engagement with council business and municipal governance responsibilities.
 
 ## Terms of Service
 

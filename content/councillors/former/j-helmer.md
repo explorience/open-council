@@ -6,14 +6,12 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's attendance rate compared to other council members during their time in office?"
-  - "Which specific committees did Jesse Helmer serve on and what were their primary roles or contributions?"
-  - "How did Jesse Helmer typically vote on major municipal issues such as budget approvals, development projects, or policy changes?"
+  - "What was Jesse Helmer's voting attendance rate and did they miss any significant votes during their eight years on council?"
+  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Jesse Helmer's meeting attendance record compare to other London City councillors during the same time period?"
 ---
 
-Jesse Helmer served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During this tenure, Helmer attended 580 council meetings and served on 8 different committees, indicating active engagement in the council's work across multiple areas of municipal governance.
-
-Helmer's extensive meeting attendance and multi-committee involvement suggests a committed approach to municipal service throughout nearly a decade on council. The breadth of committee participation indicates involvement in various aspects of city operations and policy development during their time in office.
+Jesse Helmer served on London City Council, Canada from 2014 to 2022, representing an eight-year tenure. During this period, Helmer demonstrated consistent participation by attending 580 council meetings. Throughout their time on council, Helmer served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas. This level of meeting attendance and committee participation suggests active engagement in the city's decision-making processes over nearly a full decade of municipal service.
 
 ## Terms of Service
 

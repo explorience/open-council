@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "How does his meeting attendance rate of 453 meetings compare to other council members serving during the same period?"
-  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "What is Steve Hillier's voting record on major budget decisions and tax increases during his time on council?"
+  - "How often has Steve Hillier voted in opposition to the majority position on council votes?"
+  - "What specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
 ---
 
-Steve Hillier has been an active member of London City Council from 2018 to 2025, demonstrating significant engagement through his attendance at 453 council meetings over this period. His participation spans nearly seven years of service, indicating consistent involvement in municipal governance. Hillier has served on seven different committees during his tenure, suggesting broad involvement across various areas of city administration and policy development.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council meetings, as he has served on seven different committees throughout his time in office, indicating broad engagement across various areas of municipal governance.
 
-His substantial meeting attendance record reflects regular participation in council proceedings, while his service on multiple committees indicates he has taken on diverse responsibilities within the council structure. This level of participation suggests he has been actively involved in the decision-making processes that shape London's municipal policies and operations throughout his time in office.
+Hillier's seven-year term on council shows sustained commitment to municipal politics in London. His high meeting attendance and multi-committee involvement suggests he has been an engaged participant in the city's decision-making processes across multiple policy areas and administrative functions.
 
 ## Terms of Service
 

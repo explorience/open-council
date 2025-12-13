@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on these committees?"
-  - "How has her committee participation evolved over her years of service, and has she focused on particular policy areas?"
+  - "What specific committees has Elizabeth Peloza served on during her time on London City Council, and in what capacity?"
+  - "How does her meeting attendance rate compare to other council members during the same time period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated consistent engagement with council business, attending 452 meetings over this seven-year period. Her participation extends beyond general council meetings, as she has served on nine different committees throughout her time in office, indicating broad involvement in various aspects of municipal governance and policy development.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent participation through her attendance at 452 meetings over this seven-year period. This represents an average of approximately 65 meetings per year, indicating regular engagement with council business. Her service has included participation on nine different committees, suggesting broad involvement across various areas of municipal governance and policy development.
 
-Her meeting attendance record suggests regular participation in council proceedings, averaging approximately 65 meetings per year across her term. The diversity of her committee involvement demonstrates engagement across multiple areas of city administration and governance during her council service.
+Peloza's tenure spans nearly two full council terms, showing sustained commitment to municipal public service. Her extensive meeting attendance and multi-committee involvement indicates active participation in the deliberative processes of London's city government during this period.
 
 ## Terms of Service
 

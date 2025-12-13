@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major city budget decisions during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings?"
-  - "Did Henderson sponsor or champion any particular bylaws or motions during their time on council?"
+  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their level of participation in committee work?"
+  - "Did Henderson miss any significant votes or meetings, and what was their overall attendance percentage?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, spanning one full term. During this period, Henderson demonstrated consistent participation by attending 142 council meetings. Henderson was active in the committee structure of the council, serving on four different committees throughout their tenure, though the specific committee names are not clearly specified in the available data.
+Dale Henderson served on London City Council, Canada from 2011-2014, completing one full term during this four-year period. Throughout their tenure, Henderson demonstrated consistent engagement with council duties, attending 142 meetings over the course of their service. They participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly specified in the available data.
 
-Henderson's four-year term and substantial meeting attendance record suggests regular engagement with municipal governance during their time on council. Their participation across multiple committees indicates involvement in various aspects of city operations and policy development during the 2011-2014 period.
+Henderson's attendance record suggests active participation in municipal governance during their term. Their involvement across multiple committees indicates they took on various responsibilities beyond regular council meetings, contributing to the detailed work that committees typically handle in municipal government operations.
 
 ## Terms of Service
 

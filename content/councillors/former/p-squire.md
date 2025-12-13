@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's attendance rate compared to other council members during his 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on and what were his roles or leadership positions on those committees?"
-  - "How did Phil Squire vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
+  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Phil Squire serve on and did they hold any chair or vice-chair positions?"
+  - "How did Phil Squire vote on major municipal issues like budget approvals, development proposals, or transportation initiatives during their 2014-2021 service?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, he maintained active participation by attending 372 council meetings and served on six different committees, demonstrating consistent engagement in the city's governance processes.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire was actively involved in committee work, serving on six different committees throughout their time on council, though the specific names of these committees are not clearly indicated in the available data.
 
-His sustained involvement over nearly two full terms indicates a commitment to municipal affairs, with his meeting attendance reflecting regular participation in council deliberations and decision-making processes throughout his time in office.
+Their extended service period suggests they served at least two terms on council, as municipal terms in Ontario typically run for four years. The high number of meetings attended over this seven-year period indicates regular engagement with council business and committee responsibilities.
 
 ## Terms of Service
 

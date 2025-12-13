@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Stephen Orser serve on during his 2011-2014 term, and what were his primary responsibilities on each?"
-  - "How did his meeting attendance rate of 112 meetings compare to other council members during the same period?"
-  - "What were some of the major votes or policy decisions he participated in during his four years on council?"
+  - "What was Stephen Orser's voting record on major budget decisions and tax increases during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on, and what was his attendance rate for committee meetings versus general council meetings?"
+  - "Did Stephen Orser run for re-election after his 2011-2014 term, and if so, what were the results?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 112 meetings during his four-year term. His council involvement included service on four different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement with council business throughout his tenure.
+Stephen Orser served on London City Council from 2011 to 2014, completing one full term of municipal service. During his four-year tenure, he demonstrated active participation by attending 112 council meetings. His council involvement extended beyond general council meetings, as he served on four different committees, though the specific names of these committees are not clearly specified in the available data.
 
-His participation spanned a full council term during the early 2010s, a period when London was addressing various municipal challenges and opportunities. The number of meetings attended indicates regular involvement in the decision-making processes that shaped city policy and administration during those years.
+Orser's consistent meeting attendance over his single term suggests regular engagement with municipal governance and city business during his time as a councillor.
 
 ## Terms of Service
 

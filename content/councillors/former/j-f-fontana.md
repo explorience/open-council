@@ -6,14 +6,14 @@ meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the 2011-2014 period?"
-  - "Which specific committees did Joe Fontana serve on and what were his key contributions or positions on those committees?"
-  - "Were there any notable absences or patterns in Joe Fontana's meeting attendance, and did he hold any leadership positions within the committees he served on?"
+  - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the same period?"
+  - "Which specific committees did he serve on and what were his roles or contributions on those committees?"
+  - "Were there any notable absences or patterns in his meeting attendance during his 2011-2014 term?"
 ---
 
-Joe Fontana served on London City Council from 2011 to 2014, during which time he attended 139 meetings. His council participation spanned a three-year period and he served on seven different committees, demonstrating active engagement in various aspects of municipal governance. His meeting attendance record shows consistent participation in council proceedings during his tenure.
+Joe Fontana served on London City Council from 2011 to 2014, during which time he attended 139 meetings. His council participation spanned a three-year period and involved service on seven different committees, demonstrating active engagement in the council's committee structure. His meeting attendance record shows consistent participation in the council's proceedings throughout his term.
 
-The data indicates Fontana maintained regular involvement in council business through both general council meetings and committee work, suggesting a commitment to the administrative and policy-making processes of London's municipal government during his time in office.
+Based on the available participation data, Fontana maintained regular involvement in council business through both general meetings and committee work during his tenure from 2011-2014.
 
 ## Terms of Service
 

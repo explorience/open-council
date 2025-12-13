@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Corrine Rahman served on during her time on London City Council?"
-  - "How does Rahman's meeting attendance record compare to other council members during the same period?"
-  - "What has been Rahman's voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
+  - "How does her meeting attendance rate of 216 sessions compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, zoning changes, or major city projects?"
 ---
 
-Corrine Rahman has been an active member of London City Council from 2022-2025, demonstrating strong engagement through her attendance at 216 council meetings during this period. Her participation extends beyond general council meetings, as she has served on eight different committees, indicating broad involvement across various municipal portfolios and policy areas.
+Corrine Rahman has served on London City Council from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Her council involvement includes service on eight different committees, indicating broad engagement across various municipal issues and responsibilities.
 
-Rahman's committee participation suggests a commitment to the detailed work of municipal governance, as committee service typically involves reviewing policies, budgets, and administrative matters in greater depth than general council sessions. Her consistent meeting attendance and extensive committee involvement reflect dedicated participation in London's municipal decision-making processes throughout her council term.
+Rahman's meeting attendance record of 216 sessions over her term suggests consistent participation in council proceedings. Her involvement on multiple committees reflects a wide-ranging contribution to the city's governance structure and decision-making processes across different municipal departments and policy areas.
 
 ## Terms of Service
 

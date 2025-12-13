@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council, and what policy areas do these committees oversee?"
-  - "How does Anna Hopkins' meeting attendance rate of 640 meetings compare to other council members serving during the same time period?"
-  - "What has been Anna Hopkins' voting pattern on major municipal issues such as budget approvals, development projects, or infrastructure investments during her tenure?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
+  - "How does her meeting attendance rate compare to other council members during the same period?"
+  - "What has been her voting pattern on major municipal issues such as budget approvals, development proposals, and policy initiatives?"
 ---
 
-Anna Hopkins has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings over this period. Her service has included participation on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating significant engagement through her attendance at 640 meetings over this period. Her service spans approximately 11 years, indicating she has served multiple terms on council. Hopkins has participated on 8 different committees during her tenure, showing broad involvement across various aspects of municipal governance.
 
-Hopkins' extensive meeting attendance record and multi-committee involvement suggests consistent participation in the democratic processes of London's municipal government. Her long tenure spanning more than ten years indicates either multiple successful election campaigns or appointments, reflecting sustained engagement with local government service in the London community.
+Her consistent attendance and extensive committee participation suggest active engagement in London's municipal decision-making processes. The substantial number of meetings attended over her years of service indicates regular participation in both council sessions and committee work throughout her time as an elected official.
 
 ## Terms of Service
 

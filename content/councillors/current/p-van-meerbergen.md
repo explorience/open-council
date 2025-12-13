@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Paul Van Meerbergen served on during his tenure, and what policy areas do these committees oversee?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members who served during similar timeframes?"
-  - "What has been his voting pattern on major municipal issues such as budget approvals, development projects, and infrastructure investments?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
+  - "What is his voting record on major city issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members serving during the same period?"
 ---
 
-Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating a lengthy tenure of 14 years in municipal government. During this period, he has attended 499 council meetings, indicating active participation in the city's legislative processes. His service has included appointments to seven different committees, showing involvement across multiple areas of municipal governance and policy development.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, representing a substantial 14-year tenure in municipal government. During this period, he has demonstrated consistent participation by attending 499 council meetings and serving on seven different committees, indicating broad involvement across various aspects of city governance.
 
-Van Meerbergen's extensive meeting attendance record and multi-committee involvement suggest consistent engagement with London's civic affairs throughout his time on council. His long-term service spanning over a decade indicates he has been re-elected multiple times, reflecting ongoing community support for his council representation.
+His extensive meeting attendance record and multi-committee participation suggests a high level of engagement with London's municipal affairs throughout his time on council. The length of his service, spanning over a decade, indicates he has likely been re-elected multiple times and has accumulated significant experience in local government operations.
 
 ## Terms of Service
 

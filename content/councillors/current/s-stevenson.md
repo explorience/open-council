@@ -6,14 +6,14 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 178 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Susan Stevenson's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has she served on and what are her key areas of focus within those committees?"
+  - "How has her participation pattern changed over the course of her 2022-2025 term, and what major issues or votes has she been involved in?"
 ---
 
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her term, she has demonstrated strong participation by attending 178 meetings, indicating consistent engagement with council business. She has served on eight different committees, showing broad involvement across various areas of municipal governance and policy development.
+Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her tenure, she has demonstrated strong engagement with council duties, attending 178 meetings. Her involvement extends across multiple committees, serving on eight different committees throughout her term, indicating broad participation in various areas of municipal governance.
 
-Her extensive committee participation and high meeting attendance record suggest she has taken an engaged approach to her council responsibilities, contributing to multiple areas of city operations and decision-making processes throughout her current term.
+Her consistent meeting attendance and extensive committee involvement suggest a committed approach to her council responsibilities. The scope of her committee work reflects engagement across different aspects of city administration and policy development during her current term.
 
 ## Terms of Service
 

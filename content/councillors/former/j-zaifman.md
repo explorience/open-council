@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting attendance rate and did he miss any significant votes during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what role did he play in committee decisions?"
-  - "How did his voting patterns align with other council members on major city issues during his four-year tenure?"
+  - "What was Jared Zaifman's voting record on major city issues during his 2014-2018 term?"
+  - "Which specific committees did he serve on and what were his key contributions to those committees?"
+  - "How did his attendance rate of 142 meetings compare to other council members during the same period?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. He was actively involved in the committee structure of the council, serving on four different committees throughout his time in office.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. His council service included membership on four different committees, indicating involvement in various aspects of municipal governance and policy development.
 
-His attendance record and committee involvement suggest he was an engaged member of council who participated regularly in the city's governance processes. The four-year service period represents a standard municipal term, indicating he served one complete term on London City Council.
+Zaifman's attendance record and committee participation suggest an active role in London's municipal decision-making processes during his single term on council. His four-year service period aligns with a standard municipal election cycle, and his meeting attendance reflects regular engagement with council business throughout his time in office.
 
 ## Terms of Service
 
