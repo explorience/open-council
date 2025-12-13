@@ -15,7 +15,7 @@ const defaultOptions: PrefillQuestionsOptions = {
     "What are the biggest budget items this year?",
     "What has council discussed about homelessness?",
     "What happened at the last council meeting?",
-    "What recurring issues keep coming back to council?",
+    "What has council said about bike lanes?",
   ],
 }
 
