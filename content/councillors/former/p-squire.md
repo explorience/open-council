@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Phil Squire serve on and did they hold any chair or vice-chair positions?"
-  - "How did Phil Squire vote on major municipal issues like budget approvals, development proposals, or transportation initiatives during their 2014-2021 service?"
+  - "What was Phil Squire's voting attendance rate and did they miss any significant votes during their 2014-2021 tenure?"
+  - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Phil Squire's meeting attendance compare to other council members during the same period?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire was actively involved in committee work, serving on six different committees throughout their time on council, though the specific names of these committees are not clearly indicated in the available data.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings and served on six different committees, though the specific committee names are not clearly displayed in the available data.
 
-Their extended service period suggests they served at least two terms on council, as municipal terms in Ontario typically run for four years. The high number of meetings attended over this seven-year period indicates regular engagement with council business and committee responsibilities.
+Squire's extended service period and high meeting attendance suggests active engagement in municipal governance throughout their time on council. Their involvement across multiple committees indicates participation in various aspects of city administration and policy development during their seven-year term.
 
 ## Terms of Service
 

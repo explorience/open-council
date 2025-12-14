@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Stephen Turner serve on, and did he hold any chair or vice-chair positions on these committees?"
-  - "How did Stephen Turner's attendance record of 417 meetings compare to other council members during the same 2014-2022 period?"
-  - "What were Stephen Turner's voting patterns on key municipal issues such as budget approvals, development proposals, and policy changes during his tenure?"
+  - "What was Stephen Turner's attendance rate for council meetings, and how did it compare to other council members during his tenure?"
+  - "Which specific committees did Stephen Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "What was Stephen Turner's voting record on major municipal issues during his time on council, particularly regarding budget approvals and development projects?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent engagement through his attendance at 417 meetings over this eight-year period. This averages to approximately 52 meetings per year, indicating regular participation in council proceedings. Turner served on seven different committees during his tenure, showing involvement across multiple areas of municipal governance and policy development.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active involvement in the city's governance and decision-making processes.
 
-His eight-year term represents two full council terms, suggesting he was re-elected at least once during this period. The substantial number of meetings attended reflects active participation in the democratic processes of London's municipal government throughout his time in office.
+His extended service spanning nearly a decade suggests he was either re-elected or served in different capacities throughout this period. The substantial number of meetings attended reflects regular engagement with council business, while his participation on multiple committees shows involvement across various aspects of municipal governance.
 
 ## Terms of Service
 

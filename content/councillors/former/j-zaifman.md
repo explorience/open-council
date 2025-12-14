@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on major city issues during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what were his key contributions to those committees?"
-  - "How did his attendance rate of 142 meetings compare to other council members during the same period?"
+  - "What was Jared Zaifman's voting attendance rate and how did it compare to other council members during the 2014-2018 term?"
+  - "Which specific committees did he serve on and what were his key contributions or leadership roles on those committees?"
+  - "How did he vote on major municipal issues like budget approvals, development projects, or policy changes during his time on council?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. His council service included membership on four different committees, indicating involvement in various aspects of municipal governance and policy development.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. He was an active committee member, serving on four different committees throughout his time on council, though the specific committee names are not clearly identified in the available data.
 
-Zaifman's attendance record and committee participation suggest an active role in London's municipal decision-making processes during his single term on council. His four-year service period aligns with a standard municipal election cycle, and his meeting attendance reflects regular engagement with council business throughout his time in office.
+His attendance record and committee involvement suggest he maintained regular engagement with municipal governance during his term. The four-year service period from 2014-2018 represents one complete municipal election cycle in Ontario.
 
 ## Terms of Service
 

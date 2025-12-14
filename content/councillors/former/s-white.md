@@ -6,14 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on, and what was their level of participation and leadership roles within those committees?"
-  - "How did Sandy White's attendance rate of 164 meetings compare to other councillors during the same term, and were there any notable absences during key votes?"
+  - "What was Sandy White's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on and what was their attendance rate for committee meetings?"
+  - "How did Sandy White's meeting attendance compare to other council members during the same period?"
 ---
 
-Sandy White served on London City Council from 2011 to 2014, completing a single four-year term. During this period, they demonstrated active participation by attending 164 council meetings. White served on five different committees during their tenure, though the specific committee names are not clearly displayed in the available data.
+Sandy White served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, they attended 164 council meetings, demonstrating active participation in the city's governance. White served on five different committees during their tenure, though the specific names of these committees are not clearly specified in the available data.
 
-Their attendance record suggests consistent engagement with council business over the course of their term. As a councillor serving during the early 2010s, White would have been involved in municipal decisions during a period of ongoing urban development and municipal governance in London, Ontario.
+White's attendance at 164 meetings over four years suggests consistent engagement with council business, averaging approximately 41 meetings per year. Their service on multiple committees indicates involvement in various aspects of municipal governance beyond general council meetings.
 
 ## Terms of Service
 

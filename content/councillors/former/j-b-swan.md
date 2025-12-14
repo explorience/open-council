@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting pattern on key municipal issues during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what was his attendance record for committee meetings?"
-  - "Did Joe Swan sponsor or champion any particular bylaws or motions during his time on council?"
+  - "What was Joe Swan's voting record on major municipal issues during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on and what were his roles or contributions to those committees?"
+  - "How did Joe Swan's attendance rate of 147 meetings compare to other council members during the same period?"
 ---
 
-Joe Swan served on London City Council from 2011 to 2014, completing a single four-year term. During this period, he demonstrated consistent attendance by participating in 147 council meetings. Swan was actively involved in committee work, serving on six different committees throughout his tenure, though the specific names of these committees are not available in the provided data.
+Joe Swan served on London City Council, Canada from 2011 to 2014, completing a four-year term. During this period, he demonstrated consistent participation by attending 147 council meetings. Swan was an active committee member, serving on six different committees throughout his tenure, though the specific names of these committees are not clearly specified in the available data.
 
-His participation record shows regular engagement with council business over the four-year period, with his meeting attendance and multiple committee assignments indicating active involvement in municipal governance during his time in office.
+His attendance record and committee involvement indicate a committed approach to municipal governance during his single term on council. The meeting attendance figure suggests regular participation in the council's legislative and administrative processes over the four-year period.
 
 ## Terms of Service
 

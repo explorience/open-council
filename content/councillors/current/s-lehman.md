@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has he served on and what were his roles or contributions to those committees?"
-  - "Has he sponsored or championed any particular motions, bylaws, or initiatives during his time on council?"
+  - "What specific committees has Steve Lehman served on during his time on London City Council?"
+  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "How does Steve Lehman's meeting attendance rate of 386 meetings compare to other council members during the same period?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time in office, indicating broad engagement across various municipal matters and policy areas.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings over this seven-year period. During his tenure, he has served on six different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city's committee structure.
 
-His participation record shows a commitment to municipal governance spanning approximately seven years, with regular attendance at council proceedings. The substantial number of meetings attended suggests consistent engagement with the democratic processes and decision-making responsibilities of municipal government.
+His sustained presence on council, spanning multiple years and encompassing extensive meeting attendance, suggests an active role in London's municipal decision-making processes. The committee participation across six different areas indicates engagement with diverse aspects of city operations and governance.
 
 ## Terms of Service
 

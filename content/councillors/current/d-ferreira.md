@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues like budget approval, development projects, and infrastructure spending?"
-  - "Which specific committees has he served on and what has been his level of participation in committee work versus full council meetings?"
-  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same 2022-2025 period?"
+  - "What specific committees has David Ferreira served on during his time on London City Council?"
+  - "What has been his voting record on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
+  - "How does his meeting attendance rate of 208 meetings compare to other council members and what percentage of total scheduled meetings does this represent?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated strong participation by attending 208 council meetings. His council involvement extends beyond regular meetings, as he has served on eight different committees throughout his term, indicating broad engagement across various municipal portfolios and policy areas.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated consistent engagement by attending 208 council meetings. His participation extends beyond general council sessions, as he has served on eight different committees throughout his tenure, indicating broad involvement across various municipal portfolios and areas of governance.
 
-His consistent meeting attendance and extensive committee participation suggest a commitment to fulfilling his council responsibilities and contributing to the city's governance across multiple areas of municipal operations.
+His attendance record and committee involvement suggest a high level of commitment to his council duties during his current term. The substantial number of meetings attended reflects regular participation in the council's decision-making processes over his years of service.
 
 ## Terms of Service
 

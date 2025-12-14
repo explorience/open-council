@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Sam Trosow served on during their time on London City Council?"
-  - "How does Sam Trosow's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Sam Trosow's voting pattern on major city issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members during the 2022-2025 term?"
+  - "What has been Sam Trosow's voting pattern on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
 ---
 
-Sam Trosow has been an active member of London City Council, serving from 2022 to 2025. During this period, they have demonstrated strong engagement with council responsibilities, attending 209 meetings. Their involvement extends beyond general council sessions, as they have served on 8 different committees, indicating broad participation across various areas of municipal governance.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating consistent engagement through attendance at 209 council meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees, indicating broad involvement across various municipal policy areas and governance functions.
 
-Trosow's consistent meeting attendance and extensive committee involvement suggests a hands-on approach to their council duties. Their service spans multiple committees, which typically allows council members to develop expertise in different policy areas and contribute to the detailed work that supports council decision-making.
+This level of meeting attendance and committee participation suggests a high degree of civic engagement and commitment to municipal governance responsibilities. The multi-committee involvement indicates Trosow has contributed to diverse aspects of city administration and policy development during their current term on council.
 
 ## Terms of Service
 

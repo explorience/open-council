@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Josh Morgan served on during his time on London City Council?"
-  - "What is Josh Morgan's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his tenure from 2014-2025?"
+  - "What is Josh Morgan's voting attendance rate and how does it compare to other council members?"
+  - "Has Josh Morgan held any leadership positions, such as committee chair roles, during his council service?"
 ---
 
-Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal service. During this period, he has demonstrated strong attendance with 654 meetings attended and has served on eight different committees, indicating broad engagement across various aspects of city governance.
+Josh Morgan has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During this period, he has attended 654 council meetings, indicating consistent participation in the city's governance processes.
 
-His extensive meeting attendance record and multi-committee involvement suggest consistent participation in council business over his tenure. The length of his service, spanning more than ten years, indicates either multiple successful election campaigns or appointments, reflecting sustained community support and ongoing commitment to municipal government.
+Throughout his tenure, Morgan has served on eight different committees, showing broad involvement across various aspects of municipal government. His extended service period of approximately 11 years and high meeting attendance record suggest he has been an active and engaged member of London City Council.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Judy Bryant's voting record on major municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus regular council meetings?"
-  - "How did her meeting attendance record compare to other council members during the same period?"
+  - "What specific committees did Judy Bryant serve on during her 2011-2014 term, and did she hold any leadership positions on these committees?"
+  - "How did her meeting attendance rate of 168 meetings compare to other council members during the same 2011-2014 period?"
+  - "What were some of the key votes or initiatives that Judy Bryant supported or opposed during her time on London City Council?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, representing a single four-year term during this period. Throughout her tenure, she demonstrated consistent engagement with council duties, attending 168 meetings over the course of her service. Bryant participated actively in the committee structure of the council, serving on six different committees during her time in office, though the specific names of these committees are not clearly detailed in the available data.
+Judy Bryant served on London City Council from 2011 to 2014, representing a single four-year term. During her tenure, she demonstrated consistent engagement with council duties, attending 168 meetings over the course of her service. Bryant participated on six different committees during her time on council, indicating broad involvement across various municipal portfolios and policy areas.
 
-Her participation pattern shows regular attendance at council proceedings, suggesting an active involvement in municipal governance during her term. The four-year period from 2011-2014 represents one complete municipal term, indicating she either chose not to seek re-election or was not successful in subsequent electoral campaigns.
+Her attendance record suggests active participation in the governance of London, Ontario, contributing to municipal decision-making processes across multiple committee structures throughout her four-year term.
 
 ## Terms of Service
 

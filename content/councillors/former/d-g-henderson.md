@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their level of participation in committee work?"
-  - "Did Henderson miss any significant votes or meetings, and what was their overall attendance percentage?"
+  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what role did they play in committee decisions?"
+  - "How did Henderson's attendance rate of 142 meetings compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council, Canada from 2011-2014, completing one full term during this four-year period. Throughout their tenure, Henderson demonstrated consistent engagement with council duties, attending 142 meetings over the course of their service. They participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly specified in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during this four-year term. Henderson was involved in committee work, serving on four different committees throughout their tenure, though the specific committee names are not clearly displayed in the available data.
 
-Henderson's attendance record suggests active participation in municipal governance during their term. Their involvement across multiple committees indicates they took on various responsibilities beyond regular council meetings, contributing to the detailed work that committees typically handle in municipal government operations.
+Henderson's council service spanned one full term, during which their meeting attendance suggests consistent engagement with municipal governance responsibilities. The combination of regular meeting attendance and multi-committee involvement indicates a participatory approach to their council duties during this period.
 
 ## Terms of Service
 

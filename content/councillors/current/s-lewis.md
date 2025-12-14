@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Shawn Lewis served on and what policy areas do they cover?"
-  - "How many motions or initiatives has Shawn Lewis proposed or sponsored during their time on council?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "How does their meeting attendance rate compare to other council members during the same period?"
+  - "What leadership roles, if any, has Lewis held on committees or council during their 2018-2025 tenure?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 meetings during this period. Their council involvement spans approximately seven years, indicating service across multiple council terms. Lewis has participated on eight different committees throughout their tenure, showing broad engagement across various areas of municipal governance and policy development.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 meetings during this period. Their council involvement spans nearly seven years of active service, indicating sustained engagement in municipal governance.
 
-The meeting attendance figure of 495 suggests consistent participation in council proceedings, though the specific breakdown between regular council meetings, committee meetings, and other municipal gatherings is not specified in the available data. Their multi-committee involvement indicates participation in diverse aspects of city governance beyond general council duties.
+Lewis has served on eight different committees during their tenure, suggesting broad involvement across various areas of municipal responsibility. This level of committee participation, combined with their meeting attendance record, reflects an active role in London's city council operations and decision-making processes.
 
 ## Terms of Service
 

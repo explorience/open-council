@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting record on major budget decisions and tax increases during his time on council?"
-  - "How often has Steve Hillier voted in opposition to the majority position on council votes?"
-  - "What specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
+  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
+  - "How often has he missed council meetings or committee sessions, and what was his attendance rate compared to other council members?"
+  - "What specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council meetings, as he has served on seven different committees throughout his time in office, indicating broad engagement across various areas of municipal governance.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his tenure, indicating broad engagement across various municipal policy areas and governance functions.
 
-Hillier's seven-year term on council shows sustained commitment to municipal politics in London. His high meeting attendance and multi-committee involvement suggests he has been an engaged participant in the city's decision-making processes across multiple policy areas and administrative functions.
+His seven-year term on council shows sustained commitment to municipal service, with his high meeting attendance suggesting regular participation in the council's decision-making processes. The multiple committee appointments reflect his involvement in specialized areas of municipal governance, though the specific nature of these committee roles would require additional information to detail.
 
 ## Terms of Service
 

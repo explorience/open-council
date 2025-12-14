@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has Peter Cuddy served on and what are his key areas of focus?"
-  - "How has Peter Cuddy voted on major municipal issues like budget approvals, development projects, or policy changes during his term?"
+  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
+  - "What is Peter Cuddy's voting record on key municipal issues and bylaws?"
+  - "How does Peter Cuddy's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 204 meetings during this period. His council involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
+Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated strong participation by attending 204 council meetings. His involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal governance areas.
 
-Cuddy's extensive meeting attendance and multi-committee participation suggests consistent involvement in London's municipal decision-making processes. His service span covers the current council term, representing a commitment to municipal governance and community representation through regular participation in both council sessions and specialized committee work.
+Cuddy's attendance record and committee participation suggest a commitment to his council responsibilities during his term. His service across multiple committees indicates involvement in diverse aspects of city governance, though the specific nature of these committees is not detailed in the available data.
 
 ## Terms of Service
 

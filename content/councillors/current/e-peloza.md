@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council, and in what capacity?"
-  - "How does her meeting attendance rate compare to other council members during the same time period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
+  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has she served on and what were her roles or contributions to those committees?"
+  - "How has her voting pattern aligned with council majority decisions versus minority positions throughout her tenure?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent participation through her attendance at 452 meetings over this seven-year period. This represents an average of approximately 65 meetings per year, indicating regular engagement with council business. Her service has included participation on nine different committees, suggesting broad involvement across various areas of municipal governance and policy development.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 452 meetings over her tenure. Her involvement extends beyond general council meetings, as she has served on nine different committees during her time on council, indicating broad engagement across various municipal portfolios and governance areas.
 
-Peloza's tenure spans nearly two full council terms, showing sustained commitment to municipal public service. Her extensive meeting attendance and multi-committee involvement indicates active participation in the deliberative processes of London's city government during this period.
+Her seven-year term on council shows sustained commitment to municipal governance, and her high meeting attendance suggests regular participation in the council's decision-making processes. The extensive committee involvement reflects engagement with the detailed work of municipal administration across multiple policy areas.
 
 ## Terms of Service
 

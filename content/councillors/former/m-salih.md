@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues during their 2014-2022 term?"
-  - "Which specific committees did Mo Salih serve on and what was their attendance rate for committee meetings versus full council meetings?"
-  - "Did Mo Salih hold any leadership positions or chair any committees during their time on London City Council?"
+  - "What was Mo Salih's voting attendance rate and did they miss any significant votes during their eight years on council?"
+  - "Which specific committees did Mo Salih serve on and did they hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Mo Salih's meeting attendance compare to other council members during the same period, and were there any notable patterns in their participation?"
 ---
 
-Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent engagement by attending 350 council meetings. Salih participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly indicated in the available data.
+Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was actively involved in the committee structure of the council, serving on four different committees throughout their time in office, though the specific names of these committees are not clearly indicated in the available data.
 
-Their eight-year term and substantial meeting attendance record suggests active participation in London's municipal governance throughout their time in office.
+Their eight-year term and substantial meeting attendance record suggests a commitment to the council's work and civic engagement. The participation across multiple committees indicates involvement in various aspects of municipal governance and policy development during their time as a council member.
 
 ## Terms of Service
 

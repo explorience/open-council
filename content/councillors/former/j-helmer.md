@@ -6,12 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and did they miss any significant votes during their eight years on council?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Jesse Helmer's meeting attendance record compare to other London City councillors during the same time period?"
+  - "What was Jesse Helmer's voting attendance rate and were there any notable absences from key votes during their 2014-2022 tenure?"
+  - "Which specific committees did Jesse Helmer serve on, and did they hold any chair or vice-chair positions on these committees?"
+  - "How did Jesse Helmer typically vote on major municipal issues like budget approvals, development proposals, and infrastructure projects during their time on council?"
 ---
 
-Jesse Helmer served on London City Council, Canada from 2014 to 2022, representing an eight-year tenure. During this period, Helmer demonstrated consistent participation by attending 580 council meetings. Throughout their time on council, Helmer served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas. This level of meeting attendance and committee participation suggests active engagement in the city's decision-making processes over nearly a full decade of municipal service.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, Helmer was actively involved in committee work, serving on eight different committees throughout their time in office.
+
+This level of meeting attendance and committee involvement indicates a high degree of engagement with municipal governance over nearly a full decade of service. Their extended tenure from 2014-2022 would have spanned multiple council terms, suggesting they were re-elected at least once during this period.
 
 ## Terms of Service
 
