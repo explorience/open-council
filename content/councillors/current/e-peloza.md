@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has she served on and what were her roles or contributions to those committees?"
-  - "How has her voting pattern aligned with council majority decisions versus minority positions throughout her tenure?"
+  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development projects, and transportation initiatives?"
+  - "How often did she vote with or against the majority on controversial council decisions during her tenure?"
+  - "What specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 452 meetings over her tenure. Her involvement extends beyond general council meetings, as she has served on nine different committees during her time on council, indicating broad engagement across various municipal portfolios and governance areas.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 meetings during this period. Her participation extends beyond regular council meetings, as she has served on nine different committees throughout her tenure, indicating broad involvement in various aspects of municipal governance and policy development.
 
-Her seven-year term on council shows sustained commitment to municipal governance, and her high meeting attendance suggests regular participation in the council's decision-making processes. The extensive committee involvement reflects engagement with the detailed work of municipal administration across multiple policy areas.
+Her seven-year term on council shows sustained commitment to municipal service, with her meeting attendance and committee participation reflecting active engagement in the council's work. The breadth of her committee involvement suggests she has contributed to diverse areas of city business and policy-making processes.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Steve Lehman served on during his time on London City Council?"
-  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development proposals, or policy changes?"
-  - "How does Steve Lehman's meeting attendance rate of 386 meetings compare to other council members during the same period?"
+  - "What is Steve Lehman's voting record on key issues such as budget approvals, development projects, and municipal policy changes?"
+  - "How often has he been absent from council meetings, and what is his overall attendance rate compared to other council members?"
+  - "Which specific committees has he served on, and has he held any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings over this seven-year period. During his tenure, he has served on six different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city's committee structure.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. Over his tenure, he has served on six different committees, showing involvement across multiple areas of municipal governance. His seven-year term indicates he has served through at least one full council term and is currently serving in a subsequent term.
 
-His sustained presence on council, spanning multiple years and encompassing extensive meeting attendance, suggests an active role in London's municipal decision-making processes. The committee participation across six different areas indicates engagement with diverse aspects of city operations and governance.
+His meeting attendance of 386 sessions over approximately seven years suggests consistent engagement with council business, averaging roughly 55 meetings per year. This level of participation indicates regular involvement in both full council meetings and committee work across his various committee assignments.
 
 ## Terms of Service
 

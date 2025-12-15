@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and did they miss any significant votes during their eight years on council?"
-  - "Which specific committees did Mo Salih serve on and did they hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Mo Salih's meeting attendance compare to other council members during the same period, and were there any notable patterns in their participation?"
+  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and bylaw changes during their 2014-2022 term?"
+  - "How frequently did Mo Salih miss scheduled council meetings, and what was their attendance rate compared to other council members?"
+  - "What specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was actively involved in the committee structure of the council, serving on four different committees throughout their time in office, though the specific names of these committees are not clearly indicated in the available data.
+Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was an active committee member, serving on four different committees throughout their time in office, though the specific committee names are not clearly indicated in the available data.
 
-Their eight-year term and substantial meeting attendance record suggests a commitment to the council's work and civic engagement. The participation across multiple committees indicates involvement in various aspects of municipal governance and policy development during their time as a council member.
+Their eight-year term and high meeting attendance record suggests a dedicated commitment to municipal governance and civic engagement. The extensive meeting attendance over nearly a decade indicates regular participation in the formal decision-making processes of London City Council.
 
 ## Terms of Service
 

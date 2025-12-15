@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
-  - "How frequently does he attend committee meetings compared to general council meetings, and what has been his level of participation in committee discussions?"
-  - "Which specific committees has he served on during his tenure, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members over the same time period?"
+  - "What has been his voting pattern on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
 ---
 
-Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating significant long-term commitment to municipal governance over a 14-year period. During his tenure, he has attended 499 council meetings and participated on 7 different committees, indicating active engagement in both general council proceedings and specialized committee work. This level of meeting attendance and committee involvement suggests consistent participation in the city's decision-making processes throughout his extended time in office.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant engagement through his attendance at 499 council meetings over this 14-year period. His participation extends beyond general council meetings, as he has served on seven different committees during his tenure, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His service spans multiple council terms, making him one of the more experienced members of London City Council with substantial institutional knowledge of municipal operations and governance procedures.
+This level of meeting attendance and committee participation suggests a commitment to the procedural and administrative aspects of municipal government. His extended service period of nearly a decade and a half represents substantial institutional knowledge and experience within London's municipal political landscape.
 
 ## Terms of Service
 

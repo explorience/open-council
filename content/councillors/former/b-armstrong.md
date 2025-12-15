@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on key municipal issues like budget approval, development proposals, and infrastructure projects?"
-  - "How often did Armstrong vote against the majority position or take independent stances on council votes?"
-  - "Which specific committees did Armstrong serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Bill Armstrong's voting pattern on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
+  - "Which specific committees did he serve on and what was his level of participation or leadership role on those committees?"
+  - "How did his attendance rate of 245 meetings compare to other council members during the same 2012-2018 period?"
 ---
 
-Bill Armstrong served on London City Council from 2012 to 2018, representing a six-year tenure in municipal government. During this period, he demonstrated consistent engagement with council duties by attending 245 meetings. Armstrong participated on five different committees throughout his time on council, indicating involvement in various aspects of municipal governance and policy development.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, representing a six-year tenure in municipal government. During this period, he demonstrated consistent participation by attending 245 council meetings and served on five different committees, though the specific committee names are not clearly indicated in the available data.
 
-His attendance record and committee participation suggest an active councillor who was engaged in the operational aspects of city government across multiple portfolios during his term of service.
+His attendance record suggests regular engagement with council business over his term of service. The span from 2012 to 2018 indicates he likely served at least one full council term, as municipal elections in Ontario typically occur every four years.
 
 ## Terms of Service
 

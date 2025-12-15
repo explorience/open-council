@@ -11,9 +11,7 @@ prefillQuestions:
   - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Nancy Branscombe served on London City Council from 2011-2014, a term spanning approximately four years. During this period, she demonstrated consistent participation by attending 119 council meetings. Her council involvement extended beyond regular meetings through service on eight different committees, indicating active engagement in various aspects of municipal governance and policy development.
-
-Her attendance record and committee participation suggest she maintained an active role throughout her term on council, contributing to both the legislative process through meeting attendance and specialized municipal work through her various committee assignments.
+Nancy Branscombe served on London City Council in Canada from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her term. She was involved in committee work, serving on eight different committees throughout her time on council. Her four-year tenure shows consistent engagement in the municipal governance process through regular meeting attendance and committee participation.
 
 ## Terms of Service
 

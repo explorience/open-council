@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
-  - "What is Peter Cuddy's voting record on key municipal issues and bylaws?"
-  - "How does Peter Cuddy's meeting attendance rate compare to other council members during the same period?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How does his meeting attendance rate compare to other council members, and has he missed any significant votes or debates?"
+  - "What specific committees does he serve on, and what role does he play in those committee structures (chair, vice-chair, or member)?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated strong participation by attending 204 council meetings. His involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal governance areas.
+Peter Cuddy has been an active member of London City Council during his current term from 2022-2025, demonstrating significant engagement through his attendance at 204 council meetings. His participation extends beyond general council sessions, as he has served on eight different committees during his tenure, indicating broad involvement across various areas of municipal governance.
 
-Cuddy's attendance record and committee participation suggest a commitment to his council responsibilities during his term. His service across multiple committees indicates involvement in diverse aspects of city governance, though the specific nature of these committees is not detailed in the available data.
+Cuddy's meeting attendance record of 204 sessions suggests consistent participation in the council's work over his term to date. His service across multiple committees shows a commitment to engaging with diverse aspects of city business, though the specific nature of these committee assignments would require additional information to detail fully.
 
 ## Terms of Service
 

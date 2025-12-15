@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on major municipal issues during his 2014-2022 tenure?"
-  - "Which specific committees did he serve on and what roles did he hold within those committees?"
-  - "How did his attendance rate of 461 meetings compare to other council members during the same period?"
+  - "What was Michael van Holst's voting record on major city budget decisions during his 8-year tenure?"
+  - "How did his committee participation and attendance compare to other council members serving during the same period?"
+  - "Were there any notable issues or policy areas where he frequently voted differently from the majority of council?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he was appointed to serve on eight different committees, indicating broad involvement across various municipal portfolios and council functions.
+Michael van Holst served on London City Council from 2014 to 2022, representing an 8-year tenure in municipal government. During this period, he attended 461 council meetings and served on 8 different committees, demonstrating consistent participation in the city's governance processes.
 
-His extended service period of eight years suggests he was re-elected at least once during his tenure, as municipal terms in Ontario are typically four years in length. The substantial number of meetings attended reflects regular engagement with council business throughout his time in office.
+His meeting attendance record of 461 sessions over 8 years indicates regular engagement with council business, averaging approximately 58 meetings per year. His service on multiple committees suggests involvement across various areas of municipal responsibility throughout his time on council.
 
 ## Terms of Service
 

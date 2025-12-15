@@ -6,14 +6,14 @@ meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Judy Bryant serve on during her 2011-2014 term, and did she hold any leadership positions on these committees?"
-  - "How did her meeting attendance rate of 168 meetings compare to other council members during the same 2011-2014 period?"
-  - "What were some of the key votes or initiatives that Judy Bryant supported or opposed during her time on London City Council?"
+  - "What was Judy Bryant's voting record on major budget decisions during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
+  - "Did she introduce any motions or initiatives during her time on council, and what were the outcomes?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, representing a single four-year term. During her tenure, she demonstrated consistent engagement with council duties, attending 168 meetings over the course of her service. Bryant participated on six different committees during her time on council, indicating broad involvement across various municipal portfolios and policy areas.
+Judy Bryant served on London City Council from 2011 to 2014, completing a four-year term. During her tenure, she demonstrated consistent participation by attending 168 meetings across various council activities. She served on six different committees during her time on council, though the specific names of these committees are not clearly specified in the available data.
 
-Her attendance record suggests active participation in the governance of London, Ontario, contributing to municipal decision-making processes across multiple committee structures throughout her four-year term.
+Her attendance record suggests active engagement in the council's work over the four-year period. As a council member during this timeframe, she would have participated in the various decisions and deliberations that came before London City Council during the early 2010s.
 
 ## Terms of Service
 

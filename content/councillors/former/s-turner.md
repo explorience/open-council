@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's attendance rate for council meetings, and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Stephen Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "What was Stephen Turner's voting record on major municipal issues during his time on council, particularly regarding budget approvals and development projects?"
+  - "What specific committees did Stephen Turner serve on during his time on London City Council?"
+  - "What was Stephen Turner's voting attendance rate and how did it compare to other council members during his tenure?"
+  - "Did Stephen Turner hold any leadership positions or chair any committees during his eight years of service?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active involvement in the city's governance and decision-making processes.
+Stephen Turner served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During his tenure, he attended 417 council meetings and served on seven different committees, indicating active engagement in the municipal decision-making process.
 
-His extended service spanning nearly a decade suggests he was either re-elected or served in different capacities throughout this period. The substantial number of meetings attended reflects regular engagement with council business, while his participation on multiple committees shows involvement across various aspects of municipal governance.
+Turner's attendance record of 417 meetings across eight years suggests regular participation in council proceedings, averaging approximately 52 meetings per year. His involvement on multiple committees shows he contributed to various aspects of municipal governance beyond general council sessions.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during her 2022-2025 term?"
-  - "How does her meeting attendance rate of 216 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, or policy changes?"
+  - "What is Corrine Rahman's voting attendance rate compared to other council members during her 2022-2025 term?"
+  - "Which specific committees has Rahman served on and what leadership roles, if any, has she held on these committees?"
+  - "How does Rahman typically vote on key municipal issues such as budget proposals, development applications, and bylaw amendments?"
 ---
 
-Corrine Rahman has been an active member of London City Council, Canada, serving during the 2022-2025 term. During her tenure, she has demonstrated significant engagement by attending 216 council meetings, indicating strong participation in the city's governance processes.
+Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, she has demonstrated consistent participation by attending 216 council meetings. Rahman has served on eight different committees, showing broad engagement across various municipal governance areas.
 
-Rahman has served on eight different committees during her time on council, showing broad involvement across various areas of municipal government. Her consistent meeting attendance and extensive committee participation suggest an active role in London's municipal decision-making processes throughout her current term.
+Her participation record indicates a high level of commitment to her council duties, with extensive meeting attendance spanning her current term. The breadth of her committee involvement suggests she has taken on responsibilities across multiple aspects of city governance during her time in office.
 
 ## Terms of Service
 

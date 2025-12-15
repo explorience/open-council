@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
-  - "How often has he missed council meetings or committee sessions, and what was his attendance rate compared to other council members?"
-  - "What specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Steve Hillier's attendance rate compared to the total number of scheduled meetings during his tenure?"
+  - "Which specific committees has Steve Hillier served on and what are his roles on each committee?"
+  - "How does Steve Hillier's meeting attendance record compare to other London City Council members serving during the same period?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his tenure, indicating broad engagement across various municipal policy areas and governance functions.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent engagement with council duties, attending 453 meetings. His council service spans seven years and includes participation on seven different committees, indicating broad involvement across various municipal portfolios and policy areas.
 
-His seven-year term on council shows sustained commitment to municipal service, with his high meeting attendance suggesting regular participation in the council's decision-making processes. The multiple committee appointments reflect his involvement in specialized areas of municipal governance, though the specific nature of these committee roles would require additional information to detail.
+Hillier's meeting attendance record of 453 sessions over his tenure suggests regular participation in both regular council meetings and committee work. His multi-committee involvement reflects engagement with diverse aspects of municipal governance during his time on council.
 
 ## Terms of Service
 

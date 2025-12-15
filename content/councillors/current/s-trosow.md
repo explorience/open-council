@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Sam Trosow served on during their time on London City Council?"
-  - "How does Sam Trosow's meeting attendance rate compare to other council members during the 2022-2025 term?"
-  - "What has been Sam Trosow's voting pattern on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
+  - "What is Sam Trosow's voting record on key municipal issues such as budget approvals, development projects, and city services?"
+  - "How often does Sam Trosow vote with the majority versus taking independent positions on council decisions?"
+  - "Which specific committees has Sam Trosow served on and what has been their level of participation and leadership roles within those committees?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating consistent engagement through attendance at 209 council meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees, indicating broad involvement across various municipal policy areas and governance functions.
+Sam Trosow has been an active member of London City Council from 2022 to 2025, demonstrating strong engagement through attendance at 209 council meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees throughout their tenure, indicating broad involvement in various aspects of municipal governance and policy development.
 
-This level of meeting attendance and committee participation suggests a high degree of civic engagement and commitment to municipal governance responsibilities. The multi-committee involvement indicates Trosow has contributed to diverse aspects of city administration and policy development during their current term on council.
+Trosow's consistent meeting attendance and extensive committee work suggests a committed approach to their council responsibilities. Serving on eight committees while maintaining high meeting attendance shows dedication to participating in the detailed work of municipal government across multiple policy areas and administrative functions.
 
 ## Terms of Service
 

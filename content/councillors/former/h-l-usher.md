@@ -6,12 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Harold Usher serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "What were the key issues or policy areas that Harold Usher focused on most frequently during council debates and discussions?"
+  - "What was Harold Usher's voting record on key municipal issues during his 2011-2018 tenure?"
+  - "Which specific committees did Harold Usher serve on and what were his roles or contributions to those committees?"
+  - "How did Harold Usher's attendance rate compare to other council members during the same period?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation over nearly two full terms. During his tenure, he attended 403 council meetings and served on six different committees, indicating active engagement in the municipal decision-making process. His eight-year period of service suggests he was re-elected at least once, reflecting some level of constituent support during his time in office.
+Harold Usher served on London City Council, Canada for approximately seven years from 2011 to 2018. During his tenure, he demonstrated consistent engagement with council business, attending 403 meetings over the course of his service. Usher participated in committee work as part of his council duties, serving on six different committees throughout his time in office, though the specific names of these committees are not clearly identified in the available data.
+
+His attendance record suggests active participation in the council's legislative and administrative processes over nearly two full terms of office. The substantial number of meetings attended indicates regular involvement in both regular council sessions and committee work during his years of service.
 
 ## Terms of Service
 

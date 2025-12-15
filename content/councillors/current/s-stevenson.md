@@ -6,12 +6,14 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Susan Stevenson's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on each?"
-  - "How has her voting pattern aligned with council majority decisions versus instances where she voted against the majority position?"
+  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
+  - "How does her meeting attendance record of 178 meetings compare to other council members during the same 2022-2025 period?"
+  - "What has been her voting pattern on major city issues and budget decisions during her current term?"
 ---
 
-Susan Stevenson has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 178 meetings during this period. Her involvement extends across multiple council committees, having served on eight different committees throughout her term, indicating broad engagement with various aspects of municipal governance and policy areas within the city.
+Susan Stevenson has been an active member of London City Council from 2022-2025, demonstrating strong participation through her attendance at 178 meetings during this period. Her council involvement extends beyond general council meetings, as she has served on eight different committees throughout her tenure, indicating broad engagement across various municipal portfolios and policy areas.
+
+Her consistent meeting attendance and extensive committee work suggest a hands-on approach to municipal governance during her current term. The multi-committee involvement reflects participation in diverse aspects of city administration and policy development across London's municipal operations.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their attendance rate for committee meetings?"
-  - "How did Sandy White's meeting attendance compare to other council members during the same period?"
+  - "What was Sandy White's attendance rate compared to other council members during the 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on, and what roles did they play on those committees?"
+  - "How did Sandy White vote on major issues and bylaws that came before council during their tenure?"
 ---
 
-Sandy White served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, they attended 164 council meetings, demonstrating active participation in the city's governance. White served on five different committees during their tenure, though the specific names of these committees are not clearly specified in the available data.
+Sandy White served on London City Council from 2011 to 2014, completing one term during this four-year period. Over the course of their tenure, White attended 164 council meetings, demonstrating active participation in the city's governance processes. They served on five different committees during their time on council, though the specific names of these committees are not clearly indicated in the available data.
 
-White's attendance at 164 meetings over four years suggests consistent engagement with council business, averaging approximately 41 meetings per year. Their service on multiple committees indicates involvement in various aspects of municipal governance beyond general council meetings.
+White's attendance record of 164 meetings over a four-year period suggests consistent engagement with municipal affairs and regular participation in council proceedings. Their committee involvement indicates they took on additional responsibilities beyond regular council meetings, contributing to the detailed work that committees typically handle in municipal government.
 
 ## Terms of Service
 

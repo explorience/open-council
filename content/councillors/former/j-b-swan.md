@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what were his roles or contributions to those committees?"
-  - "How did Joe Swan's attendance rate of 147 meetings compare to other council members during the same period?"
+  - "What was Joe Swan's voting record on major municipal issues like budget approvals, development projects, or tax increases during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on, and what role did he play in committee decisions and recommendations?"
+  - "How did Joe Swan's meeting attendance rate of 147 meetings compare to other council members during the same period?"
 ---
 
-Joe Swan served on London City Council, Canada from 2011 to 2014, completing a four-year term. During this period, he demonstrated consistent participation by attending 147 council meetings. Swan was an active committee member, serving on six different committees throughout his tenure, though the specific names of these committees are not clearly specified in the available data.
+Joe Swan served on London City Council from 2011 to 2014, completing a full four-year term. During this period, he demonstrated consistent participation by attending 147 council meetings. Swan was active in committee work, serving on six different committees throughout his tenure, though the specific names of these committees are not available in the provided data.
 
-His attendance record and committee involvement indicate a committed approach to municipal governance during his single term on council. The meeting attendance figure suggests regular participation in the council's legislative and administrative processes over the four-year period.
+His attendance record and committee involvement suggest he was an engaged council member who participated regularly in both general council sessions and specialized committee work during his time in municipal government.
 
 ## Terms of Service
 

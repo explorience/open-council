@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "What has been his voting record on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
-  - "How does his meeting attendance rate of 208 meetings compare to other council members and what percentage of total scheduled meetings does this represent?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
+  - "How does David Ferreira's meeting attendance rate compare to other council members, and has he missed any significant votes or decisions?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated consistent engagement by attending 208 council meetings. His participation extends beyond general council sessions, as he has served on eight different committees throughout his tenure, indicating broad involvement across various municipal portfolios and areas of governance.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated consistent engagement by attending 208 council meetings. His participation extends beyond general council sessions, as he has served on eight different committees, indicating broad involvement across various municipal functions and decision-making bodies.
 
-His attendance record and committee involvement suggest a high level of commitment to his council duties during his current term. The substantial number of meetings attended reflects regular participation in the council's decision-making processes over his years of service.
+His attendance record and committee participation suggest a high level of civic engagement and commitment to his role as a city councillor. The substantial number of meetings attended over his term reflects regular participation in the democratic processes of London's municipal government.
 
 ## Terms of Service
 

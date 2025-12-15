@@ -6,14 +6,14 @@ meetingCount: 228
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Tanya Park's voting record on key municipal issues during her 2014-2018 term?"
-  - "Which specific committees did she serve on and what roles did she hold within those committees?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What was Tanya Park's voting attendance rate and were there any notable absences from key votes during her 2014-2018 term?"
+  - "Which specific committees did Tanya Park serve on and did she hold any chair or vice-chair positions on these committees?"
+  - "How did Tanya Park typically vote on major municipal issues such as budget approvals, development applications, and policy initiatives during her council term?"
 ---
 
-Tanya Park served on London City Council from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 228 council meetings. Park was actively involved in committee work, serving on seven different committees throughout her time on council, indicating broad engagement across various municipal governance areas.
+Tanya Park served on London City Council, Canada from 2014 to 2018, completing a four-year term. During her tenure, she maintained an active participation record, attending 228 council meetings. She served on seven different committees throughout her time on council, demonstrating broad engagement across various municipal portfolios and governance areas.
 
-Her attendance record and committee involvement suggest she maintained regular participation in the formal council processes during her single term of service from 2014 to 2018.
+Her attendance record of 228 meetings over the four-year period indicates consistent participation in the council's legislative and administrative processes. The multiple committee appointments suggest she took on significant committee responsibilities beyond regular council meetings during her term of office.
 
 ## Terms of Service
 

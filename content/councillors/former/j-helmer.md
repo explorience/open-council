@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and were there any notable absences from key votes during their 2014-2022 tenure?"
-  - "Which specific committees did Jesse Helmer serve on, and did they hold any chair or vice-chair positions on these committees?"
-  - "How did Jesse Helmer typically vote on major municipal issues like budget approvals, development proposals, and infrastructure projects during their time on council?"
+  - "What was Jesse Helmer's voting record on major budget decisions and tax increases during their time on council?"
+  - "Which specific committees did Jesse Helmer serve on, and did they hold any chair or vice-chair positions?"
+  - "How did Jesse Helmer's attendance rate compare to other council members during the same period?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, Helmer was actively involved in committee work, serving on eight different committees throughout their time in office.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 council meetings over this eight-year period. During their tenure, Helmer was actively involved in committee work, serving on eight different committees throughout their time on council.
 
-This level of meeting attendance and committee involvement indicates a high degree of engagement with municipal governance over nearly a full decade of service. Their extended tenure from 2014-2022 would have spanned multiple council terms, suggesting they were re-elected at least once during this period.
+This level of meeting attendance and committee involvement indicates a high degree of engagement with municipal governance processes. Averaging approximately 72-73 meetings per year over their term, Helmer's participation reflects regular involvement in both regular council sessions and committee meetings that are essential to the city's decision-making processes.
 
 ## Terms of Service
 

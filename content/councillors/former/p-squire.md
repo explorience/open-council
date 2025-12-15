@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting attendance rate and did they miss any significant votes during their 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Phil Squire's meeting attendance compare to other council members during the same period?"
+  - "What was Phil Squire's attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Phil Squire serve on and what were their primary areas of focus or expertise?"
+  - "How did Phil Squire vote on major city issues such as budget approvals, development projects, or policy changes during their 2014-2021 term?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent participation by attending 372 council meetings and served on six different committees, though the specific committee names are not clearly displayed in the available data.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent engagement by attending 372 council meetings and participating on six different committees, indicating active involvement in the city's governance processes.
 
-Squire's extended service period and high meeting attendance suggests active engagement in municipal governance throughout their time on council. Their involvement across multiple committees indicates participation in various aspects of city administration and policy development during their seven-year term.
+Their extended service period suggests they served through multiple terms, contributing to various aspects of municipal decision-making through both general council sessions and specialized committee work. The substantial number of meetings attended reflects regular participation in London's civic proceedings throughout their time in office.
 
 ## Terms of Service
 
