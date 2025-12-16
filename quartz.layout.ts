@@ -7,10 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      "Transcripts by Lillian Skinner": "https://london.lillianskinner.ca",
-      "Source Code": "https://github.com/explorience/open-council",
-    }
+    links: {}
   })
 }
 
