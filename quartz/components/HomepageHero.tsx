@@ -23,7 +23,7 @@ export default ((userOpts?: Partial<HomepageHeroOptions>) => {
 
     return (
       <div class="homepage-hero" data-api-url={opts.apiUrl}>
-        <h1 class="hero-title">{opts.title}</h1>
+        <h1 class="hero-title">{opts.title} <span class="beta-tag">BETA</span></h1>
         <p class="hero-tagline">{opts.tagline}</p>
 
         <div class="hero-chat-container">
