@@ -188,6 +188,8 @@
 .chat-header-actions {
   display: flex;
   gap: 0.25rem;
+  flex-shrink: 0;
+  margin-right: 0.5rem;
 }
 
 .chat-copy-last,
