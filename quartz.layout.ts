@@ -161,14 +161,6 @@ export const defaultContentPageLayout: PageLayout = {
   // No sidebars on homepage, sidebars on other pages
   left: [
     Component.ConditionalRender({
-      component: Component.OpenCouncilHeader(),
-      condition: (page) => page.fileData.slug !== "index"
-    }),
-    Component.ConditionalRender({
-      component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "index"
-    }),
-    Component.ConditionalRender({
       component: Component.TableOfContents(),
       condition: (page) => page.fileData.slug !== "index"
     })

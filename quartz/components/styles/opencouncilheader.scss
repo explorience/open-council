@@ -41,7 +41,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--darkgray);
+  color: var(--gray);
   transition: color 0.2s ease;
   height: auto !important;
 
@@ -52,6 +52,7 @@
   .info-icon {
     width: 22px;
     height: 22px;
+    stroke-width: 2.5;
   }
 }
 
