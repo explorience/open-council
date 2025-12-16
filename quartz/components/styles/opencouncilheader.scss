@@ -1,24 +1,27 @@
+@use "../../styles/variables.scss" as *;
+
 .open-council-header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   gap: 15px;
   height: 50px;
-  * {
-    height: 100%;
-  }
+  width: 100%;
 }
+
 .title-div {
   display: flex;
   flex-direction: row;
   align-items: center;
   text-align: center;
+  height: 100%;
 }
 
 .hidden {
   display: none;
 }
+
 .shown {
   display: block;
 }
@@ -49,5 +52,46 @@
   .info-icon {
     width: 22px;
     height: 22px;
+  }
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+// Chat trigger button
+.chat-trigger-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  background: var(--secondary);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+  flex-shrink: 0;
+
+  svg {
+    width: 20px;
+    height: 20px;
+    color: white;
+  }
+
+  &:hover {
+    background: var(--tertiary);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
   }
 }

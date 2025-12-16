@@ -1,129 +1,43 @@
 @use "../../styles/variables.scss" as *;
 
 // ============================================
-// Homepage Hero - Unified Chat Experience
+// Full Page Chat - For non-homepage pages
 // ============================================
-// Two states:
-// 1. Hero state (default): Welcome message + input
-// 2. Chat state (.chat-active): Full viewport conversation
+// A full-viewport chat overlay that can be triggered from any page
 
-.homepage-hero {
+.full-page-chat {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--light);
+  z-index: 1000;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 1rem;
   font-family: var(--bodyFont);
 
-  // Default hero state
-  &:not(.chat-active) {
-    padding-top: 3rem;
-    padding-bottom: 2rem;
+  // Animation
+  animation: fpcSlideIn 0.25s ease;
+}
 
-    .hero-welcome {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-
-    .chat-header {
-      display: none;
-    }
-
-    .chat-messages {
-      display: none;
-    }
-
-    .chat-input-area {
-      width: 100%;
-      max-width: 550px;
-    }
-
-    .chat-disclaimer {
-      text-align: center;
-    }
+@keyframes fpcSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
   }
-
-  // Chat active state - full viewport
-  &.chat-active {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    max-width: none;
-    padding: 0;
-    background: var(--light);
-    z-index: 999;
-
-    .hero-welcome {
-      display: none;
-    }
-
-    .chat-header {
-      display: flex;
-    }
-
-    .chat-messages {
-      display: flex;
-    }
-
-    .chat-input-area {
-      width: 100%;
-      max-width: none;
-      border-top: 1px solid var(--lightgray);
-      background: var(--light);
-    }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
 // ============================================
-// Hero Welcome Section
+// Header
 // ============================================
 
-.hero-title {
-  font-size: 2.5rem;
-  font-weight: 700;
-  margin: 0 0 0.5rem 0;
-  color: var(--darkgray);
-
-  @media (max-width: 600px) {
-    font-size: 2rem;
-  }
-
-  .beta-tag {
-    font-size: 0.4em;
-    background-color: #ff6b35;
-    color: white;
-    padding: 2px 8px;
-    border-radius: 4px;
-    vertical-align: middle;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-  }
-}
-
-.hero-tagline {
-  font-size: 1.2rem;
-  color: var(--gray);
-  margin: 0;
-  line-height: 1.5;
-
-  @media (max-width: 600px) {
-    font-size: 1rem;
-  }
-}
-
-// ============================================
-// Chat Header (visible in chat mode)
-// ============================================
-
-.chat-header {
-  display: none;
+.fpc-header {
+  display: flex;
   align-items: center;
   justify-content: space-between;
   width: 100%;
@@ -137,7 +51,7 @@
   }
 }
 
-.chat-back-btn {
+.fpc-back-btn {
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -175,7 +89,7 @@
   }
 }
 
-.chat-header-title {
+.fpc-header-title {
   font-weight: 600;
   color: var(--darkgray);
   font-size: 1rem;
@@ -185,13 +99,13 @@
   }
 }
 
-.chat-header-actions {
+.fpc-header-actions {
   display: flex;
   gap: 0.25rem;
 }
 
-.chat-copy-last,
-.chat-copy-all {
+.fpc-copy-last,
+.fpc-copy-all {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -228,11 +142,11 @@
 }
 
 // ============================================
-// Chat Messages Area
+// Messages Area
 // ============================================
 
-.chat-messages {
-  display: none;
+.fpc-messages {
+  display: flex;
   flex-direction: column;
   flex: 1;
   overflow-y: auto;
@@ -241,11 +155,8 @@
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-
-  // Smooth scrolling
   scroll-behavior: smooth;
 
-  // Custom scrollbar
   &::-webkit-scrollbar {
     width: 8px;
   }
@@ -268,14 +179,14 @@
   }
 }
 
-.chat-message {
+.fpc-message {
   display: flex;
-  animation: messageSlideIn 0.3s ease;
+  animation: fpcMessageSlide 0.3s ease;
 
   &.user {
     justify-content: flex-end;
 
-    .message-content {
+    .fpc-message-content {
       background: var(--secondary);
       color: var(--light);
       border-radius: 18px 18px 4px 18px;
@@ -286,7 +197,7 @@
   &.assistant {
     justify-content: flex-start;
 
-    .message-content {
+    .fpc-message-content {
       background: var(--lightgray);
       color: var(--darkgray);
       border-radius: 18px 18px 18px 4px;
@@ -299,7 +210,7 @@
   }
 }
 
-@keyframes messageSlideIn {
+@keyframes fpcMessageSlide {
   from {
     opacity: 0;
     transform: translateY(10px);
@@ -310,7 +221,7 @@
   }
 }
 
-.message-content {
+.fpc-message-content {
   padding: 0.875rem 1.125rem;
   word-wrap: break-word;
 
@@ -412,7 +323,7 @@
 }
 
 // Loading indicator
-.message-loading {
+.fpc-loading {
   display: flex;
   gap: 0.25rem;
   padding: 0.5rem 0;
@@ -422,7 +333,7 @@
     height: 8px;
     background: var(--gray);
     border-radius: 50%;
-    animation: bounce 1.4s infinite;
+    animation: fpcBounce 1.4s infinite;
 
     &:nth-child(2) {
       animation-delay: 0.2s;
@@ -434,7 +345,7 @@
   }
 }
 
-@keyframes bounce {
+@keyframes fpcBounce {
   0%, 60%, 100% {
     transform: translateY(0);
   }
@@ -444,20 +355,22 @@
 }
 
 // ============================================
-// Chat Input Area
+// Input Area
 // ============================================
 
-.chat-input-area {
+.fpc-input-area {
   width: 100%;
   padding: 1rem;
   flex-shrink: 0;
+  border-top: 1px solid var(--lightgray);
+  background: var(--light);
 
   @media (max-width: 600px) {
     padding: 0.75rem;
   }
 }
 
-.chat-input-wrapper {
+.fpc-input-wrapper {
   display: flex;
   align-items: flex-end;
   gap: 0.75rem;
@@ -480,20 +393,7 @@
   }
 }
 
-.chat-input-icon {
-  width: 20px;
-  height: 20px;
-  color: var(--gray);
-  flex-shrink: 0;
-  margin-bottom: 0.25rem;
-
-  // Hide icon in chat mode to save space
-  .chat-active & {
-    display: none;
-  }
-}
-
-.chat-input {
+.fpc-input {
   flex: 1;
   border: none;
   background: transparent;
@@ -515,7 +415,7 @@
   }
 }
 
-.chat-send-btn {
+.fpc-send-btn {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -555,12 +455,13 @@
   }
 }
 
-.chat-disclaimer {
+.fpc-disclaimer {
   margin: 0.5rem auto 0;
   font-size: 0.75rem;
   color: var(--gray);
   max-width: 800px;
   padding: 0 0.25rem;
+  text-align: center;
 
   @media (max-width: 600px) {
     font-size: 0.7rem;
@@ -568,40 +469,19 @@
 }
 
 // ============================================
-// Copy feedback tooltip
-// ============================================
-
-.copy-tooltip {
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--darkgray);
-  color: var(--light);
-  padding: 0.25rem 0.5rem;
-  border-radius: 4px;
-  font-size: 0.75rem;
-  white-space: nowrap;
-  pointer-events: none;
-  opacity: 0;
-  transition: opacity 0.2s ease;
-  z-index: 10;
-
-  &.visible {
-    opacity: 1;
-  }
-}
-
-// ============================================
-// Accessibility: Reduced motion
+// Reduced motion
 // ============================================
 
 @media (prefers-reduced-motion: reduce) {
-  .chat-message {
+  .full-page-chat {
     animation: none;
   }
 
-  .message-loading .dot {
+  .fpc-message {
+    animation: none;
+  }
+
+  .fpc-loading .dot {
     animation: none;
     opacity: 0.6;
 
@@ -614,17 +494,17 @@
     }
   }
 
-  .chat-messages {
+  .fpc-messages {
     scroll-behavior: auto;
   }
 }
 
 // ============================================
-// Dark mode adjustments
+// Dark mode
 // ============================================
 
 :root[saved-theme="dark"] {
-  .message-content {
+  .fpc-message-content {
     code {
       background: rgba(255, 255, 255, 0.1);
     }
@@ -642,11 +522,48 @@
     }
   }
 
-  .chat-message.user .message-content {
+  .fpc-message.user .fpc-message-content {
     background: var(--secondary);
   }
 
-  .chat-message.assistant .message-content {
+  .fpc-message.assistant .fpc-message-content {
     background: var(--lightgray);
+  }
+}
+
+// ============================================
+// Chat trigger button (for header)
+// ============================================
+
+.chat-trigger-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  background: var(--secondary);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+
+  svg {
+    width: 20px;
+    height: 20px;
+    color: white;
+  }
+
+  &:hover {
+    background: var(--tertiary);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
   }
 }

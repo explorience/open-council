@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import OpenCouncilHeader from "./OpenCouncilHeader"
 import ChatBot from "./ChatBot"
 import HomepageHero from "./HomepageHero"
+import FullPageChat from "./FullPageChat"
 import NavDropdowns from "./NavDropdowns"
 import PrefillQuestions from "./PrefillQuestions"
 import ModeToggle from "./ModeToggle"
@@ -60,6 +61,7 @@ export {
   OpenCouncilHeader,
   ChatBot,
   HomepageHero,
+  FullPageChat,
   NavDropdowns,
   PrefillQuestions,
   ModeToggle,
