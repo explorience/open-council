@@ -53,13 +53,7 @@ export default ((userOpts?: Partial<ChatBotOptions>) => {
           <div class="chatbot-messages">
             <div class="chatbot-message assistant">
               <div class="message-content">
-                <p>Hi! I'm here to help you explore London City Council meetings. You can ask me questions like:</p>
-                <ul>
-                  <li>"What did council decide about zoning on January 21st?"</li>
-                  <li>"Show me all votes where councillors voted unanimously"</li>
-                  <li>"What bills were passed about housing?"</li>
-                  <li>"Who attended the Planning and Environment Committee meeting?"</li>
-                </ul>
+                <p>Hi! I'm here to help you explore London City Council meetings. Ask me anything about votes, decisions, councillors, or meeting records.</p>
               </div>
             </div>
           </div>

@@ -11,11 +11,11 @@ export interface PrefillQuestionsOptions {
 const defaultOptions: PrefillQuestionsOptions = {
   title: "Try asking:",
   questions: [
-    "What major decisions did council make this year?",
-    "How has the budget changed over time?",
-    "What's the most debated topic in recent years?",
-    "What zoning changes were approved recently?",
-    "How did council vote on transit issues?",
+    "What decisions have been made about housing?",
+    "What are the biggest budget items this year?",
+    "What has council discussed about homelessness?",
+    "What happened at the last council meeting?",
+    "What has council said about bike lanes?",
   ],
 }
 
