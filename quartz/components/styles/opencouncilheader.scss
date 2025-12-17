@@ -41,7 +41,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--darkgray);
+  color: var(--gray);
   transition: color 0.2s ease;
   height: auto !important;
 
@@ -50,8 +50,9 @@
   }
 
   .info-icon {
-    width: 22px;
-    height: 22px;
+    width: 28px;
+    height: 28px;
+    stroke-width: 2;
   }
 }
 
