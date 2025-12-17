@@ -167,21 +167,21 @@ a {
   top: 0;
   left: 0;
   right: 0;
-  height: 50px;
+  height: 56px;
   background-color: var(--light);
   border-bottom: 1px solid var(--lightgray);
   z-index: 1000;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 2rem 8px 2rem;
+  padding: 0 2rem;
   box-sizing: border-box;
 
   // Left section: About, Chat
   .sticky-header-left {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 1.5rem;
     flex: 1;
   }
 
@@ -198,7 +198,7 @@ a {
       white-space: nowrap;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
 
       a {
         color: var(--dark);
@@ -215,57 +215,28 @@ a {
   .sticky-header-right {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
+    gap: 1rem;
     flex: 1;
     justify-content: flex-end;
   }
 
-  // Header link styling (About)
-  .header-link {
-    display: flex;
+  // Header link styling (About, Chat)
+  .header-link,
+  .chat-trigger-btn {
+    display: inline-flex;
     align-items: center;
-    justify-content: center;
     color: var(--gray);
     font-size: 0.9rem;
     font-weight: 500;
     text-decoration: none;
-    transition: color 0.2s ease, background-color 0.2s ease;
-    padding: 6px 12px;
-    border-radius: 6px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    transition: color 0.2s ease;
 
     &:hover {
       color: var(--secondary);
-      background: var(--lightgray);
-    }
-  }
-
-  // Chat button styling
-  .chat-trigger-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 6px 12px;
-    background: var(--secondary);
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    transition: background-color 0.2s ease, transform 0.1s ease;
-    flex-shrink: 0;
-    color: white;
-    font-size: 0.9rem;
-    font-weight: 500;
-
-    &:hover {
-      background: var(--tertiary);
-    }
-
-    &:active {
-      transform: scale(0.95);
-    }
-
-    &:focus-visible {
-      outline: 2px solid var(--secondary);
-      outline-offset: 2px;
     }
   }
 
@@ -276,28 +247,27 @@ a {
     color: white;
     padding: 2px 8px;
     border-radius: 4px;
-    vertical-align: middle;
     font-weight: 600;
     letter-spacing: 0.5px;
   }
 
-  // Search button styling in sticky header
+  // Search styling in sticky header
   .search {
     display: flex;
     align-items: center;
   }
 
   @media all and ($mobile) {
-    padding: 0 1rem 8px 1rem;
+    padding: 0 1rem;
+    height: 52px;
 
     .sticky-header-left {
-      gap: 8px;
+      gap: 1rem;
     }
 
     .header-link,
     .chat-trigger-btn {
-      padding: 6px 8px;
-      font-size: 0.8rem;
+      font-size: 0.85rem;
     }
 
     .sticky-header-center h1 {
@@ -308,7 +278,7 @@ a {
 
 // Add padding to body to account for fixed header (only when sticky header exists)
 body:has(.sticky-header) {
-  padding-top: 58px; // 50px header + 8px bottom padding
+  padding-top: 56px;
 
   // Hide duplicate OpenCouncilHeader in sidebar and center content
   .sidebar .open-council-header,
@@ -317,8 +287,9 @@ body:has(.sticky-header) {
   }
 
   // Hide Search and Darkmode in the right sidebar (they're in sticky header)
-  .right.sidebar > .flex-component > .flex-component:first-child {
-    display: none;
+  .right.sidebar .search,
+  .right.sidebar .darkmode {
+    display: none !important;
   }
 }
 
