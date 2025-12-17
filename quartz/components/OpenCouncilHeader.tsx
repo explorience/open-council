@@ -37,5 +37,6 @@ const OpenCouncilHeader: QuartzComponent = () => {
 
 OpenCouncilHeader.css = style
 OpenCouncilHeader.beforeDOMLoaded = script
+OpenCouncilHeader.displayName = "OpenCouncilHeader"
 
 export default (() => OpenCouncilHeader) satisfies QuartzComponentConstructor
