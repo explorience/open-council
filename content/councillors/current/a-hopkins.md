@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members during her tenure?"
-  - "Which specific committees has she served on and has she held any leadership positions such as committee chair or vice-chair?"
-  - "How has her voting pattern evolved over her 11-year tenure, particularly on key municipal issues like budget approvals and development projects?"
+  - "Which specific committees has she served on and what leadership roles, if any, has she held on these committees?"
+  - "How has her voting pattern aligned with council majority decisions versus minority positions throughout her years of service?"
 ---
 
-Anna Hopkins has served on London City Council for over a decade, with an active tenure spanning from 2014 to 2025. During this period, she has demonstrated consistent engagement in council proceedings, attending 640 meetings. Her participation extends beyond general council meetings to include service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Anna Hopkins has served on London City Council for over a decade, with her tenure spanning from 2014 to 2025. During this period, she has demonstrated consistent participation by attending 640 council meetings. Her service has included membership on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Hopkins' lengthy service record and high meeting attendance suggest a committed approach to her council responsibilities. Her participation across multiple committees over her 11-year tenure indicates she has likely developed expertise in diverse areas of municipal administration and has been actively involved in the detailed work of local government that often takes place at the committee level.
+Hopkins' lengthy tenure and high meeting attendance record suggest sustained engagement with council duties and responsibilities. Her participation across multiple committees reflects the diverse range of issues and portfolios that city councillors typically handle in municipal government operations.
 
 ## Terms of Service
 

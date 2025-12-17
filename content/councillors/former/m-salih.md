@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and bylaw changes during their 2014-2022 term?"
-  - "How frequently did Mo Salih miss scheduled council meetings, and what was their attendance rate compared to other council members?"
-  - "What specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Mo Salih serve on and what were their primary areas of focus or expertise?"
+  - "Did Mo Salih hold any leadership positions such as committee chair or deputy mayor during their time on council?"
 ---
 
-Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was an active committee member, serving on four different committees throughout their time in office, though the specific committee names are not clearly indicated in the available data.
+Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent civic engagement over an eight-year period. During their tenure, they attended 350 council meetings, indicating active participation in municipal governance and decision-making processes.
 
-Their eight-year term and high meeting attendance record suggests a dedicated commitment to municipal governance and civic engagement. The extensive meeting attendance over nearly a decade indicates regular participation in the formal decision-making processes of London City Council.
+Throughout their time on council, Salih served on four different committees, though the specific committee names are not clearly indicated in the available data. Their eight-year service span suggests they were re-elected at least once during their time in municipal politics, showing sustained community support for their representation on London City Council.
 
 ## Terms of Service
 

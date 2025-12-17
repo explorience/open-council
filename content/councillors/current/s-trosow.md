@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting record on key municipal issues such as budget approvals, development projects, and city services?"
-  - "How often does Sam Trosow vote with the majority versus taking independent positions on council decisions?"
-  - "Which specific committees has Sam Trosow served on and what has been their level of participation and leadership roles within those committees?"
+  - "What is Sam Trosow's voting record on major city budget decisions and tax increases during their 2022-2025 term?"
+  - "How often has Sam Trosow voted with or against the majority on key policy issues brought before council?"
+  - "Which specific committees has Sam Trosow served on, and what has been their attendance record for committee meetings versus regular council sessions?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022 to 2025, demonstrating strong engagement through attendance at 209 council meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees throughout their tenure, indicating broad involvement in various aspects of municipal governance and policy development.
+Sam Trosow has been an active member of London City Council from 2022 to 2025, demonstrating consistent engagement through attendance at 209 meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees throughout their tenure, indicating broad involvement in various aspects of municipal governance and policy development.
 
-Trosow's consistent meeting attendance and extensive committee work suggests a committed approach to their council responsibilities. Serving on eight committees while maintaining high meeting attendance shows dedication to participating in the detailed work of municipal government across multiple policy areas and administrative functions.
+This level of meeting attendance and committee participation suggests a committed approach to their council responsibilities, with involvement spanning multiple areas of city administration and decision-making processes over their current term.
 
 ## Terms of Service
 

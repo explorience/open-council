@@ -7,13 +7,11 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Jerry Pribil served on during their time on London City Council?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members during the 2022-2025 term?"
-  - "What has been Jerry Pribil's voting pattern on major city issues and budget decisions?"
+  - "How does Jerry Pribil's meeting attendance record of 212 meetings compare to other council members during the same period?"
+  - "What has been Jerry Pribil's voting pattern on key municipal issues and bylaws brought before council?"
 ---
 
-Jerry Pribil has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, they have been involved in committee work, serving on eight different committees, though the specific names of these committees are not clearly identified in the available data.
-
-Their consistent meeting attendance and broad committee involvement suggests an engaged approach to municipal governance during their council term, which spans the current four-year electoral cycle.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, they have served on eight different committees, indicating broad involvement across various areas of municipal governance. This level of meeting attendance and committee participation suggests consistent engagement in the council's work over their term.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on major municipal issues like budget approvals, development projects, or tax increases during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on, and what role did he play in committee decisions and recommendations?"
-  - "How did Joe Swan's meeting attendance rate of 147 meetings compare to other council members during the same period?"
+  - "What was Joe Swan's attendance rate compared to other council members during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on and what were his primary areas of focus?"
+  - "How did Joe Swan vote on major city issues and budget decisions during his four years in office?"
 ---
 
-Joe Swan served on London City Council from 2011 to 2014, completing a full four-year term. During this period, he demonstrated consistent participation by attending 147 council meetings. Swan was active in committee work, serving on six different committees throughout his tenure, though the specific names of these committees are not available in the provided data.
+Joe Swan served on London City Council, Canada from 2011-2014, representing a four-year term during which he attended 147 council meetings. His participation demonstrates consistent engagement with council proceedings over this period. Swan served on six different committees during his tenure, though the specific committee names are not clearly available in the provided data.
 
-His attendance record and committee involvement suggest he was an engaged council member who participated regularly in both general council sessions and specialized committee work during his time in municipal government.
+His attendance record of 147 meetings over a four-year period suggests regular participation in council business, as municipal councils typically meet multiple times per month including both regular council sessions and committee meetings.
 
 ## Terms of Service
 

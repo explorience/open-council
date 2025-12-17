@@ -6,14 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Skylar Franke served on during their time on London City Council?"
-  - "What is Skylar Franke's voting record on major municipal issues and bylaws?"
-  - "How does Skylar Franke's meeting attendance rate compare to other council members during the same period?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
+  - "Which specific committees has Skylar Franke served on, and what role did they play as chair or member of these committees?"
+  - "How does Skylar Franke's meeting attendance rate compare to other council members, and have they missed any significant votes or discussions?"
 ---
 
-Skylar Franke has served on London City Council from 2022-2025, demonstrating active participation with attendance at 179 meetings during this period. Their council involvement includes service on seven different committees, indicating broad engagement across various municipal functions and policy areas.
+Skylar Franke has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 179 council meetings during this period. They have been involved in committee work, serving on seven different committees throughout their tenure, though the specific committee names are not clearly displayed in the available data.
 
-Based on their meeting attendance record and extensive committee involvement, Franke appears to be an engaged council member who participates regularly in the formal governance processes of London City Council. Their service span covers the current council term, suggesting they are either in their first term or continuing service from a previous term.
+Their participation spans the current council term, indicating they are either in their first term or continuing their service from a previous term. The meeting attendance figure of 179 meetings over approximately three years suggests consistent engagement in council proceedings and municipal governance activities.
 
 ## Terms of Service
 

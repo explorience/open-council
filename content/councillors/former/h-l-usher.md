@@ -6,14 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's voting record on key municipal issues during his 2011-2018 tenure?"
-  - "Which specific committees did Harold Usher serve on and what were his roles or contributions to those committees?"
+  - "What was Harold Usher's voting pattern on key municipal issues during his 2011-2018 term?"
+  - "Which specific committees did Harold Usher serve on and what was his role or contribution to each?"
   - "How did Harold Usher's attendance rate compare to other council members during the same period?"
 ---
 
-Harold Usher served on London City Council, Canada for approximately seven years from 2011 to 2018. During his tenure, he demonstrated consistent engagement with council business, attending 403 meetings over the course of his service. Usher participated in committee work as part of his council duties, serving on six different committees throughout his time in office, though the specific names of these committees are not clearly identified in the available data.
+Harold Usher served on London City Council, Canada from 2011 to 2018, representing a seven-year tenure in municipal government. During this period, he demonstrated consistent participation by attending 403 meetings and served on six different committees, indicating active involvement in the council's committee work alongside regular council sessions.
 
-His attendance record suggests active participation in the council's legislative and administrative processes over nearly two full terms of office. The substantial number of meetings attended indicates regular involvement in both regular council sessions and committee work during his years of service.
+His attendance record and committee participation suggest a committed approach to his council duties throughout his term. The substantial number of meetings attended over his seven-year service period reflects regular engagement with both council business and committee responsibilities during his time as an elected municipal representative.
 
 ## Terms of Service
 

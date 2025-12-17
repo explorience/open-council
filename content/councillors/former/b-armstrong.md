@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting pattern on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
-  - "Which specific committees did he serve on and what was his level of participation or leadership role on those committees?"
-  - "How did his attendance rate of 245 meetings compare to other council members during the same 2012-2018 period?"
+  - "What was Bill Armstrong's voting record on major municipal issues like budget approvals, development projects, or transportation initiatives?"
+  - "How frequently did Armstrong speak or propose motions during council meetings, and what were the main topics he focused on?"
+  - "What specific committees did Armstrong serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, representing a six-year tenure in municipal government. During this period, he demonstrated consistent participation by attending 245 council meetings and served on five different committees, though the specific committee names are not clearly indicated in the available data.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was actively involved in the committee structure of the council, serving on five different committees throughout his time in office, though the specific names of these committees are not clearly identified in the available data.
 
-His attendance record suggests regular engagement with council business over his term of service. The span from 2012 to 2018 indicates he likely served at least one full council term, as municipal elections in Ontario typically occur every four years.
+His six-year term and substantial meeting attendance record suggests regular engagement with municipal governance and council responsibilities during his time representing constituents on London City Council.
 
 ## Terms of Service
 

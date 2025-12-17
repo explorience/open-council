@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on major city issues such as budget approvals, development projects, and municipal policy changes during his 2014-2018 term?"
-  - "Which four specific committees did Zaifman serve on, and what was his attendance rate and level of participation in each committee?"
-  - "How did Zaifman's meeting attendance rate of 142 meetings compare to other council members during the same 2014-2018 period?"
+  - "What was Jared Zaifman's voting record on major budget decisions during his 2014-2018 term?"
+  - "Which specific committees did he serve on and what was his level of participation in committee work?"
+  - "How did his attendance rate of 142 meetings compare to other council members during the same period?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing one full term of municipal service. During his four-year tenure, he attended 142 council meetings, demonstrating consistent participation in the city's legislative proceedings. Zaifman served on four committees during his time on council, though the specific names of these committees are not clearly identified in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated active participation by attending 142 council meetings. He served on four committees during his time on council, though the specific committee names are not clearly displayed in the available data.
 
-His attendance at 142 meetings over a four-year period suggests regular engagement with council business, which typically includes regular council meetings, committee meetings, and special sessions. This level of participation indicates an active role in London's municipal governance during his term from 2014-2018.
+His attendance record and committee involvement suggest consistent engagement with municipal governance throughout his term. The meeting attendance figure indicates regular participation in the formal decision-making processes of London City Council during this period.
 
 ## Terms of Service
 

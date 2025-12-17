@@ -6,14 +6,14 @@ meetingCount: 180
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Arielle Kayabaga serve on during her time on London City Council?"
-  - "What was her voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
-  - "Did she sponsor or champion any particular motions or initiatives during her 2018-2021 council term?"
+  - "What was Arielle Kayabaga's voting attendance rate and how did it compare to other council members during her 2018-2021 term?"
+  - "Which specific committees did she serve on and what were her key contributions or initiatives within those committees?"
+  - "How did she vote on major municipal issues like budget approvals, development projects, or policy changes during her time on council?"
 ---
 
-Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation with attendance at 180 meetings during her tenure. She served on five different committees during her time on council, though the specific committee names are not clearly displayed in the available data. Her three-year term shows consistent engagement with municipal governance through regular meeting attendance.
+Arielle Kayabaga served on London City Council from 2018 to 2021, demonstrating active participation with attendance at 180 meetings during her tenure. Over the course of her nearly four-year term, she served on five different committees, indicating broad engagement across various municipal portfolios and responsibilities.
 
-Her participation spanned a significant period that would have included various municipal issues and decisions affecting London residents. The high number of meetings attended suggests regular involvement in council proceedings and committee work throughout her term.
+Her consistent meeting attendance and multi-committee involvement suggests regular participation in council business and committee work throughout her time as a municipal councillor before her term concluded in 2021.
 
 ## Terms of Service
 

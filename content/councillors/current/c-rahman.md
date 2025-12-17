@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Corrine Rahman's voting attendance rate compared to other council members during her 2022-2025 term?"
-  - "Which specific committees has Rahman served on and what leadership roles, if any, has she held on these committees?"
-  - "How does Rahman typically vote on key municipal issues such as budget proposals, development applications, and bylaw amendments?"
+  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
+  - "How does Rahman's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Rahman's voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
 ---
 
-Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, she has demonstrated consistent participation by attending 216 council meetings. Rahman has served on eight different committees, showing broad engagement across various municipal governance areas.
+Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, she has demonstrated consistent engagement with council duties, attending 216 meetings. Rahman has participated broadly in the council's committee structure, serving on eight different committees throughout her term, indicating involvement across multiple areas of municipal governance and policy development.
 
-Her participation record indicates a high level of commitment to her council duties, with extensive meeting attendance spanning her current term. The breadth of her committee involvement suggests she has taken on responsibilities across multiple aspects of city governance during her time in office.
+Her attendance record and extensive committee participation suggest a high level of commitment to her council responsibilities. The substantial number of meetings attended over her term reflects regular engagement with both general council sessions and specialized committee work across various municipal portfolios.
 
 ## Terms of Service
 

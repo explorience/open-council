@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Phil Squire serve on and what were their primary areas of focus or expertise?"
-  - "How did Phil Squire vote on major city issues such as budget approvals, development projects, or policy changes during their 2014-2021 term?"
+  - "What was Phil Squire's voting record on major budget decisions and tax increases during their time on council?"
+  - "Which specific committees did Phil Squire serve on, and what were their key contributions or initiatives within those committees?"
+  - "How did Phil Squire's attendance rate of 372 meetings compare to other council members during the same 2014-2021 period?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, they demonstrated consistent engagement by attending 372 council meetings and participating on six different committees, indicating active involvement in the city's governance processes.
+Phil Squire served on London City Council, Canada from 2014 to 2021, demonstrating consistent participation with attendance at 372 meetings over their seven-year tenure. During this period, they served on six different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Their extended service period suggests they served through multiple terms, contributing to various aspects of municipal decision-making through both general council sessions and specialized committee work. The substantial number of meetings attended reflects regular participation in London's civic proceedings throughout their time in office.
+Their extended service period spanning nearly two full council terms suggests they maintained voter support and actively contributed to the city's decision-making processes through both regular council sessions and committee work.
 
 ## Terms of Service
 

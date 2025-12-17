@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's attendance rate compared to the total number of scheduled meetings during his tenure?"
-  - "Which specific committees has Steve Hillier served on and what are his roles on each committee?"
-  - "How does Steve Hillier's meeting attendance record compare to other London City Council members serving during the same period?"
+  - "What specific committees has Steve Hillier served on during his time on London City Council?"
+  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "How does Steve Hillier's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his term?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent engagement with council duties, attending 453 meetings. His council service spans seven years and includes participation on seven different committees, indicating broad involvement across various municipal portfolios and policy areas.
+Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated strong participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees, indicating broad engagement across various municipal portfolios and policy areas.
 
-Hillier's meeting attendance record of 453 sessions over his tenure suggests regular participation in both regular council meetings and committee work. His multi-committee involvement reflects engagement with diverse aspects of municipal governance during his time on council.
+His consistent meeting attendance over his multi-year term suggests regular involvement in London's municipal decision-making processes. The breadth of his committee participation indicates he has taken on responsibilities across multiple aspects of city governance during his time on council.
 
 ## Terms of Service
 

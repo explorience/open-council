@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development projects, and transportation initiatives?"
-  - "How often did she vote with or against the majority on controversial council decisions during her tenure?"
-  - "What specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
+  - "What is Elizabeth Peloza's voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Elizabeth Peloza's meeting attendance rate compare to other council members during the same time period?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 meetings during this period. Her participation extends beyond regular council meetings, as she has served on nine different committees throughout her tenure, indicating broad involvement in various aspects of municipal governance and policy development.
+Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated consistent engagement with council duties, attending 452 meetings over the course of her service period. Her participation extends beyond general council meetings, as she has served on nine different committees during her time in office, indicating broad involvement across various areas of municipal governance and policy development.
 
-Her seven-year term on council shows sustained commitment to municipal service, with her meeting attendance and committee participation reflecting active engagement in the council's work. The breadth of her committee involvement suggests she has contributed to diverse areas of city business and policy-making processes.
+Her seven-year term on council shows sustained commitment to municipal service, and her extensive meeting attendance record suggests regular participation in the democratic processes of local government. The multiple committee appointments reflect her engagement with specialized areas of city business and policy-making beyond the general council sessions.
 
 ## Terms of Service
 

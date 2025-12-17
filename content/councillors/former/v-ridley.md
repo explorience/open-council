@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Virginia Ridley's voting attendance rate and how did it compare to other council members during the 2014-2018 term?"
-  - "Which specific committees did she serve on and what were her key contributions or leadership roles within those committees?"
-  - "How did she vote on major municipal issues and budget decisions that came before council during her four-year term?"
+  - "What was Virginia Ridley's voting record on key municipal issues during her 2014-2018 term?"
+  - "Which specific committees did she serve on and what roles did she play in those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Virginia Ridley served on London City Council, Canada from 2014 to 2018, completing a full four-year term. During this period, she demonstrated active participation by attending 212 council meetings. She served on six different committees throughout her tenure, indicating involvement across multiple areas of municipal governance and policy development.
+Virginia Ridley served on London City Council, Canada from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. She was actively involved in the committee structure of the council, serving on six different committees throughout her term, though the specific names of these committees are not clearly indicated in the available data.
 
-Her attendance record and committee involvement suggest consistent engagement with council duties over the four-year period. The substantial number of meetings attended reflects regular participation in the formal decision-making processes of London's municipal government during her term of service.
+Her attendance record and committee involvement suggest she was an engaged member of council who participated regularly in both general council sessions and specialized committee work during her four years of service.
 
 ## Terms of Service
 

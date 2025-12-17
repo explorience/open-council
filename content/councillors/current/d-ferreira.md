@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
-  - "How does David Ferreira's meeting attendance rate compare to other council members, and has he missed any significant votes or decisions?"
+  - "What is David Ferreira's voting attendance rate and how does it compare to other council members?"
+  - "Has David Ferreira taken any leadership roles, such as committee chair positions, during his council tenure?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated consistent engagement by attending 208 council meetings. His participation extends beyond general council sessions, as he has served on eight different committees, indicating broad involvement across various municipal functions and decision-making bodies.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated consistent engagement with council duties, attending 208 meetings. His council participation extends beyond general council meetings, as he has served on eight different committees, indicating broad involvement across various municipal governance areas.
 
-His attendance record and committee participation suggest a high level of civic engagement and commitment to his role as a city councillor. The substantial number of meetings attended over his term reflects regular participation in the democratic processes of London's municipal government.
+Ferreira's participation record shows regular attendance and committee involvement throughout his term. With 208 meetings attended over approximately three years of service, this suggests a high level of engagement with council business and municipal decision-making processes.
 
 ## Terms of Service
 

@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What is Josh Morgan's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Josh Morgan served on and what roles or leadership positions has he held within those committees?"
-  - "How has Josh Morgan's voting patterns evolved over his 11 years on council, particularly on key municipal issues like budget approvals, development projects, or policy initiatives?"
+  - "Which specific committees has Josh Morgan served on and did he hold any chair or vice-chair positions?"
+  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development proposals, or infrastructure projects?"
 ---
 
-Josh Morgan has demonstrated extensive participation on London City Council, Canada, attending 654 meetings during his tenure from 2014-2025. This represents an 11-year period of service to the municipality. Throughout his time on council, Morgan has served on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Josh Morgan has been an active member of London City Council from 2014 to 2025, demonstrating consistent engagement through his attendance at 654 council meetings over this 11-year period. This represents an average of approximately 59 meetings per year, indicating regular participation in council proceedings. Morgan has served on eight different committees during his tenure, showing broad involvement across various aspects of municipal governance and policy areas within the city.
 
-His consistent attendance record and multi-committee participation suggests active engagement in the council's work over more than a decade of service to London residents.
+His extended service period spanning over a decade suggests he has been re-elected multiple times, reflecting sustained community support and his commitment to municipal service. The high meeting attendance record indicates consistent engagement with council business and responsibilities throughout his time in office.
 
 ## Terms of Service
 

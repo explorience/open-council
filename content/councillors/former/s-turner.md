@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Stephen Turner serve on during his time on London City Council?"
-  - "What was Stephen Turner's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Did Stephen Turner hold any leadership positions or chair any committees during his eight years of service?"
+  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his 8 years on council?"
+  - "Which specific committees did Stephen Turner chair or serve on, and what were his key contributions to committee work?"
+  - "How did Stephen Turner's voting patterns align with other council members, and were there particular issues where he frequently voted differently from the majority?"
 ---
 
-Stephen Turner served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During his tenure, he attended 417 council meetings and served on seven different committees, indicating active engagement in the municipal decision-making process.
+Stephen Turner served on London City Council from 2014 to 2022, spanning approximately 8 years of municipal service. During his tenure, he demonstrated consistent participation by attending 417 council meetings. Turner was actively involved in committee work, serving on 7 different committees throughout his time on council, though the specific names of these committees are not clearly displayed in the available data.
 
-Turner's attendance record of 417 meetings across eight years suggests regular participation in council proceedings, averaging approximately 52 meetings per year. His involvement on multiple committees shows he contributed to various aspects of municipal governance beyond general council sessions.
+His attendance record suggests regular engagement with council business over nearly a decade of service. The substantial number of meetings attended indicates sustained participation in the legislative and decision-making processes of London City Council during his two-term period.
 
 ## Terms of Service
 

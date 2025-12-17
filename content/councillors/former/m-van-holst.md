@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on major city budget decisions during his 8-year tenure?"
-  - "How did his committee participation and attendance compare to other council members serving during the same period?"
-  - "Were there any notable issues or policy areas where he frequently voted differently from the majority of council?"
+  - "What was Michael van Holst's voting record on major municipal issues like budget approvals, development projects, and city planning initiatives?"
+  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did his attendance rate of 461 meetings compare to other council members during the same 2014-2022 period?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, representing an 8-year tenure in municipal government. During this period, he attended 461 council meetings and served on 8 different committees, demonstrating consistent participation in the city's governance processes.
+Michael van Holst served on London City Council from 2014 to 2022, spanning an 8-year period of municipal service. During his tenure, he demonstrated consistent participation by attending 461 council meetings and served on 8 different committees, indicating active engagement in the city's governance and decision-making processes.
 
-His meeting attendance record of 461 sessions over 8 years indicates regular engagement with council business, averaging approximately 58 meetings per year. His service on multiple committees suggests involvement across various areas of municipal responsibility throughout his time on council.
+His extensive meeting attendance record and multi-committee involvement suggests he was a regular and active participant in London's municipal government throughout his two terms on council. The breadth of his committee service indicates involvement across various aspects of city administration and policy development during his time as an elected representative.
 
 ## Terms of Service
 

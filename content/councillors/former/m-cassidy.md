@@ -6,14 +6,12 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on key municipal issues such as budget approvals, development projects, or infrastructure spending during her 2014-2022 tenure?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "What was her attendance rate percentage for council meetings, and how did her participation compare to other council members during the same period?"
+  - "What was Maureen Cassidy's voting record on key municipal issues during her 2014-2022 tenure?"
+  - "Which specific committees did she serve on and what roles did she hold within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, spanning an eight-year period of municipal service. During her tenure, she demonstrated consistent participation by attending 536 council meetings and served on seven different committees, indicating active involvement in the council's committee structure and decision-making processes.
-
-Her extended service period suggests she was re-elected at least once during her time on council, as municipal terms in Ontario are typically four years in length. The high number of meeting attendances over her eight-year term reflects regular engagement with council business and municipal governance responsibilities.
+Maureen Cassidy served on London City Council in Canada from 2014 to 2022, demonstrating significant engagement through her attendance at 536 council meetings over her eight-year tenure. During her time on council, she participated on seven different committees, indicating broad involvement across various municipal governance areas. Her consistent meeting attendance and multi-committee participation suggests active engagement in the council's decision-making processes throughout her two-term service.
 
 ## Terms of Service
 
