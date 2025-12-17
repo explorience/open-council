@@ -1,35 +1,20 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
 import style from "./styles/opencouncilheader.scss"
+// @ts-ignore
 import script from "./scripts/opencouncilheader.inline"
 
 const OpenCouncilHeader: QuartzComponent = () => {
   return (
     <div className="open-council-header">
+      <div className="header-left">
+        <a href="/about" className="about-link">About</a>
+        <button class="chat-trigger-btn" aria-label="Open chat assistant">Chat</button>
+      </div>
       <div className="title-div">
         <h1><a href="/">Open Council</a> <span className="beta-tag">BETA</span></h1>
       </div>
-      <div className="header-actions">
-        <a href="/about" className="about-link" aria-label="About Open Council">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            className="info-icon"
-          >
-            <circle cx="12" cy="12" r="10" />
-            <line x1="12" y1="16" x2="12" y2="12" />
-            <line x1="12" y1="8" x2="12.01" y2="8" />
-          </svg>
-        </a>
-        <button class="chat-trigger-btn" aria-label="Open chat assistant" title="Ask a question">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
-          </svg>
-        </button>
+      <div className="header-right">
+        {/* Placeholder for symmetry - Search/Darkmode added by sticky header */}
       </div>
     </div>
   )
