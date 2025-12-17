@@ -188,10 +188,13 @@
 .chat-header-actions {
   display: flex;
   gap: 0.25rem;
+  flex-shrink: 0;
+  margin-right: 0.5rem;
 }
 
 .chat-copy-last,
-.chat-copy-all {
+.chat-copy-all,
+.chat-about-link {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -274,12 +277,17 @@
 
   &.user {
     justify-content: flex-end;
+    padding-left: 15%; // Ensure user bubbles don't span full width
 
     .message-content {
       background: var(--secondary);
       color: var(--light);
       border-radius: 18px 18px 4px 18px;
-      max-width: 80%;
+      max-width: 100%;
+    }
+
+    @media (max-width: 600px) {
+      padding-left: 10%;
     }
   }
 
@@ -287,14 +295,13 @@
     justify-content: flex-start;
 
     .message-content {
-      background: var(--lightgray);
+      // ChatGPT-style: no bubble, just inline text
+      background: transparent;
       color: var(--darkgray);
-      border-radius: 18px 18px 18px 4px;
-      max-width: 85%;
-
-      @media (max-width: 600px) {
-        max-width: 95%;
-      }
+      border-radius: 0;
+      max-width: 100%;
+      padding-left: 0;
+      padding-right: 0;
     }
   }
 }
@@ -647,6 +654,6 @@
   }
 
   .chat-message.assistant .message-content {
-    background: var(--lightgray);
+    background: transparent;
   }
 }
