@@ -161,6 +161,56 @@ a {
   }
 }
 
+// Sticky header at the top of the viewport
+.sticky-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background-color: var(--light);
+  border-bottom: 1px solid var(--lightgray);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  box-sizing: border-box;
+
+  // Reset styles for nested components
+  .open-council-header {
+    height: 100%;
+    width: auto;
+  }
+
+  .sticky-header-right {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  // Search button styling in sticky header
+  .search {
+    display: flex;
+    align-items: center;
+  }
+
+  @media all and ($mobile) {
+    padding: 0 1rem;
+  }
+}
+
+// Add padding to body to account for fixed header (only when sticky header exists)
+body:has(.sticky-header) {
+  padding-top: 50px;
+
+  // Hide duplicate OpenCouncilHeader in sidebar and center content
+  .sidebar .open-council-header,
+  .page-header .open-council-header {
+    display: none;
+  }
+}
+
 .page {
   max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
@@ -222,11 +272,11 @@ a {
 
     & .sidebar {
       gap: 2rem;
-      top: 0;
+      top: 50px; // Below the sticky header
       box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
+      padding: 2rem 2rem 2rem 2rem;
       display: flex;
-      height: 100vh;
+      height: calc(100vh - 50px); // Account for sticky header height
       position: sticky;
     }
 
@@ -276,7 +326,7 @@ a {
 
     & .page-header {
       grid-area: grid-header;
-      margin: $topSpacing 0 0 0;
+      margin: 2rem 0 0 0; // Reduced from $topSpacing since header is now sticky
       @media all and ($mobile) {
         margin-top: 0;
         padding: 0;

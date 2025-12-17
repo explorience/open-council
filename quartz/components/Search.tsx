@@ -48,6 +48,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
 
   Search.afterDOMLoaded = script
   Search.css = style
+  Search.displayName = "Search"
 
   return Search
 }) satisfies QuartzComponentConstructor
