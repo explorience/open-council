@@ -240,11 +240,13 @@ export function renderPage(
   // Sticky header component for non-homepage pages
   const StickyHeader = !isHomepage ? (
     <div class="sticky-header">
-      {beforeBody
-        .filter((Component) => Component.displayName === "OpenCouncilHeader")
-        .map((HeaderComponent) => (
-          <HeaderComponent {...componentData} />
-        ))}
+      <div class="sticky-header-left">
+        <a href="/about" class="header-link">About</a>
+        <button class="chat-trigger-btn" aria-label="Open chat assistant">Chat</button>
+      </div>
+      <div class="sticky-header-center">
+        <h1><a href="/">Open Council</a> <span class="beta-tag">BETA</span></h1>
+      </div>
       <div class="sticky-header-right">
         <Search {...componentData} />
         <Darkmode {...componentData} />

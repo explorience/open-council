@@ -10,12 +10,38 @@
   width: 100%;
 }
 
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+  justify-content: flex-end;
+}
+
 .title-div {
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: center;
   text-align: center;
   height: 100%;
+  flex-shrink: 0;
+
+  h1 {
+    margin: 0;
+    font-size: 1.4rem;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
 }
 
 .hidden {
@@ -42,24 +68,17 @@
   align-items: center;
   justify-content: center;
   color: var(--gray);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
   transition: color 0.2s ease;
-  height: auto !important;
+  padding: 6px 12px;
+  border-radius: 6px;
 
   &:hover {
     color: var(--secondary);
+    background: var(--lightgray);
   }
-
-  .info-icon {
-    width: 28px;
-    height: 28px;
-    stroke-width: 2;
-  }
-}
-
-.header-actions {
-  display: flex;
-  align-items: center;
-  gap: 12px;
 }
 
 // Chat trigger button
@@ -67,21 +86,16 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
-  padding: 0;
+  padding: 6px 12px;
   background: var(--secondary);
   border: none;
-  border-radius: 8px;
+  border-radius: 6px;
   cursor: pointer;
   transition: background-color 0.2s ease, transform 0.1s ease;
   flex-shrink: 0;
-
-  svg {
-    width: 20px;
-    height: 20px;
-    color: white;
-  }
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 500;
 
   &:hover {
     background: var(--tertiary);
