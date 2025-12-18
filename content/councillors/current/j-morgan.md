@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Josh Morgan's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Josh Morgan served on and did he hold any chair or vice-chair positions?"
-  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development proposals, or infrastructure projects?"
+  - "What is Josh Morgan's voting record on major budget decisions and tax increases during his time on council?"
+  - "Which specific committees has he served on, and what leadership roles, if any, has he held within those committees?"
+  - "How does his meeting attendance rate of 654 meetings compare to other council members, and what percentage of total possible meetings does this represent?"
 ---
 
-Josh Morgan has been an active member of London City Council from 2014 to 2025, demonstrating consistent engagement through his attendance at 654 council meetings over this 11-year period. This represents an average of approximately 59 meetings per year, indicating regular participation in council proceedings. Morgan has served on eight different committees during his tenure, showing broad involvement across various aspects of municipal governance and policy areas within the city.
+Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this time, he has demonstrated consistent engagement by attending 654 council meetings, indicating regular participation in the city's legislative processes.
 
-His extended service period spanning over a decade suggests he has been re-elected multiple times, reflecting sustained community support and his commitment to municipal service. The high meeting attendance record indicates consistent engagement with council business and responsibilities throughout his time in office.
+Throughout his tenure, Morgan has served on eight different committees, showing broad involvement across various aspects of municipal governance. His extended service period of approximately 11 years suggests he has been re-elected multiple times, reflecting ongoing community support for his council participation.
 
 ## Terms of Service
 

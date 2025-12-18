@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting record on major city budget decisions and tax increases during their 2022-2025 term?"
-  - "How often has Sam Trosow voted with or against the majority on key policy issues brought before council?"
-  - "Which specific committees has Sam Trosow served on, and what has been their attendance record for committee meetings versus regular council sessions?"
+  - "What is Sam Trosow's voting record on key municipal issues like budget approvals, development applications, and infrastructure projects?"
+  - "How frequently has Sam Trosow missed scheduled council and committee meetings, and what is their overall attendance rate?"
+  - "Which specific committees has Sam Trosow served on, and have they held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022 to 2025, demonstrating consistent engagement through attendance at 209 meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees throughout their tenure, indicating broad involvement in various aspects of municipal governance and policy development.
+Sam Trosow has been an active member of London City Council during their current term from 2022-2025. With 209 meetings attended, they have demonstrated consistent participation in council proceedings. Trosow has served on eight different committees during their tenure, indicating broad engagement across various municipal portfolios and policy areas.
 
-This level of meeting attendance and committee participation suggests a committed approach to their council responsibilities, with involvement spanning multiple areas of city administration and decision-making processes over their current term.
+Their substantial meeting attendance record and extensive committee involvement suggest a high level of commitment to municipal governance and active participation in London's decision-making processes across their term to date.
 
 ## Terms of Service
 

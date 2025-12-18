@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "What is Elizabeth Peloza's voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Elizabeth Peloza's meeting attendance rate compare to other council members during the same time period?"
+  - "What has been her voting record on major city issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does her meeting attendance rate of 452 meetings compare to other council members serving during the same period?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated consistent engagement with council duties, attending 452 meetings over the course of her service period. Her participation extends beyond general council meetings, as she has served on nine different committees during her time in office, indicating broad involvement across various areas of municipal governance and policy development.
+Elizabeth Peloza has served on London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 council meetings during this period. Her participation spans nearly seven years of municipal service, indicating sustained involvement in the city's governance processes.
 
-Her seven-year term on council shows sustained commitment to municipal service, and her extensive meeting attendance record suggests regular participation in the democratic processes of local government. The multiple committee appointments reflect her engagement with specialized areas of city business and policy-making beyond the general council sessions.
+Throughout her tenure, Peloza has served on nine different committees, suggesting broad involvement across various areas of municipal responsibility. This extensive committee participation, combined with her regular meeting attendance, indicates an active role in London's municipal decision-making processes during her time on council.
 
 ## Terms of Service
 

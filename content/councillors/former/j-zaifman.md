@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on major budget decisions during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what was his level of participation in committee work?"
-  - "How did his attendance rate of 142 meetings compare to other council members during the same period?"
+  - "What was Jared Zaifman's voting record on key municipal issues during his 2014-2018 term?"
+  - "Which specific committees did he serve on and what was his role or contributions to those committees?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated active participation by attending 142 council meetings. He served on four committees during his time on council, though the specific committee names are not clearly displayed in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated active participation by attending 142 council meetings. He served on four different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
 
-His attendance record and committee involvement suggest consistent engagement with municipal governance throughout his term. The meeting attendance figure indicates regular participation in the formal decision-making processes of London City Council during this period.
+His attendance record and committee involvement suggest consistent engagement in the council's work throughout his term. The 142 meetings attended over a four-year period indicates regular participation in the city's governance and decision-making processes.
 
 ## Terms of Service
 

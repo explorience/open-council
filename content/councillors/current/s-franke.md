@@ -6,14 +6,12 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
-  - "Which specific committees has Skylar Franke served on, and what role did they play as chair or member of these committees?"
-  - "How does Skylar Franke's meeting attendance rate compare to other council members, and have they missed any significant votes or discussions?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and city planning initiatives?"
+  - "Which specific committees has Skylar Franke served on, and what role did they play in committee decisions and recommendations?"
+  - "How does Skylar Franke's meeting attendance rate and committee participation compare to other London City Council members during the same period?"
 ---
 
-Skylar Franke has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 179 council meetings during this period. They have been involved in committee work, serving on seven different committees throughout their tenure, though the specific committee names are not clearly displayed in the available data.
-
-Their participation spans the current council term, indicating they are either in their first term or continuing their service from a previous term. The meeting attendance figure of 179 meetings over approximately three years suggests consistent engagement in council proceedings and municipal governance activities.
+Skylar Franke has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 179 meetings during this period. Their council involvement includes service on seven different committees, indicating broad engagement across various municipal areas of responsibility. This level of meeting attendance and committee participation suggests consistent involvement in the city's governance processes throughout their term.
 
 ## Terms of Service
 

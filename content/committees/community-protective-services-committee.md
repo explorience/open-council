@@ -4,14 +4,14 @@ type: committee
 slug: "community-protective-services-committee"
 meetingCount: 1
 prefillQuestions:
-  - "How does the Community Protective Services Committee measure the effectiveness of emergency response times across different areas of London?"
-  - "What specific role does this committee play in London's emergency preparedness planning, particularly for natural disasters or major incidents?"
-  - "How does the committee balance budget considerations with the need to maintain adequate staffing and equipment levels for fire and paramedic services?"
+  - "What specific protective services fall under this committee's jurisdiction, and how does it coordinate between different emergency response agencies?"
+  - "How does the Community Protective Services Committee involve public input when making decisions about safety priorities and resource allocation in different neighborhoods?"
+  - "What are the committee's current key initiatives or challenges in addressing London's public safety needs, and how do they measure the effectiveness of protective services?"
 ---
 
-The Community Protective Services Committee of London City Council is a standing committee responsible for overseeing municipal services that protect and support the safety and well-being of London residents. This committee typically handles matters related to emergency services, public safety initiatives, fire protection services, paramedic services, and emergency management planning. As part of London's municipal governance structure, the committee reviews policies, budgets, and strategic plans for these critical protective services, making recommendations to City Council on service delivery improvements and resource allocation.
+The Community Protective Services Committee is a standing committee of London City Council that oversees the city's public safety and emergency response services. This committee typically handles matters related to police services, fire and emergency services, paramedic services, and emergency management planning. As part of London's municipal governance structure, the committee reviews policies, budgets, and strategic plans for these essential protective services that safeguard the community's health, safety, and security.
 
-The committee plays a vital role in ensuring London's emergency response capabilities meet community needs and regulatory standards. It addresses issues such as fire prevention programs, emergency preparedness planning, paramedic service coverage and response times, public safety education initiatives, and coordination between various protective service agencies. The committee also reviews performance metrics, considers service expansion or modifications based on population growth and changing community needs, and oversees major capital projects related to fire stations, emergency equipment, and other protective service infrastructure.
+The committee serves as a crucial link between City Council and the various protective service departments, providing oversight and direction on operational matters, capital projects, and service delivery standards. Issues commonly addressed include public safety initiatives, emergency preparedness protocols, response times and service levels, equipment and infrastructure needs, and inter-agency coordination. The committee also reviews annual reports, performance metrics, and budget allocations to ensure these vital services meet the evolving needs of London's growing population while maintaining fiscal responsibility.
 
 ## Recent Meetings
 

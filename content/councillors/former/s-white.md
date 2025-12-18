@@ -6,14 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How did Sandy White's meeting attendance compare to other council members during the same period?"
+  - "What was Sandy White's attendance rate percentage compared to the total number of meetings they were eligible to attend during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on, and what were their primary responsibilities on each committee?"
+  - "Did Sandy White seek re-election after their 2011-2014 term, and if not, what were their stated reasons for not continuing in municipal politics?"
 ---
 
-Sandy White served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 164 meetings during their four-year term. White was involved in committee work, serving on five different committees throughout their tenure on council, though the specific committee names are not clearly displayed in the available data.
+Sandy White served on London City Council from 2011 to 2014, representing a single four-year term. During this period, White demonstrated active participation by attending 164 meetings. White served on five different committees during their tenure, though the specific names of these committees are not clearly identified in the available data.
 
-Their participation spanned one full council term, during which they maintained consistent meeting attendance and contributed to the committee structure that supports London City Council's governance and decision-making processes.
+White's participation shows consistent engagement with council duties over their four-year term, with their meeting attendance suggesting regular involvement in municipal governance and committee work throughout their time in office.
 
 ## Terms of Service
 

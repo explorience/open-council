@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "What is Shawn Lewis's voting record on major municipal issues and budget decisions?"
   - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Shawn Lewis's voting pattern on major municipal issues and budget decisions?"
 ---
 
-Shawn Lewis has served on London City Council from 2018-2025, demonstrating significant engagement through attendance at 495 meetings during this period. Their council participation includes service on eight different committees, indicating involvement across multiple areas of municipal governance and policy development.
+Shawn Lewis has been an active member of London City Council in Canada, serving from 2018 to 2025. During this period, they have demonstrated strong participation by attending 495 council meetings. Lewis has served on eight different committees throughout their tenure, indicating broad involvement across various areas of municipal governance and policy development.
 
-Lewis's seven-year tenure and high meeting attendance suggest consistent participation in the council's work. Their committee involvement across eight different bodies indicates a broad range of municipal responsibilities and contributions to various aspects of city governance during their time in office.
+Their consistent meeting attendance and extensive committee participation suggests a high level of engagement with council business over their seven-year term. This level of involvement represents substantial dedication to municipal governance and constituent representation during their time on London City Council.
 
 ## Terms of Service
 

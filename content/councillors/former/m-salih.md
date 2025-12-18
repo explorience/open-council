@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Mo Salih serve on and what were their primary areas of focus or expertise?"
-  - "Did Mo Salih hold any leadership positions such as committee chair or deputy mayor during their time on council?"
+  - "What was Mo Salih's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during their 2014-2022 tenure?"
+  - "Which specific committees did Mo Salih serve on, and what was their attendance rate and level of participation in committee work versus general council meetings?"
+  - "How did Mo Salih's voting patterns align with other council members, and were there particular issues where they frequently voted in opposition to the majority?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent civic engagement over an eight-year period. During their tenure, they attended 350 council meetings, indicating active participation in municipal governance and decision-making processes.
+Mo Salih served on London City Council in Canada for approximately 8 years, from 2014 to 2022. During their tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was actively involved in committee work, serving on four different committees throughout their time on council, though the specific names of these committees are not clearly identified in the available data.
 
-Throughout their time on council, Salih served on four different committees, though the specific committee names are not clearly indicated in the available data. Their eight-year service span suggests they were re-elected at least once during their time in municipal politics, showing sustained community support for their representation on London City Council.
+Their extended service period and high meeting attendance suggests regular engagement with municipal governance and council responsibilities. The multi-year commitment from 2014 to 2022 indicates they likely served multiple terms, representing their constituents through various municipal issues and decisions that came before London City Council during that period.
 
 ## Terms of Service
 

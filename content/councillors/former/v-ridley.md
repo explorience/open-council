@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Virginia Ridley's voting record on key municipal issues during her 2014-2018 term?"
-  - "Which specific committees did she serve on and what roles did she play in those committees?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What was Virginia Ridley's voting attendance rate and how did it compare to other council members during the 2014-2018 term?"
+  - "Which specific committees did Virginia Ridley serve on and what were her key contributions or initiatives within those committees?"
+  - "How did Virginia Ridley vote on major municipal issues such as budget approvals, development projects, or policy changes during her time on council?"
 ---
 
-Virginia Ridley served on London City Council, Canada from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. She was actively involved in the committee structure of the council, serving on six different committees throughout her term, though the specific names of these committees are not clearly indicated in the available data.
+Virginia Ridley served on London City Council from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. She was an active committee member, serving on six different committees throughout her time on council, indicating broad engagement across various municipal policy areas and administrative functions.
 
-Her attendance record and committee involvement suggest she was an engaged member of council who participated regularly in both general council sessions and specialized committee work during her four years of service.
+Her attendance record and committee involvement suggest she was an engaged council member who participated regularly in both the formal council meeting process and the detailed committee work that supports municipal governance. The scope of her committee participation shows she contributed to multiple aspects of city operations during her single term on council.
 
 ## Terms of Service
 

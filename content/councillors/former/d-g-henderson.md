@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on key municipal issues like budget approval, development projects, and infrastructure spending during their 2011-2014 term?"
-  - "Which specific committees did Dale Henderson serve on, and what was their level of participation in committee meetings versus full council sessions?"
-  - "How did Dale Henderson's attendance rate of 142 meetings compare to other council members during the same period, and were there any notable absences during important votes?"
+  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their role or contribution to those committees?"
+  - "How did Henderson's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, representing a single term of municipal service. During this four-year period, Henderson demonstrated active participation by attending 142 council meetings. Henderson served on four committees during their tenure, though the specific names of these committees are not clearly indicated in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during their term. Henderson's council involvement included service on four committees, though the specific committee details are not clearly specified in the available data. Their three-year tenure represents one full municipal term of service.
 
-Henderson's attendance record suggests consistent engagement with council business throughout their term. Their committee involvement indicates participation in the detailed policy work that occurs outside of full council sessions, contributing to the municipal decision-making process during the 2011-2014 council term.
+Henderson's meeting attendance of 142 sessions over the 2011-2014 period indicates regular engagement with council business and municipal governance responsibilities during their time as an elected representative on London City Council.
 
 ## Terms of Service
 

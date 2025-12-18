@@ -6,14 +6,14 @@ meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Ed Holder's voting record on major city budget decisions during his 2018-2022 term?"
-  - "How did his attendance rate of 313 meetings compare to other council members during the same period?"
-  - "What specific committees did he serve on and what were his key contributions or positions on committee matters?"
+  - "What was Ed Holder's voting record on major city budget decisions and tax rate changes during his 2018-2022 term?"
+  - "Which specific committees did Ed Holder serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Ed Holder's meeting attendance rate compare to other council members during the same period, and were there any notable absences during key votes?"
 ---
 
-Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings over his four-year term. During his tenure, he served on six different committees, showing broad involvement across various council functions and municipal responsibilities.
+Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings during his four-year term. His council service included membership on six different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement with council business throughout his tenure.
 
-His consistent meeting attendance and multi-committee involvement suggests regular engagement with council business throughout his term. The four-year period represents a full municipal term, indicating he completed his elected mandate on London City Council.
+His participation spanned a full council term, indicating he completed his elected mandate during this period. The substantial number of meetings attended reflects regular involvement in both regular council sessions and committee work across multiple municipal portfolios.
 
 ## Terms of Service
 

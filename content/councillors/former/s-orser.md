@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major budget decisions during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "Did Stephen Orser run for re-election after his 2011-2014 term, and if so, what was the outcome?"
+  - "What was Stephen Orser's voting record on key municipal issues during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on and what were his contributions to each?"
+  - "How did his meeting attendance rate of 112 meetings compare to other councillors serving during the same period?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, completing one full term. During his four-year tenure, he attended 112 council meetings, demonstrating regular participation in the city's legislative proceedings. He served on four different committees during his time on council, though the specific committee names are not clearly indicated in the available data.
+Stephen Orser served on London City Council from 2011 to 2014, representing a four-year term during which he attended 112 council meetings. During his tenure, he participated in the work of four different committees, demonstrating active engagement in various aspects of municipal governance. His meeting attendance record shows consistent participation in council proceedings throughout his term.
 
-His attendance record shows consistent engagement with council business over the course of his term. As a councillor serving during the early 2010s, Orser would have participated in decision-making during a period of municipal governance that spanned local issues affecting London residents during that timeframe.
+His service spanned one full municipal term, as London City Council operates on four-year election cycles. The 112 meetings attended over this period reflects regular involvement in both council sessions and committee work during his time as a councillor.
 
 ## Terms of Service
 

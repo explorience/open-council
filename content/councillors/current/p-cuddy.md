@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting pattern on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
-  - "How often does Peter Cuddy speak or contribute during council debates, and what topics does he most frequently address?"
-  - "What specific committees does Peter Cuddy serve on, and has he taken on any leadership roles such as committee chair or vice-chair positions?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "Which specific committees does Peter Cuddy serve on, and what role does he play in committee leadership or decision-making?"
+  - "How does Peter Cuddy's meeting attendance rate compare to other London City Council members, and has his participation been consistent throughout his term?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his current term, he has demonstrated strong participation by attending 204 meetings. His council involvement extends beyond regular council sessions, as he has served on eight different committees, indicating broad engagement across various municipal policy areas and administrative functions.
+Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his council tenure, he has demonstrated strong participation by attending 204 meetings. His council involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
 
-His consistent meeting attendance and extensive committee participation suggest a dedicated approach to his council duties. The high number of meetings attended relative to his term length indicates regular engagement with council business and municipal governance responsibilities.
+His consistent meeting attendance and multi-committee participation suggests a committed approach to his council responsibilities during his current term. The substantial number of meetings attended over this period reflects regular engagement with council business and municipal decision-making processes.
 
 ## Terms of Service
 

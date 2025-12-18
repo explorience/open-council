@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members during her tenure?"
-  - "Which specific committees has she served on and what leadership roles, if any, has she held on these committees?"
-  - "How has her voting pattern aligned with council majority decisions versus minority positions throughout her years of service?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
+  - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members?"
+  - "Has Anna Hopkins held any leadership positions, such as committee chair roles, during her tenure on council?"
 ---
 
-Anna Hopkins has served on London City Council for over a decade, with her tenure spanning from 2014 to 2025. During this period, she has demonstrated consistent participation by attending 640 council meetings. Her service has included membership on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Anna Hopkins has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal service. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings across her years of service. Hopkins has participated on eight different committees during her time on council, indicating broad involvement across various areas of municipal governance and policy development.
 
-Hopkins' lengthy tenure and high meeting attendance record suggest sustained engagement with council duties and responsibilities. Her participation across multiple committees reflects the diverse range of issues and portfolios that city councillors typically handle in municipal government operations.
+Her extended service period of approximately 11 years, combined with her substantial meeting attendance record and multi-committee participation, suggests a committed approach to her role as a city councillor. The breadth of her committee involvement likely provided her with experience across different aspects of municipal operations and decision-making processes.
 
 ## Terms of Service
 

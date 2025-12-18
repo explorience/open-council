@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his 8 years on council?"
-  - "Which specific committees did Stephen Turner chair or serve on, and what were his key contributions to committee work?"
-  - "How did Stephen Turner's voting patterns align with other council members, and were there particular issues where he frequently voted differently from the majority?"
+  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his eight years on council?"
+  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Stephen Turner's meeting attendance compare to other council members during his tenure from 2014-2022?"
 ---
 
-Stephen Turner served on London City Council from 2014 to 2022, spanning approximately 8 years of municipal service. During his tenure, he demonstrated consistent participation by attending 417 council meetings. Turner was actively involved in committee work, serving on 7 different committees throughout his time on council, though the specific names of these committees are not clearly displayed in the available data.
+Stephen Turner served on London City Council, Canada for eight years from 2014 to 2022. During his tenure, he demonstrated consistent engagement with council duties, attending 417 meetings over the course of his service. Turner participated on seven different committees throughout his time on council, indicating broad involvement across various municipal portfolios and policy areas.
 
-His attendance record suggests regular engagement with council business over nearly a decade of service. The substantial number of meetings attended indicates sustained participation in the legislative and decision-making processes of London City Council during his two-term period.
+His attendance record and committee participation suggest an active councilor who engaged regularly with the formal processes of municipal governance. The eight-year term span covers two full municipal election cycles, indicating he was re-elected during his service period.
 
 ## Terms of Service
 

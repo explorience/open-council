@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees has Steve Lehman served on, and what has been his attendance rate and level of participation in committee work?"
-  - "How does Steve Lehman's meeting attendance rate of 386 meetings compare to other council members during the same period, and has he missed any significant votes?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Steve Lehman served on and what roles or leadership positions has he held within those committees?"
+  - "How has Steve Lehman's participation and committee involvement evolved throughout his term from 2018 to 2025?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 meetings. His council involvement extends beyond general council sessions, as he has served on six different committees, indicating broad engagement across various municipal governance areas.
+Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time in office, indicating a broad engagement with various aspects of municipal governance.
 
-Lehman's seven-year term on council shows sustained commitment to municipal politics in London. His high meeting attendance record of 386 meetings suggests regular participation in the democratic processes of the city. His service on multiple committees indicates he has taken on additional responsibilities beyond basic council duties, contributing to the detailed work that committees perform in municipal government.
+Lehman's seven-year term on council represents substantial experience in local government, with his high meeting attendance record suggesting dedicated participation in the council's deliberative processes. His committee involvement across multiple areas demonstrates his engagement with the detailed work that supports council decision-making.
 
 ## Terms of Service
 

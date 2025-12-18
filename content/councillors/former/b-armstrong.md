@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on major municipal issues like budget approvals, development projects, or transportation initiatives?"
-  - "How frequently did Armstrong speak or propose motions during council meetings, and what were the main topics he focused on?"
-  - "What specific committees did Armstrong serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Bill Armstrong's attendance rate percentage and how did it compare to other council members during his 2012-2018 term?"
+  - "Which specific committees did Armstrong serve on and did he hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Armstrong typically vote on major municipal issues like budget approvals, development projects, and policy changes during his six years on council?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was actively involved in the committee structure of the council, serving on five different committees throughout his time in office, though the specific names of these committees are not clearly identified in the available data.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year term. During his time on council, he attended 245 meetings, demonstrating consistent participation in municipal governance. Armstrong served on five different committees throughout his tenure, though the specific committee names are not clearly displayed in the available data.
 
-His six-year term and substantial meeting attendance record suggests regular engagement with municipal governance and council responsibilities during his time representing constituents on London City Council.
+His attendance record of 245 meetings over six years suggests regular engagement with council business and municipal decision-making processes. Armstrong's committee involvement indicates he took on additional responsibilities beyond general council duties, contributing to the specialized work that committees perform in municipal government.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on major municipal issues like budget approvals, development projects, and city planning initiatives?"
-  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did his attendance rate of 461 meetings compare to other council members during the same 2014-2022 period?"
+  - "What was Michael van Holst's voting pattern on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
+  - "How frequently did he vote differently from the majority of council members, and on what types of issues did he most often dissent?"
+  - "What specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, spanning an 8-year period of municipal service. During his tenure, he demonstrated consistent participation by attending 461 council meetings and served on 8 different committees, indicating active engagement in the city's governance and decision-making processes.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal functions and policy areas.
 
-His extensive meeting attendance record and multi-committee involvement suggests he was a regular and active participant in London's municipal government throughout his two terms on council. The breadth of his committee service indicates involvement across various aspects of city administration and policy development during his time as an elected representative.
+His sustained participation over two full terms suggests a committed approach to municipal governance, with his meeting attendance and committee involvement reflecting active engagement in the city's decision-making processes throughout his council service.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting record on major city budget decisions during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for each committee?"
-  - "How did his voting patterns align with other council members on key municipal issues like development, transportation, or public services?"
+  - "What was Bud Polhill's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what were their primary responsibilities on each committee?"
+  - "How did Polhill's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, completing a four-year term. During this period, he attended 199 council meetings, demonstrating active participation in municipal governance. Polhill served on five different committees during his tenure, though the specific committee names are not clearly displayed in the available data.
+Bud Polhill served on London City Council from 2011 to 2014, completing a four-year term during this period. Throughout their tenure, they maintained active participation by attending 199 council meetings. Polhill was involved in committee work, serving on five different committees during their time in office, though the specific names of these committees are not clearly indicated in the available data.
 
-His attendance record shows consistent engagement with council business over the four-year period, averaging approximately 50 meetings per year. This level of participation indicates regular involvement in the decision-making processes of London's municipal government during his term from 2011 to 2014.
+Their consistent meeting attendance over the four-year period suggests regular engagement with council business and municipal governance responsibilities. The committee involvement demonstrates participation in the detailed policy and administrative work that typically occurs at the committee level before matters proceed to full council consideration.
 
 ## Terms of Service
 

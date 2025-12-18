@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and in what capacity (chair, vice-chair, or member)?"
-  - "Has his committee participation or meeting attendance patterns changed significantly across different terms of office from 2011 to 2025?"
+  - "What is Paul Van Meerbergen's voting record on key municipal issues such as budget approvals, development projects, and public services?"
+  - "How frequently did he miss council meetings or committee sessions, and what was his overall attendance rate?"
+  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating sustained civic engagement over a 14-year period. During his tenure, he has attended 499 council meetings and participated on seven different committees, indicating active involvement in the council's work and committee structure.
+Paul Van Meerbergen has been an active member of London City Council for approximately 14 years, serving from 2011 to 2025. During his tenure, he has demonstrated consistent participation by attending 499 council meetings. His involvement extends beyond regular council sessions, as he has served on seven different committees throughout his time in office, indicating a broad engagement with various municipal issues and governance areas.
 
-His long-term service and high meeting attendance suggest consistent participation in London's municipal governance. The breadth of his committee involvement across seven different committees indicates engagement with various aspects of city administration and policy development throughout his time on council.
+Van Meerbergen's extensive meeting attendance record and multi-committee service suggests a committed approach to municipal governance over more than a decade of public service. His long tenure on council, spanning multiple terms, reflects either re-election by constituents or appointment to various roles within the municipal government structure.
 
 ## Terms of Service
 

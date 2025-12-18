@@ -6,14 +6,14 @@ meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Nancy Branscombe's voting record on key municipal issues like budget approvals, development projects, and bylaw changes during her 2011-2014 term?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did her meeting attendance rate of 119 meetings compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What specific committees did Nancy Branscombe serve on during her time on London City Council?"
+  - "What was her voting record on major municipal issues and bylaws during her 2011-2014 term?"
+  - "How did her meeting attendance rate of 119 meetings compare to other council members serving during the same period?"
 ---
 
-Nancy Branscombe served on London City Council from 2011 to 2014, during which time she attended 119 council meetings. Over the course of her four-year term, she participated on eight different committees, demonstrating active involvement in various aspects of municipal governance. Her meeting attendance record shows consistent participation in council proceedings throughout her tenure.
+Nancy Branscombe served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her tenure. Over the course of her four-year term, she served on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city.
 
-Her service spanned one full term on London City Council, where she balanced her responsibilities across multiple committee assignments while maintaining regular attendance at council meetings. The breadth of her committee involvement suggests engagement with diverse municipal issues during her time in office.
+Her consistent meeting attendance and extensive committee participation suggest she maintained an engaged role in council proceedings throughout her term from 2011 to 2014.
 
 ## Terms of Service
 

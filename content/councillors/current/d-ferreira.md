@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "What is David Ferreira's voting attendance rate and how does it compare to other council members?"
-  - "Has David Ferreira taken any leadership roles, such as committee chair positions, during his council tenure?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
+  - "Which specific committees does David Ferreira serve on, and what has been his attendance rate for each committee?"
+  - "How does David Ferreira's meeting attendance rate of 208 meetings compare to other council members and the expected number of meetings during his term?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated consistent engagement with council duties, attending 208 meetings. His council participation extends beyond general council meetings, as he has served on eight different committees, indicating broad involvement across various municipal governance areas.
+David Ferreira has been an active member of London City Council, Canada, serving during the 2022-2025 term. During this period, he has demonstrated consistent engagement with council duties, attending 208 meetings. His council participation includes service on eight different committees, indicating broad involvement across various municipal portfolios and responsibilities.
 
-Ferreira's participation record shows regular attendance and committee involvement throughout his term. With 208 meetings attended over approximately three years of service, this suggests a high level of engagement with council business and municipal decision-making processes.
+Ferreira's attendance record and committee participation suggest a commitment to the council's work throughout his term. His involvement in multiple committees shows engagement with diverse aspects of municipal governance, though the specific nature of these committees is not detailed in the available information.
 
 ## Terms of Service
 
