@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members?"
-  - "Has Anna Hopkins held any leadership positions, such as committee chair roles, during her tenure on council?"
+  - "How does Anna Hopkins' meeting attendance rate compare to other council members during the same period?"
+  - "What has been Anna Hopkins' voting pattern on key municipal issues such as budget approvals, development projects, or policy changes?"
 ---
 
-Anna Hopkins has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal service. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings across her years of service. Hopkins has participated on eight different committees during her time on council, indicating broad involvement across various areas of municipal governance and policy development.
+Anna Hopkins has served on London City Council, Canada for over a decade, with active participation spanning from 2014 to 2025. During her tenure, she has demonstrated consistent engagement by attending 640 meetings, indicating regular participation in council proceedings. Hopkins has served on eight different committees throughout her time on council, suggesting broad involvement across various municipal portfolios and policy areas.
 
-Her extended service period of approximately 11 years, combined with her substantial meeting attendance record and multi-committee participation, suggests a committed approach to her role as a city councillor. The breadth of her committee involvement likely provided her with experience across different aspects of municipal operations and decision-making processes.
+Her extended service period and high meeting attendance record reflect sustained commitment to her council duties. The multiple committee appointments indicate she has taken on diverse responsibilities within the council structure, contributing to different aspects of municipal governance over her years of service.
 
 ## Terms of Service
 

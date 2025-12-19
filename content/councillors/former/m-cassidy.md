@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting attendance rate and were there any notable patterns in her voting behavior on key municipal issues?"
-  - "Which specific committees did she serve on and did she hold any chair or vice-chair positions during her tenure?"
-  - "How did her meeting attendance and committee participation compare to other council members serving during the same period?"
+  - "What was Maureen Cassidy's voting record on major city budget decisions during her 2014-2022 tenure?"
+  - "Which specific committees did she serve on and what leadership roles, if any, did she hold within those committees?"
+  - "How did her attendance rate of 536 meetings compare to other council members during the same period?"
 ---
 
-Maureen Cassidy served on London City Council in Canada from 2014 to 2022, spanning an eight-year period of municipal service. During her tenure, she demonstrated consistent engagement by attending 536 council meetings. Her council participation included serving on seven different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Maureen Cassidy served on London City Council from 2014 to 2022, spanning an eight-year period of municipal service. During her tenure, she demonstrated consistent participation by attending 536 council meetings and served on seven different committees, indicating active involvement in various aspects of city governance and decision-making processes.
 
-Her extensive meeting attendance record and multi-committee service suggests active participation in London's municipal decision-making processes throughout her two terms on council. The substantial number of meetings attended over her eight-year service period reflects regular engagement with the council's legislative and administrative responsibilities.
+Her sustained attendance record and multi-committee participation suggest she was an engaged council member who contributed to the legislative and administrative functions of London's municipal government throughout her two terms in office.
 
 ## Terms of Service
 

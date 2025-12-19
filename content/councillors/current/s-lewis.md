@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "What is Shawn Lewis's voting record on major municipal issues and budget decisions?"
-  - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
+  - "How does Shawn Lewis's attendance rate of 495 meetings compare to other council members during the same period?"
+  - "What has been Shawn Lewis's voting pattern on major city issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Shawn Lewis has been an active member of London City Council in Canada, serving from 2018 to 2025. During this period, they have demonstrated strong participation by attending 495 council meetings. Lewis has served on eight different committees throughout their tenure, indicating broad involvement across various areas of municipal governance and policy development.
+Shawn Lewis has been an active member of London City Council from 2018 to 2025, demonstrating significant engagement through attendance at 495 meetings during this period. Their participation spans approximately seven years of municipal service, during which they have served on eight different committees, indicating broad involvement across various areas of city governance and policy development.
 
-Their consistent meeting attendance and extensive committee participation suggests a high level of engagement with council business over their seven-year term. This level of involvement represents substantial dedication to municipal governance and constituent representation during their time on London City Council.
+Lewis's substantial meeting attendance record and extensive committee participation suggests consistent dedication to their council responsibilities throughout their tenure. Their service across multiple committees indicates engagement with diverse municipal issues and a willingness to contribute to various aspects of city administration and decision-making processes.
 
 ## Terms of Service
 

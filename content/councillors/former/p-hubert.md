@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "What were the key issues or initiatives that Paul Hubert voted on during his time on council, particularly any tie-breaking or decisive votes?"
+  - "What was Paul Hubert's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Paul Hubert's attendance rate compare to other council members during his time in office, and were there any notable absences from important votes or meetings?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, spanning approximately 7-8 years of municipal service. During his tenure, he demonstrated consistent engagement by attending 363 council meetings, which indicates regular participation in the city's governance processes.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and policy areas.
 
-Throughout his time on council, Hubert served on 8 different committees, showing broad involvement across various areas of municipal responsibility. His extended service period and substantial meeting attendance record suggest he was an active participant in London's municipal decision-making processes during his nearly decade-long tenure.
+His multi-year service and extensive meeting attendance suggests he was an active participant in the council's deliberative processes throughout his tenure. The range of committee assignments reflects engagement with diverse aspects of municipal governance during his seven years of service.
 
 ## Terms of Service
 

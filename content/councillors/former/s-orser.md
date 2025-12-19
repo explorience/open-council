@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on key municipal issues during his 2011-2014 term?"
-  - "Which specific committees did Stephen Orser serve on and what were his contributions to each?"
-  - "How did his meeting attendance rate of 112 meetings compare to other councillors serving during the same period?"
+  - "What was Stephen Orser's voting pattern on key budget decisions during his 2011-2014 term?"
+  - "Which specific committees did he serve on and what was his attendance record for committee meetings versus regular council meetings?"
+  - "Did he sponsor or champion any particular motions or initiatives during his four years on council?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, representing a four-year term during which he attended 112 council meetings. During his tenure, he participated in the work of four different committees, demonstrating active engagement in various aspects of municipal governance. His meeting attendance record shows consistent participation in council proceedings throughout his term.
+Stephen Orser served on London City Council from 2011-2014, completing a full four-year term. During this period, he attended 112 council meetings, demonstrating consistent participation in the city's governance processes. He served on four different committees during his tenure, though the specific committee names are not clearly indicated in the available data.
 
-His service spanned one full municipal term, as London City Council operates on four-year election cycles. The 112 meetings attended over this period reflects regular involvement in both council sessions and committee work during his time as a councillor.
+His attendance record of 112 meetings over the four-year period suggests regular engagement with council business and municipal affairs. As a council member during this timeframe, he would have participated in decisions affecting London's municipal operations, budget deliberations, and various policy matters that came before council during the early 2010s.
 
 ## Terms of Service
 

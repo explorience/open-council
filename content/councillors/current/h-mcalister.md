@@ -6,14 +6,14 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has McAlister served on and what roles did they hold on those committees?"
-  - "How many motions or initiatives has McAlister introduced or sponsored during their time on council?"
+  - "What is Hadleigh McAlister's voting record on key municipal issues during their 2022-2025 term?"
+  - "Which specific committees has McAlister served on, and what role did they play in committee work?"
+  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members during the same period?"
 ---
 
-Hadleigh McAlister has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various municipal areas and responsibilities.
+Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance and multi-committee participation suggests consistent engagement in the council's work across their term.
 
-McAlister's meeting attendance record of 203 sessions over their three-year term suggests consistent participation in council proceedings. Their committee involvement across multiple areas indicates they have taken on diverse responsibilities within the council structure during their tenure.
+McAlister's tenure spans the current council term, indicating they are either in their first term or were re-elected for the 2022-2025 period. Their participation across multiple committees shows involvement in various aspects of municipal governance and policy development.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus regular council meetings?"
-  - "How did her 168 meeting attendance compare to other council members during the same period - was this above or below average participation?"
+  - "What was Judy Bryant's voting pattern on major budget decisions during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what leadership roles, if any, did she hold within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 168 council meetings. Bryant was actively involved in committee work, serving on six different committees throughout her time on council, though the specific names of these committees are not clearly displayed in the available data.
+Judy Bryant served on London City Council from 2011 to 2014, spanning one four-year term. During her tenure, she demonstrated active participation by attending 168 council meetings. Bryant served on six different committees throughout her time on council, indicating broad involvement in various municipal matters and policy areas.
 
-Her attendance record suggests regular engagement with council business over the course of her term. As a council member during this period, she would have participated in municipal decision-making processes, budget deliberations, and various policy discussions affecting the City of London during the early 2010s.
+Her meeting attendance record shows consistent engagement with council business over the four-year period. The committee work suggests she took on responsibilities across multiple areas of municipal governance, though the specific nature of these committees is not detailed in the available data.
 
 ## Terms of Service
 

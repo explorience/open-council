@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members?"
-  - "Has Steve Hillier held any leadership positions on committees or council during his tenure from 2018-2025?"
+  - "What is Steve Hillier's voting record on major municipal issues like budget approvals, development projects, and infrastructure investments?"
+  - "How often has Steve Hillier been absent from council meetings, and what is his attendance rate compared to other council members?"
+  - "Which specific committees has Steve Hillier served on, and has he held any leadership positions such as committee chair or vice-chair?"
 ---
 
-Steve Hillier has been an active member of London City Council from 2018 to 2025, demonstrating significant engagement through his attendance at 453 council meetings over this period. His participation extends beyond general council meetings, as he has served on seven different committees during his tenure, indicating broad involvement across various areas of municipal governance.
+Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated significant engagement with council business, attending 453 meetings over his years of service. His participation extends beyond general council meetings, as he has served on seven different committees during his time on council, indicating broad involvement in various aspects of municipal governance.
 
-This level of meeting attendance and committee participation suggests a high degree of commitment to his council duties, with Hillier maintaining consistent engagement throughout his years of service on London City Council.
+His consistent attendance at meetings and multi-committee participation suggests a hands-on approach to his council responsibilities. With his term spanning seven years, Hillier has maintained steady involvement in London's municipal decision-making processes throughout his service period.
 
 ## Terms of Service
 

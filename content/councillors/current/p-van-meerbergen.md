@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting record on key municipal issues such as budget approvals, development projects, and public services?"
-  - "How frequently did he miss council meetings or committee sessions, and what was his overall attendance rate?"
-  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other London City Council members?"
+  - "Which specific committees has he served on and what roles (chair, vice-chair, member) has he held on these committees?"
+  - "How has his committee participation and meeting attendance changed over his different terms from 2011 to 2025?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council for approximately 14 years, serving from 2011 to 2025. During his tenure, he has demonstrated consistent participation by attending 499 council meetings. His involvement extends beyond regular council sessions, as he has served on seven different committees throughout his time in office, indicating a broad engagement with various municipal issues and governance areas.
+Paul Van Meerbergen has served as a member of London City Council from 2011 to 2025, demonstrating sustained civic engagement over a 14-year period. During his tenure, he has attended 499 council meetings and has served on seven different committees, indicating active participation in the council's legislative and administrative processes.
 
-Van Meerbergen's extensive meeting attendance record and multi-committee service suggests a committed approach to municipal governance over more than a decade of public service. His long tenure on council, spanning multiple terms, reflects either re-election by constituents or appointment to various roles within the municipal government structure.
+His consistent attendance at meetings and committee involvement suggests a committed approach to municipal governance. The length of his service, spanning over a decade, indicates he has likely been re-elected multiple times, reflecting constituent support for his council participation.
 
 ## Terms of Service
 

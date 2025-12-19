@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development projects, and policy changes?"
-  - "Which specific committees does David Ferreira serve on, and what has been his attendance rate for each committee?"
-  - "How does David Ferreira's meeting attendance rate of 208 meetings compare to other council members and the expected number of meetings during his term?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and city planning initiatives?"
+  - "How often does David Ferreira miss committee meetings, and what is his participation rate compared to other council members?"
+  - "What specific committees does David Ferreira serve on, and has he taken any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving during the 2022-2025 term. During this period, he has demonstrated consistent engagement with council duties, attending 208 meetings. His council participation includes service on eight different committees, indicating broad involvement across various municipal portfolios and responsibilities.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated consistent participation by attending 208 meetings. His council involvement extends beyond general meetings, as he has served on eight different committees, indicating broad engagement across various municipal functions and policy areas.
 
-Ferreira's attendance record and committee participation suggest a commitment to the council's work throughout his term. His involvement in multiple committees shows engagement with diverse aspects of municipal governance, though the specific nature of these committees is not detailed in the available information.
+Ferreira's participation record shows a commitment to the procedural and administrative aspects of municipal governance through his regular meeting attendance and diverse committee involvement. His service span covers the current council term, positioning him as part of the contemporary governing body responsible for London's municipal affairs.
 
 ## Terms of Service
 

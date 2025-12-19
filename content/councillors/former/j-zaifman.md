@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on key municipal issues during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what was his role or contributions to those committees?"
-  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What was Jared Zaifman's voting attendance rate and how did it compare to other council members during 2014-2018?"
+  - "Which specific committees did he serve on and what were his key contributions or leadership roles within those committees?"
+  - "How did he vote on major municipal issues like budget approvals, development projects, or policy changes during his four-year term?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated active participation by attending 142 council meetings. He served on four different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
+Jared Zaifman served on London City Council for a four-year term from 2014 to 2018. During this period, he demonstrated consistent participation by attending 142 council meetings. He was an active committee member, serving on four different committees throughout his tenure, though the specific committee names are not clearly displayed in the available data.
 
-His attendance record and committee involvement suggest consistent engagement in the council's work throughout his term. The 142 meetings attended over a four-year period indicates regular participation in the city's governance and decision-making processes.
+His participation record shows regular engagement with council business over the full four-year term, indicating steady involvement in municipal governance and decision-making processes during his time representing his constituents on London City Council.
 
 ## Terms of Service
 

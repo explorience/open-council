@@ -6,14 +6,14 @@ meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Ed Holder's voting record on major city budget decisions and tax rate changes during his 2018-2022 term?"
-  - "Which specific committees did Ed Holder serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Ed Holder's meeting attendance rate compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What was Ed Holder's voting record on key municipal issues like budget approval, development projects, and public transit initiatives?"
+  - "Which specific committees did Ed Holder serve on, and what was his level of participation or leadership role within those committees?"
+  - "How did Ed Holder's attendance rate of 313 meetings compare to other council members during the same 2018-2022 period?"
 ---
 
-Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings during his four-year term. His council service included membership on six different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance suggests consistent engagement with council business throughout his tenure.
+Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings during his four-year term. Throughout his tenure, he served on six different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-His participation spanned a full council term, indicating he completed his elected mandate during this period. The substantial number of meetings attended reflects regular involvement in both regular council sessions and committee work across multiple municipal portfolios.
+His consistent meeting attendance and multi-committee participation suggests engaged civic involvement during his council term, contributing to the deliberative processes that guide London's municipal decision-making across multiple policy areas.
 
 ## Terms of Service
 

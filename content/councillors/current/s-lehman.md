@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Steve Lehman served on and what roles or leadership positions has he held within those committees?"
-  - "How has Steve Lehman's participation and committee involvement evolved throughout his term from 2018 to 2025?"
+  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation remained consistent throughout his term?"
+  - "What specific roles or leadership positions has he held on the six committees he has served on during his time on council?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time in office, indicating a broad engagement with various aspects of municipal governance.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. Over his tenure, he has served on six different committees, indicating broad involvement across various areas of municipal governance. His seven-year term on council shows sustained engagement in local government activities.
 
-Lehman's seven-year term on council represents substantial experience in local government, with his high meeting attendance record suggesting dedicated participation in the council's deliberative processes. His committee involvement across multiple areas demonstrates his engagement with the detailed work that supports council decision-making.
+His meeting attendance record of 386 meetings suggests consistent participation in council proceedings throughout his time in office. The committee involvement across multiple areas indicates he has taken on diverse responsibilities within the council structure during his tenure from 2018 through 2025.
 
 ## Terms of Service
 

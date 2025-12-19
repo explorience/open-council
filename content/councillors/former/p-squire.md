@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's attendance rate and how did it compare to other council members during the same period?"
-  - "Which specific committees did Phil Squire serve on and what policy areas did these committees oversee?"
-  - "What was Phil Squire's voting record on major city issues such as budget approvals, development projects, or municipal services during their time on council?"
+  - "What was Phil Squire's voting record on major municipal issues like budget approvals, development projects, and bylaw changes during their time on council?"
+  - "Which specific committees did Phil Squire serve on, and what was their level of participation and leadership roles within those committees?"
+  - "How did Phil Squire's attendance rate of 372 meetings compare to other council members during the same period, and were there any notable absences during critical votes?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, demonstrating consistent participation over a seven-year period. During their tenure, they attended 372 council meetings and served on six different committees, indicating active engagement in the council's work and committee system.
+Phil Squire served on London City Council, Canada from 2014 to 2021, representing nearly eight years of municipal government service. During this tenure, Squire demonstrated consistent participation by attending 372 council meetings and served on six different committees, though the specific committee details are not clearly readable in the available data.
 
-Their participation spanned nearly two full council terms, suggesting they were re-elected during this period. The high number of meeting attendances over seven years reflects regular involvement in council proceedings and decision-making processes.
+Squire's extended service period spanning from 2014 to 2021 suggests they served at least two full council terms, indicating voter confidence in their representation. Their attendance at 372 meetings over approximately seven years reflects regular engagement with council business and municipal decision-making processes.
 
 ## Terms of Service
 

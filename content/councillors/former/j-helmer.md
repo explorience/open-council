@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as committee chair or vice-chair?"
-  - "What were the key issues or policy areas where Jesse Helmer took prominent positions or cast decisive votes during their time on council?"
+  - "What specific committees did Jesse Helmer serve on during their time on London City Council?"
+  - "How does their meeting attendance rate compare to other council members during the same period?"
+  - "What was their voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, they served on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, they served on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Their sustained presence on council for two full terms suggests active engagement in London's municipal decision-making processes, with their committee participation reflecting involvement in the detailed work that supports council's broader legislative and policy functions.
+Their extended service spanning two full council terms suggests sustained community engagement and commitment to municipal affairs. The substantial meeting attendance record reflects active participation in council proceedings throughout their time in office.
 
 ## Terms of Service
 

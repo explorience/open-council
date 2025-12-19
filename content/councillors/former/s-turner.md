@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his eight years on council?"
-  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Stephen Turner's meeting attendance compare to other council members during his tenure from 2014-2022?"
+  - "What was Stephen Turner's attendance rate at council meetings compared to other council members during his tenure?"
+  - "Which specific committees did Stephen Turner serve on and what were his roles or contributions to those committees?"
+  - "How did Stephen Turner vote on major municipal issues such as budget approvals, development proposals, or policy changes during his time on council?"
 ---
 
-Stephen Turner served on London City Council, Canada for eight years from 2014 to 2022. During his tenure, he demonstrated consistent engagement with council duties, attending 417 meetings over the course of his service. Turner participated on seven different committees throughout his time on council, indicating broad involvement across various municipal portfolios and policy areas.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active engagement in the council's work and committee structure.
 
-His attendance record and committee participation suggest an active councilor who engaged regularly with the formal processes of municipal governance. The eight-year term span covers two full municipal election cycles, indicating he was re-elected during his service period.
+His participation spanned two full council terms, suggesting he was re-elected during this period. The substantial number of meetings attended and multiple committee appointments reflect regular involvement in London's municipal governance and decision-making processes.
 
 ## Terms of Service
 

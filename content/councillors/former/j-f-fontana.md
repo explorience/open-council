@@ -6,14 +6,14 @@ meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Fontana's voting record on key municipal issues like budget approvals, development proposals, and major city initiatives during his 2011-2014 term?"
-  - "Which specific committees did Joe Fontana serve on, and did he hold any chair or vice-chair positions on these committees?"
-  - "How did his 139 meeting attendance compare to other council members during the same period, and did he miss any significant votes or decisions?"
+  - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the 2011-2014 period?"
+  - "Which specific committees did he serve on and what were his primary areas of focus or expertise?"
+  - "How did his participation change over the course of his term, and were there any notable absences or patterns in his meeting attendance?"
 ---
 
-Joe Fontana served on London City Council from 2011 to 2014, during which time he attended 139 council meetings. His tenure spanned approximately three years, demonstrating consistent participation in council proceedings. Throughout his time on council, Fontana served on seven different committees, indicating broad involvement across various municipal portfolios and policy areas.
+Joe Fontana served on London City Council from 2011 to 2014, during which time he attended 139 meetings. His council participation spanned a three-year period and involved service on seven different committees, demonstrating active engagement in the city's governance structure. His meeting attendance record shows consistent participation in council proceedings throughout his term.
 
-His meeting attendance record and multi-committee involvement suggests active engagement in the council's work during his term. The 2011-2014 period represents a focused span of municipal service, with his participation spanning multiple committees showing involvement in diverse aspects of city governance.
+Based on the available data, Fontana maintained regular involvement in London's municipal government during his tenure, participating in both general council meetings and committee work across multiple areas of city business.
 
 ## Terms of Service
 

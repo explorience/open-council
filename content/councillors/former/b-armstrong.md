@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's attendance rate percentage and how did it compare to other council members during his 2012-2018 term?"
-  - "Which specific committees did Armstrong serve on and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Armstrong typically vote on major municipal issues like budget approvals, development projects, and policy changes during his six years on council?"
+  - "What was Bill Armstrong's voting record on major municipal issues during his 2012-2018 tenure?"
+  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "Did he hold any leadership positions within the committees he served on or take on any special roles during his time on council?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year term. During his time on council, he attended 245 meetings, demonstrating consistent participation in municipal governance. Armstrong served on five different committees throughout his tenure, though the specific committee names are not clearly displayed in the available data.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning approximately six years of municipal service. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was actively involved in committee work, serving on five different committees throughout his time on council, though the specific names of these committees are not clearly indicated in the available data.
 
-His attendance record of 245 meetings over six years suggests regular engagement with council business and municipal decision-making processes. Armstrong's committee involvement indicates he took on additional responsibilities beyond general council duties, contributing to the specialized work that committees perform in municipal government.
+His six-year term represents a substantial period of civic engagement, and his meeting attendance record suggests regular participation in the formal decision-making processes of London's municipal government. The combination of his meeting attendance and multiple committee assignments indicates he was an active participant in both the broader council deliberations and specialized committee work that forms the foundation of municipal governance.
 
 ## Terms of Service
 
