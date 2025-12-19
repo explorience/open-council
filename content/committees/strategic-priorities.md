@@ -4,7 +4,7 @@ type: committee
 slug: "strategic-priorities"
 meetingCount: 274
 prefillQuestions:
-  - "What specific criteria does the committee use to determine which issues qualify as "strategic priorities" requiring their review versus matters that can be handled by other committees or departments?"
+  - "What specific criteria does the committee use to determine which issues qualify as 'strategic priorities' requiring their review versus matters that can be handled by other committees or departments?"
   - "How does the public provide input to the Strategic Priorities and Policy Committee, and at what stage in the decision-making process can citizens most effectively influence the committee's recommendations?"
   - "What is the typical timeline from when an issue is first discussed by the Strategic Priorities and Policy Committee to when it becomes implemented city policy or action?"
 ---
