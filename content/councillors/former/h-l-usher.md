@@ -6,12 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
-  - "Which specific committees did Harold Usher serve on and what roles did he hold within those committees?"
-  - "What were the key issues or policy areas that Harold Usher focused on during his voting record on London City Council?"
+  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his 2011-2018 term?"
+  - "Which specific committees did Harold Usher serve on and what roles did he hold on those committees?"
+  - "How did Harold Usher vote on major municipal issues and budget decisions during his seven years on council?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating active participation throughout his tenure. During his seven years of service, he attended 403 council meetings and served on six different committees, indicating consistent engagement in the council's work and committee structure. His participation spanned nearly two full terms of municipal government, showing sustained commitment to municipal governance in London.
+Harold Usher served on London City Council, Canada from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent engagement with council business by attending 403 meetings. His participation extended beyond general council meetings through service on six different committees, indicating involvement in various aspects of municipal governance and policy development.
+
+His seven-year term represents a substantial period of civic service, with his meeting attendance record suggesting regular participation in the council's legislative and administrative processes. The breadth of his committee involvement shows engagement across multiple areas of municipal responsibility during his time as an elected representative.
 
 ## Terms of Service
 

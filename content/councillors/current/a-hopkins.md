@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "How does Anna Hopkins' meeting attendance rate compare to other council members during the same period?"
-  - "What has been Anna Hopkins' voting pattern on key municipal issues such as budget approvals, development projects, or policy changes?"
+  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Anna Hopkins' meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her tenure from 2014-2025?"
 ---
 
-Anna Hopkins has served on London City Council, Canada for over a decade, with active participation spanning from 2014 to 2025. During her tenure, she has demonstrated consistent engagement by attending 640 meetings, indicating regular participation in council proceedings. Hopkins has served on eight different committees throughout her time on council, suggesting broad involvement across various municipal portfolios and policy areas.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating significant involvement with a record of attending 640 meetings over her tenure. Her council participation spans more than a decade, indicating sustained civic engagement in municipal governance.
 
-Her extended service period and high meeting attendance record reflect sustained commitment to her council duties. The multiple committee appointments indicate she has taken on diverse responsibilities within the council structure, contributing to different aspects of municipal governance over her years of service.
+Hopkins has served on eight different committees during her time on council, showing broad participation across various areas of municipal responsibility. Her extensive meeting attendance record and multi-committee involvement suggests active engagement in the day-to-day operations and decision-making processes of London City Council.
 
 ## Terms of Service
 

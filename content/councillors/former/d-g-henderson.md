@@ -7,11 +7,13 @@ yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
   - "What was Dale Henderson's voting record on major municipal issues such as budget approvals, development projects, or infrastructure spending during their 2011-2014 term?"
-  - "Which specific committees did Dale Henderson serve on, and what was their level of participation and leadership role within those committees?"
-  - "How did Dale Henderson's meeting attendance rate of 142 meetings compare to other council members during the same 2011-2014 period, and were there any notable absences during key votes?"
+  - "Which specific committees did Dale Henderson serve on, and what was their attendance rate and level of participation in committee work versus regular council meetings?"
+  - "How did Dale Henderson's meeting attendance rate compare to other council members during the same period, and were there any notable absences during key votes or decisions?"
 ---
 
-Dale Henderson served on London City Council from 2011-2014, completing a four-year term during which they attended 142 council meetings. During their tenure, Henderson participated on four different committees, demonstrating active engagement in the committee structure of municipal government. Their meeting attendance record shows consistent participation in council proceedings throughout their term of service.
+Dale Henderson served on London City Council from 2011-2014, representing a four-year term during which they maintained active participation in council proceedings. Over this period, Henderson attended 142 council meetings, demonstrating consistent engagement with municipal governance. They served on four different committees during their tenure, though the specific committee names are not clearly identified in the available data.
+
+Henderson's participation spanned the full term from 2011 to 2014, indicating they completed their elected mandate. With an average of approximately 35-36 meetings per year, their attendance record suggests regular involvement in the city's decision-making processes throughout their time in office.
 
 ## Terms of Service
 

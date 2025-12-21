@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting record on major municipal issues like budget approvals, development projects, and infrastructure investments?"
-  - "How often has Steve Hillier been absent from council meetings, and what is his attendance rate compared to other council members?"
-  - "Which specific committees has Steve Hillier served on, and has he held any leadership positions such as committee chair or vice-chair?"
+  - "What is Steve Hillier's voting attendance rate and how often does he vote with the majority versus in dissent on council decisions?"
+  - "Which specific committees has he served on and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "How does his meeting attendance record of 453 meetings compare to other council members during the same period?"
 ---
 
-Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated significant engagement with council business, attending 453 meetings over his years of service. His participation extends beyond general council meetings, as he has served on seven different committees during his time on council, indicating broad involvement in various aspects of municipal governance.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 meetings. His council involvement extends beyond general council sessions, as he has served on seven different committees, indicating broad engagement across various municipal portfolios and issues facing the city.
 
-His consistent attendance at meetings and multi-committee participation suggests a hands-on approach to his council responsibilities. With his term spanning seven years, Hillier has maintained steady involvement in London's municipal decision-making processes throughout his service period.
+His seven-year term on council shows sustained commitment to municipal governance, with his high meeting attendance record suggesting regular participation in the formal decision-making processes of the city. The multiple committee assignments reflect his involvement in the detailed work of municipal government that occurs at the committee level before issues reach full council.
 
 ## Terms of Service
 

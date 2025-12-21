@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
-  - "How does Rahman's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Rahman's voting pattern on key municipal issues and bylaws brought before council?"
+  - "What is Corrine Rahman's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has she served on and what are her key contributions to committee work?"
+  - "How has her voting pattern aligned with or differed from the majority on significant municipal issues during her 2022-2025 term?"
 ---
 
-Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During her tenure, she has demonstrated strong participation by attending 216 council meetings. Rahman has served on eight different committees during her time on council, indicating broad involvement across various areas of municipal governance and policy-making.
+Corrine Rahman has served on London City Council from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Her council involvement extends beyond regular council meetings, as she has served on eight different committees throughout her term, indicating broad engagement across various municipal issues and policy areas.
 
-Her consistent meeting attendance and extensive committee participation suggest a high level of engagement with council duties and municipal affairs throughout her current term.
+Rahman's meeting attendance record suggests consistent participation in council proceedings during her current term. Her committee service across multiple areas reflects the collaborative nature of municipal governance, where councillors typically contribute to specialized committees that handle different aspects of city operations and policy development.
 
 ## Terms of Service
 

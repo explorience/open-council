@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for each committee?"
-  - "Did he sponsor or champion any particular bylaws or motions during his time on council?"
+  - "What was Joe Swan's voting record on key municipal issues like budget approvals, development projects, and bylaw changes during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
 ---
 
-Joe Swan served on London City Council from 2011 to 2014, representing a single four-year term during this period. Over the course of his tenure, he demonstrated consistent participation by attending 147 council meetings. Swan was actively involved in the committee structure of the council, serving on six different committees throughout his time in office, though the specific names of these committees are not clearly indicated in the available data.
+Joe Swan served on London City Council, Canada from 2011 to 2014, completing a full four-year term. During this period, he demonstrated consistent participation by attending 147 meetings. Swan was actively involved in committee work, serving on six different committees throughout his tenure, though the specific names of these committees are not clearly specified in the available data.
 
-His participation record suggests regular engagement with council business, as 147 meetings over a four-year period indicates frequent attendance at both regular council sessions and committee meetings. This level of meeting attendance reflects active participation in the municipal decision-making process during his term from 2011 to 2014.
+His attendance record and committee involvement suggest he was an engaged council member who participated regularly in the legislative and administrative processes of the city. The 147 meetings attended over a four-year period indicates regular participation in both regular council sessions and committee meetings during his term of service.
 
 ## Terms of Service
 

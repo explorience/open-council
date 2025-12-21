@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
-  - "How does their meeting attendance rate compare to other London City Council members during the same period?"
-  - "Which specific committees does Sam Trosow serve on, and what role do they play as chair or vice-chair of any committees?"
+  - "What is Sam Trosow's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Sam Trosow served on and what policy areas do these committees oversee?"
+  - "Has Sam Trosow taken on any leadership roles within the committees they serve on, such as chair or vice-chair positions?"
 ---
 
-Sam Trosow has served on London City Council from 2022-2025, demonstrating active participation with attendance at 209 meetings during this period. Their council involvement includes service on eight different committees, indicating broad engagement across various municipal portfolios and policy areas.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 209 meetings during this period. Their council involvement extends beyond general council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various municipal portfolios and policy areas.
 
-Trosow's substantial meeting attendance record suggests consistent participation in council proceedings over their current term. Their committee involvement across multiple areas reflects the collaborative nature of municipal governance, where councillors typically contribute to various aspects of city business through specialized committee work.
+This level of meeting attendance and committee participation suggests consistent civic engagement and a commitment to the various aspects of municipal governance that require council oversight and decision-making.
 
 ## Terms of Service
 

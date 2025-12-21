@@ -6,14 +6,14 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting record on key municipal issues during their 2022-2025 term?"
-  - "Which specific committees has McAlister served on, and what role did they play in committee work?"
-  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members during the same period?"
+  - "What is Hadleigh McAlister's voting record on major city issues such as budget approvals, development projects, and policy changes?"
+  - "Which specific committees has McAlister served on and what role did they play in committee decisions and recommendations?"
+  - "How does McAlister's meeting attendance rate compare to other council members, and were there any notable absences during key votes or discussions?"
 ---
 
-Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, though the specific committee names are not clearly displayed in the available data. This level of meeting attendance and multi-committee participation suggests consistent engagement in the council's work across their term.
+Hadleigh McAlister has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various areas of municipal governance. This level of meeting attendance suggests consistent participation in council proceedings throughout their term.
 
-McAlister's tenure spans the current council term, indicating they are either in their first term or were re-elected for the 2022-2025 period. Their participation across multiple committees shows involvement in various aspects of municipal governance and policy development.
+McAlister's multi-committee involvement reflects participation in diverse aspects of city governance, though the specific nature of these committee assignments is not detailed in the available data. Their tenure spans the current council term, representing ongoing service to London's municipal government.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and city planning initiatives?"
-  - "How often does David Ferreira miss committee meetings, and what is his participation rate compared to other council members?"
-  - "What specific committees does David Ferreira serve on, and has he taken any leadership roles such as committee chair or vice-chair positions?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "Which specific committees does he serve on, and what has been his attendance rate for each individual committee?"
+  - "How does his meeting attendance rate compare to other London City Council members, and has his participation level remained consistent throughout his term?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated consistent participation by attending 208 meetings. His council involvement extends beyond general meetings, as he has served on eight different committees, indicating broad engagement across various municipal functions and policy areas.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated strong participation by attending 208 meetings. He has served on eight different committees, showing broad engagement across various areas of municipal governance. His consistent meeting attendance and extensive committee involvement indicate a high level of commitment to his council responsibilities.
 
-Ferreira's participation record shows a commitment to the procedural and administrative aspects of municipal governance through his regular meeting attendance and diverse committee involvement. His service span covers the current council term, positioning him as part of the contemporary governing body responsible for London's municipal affairs.
+His participation spans the current council term, suggesting he is either in his first term or continuing service from a previous term. The substantial number of meetings attended and multiple committee assignments reflect significant time investment in municipal affairs and decision-making processes.
 
 ## Terms of Service
 

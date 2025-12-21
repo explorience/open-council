@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting pattern on key budget decisions during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance record for committee meetings versus regular council meetings?"
-  - "Did he sponsor or champion any particular motions or initiatives during his four years on council?"
+  - "What was Stephen Orser's voting record on major budget decisions and tax increases during his 2011-2014 term?"
+  - "Which specific committees did he serve on and what were his key contributions or positions on committee matters?"
+  - "How did his attendance and participation compare to other council members during the same period?"
 ---
 
-Stephen Orser served on London City Council from 2011-2014, completing a full four-year term. During this period, he attended 112 council meetings, demonstrating consistent participation in the city's governance processes. He served on four different committees during his tenure, though the specific committee names are not clearly indicated in the available data.
+Stephen Orser served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 112 meetings during his four-year term. He served on four different committees during his tenure, indicating involvement in various aspects of municipal governance beyond regular council meetings.
 
-His attendance record of 112 meetings over the four-year period suggests regular engagement with council business and municipal affairs. As a council member during this timeframe, he would have participated in decisions affecting London's municipal operations, budget deliberations, and various policy matters that came before council during the early 2010s.
+His participation record shows consistent engagement with council business over the full term, averaging approximately 28 meetings per year. The combination of regular council attendance and committee work suggests he maintained an active role in London's municipal decision-making processes throughout his time in office.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on key issues during his time on London City Council?"
-  - "Which specific committees did he serve on and what were his roles or contributions to those committees?"
-  - "How did his attendance rate of 461 meetings compare to other council members during the same period?"
+  - "What was Michael van Holst's voting record on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
+  - "Which specific committees did he serve on and what roles did he hold within those committees?"
+  - "How did his attendance rate compare to other council members during his tenure, and were there particular types of meetings or votes where his participation was notably different?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 council meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal policy areas and council functions.
 
-His extended service period of eight years and substantial meeting attendance record suggests he was an active and engaged member of the council throughout his tenure. The multiple committee assignments reflect his participation in the committee system that handles much of the detailed work of municipal government.
+His sustained participation over two full council terms suggests regular engagement with the city's governance processes and committee work, contributing to London's municipal decision-making through both meeting attendance and committee service across multiple areas of city administration.
 
 ## Terms of Service
 

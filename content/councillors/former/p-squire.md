@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting record on major municipal issues like budget approvals, development projects, and bylaw changes during their time on council?"
-  - "Which specific committees did Phil Squire serve on, and what was their level of participation and leadership roles within those committees?"
-  - "How did Phil Squire's attendance rate of 372 meetings compare to other council members during the same period, and were there any notable absences during critical votes?"
+  - "What was Phil Squire's voting record on major city budget decisions during their 2014-2021 tenure?"
+  - "How frequently did Phil Squire miss scheduled council meetings, and were there any notable patterns in their attendance?"
+  - "Which specific committees did Phil Squire serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Phil Squire served on London City Council, Canada from 2014 to 2021, representing nearly eight years of municipal government service. During this tenure, Squire demonstrated consistent participation by attending 372 council meetings and served on six different committees, though the specific committee details are not clearly readable in the available data.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, Squire maintained active participation by attending 372 council meetings and served on six different committees, demonstrating consistent engagement in the city's governance processes.
 
-Squire's extended service period spanning from 2014 to 2021 suggests they served at least two full council terms, indicating voter confidence in their representation. Their attendance at 372 meetings over approximately seven years reflects regular engagement with council business and municipal decision-making processes.
+Squire's lengthy term and substantial meeting attendance record suggests a commitment to municipal duties and regular involvement in council proceedings. The multi-committee service indicates participation across various areas of city administration, though the specific nature of these committees is not detailed in the available data.
 
 ## Terms of Service
 

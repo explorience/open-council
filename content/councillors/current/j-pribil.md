@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Jerry Pribil served on during their time on London City Council?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Jerry Pribil's voting pattern on major municipal issues and budget decisions?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approval, development proposals, and policy initiatives?"
+  - "How often did Jerry Pribil vote with or against the majority on contentious council decisions during their 2022-2025 term?"
+  - "Which specific committees did Jerry Pribil serve on, and what was their level of participation and leadership within those committees?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement includes service on eight different committees, indicating broad engagement across various municipal areas and responsibilities.
+Jerry Pribil has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, they have been involved in committee work, serving on eight different committees, which indicates broad engagement across various aspects of municipal governance.
 
-Pribil's consistent meeting attendance and extensive committee participation suggests a hands-on approach to municipal governance during their term. The multi-committee involvement reflects engagement with diverse aspects of city administration and policy development across London's municipal operations.
+Their consistent meeting attendance and extensive committee involvement suggests a committed approach to their council responsibilities. Serving on eight committees represents significant participation in the detailed work of municipal government, where much of the policy development and decision-making preparation takes place before items reach full council.
 
 ## Terms of Service
 

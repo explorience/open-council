@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
-  - "Which specific committees does Peter Cuddy serve on, and what is his attendance rate for each committee?"
-  - "How does Peter Cuddy's meeting attendance rate compare to other London City Council members during the 2022-2025 term?"
+  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members during the 2022-2025 term?"
+  - "Which specific committees has Peter Cuddy served on and what are his roles or positions within those committees?"
+  - "How has Peter Cuddy voted on major municipal issues and budget decisions that have come before London City Council?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong meeting attendance with 204 meetings attended. His council participation includes service on eight different committees, indicating broad engagement across various municipal governance areas.
+Peter Cuddy has been an active member of London City Council, Canada, serving during the 2022-2025 term. Over this period, he has demonstrated consistent engagement by attending 204 council meetings. His participation extends beyond general council meetings, as he has served on eight different committees, indicating broad involvement in various aspects of municipal governance and decision-making processes.
 
-His consistent meeting attendance and extensive committee involvement suggest a high level of commitment to his council responsibilities. As a member serving in the current term that began in 2022, Cuddy appears to be maintaining regular participation in the formal decision-making processes of London's municipal government.
+His substantial meeting attendance record and extensive committee participation suggest a high level of commitment to his council responsibilities during his current term of office.
 
 ## Terms of Service
 

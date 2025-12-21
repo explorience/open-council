@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and how often did they miss key votes during their 2014-2022 tenure?"
-  - "Which specific committees did Mo Salih serve on and what leadership roles, if any, did they hold within those committees?"
-  - "How did Mo Salih typically vote on major municipal issues such as budget approvals, development proposals, and policy changes during their time on council?"
+  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and policy initiatives during their 2014-2022 term?"
+  - "Which specific committees did Mo Salih serve on, and what were their roles or contributions to those committees?"
+  - "How did Mo Salih's meeting attendance rate compare to other council members, and were there any notable absences during critical votes or decisions?"
 ---
 
-Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this period, they demonstrated consistent participation by attending 350 council meetings. Salih served on four different committees throughout their tenure, though the specific committee names are not clearly indicated in the available data.
+Mo Salih served on London City Council in Canada for eight years, from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was actively involved in committee work, serving on four different committees throughout their time on council, though the specific committee names are not clearly specified in the available data.
 
-Their eight-year term represents two full municipal terms of service, indicating they were re-elected at least once during their time on council. The attendance of 350 meetings over this period suggests regular engagement with council business and committee work.
+Their eight-year term and high meeting attendance record of 350 meetings suggests regular engagement with municipal governance and council responsibilities. The multi-committee involvement indicates broad participation across various aspects of city administration and policy development during their nearly decade-long service to London residents.
 
 ## Terms of Service
 

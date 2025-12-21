@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Paul Hubert's attendance rate compare to other council members during his time in office, and were there any notable absences from important votes or meetings?"
+  - "What was Paul Hubert's voting record on major budget decisions and tax increases during his 2011-2018 tenure?"
+  - "How did his attendance rate compare to other council members, and did he miss any significant votes or meetings?"
+  - "Which specific committees did he serve on, and did he hold any chair or vice-chair positions on these committees?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and policy areas.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent engagement through his attendance at 363 meetings over this seven-year period. This attendance record suggests regular participation in council business, averaging approximately 52 meetings per year during his tenure.
 
-His multi-year service and extensive meeting attendance suggests he was an active participant in the council's deliberative processes throughout his tenure. The range of committee assignments reflects engagement with diverse aspects of municipal governance during his seven years of service.
+During his time on council, Hubert participated on eight different committees, indicating broad involvement across various areas of municipal governance. His multi-committee participation shows he took on diverse responsibilities beyond regular council meetings, contributing to the detailed work that committees perform in preparing recommendations and reviewing municipal matters before they reach the full council for consideration.
 
 ## Terms of Service
 

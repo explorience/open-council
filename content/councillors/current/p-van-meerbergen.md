@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other London City Council members?"
-  - "Which specific committees has he served on and what roles (chair, vice-chair, member) has he held on these committees?"
-  - "How has his committee participation and meeting attendance changed over his different terms from 2011 to 2025?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
+  - "How does his meeting attendance rate of 499 meetings compare to other councillors who served during the same period?"
+  - "What were some of the key votes or decisions he participated in during his 14-year tenure on council?"
 ---
 
-Paul Van Meerbergen has served as a member of London City Council from 2011 to 2025, demonstrating sustained civic engagement over a 14-year period. During his tenure, he has attended 499 council meetings and has served on seven different committees, indicating active participation in the council's legislative and administrative processes.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant engagement through his attendance at 499 council meetings over his tenure. His extensive participation spans approximately 14 years of municipal service, during which he has served on seven different committees, indicating broad involvement across various areas of city governance and policy development.
 
-His consistent attendance at meetings and committee involvement suggests a committed approach to municipal governance. The length of his service, spanning over a decade, indicates he has likely been re-elected multiple times, reflecting constituent support for his council participation.
+His consistent presence at nearly 500 meetings reflects a strong commitment to his council duties and suggests regular participation in the decision-making processes that shape London's municipal affairs. The multi-committee involvement shows he has contributed to diverse aspects of city administration throughout his extended term on council.
 
 ## Terms of Service
 

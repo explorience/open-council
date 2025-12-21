@@ -6,14 +6,12 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major city budget decisions during her 2014-2022 tenure?"
-  - "Which specific committees did she serve on and what leadership roles, if any, did she hold within those committees?"
-  - "How did her attendance rate of 536 meetings compare to other council members during the same period?"
+  - "What was Maureen Cassidy's voting record on major municipal issues such as budget approvals, development projects, and infrastructure spending during her 2014-2022 tenure?"
+  - "How often did she vote with the majority versus taking dissenting positions on council decisions, and on which types of issues was she most likely to oppose the majority?"
+  - "What specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles during her time on council?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, spanning an eight-year period of municipal service. During her tenure, she demonstrated consistent participation by attending 536 council meetings and served on seven different committees, indicating active involvement in various aspects of city governance and decision-making processes.
-
-Her sustained attendance record and multi-committee participation suggest she was an engaged council member who contributed to the legislative and administrative functions of London's municipal government throughout her two terms in office.
+Maureen Cassidy served on London City Council, Canada from 2014 to 2022, demonstrating consistent engagement through her attendance at 536 meetings over her eight-year tenure. During her time on council, she participated in seven different committees, showing broad involvement across various municipal governance areas. Her meeting attendance record suggests active participation in the democratic processes of the city throughout her two terms of service.
 
 ## Terms of Service
 

@@ -7,13 +7,13 @@ yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
   - "What was Sandy White's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on, and what were their main contributions to those committees?"
-  - "How did Sandy White's attendance rate of 164 meetings compare to other council members during the same period?"
+  - "Which specific committees did Sandy White serve on, and what were their roles or contributions to those committees?"
+  - "How did Sandy White's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Sandy White served on London City Council from 2011 to 2014, completing a full four-year term. During this period, they demonstrated consistent participation by attending 164 council meetings. White was actively involved in the committee structure of the council, serving on five different committees throughout their tenure, though the specific names of these committees are not clearly indicated in the available data.
+Sandy White served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, they demonstrated consistent participation by attending 164 council meetings. White was actively involved in committee work, serving on five different committees throughout their tenure, though the specific names of these committees are not clearly identified in the available data.
 
-White's attendance record suggests regular engagement with council business over their four-year term. Their service on multiple committees indicates they took on additional responsibilities beyond regular council meetings, contributing to the detailed work that committees typically handle in municipal government operations.
+White's attendance record suggests regular engagement with municipal governance during their term. Their multi-committee involvement indicates they took on responsibilities across various areas of city administration and policy development during their four years of service on council.
 
 ## Terms of Service
 

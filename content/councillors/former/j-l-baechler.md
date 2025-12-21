@@ -6,14 +6,14 @@ meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joni Baechler's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
-  - "Which specific committees did Baechler serve on and what were their primary roles or contributions to those committees?"
-  - "What were some of the key municipal issues or major votes that Baechler participated in during their 2011-2014 council term?"
+  - "What was Joni Baechler's voting record on major budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Baechler serve on and what was their attendance rate for committee meetings versus regular council meetings?"
+  - "Did Joni Baechler run for re-election after their 2011-2014 term, and if not, what were their stated reasons for not seeking another term?"
 ---
 
-Joni Baechler served on London City Council from 2011-2014, demonstrating active participation with attendance at 132 meetings during this four-year term. During their tenure, Baechler served on seven different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Joni Baechler served on London City Council from 2011-2014, completing a full four-year term. During this period, they maintained active participation by attending 132 council meetings and served on seven different committees, demonstrating broad engagement across various municipal portfolios and responsibilities.
 
-This level of meeting attendance and committee participation suggests consistent engagement in the council's work throughout their single term of service. The multi-committee involvement would have provided Baechler with exposure to diverse municipal issues and decision-making processes during their time representing London residents.
+Their consistent meeting attendance and extensive committee involvement indicates a hands-on approach to municipal governance during their single term on council. The multi-committee service suggests they were involved in diverse areas of city administration and policy development throughout their tenure.
 
 ## Terms of Service
 

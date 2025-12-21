@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council, and what were his roles or contributions on each?"
-  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his attendance been consistent throughout his tenure?"
-  - "What has been Josh Morgan's voting pattern on major city issues, and has he shown particular focus areas or policy priorities during his council service?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council, and did he hold any leadership positions on these committees?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members, and were there any significant periods of absence?"
+  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, or policy changes during his tenure?"
 ---
 
-Josh Morgan has been an active member of London City Council in Canada from 2014 to 2025, demonstrating significant engagement through his attendance at 654 meetings over this period. His council participation spans more than a decade, indicating sustained involvement in municipal governance. Morgan has served on eight different committees during his tenure, showing broad participation across various areas of city council operations and governance.
+Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this period, he has attended 654 council meetings, demonstrating consistent engagement in the city's legislative processes. Morgan has served on eight different committees throughout his tenure, indicating broad involvement across various areas of municipal governance and policy development.
 
-His extensive meeting attendance record and multi-committee involvement suggests a high level of commitment to his council responsibilities. The length of his service, covering approximately 11 years, indicates either multiple terms in office or a long single term, reflecting ongoing community support for his representation on London City Council.
+His extended service period of eleven years and high meeting attendance record suggest a committed approach to his council responsibilities. The multiple committee appointments reflect either his expertise in diverse policy areas or his willingness to contribute to different aspects of municipal administration across his years of service.
 
 ## Terms of Service
 

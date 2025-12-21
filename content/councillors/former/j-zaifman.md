@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting attendance rate and how did it compare to other council members during 2014-2018?"
-  - "Which specific committees did he serve on and what were his key contributions or leadership roles within those committees?"
-  - "How did he vote on major municipal issues like budget approvals, development projects, or policy changes during his four-year term?"
+  - "What was Jared Zaifman's voting record on major municipal issues during his 2014-2018 term?"
+  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
 ---
 
-Jared Zaifman served on London City Council for a four-year term from 2014 to 2018. During this period, he demonstrated consistent participation by attending 142 council meetings. He was an active committee member, serving on four different committees throughout his tenure, though the specific committee names are not clearly displayed in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During this period, he attended 142 council meetings, demonstrating consistent participation in the city's governance processes. He served on four committees during his tenure, though the specific committee names are not clearly displayed in the available data.
 
-His participation record shows regular engagement with council business over the full four-year term, indicating steady involvement in municipal governance and decision-making processes during his time representing his constituents on London City Council.
+His attendance record and committee involvement indicate active engagement in municipal affairs throughout his term on council. The meeting attendance figure suggests regular participation in both regular council sessions and committee work over the four-year period.
 
 ## Terms of Service
 
