@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's attendance rate and how did it compare to other council members during his 2012-2018 term?"
-  - "Which specific committees did Armstrong serve on and what were his key contributions or leadership roles within those committees?"
-  - "How did Armstrong typically vote on major municipal issues such as budget approvals, development proposals, or policy changes during his council tenure?"
+  - "What specific committees did Bill Armstrong serve on during his time on London City Council?"
+  - "What was Bill Armstrong's voting record on key municipal issues and bylaws during his 2012-2018 tenure?"
+  - "How does his meeting attendance rate of 245 meetings compare to other council members who served during the same period?"
 ---
 
-Bill Armstrong served on London City Council for six years from 2012 to 2018. During his tenure, he demonstrated consistent participation by attending 245 meetings across his term of service. Armstrong was an active committee member, serving on five different committees throughout his time on council, though the specific names of these committees are not clearly displayed in the available data.
+Bill Armstrong served on London City Council for six years from 2012 to 2018. During his tenure, he demonstrated active participation by attending 245 meetings over this period. Armstrong served on five committees during his time on council, showing engagement across multiple areas of municipal governance and policy development.
 
-His six-year service period represents a significant commitment to municipal governance in London, with his meeting attendance record suggesting regular engagement in council proceedings and committee work during his time as an elected representative.
+His consistent meeting attendance and committee involvement suggest a committed approach to his council responsibilities throughout his six-year term on London City Council.
 
 ## Terms of Service
 

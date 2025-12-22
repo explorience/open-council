@@ -6,14 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
-  - "How frequently does Skylar Franke speak or contribute during council meetings, and what topics do they most often address?"
-  - "What specific committees has Skylar Franke served on, and what has been their level of participation and leadership roles within those committees?"
+  - "What is Skylar Franke's voting record on major city issues and how often do they vote with the majority versus in dissent?"
+  - "Which specific committees does Skylar Franke serve on and what role do they play in committee leadership or decision-making?"
+  - "How does Skylar Franke's meeting attendance rate compare to other council members, and have they missed any significant votes or discussions?"
 ---
 
-Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During this current term, they have demonstrated strong participation by attending 179 council meetings. Franke has also served on multiple committees, participating in seven different committee assignments throughout their tenure, which indicates broad engagement across various municipal governance areas.
+Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025 during the current council term. During this period, they have demonstrated consistent participation by attending 179 council meetings. Franke has taken on substantial committee responsibilities, serving on seven different committees, indicating broad engagement across various municipal governance areas.
 
-Their attendance record and committee involvement suggest consistent participation in the council's legislative and administrative processes during their current term of office.
+Their attendance record and extensive committee involvement suggest a high level of commitment to their council duties. With nearly two years of service completed in their current term, Franke appears to maintain regular participation in the formal proceedings of municipal government.
 
 ## Terms of Service
 

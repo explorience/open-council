@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Virginia Ridley's voting attendance rate and were there any significant absences during key votes?"
-  - "Which specific committees did she serve on and what role did she play in committee deliberations and recommendations?"
-  - "How did her voting patterns align with other council members, and did she frequently vote independently or with particular coalitions?"
+  - "What was Virginia Ridley's voting attendance rate and how did it compare to other council members during the 2014-2018 term?"
+  - "Which specific committees did she serve on and did she hold any committee chair or vice-chair positions?"
+  - "What were her voting patterns on major municipal issues such as budget approvals, development proposals, and policy initiatives during her tenure?"
 ---
 
-Virginia Ridley served on London City Council, Canada from 2014 to 2018, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 212 council meetings. She was actively involved in committee work, serving on six different committees throughout her time on council, though the specific names of these committees are not clearly available in the provided data.
+Virginia Ridley served on London City Council from 2014 to 2018, completing a full four-year term. During this period, she demonstrated consistent engagement with council duties, attending 212 meetings over the course of her tenure. She participated actively in the committee structure of the council, serving on six different committees throughout her time in office, indicating broad involvement across various municipal portfolios and policy areas.
 
-Her attendance record and committee involvement suggest she was an engaged member of council who participated regularly in both general council sessions and specialized committee work during her term of service.
+Her meeting attendance record suggests regular participation in council proceedings over the four-year period. The committee work represents a significant portion of municipal governance, where much of the detailed policy development and oversight occurs before items reach full council for final decisions.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
-  - "Which specific committees does he serve on, and what has been his attendance rate for each individual committee?"
-  - "How does his meeting attendance rate compare to other London City Council members, and has his participation level remained consistent throughout his term?"
+  - "What specific committees has David Ferreira served on during his time on London City Council?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approval, development projects, and policy changes?"
+  - "How does David Ferreira's meeting attendance rate of 208 meetings compare to other council members during the same period?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated strong participation by attending 208 meetings. He has served on eight different committees, showing broad engagement across various areas of municipal governance. His consistent meeting attendance and extensive committee involvement indicate a high level of commitment to his council responsibilities.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated strong participation by attending 208 meetings. His involvement extends across multiple committees, serving on eight different committees throughout his tenure, indicating broad engagement across various municipal issues and governance areas.
 
-His participation spans the current council term, suggesting he is either in his first term or continuing service from a previous term. The substantial number of meetings attended and multiple committee assignments reflect significant time investment in municipal affairs and decision-making processes.
+His consistent meeting attendance and extensive committee participation suggests a hands-on approach to municipal governance. With his term spanning from 2022 to 2025, Ferreira appears to maintain regular involvement in the council's decision-making processes across multiple areas of city business.
 
 ## Terms of Service
 

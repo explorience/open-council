@@ -6,14 +6,12 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Sam Trosow served on and what policy areas do these committees oversee?"
-  - "Has Sam Trosow taken on any leadership roles within the committees they serve on, such as chair or vice-chair positions?"
+  - "What specific committees has Sam Trosow served on during their time on London City Council?"
+  - "How does Sam Trosow's meeting attendance record of 209 meetings compare to other council members serving during the same period?"
+  - "What has been Sam Trosow's voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 209 meetings during this period. Their council involvement extends beyond general council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various municipal portfolios and policy areas.
-
-This level of meeting attendance and committee participation suggests consistent civic engagement and a commitment to the various aspects of municipal governance that require council oversight and decision-making.
+Sam Trosow has served on London City Council from 2022-2025, demonstrating active participation with attendance at 209 meetings during this period. Their council involvement includes service on eight different committees, indicating broad engagement across various areas of municipal governance. This level of meeting attendance and committee participation suggests consistent involvement in the council's deliberative processes and decision-making activities.
 
 ## Terms of Service
 

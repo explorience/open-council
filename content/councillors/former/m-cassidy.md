@@ -6,12 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major municipal issues such as budget approvals, development projects, and infrastructure spending during her 2014-2022 tenure?"
-  - "How often did she vote with the majority versus taking dissenting positions on council decisions, and on which types of issues was she most likely to oppose the majority?"
-  - "What specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles during her time on council?"
+  - "What was Maureen Cassidy's attendance rate and how did it compare to other council members during her tenure?"
+  - "Which specific committees did she serve on and did she hold any chair or vice-chair positions?"
+  - "What were her voting patterns on major municipal issues such as budget approval, development proposals, and infrastructure projects?"
 ---
 
-Maureen Cassidy served on London City Council, Canada from 2014 to 2022, demonstrating consistent engagement through her attendance at 536 meetings over her eight-year tenure. During her time on council, she participated in seven different committees, showing broad involvement across various municipal governance areas. Her meeting attendance record suggests active participation in the democratic processes of the city throughout her two terms of service.
+Maureen Cassidy served on London City Council from 2014 to 2022, spanning an eight-year tenure. During this period, she demonstrated consistent engagement by attending 536 council meetings. Her council participation included service on seven different committees, indicating broad involvement across various areas of municipal governance.
+
+Her extended service period of eight years suggests she served at least two full terms on council, as municipal terms in Ontario are typically four years in length. The high number of meetings attended over this timeframe reflects active participation in the council's regular business and decision-making processes.
 
 ## Terms of Service
 

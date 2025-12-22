@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues during their time on council?"
-  - "Which specific committees did Jesse Helmer serve on and what roles did they hold on those committees?"
-  - "How did Jesse Helmer's attendance rate compare to other council members during their tenure from 2014-2022?"
+  - "What specific committees did Jesse Helmer serve on during their time on London City Council?"
+  - "How did Jesse Helmer vote on major municipal issues such as budget approvals, development projects, or policy changes during their 2014-2022 tenure?"
+  - "What was Jesse Helmer's attendance rate compared to other council members, and were there any notable patterns in their participation or absences?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating significant engagement through attendance at 580 meetings over their eight-year tenure. During this period, they participated on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
+Jesse Helmer served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over this period. During their tenure, they served on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
 
-Their consistent participation over nearly a decade suggests a committed approach to municipal service, with their meeting attendance and committee involvement reflecting active engagement in London's civic decision-making processes throughout their time on council.
+Their sustained participation over nearly a decade suggests a commitment to municipal service, with regular meeting attendance averaging approximately 72-73 meetings per year throughout their time in office. The extensive committee work reflects engagement in the detailed policy development and oversight functions that are essential to municipal governance.
 
 ## Terms of Service
 

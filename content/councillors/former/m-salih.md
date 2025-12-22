@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and policy initiatives during their 2014-2022 term?"
-  - "Which specific committees did Mo Salih serve on, and what were their roles or contributions to those committees?"
-  - "How did Mo Salih's meeting attendance rate compare to other council members, and were there any notable absences during critical votes or decisions?"
+  - "What was Mo Salih's voting record on major municipal issues during their time on council?"
+  - "Which specific committees did Mo Salih serve on and what was their role or contribution to those committees?"
+  - "How did Mo Salih's attendance rate of 350 meetings compare to other council members during the same period?"
 ---
 
-Mo Salih served on London City Council in Canada for eight years, from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was actively involved in committee work, serving on four different committees throughout their time on council, though the specific committee names are not clearly specified in the available data.
+Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During their tenure, they attended 350 council meetings, which indicates regular engagement with municipal governance responsibilities. They participated in committee work as part of their council duties, though the specific committee details are not clearly specified in the available data.
 
-Their eight-year term and high meeting attendance record of 350 meetings suggests regular engagement with municipal governance and council responsibilities. The multi-committee involvement indicates broad participation across various aspects of city administration and policy development during their nearly decade-long service to London residents.
+Their service span of nearly a decade suggests they were re-elected at least once during their time on council, as municipal terms in Ontario are typically four years in length. The substantial number of meeting attendances reflects active participation in the formal decision-making processes of London's municipal government.
 
 ## Terms of Service
 

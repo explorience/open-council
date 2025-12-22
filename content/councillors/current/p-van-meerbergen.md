@@ -7,13 +7,13 @@ yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "How does his meeting attendance rate of 499 meetings compare to other councillors who served during the same period?"
-  - "What were some of the key votes or decisions he participated in during his 14-year tenure on council?"
+  - "What is Paul Van Meerbergen's voting record on major municipal issues and bylaws?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members who served similar terms?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant engagement through his attendance at 499 council meetings over his tenure. His extensive participation spans approximately 14 years of municipal service, during which he has served on seven different committees, indicating broad involvement across various areas of city governance and policy development.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant engagement through his attendance at 499 meetings over his tenure. His lengthy service spanning 14 years indicates sustained commitment to municipal governance in London, Canada. Throughout his time on council, Van Meerbergen has served on seven different committees, suggesting broad involvement across various areas of municipal policy and administration.
 
-His consistent presence at nearly 500 meetings reflects a strong commitment to his council duties and suggests regular participation in the decision-making processes that shape London's municipal affairs. The multi-committee involvement shows he has contributed to diverse aspects of city administration throughout his extended term on council.
+His extensive meeting attendance record and multi-committee participation reflect a high level of engagement with the council's work and decision-making processes during his years of service.
 
 ## Terms of Service
 

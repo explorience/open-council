@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Anna Hopkins' meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her tenure from 2014-2025?"
+  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
+  - "How does Anna Hopkins' meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her tenure?"
 ---
 
-Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating significant involvement with a record of attending 640 meetings over her tenure. Her council participation spans more than a decade, indicating sustained civic engagement in municipal governance.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating significant commitment through her attendance at 640 meetings over this 11-year period. This represents an average of approximately 58 meetings per year, indicating consistent and active participation in council proceedings.
 
-Hopkins has served on eight different committees during her time on council, showing broad participation across various areas of municipal responsibility. Her extensive meeting attendance record and multi-committee involvement suggests active engagement in the day-to-day operations and decision-making processes of London City Council.
+Throughout her tenure, Hopkins has served on 8 different committees, showing broad involvement across various areas of municipal governance. Her extended service period of over a decade and substantial meeting attendance record suggest she has been a dedicated and engaged member of London City Council.
 
 ## Terms of Service
 

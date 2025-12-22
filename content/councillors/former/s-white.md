@@ -6,14 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on, and what were their roles or contributions to those committees?"
-  - "How did Sandy White's meeting attendance rate compare to other council members during the same period?"
+  - "What was Sandy White's voting record on major budget decisions during their 2011-2014 term?"
+  - "How did Sandy White vote on key development and zoning issues that came before council?"
+  - "What specific committees did Sandy White serve on, and what was their attendance rate for committee meetings versus regular council meetings?"
 ---
 
-Sandy White served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, they demonstrated consistent participation by attending 164 council meetings. White was actively involved in committee work, serving on five different committees throughout their tenure, though the specific names of these committees are not clearly identified in the available data.
+Sandy White served on London City Council from 2011 to 2014, completing one full term during this four-year period. During their tenure, White demonstrated active participation by attending 164 council meetings. They served on five different committees during their time on council, showing engagement across multiple areas of municipal governance.
 
-White's attendance record suggests regular engagement with municipal governance during their term. Their multi-committee involvement indicates they took on responsibilities across various areas of city administration and policy development during their four years of service on council.
+White's participation record indicates consistent involvement in council business throughout their term, with their meeting attendance reflecting regular engagement in the city's decision-making processes. Their service concluded in 2014, representing a single term of municipal service to the London community.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How often did Steve Lehman vote with the majority versus taking dissenting positions on council decisions?"
-  - "Which specific committees did Steve Lehman serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What specific committees has Steve Lehman served on during his time on London City Council?"
+  - "What is Steve Lehman's voting pattern on major city issues such as budget approvals, development projects, or policy changes?"
+  - "How does Steve Lehman's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his tenure?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time on council, indicating broad engagement across various municipal portfolios and governance areas.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings over this seven-year period. During his tenure, he has served on six different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His seven-year term on council represents sustained civic service, with his meeting attendance record suggesting regular participation in the democratic processes of municipal government. The breadth of his committee involvement indicates he has contributed to various aspects of city governance and policy development across multiple municipal departments and areas of responsibility.
+His sustained presence on council, spanning multiple years and involving extensive meeting attendance, suggests an active role in London's municipal decision-making processes. The diversity of his committee involvement indicates participation across different areas of city administration and planning.
 
 ## Terms of Service
 

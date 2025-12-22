@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on key municipal issues like budget approvals, development projects, and bylaw changes during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What was Joe Swan's attendance percentage compared to the total number of scheduled council meetings during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on, and did he hold any chair or vice-chair positions on these committees?"
+  - "How did Joe Swan typically vote on major municipal issues such as budget approvals, development proposals, or tax increases during his council term?"
 ---
 
-Joe Swan served on London City Council, Canada from 2011 to 2014, completing a full four-year term. During this period, he demonstrated consistent participation by attending 147 meetings. Swan was actively involved in committee work, serving on six different committees throughout his tenure, though the specific names of these committees are not clearly specified in the available data.
+Joe Swan served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, he attended 147 council meetings, demonstrating consistent participation in the city's legislative processes. Swan served on six different committees throughout his tenure, indicating broad involvement across various municipal portfolios and policy areas.
 
-His attendance record and committee involvement suggest he was an engaged council member who participated regularly in the legislative and administrative processes of the city. The 147 meetings attended over a four-year period indicates regular participation in both regular council sessions and committee meetings during his term of service.
+His attendance record of 147 meetings over four years suggests regular engagement with council business, though without additional context about total meetings scheduled, it's difficult to assess his attendance rate as a percentage. His committee work across multiple areas would have provided him with detailed knowledge of different aspects of municipal governance during his time in office.
 
 ## Terms of Service
 

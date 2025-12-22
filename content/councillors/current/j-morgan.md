@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council, and did he hold any leadership positions on these committees?"
-  - "How does Josh Morgan's meeting attendance rate compare to other council members, and were there any significant periods of absence?"
-  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, or policy changes during his tenure?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council?"
+  - "What is Josh Morgan's voting record on major municipal issues like budget approvals, development projects, or policy changes?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his tenure?"
 ---
 
-Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this period, he has attended 654 council meetings, demonstrating consistent engagement in the city's legislative processes. Morgan has served on eight different committees throughout his tenure, indicating broad involvement across various areas of municipal governance and policy development.
+Josh Morgan has been an active member of London City Council, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has demonstrated consistent engagement by attending 654 council meetings and serving on 8 different committees, indicating broad involvement across various areas of municipal governance.
 
-His extended service period of eleven years and high meeting attendance record suggest a committed approach to his council responsibilities. The multiple committee appointments reflect either his expertise in diverse policy areas or his willingness to contribute to different aspects of municipal administration across his years of service.
+His extensive meeting attendance record and multi-committee participation suggests a high level of commitment to council duties over his years of service. The span from 2014 to 2025 represents nearly three full municipal terms, reflecting sustained civic engagement and re-election by constituents in his ward.
 
 ## Terms of Service
 

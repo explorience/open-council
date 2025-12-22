@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development applications, and bylaw amendments?"
-  - "How often has she introduced motions or amendments during council meetings, and what topics have they typically addressed?"
-  - "What has been her attendance rate and level of participation in the nine committees she has served on compared to other council members?"
+  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 452 meetings compare to other council members during the same time period?"
+  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated consistent participation by attending 452 council meetings. Her involvement extends beyond regular council sessions, as she has served on nine different committees throughout her time in office, indicating broad engagement across various municipal governance areas.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 meetings during this period. Her council participation spans seven years of service, during which she has served on nine different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city.
 
-Her seven-year term on council shows sustained commitment to municipal service, with her high meeting attendance record suggesting regular participation in the legislative and administrative processes of London's city government. The extensive committee involvement demonstrates her engagement in the detailed work of municipal governance across multiple policy and operational areas.
+Her extensive meeting attendance record and multi-committee involvement suggest a high level of commitment to her council duties and active participation in London's municipal decision-making processes throughout her tenure.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting record on major city budget decisions during their 2014-2021 tenure?"
-  - "How frequently did Phil Squire miss scheduled council meetings, and were there any notable patterns in their attendance?"
-  - "Which specific committees did Phil Squire serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Phil Squire's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How frequently did Phil Squire miss scheduled council meetings, and what was their attendance rate compared to other council members during the same period?"
+  - "What specific committees did Phil Squire serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, Squire maintained active participation by attending 372 council meetings and served on six different committees, demonstrating consistent engagement in the city's governance processes.
+Phil Squire served on London City Council for approximately 7-8 years, from 2014 to 2021. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire was actively involved in the committee structure of the council, serving on six different committees throughout their time in office, though the specific names of these committees are not available in the provided data.
 
-Squire's lengthy term and substantial meeting attendance record suggests a commitment to municipal duties and regular involvement in council proceedings. The multi-committee service indicates participation across various areas of city administration, though the specific nature of these committees is not detailed in the available data.
+Their multi-year service and substantial meeting attendance record suggests a commitment to municipal governance and regular engagement in the decision-making processes of London City Council during this period.
 
 ## Terms of Service
 

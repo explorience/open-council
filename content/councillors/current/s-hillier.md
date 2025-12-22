@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how often does he vote with the majority versus in dissent on council decisions?"
-  - "Which specific committees has he served on and has he held any leadership positions such as committee chair or vice-chair roles?"
-  - "How does his meeting attendance record of 453 meetings compare to other council members during the same period?"
+  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has Steve Hillier served on and what were his roles or contributions to those committees?"
+  - "Has Steve Hillier sponsored or championed any particular bylaws, motions, or initiatives during his time on London City Council?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 meetings. His council involvement extends beyond general council sessions, as he has served on seven different committees, indicating broad engagement across various municipal portfolios and issues facing the city.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this seven-year period, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council meetings, as he has served on seven different committees throughout his tenure, indicating broad engagement across various areas of municipal governance.
 
-His seven-year term on council shows sustained commitment to municipal governance, with his high meeting attendance record suggesting regular participation in the formal decision-making processes of the city. The multiple committee assignments reflect his involvement in the detailed work of municipal government that occurs at the committee level before issues reach full council.
+Hillier's extensive meeting attendance record and multi-committee involvement suggests he has maintained regular participation in the council's decision-making processes. His service span covers what appears to be at least two council terms, showing sustained commitment to municipal public service in London.
 
 ## Terms of Service
 

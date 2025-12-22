@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Corrine Rahman's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has she served on and what are her key contributions to committee work?"
-  - "How has her voting pattern aligned with or differed from the majority on significant municipal issues during her 2022-2025 term?"
+  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
+  - "How does her meeting attendance record of 216 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
 ---
 
-Corrine Rahman has served on London City Council from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Her council involvement extends beyond regular council meetings, as she has served on eight different committees throughout her term, indicating broad engagement across various municipal issues and policy areas.
+Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, she has demonstrated strong participation by attending 216 council meetings. Rahman has been involved in committee work, serving on eight different committees throughout her tenure, indicating broad engagement across various areas of municipal governance.
 
-Rahman's meeting attendance record suggests consistent participation in council proceedings during her current term. Her committee service across multiple areas reflects the collaborative nature of municipal governance, where councillors typically contribute to specialized committees that handle different aspects of city operations and policy development.
+Her consistent meeting attendance and extensive committee involvement suggest a high level of commitment to her council responsibilities. With her term spanning from 2022 to 2025, Rahman appears to be serving a full four-year council term, which is typical for municipal elections in Ontario.
 
 ## Terms of Service
 

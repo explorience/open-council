@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approval, development proposals, and policy initiatives?"
-  - "How often did Jerry Pribil vote with or against the majority on contentious council decisions during their 2022-2025 term?"
-  - "Which specific committees did Jerry Pribil serve on, and what was their level of participation and leadership within those committees?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development applications, and bylaw amendments?"
+  - "How often has he voted differently from the majority of council, and on what types of issues has he taken opposing positions?"
+  - "What specific committees has he served on, and has he held any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-Jerry Pribil has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, they have been involved in committee work, serving on eight different committees, which indicates broad engagement across various aspects of municipal governance.
+Jerry Pribil has been an active member of London City Council from 2022-2025, demonstrating strong participation through attendance at 212 meetings during this period. His council involvement extends beyond regular council meetings, as he has served on eight different committees throughout his term, indicating broad engagement across various municipal portfolios and policy areas.
 
-Their consistent meeting attendance and extensive committee involvement suggests a committed approach to their council responsibilities. Serving on eight committees represents significant participation in the detailed work of municipal government, where much of the policy development and decision-making preparation takes place before items reach full council.
+This level of meeting attendance and committee participation suggests consistent civic engagement and dedication to municipal governance responsibilities. His multi-committee involvement likely provides him with diverse perspectives on city operations and allows him to contribute to decision-making across multiple areas of municipal administration.
 
 ## Terms of Service
 

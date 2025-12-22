@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major budget decisions and tax increases during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what were his key contributions or positions on committee matters?"
-  - "How did his attendance and participation compare to other council members during the same period?"
+  - "What was Stephen Orser's voting pattern on major city budget decisions during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "Did Stephen Orser take any leadership roles, such as chairing committees or serving as deputy mayor, during his time on council?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 112 meetings during his four-year term. He served on four different committees during his tenure, indicating involvement in various aspects of municipal governance beyond regular council meetings.
+Stephen Orser served on London City Council from 2011 to 2014, demonstrating active participation during his four-year term. Over this period, he attended 112 council meetings, indicating consistent engagement in municipal governance. His council service included participation on four different committees, though the specific committee names are not clearly indicated in the available data.
 
-His participation record shows consistent engagement with council business over the full term, averaging approximately 28 meetings per year. The combination of regular council attendance and committee work suggests he maintained an active role in London's municipal decision-making processes throughout his time in office.
+Orser's attendance record suggests he was a committed council member who prioritized his municipal duties during his single term in office. His involvement across multiple committees would have provided him with diverse exposure to various aspects of city governance and policy development during the early 2010s.
 
 ## Terms of Service
 

@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "How does Shawn Lewis's meeting attendance rate of 495 meetings compare to other council members during the same period?"
-  - "What has been Shawn Lewis's voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
+  - "What is Shawn Lewis's voting attendance rate and how do they typically vote on key municipal issues?"
+  - "Has Shawn Lewis held any leadership positions, such as committee chair roles, during their council service?"
 ---
 
-Shawn Lewis has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, they have demonstrated strong attendance with participation in 495 council meetings. Lewis has served on eight different committees throughout their tenure, indicating broad involvement across various areas of municipal governance and policy development.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating significant involvement through attendance at 495 meetings during this period. This represents substantial participation in council proceedings over approximately seven years of service. Lewis has served on eight different committees during their tenure, indicating broad engagement across various areas of municipal governance and policy development.
 
-Their consistent meeting attendance over a seven-year period suggests regular engagement with council business and community issues. The extensive committee involvement shows Lewis has taken on responsibilities beyond regular council meetings, contributing to the detailed work that committees perform in examining issues, reviewing proposals, and making recommendations to the full council.
+The high meeting attendance figure suggests consistent participation in both regular council sessions and committee work throughout their time in office. Their service across multiple committees indicates involvement in diverse aspects of city administration and policy-making processes during their council term.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting record on major city issues such as budget approvals, development projects, and policy changes?"
-  - "Which specific committees has McAlister served on and what role did they play in committee decisions and recommendations?"
-  - "How does McAlister's meeting attendance rate compare to other council members, and were there any notable absences during key votes or discussions?"
+  - "What is Hadleigh McAlister's voting record on key municipal issues like budget approvals, development projects, and bylaw changes?"
+  - "Which specific committees does McAlister serve on, and what has been their attendance rate for committee meetings versus general council meetings?"
+  - "How does McAlister's meeting attendance rate compare to other council members, and have they missed any significant votes or discussions?"
 ---
 
-Hadleigh McAlister has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various areas of municipal governance. This level of meeting attendance suggests consistent participation in council proceedings throughout their term.
+Hadleigh McAlister has served on London City Council from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various municipal functions and policy areas.
 
-McAlister's multi-committee involvement reflects participation in diverse aspects of city governance, though the specific nature of these committee assignments is not detailed in the available data. Their tenure spans the current council term, representing ongoing service to London's municipal government.
+McAlister's participation record shows consistent involvement in council proceedings throughout their term. With over 200 meeting attendances across multiple years of service, they appear to maintain regular engagement with both general council sessions and specialized committee work spanning multiple areas of municipal governance.
 
 ## Terms of Service
 

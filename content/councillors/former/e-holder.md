@@ -6,12 +6,14 @@ meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Ed Holder's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2018-2022 term?"
-  - "Which specific committees did Ed Holder serve on, and what was his level of participation and leadership roles within those committees?"
-  - "How did Ed Holder's meeting attendance rate compare to other council members, and were there any notable absences during critical votes or discussions?"
+  - "What was Ed Holder's voting record on key municipal issues during his 2018-2022 term?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What specific committees did he serve on and what was his level of participation in committee work versus general council meetings?"
 ---
 
-Ed Holder served on London City Council from 2018 to 2022, demonstrating active participation with attendance at 313 meetings during his four-year term. He served on six different committees during his tenure, though the specific names of these committees are not clearly displayed in the available data. His consistent meeting attendance over this four-year period suggests regular engagement with council business and municipal governance responsibilities.
+Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings over his four-year term. During his tenure, he served on six different committees, indicating broad involvement across various areas of municipal governance. His meeting attendance record suggests consistent engagement with council business throughout his term.
+
+His four-year service period and substantial meeting attendance indicate he maintained regular participation in the formal proceedings of London City Council. The multiple committee assignments reflect his involvement in the detailed work of municipal government beyond general council meetings.
 
 ## Terms of Service
 

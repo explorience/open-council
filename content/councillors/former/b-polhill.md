@@ -6,14 +6,14 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting attendance rate and were there any notable absences from important council votes during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on and what was their level of participation in committee work versus general council meetings?"
-  - "How did Polhill's meeting attendance record of 199 meetings compare to other council members serving during the same 2011-2014 period?"
+  - "What was Bud Polhill's attendance rate compared to other council members during his 2011-2014 term?"
+  - "Which specific committees did Bud Polhill serve on and what was his level of participation in committee work?"
+  - "What was Bud Polhill's voting record on major municipal issues during his time on London City Council?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, representing a single four-year term during this period. Throughout their tenure, they demonstrated consistent engagement with council duties, attending 199 meetings over the course of their service. Polhill participated on five different committees during their time on council, though the specific committee names are not clearly displayed in the available data.
+Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during his term. He participated in committee work as part of his council duties, though the specific committee details are not clearly displayed in the available data.
 
-Their participation record shows active involvement in the municipal government process, with regular meeting attendance that suggests a committed approach to their council responsibilities. The four-year term from 2011-2014 represents one complete electoral cycle on London City Council.
+His four-year tenure represents one full term of service on London City Council, during which he maintained consistent engagement through regular meeting attendance. This level of participation indicates he was an active member of council throughout his time in office.
 
 ## Terms of Service
 
