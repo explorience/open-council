@@ -7,13 +7,13 @@ yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "What is Paul Van Meerbergen's voting record on major municipal issues and bylaws?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members who served similar terms?"
+  - "What is Paul Van Meerbergen's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members who served during the same time period?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant engagement through his attendance at 499 meetings over his tenure. His lengthy service spanning 14 years indicates sustained commitment to municipal governance in London, Canada. Throughout his time on council, Van Meerbergen has served on seven different committees, suggesting broad involvement across various areas of municipal policy and administration.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating substantial commitment through his attendance at 499 meetings over his tenure. His service spans approximately 14 years, indicating he has served multiple terms on council. During this time, he has participated on seven different committees, showing broad engagement across various areas of municipal governance and policy development.
 
-His extensive meeting attendance record and multi-committee participation reflect a high level of engagement with the council's work and decision-making processes during his years of service.
+Van Meerbergen's extensive meeting attendance record and multi-committee involvement suggests he has been a consistently engaged council member throughout his years of service. His long tenure from 2011 to 2025 indicates he has experienced multiple election cycles and has maintained voter support in his ward over more than a decade of municipal politics.
 
 ## Terms of Service
 

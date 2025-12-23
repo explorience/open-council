@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and how did it compare to other council members during his time in office?"
-  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "What were the key issues or policy areas that Stephen Turner most frequently voted on or advocated for during his 2014-2022 tenure?"
+  - "What was Stephen Turner's voting pattern on major municipal issues like budget approvals, development projects, and infrastructure investments?"
+  - "How frequently did Stephen Turner miss council meetings, and what was his attendance rate compared to other council members during his tenure?"
+  - "Which specific committees did Stephen Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During his tenure, he attended 417 council meetings and served on seven different committees, indicating active involvement in the council's work and committee structure.
+Stephen Turner served on London City Council, Canada for eight years from 2014 to 2022, demonstrating consistent civic engagement through his attendance at 417 council meetings during this period. Throughout his tenure, he participated on seven different committees, indicating broad involvement across various areas of municipal governance and policy-making.
 
-His attendance record and multi-committee participation suggest a dedicated commitment to municipal governance throughout his two terms on council. The substantial number of meetings attended over his eight years of service reflects regular engagement with the city's decision-making processes.
+His meeting attendance record suggests regular participation in council proceedings over nearly a decade of service. The committee involvement shows he took on responsibilities beyond general council meetings, contributing to the detailed work that committees perform in reviewing issues, policies, and initiatives before they come to full council.
 
 ## Terms of Service
 

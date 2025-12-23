@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on major municipal issues during their time on council?"
-  - "Which specific committees did Mo Salih serve on and what was their role or contribution to those committees?"
-  - "How did Mo Salih's attendance rate of 350 meetings compare to other council members during the same period?"
+  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Mo Salih serve on and what roles did they hold within those committees?"
+  - "Did Mo Salih sponsor or champion any particular pieces of legislation or municipal initiatives during their eight years on council?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During their tenure, they attended 350 council meetings, which indicates regular engagement with municipal governance responsibilities. They participated in committee work as part of their council duties, though the specific committee details are not clearly specified in the available data.
+Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During their tenure, they attended 350 council meetings and served on four committees, though the specific committee names are not clearly identified in the available data.
 
-Their service span of nearly a decade suggests they were re-elected at least once during their time on council, as municipal terms in Ontario are typically four years in length. The substantial number of meeting attendances reflects active participation in the formal decision-making processes of London's municipal government.
+Their sustained participation across nearly a decade indicates regular engagement with municipal governance and committee work. The attendance of 350 meetings over eight years suggests active involvement in council proceedings and municipal decision-making processes.
 
 ## Terms of Service
 

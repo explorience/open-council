@@ -6,14 +6,14 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's attendance rate compared to other council members during his 2011-2014 term?"
-  - "Which specific committees did Bud Polhill serve on and what was his level of participation in committee work?"
-  - "What was Bud Polhill's voting record on major municipal issues during his time on London City Council?"
+  - "What was Bud Polhill's voting record on major budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings versus regular council meetings?"
+  - "Did Polhill sponsor or champion any particular initiatives or motions during their time on council?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during his term. He participated in committee work as part of his council duties, though the specific committee details are not clearly displayed in the available data.
+Bud Polhill served on London City Council from 2011-2014, completing a full four-year term. During this period, they attended 199 council meetings, demonstrating active participation in the city's governance. Polhill served on five different committees during their tenure, though the specific committee names are not clearly displayed in the available data.
 
-His four-year tenure represents one full term of service on London City Council, during which he maintained consistent engagement through regular meeting attendance. This level of participation indicates he was an active member of council throughout his time in office.
+Their meeting attendance of 199 sessions over four years indicates consistent engagement with council business and municipal decision-making processes. As a councillor during this period, Polhill would have participated in deliberations on municipal budgets, policy decisions, and local governance matters affecting London residents.
 
 ## Terms of Service
 

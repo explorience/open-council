@@ -6,14 +6,14 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting record on key municipal issues like budget approvals, development projects, and bylaw changes?"
-  - "Which specific committees does McAlister serve on, and what has been their attendance rate for committee meetings versus general council meetings?"
-  - "How does McAlister's meeting attendance rate compare to other council members, and have they missed any significant votes or discussions?"
+  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
+  - "What is McAlister's voting record on major municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
-Hadleigh McAlister has served on London City Council from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various municipal functions and policy areas.
+Hadleigh McAlister has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 203 council meetings during this period. Their council service includes participation on six different committees, showing broad engagement across various municipal responsibilities and policy areas.
 
-McAlister's participation record shows consistent involvement in council proceedings throughout their term. With over 200 meeting attendances across multiple years of service, they appear to maintain regular engagement with both general council sessions and specialized committee work spanning multiple areas of municipal governance.
+McAlister's consistent meeting attendance over their three-year term indicates regular involvement in council deliberations and decision-making processes. Their multi-committee participation suggests they have taken on diverse responsibilities within the municipal government structure.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Steve Lehman served on during his time on London City Council?"
-  - "What is Steve Lehman's voting pattern on major city issues such as budget approvals, development projects, or policy changes?"
-  - "How does Steve Lehman's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his tenure?"
+  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, and tax increases?"
+  - "How often has Steve Lehman missed scheduled council meetings, and what is his overall attendance rate compared to other council members?"
+  - "Which specific committees has Steve Lehman served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings over this seven-year period. During his tenure, he has served on six different committees, indicating broad involvement in various aspects of municipal governance and policy development.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings during this period. His council tenure spans approximately seven years, indicating he has served across multiple terms. Lehman has been appointed to six different committees during his time on council, showing involvement in various aspects of municipal governance and policy development.
 
-His sustained presence on council, spanning multiple years and involving extensive meeting attendance, suggests an active role in London's municipal decision-making processes. The diversity of his committee involvement indicates participation across different areas of city administration and planning.
+His attendance record of 386 meetings suggests active engagement in council proceedings over his years of service. The breadth of his committee involvement indicates participation in diverse areas of municipal responsibility, though the specific nature of these committees and his roles within them would require additional information to detail.
 
 ## Terms of Service
 

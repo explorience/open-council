@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on major municipal issues such as budget approvals, development proposals, and bylaw amendments?"
-  - "Which specific committees does Peter Cuddy serve on, and what leadership roles, if any, does he hold within those committees?"
-  - "How does Peter Cuddy's meeting attendance rate compare to other council members, and has his participation been consistent throughout his 2022-2025 term?"
+  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
+  - "What is Peter Cuddy's voting record on major municipal issues and bylaws?"
+  - "How does Peter Cuddy's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated strong participation by attending 204 meetings. His council involvement extends beyond general meetings, as he has served on eight different committees, indicating a broad engagement across various municipal issues and governance areas.
+Peter Cuddy has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated strong participation by attending 204 meetings. His council involvement extends beyond general council meetings, as he has served on 8 different committees, indicating broad engagement across various municipal issues and portfolios.
 
-His consistent meeting attendance and extensive committee participation suggest a committed approach to his council responsibilities during his term.
+His consistent meeting attendance and extensive committee participation suggests he has maintained an active role in London's municipal governance throughout his term. The high number of meetings attended relative to his years of service indicates regular engagement with council business and committee work.
 
 ## Terms of Service
 

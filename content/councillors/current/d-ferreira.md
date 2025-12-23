@@ -6,14 +6,14 @@ meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "What is David Ferreira's voting record on key municipal issues such as budget approval, development projects, and policy changes?"
-  - "How does David Ferreira's meeting attendance rate of 208 meetings compare to other council members during the same period?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees does David Ferreira serve on, and what has been his attendance rate and level of participation in each committee?"
+  - "How does David Ferreira's meeting attendance rate of 208 meetings compare to other council members and the expected number of meetings for his term period?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated strong participation by attending 208 meetings. His involvement extends across multiple committees, serving on eight different committees throughout his tenure, indicating broad engagement across various municipal issues and governance areas.
+David Ferreira is currently serving on London City Council, Canada, with a term spanning from 2022 to 2025. During this period, he has demonstrated active participation by attending 208 meetings. His council involvement extends across multiple committees, serving on eight different committees throughout his tenure.
 
-His consistent meeting attendance and extensive committee participation suggests a hands-on approach to municipal governance. With his term spanning from 2022 to 2025, Ferreira appears to maintain regular involvement in the council's decision-making processes across multiple areas of city business.
+His consistent meeting attendance and broad committee participation indicate an engaged approach to municipal governance, contributing to various aspects of city administration and policy development across multiple portfolios during his current term.
 
 ## Terms of Service
 

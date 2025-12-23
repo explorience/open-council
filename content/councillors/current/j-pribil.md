@@ -6,14 +6,12 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development applications, and bylaw amendments?"
-  - "How often has he voted differently from the majority of council, and on what types of issues has he taken opposing positions?"
-  - "What specific committees has he served on, and has he held any leadership roles such as committee chair or vice-chair positions?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has Jerry Pribil served on, and what leadership roles, if any, have they held within those committees?"
+  - "How does Jerry Pribil's meeting attendance rate compare to other council members, and have they missed any critical votes or discussions?"
 ---
 
-Jerry Pribil has been an active member of London City Council from 2022-2025, demonstrating strong participation through attendance at 212 meetings during this period. His council involvement extends beyond regular council meetings, as he has served on eight different committees throughout his term, indicating broad engagement across various municipal portfolios and policy areas.
-
-This level of meeting attendance and committee participation suggests consistent civic engagement and dedication to municipal governance responsibilities. His multi-committee involvement likely provides him with diverse perspectives on city operations and allows him to contribute to decision-making across multiple areas of municipal administration.
+Jerry Pribil has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various areas of municipal governance and policy development.
 
 ## Terms of Service
 

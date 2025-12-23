@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
-  - "How does Anna Hopkins' meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her tenure?"
+  - "What is Anna Hopkins' voting record on major municipal issues such as budget approvals, development projects, and tax rate decisions?"
+  - "Which specific committees has she served on and what roles (chair, vice-chair, or member) has she held on these committees?"
+  - "How does her meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her years of service?"
 ---
 
-Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating significant commitment through her attendance at 640 meetings over this 11-year period. This represents an average of approximately 58 meetings per year, indicating consistent and active participation in council proceedings.
+Anna Hopkins has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During her tenure, she has demonstrated consistent engagement by attending 640 council meetings and serving on 8 different committees, indicating broad involvement across various areas of city governance and policy development.
 
-Throughout her tenure, Hopkins has served on 8 different committees, showing broad involvement across various areas of municipal governance. Her extended service period of over a decade and substantial meeting attendance record suggest she has been a dedicated and engaged member of London City Council.
+Her sustained participation over this 11-year period suggests a commitment to municipal affairs and community representation. The high number of meeting attendances and committee memberships reflects active engagement in the council's decision-making processes and ongoing municipal business.
 
 ## Terms of Service
 

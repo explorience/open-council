@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Steve Hillier served on and what were his roles or contributions to those committees?"
-  - "Has Steve Hillier sponsored or championed any particular bylaws, motions, or initiatives during his time on London City Council?"
+  - "What is Steve Hillier's voting record on major municipal issues during his time on council?"
+  - "Which specific committees has he served on and what were his roles or contributions to those committees?"
+  - "How does his meeting attendance rate compare to other council members during the same period?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this seven-year period, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council meetings, as he has served on seven different committees throughout his tenure, indicating broad engagement across various areas of municipal governance.
+Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated strong participation by attending 453 meetings. His council involvement extends beyond general council meetings, as he has served on seven different committees, indicating broad engagement across various aspects of municipal governance.
 
-Hillier's extensive meeting attendance record and multi-committee involvement suggests he has maintained regular participation in the council's decision-making processes. His service span covers what appears to be at least two council terms, showing sustained commitment to municipal public service in London.
+His sustained participation over this seven-year period and extensive meeting attendance record suggests consistent involvement in London's municipal decision-making processes. The multiple committee appointments reflect his participation in specialized areas of city governance, though the specific nature of these committee roles would require additional information to detail.
 
 ## Terms of Service
 

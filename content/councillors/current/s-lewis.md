@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "What is Shawn Lewis's voting attendance rate and how do they typically vote on key municipal issues?"
-  - "Has Shawn Lewis held any leadership positions, such as committee chair roles, during their council service?"
+  - "What specific committees has Shawn Lewis served on and what were their roles or positions on those committees?"
+  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Shawn Lewis's meeting attendance rate compare to other council members, and were there any notable absences during key votes or decisions?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating significant involvement through attendance at 495 meetings during this period. This represents substantial participation in council proceedings over approximately seven years of service. Lewis has served on eight different committees during their tenure, indicating broad engagement across various areas of municipal governance and policy development.
+Shawn Lewis has served as a member of London City Council from 2018 to 2025, demonstrating substantial engagement through attendance at 495 meetings during this period. Their council participation spans approximately seven years, indicating service across at least two municipal terms. Lewis has been appointed to eight different committees throughout their tenure, showing broad involvement in various aspects of municipal governance and policy development.
 
-The high meeting attendance figure suggests consistent participation in both regular council sessions and committee work throughout their time in office. Their service across multiple committees indicates involvement in diverse aspects of city administration and policy-making processes during their council term.
+This level of meeting attendance and committee participation suggests consistent engagement with council duties and responsibilities. The multi-committee involvement indicates Lewis has contributed to diverse areas of municipal decision-making, though the specific nature of these committees and their focus areas would require additional information to detail.
 
 ## Terms of Service
 

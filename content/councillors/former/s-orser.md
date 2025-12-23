@@ -6,14 +6,12 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting pattern on major city budget decisions during his 2011-2014 term?"
-  - "Which specific committees did Stephen Orser serve on and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "Did Stephen Orser take any leadership roles, such as chairing committees or serving as deputy mayor, during his time on council?"
+  - "What was Stephen Orser's voting pattern on major budget decisions during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on, and did he hold any chair or vice-chair positions?"
+  - "How did Stephen Orser's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, demonstrating active participation during his four-year term. Over this period, he attended 112 council meetings, indicating consistent engagement in municipal governance. His council service included participation on four different committees, though the specific committee names are not clearly indicated in the available data.
-
-Orser's attendance record suggests he was a committed council member who prioritized his municipal duties during his single term in office. His involvement across multiple committees would have provided him with diverse exposure to various aspects of city governance and policy development during the early 2010s.
+Stephen Orser served on London City Council from 2011 to 2014, spanning one full term of municipal government. During his tenure, he demonstrated active participation by attending 112 council meetings over the four-year period. Orser served on four different committees during his time on council, though the specific committee names are not clearly identifiable in the available data. His consistent meeting attendance suggests regular engagement with municipal governance and decision-making processes throughout his term.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's attendance rate and how did it compare to other council members during her tenure?"
-  - "Which specific committees did she serve on and did she hold any chair or vice-chair positions?"
-  - "What were her voting patterns on major municipal issues such as budget approval, development proposals, and infrastructure projects?"
+  - "What was Maureen Cassidy's attendance rate compared to other council members during her time in office?"
+  - "Which specific committees did she serve on and did she hold any leadership positions on these committees?"
+  - "How did she vote on major municipal issues such as budget approvals, development proposals, or policy changes during her 2014-2022 tenure?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, spanning an eight-year tenure. During this period, she demonstrated consistent engagement by attending 536 council meetings. Her council participation included service on seven different committees, indicating broad involvement across various areas of municipal governance.
+Maureen Cassidy served on London City Council, Canada from 2014 to 2022, demonstrating consistent civic engagement over an eight-year period. During her tenure, she attended 536 council meetings and served on seven different committees, indicating active participation in the legislative and committee work of the municipality.
 
-Her extended service period of eight years suggests she served at least two full terms on council, as municipal terms in Ontario are typically four years in length. The high number of meetings attended over this timeframe reflects active participation in the council's regular business and decision-making processes.
+Her participation record shows regular involvement in council business across two full terms of office. The substantial number of meetings attended and multiple committee assignments suggest she maintained an active role in municipal governance throughout her time on council.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council?"
-  - "What is Josh Morgan's voting record on major municipal issues like budget approvals, development projects, or policy changes?"
-  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his tenure?"
+  - "What is Josh Morgan's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has Josh Morgan served on and in what capacity (chair, vice-chair, or member)?"
+  - "How has Josh Morgan's committee assignments and areas of focus evolved throughout his time on council from 2014 to 2025?"
 ---
 
-Josh Morgan has been an active member of London City Council, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has demonstrated consistent engagement by attending 654 council meetings and serving on 8 different committees, indicating broad involvement across various areas of municipal governance.
+Josh Morgan has served on London City Council for over a decade, with active participation spanning from 2014 to 2025. During this period, he has demonstrated consistent engagement with council business, attending 654 meetings. His service includes participation on eight different committees, indicating broad involvement across various municipal governance areas and policy domains.
 
-His extensive meeting attendance record and multi-committee participation suggests a high level of commitment to council duties over his years of service. The span from 2014 to 2025 represents nearly three full municipal terms, reflecting sustained civic engagement and re-election by constituents in his ward.
+Morgan's lengthy tenure and substantial meeting attendance record suggests sustained commitment to municipal governance in London, Ontario. His multi-committee involvement reflects active participation in the detailed committee work that forms the foundation of city council decision-making processes.
 
 ## Terms of Service
 

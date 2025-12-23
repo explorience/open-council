@@ -4,14 +4,14 @@ type: committee
 slug: "community-protective-services"
 meetingCount: 196
 prefillQuestions:
-  - "What specific community programs and social services does this committee oversee, and how can residents access or provide input on these services?"
-  - "How does the committee prioritize budget allocations between different protective services like fire, police, and paramedic services, and what metrics do they use to measure effectiveness?"
-  - "What role does this committee play in addressing major community issues like homelessness, affordable housing, and emergency preparedness, and how do they coordinate with other levels of government?"
+  - "What specific community programs and protective services fall under this committee's jurisdiction, and how are budget allocations determined for these services?"
+  - "How can residents participate in committee meetings or provide input on community and safety issues being discussed?"
+  - "What are the current priority initiatives the committee is working on, and how do they align with London's broader strategic plans for community development and public safety?"
 ---
 
-The Community and Protective Services Committee is one of the standing committees of London City Council that plays a crucial role in municipal governance by overseeing services that directly impact residents' daily lives, safety, and well-being. This committee typically handles matters related to community services, public safety, emergency services, social programs, housing initiatives, public health measures, and protective services such as fire, police, and paramedic services. With 196 meetings held to date, including both regular and special meetings, the committee demonstrates an active and ongoing commitment to addressing community needs and public safety concerns.
+The Community and Protective Services Committee is one of the standing committees of London City Council that plays a crucial role in municipal governance by overseeing services that directly impact residents' safety, well-being, and quality of life. This committee typically handles matters related to public safety services including fire and emergency services, police oversight, bylaw enforcement, and emergency management planning. It also addresses community services such as housing programs, social services, public health initiatives, recreational facilities, libraries, and community development programs.
 
-The committee serves as a vital link between city administration and council, reviewing staff reports, budget proposals, policy recommendations, and program updates before they proceed to full council for final approval. Their work encompasses a broad spectrum of issues including affordable housing strategies, homelessness initiatives, community development programs, emergency preparedness, public safety protocols, and social service delivery. Through their regular meetings and special sessions, committee members evaluate the effectiveness of existing programs, consider new initiatives, and ensure that London's community and protective services meet the evolving needs of its citizens while maintaining fiscal responsibility.
+As an active committee that has held 196 meetings to date, it serves as a forum for reviewing policies, budgets, and strategic initiatives before they proceed to full City Council for final approval. The committee examines staff reports, hears from community stakeholders, and makes recommendations on issues ranging from affordable housing strategies and homelessness responses to fire station locations and community safety programs. Recent meeting patterns show regular monthly sessions supplemented by special meetings when urgent matters arise, demonstrating the committee's ongoing commitment to addressing evolving community needs and protective service requirements.
 
 ## Recent Meetings
 

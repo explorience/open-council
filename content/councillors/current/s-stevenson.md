@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Susan Stevenson served on during her time on London City Council?"
-  - "What is Susan Stevenson's voting record on key municipal issues and bylaws?"
-  - "How does Susan Stevenson's meeting attendance rate of 178 meetings compare to other council members during the same period?"
+  - "How does her meeting attendance record of 178 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development proposals, or policy changes?"
 ---
 
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her tenure, she has demonstrated strong participation by attending 178 meetings and serving on eight different committees. Her consistent meeting attendance and extensive committee involvement indicate a high level of engagement in municipal governance and decision-making processes.
+Susan Stevenson has been an active member of London City Council from 2022-2025, demonstrating strong engagement through her attendance at 178 council meetings during this period. Her participation extends beyond general council meetings, as she has served on eight different committees throughout her tenure, indicating broad involvement in various aspects of municipal governance and policy development.
 
-Her service spans multiple committees, suggesting broad involvement across various aspects of city operations and policy development. With her term running from 2022 to 2025, Stevenson appears to be serving in the current council term and has maintained an active presence in council proceedings throughout her time in office.
+Her consistent meeting attendance and extensive committee work suggests a commitment to the procedural and collaborative aspects of municipal government. Serving on multiple committees allows council members to develop expertise in specific areas and contribute to detailed policy discussions before matters reach the full council for consideration.
 
 ## Terms of Service
 

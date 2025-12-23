@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 452 meetings compare to other council members during the same time period?"
-  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
+  - "Which specific committees has she served on, and what leadership roles, if any, has she held within those committees?"
+  - "How does her meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her 2018-2025 term?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 meetings during this period. Her council participation spans seven years of service, during which she has served on nine different committees, indicating broad involvement across various aspects of municipal governance and policy areas within the city.
+Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated strong participation by attending 452 meetings, indicating consistent engagement in council proceedings. Her involvement extends beyond regular council sessions, as she has served on nine different committees throughout her time in office, showing broad participation across various areas of municipal governance.
 
-Her extensive meeting attendance record and multi-committee involvement suggest a high level of commitment to her council duties and active participation in London's municipal decision-making processes throughout her tenure.
+Her multi-year service spanning seven years and extensive committee involvement suggests she has taken on significant responsibilities within the council structure. The high number of meetings attended reflects regular participation in the decision-making processes that affect London, Ontario residents.
 
 ## Terms of Service
 

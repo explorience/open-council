@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Jesse Helmer serve on during their time on London City Council?"
-  - "How did Jesse Helmer vote on major municipal issues such as budget approvals, development projects, or policy changes during their 2014-2022 tenure?"
-  - "What was Jesse Helmer's attendance rate compared to other council members, and were there any notable patterns in their participation or absences?"
+  - "What was Jesse Helmer's voting record on major municipal issues such as budget approvals, development projects, and infrastructure investments?"
+  - "How often did Jesse Helmer vote differently from the majority position on council, and on what types of issues?"
+  - "Did Jesse Helmer sponsor or champion any specific motions or initiatives during their time on council?"
 ---
 
-Jesse Helmer served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over this period. During their tenure, they served on eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over this eight-year period. During their tenure, Helmer was appointed to eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Their sustained participation over nearly a decade suggests a commitment to municipal service, with regular meeting attendance averaging approximately 72-73 meetings per year throughout their time in office. The extensive committee work reflects engagement in the detailed policy development and oversight functions that are essential to municipal governance.
+This level of meeting attendance and committee participation suggests active engagement in the council's work throughout their two terms of service. The extensive committee involvement would have provided Helmer with experience across multiple facets of municipal operations and decision-making processes.
 
 ## Terms of Service
 

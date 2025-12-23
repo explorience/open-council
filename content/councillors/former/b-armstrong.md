@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Bill Armstrong serve on during his time on London City Council?"
-  - "What was Bill Armstrong's voting record on key municipal issues and bylaws during his 2012-2018 tenure?"
-  - "How does his meeting attendance rate of 245 meetings compare to other council members who served during the same period?"
+  - "What was Bill Armstrong's voting pattern on key municipal issues like budget approvals, development proposals, and tax increases during his 2012-2018 tenure?"
+  - "How did his committee attendance compare to his overall council meeting attendance, and did he hold any leadership positions on the committees he served?"
+  - "What specific wards or areas of London did Armstrong represent, and how did he vote on issues that directly affected his constituents?"
 ---
 
-Bill Armstrong served on London City Council for six years from 2012 to 2018. During his tenure, he demonstrated active participation by attending 245 meetings over this period. Armstrong served on five committees during his time on council, showing engagement across multiple areas of municipal governance and policy development.
+Bill Armstrong served on London City Council from 2012 to 2018, demonstrating consistent participation with attendance at 245 meetings during his tenure. Over his six-year term, Armstrong was actively involved in committee work, serving on five different committees throughout his time on council. His meeting attendance record suggests regular engagement with council business and municipal governance responsibilities.
 
-His consistent meeting attendance and committee involvement suggest a committed approach to his council responsibilities throughout his six-year term on London City Council.
+Armstrong's six-year tenure represents either one full term plus a partial term or multiple terms on London City Council, indicating sustained involvement in local government. His participation across multiple committees shows broad engagement with various aspects of municipal operations and policy development during his time serving the London community.
 
 ## Terms of Service
 

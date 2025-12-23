@@ -6,14 +6,12 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Skylar Franke's voting record on major city issues and how often do they vote with the majority versus in dissent?"
-  - "Which specific committees does Skylar Franke serve on and what role do they play in committee leadership or decision-making?"
-  - "How does Skylar Franke's meeting attendance rate compare to other council members, and have they missed any significant votes or discussions?"
+  - "What is Skylar Franke's voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has Skylar Franke served on, and what role did they play in committee decisions and recommendations?"
+  - "How does Skylar Franke's meeting attendance rate of 179 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
-Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025 during the current council term. During this period, they have demonstrated consistent participation by attending 179 council meetings. Franke has taken on substantial committee responsibilities, serving on seven different committees, indicating broad engagement across various municipal governance areas.
-
-Their attendance record and extensive committee involvement suggest a high level of commitment to their council duties. With nearly two years of service completed in their current term, Franke appears to maintain regular participation in the formal proceedings of municipal government.
+Skylar Franke has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 179 council meetings during this period. Their council involvement extends beyond general meetings, as they have served on seven different committees, though the specific names of these committees are not clearly displayed in the available data. This level of meeting attendance and committee participation suggests consistent engagement in municipal governance over their term.
 
 ## Terms of Service
 
