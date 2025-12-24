@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Josh Morgan's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Josh Morgan served on and in what capacity (chair, vice-chair, or member)?"
-  - "How has Josh Morgan's committee assignments and areas of focus evolved throughout his time on council from 2014 to 2025?"
+  - "What is Josh Morgan's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
+  - "How frequently has Josh Morgan initiated motions or proposed amendments during council meetings, and what topics has he championed?"
+  - "What specific committees has Josh Morgan served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Josh Morgan has served on London City Council for over a decade, with active participation spanning from 2014 to 2025. During this period, he has demonstrated consistent engagement with council business, attending 654 meetings. His service includes participation on eight different committees, indicating broad involvement across various municipal governance areas and policy domains.
+Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing nearly 11 years of continuous service. During this tenure, he has demonstrated consistent participation by attending 654 council meetings. His involvement extends beyond general council duties, as he has served on 8 different committees throughout his time in office, indicating broad engagement across various municipal governance areas and policy domains.
 
-Morgan's lengthy tenure and substantial meeting attendance record suggests sustained commitment to municipal governance in London, Ontario. His multi-committee involvement reflects active participation in the detailed committee work that forms the foundation of city council decision-making processes.
+Morgan's extensive meeting attendance record and multi-committee involvement suggest a commitment to the procedural and collaborative aspects of municipal governance. His long tenure spanning over a decade provides him with substantial institutional knowledge and experience in London's civic affairs.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, and tax increases?"
-  - "How often has Steve Lehman missed scheduled council meetings, and what is his overall attendance rate compared to other council members?"
-  - "Which specific committees has Steve Lehman served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "What specific committees has Steve Lehman served on during his time on London City Council?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members?"
+  - "Has Steve Lehman held any leadership positions such as committee chair or deputy mayor during his council tenure?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 386 meetings during this period. His council tenure spans approximately seven years, indicating he has served across multiple terms. Lehman has been appointed to six different committees during his time on council, showing involvement in various aspects of municipal governance and policy development.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. His council service spans seven years, indicating he has served through multiple terms. Lehman has participated on six different committees throughout his tenure, showing broad engagement across various areas of municipal governance.
 
-His attendance record of 386 meetings suggests active engagement in council proceedings over his years of service. The breadth of his committee involvement indicates participation in diverse areas of municipal responsibility, though the specific nature of these committees and his roles within them would require additional information to detail.
+His consistent meeting attendance and multi-committee involvement suggests a high level of engagement in London's municipal decision-making processes. The substantial number of meetings attended over his years of service indicates regular participation in both regular council sessions and committee work.
 
 ## Terms of Service
 

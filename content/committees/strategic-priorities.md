@@ -4,14 +4,14 @@ type: committee
 slug: "strategic-priorities"
 meetingCount: 274
 prefillQuestions:
-  - "What specific criteria does the Strategic Priorities and Policy Committee use to determine which issues qualify as "strategic priorities" versus routine municipal business?"
-  - "How does the public provide input to the Strategic Priorities and Policy Committee, and at what stage in the policy development process is citizen engagement most encouraged?"
-  - "What is the typical timeline from when the Strategic Priorities and Policy Committee makes a recommendation to when it becomes implemented city policy or bylaw?"
+  - "What specific policy areas or municipal services does the Strategic Priorities and Policy Committee have authority over, and how do its decisions affect daily city operations?"
+  - "How can residents provide input or present concerns to the Strategic Priorities and Policy Committee, and are the committee meetings open to public attendance?"
+  - "What is the relationship between this committee's recommendations and final City Council decisions - do the committee's proposals typically get approved by the full council?"
 ---
 
-The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, Canada, functioning as a standing committee that addresses high-level municipal policy decisions and strategic planning initiatives. Based on its extensive meeting history of 274 sessions, this committee appears to play a central role in shaping the city's long-term direction and priorities. The committee typically handles major policy development, strategic planning exercises, budget considerations related to strategic initiatives, and coordination of cross-departmental municipal priorities.
+The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, responsible for addressing high-level policy matters and strategic direction for the city. As indicated by its substantial meeting history of 274 sessions, this committee plays an active and ongoing role in municipal decision-making processes. The committee appears to operate on a regular schedule, with meetings numbered sequentially within what are likely annual or term-based cycles, suggesting it meets frequently throughout the year to address pressing municipal issues.
 
-As an integral part of London's municipal governance structure, the Strategic Priorities and Policy Committee likely reviews and makes recommendations on significant city-wide issues before they proceed to full City Council for final approval. The committee's mandate typically encompasses areas such as economic development strategies, infrastructure planning, community services policy, environmental initiatives, and other matters that require comprehensive policy analysis and strategic coordination across multiple city departments. Given the frequency of meetings and the committee's prominent position in the governance structure, it serves as a critical forum for elected officials to deliberate on complex issues that will shape London's future development and service delivery.
+This committee typically handles strategic planning initiatives, policy development, and priority-setting for various city departments and services. Given its name and structure within the municipal government framework, it likely addresses budget considerations, long-term planning objectives, interdepartmental coordination, and policy responses to emerging community needs. The committee serves as a forum for councilors to deliberate on complex issues that require strategic thinking and may impact multiple areas of city operations, helping to ensure that London's municipal policies align with broader community goals and priorities.
 
 ## Recent Meetings
 

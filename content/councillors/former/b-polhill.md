@@ -6,14 +6,12 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting record on major budget decisions during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "Did Polhill sponsor or champion any particular initiatives or motions during their time on council?"
+  - "What was Bud Polhill's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on, and what was their attendance rate and level of participation in committee work?"
+  - "Did Polhill run for re-election after their 2011-2014 term, and if so, what were the results of that election?"
 ---
 
-Bud Polhill served on London City Council from 2011-2014, completing a full four-year term. During this period, they attended 199 council meetings, demonstrating active participation in the city's governance. Polhill served on five different committees during their tenure, though the specific committee names are not clearly displayed in the available data.
-
-Their meeting attendance of 199 sessions over four years indicates consistent engagement with council business and municipal decision-making processes. As a councillor during this period, Polhill would have participated in deliberations on municipal budgets, policy decisions, and local governance matters affecting London residents.
+Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during this four-year term. Throughout their tenure, Polhill served on five different committees, though the specific names of these committees are not clearly indicated in the available data. This level of meeting attendance and committee involvement suggests consistent engagement in the municipal governance process during their single term on council.
 
 ## Terms of Service
 

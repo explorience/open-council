@@ -6,14 +6,14 @@ meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joni Baechler's voting record on major city issues during their 2011-2014 term?"
-  - "Which specific committees did Baechler serve on and what were their key contributions to each?"
+  - "What was Joni Baechler's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Baechler serve on, and what role did they play in committee leadership positions?"
   - "How did Baechler's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Joni Baechler served on London City Council from 2011-2014, spanning one full term. During this four-year period, they attended 132 council meetings, demonstrating consistent participation in the city's legislative proceedings. Baechler served on seven different committees during their tenure, indicating involvement across multiple areas of municipal governance and policy development.
+Joni Baechler served on London City Council from 2011 to 2014, representing a single four-year term. During this period, they demonstrated active participation by attending 132 council meetings. Baechler served on seven different committees throughout their tenure, indicating broad involvement across various municipal governance areas, though the specific committee names are not clearly identified in the available data.
 
-Their meeting attendance record shows regular engagement with council business throughout their term. The breadth of committee involvement suggests they took on diverse responsibilities within the council structure, contributing to various aspects of city administration and decision-making processes during their time in office.
+Their participation record shows consistent engagement with the council's work over the four-year period, with meeting attendance that suggests regular involvement in municipal decision-making processes and committee work that would have contributed to policy development and oversight across multiple city departments and initiatives.
 
 ## Terms of Service
 

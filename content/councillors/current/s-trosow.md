@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Sam Trosow served on during their 2022-2025 term?"
-  - "How does Sam Trosow's meeting attendance record of 209 meetings compare to other council members during the same period?"
-  - "What has been Sam Trosow's voting pattern on major municipal issues like budget approvals, development proposals, or policy changes?"
+  - "What is Sam Trosow's voting record on major city budget decisions and tax rate changes?"
+  - "How often has Sam Trosow introduced motions or amendments, and what topics do they typically focus on?"
+  - "What has been Sam Trosow's attendance rate compared to other council members, and have they missed votes on any significant issues?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 209 meetings during this period. Their council involvement extends beyond general council meetings, as they have served on eight different committees, indicating broad engagement across various municipal portfolios and policy areas.
+Sam Trosow has been an active member of London City Council from 2022 to 2025, demonstrating strong engagement through attendance at 209 meetings during this period. Their participation extends beyond regular council meetings, as they have served on eight different committees throughout their tenure, indicating broad involvement across various areas of municipal governance.
 
-Trosow's participation record suggests consistent involvement in London's municipal governance, with their multi-committee service reflecting either diverse interests or assignments to key municipal functions. Their meeting attendance of 209 sessions over the 2022-2025 term indicates regular participation in the city's decision-making processes.
+This level of meeting attendance and committee participation suggests consistent civic engagement and a commitment to the various aspects of municipal decision-making that occur both in full council sessions and through the committee system that helps guide city business.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on major municipal issues such as budget approvals, development projects, and infrastructure investments?"
-  - "How often did Jesse Helmer vote differently from the majority position on council, and on what types of issues?"
-  - "Did Jesse Helmer sponsor or champion any specific motions or initiatives during their time on council?"
+  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership roles such as chair or vice-chair positions?"
+  - "What were the key issues or policy areas where Jesse Helmer took notable positions or played a significant role in council decisions?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over this eight-year period. During their tenure, Helmer was appointed to eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, they maintained active involvement in council operations by serving on eight different committees, showing broad engagement across various municipal functions and policy areas.
 
-This level of meeting attendance and committee participation suggests active engagement in the council's work throughout their two terms of service. The extensive committee involvement would have provided Helmer with experience across multiple facets of municipal operations and decision-making processes.
+Their sustained participation across nearly a decade indicates a commitment to municipal governance, with their meeting attendance and committee involvement reflecting regular engagement in London's city council processes and decision-making structures.
 
 ## Terms of Service
 

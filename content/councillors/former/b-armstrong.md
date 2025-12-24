@@ -6,14 +6,12 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting pattern on key municipal issues like budget approvals, development proposals, and tax increases during his 2012-2018 tenure?"
-  - "How did his committee attendance compare to his overall council meeting attendance, and did he hold any leadership positions on the committees he served?"
-  - "What specific wards or areas of London did Armstrong represent, and how did he vote on issues that directly affected his constituents?"
+  - "What was Bill Armstrong's voting record on major budget decisions during his 2012-2018 tenure?"
+  - "How often did Bill Armstrong speak or propose motions during council meetings compared to other councillors?"
+  - "Which specific committees did Bill Armstrong serve on and what was his attendance rate for each committee?"
 ---
 
-Bill Armstrong served on London City Council from 2012 to 2018, demonstrating consistent participation with attendance at 245 meetings during his tenure. Over his six-year term, Armstrong was actively involved in committee work, serving on five different committees throughout his time on council. His meeting attendance record suggests regular engagement with council business and municipal governance responsibilities.
-
-Armstrong's six-year tenure represents either one full term plus a partial term or multiple terms on London City Council, indicating sustained involvement in local government. His participation across multiple committees shows broad engagement with various aspects of municipal operations and policy development during his time serving the London community.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, demonstrating consistent participation with attendance at 245 meetings over his six-year tenure. During his time on council, he served on five different committees, showing active involvement in various aspects of municipal governance. His sustained participation across multiple committees and regular meeting attendance suggests he maintained an engaged presence throughout his council term.
 
 ## Terms of Service
 

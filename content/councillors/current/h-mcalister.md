@@ -6,14 +6,14 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
-  - "What is McAlister's voting record on major municipal issues such as budget approvals, development proposals, or policy changes?"
-  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members during the same 2022-2025 period?"
+  - "What is Hadleigh McAlister's voting record on key municipal issues such as budget approvals, development proposals, and city services?"
+  - "Which specific committees does McAlister serve on and what role do they play in each committee's decision-making process?"
+  - "How does McAlister's meeting attendance rate compare to other council members, and have they missed any critical votes or decisions?"
 ---
 
-Hadleigh McAlister has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 203 council meetings during this period. Their council service includes participation on six different committees, showing broad engagement across various municipal responsibilities and policy areas.
+Hadleigh McAlister has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated strong participation by attending 203 meetings and serving on six different committees. Their consistent meeting attendance and involvement across multiple committees indicates a high level of engagement in municipal governance and council business.
 
-McAlister's consistent meeting attendance over their three-year term indicates regular involvement in council deliberations and decision-making processes. Their multi-committee participation suggests they have taken on diverse responsibilities within the municipal government structure.
+McAlister's service spans the current council term, showing their commitment to municipal representation through regular participation in both general council meetings and specialized committee work across various areas of city administration.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
-  - "What is Peter Cuddy's voting record on major municipal issues and bylaws?"
-  - "How does Peter Cuddy's meeting attendance rate compare to other council members during the same period?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, and policy changes?"
+  - "Which specific committees has he served on, and what has been his level of participation and leadership roles within those committees?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation been consistent throughout his 2022-2025 term?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated strong participation by attending 204 meetings. His council involvement extends beyond general council meetings, as he has served on 8 different committees, indicating broad engagement across various municipal issues and portfolios.
+Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated consistent participation by attending 204 council meetings. His council involvement extends beyond regular council sessions, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
 
-His consistent meeting attendance and extensive committee participation suggests he has maintained an active role in London's municipal governance throughout his term. The high number of meetings attended relative to his years of service indicates regular engagement with council business and committee work.
+His high meeting attendance record and extensive committee participation suggest a dedicated approach to his council responsibilities. The current term spanning 2022-2025 represents his active period of service, during which he has maintained regular involvement in the city's legislative and administrative processes.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Judy Bryant's voting record on major city issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what roles did she hold within those committees?"
-  - "What was her attendance rate compared to other council members during the same period?"
+  - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did Judy Bryant serve on and what roles did she hold on those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, spanning one full term of office. During her tenure, she demonstrated consistent participation by attending 168 meetings over the four-year period. Bryant was actively involved in the committee structure of the council, serving on six different committees throughout her term, though the specific names of these committees are not clearly indicated in the available data.
+Judy Bryant served on London City Council from 2011 to 2014, completing a single four-year term. During her tenure, she demonstrated active participation by attending 168 meetings and serving on six different committees, though the specific committee names are not clearly displayed in the available data. Her attendance record suggests consistent engagement with council business throughout her term.
 
-Her attendance record suggests regular engagement with council business during her single term of service. Bryant's committee involvement indicates she participated in the detailed policy work that typically occurs at the committee level before matters reach full council for consideration.
+Bryant's council participation spanned the period following the 2010 municipal election through to 2014. Her involvement across multiple committees indicates she took on various municipal responsibilities during her time in office, contributing to the city's governance through regular meeting attendance and committee work.
 
 ## Terms of Service
 

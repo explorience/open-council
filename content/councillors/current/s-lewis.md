@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on and what were their roles or positions on those committees?"
-  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Shawn Lewis's meeting attendance rate compare to other council members, and were there any notable absences during key votes or decisions?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "How does Shawn Lewis's voting record align on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
+  - "What has been Shawn Lewis's attendance rate and participation level in committee meetings compared to general council meetings?"
 ---
 
-Shawn Lewis has served as a member of London City Council from 2018 to 2025, demonstrating substantial engagement through attendance at 495 meetings during this period. Their council participation spans approximately seven years, indicating service across at least two municipal terms. Lewis has been appointed to eight different committees throughout their tenure, showing broad involvement in various aspects of municipal governance and policy development.
+Shawn Lewis has been an active member of London City Council, serving from 2018 to 2025. During this tenure, they have demonstrated consistent participation by attending 495 council meetings. Lewis has been involved in committee work, serving on 8 different committees throughout their time on council, indicating broad engagement across various municipal policy areas and administrative functions.
 
-This level of meeting attendance and committee participation suggests consistent engagement with council duties and responsibilities. The multi-committee involvement indicates Lewis has contributed to diverse areas of municipal decision-making, though the specific nature of these committees and their focus areas would require additional information to detail.
+Their multi-year service span and high meeting attendance record suggests regular involvement in the council's deliberative processes and governance activities. The committee participation shows engagement beyond general council meetings, contributing to the detailed work that committees typically handle in municipal government.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on key municipal issues during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what were his contributions to those committees?"
-  - "Did he miss any significant votes or meetings, and what was his overall attendance rate compared to other council members?"
+  - "What was Jared Zaifman's voting attendance rate and how did it compare to other council members during the 2014-2018 term?"
+  - "Which specific committees did he serve on and what were his key contributions or roles within those committees?"
+  - "How did he vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. Zaifman was actively involved in committee work, serving on four different committees throughout his time on council, though the specific names of these committees are not clearly indicated in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During this period, he attended 142 council meetings, demonstrating consistent participation in the city's legislative process. He served on four committees during his tenure, though the specific committee names are not clearly displayed in the available data.
 
-His attendance record and committee participation suggest he was an engaged member of council during his single term of service. The 142 meetings attended over four years indicates regular participation in the city's governance processes.
+His attendance record suggests active engagement with council business throughout his term. The meeting attendance figure likely includes both regular council meetings and committee meetings, reflecting his involvement in various aspects of municipal governance during the 2014-2018 council term.
 
 ## Terms of Service
 

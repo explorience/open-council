@@ -6,14 +6,12 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting pattern on major municipal issues like budget approvals, development projects, and infrastructure investments?"
-  - "How frequently did Stephen Turner miss council meetings, and what was his attendance rate compared to other council members during his tenure?"
-  - "Which specific committees did Stephen Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Stephen Turner's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2014-2022 term?"
+  - "Which specific committees did Stephen Turner serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "How did Stephen Turner's meeting attendance and participation compare to other council members who served during the same period?"
 ---
 
-Stephen Turner served on London City Council, Canada for eight years from 2014 to 2022, demonstrating consistent civic engagement through his attendance at 417 council meetings during this period. Throughout his tenure, he participated on seven different committees, indicating broad involvement across various areas of municipal governance and policy-making.
-
-His meeting attendance record suggests regular participation in council proceedings over nearly a decade of service. The committee involvement shows he took on responsibilities beyond general council meetings, contributing to the detailed work that committees perform in reviewing issues, policies, and initiatives before they come to full council.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation with attendance at 417 meetings over his eight-year tenure. During his time on council, Turner was actively involved in committee work, serving on seven different committees throughout his term. This level of meeting attendance and committee participation indicates regular engagement with municipal governance and the various issues that came before London City Council during nearly a decade of service.
 
 ## Terms of Service
 

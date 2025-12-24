@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting record on major municipal issues during his time on council?"
-  - "Which specific committees has he served on and what were his roles or contributions to those committees?"
-  - "How does his meeting attendance rate compare to other council members during the same period?"
+  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "Which specific committees has he served on and what leadership roles, if any, has he held within those committees?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2018-2025 term?"
 ---
 
-Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated strong participation by attending 453 meetings. His council involvement extends beyond general council meetings, as he has served on seven different committees, indicating broad engagement across various aspects of municipal governance.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent participation by attending 453 meetings. His council involvement extends beyond general council meetings, as he has served on seven different committees throughout his tenure, indicating broad engagement across various areas of municipal governance.
 
-His sustained participation over this seven-year period and extensive meeting attendance record suggests consistent involvement in London's municipal decision-making processes. The multiple committee appointments reflect his participation in specialized areas of city governance, though the specific nature of these committee roles would require additional information to detail.
+His multi-year service span and substantial meeting attendance record suggest a committed approach to municipal representation. The seven committee appointments reflect involvement in specialized areas of city administration and policy development, though the specific nature of these committees would require additional information to detail.
 
 ## Terms of Service
 

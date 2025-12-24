@@ -4,14 +4,14 @@ type: committee
 slug: "planning-environment"
 meetingCount: 286
 prefillQuestions:
-  - "How can residents participate in Planning and Environment Committee meetings and what is the process for providing input on development applications in their neighborhood?"
-  - "What are the current major planning initiatives or policy reviews that the committee is working on that could significantly impact London's future development?"
+  - "How can residents find out about upcoming development proposals in their neighborhood and participate in the Planning and Environment Committee's review process?"
+  - "What criteria does the committee use to evaluate whether a development proposal aligns with London's Official Plan and environmental sustainability goals?"
   - "How does the Planning and Environment Committee balance economic development interests with environmental protection and community concerns when making recommendations?"
 ---
 
-The Planning and Environment Committee is a standing committee of London City Council that plays a crucial role in shaping the city's physical development and environmental stewardship. As one of the council's primary committees, it is responsible for reviewing and making recommendations on planning applications, zoning bylaw amendments, official plan updates, and environmental policies that come before the city. The committee serves as an important forum for public input, where residents, developers, and stakeholders can present their views on proposed developments and planning matters before recommendations are forwarded to City Council for final approval.
+The Planning and Environment Committee of London City Council serves as a key municipal body responsible for reviewing and making recommendations on matters related to urban development, land use planning, and environmental stewardship within the city. As one of the standing committees of Council, it plays a crucial role in shaping London's growth and development by examining planning applications, zoning amendments, subdivision proposals, and development agreements. The committee also addresses environmental policies, sustainability initiatives, and climate action measures that affect the city's ecological footprint and long-term environmental health.
 
-With 286 meetings held to date, this committee demonstrates the ongoing and active nature of urban planning and environmental management in London. The committee typically addresses issues such as residential and commercial development proposals, heritage conservation matters, environmental assessments, urban design standards, transportation planning integration, and policy development related to sustainable city growth. Their work directly impacts how London evolves as a community, balancing development pressures with environmental protection, neighborhood character preservation, and the overall quality of life for residents.
+With 286 meetings held to date, this committee demonstrates the ongoing and substantial volume of planning and environmental issues that require municipal oversight. The committee typically reviews both major and minor development proposals, considers updates to the Official Plan and zoning bylaws, evaluates environmental impact assessments, and discusses policy frameworks that guide sustainable development practices. Their recommendations are forwarded to City Council for final approval, making this committee an essential gateway for development decisions and environmental policy implementation in London.
 
 ## Recent Meetings
 

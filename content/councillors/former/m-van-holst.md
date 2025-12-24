@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on major municipal issues like budget approvals, development projects, and policy initiatives?"
-  - "Which specific committees did he serve on and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did his attendance rate compare to other council members, and were there any notable absences from important votes or meetings?"
+  - "What was Michael van Holst's voting pattern on key municipal issues during his time on council?"
+  - "Which specific committees did he serve on and what were his roles or contributions to those committees?"
+  - "How did his attendance rate compare to other council members during the same period?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
+Michael van Holst served on London City Council from 2014 to 2022, spanning an 8-year period of municipal service. During his tenure, he maintained active participation by attending 461 council meetings and served on 8 different committees, demonstrating consistent engagement in the city's governance processes.
 
-His extended service period of eight years represents two full terms on council, suggesting he was re-elected by constituents during this timeframe. The substantial number of meetings attended reflects active engagement in the council's regular business and committee work throughout his tenure.
+His extensive meeting attendance record and multi-committee involvement indicates a high level of participation in London's municipal decision-making structure over nearly a decade of service. The substantial number of meetings attended suggests regular engagement with council business throughout his terms in office.
 
 ## Terms of Service
 

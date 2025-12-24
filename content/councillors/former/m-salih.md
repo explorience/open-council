@@ -8,12 +8,12 @@ isCurrent: false
 prefillQuestions:
   - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
   - "Which specific committees did Mo Salih serve on and what roles did they hold within those committees?"
-  - "Did Mo Salih sponsor or champion any particular pieces of legislation or municipal initiatives during their eight years on council?"
+  - "What were the key issues or policy areas that Mo Salih focused on most frequently during council debates and discussions?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During their tenure, they attended 350 council meetings and served on four committees, though the specific committee names are not clearly identified in the available data.
+Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent engagement with council duties, attending 350 meetings over the course of their service. Salih participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly indicated in the available data.
 
-Their sustained participation across nearly a decade indicates regular engagement with municipal governance and committee work. The attendance of 350 meetings over eight years suggests active involvement in council proceedings and municipal decision-making processes.
+Their eight-year term represents two full council terms, suggesting they were re-elected during their time in office. The high number of meeting attendances indicates regular participation in council proceedings throughout their years of service.
 
 ## Terms of Service
 

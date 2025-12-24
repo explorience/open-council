@@ -7,13 +7,13 @@ yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "What is Paul Van Meerbergen's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members who served during the same time period?"
+  - "What is his voting record on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
+  - "How frequently did he vote in favor of or against motions compared to other council members, and were there particular policy areas where he consistently took specific positions?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating substantial commitment through his attendance at 499 meetings over his tenure. His service spans approximately 14 years, indicating he has served multiple terms on council. During this time, he has participated on seven different committees, showing broad engagement across various areas of municipal governance and policy development.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating consistent participation with attendance at 499 council meetings over his tenure. His service spans approximately 14 years, indicating he has served multiple terms on council. During this time, he has participated on seven different committees, showing broad engagement across various areas of municipal governance and policy development.
 
-Van Meerbergen's extensive meeting attendance record and multi-committee involvement suggests he has been a consistently engaged council member throughout his years of service. His long tenure from 2011 to 2025 indicates he has experienced multiple election cycles and has maintained voter support in his ward over more than a decade of municipal politics.
+His extensive meeting attendance record and multi-committee involvement suggests a high level of civic engagement and commitment to his role as a city councillor. The length of his service from 2011 to 2025 indicates that he has been re-elected by constituents multiple times, reflecting ongoing community support for his council participation.
 
 ## Terms of Service
 

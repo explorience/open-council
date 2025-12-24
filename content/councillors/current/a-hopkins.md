@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Anna Hopkins' voting record on major municipal issues such as budget approvals, development projects, and tax rate decisions?"
-  - "Which specific committees has she served on and what roles (chair, vice-chair, or member) has she held on these committees?"
-  - "How does her meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her years of service?"
+  - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members during her tenure?"
+  - "Which specific committees has she served on and in what capacity (chair, vice-chair, or member)?"
+  - "How has her committee participation evolved over her years of service, and has she focused on particular policy areas?"
 ---
 
-Anna Hopkins has been an active member of London City Council, Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During her tenure, she has demonstrated consistent engagement by attending 640 council meetings and serving on 8 different committees, indicating broad involvement across various areas of city governance and policy development.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has attended 640 council meetings, indicating consistent participation in municipal governance. Hopkins has served on eight different committees throughout her time on council, suggesting broad involvement across various areas of municipal responsibility and policy development.
 
-Her sustained participation over this 11-year period suggests a commitment to municipal affairs and community representation. The high number of meeting attendances and committee memberships reflects active engagement in the council's decision-making processes and ongoing municipal business.
+Her lengthy service period spanning over 11 years, combined with her high meeting attendance and extensive committee involvement, reflects an active and committed approach to her council responsibilities. The breadth of her committee participation indicates engagement with diverse aspects of municipal governance during her time as a council member.
 
 ## Terms of Service
 
