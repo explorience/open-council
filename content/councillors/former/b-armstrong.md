@@ -6,12 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on major budget decisions during his 2012-2018 tenure?"
-  - "How often did Bill Armstrong speak or propose motions during council meetings compared to other councillors?"
-  - "Which specific committees did Bill Armstrong serve on and what was his attendance rate for each committee?"
+  - "What was Bill Armstrong's voting record on key municipal issues during his 2012-2018 tenure?"
+  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "How did his participation and attendance compare to other council members during the same period?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, demonstrating consistent participation with attendance at 245 meetings over his six-year tenure. During his time on council, he served on five different committees, showing active involvement in various aspects of municipal governance. His sustained participation across multiple committees and regular meeting attendance suggests he maintained an engaged presence throughout his council term.
+Bill Armstrong served on London City Council from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was actively involved in committee work, serving on five different committees throughout his time on council, though the specific names of these committees are not clearly indicated in the available data.
+
+His attendance record and committee involvement suggest he maintained an active role in municipal governance during his term. The six-year service period indicates he likely served at least one full term on London City Council, as municipal terms in Ontario are typically four years in length.
 
 ## Terms of Service
 

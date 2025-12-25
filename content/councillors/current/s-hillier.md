@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
-  - "Which specific committees has he served on and what leadership roles, if any, has he held within those committees?"
-  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2018-2025 term?"
+  - "What specific committees has Steve Hillier served on during his time on London City Council?"
+  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members?"
+  - "Has Steve Hillier held any leadership positions or chair roles on the committees he has served on?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent participation by attending 453 meetings. His council involvement extends beyond general council meetings, as he has served on seven different committees throughout his tenure, indicating broad engagement across various areas of municipal governance.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal issues and policy areas.
 
-His multi-year service span and substantial meeting attendance record suggest a committed approach to municipal representation. The seven committee appointments reflect involvement in specialized areas of city administration and policy development, though the specific nature of these committees would require additional information to detail.
+His sustained participation over a seven-year period and extensive meeting attendance record suggests a dedicated commitment to municipal governance and civic duties. The diversity of his committee involvement reflects active participation in the detailed work of city council beyond the main council chambers.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Josh Morgan's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
-  - "How frequently has Josh Morgan initiated motions or proposed amendments during council meetings, and what topics has he championed?"
-  - "What specific committees has Josh Morgan served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members during overlapping terms?"
+  - "What has been Josh Morgan's voting pattern on major city issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Josh Morgan has been an active member of London City Council, Canada, serving from 2014 to 2025, representing nearly 11 years of continuous service. During this tenure, he has demonstrated consistent participation by attending 654 council meetings. His involvement extends beyond general council duties, as he has served on 8 different committees throughout his time in office, indicating broad engagement across various municipal governance areas and policy domains.
+Josh Morgan has served on London City Council for over a decade, with an active tenure spanning from 2014 to 2025. During this period, he has demonstrated consistent engagement with council business, attending 654 meetings. His service has included participation on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Morgan's extensive meeting attendance record and multi-committee involvement suggest a commitment to the procedural and collaborative aspects of municipal governance. His long tenure spanning over a decade provides him with substantial institutional knowledge and experience in London's civic affairs.
+Morgan's lengthy tenure and substantial meeting attendance record suggest a committed approach to municipal service. His multi-committee involvement reflects engagement with diverse aspects of city operations and decision-making processes throughout his time on council.
 
 ## Terms of Service
 

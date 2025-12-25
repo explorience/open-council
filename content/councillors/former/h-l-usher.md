@@ -6,14 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's voting record on key municipal issues during his 2011-2018 tenure?"
-  - "Which specific committees did Harold Usher serve on, and what roles did he play within those committees?"
-  - "How did Harold Usher's attendance rate compare to other council members during the same period?"
+  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his tenure?"
+  - "Which specific committees did Harold Usher serve on and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Harold Usher's committee assignments and meeting participation change between his first term (2011-2014) and second term (2015-2018)?"
 ---
 
-Harold Usher served on London City Council from 2011 to 2018, spanning approximately seven years of municipal service. During his tenure, he demonstrated consistent participation by attending 403 council meetings. Usher was actively involved in the committee structure of the council, serving on six different committees throughout his time in office, though the specific names of these committees are not clearly specified in the available data.
+Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation over nearly two full terms. During his tenure, he attended 403 council meetings and served on six different committees, indicating active engagement in the legislative process and various areas of municipal governance.
 
-His seven-year term represents a substantial commitment to municipal governance, with his meeting attendance record suggesting regular engagement with council business and municipal affairs. The breadth of his committee involvement indicates he participated across multiple areas of city governance during his time as a council member.
+His seven-year service period and substantial meeting attendance record suggest regular involvement in council proceedings and committee work, contributing to the city's decision-making processes across multiple municipal departments and policy areas during his time in office.
 
 ## Terms of Service
 

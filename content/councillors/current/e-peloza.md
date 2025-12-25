@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting record on major municipal issues such as budget approvals, development projects, and policy initiatives?"
-  - "Which specific committees has she served on and what leadership roles, if any, has she held within those committees?"
-  - "How does her meeting attendance rate compare to other London City Council members during the same time period?"
+  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 452 meetings compare to other council members serving similar terms?"
+  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated strong participation by attending 452 council meetings. Her involvement extends beyond general council sessions, as she has served on nine different committees throughout her time in office, indicating broad engagement across various municipal portfolios and policy areas.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement with her council duties through attendance at 452 meetings during this period. Her participation extends beyond general council meetings, as she has served on nine different committees throughout her tenure, indicating broad involvement across various municipal portfolios and policy areas.
 
-Her consistent meeting attendance and extensive committee participation suggests a high level of civic engagement and commitment to her role as a city councillor over her seven-year term on London City Council.
+Her seven-year term on council shows sustained commitment to municipal governance, with her meeting attendance and committee participation suggesting regular engagement with the legislative and administrative processes of the city. The scope of her committee work reflects participation in multiple facets of city operations and decision-making.
 
 ## Terms of Service
 

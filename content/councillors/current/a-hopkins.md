@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members during her tenure?"
-  - "Which specific committees has she served on and in what capacity (chair, vice-chair, or member)?"
-  - "How has her committee participation evolved over her years of service, and has she focused on particular policy areas?"
+  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on each?"
+  - "How has her voting pattern aligned with or differed from the majority of council on key municipal issues during her time in office?"
 ---
 
-Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has attended 640 council meetings, indicating consistent participation in municipal governance. Hopkins has served on eight different committees throughout her time on council, suggesting broad involvement across various areas of municipal responsibility and policy development.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has attended 640 council meetings, indicating consistent participation in the city's governance processes.
 
-Her lengthy service period spanning over 11 years, combined with her high meeting attendance and extensive committee involvement, reflects an active and committed approach to her council responsibilities. The breadth of her committee participation indicates engagement with diverse aspects of municipal governance during her time as a council member.
+Hopkins has served on eight different committees during her time on council, suggesting broad involvement across various municipal portfolio areas. Her extended service period of over 10 years and substantial meeting attendance record reflects a commitment to active participation in London's municipal decision-making processes.
 
 ## Terms of Service
 

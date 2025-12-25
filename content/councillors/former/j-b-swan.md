@@ -6,12 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on major budget decisions during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what was his attendance rate for each committee?"
-  - "How did Joe Swan vote on key development and zoning issues that came before council during his tenure?"
+  - "What was Joe Swan's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on and what were their primary responsibilities?"
+  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Joe Swan served on London City Council from 2011 to 2014, completing a four-year term. During this period, he demonstrated active participation by attending 147 meetings and served on six different committees, though the specific committee names are not clearly displayed in the available data. His attendance record suggests consistent engagement in council business throughout his term of service.
+Joe Swan served on London City Council from 2011 to 2014, completing one full term of municipal service. During this four-year period, Swan demonstrated consistent engagement with council duties, attending 147 meetings. Swan's committee involvement was extensive, serving on six different committees throughout the term, indicating active participation in various aspects of municipal governance and policy development.
+
+Swan's attendance record suggests regular participation in council proceedings over the course of the term. The multi-committee service shows engagement across different areas of municipal responsibility, though the specific committees and their focus areas are not detailed in the available records.
 
 ## Terms of Service
 

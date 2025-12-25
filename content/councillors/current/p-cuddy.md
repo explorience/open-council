@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, and policy changes?"
-  - "Which specific committees has he served on, and what has been his level of participation and leadership roles within those committees?"
-  - "How does his meeting attendance rate compare to other council members, and has his participation been consistent throughout his 2022-2025 term?"
+  - "What is Peter Cuddy's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "How often has Peter Cuddy introduced motions or amendments during council meetings, and what topics do they typically address?"
+  - "What are the specific committees Peter Cuddy serves on, and what has been his attendance rate and level of participation in committee work versus general council meetings?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated consistent participation by attending 204 council meetings. His council involvement extends beyond regular council sessions, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
+Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating strong engagement through his attendance at 204 council meetings during this period. His participation extends beyond general council sessions, as he has served on eight different committees throughout his tenure, indicating broad involvement across various areas of municipal governance and policy development.
 
-His high meeting attendance record and extensive committee participation suggest a dedicated approach to his council responsibilities. The current term spanning 2022-2025 represents his active period of service, during which he has maintained regular involvement in the city's legislative and administrative processes.
+His consistent meeting attendance and extensive committee participation suggest a hands-on approach to his council duties, contributing to multiple facets of London's municipal decision-making processes during his current term.
 
 ## Terms of Service
 

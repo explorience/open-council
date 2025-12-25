@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "How does Shawn Lewis's voting record align on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
-  - "What has been Shawn Lewis's attendance rate and participation level in committee meetings compared to general council meetings?"
+  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has Lewis served on and what leadership roles, if any, have they held on these committees?"
+  - "How does Lewis's meeting attendance rate compare to other council members, and have there been any notable absences during key votes or decisions?"
 ---
 
-Shawn Lewis has been an active member of London City Council, serving from 2018 to 2025. During this tenure, they have demonstrated consistent participation by attending 495 council meetings. Lewis has been involved in committee work, serving on 8 different committees throughout their time on council, indicating broad engagement across various municipal policy areas and administrative functions.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 council meetings during this period. Their council service spans approximately seven years, indicating they have served through at least two council terms. Lewis has been active on eight different committees throughout their tenure, showing broad engagement across various areas of municipal governance and policy development.
 
-Their multi-year service span and high meeting attendance record suggests regular involvement in the council's deliberative processes and governance activities. The committee participation shows engagement beyond general council meetings, contributing to the detailed work that committees typically handle in municipal government.
+The high meeting attendance figure of 495 meetings over seven years suggests Lewis has been an active participant in council proceedings, averaging over 70 meetings per year. Their involvement on multiple committees indicates engagement beyond regular council sessions, participating in the detailed committee work that forms much of the foundation for municipal decision-making.
 
 ## Terms of Service
 

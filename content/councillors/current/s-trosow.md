@@ -6,14 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting record on major city budget decisions and tax rate changes?"
-  - "How often has Sam Trosow introduced motions or amendments, and what topics do they typically focus on?"
-  - "What has been Sam Trosow's attendance rate compared to other council members, and have they missed votes on any significant issues?"
+  - "What is Sam Trosow's voting record on key municipal issues such as budget approval, development proposals, and policy changes?"
+  - "How does their meeting attendance rate compare to other council members, and have there been any notable absences from important votes?"
+  - "Which specific committees has Sam Trosow served on, and what has been their level of participation and leadership roles within those committees?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022 to 2025, demonstrating strong engagement through attendance at 209 meetings during this period. Their participation extends beyond regular council meetings, as they have served on eight different committees throughout their tenure, indicating broad involvement across various areas of municipal governance.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating significant engagement through attendance at 209 meetings during this period. Trosow has served on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-This level of meeting attendance and committee participation suggests consistent civic engagement and a commitment to the various aspects of municipal decision-making that occur both in full council sessions and through the committee system that helps guide city business.
+The meeting attendance record suggests consistent participation in council proceedings over the current term. Their service on multiple committees reflects extensive committee work beyond regular council meetings, contributing to the detailed examination of issues before they reach full council for consideration.
 
 ## Terms of Service
 

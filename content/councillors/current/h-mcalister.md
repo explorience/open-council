@@ -6,14 +6,12 @@ meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting record on key municipal issues such as budget approvals, development proposals, and city services?"
-  - "Which specific committees does McAlister serve on and what role do they play in each committee's decision-making process?"
-  - "How does McAlister's meeting attendance rate compare to other council members, and have they missed any critical votes or decisions?"
+  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
+  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members during the same period?"
+  - "What has been McAlister's voting pattern on key municipal issues such as budget approvals, zoning changes, or major city projects?"
 ---
 
-Hadleigh McAlister has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated strong participation by attending 203 meetings and serving on six different committees. Their consistent meeting attendance and involvement across multiple committees indicates a high level of engagement in municipal governance and council business.
-
-McAlister's service spans the current council term, showing their commitment to municipal representation through regular participation in both general council meetings and specialized committee work across various areas of city administration.
+Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. McAlister has contributed to the council's work through service on six different committees, though the specific committee names are not clearly displayed in the available data. Their consistent meeting attendance suggests regular engagement with municipal governance and council business throughout their term.
 
 ## Terms of Service
 

@@ -6,14 +6,12 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting record on key municipal issues like budget approvals, development proposals, and infrastructure projects during his 2011-2018 term?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions on these committees?"
-  - "How did Paul Hubert's attendance rate compare to other council members during his time in office, and were there any notable absences from important votes?"
+  - "What was Paul Hubert's voting attendance rate and how did it compare to other council members during his 2011-2018 term?"
+  - "Which specific committees did Paul Hubert serve on and did he hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Paul Hubert vote on major municipal issues like budget approvals, development projects, or policy changes during his seven years on council?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
-
-His multi-year service and extensive meeting attendance record suggests active engagement in the council's work, with an average of approximately 52 meetings per year throughout his term. The breadth of his committee involvement reflects participation in diverse aspects of municipal governance during his council tenure.
+Paul Hubert served on London City Council, Canada from 2011 to 2018, demonstrating consistent civic engagement over a seven-year period. During his tenure, he attended 363 meetings and served on eight different committees, indicating active participation in the council's work and committee structure. His multi-year service and extensive meeting attendance suggest he maintained regular involvement in municipal governance throughout his time on council.
 
 ## Terms of Service
 

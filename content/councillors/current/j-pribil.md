@@ -6,12 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
-  - "Which specific committees has Jerry Pribil served on, and what role did they play in committee decisions and recommendations?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members, and have there been any notable absences during important votes?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development proposals, and policy changes?"
+  - "How does their meeting attendance rate of 212 meetings compare to other council members during the same 2022-2025 period?"
+  - "Which specific committees did Jerry Pribil serve on, and what was their level of participation and leadership roles within those committees?"
 ---
 
-Jerry Pribil has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their tenure, Pribil has served on eight different committees, indicating broad involvement across various aspects of municipal governance. Their consistent meeting attendance and extensive committee participation suggests an engaged approach to their council responsibilities during their current term.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 council meetings during this period. Throughout their tenure, Pribil has been involved in committee work, serving on 8 different committees, though the specific committee names are not clearly displayed in the available data.
+
+Pribil's participation appears to be consistent and engaged, with their meeting attendance suggesting regular involvement in council proceedings over their term. Their service on multiple committees indicates broad participation across various areas of municipal governance during their time on London City Council.
 
 ## Terms of Service
 

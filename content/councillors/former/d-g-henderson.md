@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their role or contribution to those committees?"
-  - "How did Henderson's meeting attendance rate of 142 meetings compare to other council members during the same period?"
+  - "What was Dale Henderson's voting record on major municipal issues like budget approvals and development proposals during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on, and what was their level of participation in committee meetings versus full council meetings?"
+  - "Did Henderson miss any significant votes or meetings during their tenure, and what was their overall attendance rate compared to other council members?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, spanning a single four-year term. During this period, Henderson demonstrated consistent engagement with council duties, attending 142 meetings over the course of their tenure. They participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly indicated in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, completing one full term during this period. Throughout their tenure, Henderson demonstrated active participation by attending 142 council meetings. They served on four committees during their time on council, showing engagement in the committee work that supports municipal governance and decision-making processes.
 
-Henderson's participation record shows regular attendance at council proceedings during their term. Their involvement in multiple committees suggests active participation in the detailed work of municipal governance, as committees typically handle much of the preliminary review and discussion of issues before they reach full council deliberation.
+Henderson's three-year period of service represents a standard municipal term, and their meeting attendance suggests regular involvement in the formal proceedings of London City Council during the early 2010s.
 
 ## Terms of Service
 

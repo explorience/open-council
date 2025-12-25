@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major budget decisions during her time on council?"
-  - "Which specific committees did she serve on and did she hold any leadership positions within those committees?"
-  - "How did her attendance rate compare to other council members during the same period?"
+  - "What was Maureen Cassidy's voting record on major budget decisions and tax increases during her time on council?"
+  - "How often did she vote with or against the majority on contentious issues, and were there particular policy areas where she frequently dissented?"
+  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating active participation with attendance at 536 meetings over her eight-year tenure. During her time on council, she served on seven different committees, indicating broad involvement across various municipal responsibilities and policy areas.
+Maureen Cassidy served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings during her tenure. Throughout her time on council, she served on seven different committees, indicating broad involvement across various areas of municipal governance and policy-making.
 
-Her consistent meeting attendance and multi-committee involvement suggests she maintained an engaged role throughout her two terms on council, participating in both general council sessions and specialized committee work that helps inform municipal decision-making processes.
+Her extensive meeting attendance record suggests active engagement in council proceedings over nearly a decade of service. The committee involvement across multiple areas would have provided her with experience in different aspects of municipal administration and decision-making processes during her two terms on London City Council.
 
 ## Terms of Service
 

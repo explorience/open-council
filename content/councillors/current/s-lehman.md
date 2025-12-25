@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Steve Lehman served on during his time on London City Council?"
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members?"
-  - "Has Steve Lehman held any leadership positions such as committee chair or deputy mayor during his council tenure?"
+  - "How does Steve Lehman's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Steve Lehman's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. His council service spans seven years, indicating he has served through multiple terms. Lehman has participated on six different committees throughout his tenure, showing broad engagement across various areas of municipal governance.
+Steve Lehman has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated consistent engagement with council business, attending 386 meetings over his seven-year term. His participation extends beyond regular council sessions, as he has served on six different committees throughout his time in office, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His consistent meeting attendance and multi-committee involvement suggests a high level of engagement in London's municipal decision-making processes. The substantial number of meetings attended over his years of service indicates regular participation in both regular council sessions and committee work.
+His sustained participation across multiple committees and high meeting attendance suggests a committed approach to his council duties, contributing to the democratic process and municipal decision-making in London over nearly two full terms of service.
 
 ## Terms of Service
 

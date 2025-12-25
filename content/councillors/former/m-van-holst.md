@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting pattern on key municipal issues during his time on council?"
-  - "Which specific committees did he serve on and what were his roles or contributions to those committees?"
-  - "How did his attendance rate compare to other council members during the same period?"
+  - "What was Michael van Holst's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "Which specific committees did he serve on and did he hold any chair or vice-chair positions during his tenure?"
+  - "How did his attendance rate compare to other council members, and were there any notable absences during important votes or debates?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, spanning an 8-year period of municipal service. During his tenure, he maintained active participation by attending 461 council meetings and served on 8 different committees, demonstrating consistent engagement in the city's governance processes.
+Michael van Holst served on London City Council from 2014 to 2022, spanning an eight-year period. During his tenure, he demonstrated consistent participation by attending 461 council meetings. Throughout his time on council, van Holst served on eight different committees, indicating broad involvement across various municipal portfolios and areas of city governance.
 
-His extensive meeting attendance record and multi-committee involvement indicates a high level of participation in London's municipal decision-making structure over nearly a decade of service. The substantial number of meetings attended suggests regular engagement with council business throughout his terms in office.
+His extensive meeting attendance record and multi-committee participation suggests an active engagement in the council's work over nearly a decade of municipal service. The data shows a councillor who maintained regular involvement in both general council sessions and specialized committee work during his two terms on London City Council.
 
 ## Terms of Service
 
