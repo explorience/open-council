@@ -6,12 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting attendance rate and how did it compare to other council members during his 2011-2018 term?"
-  - "Which specific committees did Paul Hubert serve on and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Paul Hubert vote on major municipal issues like budget approvals, development projects, or policy changes during his seven years on council?"
+  - "What was Paul Hubert's voting record on key municipal issues such as budget approvals, development projects, and tax increases during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Paul Hubert's attendance rate compare to other council members during his time in office, and were there any notable absences from important votes?"
 ---
 
-Paul Hubert served on London City Council, Canada from 2011 to 2018, demonstrating consistent civic engagement over a seven-year period. During his tenure, he attended 363 meetings and served on eight different committees, indicating active participation in the council's work and committee structure. His multi-year service and extensive meeting attendance suggest he maintained regular involvement in municipal governance throughout his time on council.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he was appointed to serve on eight different committees, indicating broad involvement across various aspects of municipal governance.
+
+His regular meeting attendance and extensive committee participation suggest active engagement in the council's work throughout his terms of office. The multi-year service period from 2011-2018 indicates he was re-elected at least once during this timeframe, representing continued voter confidence in his representation.
 
 ## Terms of Service
 

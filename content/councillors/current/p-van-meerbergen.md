@@ -7,13 +7,13 @@ yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "What is Van Meerbergen's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members' participation levels during the same time period?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members over the same time period?"
+  - "What has been his voting pattern on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council in Canada, serving from 2011 to 2025, representing a tenure of approximately 14 years. During this period, he has demonstrated consistent engagement with council duties, attending 499 meetings. His service has included participation on seven different committees, indicating involvement across multiple areas of municipal governance and policy development.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating consistent participation with attendance at 499 meetings over his tenure. His council service spans approximately 14 years, indicating he has served multiple terms on the council. During his time in office, he has participated on seven different committees, showing broad engagement across various areas of municipal governance and policy development.
 
-Van Meerbergen's extensive meeting attendance record and multi-committee service suggests a high level of commitment to his council responsibilities throughout his term. His long tenure from 2011 to 2025 represents significant continuity in council representation and accumulated experience in municipal government operations.
+Van Meerbergen's extensive meeting attendance record and multi-committee involvement suggests he has been a dedicated council member who actively participates in the legislative and administrative processes of London's municipal government. His long tenure from 2011 to 2025 indicates he has maintained voter support and continued civic engagement throughout multiple election cycles.
 
 ## Terms of Service
 

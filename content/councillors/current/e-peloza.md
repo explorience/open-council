@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 452 meetings compare to other council members serving similar terms?"
-  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Elizabeth Peloza's voting attendance rate and pattern on key municipal issues during her time on council?"
+  - "Which specific committees has she served on and what leadership roles, if any, has she held within those committees?"
+  - "How does her meeting attendance record compare to other council members during the same time period?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement with her council duties through attendance at 452 meetings during this period. Her participation extends beyond general council meetings, as she has served on nine different committees throughout her tenure, indicating broad involvement across various municipal portfolios and policy areas.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 meetings during this period. Her participation spans multiple terms and shows a commitment to regular council duties. She has served on nine different committees throughout her tenure, indicating broad involvement across various areas of municipal governance and policy development.
 
-Her seven-year term on council shows sustained commitment to municipal governance, with her meeting attendance and committee participation suggesting regular engagement with the legislative and administrative processes of the city. The scope of her committee work reflects participation in multiple facets of city operations and decision-making.
+Her extensive committee work suggests she has taken on significant responsibilities beyond regular council meetings, contributing to the detailed work that committees perform in examining issues, reviewing reports, and making recommendations to full council. The substantial number of meetings attended over her years of service reflects active participation in London's municipal decision-making processes.
 
 ## Terms of Service
 

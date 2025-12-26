@@ -6,14 +6,12 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting record on major municipal issues such as budget approvals, development projects, or infrastructure spending during their 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on, and did they hold any chair or vice-chair positions on these committees?"
-  - "How did Phil Squire's meeting attendance rate compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What was Phil Squire's voting record on major budget decisions during their 2014-2021 tenure?"
+  - "Which specific committees did Phil Squire serve on and what were their key contributions to those committees?"
+  - "How did Phil Squire's attendance rate of 372 meetings compare to other council members during the same period?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this period, Squire demonstrated consistent attendance by participating in 372 council meetings. Their involvement extended beyond general council sessions, as they served on six different committees throughout their tenure, indicating active engagement in the committee structure that supports London's municipal governance.
-
-Squire's seven-year term represents nearly two full municipal election cycles, suggesting they were re-elected at least once during their time in office. Their meeting attendance of 372 sessions over this period indicates regular participation in the formal proceedings of city council business.
+Phil Squire served on London City Council, Canada from 2014 to 2021, demonstrating consistent participation over a seven-year period. During their tenure, they attended 372 council meetings and served on six different committees, indicating active engagement in the city's governance processes. This level of meeting attendance and committee involvement suggests a dedicated commitment to municipal responsibilities throughout their time on council.
 
 ## Terms of Service
 

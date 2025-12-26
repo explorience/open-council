@@ -6,14 +6,12 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending?"
-  - "Which specific committees did he serve on and did he hold any chair or vice-chair positions during his tenure?"
-  - "How did his attendance rate compare to other council members, and were there any notable absences during important votes or debates?"
+  - "What was Michael van Holst's voting record on major budget decisions during his time on London City Council?"
+  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did his attendance rate compare to other council members, and were there any notable absences from important votes or meetings?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, spanning an eight-year period. During his tenure, he demonstrated consistent participation by attending 461 council meetings. Throughout his time on council, van Holst served on eight different committees, indicating broad involvement across various municipal portfolios and areas of city governance.
-
-His extensive meeting attendance record and multi-committee participation suggests an active engagement in the council's work over nearly a decade of municipal service. The data shows a councillor who maintained regular involvement in both general council sessions and specialized committee work during his two terms on London City Council.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating substantial participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he was appointed to serve on eight different committees, indicating broad involvement across various aspects of municipal governance. His consistent attendance record and committee participation suggest active engagement in the council's decision-making processes throughout his two terms in office.
 
 ## Terms of Service
 

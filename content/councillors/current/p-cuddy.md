@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
-  - "How often has Peter Cuddy introduced motions or amendments during council meetings, and what topics do they typically address?"
-  - "What are the specific committees Peter Cuddy serves on, and what has been his attendance rate and level of participation in committee work versus general council meetings?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
+  - "Which specific committees does Peter Cuddy serve on, and what has been his level of participation and leadership within those committees?"
+  - "How does Peter Cuddy's attendance rate of 204 meetings compare to other council members during the same time period?"
 ---
 
-Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating strong engagement through his attendance at 204 council meetings during this period. His participation extends beyond general council sessions, as he has served on eight different committees throughout his tenure, indicating broad involvement across various areas of municipal governance and policy development.
+Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated strong participation by attending 204 meetings. His involvement extends beyond general council meetings, as he has served on eight different committees, indicating a broad engagement with various aspects of municipal governance and policy development.
 
-His consistent meeting attendance and extensive committee participation suggest a hands-on approach to his council duties, contributing to multiple facets of London's municipal decision-making processes during his current term.
+His consistent attendance record and extensive committee participation suggest a commitment to the responsibilities of his council position. Serving on multiple committees allows council members to specialize in different areas of municipal affairs and contribute to detailed policy work that supports the broader council's decision-making processes.
 
 ## Terms of Service
 

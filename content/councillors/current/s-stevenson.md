@@ -6,12 +6,14 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How frequently does she speak during council debates and what topics does she most commonly address?"
-  - "What specific committees has she served on and what leadership roles, if any, has she taken within those committees?"
+  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 178 meetings compare to other council members or the expected number of meetings during this term?"
+  - "What has been her voting pattern on key municipal issues that have come before council during the 2022-2025 term?"
 ---
 
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022-2025 during the current council term. She has demonstrated strong participation in council activities, attending 178 meetings over this period. Her involvement extends beyond general council meetings, as she has served on eight different committees during her tenure, indicating broad engagement across various municipal policy areas and administrative functions.
+Susan Stevenson has been an active member of London City Council, Canada, serving during the 2022-2025 term. She has demonstrated strong attendance and engagement, having participated in 178 council meetings during her tenure. Her council involvement extends beyond regular meetings, as she has served on eight different committees, indicating broad participation across various municipal policy areas and governance functions.
+
+Her consistent meeting attendance and extensive committee involvement suggest a committed approach to municipal governance and community representation throughout her current term on London City Council.
 
 ## Terms of Service
 

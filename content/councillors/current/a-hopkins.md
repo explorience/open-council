@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Anna Hopkins' voting attendance rate and how does it compare to other council members during her tenure?"
-  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on each?"
-  - "How has her voting pattern aligned with or differed from the majority of council on key municipal issues during her time in office?"
+  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, and public transit initiatives?"
+  - "How often has she voted with the majority versus taking dissenting positions on council decisions?"
+  - "Which specific committees has she served on and has she held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has attended 640 council meetings, indicating consistent participation in the city's governance processes.
+Anna Hopkins has served on London City Council for over a decade, with her term spanning from 2014 to 2025. During this period, she has demonstrated consistent participation by attending 640 council meetings. Her involvement extends beyond regular council sessions, as she has served on 8 different committees throughout her tenure, indicating broad engagement across various municipal portfolios and policy areas.
 
-Hopkins has served on eight different committees during her time on council, suggesting broad involvement across various municipal portfolio areas. Her extended service period of over 10 years and substantial meeting attendance record reflects a commitment to active participation in London's municipal decision-making processes.
+Hopkins' lengthy service period of 11 years represents substantial institutional knowledge and continuity on London City Council. Her high meeting attendance record and extensive committee participation suggest active involvement in the council's legislative and administrative processes across multiple terms of office.
 
 ## Terms of Service
 

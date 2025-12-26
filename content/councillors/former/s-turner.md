@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting record on key municipal issues such as budget approvals, development proposals, and bylaw changes?"
-  - "Which specific committees did he serve on and what leadership roles, if any, did he hold within those committees?"
-  - "How did his attendance rate of 417 meetings compare to other council members during the same 2014-2022 period?"
+  - "What was Stephen Turner's voting record on key municipal issues like budget approvals, development projects, and tax increases during his time on council?"
+  - "Which specific committees did Stephen Turner serve on, and did he hold any chair or vice-chair positions on these committees?"
+  - "How did Stephen Turner's attendance rate of 417 meetings compare to other council members during the same 2014-2022 period?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During his tenure, he attended 417 council meetings and served on seven different committees, indicating active engagement in the municipal governance process.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active engagement in the municipal governance process.
 
-His attendance record and committee involvement suggest regular participation in council business throughout his time in office. The eight-year span covers two full municipal terms, showing he was re-elected at least once during this period.
+His participation record shows regular attendance at council sessions and involvement in multiple committee structures, which are essential components of municipal decision-making. Over his two terms on council, Turner's meeting attendance and committee involvement suggest he maintained an active role in London's civic affairs throughout his service period.
 
 ## Terms of Service
 

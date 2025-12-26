@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major budget decisions and tax increases during her time on council?"
-  - "How often did she vote with or against the majority on contentious issues, and were there particular policy areas where she frequently dissented?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Maureen Cassidy's attendance rate and how did it compare to other council members during her time in office?"
+  - "Which specific committees did she serve on and did she hold any leadership positions within those committees?"
+  - "How did she typically vote on major municipal issues such as budget approvals, development proposals, or policy changes during her 2014-2022 tenure?"
 ---
 
-Maureen Cassidy served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings during her tenure. Throughout her time on council, she served on seven different committees, indicating broad involvement across various areas of municipal governance and policy-making.
+Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation over an eight-year period. During her tenure, she attended 536 council meetings and served on seven different committees, indicating active engagement in the council's work and committee structure.
 
-Her extensive meeting attendance record suggests active engagement in council proceedings over nearly a decade of service. The committee involvement across multiple areas would have provided her with experience in different aspects of municipal administration and decision-making processes during her two terms on London City Council.
+Her attendance record and committee involvement suggest a committed approach to municipal governance, participating in the collaborative processes that shape city policy and administration. The duration of her service spanning two full council terms reflects sustained community support and her ongoing dedication to municipal representation.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members?"
-  - "Has Steve Hillier held any leadership positions or chair roles on the committees he has served on?"
+  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has he served on and what roles (chair, vice-chair, or member) has he held on each?"
+  - "How has his voting pattern aligned with or differed from the majority position on key municipal issues during his tenure?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal issues and policy areas.
+Steve Hillier has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 453 council meetings over this seven-year period. During his tenure, he has been appointed to serve on seven different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His sustained participation over a seven-year period and extensive meeting attendance record suggests a dedicated commitment to municipal governance and civic duties. The diversity of his committee involvement reflects active participation in the detailed work of city council beyond the main council chambers.
+His meeting attendance record suggests active engagement in council business, with an average of approximately 65 meetings per year across his term. The committee assignments reflect his integration into the council's committee structure, which typically handles much of the detailed work on municipal issues before they come to full council for consideration.
 
 ## Terms of Service
 

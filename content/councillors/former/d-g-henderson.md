@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major municipal issues like budget approvals and development proposals during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on, and what was their level of participation in committee meetings versus full council meetings?"
-  - "Did Henderson miss any significant votes or meetings during their tenure, and what was their overall attendance rate compared to other council members?"
+  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their role or contribution to those committees?"
+  - "Did Henderson run for re-election after their 2011-2014 term, and if so, what was the outcome?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, completing one full term during this period. Throughout their tenure, Henderson demonstrated active participation by attending 142 council meetings. They served on four committees during their time on council, showing engagement in the committee work that supports municipal governance and decision-making processes.
+Dale Henderson served on London City Council from 2011-2014, representing a single term of approximately four years. During this period, Henderson maintained active participation with attendance at 142 council meetings. Henderson served on four different committees during their tenure, though the specific committee names are not clearly displayed in the available data.
 
-Henderson's three-year period of service represents a standard municipal term, and their meeting attendance suggests regular involvement in the formal proceedings of London City Council during the early 2010s.
+Henderson's participation shows consistent engagement with council business over their four-year term, with meeting attendance averaging roughly 35-40 meetings per year. Their committee involvement demonstrates broader participation in the detailed work of municipal government beyond regular council sessions.
 
 ## Terms of Service
 

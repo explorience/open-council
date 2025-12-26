@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development proposals, and policy changes?"
-  - "How does their meeting attendance rate of 212 meetings compare to other council members during the same 2022-2025 period?"
-  - "Which specific committees did Jerry Pribil serve on, and what was their level of participation and leadership roles within those committees?"
+  - "Which specific committees has Jerry Pribil served on and what role did they play in committee recommendations?"
+  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 council meetings during this period. Throughout their tenure, Pribil has been involved in committee work, serving on 8 different committees, though the specific committee names are not clearly displayed in the available data.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various areas of municipal governance and policy development.
 
-Pribil's participation appears to be consistent and engaged, with their meeting attendance suggesting regular involvement in council proceedings over their term. Their service on multiple committees indicates broad participation across various areas of municipal governance during their time on London City Council.
+This level of meeting attendance and committee participation suggests consistent involvement in the city's decision-making processes over their three-year council term, contributing to discussions and deliberations across multiple municipal portfolios and specialized areas of city business.
 
 ## Terms of Service
 

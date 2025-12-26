@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues during their eight years on council?"
-  - "Which specific committees did Mo Salih serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How does Mo Salih's meeting attendance of 350 over eight years compare to other council members who served during the same period?"
+  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and tax increases during their 8-year tenure?"
+  - "Which specific committees did Mo Salih serve on, and what was their attendance rate and level of participation in committee work versus general council meetings?"
+  - "How did Mo Salih's meeting attendance rate of 350 meetings compare to other council members during the same 2014-2022 period, and were there any notable absences during important votes?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During their tenure, they attended 350 council meetings and served on four committees, though the specific committee names are not clearly identified in the available data.
+Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During their tenure, they attended 350 council meetings and served on four different committees, though the specific committee names are not clearly identified in the available data.
 
-Their attendance at 350 meetings over eight years suggests active engagement in municipal governance, averaging approximately 44 meetings per year. This level of participation indicates regular involvement in council proceedings and committee work throughout their time in office.
+Their attendance record shows active engagement in municipal governance throughout their time in office. The multi-year service period from 2014 to 2022 indicates they served through at least two municipal election cycles, suggesting constituent support for their continued representation on council.
 
 ## Terms of Service
 

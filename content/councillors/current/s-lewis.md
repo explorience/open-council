@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees has Lewis served on and what leadership roles, if any, have they held on these committees?"
-  - "How does Lewis's meeting attendance rate compare to other council members, and have there been any notable absences during key votes or decisions?"
+  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Shawn Lewis served on and in what capacity (member, chair, vice-chair)?"
+  - "What has been Shawn Lewis's voting pattern on major municipal issues such as budget approvals, development projects, or policy changes?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 council meetings during this period. Their council service spans approximately seven years, indicating they have served through at least two council terms. Lewis has been active on eight different committees throughout their tenure, showing broad engagement across various areas of municipal governance and policy development.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 meetings during this period. Their council involvement spans multiple terms and includes service on eight different committees, indicating broad engagement across various municipal issues and governance areas.
 
-The high meeting attendance figure of 495 meetings over seven years suggests Lewis has been an active participant in council proceedings, averaging over 70 meetings per year. Their involvement on multiple committees indicates engagement beyond regular council sessions, participating in the detailed committee work that forms much of the foundation for municipal decision-making.
+Lewis's meeting attendance record of 495 sessions over their seven-year tenure suggests consistent participation in council proceedings. Their involvement on multiple committees shows engagement beyond regular council meetings, participating in the detailed committee work that forms much of municipal decision-making processes.
 
 ## Terms of Service
 
