@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's attendance rate and how did it compare to other council members during her time in office?"
-  - "Which specific committees did she serve on and did she hold any leadership positions within those committees?"
-  - "How did she typically vote on major municipal issues such as budget approvals, development proposals, or policy changes during her 2014-2022 tenure?"
+  - "What was Maureen Cassidy's attendance rate compared to other council members during her 2014-2022 tenure?"
+  - "Which specific committees did she serve on and what roles did she hold within those committees?"
+  - "How did she vote on major city issues such as budget approvals, development projects, or policy initiatives during her time on council?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation over an eight-year period. During her tenure, she attended 536 council meetings and served on seven different committees, indicating active engagement in the council's work and committee structure.
+Maureen Cassidy served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During her tenure, she attended 536 council meetings and served on seven different committees, indicating active engagement in the city's governance processes.
 
-Her attendance record and committee involvement suggest a committed approach to municipal governance, participating in the collaborative processes that shape city policy and administration. The duration of her service spanning two full council terms reflects sustained community support and her ongoing dedication to municipal representation.
+Her sustained involvement across nearly a decade suggests a commitment to municipal affairs, with her meeting attendance and committee participation reflecting regular engagement with council business and various aspects of city administration.
 
 ## Terms of Service
 

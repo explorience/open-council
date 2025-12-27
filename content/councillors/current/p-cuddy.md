@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
-  - "Which specific committees does Peter Cuddy serve on, and what has been his level of participation and leadership within those committees?"
-  - "How does Peter Cuddy's attendance rate of 204 meetings compare to other council members during the same time period?"
+  - "What is Peter Cuddy's voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has he served on, and what has been his attendance rate and level of participation in committee work?"
+  - "How does his meeting attendance rate of 204 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated strong participation by attending 204 meetings. His involvement extends beyond general council meetings, as he has served on eight different committees, indicating a broad engagement with various aspects of municipal governance and policy development.
+Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating significant engagement through his attendance at 204 council meetings during this period. His participation extends beyond general council meetings, as he has served on eight different committees throughout his tenure, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His consistent attendance record and extensive committee participation suggest a commitment to the responsibilities of his council position. Serving on multiple committees allows council members to specialize in different areas of municipal affairs and contribute to detailed policy work that supports the broader council's decision-making processes.
+This level of meeting attendance and committee participation suggests a committed approach to his council responsibilities, with involvement spanning multiple areas of city administration and decision-making processes during his current term.
 
 ## Terms of Service
 

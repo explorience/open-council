@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and what policy areas do they cover?"
-  - "Has he held any leadership positions such as committee chair or deputy mayor during his time on council?"
+  - "What is Steve Lehman's voting attendance rate and how often does he vote in favor of versus against council motions?"
+  - "Which specific committees has Steve Lehman served on and what role (chair, vice-chair, or member) has he held on each?"
+  - "How does Steve Lehman's meeting attendance record compare to other council members during the same time period?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time in office, indicating broad engagement across various municipal issues and portfolios.
+Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent engagement with council business, attending 386 meetings over his years of service. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time on council, indicating broad participation in various aspects of municipal governance and policy development.
 
-His seven-year term on council shows sustained commitment to municipal governance, with his meeting attendance record suggesting regular participation in the city's decision-making processes. The multiple committee appointments reflect his involvement in the detailed work of municipal government that often takes place at the committee level before issues reach full council.
+His multi-year commitment and extensive meeting attendance record suggests a dedicated approach to his council responsibilities, participating in the democratic processes that guide London's municipal decision-making across multiple terms of service.
 
 ## Terms of Service
 

@@ -6,14 +6,12 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's attendance rate compared to other council members during the 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what were their primary responsibilities on each?"
-  - "How did Sandy White vote on major issues that came before council during their 2011-2014 term?"
+  - "What was Sandy White's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on, and what was their level of participation in committee work?"
+  - "How did Sandy White's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Sandy White served on London City Council from 2011 to 2014, demonstrating active participation through attendance at 164 meetings during their term. Over this four-year period, White served on five different committees, indicating broad involvement across various municipal portfolios and council functions.
-
-White's attendance record and committee service suggests consistent engagement in the council's work throughout their single term in office. Their participation spanned the full duration of one council term, contributing to municipal governance during this period in London's civic administration.
+Sandy White served on London City Council from 2011 to 2014, completing a four-year term. During this period, they demonstrated active participation by attending 164 council meetings. White served on five different committees during their tenure, though the specific committee names are not clearly available in the provided data. Their consistent meeting attendance over the four-year period suggests regular engagement with council business and municipal governance responsibilities.
 
 ## Terms of Service
 

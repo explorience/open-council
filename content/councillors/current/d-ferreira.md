@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same period?"
-  - "What has been his voting record on major municipal issues that have come before council during his 2022-2025 term?"
+  - "How does David Ferreira's meeting attendance record compare to other council members during the same period?"
+  - "What has been David Ferreira's voting pattern on key municipal issues and bylaws during his 2022-2025 term?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During this period, he has demonstrated strong meeting attendance with 208 meetings attended. His council participation includes service on eight different committees, indicating broad involvement across various municipal matters and policy areas.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated strong participation by attending 208 meetings. His council involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal areas and responsibilities.
 
-His high meeting attendance record and extensive committee participation suggest consistent engagement in the council's work throughout his term. As a member serving during the 2022-2025 council term, Ferreira appears to be committed to fulfilling his municipal responsibilities through regular participation in both general council meetings and specialized committee work.
+His consistent meeting attendance and extensive committee participation suggest a committed approach to his council duties. Serving on multiple committees allows council members to contribute to diverse policy areas and administrative functions within the municipal government structure.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, and public transit initiatives?"
-  - "How often has she voted with the majority versus taking dissenting positions on council decisions?"
-  - "Which specific committees has she served on and has she held any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Anna Hopkins' voting attendance rate compared to other council members during her tenure?"
+  - "Which specific committees has she served on and what policy areas do they cover?"
+  - "How has her committee participation and meeting attendance changed across different terms or years of service?"
 ---
 
-Anna Hopkins has served on London City Council for over a decade, with her term spanning from 2014 to 2025. During this period, she has demonstrated consistent participation by attending 640 council meetings. Her involvement extends beyond regular council sessions, as she has served on 8 different committees throughout her tenure, indicating broad engagement across various municipal portfolios and policy areas.
+Anna Hopkins has served on London City Council in Canada from 2014 to 2025, demonstrating significant civic engagement over an 11-year period. During her tenure, she has attended 640 council meetings and has served on 8 different committees, indicating active participation in the council's work across multiple areas of municipal governance.
 
-Hopkins' lengthy service period of 11 years represents substantial institutional knowledge and continuity on London City Council. Her high meeting attendance record and extensive committee participation suggest active involvement in the council's legislative and administrative processes across multiple terms of office.
+Her extensive meeting attendance record and multi-committee involvement suggests consistent engagement with council business throughout her time in office. The duration of her service, spanning over a decade, indicates either multiple terms or a long single term, representing sustained representation for her constituents on London City Council.
 
 ## Terms of Service
 

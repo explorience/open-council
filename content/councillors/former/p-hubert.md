@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting record on key municipal issues such as budget approvals, development projects, and tax increases during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Paul Hubert's attendance rate compare to other council members during his time in office, and were there any notable absences from important votes?"
+  - "What was Paul Hubert's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during his 2011-2018 term?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions on these committees?"
+  - "How did Paul Hubert's meeting attendance rate compare to other council members during his tenure, and were there any notable absences during key votes?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he was appointed to serve on eight different committees, indicating broad involvement across various aspects of municipal governance.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating active participation through attendance at 363 meetings over his seven-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and policy areas.
 
-His regular meeting attendance and extensive committee participation suggest active engagement in the council's work throughout his terms of office. The multi-year service period from 2011-2018 indicates he was re-elected at least once during this timeframe, representing continued voter confidence in his representation.
+His consistent meeting attendance and multi-committee involvement suggests regular engagement in the city's governance processes throughout his council term, contributing to municipal decision-making across multiple sectors of city operations.
 
 ## Terms of Service
 

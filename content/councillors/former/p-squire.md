@@ -6,12 +6,12 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting record on major budget decisions during their 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on and what were their key contributions to those committees?"
-  - "How did Phil Squire's attendance rate of 372 meetings compare to other council members during the same period?"
+  - "What was Phil Squire's voting record on major budget decisions during their time on council?"
+  - "Which specific committees did Phil Squire serve on and what were their roles or leadership positions on these committees?"
+  - "How did Phil Squire's attendance rate compare to other council members during the 2014-2021 period?"
 ---
 
-Phil Squire served on London City Council, Canada from 2014 to 2021, demonstrating consistent participation over a seven-year period. During their tenure, they attended 372 council meetings and served on six different committees, indicating active engagement in the city's governance processes. This level of meeting attendance and committee involvement suggests a dedicated commitment to municipal responsibilities throughout their time on council.
+Phil Squire served on London City Council from 2014 to 2021, demonstrating active participation with attendance at 372 meetings over this seven-year period. During their tenure, Squire served on six different committees, indicating broad involvement across various areas of municipal governance. This level of meeting attendance and committee participation suggests consistent engagement in the council's decision-making processes throughout their time in office.
 
 ## Terms of Service
 

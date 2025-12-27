@@ -4,14 +4,14 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What is the committee's current budget allocation and how does it prioritize infrastructure projects versus corporate service improvements?"
-  - "How can residents provide input on infrastructure needs in their neighborhoods or access information about upcoming corporate services policy changes?"
-  - "What are the committee's main priorities for the current term, and how do they align with London's broader strategic plans and climate action goals?"
+  - "What is the committee's annual budget allocation for infrastructure projects, and how are priorities determined when multiple infrastructure needs compete for limited funding?"
+  - "How does the committee ensure transparency and public input in major infrastructure decisions that affect neighborhoods and communities across London?"
+  - "What specific corporate services policies has the committee recently updated or implemented, and how do these changes impact city employees and service delivery to residents?"
 ---
 
-The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that plays a crucial role in municipal governance by overseeing two key areas of city operations. On the corporate services side, the committee typically handles internal municipal functions including human resources, information technology, financial management, procurement policies, legal services, and general administrative matters that keep the city government running effectively. On the infrastructure side, the committee addresses the planning, maintenance, and development of the city's physical assets such as roads, bridges, water and wastewater systems, public buildings, and other essential municipal infrastructure.
+The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that plays a crucial role in municipal governance by overseeing the city's operational backbone and administrative functions. This committee typically handles matters related to the city's physical infrastructure including roads, bridges, water and wastewater systems, public transit, and facilities management. On the corporate services side, the committee addresses internal municipal operations such as human resources policies, information technology systems, financial management, procurement processes, legal services, and organizational structure.
 
-This committee serves as an important intermediary body between city staff and full City Council, reviewing staff recommendations, analyzing policy proposals, and making informed recommendations to Council on matters within its mandate. With 280 meetings held to date, the committee demonstrates the substantial workload involved in managing a city's corporate functions and infrastructure needs. The committee's work directly impacts residents' daily lives through decisions about service delivery, infrastructure investments, and the overall operational efficiency of municipal government. Recent meetings suggest an active agenda addressing both ongoing operational matters and strategic planning for London's future growth and development.
+The committee serves as a key decision-making body that reviews staff reports, evaluates policy proposals, and makes recommendations to City Council on both capital infrastructure investments and corporate administrative matters. With 280 meetings held to date, this committee demonstrates the ongoing nature of municipal infrastructure and corporate governance needs. The recent transition from "Corporate Services Committee" to "Infrastructure and Corporate Services Committee" suggests an evolution or expansion of the committee's mandate to more explicitly encompass both operational domains under one governing body.
 
 ## Recent Meetings
 

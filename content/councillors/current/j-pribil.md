@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development proposals, and policy changes?"
-  - "Which specific committees has Jerry Pribil served on and what role did they play in committee recommendations?"
-  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members during the same 2022-2025 period?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development applications, and bylaw amendments?"
+  - "Which specific committees has Jerry Pribil served on, and what role did they play in major committee decisions during their term?"
+  - "How does Jerry Pribil's meeting attendance rate compare to other council members, and were there any notable absences during important votes?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various areas of municipal governance and policy development.
+Jerry Pribil has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their term, Pribil has been involved in committee work, serving on eight different committees, which indicates broad engagement across various municipal governance areas.
 
-This level of meeting attendance and committee participation suggests consistent involvement in the city's decision-making processes over their three-year council term, contributing to discussions and deliberations across multiple municipal portfolios and specialized areas of city business.
+Their consistent meeting attendance and extensive committee involvement suggests a committed approach to municipal service, participating in the detailed work that occurs both in full council sessions and in the specialized committee structure that handles much of the city's policy development and administrative oversight.
 
 ## Terms of Service
 

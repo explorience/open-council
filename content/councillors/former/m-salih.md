@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and tax increases during their 8-year tenure?"
-  - "Which specific committees did Mo Salih serve on, and what was their attendance rate and level of participation in committee work versus general council meetings?"
-  - "How did Mo Salih's meeting attendance rate of 350 meetings compare to other council members during the same 2014-2022 period, and were there any notable absences during important votes?"
+  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and tax increases during their 2014-2022 tenure?"
+  - "Which specific committees did Mo Salih serve on, and what was their attendance rate and level of participation in committee work?"
+  - "How did Mo Salih's voting patterns align with other council members, and were there particular issues where they frequently voted in opposition to the majority?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During their tenure, they attended 350 council meetings and served on four different committees, though the specific committee names are not clearly identified in the available data.
+Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this tenure, they demonstrated consistent participation by attending 350 council meetings. Salih was actively involved in the committee structure of the council, serving on four different committees throughout their time in office, though the specific committee names are not clearly specified in the available data.
 
-Their attendance record shows active engagement in municipal governance throughout their time in office. The multi-year service period from 2014 to 2022 indicates they served through at least two municipal election cycles, suggesting constituent support for their continued representation on council.
+Their eight-year term represents two full council terms, indicating they were re-elected at least once during their service. The high number of meeting attendances suggests regular engagement with council business and municipal governance responsibilities.
 
 ## Terms of Service
 

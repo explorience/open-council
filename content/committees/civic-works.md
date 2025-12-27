@@ -4,14 +4,14 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "How can residents attend Civic Works Committee meetings or provide input on infrastructure projects that affect their neighborhoods?"
-  - "What is the typical timeline for infrastructure projects reviewed by the Civic Works Committee, from initial proposal to completion?"
-  - "How does the Civic Works Committee prioritize competing infrastructure needs across different areas of the city when resources are limited?"
+  - "How can residents request road repairs or infrastructure improvements in their neighborhood, and what is the typical timeline for the committee to review and act on such requests?"
+  - "What is the committee's current budget allocation for major infrastructure projects, and how are priorities determined when multiple areas of the city need improvements?"
+  - "How does the Civic Works Committee incorporate public input into their decision-making process, and when are residents able to speak at committee meetings about issues affecting their community?"
 ---
 
-The Civic Works Committee is a standing committee of London City Council that serves as a key body in municipal governance, having held 203 meetings to date. This committee typically handles the city's physical infrastructure and public works matters, which form the backbone of municipal services that residents rely on daily. The committee operates as part of the council's committee structure, where detailed review and discussion of complex municipal issues occurs before items proceed to full City Council for final decision-making.
+The Civic Works Committee is a standing committee of London City Council that plays a crucial role in municipal governance by overseeing the city's physical infrastructure and public works operations. This committee is responsible for reviewing, discussing, and making recommendations on matters related to transportation, utilities, environmental services, and capital projects that keep the city functioning. With 203 meetings held to date, the committee demonstrates the ongoing nature of municipal infrastructure management and the continuous need for oversight of public works initiatives.
 
-The Civic Works Committee generally addresses matters related to transportation infrastructure including road construction, maintenance and traffic management; water and wastewater systems; waste management and environmental services; public transit; parks and recreation facilities; and major capital projects that impact the city's physical infrastructure. Committee members review staff reports, hear from municipal departments, receive public input, and make recommendations to City Council on policies, budgets, and projects that affect how London residents move around the city, access services, and interact with public spaces and infrastructure.
+The committee typically addresses issues such as road construction and maintenance, public transit planning, water and wastewater systems, waste management, snow removal operations, cycling infrastructure, and major capital projects like bridge repairs or facility upgrades. Committee members review staff reports, consider public input, and make recommendations to City Council on budget allocations, policy changes, and project approvals. Their work directly impacts residents' daily lives through decisions about street repairs, utility rates, transit routes, and environmental programs, making it one of the most practically relevant committees for citizens who rely on municipal services and infrastructure.
 
 ## Recent Meetings
 

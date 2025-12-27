@@ -6,12 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Sam Trosow served on during their time on London City Council?"
-  - "How does Sam Trosow's meeting attendance record of 209 meetings compare to other council members during the same period?"
-  - "What has been Sam Trosow's voting pattern on key municipal issues such as budget items, development proposals, or policy changes?"
+  - "What is Sam Trosow's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has Sam Trosow served on and what roles did they hold on those committees?"
+  - "What has been Sam Trosow's voting pattern on major municipal issues such as budget approvals, development applications, or policy changes?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong engagement through attendance at 209 meetings during this period. Their council participation includes service on eight different committees, indicating broad involvement across various municipal issues and governance areas. This level of meeting attendance and committee participation suggests consistent dedication to their council responsibilities throughout their current term.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong participation with attendance at 209 meetings during this period. Their council involvement extends beyond general council meetings, as they have served on eight different committees, indicating broad engagement across various municipal portfolio areas and governance functions.
+
+This level of meeting attendance and committee participation suggests consistent civic engagement throughout their current term on council. The multi-committee involvement reflects either appointment to or election to various specialized areas of municipal government, though the specific nature of these committees is not detailed in the available data.
 
 ## Terms of Service
 

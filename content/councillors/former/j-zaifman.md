@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on key municipal issues such as budget approvals, development projects, and public transit initiatives?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus full council meetings?"
-  - "Did he sponsor or champion any particular bylaws, motions, or initiatives during his 2014-2018 term on council?"
+  - "What was Jared Zaifman's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2014-2018 term?"
+  - "How did his attendance rate of 142 meetings compare to other council members serving during the same period?"
+  - "What specific committees did he serve on and what was his level of participation in committee discussions and recommendations?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a four-year term. During this period, he attended 142 council meetings, demonstrating consistent participation in the city's legislative process. He served on four committees during his tenure, though the specific committee names are not clearly specified in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, demonstrating active participation with attendance at 142 meetings during his four-year term. He served on four different committees during his tenure, indicating involvement across multiple areas of municipal governance and policy development.
 
-His attendance record of 142 meetings over a four-year period suggests regular engagement with council business and municipal governance responsibilities. This level of participation indicates he was an active member of council throughout his term from 2014 to 2018.
+His consistent meeting attendance over the four-year period suggests regular engagement with council business and municipal decision-making processes. The committee involvement shows participation in the detailed work that typically occurs at the committee level before issues reach full council consideration.
 
 ## Terms of Service
 

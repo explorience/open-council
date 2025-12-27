@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Shawn Lewis served on and in what capacity (member, chair, vice-chair)?"
-  - "What has been Shawn Lewis's voting pattern on major municipal issues such as budget approvals, development projects, or policy changes?"
+  - "Which specific committees has Shawn Lewis served on and what policy areas do they cover?"
+  - "Has Shawn Lewis sponsored or championed any particular pieces of legislation or municipal initiatives during their time on council?"
 ---
 
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 meetings during this period. Their council involvement spans multiple terms and includes service on eight different committees, indicating broad engagement across various municipal issues and governance areas.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 council meetings over this seven-year period. During their tenure, Lewis has been appointed to serve on eight different committees, indicating broad involvement across various municipal governance areas and policy domains within the city's committee structure.
 
-Lewis's meeting attendance record of 495 sessions over their seven-year tenure suggests consistent participation in council proceedings. Their involvement on multiple committees shows engagement beyond regular council meetings, participating in the detailed committee work that forms much of municipal decision-making processes.
+This level of meeting attendance and committee participation suggests active engagement in the council's legislative and administrative processes throughout their time in office. The multi-committee service reflects either diverse policy interests or strategic positioning within the council's organizational framework during their current term.
 
 ## Terms of Service
 
