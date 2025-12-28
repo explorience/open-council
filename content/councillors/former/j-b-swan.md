@@ -6,14 +6,14 @@ meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Swan's voting record on key municipal issues such as budget approvals, development projects, or tax increases during their 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on, and what was their level of participation or leadership roles within those committees?"
-  - "How did Joe Swan's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What specific committees did Joe Swan serve on during their 2011-2014 term?"
+  - "What was Joe Swan's voting record on major municipal issues during their time on council?"
+  - "Did Joe Swan seek re-election after their 2011-2014 term, and if so, what was the outcome?"
 ---
 
-Joe Swan served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, Swan demonstrated active participation by attending 147 council meetings. Swan's council involvement extended beyond general meetings, as they served on six different committees throughout their tenure, though the specific names of these committees are not available in the current data.
+Joe Swan served on London City Council from 2011-2014, demonstrating active participation with attendance at 147 meetings during this four-year term. Swan's involvement extended beyond general council meetings, as they served on six different committees throughout their tenure, indicating engagement across multiple areas of municipal governance.
 
-Swan's attendance at 147 meetings over four years indicates consistent engagement with council business, averaging approximately 37 meetings per year during their term. Their service on multiple committees suggests they took on additional responsibilities beyond basic council duties and participated in specialized areas of municipal governance.
+Swan's participation record shows consistent involvement in council activities over their single term in office. The combination of regular meeting attendance and committee work suggests they maintained an active role in the day-to-day operations and decision-making processes of London City Council during the early 2010s.
 
 ## Terms of Service
 

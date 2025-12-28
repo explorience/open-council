@@ -6,14 +6,14 @@ meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Nancy Branscombe's voting pattern on major municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what were her key contributions or leadership roles within those committees?"
-  - "How did her attendance rate of 119 meetings compare to other council members during the same period?"
+  - "What was Nancy Branscombe's voting record on key municipal issues such as budget approvals, development projects, or policy changes during her 2011-2014 term?"
+  - "Which specific committees did she serve on, and what was her attendance rate for both regular council meetings and committee meetings?"
+  - "Did she sponsor or champion any particular motions, bylaws, or initiatives during her time on council, and what was the outcome of those proposals?"
 ---
 
-Nancy Branscombe served on London City Council from 2011 to 2014, completing a full four-year term. During her tenure, she demonstrated consistent participation by attending 119 council meetings. She was actively involved in committee work, serving on eight different committees throughout her time on council, indicating broad engagement across various municipal issues and portfolios.
+Nancy Branscombe served on London City Council, Canada from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her term. Her council involvement extended beyond regular council meetings, as she served on eight different committees throughout her tenure, indicating broad engagement across various municipal policy areas and administrative functions.
 
-Her attendance record and extensive committee involvement suggest she was an engaged council member who participated regularly in both the formal council meetings and the detailed committee work that forms much of municipal government's operational foundation.
+Her four-year term and substantial meeting attendance record suggests consistent civic involvement during her time in office. The multiple committee assignments reflect the collaborative nature of municipal governance, where councillors typically contribute to specialized areas of city administration and policy development.
 
 ## Terms of Service
 

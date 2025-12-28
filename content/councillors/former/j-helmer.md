@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues during their time on council?"
-  - "Which specific committees did Jesse Helmer serve on and what was their role or contribution to each?"
-  - "How did Jesse Helmer's attendance rate and participation compare to other council members during the same period?"
+  - "What was Jesse Helmer's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "Which specific committees did Jesse Helmer serve on and what leadership roles, if any, did they hold within those committees?"
+  - "How did Jesse Helmer's attendance rate compare to other council members during their 2014-2022 tenure?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, they were actively involved in the committee structure of the council, serving on eight different committees throughout their time in office.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating significant engagement with an attendance record of 580 meetings over their eight-year tenure. During this period, Helmer participated in eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Their multi-year service and extensive meeting attendance indicates regular engagement with council business and committee work. The breadth of committee involvement suggests participation across various aspects of municipal governance during their two terms on council.
+Helmer's extensive meeting attendance and multi-committee participation suggests active involvement in London's municipal decision-making processes throughout their two terms on council. Their consistent presence over nearly a decade represents substantial experience in local government operations and community representation.
 
 ## Terms of Service
 

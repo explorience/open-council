@@ -6,12 +6,14 @@ meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
-  - "Which specific committees did Joe Fontana serve on and what were his primary areas of focus during his council tenure?"
-  - "How did Joe Fontana typically vote on major municipal issues such as budget approvals, development projects, and policy changes during his time on council?"
+  - "What was Joe Fontana's voting record on key municipal issues during his 2011-2014 tenure?"
+  - "Which specific committees did he serve on and what were his primary areas of focus?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
 ---
 
-Joe Fontana served on London City Council from 2011 to 2014, during which time he attended 139 meetings. His council participation spanned a three-year period and included service on seven different committees, demonstrating active engagement in the committee structure of municipal government. His meeting attendance record shows consistent participation in council proceedings throughout his term.
+Joe Fontana served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 139 meetings during this three-year period. Throughout his tenure, he participated on seven different committees, showing broad engagement across various areas of municipal governance.
+
+His meeting attendance record suggests consistent involvement in council proceedings over the duration of his service. The multi-committee participation indicates he took on responsibilities across different aspects of city operations during his time as a council member.
 
 ## Terms of Service
 

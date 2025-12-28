@@ -6,14 +6,14 @@ meetingCount: 328
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Matt Brown's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Matt Brown serve on and did he hold any chair or vice-chair positions?"
-  - "What were the key issues or policy areas that Matt Brown most frequently spoke about or voted on during council meetings?"
+  - "What was Matt Brown's voting record on major municipal issues like budget approvals, development projects, and bylaw changes during his time on council?"
+  - "How frequently did Matt Brown initiate or sponsor motions and resolutions, and what were the outcomes of these initiatives?"
+  - "What specific committees did Matt Brown serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Matt Brown served on London City Council from 2011 to 2018, demonstrating consistent engagement through his attendance at 328 meetings over his seven-year tenure. During his time on council, he participated in eight different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
+Matt Brown served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 328 council meetings over his seven-year tenure. During this period, he served on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-His multi-year service and extensive meeting attendance suggests he was an active participant in London's municipal decision-making processes throughout nearly a full two-term period on council.
+His sustained participation through multiple terms suggests an active role in London's municipal decision-making processes, with his committee involvement likely spanning diverse portfolios typical of city council operations such as planning, finance, public works, or community services.
 
 ## Terms of Service
 

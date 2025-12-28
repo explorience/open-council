@@ -6,14 +6,14 @@ meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Anna Hopkins' voting attendance rate compared to other council members during her tenure?"
-  - "Which specific committees has she served on and what policy areas do they cover?"
-  - "How has her committee participation and meeting attendance changed across different terms or years of service?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
+  - "How does Anna Hopkins' meeting attendance record of 640 meetings compare to other council members over the same time period?"
+  - "What has been Anna Hopkins' voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Anna Hopkins has served on London City Council in Canada from 2014 to 2025, demonstrating significant civic engagement over an 11-year period. During her tenure, she has attended 640 council meetings and has served on 8 different committees, indicating active participation in the council's work across multiple areas of municipal governance.
+Anna Hopkins has been an active member of London City Council from 2014 to 2025, representing over a decade of municipal service. During this period, she has demonstrated consistent engagement by attending 640 council meetings, indicating regular participation in the city's governance processes.
 
-Her extensive meeting attendance record and multi-committee involvement suggests consistent engagement with council business throughout her time in office. The duration of her service, spanning over a decade, indicates either multiple terms or a long single term, representing sustained representation for her constituents on London City Council.
+Hopkins has served on eight different committees throughout her tenure, showing broad involvement across various aspects of municipal administration. Her extended period of service from 2014 to 2025 spans multiple council terms, suggesting she has been re-elected by constituents and has maintained ongoing commitment to local government responsibilities.
 
 ## Terms of Service
 

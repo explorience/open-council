@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting attendance rate and how did it compare to other council members during his 2012-2018 term?"
-  - "Which specific committees did Armstrong serve on and what were his key contributions or leadership roles within those committees?"
-  - "How did Armstrong vote on major municipal issues such as budget approvals, development projects, or policy changes during his six years on council?"
+  - "What was Bill Armstrong's voting record on major municipal issues like budget approvals and development projects during his 2012-2018 term?"
+  - "Which specific committees did Armstrong serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "How did Armstrong's meeting attendance compare to other council members during the same period, and were there any notable absences during key votes?"
 ---
 
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year term. During his time on council, he attended 245 meetings, demonstrating active participation in municipal governance. Armstrong served on five different committees throughout his tenure, though the specific names of these committees are not clearly indicated in the available data.
+Bill Armstrong served on London City Council from 2012 to 2018, representing a six-year tenure during which he attended 245 council meetings. His participation demonstrates consistent engagement with council business over this period. Armstrong served on five different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
 
-His attendance record suggests consistent engagement with council business over his six-year period of service. The substantial number of meetings attended indicates regular participation in both regular council sessions and committee work during his time as a municipal representative.
+His attendance record of 245 meetings across six years suggests regular participation in council proceedings, indicating active involvement in municipal governance and decision-making processes during his tenure.
 
 ## Terms of Service
 

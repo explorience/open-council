@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on key municipal issues like budget approvals and development applications during their 2011-2014 term?"
-  - "How frequently did Henderson speak or propose motions during council meetings, and what topics did they most often address?"
-  - "What was Henderson's attendance rate specifically for the four committees they served on compared to their overall council meeting attendance?"
+  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus regular council meetings?"
+  - "How did Henderson's 142 meeting attendance compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, completing one full term of municipal service. During this four-year period, Henderson demonstrated active participation by attending 142 council meetings. Henderson's committee involvement included service on four different committees, showing engagement across multiple areas of municipal governance and policy development.
+Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during their term. Henderson's council involvement included service on four different committees, though the specific committee names are not clearly displayed in the available data. Their four-year tenure represents one full term of municipal service on London's city council.
 
-Henderson's attendance record and committee participation indicate a committed approach to their council responsibilities during their single term in office. Their service spanned the full four-year electoral cycle typical of Ontario municipal governments.
+Henderson's meeting attendance record of 142 sessions over the four-year period suggests regular engagement with council business and municipal governance responsibilities during their time in office.
 
 ## Terms of Service
 

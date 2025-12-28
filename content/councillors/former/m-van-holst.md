@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Michael van Holst serve on during his time on London City Council?"
-  - "What was his voting record on major municipal issues such as budget approvals, development projects, and policy initiatives?"
-  - "How did his committee participation and meeting attendance compare to other council members during the same period?"
+  - "What was Michael van Holst's voting pattern on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
+  - "How frequently did he vote in alignment with the majority versus taking dissenting positions on council decisions?"
+  - "Which specific committees did he serve on and did he hold any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and governance structures.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal issues and portfolio areas.
 
-His extended service period of eight years suggests he was re-elected at least once during his tenure, as municipal terms in Ontario are typically four years in length. The substantial number of meetings attended reflects active engagement in the formal proceedings of municipal government during his time as a councillor.
+His extended service period of eight years suggests he was re-elected at least once during his tenure, as typical municipal terms in Ontario are four years in length. The substantial number of meetings attended reflects regular engagement with council business and committee work throughout his time as an elected representative.
 
 ## Terms of Service
 

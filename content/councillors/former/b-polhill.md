@@ -6,12 +6,14 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting record on major budget decisions and tax rate changes during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on, and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How did Polhill vote on key infrastructure projects and development proposals that came before council during their four-year tenure?"
+  - "What was Bud Polhill's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings versus regular council sessions?"
+  - "How did Polhill's meeting attendance compare to other council members during the same period?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during this four-year term. Throughout their tenure, Polhill served on five different committees, showing engagement across multiple areas of municipal governance and contributing to various aspects of city administration and policy development.
+Bud Polhill served on London City Council from 2011 to 2014, representing a four-year term during which they maintained active participation in council proceedings. Over this period, Polhill attended 199 meetings, demonstrating consistent engagement with municipal governance responsibilities. Their service included participation on five different committees, though the specific names of these committees are not clearly available in the provided data.
+
+Polhill's tenure spanned a full council term, suggesting they were either elected or appointed to serve the complete four-year cycle. The high number of meetings attended indicates regular involvement in both regular council sessions and committee work, reflecting an active approach to their municipal duties during their time in office.
 
 ## Terms of Service
 

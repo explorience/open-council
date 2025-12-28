@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development applications, and bylaw amendments?"
-  - "Which specific committees has Jerry Pribil served on, and what role did they play in major committee decisions during their term?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members, and were there any notable absences during important votes?"
+  - "What is Jerry Pribil's voting attendance rate and how does it compare to other council members?"
+  - "On which specific committees has Jerry Pribil served and what are his key areas of focus?"
+  - "Has Jerry Pribil sponsored or championed any particular motions or initiatives during his time on council?"
 ---
 
-Jerry Pribil has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their term, Pribil has been involved in committee work, serving on eight different committees, which indicates broad engagement across various municipal governance areas.
+Jerry Pribil has been an active member of London City Council, Canada, serving from 2022 to 2025. During this tenure, he has demonstrated consistent engagement with council responsibilities, attending 212 meetings. His participation extends beyond regular council sessions, as he has served on eight different committees, indicating broad involvement across various municipal functions and policy areas.
 
-Their consistent meeting attendance and extensive committee involvement suggests a committed approach to municipal service, participating in the detailed work that occurs both in full council sessions and in the specialized committee structure that handles much of the city's policy development and administrative oversight.
+His meeting attendance record of 212 sessions over his term suggests regular participation in council proceedings. The breadth of his committee involvement, spanning eight different committees, indicates he has taken on diverse responsibilities within the council structure, contributing to various aspects of municipal governance during his current term.
 
 ## Terms of Service
 

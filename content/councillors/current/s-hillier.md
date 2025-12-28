@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how does it compare to other London City Council members during the same period?"
-  - "Which specific committees has Steve Hillier served on and what key issues or initiatives has he supported or opposed?"
-  - "How has Steve Hillier's voting pattern aligned with or differed from the majority decisions of London City Council on major municipal issues?"
+  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has Steve Hillier served on and what roles did he hold on those committees?"
+  - "How has Steve Hillier's committee participation and meeting attendance changed over his years of service from 2018 to 2025?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent engagement by attending 453 council meetings. His participation extends beyond general council sessions, as he has served on seven different committees throughout his time in office, indicating broad involvement across various municipal areas of responsibility.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent engagement with council duties, attending 453 meetings. His participation extends beyond regular council sessions, as he has served on seven different committees throughout his tenure, indicating broad involvement in various aspects of municipal governance.
 
-Hillier's seven-year term represents substantial municipal experience, with his high meeting attendance suggesting regular participation in the council's decision-making processes. His committee involvement demonstrates engagement with specialized areas of municipal governance, though the specific nature of these committees would require additional information to detail.
+His multi-year service spanning seven years shows sustained commitment to municipal politics in London. The high number of meeting attendances relative to his years of service suggests regular participation in council activities and committee work.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on major municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees has he served on, and what has been his attendance rate and level of participation in committee work?"
-  - "How does his meeting attendance rate of 204 meetings compare to other council members during the same 2022-2025 period?"
+  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Peter Cuddy served on and what were his roles or contributions to those committees?"
+  - "Has Peter Cuddy sponsored or championed any particular motions or initiatives during his time on council?"
 ---
 
-Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating significant engagement through his attendance at 204 council meetings during this period. His participation extends beyond general council meetings, as he has served on eight different committees throughout his tenure, indicating broad involvement in various aspects of municipal governance and policy development.
+Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating strong participation through attendance at 204 meetings during this period. His council involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
 
-This level of meeting attendance and committee participation suggests a committed approach to his council responsibilities, with involvement spanning multiple areas of city administration and decision-making processes during his current term.
+His consistent meeting attendance and extensive committee participation suggests a hands-on approach to municipal governance, contributing to council deliberations and decision-making processes across multiple areas of city administration during his term.
 
 ## Terms of Service
 

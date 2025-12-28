@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on key municipal issues like budget approvals, development projects, or infrastructure spending during his 2011-2014 term?"
-  - "Which specific committees did Stephen Orser serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "How did Stephen Orser's meeting attendance rate of 112 meetings over four years compare to other councillors serving during the same 2011-2014 period?"
+  - "What was Stephen Orser's voting record on major municipal issues during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on and what were his key contributions to each?"
+  - "How did Stephen Orser's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, completing one full term of municipal service. During this four-year period, he attended 112 council meetings, demonstrating regular participation in the city's legislative proceedings. Orser served on four different committees during his tenure, though the specific committee names are not clearly identified in the available data.
+Stephen Orser served on London City Council from 2011 to 2014, completing one full term during this four-year period. Throughout his tenure, he demonstrated consistent engagement with council duties by attending 112 meetings. Orser participated as a member of four different committees during his time on council, though the specific names of these committees are not clearly identified in the available data.
 
-His participation spanned the entirety of one municipal term, indicating he served through a complete electoral cycle. With an average of 28 meetings per year over his four-year term, his attendance record suggests consistent engagement with council business and municipal governance responsibilities.
+His participation record shows active involvement in the council's work over the course of his single term, with his meeting attendance indicating regular engagement with municipal governance responsibilities during the early 2010s period of London's city government.
 
 ## Terms of Service
 

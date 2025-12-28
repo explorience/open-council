@@ -6,14 +6,14 @@ meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his 2011-2018 term?"
-  - "Which specific committees did Harold Usher serve on and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Harold Usher vote on major city issues and budget decisions during his seven years on London City Council?"
+  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
+  - "Which specific committees did Harold Usher serve on and did he hold any chair or vice-chair positions?"
+  - "What were some of the major issues or bylaws that Harold Usher voted on during his time on council, and what positions did he take?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation over his seven-year tenure. During this period, he attended 403 meetings, indicating regular engagement with council business. Usher participated on six different committees throughout his time in office, though the specific committee names are not clearly identified in the available data.
+Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation over this seven-year period. During his tenure, he attended 403 council meetings and served on six different committees, indicating active engagement in the council's work and decision-making processes.
 
-His attendance record and multi-committee involvement suggest active participation in the legislative and administrative functions of the city council during his nearly decade-long service to the London community.
+His sustained participation across nearly two full terms suggests a committed approach to municipal governance, with regular attendance at council sessions and involvement in committee work that likely covered various aspects of city administration and policy development.
 
 ## Terms of Service
 

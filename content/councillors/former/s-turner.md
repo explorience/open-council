@@ -6,14 +6,12 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's attendance rate compared to other council members during his time in office?"
-  - "Which specific committees did Stephen Turner serve on and what were his roles or contributions to those committees?"
-  - "How did Stephen Turner vote on major municipal issues like budget approvals, development proposals, or policy changes during his 2014-2022 tenure?"
+  - "What was Stephen Turner's voting attendance rate and how did it compare to other council members during his 2014-2022 tenure?"
+  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Stephen Turner vote on major municipal issues like budget approvals, development proposals, and infrastructure projects during his time on council?"
 ---
 
-Stephen Turner served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active involvement in the council's legislative and administrative work.
-
-His participation record shows regular engagement with council business, with an average of approximately 52 meetings attended per year during his time in office. The breadth of his committee involvement suggests he contributed to various aspects of municipal governance throughout his two terms on council.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation with attendance at 417 council meetings over his eight-year tenure. During his time on council, Turner was actively involved in committee work, serving on seven different committees throughout his term. His sustained participation across nearly a decade indicates a committed engagement with municipal governance and the legislative processes of London City Council.
 
 ## Terms of Service
 

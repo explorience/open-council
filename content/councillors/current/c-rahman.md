@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 216 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues brought before council during her 2022-2025 term?"
+  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
+  - "How often does she initiate motions or amendments during council meetings, and what topics do they typically address?"
+  - "What is her attendance rate specifically for committee meetings compared to regular council meetings, and does she hold any committee chair or vice-chair positions?"
 ---
 
-Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, she has demonstrated strong participation by attending 216 council meetings. Rahman has been involved in committee work, serving on eight different committees throughout her tenure, indicating broad engagement across various areas of municipal governance.
+Corrine Rahman has been an active member of London City Council, Canada, serving from 2022-2025. During this period, she has demonstrated strong participation by attending 216 meetings. Her council involvement extends beyond general council meetings, as she has served on eight different committees, indicating broad engagement across various municipal areas and policy domains.
 
-Her consistent meeting attendance and extensive committee involvement suggest a high level of commitment to her council responsibilities. The data shows Rahman has maintained active participation in the democratic processes of London City Council across multiple years of service.
+Rahman's high meeting attendance record and extensive committee participation suggest a committed approach to her council responsibilities. Her involvement spans multiple committees, which likely provides her with diverse perspectives on city governance and allows her to contribute to a wide range of municipal issues and decisions affecting London residents.
 
 ## Terms of Service
 

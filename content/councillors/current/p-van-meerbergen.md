@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other London City Council members?"
-  - "Which specific committees has he served on and in what capacity (chair, vice-chair, or member)?"
-  - "Has his voting pattern or committee participation changed significantly over his 14-year tenure on council?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
+  - "What is his voting record on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members during the same time period?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council in Canada from 2011 to 2025, demonstrating substantial commitment to municipal governance over this 14-year period. During his tenure, he has attended 499 council meetings and served on seven different committees, indicating consistent participation in the city's decision-making processes.
+Paul Van Meerbergen has been an active member of London City Council in Canada, serving from 2011 to 2025, representing a tenure of approximately 14 years. During this period, he has demonstrated consistent participation by attending 499 council meetings and has served on 7 different committees, indicating broad engagement across various municipal governance areas.
 
-His lengthy service and high meeting attendance record suggest he has been a dedicated council member who regularly engages with municipal business. The breadth of his committee involvement across seven different committees indicates he has contributed to various aspects of city governance throughout his time on council.
+His extensive meeting attendance record and multi-committee involvement suggest sustained civic engagement throughout his time on council. The length of his service, spanning over a decade, indicates he has been re-elected multiple times, reflecting ongoing community support for his council representation.
 
 ## Terms of Service
 
