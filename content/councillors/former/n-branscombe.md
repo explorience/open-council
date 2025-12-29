@@ -6,14 +6,14 @@ meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Nancy Branscombe's voting record on key municipal issues such as budget approvals, development projects, or policy changes during her 2011-2014 term?"
-  - "Which specific committees did she serve on, and what was her attendance rate for both regular council meetings and committee meetings?"
-  - "Did she sponsor or champion any particular motions, bylaws, or initiatives during her time on council, and what was the outcome of those proposals?"
+  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what role did she play in committee work?"
+  - "Did she seek re-election after her 2011-2014 term, and if not, what were her reasons for not continuing in municipal politics?"
 ---
 
-Nancy Branscombe served on London City Council, Canada from 2011 to 2014, demonstrating active participation with attendance at 119 meetings during her term. Her council involvement extended beyond regular council meetings, as she served on eight different committees throughout her tenure, indicating broad engagement across various municipal policy areas and administrative functions.
+Nancy Branscombe served on London City Council, Canada from 2011-2014, representing a single four-year term. During her tenure, she demonstrated active participation by attending 119 council meetings. She served on eight different committees, showing broad engagement across various areas of municipal governance, though the specific committee names are not clearly displayed in the available data.
 
-Her four-year term and substantial meeting attendance record suggests consistent civic involvement during her time in office. The multiple committee assignments reflect the collaborative nature of municipal governance, where councillors typically contribute to specialized areas of city administration and policy development.
+Her attendance record and committee involvement indicate consistent participation in the formal proceedings of city council throughout her term of service.
 
 ## Terms of Service
 

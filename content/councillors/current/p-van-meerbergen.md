@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "What is his voting record on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members during the same time period?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council, and in what capacity?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members who served during the same period?"
+  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, and major infrastructure projects?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council in Canada, serving from 2011 to 2025, representing a tenure of approximately 14 years. During this period, he has demonstrated consistent participation by attending 499 council meetings and has served on 7 different committees, indicating broad engagement across various municipal governance areas.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating consistent engagement through his attendance at 499 council meetings over his tenure. His lengthy service of approximately 14 years indicates sustained commitment to municipal governance in London, Ontario. Van Meerbergen has participated in committee work as part of his council duties, serving on seven different committees during his time in office, which suggests involvement across multiple areas of municipal policy and administration.
 
-His extensive meeting attendance record and multi-committee involvement suggest sustained civic engagement throughout his time on council. The length of his service, spanning over a decade, indicates he has been re-elected multiple times, reflecting ongoing community support for his council representation.
+His extensive meeting attendance record and multi-committee participation reflect regular engagement with the formal processes of city council business over more than a decade of public service.
 
 ## Terms of Service
 

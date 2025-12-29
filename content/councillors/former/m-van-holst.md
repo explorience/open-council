@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting pattern on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
-  - "How frequently did he vote in alignment with the majority versus taking dissenting positions on council decisions?"
-  - "Which specific committees did he serve on and did he hold any leadership roles such as committee chair or vice-chair positions?"
+  - "What was Michael van Holst's voting record on major budget decisions and tax increases during his time on council?"
+  - "Which specific committees did he serve on and what were his key contributions or positions on committee matters?"
+  - "How did his attendance rate and participation compare to other council members during the same period?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal issues and portfolio areas.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
 
-His extended service period of eight years suggests he was re-elected at least once during his tenure, as typical municipal terms in Ontario are four years in length. The substantial number of meetings attended reflects regular engagement with council business and committee work throughout his time as an elected representative.
+His extensive meeting attendance record and multi-committee participation suggests active engagement in the council's decision-making processes throughout his two terms in office. The span of his service from 2014-2022 covers a significant period of London's municipal governance and development.
 
 ## Terms of Service
 

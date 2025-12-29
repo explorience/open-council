@@ -6,14 +6,14 @@ meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Peter Cuddy served on and what were his roles or contributions to those committees?"
-  - "Has Peter Cuddy sponsored or championed any particular motions or initiatives during his time on council?"
+  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has Peter Cuddy served on and what are his roles on those committees?"
+  - "What has been Peter Cuddy's voting pattern on major municipal issues during his 2022-2025 term?"
 ---
 
-Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating strong participation through attendance at 204 meetings during this period. His council involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal issues and governance areas.
+Peter Cuddy has been an active member of London City Council from 2022-2025, demonstrating significant engagement through his attendance at 204 meetings during this period. His council participation extends beyond general council meetings, as he has served on eight different committees throughout his term, indicating broad involvement across various municipal governance areas.
 
-His consistent meeting attendance and extensive committee participation suggests a hands-on approach to municipal governance, contributing to council deliberations and decision-making processes across multiple areas of city administration during his term.
+His meeting attendance record of 204 sessions suggests consistent participation in council proceedings over his current term. The diversity of his committee involvement, spanning eight different committees, reflects engagement across multiple aspects of municipal government operations and policy development.
 
 ## Terms of Service
 

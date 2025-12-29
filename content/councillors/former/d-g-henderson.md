@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
   - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How did Henderson's 142 meeting attendance compare to other council members during the same period?"
+  - "Did Henderson sponsor or champion any particular pieces of legislation or municipal initiatives during their time on council?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during their term. Henderson's council involvement included service on four different committees, though the specific committee names are not clearly displayed in the available data. Their four-year tenure represents one full term of municipal service on London's city council.
+Dale Henderson served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, Henderson demonstrated consistent participation by attending 142 council meetings. Henderson was actively involved in committee work, serving on four different committees throughout their tenure, though the specific committee names are not clearly displayed in the available data.
 
-Henderson's meeting attendance record of 142 sessions over the four-year period suggests regular engagement with council business and municipal governance responsibilities during their time in office.
+Henderson's attendance record and committee involvement suggest they maintained regular engagement with municipal governance responsibilities during their time on council. Their participation spanned the entirety of their elected term, indicating sustained commitment to their council duties over the four-year period.
 
 ## Terms of Service
 

@@ -7,13 +7,13 @@ yearsActive: "2014 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "How does Anna Hopkins' meeting attendance record of 640 meetings compare to other council members over the same time period?"
-  - "What has been Anna Hopkins' voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does her meeting attendance record of 640 meetings compare to other council members over the same time period?"
+  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy changes during her 2014-2025 tenure?"
 ---
 
-Anna Hopkins has been an active member of London City Council from 2014 to 2025, representing over a decade of municipal service. During this period, she has demonstrated consistent engagement by attending 640 council meetings, indicating regular participation in the city's governance processes.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating significant engagement with a total attendance of 640 meetings over this period. During her tenure, she has participated on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Hopkins has served on eight different committees throughout her tenure, showing broad involvement across various aspects of municipal administration. Her extended period of service from 2014 to 2025 spans multiple council terms, suggesting she has been re-elected by constituents and has maintained ongoing commitment to local government responsibilities.
+Her eleven-year service record shows consistent participation in council activities, with an average of approximately 58 meetings attended per year. The extent of her committee involvement suggests active engagement in the detailed work of municipal government beyond regular council sessions.
 
 ## Terms of Service
 

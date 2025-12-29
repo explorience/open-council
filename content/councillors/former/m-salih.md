@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Mo Salih serve on and what were their primary roles or contributions to those committees?"
-  - "How did Mo Salih's meeting attendance pattern change over the eight years, and were there any notable periods of absence or increased participation?"
+  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "Which specific committees did Mo Salih serve on, and what was their attendance rate and contribution to committee work?"
+  - "How did Mo Salih's meeting attendance rate compare to other council members during their 2014-2022 tenure?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During their tenure, they attended 350 council meetings and served on four committees, though the specific committee names are not clearly specified in the available data.
+Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent engagement through attendance at 350 council meetings over their eight-year tenure. During their time on council, Salih participated in committee work, serving on four different committees, though the specific committee names are not clearly indicated in the available data.
 
-Their extended service period and substantial meeting attendance record suggests active engagement in municipal governance throughout their time on council. The multi-year commitment and committee involvement indicates participation in various aspects of city administration and policy development during their two-term period on London City Council.
+This level of meeting attendance suggests active participation in municipal governance throughout their council term, spanning two full municipal election cycles in Ontario's four-year municipal election system.
 
 ## Terms of Service
 

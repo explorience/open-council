@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "What has been Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Shawn Lewis's meeting attendance rate of 495 meetings compare to other council members during the same period?"
+  - "What is Shawn Lewis's voting attendance rate and how often do they vote in favor of or against major city initiatives?"
+  - "Which specific committees has Shawn Lewis served on and what leadership roles, if any, have they held within those committees?"
+  - "How does Shawn Lewis's meeting attendance and committee participation compare to other council members during the same period?"
 ---
 
-Shawn Lewis has been an active member of London City Council in Canada, serving from 2018 to 2025. During this period, they have demonstrated consistent participation by attending 495 council meetings. Lewis has served on eight different committees throughout their tenure, indicating broad involvement across various aspects of municipal governance and policy areas within the city.
+Shawn Lewis has been an active member of London City Council, serving from 2018 to 2025. During this period, they have demonstrated consistent engagement with council duties, attending 495 meetings over their tenure. Lewis has participated on eight different committees throughout their time on council, indicating broad involvement across various municipal governance areas and policy domains.
 
-Their seven-year term on council shows sustained commitment to municipal service, with their high meeting attendance record suggesting regular engagement in the democratic processes of local government. The extensive committee involvement demonstrates participation in the detailed work that supports council decision-making across multiple municipal departments and policy areas.
+Their sustained participation across nearly seven years of service and extensive committee involvement suggests a committed approach to municipal governance. The high meeting attendance record reflects regular engagement with the formal decision-making processes of London City Council.
 
 ## Terms of Service
 

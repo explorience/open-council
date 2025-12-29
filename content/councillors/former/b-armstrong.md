@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on major municipal issues like budget approvals and development projects during his 2012-2018 term?"
-  - "Which specific committees did Armstrong serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "How did Armstrong's meeting attendance compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What was Bill Armstrong's voting attendance rate and how did it compare to other council members during his 2012-2018 tenure?"
+  - "Which specific committees did Armstrong serve on and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Armstrong vote on major municipal issues and budget decisions during his time on London City Council?"
 ---
 
-Bill Armstrong served on London City Council from 2012 to 2018, representing a six-year tenure during which he attended 245 council meetings. His participation demonstrates consistent engagement with council business over this period. Armstrong served on five different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
+Bill Armstrong served on London City Council from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was actively involved in committee work, serving on five different committees throughout his time on council, though the specific names of these committees are not clearly specified in the available data.
 
-His attendance record of 245 meetings across six years suggests regular participation in council proceedings, indicating active involvement in municipal governance and decision-making processes during his tenure.
+His attendance record and committee involvement suggest he maintained regular engagement with municipal governance responsibilities during his term. The six-year service period indicates he likely served either one full term plus a partial term, or was involved through multiple election cycles, depending on London's municipal election schedule during that timeframe.
 
 ## Terms of Service
 

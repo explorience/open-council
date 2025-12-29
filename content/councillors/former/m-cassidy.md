@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major budget decisions during her time on council?"
-  - "How often did she vote with the majority versus dissenting on key municipal issues?"
-  - "Which specific committees did she serve on and what leadership roles, if any, did she hold within those committees?"
+  - "What was Maureen Cassidy's voting attendance rate and were there any notable absences during key council decisions?"
+  - "Which specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did her meeting attendance and committee participation compare to other council members during her time in office?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation over an eight-year period. During her tenure, she attended 536 council meetings and served on seven different committees, indicating active engagement in the municipal governance process and a broad involvement across various areas of city business.
+Maureen Cassidy served on London City Council from 2014 to 2022, representing an 8-year tenure in municipal government. During this period, she demonstrated consistent participation by attending 536 council meetings and served on 7 different committees, indicating active involvement in various aspects of city governance and policy development.
 
-Her extensive meeting attendance record and multi-committee participation suggests she maintained regular involvement in council proceedings throughout her two terms in office, contributing to discussions and decision-making across multiple facets of city administration.
+Her sustained participation over nearly a decade suggests a commitment to municipal affairs and council responsibilities. The substantial number of meetings attended and multiple committee assignments indicate she was an engaged member of council who participated in the regular business of city government throughout her tenure.
 
 ## Terms of Service
 

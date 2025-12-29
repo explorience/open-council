@@ -7,13 +7,13 @@ yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Steve Hillier served on and what roles did he hold on those committees?"
-  - "How has Steve Hillier's committee participation and meeting attendance changed over his years of service from 2018 to 2025?"
+  - "Which specific committees has Steve Hillier served on and in what capacity (chair, vice-chair, or member)?"
+  - "How has Steve Hillier voted on major municipal issues such as budget approvals, development proposals, or policy changes during his time on council?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent engagement with council duties, attending 453 meetings. His participation extends beyond regular council sessions, as he has served on seven different committees throughout his tenure, indicating broad involvement in various aspects of municipal governance.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 meetings. His council involvement extends beyond general council meetings, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal policy areas and administrative functions.
 
-His multi-year service spanning seven years shows sustained commitment to municipal politics in London. The high number of meeting attendances relative to his years of service suggests regular participation in council activities and committee work.
+His seven-year term and extensive meeting attendance record suggest a commitment to the responsibilities of municipal governance. The diversity of his committee involvement shows participation across multiple aspects of city administration and policy development during his council service.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's attendance rate compared to other council members during their tenure from 2014-2021?"
-  - "Which specific committees did Phil Squire serve on, and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Phil Squire typically vote on major municipal issues like budget approvals, development proposals, or policy changes during their time on council?"
+  - "What was Phil Squire's voting record on major municipal issues during their 2014-2021 tenure?"
+  - "Which specific committees did Phil Squire serve on and what was their level of participation in each?"
+  - "How did Phil Squire's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Phil Squire served on London City Council, Canada from 2014 to 2021, demonstrating consistent participation throughout their seven-year tenure. During this period, they attended 372 council meetings and served on six different committees, indicating active engagement in the council's work and committee structure.
+Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, Squire demonstrated consistent engagement with council business, attending 372 meetings over the course of their time in office. They participated in the committee system by serving on six different committees, though the specific names of these committees are not clearly indicated in the available data.
 
-Their participation spanned nearly two full terms on council, suggesting they were re-elected during this period. With an average of approximately 53 meetings per year, Squire maintained regular attendance at council proceedings while also contributing to committee work across multiple areas of municipal governance.
+Squire's participation reflects a substantial commitment to municipal governance, with their meeting attendance suggesting regular involvement in council proceedings and decision-making processes. Their multi-year service from 2014 to 2021 would have encompassed at least one full municipal term, during which they contributed to various aspects of London's civic administration through both general council meetings and specialized committee work.
 
 ## Terms of Service
 

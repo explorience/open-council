@@ -6,14 +6,14 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings versus regular council sessions?"
-  - "How did Polhill's meeting attendance compare to other council members during the same period?"
+  - "What was Bud Polhill's voting record on major city budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings versus general council meetings?"
+  - "Did Polhill introduce any motions or initiatives during their time on council, and what were the outcomes of those proposals?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, representing a four-year term during which they maintained active participation in council proceedings. Over this period, Polhill attended 199 meetings, demonstrating consistent engagement with municipal governance responsibilities. Their service included participation on five different committees, though the specific names of these committees are not clearly available in the provided data.
+Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during their four-year term. This represents consistent engagement in council proceedings throughout their tenure. Polhill served on five committees during their time on council, though the specific names of these committees are not clearly specified in the available data.
 
-Polhill's tenure spanned a full council term, suggesting they were either elected or appointed to serve the complete four-year cycle. The high number of meetings attended indicates regular involvement in both regular council sessions and committee work, reflecting an active approach to their municipal duties during their time in office.
+Their participation spanned a full council term, indicating they completed their elected mandate and maintained regular involvement in the city's legislative processes through both general council meetings and committee work.
 
 ## Terms of Service
 

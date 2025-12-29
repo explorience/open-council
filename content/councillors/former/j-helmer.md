@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending?"
-  - "Which specific committees did Jesse Helmer serve on and what leadership roles, if any, did they hold within those committees?"
-  - "How did Jesse Helmer's attendance rate compare to other council members during their 2014-2022 tenure?"
+  - "What specific committees did Jesse Helmer serve on during their time on London City Council?"
+  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during the 2014-2022 period?"
+  - "On which key municipal issues or bylaws did Jesse Helmer cast deciding or notable votes during their eight years of service?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating significant engagement with an attendance record of 580 meetings over their eight-year tenure. During this period, Helmer participated in eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Jesse Helmer served on London City Council from 2014 to 2022, representing an eight-year tenure in municipal government. During this period, Helmer demonstrated consistent participation by attending 580 council meetings, indicating regular engagement with the city's legislative processes.
 
-Helmer's extensive meeting attendance and multi-committee participation suggests active involvement in London's municipal decision-making processes throughout their two terms on council. Their consistent presence over nearly a decade represents substantial experience in local government operations and community representation.
+Throughout their time on council, Helmer served on eight different committees, though the specific committee names are not clearly displayed in the available data. This committee involvement suggests active participation in various aspects of municipal governance and policy development across multiple areas of city administration during their two-term service period.
 
 ## Terms of Service
 

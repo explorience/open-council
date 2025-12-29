@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major city budget decisions during his 2011-2018 tenure?"
+  - "What was Paul Hubert's attendance rate compared to other council members during his tenure from 2011-2018?"
   - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions?"
-  - "How did Paul Hubert's meeting attendance rate compare to other council members during the same period?"
+  - "How did Paul Hubert vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he was actively involved in committee work, serving on eight different committees throughout his term. This level of meeting attendance and committee participation suggests he was an engaged council member who regularly took part in the formal governance processes of the city.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation over his seven-year tenure. During this period, he attended 363 council meetings, reflecting active engagement in municipal governance. Hubert participated on eight different committees throughout his time in office, indicating broad involvement across various aspects of city administration and policy development.
 
-His service spanned nearly two full council terms, indicating he was re-elected during this period. The substantial number of meetings attended and multiple committee assignments reflect a councilor who was actively engaged in the day-to-day work of municipal government.
+His sustained participation over nearly two full council terms suggests a commitment to municipal service, with his meeting attendance record providing evidence of regular engagement with council business and decision-making processes.
 
 ## Terms of Service
 

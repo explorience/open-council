@@ -6,14 +6,14 @@ meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Jerry Pribil's voting attendance rate and how does it compare to other council members?"
-  - "On which specific committees has Jerry Pribil served and what are his key areas of focus?"
-  - "Has Jerry Pribil sponsored or championed any particular motions or initiatives during his time on council?"
+  - "What specific committees has Jerry Pribil served on during their time on London City Council?"
+  - "What is Jerry Pribil's voting record on major municipal issues and bylaws during their 2022-2025 term?"
+  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members and the expected number of meetings for this period?"
 ---
 
-Jerry Pribil has been an active member of London City Council, Canada, serving from 2022 to 2025. During this tenure, he has demonstrated consistent engagement with council responsibilities, attending 212 meetings. His participation extends beyond regular council sessions, as he has served on eight different committees, indicating broad involvement across various municipal functions and policy areas.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings through service on eight different committees, indicating broad engagement across various municipal areas and issues.
 
-His meeting attendance record of 212 sessions over his term suggests regular participation in council proceedings. The breadth of his committee involvement, spanning eight different committees, indicates he has taken on diverse responsibilities within the council structure, contributing to various aspects of municipal governance during his current term.
+This level of meeting attendance and committee participation suggests consistent involvement in the council's work over their term. The multi-committee service reflects engagement with diverse aspects of municipal governance, though the specific nature of these committees and their focus areas would require additional information to detail.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
-  - "How does Elizabeth Peloza's meeting attendance rate of 452 meetings compare to other council members during the same period?"
+  - "What is Elizabeth Peloza's voting attendance rate and how often does she miss key votes on important municipal issues?"
+  - "Which specific committees has she served on and has she held any leadership roles such as committee chair or vice-chair positions?"
+  - "How does her meeting attendance record compare to other members of London City Council during the same time period?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council in Canada, serving from 2018 to 2025. During her tenure, she has demonstrated strong participation by attending 452 meetings, indicating consistent engagement with council business. She has served on nine different committees throughout her time on council, showing broad involvement across various municipal portfolios and governance areas.
+Elizabeth Peloza has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 452 council meetings over this period. Her involvement extends beyond regular council sessions, as she has served on nine different committees during her tenure, indicating broad engagement across various municipal portfolios and policy areas.
 
-Her multi-year service span and extensive meeting attendance record suggest a committed approach to municipal governance, with her committee participation indicating engagement across diverse areas of city administration and policy development.
+Her consistent meeting attendance over a seven-year period suggests regular participation in the council's deliberative processes. The extensive committee work reflects involvement in the detailed examination of municipal issues that typically occurs at the committee level before matters proceed to full council consideration.
 
 ## Terms of Service
 

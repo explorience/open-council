@@ -6,12 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and how did it compare to other council members during his 2014-2022 tenure?"
-  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Stephen Turner vote on major municipal issues like budget approvals, development proposals, and infrastructure projects during his time on council?"
+  - "What was Stephen Turner's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "How frequently did Turner miss council meetings, and what was his attendance rate compared to other council members during his tenure?"
+  - "Which specific committees did Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation with attendance at 417 council meetings over his eight-year tenure. During his time on council, Turner was actively involved in committee work, serving on seven different committees throughout his term. His sustained participation across nearly a decade indicates a committed engagement with municipal governance and the legislative processes of London City Council.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active involvement in the city's governance and decision-making processes.
+
+His regular meeting attendance and multi-committee participation suggests Turner maintained an engaged role throughout his time on council, contributing to various aspects of municipal government across different committee responsibilities during his two-term service period.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
-  - "How often does she initiate motions or amendments during council meetings, and what topics do they typically address?"
-  - "What is her attendance rate specifically for committee meetings compared to regular council meetings, and does she hold any committee chair or vice-chair positions?"
+  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
+  - "How does her meeting attendance record of 216 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, or policy changes?"
 ---
 
-Corrine Rahman has been an active member of London City Council, Canada, serving from 2022-2025. During this period, she has demonstrated strong participation by attending 216 meetings. Her council involvement extends beyond general council meetings, as she has served on eight different committees, indicating broad engagement across various municipal areas and policy domains.
+Corrine Rahman has been an active member of London City Council in Canada, serving from 2022 to 2025. During this period, she has demonstrated strong attendance with participation in 216 council meetings. Rahman has served on eight different committees throughout her tenure, indicating broad engagement across various aspects of municipal governance and city affairs.
 
-Rahman's high meeting attendance record and extensive committee participation suggest a committed approach to her council responsibilities. Her involvement spans multiple committees, which likely provides her with diverse perspectives on city governance and allows her to contribute to a wide range of municipal issues and decisions affecting London residents.
+Her consistent meeting attendance and extensive committee involvement suggest a hands-on approach to her council duties. With service spanning multiple committees, Rahman appears to contribute to diverse areas of city business and policy development during her current term.
 
 ## Terms of Service
 

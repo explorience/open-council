@@ -6,12 +6,14 @@ meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Sandy White's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their role or contribution to those committees?"
-  - "Did Sandy White seek re-election after their 2011-2014 term, and if not, what were the reasons for not continuing their council service?"
+  - "What was Sandy White's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on, and did they hold any chair or vice-chair positions?"
+  - "How does Sandy White's meeting attendance rate of 164 meetings compare to other councillors who served during the same 2011-2014 period?"
 ---
 
-Sandy White served on London City Council from 2011 to 2014, completing one full term during this four-year period. During their tenure, White demonstrated consistent participation by attending 164 council meetings. They served on five different committees, though the specific names of these committees are not clearly displayed in the available data. Their service spanned a period of municipal governance that would have included budget deliberations, policy decisions, and various civic matters typical of municipal council work.
+Sandy White served on London City Council from 2011-2014, completing one full term during this four-year period. During their tenure, they demonstrated consistent participation by attending 164 council meetings. White served on five different committees during their time on council, indicating active involvement in the committee structure that supports municipal governance and policy development.
+
+White's participation record shows regular engagement with council business over the course of their single term. Their attendance at 164 meetings across four years suggests steady commitment to their council responsibilities, though the specific breakdown between regular council meetings, committee meetings, and special sessions is not specified in the available data.
 
 ## Terms of Service
 

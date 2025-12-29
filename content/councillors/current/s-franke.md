@@ -6,12 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Skylar Franke served on during their time on London City Council?"
-  - "How does Skylar Franke's meeting attendance rate of 179 meetings compare to other council members during the same period?"
-  - "What has been Skylar Franke's voting pattern on key municipal issues and bylaws brought before council?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
+  - "Which specific committees does Skylar Franke serve on, and what has been their attendance rate and level of participation in committee work?"
+  - "How does Skylar Franke's meeting attendance rate of 179 meetings compare to other council members and the expected number of meetings during their 2022-2025 term?"
 ---
 
-Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated strong participation by attending 179 council meetings. Franke has been involved in committee work, serving on seven different committees, though the specific names of these committees are not clearly displayed in the available data. Their consistent meeting attendance suggests regular engagement with municipal governance and council business throughout their term.
+Skylar Franke has served on London City Council from 2022-2025, demonstrating active participation with attendance at 179 council meetings during this period. Their council involvement extends beyond general meetings through service on seven different committees, indicating broad engagement across various municipal policy areas and governance functions.
+
+This level of meeting attendance and committee participation suggests consistent involvement in the council's work over their term. The multi-committee service reflects engagement with diverse aspects of municipal governance, though the specific nature of these committees and their focus areas would require additional information to describe in detail.
 
 ## Terms of Service
 

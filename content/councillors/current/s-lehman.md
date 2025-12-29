@@ -6,14 +6,14 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals and development projects?"
-  - "How does his meeting attendance rate compare to other council members during the same period?"
-  - "Which specific committees has he served on and what leadership roles, if any, has he held within those committees?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Steve Lehman served on and what were his roles or contributions to those committees?"
+  - "Has Steve Lehman sponsored or introduced any specific motions, bylaws, or initiatives during his time on council?"
 ---
 
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 386 meetings during this period. Throughout his tenure, he has served on six different committees, indicating broad involvement in various aspects of municipal governance and policy development.
+Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time on council, indicating a broad engagement with various aspects of municipal governance.
 
-His consistent participation over this seven-year span suggests a committed approach to his council duties, with his meeting attendance and committee involvement reflecting engagement across multiple areas of city business and administration.
+His seven-year term on council shows sustained commitment to municipal service, and his meeting attendance record suggests regular participation in council proceedings. The committee work represents additional responsibilities beyond the standard council duties, contributing to the detailed work that supports council decision-making processes.
 
 ## Terms of Service
 
