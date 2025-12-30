@@ -6,14 +6,14 @@ meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did Stephen Orser serve on and what were his key contributions to those committees?"
-  - "How did Stephen Orser's meeting attendance rate compare to other council members during the same period?"
+  - "What was Stephen Orser's voting attendance rate and how did it compare to other council members during the 2011-2014 period?"
+  - "Which specific committees did Stephen Orser serve on and what were his primary areas of focus or expertise?"
+  - "Did Stephen Orser seek re-election after his 2011-2014 term, and if not, what were his stated reasons for not continuing on council?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, completing a full four-year term. During his tenure, he demonstrated consistent engagement with council duties by attending 112 meetings. Orser participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly specified in the available data.
+Stephen Orser served on London City Council from 2011-2014, representing a single four-year term during this period. Throughout his tenure, he demonstrated consistent participation by attending 112 council meetings. Orser was actively involved in the committee structure of the council, serving on four different committees during his time in office, though the specific names of these committees are not clearly displayed in the available data.
 
-His attendance record and committee involvement suggest active participation in the municipal governance process during his term. The four-year service period from 2011-2014 represents one complete municipal term, as Canadian municipal elections typically occur every four years.
+His four-year term and meeting attendance record indicate regular engagement with municipal governance responsibilities. The committee involvement suggests he took on additional duties beyond general council meetings, participating in the specialized work that committees typically handle for various aspects of city administration and policy development.
 
 ## Terms of Service
 

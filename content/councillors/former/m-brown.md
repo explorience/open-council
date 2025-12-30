@@ -6,14 +6,12 @@ meetingCount: 328
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Matt Brown's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Matt Brown serve on and did he hold any committee chair or vice-chair positions?"
-  - "What were some of the major municipal issues or initiatives that came before council during his 2011-2018 service period?"
+  - "What was Matt Brown's voting record on key budget decisions during his time on council from 2011-2018?"
+  - "How often did Matt Brown vote in alignment with the majority versus taking minority positions on council votes?"
+  - "Which specific committees did Matt Brown serve on, and did he hold any committee chair or vice-chair positions during his tenure?"
 ---
 
-Matt Brown served on London City Council from 2011 to 2018, demonstrating active participation with attendance at 328 meetings over his seven-year tenure. During his time on council, he served on eight different committees, showing broad involvement across various municipal portfolios and responsibilities.
-
-His consistent meeting attendance and multi-committee involvement suggest regular engagement with council business throughout his term. The seven-year service period indicates he likely served nearly two full terms on council, contributing to municipal governance and decision-making processes during that timeframe.
+Matt Brown served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 328 meetings over his seven-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas. His sustained participation over nearly two terms suggests an active role in London's municipal decision-making processes.
 
 ## Terms of Service
 

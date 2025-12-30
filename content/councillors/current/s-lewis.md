@@ -6,14 +6,14 @@ meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Shawn Lewis's voting attendance rate and how often do they vote in favor of or against major city initiatives?"
-  - "Which specific committees has Shawn Lewis served on and what leadership roles, if any, have they held within those committees?"
-  - "How does Shawn Lewis's meeting attendance and committee participation compare to other council members during the same period?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "What has been Shawn Lewis's voting record on major municipal issues and budget decisions?"
+  - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Shawn Lewis has been an active member of London City Council, serving from 2018 to 2025. During this period, they have demonstrated consistent engagement with council duties, attending 495 meetings over their tenure. Lewis has participated on eight different committees throughout their time on council, indicating broad involvement across various municipal governance areas and policy domains.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 495 meetings during this period. Their council involvement spans multiple terms and includes service on eight different committees, indicating broad engagement across various areas of municipal governance.
 
-Their sustained participation across nearly seven years of service and extensive committee involvement suggests a committed approach to municipal governance. The high meeting attendance record reflects regular engagement with the formal decision-making processes of London City Council.
+Lewis's consistent meeting attendance over a seven-year period reflects sustained commitment to their council responsibilities. Their participation across multiple committees suggests involvement in diverse aspects of city administration and policy development, though the specific nature of these committee roles would require additional information to detail.
 
 ## Terms of Service
 

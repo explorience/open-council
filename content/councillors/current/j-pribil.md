@@ -7,13 +7,13 @@ yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
   - "What specific committees has Jerry Pribil served on during their time on London City Council?"
-  - "What is Jerry Pribil's voting record on major municipal issues and bylaws during their 2022-2025 term?"
-  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members and the expected number of meetings for this period?"
+  - "How does Jerry Pribil's meeting attendance rate of 212 meetings compare to other council members during the same period?"
+  - "What has been Jerry Pribil's voting record on major municipal issues and bylaws since joining council in 2022?"
 ---
 
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings through service on eight different committees, indicating broad engagement across various municipal areas and issues.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Throughout their council tenure, Pribil has been involved in committee work, serving on eight different committees, though the specific names of these committees are not clearly displayed in the available data.
 
-This level of meeting attendance and committee participation suggests consistent involvement in the council's work over their term. The multi-committee service reflects engagement with diverse aspects of municipal governance, though the specific nature of these committees and their focus areas would require additional information to detail.
+Pribil's participation record shows consistent engagement in council business, with their meeting attendance spanning their current term. Their involvement across multiple committees suggests broad participation in various aspects of municipal governance and policy development during their time in office.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Bud Polhill's voting record on major city budget decisions during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings versus general council meetings?"
-  - "Did Polhill introduce any motions or initiatives during their time on council, and what were the outcomes of those proposals?"
+  - "What was Bud Polhill's voting pattern on key municipal issues like budget approvals and development proposals during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Polhill's attendance rate of 199 meetings compare to other council members during the same 2011-2014 period?"
 ---
 
-Bud Polhill served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 199 meetings during their four-year term. This represents consistent engagement in council proceedings throughout their tenure. Polhill served on five committees during their time on council, though the specific names of these committees are not clearly specified in the available data.
+Bud Polhill served on London City Council from 2011 to 2014, completing a four-year term during this period. Throughout their tenure, Polhill demonstrated consistent engagement with council duties, attending 199 meetings over the course of their service. They participated in the committee system by serving on five different committees, though the specific names of these committees are not clearly indicated in the available data.
 
-Their participation spanned a full council term, indicating they completed their elected mandate and maintained regular involvement in the city's legislative processes through both general council meetings and committee work.
+Polhill's attendance record suggests active participation in the council's work during their single term in office. Their involvement across multiple committees indicates engagement with various aspects of municipal governance and policy development during the 2011-2014 council term.
 
 ## Terms of Service
 

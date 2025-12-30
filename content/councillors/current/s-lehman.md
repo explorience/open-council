@@ -8,12 +8,12 @@ isCurrent: true
 prefillQuestions:
   - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
   - "Which specific committees has Steve Lehman served on and what were his roles or contributions to those committees?"
-  - "Has Steve Lehman sponsored or introduced any specific motions, bylaws, or initiatives during his time on council?"
+  - "Has Steve Lehman taken any leadership positions on council, such as committee chair roles or deputy mayor positions, during his 2018-2025 term?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time on council, indicating a broad engagement with various aspects of municipal governance.
+Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His service has extended beyond general council duties, as he has participated on six different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His seven-year term on council shows sustained commitment to municipal service, and his meeting attendance record suggests regular participation in council proceedings. The committee work represents additional responsibilities beyond the standard council duties, contributing to the detailed work that supports council decision-making processes.
+His nearly seven-year term on council shows sustained civic engagement, with his meeting attendance record suggesting regular participation in the formal decision-making processes of the city. The breadth of his committee involvement indicates he has contributed to multiple areas of municipal operations and planning during his time in office.
 
 ## Terms of Service
 

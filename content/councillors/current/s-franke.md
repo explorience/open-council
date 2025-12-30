@@ -6,14 +6,14 @@ meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
-  - "Which specific committees does Skylar Franke serve on, and what has been their attendance rate and level of participation in committee work?"
-  - "How does Skylar Franke's meeting attendance rate of 179 meetings compare to other council members and the expected number of meetings during their 2022-2025 term?"
+  - "What is Skylar Franke's voting alignment with other council members on major municipal issues?"
+  - "How does their committee attendance compare to their overall meeting attendance rate?"
+  - "Which specific committees does Skylar Franke serve on and what policy areas do they cover?"
 ---
 
-Skylar Franke has served on London City Council from 2022-2025, demonstrating active participation with attendance at 179 council meetings during this period. Their council involvement extends beyond general meetings through service on seven different committees, indicating broad engagement across various municipal policy areas and governance functions.
+Skylar Franke has been an active member of London City Council, Canada, serving from 2022 to 2025. During their current term, they have demonstrated strong attendance with 179 meetings attended. Franke has taken on significant committee responsibilities, serving on seven different committees, which indicates broad engagement across various municipal policy areas and administrative functions.
 
-This level of meeting attendance and committee participation suggests consistent involvement in the council's work over their term. The multi-committee service reflects engagement with diverse aspects of municipal governance, though the specific nature of these committees and their focus areas would require additional information to describe in detail.
+Their high meeting attendance rate and extensive committee involvement suggests consistent participation in the council's decision-making processes. The multi-committee service demonstrates their willingness to contribute to diverse aspects of municipal governance during their term on council.
 
 ## Terms of Service
 

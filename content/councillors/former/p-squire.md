@@ -6,14 +6,14 @@ meetingCount: 372
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting record on major municipal issues during their 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on and what was their level of participation in each?"
-  - "How did Phil Squire's meeting attendance rate compare to other council members during the same period?"
+  - "What was Phil Squire's voting record on key municipal issues during their time on council from 2014-2021?"
+  - "Which specific committees did Phil Squire serve on, and what was their attendance rate for committee meetings versus general council meetings?"
+  - "How did Phil Squire's meeting attendance of 372 sessions compare to other council members during the same period?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning approximately seven years of municipal service. During this tenure, Squire demonstrated consistent engagement with council business, attending 372 meetings over the course of their time in office. They participated in the committee system by serving on six different committees, though the specific names of these committees are not clearly indicated in the available data.
+Phil Squire served on London City Council for approximately 7-8 years, from 2014 to 2021. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire was actively involved in committee work, serving on six different committees throughout their time on council, indicating broad engagement across various municipal policy areas and administrative functions.
 
-Squire's participation reflects a substantial commitment to municipal governance, with their meeting attendance suggesting regular involvement in council proceedings and decision-making processes. Their multi-year service from 2014 to 2021 would have encompassed at least one full municipal term, during which they contributed to various aspects of London's civic administration through both general council meetings and specialized committee work.
+Their attendance record and committee participation suggest a committed approach to municipal governance, with regular engagement in both general council sessions and specialized committee work that helps shape city policy and operations.
 
 ## Terms of Service
 

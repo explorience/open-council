@@ -6,14 +6,14 @@ meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "Did Henderson sponsor or champion any particular pieces of legislation or municipal initiatives during their time on council?"
+  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their role or contribution to those committees?"
+  - "Did Henderson sponsor or introduce any significant motions, bylaws, or initiatives during their time on council?"
 ---
 
-Dale Henderson served on London City Council, Canada from 2011-2014, completing a full four-year term. During this period, Henderson demonstrated consistent participation by attending 142 council meetings. Henderson was actively involved in committee work, serving on four different committees throughout their tenure, though the specific committee names are not clearly displayed in the available data.
+Dale Henderson served on London City Council from 2011 to 2014, representing a single four-year term. During this period, Henderson demonstrated active participation by attending 142 council meetings. Henderson served on four different committees during their tenure, indicating involvement in various aspects of municipal governance and policy development beyond regular council sessions.
 
-Henderson's attendance record and committee involvement suggest they maintained regular engagement with municipal governance responsibilities during their time on council. Their participation spanned the entirety of their elected term, indicating sustained commitment to their council duties over the four-year period.
+Henderson's participation record shows consistent engagement with council duties over their four-year term, with their meeting attendance and committee involvement reflecting a commitment to the administrative and legislative responsibilities of municipal office during this period.
 
 ## Terms of Service
 

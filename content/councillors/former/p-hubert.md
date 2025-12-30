@@ -6,14 +6,14 @@ meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Paul Hubert's attendance rate compared to other council members during his tenure from 2011-2018?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions?"
-  - "How did Paul Hubert vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
+  - "What was Paul Hubert's voting record on major municipal issues such as budget approvals, development projects, and infrastructure spending during his 2011-2018 term?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Paul Hubert's meeting attendance rate compare to other council members during the same period, and were there any notable absences from key votes?"
 ---
 
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation over his seven-year tenure. During this period, he attended 363 council meetings, reflecting active engagement in municipal governance. Hubert participated on eight different committees throughout his time in office, indicating broad involvement across various aspects of city administration and policy development.
+Paul Hubert served on London City Council from 2011 to 2018, demonstrating active participation with attendance at 363 meetings over his seven-year tenure. This represents an average of approximately 52 meetings per year during his time in office. Hubert served on eight different committees during his council term, indicating broad involvement across various areas of municipal governance and policy development.
 
-His sustained participation over nearly two full council terms suggests a commitment to municipal service, with his meeting attendance record providing evidence of regular engagement with council business and decision-making processes.
+His consistent meeting attendance and multi-committee involvement suggests he was an engaged council member who participated regularly in the formal decision-making processes of London's municipal government throughout his tenure.
 
 ## Terms of Service
 

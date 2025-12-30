@@ -6,12 +6,14 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Sam Trosow served on and what roles (chair, vice-chair, member) have they held?"
-  - "What has been Sam Trosow's voting pattern on key municipal issues such as budget approvals, development applications, and policy initiatives?"
+  - "What is Sam Trosow's voting record on key issues that have come before London City Council during their 2022-2025 term?"
+  - "Which specific committees has Sam Trosow served on, and what has been their level of participation in committee work versus regular council meetings?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members, and have they missed any significant votes or meetings?"
 ---
 
-Sam Trosow has served on London City Council from 2022-2025, demonstrating active participation with attendance at 209 meetings during this period. Their council involvement includes service on eight different committees, indicating broad engagement across various areas of municipal governance. This level of meeting attendance and committee participation suggests consistent involvement in the council's work over their term.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong participation through attendance at 209 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various areas of municipal governance.
+
+This level of meeting attendance and committee participation suggests consistent civic engagement and dedication to their council responsibilities. Serving on multiple committees allows for input across different policy areas and demonstrates a comprehensive approach to municipal governance during their current term.
 
 ## Terms of Service
 

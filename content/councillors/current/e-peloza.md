@@ -6,14 +6,14 @@ meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting attendance rate and how often does she miss key votes on important municipal issues?"
-  - "Which specific committees has she served on and has she held any leadership roles such as committee chair or vice-chair positions?"
-  - "How does her meeting attendance record compare to other members of London City Council during the same time period?"
+  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during her tenure?"
+  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on these committees?"
+  - "How has her voting record aligned with majority council decisions, and on which key issues has she voted differently from the majority?"
 ---
 
-Elizabeth Peloza has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 452 council meetings over this period. Her involvement extends beyond regular council sessions, as she has served on nine different committees during her tenure, indicating broad engagement across various municipal portfolios and policy areas.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement through her attendance at 452 meetings during this period. Her council participation spans seven years and includes service on nine different committees, indicating broad involvement across various municipal governance areas. This level of meeting attendance and committee participation suggests regular engagement in the council's decision-making processes and municipal affairs.
 
-Her consistent meeting attendance over a seven-year period suggests regular participation in the council's deliberative processes. The extensive committee work reflects involvement in the detailed examination of municipal issues that typically occurs at the committee level before matters proceed to full council consideration.
+Her tenure covers multiple council terms and shows sustained commitment to municipal governance in London, Ontario. The extensive committee involvement reflects participation in the detailed work of council beyond regular council meetings, contributing to the various specialized areas of municipal administration and policy development.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council, and in what capacity?"
-  - "How does his meeting attendance rate of 499 meetings compare to other council members who served during the same period?"
-  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, and major infrastructure projects?"
+  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has he served on and in what capacity (chair, vice-chair, or member)?"
+  - "What has been his voting pattern on major city issues such as budget approvals, development proposals, and policy changes?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating consistent engagement through his attendance at 499 council meetings over his tenure. His lengthy service of approximately 14 years indicates sustained commitment to municipal governance in London, Ontario. Van Meerbergen has participated in committee work as part of his council duties, serving on seven different committees during his time in office, which suggests involvement across multiple areas of municipal policy and administration.
+Paul Van Meerbergen has been an active member of London City Council from 2011 to 2025, demonstrating significant participation with attendance at 499 meetings over his tenure. During his time on council, he has served on seven different committees, indicating broad involvement across various aspects of municipal governance. His extended service of approximately 14 years suggests sustained engagement in London's civic affairs and a commitment to municipal representation.
 
-His extensive meeting attendance record and multi-committee participation reflect regular engagement with the formal processes of city council business over more than a decade of public service.
+His substantial meeting attendance record and multi-committee involvement reflect consistent participation in the formal processes of city council operations throughout his lengthy tenure on London City Council.
 
 ## Terms of Service
 

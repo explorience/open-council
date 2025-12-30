@@ -6,14 +6,14 @@ meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Michael van Holst's voting record on major budget decisions and tax increases during his time on council?"
-  - "Which specific committees did he serve on and what were his key contributions or positions on committee matters?"
-  - "How did his attendance rate and participation compare to other council members during the same period?"
+  - "What was Michael van Holst's voting attendance rate and how did it compare to other council members during his tenure?"
+  - "Which specific committees did he serve on and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did his meeting attendance pattern change over his eight years in office, and were there any notable periods of absence?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal portfolios and governance areas.
+Michael van Holst served on London City Council from 2014 to 2022, representing an 8-year tenure during which he maintained active participation in council proceedings. Over this period, he attended 461 meetings and served on 8 different committees, demonstrating consistent engagement with the council's work across multiple areas of municipal governance.
 
-His extensive meeting attendance record and multi-committee participation suggests active engagement in the council's decision-making processes throughout his two terms in office. The span of his service from 2014-2022 covers a significant period of London's municipal governance and development.
+His participation record shows regular attendance at council meetings throughout his two-term service, suggesting a committed approach to his role as a city councillor. The breadth of his committee involvement indicates he contributed to various aspects of city business and policy development during his time in office.
 
 ## Terms of Service
 

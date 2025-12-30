@@ -6,14 +6,14 @@ meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Stephen Turner's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
-  - "How frequently did Turner miss council meetings, and what was his attendance rate compared to other council members during his tenure?"
-  - "Which specific committees did Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Stephen Turner's voting record on major municipal issues like budget approval, development projects, and policy changes during his 8 years on council?"
+  - "Which specific committees did Stephen Turner serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How does Stephen Turner's meeting attendance rate of 417 meetings compare to other council members who served during the same 2014-2022 period?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active involvement in the city's governance and decision-making processes.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an 8-year period. During his tenure, he attended 417 council meetings and served on 7 different committees, indicating active engagement in the council's work across multiple areas of municipal governance.
 
-His regular meeting attendance and multi-committee participation suggests Turner maintained an engaged role throughout his time on council, contributing to various aspects of municipal government across different committee responsibilities during his two-term service period.
+His participation record shows regular attendance at council proceedings and broad committee involvement, suggesting he took on diverse responsibilities within the council structure throughout his two-term service from 2014 to 2022.
 
 ## Terms of Service
 

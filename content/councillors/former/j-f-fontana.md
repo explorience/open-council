@@ -6,14 +6,14 @@ meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
 prefillQuestions:
-  - "What was Joe Fontana's attendance rate compared to other council members during the 2011-2014 period?"
-  - "Which specific committees did Joe Fontana serve on and what were his roles on those committees?"
-  - "How did Joe Fontana vote on major municipal issues and bylaws during his time on council?"
+  - "What was Joe Fontana's voting record on key municipal issues during his 2011-2014 term?"
+  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus general council meetings?"
+  - "How did his meeting attendance compare to other council members during the same period?"
 ---
 
-Joe Fontana served on London City Council from 2011 to 2014, during which time he attended 139 meetings. His council participation spanned a three-year period and involved service on seven different committees. This level of meeting attendance and committee involvement indicates active participation in the municipal governance process during his tenure on council.
+Joe Fontana served on London City Council from 2011 to 2014, a three-year period during which he attended 139 council meetings. His participation included service on seven different committees, demonstrating active engagement in the committee structure of municipal government. This level of meeting attendance suggests consistent participation in council proceedings throughout his tenure.
 
-The meeting attendance record of 139 meetings over approximately three years suggests regular engagement with council business, though without additional context about total meetings held or attendance expectations, it's difficult to assess this participation relative to other council members or municipal standards.
+Based on the available data, Fontana maintained regular involvement in London's municipal decision-making processes through both general council meetings and committee work, though the specific names and focus areas of the committees he served on are not clearly indicated in the records provided.
 
 ## Terms of Service
 

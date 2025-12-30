@@ -6,14 +6,14 @@ meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Maureen Cassidy's voting attendance rate and were there any notable absences during key council decisions?"
-  - "Which specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did her meeting attendance and committee participation compare to other council members during her time in office?"
+  - "What was Maureen Cassidy's voting attendance rate and were there any notable patterns in her absences from council meetings?"
+  - "Which specific committees did she serve on and did she hold any chair or vice-chair positions during her tenure?"
+  - "How did her committee participation and meeting attendance compare to other council members serving during the same period?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, representing an 8-year tenure in municipal government. During this period, she demonstrated consistent participation by attending 536 council meetings and served on 7 different committees, indicating active involvement in various aspects of city governance and policy development.
+Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating significant commitment through her attendance at 536 meetings over this eight-year period. This represents an average of approximately 67 meetings per year during her tenure. She participated on seven different committees during her time on council, indicating broad involvement across various areas of municipal governance.
 
-Her sustained participation over nearly a decade suggests a commitment to municipal affairs and council responsibilities. The substantial number of meetings attended and multiple committee assignments indicate she was an engaged member of council who participated in the regular business of city government throughout her tenure.
+Her consistent meeting attendance and multi-committee participation suggests active engagement in the council's work throughout her two terms of service. The substantial number of meetings attended over nearly a decade reflects dedication to her role as an elected municipal representative.
 
 ## Terms of Service
 

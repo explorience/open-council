@@ -6,14 +6,14 @@ meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Susan Stevenson's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on each?"
-  - "On what key issues or bylaws has she voted differently from the majority of council, and what was her rationale for those positions?"
+  - "What specific committees has Susan Stevenson served on during her 2022-2025 term?"
+  - "How does her meeting attendance rate of 178 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on major municipal issues and budget decisions during her term?"
 ---
 
-Susan Stevenson has been an active member of London City Council from 2022-2025, demonstrating strong engagement through her attendance at 178 meetings during this period. Her council participation includes service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her current term, she has demonstrated strong engagement by attending 178 meetings, indicating consistent participation in council proceedings. She has served on eight different committees, showing broad involvement across various areas of municipal governance and policy development.
 
-Her consistent meeting attendance and extensive committee work suggest a committed approach to her council duties, with involvement spanning multiple facets of city administration and decision-making processes throughout her term.
+Her extensive meeting attendance record and committee participation suggests she has been actively engaged in the decision-making processes of London City Council throughout her term. The high number of meetings attended reflects regular participation in both regular council sessions and committee work across multiple policy areas.
 
 ## Terms of Service
 

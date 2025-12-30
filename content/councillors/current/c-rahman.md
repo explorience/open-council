@@ -6,14 +6,14 @@ meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
-  - "How does her meeting attendance record of 216 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, or policy changes?"
+  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development projects, or policy changes during her tenure?"
+  - "How frequently does Rahman introduce motions or amendments during council meetings, and what topics do these typically address?"
+  - "What specific committees does Rahman serve on, and has she taken on any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-Corrine Rahman has been an active member of London City Council in Canada, serving from 2022 to 2025. During this period, she has demonstrated strong attendance with participation in 216 council meetings. Rahman has served on eight different committees throughout her tenure, indicating broad engagement across various aspects of municipal governance and city affairs.
+Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, she has demonstrated strong attendance with 216 meetings attended. Her council participation includes service on eight different committees, indicating broad engagement across various municipal governance areas and policy domains.
 
-Her consistent meeting attendance and extensive committee involvement suggest a hands-on approach to her council duties. With service spanning multiple committees, Rahman appears to contribute to diverse areas of city business and policy development during her current term.
+Rahman's consistent meeting attendance and extensive committee involvement suggest a committed approach to her council responsibilities. Her service span covers the current council term, positioning her as a relatively new but actively participating member of London's municipal government structure.
 
 ## Terms of Service
 

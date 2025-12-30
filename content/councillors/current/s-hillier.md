@@ -6,14 +6,14 @@ meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Steve Hillier served on and in what capacity (chair, vice-chair, or member)?"
-  - "How has Steve Hillier voted on major municipal issues such as budget approvals, development proposals, or policy changes during his time on council?"
+  - "What specific committees has Steve Hillier served on during his time on London City Council?"
+  - "How does his meeting attendance rate compare to other council members over the same period?"
+  - "What has been his voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 453 meetings. His council involvement extends beyond general council meetings, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal policy areas and administrative functions.
+Steve Hillier has served on London City Council from 2018 to 2025, demonstrating active participation with attendance at 453 meetings over this period. His council involvement includes service on seven different committees, indicating broad engagement across various municipal policy areas and administrative functions.
 
-His seven-year term and extensive meeting attendance record suggest a commitment to the responsibilities of municipal governance. The diversity of his committee involvement shows participation across multiple aspects of city administration and policy development during his council service.
+His multi-year tenure and extensive meeting attendance record suggests consistent civic participation throughout his council term. The committee work represents a significant component of municipal governance, as committees typically handle detailed policy development and oversight responsibilities that support the broader council's decision-making processes.
 
 ## Terms of Service
 

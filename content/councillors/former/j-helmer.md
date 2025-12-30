@@ -6,14 +6,14 @@ meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What specific committees did Jesse Helmer serve on during their time on London City Council?"
-  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during the 2014-2022 period?"
-  - "On which key municipal issues or bylaws did Jesse Helmer cast deciding or notable votes during their eight years of service?"
+  - "What was Jesse Helmer's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "Which specific committees did Jesse Helmer serve on, and did they hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Jesse Helmer's meeting attendance rate compare to other council members during their time in office?"
 ---
 
-Jesse Helmer served on London City Council from 2014 to 2022, representing an eight-year tenure in municipal government. During this period, Helmer demonstrated consistent participation by attending 580 council meetings, indicating regular engagement with the city's legislative processes.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating substantial commitment through attendance at 580 council meetings over this eight-year period. During their tenure, Helmer participated on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Throughout their time on council, Helmer served on eight different committees, though the specific committee names are not clearly displayed in the available data. This committee involvement suggests active participation in various aspects of municipal governance and policy development across multiple areas of city administration during their two-term service period.
+This level of meeting attendance and committee participation suggests active engagement in the council's work, with Helmer contributing to municipal decision-making processes across multiple terms of office during a significant period of the city's governance.
 
 ## Terms of Service
 

@@ -6,14 +6,14 @@ meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
 prefillQuestions:
-  - "What was Bill Armstrong's voting attendance rate and how did it compare to other council members during his 2012-2018 tenure?"
-  - "Which specific committees did Armstrong serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Armstrong vote on major municipal issues and budget decisions during his time on London City Council?"
+  - "What was Bill Armstrong's attendance rate as a percentage of total scheduled meetings during his 2012-2018 tenure?"
+  - "Which specific committees did Bill Armstrong serve on and what were his roles or positions within those committees?"
+  - "How did Bill Armstrong vote on major municipal issues and bylaws that came before council during his time in office?"
 ---
 
-Bill Armstrong served on London City Council from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was actively involved in committee work, serving on five different committees throughout his time on council, though the specific names of these committees are not clearly specified in the available data.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, demonstrating active participation throughout his six-year tenure. During this period, he attended 245 council meetings and served on five different committees, though the specific committee names are not clearly specified in the available data.
 
-His attendance record and committee involvement suggest he maintained regular engagement with municipal governance responsibilities during his term. The six-year service period indicates he likely served either one full term plus a partial term, or was involved through multiple election cycles, depending on London's municipal election schedule during that timeframe.
+His attendance record suggests consistent engagement with council business over the course of his service. Armstrong's six-year term represents a substantial commitment to municipal governance in London, spanning what would typically be at least one full council term.
 
 ## Terms of Service
 

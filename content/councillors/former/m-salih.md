@@ -6,14 +6,14 @@ meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and infrastructure spending?"
-  - "Which specific committees did Mo Salih serve on, and what was their attendance rate and contribution to committee work?"
-  - "How did Mo Salih's meeting attendance rate compare to other council members during their 2014-2022 tenure?"
+  - "What was Mo Salih's voting record on key municipal issues during their time on council?"
+  - "Which specific committees did Mo Salih serve on and what was their role or contribution to those committees?"
+  - "How did Mo Salih's attendance rate compare to other council members during the same period?"
 ---
 
-Mo Salih served on London City Council in Canada from 2014 to 2022, demonstrating consistent engagement through attendance at 350 council meetings over their eight-year tenure. During their time on council, Salih participated in committee work, serving on four different committees, though the specific committee names are not clearly indicated in the available data.
+Mo Salih served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation with attendance at 350 meetings over their eight-year tenure. During this period, they served on four different committees, though the specific committee names are not clearly displayed in the available data. Their extended service spanning two full terms indicates active civic engagement in London's municipal government.
 
-This level of meeting attendance suggests active participation in municipal governance throughout their council term, spanning two full municipal election cycles in Ontario's four-year municipal election system.
+Salih's participation record shows regular involvement in council business, with an average of approximately 44 meetings attended per year across their time in office. This level of meeting attendance suggests dedicated participation in the democratic process and commitment to their role as an elected representative for London residents.
 
 ## Terms of Service
 
