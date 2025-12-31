@@ -428,6 +428,92 @@ export class VoteLookupService {
   }
 
   /**
+   * Find all close votes across all dates (for general "what divides council" queries)
+   * Returns the closest/most contentious votes
+   *
+   * @param maxMargin - Maximum margin to consider "close" (default: 2 for very close votes)
+   * @param limit - Maximum number of results (default: 10)
+   * @param recentMonths - Only look at votes from last N months (default: 12)
+   */
+  findAllCloseVotes(maxMargin: number = 2, limit: number = 10, recentMonths: number = 12): CloseVoteResult[] {
+    const slugs = getAllCouncillorSlugs();
+    const cutoffDate = new Date();
+    cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
+
+    // Build a map of unique votes
+    const voteMap = new Map<string, {
+      date: string;
+      itemTitle: string;
+      motionText: string;
+      meetingTitle: string;
+      result: string;
+      passed: boolean;
+      yeas: string[];
+      nays: string[];
+    }>();
+
+    for (const slug of slugs) {
+      const voteFile = loadCouncillorVotes(slug);
+      if (!voteFile) continue;
+
+      for (const vote of voteFile.votes) {
+        if (new Date(vote.date) < cutoffDate) continue;
+
+        // Create unique key for this vote
+        const key = `${vote.date}|${vote.itemTitle}|${vote.motionText.slice(0, 100)}`;
+
+        if (!voteMap.has(key)) {
+          voteMap.set(key, {
+            date: vote.date,
+            itemTitle: vote.itemTitle,
+            motionText: vote.motionText,
+            meetingTitle: vote.meetingTitle,
+            result: vote.result,
+            passed: vote.passed,
+            yeas: [],
+            nays: [],
+          });
+        }
+
+        const entry = voteMap.get(key)!;
+        if (vote.vote === 'yea') {
+          entry.yeas.push(voteFile.councillor);
+        } else if (vote.vote === 'nay') {
+          entry.nays.push(voteFile.councillor);
+        }
+      }
+    }
+
+    // Filter to close votes only
+    const closeVotes: CloseVoteResult[] = [];
+
+    for (const vote of voteMap.values()) {
+      const margin = Math.abs(vote.yeas.length - vote.nays.length);
+      const totalVotes = vote.yeas.length + vote.nays.length;
+
+      // Only include if margin is small AND enough councillors voted
+      if (margin <= maxMargin && totalVotes >= 10) {
+        closeVotes.push({
+          date: vote.date,
+          itemTitle: vote.itemTitle,
+          motionText: vote.motionText,
+          meetingTitle: vote.meetingTitle,
+          result: vote.result,
+          passed: vote.passed,
+          yeas: vote.yeas,
+          nays: vote.nays,
+          margin,
+        });
+      }
+    }
+
+    // Sort by margin (closest first), then by date (most recent first)
+    return closeVotes
+      .sort((a, b) => a.margin - b.margin || new Date(b.date).getTime() - new Date(a.date).getTime())
+      .slice(0, limit);
+  }
+
+  /**
    * Format close votes for LLM context
    */
   formatCloseVotesForContext(votes: CloseVoteResult[]): string {

@@ -827,6 +827,10 @@ export class RAGService {
       ['mecp', 'ministry of environment', 'ministry of the environment conservation and parks', 'province', 'provincial', 'ontario'],
       // Municipal organizations (AMO = Association of Municipalities of Ontario, FCM = Federation of Canadian Municipalities)
       ['amo', 'association of municipalities of ontario', 'fcm', 'federation of canadian municipalities'],
+
+      // ===== ELECTIONS =====
+      // PA Day / Election Day variants (motion to have Professional Activity Day on Election Day)
+      ['pa day', 'professional activity day', 'election day', 'voting day', 'october 26', 'election day off', 'school pa day'],
     ];
 
     let normalizedQuery = query;
@@ -1197,6 +1201,12 @@ export class RAGService {
       /how close/,
       /narrow margin/,
       /7.?8|8.?7|6.?9|9.?6/,  // Common close vote margins
+      /divides? council/,      // "What divides council evenly?"
+      /evenly (split|divided)/, // "evenly split/divided"
+      /most (contentious|divisive|controversial)/,  // "most contentious vote"
+      /most divided/,
+      /split (the )?council/,
+      /council (is |was )?(most )?(divided|split)/,
     ];
 
     const hasCloseVoteKeyword = closeVotePatterns.some(p => p.test(lowerQuery));
@@ -1521,6 +1531,40 @@ export class RAGService {
       const results = await this.vectorStore.hybridSearch(
         queryEmbedding,
         `${closeVoteDate} close vote 7-8 narrow margin councillors yea nay`,
+        topK,
+        0.5
+      );
+
+      this.logUniqueMeetings(results);
+      return results;
+    }
+
+    // Strategy 3.6: Close vote query WITHOUT specific date
+    // Finds all close votes across recent meetings
+    if (isCloseVoteQuery && !closeVoteDate) {
+      console.log(`📊 General close vote query (no specific date) - finding all close votes`);
+
+      let verifiedVoteContext = '';
+      if (this.voteLookupInitialized) {
+        const closeVotes = voteLookupService.findAllCloseVotes(2, 10, 24); // margin <=2, top 10, last 24 months
+        if (closeVotes.length > 0) {
+          verifiedVoteContext = voteLookupService.formatCloseVotesForContext(closeVotes);
+          console.log(`   ✅ Found ${closeVotes.length} close votes across all dates`);
+        } else {
+          console.log(`   ⚠️ No close votes found`);
+        }
+      }
+
+      // Store verified context for later inclusion
+      (this as any)._verifiedVoteContext = verifiedVoteContext;
+
+      // Also do semantic search to get additional context
+      const normalizedQuery = this.normalizeQueryForEmbedding(query);
+      const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
+
+      const results = await this.vectorStore.hybridSearch(
+        queryEmbedding,
+        `close vote 7-8 8-7 narrow margin contentious divisive split council`,
         topK,
         0.5
       );
