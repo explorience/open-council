@@ -830,7 +830,7 @@ export class RAGService {
 
       // ===== ELECTIONS =====
       // PA Day / Election Day variants (motion to have Professional Activity Day on Election Day)
-      ['pa day', 'professional activity day', 'election day', 'voting day', 'october 26', 'election day off', 'school pa day'],
+      ['pa day', 'professional activity day', 'election day', 'voting day', 'october 26', 'election day off', 'school pa day', '2026 municipal election', 'school board election', '2026 elections update', 'voting location', 'vote tabulator'],
     ];
 
     let normalizedQuery = query;

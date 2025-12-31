@@ -476,7 +476,7 @@ const testCases: AccuracyTestCase[] = [
     id: 'medium-024',
     difficulty: 'medium',
     category: 'vote-margin',
-    question: 'What was the margin on the PA Day motion?',
+    question: 'What was the margin on the PA Day motion in April 2025?',
     expectedContent: ['8 to 7', '8-7', 'one vote', 'close'],
     verifiedAnswer: 'Passed 8-7 (one vote margin).',
   },
