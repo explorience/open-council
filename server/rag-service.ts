@@ -3,7 +3,7 @@
 import OpenAI from 'openai';
 import Anthropic from '@anthropic-ai/sdk';
 import { VectorStore } from './vector-store.js';
-import { getSystemPrompt } from './system-prompt.js';
+import { getStaticSystemPrompt, getContextBlock, getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult, ChatSource } from './types.js';
 import { getAllCouncillors } from '../lib/councillors/index.js';
 import { voteLookupService } from './vote-lookup.js';
@@ -1932,7 +1932,12 @@ ${result.text}
     // Retrieve relevant context
     const results = await this.retrieveContext(message);
     const context = this.buildContextString(results);
-    const systemPrompt = getSystemPrompt(context);
+
+    // Split system prompt for caching:
+    // - Static instructions: cached (same across all queries, ~4K tokens)
+    // - Dynamic context: NOT cached (changes per query)
+    const staticInstructions = getStaticSystemPrompt();
+    const dynamicContext = getContextBlock(context);
 
     // Populate metadata for logging
     if (metadataCollector) {
@@ -1957,8 +1962,10 @@ ${result.text}
     ];
 
     // Stream response with prompt caching enabled
-    // Cache the system prompt to reduce costs by ~90% on repeated queries
     // See: https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching
+    // Two system blocks:
+    // 1. Static instructions WITH cache_control - cached for 5 min, saves ~90% on ~4K tokens
+    // 2. Dynamic context WITHOUT cache_control - changes per query, not cached
     const stream = await this.anthropic.messages.create({
       model: 'claude-sonnet-4-5-20250929',
       max_tokens: 4000,
@@ -1966,8 +1973,13 @@ ${result.text}
       system: [
         {
           type: 'text',
-          text: systemPrompt,
+          text: staticInstructions,
           cache_control: { type: 'ephemeral' }
+        },
+        {
+          type: 'text',
+          text: dynamicContext,
+          // No cache_control - this changes per query
         }
       ],
       messages,

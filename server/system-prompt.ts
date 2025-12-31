@@ -1,12 +1,20 @@
 // System prompt for the council meeting chatbot
 // Edit this file to change how the AI responds to users
+//
+// IMPORTANT: The system prompt is split into two parts for caching:
+// 1. Static instructions (getStaticSystemPrompt) - cached by Anthropic for 5 min
+// 2. Dynamic context (getContextBlock) - NOT cached, changes per query
+//
+// This saves ~90% on the instruction tokens (~4K tokens) across queries.
 
 /**
- * Generate the system prompt with meeting context inserted
- * @param context - The retrieved meeting context to include
+ * Get the static system prompt instructions (cacheable)
+ * This contains all the behavioral instructions that don't change between queries.
+ * ~4K tokens, cached for 5 minutes by Anthropic.
  */
-export function getSystemPrompt(context: string): string {
+export function getStaticSystemPrompt(): string {
   // Get current date for temporal awareness
+  // Note: Date changes daily, so cache is invalidated once per day at most
   const now = new Date();
   const currentDate = now.toISOString().split('T')[0];
   const currentYear = now.getFullYear();
@@ -278,11 +286,16 @@ If a councillor MOVED motions to REMOVE something, they are actively working AGA
 
 This represents a shift from his earlier pro-cycling votes.
 
-Would you like details on the specific routes or how other councillors voted?"
+Would you like details on the specific routes or how other councillors voted?"`;
+}
 
----
-
-## Retrieved Context from Meetings:
+/**
+ * Get the dynamic context block (NOT cached)
+ * This contains the RAG-retrieved meeting context that changes per query.
+ * @param context - The retrieved meeting context to include
+ */
+export function getContextBlock(context: string): string {
+  return `## Retrieved Context from Meetings:
 ${context}
 
 ---
@@ -294,4 +307,16 @@ For councillor voting questions:
 - BE DIRECT - if they voted to REMOVE something, say so clearly
 - NO EQUIVOCATING - don't use "mixed approach", "pragmatic", or "generally supportive but..."
 - If they MOVED removal motions, that's the lead - they're actively working against that thing`;
+}
+
+/**
+ * Legacy function - combines static and context for non-caching use cases
+ * @deprecated Use getStaticSystemPrompt() and getContextBlock() separately for caching
+ */
+export function getSystemPrompt(context: string): string {
+  return `${getStaticSystemPrompt()}
+
+---
+
+${getContextBlock(context)}`;
 }
