@@ -5,6 +5,8 @@ type: councillor-index
 
 Browse London City Council members by their meeting attendance and voting records.
 
+**[View Voting Alignment Matrix](/councillors/alignment)** - See which councillors vote together most often
+
 ## Current Council (2022-2026)
 
 - [Josh Morgan](/councillors/current/j-morgan) - 654 meetings

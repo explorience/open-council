@@ -129,6 +129,10 @@ export const defaultContentPageLayout: PageLayout = {
     // Councillor page components (self-filter by page type)
     Component.Scorecard(),
     Component.VotingRecord(),
+    // Alignment matrix visualization (self-filters by page type)
+    Component.AlignmentMatrix(),
+    // Councillor rankings chart (self-filters by page type)
+    Component.CouncillorRankings(),
   ],
   afterBody: [
     // Homepage: Recent notes (simple mode) and Dashboard (advanced mode)

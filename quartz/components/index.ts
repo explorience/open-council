@@ -33,6 +33,8 @@ import ModeToggle from "./ModeToggle"
 import DashboardView from "./DashboardView"
 import VotingRecord from "./VotingRecord"
 import Scorecard from "./Scorecard"
+import AlignmentMatrix from "./AlignmentMatrix"
+import CouncillorRankings from "./CouncillorRankings"
 
 export {
   ArticleTitle,
@@ -70,4 +72,6 @@ export {
   DashboardView,
   VotingRecord,
   Scorecard,
+  AlignmentMatrix,
+  CouncillorRankings,
 }

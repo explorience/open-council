@@ -425,20 +425,28 @@ async function main() {
   }
 
   // Write alignment matrix as separate file for visualization
+  const alignmentMatrixData = JSON.stringify(
+    {
+      generatedAt: new Date().toISOString(),
+      matrix: alignmentMatrix,
+      councillors: allSlugs.map((s) => ({
+        slug: s,
+        name: councillorStats[s].councillor,
+      })),
+    },
+    null,
+    2
+  )
+
+  await fs.writeFile(path.join(outputDir, "alignment-matrix.json"), alignmentMatrixData)
+
+  // Also copy to static directory for Quartz build
+  const staticDir = path.join(process.cwd(), "quartz", "static", "data", "stats")
+  await fs.mkdir(staticDir, { recursive: true })
+  await fs.writeFile(path.join(staticDir, "alignment-matrix.json"), alignmentMatrixData)
   await fs.writeFile(
-    path.join(outputDir, "alignment-matrix.json"),
-    JSON.stringify(
-      {
-        generatedAt: new Date().toISOString(),
-        matrix: alignmentMatrix,
-        councillors: allSlugs.map((s) => ({
-          slug: s,
-          name: councillorStats[s].councillor,
-        })),
-      },
-      null,
-      2
-    )
+    path.join(staticDir, "councillor-stats.json"),
+    JSON.stringify(output, null, 2)
   )
 
   console.log("\n✅ Statistics generation complete!")
