@@ -6,14 +6,12 @@ meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Steve Lehman served on and what were his roles or contributions to those committees?"
-  - "Has Steve Lehman taken any leadership positions on council, such as committee chair roles or deputy mayor positions, during his 2018-2025 term?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Steve Lehman has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His service has extended beyond general council duties, as he has participated on six different committees, indicating broad involvement in various aspects of municipal governance and policy development.
-
-His nearly seven-year term on council shows sustained civic engagement, with his meeting attendance record suggesting regular participation in the formal decision-making processes of the city. The breadth of his committee involvement indicates he has contributed to multiple areas of municipal operations and planning during his time in office.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 

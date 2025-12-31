@@ -3,21 +3,19 @@ title: "Phil Squire"
 type: councillor
 slug: "p-squire"
 meetingCount: 372
-yearsActive: "2014 - 2022"
+yearsActive: "2014 - 2021"
 isCurrent: false
 prefillQuestions:
-  - "What was Phil Squire's voting record on key municipal issues during their time on council from 2014-2021?"
-  - "Which specific committees did Phil Squire serve on, and what was their attendance rate for committee meetings versus general council meetings?"
-  - "How did Phil Squire's meeting attendance of 372 sessions compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Phil Squire served on London City Council for approximately 7-8 years, from 2014 to 2021. During this tenure, they demonstrated consistent participation by attending 372 council meetings. Squire was actively involved in committee work, serving on six different committees throughout their time on council, indicating broad engagement across various municipal policy areas and administrative functions.
-
-Their attendance record and committee participation suggest a committed approach to municipal governance, with regular engagement in both general council sessions and specialized committee work that helps shape city policy and operations.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
-- 2014-2022: Councillor (Ward 6)
+- 2014-2021: Councillor (Ward 6)
 
 ## Committees Served
 

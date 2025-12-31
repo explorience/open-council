@@ -5,6 +5,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { VectorStore } from './vector-store.js';
 import { getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult } from './types.js';
+import { getAllCouncillors } from '../lib/councillors/index.js';
 
 /**
  * Metadata collected during chat for logging purposes
@@ -817,34 +818,29 @@ export class RAGService {
     // First, check if the user is explicitly asking for historical/change-over-time context
     const wantsHistoricalContext = this.detectHistoricalIntent(lowerQuery);
 
-    // Common London councillor names (current and recent)
-    // This helps ensure we detect real councillor names vs generic words
-    const councillorPatterns = [
-      // Current councillors (2022-2026 term)
-      /\b(josh\s+)?morgan\b/,
-      /\b(shawn\s+)?lewis\b/,
-      /\b(skylar\s+)?franke\b/,
-      /\b(susan\s+)?stevenson\b/,
-      /\b(hadleigh\s+)?mcalister\b/,
-      /\b(corrine\s+)?rahman\b/,
-      /\b(sam\s+)?trosow\b/,
-      /\b(david\s+)?ferreira\b/,
-      /\b(paul\s+)?(van\s+)?meerbergen\b/,
-      /\b(steve\s+)?hillier\b/,
-      /\b(elizabeth\s+)?peloza\b/,
-      /\b(jerry\s+)?pribil\b/,
-      /\b(peter\s+)?cuddy\b/,
-      /\b(anna\s+)?hopkins\b/,
-      /\b(steven\s+)?holder\b/,
-      // Previous councillors
-      /\b(ed\s+)?holder\b/,
-      /\b(maureen\s+)?cassidy\b/,
-      /\b(jesse\s+)?helmer\b/,
-      /\b(phil\s+)?squire\b/,
-      /\b(michael\s+)?van\s+holst\b/,
-      /\b(arielle\s+)?kayabaga\b/,
-      /\b(stephen\s+)?turner\b/,
-    ];
+    // Build councillor patterns dynamically from registry
+    // This ensures we detect all verified councillors without hardcoding
+    const councillorPatterns = getAllCouncillors().flatMap(({ info }) => {
+      const patterns: RegExp[] = [];
+      const displayName = info.displayName.toLowerCase();
+      const nameParts = displayName.split(/\s+/);
+
+      // Pattern for last name only (e.g., "morgan", "lewis")
+      const lastName = nameParts[nameParts.length - 1];
+      patterns.push(new RegExp(`\\b${lastName}\\b`));
+
+      // Pattern for first + last name (e.g., "josh morgan")
+      if (nameParts.length >= 2) {
+        const firstName = nameParts[0];
+        // Handle multi-word last names like "van holst", "van meerbergen"
+        const lastNamePart = nameParts.slice(1).join('\\s+');
+        patterns.push(new RegExp(`\\b${firstName}\\s+${lastNamePart}\\b`));
+        // Also match with optional first name
+        patterns.push(new RegExp(`\\b(${firstName}\\s+)?${lastNamePart}\\b`));
+      }
+
+      return patterns;
+    });
 
     // Voting query patterns
     const votingPatterns = [

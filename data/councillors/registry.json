@@ -1,0 +1,299 @@
+{
+  "J. Morgan": {
+    "displayName": "Josh Morgan",
+    "slug": "j-morgan",
+    "terms": [
+      { "start": 2014, "end": 2022, "role": "Councillor", "ward": 7 },
+      { "start": 2022, "end": 2026, "role": "Mayor" }
+    ]
+  },
+  "H. McAlister": {
+    "displayName": "Hadleigh McAlister",
+    "slug": "h-mcalister",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 1 }
+    ]
+  },
+  "S. Lewis": {
+    "displayName": "Shawn Lewis",
+    "slug": "s-lewis",
+    "terms": [
+      { "start": 2018, "end": 2026, "role": "Councillor", "ward": 2 }
+    ]
+  },
+  "P. Cuddy": {
+    "displayName": "Peter Cuddy",
+    "slug": "p-cuddy",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 3 }
+    ]
+  },
+  "S. Stevenson": {
+    "displayName": "Susan Stevenson",
+    "slug": "s-stevenson",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 4 }
+    ]
+  },
+  "J. Pribil": {
+    "displayName": "Jerry Pribil",
+    "slug": "j-pribil",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 5 }
+    ]
+  },
+  "S. Trosow": {
+    "displayName": "Sam Trosow",
+    "slug": "s-trosow",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 6 }
+    ]
+  },
+  "C. Rahman": {
+    "displayName": "Corrine Rahman",
+    "slug": "c-rahman",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 7 }
+    ]
+  },
+  "S. Lehman": {
+    "displayName": "Steve Lehman",
+    "slug": "s-lehman",
+    "terms": [
+      { "start": 2018, "end": 2026, "role": "Councillor", "ward": 8 }
+    ]
+  },
+  "A. Hopkins": {
+    "displayName": "Anna Hopkins",
+    "slug": "a-hopkins",
+    "terms": [
+      { "start": 2014, "end": 2026, "role": "Councillor", "ward": 9 }
+    ]
+  },
+  "P. Van Meerbergen": {
+    "displayName": "Paul Van Meerbergen",
+    "slug": "p-van-meerbergen",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 10 },
+      { "start": 2018, "end": 2026, "role": "Councillor", "ward": 10 }
+    ]
+  },
+  "S. Franke": {
+    "displayName": "Skylar Franke",
+    "slug": "s-franke",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 11 }
+    ]
+  },
+  "E. Peloza": {
+    "displayName": "Elizabeth Peloza",
+    "slug": "e-peloza",
+    "terms": [
+      { "start": 2018, "end": 2026, "role": "Councillor", "ward": 12 }
+    ]
+  },
+  "D. Ferreira": {
+    "displayName": "David Ferreira",
+    "slug": "d-ferreira",
+    "terms": [
+      { "start": 2022, "end": 2026, "role": "Councillor", "ward": 13 }
+    ]
+  },
+  "S. Hillier": {
+    "displayName": "Steve Hillier",
+    "slug": "s-hillier",
+    "terms": [
+      { "start": 2018, "end": 2026, "role": "Councillor", "ward": 14 }
+    ]
+  },
+  "E. Holder": {
+    "displayName": "Ed Holder",
+    "slug": "e-holder",
+    "terms": [
+      { "start": 2018, "end": 2022, "role": "Mayor" }
+    ]
+  },
+  "M. van Holst": {
+    "displayName": "Michael van Holst",
+    "slug": "m-van-holst",
+    "terms": [
+      { "start": 2014, "end": 2022, "role": "Councillor", "ward": 1 }
+    ]
+  },
+  "M. Salih": {
+    "displayName": "Mo Salih",
+    "slug": "m-salih",
+    "terms": [
+      { "start": 2014, "end": 2022, "role": "Councillor", "ward": 3 }
+    ]
+  },
+  "J. Helmer": {
+    "displayName": "Jesse Helmer",
+    "slug": "j-helmer",
+    "terms": [
+      { "start": 2014, "end": 2022, "role": "Councillor", "ward": 4 }
+    ]
+  },
+  "M. Cassidy": {
+    "displayName": "Maureen Cassidy",
+    "slug": "m-cassidy",
+    "terms": [
+      { "start": 2014, "end": 2022, "role": "Councillor", "ward": 5 }
+    ]
+  },
+  "P. Squire": {
+    "displayName": "Phil Squire",
+    "slug": "p-squire",
+    "terms": [
+      { "start": 2014, "end": 2021, "role": "Councillor", "ward": 6 }
+    ]
+  },
+  "S. Turner": {
+    "displayName": "Stephen Turner",
+    "slug": "s-turner",
+    "terms": [
+      { "start": 2014, "end": 2022, "role": "Councillor", "ward": 11 }
+    ]
+  },
+  "A. Kayabaga": {
+    "displayName": "Arielle Kayabaga",
+    "slug": "a-kayabaga",
+    "terms": [
+      { "start": 2018, "end": 2021, "role": "Councillor", "ward": 13 }
+    ]
+  },
+  "M. Brown": {
+    "displayName": "Matt Brown",
+    "slug": "m-brown",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 7 },
+      { "start": 2014, "end": 2018, "role": "Mayor" }
+    ]
+  },
+  "B. Armstrong": {
+    "displayName": "Bill Armstrong",
+    "slug": "b-armstrong",
+    "terms": [
+      { "start": 2010, "end": 2018, "role": "Councillor", "ward": 2 }
+    ]
+  },
+  "P. Hubert": {
+    "displayName": "Paul Hubert",
+    "slug": "p-hubert",
+    "terms": [
+      { "start": 2010, "end": 2018, "role": "Councillor", "ward": 8 }
+    ]
+  },
+  "V. Ridley": {
+    "displayName": "Virginia Ridley",
+    "slug": "v-ridley",
+    "terms": [
+      { "start": 2014, "end": 2018, "role": "Councillor", "ward": 10 }
+    ]
+  },
+  "H.L. Usher": {
+    "displayName": "Harold Usher",
+    "slug": "h-l-usher",
+    "terms": [
+      { "start": 2010, "end": 2018, "role": "Councillor", "ward": 12 }
+    ]
+  },
+  "T. Park": {
+    "displayName": "Tanya Park",
+    "slug": "t-park",
+    "terms": [
+      { "start": 2014, "end": 2018, "role": "Councillor", "ward": 13 }
+    ]
+  },
+  "J. Zaifman": {
+    "displayName": "Jared Zaifman",
+    "slug": "j-zaifman",
+    "terms": [
+      { "start": 2014, "end": 2018, "role": "Councillor", "ward": 14 }
+    ]
+  },
+  "J.F. Fontana": {
+    "displayName": "Joe Fontana",
+    "slug": "j-f-fontana",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Mayor" }
+    ]
+  },
+  "J.B. Swan": {
+    "displayName": "Joe Swan",
+    "slug": "j-b-swan",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 3 }
+    ]
+  },
+  "S. Orser": {
+    "displayName": "Stephen Orser",
+    "slug": "s-orser",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 4 }
+    ]
+  },
+  "J.L. Baechler": {
+    "displayName": "Joni Baechler",
+    "slug": "j-l-baechler",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 5 }
+    ]
+  },
+  "N. Branscombe": {
+    "displayName": "Nancy Branscombe",
+    "slug": "n-branscombe",
+    "terms": [
+      { "start": 2006, "end": 2014, "role": "Councillor", "ward": 6 }
+    ]
+  },
+  "D.G. Henderson": {
+    "displayName": "Dale Henderson",
+    "slug": "d-g-henderson",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 9 }
+    ]
+  },
+  "B. Polhill": {
+    "displayName": "Bud Polhill",
+    "slug": "b-polhill",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 1 }
+    ]
+  },
+  "S. White": {
+    "displayName": "Sandy White",
+    "slug": "s-white",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 14 }
+    ]
+  },
+  "J.P. Bryant": {
+    "displayName": "Judy Bryant",
+    "slug": "j-p-bryant",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 13 }
+    ]
+  },
+  "D. Brown": {
+    "displayName": "Denise Brown",
+    "slug": "d-brown",
+    "terms": [
+      { "start": 2010, "end": 2014, "role": "Councillor", "ward": 11 }
+    ]
+  },
+  "M. Hamou": {
+    "displayName": "Mariam Hamou",
+    "slug": "m-hamou",
+    "terms": [
+      { "start": 2021, "end": 2022, "role": "Councillor", "ward": 6 }
+    ]
+  },
+  "J. Fyfe-Millar": {
+    "displayName": "John Fyfe-Millar",
+    "slug": "j-fyfe-millar",
+    "terms": [
+      { "start": 2021, "end": 2022, "role": "Councillor", "ward": 13 }
+    ]
+  }
+}

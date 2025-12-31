@@ -6,12 +6,12 @@ meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
 prefillQuestions:
-  - "What was Ed Holder's voting record on key municipal issues during his 2018-2022 term?"
-  - "Which specific committees did Ed Holder serve on and what were his roles or contributions to those committees?"
-  - "How did Ed Holder's meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings over his four-year term. During his tenure, he served on six different committees, showing broad engagement across various areas of municipal governance. His consistent meeting attendance suggests regular involvement in council proceedings and committee work throughout his term.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 

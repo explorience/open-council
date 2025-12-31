@@ -49,3 +49,6 @@ Browse London City Council members by their meeting attendance and voting record
 - [Joni Baechler](/councillors/former/j-l-baechler) - 132 meetings
 - [Nancy Branscombe](/councillors/former/n-branscombe) - 119 meetings
 - [Stephen Orser](/councillors/former/s-orser) - 112 meetings
+- [Denise Brown](/councillors/former/d-brown) - 95 meetings
+- [John Fyfe-Millar](/councillors/former/j-fyfe-millar) - 74 meetings
+- [Mariam Hamou](/councillors/former/m-hamou) - 71 meetings

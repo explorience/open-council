@@ -6,14 +6,12 @@ meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
 prefillQuestions:
-  - "What is Sam Trosow's voting record on key issues that have come before London City Council during their 2022-2025 term?"
-  - "Which specific committees has Sam Trosow served on, and what has been their level of participation in committee work versus regular council meetings?"
-  - "How does Sam Trosow's meeting attendance rate compare to other council members, and have they missed any significant votes or meetings?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong participation through attendance at 209 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their term, indicating broad engagement across various areas of municipal governance.
-
-This level of meeting attendance and committee participation suggests consistent civic engagement and dedication to their council responsibilities. Serving on multiple committees allows for input across different policy areas and demonstrates a comprehensive approach to municipal governance during their current term.
+Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Terms of Service
 
