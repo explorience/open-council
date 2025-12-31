@@ -6,6 +6,7 @@ import { VectorStore } from './vector-store.js';
 import { getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult } from './types.js';
 import { getAllCouncillors } from '../lib/councillors/index.js';
+import { voteLookupService, type VoteLookupResult, type MotionVotesResult } from './vote-lookup.js';
 
 /**
  * Metadata collected during chat for logging purposes
@@ -54,6 +55,7 @@ export class RAGService {
   private anthropic: Anthropic | null = null;
   private vectorStore: VectorStore;
   private provider: LLMProvider;
+  private voteLookupInitialized = false;
 
   constructor(
     openaiKey: string,
@@ -67,6 +69,21 @@ export class RAGService {
     }
     this.vectorStore = vectorStore;
     this.provider = provider;
+
+    // Initialize vote lookup service asynchronously
+    this.initializeVoteLookup();
+  }
+
+  /**
+   * Initialize the vote lookup service for structured vote data access
+   */
+  private async initializeVoteLookup(): Promise<void> {
+    try {
+      await voteLookupService.initialize();
+      this.voteLookupInitialized = true;
+    } catch (error) {
+      console.error('Failed to initialize vote lookup service:', error);
+    }
   }
 
   /**
@@ -461,6 +478,80 @@ export class RAGService {
     for (const [key, expansion] of Object.entries(topicExpansions)) {
       if (lowerQuery.includes(key)) {
         return expansion;
+      }
+    }
+
+    return null;
+  }
+
+  /**
+   * Convert a councillor name to their slug for vote data lookup
+   * e.g., "Stevenson" -> "s-stevenson", "Van Meerbergen" -> "p-van-meerbergen"
+   */
+  private councillorNameToSlug(name: string): string | null {
+    const lowerName = name.toLowerCase().trim();
+
+    // Map of name variations to slugs
+    const nameToSlugMap: Record<string, string> = {
+      'stevenson': 's-stevenson',
+      's. stevenson': 's-stevenson',
+      'susan stevenson': 's-stevenson',
+      'van meerbergen': 'p-van-meerbergen',
+      'p. van meerbergen': 'p-van-meerbergen',
+      'paul van meerbergen': 'p-van-meerbergen',
+      'trosow': 's-trosow',
+      's. trosow': 's-trosow',
+      'sam trosow': 's-trosow',
+      'morgan': 'j-morgan',
+      'j. morgan': 'j-morgan',
+      'josh morgan': 'j-morgan',
+      'lewis': 's-lewis',
+      's. lewis': 's-lewis',
+      'shawn lewis': 's-lewis',
+      'franke': 's-franke',
+      's. franke': 's-franke',
+      'skylar franke': 's-franke',
+      'hopkins': 'a-hopkins',
+      'a. hopkins': 'a-hopkins',
+      'anna hopkins': 'a-hopkins',
+      'peloza': 'e-peloza',
+      'e. peloza': 'e-peloza',
+      'elizabeth peloza': 'e-peloza',
+      'ferreira': 'd-ferreira',
+      'd. ferreira': 'd-ferreira',
+      'david ferreira': 'd-ferreira',
+      'rahman': 'c-rahman',
+      'c. rahman': 'c-rahman',
+      'corrine rahman': 'c-rahman',
+      'mcalister': 'h-mcalister',
+      'h. mcalister': 'h-mcalister',
+      'hadleigh mcalister': 'h-mcalister',
+      'cuddy': 'p-cuddy',
+      'p. cuddy': 'p-cuddy',
+      'peter cuddy': 'p-cuddy',
+      'pribil': 'j-pribil',
+      'j. pribil': 'j-pribil',
+      'jerry pribil': 'j-pribil',
+      'lehman': 's-lehman',
+      's. lehman': 's-lehman',
+      'steve lehman': 's-lehman',
+      'hillier': 's-hillier',
+      's. hillier': 's-hillier',
+      'susan hillier': 's-hillier',
+      'helmer': 'j-helmer',
+      'j. helmer': 'j-helmer',
+      'jesse helmer': 'j-helmer',
+    };
+
+    // Check direct match
+    if (nameToSlugMap[lowerName]) {
+      return nameToSlugMap[lowerName];
+    }
+
+    // Check partial match (last name only)
+    for (const [key, slug] of Object.entries(nameToSlugMap)) {
+      if (key.endsWith(lowerName) || lowerName.endsWith(key.split(' ').pop() || '')) {
+        return slug;
       }
     }
 
@@ -966,9 +1057,38 @@ export class RAGService {
     // CRITICAL: Also includes news_coverage chunks which contain vote breakdowns
     // This prevents bias toward older, more verbose content
     // NEW: Uses hybrid search (vector + BM25) for better councillor name matching
+    // NEW: Uses structured vote data for VERIFIED accuracy
     if (isCouncillorVotingQuery) {
       const recentOnly = !wantsHistoricalContext;
       console.log(`🗳️ Councillor voting query${councillorName ? ` for ${councillorName}` : ''} - using hybrid retrieval${recentOnly ? ' (RECENT ONLY - filtering out old data)' : ' (historical context requested)'}`);
+
+      // NEW: Try structured vote lookup FIRST for verified accuracy
+      let verifiedVoteContext = '';
+      if (this.voteLookupInitialized) {
+        const topicKeywords = this.extractTopicKeywords(query)?.split(' ').filter(k => k.length > 2) || [];
+
+        if (councillorName && topicKeywords.length > 0) {
+          // Looking for a specific councillor's vote on a topic
+          const councillorSlug = this.councillorNameToSlug(councillorName);
+          if (councillorSlug) {
+            const voteResult = voteLookupService.findCouncillorVote(councillorSlug, topicKeywords);
+            if (voteResult) {
+              verifiedVoteContext = voteLookupService.formatVoteForContext(voteResult);
+              console.log(`   ✅ Found VERIFIED vote record for ${councillorName}`);
+            }
+          }
+        } else if (topicKeywords.length > 0) {
+          // Looking for all votes on a motion (who voted for/against)
+          const motionResult = voteLookupService.findMotionVotes(topicKeywords);
+          if (motionResult) {
+            verifiedVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
+            console.log(`   ✅ Found VERIFIED motion vote breakdown`);
+          }
+        }
+      }
+
+      // Store verified context for later inclusion
+      (this as any)._verifiedVoteContext = verifiedVoteContext;
 
       // CRITICAL: Normalize query to include synonym variants before embedding generation
       // This ensures "e-scooters" and "electric kick scooters" produce similar embeddings
@@ -1144,13 +1264,19 @@ export class RAGService {
 
   /**
    * Build context string from search results
+   * Prepends verified vote data if available for higher accuracy
    */
   private buildContextString(results: SearchResult[]): string {
-    if (results.length === 0) {
+    // Check for verified vote context from structured data lookup
+    const verifiedVoteContext = (this as any)._verifiedVoteContext || '';
+    // Clear it after use
+    (this as any)._verifiedVoteContext = '';
+
+    if (results.length === 0 && !verifiedVoteContext) {
       return 'No relevant information found in the city council meeting records.';
     }
 
-    return results
+    const chunksContext = results
       .map((result, idx) => {
         const meta = result.metadata;
 
@@ -1176,6 +1302,13 @@ ${result.text}
 ---`;
       })
       .join('\n');
+
+    // Prepend verified vote context if available (highest priority data)
+    if (verifiedVoteContext) {
+      return verifiedVoteContext + '\n\n---\n\n# Additional Context from Meeting Records\n\n' + chunksContext;
+    }
+
+    return chunksContext;
   }
 
   /**
