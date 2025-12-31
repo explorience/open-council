@@ -965,6 +965,7 @@ export class RAGService {
     // Also searches specifically for the councillor's name to find their votes even when absent
     // CRITICAL: Also includes news_coverage chunks which contain vote breakdowns
     // This prevents bias toward older, more verbose content
+    // NEW: Uses hybrid search (vector + BM25) for better councillor name matching
     if (isCouncillorVotingQuery) {
       const recentOnly = !wantsHistoricalContext;
       console.log(`🗳️ Councillor voting query${councillorName ? ` for ${councillorName}` : ''} - using hybrid retrieval${recentOnly ? ' (RECENT ONLY - filtering out old data)' : ' (historical context requested)'}`);
@@ -974,8 +975,19 @@ export class RAGService {
       const normalizedQuery = this.normalizeQueryForEmbedding(query);
       const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
 
-      // 1. Get semantically relevant results (topic-based)
-      const semanticResults = await this.vectorStore.search(queryEmbedding, Math.floor(topK * 0.4));
+      // 1. HYBRID SEARCH: Combine vector similarity with BM25 keyword matching
+      // This significantly improves matching on councillor names (proper nouns)
+      // and specific terms like "Cooling By-law" that pure semantic search misses
+      const hybridQuery = councillorName
+        ? `${councillorName} ${normalizedQuery} voted vote yea nay motion passed failed`
+        : `${normalizedQuery} voted vote councillor motion passed failed`;
+      const semanticResults = await this.vectorStore.hybridSearch(
+        queryEmbedding,
+        hybridQuery,
+        Math.floor(topK * 0.4),
+        0.6  // Weight toward keyword matching for councillor names
+      );
+      console.log(`   Hybrid search: ${semanticResults.length} results (vector + BM25)`);
 
       // 2. Get recent results to ensure we don't miss recent votes
       const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.3));
@@ -985,15 +997,20 @@ export class RAGService {
       const newsCoverageResults = await this.vectorStore.getRecentNewsCoverage(Math.floor(topK * 0.3), 6);
       console.log(`   News coverage search: ${newsCoverageResults.length} results with vote breakdowns`);
 
-      // 4. If we have a councillor name, do additional targeted searches
+      // 4. If we have a councillor name, do additional targeted searches using HYBRID
       let councillorNameResults: SearchResult[] = [];
       let councillorTopicResults: SearchResult[] = [];
       if (councillorName) {
-        // 4a. Search for the councillor name with voting keywords
+        // 4a. Search for the councillor name with voting keywords - use HYBRID for exact name matching
         const nameQuery = `${councillorName} voted vote yeas nays absent council motion moved councillors who voted against`;
         const nameEmbedding = await this.generateQueryEmbedding(nameQuery);
-        councillorNameResults = await this.vectorStore.search(nameEmbedding, Math.floor(topK * 0.3));
-        console.log(`   Name-based search for "${councillorName}": ${councillorNameResults.length} results`);
+        councillorNameResults = await this.vectorStore.hybridSearch(
+          nameEmbedding,
+          nameQuery,
+          Math.floor(topK * 0.3),
+          0.7  // High keyword weight - councillor names are exact matches
+        );
+        console.log(`   Name-based hybrid search for "${councillorName}": ${councillorNameResults.length} results`);
 
         // 4b. Extract topic from original query and search for councillor + topic + action keywords
         // This helps find "Motion made by Lewis" + "cycling" + "BE REMOVED" chunks
@@ -1001,8 +1018,13 @@ export class RAGService {
         if (topicKeywords) {
           const topicQuery = `${councillorName} ${topicKeywords} motion moved vote removed approved rejected councillors who voted`;
           const topicEmbedding = await this.generateQueryEmbedding(topicQuery);
-          councillorTopicResults = await this.vectorStore.search(topicEmbedding, Math.floor(topK * 0.3));
-          console.log(`   Topic-based search for "${councillorName}" + "${topicKeywords}": ${councillorTopicResults.length} results`);
+          councillorTopicResults = await this.vectorStore.hybridSearch(
+            topicEmbedding,
+            topicQuery,
+            Math.floor(topK * 0.3),
+            0.5  // Balanced for topic + name combination
+          );
+          console.log(`   Topic-based hybrid search for "${councillorName}" + "${topicKeywords}": ${councillorTopicResults.length} results`);
         }
       }
 
@@ -1075,14 +1097,15 @@ export class RAGService {
       return finalResults.slice(0, topK);
     }
 
-    // Strategy 4: Semantic search with optional meeting type filter
+    // Strategy 4: Hybrid search with optional meeting type filter
     // For topic-based queries like "housing decisions" or "budget discussions"
+    // Uses hybrid search (vector + BM25) to catch both semantic concepts and specific terms
     // Normalize query to include synonym variants for better embedding match
     const normalizedQuery = this.normalizeQueryForEmbedding(query);
     const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
 
     if (meetingTypeFilter) {
-      // Use filtered semantic search
+      // Use filtered semantic search (hybrid not yet supported with filters)
       const filteredResults = await this.vectorStore.searchWithFilter(
         queryEmbedding,
         topK,
@@ -1098,8 +1121,10 @@ export class RAGService {
       console.log(`   No results with filter "${meetingTypeFilter}", using unfiltered search`);
     }
 
-    // Default: pure semantic search
-    const results = await this.vectorStore.search(queryEmbedding, topK);
+    // Default: hybrid search combining vector + BM25
+    // Use balanced weight (0.5) for general queries - both semantic and keyword matching matter
+    console.log(`🔀 Using hybrid search for general query`);
+    const results = await this.vectorStore.hybridSearch(queryEmbedding, query, topK, 0.5);
     return results;
   }
 

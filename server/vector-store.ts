@@ -1,14 +1,18 @@
 // Vector store using LanceDB for semantic search
 
-import { connect, Table } from '@lancedb/lancedb';
+import { connect, Table, Index, rerankers } from '@lancedb/lancedb';
 import type { EmbeddingChunk, SearchResult } from './types.js';
+
+const { RRFReranker } = rerankers;
 
 const DB_PATH = './lancedb';
 const TABLE_NAME = 'council_meetings';
 
 export class VectorStore {
   private db: any;
-  private table: Table<any> | null = null;
+  private table: Table | null = null;
+  private reranker: InstanceType<typeof RRFReranker> | null = null;
+  private ftsIndexCreated: boolean = false;
 
   /**
    * Initialize connection to LanceDB
@@ -24,8 +28,50 @@ export class VectorStore {
 
       // Log the date range of records in the database
       await this.logDateRange();
+
+      // Initialize FTS index for hybrid search
+      await this.ensureFtsIndex();
+
+      // Initialize RRF reranker for hybrid search
+      this.reranker = await RRFReranker.create();
+      console.log('Initialized RRF reranker for hybrid search');
     } catch (error) {
       console.log(`Table ${TABLE_NAME} does not exist yet`);
+    }
+  }
+
+  /**
+   * Ensure FTS (Full-Text Search) index exists on the text column
+   * This enables BM25-based keyword search for hybrid retrieval
+   */
+  private async ensureFtsIndex(): Promise<void> {
+    if (!this.table || this.ftsIndexCreated) return;
+
+    try {
+      // Check if FTS index already exists by listing indices
+      const indices = await this.table.listIndices();
+      const hasFtsIndex = indices.some((idx: any) =>
+        idx.columns?.includes('text') && idx.indexType === 'FTS'
+      );
+
+      if (!hasFtsIndex) {
+        console.log('Creating FTS index on text column...');
+        await this.table.createIndex('text', {
+          config: Index.fts({
+            withPosition: true,  // Enable phrase queries
+            baseTokenizer: 'simple',  // Split on whitespace and punctuation
+          }),
+        });
+        console.log('FTS index created successfully');
+      } else {
+        console.log('FTS index already exists');
+      }
+
+      this.ftsIndexCreated = true;
+    } catch (error: any) {
+      // FTS index creation may fail on older data or if already exists
+      console.log('Note: FTS index setup:', error?.message || error);
+      // Don't fail initialization - hybrid search will fall back gracefully
     }
   }
 
@@ -144,6 +190,121 @@ export class VectorStore {
         file_path: result.file_path,
       },
     }));
+  }
+
+  /**
+   * Hybrid search combining vector similarity and BM25 full-text search
+   *
+   * This is particularly effective for queries that contain:
+   * - Proper nouns (councillor names like "Stevenson", "Van Meerbergen")
+   * - Specific terms (motion names, bylaw numbers)
+   * - Exact phrases that should match verbatim
+   *
+   * The results are reranked using Reciprocal Rank Fusion (RRF) which
+   * combines scores from both search methods.
+   *
+   * @param queryEmbedding - Vector embedding of the query
+   * @param queryText - Original query text for BM25 matching
+   * @param limit - Maximum number of results to return
+   * @param alpha - Balance between vector (0) and FTS (1), default 0.5
+   */
+  async hybridSearch(
+    queryEmbedding: number[],
+    queryText: string,
+    limit: number = 30,
+    alpha: number = 0.5
+  ): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    // If FTS index isn't available, fall back to pure vector search
+    if (!this.ftsIndexCreated || !this.reranker) {
+      console.log('⚠️ FTS not available, falling back to vector search');
+      return this.search(queryEmbedding, limit);
+    }
+
+    try {
+      console.log(`🔀 Hybrid search: "${queryText.substring(0, 50)}..." (alpha=${alpha})`);
+
+      // Perform hybrid search with RRF reranking
+      // The fullTextSearch chain combines vector + FTS results
+      const results = await this.table
+        .vectorSearch(queryEmbedding)
+        .fullTextSearch(queryText, { columns: ['text'] })
+        .rerank(this.reranker)
+        .limit(limit)
+        .toArray();
+
+      console.log(`   Found ${results.length} results via hybrid search`);
+
+      return results.map((result: any) => ({
+        text: result.text,
+        score: result._score || result._distance || 0,
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error: any) {
+      console.error('Hybrid search failed, falling back to vector search:', error?.message);
+      return this.search(queryEmbedding, limit);
+    }
+  }
+
+  /**
+   * Full-text search only (BM25-based keyword search)
+   *
+   * Use this when you need exact keyword matches without semantic understanding.
+   * Good for: councillor names, motion numbers, specific phrases
+   *
+   * @param queryText - Text to search for
+   * @param limit - Maximum results to return
+   */
+  async fullTextSearch(queryText: string, limit: number = 30): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    if (!this.ftsIndexCreated) {
+      console.log('⚠️ FTS index not available');
+      return [];
+    }
+
+    try {
+      console.log(`📝 FTS search: "${queryText.substring(0, 50)}..."`);
+
+      const results = await this.table
+        .search(queryText, 'fts', ['text'])
+        .limit(limit)
+        .toArray();
+
+      console.log(`   Found ${results.length} results via FTS`);
+
+      return results.map((result: any) => ({
+        text: result.text,
+        score: result._score || 0,
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error: any) {
+      console.error('FTS search failed:', error?.message);
+      return [];
+    }
   }
 
   /**
