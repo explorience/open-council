@@ -542,6 +542,104 @@ ${sections.join('\n')}
   }
 
   /**
+   * Find votes by searching motion text content
+   * Useful for finding specific motions like "PA Day motion"
+   *
+   * @param searchTerms - Keywords to search for in motion text
+   * @param recentMonths - Only look at votes from last N months (default: 24)
+   */
+  findVoteByMotionContent(searchTerms: string[], recentMonths: number = 24): MotionVotesResult | null {
+    const slugs = getAllCouncillorSlugs();
+    const cutoffDate = new Date();
+    cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
+
+    // Build a map of unique votes matching the search terms
+    const voteMap = new Map<string, {
+      date: string;
+      itemTitle: string;
+      motionText: string;
+      meetingTitle: string;
+      result: string;
+      passed: boolean;
+      yeas: string[];
+      nays: string[];
+      absent: string[];
+      matchScore: number;
+    }>();
+
+    for (const slug of slugs) {
+      const voteFile = loadCouncillorVotes(slug);
+      if (!voteFile) continue;
+
+      for (const vote of voteFile.votes) {
+        // Check date is recent enough
+        const voteDate = new Date(vote.date);
+        if (voteDate < cutoffDate) continue;
+
+        // Check if motion matches search terms
+        const textToSearch = `${vote.itemTitle} ${vote.motionText}`.toLowerCase();
+        const matchScore = searchTerms.filter(term => textToSearch.includes(term.toLowerCase())).length;
+
+        if (matchScore === 0) continue;
+
+        // Create unique key for this vote
+        const key = `${vote.date}|${vote.itemTitle}|${vote.motionText.slice(0, 100)}`;
+
+        if (!voteMap.has(key)) {
+          voteMap.set(key, {
+            date: vote.date,
+            itemTitle: vote.itemTitle,
+            motionText: vote.motionText,
+            meetingTitle: vote.meetingTitle,
+            result: vote.result,
+            passed: vote.passed,
+            yeas: [],
+            nays: [],
+            absent: [],
+            matchScore,
+          });
+        }
+
+        const entry = voteMap.get(key)!;
+        if (vote.vote === 'yea') {
+          entry.yeas.push(voteFile.councillor);
+        } else if (vote.vote === 'nay') {
+          entry.nays.push(voteFile.councillor);
+        } else {
+          entry.absent.push(voteFile.councillor);
+        }
+      }
+    }
+
+    // Find the best match (highest score, most recent)
+    let bestMatch: typeof voteMap extends Map<string, infer V> ? V : never = null as any;
+    let bestScore = 0;
+    let bestDate = '';
+
+    for (const vote of voteMap.values()) {
+      if (vote.matchScore > bestScore || (vote.matchScore === bestScore && vote.date > bestDate)) {
+        bestMatch = vote;
+        bestScore = vote.matchScore;
+        bestDate = vote.date;
+      }
+    }
+
+    if (!bestMatch) return null;
+
+    return {
+      motionTitle: bestMatch.itemTitle,
+      motionText: bestMatch.motionText,
+      date: bestMatch.date,
+      meetingTitle: bestMatch.meetingTitle,
+      result: bestMatch.result,
+      passed: bestMatch.passed,
+      yeas: bestMatch.yeas,
+      nays: bestMatch.nays,
+      absent: bestMatch.absent,
+    };
+  }
+
+  /**
    * Format a vote lookup result for inclusion in LLM context
    * This provides VERIFIED data that the LLM should use directly
    */

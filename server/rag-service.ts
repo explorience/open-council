@@ -1126,11 +1126,12 @@ export class RAGService {
       { pattern: /warming cent(er|re)/i, keywords: ['warming', 'centre', 'framework'] },
       { pattern: /bike.*parking|bicycle.*parking/i, keywords: ['bike', 'parking', 'implementation'] },
       { pattern: /e-?scooter|kick scooter/i, keywords: ['scooter', 'electric', 'kick', 'pilot'] },
-      { pattern: /pa day.*election|election.*pa day/i, keywords: ['pa', 'day', 'election'] },
+      // PA Day motion - match various phrasings
+      { pattern: /pa day.*(motion|vote|pass|margin)|election.*pa day/i, keywords: ['professional', 'activity', 'day', 'pa', 'day', 'election', 'voting', 'october'] },
     ];
 
     for (const { pattern, keywords } of knownMotions) {
-      if (pattern.test(lowerQuery) && /(pass|fail|approved|rejected|result|vote|outcome)/i.test(lowerQuery)) {
+      if (pattern.test(lowerQuery) && /(pass|fail|approved|rejected|result|vote|outcome|margin|close)/i.test(lowerQuery)) {
         console.log(`📋 Detected motion outcome query (known motion): "${keywords.join(' ')}"`);
         return { isMotionOutcome: true, motionKeywords: keywords };
       }
