@@ -9,6 +9,9 @@ totalVotes: 7404
 votesYea: 6374
 votesNay: 457
 votesAbsent: 573
+attendanceRate: 48.7
+participationRate: 92.3
+yeaRate: 93.3
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 573 (7.7%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 48.7%
+- **Meetings Attended**: 410 of 842
+- **Meetings Missed**: 432
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Ed Holder (97.2%)
+- Shawn Lewis (96.3%)
+- Steve Lehman (96.2%)
+
+**Least aligned with:**
+- Sam Trosow (81.3%)
+- David Ferreira (85.7%)
+- Susan Stevenson (88.2%)
+
+
 ## Committees Served
 
 - [Budget Committee](/committees/budget)
@@ -41,7 +64,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [City Council](/committees/city-council)
 - [Civic Works Committee](/committees/civic-works)
 
-## Meeting Attendance (453 meetings)
+## Recent Meetings (453 total)
 
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

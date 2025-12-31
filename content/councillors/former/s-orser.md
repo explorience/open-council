@@ -9,6 +9,9 @@ totalVotes: 2074
 votesYea: 1769
 votesNay: 305
 votesAbsent: 0
+attendanceRate: 43.0
+participationRate: 100.0
+yeaRate: 85.3
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 43.0%
+- **Meetings Attended**: 161 of 374
+- **Meetings Missed**: 213
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Sandy White (93.8%)
+- Joe Fontana (93.2%)
+- Paul Van Meerbergen (93.2%)
+
+**Least aligned with:**
+- Judy Bryant (87.7%)
+- Dale Henderson (90.3%)
+- Nancy Branscombe (90.3%)
+
+
 ## Committees Served
 
 - [Civic Works Committee](/committees/civic-works)
@@ -38,7 +61,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (112 meetings)
+## Recent Meetings (112 total)
 
 - [Civic Works Committee](</months/2014-10/2014-10-06 Civic Works Committee>) - Mon Oct 6 2014
 - [Strategic Priorities and Policy Committee](</months/2014-08/2014-08-27 Strategic Priorities and Policy Committee>) - Wed Aug 27 2014

@@ -1,0 +1,83 @@
+{
+  "councillor": "Matt Brown",
+  "slug": "m-brown",
+  "attendance": {
+    "totalMeetings": 895,
+    "present": 402,
+    "absent": 493,
+    "remote": 0,
+    "attendanceRate": 44.91620111731844
+  },
+  "voting": {
+    "totalVotes": 5759,
+    "yeas": 5290,
+    "nays": 336,
+    "absent": 133,
+    "participationRate": 97.69057127973606,
+    "yeaRate": 94.02772840383932
+  },
+  "topAlignments": [
+    {
+      "councillor": "Nancy Branscombe",
+      "sharedVotes": 614,
+      "agreedVotes": 609,
+      "alignmentRate": 99.185667752443
+    },
+    {
+      "councillor": "Maureen Cassidy",
+      "sharedVotes": 1288,
+      "agreedVotes": 1264,
+      "alignmentRate": 98.13664596273291
+    },
+    {
+      "councillor": "Joni Baechler",
+      "sharedVotes": 732,
+      "agreedVotes": 713,
+      "alignmentRate": 97.40437158469946
+    },
+    {
+      "councillor": "Paul Hubert",
+      "sharedVotes": 1932,
+      "agreedVotes": 1881,
+      "alignmentRate": 97.36024844720497
+    },
+    {
+      "councillor": "Tanya Park",
+      "sharedVotes": 973,
+      "agreedVotes": 941,
+      "alignmentRate": 96.71120246659814
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Dale Henderson",
+      "sharedVotes": 730,
+      "agreedVotes": 657,
+      "alignmentRate": 90
+    },
+    {
+      "councillor": "Stephen Orser",
+      "sharedVotes": 682,
+      "agreedVotes": 624,
+      "alignmentRate": 91.49560117302052
+    },
+    {
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 733,
+      "agreedVotes": 675,
+      "alignmentRate": 92.08731241473397
+    },
+    {
+      "councillor": "Sandy White",
+      "sharedVotes": 663,
+      "agreedVotes": 612,
+      "alignmentRate": 92.3076923076923
+    },
+    {
+      "councillor": "Joe Fontana",
+      "sharedVotes": 656,
+      "agreedVotes": 611,
+      "alignmentRate": 93.14024390243902
+    }
+  ]
+}

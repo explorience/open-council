@@ -1,0 +1,79 @@
+.scorecard {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--lightgray);
+  border-radius: 8px;
+
+  h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1.1rem;
+    color: var(--dark);
+  }
+}
+
+.scorecard-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.75rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 480px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.scorecard-metric {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: var(--light);
+  border-radius: 8px;
+  border-top: 4px solid var(--gray);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  &.excellent {
+    border-top-color: #22c55e;
+  }
+
+  &.good {
+    border-top-color: #84cc16;
+  }
+
+  &.fair {
+    border-top-color: #f59e0b;
+  }
+
+  &.poor {
+    border-top-color: #ef4444;
+  }
+
+  &.neutral {
+    border-top-color: var(--secondary);
+  }
+}
+
+.metric-value {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--dark);
+  line-height: 1.2;
+}
+
+.metric-label {
+  font-size: 0.75rem;
+  color: var(--darkgray);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.25rem;
+  text-align: center;
+}

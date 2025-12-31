@@ -9,6 +9,9 @@ totalVotes: 5767
 votesYea: 4955
 votesNay: 316
 votesAbsent: 496
+attendanceRate: 44.7
+participationRate: 91.4
+yeaRate: 94.0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 496 (8.6%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 44.7%
+- **Meetings Attended**: 479 of 1,072
+- **Meetings Missed**: 593
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Anna Hopkins (95.8%)
+- Paul Hubert (95.2%)
+- Tanya Park (95.1%)
+
+**Least aligned with:**
+- Arielle Kayabaga (68.3%)
+- Paul Van Meerbergen (90.2%)
+- Steve Hillier (90.6%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -41,7 +64,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (417 meetings)
+## Recent Meetings (417 total)
 
 - [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
 - [14th Meeting of City Council](</months/2022-10/2022-10-17 14th Meeting of City Council>) - Mon Oct 17 2022

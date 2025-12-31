@@ -9,6 +9,9 @@ totalVotes: 5759
 votesYea: 5290
 votesNay: 336
 votesAbsent: 133
+attendanceRate: 44.9
+participationRate: 97.7
+yeaRate: 94.0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -32,6 +35,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 133 (2.3%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 44.9%
+- **Meetings Attended**: 402 of 895
+- **Meetings Missed**: 493
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Nancy Branscombe (99.2%)
+- Maureen Cassidy (98.1%)
+- Joni Baechler (97.4%)
+
+**Least aligned with:**
+- Dale Henderson (90.0%)
+- Stephen Orser (91.5%)
+- Paul Van Meerbergen (92.1%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -43,7 +66,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
 
-## Meeting Attendance (328 meetings)
+## Recent Meetings (328 total)
 
 - [Council](</months/2018-11/2018-11-20 Council>) - Tue Nov 20 2018
 - [Strategic Priorities and Policy Committee](</months/2018-11/2018-11-19 Strategic Priorities and Policy Committee>) - Mon Nov 19 2018

@@ -1,0 +1,21 @@
+{
+  "councillor": "Mariam Hamou",
+  "slug": "m-hamou",
+  "attendance": {
+    "totalMeetings": 193,
+    "present": 58,
+    "absent": 135,
+    "remote": 0,
+    "attendanceRate": 30.05181347150259
+  },
+  "voting": {
+    "totalVotes": 5,
+    "yeas": 0,
+    "nays": 3,
+    "absent": 2,
+    "participationRate": 60,
+    "yeaRate": 0
+  },
+  "topAlignments": [],
+  "bottomAlignments": []
+}

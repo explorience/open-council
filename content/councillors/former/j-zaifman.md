@@ -9,6 +9,9 @@ totalVotes: 1618
 votesYea: 1533
 votesNay: 83
 votesAbsent: 2
+attendanceRate: 29.1
+participationRate: 99.9
+yeaRate: 94.9
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 2 (0.1%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 29.1%
+- **Meetings Attended**: 190 of 653
+- **Meetings Missed**: 463
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Virginia Ridley (96.6%)
+- Josh Morgan (96.3%)
+- Maureen Cassidy (96.1%)
+
+**Least aligned with:**
+- Paul Hubert (92.4%)
+- Phil Squire (92.7%)
+- Mo Salih (93.3%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -38,7 +61,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Meeting Attendance (142 meetings)
+## Recent Meetings (142 total)
 
 - [Council](</months/2018-11/2018-11-20 Council>) - Tue Nov 20 2018
 - [Strategic Priorities and Policy Committee](</months/2018-11/2018-11-19 Strategic Priorities and Policy Committee>) - Mon Nov 19 2018

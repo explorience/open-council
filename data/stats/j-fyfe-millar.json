@@ -1,0 +1,21 @@
+{
+  "councillor": "John Fyfe-Millar",
+  "slug": "j-fyfe-millar",
+  "attendance": {
+    "totalMeetings": 193,
+    "present": 66,
+    "absent": 127,
+    "remote": 0,
+    "attendanceRate": 34.196891191709845
+  },
+  "voting": {
+    "totalVotes": 5,
+    "yeas": 4,
+    "nays": 0,
+    "absent": 1,
+    "participationRate": 80,
+    "yeaRate": 100
+  },
+  "topAlignments": [],
+  "bottomAlignments": []
+}

@@ -9,6 +9,9 @@ totalVotes: 2232
 votesYea: 2013
 votesNay: 219
 votesAbsent: 0
+attendanceRate: 52.1
+participationRate: 100.0
+yeaRate: 90.2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 52.1%
+- **Meetings Attended**: 195 of 374
+- **Meetings Missed**: 179
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Joe Fontana (97.2%)
+- Bud Polhill (96.2%)
+- Harold Usher (94.6%)
+
+**Least aligned with:**
+- Stephen Orser (91.7%)
+- Nancy Branscombe (92.0%)
+- Joni Baechler (92.6%)
+
+
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -40,7 +63,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Budget Committee](/committees/budget)
 - [Planning and Environment Committee](/committees/planning-environment)
 
-## Meeting Attendance (147 meetings)
+## Recent Meetings (147 total)
 
 - [Strategic Priorities and Policy Committee](</months/2014-11/2014-11-24 Strategic Priorities and Policy Committee>) - Mon Nov 24 2014
 - [Corporate Services Committee](</months/2014-11/2014-11-04 Corporate Services Committee>) - Tue Nov 4 2014

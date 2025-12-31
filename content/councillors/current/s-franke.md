@@ -9,6 +9,9 @@ totalVotes: 3550
 votesYea: 2972
 votesNay: 281
 votesAbsent: 297
+attendanceRate: 42.2
+participationRate: 91.6
+yeaRate: 91.4
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 297 (8.4%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 42.2%
+- **Meetings Attended**: 174 of 412
+- **Meetings Missed**: 238
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Hadleigh McAlister (95.5%)
+- Anna Hopkins (95.1%)
+- David Ferreira (93.6%)
+
+**Least aligned with:**
+- Susan Stevenson (82.1%)
+- Paul Van Meerbergen (84.2%)
+- Steve Hillier (89.2%)
+
+
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -41,7 +64,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 
-## Meeting Attendance (179 meetings)
+## Recent Meetings (179 total)
 
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025

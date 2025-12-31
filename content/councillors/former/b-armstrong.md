@@ -9,6 +9,9 @@ totalVotes: 4434
 votesYea: 4089
 votesNay: 298
 votesAbsent: 47
+attendanceRate: 36.6
+participationRate: 98.9
+yeaRate: 93.2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 47 (1.1%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 36.6%
+- **Meetings Attended**: 328 of 895
+- **Meetings Missed**: 567
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Denise Brown (97.1%)
+- Harold Usher (96.5%)
+- Nancy Branscombe (96.3%)
+
+**Least aligned with:**
+- Dale Henderson (88.7%)
+- Paul Van Meerbergen (90.7%)
+- Sandy White (92.1%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -39,7 +62,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (245 meetings)
+## Recent Meetings (245 total)
 
 - [Council](</months/2018-11/2018-11-20 Council>) - Tue Nov 20 2018
 - [Community and Protective Services Committee](</months/2018-11/2018-11-13 Community and Protective Services Committee>) - Tue Nov 13 2018

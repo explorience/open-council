@@ -9,6 +9,9 @@ totalVotes: 6938
 votesYea: 6318
 votesNay: 288
 votesAbsent: 332
+attendanceRate: 45.3
+participationRate: 95.2
+yeaRate: 95.6
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 332 (4.8%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 45.3%
+- **Meetings Attended**: 486 of 1,072
+- **Meetings Missed**: 586
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Ed Holder (96.8%)
+- Steve Lehman (96.6%)
+- Matt Brown (96.3%)
+
+**Least aligned with:**
+- Stephen Turner (92.7%)
+- Jared Zaifman (93.3%)
+- Paul Van Meerbergen (93.7%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -42,7 +65,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (461 meetings)
+## Recent Meetings (461 total)
 
 - [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
 - [15th Special Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-07 15th Special Meeting of the Strategic Priorities and Policy Committee>) - Mon Nov 7 2022

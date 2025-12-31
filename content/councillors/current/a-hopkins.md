@@ -9,6 +9,9 @@ totalVotes: 9332
 votesYea: 8120
 votesNay: 665
 votesAbsent: 547
+attendanceRate: 49.9
+participationRate: 94.1
+yeaRate: 92.4
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 547 (5.9%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 49.9%
+- **Meetings Attended**: 693 of 1,390
+- **Meetings Missed**: 697
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Maureen Cassidy (96.4%)
+- Matt Brown (96.2%)
+- Tanya Park (96.0%)
+
+**Least aligned with:**
+- Arielle Kayabaga (77.4%)
+- Susan Stevenson (81.5%)
+- Paul Van Meerbergen (86.1%)
+
+
 ## Committees Served
 
 - [Budget Committee](/committees/budget)
@@ -42,7 +65,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Audit Committee](/committees/audit)
 
-## Meeting Attendance (640 meetings)
+## Recent Meetings (640 total)
 
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

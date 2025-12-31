@@ -9,6 +9,9 @@ totalVotes: 8331
 votesYea: 6511
 votesNay: 982
 votesAbsent: 838
+attendanceRate: 33.1
+participationRate: 89.9
+yeaRate: 86.9
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -32,6 +35,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 838 (10.1%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 33.1%
+- **Meetings Attended**: 541 of 1,632
+- **Meetings Missed**: 1,091
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Dale Henderson (95.5%)
+- Denise Brown (95.1%)
+- Bud Polhill (94.8%)
+
+**Least aligned with:**
+- Sam Trosow (78.2%)
+- David Ferreira (82.0%)
+- Skylar Franke (84.2%)
+
+
 ## Committees Served
 
 - [Budget Committee](/committees/budget)
@@ -42,7 +65,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Meeting Attendance (499 meetings)
+## Recent Meetings (499 total)
 
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

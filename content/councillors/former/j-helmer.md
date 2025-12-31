@@ -9,6 +9,9 @@ totalVotes: 9292
 votesYea: 8450
 votesNay: 496
 votesAbsent: 346
+attendanceRate: 58.0
+participationRate: 96.3
+yeaRate: 94.5
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 346 (3.7%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 58.0%
+- **Meetings Attended**: 622 of 1,072
+- **Meetings Missed**: 450
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Arielle Kayabaga (97.0%)
+- Maureen Cassidy (96.8%)
+- Ed Holder (96.3%)
+
+**Least aligned with:**
+- Paul Van Meerbergen (92.3%)
+- Harold Usher (93.3%)
+- Bill Armstrong (93.4%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -42,7 +65,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (580 meetings)
+## Recent Meetings (580 total)
 
 - [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
 - [15th Special Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-07 15th Special Meeting of the Strategic Priorities and Policy Committee>) - Mon Nov 7 2022

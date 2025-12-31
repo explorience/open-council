@@ -1,0 +1,83 @@
+{
+  "councillor": "Jared Zaifman",
+  "slug": "j-zaifman",
+  "attendance": {
+    "totalMeetings": 653,
+    "present": 190,
+    "absent": 463,
+    "remote": 0,
+    "attendanceRate": 29.096477794793262
+  },
+  "voting": {
+    "totalVotes": 1618,
+    "yeas": 1533,
+    "nays": 83,
+    "absent": 2,
+    "participationRate": 99.87639060568603,
+    "yeaRate": 94.86386138613861
+  },
+  "topAlignments": [
+    {
+      "councillor": "Virginia Ridley",
+      "sharedVotes": 524,
+      "agreedVotes": 506,
+      "alignmentRate": 96.56488549618321
+    },
+    {
+      "councillor": "Josh Morgan",
+      "sharedVotes": 694,
+      "agreedVotes": 668,
+      "alignmentRate": 96.25360230547551
+    },
+    {
+      "councillor": "Maureen Cassidy",
+      "sharedVotes": 620,
+      "agreedVotes": 596,
+      "alignmentRate": 96.12903225806451
+    },
+    {
+      "councillor": "Matt Brown",
+      "sharedVotes": 485,
+      "agreedVotes": 461,
+      "alignmentRate": 95.05154639175257
+    },
+    {
+      "councillor": "Stephen Turner",
+      "sharedVotes": 367,
+      "agreedVotes": 347,
+      "alignmentRate": 94.55040871934605
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Paul Hubert",
+      "sharedVotes": 409,
+      "agreedVotes": 378,
+      "alignmentRate": 92.42053789731052
+    },
+    {
+      "councillor": "Phil Squire",
+      "sharedVotes": 409,
+      "agreedVotes": 379,
+      "alignmentRate": 92.66503667481662
+    },
+    {
+      "councillor": "Mo Salih",
+      "sharedVotes": 447,
+      "agreedVotes": 417,
+      "alignmentRate": 93.28859060402685
+    },
+    {
+      "councillor": "Anna Hopkins",
+      "sharedVotes": 537,
+      "agreedVotes": 501,
+      "alignmentRate": 93.29608938547486
+    },
+    {
+      "councillor": "Michael van Holst",
+      "sharedVotes": 463,
+      "agreedVotes": 432,
+      "alignmentRate": 93.30453563714903
+    }
+  ]
+}

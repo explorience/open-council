@@ -9,6 +9,9 @@ totalVotes: 3563
 votesYea: 3395
 votesNay: 148
 votesAbsent: 20
+attendanceRate: 44.4
+participationRate: 99.4
+yeaRate: 95.8
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 20 (0.6%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 44.4%
+- **Meetings Attended**: 290 of 653
+- **Meetings Missed**: 363
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Matt Brown (96.7%)
+- Anna Hopkins (96.0%)
+- Josh Morgan (95.9%)
+
+**Least aligned with:**
+- Jared Zaifman (93.5%)
+- Phil Squire (94.5%)
+- Harold Usher (94.5%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -41,7 +64,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Meeting Attendance (228 meetings)
+## Recent Meetings (228 total)
 
 - [Council](</months/2018-11/2018-11-20 Council>) - Tue Nov 20 2018
 - [Strategic Priorities and Policy Committee](</months/2018-11/2018-11-19 Strategic Priorities and Policy Committee>) - Mon Nov 19 2018

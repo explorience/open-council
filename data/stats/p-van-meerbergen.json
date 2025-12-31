@@ -1,0 +1,83 @@
+{
+  "councillor": "Paul Van Meerbergen",
+  "slug": "p-van-meerbergen",
+  "attendance": {
+    "totalMeetings": 1632,
+    "present": 541,
+    "absent": 1091,
+    "remote": 6,
+    "attendanceRate": 33.14950980392157
+  },
+  "voting": {
+    "totalVotes": 8331,
+    "yeas": 6511,
+    "nays": 982,
+    "absent": 838,
+    "participationRate": 89.94118353138879,
+    "yeaRate": 86.89443480581876
+  },
+  "topAlignments": [
+    {
+      "councillor": "Dale Henderson",
+      "sharedVotes": 665,
+      "agreedVotes": 635,
+      "alignmentRate": 95.48872180451127
+    },
+    {
+      "councillor": "Denise Brown",
+      "sharedVotes": 634,
+      "agreedVotes": 603,
+      "alignmentRate": 95.11041009463722
+    },
+    {
+      "councillor": "Bud Polhill",
+      "sharedVotes": 667,
+      "agreedVotes": 632,
+      "alignmentRate": 94.75262368815592
+    },
+    {
+      "councillor": "Ed Holder",
+      "sharedVotes": 1330,
+      "agreedVotes": 1256,
+      "alignmentRate": 94.4360902255639
+    },
+    {
+      "councillor": "Joe Fontana",
+      "sharedVotes": 634,
+      "agreedVotes": 598,
+      "alignmentRate": 94.3217665615142
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Sam Trosow",
+      "sharedVotes": 1211,
+      "agreedVotes": 947,
+      "alignmentRate": 78.19983484723369
+    },
+    {
+      "councillor": "David Ferreira",
+      "sharedVotes": 1009,
+      "agreedVotes": 827,
+      "alignmentRate": 81.9623389494549
+    },
+    {
+      "councillor": "Skylar Franke",
+      "sharedVotes": 1223,
+      "agreedVotes": 1030,
+      "alignmentRate": 84.21913327882257
+    },
+    {
+      "councillor": "Anna Hopkins",
+      "sharedVotes": 1987,
+      "agreedVotes": 1711,
+      "alignmentRate": 86.10971313537998
+    },
+    {
+      "councillor": "Hadleigh McAlister",
+      "sharedVotes": 1297,
+      "agreedVotes": 1133,
+      "alignmentRate": 87.35543562066307
+    }
+  ]
+}

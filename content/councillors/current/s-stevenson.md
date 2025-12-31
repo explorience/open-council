@@ -9,6 +9,9 @@ totalVotes: 3138
 votesYea: 2217
 votesNay: 481
 votesAbsent: 440
+attendanceRate: 41.3
+participationRate: 86.0
+yeaRate: 82.2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 440 (14.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 41.3%
+- **Meetings Attended**: 170 of 412
+- **Meetings Missed**: 242
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Paul Van Meerbergen (90.1%)
+- Jerry Pribil (89.3%)
+- Peter Cuddy (89.0%)
+
+**Least aligned with:**
+- Sam Trosow (77.7%)
+- David Ferreira (79.1%)
+- Anna Hopkins (81.5%)
+
+
 ## Committees Served
 
 - [Budget Committee](/committees/budget)
@@ -42,7 +65,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Meeting Attendance (178 meetings)
+## Recent Meetings (178 total)
 
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

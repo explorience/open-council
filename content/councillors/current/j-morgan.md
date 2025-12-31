@@ -9,6 +9,9 @@ totalVotes: 10581
 votesYea: 8772
 votesNay: 541
 votesAbsent: 1268
+attendanceRate: 50.8
+participationRate: 88.0
+yeaRate: 94.2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -32,6 +35,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 1,268 (12.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 50.8%
+- **Meetings Attended**: 706 of 1,390
+- **Meetings Missed**: 684
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Ed Holder (97.3%)
+- Arielle Kayabaga (97.0%)
+- Maureen Cassidy (96.7%)
+
+**Least aligned with:**
+- Sam Trosow (85.9%)
+- Susan Stevenson (86.6%)
+- David Ferreira (90.9%)
+
+
 ## Committees Served
 
 - [Budget Committee](/committees/budget)
@@ -43,7 +66,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Meeting Attendance (654 meetings)
+## Recent Meetings (654 total)
 
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

@@ -1,0 +1,83 @@
+{
+  "councillor": "Steve Hillier",
+  "slug": "s-hillier",
+  "attendance": {
+    "totalMeetings": 842,
+    "present": 410,
+    "absent": 432,
+    "remote": 0,
+    "attendanceRate": 48.69358669833729
+  },
+  "voting": {
+    "totalVotes": 7404,
+    "yeas": 6374,
+    "nays": 457,
+    "absent": 573,
+    "participationRate": 92.26094003241491,
+    "yeaRate": 93.30991070121505
+  },
+  "topAlignments": [
+    {
+      "councillor": "Ed Holder",
+      "sharedVotes": 1372,
+      "agreedVotes": 1333,
+      "alignmentRate": 97.15743440233237
+    },
+    {
+      "councillor": "Shawn Lewis",
+      "sharedVotes": 3452,
+      "agreedVotes": 3326,
+      "alignmentRate": 96.34994206257242
+    },
+    {
+      "councillor": "Steve Lehman",
+      "sharedVotes": 2965,
+      "agreedVotes": 2853,
+      "alignmentRate": 96.22259696458684
+    },
+    {
+      "councillor": "Michael van Holst",
+      "sharedVotes": 1332,
+      "agreedVotes": 1272,
+      "alignmentRate": 95.4954954954955
+    },
+    {
+      "councillor": "Phil Squire",
+      "sharedVotes": 919,
+      "agreedVotes": 877,
+      "alignmentRate": 95.42981501632208
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Sam Trosow",
+      "sharedVotes": 1204,
+      "agreedVotes": 979,
+      "alignmentRate": 81.31229235880399
+    },
+    {
+      "councillor": "David Ferreira",
+      "sharedVotes": 1057,
+      "agreedVotes": 906,
+      "alignmentRate": 85.71428571428571
+    },
+    {
+      "councillor": "Susan Stevenson",
+      "sharedVotes": 1189,
+      "agreedVotes": 1049,
+      "alignmentRate": 88.22539949537426
+    },
+    {
+      "councillor": "Anna Hopkins",
+      "sharedVotes": 2018,
+      "agreedVotes": 1782,
+      "alignmentRate": 88.30525272547077
+    },
+    {
+      "councillor": "Skylar Franke",
+      "sharedVotes": 1436,
+      "agreedVotes": 1281,
+      "alignmentRate": 89.20612813370474
+    }
+  ]
+}

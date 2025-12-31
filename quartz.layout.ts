@@ -126,7 +126,8 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    // Voting record for councillor pages (component self-filters)
+    // Councillor page components (self-filter by page type)
+    Component.Scorecard(),
     Component.VotingRecord(),
   ],
   afterBody: [

@@ -9,6 +9,9 @@ totalVotes: 2282
 votesYea: 2086
 votesNay: 196
 votesAbsent: 0
+attendanceRate: 56.7
+participationRate: 100.0
+yeaRate: 91.4
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 56.7%
+- **Meetings Attended**: 212 of 374
+- **Meetings Missed**: 162
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Bud Polhill (96.9%)
+- Joe Fontana (94.6%)
+- Dale Henderson (94.3%)
+
+**Least aligned with:**
+- Judy Bryant (89.1%)
+- Nancy Branscombe (90.4%)
+- Joni Baechler (91.6%)
+
+
 ## Committees Served
 
 - [Planning and Environment Committee](/committees/planning-environment)
@@ -39,7 +62,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (164 meetings)
+## Recent Meetings (164 total)
 
 - [Planning and Environment Committee](</months/2014-11/2014-11-18 Planning and Environment Committee>) - Tue Nov 18 2014
 - [Planning and Environment Committee](</months/2014-11/2014-11-04 Planning and Environment Committee>) - Tue Nov 4 2014

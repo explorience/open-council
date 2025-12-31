@@ -9,6 +9,9 @@ totalVotes: 5
 votesYea: 4
 votesNay: 0
 votesAbsent: 1
+attendanceRate: 34.2
+participationRate: 80.0
+yeaRate: 100.0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,13 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 1 (20.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 34.2%
+- **Meetings Attended**: 66 of 193
+- **Meetings Missed**: 127
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -40,7 +50,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 
-## Meeting Attendance (74 meetings)
+## Recent Meetings (74 total)
 
 - [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
 - [15th Special Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-07 15th Special Meeting of the Strategic Priorities and Policy Committee>) - Mon Nov 7 2022

@@ -9,6 +9,9 @@ totalVotes: 6305
 votesYea: 5871
 votesNay: 380
 votesAbsent: 54
+attendanceRate: 45.2
+participationRate: 99.1
+yeaRate: 93.9
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 54 (0.9%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 45.2%
+- **Meetings Attended**: 442 of 978
+- **Meetings Missed**: 536
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Steve Lehman (97.5%)
+- Arielle Kayabaga (96.3%)
+- Ed Holder (96.3%)
+
+**Least aligned with:**
+- Stephen Turner (91.8%)
+- Anna Hopkins (91.9%)
+- Jared Zaifman (92.7%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -40,7 +63,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (372 meetings)
+## Recent Meetings (372 total)
 
 - [Council](</months/2021-10/2021-10-05 Council>) - Tue Oct 5 2021
 - [Strategic Priorities and Policy Committee](</months/2021-09/2021-09-28 Strategic Priorities and Policy Committee>) - Tue Sep 28 2021

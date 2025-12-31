@@ -1,0 +1,83 @@
+{
+  "councillor": "Sam Trosow",
+  "slug": "s-trosow",
+  "attendance": {
+    "totalMeetings": 412,
+    "present": 202,
+    "absent": 210,
+    "remote": 0,
+    "attendanceRate": 49.029126213592235
+  },
+  "voting": {
+    "totalVotes": 3265,
+    "yeas": 2386,
+    "nays": 511,
+    "absent": 368,
+    "participationRate": 88.72894333843799,
+    "yeaRate": 82.3610631687953
+  },
+  "topAlignments": [
+    {
+      "councillor": "Anna Hopkins",
+      "sharedVotes": 1317,
+      "agreedVotes": 1229,
+      "alignmentRate": 93.31814730447988
+    },
+    {
+      "councillor": "David Ferreira",
+      "sharedVotes": 1249,
+      "agreedVotes": 1144,
+      "alignmentRate": 91.59327461969575
+    },
+    {
+      "councillor": "Skylar Franke",
+      "sharedVotes": 1240,
+      "agreedVotes": 1125,
+      "alignmentRate": 90.7258064516129
+    },
+    {
+      "councillor": "Hadleigh McAlister",
+      "sharedVotes": 1419,
+      "agreedVotes": 1275,
+      "alignmentRate": 89.85200845665962
+    },
+    {
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 1234,
+      "agreedVotes": 1072,
+      "alignmentRate": 86.87196110210697
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Susan Stevenson",
+      "sharedVotes": 1219,
+      "agreedVotes": 947,
+      "alignmentRate": 77.68662838392125
+    },
+    {
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 1211,
+      "agreedVotes": 947,
+      "alignmentRate": 78.19983484723369
+    },
+    {
+      "councillor": "Steve Hillier",
+      "sharedVotes": 1204,
+      "agreedVotes": 979,
+      "alignmentRate": 81.31229235880399
+    },
+    {
+      "councillor": "Peter Cuddy",
+      "sharedVotes": 1368,
+      "agreedVotes": 1135,
+      "alignmentRate": 82.96783625730994
+    },
+    {
+      "councillor": "Shawn Lewis",
+      "sharedVotes": 1317,
+      "agreedVotes": 1095,
+      "alignmentRate": 83.14350797266515
+    }
+  ]
+}

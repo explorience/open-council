@@ -1,0 +1,83 @@
+{
+  "councillor": "Bud Polhill",
+  "slug": "b-polhill",
+  "attendance": {
+    "totalMeetings": 374,
+    "present": 243,
+    "absent": 131,
+    "remote": 0,
+    "attendanceRate": 64.97326203208557
+  },
+  "voting": {
+    "totalVotes": 2987,
+    "yeas": 2742,
+    "nays": 245,
+    "absent": 0,
+    "participationRate": 100,
+    "yeaRate": 91.79779042517576
+  },
+  "topAlignments": [
+    {
+      "councillor": "Sandy White",
+      "sharedVotes": 941,
+      "agreedVotes": 912,
+      "alignmentRate": 96.91817215727949
+    },
+    {
+      "councillor": "Joe Fontana",
+      "sharedVotes": 920,
+      "agreedVotes": 887,
+      "alignmentRate": 96.41304347826087
+    },
+    {
+      "councillor": "Joe Swan",
+      "sharedVotes": 878,
+      "agreedVotes": 845,
+      "alignmentRate": 96.24145785876993
+    },
+    {
+      "councillor": "Denise Brown",
+      "sharedVotes": 689,
+      "agreedVotes": 653,
+      "alignmentRate": 94.77503628447025
+    },
+    {
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 667,
+      "agreedVotes": 632,
+      "alignmentRate": 94.75262368815592
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Nancy Branscombe",
+      "sharedVotes": 680,
+      "agreedVotes": 627,
+      "alignmentRate": 92.20588235294119
+    },
+    {
+      "councillor": "Judy Bryant",
+      "sharedVotes": 846,
+      "agreedVotes": 782,
+      "alignmentRate": 92.43498817966903
+    },
+    {
+      "councillor": "Joni Baechler",
+      "sharedVotes": 930,
+      "agreedVotes": 864,
+      "alignmentRate": 92.90322580645162
+    },
+    {
+      "councillor": "Stephen Orser",
+      "sharedVotes": 630,
+      "agreedVotes": 587,
+      "alignmentRate": 93.17460317460318
+    },
+    {
+      "councillor": "Matt Brown",
+      "sharedVotes": 739,
+      "agreedVotes": 689,
+      "alignmentRate": 93.234100135318
+    }
+  ]
+}

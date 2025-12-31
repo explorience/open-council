@@ -1,0 +1,83 @@
+{
+  "councillor": "Steve Lehman",
+  "slug": "s-lehman",
+  "attendance": {
+    "totalMeetings": 842,
+    "present": 378,
+    "absent": 464,
+    "remote": 3,
+    "attendanceRate": 44.89311163895487
+  },
+  "voting": {
+    "totalVotes": 7143,
+    "yeas": 6118,
+    "nays": 395,
+    "absent": 630,
+    "participationRate": 91.18017639647206,
+    "yeaRate": 93.93520651005682
+  },
+  "topAlignments": [
+    {
+      "councillor": "Ed Holder",
+      "sharedVotes": 1403,
+      "agreedVotes": 1377,
+      "alignmentRate": 98.14682822523164
+    },
+    {
+      "councillor": "Phil Squire",
+      "sharedVotes": 1101,
+      "agreedVotes": 1073,
+      "alignmentRate": 97.45685740236148
+    },
+    {
+      "councillor": "Shawn Lewis",
+      "sharedVotes": 3352,
+      "agreedVotes": 3255,
+      "alignmentRate": 97.10620525059666
+    },
+    {
+      "councillor": "Michael van Holst",
+      "sharedVotes": 1456,
+      "agreedVotes": 1407,
+      "alignmentRate": 96.63461538461539
+    },
+    {
+      "councillor": "Maureen Cassidy",
+      "sharedVotes": 1424,
+      "agreedVotes": 1375,
+      "alignmentRate": 96.55898876404494
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Sam Trosow",
+      "sharedVotes": 1253,
+      "agreedVotes": 1053,
+      "alignmentRate": 84.03830806065443
+    },
+    {
+      "councillor": "David Ferreira",
+      "sharedVotes": 1075,
+      "agreedVotes": 941,
+      "alignmentRate": 87.53488372093024
+    },
+    {
+      "councillor": "Susan Stevenson",
+      "sharedVotes": 1238,
+      "agreedVotes": 1092,
+      "alignmentRate": 88.20678513731825
+    },
+    {
+      "councillor": "Anna Hopkins",
+      "sharedVotes": 2058,
+      "agreedVotes": 1864,
+      "alignmentRate": 90.57337220602527
+    },
+    {
+      "councillor": "Skylar Franke",
+      "sharedVotes": 1467,
+      "agreedVotes": 1336,
+      "alignmentRate": 91.07021131561008
+    }
+  ]
+}

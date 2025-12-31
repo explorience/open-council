@@ -9,6 +9,9 @@ totalVotes: 2321
 votesYea: 2073
 votesNay: 104
 votesAbsent: 144
+attendanceRate: 41.4
+participationRate: 93.8
+yeaRate: 95.2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 144 (6.2%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 41.4%
+- **Meetings Attended**: 178 of 430
+- **Meetings Missed**: 252
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Josh Morgan (97.0%)
+- Jesse Helmer (97.0%)
+- Maureen Cassidy (96.9%)
+
+**Least aligned with:**
+- Stephen Turner (68.3%)
+- Anna Hopkins (77.4%)
+- Paul Van Meerbergen (91.6%)
+
+
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -39,7 +62,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Corporate Services Committee](/committees/corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 
-## Meeting Attendance (180 meetings)
+## Recent Meetings (180 total)
 
 - [Strategic Priorities and Policy Committee](</months/2021-09/2021-09-28 Strategic Priorities and Policy Committee>) - Tue Sep 28 2021
 - [Council](</months/2021-08/2021-08-10 Council>) - Tue Aug 10 2021

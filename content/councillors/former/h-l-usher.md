@@ -9,6 +9,9 @@ totalVotes: 6144
 votesYea: 5730
 votesNay: 414
 votesAbsent: 0
+attendanceRate: 58.3
+participationRate: 100.0
+yeaRate: 93.3
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 58.3%
+- **Meetings Attended**: 522 of 895
+- **Meetings Missed**: 373
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Maureen Cassidy (96.7%)
+- Bill Armstrong (96.5%)
+- Matt Brown (96.0%)
+
+**Least aligned with:**
+- Stephen Orser (91.4%)
+- Dale Henderson (91.5%)
+- Sandy White (91.8%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -40,7 +63,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Meeting Attendance (403 meetings)
+## Recent Meetings (403 total)
 
 - [Council](</months/2018-11/2018-11-20 Council>) - Tue Nov 20 2018
 - [Strategic Priorities and Policy Committee](</months/2018-11/2018-11-19 Strategic Priorities and Policy Committee>) - Mon Nov 19 2018

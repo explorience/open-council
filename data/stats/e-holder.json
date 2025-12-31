@@ -1,0 +1,83 @@
+{
+  "councillor": "Ed Holder",
+  "slug": "e-holder",
+  "attendance": {
+    "totalMeetings": 524,
+    "present": 313,
+    "absent": 211,
+    "remote": 0,
+    "attendanceRate": 59.732824427480914
+  },
+  "voting": {
+    "totalVotes": 4268,
+    "yeas": 3222,
+    "nays": 126,
+    "absent": 920,
+    "participationRate": 78.44423617619493,
+    "yeaRate": 96.23655913978494
+  },
+  "topAlignments": [
+    {
+      "councillor": "Steve Lehman",
+      "sharedVotes": 1403,
+      "agreedVotes": 1377,
+      "alignmentRate": 98.14682822523164
+    },
+    {
+      "councillor": "Josh Morgan",
+      "sharedVotes": 1229,
+      "agreedVotes": 1196,
+      "alignmentRate": 97.31489015459724
+    },
+    {
+      "councillor": "Shawn Lewis",
+      "sharedVotes": 1573,
+      "agreedVotes": 1529,
+      "alignmentRate": 97.2027972027972
+    },
+    {
+      "councillor": "Steve Hillier",
+      "sharedVotes": 1372,
+      "agreedVotes": 1333,
+      "alignmentRate": 97.15743440233237
+    },
+    {
+      "councillor": "Michael van Holst",
+      "sharedVotes": 1430,
+      "agreedVotes": 1384,
+      "alignmentRate": 96.78321678321679
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Stephen Turner",
+      "sharedVotes": 473,
+      "agreedVotes": 430,
+      "alignmentRate": 90.9090909090909
+    },
+    {
+      "councillor": "Anna Hopkins",
+      "sharedVotes": 509,
+      "agreedVotes": 475,
+      "alignmentRate": 93.32023575638507
+    },
+    {
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 1330,
+      "agreedVotes": 1256,
+      "alignmentRate": 94.4360902255639
+    },
+    {
+      "councillor": "Arielle Kayabaga",
+      "sharedVotes": 1084,
+      "agreedVotes": 1036,
+      "alignmentRate": 95.5719557195572
+    },
+    {
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 1416,
+      "agreedVotes": 1363,
+      "alignmentRate": 96.25706214689266
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "councillor": "Sandy White",
+  "slug": "s-white",
+  "attendance": {
+    "totalMeetings": 374,
+    "present": 212,
+    "absent": 162,
+    "remote": 0,
+    "attendanceRate": 56.68449197860963
+  },
+  "voting": {
+    "totalVotes": 2282,
+    "yeas": 2086,
+    "nays": 196,
+    "absent": 0,
+    "participationRate": 100,
+    "yeaRate": 91.41104294478528
+  },
+  "topAlignments": [
+    {
+      "councillor": "Bud Polhill",
+      "sharedVotes": 941,
+      "agreedVotes": 912,
+      "alignmentRate": 96.91817215727949
+    },
+    {
+      "councillor": "Joe Fontana",
+      "sharedVotes": 688,
+      "agreedVotes": 651,
+      "alignmentRate": 94.62209302325581
+    },
+    {
+      "councillor": "Dale Henderson",
+      "sharedVotes": 908,
+      "agreedVotes": 856,
+      "alignmentRate": 94.27312775330397
+    },
+    {
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 621,
+      "agreedVotes": 584,
+      "alignmentRate": 94.04186795491142
+    },
+    {
+      "councillor": "Denise Brown",
+      "sharedVotes": 578,
+      "agreedVotes": 543,
+      "alignmentRate": 93.9446366782007
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Judy Bryant",
+      "sharedVotes": 561,
+      "agreedVotes": 500,
+      "alignmentRate": 89.12655971479501
+    },
+    {
+      "councillor": "Nancy Branscombe",
+      "sharedVotes": 543,
+      "agreedVotes": 491,
+      "alignmentRate": 90.42357274401473
+    },
+    {
+      "councillor": "Joni Baechler",
+      "sharedVotes": 726,
+      "agreedVotes": 665,
+      "alignmentRate": 91.59779614325069
+    },
+    {
+      "councillor": "Harold Usher",
+      "sharedVotes": 648,
+      "agreedVotes": 595,
+      "alignmentRate": 91.82098765432099
+    },
+    {
+      "councillor": "Bill Armstrong",
+      "sharedVotes": 216,
+      "agreedVotes": 199,
+      "alignmentRate": 92.12962962962963
+    }
+  ]
+}

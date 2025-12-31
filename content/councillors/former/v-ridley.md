@@ -9,6 +9,9 @@ totalVotes: 3477
 votesYea: 3290
 votesNay: 124
 votesAbsent: 63
+attendanceRate: 42.1
+participationRate: 98.2
+yeaRate: 96.4
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 63 (1.8%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 42.1%
+- **Meetings Attended**: 275 of 653
+- **Meetings Missed**: 378
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Jared Zaifman (96.6%)
+- Maureen Cassidy (96.4%)
+- Bill Armstrong (95.9%)
+
+**Least aligned with:**
+- Stephen Turner (93.0%)
+- Anna Hopkins (93.7%)
+- Mo Salih (93.9%)
+
+
 ## Committees Served
 
 - [Civic Works Committee](/committees/civic-works)
@@ -40,7 +63,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Meeting Attendance (212 meetings)
+## Recent Meetings (212 total)
 
 - [Civic Works Committee](</months/2018-11/2018-11-12 Civic Works Committee>) - Mon Nov 12 2018
 - [Council](</months/2018-11/2018-11-06 Council>) - Tue Nov 6 2018

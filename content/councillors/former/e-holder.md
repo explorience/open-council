@@ -9,6 +9,9 @@ totalVotes: 4268
 votesYea: 3222
 votesNay: 126
 votesAbsent: 920
+attendanceRate: 59.7
+participationRate: 78.4
+yeaRate: 96.2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 920 (21.6%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 59.7%
+- **Meetings Attended**: 313 of 524
+- **Meetings Missed**: 211
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Steve Lehman (98.1%)
+- Josh Morgan (97.3%)
+- Shawn Lewis (97.2%)
+
+**Least aligned with:**
+- Stephen Turner (90.9%)
+- Anna Hopkins (93.3%)
+- Paul Van Meerbergen (94.4%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -40,7 +63,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Civic Works Committee](/committees/civic-works)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Meeting Attendance (313 meetings)
+## Recent Meetings (313 total)
 
 - [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
 - [15th Special Meeting of the Strategic Priorities and Policy Committee](</months/2022-11/2022-11-07 15th Special Meeting of the Strategic Priorities and Policy Committee>) - Mon Nov 7 2022

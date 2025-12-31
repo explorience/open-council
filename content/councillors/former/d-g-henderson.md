@@ -9,6 +9,9 @@ totalVotes: 2416
 votesYea: 2166
 votesNay: 250
 votesAbsent: 0
+attendanceRate: 51.3
+participationRate: 100.0
+yeaRate: 89.7
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 51.3%
+- **Meetings Attended**: 192 of 374
+- **Meetings Missed**: 182
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Paul Van Meerbergen (95.5%)
+- Bud Polhill (94.7%)
+- Joe Fontana (94.3%)
+
+**Least aligned with:**
+- Bill Armstrong (88.7%)
+- Judy Bryant (89.0%)
+- Nancy Branscombe (89.2%)
+
+
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -38,7 +61,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (142 meetings)
+## Recent Meetings (142 total)
 
 - [Strategic Priorities and Policy Committee](</months/2014-11/2014-11-24 Strategic Priorities and Policy Committee>) - Mon Nov 24 2014
 - [Planning and Environment Committee](</months/2014-11/2014-11-18 Planning and Environment Committee>) - Tue Nov 18 2014

@@ -9,6 +9,9 @@ totalVotes: 2640
 votesYea: 2432
 votesNay: 208
 votesAbsent: 0
+attendanceRate: 47.1
+participationRate: 100.0
+yeaRate: 92.1
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 47.1%
+- **Meetings Attended**: 176 of 374
+- **Meetings Missed**: 198
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Matt Brown (97.4%)
+- Nancy Branscombe (97.3%)
+- Paul Hubert (97.3%)
+
+**Least aligned with:**
+- Dale Henderson (89.8%)
+- Paul Van Meerbergen (90.6%)
+- Stephen Orser (91.2%)
+
+
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -41,7 +64,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (132 meetings)
+## Recent Meetings (132 total)
 
 - [Strategic Priorities and Policy Committee](</months/2014-11/2014-11-24 Strategic Priorities and Policy Committee>) - Mon Nov 24 2014
 - [Corporate Services Committee](</months/2014-10/2014-10-07 Corporate Services Committee>) - Tue Oct 7 2014

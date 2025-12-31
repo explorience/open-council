@@ -9,6 +9,9 @@ totalVotes: 8516
 votesYea: 7864
 votesNay: 330
 votesAbsent: 322
+attendanceRate: 53.1
+participationRate: 96.2
+yeaRate: 96.0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 322 (3.8%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 53.1%
+- **Meetings Attended**: 569 of 1,072
+- **Meetings Missed**: 503
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Matt Brown (98.1%)
+- Arielle Kayabaga (96.9%)
+- Jesse Helmer (96.8%)
+
+**Least aligned with:**
+- Paul Van Meerbergen (92.8%)
+- Stephen Turner (94.3%)
+- Steve Hillier (95.0%)
+
+
 ## Committees Served
 
 - [City Council](/committees/city-council)
@@ -41,7 +64,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (536 meetings)
+## Recent Meetings (536 total)
 
 - [15th Meeting of City Council](</months/2022-11/2022-11-08 15th Meeting of City Council>) - Tue Nov 8 2022
 - [The 12th Meeting of the Community and Protective Services Committee](</months/2022-11/2022-11-01 The 12th Meeting of the Community and Protective Services Committee>) - Tue Nov 1 2022

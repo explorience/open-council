@@ -1,0 +1,83 @@
+{
+  "councillor": "Tanya Park",
+  "slug": "t-park",
+  "attendance": {
+    "totalMeetings": 653,
+    "present": 290,
+    "absent": 363,
+    "remote": 0,
+    "attendanceRate": 44.4104134762634
+  },
+  "voting": {
+    "totalVotes": 3563,
+    "yeas": 3395,
+    "nays": 148,
+    "absent": 20,
+    "participationRate": 99.4386752736458,
+    "yeaRate": 95.82274908269828
+  },
+  "topAlignments": [
+    {
+      "councillor": "Matt Brown",
+      "sharedVotes": 973,
+      "agreedVotes": 941,
+      "alignmentRate": 96.71120246659814
+    },
+    {
+      "councillor": "Anna Hopkins",
+      "sharedVotes": 992,
+      "agreedVotes": 952,
+      "alignmentRate": 95.96774193548387
+    },
+    {
+      "councillor": "Josh Morgan",
+      "sharedVotes": 1085,
+      "agreedVotes": 1041,
+      "alignmentRate": 95.9447004608295
+    },
+    {
+      "councillor": "Paul Hubert",
+      "sharedVotes": 1125,
+      "agreedVotes": 1078,
+      "alignmentRate": 95.82222222222222
+    },
+    {
+      "councillor": "Maureen Cassidy",
+      "sharedVotes": 963,
+      "agreedVotes": 922,
+      "alignmentRate": 95.74247144340602
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Jared Zaifman",
+      "sharedVotes": 400,
+      "agreedVotes": 374,
+      "alignmentRate": 93.5
+    },
+    {
+      "councillor": "Phil Squire",
+      "sharedVotes": 1047,
+      "agreedVotes": 989,
+      "alignmentRate": 94.4603629417383
+    },
+    {
+      "councillor": "Harold Usher",
+      "sharedVotes": 1051,
+      "agreedVotes": 993,
+      "alignmentRate": 94.48144624167459
+    },
+    {
+      "councillor": "Mo Salih",
+      "sharedVotes": 792,
+      "agreedVotes": 749,
+      "alignmentRate": 94.57070707070707
+    },
+    {
+      "councillor": "Bill Armstrong",
+      "sharedVotes": 796,
+      "agreedVotes": 756,
+      "alignmentRate": 94.9748743718593
+    }
+  ]
+}

@@ -9,6 +9,9 @@ totalVotes: 2987
 votesYea: 2742
 votesNay: 245
 votesAbsent: 0
+attendanceRate: 65.0
+participationRate: 100.0
+yeaRate: 91.8
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 65.0%
+- **Meetings Attended**: 243 of 374
+- **Meetings Missed**: 131
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Sandy White (96.9%)
+- Joe Fontana (96.4%)
+- Joe Swan (96.2%)
+
+**Least aligned with:**
+- Nancy Branscombe (92.2%)
+- Judy Bryant (92.4%)
+- Joni Baechler (92.9%)
+
+
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -39,7 +62,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 
-## Meeting Attendance (199 meetings)
+## Recent Meetings (199 total)
 
 - [Strategic Priorities and Policy Committee](</months/2014-11/2014-11-24 Strategic Priorities and Policy Committee>) - Mon Nov 24 2014
 - [Planning and Environment Committee](</months/2014-11/2014-11-18 Planning and Environment Committee>) - Tue Nov 18 2014

@@ -1,0 +1,83 @@
+{
+  "councillor": "Anna Hopkins",
+  "slug": "a-hopkins",
+  "attendance": {
+    "totalMeetings": 1390,
+    "present": 693,
+    "absent": 697,
+    "remote": 1,
+    "attendanceRate": 49.856115107913666
+  },
+  "voting": {
+    "totalVotes": 9332,
+    "yeas": 8120,
+    "nays": 665,
+    "absent": 547,
+    "participationRate": 94.13844834976425,
+    "yeaRate": 92.43027888446214
+  },
+  "topAlignments": [
+    {
+      "councillor": "Maureen Cassidy",
+      "sharedVotes": 2468,
+      "agreedVotes": 2379,
+      "alignmentRate": 96.3938411669368
+    },
+    {
+      "councillor": "Matt Brown",
+      "sharedVotes": 1226,
+      "agreedVotes": 1179,
+      "alignmentRate": 96.16639477977161
+    },
+    {
+      "councillor": "Tanya Park",
+      "sharedVotes": 992,
+      "agreedVotes": 952,
+      "alignmentRate": 95.96774193548387
+    },
+    {
+      "councillor": "Stephen Turner",
+      "sharedVotes": 2154,
+      "agreedVotes": 2064,
+      "alignmentRate": 95.82172701949861
+    },
+    {
+      "councillor": "Harold Usher",
+      "sharedVotes": 1072,
+      "agreedVotes": 1024,
+      "alignmentRate": 95.52238805970148
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Arielle Kayabaga",
+      "sharedVotes": 84,
+      "agreedVotes": 65,
+      "alignmentRate": 77.38095238095238
+    },
+    {
+      "councillor": "Susan Stevenson",
+      "sharedVotes": 1266,
+      "agreedVotes": 1032,
+      "alignmentRate": 81.51658767772511
+    },
+    {
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 1987,
+      "agreedVotes": 1711,
+      "alignmentRate": 86.10971313537998
+    },
+    {
+      "councillor": "Steve Hillier",
+      "sharedVotes": 2018,
+      "agreedVotes": 1782,
+      "alignmentRate": 88.30525272547077
+    },
+    {
+      "councillor": "Peter Cuddy",
+      "sharedVotes": 1351,
+      "agreedVotes": 1194,
+      "alignmentRate": 88.37897853441895
+    }
+  ]
+}

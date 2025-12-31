@@ -9,6 +9,9 @@ totalVotes: 3265
 votesYea: 2386
 votesNay: 511
 votesAbsent: 368
+attendanceRate: 49.0
+participationRate: 88.7
+yeaRate: 82.4
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 368 (11.3%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 49.0%
+- **Meetings Attended**: 202 of 412
+- **Meetings Missed**: 210
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Anna Hopkins (93.3%)
+- David Ferreira (91.6%)
+- Skylar Franke (90.7%)
+
+**Least aligned with:**
+- Susan Stevenson (77.7%)
+- Paul Van Meerbergen (78.2%)
+- Steve Hillier (81.3%)
+
+
 ## Committees Served
 
 - [Budget Committee](/committees/budget)
@@ -42,7 +65,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Meeting Attendance (209 meetings)
+## Recent Meetings (209 total)
 
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

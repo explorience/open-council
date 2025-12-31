@@ -32,6 +32,32 @@ interface VoteStats {
   absent: number
 }
 
+// Councillor stats interface
+interface CouncillorStatsData {
+  attendance: {
+    totalMeetings: number
+    present: number
+    absent: number
+    attendanceRate: number
+  }
+  voting: {
+    totalVotes: number
+    yeas: number
+    nays: number
+    absent: number
+    participationRate: number
+    yeaRate: number
+  }
+  topAlignments: Array<{
+    councillor: string
+    alignmentRate: number
+  }>
+  bottomAlignments: Array<{
+    councillor: string
+    alignmentRate: number
+  }>
+}
+
 // Load vote stats for a councillor (if available)
 async function loadVoteStats(slug: string): Promise<VoteStats | null> {
   const votePath = path.join(process.cwd(), "data", "votes", `${slug}.json`)
@@ -39,6 +65,18 @@ async function loadVoteStats(slug: string): Promise<VoteStats | null> {
     const content = await fs.readFile(votePath, "utf-8")
     const data = JSON.parse(content)
     return data.summary as VoteStats
+  } catch {
+    return null
+  }
+}
+
+// Load councillor stats (if available)
+async function loadCouncillorStats(slug: string): Promise<CouncillorStatsData | null> {
+  const statsPath = path.join(process.cwd(), "data", "stats", `${slug}.json`)
+  try {
+    const content = await fs.readFile(statsPath, "utf-8")
+    const data = JSON.parse(content)
+    return data as CouncillorStatsData
   } catch {
     return null
   }
@@ -517,7 +555,8 @@ function generateCouncillorPage(
   summary: string,
   questions: string[],
   canonicalName: string,
-  voteStats: VoteStats | null
+  voteStats: VoteStats | null,
+  stats: CouncillorStatsData | null
 ): string {
   const committees = data.committees.map(c => `- [${c.name}](/committees/${c.slug})`).join("\n")
 
@@ -543,13 +582,20 @@ function generateCouncillorPage(
     .map(m => `- [${m.title}](</${m.slug}>) - ${formatMeetingDate(m.date)}`)
     .join("\n")
 
-  // Vote stats frontmatter and section
+  // Vote stats frontmatter
   const votesFrontmatter = voteStats ? `
 totalVotes: ${voteStats.totalVotes}
 votesYea: ${voteStats.yeas}
 votesNay: ${voteStats.nays}
 votesAbsent: ${voteStats.absent}` : ""
 
+  // Stats frontmatter
+  const statsFrontmatter = stats ? `
+attendanceRate: ${stats.attendance.attendanceRate.toFixed(1)}
+participationRate: ${stats.voting.participationRate.toFixed(1)}
+yeaRate: ${stats.voting.yeaRate.toFixed(1)}` : ""
+
+  // Voting record section
   const votingSection = voteStats ? `
 ## Voting Record
 
@@ -562,13 +608,35 @@ votesAbsent: ${voteStats.absent}` : ""
 
 ` : ""
 
+  // Attendance section
+  const attendanceSection = stats && stats.attendance.totalMeetings > 0 ? `
+## Attendance
+
+- **Attendance Rate**: ${stats.attendance.attendanceRate.toFixed(1)}%
+- **Meetings Attended**: ${stats.attendance.present.toLocaleString()} of ${stats.attendance.totalMeetings.toLocaleString()}
+- **Meetings Missed**: ${stats.attendance.absent.toLocaleString()}
+
+` : ""
+
+  // Voting alignment section
+  const alignmentSection = stats && stats.topAlignments.length > 0 ? `
+## Voting Alignment
+
+**Most aligned with:**
+${stats.topAlignments.slice(0, 3).map(a => `- ${a.councillor} (${a.alignmentRate.toFixed(1)}%)`).join("\n")}
+
+**Least aligned with:**
+${stats.bottomAlignments.slice(0, 3).map(a => `- ${a.councillor} (${a.alignmentRate.toFixed(1)}%)`).join("\n")}
+
+` : ""
+
   return `---
 title: "${data.name}"
 type: councillor
 slug: "${data.slug}"
 meetingCount: ${data.count}
 yearsActive: "${yearsRange}"
-isCurrent: ${isCurrent}${votesFrontmatter}
+isCurrent: ${isCurrent}${votesFrontmatter}${statsFrontmatter}
 prefillQuestions:
 ${questions.map(q => `  - "${q}"`).join("\n")}
 ---
@@ -578,12 +646,12 @@ ${summary}
 ## Terms of Service
 
 ${termsList}
-${votingSection}
+${votingSection}${attendanceSection}${alignmentSection}
 ## Committees Served
 
 ${committees}
 
-## Meeting Attendance (${data.count} meetings)
+## Recent Meetings (${data.count} total)
 
 ${meetingsList}
 `
@@ -729,7 +797,8 @@ async function main() {
 
     const { summary, questions } = await generateSummary(anthropic, "councillor", data, skipAI)
     const voteStats = await loadVoteStats(data.slug)
-    const content = generateCouncillorPage(data, summary, questions, canonicalName, voteStats)
+    const stats = await loadCouncillorStats(data.slug)
+    const content = generateCouncillorPage(data, summary, questions, canonicalName, voteStats, stats)
     const filePath = path.join(targetDir, `${data.slug}.md`)
     await fs.writeFile(filePath, content)
 

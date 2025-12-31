@@ -1,0 +1,83 @@
+{
+  "councillor": "Jesse Helmer",
+  "slug": "j-helmer",
+  "attendance": {
+    "totalMeetings": 1072,
+    "present": 622,
+    "absent": 450,
+    "remote": 1,
+    "attendanceRate": 58.02238805970149
+  },
+  "voting": {
+    "totalVotes": 9292,
+    "yeas": 8450,
+    "nays": 496,
+    "absent": 346,
+    "participationRate": 96.2763667671115,
+    "yeaRate": 94.4556226246367
+  },
+  "topAlignments": [
+    {
+      "councillor": "Arielle Kayabaga",
+      "sharedVotes": 1089,
+      "agreedVotes": 1056,
+      "alignmentRate": 96.96969696969697
+    },
+    {
+      "councillor": "Maureen Cassidy",
+      "sharedVotes": 3647,
+      "agreedVotes": 3531,
+      "alignmentRate": 96.81930353715383
+    },
+    {
+      "councillor": "Ed Holder",
+      "sharedVotes": 1543,
+      "agreedVotes": 1486,
+      "alignmentRate": 96.30589760207388
+    },
+    {
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 1666,
+      "agreedVotes": 1599,
+      "alignmentRate": 95.97839135654262
+    },
+    {
+      "councillor": "Mo Salih",
+      "sharedVotes": 2410,
+      "agreedVotes": 2312,
+      "alignmentRate": 95.93360995850622
+    }
+  ],
+  "bottomAlignments": [
+    {
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 1618,
+      "agreedVotes": 1493,
+      "alignmentRate": 92.27441285537701
+    },
+    {
+      "councillor": "Harold Usher",
+      "sharedVotes": 1342,
+      "agreedVotes": 1252,
+      "alignmentRate": 93.2935916542474
+    },
+    {
+      "councillor": "Bill Armstrong",
+      "sharedVotes": 993,
+      "agreedVotes": 927,
+      "alignmentRate": 93.35347432024169
+    },
+    {
+      "councillor": "Stephen Turner",
+      "sharedVotes": 2422,
+      "agreedVotes": 2266,
+      "alignmentRate": 93.5590421139554
+    },
+    {
+      "councillor": "Steve Hillier",
+      "sharedVotes": 1398,
+      "agreedVotes": 1313,
+      "alignmentRate": 93.91988555078684
+    }
+  ]
+}

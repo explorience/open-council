@@ -32,6 +32,7 @@ import PrefillQuestions from "./PrefillQuestions"
 import ModeToggle from "./ModeToggle"
 import DashboardView from "./DashboardView"
 import VotingRecord from "./VotingRecord"
+import Scorecard from "./Scorecard"
 
 export {
   ArticleTitle,
@@ -68,4 +69,5 @@ export {
   ModeToggle,
   DashboardView,
   VotingRecord,
+  Scorecard,
 }

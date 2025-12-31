@@ -9,6 +9,9 @@ totalVotes: 2408
 votesYea: 2240
 votesNay: 168
 votesAbsent: 0
+attendanceRate: 46.0
+participationRate: 100.0
+yeaRate: 93.0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,6 +34,26 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 | Absent | 0 (0.0%) |
 
 
+## Attendance
+
+- **Attendance Rate**: 46.0%
+- **Meetings Attended**: 172 of 374
+- **Meetings Missed**: 202
+
+
+## Voting Alignment
+
+**Most aligned with:**
+- Joe Swan (97.2%)
+- Bud Polhill (96.4%)
+- Harold Usher (95.4%)
+
+**Least aligned with:**
+- Nancy Branscombe (92.2%)
+- Matt Brown (93.1%)
+- Judy Bryant (93.2%)
+
+
 ## Committees Served
 
 - [Corporate Services Committee](/committees/corporate-services)
@@ -41,7 +64,7 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 - [Budget Committee](/committees/budget)
 - [Planning and Environment Committee](/committees/planning-environment)
 
-## Meeting Attendance (139 meetings)
+## Recent Meetings (139 total)
 
 - [Corporate Services Committee](</months/2014-06/2014-06-10 Corporate Services Committee>) - Tue Jun 10 2014
 - [Strategic Priorities and Policy Committee](</months/2014-06/2014-06-09 Strategic Priorities and Policy Committee>) - Mon Jun 9 2014
