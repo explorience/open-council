@@ -13,12 +13,14 @@ attendanceRate: 38.8
 participationRate: 100.0
 yeaRate: 90.4
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Denise Brown's voting record on major municipal issues like budget approvals and development projects during her 2011-2014 term?"
+  - "Which specific committees did she serve on, and did she hold any chair or vice-chair positions on those committees?"
+  - "How does her meeting attendance rate of 95 meetings compare to other council members who served during the same 2011-2014 period?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Denise Brown served on London City Council from 2011-2014, a four-year term during which she attended 95 council meetings. During her tenure, she participated on four different committees, demonstrating active engagement in the council's committee structure. Her attendance record shows consistent participation in council proceedings throughout her term.
+
+Her service period coincided with one full municipal term, as London City Council operates on four-year election cycles. The meeting attendance figure of 95 meetings over four years suggests regular participation in both regular council sessions and special meetings that occurred during her time in office.
 
 ## Terms of Service
 

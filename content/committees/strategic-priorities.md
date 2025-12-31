@@ -4,12 +4,14 @@ type: committee
 slug: "strategic-priorities"
 meetingCount: 274
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What are the current strategic priorities that this committee is focusing on, and how do they align with London's long-term vision and goals?"
+  - "How can citizens provide input or feedback on the strategic policies and priorities being discussed in these committee meetings?"
+  - "What is the timeline for implementing the major strategic initiatives and policies that come out of this committee's recommendations?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, responsible for reviewing and developing the city's long-term strategic direction and major policy initiatives. This committee typically handles high-level municipal matters that require strategic oversight, including budget planning, urban development policies, economic development strategies, and major infrastructure decisions. As an advisory committee to City Council, it plays a crucial role in shaping the city's future by examining complex policy issues, reviewing staff recommendations, and making informed recommendations to the full Council for final decision-making.
+
+With 274 meetings held to date, the committee demonstrates an active and ongoing commitment to addressing London's evolving municipal challenges. The committee's work likely encompasses a broad range of issues including climate action plans, housing strategies, transportation planning, economic recovery initiatives, and other significant policy matters that align with the city's strategic priorities. The numbering system of recent meetings suggests these represent different council terms, with the committee continuing its work across multiple municipal election cycles to ensure continuity in strategic planning and policy development.
 
 ## Recent Meetings
 

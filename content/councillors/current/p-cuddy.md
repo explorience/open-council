@@ -13,12 +13,14 @@ attendanceRate: 48.5
 participationRate: 91.4
 yeaRate: 90.4
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "Which specific committees does Peter Cuddy serve on, and what has been his attendance rate for each committee?"
+  - "How does Peter Cuddy's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2022-2025 term?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Peter Cuddy has been an active member of London City Council, Canada, serving during the 2022-2025 term. During this period, he has demonstrated consistent engagement with council duties, attending 204 meetings. His involvement extends beyond general council meetings through service on eight different committees, indicating broad participation across various municipal governance areas.
+
+Cuddy's attendance record of 204 meetings suggests regular participation in council proceedings throughout his current term. His committee involvement shows engagement with specialized areas of municipal policy and administration, though the specific nature of these committees is not detailed in the available data.
 
 ## Terms of Service
 

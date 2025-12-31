@@ -13,12 +13,12 @@ attendanceRate: 36.6
 participationRate: 98.9
 yeaRate: 93.2
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Bill Armstrong's attendance rate and how did it compare to other council members during his 2012-2018 term?"
+  - "Which specific committees did Bill Armstrong serve on and what were his roles or contributions to those committees?"
+  - "How did Bill Armstrong vote on major municipal issues and budget decisions during his time on London City Council?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Bill Armstrong served on London City Council from 2012 to 2018, demonstrating active participation throughout his six-year tenure. During this period, he attended 245 council meetings and served on five different committees, indicating consistent engagement in the city's governance processes. His participation spanned what appears to be at least one full council term, suggesting he maintained his commitment to municipal service over an extended period.
 
 ## Terms of Service
 

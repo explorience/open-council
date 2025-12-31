@@ -4,12 +4,14 @@ type: committee
 slug: "community-protective-services"
 meetingCount: 196
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is the current budget allocation for community and protective services, and how are these funds distributed among different departments and programs?"
+  - "How can residents access services or programs overseen by this committee, and what is the process for bringing community concerns or suggestions to the committee's attention?"
+  - "What are the committee's current priority initiatives, and how do they measure the effectiveness and success of the community and protective services they oversee?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Community and Protective Services Committee is one of the standing committees of London City Council that plays a crucial role in municipal governance by overseeing services that directly impact residents' daily lives, safety, and well-being. This committee typically handles matters related to public health, social services, housing initiatives, emergency services, fire protection, paramedic services, and community safety programs. As an active committee that has held 196 meetings, it serves as a key decision-making body that reviews policies, budgets, and strategic initiatives before they are presented to the full City Council for final approval.
+
+The committee's scope encompasses both community development and protective services, meaning it addresses a wide range of issues from affordable housing strategies and public health programs to fire department operations and emergency preparedness. Members examine service delivery models, review performance metrics, approve funding allocations, and make recommendations on policy changes that affect how the city provides essential services to its approximately 430,000 residents. The committee's regular meeting schedule, including special meetings when urgent matters arise, demonstrates its central role in ensuring London's community and protective services remain effective, efficient, and responsive to citizens' needs.
 
 ## Recent Meetings
 

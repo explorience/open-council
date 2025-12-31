@@ -13,12 +13,14 @@ attendanceRate: 53.1
 participationRate: 96.2
 yeaRate: 96.0
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Maureen Cassidy's voting record on major municipal issues during her 2014-2022 tenure?"
+  - "Which specific committees did she serve on and what roles did she hold within those committees?"
+  - "How does her meeting attendance rate of 536 meetings compare to other council members who served during the same period?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Maureen Cassidy served on London City Council, Canada for eight years from 2014 to 2022. During her tenure, she demonstrated consistent participation by attending 536 meetings over this period. Her council involvement extended beyond regular council meetings, as she served on seven different committees throughout her time in office, indicating broad engagement across various municipal policy areas and administrative functions.
+
+Her meeting attendance record suggests active participation in the democratic processes of London's municipal government. Serving on multiple committees would have provided her with experience across different aspects of city governance and policy development during her eight-year term.
 
 ## Terms of Service
 

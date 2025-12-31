@@ -13,12 +13,14 @@ attendanceRate: 33.1
 participationRate: 89.9
 yeaRate: 86.9
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has he served on and what were his roles or leadership positions within those committees?"
+  - "How has his voting pattern evolved over his 14-year tenure, and on which key municipal issues has he been most active?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating significant involvement with 499 meeting attendances over his tenure. During his time on council, he has participated on seven different committees, indicating broad engagement across various municipal governance areas. His 14-year service period represents substantial experience and institutional knowledge within London's municipal government structure.
+
+His consistent attendance record and multi-committee involvement suggest active participation in the city's decision-making processes throughout his extended term on council.
 
 ## Terms of Service
 
