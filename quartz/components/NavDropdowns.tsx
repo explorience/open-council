@@ -52,69 +52,79 @@ export default ((userOpts?: Partial<NavDropdownsOptions>) => {
 
     return (
       <nav class="nav-dropdowns">
-        <div class="nav-dropdown">
-          <button class="nav-dropdown-trigger" aria-expanded="false" aria-haspopup="true">
-            <span>By Committee</span>
-            <svg class="dropdown-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="6 9 12 15 18 9"/>
-            </svg>
-          </button>
-          <div class="nav-dropdown-menu" role="menu">
-            {opts.committees.map((committee) => (
-              <a href={`/committees/${committee.slug}`} class="nav-dropdown-item" role="menuitem">
-                <span class="item-name">{committee.name}</span>
-                {committee.count && <span class="item-count">{committee.count}</span>}
-              </a>
-            ))}
-          </div>
-        </div>
-
-        <div class="nav-dropdown">
-          <button class="nav-dropdown-trigger" aria-expanded="false" aria-haspopup="true">
-            <span>By Year</span>
-            <svg class="dropdown-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="6 9 12 15 18 9"/>
-            </svg>
-          </button>
-          <div class="nav-dropdown-menu" role="menu">
-            {opts.years.map((year) => (
-              <a href={`/years/${year}`} class="nav-dropdown-item" role="menuitem">
-                <span class="item-name">{year}</span>
-              </a>
-            ))}
-          </div>
-        </div>
-
-        <div class="nav-dropdown">
-          <button class="nav-dropdown-trigger" aria-expanded="false" aria-haspopup="true">
-            <span>By Topic</span>
-            <svg class="dropdown-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="6 9 12 15 18 9"/>
-            </svg>
-          </button>
-          <div class="nav-dropdown-menu" role="menu">
-            {opts.topics.map((topic) => (
-              <a href={`/topics/${topic.slug}`} class="nav-dropdown-item" role="menuitem">
-                <span class="item-name">{topic.name}</span>
-              </a>
-            ))}
-            <a href="/topics" class="nav-dropdown-item nav-dropdown-all" role="menuitem">
-              <span class="item-name">View All Topics</span>
-            </a>
-          </div>
-        </div>
-
-        <a href="/councillors" class="nav-link">
-          Councillors
-        </a>
-
-        <button class="nav-link nav-recent-meetings" aria-label="Show recent meetings" aria-expanded="false">
-          Recent Meetings
+        {/* Mobile hamburger toggle */}
+        <button class="nav-hamburger" aria-label="Toggle navigation menu" aria-expanded="false">
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
         </button>
 
-        <button class="nav-link nav-suggested-questions" aria-label="Show suggested questions" aria-expanded="false">
-          Suggested Questions
-        </button>
+        {/* Nav items container - collapsible on mobile */}
+        <div class="nav-items">
+          <div class="nav-dropdown">
+            <button class="nav-dropdown-trigger" aria-expanded="false" aria-haspopup="true">
+              <span>By Committee</span>
+              <svg class="dropdown-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"/>
+              </svg>
+            </button>
+            <div class="nav-dropdown-menu" role="menu">
+              {opts.committees.map((committee) => (
+                <a href={`/committees/${committee.slug}`} class="nav-dropdown-item" role="menuitem">
+                  <span class="item-name">{committee.name}</span>
+                  {committee.count && <span class="item-count">{committee.count}</span>}
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <button class="nav-dropdown-trigger" aria-expanded="false" aria-haspopup="true">
+              <span>By Year</span>
+              <svg class="dropdown-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"/>
+              </svg>
+            </button>
+            <div class="nav-dropdown-menu" role="menu">
+              {opts.years.map((year) => (
+                <a href={`/years/${year}`} class="nav-dropdown-item" role="menuitem">
+                  <span class="item-name">{year}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <button class="nav-dropdown-trigger" aria-expanded="false" aria-haspopup="true">
+              <span>By Topic</span>
+              <svg class="dropdown-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 12 15 18 9"/>
+              </svg>
+            </button>
+            <div class="nav-dropdown-menu" role="menu">
+              {opts.topics.map((topic) => (
+                <a href={`/topics/${topic.slug}`} class="nav-dropdown-item" role="menuitem">
+                  <span class="item-name">{topic.name}</span>
+                </a>
+              ))}
+              <a href="/topics" class="nav-dropdown-item nav-dropdown-all" role="menuitem">
+                <span class="item-name">View All Topics</span>
+              </a>
+            </div>
+          </div>
+
+          <a href="/councillors" class="nav-link">
+            Councillors
+          </a>
+
+          <button class="nav-link nav-recent-meetings" aria-label="Show recent meetings" aria-expanded="false">
+            Recent Meetings
+          </button>
+
+          <button class="nav-link nav-suggested-questions" aria-label="Show suggested questions" aria-expanded="false">
+            Suggested Questions
+          </button>
+        </div>
       </nav>
     )
   }

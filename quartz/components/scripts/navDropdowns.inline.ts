@@ -4,9 +4,18 @@ document.addEventListener("nav", () => {
   const navDropdowns = document.querySelector(".nav-dropdowns") as HTMLElement
   if (!navDropdowns) return
 
+  const hamburgerBtn = navDropdowns.querySelector(".nav-hamburger") as HTMLButtonElement
+  const navItems = navDropdowns.querySelector(".nav-items") as HTMLElement
   const dropdowns = navDropdowns.querySelectorAll(".nav-dropdown")
   const recentMeetingsBtn = navDropdowns.querySelector(".nav-recent-meetings") as HTMLButtonElement
   const suggestedQuestionsBtn = navDropdowns.querySelector(".nav-suggested-questions") as HTMLButtonElement
+
+  // Handle hamburger menu toggle on mobile
+  hamburgerBtn?.addEventListener("click", () => {
+    const isExpanded = hamburgerBtn.getAttribute("aria-expanded") === "true"
+    hamburgerBtn.setAttribute("aria-expanded", isExpanded ? "false" : "true")
+    navItems?.classList.toggle("expanded", !isExpanded)
+  })
 
   // Handle dropdown toggles
   dropdowns.forEach((dropdown) => {

@@ -16,9 +16,16 @@
   display: flex;
   flex-direction: column;
   font-family: var(--bodyFont);
+  // Use dynamic viewport height for better mobile keyboard handling
+  height: 100dvh;
 
   // Animation
   animation: fpcSlideIn 0.25s ease;
+
+  @media (max-width: 600px) {
+    height: 100dvh;
+    height: -webkit-fill-available;
+  }
 }
 
 @keyframes fpcSlideIn {
@@ -368,9 +375,12 @@
   flex-shrink: 0;
   border-top: 1px solid var(--lightgray);
   background: var(--light);
+  // Safe area for notched devices
+  padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0));
 
   @media (max-width: 600px) {
     padding: 0.75rem;
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0));
   }
 }
 
