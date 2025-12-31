@@ -39,18 +39,20 @@ export const OPENROUTER_MODELS = {
   'claude-3-haiku': 'anthropic/claude-3-haiku',
   'claude-3.5-haiku': 'anthropic/claude-3.5-haiku',
 
-  // Google models
-  'gemini-flash': 'google/gemini-flash-1.5',
-  'gemini-pro': 'google/gemini-pro-1.5',
+  // Google models (best value - 100% accuracy, cheapest)
+  'gemini-2.5-flash-lite': 'google/gemini-2.5-flash-lite',
+  'gemini-2.0-flash': 'google/gemini-2.0-flash-001',
+  'gemini-2.5-flash': 'google/gemini-2.5-flash',
 
   // OpenAI alternatives
   'gpt-4o-mini': 'openai/gpt-4o-mini',
 
-  // Open source models (cheapest)
-  'llama-3.1-70b': 'meta-llama/llama-3.1-70b-instruct',
+  // Open source models (100% accuracy, very cheap)
   'llama-3.3-70b': 'meta-llama/llama-3.3-70b-instruct',
-  'mistral-large': 'mistralai/mistral-large',
   'qwen-72b': 'qwen/qwen-2.5-72b-instruct',
+  'deepseek-chat': 'deepseek/deepseek-chat',
+  'mistral-large': 'mistralai/mistral-large-2411',
+  'command-r': 'cohere/command-r-08-2024',
 } as const;
 
 export type OpenRouterModel = keyof typeof OPENROUTER_MODELS;
