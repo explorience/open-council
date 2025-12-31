@@ -5,6 +5,10 @@ slug: "p-hubert"
 meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
+totalVotes: 6520
+votesYea: 6043
+votesNay: 445
+votesAbsent: 32
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2018: Councillor (Ward 8)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 6,520 |
+| Voted Yea | 6,043 (92.7%) |
+| Voted Nay | 445 (6.8%) |
+| Absent | 32 (0.5%) |
+
 
 ## Committees Served
 

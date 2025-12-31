@@ -5,6 +5,10 @@ slug: "s-orser"
 meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2074
+votesYea: 1769
+votesNay: 305
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 4)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,074 |
+| Voted Yea | 1,769 (85.3%) |
+| Voted Nay | 305 (14.7%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

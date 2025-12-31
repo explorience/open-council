@@ -5,6 +5,10 @@ slug: "j-helmer"
 meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
+totalVotes: 9292
+votesYea: 8450
+votesNay: 496
+votesAbsent: 346
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 4)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 9,292 |
+| Voted Yea | 8,450 (90.9%) |
+| Voted Nay | 496 (5.3%) |
+| Absent | 346 (3.7%) |
+
 
 ## Committees Served
 

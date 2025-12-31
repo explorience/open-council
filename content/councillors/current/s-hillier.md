@@ -5,6 +5,10 @@ slug: "s-hillier"
 meetingCount: 453
 yearsActive: "2018 - 2026"
 isCurrent: true
+totalVotes: 7404
+votesYea: 6374
+votesNay: 457
+votesAbsent: 573
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 14)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 7,404 |
+| Voted Yea | 6,374 (86.1%) |
+| Voted Nay | 457 (6.2%) |
+| Absent | 573 (7.7%) |
+
 
 ## Committees Served
 

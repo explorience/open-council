@@ -5,6 +5,10 @@ slug: "s-lewis"
 meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
+totalVotes: 8608
+votesYea: 7556
+votesNay: 468
+votesAbsent: 584
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 2)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 8,608 |
+| Voted Yea | 7,556 (87.8%) |
+| Voted Nay | 468 (5.4%) |
+| Absent | 584 (6.8%) |
+
 
 ## Committees Served
 

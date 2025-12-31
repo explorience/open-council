@@ -5,6 +5,10 @@ slug: "p-squire"
 meetingCount: 372
 yearsActive: "2014 - 2021"
 isCurrent: false
+totalVotes: 6305
+votesYea: 5871
+votesNay: 380
+votesAbsent: 54
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2021: Councillor (Ward 6)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 6,305 |
+| Voted Yea | 5,871 (93.1%) |
+| Voted Nay | 380 (6.0%) |
+| Absent | 54 (0.9%) |
+
 
 ## Committees Served
 

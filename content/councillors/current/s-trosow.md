@@ -5,6 +5,10 @@ slug: "s-trosow"
 meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 3265
+votesYea: 2386
+votesNay: 511
+votesAbsent: 368
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 6)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,265 |
+| Voted Yea | 2,386 (73.1%) |
+| Voted Nay | 511 (15.7%) |
+| Absent | 368 (11.3%) |
+
 
 ## Committees Served
 

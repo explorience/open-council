@@ -125,7 +125,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
-    })
+    }),
+    // Voting record for councillor pages (component self-filters)
+    Component.VotingRecord(),
   ],
   afterBody: [
     // Homepage: Recent notes (simple mode) and Dashboard (advanced mode)

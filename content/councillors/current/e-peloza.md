@@ -5,6 +5,10 @@ slug: "e-peloza"
 meetingCount: 452
 yearsActive: "2018 - 2026"
 isCurrent: true
+totalVotes: 6960
+votesYea: 5707
+votesNay: 470
+votesAbsent: 783
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 12)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 6,960 |
+| Voted Yea | 5,707 (82.0%) |
+| Voted Nay | 470 (6.8%) |
+| Absent | 783 (11.3%) |
+
 
 ## Committees Served
 

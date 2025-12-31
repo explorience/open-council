@@ -31,6 +31,7 @@ import NavDropdowns from "./NavDropdowns"
 import PrefillQuestions from "./PrefillQuestions"
 import ModeToggle from "./ModeToggle"
 import DashboardView from "./DashboardView"
+import VotingRecord from "./VotingRecord"
 
 export {
   ArticleTitle,
@@ -66,4 +67,5 @@ export {
   PrefillQuestions,
   ModeToggle,
   DashboardView,
+  VotingRecord,
 }

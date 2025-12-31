@@ -5,6 +5,10 @@ slug: "s-lehman"
 meetingCount: 386
 yearsActive: "2018 - 2026"
 isCurrent: true
+totalVotes: 7143
+votesYea: 6118
+votesNay: 395
+votesAbsent: 630
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 8)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 7,143 |
+| Voted Yea | 6,118 (85.7%) |
+| Voted Nay | 395 (5.5%) |
+| Absent | 630 (8.8%) |
+
 
 ## Committees Served
 

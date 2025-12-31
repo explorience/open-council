@@ -5,6 +5,10 @@ slug: "b-armstrong"
 meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
+totalVotes: 4434
+votesYea: 4089
+votesNay: 298
+votesAbsent: 47
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2018: Councillor (Ward 2)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 4,434 |
+| Voted Yea | 4,089 (92.2%) |
+| Voted Nay | 298 (6.7%) |
+| Absent | 47 (1.1%) |
+
 
 ## Committees Served
 

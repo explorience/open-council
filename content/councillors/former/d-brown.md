@@ -5,6 +5,10 @@ slug: "d-brown"
 meetingCount: 95
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2048
+votesYea: 1851
+votesNay: 197
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 11)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,048 |
+| Voted Yea | 1,851 (90.4%) |
+| Voted Nay | 197 (9.6%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

@@ -5,6 +5,10 @@ slug: "v-ridley"
 meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
+totalVotes: 3477
+votesYea: 3290
+votesNay: 124
+votesAbsent: 63
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2018: Councillor (Ward 10)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,477 |
+| Voted Yea | 3,290 (94.6%) |
+| Voted Nay | 124 (3.6%) |
+| Absent | 63 (1.8%) |
+
 
 ## Committees Served
 

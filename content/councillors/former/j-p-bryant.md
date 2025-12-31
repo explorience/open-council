@@ -5,6 +5,10 @@ slug: "j-p-bryant"
 meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2215
+votesYea: 2024
+votesNay: 191
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 13)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,215 |
+| Voted Yea | 2,024 (91.4%) |
+| Voted Nay | 191 (8.6%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

@@ -5,6 +5,10 @@ slug: "a-kayabaga"
 meetingCount: 180
 yearsActive: "2018 - 2021"
 isCurrent: false
+totalVotes: 2321
+votesYea: 2073
+votesNay: 104
+votesAbsent: 144
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2018-2021: Councillor (Ward 13)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,321 |
+| Voted Yea | 2,073 (89.3%) |
+| Voted Nay | 104 (4.5%) |
+| Absent | 144 (6.2%) |
+
 
 ## Committees Served
 

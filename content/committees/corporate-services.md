@@ -4,14 +4,12 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What specific infrastructure projects or corporate service initiatives are currently under review by this committee, and how can residents provide input on these matters?"
-  - "How does the committee's recent transition from "Corporate Services Committee" to "Infrastructure and Corporate Services Committee" reflect changes in the city's priorities or organizational structure?"
-  - "What is the committee's meeting schedule, are meetings open to the public, and where can citizens access meeting agendas, minutes, and voting records to stay informed about decisions affecting city services?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that oversees critical municipal operations and administrative functions. This committee serves as an intermediary body between city administration and full council, reviewing and making recommendations on matters related to corporate governance, financial management, human resources, information technology, facilities management, and municipal infrastructure. With 280 meetings held to date, it demonstrates the committee's active role in ongoing municipal oversight and decision-making processes.
-
-The committee typically addresses a broad range of operational and strategic issues including budget allocations, policy development, capital project approvals, service delivery improvements, and administrative reforms. Infrastructure-related matters likely encompass transportation systems, utilities, public facilities, and long-term asset management planning. Corporate services components would include procurement policies, organizational restructuring, technology upgrades, risk management, and compliance with provincial regulations. As a key governance body, the committee ensures transparency and accountability in municipal operations while providing elected officials with detailed analysis and recommendations before items proceed to full council for final approval.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

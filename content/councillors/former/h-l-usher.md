@@ -5,6 +5,10 @@ slug: "h-l-usher"
 meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
+totalVotes: 6144
+votesYea: 5730
+votesNay: 414
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2018: Councillor (Ward 12)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 6,144 |
+| Voted Yea | 5,730 (93.3%) |
+| Voted Nay | 414 (6.7%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

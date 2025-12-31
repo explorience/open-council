@@ -1,0 +1,85 @@
+{
+  "councillor": "J. Fyfe-Millar",
+  "slug": "j-fyfe-millar",
+  "generatedAt": "2025-12-31T04:42:24.216Z",
+  "sourceHash": "94c4c16bf33decaa",
+  "summary": {
+    "totalMeetings": 5,
+    "totalVotes": 5,
+    "yeas": 4,
+    "nays": 0,
+    "absent": 1
+  },
+  "votes": [
+    {
+      "date": "2022-06-21",
+      "meetingSlug": "months/2022-06/2022-06-21 Civic Works Committee",
+      "meetingTitle": null,
+      "meetingType": "Civic Works Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=74cdbb41-0d1d-4584-8db8-bbb8fb3b55df&Agenda=PostMinutes&lang=English",
+      "itemNumber": "6",
+      "itemTitle": "Adjournment",
+      "motionText": "That the meeting BE ADJOURNED.",
+      "vote": "yea",
+      "result": "Motion Passed (5 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2022-05-31",
+      "meetingSlug": "months/2022-05/2022-05-31 Civic Works Committee",
+      "meetingTitle": null,
+      "meetingType": "Civic Works Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a6c46a48-b991-4e40-8965-99aa580fc520&Agenda=PostMinutes&lang=English",
+      "itemNumber": "6",
+      "itemTitle": "Adjournment",
+      "motionText": "That the meeting BE ADJOURNED.",
+      "vote": "yea",
+      "result": "Motion Passed (5 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2022-05-10",
+      "meetingSlug": "months/2022-05/2022-05-10 Civic Works Committee",
+      "meetingTitle": null,
+      "meetingType": "Civic Works Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=76fd9453-f249-4abd-a4c6-0b9fc5472b02&Agenda=PostMinutes&lang=English",
+      "itemNumber": "7",
+      "itemTitle": "Adjournment",
+      "motionText": "That the meeting BE ADJOURNED.",
+      "vote": "yea",
+      "result": "Motion Passed (5 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2022-03-29",
+      "meetingSlug": "months/2022-03/2022-03-29 Civic Works Committee",
+      "meetingTitle": null,
+      "meetingType": "Civic Works Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4d69323b-b755-41e2-b171-955b63be87e0&Agenda=PostMinutes&lang=English",
+      "itemNumber": "6",
+      "itemTitle": "Adjournment",
+      "motionText": "That the meeting BE ADJOURNED.",
+      "vote": "yea",
+      "result": "Motion Passed (6 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2021-11-15",
+      "meetingSlug": "months/2021-11/2021-11-15 Strategic Priorities and Policy Committee",
+      "meetingTitle": null,
+      "meetingType": "Strategic Priorities and Policy Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=43f28559-d0da-4bb3-ab81-c77e485fa84c&Agenda=PostMinutes&lang=English",
+      "itemNumber": "4.1",
+      "itemTitle": "Consideration of Filling of Ward 6 Vacancy",
+      "motionText": "Appointment to Ward 6",
+      "vote": "absent",
+      "result": "Majority Winner: No majority",
+      "passed": false,
+      "unanimous": false
+    }
+  ]
+}

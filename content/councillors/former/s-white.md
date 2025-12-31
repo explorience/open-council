@@ -5,6 +5,10 @@ slug: "s-white"
 meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2282
+votesYea: 2086
+votesNay: 196
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 14)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,282 |
+| Voted Yea | 2,086 (91.4%) |
+| Voted Nay | 196 (8.6%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

@@ -5,6 +5,10 @@ slug: "j-pribil"
 meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 3363
+votesYea: 2828
+votesNay: 283
+votesAbsent: 252
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 5)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,363 |
+| Voted Yea | 2,828 (84.1%) |
+| Voted Nay | 283 (8.4%) |
+| Absent | 252 (7.5%) |
+
 
 ## Committees Served
 

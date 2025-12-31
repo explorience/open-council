@@ -5,6 +5,10 @@ slug: "m-brown"
 meetingCount: 328
 yearsActive: "2010 - 2018"
 isCurrent: false
+totalVotes: 5759
+votesYea: 5290
+votesNay: 336
+votesAbsent: 133
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -17,6 +21,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 - 2010-2014: Councillor (Ward 7)
 - 2014-2018: Mayor
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 5,759 |
+| Voted Yea | 5,290 (91.9%) |
+| Voted Nay | 336 (5.8%) |
+| Absent | 133 (2.3%) |
+
 
 ## Committees Served
 

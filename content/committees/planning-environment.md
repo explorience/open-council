@@ -4,14 +4,12 @@ type: committee
 slug: "planning-environment"
 meetingCount: 286
 prefillQuestions:
-  - "How can residents stay informed about upcoming development proposals in their neighborhood and participate in the Planning and Environment Committee's public consultation process?"
-  - "What criteria does the committee use to evaluate whether a development proposal aligns with London's Official Plan and environmental sustainability goals?"
-  - "How does the Planning and Environment Committee coordinate with other city departments and agencies when reviewing major infrastructure or environmental initiatives that affect multiple areas of city operations?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Planning and Environment Committee is a standing committee of London City Council that plays a crucial role in shaping the city's physical development and environmental stewardship. This committee is responsible for reviewing and making recommendations on planning applications, zoning bylaw amendments, official plan updates, and development proposals that come before the city. They evaluate projects ranging from residential subdivisions and commercial developments to major infrastructure initiatives, ensuring these align with London's long-term growth strategies and community standards.
-
-Beyond development oversight, the committee addresses environmental policies, sustainability initiatives, climate action plans, and heritage conservation matters. They work closely with city planning staff to guide London's urban growth, transportation planning, and environmental protection efforts. With 286 meetings held to date, this active committee serves as a key decision-making body that balances economic development with environmental responsibility and community interests, ultimately forwarding recommendations to City Council for final approval on matters that significantly impact London's future growth and livability.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

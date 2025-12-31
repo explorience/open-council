@@ -5,6 +5,10 @@ slug: "h-mcalister"
 meetingCount: 203
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 3439
+votesYea: 2728
+votesNay: 245
+votesAbsent: 466
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 1)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,439 |
+| Voted Yea | 2,728 (79.3%) |
+| Voted Nay | 245 (7.1%) |
+| Absent | 466 (13.6%) |
+
 
 ## Committees Served
 

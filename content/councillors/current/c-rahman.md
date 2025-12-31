@@ -5,6 +5,10 @@ slug: "c-rahman"
 meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 3194
+votesYea: 2642
+votesNay: 299
+votesAbsent: 253
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 7)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,194 |
+| Voted Yea | 2,642 (82.7%) |
+| Voted Nay | 299 (9.4%) |
+| Absent | 253 (7.9%) |
+
 
 ## Committees Served
 

@@ -5,6 +5,10 @@ slug: "j-b-swan"
 meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2232
+votesYea: 2013
+votesNay: 219
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 3)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,232 |
+| Voted Yea | 2,013 (90.2%) |
+| Voted Nay | 219 (9.8%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

@@ -5,6 +5,10 @@ slug: "j-l-baechler"
 meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2640
+votesYea: 2432
+votesNay: 208
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 5)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,640 |
+| Voted Yea | 2,432 (92.1%) |
+| Voted Nay | 208 (7.9%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

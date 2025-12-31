@@ -1,0 +1,85 @@
+{
+  "councillor": "M. Hamou",
+  "slug": "m-hamou",
+  "generatedAt": "2025-12-31T04:42:24.212Z",
+  "sourceHash": "94c4c16bf33decaa",
+  "summary": {
+    "totalMeetings": 4,
+    "totalVotes": 5,
+    "yeas": 0,
+    "nays": 3,
+    "absent": 2
+  },
+  "votes": [
+    {
+      "date": "2022-10-04",
+      "meetingSlug": "months/2022-10/2022-10-04 The 11th Meeting of the Community and Protective Services Committee",
+      "meetingTitle": "The 11th Meeting of the Community and Protective Services Committee",
+      "meetingType": "Community and Protective Services Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d43d0068-260d-4de4-9eeb-537f2b29d5ff&Agenda=PostMinutes&lang=English",
+      "itemNumber": "3.1",
+      "itemTitle": "Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location",
+      "motionText": "That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: a)    the Civic Administration BE DIRECTED to provide the Community and Protective Services Committee with future status update reports with respect to licence applications for adult entertainment parlour locations; b)    the above-noted staff report BE RECEIVED; and, c)    the communication, as app",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "passed": true,
+      "unanimous": false
+    },
+    {
+      "date": "2022-01-31",
+      "meetingSlug": "months/2022-01/2022-01-31 Corporate Services Committee",
+      "meetingTitle": null,
+      "meetingType": "Corporate Services Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=abd83d8b-118e-4c64-8fa4-23f307614b94&Agenda=PostMinutes&lang=English",
+      "itemNumber": "4.1",
+      "itemTitle": "Application - Issuance of Proclamation - Parental Alienation Awareness Day",
+      "motionText": "That based on the application dated January 10, 2022 from Just Another Parent, April 25, 2022 BE RECEIVED and NO ACTION be taken.",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 1)",
+      "passed": true,
+      "unanimous": false
+    },
+    {
+      "date": "2021-12-21",
+      "meetingSlug": "months/2021-12/2021-12-21 Council",
+      "meetingTitle": null,
+      "meetingType": "Council",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8b3c078e-2351-4061-b8c3-4bda0e2d6495&Agenda=PostMinutes&lang=English",
+      "itemNumber": "6",
+      "itemTitle": "Communications and Petitions",
+      "motionText": "That the following communications BE RECEIVED and BE FORWARDED as noted on the Added Agenda: 6.1     Environmental Management Guidelines 1.     York Developments",
+      "vote": "absent",
+      "result": "Motion Passed (14 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2021-12-21",
+      "meetingSlug": "months/2021-12/2021-12-21 Council",
+      "meetingTitle": null,
+      "meetingType": "Council",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8b3c078e-2351-4061-b8c3-4bda0e2d6495&Agenda=PostMinutes&lang=English",
+      "itemNumber": "8.2.19",
+      "itemTitle": "(3.6) 978 Gainsborough Road (Z-9247)",
+      "motionText": "That items 19, 22 and 25, BE APPROVED. 19.    (3.6) 978 Gainsborough Road (Z-9247) That the application by Highland Communities Limited, relating to the property located at 978 Gainsborough Road BE REFERRED back to the Civic Administration for further consideration;\n\nit being pointed out that the Planning and Environment Committee reviewed and received the following communications with respect to this matter: -    the staff presentation;\n\n-    a communication dated December 8, 2021 from H. Frous",
+      "vote": "absent",
+      "result": "Motion Passed (14 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2021-12-07",
+      "meetingSlug": "months/2021-12/2021-12-07 Council",
+      "meetingTitle": null,
+      "meetingType": "Council",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0afa9b5-7da7-4ad1-a51d-e8a6bf3d9777&Agenda=PostMinutes&lang=English",
+      "itemNumber": "8.8.1.17",
+      "itemTitle": "(3.3) 99 Southdale Road West (Z-9162) (Relates to Bill No. 34)",
+      "motionText": "That clause 3.3 BE AMENDED to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West Holdings Inc., relating to the property located at 99 Southdale Road West: a)    the proposed attached, revised, by-law (including the attached revised map) BE INTRODUCED at the Municipal Council meeting to be held on December 7, 2021, to amend Zoning By-law No. Z.-1, (in conformity with the Official",
+      "vote": "nay",
+      "result": "Motion Passed (14 to 1)",
+      "passed": true,
+      "unanimous": false
+    }
+  ]
+}

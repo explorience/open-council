@@ -5,6 +5,10 @@ slug: "s-stevenson"
 meetingCount: 178
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 3138
+votesYea: 2217
+votesNay: 481
+votesAbsent: 440
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 4)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,138 |
+| Voted Yea | 2,217 (70.7%) |
+| Voted Nay | 481 (15.3%) |
+| Absent | 440 (14.0%) |
+
 
 ## Committees Served
 

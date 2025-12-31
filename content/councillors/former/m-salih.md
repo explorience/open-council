@@ -5,6 +5,10 @@ slug: "m-salih"
 meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
+totalVotes: 5987
+votesYea: 5142
+votesNay: 331
+votesAbsent: 514
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 3)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 5,987 |
+| Voted Yea | 5,142 (85.9%) |
+| Voted Nay | 331 (5.5%) |
+| Absent | 514 (8.6%) |
+
 
 ## Committees Served
 

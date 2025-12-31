@@ -5,6 +5,10 @@ slug: "s-turner"
 meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
+totalVotes: 5767
+votesYea: 4955
+votesNay: 316
+votesAbsent: 496
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 11)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 5,767 |
+| Voted Yea | 4,955 (85.9%) |
+| Voted Nay | 316 (5.5%) |
+| Absent | 496 (8.6%) |
+
 
 ## Committees Served
 

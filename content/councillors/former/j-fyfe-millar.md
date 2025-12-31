@@ -5,6 +5,10 @@ slug: "j-fyfe-millar"
 meetingCount: 74
 yearsActive: "2021 - 2022"
 isCurrent: false
+totalVotes: 5
+votesYea: 4
+votesNay: 0
+votesAbsent: 1
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2021-2022: Councillor (Ward 13)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 5 |
+| Voted Yea | 4 (80.0%) |
+| Voted Nay | 0 (0.0%) |
+| Absent | 1 (20.0%) |
+
 
 ## Committees Served
 

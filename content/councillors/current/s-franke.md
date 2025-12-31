@@ -5,6 +5,10 @@ slug: "s-franke"
 meetingCount: 179
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 3550
+votesYea: 2972
+votesNay: 281
+votesAbsent: 297
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 11)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,550 |
+| Voted Yea | 2,972 (83.7%) |
+| Voted Nay | 281 (7.9%) |
+| Absent | 297 (8.4%) |
+
 
 ## Committees Served
 

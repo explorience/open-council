@@ -5,6 +5,10 @@ slug: "m-van-holst"
 meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
+totalVotes: 6938
+votesYea: 6318
+votesNay: 288
+votesAbsent: 332
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 1)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 6,938 |
+| Voted Yea | 6,318 (91.1%) |
+| Voted Nay | 288 (4.2%) |
+| Absent | 332 (4.8%) |
+
 
 ## Committees Served
 

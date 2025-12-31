@@ -5,6 +5,10 @@ slug: "d-g-henderson"
 meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2416
+votesYea: 2166
+votesNay: 250
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 9)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,416 |
+| Voted Yea | 2,166 (89.7%) |
+| Voted Nay | 250 (10.3%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

@@ -5,6 +5,10 @@ slug: "t-park"
 meetingCount: 228
 yearsActive: "2014 - 2018"
 isCurrent: false
+totalVotes: 3563
+votesYea: 3395
+votesNay: 148
+votesAbsent: 20
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2018: Councillor (Ward 13)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,563 |
+| Voted Yea | 3,395 (95.3%) |
+| Voted Nay | 148 (4.2%) |
+| Absent | 20 (0.6%) |
+
 
 ## Committees Served
 

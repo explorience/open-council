@@ -5,6 +5,10 @@ slug: "j-zaifman"
 meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
+totalVotes: 1618
+votesYea: 1533
+votesNay: 83
+votesAbsent: 2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2018: Councillor (Ward 14)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 1,618 |
+| Voted Yea | 1,533 (94.7%) |
+| Voted Nay | 83 (5.1%) |
+| Absent | 2 (0.1%) |
+
 
 ## Committees Served
 

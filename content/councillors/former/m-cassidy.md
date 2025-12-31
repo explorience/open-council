@@ -5,6 +5,10 @@ slug: "m-cassidy"
 meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
+totalVotes: 8516
+votesYea: 7864
+votesNay: 330
+votesAbsent: 322
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 5)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 8,516 |
+| Voted Yea | 7,864 (92.3%) |
+| Voted Nay | 330 (3.9%) |
+| Absent | 322 (3.8%) |
+
 
 ## Committees Served
 

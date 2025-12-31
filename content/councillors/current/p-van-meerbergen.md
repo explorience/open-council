@@ -5,6 +5,10 @@ slug: "p-van-meerbergen"
 meetingCount: 499
 yearsActive: "2010 - 2026"
 isCurrent: true
+totalVotes: 8331
+votesYea: 6511
+votesNay: 982
+votesAbsent: 838
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -17,6 +21,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 - 2010-2014: Councillor (Ward 10)
 - 2018-2026: Councillor (Ward 10)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 8,331 |
+| Voted Yea | 6,511 (78.2%) |
+| Voted Nay | 982 (11.8%) |
+| Absent | 838 (10.1%) |
+
 
 ## Committees Served
 

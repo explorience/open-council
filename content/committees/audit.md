@@ -4,14 +4,12 @@ type: committee
 slug: "audit"
 meetingCount: 66
 prefillQuestions:
-  - "How can citizens access the Audit Committee's meeting minutes and reports to understand what issues have been identified and how they're being addressed?"
-  - "What specific financial controls or city operations have been the focus of recent audit reviews, and what were the key findings?"
-  - "How does the Audit Committee ensure that recommendations from audit reports are actually implemented by city departments, and what happens when departments fail to address identified issues?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Audit Committee of London City Council serves as an independent oversight body responsible for ensuring accountability, transparency, and effective financial management within the municipal government. As a key component of the city's governance structure, this committee typically reviews internal and external audit reports, monitors compliance with financial policies and procedures, and oversees risk management frameworks. The committee plays a crucial role in maintaining public trust by examining the city's financial controls, evaluating the effectiveness of internal audit functions, and ensuring that management responds appropriately to audit recommendations.
-
-With 66 meetings held to date, the Audit Committee demonstrates London's commitment to ongoing financial oversight and governance review. The committee generally addresses issues such as annual financial statement reviews, internal audit reports covering various city departments and operations, compliance with legislative requirements, and assessment of internal controls. They also typically oversee the appointment and performance of external auditors, review fraud prevention policies, and monitor the implementation of corrective actions arising from audit findings. This work helps ensure that taxpayer funds are managed responsibly and that city operations meet established standards for efficiency and effectiveness.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

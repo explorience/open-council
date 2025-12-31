@@ -5,6 +5,10 @@ slug: "m-hamou"
 meetingCount: 71
 yearsActive: "2021 - 2022"
 isCurrent: false
+totalVotes: 5
+votesYea: 0
+votesNay: 3
+votesAbsent: 2
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2021-2022: Councillor (Ward 6)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 5 |
+| Voted Yea | 0 (0.0%) |
+| Voted Nay | 3 (60.0%) |
+| Absent | 2 (40.0%) |
+
 
 ## Committees Served
 

@@ -5,6 +5,10 @@ slug: "b-polhill"
 meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
+totalVotes: 2987
+votesYea: 2742
+votesNay: 245
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 1)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,987 |
+| Voted Yea | 2,742 (91.8%) |
+| Voted Nay | 245 (8.2%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 

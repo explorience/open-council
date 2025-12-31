@@ -5,6 +5,10 @@ slug: "p-cuddy"
 meetingCount: 204
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 3594
+votesYea: 2971
+votesNay: 314
+votesAbsent: 309
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 3)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 3,594 |
+| Voted Yea | 2,971 (82.7%) |
+| Voted Nay | 314 (8.7%) |
+| Absent | 309 (8.6%) |
+
 
 ## Committees Served
 

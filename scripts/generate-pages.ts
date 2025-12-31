@@ -24,6 +24,26 @@ import {
   type Meeting,
 } from "../lib/councillors/index.js"
 
+// Vote stats interface
+interface VoteStats {
+  totalVotes: number
+  yeas: number
+  nays: number
+  absent: number
+}
+
+// Load vote stats for a councillor (if available)
+async function loadVoteStats(slug: string): Promise<VoteStats | null> {
+  const votePath = path.join(process.cwd(), "data", "votes", `${slug}.json`)
+  try {
+    const content = await fs.readFile(votePath, "utf-8")
+    const data = JSON.parse(content)
+    return data.summary as VoteStats
+  } catch {
+    return null
+  }
+}
+
 interface CommitteeData {
   name: string
   slug: string
@@ -496,7 +516,8 @@ function generateCouncillorPage(
   data: CouncillorData,
   summary: string,
   questions: string[],
-  canonicalName: string
+  canonicalName: string,
+  voteStats: VoteStats | null
 ): string {
   const committees = data.committees.map(c => `- [${c.name}](/committees/${c.slug})`).join("\n")
 
@@ -522,13 +543,32 @@ function generateCouncillorPage(
     .map(m => `- [${m.title}](</${m.slug}>) - ${formatMeetingDate(m.date)}`)
     .join("\n")
 
+  // Vote stats frontmatter and section
+  const votesFrontmatter = voteStats ? `
+totalVotes: ${voteStats.totalVotes}
+votesYea: ${voteStats.yeas}
+votesNay: ${voteStats.nays}
+votesAbsent: ${voteStats.absent}` : ""
+
+  const votingSection = voteStats ? `
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | ${voteStats.totalVotes.toLocaleString()} |
+| Voted Yea | ${voteStats.yeas.toLocaleString()} (${((voteStats.yeas / voteStats.totalVotes) * 100).toFixed(1)}%) |
+| Voted Nay | ${voteStats.nays.toLocaleString()} (${((voteStats.nays / voteStats.totalVotes) * 100).toFixed(1)}%) |
+| Absent | ${voteStats.absent.toLocaleString()} (${((voteStats.absent / voteStats.totalVotes) * 100).toFixed(1)}%) |
+
+` : ""
+
   return `---
 title: "${data.name}"
 type: councillor
 slug: "${data.slug}"
 meetingCount: ${data.count}
 yearsActive: "${yearsRange}"
-isCurrent: ${isCurrent}
+isCurrent: ${isCurrent}${votesFrontmatter}
 prefillQuestions:
 ${questions.map(q => `  - "${q}"`).join("\n")}
 ---
@@ -538,7 +578,7 @@ ${summary}
 ## Terms of Service
 
 ${termsList}
-
+${votingSection}
 ## Committees Served
 
 ${committees}
@@ -688,7 +728,8 @@ async function main() {
     const targetDir = isCurrent ? currentDir : formerDir
 
     const { summary, questions } = await generateSummary(anthropic, "councillor", data, skipAI)
-    const content = generateCouncillorPage(data, summary, questions, canonicalName)
+    const voteStats = await loadVoteStats(data.slug)
+    const content = generateCouncillorPage(data, summary, questions, canonicalName, voteStats)
     const filePath = path.join(targetDir, `${data.slug}.md`)
     await fs.writeFile(filePath, content)
 

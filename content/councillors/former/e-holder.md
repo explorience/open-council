@@ -5,6 +5,10 @@ slug: "e-holder"
 meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
+totalVotes: 4268
+votesYea: 3222
+votesNay: 126
+votesAbsent: 920
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2018-2022: Mayor
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 4,268 |
+| Voted Yea | 3,222 (75.5%) |
+| Voted Nay | 126 (3.0%) |
+| Absent | 920 (21.6%) |
+
 
 ## Committees Served
 

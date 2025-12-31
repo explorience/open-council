@@ -4,19 +4,27 @@ title: About Open Council
 
 ## What is Open Council?
 
-Open Council makes London, Ontario's city council meetings searchable and accessible. Browse meeting transcripts, explore voting records, track councillor attendance, and ask questions about any topic discussed in council.
+Open Council makes London, Ontario's city council meetings searchable and accessible. Browse meeting transcripts, explore voting records, track councillor attendance, and ask questions about any topic discussed in council using our AI-powered chatbot.
 
-## How to use this site
+## Why was it made?
 
-- **Search meetings**: Use the search bar to find discussions on any topic
-- **Browse by committee**: Navigate meetings by committee type (Planning, Corporate Services, etc.)
-- **Browse by year**: Explore meeting archives from 2011 to present
-- **Ask questions**: Use the AI chat to ask questions about council discussions
-- **Track councillors**: View councillor profiles with attendance and voting records
+City council decisions shape our communities, but meeting minutes are often buried in PDFs and hard to navigate. Open Council was built to make local democracy more transparent and accessible to everyone.
 
-## Get in touch
+## Who made it?
 
-Found a bug or inaccuracy? Have a feature suggestion? We'd love to hear from you!
+Open Council was created by [Heenal Rajani](https://ko-fi.com/heenalr), a London resident who wanted to make it easier for citizens to engage with their local government.
+
+## How does it work?
+
+The site scrapes publicly available meeting data from London's eScribe system, processes it into searchable formats, and uses AI (Retrieval Augmented Generation) to let you ask natural language questions about council discussions from 2011 to present.
+
+## Help us improve
+
+This project is still in active development. We need your help to make it better!
+
+- **Test the site** and let us know if something doesn't work
+- **Report inaccuracies** in meeting data or AI responses
+- **Suggest new features** you'd like to see
 
 **Email us at [info@opencouncil.xyz](mailto:info@opencouncil.xyz)**
 
@@ -26,4 +34,4 @@ Open Council is a labour of love. Over **600 hours** (and counting) have been po
 
 If you find it useful, please consider supporting us:
 
-<a href="https://ko-fi.com/opencouncil" target="_blank" rel="noopener noreferrer">Support us on Ko-fi</a>
+<a href="https://ko-fi.com/heenalr" target="_blank" rel="noopener noreferrer">Support us on Ko-fi</a>

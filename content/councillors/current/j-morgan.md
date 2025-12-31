@@ -5,6 +5,10 @@ slug: "j-morgan"
 meetingCount: 654
 yearsActive: "2014 - 2026"
 isCurrent: true
+totalVotes: 10581
+votesYea: 8772
+votesNay: 541
+votesAbsent: 1268
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -17,6 +21,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 
 - 2014-2022: Councillor (Ward 7)
 - 2022-2026: Mayor
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 10,581 |
+| Voted Yea | 8,772 (82.9%) |
+| Voted Nay | 541 (5.1%) |
+| Absent | 1,268 (12.0%) |
+
 
 ## Committees Served
 

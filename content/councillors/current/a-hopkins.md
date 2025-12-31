@@ -5,6 +5,10 @@ slug: "a-hopkins"
 meetingCount: 640
 yearsActive: "2014 - 2026"
 isCurrent: true
+totalVotes: 9332
+votesYea: 8120
+votesNay: 665
+votesAbsent: 547
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2014-2026: Councillor (Ward 9)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 9,332 |
+| Voted Yea | 8,120 (87.0%) |
+| Voted Nay | 665 (7.1%) |
+| Absent | 547 (5.9%) |
+
 
 ## Committees Served
 

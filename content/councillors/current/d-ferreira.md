@@ -5,6 +5,10 @@ slug: "d-ferreira"
 meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
+totalVotes: 2884
+votesYea: 2308
+votesNay: 309
+votesAbsent: 267
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 13)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,884 |
+| Voted Yea | 2,308 (80.0%) |
+| Voted Nay | 309 (10.7%) |
+| Absent | 267 (9.3%) |
+
 
 ## Committees Served
 

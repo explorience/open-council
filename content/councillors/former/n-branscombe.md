@@ -5,6 +5,10 @@ slug: "n-branscombe"
 meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
+totalVotes: 2090
+votesYea: 1878
+votesNay: 212
+votesAbsent: 0
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -16,6 +20,16 @@ Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
 ## Terms of Service
 
 - 2006-2014: Councillor (Ward 6)
+
+## Voting Record
+
+| Statistic | Count |
+|-----------|-------|
+| Total Votes | 2,090 |
+| Voted Yea | 1,878 (89.9%) |
+| Voted Nay | 212 (10.1%) |
+| Absent | 0 (0.0%) |
+
 
 ## Committees Served
 
