@@ -278,39 +278,46 @@ export class RAGService {
   private analyzeQuery(query: string): QueryAnalysis {
     const lowerQuery = query.toLowerCase();
 
-    // 1. Check for councillor-specific voting query FIRST
-    // This should override complexity to COMPREHENSIVE
+    // 1. Detect ALL query types FIRST before determining TOP_K
     const councillorVoting = this.detectCouncillorVotingQuery(query);
-
-    // 2. Determine complexity and TOP_K
-    // If councillor voting query, force COMPREHENSIVE for full historical coverage
-    const topK = councillorVoting.isCouncillorQuery
-      ? TOP_K_COMPREHENSIVE
-      : this.analyzeQueryComplexity(query);
-
-    // 3. Check for "most recent" type queries
     const isMostRecent = this.detectMostRecentIntent(lowerQuery);
-
-    // 4. Extract specific month/year if mentioned
     const specificMonth = this.extractSpecificMonth(lowerQuery);
-
-    // 5. Extract year filter if just year mentioned
     const yearFilter = this.extractYearFilter(lowerQuery);
-
-    // 6. Detect meeting type (committee, council, etc.)
     const meetingTypeFilter = this.detectMeetingType(lowerQuery);
-
-    // 7. Check for motion outcome query ("did X pass/fail?")
     const motionOutcome = this.detectMotionOutcomeQuery(query);
-
-    // 8. Check for vote count query ("how many voted X?")
     const voteCount = this.detectVoteCountQuery(query);
-
-    // 9. Check for close vote query ("close votes on X date")
     const closeVote = this.detectCloseVoteQuery(query);
-
-    // 10. Check for alignment/pattern query ("who votes with the Mayor?")
     const alignment = this.detectAlignmentQuery(query);
+
+    // 2. Smart TOP_K selection based on query type and available structured data
+    // Key insight: queries with structured data fallbacks need less RAG context
+    let topK: number;
+
+    if (councillorVoting.isCouncillorQuery) {
+      if (councillorVoting.wantsHistoricalContext) {
+        // Historical analysis ("voting record over time") needs full coverage
+        topK = TOP_K_COMPREHENSIVE;
+        console.log(`Query complexity: COUNCILLOR HISTORICAL (TOP_K=${TOP_K_COMPREHENSIVE})`);
+      } else {
+        // Simple vote lookup - structured vote data provides accuracy,
+        // only need moderate context for narrative
+        topK = TOP_K_MEDIUM;
+        console.log(`Query complexity: COUNCILLOR SIMPLE (TOP_K=${TOP_K_MEDIUM}) - using structured vote lookup`);
+      }
+    } else if (alignment.isAlignmentQuery) {
+      // Alignment queries use pre-computed councillor stats,
+      // only need light context for supporting narrative
+      topK = TOP_K_MEDIUM;
+      console.log(`Query complexity: ALIGNMENT (TOP_K=${TOP_K_MEDIUM}) - using councillor stats`);
+    } else if (motionOutcome.isMotionOutcome || voteCount.isVoteCount || closeVote.isCloseVote) {
+      // Vote/motion queries use structured vote lookup for accuracy,
+      // moderate context for meeting narrative
+      topK = TOP_K_MEDIUM;
+      console.log(`Query complexity: VOTE LOOKUP (TOP_K=${TOP_K_MEDIUM}) - using structured data`);
+    } else {
+      // Default: use pattern-based complexity analysis
+      topK = this.analyzeQueryComplexity(query);
+    }
 
     const analysis: QueryAnalysis = {
       isMostRecent,

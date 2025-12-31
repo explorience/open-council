@@ -177,7 +177,7 @@ async function runBatchTest(testCases: AccuracyTestCase[]) {
   // Initialize services
   console.log('📦 Initializing services...');
   const vectorStore = new VectorStore();
-  await vectorStore.initialize(OPENAI_API_KEY);
+  await vectorStore.initialize();
   await voteLookupService.initialize();
   await councillorStatsLookupService.initialize();
   console.log('✅ Services initialized\n');
