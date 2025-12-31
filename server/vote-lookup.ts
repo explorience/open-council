@@ -79,6 +79,21 @@ export interface MotionVotesResult {
 }
 
 /**
+ * Result from a close vote lookup
+ */
+export interface CloseVoteResult {
+  date: string;
+  itemTitle: string;
+  motionText: string;
+  meetingTitle: string;
+  result: string;
+  passed: boolean;
+  yeas: string[];
+  nays: string[];
+  margin: number;
+}
+
+/**
  * Cache for loaded vote files
  */
 const voteCache: Map<string, CouncillorVoteFile> = new Map();
@@ -329,6 +344,113 @@ export class VoteLookupService {
   getCouncillorSummary(councillorSlug: string): CouncillorVoteFile['summary'] | null {
     const voteFile = loadCouncillorVotes(councillorSlug);
     return voteFile?.summary || null;
+  }
+
+  /**
+   * Find close votes on a specific date
+   * Close votes are defined as votes with a margin of 3 or less (e.g., 7-8, 6-9, etc.)
+   *
+   * @param date - Date in YYYY-MM-DD format
+   * @param maxMargin - Maximum margin to consider "close" (default: 3)
+   */
+  findCloseVotesByDate(date: string, maxMargin: number = 3): CloseVoteResult[] {
+    const slugs = getAllCouncillorSlugs();
+
+    // Build a map of unique votes on this date
+    const voteMap = new Map<string, {
+      itemTitle: string;
+      motionText: string;
+      meetingTitle: string;
+      result: string;
+      passed: boolean;
+      yeas: string[];
+      nays: string[];
+    }>();
+
+    for (const slug of slugs) {
+      const voteFile = loadCouncillorVotes(slug);
+      if (!voteFile) continue;
+
+      for (const vote of voteFile.votes) {
+        if (vote.date !== date) continue;
+
+        // Create unique key for this vote
+        const key = `${vote.itemTitle}|${vote.motionText.slice(0, 100)}`;
+
+        if (!voteMap.has(key)) {
+          voteMap.set(key, {
+            itemTitle: vote.itemTitle,
+            motionText: vote.motionText,
+            meetingTitle: vote.meetingTitle,
+            result: vote.result,
+            passed: vote.passed,
+            yeas: [],
+            nays: [],
+          });
+        }
+
+        const entry = voteMap.get(key)!;
+        if (vote.vote === 'yea') {
+          entry.yeas.push(voteFile.councillor);
+        } else if (vote.vote === 'nay') {
+          entry.nays.push(voteFile.councillor);
+        }
+      }
+    }
+
+    // Filter to close votes only
+    const closeVotes: CloseVoteResult[] = [];
+
+    for (const [_, vote] of voteMap) {
+      const margin = Math.abs(vote.yeas.length - vote.nays.length);
+      const totalVotes = vote.yeas.length + vote.nays.length;
+
+      // Only include if margin is small AND enough councillors voted
+      if (margin <= maxMargin && totalVotes >= 10) {
+        closeVotes.push({
+          date,
+          itemTitle: vote.itemTitle,
+          motionText: vote.motionText,
+          meetingTitle: vote.meetingTitle,
+          result: vote.result,
+          passed: vote.passed,
+          yeas: vote.yeas,
+          nays: vote.nays,
+          margin,
+        });
+      }
+    }
+
+    // Sort by margin (closest first), then by item title
+    return closeVotes.sort((a, b) => a.margin - b.margin || a.itemTitle.localeCompare(b.itemTitle));
+  }
+
+  /**
+   * Format close votes for LLM context
+   */
+  formatCloseVotesForContext(votes: CloseVoteResult[]): string {
+    if (votes.length === 0) {
+      return '';
+    }
+
+    const sections = votes.map(v => {
+      const outcomeWord = v.passed ? 'PASSED' : 'FAILED';
+      return `
+### ${v.itemTitle}
+**Date:** ${v.date}
+**Result:** ${outcomeWord} (${v.yeas.length}-${v.nays.length})
+**Margin:** ${v.margin} vote${v.margin !== 1 ? 's' : ''}
+**Voted YEA:** ${v.yeas.join(', ') || 'None'}
+**Voted NAY:** ${v.nays.join(', ') || 'None'}`;
+    });
+
+    return `
+## VERIFIED CLOSE VOTES (from structured data - USE THIS)
+The following votes had a margin of 3 or less:
+${sections.join('\n')}
+
+⚠️ This is verified structured data. Use these exact details in your response.
+`;
   }
 
   /**

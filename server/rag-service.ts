@@ -6,7 +6,7 @@ import { VectorStore } from './vector-store.js';
 import { getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult } from './types.js';
 import { getAllCouncillors } from '../lib/councillors/index.js';
-import { voteLookupService, type VoteLookupResult, type MotionVotesResult } from './vote-lookup.js';
+import { voteLookupService, type VoteLookupResult, type MotionVotesResult, type CloseVoteResult } from './vote-lookup.js';
 
 /**
  * Metadata collected during chat for logging purposes
@@ -52,6 +52,10 @@ interface QueryAnalysis {
 
   // Vote count query (how many voted X?)
   isVoteCountQuery: boolean;         // "How many voted against X?"
+
+  // Close vote query (what close votes on date X?)
+  isCloseVoteQuery: boolean;         // "What close votes happened on..."
+  closeVoteDate?: string;            // Date in YYYY-MM-DD format
 
   // Complexity
   topK: number;
@@ -285,6 +289,9 @@ export class RAGService {
     // 8. Check for vote count query ("how many voted X?")
     const voteCount = this.detectVoteCountQuery(query);
 
+    // 9. Check for close vote query ("close votes on X date")
+    const closeVote = this.detectCloseVoteQuery(query);
+
     const analysis: QueryAnalysis = {
       isMostRecent,
       specificMonth: specificMonth || undefined,
@@ -296,6 +303,8 @@ export class RAGService {
       isMotionOutcomeQuery: motionOutcome.isMotionOutcome,
       motionKeywords: motionOutcome.motionKeywords || voteCount.motionKeywords,
       isVoteCountQuery: voteCount.isVoteCount,
+      isCloseVoteQuery: closeVote.isCloseVote,
+      closeVoteDate: closeVote.date,
       topK,
     };
 
@@ -1103,13 +1112,74 @@ export class RAGService {
   }
 
   /**
+   * Detect if this is a close vote query with a specific date
+   *
+   * Patterns matched:
+   * - "What close votes happened on October 14, 2025?"
+   * - "Were there any close votes at the October 14 meeting?"
+   * - "What was the closest vote on October 14, 2025?"
+   */
+  private detectCloseVoteQuery(query: string): { isCloseVote: boolean; date?: string } {
+    const lowerQuery = query.toLowerCase();
+
+    // Check for close vote keywords
+    const closeVotePatterns = [
+      /close vote/,
+      /closest vote/,
+      /tight vote/,
+      /narrow vote/,
+      /split vote/,
+      /how close/,
+      /narrow margin/,
+      /7.?8|8.?7|6.?9|9.?6/,  // Common close vote margins
+    ];
+
+    const hasCloseVoteKeyword = closeVotePatterns.some(p => p.test(lowerQuery));
+    if (!hasCloseVoteKeyword) {
+      return { isCloseVote: false };
+    }
+
+    // Try to extract a specific date
+    // Patterns: "October 14, 2025", "October 14 2025", "2025-10-14"
+    const months: Record<string, string> = {
+      'january': '01', 'february': '02', 'march': '03', 'april': '04',
+      'may': '05', 'june': '06', 'july': '07', 'august': '08',
+      'september': '09', 'october': '10', 'november': '11', 'december': '12'
+    };
+
+    // Match "October 14, 2025" or "October 14 2025"
+    const monthDayYearPattern = /(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2}),?\s*(\d{4})/i;
+    const match = query.match(monthDayYearPattern);
+    if (match) {
+      const month = months[match[1].toLowerCase()];
+      const day = match[2].padStart(2, '0');
+      const year = match[3];
+      const date = `${year}-${month}-${day}`;
+      console.log(`📊 Detected close vote query for date: ${date}`);
+      return { isCloseVote: true, date };
+    }
+
+    // Match ISO format "2025-10-14"
+    const isoDatePattern = /(\d{4})-(\d{2})-(\d{2})/;
+    const isoMatch = query.match(isoDatePattern);
+    if (isoMatch) {
+      const date = isoMatch[0];
+      console.log(`📊 Detected close vote query for date: ${date}`);
+      return { isCloseVote: true, date };
+    }
+
+    // Has close vote keywords but no specific date
+    return { isCloseVote: true };
+  }
+
+  /**
    * Retrieve relevant context from vector store
    * Uses unified query analysis to determine optimal retrieval strategy
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
     // Analyze query to extract all metadata
     const analysis = this.analyzeQuery(query);
-    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords } = analysis;
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords, isCloseVoteQuery, closeVoteDate } = analysis;
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
@@ -1222,6 +1292,41 @@ export class RAGService {
 
       this.logUniqueMeetings(combined);
       return combined.slice(0, topK);
+    }
+
+    // Strategy 3.5: Close vote query with specific date
+    // Uses structured vote data to find all close votes on a given date
+    if (isCloseVoteQuery && closeVoteDate) {
+      console.log(`📊 Close vote query for date: ${closeVoteDate}`);
+
+      let verifiedVoteContext = '';
+      if (this.voteLookupInitialized) {
+        const closeVotes = voteLookupService.findCloseVotesByDate(closeVoteDate);
+        if (closeVotes.length > 0) {
+          verifiedVoteContext = voteLookupService.formatCloseVotesForContext(closeVotes);
+          console.log(`   ✅ Found ${closeVotes.length} close votes on ${closeVoteDate}`);
+        } else {
+          console.log(`   ⚠️ No close votes found on ${closeVoteDate}`);
+        }
+      }
+
+      // Store verified context for later inclusion
+      (this as any)._verifiedVoteContext = verifiedVoteContext;
+
+      // Also do semantic search to get additional context
+      const normalizedQuery = this.normalizeQueryForEmbedding(query);
+      const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
+
+      // Search for content from that date
+      const results = await this.vectorStore.hybridSearch(
+        queryEmbedding,
+        `${closeVoteDate} close vote 7-8 narrow margin councillors yea nay`,
+        topK,
+        0.5
+      );
+
+      this.logUniqueMeetings(results);
+      return results;
     }
 
     // Strategy 4: Councillor voting query - HYBRID retrieval
