@@ -46,6 +46,13 @@ interface QueryAnalysis {
   councillorName?: string;           // Extracted councillor name
   wantsHistoricalContext: boolean;   // Does user want historical/change-over-time analysis?
 
+  // Motion outcome query (did X pass/fail?)
+  isMotionOutcomeQuery: boolean;     // "Did the X motion pass?"
+  motionKeywords?: string[];         // Keywords to search for the motion
+
+  // Vote count query (how many voted X?)
+  isVoteCountQuery: boolean;         // "How many voted against X?"
+
   // Complexity
   topK: number;
 }
@@ -272,6 +279,12 @@ export class RAGService {
     // 6. Detect meeting type (committee, council, etc.)
     const meetingTypeFilter = this.detectMeetingType(lowerQuery);
 
+    // 7. Check for motion outcome query ("did X pass/fail?")
+    const motionOutcome = this.detectMotionOutcomeQuery(query);
+
+    // 8. Check for vote count query ("how many voted X?")
+    const voteCount = this.detectVoteCountQuery(query);
+
     const analysis: QueryAnalysis = {
       isMostRecent,
       specificMonth: specificMonth || undefined,
@@ -280,6 +293,9 @@ export class RAGService {
       isCouncillorVotingQuery: councillorVoting.isCouncillorQuery,
       councillorName: councillorVoting.councillorName,
       wantsHistoricalContext: councillorVoting.wantsHistoricalContext,
+      isMotionOutcomeQuery: motionOutcome.isMotionOutcome,
+      motionKeywords: motionOutcome.motionKeywords || voteCount.motionKeywords,
+      isVoteCountQuery: voteCount.isVoteCount,
       topK,
     };
 
@@ -984,13 +1000,116 @@ export class RAGService {
   }
 
   /**
+   * Detect if this is a motion outcome query (did X pass/fail?)
+   * Returns keywords to search for the motion
+   *
+   * Patterns matched:
+   * - "Did the Cooling By-law pass?"
+   * - "Was the diaper motion approved?"
+   * - "Did the Urban Growth Boundary fail?"
+   */
+  private detectMotionOutcomeQuery(query: string): { isMotionOutcome: boolean; motionKeywords?: string[] } {
+    const lowerQuery = query.toLowerCase();
+
+    // Patterns that indicate motion outcome query
+    const outcomePatterns = [
+      /did (?:the )?(.+?) (pass|fail|get approved|get rejected|succeed|motion pass|motion fail)/i,
+      /was (?:the )?(.+?) (approved|rejected|passed|defeated|carried|lost)/i,
+      /(?:the )?(.+?) (pass|fail|get approved|approved|rejected)\??$/i,
+      /what (?:was|happened to) (?:the )?(.+?) (?:vote|motion|by-?law)/i,
+      /result of (?:the )?(.+?) vote/i,
+    ];
+
+    for (const pattern of outcomePatterns) {
+      const match = query.match(pattern);
+      if (match) {
+        // Extract keywords from the motion description
+        const motionDesc = match[1];
+        const keywords = motionDesc
+          .toLowerCase()
+          .replace(/[^a-z0-9\s-]/g, ' ')
+          .split(/\s+/)
+          .filter(k => k.length > 2 && !['the', 'and', 'for', 'was', 'did', 'get', 'motion'].includes(k));
+
+        if (keywords.length > 0) {
+          console.log(`📋 Detected motion outcome query for: "${keywords.join(' ')}"`);
+          return { isMotionOutcome: true, motionKeywords: keywords };
+        }
+      }
+    }
+
+    // Check for specific known motions by keyword
+    const knownMotions: { pattern: RegExp; keywords: string[] }[] = [
+      { pattern: /diaper|menstrual|green bin.*waste/i, keywords: ['diaper', 'menstrual', 'green', 'bin'] },
+      { pattern: /cooling by-?law/i, keywords: ['cooling', 'bylaw', 'maximum', 'temperature'] },
+      { pattern: /urban growth boundary/i, keywords: ['urban', 'growth', 'boundary'] },
+      { pattern: /warming cent(er|re)/i, keywords: ['warming', 'centre', 'framework'] },
+      { pattern: /bike.*parking|bicycle.*parking/i, keywords: ['bike', 'parking', 'implementation'] },
+      { pattern: /e-?scooter|kick scooter/i, keywords: ['scooter', 'electric', 'kick', 'pilot'] },
+      { pattern: /pa day.*election|election.*pa day/i, keywords: ['pa', 'day', 'election'] },
+    ];
+
+    for (const { pattern, keywords } of knownMotions) {
+      if (pattern.test(lowerQuery) && /(pass|fail|approved|rejected|result|vote|outcome)/i.test(lowerQuery)) {
+        console.log(`📋 Detected motion outcome query (known motion): "${keywords.join(' ')}"`);
+        return { isMotionOutcome: true, motionKeywords: keywords };
+      }
+    }
+
+    return { isMotionOutcome: false };
+  }
+
+  /**
+   * Detect if this is a vote count query (how many voted X?)
+   *
+   * Patterns matched:
+   * - "How many councillors voted against X?"
+   * - "Who voted for the Cooling By-law?"
+   * - "How many voted no on X?"
+   * - "What was the vote count on X?"
+   */
+  private detectVoteCountQuery(query: string): { isVoteCount: boolean; motionKeywords?: string[] } {
+    const lowerQuery = query.toLowerCase();
+
+    // Patterns for vote count queries
+    const countPatterns = [
+      /how many (?:councillors? )?voted (for|against|yes|no|yea|nay) (?:the )?(.+)/i,
+      /who voted (for|against|yes|no|yea|nay) (?:the )?(.+)/i,
+      /(?:vote|tally) count (?:on|for) (?:the )?(.+)/i,
+      /what was the (?:final )?vote (?:count|breakdown|tally) (?:on|for) (?:the )?(.+)/i,
+      /how (?:close|tight) was the (?:vote (?:on )?)?(.+)/i,
+      /was (?:the )?(.+) (?:vote )?unanimous/i,
+    ];
+
+    for (const pattern of countPatterns) {
+      const match = query.match(pattern);
+      if (match) {
+        // Get the motion description (last capture group usually)
+        const motionDesc = match[match.length - 1] || match[1];
+        const keywords = motionDesc
+          .toLowerCase()
+          .replace(/[^a-z0-9\s-]/g, ' ')
+          .split(/\s+/)
+          .filter(k => k.length > 2 && !['the', 'and', 'for', 'was', 'vote', 'motion', 'on'].includes(k));
+
+        if (keywords.length > 0) {
+          console.log(`🔢 Detected vote count query for: "${keywords.join(' ')}"`);
+          return { isVoteCount: true, motionKeywords: keywords };
+        }
+      }
+    }
+
+    return { isVoteCount: false };
+  }
+
+  /**
    * Retrieve relevant context from vector store
    * Uses unified query analysis to determine optimal retrieval strategy
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
     // Analyze query to extract all metadata
     const analysis = this.analyzeQuery(query);
-    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext } = analysis;
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords } = analysis;
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
@@ -1051,7 +1170,61 @@ export class RAGService {
       }
     }
 
-    // Strategy 3: Councillor voting query - HYBRID retrieval
+    // Strategy 3: Motion outcome or vote count query
+    // Uses structured vote data for VERIFIED accuracy on "did X pass?" and "how many voted against X?" queries
+    if ((isMotionOutcomeQuery || isVoteCountQuery) && motionKeywords && motionKeywords.length > 0) {
+      console.log(`📊 Motion/vote query detected - using structured vote lookup for: "${motionKeywords.join(' ')}"`);
+
+      let verifiedVoteContext = '';
+      if (this.voteLookupInitialized) {
+        const motionResult = voteLookupService.findMotionVotes(motionKeywords);
+        if (motionResult) {
+          verifiedVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
+          console.log(`   ✅ Found VERIFIED motion vote breakdown: ${motionResult.yeas.length} yea, ${motionResult.nays.length} nay`);
+        } else {
+          console.log(`   ⚠️ No matching motion found in structured vote data`);
+        }
+      }
+
+      // Store verified context for later inclusion
+      (this as any)._verifiedVoteContext = verifiedVoteContext;
+
+      // Also do semantic search to get additional context about the motion
+      const normalizedQuery = this.normalizeQueryForEmbedding(query);
+      const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
+
+      // Use hybrid search with high keyword weight to find exact motion text
+      const hybridQuery = `${motionKeywords.join(' ')} motion vote passed failed councillors yea nay`;
+      const results = await this.vectorStore.hybridSearch(
+        queryEmbedding,
+        hybridQuery,
+        topK,
+        0.6  // Weight toward keyword matching for motion names
+      );
+
+      // Also get news coverage which often has vote breakdowns
+      const newsResults = await this.vectorStore.getRecentNewsCoverage(Math.floor(topK * 0.3), 12);
+
+      // Combine and dedupe
+      const seenIds = new Set<string>();
+      const combined: SearchResult[] = [];
+
+      for (const result of [...newsResults, ...results]) {
+        const id = `${result.metadata.meeting_date}-${result.metadata.item_number}-${result.text.substring(0, 50)}`;
+        if (!seenIds.has(id)) {
+          seenIds.add(id);
+          combined.push(result);
+        }
+      }
+
+      // Sort by date descending
+      combined.sort((a, b) => new Date(b.metadata.meeting_date).getTime() - new Date(a.metadata.meeting_date).getTime());
+
+      this.logUniqueMeetings(combined);
+      return combined.slice(0, topK);
+    }
+
+    // Strategy 4: Councillor voting query - HYBRID retrieval
     // Combines semantic search for topic relevance with recent data to ensure temporal coverage
     // Also searches specifically for the councillor's name to find their votes even when absent
     // CRITICAL: Also includes news_coverage chunks which contain vote breakdowns
