@@ -612,7 +612,18 @@ ${sections.join('\n')}
     }
 
     // Find the best match (highest score, most recent)
-    let bestMatch: typeof voteMap extends Map<string, infer V> ? V : never = null as any;
+    let bestMatch: {
+      date: string;
+      itemTitle: string;
+      motionText: string;
+      meetingTitle: string;
+      result: string;
+      passed: boolean;
+      yeas: string[];
+      nays: string[];
+      absent: string[];
+      matchScore: number;
+    } | null = null;
     let bestScore = 0;
     let bestDate = '';
 

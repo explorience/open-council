@@ -4,14 +4,12 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "How can residents submit concerns or suggestions about local infrastructure issues like road repairs, water problems, or park maintenance to the Civic Works Committee?"
-  - "What is the committee's current priority list for major infrastructure projects, and how does the city determine which projects receive funding first?"
-  - "How does the Civic Works Committee coordinate with other city departments and committees when infrastructure projects affect multiple areas of city operations?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Civic Works Committee is a standing committee of London City Council that plays a crucial role in municipal governance by overseeing the city's physical infrastructure and public works operations. This committee typically handles matters related to transportation infrastructure, including road construction, maintenance, and traffic management; water and wastewater systems; waste management and recycling programs; parks and recreation facilities; and other essential municipal services that keep the city functioning day-to-day. As an active committee that has held 203 meetings, it demonstrates the ongoing nature of infrastructure management and the continuous need for oversight of civic operations.
-
-The committee serves as a vital link between city administration and council, reviewing staff reports, making recommendations on capital projects, and ensuring that London's infrastructure meets the needs of its growing population. Their work directly impacts residents' quality of life through decisions on everything from snow removal and street repairs to park improvements and public transit infrastructure. The committee's regular meeting schedule reflects the constant attention required to maintain and improve municipal services, with their recommendations ultimately forwarded to City Council for final approval and implementation.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 
