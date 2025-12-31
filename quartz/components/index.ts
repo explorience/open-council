@@ -35,6 +35,7 @@ import VotingRecord from "./VotingRecord"
 import Scorecard from "./Scorecard"
 import AlignmentMatrix from "./AlignmentMatrix"
 import CouncillorRankings from "./CouncillorRankings"
+import TopicsView from "./TopicsView"
 
 export {
   ArticleTitle,
@@ -74,4 +75,5 @@ export {
   Scorecard,
   AlignmentMatrix,
   CouncillorRankings,
+  TopicsView,
 }

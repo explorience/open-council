@@ -78,6 +78,14 @@ export default ((userOpts?: Partial<HomepageHeroOptions>) => {
           </div>
         </div>
 
+        {/* Trending topics - shown only in hero mode */}
+        <div class="trending-topics" aria-label="Trending topics">
+          <span class="trending-label">Trending:</span>
+          <div class="trending-pills">
+            {/* Pills populated by JavaScript */}
+          </div>
+        </div>
+
         {/* Input area - always visible, pinned to bottom in chat mode */}
         <div class="chat-input-area">
           <div class="chat-input-wrapper">

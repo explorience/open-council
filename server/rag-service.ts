@@ -4,9 +4,10 @@ import OpenAI from 'openai';
 import Anthropic from '@anthropic-ai/sdk';
 import { VectorStore } from './vector-store.js';
 import { getSystemPrompt } from './system-prompt.js';
-import type { ChatMessage, SearchResult } from './types.js';
+import type { ChatMessage, SearchResult, ChatSource } from './types.js';
 import { getAllCouncillors } from '../lib/councillors/index.js';
 import { voteLookupService, type VoteLookupResult, type MotionVotesResult, type CloseVoteResult } from './vote-lookup.js';
+import { detectTopicsInQuery } from '../lib/topics/index.js';
 
 /**
  * Metadata collected during chat for logging purposes
@@ -16,6 +17,8 @@ export interface ChatMetadataCollector {
   contextChunksUsed?: number;
   llmProvider?: string;
   model?: string;
+  sources?: ChatSource[];
+  detectedTopics?: string[];
 }
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
@@ -1541,6 +1544,38 @@ export class RAGService {
   }
 
   /**
+   * Extract unique sources from search results for display in chat UI
+   */
+  private extractSources(results: SearchResult[]): ChatSource[] {
+    const sourceMap = new Map<string, ChatSource>();
+
+    for (const result of results) {
+      const meta = result.metadata;
+      const key = `${meta.meeting_title}-${meta.meeting_date}`;
+
+      if (!sourceMap.has(key)) {
+        // Convert file_path to internal Quartz URL
+        const internalUrl = meta.file_path
+          .replace('data/', '/')
+          .replace('.json', '')
+          .replace(/ /g, '-');
+
+        sourceMap.set(key, {
+          title: meta.meeting_title,
+          date: meta.meeting_date,
+          url: internalUrl,
+          type: meta.meeting_type,
+        });
+      }
+    }
+
+    // Sort by date descending (most recent first)
+    return Array.from(sourceMap.values()).sort((a, b) =>
+      b.date.localeCompare(a.date)
+    );
+  }
+
+  /**
    * Build context string from search results
    * Prepends verified vote data if available for higher accuracy
    */
@@ -1626,6 +1661,10 @@ ${result.text}
       metadataCollector.contextChunksUsed = results.length;
       metadataCollector.llmProvider = 'openai';
       metadataCollector.model = 'gpt-4o';
+      metadataCollector.sources = this.extractSources(results);
+      // Detect topics in the query
+      const detectedTopics = detectTopicsInQuery(message);
+      metadataCollector.detectedTopics = detectedTopics.map(t => t.name);
     }
 
     // Build messages array
@@ -1687,6 +1726,10 @@ ${result.text}
       metadataCollector.contextChunksUsed = results.length;
       metadataCollector.llmProvider = 'anthropic';
       metadataCollector.model = 'claude-sonnet-4-5-20250929';
+      metadataCollector.sources = this.extractSources(results);
+      // Detect topics in the query
+      const detectedTopics = detectTopicsInQuery(message);
+      metadataCollector.detectedTopics = detectedTopics.map(t => t.name);
     }
 
     // Build messages array

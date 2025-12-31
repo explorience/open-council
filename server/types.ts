@@ -106,3 +106,11 @@ export interface SearchResult {
   score: number;
   metadata: EmbeddingChunk['metadata'];
 }
+
+// Source information for displaying in chat responses
+export interface ChatSource {
+  title: string;
+  date: string;
+  url: string;
+  type: string;
+}

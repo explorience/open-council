@@ -122,6 +122,19 @@
   margin-left: 0.5rem;
 }
 
+// "View All" link style
+.nav-dropdown-all {
+  border-top: 1px solid var(--lightgray);
+  margin-top: 0.25rem;
+  padding-top: 0.75rem;
+  font-weight: 500;
+  color: var(--secondary);
+
+  &:hover {
+    background: var(--lightgray);
+  }
+}
+
 // Active state for toggle buttons
 .nav-recent-meetings[aria-expanded="true"],
 .nav-suggested-questions[aria-expanded="true"] {

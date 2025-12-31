@@ -8,6 +8,7 @@ import { VectorStore } from './vector-store.js';
 import { RAGService, ChatMetadataCollector } from './rag-service.js';
 import { logChatInteraction, generateSessionId, topKToComplexity, ChatLogEntry } from './chat-logger.js';
 import { EmbeddingGenerator } from './embeddings.js';
+import { logQuery, getCombinedTrending } from './analytics.js';
 import type { ChatRequest } from './types.js';
 
 // Load environment variables
@@ -89,6 +90,21 @@ app.post('/api/context', async (req, res) => {
   }
 });
 
+// Get trending topics based on query analytics
+app.get('/api/trending', (req, res) => {
+  try {
+    const trending = getCombinedTrending();
+    res.json({
+      topics: trending.combined,
+      queryBased: trending.queryTrending,
+      meetingBased: trending.meetingTopics,
+    });
+  } catch (error) {
+    console.error('Error getting trending topics:', error);
+    res.status(500).json({ error: 'Failed to get trending topics' });
+  }
+});
+
 // Chat endpoint with streaming
 app.post('/api/chat', async (req, res) => {
   try {
@@ -96,6 +112,14 @@ app.post('/api/chat', async (req, res) => {
 
     if (!message) {
       return res.status(400).json({ error: 'Message is required' });
+    }
+
+    // Log query for analytics (non-blocking)
+    try {
+      logQuery(message);
+    } catch (e) {
+      // Don't fail the request if analytics fails
+      console.error('Failed to log query:', e);
     }
 
     // Use client-provided session ID or generate one
@@ -118,8 +142,12 @@ app.post('/api/chat', async (req, res) => {
         res.write(`data: ${JSON.stringify({ content: chunk })}\n\n`);
       }
 
-      // Send done signal
-      res.write(`data: ${JSON.stringify({ done: true })}\n\n`);
+      // Send done signal with sources metadata
+      res.write(`data: ${JSON.stringify({
+        done: true,
+        sources: metadataCollector.sources || [],
+        detectedTopics: metadataCollector.detectedTopics || [],
+      })}\n\n`);
       res.end();
 
       // Log the interaction after streaming completes
@@ -249,6 +277,7 @@ async function start() {
       console.log(`\nEndpoints:`);
       console.log(`  GET  /health          - Health check`);
       console.log(`  GET  /api/stats       - Vector store statistics`);
+      console.log(`  GET  /api/trending    - Trending topics`);
       console.log(`  POST /api/context     - Get relevant context`);
       console.log(`  POST /api/chat        - Chat with streaming`);
       console.log(`  POST /api/regenerate  - Add embeddings for new meetings`);

@@ -8,6 +8,13 @@ interface Message {
   content: string
 }
 
+interface ChatSource {
+  title: string
+  date: string
+  url: string
+  type: string
+}
+
 // Chat history persists across state changes
 const chatHistory: Message[] = []
 
@@ -63,6 +70,69 @@ function createLoadingElement(): HTMLElement {
 
 function scrollToBottom(container: HTMLElement) {
   container.scrollTop = container.scrollHeight
+}
+
+function createSourcesSection(sources: ChatSource[]): HTMLElement {
+  const sourcesDiv = document.createElement("div")
+  sourcesDiv.className = "response-sources"
+
+  if (sources.length === 0) {
+    return sourcesDiv
+  }
+
+  // Limit to top 5 sources to keep it concise
+  const displaySources = sources.slice(0, 5)
+
+  const header = document.createElement("button")
+  header.className = "sources-header"
+  header.setAttribute("aria-expanded", "false")
+  header.innerHTML = `
+    <span class="sources-label">Sources (${sources.length})</span>
+    <svg class="sources-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <polyline points="6 9 12 15 18 9"/>
+    </svg>
+  `
+
+  const list = document.createElement("div")
+  list.className = "sources-list"
+  list.setAttribute("aria-hidden", "true")
+
+  displaySources.forEach(source => {
+    const link = document.createElement("a")
+    link.href = source.url
+    link.className = "source-link"
+    link.innerHTML = `
+      <span class="source-date">${formatDate(source.date)}</span>
+      <span class="source-title">${source.title}</span>
+    `
+    list.appendChild(link)
+  })
+
+  // Toggle functionality
+  header.addEventListener("click", () => {
+    const expanded = header.getAttribute("aria-expanded") === "true"
+    header.setAttribute("aria-expanded", String(!expanded))
+    list.setAttribute("aria-hidden", String(expanded))
+    sourcesDiv.classList.toggle("expanded", !expanded)
+  })
+
+  sourcesDiv.appendChild(header)
+  sourcesDiv.appendChild(list)
+
+  return sourcesDiv
+}
+
+function formatDate(dateStr: string): string {
+  try {
+    const date = new Date(dateStr)
+    return date.toLocaleDateString("en-CA", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+    })
+  } catch {
+    return dateStr
+  }
 }
 
 function autoResize(textarea: HTMLTextAreaElement) {
@@ -123,8 +193,64 @@ document.addEventListener("nav", () => {
   const messagesContainer = hero.querySelector(".chat-messages") as HTMLElement
   const copyLastBtn = hero.querySelector(".chat-copy-last") as HTMLButtonElement
   const copyAllBtn = hero.querySelector(".chat-copy-all") as HTMLButtonElement
+  const trendingPills = hero.querySelector(".trending-pills") as HTMLElement
 
   let isStreaming = false
+
+  // Fetch and display trending topics
+  async function loadTrendingTopics() {
+    if (!trendingPills) return
+
+    try {
+      const response = await fetch(`${apiUrl}/api/trending`)
+      if (!response.ok) throw new Error("Failed to fetch trending")
+
+      const data = await response.json()
+      const topics = data.topics as string[]
+
+      if (topics && topics.length > 0) {
+        trendingPills.innerHTML = topics
+          .slice(0, 5)
+          .map(
+            topic =>
+              `<button class="trending-pill" data-topic="${topic}">${topic}</button>`,
+          )
+          .join("")
+
+        // Add click handlers
+        trendingPills.querySelectorAll(".trending-pill").forEach(pill => {
+          pill.addEventListener("click", () => {
+            const topic = (pill as HTMLElement).dataset.topic
+            if (topic) {
+              sendMessage(`What has council discussed about ${topic.toLowerCase()}?`)
+            }
+          })
+        })
+      }
+    } catch (error) {
+      console.log("Could not load trending topics:", error)
+      // Fallback to static topics
+      const fallbackTopics = ["Housing", "Transit", "Budget", "Climate"]
+      trendingPills.innerHTML = fallbackTopics
+        .map(
+          topic =>
+            `<button class="trending-pill" data-topic="${topic}">${topic}</button>`,
+        )
+        .join("")
+
+      trendingPills.querySelectorAll(".trending-pill").forEach(pill => {
+        pill.addEventListener("click", () => {
+          const topic = (pill as HTMLElement).dataset.topic
+          if (topic) {
+            sendMessage(`What has council discussed about ${topic.toLowerCase()}?`)
+          }
+        })
+      })
+    }
+  }
+
+  // Load trending topics on page load
+  loadTrendingTopics()
 
   // Activate chat mode
   function enterChatMode() {
@@ -241,6 +367,14 @@ document.addEventListener("nav", () => {
 
                 if (data.done) {
                   chatHistory.push({ role: "assistant", content: fullResponse })
+
+                  // Add sources section if available
+                  if (data.sources && data.sources.length > 0) {
+                    const sourcesSection = createSourcesSection(data.sources as ChatSource[])
+                    contentDiv.appendChild(sourcesSection)
+                    scrollToBottom(messagesContainer)
+                  }
+
                   break
                 }
               } catch (e) {

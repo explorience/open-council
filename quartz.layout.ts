@@ -133,6 +133,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.AlignmentMatrix(),
     // Councillor rankings chart (self-filters by page type)
     Component.CouncillorRankings(),
+    // Topics grid view (for /topics page)
+    Component.ConditionalRender({
+      component: Component.TopicsView(),
+      condition: (page) => page.fileData.slug === "topics" || page.fileData.slug === "topics/index",
+    }),
   ],
   afterBody: [
     // Homepage: Recent notes (simple mode) and Dashboard (advanced mode)
