@@ -214,7 +214,6 @@ const testCases: AccuracyTestCase[] = [
 
 describe('Representative Accuracy Tests (15 questions)', { timeout: 300000 }, () => {
   let passed = 0;
-  let failed = 0;
 
   for (const tc of testCases) {
     test(`[${tc.id}] ${tc.question}`, async () => {

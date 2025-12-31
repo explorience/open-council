@@ -30,7 +30,30 @@ const TOP_K_MEDIUM = 30;      // Multiple meetings, specific topic
 const TOP_K_COMPLEX = 80;     // Multi-year, broad policy tracking
 const TOP_K_COMPREHENSIVE = 150; // Comprehensive historical analysis
 
-export type LLMProvider = 'openai' | 'anthropic';
+export type LLMProvider = 'openai' | 'anthropic' | 'openrouter';
+
+// OpenRouter model options - cheaper alternatives to Claude Sonnet
+// See: https://openrouter.ai/models
+export const OPENROUTER_MODELS = {
+  // Claude alternatives (Anthropic via OpenRouter)
+  'claude-3-haiku': 'anthropic/claude-3-haiku',
+  'claude-3.5-haiku': 'anthropic/claude-3.5-haiku',
+
+  // Google models
+  'gemini-flash': 'google/gemini-flash-1.5',
+  'gemini-pro': 'google/gemini-pro-1.5',
+
+  // OpenAI alternatives
+  'gpt-4o-mini': 'openai/gpt-4o-mini',
+
+  // Open source models (cheapest)
+  'llama-3.1-70b': 'meta-llama/llama-3.1-70b-instruct',
+  'llama-3.3-70b': 'meta-llama/llama-3.3-70b-instruct',
+  'mistral-large': 'mistralai/mistral-large',
+  'qwen-72b': 'qwen/qwen-2.5-72b-instruct',
+} as const;
+
+export type OpenRouterModel = keyof typeof OPENROUTER_MODELS;
 
 /**
  * Structured query analysis result
@@ -73,8 +96,10 @@ interface QueryAnalysis {
 export class RAGService {
   private openai: OpenAI;
   private anthropic: Anthropic | null = null;
+  private openrouter: OpenAI | null = null;  // OpenRouter uses OpenAI-compatible API
   private vectorStore: VectorStore;
   private provider: LLMProvider;
+  private openrouterModel: OpenRouterModel = 'claude-3.5-haiku';  // Default model
   private voteLookupInitialized = false;
   private councillorStatsInitialized = false;
 
@@ -82,11 +107,22 @@ export class RAGService {
     openaiKey: string,
     anthropicKey: string | undefined,
     vectorStore: VectorStore,
-    provider: LLMProvider = 'anthropic'
+    provider: LLMProvider = 'anthropic',
+    openrouterKey?: string,
+    openrouterModel?: OpenRouterModel
   ) {
     this.openai = new OpenAI({ apiKey: openaiKey });
     if (anthropicKey) {
       this.anthropic = new Anthropic({ apiKey: anthropicKey });
+    }
+    if (openrouterKey) {
+      this.openrouter = new OpenAI({
+        apiKey: openrouterKey,
+        baseURL: 'https://openrouter.ai/api/v1',
+      });
+    }
+    if (openrouterModel) {
+      this.openrouterModel = openrouterModel;
     }
     this.vectorStore = vectorStore;
     this.provider = provider;
@@ -2022,6 +2058,89 @@ ${result.text}
   }
 
   /**
+   * Chat with streaming using OpenRouter
+   * OpenRouter provides a unified API to access multiple LLM providers at lower cost
+   */
+  async *chatStreamOpenRouter(
+    message: string,
+    history: ChatMessage[] = [],
+    metadataCollector?: ChatMetadataCollector
+  ): AsyncGenerator<string, void, unknown> {
+    if (!this.openrouter) {
+      throw new Error('OpenRouter API key not configured');
+    }
+
+    // Retrieve relevant context
+    const results = await this.retrieveContext(message);
+    const context = this.buildContextString(results);
+    const systemPrompt = getSystemPrompt(context);
+
+    const modelId = OPENROUTER_MODELS[this.openrouterModel];
+
+    // Populate metadata for logging
+    if (metadataCollector) {
+      const analysis = this.analyzeQuery(message);
+      metadataCollector.topK = analysis.topK;
+      metadataCollector.contextChunksUsed = results.length;
+      metadataCollector.llmProvider = 'openrouter';
+      metadataCollector.model = modelId;
+      metadataCollector.sources = this.extractSources(results);
+      const detectedTopics = detectTopicsInQuery(message);
+      metadataCollector.detectedTopics = detectedTopics.map(t => t.name);
+    }
+
+    // Build messages array
+    const messages: OpenAI.Chat.ChatCompletionMessageParam[] = [
+      { role: 'system', content: systemPrompt },
+      ...history.map(msg => ({
+        role: msg.role as 'user' | 'assistant',
+        content: msg.content,
+      })),
+      { role: 'user', content: message },
+    ];
+
+    console.log(`📤 OpenRouter request: model=${modelId}, messages=${messages.length}`);
+
+    try {
+      const stream = await this.openrouter.chat.completions.create({
+        model: modelId,
+        messages,
+        max_tokens: 4000,
+        temperature: 0.4,
+        stream: true,
+      });
+
+      for await (const chunk of stream) {
+        const content = chunk.choices[0]?.delta?.content;
+        if (content) {
+          yield content;
+        }
+      }
+    } catch (error) {
+      const err = error as { message?: string; status?: number; code?: string };
+      console.error('OpenRouter API error:', err?.message);
+      console.error('   Status:', err?.status);
+      console.error('   Code:', err?.code);
+      throw error;
+    }
+  }
+
+  /**
+   * Set the OpenRouter model to use
+   */
+  setOpenRouterModel(model: OpenRouterModel): void {
+    this.openrouterModel = model;
+    console.log(`🔄 OpenRouter model set to: ${model} (${OPENROUTER_MODELS[model]})`);
+  }
+
+  /**
+   * Get the current OpenRouter model
+   */
+  getOpenRouterModel(): OpenRouterModel {
+    return this.openrouterModel;
+  }
+
+  /**
    * Main chat method that uses configured provider
    */
   async *chat(
@@ -2031,6 +2150,8 @@ ${result.text}
   ): AsyncGenerator<string, void, unknown> {
     if (this.provider === 'openai') {
       yield* this.chatStreamOpenAI(message, history, metadataCollector);
+    } else if (this.provider === 'openrouter') {
+      yield* this.chatStreamOpenRouter(message, history, metadataCollector);
     } else {
       yield* this.chatStreamAnthropic(message, history, metadataCollector);
     }

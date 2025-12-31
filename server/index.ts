@@ -5,7 +5,7 @@ import cors from 'cors';
 import { config } from 'dotenv';
 import { resolve } from 'path';
 import { VectorStore } from './vector-store.js';
-import { RAGService, ChatMetadataCollector } from './rag-service.js';
+import { RAGService, ChatMetadataCollector, OPENROUTER_MODELS, type OpenRouterModel, type LLMProvider } from './rag-service.js';
 import { logChatInteraction, generateSessionId, topKToComplexity, ChatLogEntry } from './chat-logger.js';
 import { EmbeddingGenerator } from './embeddings.js';
 import { logQuery, getCombinedTrending } from './analytics.js';
@@ -36,10 +36,22 @@ async function initializeServices() {
   }
 
   const anthropicKey = process.env.ANTHROPIC_API_KEY;
-  const llmProvider = (process.env.LLM_PROVIDER || 'anthropic') as 'openai' | 'anthropic';
+  const openrouterKey = process.env.OPENROUTER_API_KEY;
+  const openrouterModel = process.env.OPENROUTER_MODEL as OpenRouterModel | undefined;
+  const llmProvider = (process.env.LLM_PROVIDER || 'anthropic') as LLMProvider;
 
+  // Validate provider configuration
   if (llmProvider === 'anthropic' && !anthropicKey) {
     console.warn('ANTHROPIC_API_KEY not set, falling back to OpenAI');
+  }
+
+  if (llmProvider === 'openrouter') {
+    if (!openrouterKey) {
+      throw new Error('OPENROUTER_API_KEY required when LLM_PROVIDER=openrouter');
+    }
+    if (openrouterModel && !(openrouterModel in OPENROUTER_MODELS)) {
+      console.warn(`Unknown OPENROUTER_MODEL: ${openrouterModel}, using default`);
+    }
   }
 
   // Initialize vector store
@@ -47,10 +59,20 @@ async function initializeServices() {
   await vectorStore.initialize();
 
   // Initialize RAG service
-  ragService = new RAGService(openaiKey, anthropicKey, vectorStore, llmProvider);
+  ragService = new RAGService(
+    openaiKey,
+    anthropicKey,
+    vectorStore,
+    llmProvider,
+    openrouterKey,
+    openrouterModel
+  );
 
   console.log('Services initialized successfully');
   console.log('LLM Provider:', llmProvider);
+  if (llmProvider === 'openrouter') {
+    console.log('OpenRouter Model:', openrouterModel || 'claude-3.5-haiku (default)');
+  }
 }
 
 // Health check endpoint

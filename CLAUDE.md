@@ -68,8 +68,12 @@ eScribe Website → Python Scraper → JSON + Markdown
 ```
 OPENAI_API_KEY=sk-...           # Required for embeddings
 ANTHROPIC_API_KEY=sk-ant-...    # Recommended for chat
-LLM_PROVIDER=anthropic          # or "openai"
+LLM_PROVIDER=anthropic          # "anthropic", "openai", or "openrouter"
 PORT=3001                       # Chat API port
+
+# Optional: OpenRouter for cheaper models
+OPENROUTER_API_KEY=sk-or-...    # Required if LLM_PROVIDER=openrouter
+OPENROUTER_MODEL=claude-3.5-haiku  # Options: claude-3-haiku, claude-3.5-haiku, gemini-flash, gemini-pro, gpt-4o-mini, llama-3.1-70b, llama-3.3-70b, mistral-large, qwen-72b
 ```
 
 ## Key Patterns
