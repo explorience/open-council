@@ -14,7 +14,7 @@ const defaultOptions: ModeToggleOptions = {
 }
 
 export default ((userOpts?: Partial<ModeToggleOptions>) => {
-  const ModeToggle: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+  const ModeToggle: QuartzComponent = (_props: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
 
     return (

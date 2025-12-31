@@ -11,7 +11,6 @@ document.addEventListener("nav", () => {
   // Handle dropdown toggles
   dropdowns.forEach((dropdown) => {
     const trigger = dropdown.querySelector(".nav-dropdown-trigger") as HTMLButtonElement
-    const menu = dropdown.querySelector(".nav-dropdown-menu") as HTMLElement
 
     trigger?.addEventListener("click", (e) => {
       e.stopPropagation()

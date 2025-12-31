@@ -297,7 +297,7 @@ function groupByYear(meetings: Meeting[]): Map<number, YearData> {
   }
 
   // Calculate committee breakdown for each year
-  for (const [year, data] of years) {
+  for (const [_year, data] of years) {
     const breakdown = new Map<string, number>()
     for (const meeting of data.meetings) {
       breakdown.set(meeting.committee, (breakdown.get(meeting.committee) || 0) + 1)

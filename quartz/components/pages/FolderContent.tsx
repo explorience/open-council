@@ -4,7 +4,6 @@ import style from "../styles/listPage.scss"
 import { PageList, SortFn } from "../PageList"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
-import { i18n } from "../../i18n"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
@@ -28,7 +27,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
-    const { tree, fileData, allFiles, cfg } = props
+    const { tree, fileData, allFiles } = props
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))

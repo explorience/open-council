@@ -16,7 +16,7 @@ const defaultOptions: FullPageChatOptions = {
 }
 
 export default ((userOpts?: Partial<FullPageChatOptions>) => {
-  const FullPageChat: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+  const FullPageChat: QuartzComponent = (_props: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
 
     return (

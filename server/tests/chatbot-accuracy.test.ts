@@ -18,7 +18,7 @@
  * the vector store to be populated with embeddings.
  */
 
-import test, { describe, before, after } from 'node:test';
+import test, { describe } from 'node:test';
 import assert from 'node:assert';
 
 // =============================================================================
@@ -600,8 +600,10 @@ function evaluateTestCase(testCase: TestCase, response: string): TestResult {
 /**
  * Generate a mock response for testing purposes
  * In production, this would call the actual chatbot API
+ * @internal Reserved for future use
  */
-function generateMockResponse(question: string): string {
+// @ts-expect-error Reserved for future use
+function _generateMockResponse(question: string): string {
   // This is a placeholder that returns a generic response
   // In actual testing, replace this with HTTP calls to the chatbot API
   return `This is a mock response for: "${question}".

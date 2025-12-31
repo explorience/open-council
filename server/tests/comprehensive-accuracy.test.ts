@@ -905,8 +905,9 @@ const testCases: AccuracyTestCase[] = [
 // =============================================================================
 
 describe('Comprehensive Accuracy Test Suite (100 tests)', { timeout: 600000 }, () => {
-  // Stats
-  const stats = {
+  // Stats - reserved for future aggregate reporting
+  // @ts-expect-error Reserved for future aggregate reporting
+  const _stats = {
     easy: { pass: 0, fail: 0 },
     medium: { pass: 0, fail: 0 },
     hard: { pass: 0, fail: 0 },

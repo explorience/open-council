@@ -147,8 +147,10 @@ function normalizeForMatch(text: string): string {
 
 /**
  * Check if text contains all keywords
+ * @internal Reserved for future use
  */
-function containsAllKeywords(text: string, keywords: string[]): boolean {
+// @ts-expect-error Reserved for future use
+function _containsAllKeywords(text: string, keywords: string[]): boolean {
   const normalized = normalizeForMatch(text);
   return keywords.every(kw => normalized.includes(normalizeForMatch(kw)));
 }

@@ -49,6 +49,7 @@ async function renderMatrix() {
   }
 
   function render() {
+    if (!container) return
     container.innerHTML = ""
 
     const showCurrent = filterSelect?.value === "current"
@@ -72,8 +73,8 @@ async function renderMatrix() {
     }
 
     const n = councillors.length
-    if (n === 0) {
-      container.innerHTML = "<p>No councillor data available</p>"
+    if (n === 0 || !container) {
+      if (container) container.innerHTML = "<p>No councillor data available</p>"
       return
     }
 
@@ -124,17 +125,19 @@ async function renderMatrix() {
               .attr("class", "matrix-cell")
               .on("mouseover", function (event) {
                 d3.select(this).attr("stroke", "#000").attr("stroke-width", 2)
-                tooltip.style.display = "block"
-                tooltip.style.left = event.pageX + 10 + "px"
-                tooltip.style.top = event.pageY + 10 + "px"
-                tooltip.innerHTML = `
-                  <strong>${row.name}</strong> & <strong>${col.name}</strong><br>
-                  Alignment: <strong>${alignment.toFixed(1)}%</strong>
-                `
+                if (tooltip) {
+                  tooltip.style.display = "block"
+                  tooltip.style.left = event.pageX + 10 + "px"
+                  tooltip.style.top = event.pageY + 10 + "px"
+                  tooltip.innerHTML = `
+                    <strong>${row.name}</strong> & <strong>${col.name}</strong><br>
+                    Alignment: <strong>${alignment.toFixed(1)}%</strong>
+                  `
+                }
               })
               .on("mouseout", function () {
                 d3.select(this).attr("stroke", "none")
-                tooltip.style.display = "none"
+                if (tooltip) tooltip.style.display = "none"
               })
           }
         }
@@ -149,7 +152,7 @@ async function renderMatrix() {
       .append("text")
       .attr("class", "row-label")
       .attr("x", -5)
-      .attr("y", (d, i) => i * cellSize + cellSize / 2)
+      .attr("y", (_d, i) => i * cellSize + cellSize / 2)
       .attr("text-anchor", "end")
       .attr("dominant-baseline", "middle")
       .attr("font-size", Math.min(11, cellSize - 4))
@@ -162,12 +165,12 @@ async function renderMatrix() {
       .enter()
       .append("text")
       .attr("class", "col-label")
-      .attr("x", (d, i) => i * cellSize + cellSize / 2)
+      .attr("x", (_d, i) => i * cellSize + cellSize / 2)
       .attr("y", -5)
       .attr("text-anchor", "start")
       .attr("dominant-baseline", "middle")
       .attr("font-size", Math.min(11, cellSize - 4))
-      .attr("transform", (d, i) => `rotate(-45, ${i * cellSize + cellSize / 2}, -5)`)
+      .attr("transform", (_d, i) => `rotate(-45, ${i * cellSize + cellSize / 2}, -5)`)
       .text((d) => d.name.split(" ").pop() || d.name) // Last name only
   }
 

@@ -30,7 +30,7 @@
  * the vector store to be populated with embeddings.
  */
 
-import test, { describe, before, after } from 'node:test';
+import test, { describe, before } from 'node:test';
 import assert from 'node:assert';
 
 // =============================================================================

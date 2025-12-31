@@ -15,7 +15,7 @@ import type { ChatRequest } from './types.js';
 config();
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = parseInt(process.env.PORT || '3001', 10);
 
 // Middleware
 app.use(cors());
@@ -54,12 +54,12 @@ async function initializeServices() {
 }
 
 // Health check endpoint
-app.get('/health', (req, res) => {
+app.get('/health', (_req, res) => {
   res.json({ status: 'ok' });
 });
 
 // Get vector store stats
-app.get('/api/stats', async (req, res) => {
+app.get('/api/stats', async (_req, res) => {
   try {
     const stats = await vectorStore.getStats();
     res.json({
@@ -91,7 +91,7 @@ app.post('/api/context', async (req, res) => {
 });
 
 // Get trending topics based on query analytics
-app.get('/api/trending', (req, res) => {
+app.get('/api/trending', (_req, res) => {
   try {
     const trending = getCombinedTrending();
     res.json({

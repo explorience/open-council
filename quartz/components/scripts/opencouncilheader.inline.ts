@@ -1,8 +1,10 @@
-const hide = e => {
+const hide = (e: Element | null) => {
+  if (!e) return
   e.classList.add("hidden")
   e.classList.remove("shown")
 }
-const show = e => {
+const show = (e: Element | null) => {
+  if (!e) return
   e.classList.add("shown")
   e.classList.remove("hidden")
 }

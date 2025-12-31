@@ -28,12 +28,13 @@ const explorer = Component.Explorer({
   mapFn: (node) => {
     if (node.isFolder) return
     // Only process meeting files in months/YYYY-MM folders
-    if (node.slugSegments[0] !== "months") return
-    const monthFolder = node.slugSegments[1]
+    const slugParts = node.slug.split("/")
+    if (slugParts[0] !== "months") return
+    const monthFolder = slugParts[1]
     if (!monthFolder || !/^\d{4}-\d{2}$/.test(monthFolder)) return
-    if (!node.slugSegments[2] || node.slugSegments[2].length < 10) return
+    if (!slugParts[2] || slugParts[2].length < 10) return
 
-    const dateStr = node.slugSegments[2].slice(0, "YYYY-MM-DD".length)
+    const dateStr = slugParts[2].slice(0, "YYYY-MM-DD".length)
     const fmtOptions = {
       year: "numeric" as const,
       month: "short" as const,
@@ -51,7 +52,7 @@ const searchAndExplorer = Component.Flex({
     {
       Component: Component.Flex({
         components: [
-          { Component: Component.Search({ grow: true }) },
+          { Component: Component.Search() },
           { Component: Component.Darkmode() },
         ],
       })

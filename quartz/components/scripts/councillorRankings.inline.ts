@@ -88,6 +88,7 @@ async function renderRankings() {
     councillors = councillors.slice(0, 15)
 
     // Clear container
+    if (!container) return
     container.innerHTML = ""
 
     if (councillors.length === 0) {

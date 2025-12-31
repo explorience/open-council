@@ -6,7 +6,7 @@ import { VectorStore } from './vector-store.js';
 import { getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult, ChatSource } from './types.js';
 import { getAllCouncillors } from '../lib/councillors/index.js';
-import { voteLookupService, type VoteLookupResult, type MotionVotesResult, type CloseVoteResult } from './vote-lookup.js';
+import { voteLookupService } from './vote-lookup.js';
 import { detectTopicsInQuery } from '../lib/topics/index.js';
 
 /**
@@ -1081,8 +1081,6 @@ export class RAGService {
    * - "What was the vote count on X?"
    */
   private detectVoteCountQuery(query: string): { isVoteCount: boolean; motionKeywords?: string[] } {
-    const lowerQuery = query.toLowerCase();
-
     // Patterns for vote count queries
     const countPatterns = [
       /how many (?:councillors? )?voted (for|against|yes|no|yea|nay) (?:the )?(.+)/i,

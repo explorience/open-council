@@ -84,7 +84,7 @@ export interface EmbeddingChunk {
     meeting_url: string | null;
     item_number?: string;
     item_title?: string;
-    chunk_type: 'motion' | 'content' | 'bill' | 'attendance' | 'transcript';
+    chunk_type: 'motion' | 'content' | 'bill' | 'attendance' | 'transcript' | 'news_coverage';
     file_path: string;
     transcript_chunk_index?: number;  // Index of this chunk within the transcript
     has_official_minutes?: boolean;  // false = transcript-only, no vote records

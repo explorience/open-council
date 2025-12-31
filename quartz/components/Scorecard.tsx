@@ -1,18 +1,8 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/scorecard.scss"
 
-interface ScorecardOptions {
-  showAlignment: boolean
-}
-
-const defaultOptions: ScorecardOptions = {
-  showAlignment: true,
-}
-
-export default ((userOpts?: Partial<ScorecardOptions>) => {
+export default (() => {
   const Scorecard: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-    const opts = { ...defaultOptions, ...userOpts }
-
     // Only render on councillor pages with stats
     const pageType = fileData.frontmatter?.type as string | undefined
     const attendanceRate = fileData.frontmatter?.attendanceRate as number | undefined

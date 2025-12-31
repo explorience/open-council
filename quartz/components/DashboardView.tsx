@@ -59,7 +59,6 @@ const defaultOptions: DashboardViewOptions = {
 
 export default ((userOpts?: Partial<DashboardViewOptions>) => {
   const DashboardView: QuartzComponent = ({
-    displayClass,
     allFiles,
     fileData,
     cfg,

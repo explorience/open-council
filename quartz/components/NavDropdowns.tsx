@@ -47,7 +47,7 @@ const defaultOptions: NavDropdownsOptions = {
 }
 
 export default ((userOpts?: Partial<NavDropdownsOptions>) => {
-  const NavDropdowns: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+  const NavDropdowns: QuartzComponent = (_props: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
 
     return (

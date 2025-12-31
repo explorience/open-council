@@ -20,7 +20,7 @@ const defaultOptions: PrefillQuestionsOptions = {
 }
 
 export default ((userOpts?: Partial<PrefillQuestionsOptions>) => {
-  const PrefillQuestions: QuartzComponent = ({ displayClass, fileData }: QuartzComponentProps) => {
+  const PrefillQuestions: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
 
     // Check if there are contextual questions from frontmatter

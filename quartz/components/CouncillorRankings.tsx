@@ -3,18 +3,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import script from "./scripts/councillorRankings.inline"
 import style from "./styles/councillorRankings.scss"
 
-interface CouncillorRankingsOptions {
-  title: string
-}
-
-const defaultOptions: CouncillorRankingsOptions = {
-  title: "Councillor Rankings",
-}
-
-export default ((userOpts?: Partial<CouncillorRankingsOptions>) => {
+export default (() => {
   const CouncillorRankings: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-    const opts = { ...defaultOptions, ...userOpts }
-
     // Only render on councillor-index pages
     const pageType = fileData.frontmatter?.type as string | undefined
     if (pageType !== "councillor-index") {

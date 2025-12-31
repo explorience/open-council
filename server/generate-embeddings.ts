@@ -6,6 +6,7 @@ import { config } from 'dotenv';
 import { resolve } from 'path';
 import { EmbeddingGenerator } from './embeddings.js';
 import { VectorStore } from './vector-store.js';
+import type { EmbeddingChunk } from './types.js';
 
 // Load environment variables
 config();
@@ -74,7 +75,7 @@ async function main() {
         console.log(`Found ${existingIds.size} existing embeddings in database`);
 
         // Buffer chunks and save every 10 batches to preserve progress if interrupted
-        let pendingChunks: typeof chunks = [];
+        let pendingChunks: EmbeddingChunk[] = [];
         let batchCount = 0;
         let savedCount = 0;
 

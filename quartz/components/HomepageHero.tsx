@@ -18,7 +18,7 @@ const defaultOptions: HomepageHeroOptions = {
 }
 
 export default ((userOpts?: Partial<HomepageHeroOptions>) => {
-  const HomepageHero: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+  const HomepageHero: QuartzComponent = (_props: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
 
     return (

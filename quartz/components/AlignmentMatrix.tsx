@@ -3,18 +3,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import script from "./scripts/alignmentMatrix.inline"
 import style from "./styles/alignmentMatrix.scss"
 
-interface AlignmentMatrixOptions {
-  title: string
-}
-
-const defaultOptions: AlignmentMatrixOptions = {
-  title: "Voting Alignment Matrix",
-}
-
-export default ((userOpts?: Partial<AlignmentMatrixOptions>) => {
+export default (() => {
   const AlignmentMatrix: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-    const opts = { ...defaultOptions, ...userOpts }
-
     // Only render on the alignment page
     const pageType = fileData.frontmatter?.type as string | undefined
     if (pageType !== "alignment-matrix") {

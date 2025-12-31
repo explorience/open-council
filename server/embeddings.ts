@@ -182,7 +182,7 @@ export class EmbeddingGenerator {
     }
 
     // Transcript chunks (if available)
-    if (meeting.transcript && (typeof meeting.transcript === 'string' ? meeting.transcript.length > 0 : meeting.transcript.length > 0)) {
+    if (meeting.transcript && meeting.transcript.length > 0) {
       const transcriptChunks = this.createTranscriptChunks(meeting.transcript, baseMetadata, filePath);
       chunks.push(...transcriptChunks);
     }

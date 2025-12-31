@@ -62,7 +62,7 @@ export default ((userOpts?: Partial<ChatBotOptions>) => {
             <textarea
               class="chatbot-input"
               placeholder={opts.placeholder}
-              rows="1"
+              rows={1}
               aria-label="Chat input"
             ></textarea>
             <button class="chatbot-send" aria-label="Send message">

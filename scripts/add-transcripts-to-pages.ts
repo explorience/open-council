@@ -10,10 +10,15 @@
 import fs from 'fs/promises'
 import path from 'path'
 
+interface TranscriptSegment {
+  text: string
+  end?: string
+}
+
 interface Meeting {
   title: string
   datetime: string
-  transcript?: string  // Consolidated full transcript text
+  transcript?: string | TranscriptSegment[]  // Consolidated full transcript text or legacy array format
   transcript_duration?: string  // Pre-computed duration, e.g., "1 hour, 43 minutes"
   transcript_source?: string
   transcript_source_url?: string
@@ -54,7 +59,7 @@ function generateTranscriptMarkdown(
   transcript: string,
   duration?: string,
   source?: string,
-  sourceUrl?: string
+  _sourceUrl?: string
 ): string {
   const durationText = duration || 'full recording'
 
@@ -158,10 +163,10 @@ async function main() {
         transcriptText = transcript
       } else if (Array.isArray(transcript)) {
         // Legacy format: array of segments - join them
-        transcriptText = (transcript as any[]).map((s: any) => s.text).join(' ')
+        transcriptText = transcript.map((s) => s.text).join(' ')
         // Calculate duration from last segment if not provided
         if (!duration && transcript.length > 0) {
-          const lastSeg = (transcript as any[])[transcript.length - 1]
+          const lastSeg = transcript[transcript.length - 1]
           if (lastSeg.end) {
             const parts = lastSeg.end.replace(',', '.').split(':')
             const hours = parseInt(parts[0], 10)
