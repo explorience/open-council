@@ -852,11 +852,11 @@ describe('Chatbot Accuracy Test Suite', () => {
 // Integration Test Placeholder
 // =============================================================================
 
-describe('Integration Tests (requires running server)', { skip: true }, () => {
+describe('Integration Tests (production API)', () => {
   // These tests would call the actual chatbot API
   // Skip by default since they require a running server
 
-  const CHATBOT_API_URL = 'http://localhost:3001/api/chat';
+  const CHATBOT_API_URL = process.env.CHATBOT_URL || 'https://open-council-production.up.railway.app/api/chat';
 
   async function askChatbot(question: string): Promise<string> {
     // This would make an actual HTTP request to the chatbot

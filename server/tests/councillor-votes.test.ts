@@ -392,7 +392,7 @@ const testCases: CouncillorVoteTestCase[] = [
 // Test Configuration
 // =============================================================================
 
-const CHATBOT_URL = process.env.CHATBOT_URL || 'http://localhost:5000/api/chat';
+const CHATBOT_URL = process.env.CHATBOT_URL || 'https://open-council-production.up.railway.app/api/chat';
 const TEST_TIMEOUT = 30000; // 30 seconds per test
 
 // =============================================================================
@@ -412,8 +412,29 @@ async function queryChat(question: string): Promise<string> {
     throw new Error(`Chat request failed: ${response.status} ${response.statusText}`);
   }
 
-  const data = await response.json();
-  return data.response || data.message || '';
+  // Handle SSE streaming response
+  const text = await response.text();
+  let fullContent = '';
+
+  for (const line of text.split('\n')) {
+    if (line.startsWith('data: ')) {
+      try {
+        const data = JSON.parse(line.slice(6));
+        if (data.content) {
+          fullContent += data.content;
+        }
+        if (data.error) {
+          throw new Error(data.error);
+        }
+      } catch (e) {
+        // Skip lines that aren't valid JSON
+        if (e instanceof SyntaxError) continue;
+        throw e;
+      }
+    }
+  }
+
+  return fullContent;
 }
 
 function checkExpectedContent(response: string, expectedContent: string[]): boolean {
