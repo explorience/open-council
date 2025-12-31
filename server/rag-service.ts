@@ -1956,12 +1956,20 @@ ${result.text}
       { role: 'user', content: message },
     ];
 
-    // Stream response
+    // Stream response with prompt caching enabled
+    // Cache the system prompt to reduce costs by ~90% on repeated queries
+    // See: https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching
     const stream = await this.anthropic.messages.create({
       model: 'claude-sonnet-4-5-20250929',
       max_tokens: 4000,
       temperature: 0.4,  // Lower for more focused, consistent responses
-      system: systemPrompt,
+      system: [
+        {
+          type: 'text',
+          text: systemPrompt,
+          cache_control: { type: 'ephemeral' }
+        }
+      ],
       messages,
       stream: true,
     });
@@ -1969,6 +1977,27 @@ ${result.text}
     for await (const event of stream) {
       if (event.type === 'content_block_delta' && event.delta.type === 'text_delta') {
         yield event.delta.text;
+      }
+      // Log cache statistics from final message event
+      if (event.type === 'message_delta' && event.usage) {
+        const usage = event.usage as { output_tokens: number };
+        console.log(`📊 Anthropic usage: output_tokens=${usage.output_tokens}`);
+      }
+      if (event.type === 'message_start' && event.message?.usage) {
+        const usage = event.message.usage as {
+          input_tokens: number;
+          cache_creation_input_tokens?: number;
+          cache_read_input_tokens?: number;
+        };
+        const cacheCreated = usage.cache_creation_input_tokens || 0;
+        const cacheRead = usage.cache_read_input_tokens || 0;
+        const regularInput = usage.input_tokens - cacheCreated - cacheRead;
+        console.log(`📊 Anthropic usage: input_tokens=${usage.input_tokens} (regular=${regularInput}, cache_created=${cacheCreated}, cache_read=${cacheRead})`);
+        if (cacheRead > 0) {
+          console.log(`   ✅ CACHE HIT: ${cacheRead} tokens read from cache (90% cost savings on these tokens)`);
+        } else if (cacheCreated > 0) {
+          console.log(`   📝 CACHE MISS: ${cacheCreated} tokens written to cache (will be cached for 5 min)`);
+        }
       }
     }
   }
