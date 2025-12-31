@@ -7,6 +7,7 @@ import { getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult, ChatSource } from './types.js';
 import { getAllCouncillors } from '../lib/councillors/index.js';
 import { voteLookupService } from './vote-lookup.js';
+import { councillorStatsLookupService } from './councillor-stats-lookup.js';
 import { detectTopicsInQuery } from '../lib/topics/index.js';
 
 /**
@@ -60,6 +61,11 @@ interface QueryAnalysis {
   isCloseVoteQuery: boolean;         // "What close votes happened on..."
   closeVoteDate?: string;            // Date in YYYY-MM-DD format
 
+  // Alignment/pattern query
+  isAlignmentQuery: boolean;         // "Who votes with the Mayor?"
+  alignmentQueryType?: 'mayor-allies' | 'mayor-opposition' | 'lone-dissenter' | 'swing-voters' | 'councillor-profile' | 'voting-bloc';
+  alignmentCouncillorSlug?: string;  // For councillor-specific alignment queries
+
   // Complexity
   topK: number;
 }
@@ -70,6 +76,7 @@ export class RAGService {
   private vectorStore: VectorStore;
   private provider: LLMProvider;
   private voteLookupInitialized = false;
+  private councillorStatsInitialized = false;
 
   constructor(
     openaiKey: string,
@@ -84,19 +91,26 @@ export class RAGService {
     this.vectorStore = vectorStore;
     this.provider = provider;
 
-    // Initialize vote lookup service asynchronously
-    this.initializeVoteLookup();
+    // Initialize vote lookup and councillor stats services asynchronously
+    this.initializeServices();
   }
 
   /**
-   * Initialize the vote lookup service for structured vote data access
+   * Initialize the vote lookup and councillor stats services for structured data access
    */
-  private async initializeVoteLookup(): Promise<void> {
+  private async initializeServices(): Promise<void> {
     try {
       await voteLookupService.initialize();
       this.voteLookupInitialized = true;
     } catch (error) {
       console.error('Failed to initialize vote lookup service:', error);
+    }
+
+    try {
+      await councillorStatsLookupService.initialize();
+      this.councillorStatsInitialized = true;
+    } catch (error) {
+      console.error('Failed to initialize councillor stats service:', error);
     }
   }
 
@@ -295,6 +309,9 @@ export class RAGService {
     // 9. Check for close vote query ("close votes on X date")
     const closeVote = this.detectCloseVoteQuery(query);
 
+    // 10. Check for alignment/pattern query ("who votes with the Mayor?")
+    const alignment = this.detectAlignmentQuery(query);
+
     const analysis: QueryAnalysis = {
       isMostRecent,
       specificMonth: specificMonth || undefined,
@@ -308,6 +325,9 @@ export class RAGService {
       isVoteCountQuery: voteCount.isVoteCount,
       isCloseVoteQuery: closeVote.isCloseVote,
       closeVoteDate: closeVote.date,
+      isAlignmentQuery: alignment.isAlignmentQuery,
+      alignmentQueryType: alignment.alignmentQueryType,
+      alignmentCouncillorSlug: alignment.alignmentCouncillorSlug,
       topK,
     };
 
@@ -319,6 +339,7 @@ export class RAGService {
     if (specificMonth) detected.push(`month:${specificMonth.month + 1}/${specificMonth.year}`);
     if (yearFilter) detected.push(`year:${yearFilter}`);
     if (meetingTypeFilter) detected.push(`type:${meetingTypeFilter}`);
+    if (alignment.isAlignmentQuery) detected.push(`alignment:${alignment.alignmentQueryType || 'general'}`);
 
     if (detected.length > 0) {
       console.log(`🔎 Query analysis: ${detected.join(', ')}`);
@@ -1174,13 +1195,148 @@ export class RAGService {
   }
 
   /**
+   * Detect if this is an alignment/pattern query
+   *
+   * Patterns matched:
+   * - "Who votes with the Mayor?"
+   * - "Who tends to be the lone dissenter?"
+   * - "Is Hillier supportive of the Mayor?"
+   * - "Who are the swing voters?"
+   * - "Which councillors form the core of the majority?"
+   */
+  private detectAlignmentQuery(query: string): {
+    isAlignmentQuery: boolean;
+    alignmentQueryType?: 'mayor-allies' | 'mayor-opposition' | 'lone-dissenter' | 'swing-voters' | 'councillor-profile' | 'voting-bloc';
+    alignmentCouncillorSlug?: string;
+  } {
+    const lowerQuery = query.toLowerCase();
+
+    // Mayor allies patterns
+    const mayorAlliesPatterns = [
+      /who (usually |typically |often |generally )?(votes?|aligns?) with (the )?mayor/i,
+      /who (supports?|backs?|follows?) (the )?mayor/i,
+      /mayor'?s? (allies|supporters|voting bloc)/i,
+      /councillors? (that|who) (vote|align) with (the )?mayor/i,
+      /votes? (most )?often with (the )?mayor/i,
+    ];
+
+    for (const pattern of mayorAlliesPatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`🤝 Detected alignment query: mayor-allies`);
+        return { isAlignmentQuery: true, alignmentQueryType: 'mayor-allies' };
+      }
+    }
+
+    // Mayor opposition patterns
+    const mayorOppositionPatterns = [
+      /who (usually |typically |often |generally )?(votes?|disagrees?) against (the )?mayor/i,
+      /who (opposes?|challenges?) (the )?mayor/i,
+      /mayor'?s? (opposition|opponents|critics)/i,
+      /councillors? (that|who) (vote|disagree) (against |with )(the )?mayor/i,
+      /votes? (most )?against (the )?mayor/i,
+      /least (often )?(with|aligned with) (the )?mayor/i,
+    ];
+
+    for (const pattern of mayorOppositionPatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`🤝 Detected alignment query: mayor-opposition`);
+        return { isAlignmentQuery: true, alignmentQueryType: 'mayor-opposition' };
+      }
+    }
+
+    // Lone dissenter patterns
+    const loneDissentPatterns = [
+      /lone dissenter/i,
+      /votes? alone/i,
+      /who (tends? to |usually |often )?dissent/i,
+      /most (nay|no) votes/i,
+      /votes? against (the )?majority/i,
+      /independent (vote|voting|voice)/i,
+      /goes? against (the )?grain/i,
+      /contrarian/i,
+    ];
+
+    for (const pattern of loneDissentPatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`🤝 Detected alignment query: lone-dissenter`);
+        return { isAlignmentQuery: true, alignmentQueryType: 'lone-dissenter' };
+      }
+    }
+
+    // Swing voter patterns
+    const swingVoterPatterns = [
+      /swing (voter|councillor|vote)/i,
+      /centrist/i,
+      /moderate/i,
+      /votes? (both ways|unpredictably)/i,
+      /independent (minded|thinking)/i,
+      /(who|which councillors?) (are|is) (in )?the (middle|center|centre)/i,
+      /most variable voting/i,
+      /votes? (on |based on )?(the )?(individual )?issue/i,
+    ];
+
+    for (const pattern of swingVoterPatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`🤝 Detected alignment query: swing-voters`);
+        return { isAlignmentQuery: true, alignmentQueryType: 'swing-voters' };
+      }
+    }
+
+    // Voting bloc / majority coalition patterns
+    const votingBlocPatterns = [
+      /voting bloc/i,
+      /(core|main) (of|voting) (the )?(majority|coalition)/i,
+      /majority (bloc|coalition|group)/i,
+      /who (forms?|makes? up) (the )?(majority|coalition)/i,
+      /reliable (majority|votes?)/i,
+      /consistent (majority|coalition)/i,
+      /broken? with (his|her|their) (usual )?(bloc|group|coalition)/i,
+    ];
+
+    for (const pattern of votingBlocPatterns) {
+      if (pattern.test(lowerQuery)) {
+        console.log(`🤝 Detected alignment query: voting-bloc`);
+        return { isAlignmentQuery: true, alignmentQueryType: 'voting-bloc' };
+      }
+    }
+
+    // Councillor-specific alignment patterns (e.g., "Is Hillier supportive of the Mayor?")
+    const councillorAlignmentPatterns = [
+      /is (\w+) (supportive|aligned|close) (of|with|to) (the )?mayor/i,
+      /does (\w+) (support|back|align with|vote with) (the )?mayor/i,
+      /(\w+)'?s? (alignment|relationship) (with|to) (the )?mayor/i,
+      /how (does|did) (\w+) (typically |usually |generally )?(vote|align)/i,
+      /(\w+)'?s? voting (pattern|record|history)/i,
+      /who does (\w+) (vote|align) with/i,
+      /what predicts (how )?(\w+)'?s? vote/i,
+    ];
+
+    for (const pattern of councillorAlignmentPatterns) {
+      const match = query.match(pattern);
+      if (match) {
+        // Try to extract councillor name
+        const potentialName = match[1] || match[2];
+        if (potentialName && !['the', 'council', 'city', 'how'].includes(potentialName.toLowerCase())) {
+          const slug = this.councillorNameToSlug(potentialName);
+          if (slug) {
+            console.log(`🤝 Detected alignment query: councillor-profile for ${potentialName} (${slug})`);
+            return { isAlignmentQuery: true, alignmentQueryType: 'councillor-profile', alignmentCouncillorSlug: slug };
+          }
+        }
+      }
+    }
+
+    return { isAlignmentQuery: false };
+  }
+
+  /**
    * Retrieve relevant context from vector store
    * Uses unified query analysis to determine optimal retrieval strategy
    */
   async retrieveContext(query: string): Promise<SearchResult[]> {
     // Analyze query to extract all metadata
     const analysis = this.analyzeQuery(query);
-    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords, isCloseVoteQuery, closeVoteDate } = analysis;
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords, isCloseVoteQuery, closeVoteDate, isAlignmentQuery, alignmentQueryType, alignmentCouncillorSlug } = analysis;
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
@@ -1322,6 +1478,67 @@ export class RAGService {
       const results = await this.vectorStore.hybridSearch(
         queryEmbedding,
         `${closeVoteDate} close vote 7-8 narrow margin councillors yea nay`,
+        topK,
+        0.5
+      );
+
+      this.logUniqueMeetings(results);
+      return results;
+    }
+
+    // Strategy 3.7: Alignment/pattern query
+    // Uses pre-computed councillor alignment data for verified accuracy
+    if (isAlignmentQuery && this.councillorStatsInitialized) {
+      console.log(`🤝 Alignment query detected - using councillor stats lookup (type: ${alignmentQueryType})`);
+
+      let verifiedAlignmentContext = '';
+
+      switch (alignmentQueryType) {
+        case 'mayor-allies':
+          verifiedAlignmentContext = councillorStatsLookupService.formatMayorAlignmentForContext();
+          console.log(`   ✅ Loaded Mayor alignment data (allies and opposition)`);
+          break;
+
+        case 'mayor-opposition':
+          verifiedAlignmentContext = councillorStatsLookupService.formatMayorAlignmentForContext();
+          console.log(`   ✅ Loaded Mayor alignment data (allies and opposition)`);
+          break;
+
+        case 'lone-dissenter':
+          verifiedAlignmentContext = councillorStatsLookupService.formatLoneDissentersForContext();
+          console.log(`   ✅ Loaded lone dissenter data`);
+          break;
+
+        case 'swing-voters':
+          verifiedAlignmentContext = councillorStatsLookupService.formatSwingVotersForContext();
+          console.log(`   ✅ Loaded swing voter data`);
+          break;
+
+        case 'councillor-profile':
+          if (alignmentCouncillorSlug) {
+            verifiedAlignmentContext = councillorStatsLookupService.formatCouncillorAlignmentForContext(alignmentCouncillorSlug);
+            console.log(`   ✅ Loaded councillor profile for ${alignmentCouncillorSlug}`);
+          }
+          break;
+
+        case 'voting-bloc':
+          // For voting bloc queries, provide both Mayor alignment and swing voter data
+          verifiedAlignmentContext = councillorStatsLookupService.formatMayorAlignmentForContext() +
+            '\n' + councillorStatsLookupService.formatSwingVotersForContext();
+          console.log(`   ✅ Loaded voting bloc data (Mayor alignment + swing voters)`);
+          break;
+      }
+
+      // Store verified context for later inclusion
+      (this as any)._verifiedVoteContext = verifiedAlignmentContext;
+
+      // Also do semantic search to get additional context from meeting records
+      const normalizedQuery = this.normalizeQueryForEmbedding(query);
+      const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
+
+      const results = await this.vectorStore.hybridSearch(
+        queryEmbedding,
+        `councillor alignment vote voting pattern bloc majority ${query}`,
         topK,
         0.5
       );
