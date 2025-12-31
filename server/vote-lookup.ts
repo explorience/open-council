@@ -401,7 +401,7 @@ export class VoteLookupService {
     // Filter to close votes only
     const closeVotes: CloseVoteResult[] = [];
 
-    for (const [_, vote] of voteMap) {
+    for (const vote of voteMap.values()) {
       const margin = Math.abs(vote.yeas.length - vote.nays.length);
       const totalVotes = vote.yeas.length + vote.nays.length;
 
