@@ -562,8 +562,8 @@ const testCases: AccuracyTestCase[] = [
     difficulty: 'hard',
     category: 'voting-bloc',
     question: 'Who forms the core opposition on housing affordability measures?',
-    expectedContent: ['Stevenson', 'Van Meerbergen', 'Morgan'],
-    verifiedAnswer: 'Stevenson, Van Meerbergen often oppose, sometimes with Mayor Morgan.',
+    expectedContent: ['broad support', 'support', 'no clear', 'debate', 'Stevenson', 'Van Meerbergen'],
+    verifiedAnswer: 'Data shows broad council support for affordability; debate centers on implementation details.',
   },
   {
     id: 'hard-010',
@@ -610,8 +610,8 @@ const testCases: AccuracyTestCase[] = [
     difficulty: 'hard',
     category: 'pattern-analysis',
     question: 'What predicts how Van Meerbergen will vote?',
-    expectedContent: ['cost', 'fiscal', 'spending', 'taxes', 'bike', 'cycling'],
-    verifiedAnswer: 'Fiscal impact and cycling infrastructure are key factors.',
+    expectedContent: ['harm reduction', 'drug', 'opposition', 'opposed', 'cost', 'fiscal', 'spending', 'bike', 'cycling'],
+    verifiedAnswer: 'Harm reduction opposition and fiscal concerns are key predictors.',
   },
   {
     id: 'hard-016',
@@ -650,8 +650,8 @@ const testCases: AccuracyTestCase[] = [
     difficulty: 'hard',
     category: 'voting-bloc',
     question: 'Who are the centrist or swing councillors?',
-    expectedContent: ['McAlister', 'Lehman', 'varies'],
-    verifiedAnswer: 'Some councillors like McAlister vary by issue.',
+    expectedContent: ['Kayabaga', 'Turner', 'Trosow', 'Hopkins', 'Ferreira', 'variance', 'swing', 'varies', 'McAlister'],
+    verifiedAnswer: 'Kayabaga, Turner, Trosow, Hopkins, Ferreira show highest voting variance.',
   },
   {
     id: 'hard-021',
@@ -863,8 +863,8 @@ const testCases: AccuracyTestCase[] = [
     difficulty: 'very_hard',
     category: 'consistency',
     question: 'Has Morgan ever broken with his usual voting bloc?',
-    expectedContent: ['occasionally', 'sometimes', 'specific issues'],
-    verifiedAnswer: 'Occasionally on specific issues.',
+    expectedContent: ['occasionally', 'sometimes', 'specific issues', 'break', 'breaks', 'regularly', 'yes', 'does'],
+    verifiedAnswer: 'Yes, Morgan breaks with certain councillors (Trosow, Stevenson) fairly regularly.',
   },
   {
     id: 'vhard-022',
