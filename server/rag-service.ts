@@ -1302,8 +1302,8 @@ export class RAGService {
 
     // Councillor-specific alignment patterns (e.g., "Is Hillier supportive of the Mayor?")
     const councillorAlignmentPatterns = [
-      /is (\w+) (supportive|aligned|close) (of|with|to) (the )?mayor/i,
-      /does (\w+) (support|back|align with|vote with) (the )?mayor/i,
+      /is (\w+) (generally |usually |typically )?(supportive|aligned|close) (of|with|to) (the )?mayor/i,
+      /does (\w+) (generally |usually |typically )?(support|back|align with|vote with) (the )?mayor/i,
       /(\w+)'?s? (alignment|relationship) (with|to) (the )?mayor/i,
       /how (does|did) (\w+) (typically |usually |generally )?(vote|align)/i,
       /(\w+)'?s? voting (pattern|record|history)/i,
