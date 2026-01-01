@@ -1128,8 +1128,8 @@ export class RAGService {
       { pattern: /warming cent(er|re)/i, keywords: ['warming', 'centre', 'framework'] },
       { pattern: /bike.*parking|bicycle.*parking/i, keywords: ['bike', 'parking', 'implementation'] },
       { pattern: /e-?scooter|kick scooter/i, keywords: ['scooter', 'electric', 'kick', 'pilot'] },
-      // PA Day motion - match various phrasings
-      { pattern: /pa day.*(motion|vote|pass|margin)|election.*pa day/i, keywords: ['professional', 'activity', 'day', 'pa', 'day', 'election', 'voting', 'october'] },
+      // PA Day motion - match various phrasings (2026 Municipal Election PA Day on Voting Day)
+      { pattern: /pa day.*(motion|vote|pass|margin)|election.*pa day/i, keywords: ['professional', 'activity', 'day', 'pa', 'day', 'election', 'voting', 'october', '2026', 'municipal'] },
     ];
 
     for (const { pattern, keywords } of knownMotions) {
