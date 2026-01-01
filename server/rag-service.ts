@@ -1400,6 +1400,24 @@ export class RAGService {
     if (specificMonth) {
       console.log(`📆 Specific month query: ${specificMonth.month + 1}/${specificMonth.year}`);
 
+      // If this is also a motion/vote query, call vote lookup FIRST for verified data
+      if ((isMotionOutcomeQuery || isVoteCountQuery) && motionKeywords && motionKeywords.length > 0) {
+        console.log(`📊 Motion/vote query with date filter - using structured vote lookup for: "${motionKeywords.join(' ')}"`);
+
+        let verifiedVoteContext = '';
+        if (this.voteLookupInitialized) {
+          const motionResult = voteLookupService.findMotionVotes(motionKeywords);
+          if (motionResult) {
+            verifiedVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
+            console.log(`   ✅ Found VERIFIED motion vote breakdown: ${motionResult.yeas.length} yea, ${motionResult.nays.length} nay`);
+          } else {
+            console.log(`   ⚠️ No matching motion found in structured vote data`);
+          }
+        }
+        // Store verified context for later inclusion
+        (this as any)._verifiedVoteContext = verifiedVoteContext;
+      }
+
       const dateResults = await this.vectorStore.searchByDateRange(
         specificMonth.month,
         specificMonth.year,
