@@ -52,3 +52,61 @@
 .shown {
   display: block;
 }
+
+.beta-tag {
+  font-size: 0.5em;
+  background-color: #ff6b35;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  vertical-align: middle;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.about-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gray);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  padding: 6px 12px;
+  border-radius: 6px;
+
+  &:hover {
+    color: var(--secondary);
+    background: var(--lightgray);
+  }
+}
+
+.chat-trigger-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+  background: var(--secondary);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+  flex-shrink: 0;
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 500;
+
+  &:hover {
+    background: var(--tertiary);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+  }
+}
