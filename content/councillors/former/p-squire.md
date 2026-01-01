@@ -13,14 +13,12 @@ attendanceRate: 45.2
 participationRate: 99.1
 yeaRate: 93.9
 prefillQuestions:
-  - "What was Phil Squire's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees did Phil Squire serve on, and did they hold any chair or vice-chair positions during their tenure?"
-  - "How did Phil Squire's attendance rate and participation level compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, demonstrating consistent participation with attendance at 372 meetings over this seven-year period. During their tenure, Squire served on six different committees, indicating broad involvement in various aspects of municipal governance and policy development.
-
-This level of meeting attendance and committee participation suggests an active role in council proceedings throughout their time in office. Serving nearly two full terms on council, Squire's extended tenure provided continuity and institutional knowledge to London's municipal government during this period.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

@@ -13,14 +13,12 @@ attendanceRate: 41.3
 participationRate: 86.0
 yeaRate: 82.2
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
-  - "How frequently does she initiate motions or propose amendments during council meetings, and what topics do these typically address?"
-  - "What specific roles or leadership positions has she held on the eight committees she has served on, and how active is her participation in committee discussions and decisions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Susan Stevenson has been an active member of London City Council from 2022-2025, demonstrating strong participation through her attendance at 178 council meetings during this period. Her involvement extends beyond general council sessions, as she has served on eight different committees throughout her tenure, indicating broad engagement across various municipal portfolios and policy areas.
-
-Her consistent meeting attendance and extensive committee participation suggests a hands-on approach to municipal governance during her current term. The substantial number of committees she has served on reflects either a willingness to take on diverse responsibilities or appointments to address specific expertise areas within the city's governance structure.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

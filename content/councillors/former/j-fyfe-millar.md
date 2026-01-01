@@ -13,14 +13,12 @@ attendanceRate: 34.2
 participationRate: 80.0
 yeaRate: 100.0
 prefillQuestions:
-  - "What was John Fyfe-Millar's voting attendance rate and how did it compare to other council members during 2021-2022?"
-  - "Which specific committees did John Fyfe-Millar serve on and what was their role or contribution to each committee?"
-  - "What were the key issues or motions that John Fyfe-Millar voted on during their time on council, and what positions did they take?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-John Fyfe-Millar served on London City Council, Canada from 2021 to 2022, demonstrating active participation with attendance at 74 meetings during this two-year period. Throughout their tenure, they served on six different committees, showing broad engagement across various areas of municipal governance.
-
-Their meeting attendance of 74 sessions over two years indicates consistent involvement in council proceedings, suggesting regular participation in the decision-making processes of London's municipal government during their time in office.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

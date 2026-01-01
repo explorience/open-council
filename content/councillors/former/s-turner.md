@@ -13,14 +13,12 @@ attendanceRate: 44.7
 participationRate: 91.4
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Stephen Turner's voting record on major municipal issues during his 8-year tenure?"
-  - "Which specific committees did Stephen Turner serve on and what roles did he hold within those committees?"
-  - "How did Stephen Turner's attendance rate of 417 meetings compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Stephen Turner served on London City Council, Canada for 8 years from 2014 to 2022, demonstrating sustained civic engagement throughout his tenure. During this period, he attended 417 council meetings and participated on 7 different committees, indicating active involvement in the legislative and administrative processes of municipal government.
-
-His consistent attendance record and multi-committee participation suggests he maintained regular engagement with council business across his full term of service. The breadth of his committee involvement shows he contributed to various aspects of municipal governance during his time on council.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

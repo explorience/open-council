@@ -18,7 +18,7 @@ prefillQuestions:
   - "What were the major votes?"
 ---
 
-Summary for councillor will be generated when ANTHROPIC_API_KEY is provided.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

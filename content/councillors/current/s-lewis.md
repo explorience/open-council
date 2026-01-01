@@ -13,14 +13,12 @@ attendanceRate: 55.1
 participationRate: 93.2
 yeaRate: 94.2
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development proposals, and bylaw changes?"
-  - "How frequently did Lewis attend committee meetings versus full council sessions, and what was their participation rate compared to other council members?"
-  - "Which specific committees did Lewis serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-Shawn Lewis has been an active member of London City Council from 2018 to 2025, demonstrating substantial engagement through attendance at 495 council meetings over this seven-year period. This represents an average of approximately 70+ meetings per year, indicating consistent participation in council proceedings.
-
-Lewis has served on eight different committees during their tenure, showing broad involvement across various areas of municipal governance. Their extended service period spanning nearly two full council terms suggests they have maintained their position through at least one re-election cycle, providing continuity in their council representation.
+Summary generation failed. Please try again later.
 
 ## Terms of Service
 

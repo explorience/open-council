@@ -9,7 +9,7 @@ prefillQuestions:
   - "What were the major votes?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+Summary generation failed. Please try again later.
 
 ## Recent Meetings
 
