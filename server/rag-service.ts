@@ -1093,7 +1093,27 @@ export class RAGService {
   private detectMotionOutcomeQuery(query: string): { isMotionOutcome: boolean; motionKeywords?: string[] } {
     const lowerQuery = query.toLowerCase();
 
-    // Patterns that indicate motion outcome query
+    // Check for specific known motions FIRST (before general patterns)
+    // This ensures motions with short keywords like "PA Day" are properly detected
+    const knownMotions: { pattern: RegExp; keywords: string[] }[] = [
+      { pattern: /diaper|menstrual|green bin.*waste/i, keywords: ['diaper', 'menstrual', 'green', 'bin'] },
+      { pattern: /cooling by-?law/i, keywords: ['cooling', 'bylaw', 'maximum', 'temperature'] },
+      { pattern: /urban growth boundary/i, keywords: ['urban', 'growth', 'boundary'] },
+      { pattern: /warming cent(er|re)/i, keywords: ['warming', 'centre', 'framework'] },
+      { pattern: /bike.*parking|bicycle.*parking/i, keywords: ['bike', 'parking', 'implementation'] },
+      { pattern: /e-?scooter|kick scooter/i, keywords: ['scooter', 'electric', 'kick', 'pilot'] },
+      // PA Day motion - match various phrasings (2026 Municipal Election PA Day on Voting Day)
+      { pattern: /pa day/i, keywords: ['professional', 'activity', 'day', 'pa', 'day', 'election', 'voting', 'october', '2026', 'municipal'] },
+    ];
+
+    for (const { pattern, keywords } of knownMotions) {
+      if (pattern.test(lowerQuery) && /(pass|fail|approved|rejected|result|vote|outcome|margin|close|motion)/i.test(lowerQuery)) {
+        console.log(`📋 Detected motion outcome query (known motion): "${keywords.join(' ')}"`);
+        return { isMotionOutcome: true, motionKeywords: keywords };
+      }
+    }
+
+    // General patterns that indicate motion outcome query
     const outcomePatterns = [
       /did (?:the )?(.+?) (pass|fail|get approved|get rejected|succeed|motion pass|motion fail)/i,
       /was (?:the )?(.+?) (approved|rejected|passed|defeated|carried|lost)/i,
@@ -1117,25 +1137,6 @@ export class RAGService {
           console.log(`📋 Detected motion outcome query for: "${keywords.join(' ')}"`);
           return { isMotionOutcome: true, motionKeywords: keywords };
         }
-      }
-    }
-
-    // Check for specific known motions by keyword
-    const knownMotions: { pattern: RegExp; keywords: string[] }[] = [
-      { pattern: /diaper|menstrual|green bin.*waste/i, keywords: ['diaper', 'menstrual', 'green', 'bin'] },
-      { pattern: /cooling by-?law/i, keywords: ['cooling', 'bylaw', 'maximum', 'temperature'] },
-      { pattern: /urban growth boundary/i, keywords: ['urban', 'growth', 'boundary'] },
-      { pattern: /warming cent(er|re)/i, keywords: ['warming', 'centre', 'framework'] },
-      { pattern: /bike.*parking|bicycle.*parking/i, keywords: ['bike', 'parking', 'implementation'] },
-      { pattern: /e-?scooter|kick scooter/i, keywords: ['scooter', 'electric', 'kick', 'pilot'] },
-      // PA Day motion - match various phrasings (2026 Municipal Election PA Day on Voting Day)
-      { pattern: /pa day.*(motion|vote|pass|margin)|election.*pa day/i, keywords: ['professional', 'activity', 'day', 'pa', 'day', 'election', 'voting', 'october', '2026', 'municipal'] },
-    ];
-
-    for (const { pattern, keywords } of knownMotions) {
-      if (pattern.test(lowerQuery) && /(pass|fail|approved|rejected|result|vote|outcome|margin|close)/i.test(lowerQuery)) {
-        console.log(`📋 Detected motion outcome query (known motion): "${keywords.join(' ')}"`);
-        return { isMotionOutcome: true, motionKeywords: keywords };
       }
     }
 
