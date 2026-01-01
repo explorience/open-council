@@ -124,6 +124,10 @@ export default ((userOpts?: Partial<NavDropdownsOptions>) => {
           <button class="nav-link nav-suggested-questions" aria-label="Show suggested questions" aria-expanded="false">
             Suggested Questions
           </button>
+
+          <a href="/about" class="nav-link">
+            About
+          </a>
         </div>
       </nav>
     )
