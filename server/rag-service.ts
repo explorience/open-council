@@ -38,6 +38,7 @@ export const OPENROUTER_MODELS = {
   // Claude alternatives (Anthropic via OpenRouter)
   'claude-3-haiku': 'anthropic/claude-3-haiku',
   'claude-3.5-haiku': 'anthropic/claude-3.5-haiku',
+  'claude-sonnet-4': 'anthropic/claude-sonnet-4',
 
   // Google models (best value - 100% accuracy, cheapest)
   'gemini-2.5-flash-lite': 'google/gemini-2.5-flash-lite',
