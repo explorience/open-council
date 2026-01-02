@@ -542,6 +542,129 @@ ${sections.join('\n')}
   }
 
   /**
+   * Find votes where the Mayor (Morgan) was in the minority
+   * i.e., voted NAY on passing motions or YEA on failing motions
+   */
+  findVotesWhereMayorInMinority(limit: number = 5, recentMonths: number = 24): CloseVoteResult[] {
+    const slugs = getAllCouncillorSlugs();
+    const cutoffDate = new Date();
+    cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
+
+    // Build a map of unique votes
+    const voteMap = new Map<string, {
+      date: string;
+      itemTitle: string;
+      motionText: string;
+      meetingTitle: string;
+      result: string;
+      passed: boolean;
+      yeas: string[];
+      nays: string[];
+      mayorVote: 'yea' | 'nay' | 'absent';
+    }>();
+
+    for (const slug of slugs) {
+      const voteFile = loadCouncillorVotes(slug);
+      if (!voteFile) continue;
+
+      for (const vote of voteFile.votes) {
+        if (new Date(vote.date) < cutoffDate) continue;
+
+        const key = `${vote.date}|${vote.itemTitle}|${vote.motionText.slice(0, 100)}`;
+
+        if (!voteMap.has(key)) {
+          voteMap.set(key, {
+            date: vote.date,
+            itemTitle: vote.itemTitle,
+            motionText: vote.motionText,
+            meetingTitle: vote.meetingTitle,
+            result: vote.result,
+            passed: vote.passed,
+            yeas: [],
+            nays: [],
+            mayorVote: 'absent',
+          });
+        }
+
+        const entry = voteMap.get(key)!;
+        const councillorName = voteFile.councillor.toLowerCase();
+
+        if (vote.vote === 'yea') {
+          entry.yeas.push(voteFile.councillor);
+          if (councillorName.includes('morgan') || councillorName.includes('mayor')) {
+            entry.mayorVote = 'yea';
+          }
+        } else if (vote.vote === 'nay') {
+          entry.nays.push(voteFile.councillor);
+          if (councillorName.includes('morgan') || councillorName.includes('mayor')) {
+            entry.mayorVote = 'nay';
+          }
+        }
+      }
+    }
+
+    // Filter to votes where Mayor was in minority
+    const mayorMinorityVotes: CloseVoteResult[] = [];
+
+    for (const vote of voteMap.values()) {
+      const margin = Math.abs(vote.yeas.length - vote.nays.length);
+      const totalVotes = vote.yeas.length + vote.nays.length;
+
+      // Mayor in minority if: voted NAY on passing OR voted YEA on failing
+      const mayorInMinority =
+        (vote.passed && vote.mayorVote === 'nay') ||
+        (!vote.passed && vote.mayorVote === 'yea');
+
+      if (mayorInMinority && totalVotes >= 10) {
+        mayorMinorityVotes.push({
+          date: vote.date,
+          itemTitle: vote.itemTitle,
+          motionText: vote.motionText,
+          meetingTitle: vote.meetingTitle,
+          result: vote.result,
+          passed: vote.passed,
+          yeas: vote.yeas,
+          nays: vote.nays,
+          margin,
+        });
+      }
+    }
+
+    // Sort by date (most recent first)
+    return mayorMinorityVotes
+      .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+      .slice(0, limit);
+  }
+
+  /**
+   * Format Mayor-minority votes for LLM context
+   */
+  formatMayorMinorityVotesForContext(votes: CloseVoteResult[]): string {
+    if (votes.length === 0) {
+      return '';
+    }
+
+    const sections = votes.map(v => {
+      const outcomeWord = v.passed ? 'PASSED' : 'FAILED';
+      const mayorPosition = v.passed ? 'voted NAY (against)' : 'voted YEA (for)';
+      return `
+### ${v.itemTitle}
+**Date:** ${v.date}
+**Result:** ${outcomeWord} (${v.yeas.length}-${v.nays.length})
+**Mayor Morgan ${mayorPosition}** - was in the MINORITY
+**Voted YEA:** ${v.yeas.join(', ') || 'None'}
+**Voted NAY:** ${v.nays.join(', ') || 'None'}`;
+    });
+
+    return `
+## VERIFIED VOTES WHERE MAYOR WAS IN MINORITY (from structured data - USE THIS)
+${sections.join('\n')}
+
+⚠️ This is verified structured data. Use these exact details in your response.
+`;
+  }
+
+  /**
    * Find votes by searching motion text content
    * Useful for finding specific motions like "PA Day motion"
    *

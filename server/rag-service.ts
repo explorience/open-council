@@ -88,6 +88,9 @@ interface QueryAnalysis {
   isCloseVoteQuery: boolean;         // "What close votes happened on..."
   closeVoteDate?: string;            // Date in YYYY-MM-DD format
 
+  // Mayor minority query (where Mayor was outvoted)
+  isMayorMinorityQuery: boolean;     // "Has Mayor ever been in minority?"
+
   // Alignment/pattern query
   isAlignmentQuery: boolean;         // "Who votes with the Mayor?"
   alignmentQueryType?: 'mayor-allies' | 'mayor-opposition' | 'lone-dissenter' | 'swing-voters' | 'councillor-profile' | 'voting-bloc';
@@ -327,6 +330,7 @@ export class RAGService {
     const motionOutcome = this.detectMotionOutcomeQuery(query);
     const voteCount = this.detectVoteCountQuery(query);
     const closeVote = this.detectCloseVoteQuery(query);
+    const mayorMinority = this.detectMayorMinorityQuery(query);
     const alignment = this.detectAlignmentQuery(query);
 
     // 2. Smart TOP_K selection based on query type and available structured data
@@ -372,6 +376,7 @@ export class RAGService {
       isVoteCountQuery: voteCount.isVoteCount,
       isCloseVoteQuery: closeVote.isCloseVote,
       closeVoteDate: closeVote.date,
+      isMayorMinorityQuery: mayorMinority,
       isAlignmentQuery: alignment.isAlignmentQuery,
       alignmentQueryType: alignment.alignmentQueryType,
       alignmentCouncillorSlug: alignment.alignmentCouncillorSlug,
@@ -1263,6 +1268,26 @@ export class RAGService {
   }
 
   /**
+   * Detect if this is a query about the Mayor being in the minority
+   * e.g., "Has the Mayor ever lost a vote?", "Was Morgan ever outvoted?"
+   */
+  private detectMayorMinorityQuery(query: string): boolean {
+    const lowerQuery = query.toLowerCase();
+
+    const mayorMinorityPatterns = [
+      /mayor.*(minority|lost|outvoted|losing side|voted against)/,
+      /morgan.*(minority|lost|outvoted|losing side)/,
+      /(minority|lost|outvoted|losing side).*mayor/,
+      /has.*(mayor|morgan).*ever.*(lost|minority|outvoted)/,
+      /was.*(mayor|morgan).*in.*(the )?minority/,
+      /vote.*(where|when).*mayor.*(lost|minority)/,
+      /7-8.*mayor|8-7.*mayor.*nay|mayor.*nay.*8-7/,
+    ];
+
+    return mayorMinorityPatterns.some(p => p.test(lowerQuery));
+  }
+
+  /**
    * Detect if this is an alignment/pattern query
    *
    * Patterns matched:
@@ -1404,7 +1429,7 @@ export class RAGService {
   async retrieveContext(query: string): Promise<SearchResult[]> {
     // Analyze query to extract all metadata
     const analysis = this.analyzeQuery(query);
-    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords, isCloseVoteQuery, closeVoteDate, isAlignmentQuery, alignmentQueryType, alignmentCouncillorSlug } = analysis;
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords, isCloseVoteQuery, closeVoteDate, isMayorMinorityQuery, isAlignmentQuery, alignmentQueryType, alignmentCouncillorSlug } = analysis;
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
@@ -1598,6 +1623,40 @@ export class RAGService {
       const results = await this.vectorStore.hybridSearch(
         queryEmbedding,
         `close vote 7-8 8-7 narrow margin contentious divisive split council`,
+        topK,
+        0.5
+      );
+
+      this.logUniqueMeetings(results);
+      return results;
+    }
+
+    // Strategy 3.65: Mayor minority query (votes where Mayor was outvoted)
+    // Uses structured vote data to find votes where Mayor Morgan was in the minority
+    if (isMayorMinorityQuery) {
+      console.log(`📊 Mayor minority query - finding votes where Mayor was outvoted`);
+
+      let verifiedVoteContext = '';
+      if (this.voteLookupInitialized) {
+        const mayorMinorityVotes = voteLookupService.findVotesWhereMayorInMinority(5, 24);
+        if (mayorMinorityVotes.length > 0) {
+          verifiedVoteContext = voteLookupService.formatMayorMinorityVotesForContext(mayorMinorityVotes);
+          console.log(`   ✅ Found ${mayorMinorityVotes.length} votes where Mayor was in minority`);
+        } else {
+          console.log(`   ⚠️ No votes found where Mayor was in minority`);
+        }
+      }
+
+      // Store verified context for later inclusion
+      (this as any)._verifiedVoteContext = verifiedVoteContext;
+
+      // Also do semantic search to get additional context
+      const normalizedQuery = this.normalizeQueryForEmbedding(query);
+      const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
+
+      const results = await this.vectorStore.hybridSearch(
+        queryEmbedding,
+        `mayor morgan minority outvoted lost vote 7-8 8-7 narrow margin`,
         topK,
         0.5
       );
