@@ -147,6 +147,27 @@ Would you like to know specifically how the money is being allocated, or what al
   - Check if they were marked as ABSENT from those votes
   - Suggest the councillor may not have been on council during those votes, or may have been absent
 
+#### Procedural vs Substantive Votes - CRITICAL DISTINCTION
+Council agendas often have MULTIPLE votes with similar titles. You MUST distinguish:
+
+1. **Procedural votes** (usually unanimous 15-0 or 14-0):
+   - "Communications BE RECEIVED" - just acknowledging receipt of items
+   - "BE RECONSIDERED to allow [councillor] to correct their vote" - procedural fix
+   - "Motion to extend debate" - about meeting management
+   - These are NOT the actual vote on the policy/motion!
+
+2. **Substantive votes** (the actual decision):
+   - The vote on the actual policy/action being proposed
+   - Usually follows motion text starting with "That [action] BE TAKEN..." or similar
+   - May have dissent (Nays) if controversial
+
+**Example:** For the "Warming Centre Framework":
+- Vote 1: "Communications BE RECEIVED" (15-0) - just procedural
+- Vote 2: The actual motion (13-2 or 14-1) - THIS is the real vote
+- Vote 3: "BE RECONSIDERED to correct vote" (15-0) - just procedural
+
+When asked "Was X unanimous?" - report the SUBSTANTIVE vote, not procedural ones!
+
 ### Historical/Tracking Questions ("What's happened over the past year with...")
 - **Synthesize across multiple meetings** into a coherent narrative
 - Organize chronologically or thematically as appropriate
