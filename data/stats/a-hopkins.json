@@ -18,43 +18,37 @@
   },
   "topAlignments": [
     {
-      "councillor": "Maureen Cassidy",
-      "sharedVotes": 2468,
-      "agreedVotes": 2379,
-      "alignmentRate": 96.3938411669368
+      "councillor": "Skylar Franke",
+      "sharedVotes": 1439,
+      "agreedVotes": 1369,
+      "alignmentRate": 95.135510771369
     },
     {
-      "councillor": "Matt Brown",
-      "sharedVotes": 1226,
-      "agreedVotes": 1179,
-      "alignmentRate": 96.16639477977161
+      "councillor": "Hadleigh McAlister",
+      "sharedVotes": 1294,
+      "agreedVotes": 1219,
+      "alignmentRate": 94.20401854714065
     },
     {
-      "councillor": "Tanya Park",
-      "sharedVotes": 992,
-      "agreedVotes": 952,
-      "alignmentRate": 95.96774193548387
+      "councillor": "David Ferreira",
+      "sharedVotes": 1130,
+      "agreedVotes": 1062,
+      "alignmentRate": 93.98230088495575
     },
     {
-      "councillor": "Stephen Turner",
-      "sharedVotes": 2154,
-      "agreedVotes": 2064,
-      "alignmentRate": 95.82172701949861
+      "councillor": "Josh Morgan",
+      "sharedVotes": 3488,
+      "agreedVotes": 3271,
+      "alignmentRate": 93.77866972477065
     },
     {
-      "councillor": "Harold Usher",
-      "sharedVotes": 1072,
-      "agreedVotes": 1024,
-      "alignmentRate": 95.52238805970148
+      "councillor": "Sam Trosow",
+      "sharedVotes": 1317,
+      "agreedVotes": 1229,
+      "alignmentRate": 93.31814730447988
     }
   ],
   "bottomAlignments": [
-    {
-      "councillor": "Arielle Kayabaga",
-      "sharedVotes": 84,
-      "agreedVotes": 65,
-      "alignmentRate": 77.38095238095238
-    },
     {
       "councillor": "Susan Stevenson",
       "sharedVotes": 1266,
@@ -78,6 +72,12 @@
       "sharedVotes": 1351,
       "agreedVotes": 1194,
       "alignmentRate": 88.37897853441895
+    },
+    {
+      "councillor": "Corrine Rahman",
+      "sharedVotes": 1192,
+      "agreedVotes": 1079,
+      "alignmentRate": 90.52013422818791
     }
   ]
 }

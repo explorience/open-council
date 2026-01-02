@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-31T05:42:15.873Z",
+  "generatedAt": "2026-01-02T15:02:54.910Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
@@ -21,34 +21,34 @@
       },
       "topAlignments": [
         {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1229,
-          "agreedVotes": 1196,
-          "alignmentRate": 97.31489015459724
-        },
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 797,
-          "agreedVotes": 773,
-          "alignmentRate": 96.98870765370138
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 2861,
-          "agreedVotes": 2766,
-          "alignmentRate": 96.67948269835722
-        },
-        {
           "councillor": "Steve Lehman",
           "sharedVotes": 2693,
           "agreedVotes": 2596,
           "alignmentRate": 96.39806906795395
         },
         {
-          "councillor": "Jared Zaifman",
-          "sharedVotes": 694,
-          "agreedVotes": 668,
-          "alignmentRate": 96.25360230547551
+          "councillor": "Shawn Lewis",
+          "sharedVotes": 2906,
+          "agreedVotes": 2791,
+          "alignmentRate": 96.04267033723332
+        },
+        {
+          "councillor": "Elizabeth Peloza",
+          "sharedVotes": 2716,
+          "agreedVotes": 2596,
+          "alignmentRate": 95.58173784977909
+        },
+        {
+          "councillor": "Peter Cuddy",
+          "sharedVotes": 1417,
+          "agreedVotes": 1347,
+          "alignmentRate": 95.05998588567395
+        },
+        {
+          "councillor": "Jerry Pribil",
+          "sharedVotes": 1411,
+          "agreedVotes": 1338,
+          "alignmentRate": 94.82636428065202
         }
       ],
       "bottomAlignments": [
@@ -193,12 +193,6 @@
           "alignmentRate": 97.60797342192691
         },
         {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1573,
-          "agreedVotes": 1529,
-          "alignmentRate": 97.2027972027972
-        },
-        {
           "councillor": "Steve Lehman",
           "sharedVotes": 3352,
           "agreedVotes": 3255,
@@ -211,10 +205,16 @@
           "alignmentRate": 96.34994206257242
         },
         {
-          "councillor": "Michael van Holst",
-          "sharedVotes": 1607,
-          "agreedVotes": 1547,
-          "alignmentRate": 96.26633478531424
+          "councillor": "Josh Morgan",
+          "sharedVotes": 2906,
+          "agreedVotes": 2791,
+          "alignmentRate": 96.04267033723332
+        },
+        {
+          "councillor": "Elizabeth Peloza",
+          "sharedVotes": 3128,
+          "agreedVotes": 2987,
+          "alignmentRate": 95.4923273657289
         }
       ],
       "bottomAlignments": [
@@ -685,34 +685,34 @@
       },
       "topAlignments": [
         {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1403,
-          "agreedVotes": 1377,
-          "alignmentRate": 98.14682822523164
-        },
-        {
-          "councillor": "Phil Squire",
-          "sharedVotes": 1101,
-          "agreedVotes": 1073,
-          "alignmentRate": 97.45685740236148
-        },
-        {
           "councillor": "Shawn Lewis",
           "sharedVotes": 3352,
           "agreedVotes": 3255,
           "alignmentRate": 97.10620525059666
         },
         {
-          "councillor": "Michael van Holst",
-          "sharedVotes": 1456,
-          "agreedVotes": 1407,
-          "alignmentRate": 96.63461538461539
+          "councillor": "Josh Morgan",
+          "sharedVotes": 2693,
+          "agreedVotes": 2596,
+          "alignmentRate": 96.39806906795395
         },
         {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 1424,
-          "agreedVotes": 1375,
-          "alignmentRate": 96.55898876404494
+          "councillor": "Steve Hillier",
+          "sharedVotes": 2965,
+          "agreedVotes": 2853,
+          "alignmentRate": 96.22259696458684
+        },
+        {
+          "councillor": "Peter Cuddy",
+          "sharedVotes": 1473,
+          "agreedVotes": 1411,
+          "alignmentRate": 95.7909029192125
+        },
+        {
+          "councillor": "Jerry Pribil",
+          "sharedVotes": 1325,
+          "agreedVotes": 1263,
+          "alignmentRate": 95.32075471698114
         }
       ],
       "bottomAlignments": [
@@ -768,43 +768,37 @@
       },
       "topAlignments": [
         {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 2468,
-          "agreedVotes": 2379,
-          "alignmentRate": 96.3938411669368
+          "councillor": "Skylar Franke",
+          "sharedVotes": 1439,
+          "agreedVotes": 1369,
+          "alignmentRate": 95.135510771369
         },
         {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1226,
-          "agreedVotes": 1179,
-          "alignmentRate": 96.16639477977161
+          "councillor": "Hadleigh McAlister",
+          "sharedVotes": 1294,
+          "agreedVotes": 1219,
+          "alignmentRate": 94.20401854714065
         },
         {
-          "councillor": "Tanya Park",
-          "sharedVotes": 992,
-          "agreedVotes": 952,
-          "alignmentRate": 95.96774193548387
+          "councillor": "David Ferreira",
+          "sharedVotes": 1130,
+          "agreedVotes": 1062,
+          "alignmentRate": 93.98230088495575
         },
         {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 2154,
-          "agreedVotes": 2064,
-          "alignmentRate": 95.82172701949861
+          "councillor": "Josh Morgan",
+          "sharedVotes": 3488,
+          "agreedVotes": 3271,
+          "alignmentRate": 93.77866972477065
         },
         {
-          "councillor": "Harold Usher",
-          "sharedVotes": 1072,
-          "agreedVotes": 1024,
-          "alignmentRate": 95.52238805970148
+          "councillor": "Sam Trosow",
+          "sharedVotes": 1317,
+          "agreedVotes": 1229,
+          "alignmentRate": 93.31814730447988
         }
       ],
       "bottomAlignments": [
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 84,
-          "agreedVotes": 65,
-          "alignmentRate": 77.38095238095238
-        },
         {
           "councillor": "Susan Stevenson",
           "sharedVotes": 1266,
@@ -828,6 +822,12 @@
           "sharedVotes": 1351,
           "agreedVotes": 1194,
           "alignmentRate": 88.37897853441895
+        },
+        {
+          "councillor": "Corrine Rahman",
+          "sharedVotes": 1192,
+          "agreedVotes": 1079,
+          "alignmentRate": 90.52013422818791
         }
       ]
     },
@@ -851,34 +851,34 @@
       },
       "topAlignments": [
         {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 665,
-          "agreedVotes": 635,
-          "alignmentRate": 95.48872180451127
+          "councillor": "Steve Lehman",
+          "sharedVotes": 2681,
+          "agreedVotes": 2508,
+          "alignmentRate": 93.54718388660947
         },
         {
-          "councillor": "Denise Brown",
-          "sharedVotes": 634,
-          "agreedVotes": 603,
-          "alignmentRate": 95.11041009463722
+          "councillor": "Shawn Lewis",
+          "sharedVotes": 2822,
+          "agreedVotes": 2617,
+          "alignmentRate": 92.73564847625796
         },
         {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 667,
-          "agreedVotes": 632,
-          "alignmentRate": 94.75262368815592
+          "councillor": "Steve Hillier",
+          "sharedVotes": 2476,
+          "agreedVotes": 2293,
+          "alignmentRate": 92.60904684975768
         },
         {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1330,
-          "agreedVotes": 1256,
-          "alignmentRate": 94.4360902255639
+          "councillor": "Peter Cuddy",
+          "sharedVotes": 1359,
+          "agreedVotes": 1252,
+          "alignmentRate": 92.12656364974245
         },
         {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 634,
-          "agreedVotes": 598,
-          "alignmentRate": 94.3217665615142
+          "councillor": "Josh Morgan",
+          "sharedVotes": 2666,
+          "agreedVotes": 2451,
+          "alignmentRate": 91.93548387096774
         }
       ],
       "bottomAlignments": [
@@ -1017,34 +1017,34 @@
       },
       "topAlignments": [
         {
-          "councillor": "Mo Salih",
-          "sharedVotes": 1394,
-          "agreedVotes": 1346,
-          "alignmentRate": 96.55667144906744
+          "councillor": "Josh Morgan",
+          "sharedVotes": 2716,
+          "agreedVotes": 2596,
+          "alignmentRate": 95.58173784977909
         },
         {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 1531,
-          "agreedVotes": 1475,
-          "alignmentRate": 96.34225996080993
+          "councillor": "Shawn Lewis",
+          "sharedVotes": 3128,
+          "agreedVotes": 2987,
+          "alignmentRate": 95.4923273657289
         },
         {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1416,
-          "agreedVotes": 1363,
-          "alignmentRate": 96.25706214689266
+          "councillor": "Steve Lehman",
+          "sharedVotes": 2919,
+          "agreedVotes": 2775,
+          "alignmentRate": 95.06680369989724
         },
         {
-          "councillor": "Phil Squire",
-          "sharedVotes": 1124,
-          "agreedVotes": 1079,
-          "alignmentRate": 95.99644128113879
+          "councillor": "Steve Hillier",
+          "sharedVotes": 2733,
+          "agreedVotes": 2567,
+          "alignmentRate": 93.92608854738383
         },
         {
-          "councillor": "Jesse Helmer",
-          "sharedVotes": 1666,
-          "agreedVotes": 1599,
-          "alignmentRate": 95.97839135654262
+          "councillor": "Hadleigh McAlister",
+          "sharedVotes": 1253,
+          "agreedVotes": 1172,
+          "alignmentRate": 93.53551476456504
         }
       ],
       "bottomAlignments": [
@@ -1183,12 +1183,6 @@
       },
       "topAlignments": [
         {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1372,
-          "agreedVotes": 1333,
-          "alignmentRate": 97.15743440233237
-        },
-        {
           "councillor": "Shawn Lewis",
           "sharedVotes": 3452,
           "agreedVotes": 3326,
@@ -1201,16 +1195,22 @@
           "alignmentRate": 96.22259696458684
         },
         {
-          "councillor": "Michael van Holst",
-          "sharedVotes": 1332,
-          "agreedVotes": 1272,
-          "alignmentRate": 95.4954954954955
+          "councillor": "Peter Cuddy",
+          "sharedVotes": 1441,
+          "agreedVotes": 1368,
+          "alignmentRate": 94.93407356002776
         },
         {
-          "councillor": "Phil Squire",
-          "sharedVotes": 919,
-          "agreedVotes": 877,
-          "alignmentRate": 95.42981501632208
+          "councillor": "Josh Morgan",
+          "sharedVotes": 2492,
+          "agreedVotes": 2344,
+          "alignmentRate": 94.0609951845907
+        },
+        {
+          "councillor": "Elizabeth Peloza",
+          "sharedVotes": 2733,
+          "agreedVotes": 2567,
+          "alignmentRate": 93.92608854738383
         }
       ],
       "bottomAlignments": [
@@ -1264,70 +1264,8 @@
         "participationRate": 78.44423617619493,
         "yeaRate": 96.23655913978494
       },
-      "topAlignments": [
-        {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 1403,
-          "agreedVotes": 1377,
-          "alignmentRate": 98.14682822523164
-        },
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 1229,
-          "agreedVotes": 1196,
-          "alignmentRate": 97.31489015459724
-        },
-        {
-          "councillor": "Shawn Lewis",
-          "sharedVotes": 1573,
-          "agreedVotes": 1529,
-          "alignmentRate": 97.2027972027972
-        },
-        {
-          "councillor": "Steve Hillier",
-          "sharedVotes": 1372,
-          "agreedVotes": 1333,
-          "alignmentRate": 97.15743440233237
-        },
-        {
-          "councillor": "Michael van Holst",
-          "sharedVotes": 1430,
-          "agreedVotes": 1384,
-          "alignmentRate": 96.78321678321679
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 473,
-          "agreedVotes": 430,
-          "alignmentRate": 90.9090909090909
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 509,
-          "agreedVotes": 475,
-          "alignmentRate": 93.32023575638507
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1330,
-          "agreedVotes": 1256,
-          "alignmentRate": 94.4360902255639
-        },
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 1084,
-          "agreedVotes": 1036,
-          "alignmentRate": 95.5719557195572
-        },
-        {
-          "councillor": "Elizabeth Peloza",
-          "sharedVotes": 1416,
-          "agreedVotes": 1363,
-          "alignmentRate": 96.25706214689266
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "m-van-holst": {
       "councillor": "Michael van Holst",
@@ -1347,70 +1285,8 @@
         "participationRate": 95.21475929662728,
         "yeaRate": 95.64032697547684
       },
-      "topAlignments": [
-        {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1430,
-          "agreedVotes": 1384,
-          "alignmentRate": 96.78321678321679
-        },
-        {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 1456,
-          "agreedVotes": 1407,
-          "alignmentRate": 96.63461538461539
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1254,
-          "agreedVotes": 1208,
-          "alignmentRate": 96.33173843700159
-        },
-        {
-          "councillor": "Shawn Lewis",
-          "sharedVotes": 1607,
-          "agreedVotes": 1547,
-          "alignmentRate": 96.26633478531424
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 1234,
-          "agreedVotes": 1184,
-          "alignmentRate": 95.9481361426256
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 1647,
-          "agreedVotes": 1526,
-          "alignmentRate": 92.65330904675167
-        },
-        {
-          "councillor": "Jared Zaifman",
-          "sharedVotes": 463,
-          "agreedVotes": 432,
-          "alignmentRate": 93.30453563714903
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1497,
-          "agreedVotes": 1403,
-          "alignmentRate": 93.72077488309954
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 2035,
-          "agreedVotes": 1908,
-          "alignmentRate": 93.75921375921375
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 2290,
-          "agreedVotes": 2163,
-          "alignmentRate": 94.45414847161572
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "m-salih": {
       "councillor": "Mo Salih",
@@ -1430,70 +1306,8 @@
         "participationRate": 91.41473191915817,
         "yeaRate": 93.95212863146355
       },
-      "topAlignments": [
-        {
-          "councillor": "Elizabeth Peloza",
-          "sharedVotes": 1394,
-          "agreedVotes": 1346,
-          "alignmentRate": 96.55667144906744
-        },
-        {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 1321,
-          "agreedVotes": 1274,
-          "alignmentRate": 96.44208932626798
-        },
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 805,
-          "agreedVotes": 776,
-          "alignmentRate": 96.3975155279503
-        },
-        {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1229,
-          "agreedVotes": 1184,
-          "alignmentRate": 96.33848657445078
-        },
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 2257,
-          "agreedVotes": 2172,
-          "alignmentRate": 96.23393885688968
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 1391,
-          "agreedVotes": 1275,
-          "alignmentRate": 91.6606757728253
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 875,
-          "agreedVotes": 809,
-          "alignmentRate": 92.45714285714286
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 1152,
-          "agreedVotes": 1073,
-          "alignmentRate": 93.14236111111111
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1334,
-          "agreedVotes": 1244,
-          "alignmentRate": 93.25337331334332
-        },
-        {
-          "councillor": "Jared Zaifman",
-          "sharedVotes": 447,
-          "agreedVotes": 417,
-          "alignmentRate": 93.28859060402685
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "j-helmer": {
       "councillor": "Jesse Helmer",
@@ -1513,70 +1327,8 @@
         "participationRate": 96.2763667671115,
         "yeaRate": 94.4556226246367
       },
-      "topAlignments": [
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 1089,
-          "agreedVotes": 1056,
-          "alignmentRate": 96.96969696969697
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 3647,
-          "agreedVotes": 3531,
-          "alignmentRate": 96.81930353715383
-        },
-        {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1543,
-          "agreedVotes": 1486,
-          "alignmentRate": 96.30589760207388
-        },
-        {
-          "councillor": "Elizabeth Peloza",
-          "sharedVotes": 1666,
-          "agreedVotes": 1599,
-          "alignmentRate": 95.97839135654262
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 2410,
-          "agreedVotes": 2312,
-          "alignmentRate": 95.93360995850622
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1618,
-          "agreedVotes": 1493,
-          "alignmentRate": 92.27441285537701
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 1342,
-          "agreedVotes": 1252,
-          "alignmentRate": 93.2935916542474
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 993,
-          "agreedVotes": 927,
-          "alignmentRate": 93.35347432024169
-        },
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 2422,
-          "agreedVotes": 2266,
-          "alignmentRate": 93.5590421139554
-        },
-        {
-          "councillor": "Steve Hillier",
-          "sharedVotes": 1398,
-          "agreedVotes": 1313,
-          "alignmentRate": 93.91988555078684
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "m-cassidy": {
       "councillor": "Maureen Cassidy",
@@ -1596,70 +1348,8 @@
         "participationRate": 96.2188821042743,
         "yeaRate": 95.9726629240908
       },
-      "topAlignments": [
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1288,
-          "agreedVotes": 1264,
-          "alignmentRate": 98.13664596273291
-        },
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 974,
-          "agreedVotes": 944,
-          "alignmentRate": 96.91991786447639
-        },
-        {
-          "councillor": "Jesse Helmer",
-          "sharedVotes": 3647,
-          "agreedVotes": 3531,
-          "alignmentRate": 96.81930353715383
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 1329,
-          "agreedVotes": 1285,
-          "alignmentRate": 96.68924003009782
-        },
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 2861,
-          "agreedVotes": 2766,
-          "alignmentRate": 96.67948269835722
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1453,
-          "agreedVotes": 1348,
-          "alignmentRate": 92.77357192016518
-        },
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 2162,
-          "agreedVotes": 2038,
-          "alignmentRate": 94.26456984273821
-        },
-        {
-          "councillor": "Steve Hillier",
-          "sharedVotes": 1336,
-          "agreedVotes": 1269,
-          "alignmentRate": 94.98502994011976
-        },
-        {
-          "councillor": "Phil Squire",
-          "sharedVotes": 2594,
-          "agreedVotes": 2471,
-          "alignmentRate": 95.25828835774865
-        },
-        {
-          "councillor": "Michael van Holst",
-          "sharedVotes": 2716,
-          "agreedVotes": 2591,
-          "alignmentRate": 95.39764359351989
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "p-squire": {
       "councillor": "Phil Squire",
@@ -1679,70 +1369,8 @@
         "participationRate": 99.14353687549564,
         "yeaRate": 93.9209726443769
       },
-      "topAlignments": [
-        {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 1101,
-          "agreedVotes": 1073,
-          "alignmentRate": 97.45685740236148
-        },
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 868,
-          "agreedVotes": 836,
-          "alignmentRate": 96.31336405529954
-        },
-        {
-          "councillor": "Ed Holder",
-          "sharedVotes": 1054,
-          "agreedVotes": 1015,
-          "alignmentRate": 96.29981024667931
-        },
-        {
-          "councillor": "Shawn Lewis",
-          "sharedVotes": 1195,
-          "agreedVotes": 1149,
-          "alignmentRate": 96.15062761506277
-        },
-        {
-          "councillor": "Elizabeth Peloza",
-          "sharedVotes": 1124,
-          "agreedVotes": 1079,
-          "alignmentRate": 95.99644128113879
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 1642,
-          "agreedVotes": 1507,
-          "alignmentRate": 91.77831912302071
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 1343,
-          "agreedVotes": 1234,
-          "alignmentRate": 91.88384214445271
-        },
-        {
-          "councillor": "Jared Zaifman",
-          "sharedVotes": 409,
-          "agreedVotes": 379,
-          "alignmentRate": 92.66503667481662
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1211,
-          "agreedVotes": 1137,
-          "alignmentRate": 93.88934764657309
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1086,
-          "agreedVotes": 1020,
-          "alignmentRate": 93.92265193370166
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "s-turner": {
       "councillor": "Stephen Turner",
@@ -1762,70 +1390,8 @@
         "participationRate": 91.39934107855038,
         "yeaRate": 94.00493265035098
       },
-      "topAlignments": [
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 2154,
-          "agreedVotes": 2064,
-          "alignmentRate": 95.82172701949861
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 1291,
-          "agreedVotes": 1229,
-          "alignmentRate": 95.19752130131681
-        },
-        {
-          "councillor": "Tanya Park",
-          "sharedVotes": 1102,
-          "agreedVotes": 1048,
-          "alignmentRate": 95.09981851179673
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1094,
-          "agreedVotes": 1039,
-          "alignmentRate": 94.9725776965265
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 848,
-          "agreedVotes": 802,
-          "alignmentRate": 94.5754716981132
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Arielle Kayabaga",
-          "sharedVotes": 82,
-          "agreedVotes": 56,
-          "alignmentRate": 68.29268292682927
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 634,
-          "agreedVotes": 572,
-          "alignmentRate": 90.22082018927445
-        },
-        {
-          "councillor": "Steve Hillier",
-          "sharedVotes": 498,
-          "agreedVotes": 451,
-          "alignmentRate": 90.56224899598394
-        },
-        {
-          "councillor": "Ed Holder",
-          "sharedVotes": 473,
-          "agreedVotes": 430,
-          "alignmentRate": 90.9090909090909
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 1391,
-          "agreedVotes": 1275,
-          "alignmentRate": 91.6606757728253
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "a-kayabaga": {
       "councillor": "Arielle Kayabaga",
@@ -1845,70 +1411,8 @@
         "participationRate": 93.79577768203362,
         "yeaRate": 95.22278364722095
       },
-      "topAlignments": [
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 797,
-          "agreedVotes": 773,
-          "alignmentRate": 96.98870765370138
-        },
-        {
-          "councillor": "Jesse Helmer",
-          "sharedVotes": 1089,
-          "agreedVotes": 1056,
-          "alignmentRate": 96.96969696969697
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 974,
-          "agreedVotes": 944,
-          "alignmentRate": 96.91991786447639
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 805,
-          "agreedVotes": 776,
-          "alignmentRate": 96.3975155279503
-        },
-        {
-          "councillor": "Phil Squire",
-          "sharedVotes": 868,
-          "agreedVotes": 836,
-          "alignmentRate": 96.31336405529954
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 82,
-          "agreedVotes": 56,
-          "alignmentRate": 68.29268292682927
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 84,
-          "agreedVotes": 65,
-          "alignmentRate": 77.38095238095238
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 930,
-          "agreedVotes": 852,
-          "alignmentRate": 91.61290322580645
-        },
-        {
-          "councillor": "Shawn Lewis",
-          "sharedVotes": 933,
-          "agreedVotes": 882,
-          "alignmentRate": 94.53376205787781
-        },
-        {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 862,
-          "agreedVotes": 816,
-          "alignmentRate": 94.66357308584686
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "m-brown": {
       "councillor": "Matt Brown",
@@ -1928,70 +1432,8 @@
         "participationRate": 97.69057127973606,
         "yeaRate": 94.02772840383932
       },
-      "topAlignments": [
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 614,
-          "agreedVotes": 609,
-          "alignmentRate": 99.185667752443
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 1288,
-          "agreedVotes": 1264,
-          "alignmentRate": 98.13664596273291
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 732,
-          "agreedVotes": 713,
-          "alignmentRate": 97.40437158469946
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 1932,
-          "agreedVotes": 1881,
-          "alignmentRate": 97.36024844720497
-        },
-        {
-          "councillor": "Tanya Park",
-          "sharedVotes": 973,
-          "agreedVotes": 941,
-          "alignmentRate": 96.71120246659814
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 730,
-          "agreedVotes": 657,
-          "alignmentRate": 90
-        },
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 682,
-          "agreedVotes": 624,
-          "alignmentRate": 91.49560117302052
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 733,
-          "agreedVotes": 675,
-          "alignmentRate": 92.08731241473397
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 663,
-          "agreedVotes": 612,
-          "alignmentRate": 92.3076923076923
-        },
-        {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 656,
-          "agreedVotes": 611,
-          "alignmentRate": 93.14024390243902
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "b-armstrong": {
       "councillor": "Bill Armstrong",
@@ -2011,70 +1453,8 @@
         "participationRate": 98.94000902119981,
         "yeaRate": 93.20720310006838
       },
-      "topAlignments": [
-        {
-          "councillor": "Denise Brown",
-          "sharedVotes": 377,
-          "agreedVotes": 366,
-          "alignmentRate": 97.08222811671088
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 1506,
-          "agreedVotes": 1454,
-          "alignmentRate": 96.54714475431607
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 245,
-          "agreedVotes": 236,
-          "alignmentRate": 96.3265306122449
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1497,
-          "agreedVotes": 1442,
-          "alignmentRate": 96.32598530394122
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 1170,
-          "agreedVotes": 1126,
-          "alignmentRate": 96.23931623931624
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 248,
-          "agreedVotes": 220,
-          "alignmentRate": 88.70967741935483
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 216,
-          "agreedVotes": 196,
-          "alignmentRate": 90.74074074074075
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 216,
-          "agreedVotes": 199,
-          "alignmentRate": 92.12962962962963
-        },
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 224,
-          "agreedVotes": 208,
-          "alignmentRate": 92.85714285714286
-        },
-        {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 223,
-          "agreedVotes": 208,
-          "alignmentRate": 93.27354260089686
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "p-hubert": {
       "councillor": "Paul Hubert",
@@ -2094,70 +1474,8 @@
         "participationRate": 99.50920245398774,
         "yeaRate": 93.14118372379778
       },
-      "topAlignments": [
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 657,
-          "agreedVotes": 640,
-          "alignmentRate": 97.4124809741248
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1932,
-          "agreedVotes": 1881,
-          "alignmentRate": 97.36024844720497
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 881,
-          "agreedVotes": 857,
-          "alignmentRate": 97.27582292849036
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 1343,
-          "agreedVotes": 1290,
-          "alignmentRate": 96.0536113179449
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 1162,
-          "agreedVotes": 1116,
-          "alignmentRate": 96.04130808950086
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 673,
-          "agreedVotes": 611,
-          "alignmentRate": 90.78751857355127
-        },
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 630,
-          "agreedVotes": 572,
-          "alignmentRate": 90.7936507936508
-        },
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 1070,
-          "agreedVotes": 984,
-          "alignmentRate": 91.96261682242991
-        },
-        {
-          "councillor": "Jared Zaifman",
-          "sharedVotes": 409,
-          "agreedVotes": 378,
-          "alignmentRate": 92.42053789731052
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 875,
-          "agreedVotes": 809,
-          "alignmentRate": 92.45714285714286
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "v-ridley": {
       "councillor": "Virginia Ridley",
@@ -2177,70 +1495,8 @@
         "participationRate": 98.18809318377913,
         "yeaRate": 96.36789689513768
       },
-      "topAlignments": [
-        {
-          "councillor": "Jared Zaifman",
-          "sharedVotes": 524,
-          "agreedVotes": 506,
-          "alignmentRate": 96.56488549618321
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 1103,
-          "agreedVotes": 1063,
-          "alignmentRate": 96.37352674524026
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 1357,
-          "agreedVotes": 1302,
-          "alignmentRate": 95.94694178334562
-        },
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 1226,
-          "agreedVotes": 1176,
-          "alignmentRate": 95.92169657422512
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1151,
-          "agreedVotes": 1102,
-          "alignmentRate": 95.74283231972198
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 829,
-          "agreedVotes": 771,
-          "alignmentRate": 93.00361881785284
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 940,
-          "agreedVotes": 881,
-          "alignmentRate": 93.72340425531915
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 1105,
-          "agreedVotes": 1038,
-          "alignmentRate": 93.9366515837104
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 1089,
-          "agreedVotes": 1029,
-          "alignmentRate": 94.49035812672176
-        },
-        {
-          "councillor": "Phil Squire",
-          "sharedVotes": 1183,
-          "agreedVotes": 1118,
-          "alignmentRate": 94.5054945054945
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "h-l-usher": {
       "councillor": "Harold Usher",
@@ -2260,70 +1516,8 @@
         "participationRate": 100,
         "yeaRate": 93.26171875
       },
-      "topAlignments": [
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 1329,
-          "agreedVotes": 1285,
-          "alignmentRate": 96.68924003009782
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 1506,
-          "agreedVotes": 1454,
-          "alignmentRate": 96.54714475431607
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 1932,
-          "agreedVotes": 1854,
-          "alignmentRate": 95.96273291925466
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 1072,
-          "agreedVotes": 1024,
-          "alignmentRate": 95.52238805970148
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 1846,
-          "agreedVotes": 1762,
-          "alignmentRate": 95.44962080173349
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 806,
-          "agreedVotes": 737,
-          "alignmentRate": 91.43920595533498
-        },
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 718,
-          "agreedVotes": 657,
-          "alignmentRate": 91.5041782729805
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 648,
-          "agreedVotes": 595,
-          "alignmentRate": 91.82098765432099
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 819,
-          "agreedVotes": 761,
-          "alignmentRate": 92.91819291819291
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 1152,
-          "agreedVotes": 1073,
-          "alignmentRate": 93.14236111111111
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "t-park": {
       "councillor": "Tanya Park",
@@ -2343,70 +1537,8 @@
         "participationRate": 99.4386752736458,
         "yeaRate": 95.82274908269828
       },
-      "topAlignments": [
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 973,
-          "agreedVotes": 941,
-          "alignmentRate": 96.71120246659814
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 992,
-          "agreedVotes": 952,
-          "alignmentRate": 95.96774193548387
-        },
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 1085,
-          "agreedVotes": 1041,
-          "alignmentRate": 95.9447004608295
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 1125,
-          "agreedVotes": 1078,
-          "alignmentRate": 95.82222222222222
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 963,
-          "agreedVotes": 922,
-          "alignmentRate": 95.74247144340602
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Jared Zaifman",
-          "sharedVotes": 400,
-          "agreedVotes": 374,
-          "alignmentRate": 93.5
-        },
-        {
-          "councillor": "Phil Squire",
-          "sharedVotes": 1047,
-          "agreedVotes": 989,
-          "alignmentRate": 94.4603629417383
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 1051,
-          "agreedVotes": 993,
-          "alignmentRate": 94.48144624167459
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 792,
-          "agreedVotes": 749,
-          "alignmentRate": 94.57070707070707
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 796,
-          "agreedVotes": 756,
-          "alignmentRate": 94.9748743718593
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "j-zaifman": {
       "councillor": "Jared Zaifman",
@@ -2426,70 +1558,8 @@
         "participationRate": 99.87639060568603,
         "yeaRate": 94.86386138613861
       },
-      "topAlignments": [
-        {
-          "councillor": "Virginia Ridley",
-          "sharedVotes": 524,
-          "agreedVotes": 506,
-          "alignmentRate": 96.56488549618321
-        },
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 694,
-          "agreedVotes": 668,
-          "alignmentRate": 96.25360230547551
-        },
-        {
-          "councillor": "Maureen Cassidy",
-          "sharedVotes": 620,
-          "agreedVotes": 596,
-          "alignmentRate": 96.12903225806451
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 485,
-          "agreedVotes": 461,
-          "alignmentRate": 95.05154639175257
-        },
-        {
-          "councillor": "Stephen Turner",
-          "sharedVotes": 367,
-          "agreedVotes": 347,
-          "alignmentRate": 94.55040871934605
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 409,
-          "agreedVotes": 378,
-          "alignmentRate": 92.42053789731052
-        },
-        {
-          "councillor": "Phil Squire",
-          "sharedVotes": 409,
-          "agreedVotes": 379,
-          "alignmentRate": 92.66503667481662
-        },
-        {
-          "councillor": "Mo Salih",
-          "sharedVotes": 447,
-          "agreedVotes": 417,
-          "alignmentRate": 93.28859060402685
-        },
-        {
-          "councillor": "Anna Hopkins",
-          "sharedVotes": 537,
-          "agreedVotes": 501,
-          "alignmentRate": 93.29608938547486
-        },
-        {
-          "councillor": "Michael van Holst",
-          "sharedVotes": 463,
-          "agreedVotes": 432,
-          "alignmentRate": 93.30453563714903
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "j-f-fontana": {
       "councillor": "Joe Fontana",
@@ -2509,70 +1579,8 @@
         "participationRate": 100,
         "yeaRate": 93.02325581395348
       },
-      "topAlignments": [
-        {
-          "councillor": "Joe Swan",
-          "sharedVotes": 679,
-          "agreedVotes": 660,
-          "alignmentRate": 97.20176730486008
-        },
-        {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 920,
-          "agreedVotes": 887,
-          "alignmentRate": 96.41304347826087
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 797,
-          "agreedVotes": 760,
-          "alignmentRate": 95.35759096612296
-        },
-        {
-          "councillor": "Denise Brown",
-          "sharedVotes": 617,
-          "agreedVotes": 584,
-          "alignmentRate": 94.6515397082658
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 688,
-          "agreedVotes": 651,
-          "alignmentRate": 94.62209302325581
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 606,
-          "agreedVotes": 559,
-          "alignmentRate": 92.24422442244224
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 656,
-          "agreedVotes": 611,
-          "alignmentRate": 93.14024390243902
-        },
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 672,
-          "agreedVotes": 626,
-          "alignmentRate": 93.15476190476191
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 752,
-          "agreedVotes": 701,
-          "alignmentRate": 93.21808510638297
-        },
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 592,
-          "agreedVotes": 552,
-          "alignmentRate": 93.24324324324324
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "j-b-swan": {
       "councillor": "Joe Swan",
@@ -2592,70 +1600,8 @@
         "participationRate": 100,
         "yeaRate": 90.18817204301075
       },
-      "topAlignments": [
-        {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 679,
-          "agreedVotes": 660,
-          "alignmentRate": 97.20176730486008
-        },
-        {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 878,
-          "agreedVotes": 845,
-          "alignmentRate": 96.24145785876993
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 849,
-          "agreedVotes": 803,
-          "alignmentRate": 94.58186101295641
-        },
-        {
-          "councillor": "Denise Brown",
-          "sharedVotes": 652,
-          "agreedVotes": 615,
-          "alignmentRate": 94.32515337423312
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 701,
-          "agreedVotes": 658,
-          "alignmentRate": 93.86590584878745
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 591,
-          "agreedVotes": 542,
-          "alignmentRate": 91.70896785109983
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 574,
-          "agreedVotes": 528,
-          "alignmentRate": 91.98606271777004
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 733,
-          "agreedVotes": 679,
-          "alignmentRate": 92.63301500682128
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 646,
-          "agreedVotes": 600,
-          "alignmentRate": 92.87925696594426
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 585,
-          "agreedVotes": 545,
-          "alignmentRate": 93.16239316239316
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "s-orser": {
       "councillor": "Stephen Orser",
@@ -2675,70 +1621,8 @@
         "participationRate": 100,
         "yeaRate": 85.29411764705883
       },
-      "topAlignments": [
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 561,
-          "agreedVotes": 526,
-          "alignmentRate": 93.76114081996435
-        },
-        {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 592,
-          "agreedVotes": 552,
-          "alignmentRate": 93.24324324324324
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 718,
-          "agreedVotes": 669,
-          "alignmentRate": 93.17548746518106
-        },
-        {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 630,
-          "agreedVotes": 587,
-          "alignmentRate": 93.17460317460318
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 224,
-          "agreedVotes": 208,
-          "alignmentRate": 92.85714285714286
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 559,
-          "agreedVotes": 490,
-          "alignmentRate": 87.65652951699462
-        },
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 620,
-          "agreedVotes": 560,
-          "alignmentRate": 90.32258064516128
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 569,
-          "agreedVotes": 514,
-          "alignmentRate": 90.33391915641477
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 630,
-          "agreedVotes": 572,
-          "alignmentRate": 90.7936507936508
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 696,
-          "agreedVotes": 635,
-          "alignmentRate": 91.23563218390804
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "j-l-baechler": {
       "councillor": "Joni Baechler",
@@ -2758,70 +1642,8 @@
         "participationRate": 100,
         "yeaRate": 92.12121212121212
       },
-      "topAlignments": [
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 732,
-          "agreedVotes": 713,
-          "alignmentRate": 97.40437158469946
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 601,
-          "agreedVotes": 585,
-          "alignmentRate": 97.33777038269551
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 881,
-          "agreedVotes": 857,
-          "alignmentRate": 97.27582292849036
-        },
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 785,
-          "agreedVotes": 755,
-          "alignmentRate": 96.17834394904459
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 336,
-          "agreedVotes": 319,
-          "alignmentRate": 94.94047619047619
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 856,
-          "agreedVotes": 769,
-          "alignmentRate": 89.83644859813083
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 711,
-          "agreedVotes": 644,
-          "alignmentRate": 90.57665260196906
-        },
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 696,
-          "agreedVotes": 635,
-          "alignmentRate": 91.23563218390804
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 726,
-          "agreedVotes": 665,
-          "alignmentRate": 91.59779614325069
-        },
-        {
-          "councillor": "Joe Swan",
-          "sharedVotes": 733,
-          "agreedVotes": 679,
-          "alignmentRate": 92.63301500682128
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "n-branscombe": {
       "councillor": "Nancy Branscombe",
@@ -2841,70 +1663,8 @@
         "participationRate": 100,
         "yeaRate": 89.85645933014355
       },
-      "topAlignments": [
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 614,
-          "agreedVotes": 609,
-          "alignmentRate": 99.185667752443
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 657,
-          "agreedVotes": 640,
-          "alignmentRate": 97.4124809741248
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 601,
-          "agreedVotes": 585,
-          "alignmentRate": 97.33777038269551
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 245,
-          "agreedVotes": 236,
-          "alignmentRate": 96.3265306122449
-        },
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 563,
-          "agreedVotes": 542,
-          "alignmentRate": 96.26998223801066
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 639,
-          "agreedVotes": 570,
-          "alignmentRate": 89.2018779342723
-        },
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 569,
-          "agreedVotes": 514,
-          "alignmentRate": 90.33391915641477
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 543,
-          "agreedVotes": 491,
-          "alignmentRate": 90.42357274401473
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 568,
-          "agreedVotes": 517,
-          "alignmentRate": 91.02112676056338
-        },
-        {
-          "councillor": "Joe Swan",
-          "sharedVotes": 574,
-          "agreedVotes": 528,
-          "alignmentRate": 91.98606271777004
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "d-g-henderson": {
       "councillor": "Dale Henderson",
@@ -2924,70 +1684,8 @@
         "participationRate": 100,
         "yeaRate": 89.65231788079471
       },
-      "topAlignments": [
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 665,
-          "agreedVotes": 635,
-          "alignmentRate": 95.48872180451127
-        },
-        {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 1077,
-          "agreedVotes": 1020,
-          "alignmentRate": 94.70752089136491
-        },
-        {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 760,
-          "agreedVotes": 717,
-          "alignmentRate": 94.34210526315789
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 908,
-          "agreedVotes": 856,
-          "alignmentRate": 94.27312775330397
-        },
-        {
-          "councillor": "Joe Swan",
-          "sharedVotes": 685,
-          "agreedVotes": 640,
-          "alignmentRate": 93.43065693430657
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 248,
-          "agreedVotes": 220,
-          "alignmentRate": 88.70967741935483
-        },
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 661,
-          "agreedVotes": 588,
-          "alignmentRate": 88.95612708018155
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 639,
-          "agreedVotes": 570,
-          "alignmentRate": 89.2018779342723
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 856,
-          "agreedVotes": 769,
-          "alignmentRate": 89.83644859813083
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 730,
-          "agreedVotes": 657,
-          "alignmentRate": 90
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "b-polhill": {
       "councillor": "Bud Polhill",
@@ -3007,70 +1705,8 @@
         "participationRate": 100,
         "yeaRate": 91.79779042517576
       },
-      "topAlignments": [
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 941,
-          "agreedVotes": 912,
-          "alignmentRate": 96.91817215727949
-        },
-        {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 920,
-          "agreedVotes": 887,
-          "alignmentRate": 96.41304347826087
-        },
-        {
-          "councillor": "Joe Swan",
-          "sharedVotes": 878,
-          "agreedVotes": 845,
-          "alignmentRate": 96.24145785876993
-        },
-        {
-          "councillor": "Denise Brown",
-          "sharedVotes": 689,
-          "agreedVotes": 653,
-          "alignmentRate": 94.77503628447025
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 667,
-          "agreedVotes": 632,
-          "alignmentRate": 94.75262368815592
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 680,
-          "agreedVotes": 627,
-          "alignmentRate": 92.20588235294119
-        },
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 846,
-          "agreedVotes": 782,
-          "alignmentRate": 92.43498817966903
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 930,
-          "agreedVotes": 864,
-          "alignmentRate": 92.90322580645162
-        },
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 630,
-          "agreedVotes": 587,
-          "alignmentRate": 93.17460317460318
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 739,
-          "agreedVotes": 689,
-          "alignmentRate": 93.234100135318
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "s-white": {
       "councillor": "Sandy White",
@@ -3090,70 +1726,8 @@
         "participationRate": 100,
         "yeaRate": 91.41104294478528
       },
-      "topAlignments": [
-        {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 941,
-          "agreedVotes": 912,
-          "alignmentRate": 96.91817215727949
-        },
-        {
-          "councillor": "Joe Fontana",
-          "sharedVotes": 688,
-          "agreedVotes": 651,
-          "alignmentRate": 94.62209302325581
-        },
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 908,
-          "agreedVotes": 856,
-          "alignmentRate": 94.27312775330397
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 621,
-          "agreedVotes": 584,
-          "alignmentRate": 94.04186795491142
-        },
-        {
-          "councillor": "Denise Brown",
-          "sharedVotes": 578,
-          "agreedVotes": 543,
-          "alignmentRate": 93.9446366782007
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 561,
-          "agreedVotes": 500,
-          "alignmentRate": 89.12655971479501
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 543,
-          "agreedVotes": 491,
-          "alignmentRate": 90.42357274401473
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 726,
-          "agreedVotes": 665,
-          "alignmentRate": 91.59779614325069
-        },
-        {
-          "councillor": "Harold Usher",
-          "sharedVotes": 648,
-          "agreedVotes": 595,
-          "alignmentRate": 91.82098765432099
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 216,
-          "agreedVotes": 199,
-          "alignmentRate": 92.12962962962963
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "j-p-bryant": {
       "councillor": "Judy Bryant",
@@ -3173,70 +1747,8 @@
         "participationRate": 100,
         "yeaRate": 91.37697516930022
       },
-      "topAlignments": [
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 718,
-          "agreedVotes": 694,
-          "alignmentRate": 96.65738161559888
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 563,
-          "agreedVotes": 542,
-          "alignmentRate": 96.26998223801066
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 785,
-          "agreedVotes": 755,
-          "alignmentRate": 96.17834394904459
-        },
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 390,
-          "agreedVotes": 372,
-          "alignmentRate": 95.38461538461539
-        },
-        {
-          "councillor": "Paul Hubert",
-          "sharedVotes": 669,
-          "agreedVotes": 638,
-          "alignmentRate": 95.3662182361734
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 559,
-          "agreedVotes": 490,
-          "alignmentRate": 87.65652951699462
-        },
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 661,
-          "agreedVotes": 588,
-          "alignmentRate": 88.95612708018155
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 609,
-          "agreedVotes": 542,
-          "alignmentRate": 88.99835796387521
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 561,
-          "agreedVotes": 500,
-          "alignmentRate": 89.12655971479501
-        },
-        {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 846,
-          "agreedVotes": 782,
-          "alignmentRate": 92.43498817966903
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "d-brown": {
       "councillor": "Denise Brown",
@@ -3256,70 +1768,8 @@
         "participationRate": 100,
         "yeaRate": 90.380859375
       },
-      "topAlignments": [
-        {
-          "councillor": "Bill Armstrong",
-          "sharedVotes": 377,
-          "agreedVotes": 366,
-          "alignmentRate": 97.08222811671088
-        },
-        {
-          "councillor": "Matt Brown",
-          "sharedVotes": 762,
-          "agreedVotes": 726,
-          "alignmentRate": 95.2755905511811
-        },
-        {
-          "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 634,
-          "agreedVotes": 603,
-          "alignmentRate": 95.11041009463722
-        },
-        {
-          "councillor": "Nancy Branscombe",
-          "sharedVotes": 560,
-          "agreedVotes": 532,
-          "alignmentRate": 95
-        },
-        {
-          "councillor": "Bud Polhill",
-          "sharedVotes": 689,
-          "agreedVotes": 653,
-          "alignmentRate": 94.77503628447025
-        }
-      ],
-      "bottomAlignments": [
-        {
-          "councillor": "Stephen Orser",
-          "sharedVotes": 597,
-          "agreedVotes": 548,
-          "alignmentRate": 91.79229480737018
-        },
-        {
-          "councillor": "Dale Henderson",
-          "sharedVotes": 684,
-          "agreedVotes": 633,
-          "alignmentRate": 92.54385964912281
-        },
-        {
-          "councillor": "Joni Baechler",
-          "sharedVotes": 750,
-          "agreedVotes": 702,
-          "alignmentRate": 93.60000000000001
-        },
-        {
-          "councillor": "Judy Bryant",
-          "sharedVotes": 735,
-          "agreedVotes": 689,
-          "alignmentRate": 93.74149659863946
-        },
-        {
-          "councillor": "Sandy White",
-          "sharedVotes": 578,
-          "agreedVotes": 543,
-          "alignmentRate": 93.9446366782007
-        }
-      ]
+      "topAlignments": [],
+      "bottomAlignments": []
     },
     "m-hamou": {
       "councillor": "Mariam Hamou",
@@ -3379,22 +1829,7 @@
       "s-franke": 92.88446824789595,
       "e-peloza": 95.58173784977909,
       "d-ferreira": 90.9330985915493,
-      "s-hillier": 94.0609951845907,
-      "e-holder": 97.31489015459724,
-      "m-van-holst": 95.88342440801458,
-      "m-salih": 96.23393885688968,
-      "j-helmer": 95.7548675390999,
-      "m-cassidy": 96.67948269835722,
-      "p-squire": 95.6737941322725,
-      "s-turner": 93.48101265822784,
-      "a-kayabaga": 96.98870765370138,
-      "m-brown": 95.5964771817454,
-      "b-armstrong": 94.80642115203023,
-      "p-hubert": 94.4755804643715,
-      "v-ridley": 95.92169657422512,
-      "h-l-usher": 94.7662247034194,
-      "t-park": 95.9447004608295,
-      "j-zaifman": 96.25360230547551
+      "s-hillier": 94.0609951845907
     },
     "h-mcalister": {
       "j-morgan": 94.15680473372781,
@@ -3426,15 +1861,7 @@
       "s-franke": 91.37022397891963,
       "e-peloza": 95.4923273657289,
       "d-ferreira": 88.261253309797,
-      "s-hillier": 96.34994206257242,
-      "e-holder": 97.2027972027972,
-      "m-van-holst": 96.26633478531424,
-      "m-salih": 95.56010928961749,
-      "j-helmer": 94.66750313676286,
-      "m-cassidy": 95.49382716049382,
-      "p-squire": 96.15062761506277,
-      "s-turner": 92.33668341708542,
-      "a-kayabaga": 94.53376205787781
+      "s-hillier": 96.34994206257242
     },
     "p-cuddy": {
       "j-morgan": 95.05998588567395,
@@ -3530,15 +1957,7 @@
       "s-franke": 91.07021131561008,
       "e-peloza": 95.06680369989724,
       "d-ferreira": 87.53488372093024,
-      "s-hillier": 96.22259696458684,
-      "e-holder": 98.14682822523164,
-      "m-van-holst": 96.63461538461539,
-      "m-salih": 96.44208932626798,
-      "j-helmer": 95.37729435757988,
-      "m-cassidy": 96.55898876404494,
-      "p-squire": 97.45685740236148,
-      "s-turner": 91.95979899497488,
-      "a-kayabaga": 94.66357308584686
+      "s-hillier": 96.22259696458684
     },
     "a-hopkins": {
       "j-morgan": 93.77866972477065,
@@ -3554,22 +1973,7 @@
       "s-franke": 95.135510771369,
       "e-peloza": 92.82077393075356,
       "d-ferreira": 93.98230088495575,
-      "s-hillier": 88.30525272547077,
-      "e-holder": 93.32023575638507,
-      "m-van-holst": 93.75921375921375,
-      "m-salih": 93.84413883431564,
-      "j-helmer": 94.45802770986145,
-      "m-cassidy": 96.3938411669368,
-      "p-squire": 91.88384214445271,
-      "s-turner": 95.82172701949861,
-      "a-kayabaga": 77.38095238095238,
-      "m-brown": 96.16639477977161,
-      "b-armstrong": 93.80341880341881,
-      "p-hubert": 95.33267130089375,
-      "v-ridley": 93.72340425531915,
-      "h-l-usher": 95.52238805970148,
-      "t-park": 95.96774193548387,
-      "j-zaifman": 93.29608938547486
+      "s-hillier": 88.30525272547077
     },
     "p-van-meerbergen": {
       "j-morgan": 91.93548387096774,
@@ -3585,29 +1989,7 @@
       "s-franke": 84.21913327882257,
       "e-peloza": 90.71504802561367,
       "d-ferreira": 81.9623389494549,
-      "s-hillier": 92.60904684975768,
-      "e-holder": 94.4360902255639,
-      "m-van-holst": 93.72077488309954,
-      "m-salih": 93.25337331334332,
-      "j-helmer": 92.27441285537701,
-      "m-cassidy": 92.77357192016518,
-      "p-squire": 93.92265193370166,
-      "s-turner": 90.22082018927445,
-      "a-kayabaga": 91.61290322580645,
-      "m-brown": 92.08731241473397,
-      "b-armstrong": 90.74074074074075,
-      "p-hubert": 90.78751857355127,
-      "h-l-usher": 92.91819291819291,
-      "j-f-fontana": 94.3217665615142,
-      "j-b-swan": 92.87925696594426,
-      "s-orser": 93.17548746518106,
-      "j-l-baechler": 90.57665260196906,
-      "n-branscombe": 91.02112676056338,
-      "d-g-henderson": 95.48872180451127,
-      "b-polhill": 94.75262368815592,
-      "s-white": 94.04186795491142,
-      "j-p-bryant": 88.99835796387521,
-      "d-brown": 95.11041009463722
+      "s-hillier": 92.60904684975768
     },
     "s-franke": {
       "j-morgan": 92.88446824789595,
@@ -3639,15 +2021,7 @@
       "p-van-meerbergen": 90.71504802561367,
       "s-franke": 92.29466553767993,
       "d-ferreira": 89.49308755760369,
-      "s-hillier": 93.92608854738383,
-      "e-holder": 96.25706214689266,
-      "m-van-holst": 95.856524427953,
-      "m-salih": 96.55667144906744,
-      "j-helmer": 95.97839135654262,
-      "m-cassidy": 96.34225996080993,
-      "p-squire": 95.99644128113879,
-      "s-turner": 92.7927927927928,
-      "a-kayabaga": 95.64293304994686
+      "s-hillier": 93.92608854738383
     },
     "d-ferreira": {
       "j-morgan": 90.9330985915493,
@@ -3679,503 +2053,7 @@
       "p-van-meerbergen": 92.60904684975768,
       "s-franke": 89.20612813370474,
       "e-peloza": 93.92608854738383,
-      "d-ferreira": 85.71428571428571,
-      "e-holder": 97.15743440233237,
-      "m-van-holst": 95.4954954954955,
-      "m-salih": 94.92219492219492,
-      "j-helmer": 93.91988555078684,
-      "m-cassidy": 94.98502994011976,
-      "p-squire": 95.42981501632208,
-      "s-turner": 90.56224899598394,
-      "a-kayabaga": 94.95166487647691
-    },
-    "e-holder": {
-      "j-morgan": 97.31489015459724,
-      "s-lewis": 97.2027972027972,
-      "s-lehman": 98.14682822523164,
-      "a-hopkins": 93.32023575638507,
-      "p-van-meerbergen": 94.4360902255639,
-      "e-peloza": 96.25706214689266,
-      "s-hillier": 97.15743440233237,
-      "m-van-holst": 96.78321678321679,
-      "m-salih": 96.33848657445078,
-      "j-helmer": 96.30589760207388,
-      "m-cassidy": 96.6779661016949,
-      "p-squire": 96.29981024667931,
-      "s-turner": 90.9090909090909,
-      "a-kayabaga": 95.5719557195572
-    },
-    "m-van-holst": {
-      "j-morgan": 95.88342440801458,
-      "s-lewis": 96.26633478531424,
-      "s-lehman": 96.63461538461539,
-      "a-hopkins": 93.75921375921375,
-      "p-van-meerbergen": 93.72077488309954,
-      "e-peloza": 95.856524427953,
-      "s-hillier": 95.4954954954955,
-      "e-holder": 96.78321678321679,
-      "m-salih": 94.45414847161572,
-      "j-helmer": 94.65273509526736,
-      "m-cassidy": 95.39764359351989,
-      "p-squire": 94.69099958523435,
-      "s-turner": 92.65330904675167,
-      "a-kayabaga": 95.2481520591341,
-      "m-brown": 96.33173843700159,
-      "b-armstrong": 95.9481361426256,
-      "p-hubert": 94.97161394971614,
-      "v-ridley": 95.61338289962825,
-      "h-l-usher": 95.11343804537522,
-      "t-park": 95.31590413943356,
-      "j-zaifman": 93.30453563714903
-    },
-    "m-salih": {
-      "j-morgan": 96.23393885688968,
-      "s-lewis": 95.56010928961749,
-      "s-lehman": 96.44208932626798,
-      "a-hopkins": 93.84413883431564,
-      "p-van-meerbergen": 93.25337331334332,
-      "e-peloza": 96.55667144906744,
-      "s-hillier": 94.92219492219492,
-      "e-holder": 96.33848657445078,
-      "m-van-holst": 94.45414847161572,
-      "j-helmer": 95.93360995850622,
-      "m-cassidy": 95.7735556417216,
-      "p-squire": 94.69981238273921,
-      "s-turner": 91.6606757728253,
-      "a-kayabaga": 96.3975155279503,
-      "m-brown": 94.51518119490694,
-      "b-armstrong": 95.0354609929078,
-      "p-hubert": 92.45714285714286,
-      "v-ridley": 93.9366515837104,
-      "h-l-usher": 93.14236111111111,
-      "t-park": 94.57070707070707,
-      "j-zaifman": 93.28859060402685
-    },
-    "j-helmer": {
-      "j-morgan": 95.7548675390999,
-      "s-lewis": 94.66750313676286,
-      "s-lehman": 95.37729435757988,
-      "a-hopkins": 94.45802770986145,
-      "p-van-meerbergen": 92.27441285537701,
-      "e-peloza": 95.97839135654262,
-      "s-hillier": 93.91988555078684,
-      "e-holder": 96.30589760207388,
-      "m-van-holst": 94.65273509526736,
-      "m-salih": 95.93360995850622,
-      "m-cassidy": 96.81930353715383,
-      "p-squire": 94.32188065099457,
-      "s-turner": 93.5590421139554,
-      "a-kayabaga": 96.96969696969697,
-      "m-brown": 94.46391030133147,
-      "b-armstrong": 93.35347432024169,
-      "p-hubert": 94.02810304449649,
-      "v-ridley": 94.57627118644068,
-      "h-l-usher": 93.2935916542474,
-      "t-park": 95.60099132589839,
-      "j-zaifman": 94.45585215605749
-    },
-    "m-cassidy": {
-      "j-morgan": 96.67948269835722,
-      "s-lewis": 95.49382716049382,
-      "s-lehman": 96.55898876404494,
-      "a-hopkins": 96.3938411669368,
-      "p-van-meerbergen": 92.77357192016518,
-      "e-peloza": 96.34225996080993,
-      "s-hillier": 94.98502994011976,
-      "e-holder": 96.6779661016949,
-      "m-van-holst": 95.39764359351989,
-      "m-salih": 95.7735556417216,
-      "j-helmer": 96.81930353715383,
-      "p-squire": 95.25828835774865,
-      "s-turner": 94.26456984273821,
-      "a-kayabaga": 96.91991786447639,
-      "m-brown": 98.13664596273291,
-      "b-armstrong": 96.23931623931624,
-      "p-hubert": 96.04130808950086,
-      "v-ridley": 96.37352674524026,
-      "h-l-usher": 96.68924003009782,
-      "t-park": 95.74247144340602,
-      "j-zaifman": 96.12903225806451
-    },
-    "p-squire": {
-      "j-morgan": 95.6737941322725,
-      "s-lewis": 96.15062761506277,
-      "s-lehman": 97.45685740236148,
-      "a-hopkins": 91.88384214445271,
-      "p-van-meerbergen": 93.92265193370166,
-      "e-peloza": 95.99644128113879,
-      "s-hillier": 95.42981501632208,
-      "e-holder": 96.29981024667931,
-      "m-van-holst": 94.69099958523435,
-      "m-salih": 94.69981238273921,
-      "j-helmer": 94.32188065099457,
-      "m-cassidy": 95.25828835774865,
-      "s-turner": 91.77831912302071,
-      "a-kayabaga": 96.31336405529954,
-      "m-brown": 93.88934764657309,
-      "b-armstrong": 94.21487603305785,
-      "p-hubert": 95.4661558109834,
-      "v-ridley": 94.5054945054945,
-      "h-l-usher": 94.97354497354497,
-      "t-park": 94.4603629417383,
-      "j-zaifman": 92.66503667481662
-    },
-    "s-turner": {
-      "j-morgan": 93.48101265822784,
-      "s-lewis": 92.33668341708542,
-      "s-lehman": 91.95979899497488,
-      "a-hopkins": 95.82172701949861,
-      "p-van-meerbergen": 90.22082018927445,
-      "e-peloza": 92.7927927927928,
-      "s-hillier": 90.56224899598394,
-      "e-holder": 90.9090909090909,
-      "m-van-holst": 92.65330904675167,
-      "m-salih": 91.6606757728253,
-      "j-helmer": 93.5590421139554,
-      "m-cassidy": 94.26456984273821,
-      "p-squire": 91.77831912302071,
-      "a-kayabaga": 68.29268292682927,
-      "m-brown": 94.9725776965265,
-      "b-armstrong": 93.63745498199279,
-      "p-hubert": 95.19752130131681,
-      "v-ridley": 93.00361881785284,
-      "h-l-usher": 94.5754716981132,
-      "t-park": 95.09981851179673,
-      "j-zaifman": 94.55040871934605
-    },
-    "a-kayabaga": {
-      "j-morgan": 96.98870765370138,
-      "s-lewis": 94.53376205787781,
-      "s-lehman": 94.66357308584686,
-      "a-hopkins": 77.38095238095238,
-      "p-van-meerbergen": 91.61290322580645,
-      "e-peloza": 95.64293304994686,
-      "s-hillier": 94.95166487647691,
-      "e-holder": 95.5719557195572,
-      "m-van-holst": 95.2481520591341,
-      "m-salih": 96.3975155279503,
-      "j-helmer": 96.96969696969697,
-      "m-cassidy": 96.91991786447639,
-      "p-squire": 96.31336405529954,
-      "s-turner": 68.29268292682927
-    },
-    "m-brown": {
-      "j-morgan": 95.5964771817454,
-      "a-hopkins": 96.16639477977161,
-      "p-van-meerbergen": 92.08731241473397,
-      "m-van-holst": 96.33173843700159,
-      "m-salih": 94.51518119490694,
-      "j-helmer": 94.46391030133147,
-      "m-cassidy": 98.13664596273291,
-      "p-squire": 93.88934764657309,
-      "s-turner": 94.9725776965265,
-      "b-armstrong": 96.32598530394122,
-      "p-hubert": 97.36024844720497,
-      "v-ridley": 95.74283231972198,
-      "h-l-usher": 95.96273291925466,
-      "t-park": 96.71120246659814,
-      "j-zaifman": 95.05154639175257,
-      "j-f-fontana": 93.14024390243902,
-      "j-b-swan": 93.86590584878745,
-      "s-orser": 91.49560117302052,
-      "j-l-baechler": 97.40437158469946,
-      "n-branscombe": 99.185667752443,
-      "d-g-henderson": 90,
-      "b-polhill": 93.234100135318,
-      "s-white": 92.3076923076923,
-      "j-p-bryant": 96.65738161559888,
-      "d-brown": 95.2755905511811
-    },
-    "b-armstrong": {
-      "j-morgan": 94.80642115203023,
-      "a-hopkins": 93.80341880341881,
-      "p-van-meerbergen": 90.74074074074075,
-      "m-van-holst": 95.9481361426256,
-      "m-salih": 95.0354609929078,
-      "j-helmer": 93.35347432024169,
-      "m-cassidy": 96.23931623931624,
-      "p-squire": 94.21487603305785,
-      "s-turner": 93.63745498199279,
-      "m-brown": 96.32598530394122,
-      "p-hubert": 96.0536113179449,
-      "v-ridley": 95.94694178334562,
-      "h-l-usher": 96.54714475431607,
-      "t-park": 94.9748743718593,
-      "j-zaifman": 94.05286343612335,
-      "j-f-fontana": 93.27354260089686,
-      "j-b-swan": 93.80530973451327,
-      "s-orser": 92.85714285714286,
-      "j-l-baechler": 94.94047619047619,
-      "n-branscombe": 96.3265306122449,
-      "d-g-henderson": 88.70967741935483,
-      "b-polhill": 94.0959409594096,
-      "s-white": 92.12962962962963,
-      "j-p-bryant": 95.38461538461539,
-      "d-brown": 97.08222811671088
-    },
-    "p-hubert": {
-      "j-morgan": 94.4755804643715,
-      "a-hopkins": 95.33267130089375,
-      "p-van-meerbergen": 90.78751857355127,
-      "m-van-holst": 94.97161394971614,
-      "m-salih": 92.45714285714286,
-      "j-helmer": 94.02810304449649,
-      "m-cassidy": 96.04130808950086,
-      "p-squire": 95.4661558109834,
-      "s-turner": 95.19752130131681,
-      "m-brown": 97.36024844720497,
-      "b-armstrong": 96.0536113179449,
-      "v-ridley": 94.49035812672176,
-      "h-l-usher": 95.44962080173349,
-      "t-park": 95.82222222222222,
-      "j-zaifman": 92.42053789731052,
-      "j-f-fontana": 94.4954128440367,
-      "j-b-swan": 93.5251798561151,
-      "s-orser": 90.7936507936508,
-      "j-l-baechler": 97.27582292849036,
-      "n-branscombe": 97.4124809741248,
-      "d-g-henderson": 91.96261682242991,
-      "b-polhill": 94.29347826086956,
-      "s-white": 93.66120218579235,
-      "j-p-bryant": 95.3662182361734,
-      "d-brown": 94.33962264150944
-    },
-    "v-ridley": {
-      "j-morgan": 95.92169657422512,
-      "a-hopkins": 93.72340425531915,
-      "m-van-holst": 95.61338289962825,
-      "m-salih": 93.9366515837104,
-      "j-helmer": 94.57627118644068,
-      "m-cassidy": 96.37352674524026,
-      "p-squire": 94.5054945054945,
-      "s-turner": 93.00361881785284,
-      "m-brown": 95.74283231972198,
-      "b-armstrong": 95.94694178334562,
-      "p-hubert": 94.49035812672176,
-      "h-l-usher": 94.95481927710844,
-      "t-park": 95.07109004739337,
-      "j-zaifman": 96.56488549618321
-    },
-    "h-l-usher": {
-      "j-morgan": 94.7662247034194,
-      "a-hopkins": 95.52238805970148,
-      "p-van-meerbergen": 92.91819291819291,
-      "m-van-holst": 95.11343804537522,
-      "m-salih": 93.14236111111111,
-      "j-helmer": 93.2935916542474,
-      "m-cassidy": 96.68924003009782,
-      "p-squire": 94.97354497354497,
-      "s-turner": 94.5754716981132,
-      "m-brown": 95.96273291925466,
-      "b-armstrong": 96.54714475431607,
-      "p-hubert": 95.44962080173349,
-      "v-ridley": 94.95481927710844,
-      "t-park": 94.48144624167459,
-      "j-zaifman": 94.28571428571428,
-      "j-f-fontana": 95.35759096612296,
-      "j-b-swan": 94.58186101295641,
-      "s-orser": 91.43920595533498,
-      "j-l-baechler": 94.67969598262758,
-      "n-branscombe": 94.65408805031447,
-      "d-g-henderson": 91.5041782729805,
-      "b-polhill": 93.75696767001115,
-      "s-white": 91.82098765432099,
-      "j-p-bryant": 95.30892448512586,
-      "d-brown": 94.4954128440367
-    },
-    "t-park": {
-      "j-morgan": 95.9447004608295,
-      "a-hopkins": 95.96774193548387,
-      "m-van-holst": 95.31590413943356,
-      "m-salih": 94.57070707070707,
-      "j-helmer": 95.60099132589839,
-      "m-cassidy": 95.74247144340602,
-      "p-squire": 94.4603629417383,
-      "s-turner": 95.09981851179673,
-      "m-brown": 96.71120246659814,
-      "b-armstrong": 94.9748743718593,
-      "p-hubert": 95.82222222222222,
-      "v-ridley": 95.07109004739337,
-      "h-l-usher": 94.48144624167459,
-      "j-zaifman": 93.5
-    },
-    "j-zaifman": {
-      "j-morgan": 96.25360230547551,
-      "a-hopkins": 93.29608938547486,
-      "m-van-holst": 93.30453563714903,
-      "m-salih": 93.28859060402685,
-      "j-helmer": 94.45585215605749,
-      "m-cassidy": 96.12903225806451,
-      "p-squire": 92.66503667481662,
-      "s-turner": 94.55040871934605,
-      "m-brown": 95.05154639175257,
-      "b-armstrong": 94.05286343612335,
-      "p-hubert": 92.42053789731052,
-      "v-ridley": 96.56488549618321,
-      "h-l-usher": 94.28571428571428,
-      "t-park": 93.5
-    },
-    "j-f-fontana": {
-      "p-van-meerbergen": 94.3217665615142,
-      "m-brown": 93.14024390243902,
-      "b-armstrong": 93.27354260089686,
-      "p-hubert": 94.4954128440367,
-      "h-l-usher": 95.35759096612296,
-      "j-b-swan": 97.20176730486008,
-      "s-orser": 93.24324324324324,
-      "j-l-baechler": 93.21808510638297,
-      "n-branscombe": 92.24422442244224,
-      "d-g-henderson": 94.34210526315789,
-      "b-polhill": 96.41304347826087,
-      "s-white": 94.62209302325581,
-      "j-p-bryant": 93.15476190476191,
-      "d-brown": 94.6515397082658
-    },
-    "j-b-swan": {
-      "p-van-meerbergen": 92.87925696594426,
-      "m-brown": 93.86590584878745,
-      "b-armstrong": 93.80530973451327,
-      "p-hubert": 93.5251798561151,
-      "h-l-usher": 94.58186101295641,
-      "j-f-fontana": 97.20176730486008,
-      "s-orser": 91.70896785109983,
-      "j-l-baechler": 92.63301500682128,
-      "n-branscombe": 91.98606271777004,
-      "d-g-henderson": 93.43065693430657,
-      "b-polhill": 96.24145785876993,
-      "s-white": 93.16239316239316,
-      "j-p-bryant": 93.40937896070976,
-      "d-brown": 94.32515337423312
-    },
-    "s-orser": {
-      "p-van-meerbergen": 93.17548746518106,
-      "m-brown": 91.49560117302052,
-      "b-armstrong": 92.85714285714286,
-      "p-hubert": 90.7936507936508,
-      "h-l-usher": 91.43920595533498,
-      "j-f-fontana": 93.24324324324324,
-      "j-b-swan": 91.70896785109983,
-      "j-l-baechler": 91.23563218390804,
-      "n-branscombe": 90.33391915641477,
-      "d-g-henderson": 90.32258064516128,
-      "b-polhill": 93.17460317460318,
-      "s-white": 93.76114081996435,
-      "j-p-bryant": 87.65652951699462,
-      "d-brown": 91.79229480737018
-    },
-    "j-l-baechler": {
-      "p-van-meerbergen": 90.57665260196906,
-      "m-brown": 97.40437158469946,
-      "b-armstrong": 94.94047619047619,
-      "p-hubert": 97.27582292849036,
-      "h-l-usher": 94.67969598262758,
-      "j-f-fontana": 93.21808510638297,
-      "j-b-swan": 92.63301500682128,
-      "s-orser": 91.23563218390804,
-      "n-branscombe": 97.33777038269551,
-      "d-g-henderson": 89.83644859813083,
-      "b-polhill": 92.90322580645162,
-      "s-white": 91.59779614325069,
-      "j-p-bryant": 96.17834394904459,
-      "d-brown": 93.60000000000001
-    },
-    "n-branscombe": {
-      "p-van-meerbergen": 91.02112676056338,
-      "m-brown": 99.185667752443,
-      "b-armstrong": 96.3265306122449,
-      "p-hubert": 97.4124809741248,
-      "h-l-usher": 94.65408805031447,
-      "j-f-fontana": 92.24422442244224,
-      "j-b-swan": 91.98606271777004,
-      "s-orser": 90.33391915641477,
-      "j-l-baechler": 97.33777038269551,
-      "d-g-henderson": 89.2018779342723,
-      "b-polhill": 92.20588235294119,
-      "s-white": 90.42357274401473,
-      "j-p-bryant": 96.26998223801066,
-      "d-brown": 95
-    },
-    "d-g-henderson": {
-      "p-van-meerbergen": 95.48872180451127,
-      "m-brown": 90,
-      "b-armstrong": 88.70967741935483,
-      "p-hubert": 91.96261682242991,
-      "h-l-usher": 91.5041782729805,
-      "j-f-fontana": 94.34210526315789,
-      "j-b-swan": 93.43065693430657,
-      "s-orser": 90.32258064516128,
-      "j-l-baechler": 89.83644859813083,
-      "n-branscombe": 89.2018779342723,
-      "b-polhill": 94.70752089136491,
-      "s-white": 94.27312775330397,
-      "j-p-bryant": 88.95612708018155,
-      "d-brown": 92.54385964912281
-    },
-    "b-polhill": {
-      "p-van-meerbergen": 94.75262368815592,
-      "m-brown": 93.234100135318,
-      "b-armstrong": 94.0959409594096,
-      "p-hubert": 94.29347826086956,
-      "h-l-usher": 93.75696767001115,
-      "j-f-fontana": 96.41304347826087,
-      "j-b-swan": 96.24145785876993,
-      "s-orser": 93.17460317460318,
-      "j-l-baechler": 92.90322580645162,
-      "n-branscombe": 92.20588235294119,
-      "d-g-henderson": 94.70752089136491,
-      "s-white": 96.91817215727949,
-      "j-p-bryant": 92.43498817966903,
-      "d-brown": 94.77503628447025
-    },
-    "s-white": {
-      "p-van-meerbergen": 94.04186795491142,
-      "m-brown": 92.3076923076923,
-      "b-armstrong": 92.12962962962963,
-      "p-hubert": 93.66120218579235,
-      "h-l-usher": 91.82098765432099,
-      "j-f-fontana": 94.62209302325581,
-      "j-b-swan": 93.16239316239316,
-      "s-orser": 93.76114081996435,
-      "j-l-baechler": 91.59779614325069,
-      "n-branscombe": 90.42357274401473,
-      "d-g-henderson": 94.27312775330397,
-      "b-polhill": 96.91817215727949,
-      "j-p-bryant": 89.12655971479501,
-      "d-brown": 93.9446366782007
-    },
-    "j-p-bryant": {
-      "p-van-meerbergen": 88.99835796387521,
-      "m-brown": 96.65738161559888,
-      "b-armstrong": 95.38461538461539,
-      "p-hubert": 95.3662182361734,
-      "h-l-usher": 95.30892448512586,
-      "j-f-fontana": 93.15476190476191,
-      "j-b-swan": 93.40937896070976,
-      "s-orser": 87.65652951699462,
-      "j-l-baechler": 96.17834394904459,
-      "n-branscombe": 96.26998223801066,
-      "d-g-henderson": 88.95612708018155,
-      "b-polhill": 92.43498817966903,
-      "s-white": 89.12655971479501,
-      "d-brown": 93.74149659863946
-    },
-    "d-brown": {
-      "p-van-meerbergen": 95.11041009463722,
-      "m-brown": 95.2755905511811,
-      "b-armstrong": 97.08222811671088,
-      "p-hubert": 94.33962264150944,
-      "h-l-usher": 94.4954128440367,
-      "j-f-fontana": 94.6515397082658,
-      "j-b-swan": 94.32515337423312,
-      "s-orser": 91.79229480737018,
-      "j-l-baechler": 93.60000000000001,
-      "n-branscombe": 95,
-      "d-g-henderson": 92.54385964912281,
-      "b-polhill": 94.77503628447025,
-      "s-white": 93.9446366782007,
-      "j-p-bryant": 93.74149659863946
-    },
-    "m-hamou": {},
-    "j-fyfe-millar": {}
+      "d-ferreira": 85.71428571428571
+    }
   }
 }

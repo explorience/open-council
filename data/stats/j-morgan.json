@@ -18,34 +18,34 @@
   },
   "topAlignments": [
     {
-      "councillor": "Ed Holder",
-      "sharedVotes": 1229,
-      "agreedVotes": 1196,
-      "alignmentRate": 97.31489015459724
-    },
-    {
-      "councillor": "Arielle Kayabaga",
-      "sharedVotes": 797,
-      "agreedVotes": 773,
-      "alignmentRate": 96.98870765370138
-    },
-    {
-      "councillor": "Maureen Cassidy",
-      "sharedVotes": 2861,
-      "agreedVotes": 2766,
-      "alignmentRate": 96.67948269835722
-    },
-    {
       "councillor": "Steve Lehman",
       "sharedVotes": 2693,
       "agreedVotes": 2596,
       "alignmentRate": 96.39806906795395
     },
     {
-      "councillor": "Jared Zaifman",
-      "sharedVotes": 694,
-      "agreedVotes": 668,
-      "alignmentRate": 96.25360230547551
+      "councillor": "Shawn Lewis",
+      "sharedVotes": 2906,
+      "agreedVotes": 2791,
+      "alignmentRate": 96.04267033723332
+    },
+    {
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 2716,
+      "agreedVotes": 2596,
+      "alignmentRate": 95.58173784977909
+    },
+    {
+      "councillor": "Peter Cuddy",
+      "sharedVotes": 1417,
+      "agreedVotes": 1347,
+      "alignmentRate": 95.05998588567395
+    },
+    {
+      "councillor": "Jerry Pribil",
+      "sharedVotes": 1411,
+      "agreedVotes": 1338,
+      "alignmentRate": 94.82636428065202
     }
   ],
   "bottomAlignments": [

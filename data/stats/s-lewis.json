@@ -24,12 +24,6 @@
       "alignmentRate": 97.60797342192691
     },
     {
-      "councillor": "Ed Holder",
-      "sharedVotes": 1573,
-      "agreedVotes": 1529,
-      "alignmentRate": 97.2027972027972
-    },
-    {
       "councillor": "Steve Lehman",
       "sharedVotes": 3352,
       "agreedVotes": 3255,
@@ -42,10 +36,16 @@
       "alignmentRate": 96.34994206257242
     },
     {
-      "councillor": "Michael van Holst",
-      "sharedVotes": 1607,
-      "agreedVotes": 1547,
-      "alignmentRate": 96.26633478531424
+      "councillor": "Josh Morgan",
+      "sharedVotes": 2906,
+      "agreedVotes": 2791,
+      "alignmentRate": 96.04267033723332
+    },
+    {
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 3128,
+      "agreedVotes": 2987,
+      "alignmentRate": 95.4923273657289
     }
   ],
   "bottomAlignments": [

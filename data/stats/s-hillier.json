@@ -18,12 +18,6 @@
   },
   "topAlignments": [
     {
-      "councillor": "Ed Holder",
-      "sharedVotes": 1372,
-      "agreedVotes": 1333,
-      "alignmentRate": 97.15743440233237
-    },
-    {
       "councillor": "Shawn Lewis",
       "sharedVotes": 3452,
       "agreedVotes": 3326,
@@ -36,16 +30,22 @@
       "alignmentRate": 96.22259696458684
     },
     {
-      "councillor": "Michael van Holst",
-      "sharedVotes": 1332,
-      "agreedVotes": 1272,
-      "alignmentRate": 95.4954954954955
+      "councillor": "Peter Cuddy",
+      "sharedVotes": 1441,
+      "agreedVotes": 1368,
+      "alignmentRate": 94.93407356002776
     },
     {
-      "councillor": "Phil Squire",
-      "sharedVotes": 919,
-      "agreedVotes": 877,
-      "alignmentRate": 95.42981501632208
+      "councillor": "Josh Morgan",
+      "sharedVotes": 2492,
+      "agreedVotes": 2344,
+      "alignmentRate": 94.0609951845907
+    },
+    {
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 2733,
+      "agreedVotes": 2567,
+      "alignmentRate": 93.92608854738383
     }
   ],
   "bottomAlignments": [

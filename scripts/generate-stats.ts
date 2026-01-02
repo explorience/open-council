@@ -118,6 +118,17 @@ function normalizeAttendeeName(name: string): string | null {
   return normalizeCouncillorName(cleaned)
 }
 
+// Check if a councillor is on the current council term (2022-2026)
+function isCurrentCouncillor(
+  canonicalName: string,
+  registry: ReturnType<typeof loadRegistry>
+): boolean {
+  const info = registry[canonicalName]
+  if (!info || !info.terms || info.terms.length === 0) return false
+  // Current term is 2022-2026
+  return info.terms.some((t) => t.start <= 2022 && t.end >= 2026)
+}
+
 async function main() {
   console.log("📊 Councillor Statistics Generator\n")
 
@@ -308,8 +319,17 @@ async function main() {
   // ============================================
   console.log("\n🤝 Calculating voting alignment...")
 
-  // Get all councillor slugs
-  const allSlugs = Object.keys(councillorStats)
+  // Get ONLY current councillor slugs (2022-2026 term) for alignment matrix
+  // This prevents old councillors (e.g., Ed Holder) from polluting alignment data
+  const currentCouncillorSlugs = new Set(
+    Object.keys(registry)
+      .filter((canonicalName) => isCurrentCouncillor(canonicalName, registry))
+      .map((name) => getSlug(name))
+  )
+  const allSlugs = Object.keys(councillorStats).filter((slug) =>
+    currentCouncillorSlugs.has(slug)
+  )
+  console.log(`   Filtering to ${allSlugs.length} current councillors for alignment`)
 
   // Pairwise alignment counts
   const alignmentCounts: Map<
