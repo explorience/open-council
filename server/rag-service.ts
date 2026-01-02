@@ -1058,6 +1058,12 @@ export class RAGService {
       /did .+ vote (for|against|yes|no)/,
       /has .+ (ever )?voted/,
       /.+ (support|oppose|vote).*(on|for|against)/,
+      // Additional patterns for prediction/analysis queries
+      /what predicts.*(vote|voting)/,
+      /how will .+ vote/,
+      /.+ voting (pattern|behavior|tendency|tendencies)/,
+      /who.*(opposition|bloc|coalition|majority)/,
+      /(progressive|conservative|fiscal).*(councillor|bloc|group)/,
     ];
 
     // Check if query matches voting patterns
