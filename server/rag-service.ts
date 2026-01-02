@@ -25,10 +25,11 @@ export interface ChatMetadataCollector {
 const EMBEDDING_MODEL = 'text-embedding-3-small';
 
 // Dynamic TOP_K values based on query complexity
-const TOP_K_SIMPLE = 10;      // Single meeting, specific question
-const TOP_K_MEDIUM = 30;      // Multiple meetings, specific topic
-const TOP_K_COMPLEX = 80;     // Multi-year, broad policy tracking
-const TOP_K_COMPREHENSIVE = 150; // Comprehensive historical analysis
+// Increased for llama-3.3-70b (128K context) - more context = better accuracy
+const TOP_K_SIMPLE = 20;      // Single meeting, specific question
+const TOP_K_MEDIUM = 60;      // Multiple meetings, specific topic
+const TOP_K_COMPLEX = 150;    // Multi-year, broad policy tracking
+const TOP_K_COMPREHENSIVE = 250; // Comprehensive historical analysis
 
 export type LLMProvider = 'openai' | 'anthropic' | 'openrouter';
 
