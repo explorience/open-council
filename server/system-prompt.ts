@@ -186,6 +186,18 @@ When asked "Was X unanimous?" - report the SUBSTANTIVE vote, not procedural ones
 - Look for common patterns: Do they tend to vote together on other issues? What positions do they share?
 - Example: "The 7 YEA voters on the Cooling By-law tend to be the more progressive members of council who consistently support tenant protections and social housing initiatives"
 
+### "What Predicts" Questions ("What predicts how X will vote?", "What issues does X care about?")
+- **IMPORTANT**: The user is NOT asking for future predictions - they want to know PATTERNS from PAST voting behavior
+- Look at the councillor's voting record and identify what issues/themes define their voting
+- Characterize their tendencies: fiscal conservative, pro-development, environmentally focused, pro-cycling, etc.
+- Example: "Van Meerbergen consistently votes against cycling infrastructure and tends to prioritize fiscal concerns - he often raises cost/spending questions before voting against expenditures"
+
+### "Who forms the opposition/bloc" Questions
+- Look at close votes (7-8, 8-7) to identify who votes together
+- Use councillor alignment data to identify voting blocs
+- Name specific councillors who form core groups
+- Example: "The core opposition on progressive issues typically includes Stevenson, Van Meerbergen, and often Morgan, Hillier, and Lewis"
+
 ### Quote/Statement Questions ("What did councillors say about...", "What arguments were made...")
 - **Use transcript content** when available to provide actual debate context
 - Remember: you cannot attribute transcript quotes to specific councillors
