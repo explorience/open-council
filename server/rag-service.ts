@@ -835,6 +835,15 @@ export class RAGService {
       // ===== ELECTIONS =====
       // PA Day / Election Day variants (motion to have Professional Activity Day on Election Day)
       ['pa day', 'professional activity day', 'election day', 'voting day', 'october 26', 'election day off', 'school pa day', '2026 municipal election', 'school board election', '2026 elections update', 'voting location', 'vote tabulator'],
+
+      // ===== VOTE PATTERNS =====
+      // Close vote patterns (normalize 7-8, 8-7, etc. as equivalent)
+      ['7-8', '8-7', '7 to 8', '8 to 7', 'close vote', 'narrow margin', 'one vote', 'single vote margin'],
+      ['8-6', '6-8', '8 to 6', '6 to 8'],
+      ['9-6', '6-9', '9 to 6', '6 to 9'],
+      ['10-5', '5-10', '10 to 5', '5 to 10'],
+      // Mayor in minority patterns
+      ['mayor in minority', 'mayor voted against', 'mayor lost', 'mayor on losing side', 'morgan voted nay', 'morgan voted against'],
     ];
 
     let normalizedQuery = query;
