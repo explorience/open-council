@@ -45,8 +45,8 @@ Summary generation failed. Please try again later.
 
 **Most aligned with:**
 - Peter Cuddy (97.6%)
-- Ed Holder (97.2%)
 - Steve Lehman (97.1%)
+- Steve Hillier (96.3%)
 
 **Least aligned with:**
 - Sam Trosow (83.1%)

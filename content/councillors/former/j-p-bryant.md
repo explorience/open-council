@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 156
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Matt Brown (96.7%)
-- Nancy Branscombe (96.3%)
-- Joni Baechler (96.2%)
-
-**Least aligned with:**
-- Stephen Orser (87.7%)
-- Dale Henderson (89.0%)
-- Paul Van Meerbergen (89.0%)
-
-
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)

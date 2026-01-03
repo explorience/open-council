@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 503
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Matt Brown (98.1%)
-- Arielle Kayabaga (96.9%)
-- Jesse Helmer (96.8%)
-
-**Least aligned with:**
-- Paul Van Meerbergen (92.8%)
-- Stephen Turner (94.3%)
-- Steve Hillier (95.0%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

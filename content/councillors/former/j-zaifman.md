@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 463
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Virginia Ridley (96.6%)
-- Josh Morgan (96.3%)
-- Maureen Cassidy (96.1%)
-
-**Least aligned with:**
-- Paul Hubert (92.4%)
-- Phil Squire (92.7%)
-- Mo Salih (93.3%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

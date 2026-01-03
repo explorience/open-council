@@ -44,9 +44,9 @@ Summary generation failed. Please try again later.
 ## Voting Alignment
 
 **Most aligned with:**
-- Ed Holder (97.2%)
 - Shawn Lewis (96.3%)
 - Steve Lehman (96.2%)
+- Peter Cuddy (94.9%)
 
 **Least aligned with:**
 - Sam Trosow (81.3%)

@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 363
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Matt Brown (96.7%)
-- Anna Hopkins (96.0%)
-- Josh Morgan (95.9%)
-
-**Least aligned with:**
-- Jared Zaifman (93.5%)
-- Phil Squire (94.5%)
-- Harold Usher (94.5%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

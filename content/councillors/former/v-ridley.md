@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 378
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Jared Zaifman (96.6%)
-- Maureen Cassidy (96.4%)
-- Bill Armstrong (95.9%)
-
-**Least aligned with:**
-- Stephen Turner (93.0%)
-- Anna Hopkins (93.7%)
-- Mo Salih (93.9%)
-
-
 ## Committees Served
 
 - [Civic Works Committee](/committees/civic-works)

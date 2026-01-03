@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 654
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Elizabeth Peloza (96.6%)
-- Steve Lehman (96.4%)
-- Arielle Kayabaga (96.4%)
-
-**Least aligned with:**
-- Stephen Turner (91.7%)
-- Paul Hubert (92.5%)
-- Harold Usher (93.1%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

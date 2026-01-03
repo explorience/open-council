@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 536
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Steve Lehman (97.5%)
-- Arielle Kayabaga (96.3%)
-- Ed Holder (96.3%)
-
-**Least aligned with:**
-- Stephen Turner (91.8%)
-- Anna Hopkins (91.9%)
-- Jared Zaifman (92.7%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

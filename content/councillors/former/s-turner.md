@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 593
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Anna Hopkins (95.8%)
-- Paul Hubert (95.2%)
-- Tanya Park (95.1%)
-
-**Least aligned with:**
-- Arielle Kayabaga (68.3%)
-- Paul Van Meerbergen (90.2%)
-- Steve Hillier (90.6%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

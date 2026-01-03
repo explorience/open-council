@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 213
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Sandy White (93.8%)
-- Joe Fontana (93.2%)
-- Paul Van Meerbergen (93.2%)
-
-**Least aligned with:**
-- Judy Bryant (87.7%)
-- Dale Henderson (90.3%)
-- Nancy Branscombe (90.3%)
-
-
 ## Committees Served
 
 - [Civic Works Committee](/committees/civic-works)

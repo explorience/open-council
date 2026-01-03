@@ -44,14 +44,14 @@ Summary generation failed. Please try again later.
 ## Voting Alignment
 
 **Most aligned with:**
-- Maureen Cassidy (96.4%)
-- Matt Brown (96.2%)
-- Tanya Park (96.0%)
+- Skylar Franke (95.1%)
+- Hadleigh McAlister (94.2%)
+- David Ferreira (94.0%)
 
 **Least aligned with:**
-- Arielle Kayabaga (77.4%)
 - Susan Stevenson (81.5%)
 - Paul Van Meerbergen (86.1%)
+- Steve Hillier (88.3%)
 
 
 ## Committees Served

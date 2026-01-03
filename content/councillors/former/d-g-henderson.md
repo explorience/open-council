@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 182
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Paul Van Meerbergen (95.5%)
-- Bud Polhill (94.7%)
-- Joe Fontana (94.3%)
-
-**Least aligned with:**
-- Bill Armstrong (88.7%)
-- Judy Bryant (89.0%)
-- Nancy Branscombe (89.2%)
-
-
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)

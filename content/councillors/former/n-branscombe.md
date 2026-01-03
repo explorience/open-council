@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 218
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Matt Brown (99.2%)
-- Paul Hubert (97.4%)
-- Joni Baechler (97.3%)
-
-**Least aligned with:**
-- Dale Henderson (89.2%)
-- Stephen Orser (90.3%)
-- Sandy White (90.4%)
-
-
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)

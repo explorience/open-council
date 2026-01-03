@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 131
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Sandy White (96.9%)
-- Joe Fontana (96.4%)
-- Joe Swan (96.2%)
-
-**Least aligned with:**
-- Nancy Branscombe (92.2%)
-- Judy Bryant (92.4%)
-- Joni Baechler (92.9%)
-
-
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)

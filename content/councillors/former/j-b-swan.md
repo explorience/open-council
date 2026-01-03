@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 179
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Joe Fontana (97.2%)
-- Bud Polhill (96.2%)
-- Harold Usher (94.6%)
-
-**Least aligned with:**
-- Stephen Orser (91.7%)
-- Nancy Branscombe (92.0%)
-- Joni Baechler (92.6%)
-
-
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)

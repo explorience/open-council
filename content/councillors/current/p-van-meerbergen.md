@@ -45,9 +45,9 @@ Summary generation failed. Please try again later.
 ## Voting Alignment
 
 **Most aligned with:**
-- Dale Henderson (95.5%)
-- Denise Brown (95.1%)
-- Bud Polhill (94.8%)
+- Steve Lehman (93.5%)
+- Shawn Lewis (92.7%)
+- Steve Hillier (92.6%)
 
 **Least aligned with:**
 - Sam Trosow (78.2%)

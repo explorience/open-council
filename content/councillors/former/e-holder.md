@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 211
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Steve Lehman (98.1%)
-- Josh Morgan (97.3%)
-- Shawn Lewis (97.2%)
-
-**Least aligned with:**
-- Stephen Turner (90.9%)
-- Anna Hopkins (93.3%)
-- Paul Van Meerbergen (94.4%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

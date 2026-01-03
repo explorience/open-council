@@ -45,9 +45,9 @@ Summary generation failed. Please try again later.
 ## Voting Alignment
 
 **Most aligned with:**
-- Ed Holder (97.3%)
-- Arielle Kayabaga (97.0%)
-- Maureen Cassidy (96.7%)
+- Steve Lehman (96.4%)
+- Shawn Lewis (96.0%)
+- Elizabeth Peloza (95.6%)
 
 **Least aligned with:**
 - Sam Trosow (85.9%)

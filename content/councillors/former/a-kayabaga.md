@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 252
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Josh Morgan (97.0%)
-- Jesse Helmer (97.0%)
-- Maureen Cassidy (96.9%)
-
-**Least aligned with:**
-- Stephen Turner (68.3%)
-- Anna Hopkins (77.4%)
-- Paul Van Meerbergen (91.6%)
-
-
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)

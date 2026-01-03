@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 450
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Arielle Kayabaga (97.0%)
-- Maureen Cassidy (96.8%)
-- Ed Holder (96.3%)
-
-**Least aligned with:**
-- Paul Van Meerbergen (92.3%)
-- Harold Usher (93.3%)
-- Bill Armstrong (93.4%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

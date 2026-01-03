@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 202
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Joe Swan (97.2%)
-- Bud Polhill (96.4%)
-- Harold Usher (95.4%)
-
-**Least aligned with:**
-- Nancy Branscombe (92.2%)
-- Matt Brown (93.1%)
-- Judy Bryant (93.2%)
-
-
 ## Committees Served
 
 - [Corporate Services Committee](/committees/corporate-services)

@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 586
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Ed Holder (96.8%)
-- Steve Lehman (96.6%)
-- Matt Brown (96.3%)
-
-**Least aligned with:**
-- Stephen Turner (92.7%)
-- Jared Zaifman (93.3%)
-- Paul Van Meerbergen (93.7%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

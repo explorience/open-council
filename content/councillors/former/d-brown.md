@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 229
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Bill Armstrong (97.1%)
-- Matt Brown (95.3%)
-- Paul Van Meerbergen (95.1%)
-
-**Least aligned with:**
-- Stephen Orser (91.8%)
-- Dale Henderson (92.5%)
-- Joni Baechler (93.6%)
-
-
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)

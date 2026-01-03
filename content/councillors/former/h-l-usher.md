@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 373
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Maureen Cassidy (96.7%)
-- Bill Armstrong (96.5%)
-- Matt Brown (96.0%)
-
-**Least aligned with:**
-- Stephen Orser (91.4%)
-- Dale Henderson (91.5%)
-- Sandy White (91.8%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

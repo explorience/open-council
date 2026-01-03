@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 430
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Nancy Branscombe (97.4%)
-- Matt Brown (97.4%)
-- Joni Baechler (97.3%)
-
-**Least aligned with:**
-- Paul Van Meerbergen (90.8%)
-- Stephen Orser (90.8%)
-- Dale Henderson (92.0%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

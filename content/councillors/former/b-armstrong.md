@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 567
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Denise Brown (97.1%)
-- Harold Usher (96.5%)
-- Nancy Branscombe (96.3%)
-
-**Least aligned with:**
-- Dale Henderson (88.7%)
-- Paul Van Meerbergen (90.7%)
-- Sandy White (92.1%)
-
-
 ## Committees Served
 
 - [City Council](/committees/city-council)

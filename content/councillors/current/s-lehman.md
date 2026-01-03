@@ -44,9 +44,9 @@ Summary generation failed. Please try again later.
 ## Voting Alignment
 
 **Most aligned with:**
-- Ed Holder (98.1%)
-- Phil Squire (97.5%)
 - Shawn Lewis (97.1%)
+- Josh Morgan (96.4%)
+- Steve Hillier (96.2%)
 
 **Least aligned with:**
 - Sam Trosow (84.0%)

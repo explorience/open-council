@@ -41,19 +41,6 @@ Summary generation failed. Please try again later.
 - **Meetings Missed**: 162
 
 
-## Voting Alignment
-
-**Most aligned with:**
-- Bud Polhill (96.9%)
-- Joe Fontana (94.6%)
-- Dale Henderson (94.3%)
-
-**Least aligned with:**
-- Judy Bryant (89.1%)
-- Nancy Branscombe (90.4%)
-- Joni Baechler (91.6%)
-
-
 ## Committees Served
 
 - [Planning and Environment Committee](/committees/planning-environment)

@@ -44,9 +44,9 @@ Summary generation failed. Please try again later.
 ## Voting Alignment
 
 **Most aligned with:**
-- Mo Salih (96.6%)
-- Maureen Cassidy (96.3%)
-- Ed Holder (96.3%)
+- Josh Morgan (95.6%)
+- Shawn Lewis (95.5%)
+- Steve Lehman (95.1%)
 
 **Least aligned with:**
 - Susan Stevenson (85.5%)
