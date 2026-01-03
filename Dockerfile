@@ -8,7 +8,7 @@ COPY package.json .
 # Install dependencies (use npm install since package-lock.json is gitignored)
 RUN npm install --legacy-peer-deps
 
-# Copy application files
+# Copy application files (cache bust: 2026-01-03)
 COPY . .
 
 # Make start.sh executable
