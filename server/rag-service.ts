@@ -9,6 +9,7 @@ import { getAllCouncillors } from '../lib/councillors/index.js';
 import { voteLookupService } from './vote-lookup.js';
 import { councillorStatsLookupService } from './councillor-stats-lookup.js';
 import { detectTopicsInQuery } from '../lib/topics/index.js';
+import { detectMultiHopVoteQuery, executeMultiHopQuery, formatMultiHopContext } from './vote-query-engine.js';
 
 /**
  * Metadata collected during chat for logging purposes
@@ -96,6 +97,10 @@ interface QueryAnalysis {
   isAlignmentQuery: boolean;         // "Who votes with the Mayor?"
   alignmentQueryType?: 'mayor-allies' | 'mayor-opposition' | 'lone-dissenter' | 'swing-voters' | 'councillor-profile' | 'voting-bloc';
   alignmentCouncillorSlug?: string;  // For councillor-specific alignment queries
+
+  // Multi-hop vote query (cross-referencing multiple votes)
+  isMultiHopQuery: boolean;          // "Find councillors who voted X on A and Y on B"
+  multiHopQuery?: import('./vote-query-engine.js').MultiHopQuery;
 
   // Complexity
   topK: number;
@@ -333,6 +338,7 @@ export class RAGService {
     const closeVote = this.detectCloseVoteQuery(query);
     const mayorMinority = this.detectMayorMinorityQuery(query);
     const alignment = this.detectAlignmentQuery(query);
+    const multiHop = detectMultiHopVoteQuery(query);
 
     // 2. Smart TOP_K selection based on query type and available structured data
     // Key insight: queries with structured data fallbacks need less RAG context
@@ -381,6 +387,8 @@ export class RAGService {
       isAlignmentQuery: alignment.isAlignmentQuery,
       alignmentQueryType: alignment.alignmentQueryType,
       alignmentCouncillorSlug: alignment.alignmentCouncillorSlug,
+      isMultiHopQuery: multiHop.isMultiHop,
+      multiHopQuery: multiHop.isMultiHop ? multiHop : undefined,
       topK,
     };
 
@@ -393,6 +401,7 @@ export class RAGService {
     if (yearFilter) detected.push(`year:${yearFilter}`);
     if (meetingTypeFilter) detected.push(`type:${meetingTypeFilter}`);
     if (alignment.isAlignmentQuery) detected.push(`alignment:${alignment.alignmentQueryType || 'general'}`);
+    if (multiHop.isMultiHop) detected.push(`multi-hop:${multiHop.criteria.length} criteria`);
 
     if (detected.length > 0) {
       console.log(`🔎 Query analysis: ${detected.join(', ')}`);
@@ -1436,7 +1445,7 @@ export class RAGService {
   async retrieveContext(query: string): Promise<SearchResult[]> {
     // Analyze query to extract all metadata
     const analysis = this.analyzeQuery(query);
-    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords, isCloseVoteQuery, closeVoteDate, isMayorMinorityQuery, isAlignmentQuery, alignmentQueryType, alignmentCouncillorSlug } = analysis;
+    const { topK, isMostRecent, specificMonth, meetingTypeFilter, isCouncillorVotingQuery, councillorName, wantsHistoricalContext, isMotionOutcomeQuery, isVoteCountQuery, motionKeywords, isCloseVoteQuery, closeVoteDate, isMayorMinorityQuery, isAlignmentQuery, alignmentQueryType, alignmentCouncillorSlug, isMultiHopQuery, multiHopQuery } = analysis;
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
@@ -1731,6 +1740,44 @@ export class RAGService {
 
       this.logUniqueMeetings(results);
       return results;
+    }
+
+    // Strategy 3.8: Multi-hop vote query
+    // Cross-references multiple votes to find councillors matching all criteria
+    // e.g., "Find councillors who voted NAY on Cooling, YEA on Warming Centre, NAY on diaper waste"
+    if (isMultiHopQuery && multiHopQuery) {
+      console.log(`🔀 Multi-hop vote query detected - ${multiHopQuery.criteria.length} criteria, operation: ${multiHopQuery.operation}`);
+
+      const multiHopResult = await executeMultiHopQuery(multiHopQuery);
+
+      if (multiHopResult.success) {
+        const multiHopContext = formatMultiHopContext(multiHopResult, multiHopQuery);
+        console.log(`   ✅ Multi-hop query found ${multiHopResult.councillors.length} matching councillor(s)`);
+
+        // Store multi-hop context for later inclusion
+        (this as any)._verifiedVoteContext = multiHopContext;
+
+        // Also do semantic search to get additional context about the motions
+        const normalizedQuery = this.normalizeQueryForEmbedding(query);
+        const queryEmbedding = await this.generateQueryEmbedding(normalizedQuery);
+
+        // Build keyword query from all criteria
+        const allKeywords = multiHopQuery.criteria.flatMap(c => c.motionKeywords);
+        const hybridQuery = `${allKeywords.join(' ')} vote motion councillor passed failed`;
+        const results = await this.vectorStore.hybridSearch(
+          queryEmbedding,
+          hybridQuery,
+          topK,
+          0.5
+        );
+
+        this.logUniqueMeetings(results);
+        return results;
+      } else {
+        console.log(`   ⚠️ Multi-hop query found no matching councillors`);
+        // Still store the result summary
+        (this as any)._verifiedVoteContext = formatMultiHopContext(multiHopResult, multiHopQuery);
+      }
     }
 
     // Strategy 4: Councillor voting query - HYBRID retrieval
