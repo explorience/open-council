@@ -1526,7 +1526,8 @@ export class RAGService {
 
     // Strategy 3: Motion outcome or vote count query
     // Uses structured vote data for VERIFIED accuracy on "did X pass?" and "how many voted against X?" queries
-    if ((isMotionOutcomeQuery || isVoteCountQuery) && motionKeywords && motionKeywords.length > 0) {
+    // Skip if this is a multi-hop query (handled by Strategy 3.8)
+    if ((isMotionOutcomeQuery || isVoteCountQuery) && motionKeywords && motionKeywords.length > 0 && !isMultiHopQuery) {
       console.log(`📊 Motion/vote query detected - using structured vote lookup for: "${motionKeywords.join(' ')}"`);
 
       let verifiedVoteContext = '';
