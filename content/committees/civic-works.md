@@ -4,12 +4,14 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "How can residents bring forward concerns about local infrastructure issues like road repairs, traffic safety, or waste collection problems to the Civic Works Committee?"
+  - "What is the committee's current budget allocation and what major infrastructure projects are planned for the upcoming year?"
+  - "How does the Civic Works Committee prioritize competing infrastructure needs across different neighborhoods in London?"
 ---
 
-Summary generation failed. Please try again later.
+The Civic Works Committee is a standing committee of London City Council that serves as a key component of the city's governance structure, focusing on municipal infrastructure, public works, and essential city services. This committee typically handles matters related to roads, water and wastewater systems, waste management, snow removal, traffic management, public transit, parks and recreation facilities, and other physical infrastructure that supports daily life in London. As an active committee that has held 203 meetings to date, it plays a crucial role in reviewing staff reports, making recommendations to City Council, and overseeing the implementation of policies related to the city's physical assets and services.
+
+The committee's work directly impacts residents' quality of life through decisions on infrastructure investments, service delivery standards, and maintenance priorities. Committee members review budgets for public works departments, assess proposals for new infrastructure projects, and address citizen concerns about municipal services. Their recommendations typically advance to City Council for final approval, making the Civic Works Committee an important intermediary body where technical staff reports are scrutinized and public input is considered before major decisions affecting London's infrastructure and services are finalized.
 
 ## Recent Meetings
 

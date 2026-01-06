@@ -13,12 +13,14 @@ attendanceRate: 41.7
 participationRate: 100.0
 yeaRate: 89.9
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what role did she play in committee decisions?"
+  - "How did her meeting attendance rate of 119 meetings compare to other councillors serving during the same period?"
 ---
 
-Summary generation failed. Please try again later.
+Nancy Branscombe served on London City Council, Canada from 2011 to 2014, representing a single term of approximately four years. During her tenure, she demonstrated active participation by attending 119 council meetings. Her council service included membership on eight different committees, indicating broad engagement across various municipal portfolios and council functions.
+
+Her participation record suggests consistent involvement in the council's work, with regular meeting attendance throughout her term. The multi-committee involvement reflects the typical workload of a municipal councillor, where members are expected to contribute to various aspects of city governance beyond general council meetings.
 
 ## Terms of Service
 

@@ -13,12 +13,14 @@ attendanceRate: 49.9
 participationRate: 94.1
 yeaRate: 92.4
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council, and what roles did she hold on each?"
+  - "How does Anna Hopkins' meeting attendance rate compare to other council members during the same period?"
+  - "What has been Anna Hopkins' voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
-Summary generation failed. Please try again later.
+Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has maintained active participation with attendance at 640 council meetings, indicating consistent involvement in municipal governance and decision-making processes.
+
+Throughout her time on council, Hopkins has served on eight different committees, showing broad engagement across various areas of municipal responsibility. This extensive committee participation suggests she has contributed to diverse aspects of city governance, though the specific nature of these committees is not detailed in the available data.
 
 ## Terms of Service
 

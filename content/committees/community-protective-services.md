@@ -4,12 +4,14 @@ type: committee
 slug: "community-protective-services"
 meetingCount: 196
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "How can residents attend or participate in Community and Protective Services Committee meetings, and what opportunities exist for public input on agenda items?"
+  - "What specific budget allocation decisions has this committee made recently regarding emergency services, housing programs, or social services in London?"
+  - "How does the Community and Protective Services Committee coordinate with other levels of government and community organizations to address complex issues like homelessness, mental health services, or emergency preparedness?"
 ---
 
-Summary generation failed. Please try again later.
+The Community and Protective Services Committee is one of the standing committees of London City Council in Ontario, Canada, serving as a key governance body that oversees essential municipal services that directly impact residents' daily lives and community well-being. This committee typically handles matters related to public safety, emergency services, social services, housing initiatives, public health programs, and community development. As an active committee that has held 196 meetings, it plays a crucial role in reviewing policies, budget allocations, and strategic planning for services such as fire and emergency medical services, police oversight, affordable housing programs, homelessness initiatives, and various social support programs.
+
+The committee serves as an intermediary between city administration and full City Council, reviewing staff reports, hearing public delegations, and making recommendations on matters within its mandate before they proceed to Council for final approval. Its recent meeting frequency, including both regular and special meetings, indicates the committee actively addresses pressing community issues and works to ensure that London's protective and social services meet the evolving needs of its residents. The committee's work is fundamental to maintaining public safety, supporting vulnerable populations, and fostering healthy, inclusive communities throughout the city.
 
 ## Recent Meetings
 

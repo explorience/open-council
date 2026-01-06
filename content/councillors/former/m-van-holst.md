@@ -13,12 +13,14 @@ attendanceRate: 45.3
 participationRate: 95.2
 yeaRate: 95.6
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Michael van Holst's voting record on key municipal issues during his tenure from 2014-2022?"
+  - "Which specific committees did he serve on and what roles did he hold within those committees?"
+  - "How did his attendance rate of 461 meetings compare to other council members during the same period?"
 ---
 
-Summary generation failed. Please try again later.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent engagement through his attendance at 461 council meetings over his eight-year tenure. During his time on council, he participated in eight different committees, showing broad involvement across various municipal governance areas. His extended service period and substantial meeting attendance indicate active participation in London's municipal decision-making processes.
+
+His multi-year commitment and extensive committee work suggest he was an engaged council member who contributed to multiple facets of city governance throughout his term.
 
 ## Terms of Service
 

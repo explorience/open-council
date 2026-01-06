@@ -13,12 +13,14 @@ attendanceRate: 46.8
 participationRate: 92.1
 yeaRate: 89.8
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 216 meetings compare to other council members serving during the same period?"
+  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
-Summary generation failed. Please try again later.
+Corrine Rahman has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, she has demonstrated strong participation by attending 216 council meetings. Rahman has served on eight different committees during her tenure, indicating broad involvement across various areas of municipal governance and policy development.
+
+Her consistent meeting attendance and extensive committee participation suggest a high level of engagement with the council's work and responsibilities. As a council member serving a four-year term, Rahman's participation across multiple committees reflects the collaborative nature of municipal governance and the diverse range of issues that come before London City Council.
 
 ## Terms of Service
 

@@ -13,12 +13,14 @@ attendanceRate: 48.9
 participationRate: 88.8
 yeaRate: 92.4
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
+  - "How often has she voted differently from the majority on council, and on what types of issues has she taken dissenting positions?"
+  - "What specific committees has she served on, and has she held any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-Summary generation failed. Please try again later.
+Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating strong engagement through her attendance at 452 meetings during this period. Her participation extends beyond general council meetings, as she has served on nine different committees throughout her tenure, indicating broad involvement in various aspects of municipal governance and policy development.
+
+Her sustained participation over this seven-year period, combined with her extensive committee work, suggests a commitment to the detailed work of municipal government that often occurs at the committee level before reaching full council deliberations.
 
 ## Terms of Service
 

@@ -13,12 +13,14 @@ attendanceRate: 34.2
 participationRate: 80.0
 yeaRate: 100.0
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was John Fyfe-Millar's voting record on key municipal issues during his 2021-2022 tenure?"
+  - "Which specific committees did he serve on and what were his primary contributions to each?"
+  - "How does his meeting attendance rate of 74 sessions compare to other council members during the same period?"
 ---
 
-Summary generation failed. Please try again later.
+John Fyfe-Millar has been an active participant on London City Council, Canada, with a record of attending 74 council meetings during his tenure. His service spans from 2021 to 2022, indicating approximately two years of council participation. During this period, he served on six different committees, demonstrating broad engagement across various aspects of municipal governance.
+
+His attendance at 74 meetings over a two-year period suggests consistent participation in council proceedings. The involvement on multiple committees indicates he took on diverse responsibilities within the council structure, contributing to various areas of municipal decision-making and policy development.
 
 ## Terms of Service
 

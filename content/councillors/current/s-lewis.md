@@ -13,12 +13,14 @@ attendanceRate: 55.1
 participationRate: 93.2
 yeaRate: 94.2
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Shawn Lewis served on and what were their roles or leadership positions on those committees?"
+  - "How has Shawn Lewis's meeting attendance and committee participation changed over the course of their tenure from 2018 to 2025?"
 ---
 
-Summary generation failed. Please try again later.
+Shawn Lewis has served on London City Council from 2018-2025, demonstrating consistent engagement with 495 meetings attended over this seven-year period. This represents an average of approximately 71 meetings per year, indicating regular participation in council proceedings.
+
+Lewis has served on eight different committees during their tenure, showing broad involvement across various aspects of municipal governance. Their multi-committee participation suggests active engagement in the detailed work of city council beyond general council meetings.
 
 ## Terms of Service
 
