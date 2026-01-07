@@ -13,14 +13,14 @@ attendanceRate: 33.1
 participationRate: 89.9
 yeaRate: 86.9
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and what were his roles or contributions to those committees?"
-  - "Has his voting pattern or committee participation changed significantly across his multiple terms from 2011 to 2025?"
+  - "What is Paul Van Meerbergen's voting record on major city budget decisions and tax increases during his 14-year tenure?"
+  - "How frequently did he vote with the majority versus in dissent on key council decisions, and on which types of issues did he most often take opposing positions?"
+  - "What specific committees did he serve on, and did his committee work focus on particular policy areas such as planning, finance, or community services?"
 ---
 
-Paul Van Meerbergen has been an active member of London City Council in Canada, serving from 2011 to 2025, spanning approximately 14 years of municipal service. During his tenure, he has demonstrated consistent participation by attending 499 council meetings and has served on seven different committees, indicating broad involvement across various areas of municipal governance.
+Paul Van Meerbergen has been an active member of London City Council, Canada, serving from 2011 to 2025, representing a tenure of 14 years. During this period, he has demonstrated consistent participation by attending 499 council meetings. His council service has included membership on seven different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-His extensive meeting attendance record and multi-committee participation suggests sustained engagement with the city's legislative processes and decision-making bodies throughout his time on council. This level of participation represents significant dedication to his role as an elected municipal representative over more than a decade of service.
+Van Meerbergen's extensive meeting attendance record and multi-committee participation suggests a high level of engagement in the council's work over more than a decade of service. His long tenure on council, spanning multiple terms, indicates sustained community support and ongoing involvement in London's municipal decision-making processes.
 
 ## Terms of Service
 

@@ -13,14 +13,12 @@ attendanceRate: 51.3
 participationRate: 100.0
 yeaRate: 89.7
 prefillQuestions:
-  - "What was Dale Henderson's voting record on key municipal issues such as budget approval, development projects, or bylaw changes during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on, and what was their attendance record and level of participation in committee meetings?"
-  - "How did Henderson's meeting attendance rate of 142 meetings compare to other council members during the same 2011-2014 period?"
+  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Dale Henderson serve on and what was their role or contribution to each?"
+  - "How did Dale Henderson's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Dale Henderson served on London City Council, Canada from 2011 to 2014, completing a full four-year term. During this period, Henderson demonstrated active participation by attending 142 council meetings. Henderson served on four different committees during their tenure, indicating involvement in various aspects of municipal governance beyond regular council sessions.
-
-Henderson's consistent meeting attendance over the four-year period suggests regular engagement with council business and municipal decision-making processes. Their committee work would have provided additional opportunities to examine specific issues in detail and contribute to policy development at the committee level before matters proceeded to full council consideration.
+Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during their term. Henderson's council involvement included service on four different committees, indicating engagement across multiple areas of municipal governance. This level of meeting attendance and committee participation suggests a committed approach to their council responsibilities during their four-year tenure.
 
 ## Terms of Service
 

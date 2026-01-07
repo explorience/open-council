@@ -13,14 +13,14 @@ attendanceRate: 53.1
 participationRate: 96.2
 yeaRate: 96.0
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major budget decisions during her time on council?"
-  - "How frequently did she miss council meetings or committee sessions, and what was her overall attendance rate?"
+  - "What was Maureen Cassidy's voting record on major municipal issues such as budget approvals, development projects, or infrastructure spending during her time on council?"
   - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did her meeting attendance rate compare to other council members, and were there any notable patterns in her participation or absences?"
 ---
 
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings over her eight-year tenure. During her time on council, she served on seven different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
+Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation over an 8-year period. During her tenure, she attended 536 council meetings and served on 7 different committees, indicating active engagement in the council's work across multiple areas of municipal governance.
 
-Her extended service period spanning two full terms suggests she was re-elected and maintained active engagement in council duties. The substantial number of meetings attended reflects regular participation in both regular council sessions and committee work throughout her tenure on London City Council.
+Her attendance record and committee involvement suggest a dedicated commitment to her council responsibilities throughout her two terms of service. The substantial number of meetings attended over nearly a decade reflects regular participation in the formal decision-making processes of London's municipal government.
 
 ## Terms of Service
 

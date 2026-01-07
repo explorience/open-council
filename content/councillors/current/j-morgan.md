@@ -13,14 +13,12 @@ attendanceRate: 50.8
 participationRate: 88.0
 yeaRate: 94.2
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council?"
-  - "What has been Josh Morgan's voting record on major municipal issues such as budget approvals, development projects, or public transit initiatives?"
-  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2014-2025 tenure?"
+  - "What is Josh Morgan's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his years of service?"
+  - "Which specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
-Josh Morgan has been an active member of London City Council in Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During this tenure, he has demonstrated significant engagement by attending 654 council meetings and serving on 8 different committees, indicating consistent involvement in the council's work and decision-making processes.
-
-His lengthy service period and high meeting attendance suggest a committed approach to his municipal responsibilities, with his committee participation spanning multiple areas of city governance over his years in office.
+Josh Morgan has been an active member of London City Council from 2014 to 2025, demonstrating substantial engagement through his attendance at 654 council meetings over this eleven-year period. This represents an average of approximately 59 meetings per year, indicating consistent participation in council proceedings. Morgan has served on eight different committees during his tenure, showing broad involvement across various aspects of municipal governance and policy areas within the City of London.
 
 ## Terms of Service
 

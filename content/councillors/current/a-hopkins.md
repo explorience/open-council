@@ -13,14 +13,14 @@ attendanceRate: 49.9
 participationRate: 94.1
 yeaRate: 92.4
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council, and what roles did she hold on each?"
-  - "How does Anna Hopkins' meeting attendance rate compare to other council members during the same period?"
-  - "What has been Anna Hopkins' voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "What is Anna Hopkins' voting attendance rate and has she missed any significant votes during her time on council?"
+  - "Which committees has Anna Hopkins chaired or served in leadership roles on during her tenure?"
+  - "How does Anna Hopkins' meeting attendance record compare to other council members during overlapping terms of service?"
 ---
 
-Anna Hopkins has served on London City Council from 2014 to 2025, demonstrating sustained civic engagement over more than a decade. During her tenure, she has maintained active participation with attendance at 640 council meetings, indicating consistent involvement in municipal governance and decision-making processes.
+Anna Hopkins has been an active member of London City Council in Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings. Her service has included participation on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Throughout her time on council, Hopkins has served on eight different committees, showing broad engagement across various areas of municipal responsibility. This extensive committee participation suggests she has contributed to diverse aspects of city governance, though the specific nature of these committees is not detailed in the available data.
+Hopkins' extensive meeting attendance record and multi-committee involvement suggests a high level of commitment to her council responsibilities. Her long tenure spanning more than ten years represents substantial continuity in London's municipal government, providing institutional knowledge and experience across multiple council terms.
 
 ## Terms of Service
 

@@ -13,14 +13,14 @@ attendanceRate: 39.0
 participationRate: 91.4
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and bylaw amendments?"
-  - "How often did Mo Salih introduce motions or amendments during council meetings, and what topics did they typically focus on?"
-  - "What specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Mo Salih serve on and what was their role or contribution to those committees?"
+  - "Did Mo Salih hold any leadership positions, such as committee chair or deputy mayor, during their eight years on council?"
 ---
 
-Mo Salih served on London City Council in Canada for eight years from 2014 to 2022. During this period, they demonstrated consistent engagement with council duties, attending 350 meetings over their tenure. Salih participated in the committee system by serving on four different committees, though the specific names of these committees are not clearly displayed in the available data.
+Mo Salih served on London City Council in Canada from 2014 to 2022, spanning an eight-year period of municipal service. During this tenure, they demonstrated consistent engagement by attending 350 council meetings and served on four different committees, though the specific committee names are not clearly readable in the available data.
 
-Their eight-year term represents a significant commitment to municipal governance, with their meeting attendance record suggesting regular participation in council proceedings. The breadth of committee involvement indicates engagement across multiple areas of municipal policy and administration during their time in office.
+This level of meeting attendance over nearly a decade indicates active participation in the council's deliberative processes and suggests regular involvement in municipal governance and decision-making during their time in office.
 
 ## Terms of Service
 

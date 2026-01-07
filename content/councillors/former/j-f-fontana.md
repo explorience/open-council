@@ -13,14 +13,14 @@ attendanceRate: 46.0
 participationRate: 100.0
 yeaRate: 93.0
 prefillQuestions:
-  - "What was Joe Fontana's voting record on key municipal issues such as budget approvals, development projects, or tax increases during his 2011-2014 term?"
-  - "How frequently did he attend each of the seven committees he served on, and what were his participation rates for committee meetings versus regular council meetings?"
-  - "Did he sponsor or champion any specific motions, bylaws, or initiatives during his time on council, and what was the outcome of those proposals?"
+  - "What was Joe Fontana's voting record on key municipal issues during his 2011-2014 term?"
+  - "Which specific committees did he serve on and what were his attendance rates for each committee?"
+  - "How did his meeting attendance rate of 139 meetings compare to other council members during the same period?"
 ---
 
-Joe Fontana served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 139 meetings during this three-year period. Throughout his tenure, he served on seven different committees, indicating broad engagement across various aspects of municipal governance and policy areas within the city's committee structure.
+Joe Fontana served on London City Council from 2011 to 2014, attending 139 meetings during his tenure. Over this three-year period, he participated on seven different committees, demonstrating broad involvement in council activities. His meeting attendance record shows consistent participation in council proceedings throughout his term.
 
-His meeting attendance record suggests consistent involvement in council proceedings during his time in office. The multiple committee assignments reflect participation in the collaborative committee work that forms a significant portion of municipal government operations in London, Ontario.
+While the specific details of the committees are not clearly displayed in the available data, his service on multiple committees indicates active engagement across various areas of municipal governance during his time on London City Council.
 
 ## Terms of Service
 

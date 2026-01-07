@@ -13,14 +13,14 @@ attendanceRate: 48.7
 participationRate: 92.3
 yeaRate: 93.3
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development projects, or policy changes?"
-  - "How does Steve Hillier's meeting attendance rate of 453 meetings compare to other council members during the same period?"
+  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has he served on and what roles did he hold on those committees?"
+  - "Has he sponsored or championed any particular pieces of legislation or initiatives during his time on council?"
 ---
 
-Steve Hillier has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated strong participation by attending 453 council meetings. His involvement extends beyond general council sessions, as he has served on seven different committees throughout his time in office, indicating broad engagement across various municipal portfolios and policy areas.
+Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During his tenure, he has demonstrated consistent engagement with council duties, attending 453 meetings over his term of service. His participation extends beyond general council meetings, as he has served on seven different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His consistent meeting attendance and extensive committee participation suggest a dedicated approach to municipal governance over his multi-year term on London City Council.
+His multi-year commitment and extensive meeting attendance record suggests a dedicated approach to his council responsibilities. The span of his service covers nearly two full terms, providing him with substantial experience in municipal decision-making processes and committee work across different areas of city administration.
 
 ## Terms of Service
 

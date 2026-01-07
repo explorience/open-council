@@ -13,14 +13,14 @@ attendanceRate: 36.6
 participationRate: 98.9
 yeaRate: 93.2
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on major city budget decisions during his 2012-2018 tenure?"
-  - "Which specific committees did Bill Armstrong serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "How did Bill Armstrong vote on key development and zoning issues that came before London City Council during his time in office?"
+  - "What was Bill Armstrong's attendance rate as a percentage of total scheduled meetings during his 2012-2018 tenure?"
+  - "Which specific committees did Bill Armstrong serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Bill Armstrong typically vote on major municipal issues like budget approvals, development proposals, or policy changes during his time on council?"
 ---
 
-Bill Armstrong served on London City Council from 2012 to 2018, demonstrating consistent participation with attendance at 245 meetings over his six-year tenure. During his time on council, he served on five different committees, though the specific committee details are not clearly readable in the available data. His participation span covers a full council term plus additional years, indicating either re-election or appointment to multiple terms during this period.
+Bill Armstrong served on London City Council, Canada from 2012 to 2018, demonstrating consistent participation over his six-year tenure. During this period, he attended 245 meetings and served on five committees, though the specific committee names are not clearly specified in the available data.
 
-Armstrong's meeting attendance of 245 sessions over six years suggests active engagement in council business, averaging approximately 40-41 meetings per year. His service on multiple committees indicates involvement in various aspects of municipal governance beyond regular council sessions.
+His attendance record suggests regular engagement with council business throughout his term. Armstrong's service spanned what appears to be at least one full council term, indicating he was an active participant in London's municipal governance during the mid-2010s.
 
 ## Terms of Service
 

@@ -13,14 +13,14 @@ attendanceRate: 58.3
 participationRate: 100.0
 yeaRate: 91.4
 prefillQuestions:
-  - "What was Judy Bryant's voting record on major budget decisions during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her attendance rate for committee meetings?"
-  - "How did her voting patterns align with other council members on key municipal issues like development approvals or infrastructure spending?"
+  - "What was Judy Bryant's attendance rate compared to other council members during her 2011-2014 term?"
+  - "Which specific committees did Judy Bryant serve on and what roles did she hold on those committees?"
+  - "How did Judy Bryant vote on major municipal issues and bylaws that came before council during her term?"
 ---
 
-Judy Bryant served on London City Council from 2011-2014, completing a full four-year term. During her tenure, she demonstrated active participation by attending 168 council meetings and served on six different committees, showing engagement across multiple areas of municipal governance.
+Judy Bryant served on London City Council from 2011 to 2014, completing a single four-year term. During her tenure, she demonstrated consistent engagement by attending 168 meetings across various council sessions. Bryant participated on six different committees throughout her time in office, indicating broad involvement in the council's committee structure and municipal governance processes.
 
-Her consistent meeting attendance and involvement on multiple committees indicates she was an engaged council member who participated regularly in the city's decision-making processes throughout her term of office.
+Her attendance record and committee participation suggest active engagement in council business during her term. The data shows she maintained regular participation in council meetings and took on multiple committee responsibilities as part of her municipal duties.
 
 ## Terms of Service
 

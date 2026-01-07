@@ -13,14 +13,12 @@ attendanceRate: 30.1
 participationRate: 60.0
 yeaRate: 0.0
 prefillQuestions:
-  - "What was Mariam Hamou's voting pattern on key municipal issues during her 2021-2022 tenure?"
-  - "Which specific committees did she serve on and what was her attendance record for each committee?"
+  - "What was Mariam Hamou's voting record on key municipal issues during her 2021-2022 term?"
+  - "Which specific committees did she serve on and what was her level of participation in each committee?"
   - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
-Mariam Hamou served on London City Council from 2021 to 2022, demonstrating active participation with attendance at 71 meetings during this two-year period. She served on five different committees during her tenure, indicating involvement across multiple areas of municipal governance and policy development.
-
-Her meeting attendance record suggests consistent engagement with council business over the course of her service. The breadth of her committee involvement reflects participation in various aspects of city administration and decision-making processes during her time on council.
+Mariam Hamou served on London City Council from 2021 to 2022, demonstrating active participation with attendance at 71 meetings during this two-year period. She participated on five different committees during her tenure, showing engagement across multiple areas of municipal governance. Her consistent meeting attendance suggests regular involvement in council proceedings and committee work throughout her time in office.
 
 ## Terms of Service
 

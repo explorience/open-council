@@ -13,14 +13,14 @@ attendanceRate: 59.7
 participationRate: 78.4
 yeaRate: 96.2
 prefillQuestions:
-  - "What was Ed Holder's voting attendance rate and how did it compare to other council members during his 2018-2022 term?"
-  - "Which specific committees did Ed Holder serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "What were the key motions or initiatives that Ed Holder sponsored or championed during his time on London City Council?"
+  - "What was Ed Holder's voting pattern on major municipal issues like budget approvals, development projects, and policy initiatives during his 2018-2022 term?"
+  - "Which specific committees did Ed Holder serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Ed Holder's meeting attendance rate compare to other council members, and were there any notable absences from key votes or discussions?"
 ---
 
-Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings during his four-year term. This represents consistent engagement with council proceedings throughout his tenure. Holder served on six different committees during his time on council, indicating broad involvement across various municipal governance areas and policy matters affecting the City of London.
+Ed Holder served on London City Council from 2018-2022, demonstrating active participation with attendance at 313 meetings over his four-year term. During his tenure, he served on six different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His committee participation suggests he took on diverse responsibilities within the council structure, contributing to the collaborative decision-making process that characterizes municipal government operations.
+His consistent meeting attendance and multi-committee participation suggests a high level of engagement in London's municipal affairs throughout his council term. The substantial number of meetings attended over the four-year period reflects regular participation in both regular council sessions and committee work.
 
 ## Terms of Service
 

@@ -4,14 +4,14 @@ type: committee
 slug: "audit"
 meetingCount: 66
 prefillQuestions:
-  - "What were the key findings and recommendations from the city's most recent external audit, and how is the city addressing any identified deficiencies?"
-  - "How does the Audit Committee ensure that city departments are effectively implementing previous audit recommendations and improving their internal controls?"
-  - "What major financial risks or concerns has the committee identified for London, and what measures are being taken to mitigate these risks?"
+  - "What specific city departments or services have been recently audited, and what were the key findings or recommendations?"
+  - "How does the Audit Committee ensure that previous audit recommendations are being properly implemented by city staff?"
+  - "What is the process for citizens to request an audit of a particular city program or to access the committee's reports and meeting minutes?"
 ---
 
-The Audit Committee of London City Council serves as an essential oversight body responsible for ensuring financial accountability, transparency, and proper governance within the city's operations. This committee typically reviews the city's financial statements, internal controls, and audit processes, working closely with both internal and external auditors to assess the effectiveness of financial management and risk mitigation strategies. The committee plays a crucial role in maintaining public trust by examining compliance with policies, procedures, and regulatory requirements across all city departments and operations.
+The Audit Committee of London City Council serves as an independent oversight body responsible for ensuring transparency, accountability, and financial integrity in municipal operations. This committee typically reviews the city's financial statements, internal controls, and compliance with policies and regulations. It works closely with both internal and external auditors to examine city departments, programs, and services to identify areas for improvement, cost savings, and risk mitigation.
 
-With 66 meetings held to date, the Audit Committee demonstrates London's commitment to ongoing financial oversight and continuous improvement in municipal governance. The committee addresses issues such as annual financial audits, internal audit reports, risk management assessments, and recommendations for strengthening internal controls. They also review significant financial policies, monitor the implementation of audit recommendations, and ensure that city staff are following established procedures for procurement, budgeting, and financial reporting. This work helps protect taxpayer interests and maintains the integrity of London's financial operations.
+As a key component of London's governance structure, the Audit Committee provides council and citizens with assurance that public funds are being managed responsibly and that city operations are conducted efficiently and ethically. The committee addresses issues such as reviewing audit reports, monitoring implementation of audit recommendations, overseeing the city's risk management framework, and ensuring compliance with applicable laws and regulations. Through its regular meetings and thorough examination of city operations, the committee helps maintain public trust and supports informed decision-making by city council.
 
 ## Recent Meetings
 

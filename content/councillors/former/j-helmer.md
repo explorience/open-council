@@ -13,14 +13,12 @@ attendanceRate: 58.0
 participationRate: 96.3
 yeaRate: 94.5
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during their 2014-2022 tenure?"
-  - "Which specific committees did Jesse Helmer serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Jesse Helmer's attendance rate and committee participation compare to other council members during their overlapping terms of service?"
+  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Jesse Helmer vote on major municipal issues such as budget approvals, development projects, or policy initiatives during their time on council?"
 ---
 
-Jesse Helmer served on London City Council for eight years from 2014 to 2022, demonstrating consistent participation with attendance at 580 council meetings throughout their tenure. During this period, they served on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
-
-Helmer's extensive meeting attendance record suggests active engagement in the council's work over nearly a decade of service. Their participation on multiple committees would have provided them with experience across different aspects of city operations and decision-making processes during their time representing constituents on London City Council.
+Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over their eight-year tenure. During this period, Helmer was active in committee work, serving on eight different committees throughout their time on council. This level of meeting attendance and committee involvement suggests regular engagement with municipal governance and decision-making processes in London, Ontario.
 
 ## Terms of Service
 

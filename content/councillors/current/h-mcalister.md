@@ -13,14 +13,14 @@ attendanceRate: 48.5
 participationRate: 86.4
 yeaRate: 91.8
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees has McAlister served on, and what leadership roles, if any, have they held within those committees?"
-  - "How does McAlister's meeting attendance rate compare to other council members, and have they missed votes on any significant municipal decisions?"
+  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
+  - "What is McAlister's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members and the expected number of meetings during this timeframe?"
 ---
 
-Hadleigh McAlister has been an active member of London City Council, Canada, serving from 2022 to 2025. During their tenure, they have demonstrated strong attendance with 203 meetings attended. McAlister has participated broadly in council governance by serving on six different committees, showing engagement across multiple areas of municipal responsibility.
+Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, though the specific committee names are not clearly displayed in the available data. McAlister's current term spans four years, indicating they were elected in the 2022 municipal election cycle.
 
-Their consistent meeting attendance and multi-committee involvement indicates a hands-on approach to their council duties throughout their term of service.
+Based on their meeting attendance record and multi-committee involvement, McAlister appears to maintain consistent engagement in council business across various municipal portfolios and governance areas.
 
 ## Terms of Service
 

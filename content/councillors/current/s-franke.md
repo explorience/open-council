@@ -13,14 +13,14 @@ attendanceRate: 42.2
 participationRate: 91.6
 yeaRate: 91.4
 prefillQuestions:
-  - "What is Skylar Franke's voting attendance rate and how often do they vote in favor of versus against proposed motions?"
-  - "Which specific committees does Skylar Franke serve on and what role do they play (chair, vice-chair, or member) on each?"
-  - "How does Skylar Franke's meeting attendance record compare to other London City Council members during the same period?"
+  - "What is Skylar Franke's voting record on key municipal issues during their 2022-2025 term?"
+  - "Which specific committees has Skylar Franke served on and what are their primary responsibilities?"
+  - "How does Skylar Franke's meeting attendance rate compare to other London City Council members?"
 ---
 
-Skylar Franke has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 179 meetings during this period. Their council involvement includes service on seven different committees, indicating broad engagement across various areas of municipal governance. As a current council member in what appears to be their first term, Franke has maintained consistent participation in council proceedings.
+Skylar Franke has served on London City Council from 2022 to 2025, demonstrating active participation with attendance at 179 meetings during this period. Their council involvement includes serving on seven different committees, indicating broad engagement across various municipal matters and policy areas.
 
-The meeting attendance record of 179 sessions over approximately three years suggests regular engagement with council business and committee work. Their multi-committee involvement indicates participation in diverse aspects of city governance, though the specific nature of these committees is not detailed in the available information.
+Franke's participation shows consistent involvement in the council's work over their current term, with their meeting attendance and multiple committee appointments reflecting a commitment to municipal governance responsibilities across diverse areas of city business.
 
 ## Terms of Service
 

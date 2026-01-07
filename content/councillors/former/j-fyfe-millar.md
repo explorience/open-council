@@ -13,14 +13,14 @@ attendanceRate: 34.2
 participationRate: 80.0
 yeaRate: 100.0
 prefillQuestions:
-  - "What was John Fyfe-Millar's voting record on key municipal issues during his 2021-2022 tenure?"
-  - "Which specific committees did he serve on and what were his primary contributions to each?"
-  - "How does his meeting attendance rate of 74 sessions compare to other council members during the same period?"
+  - "What was John Fyfe-Millar's voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
+  - "Which specific committees did John Fyfe-Millar serve on, and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "How does their meeting attendance rate of 74 meetings compare to other council members during the same 2021-2022 period?"
 ---
 
-John Fyfe-Millar has been an active participant on London City Council, Canada, with a record of attending 74 council meetings during his tenure. His service spans from 2021 to 2022, indicating approximately two years of council participation. During this period, he served on six different committees, demonstrating broad engagement across various aspects of municipal governance.
+John Fyfe-Millar has served on London City Council in Canada from 2021 to 2022, demonstrating active participation with attendance at 74 council meetings during this period. Throughout their tenure, they have served on six different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
 
-His attendance at 74 meetings over a two-year period suggests consistent participation in council proceedings. The involvement on multiple committees indicates he took on diverse responsibilities within the council structure, contributing to various areas of municipal decision-making and policy development.
+Their consistent meeting attendance over the two-year period suggests regular engagement with council business and responsibilities. The multiple committee appointments reflect their participation in the detailed work of municipal government that typically occurs at the committee level before items advance to full council consideration.
 
 ## Terms of Service
 

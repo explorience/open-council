@@ -13,14 +13,14 @@ attendanceRate: 55.1
 participationRate: 93.2
 yeaRate: 94.2
 prefillQuestions:
-  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Shawn Lewis served on and what were their roles or leadership positions on those committees?"
-  - "How has Shawn Lewis's meeting attendance and committee participation changed over the course of their tenure from 2018 to 2025?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, or policy changes?"
+  - "How does Shawn Lewis's meeting attendance rate of 495 meetings compare to other council members serving during the same period?"
 ---
 
-Shawn Lewis has served on London City Council from 2018-2025, demonstrating consistent engagement with 495 meetings attended over this seven-year period. This represents an average of approximately 71 meetings per year, indicating regular participation in council proceedings.
+Shawn Lewis has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement with a record of attending 495 meetings during this period. Their council participation spans approximately seven years, indicating they have served through at least one full municipal term and into a second term, as municipal elections in Ontario typically occur every four years.
 
-Lewis has served on eight different committees during their tenure, showing broad involvement across various aspects of municipal governance. Their multi-committee participation suggests active engagement in the detailed work of city council beyond general council meetings.
+Lewis has served on eight different committees throughout their tenure, showing broad involvement across various aspects of municipal governance. This level of committee participation suggests active engagement in the detailed work of city council beyond regular council meetings, as committees typically handle much of the preparatory work for council decisions and policy development.
 
 ## Terms of Service
 

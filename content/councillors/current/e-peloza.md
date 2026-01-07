@@ -13,14 +13,12 @@ attendanceRate: 48.9
 participationRate: 88.8
 yeaRate: 92.4
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
-  - "How often has she voted differently from the majority on council, and on what types of issues has she taken dissenting positions?"
-  - "What specific committees has she served on, and has she held any leadership roles such as committee chair or vice-chair positions?"
+  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
+  - "How does her meeting attendance record of 452 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
 ---
 
-Elizabeth Peloza has been an active member of London City Council from 2018 to 2025, demonstrating strong engagement through her attendance at 452 meetings during this period. Her participation extends beyond general council meetings, as she has served on nine different committees throughout her tenure, indicating broad involvement in various aspects of municipal governance and policy development.
-
-Her sustained participation over this seven-year period, combined with her extensive committee work, suggests a commitment to the detailed work of municipal government that often occurs at the committee level before reaching full council deliberations.
+Elizabeth Peloza has been an active member of London City Council from 2018-2025, demonstrating consistent participation with attendance at 452 meetings during her tenure. Her council involvement spans multiple terms, indicating sustained civic engagement over a seven-year period. Peloza has served on nine different committees throughout her time on council, suggesting broad involvement across various municipal portfolios and policy areas.
 
 ## Terms of Service
 

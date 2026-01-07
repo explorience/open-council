@@ -13,14 +13,14 @@ attendanceRate: 38.8
 participationRate: 100.0
 yeaRate: 90.4
 prefillQuestions:
-  - "What was Denise Brown's voting attendance rate and were there any significant absences from important votes during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what role did she play in committee decisions and recommendations?"
-  - "Did she take any leadership positions within the committees or council during her tenure, such as serving as chair or vice-chair of any committees?"
+  - "What was Denise Brown's voting record on key municipal issues like budget approvals, development projects, or policy changes during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for regular council meetings versus committee meetings?"
+  - "Did she sponsor or champion any particular motions, bylaws, or initiatives during her four years on London City Council?"
 ---
 
-Denise Brown served on London City Council from 2011-2014, representing a single four-year term during this period. Throughout her tenure, she demonstrated consistent engagement by attending 95 council meetings. She participated actively in the committee structure of the council, serving on four different committees during her time in office, though the specific names of these committees are not clearly displayed in the available data.
+Denise Brown served on London City Council from 2011-2014, a four-year term during which she attended 95 meetings. During her tenure, she participated on four different committees, though the specific committee names are not clearly displayed in the available data. Her attendance record shows active participation in council proceedings throughout her term.
 
-Her attendance record and committee involvement suggest regular participation in the city's legislative processes over the course of her term. The 95 meetings attended over a four-year period indicates steady involvement in council business and municipal decision-making processes.
+Her service spanned one full council term, indicating she was either elected in 2010 for the 2010-2014 council term or appointed/elected during 2011. The 95 meetings attended over approximately four years suggests regular engagement with council business and committee work.
 
 ## Terms of Service
 

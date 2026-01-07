@@ -13,14 +13,14 @@ attendanceRate: 41.3
 participationRate: 86.0
 yeaRate: 82.2
 prefillQuestions:
-  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
-  - "How does Susan Stevenson's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Susan Stevenson's voting pattern on key municipal issues such as budget proposals, development applications, or policy initiatives?"
+  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "Which specific committees has she served on and what has been her level of participation or leadership role within those committees?"
+  - "How does her meeting attendance rate compare to other London City Council members, and has she been absent from any crucial votes or decisions?"
 ---
 
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her term, she has demonstrated strong attendance with 178 meetings attended. Her council participation includes service on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Susan Stevenson has been an active member of London City Council, Canada, serving from 2022-2025. During her current term, she has demonstrated strong attendance with participation in 178 council meetings. Her council involvement extends beyond general meetings, as she has served on eight different committees, indicating broad engagement across various municipal policy areas and administrative functions.
 
-Stevenson's commitment to council duties is reflected in her extensive meeting attendance record and her willingness to take on multiple committee responsibilities throughout her current term, which spans the 2022-2025 council period.
+Her consistent meeting attendance and extensive committee participation suggest a commitment to the administrative duties of municipal governance. The data shows she has maintained regular involvement in council proceedings throughout her term, contributing to the collaborative decision-making processes that characterize municipal government operations.
 
 ## Terms of Service
 

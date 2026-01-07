@@ -13,14 +13,14 @@ attendanceRate: 44.7
 participationRate: 91.4
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Stephen Turner's voting record on key municipal issues such as budget approvals, development projects, or tax rate decisions?"
-  - "How often did Stephen Turner miss scheduled council meetings, and what was his attendance rate compared to other council members?"
-  - "Did Stephen Turner hold any leadership positions on the committees he served on, such as committee chair or vice-chair roles?"
+  - "What was Stephen Turner's voting record on major city budget decisions during his 2014-2022 tenure?"
+  - "Which specific committees did Stephen Turner serve on and what were his key contributions to each committee?"
+  - "How did Stephen Turner vote on significant development projects and zoning changes in London during his time on council?"
 ---
 
-Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation over an eight-year period. During his tenure, he attended 417 council meetings and served on seven different committees, indicating active engagement in the council's work and committee structure.
+Stephen Turner served on London City Council, Canada from 2014 to 2022, demonstrating consistent participation with attendance at 417 meetings over his eight-year tenure. During his time on council, Turner served on seven different committees, indicating broad involvement in various aspects of municipal governance and policy development.
 
-His multi-year service and regular meeting attendance suggest he was a committed council member who participated consistently in municipal governance throughout his term. The breadth of his committee involvement across seven different committees indicates he contributed to various aspects of city business during his time on council.
+His extended service period and substantial meeting attendance record suggests regular engagement with council duties and responsibilities throughout his two-term period on London City Council.
 
 ## Terms of Service
 
