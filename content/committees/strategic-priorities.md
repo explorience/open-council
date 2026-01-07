@@ -4,7 +4,7 @@ type: committee
 slug: "strategic-priorities"
 meetingCount: 274
 prefillQuestions:
-  - "What specific criteria does the committee use to determine which issues qualify as "strategic priorities" versus routine municipal matters?"
+  - 'What specific criteria does the committee use to determine which issues qualify as "strategic priorities" versus routine municipal matters?'
   - "How does the public participate in the committee's decision-making process, and when are citizens able to provide input on strategic policy discussions?"
   - "What is the typical timeline from when the Strategic Priorities and Policy Committee makes a recommendation to when it becomes official city policy through Council approval?"
 ---
