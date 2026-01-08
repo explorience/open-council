@@ -32,6 +32,14 @@ interface VoteStats {
   absent: number
 }
 
+// Attendance trend period
+interface AttendancePeriod {
+  period: string
+  attendanceRate: number
+  meetingsAttended: number
+  meetingsTotal: number
+}
+
 // Councillor stats interface
 interface CouncillorStatsData {
   attendance: {
@@ -39,6 +47,8 @@ interface CouncillorStatsData {
     present: number
     absent: number
     attendanceRate: number
+    trend?: AttendancePeriod[]
+    trendDirection?: "improving" | "declining" | "stable" | "insufficient_data"
   }
   voting: {
     totalVotes: number
@@ -47,6 +57,20 @@ interface CouncillorStatsData {
     absent: number
     participationRate: number
     yeaRate: number
+    contestedDissentRate?: number // % of contested (non-unanimous) votes where councillor voted against final outcome
+    contestedVotes?: number // Number of contested votes the councillor participated in
+    // Substantive votes (excludes procedural motions)
+    substantiveVotes?: number
+    substantiveYeas?: number
+    substantiveNays?: number
+    substantiveParticipationRate?: number
+    substantiveYeaRate?: number
+  }
+  budgetVoting?: {
+    totalBudgetVotes: number
+    budgetYeas: number
+    budgetNays: number
+    budgetAbsent: number
   }
   topAlignments: Array<{
     councillor: string
@@ -55,6 +79,22 @@ interface CouncillorStatsData {
   bottomAlignments: Array<{
     councillor: string
     alignmentRate: number
+  }>
+  committeeActivity?: Array<{
+    committee: string
+    totalVotes: number
+    yeas: number
+    nays: number
+    participationRate: number
+  }>
+  notableDissents?: Array<{
+    date: string
+    meetingTitle: string
+    itemTitle: string
+    motionText: string
+    vote: "yea" | "nay"
+    result: string
+    meetingUrl?: string
   }>
 }
 
@@ -552,7 +592,7 @@ ${meetingsList}
 // Generate councillor page markdown with verified term data
 function generateCouncillorPage(
   data: CouncillorData,
-  summary: string,
+  _summary: string,
   questions: string[],
   canonicalName: string,
   voteStats: VoteStats | null,
@@ -590,14 +630,65 @@ votesNay: ${voteStats.nays}
 votesAbsent: ${voteStats.absent}` : ""
 
   // Stats frontmatter
+  const contestedDissentFrontmatter = stats?.voting.contestedDissentRate !== undefined
+    ? `\ncontestedDissentRate: ${stats.voting.contestedDissentRate.toFixed(1)}
+contestedVotes: ${stats.voting.contestedVotes}`
+    : ""
   const statsFrontmatter = stats ? `
 attendanceRate: ${stats.attendance.attendanceRate.toFixed(1)}
 participationRate: ${stats.voting.participationRate.toFixed(1)}
-yeaRate: ${stats.voting.yeaRate.toFixed(1)}` : ""
+yeaRate: ${stats.voting.yeaRate.toFixed(1)}${contestedDissentFrontmatter}` : ""
 
-  // Voting record section
+  // Voting record section - show both total and substantive votes
+  const hasSubstantiveData = stats?.voting.substantiveVotes !== undefined && stats.voting.substantiveVotes > 0
+  const substantiveSection = hasSubstantiveData ? `
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | ${stats!.voting.substantiveVotes!.toLocaleString()} |
+| Voted Yea | ${stats!.voting.substantiveYeas!.toLocaleString()} (${stats!.voting.substantiveYeaRate!.toFixed(1)}%) |
+| Voted Nay | ${stats!.voting.substantiveNays!.toLocaleString()} (${(100 - stats!.voting.substantiveYeaRate!).toFixed(1)}%) |
+
+` : ""
+
+  // Contested dissent rate section
+  const hasContestedData = stats?.voting.contestedVotes !== undefined && stats.voting.contestedVotes > 0
+  const contestedDissentSection = hasContestedData ? `
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: ${stats!.voting.contestedDissentRate!.toFixed(1)}%
+- **Contested Votes**: ${stats!.voting.contestedVotes!.toLocaleString()}
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+` : ""
+
+  // Budget voting section
+  const hasBudgetData = stats?.budgetVoting && stats.budgetVoting.totalBudgetVotes > 0
+  const budgetParticipated = hasBudgetData ? stats!.budgetVoting!.budgetYeas + stats!.budgetVoting!.budgetNays : 0
+  const budgetVotingSection = hasBudgetData ? `
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | ${stats!.budgetVoting!.totalBudgetVotes.toLocaleString()} |
+| Voted Yea | ${stats!.budgetVoting!.budgetYeas.toLocaleString()} (${budgetParticipated > 0 ? ((stats!.budgetVoting!.budgetYeas / budgetParticipated) * 100).toFixed(1) : 0}%) |
+| Voted Nay | ${stats!.budgetVoting!.budgetNays.toLocaleString()} (${budgetParticipated > 0 ? ((stats!.budgetVoting!.budgetNays / budgetParticipated) * 100).toFixed(1) : 0}%) |
+| Absent | ${stats!.budgetVoting!.budgetAbsent.toLocaleString()} |
+
+` : ""
+
   const votingSection = voteStats ? `
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -606,16 +697,41 @@ yeaRate: ${stats.voting.yeaRate.toFixed(1)}` : ""
 | Voted Nay | ${voteStats.nays.toLocaleString()} (${((voteStats.nays / voteStats.totalVotes) * 100).toFixed(1)}%) |
 | Absent | ${voteStats.absent.toLocaleString()} (${((voteStats.absent / voteStats.totalVotes) * 100).toFixed(1)}%) |
 
-` : ""
+${substantiveSection}${contestedDissentSection}${budgetVotingSection}` : ""
 
-  // Attendance section
+  // Attendance section with trend
+  const getTrendIndicator = (direction: string | undefined): string => {
+    switch (direction) {
+      case "improving": return "Improving ^"
+      case "declining": return "Declining v"
+      case "stable": return "Stable -"
+      default: return ""
+    }
+  }
+
+  const getTrendBreakdown = (trend: AttendancePeriod[] | undefined): string => {
+    if (!trend || trend.length === 0) return ""
+    // Show last 4 years for brevity
+    const recentYears = trend.slice(-4)
+    const breakdown = recentYears
+      .map(t => `  - ${t.period}: ${t.attendanceRate.toFixed(1)}% (${t.meetingsAttended}/${t.meetingsTotal} meetings)`)
+      .join("\n")
+    return `\n**Attendance by Year:**\n${breakdown}\n`
+  }
+
+  const trendIndicator = stats?.attendance.trendDirection && stats.attendance.trendDirection !== "insufficient_data"
+    ? `\n- **Trend**: ${getTrendIndicator(stats.attendance.trendDirection)}`
+    : ""
+
+  const trendBreakdown = getTrendBreakdown(stats?.attendance.trend)
+
   const attendanceSection = stats && stats.attendance.totalMeetings > 0 ? `
 ## Attendance
 
 - **Attendance Rate**: ${stats.attendance.attendanceRate.toFixed(1)}%
 - **Meetings Attended**: ${stats.attendance.present.toLocaleString()} of ${stats.attendance.totalMeetings.toLocaleString()}
-- **Meetings Missed**: ${stats.attendance.absent.toLocaleString()}
-
+- **Meetings Missed**: ${stats.attendance.absent.toLocaleString()}${trendIndicator}
+${trendBreakdown}
 ` : ""
 
   // Voting alignment section
@@ -628,6 +744,40 @@ ${stats.topAlignments.slice(0, 3).map(a => `- ${a.councillor} (${a.alignmentRate
 **Least aligned with:**
 ${stats.bottomAlignments.slice(0, 3).map(a => `- ${a.councillor} (${a.alignmentRate.toFixed(1)}%)`).join("\n")}
 
+[View full voting alignment →](/councillors/alignment)
+
+` : ""
+
+  // Committee activity breakdown section
+  const committeeActivitySection = stats && stats.committeeActivity && stats.committeeActivity.length > 0 ? `
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+${stats.committeeActivity.map(c =>
+  `| ${c.committee} | ${c.totalVotes.toLocaleString()} | ${c.yeas.toLocaleString()} | ${c.nays.toLocaleString()} | ${c.participationRate.toFixed(1)}% |`
+).join("\n")}
+
+` : ""
+
+  // Notable Dissenting Votes section - shows votes where councillor was in the minority on split decisions
+  const notableDissentsSection = stats && stats.notableDissents && stats.notableDissents.length > 0 ? `
+## Notable Dissenting Votes
+
+*Recent split votes where ${data.name} voted against the final outcome:*
+
+${stats.notableDissents.map(d => {
+  const meetingLink = d.meetingUrl ? `[${d.meetingTitle}](${d.meetingUrl})` : d.meetingTitle
+  const voteLabel = d.vote === "nay" ? "Voted **Nay**" : "Voted **Yea**"
+  return `### ${d.date}: ${d.itemTitle}
+
+${meetingLink}
+
+> ${d.motionText}
+
+${voteLabel} - ${d.result}
+`
+}).join("\n")}
 ` : ""
 
   return `---
@@ -641,12 +791,10 @@ prefillQuestions:
 ${questions.map(q => `  - "${q}"`).join("\n")}
 ---
 
-${summary}
-
 ## Terms of Service
 
 ${termsList}
-${votingSection}${attendanceSection}${alignmentSection}
+${votingSection}${attendanceSection}${alignmentSection}${committeeActivitySection}${notableDissentsSection}
 ## Committees Served
 
 ${committees}

@@ -66,8 +66,8 @@ async function renderMatrix() {
 
     // Sort councillors
     if (sortBy === "cluster") {
-      // Cluster by voting similarity using simple hierarchical grouping
-      councillors = clusterCouncillors(councillors, data.matrix)
+      // Sort by average alignment with all other councillors (most agreeable first)
+      councillors = sortByAverageAlignment(councillors, data.matrix)
     } else {
       councillors.sort((a, b) => a.name.localeCompare(b.name))
     }
@@ -78,9 +78,10 @@ async function renderMatrix() {
       return
     }
 
-    // Calculate dimensions
+    // Calculate dimensions for triangle layout
     const cellSize = Math.min(40, Math.floor(600 / n))
     const margin = { top: 120, right: 20, bottom: 20, left: 120 }
+    // Triangle: only lower-left portion, so width is n cells (including diagonal)
     const width = n * cellSize
     const height = n * cellSize
 
@@ -94,24 +95,26 @@ async function renderMatrix() {
       .attr("transform", `translate(${margin.left},${margin.top})`)
 
     // Color scale (red = low alignment, green = high alignment)
+    // Actual data range is ~77-98%, so we use that for even color distribution
     const colorScale = d3
       .scaleSequential(d3.interpolateRdYlGn)
-      .domain([70, 100]) // Most alignments are 80-98%
+      .domain([77, 98])
 
-    // Create cells
+    // Create cells - only lower-left triangle (row > col) plus diagonal
     councillors.forEach((row, i) => {
+      // Diagonal cell (gray anchor)
+      svg
+        .append("rect")
+        .attr("x", i * cellSize)
+        .attr("y", i * cellSize)
+        .attr("width", cellSize - 1)
+        .attr("height", cellSize - 1)
+        .attr("fill", "#e5e5e5")
+        .attr("rx", 2)
+
+      // Lower triangle only (where row index > column index)
       councillors.forEach((col, j) => {
-        if (i === j) {
-          // Diagonal - self alignment (100%)
-          svg
-            .append("rect")
-            .attr("x", j * cellSize)
-            .attr("y", i * cellSize)
-            .attr("width", cellSize - 1)
-            .attr("height", cellSize - 1)
-            .attr("fill", "#e5e5e5")
-            .attr("rx", 2)
-        } else {
+        if (i > j) {
           const alignment = data.matrix[row.slug]?.[col.slug]
           if (alignment !== undefined) {
             svg
@@ -182,8 +185,9 @@ async function renderMatrix() {
   sortSelect?.addEventListener("change", render)
 }
 
-// Simple clustering based on voting similarity
-function clusterCouncillors(
+// Sort councillors by their average alignment with all other councillors
+// Councillors with higher average alignment (more consensus-oriented) appear first
+function sortByAverageAlignment(
   councillors: Councillor[],
   matrix: Record<string, Record<string, number>>
 ): Councillor[] {

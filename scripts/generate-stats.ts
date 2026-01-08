@@ -27,8 +27,71 @@ interface Meeting {
 interface VoteRecord {
   date: string
   meetingSlug: string
+  meetingTitle: string
+  meetingType: string
+  meetingUrl?: string
   itemNumber: string
+  itemTitle: string
+  motionText?: string
   vote: "yea" | "nay" | "absent"
+  result: string
+  passed: boolean
+  unanimous: boolean
+}
+
+// Check if a motion is procedural (routine/administrative) vs substantive
+function isProcedural(motionText: string | undefined): boolean {
+  if (!motionText) return false
+  const text = motionText.toLowerCase()
+  return (
+    /be received/i.test(text) ||
+    /be noted/i.test(text) ||
+    /minutes.*be approved/i.test(text) ||
+    /be adjourned/i.test(text) ||
+    /closed session/i.test(text) ||
+    /public participation meeting/i.test(text) ||
+    /first reading|second reading|third reading/i.test(text) ||
+    /consent items/i.test(text)
+  )
+}
+
+// Check if a vote is budget-related based on meetingType, itemTitle, or motionText
+// Budget keywords: "budget", "tax", "levy", "fiscal", "appropriation", "expenditure"
+function isBudgetRelated(vote: VoteRecord): boolean {
+  const budgetKeywords = /budget|tax|levy|fiscal|appropriation|expenditure/i
+
+  // Check if meetingType contains "Budget"
+  if (vote.meetingType && /budget/i.test(vote.meetingType)) {
+    return true
+  }
+
+  // Check if itemTitle contains budget-related keywords
+  if (vote.itemTitle && budgetKeywords.test(vote.itemTitle)) {
+    return true
+  }
+
+  // Check if motionText contains budget-related keywords
+  if (vote.motionText && budgetKeywords.test(vote.motionText)) {
+    return true
+  }
+
+  return false
+}
+
+interface BudgetVotingStats {
+  totalBudgetVotes: number
+  budgetYeas: number
+  budgetNays: number
+  budgetAbsent: number
+}
+
+// Committee activity breakdown for a councillor
+interface CommitteeActivity {
+  committee: string
+  totalVotes: number
+  yeas: number
+  nays: number
+  participationRate: number
 }
 
 interface CouncillorVotesFile {
@@ -37,12 +100,21 @@ interface CouncillorVotesFile {
   votes: VoteRecord[]
 }
 
+interface AttendancePeriod {
+  period: string  // e.g., "2023" or "2023-Q1"
+  attendanceRate: number
+  meetingsAttended: number
+  meetingsTotal: number
+}
+
 interface AttendanceStats {
   totalMeetings: number
   present: number
   absent: number
   remote: number
   attendanceRate: number
+  trend: AttendancePeriod[]
+  trendDirection: "improving" | "declining" | "stable" | "insufficient_data"
 }
 
 interface AlignmentPair {
@@ -50,6 +122,17 @@ interface AlignmentPair {
   sharedVotes: number
   agreedVotes: number
   alignmentRate: number
+}
+
+// Notable dissenting vote (councillor was in the minority on a split decision)
+interface NotableDissent {
+  date: string
+  meetingTitle: string
+  itemTitle: string
+  motionText: string // truncated
+  vote: "yea" | "nay"
+  result: string
+  meetingUrl?: string
 }
 
 // Internal type for raw alignment data between two councillors
@@ -72,9 +155,20 @@ interface CouncillorStats {
     absent: number
     participationRate: number
     yeaRate: number
+    contestedDissentRate: number // % of contested (non-unanimous) votes where councillor voted against final outcome
+    contestedVotes: number // Number of contested votes the councillor participated in
+    // Substantive votes (excludes procedural motions)
+    substantiveVotes: number
+    substantiveYeas: number
+    substantiveNays: number
+    substantiveParticipationRate: number
+    substantiveYeaRate: number
   }
+  budgetVoting: BudgetVotingStats
   topAlignments: AlignmentPair[]
   bottomAlignments: AlignmentPair[]
+  notableDissents: NotableDissent[]
+  committeeActivity: CommitteeActivity[]
 }
 
 interface StatsOutput {
@@ -157,6 +251,8 @@ async function main() {
         absent: 0,
         remote: 0,
         attendanceRate: 0,
+        trend: [],
+        trendDirection: "insufficient_data",
       },
       voting: {
         totalVotes: 0,
@@ -165,12 +261,33 @@ async function main() {
         absent: 0,
         participationRate: 0,
         yeaRate: 0,
+        contestedDissentRate: 0,
+        contestedVotes: 0,
+        substantiveVotes: 0,
+        substantiveYeas: 0,
+        substantiveNays: 0,
+        substantiveParticipationRate: 0,
+        substantiveYeaRate: 0,
+      },
+      budgetVoting: {
+        totalBudgetVotes: 0,
+        budgetYeas: 0,
+        budgetNays: 0,
+        budgetAbsent: 0,
       },
       topAlignments: [],
       bottomAlignments: [],
+      notableDissents: [],
+      committeeActivity: [],
     }
     councillorAttendance[slug] = { present: 0, absent: 0, remote: 0, total: 0 }
   }
+
+  // Track attendance by year for trend calculation
+  const councillorAttendanceByYear: Record<
+    string,
+    Record<string, { present: number; total: number }>
+  > = {}
 
   // ============================================
   // PART 1: Calculate Attendance Statistics
@@ -226,14 +343,26 @@ async function main() {
         }
 
         // For each councillor active during this meeting, update attendance
+        const meetingYear = meetingDate.getFullYear().toString()
+
         for (const canonicalName of Object.keys(registry)) {
           if (!wasActiveOnDate(canonicalName, meetingDate, registry)) continue
 
           const slug = getSlug(canonicalName)
           councillorAttendance[slug].total++
 
+          // Initialize year tracking for this councillor if needed
+          if (!councillorAttendanceByYear[slug]) {
+            councillorAttendanceByYear[slug] = {}
+          }
+          if (!councillorAttendanceByYear[slug][meetingYear]) {
+            councillorAttendanceByYear[slug][meetingYear] = { present: 0, total: 0 }
+          }
+          councillorAttendanceByYear[slug][meetingYear].total++
+
           if (presentSet.has(slug)) {
             councillorAttendance[slug].present++
+            councillorAttendanceByYear[slug][meetingYear].present++
             if (remoteSet.has(slug)) {
               councillorAttendance[slug].remote++
             }
@@ -250,15 +379,63 @@ async function main() {
     }
   }
 
-  // Update attendance stats
+  // Update attendance stats with trend data
   for (const slug of Object.keys(councillorAttendance)) {
     const att = councillorAttendance[slug]
+    const yearData = councillorAttendanceByYear[slug] || {}
+
+    // Build trend data sorted by year
+    const trend: AttendancePeriod[] = Object.keys(yearData)
+      .sort()
+      .map((year) => {
+        const data = yearData[year]
+        return {
+          period: year,
+          attendanceRate: data.total > 0 ? (data.present / data.total) * 100 : 0,
+          meetingsAttended: data.present,
+          meetingsTotal: data.total,
+        }
+      })
+
+    // Calculate trend direction based on recent years
+    // Need at least 2 years of data to determine a trend
+    let trendDirection: "improving" | "declining" | "stable" | "insufficient_data" =
+      "insufficient_data"
+
+    if (trend.length >= 2) {
+      // Compare the most recent year to the average of previous years
+      const recentYear = trend[trend.length - 1]
+      const previousYears = trend.slice(0, -1)
+
+      // Only consider years with at least 5 meetings for reliable comparison
+      const validPreviousYears = previousYears.filter((y) => y.meetingsTotal >= 5)
+
+      if (validPreviousYears.length >= 1 && recentYear.meetingsTotal >= 5) {
+        const previousAvg =
+          validPreviousYears.reduce((sum, y) => sum + y.attendanceRate, 0) /
+          validPreviousYears.length
+
+        const diff = recentYear.attendanceRate - previousAvg
+
+        // Use 5 percentage points as the threshold for meaningful change
+        if (diff >= 5) {
+          trendDirection = "improving"
+        } else if (diff <= -5) {
+          trendDirection = "declining"
+        } else {
+          trendDirection = "stable"
+        }
+      }
+    }
+
     councillorStats[slug].attendance = {
       totalMeetings: att.total,
       present: att.present,
       absent: att.absent,
       remote: att.remote,
       attendanceRate: att.total > 0 ? (att.present / att.total) * 100 : 0,
+      trend,
+      trendDirection,
     }
   }
 
@@ -283,12 +460,36 @@ async function main() {
 
     const slug = data.slug
 
-    // Update voting stats
+    // Update voting stats (all votes)
     const yeas = data.votes.filter((v) => v.vote === "yea").length
     const nays = data.votes.filter((v) => v.vote === "nay").length
     const absent = data.votes.filter((v) => v.vote === "absent").length
     const total = data.votes.length
     const participated = yeas + nays
+
+    // Calculate substantive votes (excluding procedural motions)
+    const substantiveVotes = data.votes.filter((v) => !isProcedural(v.motionText))
+    const substantiveYeas = substantiveVotes.filter((v) => v.vote === "yea").length
+    const substantiveNays = substantiveVotes.filter((v) => v.vote === "nay").length
+    const substantiveTotal = substantiveVotes.length
+    const substantiveParticipated = substantiveYeas + substantiveNays
+
+    // Calculate contested dissent rate:
+    // Only count non-unanimous votes where councillor participated
+    // Dissent = voted against final outcome (nay on passed OR yea on failed)
+    const contestedVotes = data.votes.filter(
+      (v) => v.unanimous === false && v.vote !== "absent"
+    )
+    const dissentingVotes = contestedVotes.filter((v) => {
+      // Dissent means voting against the final outcome
+      if (v.passed && v.vote === "nay") return true // Voted nay but it passed
+      if (!v.passed && v.vote === "yea") return true // Voted yea but it failed
+      return false
+    })
+    const contestedDissentRate =
+      contestedVotes.length > 0
+        ? (dissentingVotes.length / contestedVotes.length) * 100
+        : 0
 
     councillorStats[slug].voting = {
       totalVotes: total,
@@ -297,7 +498,98 @@ async function main() {
       absent,
       participationRate: total > 0 ? (participated / total) * 100 : 0,
       yeaRate: participated > 0 ? (yeas / participated) * 100 : 0,
+      contestedDissentRate,
+      contestedVotes: contestedVotes.length,
+      substantiveVotes: substantiveTotal,
+      substantiveYeas,
+      substantiveNays,
+      substantiveParticipationRate: substantiveTotal > 0 ? (substantiveParticipated / substantiveTotal) * 100 : 0,
+      substantiveYeaRate: substantiveParticipated > 0 ? (substantiveYeas / substantiveParticipated) * 100 : 0,
     }
+
+    // Calculate budget voting stats
+    const budgetVotes = data.votes.filter((v) => isBudgetRelated(v))
+    const budgetYeas = budgetVotes.filter((v) => v.vote === "yea").length
+    const budgetNays = budgetVotes.filter((v) => v.vote === "nay").length
+    const budgetAbsent = budgetVotes.filter((v) => v.vote === "absent").length
+
+    councillorStats[slug].budgetVoting = {
+      totalBudgetVotes: budgetVotes.length,
+      budgetYeas,
+      budgetNays,
+      budgetAbsent,
+    }
+
+    // Calculate committee activity breakdown
+    const committeeVotes: Record<
+      string,
+      { total: number; yeas: number; nays: number; absent: number }
+    > = {}
+
+    for (const vote of data.votes) {
+      const committee = vote.meetingType || "Unknown"
+      if (!committeeVotes[committee]) {
+        committeeVotes[committee] = { total: 0, yeas: 0, nays: 0, absent: 0 }
+      }
+      committeeVotes[committee].total++
+      if (vote.vote === "yea") {
+        committeeVotes[committee].yeas++
+      } else if (vote.vote === "nay") {
+        committeeVotes[committee].nays++
+      } else {
+        committeeVotes[committee].absent++
+      }
+    }
+
+    // Convert to CommitteeActivity array and sort by total votes descending
+    councillorStats[slug].committeeActivity = Object.entries(committeeVotes)
+      .map(([committee, stats]) => ({
+        committee,
+        totalVotes: stats.total,
+        yeas: stats.yeas,
+        nays: stats.nays,
+        participationRate:
+          stats.total > 0
+            ? ((stats.yeas + stats.nays) / stats.total) * 100
+            : 0,
+      }))
+      .sort((a, b) => b.totalVotes - a.totalVotes)
+
+    // Find dissenting votes: split votes where councillor was in minority
+    // A dissent is: nay on passed motion OR yea on failed motion
+    const dissents: NotableDissent[] = []
+    for (const vote of data.votes) {
+      // Skip if unanimous, absent, or missing required fields
+      if (vote.unanimous || vote.vote === "absent") continue
+      if (!vote.motionText || !vote.result) continue
+
+      // Check if councillor was in the minority
+      const wasDissentingVote =
+        (vote.vote === "nay" && vote.passed) ||
+        (vote.vote === "yea" && !vote.passed)
+
+      if (wasDissentingVote) {
+        // Truncate motion text to 200 chars for display
+        const truncatedMotion =
+          vote.motionText.length > 200
+            ? vote.motionText.substring(0, 200) + "..."
+            : vote.motionText
+
+        dissents.push({
+          date: vote.date,
+          meetingTitle: vote.meetingTitle,
+          itemTitle: vote.itemTitle,
+          motionText: truncatedMotion,
+          vote: vote.vote,
+          result: vote.result,
+          meetingUrl: vote.meetingUrl,
+        })
+      }
+    }
+
+    // Sort by date descending and take the most recent 10
+    dissents.sort((a, b) => b.date.localeCompare(a.date))
+    councillorStats[slug].notableDissents = dissents.slice(0, 10)
 
     // Build motion vote map for alignment analysis
     for (const vote of data.votes) {

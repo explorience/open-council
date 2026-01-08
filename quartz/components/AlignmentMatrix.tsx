@@ -25,7 +25,7 @@ export default (() => {
             <span>Sort by:</span>
             <select id="alignment-sort">
               <option value="name">Name</option>
-              <option value="cluster">Voting Bloc</option>
+              <option value="cluster">Average Alignment</option>
             </select>
           </label>
         </div>

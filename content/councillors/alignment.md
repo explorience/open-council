@@ -11,6 +11,6 @@ This interactive matrix shows voting alignment between London City councillors. 
 - **Red cells** indicate low alignment (councillors frequently disagree)
 - **Hover** over any cell to see the exact alignment percentage
 - Use the **filters** to switch between current council and all historical councillors
-- **Sort by Voting Bloc** to group councillors who vote similarly
+- **Sort by Average Alignment** to order councillors by how often they agree with others overall (highest average first)
 
 The alignment percentage is calculated from all recorded votes where both councillors participated. A higher percentage means the councillors voted the same way (both yea or both nay) more often.
