@@ -13,14 +13,14 @@ attendanceRate: 38.8
 participationRate: 100.0
 yeaRate: 90.4
 prefillQuestions:
-  - "What was Denise Brown's voting record on key municipal issues like budget approvals, development projects, or policy changes during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her attendance rate for regular council meetings versus committee meetings?"
-  - "Did she sponsor or champion any particular motions, bylaws, or initiatives during her four years on London City Council?"
+  - "What was Denise Brown's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what role did she play in committee deliberations?"
+  - "How did her meeting attendance rate of 95 meetings compare to other council members during the same period?"
 ---
 
-Denise Brown served on London City Council from 2011-2014, a four-year term during which she attended 95 meetings. During her tenure, she participated on four different committees, though the specific committee names are not clearly displayed in the available data. Her attendance record shows active participation in council proceedings throughout her term.
+Denise Brown served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 95 meetings during her term. She participated in committee work, serving on four different committees throughout her time on council, though the specific committee names are not clearly indicated in the available data.
 
-Her service spanned one full council term, indicating she was either elected in 2010 for the 2010-2014 council term or appointed/elected during 2011. The 95 meetings attended over approximately four years suggests regular engagement with council business and committee work.
+Her three-year tenure shows consistent engagement with the council's legislative processes, with her meeting attendance record reflecting regular participation in municipal governance activities during this period.
 
 ## Terms of Service
 

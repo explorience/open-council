@@ -13,14 +13,12 @@ attendanceRate: 45.2
 participationRate: 99.1
 yeaRate: 93.9
 prefillQuestions:
-  - "What was Phil Squire's attendance rate for council meetings compared to the total number of meetings held during their 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on, and did they hold any chair or vice-chair positions on these committees?"
-  - "How did Phil Squire typically vote on major municipal issues such as budget approvals, development applications, or infrastructure projects during their time on council?"
+  - "What was Phil Squire's voting record on major budget decisions during their time on council from 2014-2021?"
+  - "Which specific committees did Phil Squire serve on, and what leadership roles, if any, did they hold on these committees?"
+  - "How did Phil Squire's meeting attendance rate compare to other council members during their tenure?"
 ---
 
-Phil Squire served on London City Council from 2014 to 2021, spanning nearly eight years of municipal service. During this tenure, they demonstrated consistent engagement by attending 372 council meetings and participating on six different committees, indicating active involvement in the city's governance and decision-making processes.
-
-Their extended service period suggests they were re-elected at least once during their time on council, as municipal terms in Ontario are typically four years. The substantial number of meetings attended and multiple committee appointments reflect a commitment to participating in the various aspects of municipal government operations and policy development.
+Phil Squire served on London City Council from 2014 to 2021, demonstrating consistent participation with attendance at 372 meetings over their seven-year tenure. During this period, Squire served on six different committees, indicating broad involvement across various aspects of municipal governance. Their extended service period of seven years suggests they served nearly two full terms on council, representing sustained engagement in London's municipal political process.
 
 ## Terms of Service
 

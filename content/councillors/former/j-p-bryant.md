@@ -13,14 +13,14 @@ attendanceRate: 58.3
 participationRate: 100.0
 yeaRate: 91.4
 prefillQuestions:
-  - "What was Judy Bryant's attendance rate compared to other council members during her 2011-2014 term?"
-  - "Which specific committees did Judy Bryant serve on and what roles did she hold on those committees?"
-  - "How did Judy Bryant vote on major municipal issues and bylaws that came before council during her term?"
+  - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus regular council meetings?"
+  - "Did she sponsor or champion any particular bylaws or motions during her time on council?"
 ---
 
-Judy Bryant served on London City Council from 2011 to 2014, completing a single four-year term. During her tenure, she demonstrated consistent engagement by attending 168 meetings across various council sessions. Bryant participated on six different committees throughout her time in office, indicating broad involvement in the council's committee structure and municipal governance processes.
+Judy Bryant served on London City Council from 2011 to 2014, representing a single four-year term. During this period, she demonstrated consistent engagement with council duties by attending 168 meetings. Bryant participated actively in committee work, serving on six different committees throughout her tenure, though the specific names of these committees are not clearly identified in the available data.
 
-Her attendance record and committee participation suggest active engagement in council business during her term. The data shows she maintained regular participation in council meetings and took on multiple committee responsibilities as part of her municipal duties.
+Her four-year term and substantial meeting attendance record suggests regular participation in the democratic process at the municipal level. The committee involvement indicates she took on additional responsibilities beyond regular council meetings, contributing to various aspects of city governance during her time in office.
 
 ## Terms of Service
 

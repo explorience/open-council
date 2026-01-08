@@ -14,13 +14,13 @@ participationRate: 93.2
 yeaRate: 94.2
 prefillQuestions:
   - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, or policy changes?"
-  - "How does Shawn Lewis's meeting attendance rate of 495 meetings compare to other council members serving during the same period?"
+  - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, or policy changes?"
 ---
 
-Shawn Lewis has been an active member of London City Council from 2018 to 2025, demonstrating consistent engagement with a record of attending 495 meetings during this period. Their council participation spans approximately seven years, indicating they have served through at least one full municipal term and into a second term, as municipal elections in Ontario typically occur every four years.
+Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 meetings over this period. During their tenure, Lewis has been appointed to serve on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
 
-Lewis has served on eight different committees throughout their tenure, showing broad involvement across various aspects of municipal governance. This level of committee participation suggests active engagement in the detailed work of city council beyond regular council meetings, as committees typically handle much of the preparatory work for council decisions and policy development.
+Lewis's seven-year term on council shows sustained engagement in local government, with their high meeting attendance suggesting regular participation in council proceedings and committee work. Their service on multiple committees reflects the collaborative nature of municipal governance and the diverse range of issues that city councillors address during their tenure.
 
 ## Terms of Service
 

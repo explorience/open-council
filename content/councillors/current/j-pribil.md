@@ -13,14 +13,14 @@ attendanceRate: 51.5
 participationRate: 92.5
 yeaRate: 90.9
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
-  - "How often has Jerry Pribil voted in alignment with or against the majority position on council decisions?"
-  - "Which specific committees has Jerry Pribil served on, and what has been their level of participation and contribution to committee work?"
+  - "What is Jerry Pribil's voting record on major city budget items and tax increases?"
+  - "Which specific committees has Jerry Pribil served on and what role did they play in key committee decisions?"
+  - "How does Jerry Pribil's meeting attendance rate compare to other council members during the same period?"
 ---
 
-Jerry Pribil has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, they have demonstrated strong attendance with 212 meetings attended. Pribil has been involved in committee work, serving on eight different committees throughout their tenure, which indicates broad participation across various municipal governance areas.
+Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their tenure, indicating broad engagement across various municipal issues and policy areas.
 
-Their consistent meeting attendance and extensive committee involvement suggests an engaged approach to municipal governance. With their term spanning from 2022 to 2025, Pribil appears to be serving a full council term and has maintained regular participation in both general council meetings and specialized committee work.
+This level of meeting attendance and committee participation suggests a committed approach to municipal governance, with Pribil taking on responsibilities across multiple areas of city business during their current term on council.
 
 ## Terms of Service
 

@@ -13,14 +13,14 @@ attendanceRate: 58.3
 participationRate: 100.0
 yeaRate: 93.3
 prefillQuestions:
-  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Harold Usher serve on and did he hold any committee chair or vice-chair positions?"
-  - "What were the key issues or policy areas that Harold Usher most frequently voted on or championed during his 2011-2018 council service?"
+  - "What was Harold Usher's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during his 2011-2018 tenure?"
+  - "Which specific committees did Harold Usher serve on, and what were his attendance rates and contributions to each committee's work?"
+  - "How did Harold Usher's meeting attendance rate of 403 meetings compare to other council members during the same period, and were there any notable absences during important votes?"
 ---
 
-Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation with 403 meetings attended over his seven-year tenure. During his time on council, he served on six different committees, indicating active involvement in various aspects of municipal governance and policy development.
+Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation over nearly eight years of municipal government service. During his tenure, he attended 403 council meetings and served on six different committees, indicating active engagement in the city's governance and decision-making processes.
 
-His attendance record and committee participation suggest regular engagement with council duties throughout his term. The multi-year service period and substantial meeting attendance reflect a sustained commitment to his council responsibilities during nearly two full terms of office.
+His attendance record and committee involvement suggest he was a dedicated member of council who participated regularly in municipal affairs throughout his time in office. The duration of his service spanning multiple terms reflects either re-election by constituents or appointment to various roles within the council structure.
 
 ## Terms of Service
 

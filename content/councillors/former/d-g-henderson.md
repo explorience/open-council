@@ -13,12 +13,14 @@ attendanceRate: 51.3
 participationRate: 100.0
 yeaRate: 89.7
 prefillQuestions:
-  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Dale Henderson serve on and what was their role or contribution to each?"
-  - "How did Dale Henderson's meeting attendance rate compare to other council members during the same period?"
+  - "What was Dale Henderson's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
+  - "Which specific committees did Dale Henderson serve on and what were their primary areas of responsibility?"
+  - "What were some of the major issues or initiatives that came before council during Henderson's term, and how did they vote on key matters?"
 ---
 
-Dale Henderson served on London City Council from 2011 to 2014, demonstrating active participation with attendance at 142 meetings during their term. Henderson's council involvement included service on four different committees, indicating engagement across multiple areas of municipal governance. This level of meeting attendance and committee participation suggests a committed approach to their council responsibilities during their four-year tenure.
+Dale Henderson served on London City Council from 2011-2014, spanning one full term of municipal government. During this four-year period, Henderson demonstrated consistent engagement with council duties, attending 142 meetings. Henderson's committee involvement included service on four different committees, indicating active participation in the detailed work of municipal governance that occurs at the committee level.
+
+Henderson's attendance record suggests regular engagement with council responsibilities throughout the term. Committee work typically involves in-depth review of policy matters, budget items, and municipal issues before they reach full council, indicating Henderson participated in both the preparatory and decision-making aspects of municipal governance during their time in office.
 
 ## Terms of Service
 

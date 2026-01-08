@@ -13,14 +13,12 @@ attendanceRate: 46.8
 participationRate: 92.1
 yeaRate: 89.8
 prefillQuestions:
-  - "What is Corrine Rahman's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has Rahman served on and what roles have they held on those committees?"
-  - "What has been Rahman's voting pattern on major city issues such as budget approvals, development projects, or policy initiatives?"
+  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
+  - "How frequently does she speak or contribute during council meetings, and on which topics does she most often provide input?"
+  - "What specific committees does she serve on, and has she taken any leadership roles such as committee chair or vice-chair positions?"
 ---
 
-Corrine Rahman has served on London City Council from 2022-2025, demonstrating active participation with attendance at 216 meetings during this period. Rahman has been involved in committee work, serving on 8 different committees throughout their term, though the specific committee names are not clearly displayed in the available data.
-
-Rahman's participation spans the current council term, indicating they are likely in their first term of office given the 2022 start date. Their meeting attendance of 216 sessions suggests regular engagement in council business over the approximately 3-year period of service.
+Corrine Rahman has been an active member of London City Council, Canada, serving during the 2022-2025 term. During this period, she has demonstrated strong participation by attending 216 council meetings. Her involvement extends beyond general council meetings, as she has served on eight different committees, indicating broad engagement across various municipal functions and policy areas. This level of meeting attendance and committee participation suggests consistent involvement in the council's decision-making processes throughout her term.
 
 ## Terms of Service
 

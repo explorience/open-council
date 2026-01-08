@@ -13,14 +13,14 @@ attendanceRate: 34.2
 participationRate: 80.0
 yeaRate: 100.0
 prefillQuestions:
-  - "What was John Fyfe-Millar's voting pattern on key municipal issues such as budget approvals, development proposals, and policy initiatives?"
-  - "Which specific committees did John Fyfe-Millar serve on, and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "How does their meeting attendance rate of 74 meetings compare to other council members during the same 2021-2022 period?"
+  - "What specific committees did John Fyfe-Millar serve on during his time on London City Council?"
+  - "How does his meeting attendance rate of 74 meetings compare to other council members during the same 2021-2022 period?"
+  - "What was his voting record on key municipal issues and bylaws that came before council during his tenure?"
 ---
 
-John Fyfe-Millar has served on London City Council in Canada from 2021 to 2022, demonstrating active participation with attendance at 74 council meetings during this period. Throughout their tenure, they have served on six different committees, indicating broad involvement across various aspects of municipal governance and policy areas.
+John Fyfe-Millar has served on London City Council for two years, being active in 2021 and 2022. During this period, he has demonstrated consistent attendance with 74 meetings attended. His council participation includes service on six different committees, showing broad engagement across various municipal issues and responsibilities.
 
-Their consistent meeting attendance over the two-year period suggests regular engagement with council business and responsibilities. The multiple committee appointments reflect their participation in the detailed work of municipal government that typically occurs at the committee level before items advance to full council consideration.
+His attendance record and committee involvement suggests active participation in the council's work during his tenure. The scope of his committee memberships indicates involvement in multiple areas of municipal governance during his time as a council member.
 
 ## Terms of Service
 

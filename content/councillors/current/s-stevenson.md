@@ -13,14 +13,14 @@ attendanceRate: 41.3
 participationRate: 86.0
 yeaRate: 82.2
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
-  - "Which specific committees has she served on and what has been her level of participation or leadership role within those committees?"
-  - "How does her meeting attendance rate compare to other London City Council members, and has she been absent from any crucial votes or decisions?"
+  - "What is Susan Stevenson's voting record on key municipal issues like budget approvals, development proposals, and infrastructure projects?"
+  - "How often does she vote in alignment with or opposition to the majority of council members on contentious issues?"
+  - "Has she sponsored or championed any specific motions, bylaws, or initiatives during her time on council?"
 ---
 
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022-2025. During her current term, she has demonstrated strong attendance with participation in 178 council meetings. Her council involvement extends beyond general meetings, as she has served on eight different committees, indicating broad engagement across various municipal policy areas and administrative functions.
+Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her tenure, she has demonstrated strong engagement with council duties, attending 178 meetings. Her council participation includes service on eight different committees, indicating broad involvement across various municipal governance areas and policy domains.
 
-Her consistent meeting attendance and extensive committee participation suggest a commitment to the administrative duties of municipal governance. The data shows she has maintained regular involvement in council proceedings throughout her term, contributing to the collaborative decision-making processes that characterize municipal government operations.
+Her consistent meeting attendance and extensive committee participation suggest a dedicated approach to municipal governance and community representation during her current term on London City Council.
 
 ## Terms of Service
 

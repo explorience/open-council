@@ -13,12 +13,14 @@ attendanceRate: 50.8
 participationRate: 88.0
 yeaRate: 94.2
 prefillQuestions:
-  - "What is Josh Morgan's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending?"
-  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his years of service?"
-  - "Which specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council, and which ones has he chaired or held leadership positions on?"
+  - "How does Josh Morgan's meeting attendance record compare to other council members, and has his attendance rate remained consistent throughout his 11-year tenure?"
+  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, and policy changes during his time in office?"
 ---
 
-Josh Morgan has been an active member of London City Council from 2014 to 2025, demonstrating substantial engagement through his attendance at 654 council meetings over this eleven-year period. This represents an average of approximately 59 meetings per year, indicating consistent participation in council proceedings. Morgan has served on eight different committees during his tenure, showing broad involvement across various aspects of municipal governance and policy areas within the City of London.
+Josh Morgan has been an active member of London City Council from 2014 to 2025, demonstrating significant commitment to municipal governance through his attendance at 654 council meetings over this 11-year period. This represents an average of approximately 59 meetings per year, indicating consistent participation in council proceedings. Morgan has served on eight different committees during his tenure, showing broad engagement across various areas of municipal responsibility and policy development.
+
+His extended service spanning over a decade suggests he has been re-elected multiple times, indicating ongoing voter confidence in his representation. The combination of high meeting attendance and extensive committee involvement demonstrates a hands-on approach to his council duties and suggests he has likely gained substantial experience across diverse municipal issues and governance areas.
 
 ## Terms of Service
 

@@ -13,14 +13,14 @@ attendanceRate: 49.9
 participationRate: 94.1
 yeaRate: 92.4
 prefillQuestions:
-  - "What is Anna Hopkins' voting attendance rate and has she missed any significant votes during her time on council?"
-  - "Which committees has Anna Hopkins chaired or served in leadership roles on during her tenure?"
-  - "How does Anna Hopkins' meeting attendance record compare to other council members during overlapping terms of service?"
+  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, and tax increases?"
+  - "How often has she been absent from council meetings and committee meetings during her tenure?"
+  - "Has she held any leadership positions such as committee chair or deputy mayor roles during her time on council?"
 ---
 
-Anna Hopkins has been an active member of London City Council in Canada, serving from 2014 to 2025, representing over a decade of municipal government participation. During her tenure, she has demonstrated significant engagement with council business, attending 640 meetings. Her service has included participation on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
+Anna Hopkins has served on London City Council for over a decade, maintaining active participation from 2014 to 2025. During this period, she has attended 640 council meetings, demonstrating consistent engagement in municipal governance. Her extensive committee involvement spans eight different committees, indicating broad participation across various areas of city administration and policy development.
 
-Hopkins' extensive meeting attendance record and multi-committee involvement suggests a high level of commitment to her council responsibilities. Her long tenure spanning more than ten years represents substantial continuity in London's municipal government, providing institutional knowledge and experience across multiple council terms.
+Hopkins' lengthy tenure and high meeting attendance record suggest a committed approach to her council duties. Her service across multiple committees reflects either rotation through different areas of municipal responsibility over her years in office, or simultaneous service on several committees, both of which would indicate substantial involvement in the detailed work of city governance beyond regular council meetings.
 
 ## Terms of Service
 

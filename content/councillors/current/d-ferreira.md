@@ -14,13 +14,13 @@ participationRate: 90.7
 yeaRate: 88.2
 prefillQuestions:
   - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "How does David Ferreira's meeting attendance rate compare to other council members during the 2022-2025 term?"
-  - "What has been David Ferreira's voting record on major municipal issues and bylaws during his council tenure?"
+  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same period?"
+  - "What has been his voting pattern on key municipal issues such as budget approvals, development projects, or policy reforms?"
 ---
 
-David Ferreira has been an active member of London City Council, Canada, serving from 2022 to 2025. During this period, he has demonstrated strong participation by attending 208 council meetings. His involvement extends beyond regular council sessions, as he has served on eight different committees, indicating broad engagement across various municipal governance areas.
+David Ferreira has been an active member of London City Council, Canada, serving from 2022-2025. During his tenure, he has demonstrated strong participation by attending 208 council meetings. His involvement extends beyond regular council sessions, as he has served on eight different committees, indicating broad engagement across various municipal portfolios and policy areas.
 
-Ferreira's consistent meeting attendance and extensive committee participation suggest a committed approach to his council responsibilities. His service span covers the current council term, showing ongoing dedication to municipal governance and community representation through formal council processes.
+His consistent meeting attendance and extensive committee involvement suggest a committed approach to municipal governance. Serving on multiple committees allows council members to contribute specialized expertise and oversight across different aspects of city operations, from planning and development to finance and community services.
 
 ## Terms of Service
 

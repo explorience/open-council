@@ -13,14 +13,14 @@ attendanceRate: 43.0
 participationRate: 100.0
 yeaRate: 85.3
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "How did his 112 meeting attendance compare to other council members during the same period, and what was the total number of possible meetings he could have attended?"
+  - "What was Stephen Orser's attendance rate compared to other council members during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on, and what was his level of participation in committee work?"
+  - "How did Stephen Orser vote on major city issues and budget decisions during his time on council?"
 ---
 
-Stephen Orser served on London City Council from 2011 to 2014, completing a four-year term. During his tenure, he demonstrated active participation by attending 112 council meetings. He served on four different committees during his time on council, though the specific committee names are not clearly displayed in the available data.
+Stephen Orser served on London City Council from 2011 to 2014, completing one full term during this period. Throughout his tenure, he demonstrated consistent engagement with council duties, attending 112 meetings over the course of his service. His participation extended beyond general council sessions, as he served on four different committees during his time in office, though the specific names of these committees are not clearly identified in the available data.
 
-His attendance record and committee involvement suggest he was an engaged council member who participated regularly in the city's governance processes throughout his term. The 2011-2014 period represents one full municipal term, indicating he served but did not seek re-election or was unsuccessful in subsequent elections.
+Orser's attendance record and committee involvement suggest he maintained an active role in municipal governance during his term. His four-year service period coincided with important municipal decision-making processes, and his participation across multiple committees would have provided him with exposure to various aspects of city administration and policy development.
 
 ## Terms of Service
 

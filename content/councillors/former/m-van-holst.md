@@ -13,14 +13,14 @@ attendanceRate: 45.3
 participationRate: 95.2
 yeaRate: 95.6
 prefillQuestions:
-  - "What was Michael van Holst's voting alignment with other council members on major municipal issues during his tenure?"
-  - "Which specific committees did he serve on and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did his attendance and participation rate compare to other council members during the same period from 2014-2022?"
+  - "What was Michael van Holst's voting alignment with the majority on key municipal issues during his time on council?"
+  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "How did his attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
 ---
 
-Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he was appointed to serve on eight different committees, indicating broad involvement across various municipal portfolios and responsibilities.
+Michael van Holst served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 461 meetings over his eight-year tenure. During his time on council, he served on eight different committees, indicating broad involvement across various municipal governance areas. His extended service period and high meeting attendance suggest active engagement in the city's decision-making processes.
 
-His extensive meeting attendance record and multi-committee participation suggests active engagement in the council's deliberative processes throughout his two-term service on London City Council.
+His participation spanned two full terms on council, providing continuity in municipal governance during a significant period in London's development. The substantial number of meetings attended reflects regular participation in both regular council sessions and committee work throughout his tenure.
 
 ## Terms of Service
 

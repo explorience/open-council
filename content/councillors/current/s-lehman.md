@@ -13,14 +13,14 @@ attendanceRate: 44.9
 participationRate: 91.2
 yeaRate: 93.9
 prefillQuestions:
-  - "What specific committees has Steve Lehman served on during his time on London City Council?"
-  - "What has been Steve Lehman's voting record on major city issues such as budget approvals, development proposals, or infrastructure projects?"
-  - "How does Steve Lehman's meeting attendance rate compare to other council members, and has his participation been consistent throughout his entire term?"
+  - "What specific committees has Steve Lehman served on during his time on London City Council, and what were his primary roles or contributions to each?"
+  - "What is Steve Lehman's voting attendance rate and pattern - does he consistently vote on key municipal issues, and are there any notable absences from important votes?"
+  - "How does Steve Lehman's meeting attendance record of 386 sessions compare to other council members serving during the same period, and what does this say about his level of civic engagement?"
 ---
 
-Steve Lehman has been an active member of London City Council, serving from 2018 to 2025. During his tenure, he has demonstrated consistent participation by attending 386 council meetings. His involvement extends beyond general council sessions, as he has served on six different committees throughout his time in office, indicating a broad engagement with various municipal issues and governance responsibilities.
+Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent engagement through his attendance at 386 council meetings during this period. His council participation spans approximately seven years, indicating he has served multiple terms. Throughout his tenure, Lehman has participated on six different committees, showing broad involvement in various aspects of municipal governance and policy development.
 
-His seven-year term on council shows sustained commitment to municipal governance in London, Ontario. The high number of meetings attended suggests regular participation in the democratic processes of the city, contributing to policy discussions and municipal decision-making across multiple areas of city operations through his various committee appointments.
+His meeting attendance of 386 sessions over seven years suggests regular participation in council proceedings, which would include both regular council meetings and committee work. This level of engagement indicates active involvement in the day-to-day operations and decision-making processes of London's municipal government.
 
 ## Terms of Service
 

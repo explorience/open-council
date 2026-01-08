@@ -13,14 +13,14 @@ attendanceRate: 48.5
 participationRate: 86.4
 yeaRate: 91.8
 prefillQuestions:
-  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
-  - "What is McAlister's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does McAlister's meeting attendance rate of 203 meetings compare to other council members and the expected number of meetings during this timeframe?"
+  - "What is Hadleigh McAlister's voting pattern on key municipal issues such as budget approvals, development projects, and bylaw changes?"
+  - "How does their meeting attendance rate of 203 meetings compare to other council members during the same 2022-2025 period?"
+  - "Which specific committees has McAlister served on and what has been their level of participation or leadership roles within those committees?"
 ---
 
-Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, though the specific committee names are not clearly displayed in the available data. McAlister's current term spans four years, indicating they were elected in the 2022 municipal election cycle.
+Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various municipal matters and policy areas.
 
-Based on their meeting attendance record and multi-committee involvement, McAlister appears to maintain consistent engagement in council business across various municipal portfolios and governance areas.
+McAlister's meeting attendance record suggests consistent involvement in council business throughout their term. Their multi-committee participation reflects engagement with diverse aspects of city governance, though the specific nature of these committee assignments is not detailed in the available participation data.
 
 ## Terms of Service
 

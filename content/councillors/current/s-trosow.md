@@ -13,14 +13,14 @@ attendanceRate: 49.0
 participationRate: 88.7
 yeaRate: 82.4
 prefillQuestions:
-  - "What is Sam Trosow's voting record on key municipal issues like budget approvals, development projects, and public transit initiatives?"
-  - "How often does Sam Trosow introduce motions or amendments during council meetings, and what topics do they typically focus on?"
-  - "What specific committees does Sam Trosow serve on, and have they taken on any leadership roles such as committee chair or vice-chair positions?"
+  - "What is Sam Trosow's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "How often does Sam Trosow speak during council debates and what types of motions or amendments do they typically propose?"
+  - "What specific committees does Sam Trosow serve on and what has been their attendance rate for committee meetings versus regular council meetings?"
 ---
 
-Sam Trosow has been an active member of London City Council since 2022, currently serving in the 2022-2025 term. During this period, they have demonstrated strong engagement by attending 209 council meetings. Trosow has served on eight different committees, indicating broad involvement across various municipal governance areas and policy discussions.
+Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong engagement through attendance at 209 council meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees throughout their term, indicating broad involvement across various municipal governance areas and policy domains.
 
-Their consistent meeting attendance and extensive committee participation suggests a hands-on approach to municipal governance. With their current term running through 2025, Trosow appears to maintain regular engagement with council business and committee work across multiple areas of city administration.
+This level of meeting attendance and committee participation suggests a high degree of commitment to their council responsibilities. Serving on multiple committees allows council members to develop expertise in different areas of municipal government and contribute to detailed policy development before matters reach the full council for consideration.
 
 ## Terms of Service
 

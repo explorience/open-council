@@ -13,14 +13,14 @@ attendanceRate: 29.1
 participationRate: 99.9
 yeaRate: 94.9
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2014-2018 term?"
-  - "Which specific committees did he serve on, and what was his level of participation and leadership roles within those committees?"
-  - "How did his attendance rate of 142 meetings compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What was Jared Zaifman's voting record on key municipal issues during his 2014-2018 term?"
+  - "Which specific committees did he serve on and what was his attendance rate for each committee?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
 ---
 
-Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. He was actively involved in committee work, serving on four different committees throughout his time on council, though the specific committee names are not clearly indicated in the available data.
+Jared Zaifman served on London City Council from 2014 to 2018, completing a full four-year term. During his tenure, he demonstrated consistent participation by attending 142 council meetings. He was appointed to serve on four different committees during his time on council, though the specific committee names are not clearly indicated in the available data.
 
-His attendance record and committee involvement suggest he maintained regular engagement with municipal governance responsibilities during his term. The meeting attendance figure represents his participation across various types of council sessions, including regular council meetings, committee meetings, and other official municipal proceedings over the four-year period.
+His attendance record and committee involvement suggest active engagement in the council's work throughout his term. The meeting attendance figure represents his participation across various types of council proceedings, including regular council meetings, committee meetings, and other official council business during his four years of service.
 
 ## Terms of Service
 
