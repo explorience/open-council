@@ -13,20 +13,18 @@ attendanceRate: 51.5
 participationRate: 92.5
 yeaRate: 90.9
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on major city budget items and tax increases?"
-  - "Which specific committees has Jerry Pribil served on and what role did they play in key committee decisions?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members during the same period?"
+  - "What specific committees has Jerry Pribil served on during their tenure, and what are their primary responsibilities on each?"
+  - "How does Jerry Pribil's meeting attendance record of 212 meetings compare to other council members during the same 2022-2025 period?"
+  - "What has been Jerry Pribil's voting pattern on major municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
-
-Jerry Pribil has served on London City Council from 2022-2025, demonstrating active participation with attendance at 212 meetings during this period. Their council involvement extends beyond regular council meetings, as they have served on eight different committees throughout their tenure, indicating broad engagement across various municipal issues and policy areas.
-
-This level of meeting attendance and committee participation suggests a committed approach to municipal governance, with Pribil taking on responsibilities across multiple areas of city business during their current term on council.
 
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 5)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ This level of meeting attendance and committee participation suggests a committe
 - Sam Trosow (86.0%)
 - Susan Stevenson (89.3%)
 - David Ferreira (89.6%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

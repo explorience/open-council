@@ -13,20 +13,18 @@ attendanceRate: 48.7
 participationRate: 92.3
 yeaRate: 93.3
 prefillQuestions:
-  - "What is Steve Hillier's voting record on major municipal issues such as budget approvals, development projects, and infrastructure spending?"
-  - "How frequently did he miss scheduled council meetings, and what was his overall attendance rate during his tenure?"
-  - "What leadership roles, if any, did he hold on the committees he served on, such as chair or vice-chair positions?"
+  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has Steve Hillier served on and what roles or leadership positions has he held within those committees?"
+  - "What has been Steve Hillier's voting pattern on major city issues such as budget approvals, development projects, or policy changes during his tenure?"
 ---
-
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council meetings, as he has served on seven different committees throughout his tenure, indicating a broad engagement with various aspects of municipal governance and policy areas.
-
-His multi-year service spanning seven years suggests he has been re-elected at least once during this period, reflecting ongoing community support for his participation in local government. The high number of meeting attendances relative to his years of service indicates regular and committed participation in the democratic processes of London City Council.
 
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 14)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ His multi-year service spanning seven years suggests he has been re-elected at l
 - Sam Trosow (81.3%)
 - David Ferreira (85.7%)
 - Susan Stevenson (88.2%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

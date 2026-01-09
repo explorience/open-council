@@ -13,20 +13,18 @@ attendanceRate: 48.5
 participationRate: 91.4
 yeaRate: 90.4
 prefillQuestions:
-  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has Peter Cuddy served on and what are his roles on those committees?"
-  - "Has Peter Cuddy sponsored or championed any particular motions or initiatives during his time on council?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "How frequently has he introduced motions or amendments during council meetings, and what topics do they typically address?"
+  - "What are the specific committees he serves on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
-
-Peter Cuddy has been an active member of London City Council, Canada, serving from 2022 to 2025. During his tenure, he has demonstrated consistent participation by attending 204 meetings. His council involvement extends beyond general council meetings, as he has served on eight different committees, indicating broad engagement across various municipal governance areas.
-
-His attendance record and committee participation suggest a high level of commitment to his council responsibilities. The substantial number of meetings attended over his term reflects regular engagement in the city's decision-making processes and municipal affairs.
 
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 3)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ His attendance record and committee participation suggest a high level of commit
 - Sam Trosow (83.0%)
 - David Ferreira (87.9%)
 - Anna Hopkins (88.4%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

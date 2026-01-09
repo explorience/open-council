@@ -13,18 +13,18 @@ attendanceRate: 52.0
 participationRate: 99.5
 yeaRate: 93.1
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major budget decisions and tax increases during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Paul Hubert's attendance rate of 363 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What was Paul Hubert's voting attendance rate and did he miss any significant votes during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on and did he hold any chair or vice-chair positions?"
+  - "How did Paul Hubert's meeting attendance and committee participation compare to other council members during the same period?"
 ---
-
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he served on eight different committees, showing broad involvement across various municipal governance areas. His regular meeting attendance and multi-committee participation indicates active engagement in the city's decision-making processes throughout his council term.
 
 ## Terms of Service
 
 - 2010-2018: Councillor (Ward 8)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|

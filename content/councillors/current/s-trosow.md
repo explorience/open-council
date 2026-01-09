@@ -13,20 +13,18 @@ attendanceRate: 49.0
 participationRate: 88.7
 yeaRate: 82.4
 prefillQuestions:
-  - "What is Sam Trosow's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
-  - "How often does Sam Trosow speak during council debates and what types of motions or amendments do they typically propose?"
-  - "What specific committees does Sam Trosow serve on and what has been their attendance rate for committee meetings versus regular council meetings?"
+  - "What specific committees has Sam Trosow served on during their 2022-2025 term?"
+  - "How does Sam Trosow's meeting attendance rate compare to other London City Council members?"
+  - "What has been Sam Trosow's voting pattern on major city issues and budget decisions?"
 ---
-
-Sam Trosow has been an active member of London City Council from 2022-2025, demonstrating strong engagement through attendance at 209 council meetings during this period. Their participation extends beyond regular council sessions, as they have served on eight different committees throughout their term, indicating broad involvement across various municipal governance areas and policy domains.
-
-This level of meeting attendance and committee participation suggests a high degree of commitment to their council responsibilities. Serving on multiple committees allows council members to develop expertise in different areas of municipal government and contribute to detailed policy development before matters reach the full council for consideration.
 
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 6)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ This level of meeting attendance and committee participation suggests a high deg
 - Susan Stevenson (77.7%)
 - Paul Van Meerbergen (78.2%)
 - Steve Hillier (81.3%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

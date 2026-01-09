@@ -13,14 +13,10 @@ attendanceRate: 50.8
 participationRate: 88.0
 yeaRate: 94.2
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council, and which ones has he chaired or held leadership positions on?"
-  - "How does Josh Morgan's meeting attendance record compare to other council members, and has his attendance rate remained consistent throughout his 11-year tenure?"
-  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, and policy changes during his time in office?"
+  - "What is Josh Morgan's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "How frequently has he voted with the majority versus taking minority positions on council decisions?"
+  - "Which committees has Josh Morgan served on during his tenure, and has he held any leadership roles such as committee chair or vice-chair positions?"
 ---
-
-Josh Morgan has been an active member of London City Council from 2014 to 2025, demonstrating significant commitment to municipal governance through his attendance at 654 council meetings over this 11-year period. This represents an average of approximately 59 meetings per year, indicating consistent participation in council proceedings. Morgan has served on eight different committees during his tenure, showing broad engagement across various areas of municipal responsibility and policy development.
-
-His extended service spanning over a decade suggests he has been re-elected multiple times, indicating ongoing voter confidence in his representation. The combination of high meeting attendance and extensive committee involvement demonstrates a hands-on approach to his council duties and suggests he has likely gained substantial experience across diverse municipal issues and governance areas.
 
 ## Terms of Service
 
@@ -28,6 +24,8 @@ His extended service spanning over a decade suggests he has been re-elected mult
 - 2022-2026: Mayor
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -55,6 +53,8 @@ His extended service spanning over a decade suggests he has been re-elected mult
 - Sam Trosow (85.9%)
 - Susan Stevenson (86.6%)
 - David Ferreira (90.9%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

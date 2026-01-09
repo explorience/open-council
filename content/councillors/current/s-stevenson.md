@@ -13,20 +13,18 @@ attendanceRate: 41.3
 participationRate: 86.0
 yeaRate: 82.2
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues like budget approvals, development proposals, and infrastructure projects?"
-  - "How often does she vote in alignment with or opposition to the majority of council members on contentious issues?"
-  - "Has she sponsored or championed any specific motions, bylaws, or initiatives during her time on council?"
+  - "What is Susan Stevenson's voting record on key municipal issues during her 2022-2025 term?"
+  - "Which specific committees has she served on and what leadership roles, if any, has she held within those committees?"
+  - "How does her meeting attendance rate compare to other council members during the same period?"
 ---
-
-Susan Stevenson has been an active member of London City Council, Canada, serving from 2022 to 2025. During her tenure, she has demonstrated strong engagement with council duties, attending 178 meetings. Her council participation includes service on eight different committees, indicating broad involvement across various municipal governance areas and policy domains.
-
-Her consistent meeting attendance and extensive committee participation suggest a dedicated approach to municipal governance and community representation during her current term on London City Council.
 
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 4)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ Her consistent meeting attendance and extensive committee participation suggest 
 - Sam Trosow (77.7%)
 - David Ferreira (79.1%)
 - Anna Hopkins (81.5%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

@@ -13,20 +13,18 @@ attendanceRate: 53.1
 participationRate: 96.2
 yeaRate: 96.0
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major budget decisions during her time on council?"
-  - "How often did she vote with the majority versus in opposition on council motions and bylaws?"
-  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus full council meetings?"
+  - "What was Maureen Cassidy's voting record on major municipal issues such as budget approvals, development projects, or transit initiatives during her time on council?"
+  - "Which specific committees did she serve on, and did she hold any chair or vice-chair positions on these committees?"
+  - "How did her meeting attendance rate compare to other council members, and were there any notable absences during key votes or debates?"
 ---
-
-Maureen Cassidy served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 536 meetings over her eight-year tenure. During her time on council, she served on seven different committees, indicating broad involvement across various areas of municipal governance and policy development.
-
-Her extensive meeting attendance and multi-committee participation suggests active engagement in the council's work throughout her two terms of service. This level of participation reflects a commitment to the administrative and deliberative processes that guide municipal decision-making in London, Ontario.
 
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 5)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|

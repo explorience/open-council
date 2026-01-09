@@ -13,20 +13,18 @@ attendanceRate: 58.3
 participationRate: 100.0
 yeaRate: 93.3
 prefillQuestions:
-  - "What was Harold Usher's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during his 2011-2018 tenure?"
-  - "Which specific committees did Harold Usher serve on, and what were his attendance rates and contributions to each committee's work?"
-  - "How did Harold Usher's meeting attendance rate of 403 meetings compare to other council members during the same period, and were there any notable absences during important votes?"
+  - "What was Harold Usher's attendance rate at council meetings compared to other councillors during his time in office?"
+  - "Which specific committees did Harold Usher serve on and what were his key contributions to those committees?"
+  - "How did Harold Usher vote on major municipal issues and bylaws during his 2011-2018 tenure?"
 ---
-
-Harold Usher served on London City Council, Canada from 2011 to 2018, demonstrating consistent participation over nearly eight years of municipal government service. During his tenure, he attended 403 council meetings and served on six different committees, indicating active engagement in the city's governance and decision-making processes.
-
-His attendance record and committee involvement suggest he was a dedicated member of council who participated regularly in municipal affairs throughout his time in office. The duration of his service spanning multiple terms reflects either re-election by constituents or appointment to various roles within the council structure.
 
 ## Terms of Service
 
 - 2010-2018: Councillor (Ward 12)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|

@@ -14,13 +14,9 @@ participationRate: 89.9
 yeaRate: 86.9
 prefillQuestions:
   - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and what roles (chair, vice-chair, member) has he held on these committees?"
-  - "What are the key policy areas or issues where he has been most active in terms of motions introduced or voting patterns?"
+  - "Which specific committees has he served on and in what capacity (chair, vice-chair, or member)?"
+  - "How has his voting pattern evolved over his 14 years on council, particularly on key municipal issues like budget approvals and development projects?"
 ---
-
-Paul Van Meerbergen has served on London City Council from 2011 to 2025, demonstrating consistent participation with attendance at 499 meetings over this 14-year period. During his tenure, he has served on seven different committees, indicating broad involvement across various areas of municipal governance and policy-making.
-
-His extended service period and high meeting attendance suggest active engagement in council business and committee work. The multi-year commitment spanning over a decade indicates he has been re-elected multiple times, reflecting ongoing community support for his council participation.
 
 ## Terms of Service
 
@@ -28,6 +24,8 @@ His extended service period and high meeting attendance suggest active engagemen
 - 2018-2026: Councillor (Ward 10)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -55,6 +53,8 @@ His extended service period and high meeting attendance suggest active engagemen
 - Sam Trosow (78.2%)
 - David Ferreira (82.0%)
 - Skylar Franke (84.2%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

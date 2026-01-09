@@ -13,20 +13,18 @@ attendanceRate: 51.3
 participationRate: 100.0
 yeaRate: 89.7
 prefillQuestions:
-  - "What was Dale Henderson's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
-  - "Which specific committees did Dale Henderson serve on and what were their primary areas of responsibility?"
-  - "What were some of the major issues or initiatives that came before council during Henderson's term, and how did they vote on key matters?"
+  - "What was Dale Henderson's voting record on major city budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their level of participation in committee work?"
+  - "How did Henderson vote on key development projects or zoning changes that came before council during their tenure?"
 ---
-
-Dale Henderson served on London City Council from 2011-2014, spanning one full term of municipal government. During this four-year period, Henderson demonstrated consistent engagement with council duties, attending 142 meetings. Henderson's committee involvement included service on four different committees, indicating active participation in the detailed work of municipal governance that occurs at the committee level.
-
-Henderson's attendance record suggests regular engagement with council responsibilities throughout the term. Committee work typically involves in-depth review of policy matters, budget items, and municipal issues before they reach full council, indicating Henderson participated in both the preparatory and decision-making aspects of municipal governance during their time in office.
 
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 9)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|

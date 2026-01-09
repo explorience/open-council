@@ -13,14 +13,10 @@ attendanceRate: 44.9
 participationRate: 97.7
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Matt Brown's voting attendance rate and were there any notable absences during key votes?"
-  - "Which specific committees did he serve on and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did his voting patterns align with other council members, and were there particular issues where he frequently voted differently from the majority?"
+  - "What was Matt Brown's voting record on major budget decisions and tax increases during his time on council?"
+  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did his attendance rate of 328 meetings compare to other council members during the same period, and were there any notable absences from key votes?"
 ---
-
-Matt Brown served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 328 meetings over his seven-year tenure. During this period, he served on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
-
-His extended service spanning nearly two full council terms suggests sustained engagement with the city's legislative processes and committee work, though the specific details of his committee assignments and roles are not available in the provided data.
 
 ## Terms of Service
 
@@ -28,6 +24,8 @@ His extended service spanning nearly two full council terms suggests sustained e
 - 2014-2018: Mayor
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|

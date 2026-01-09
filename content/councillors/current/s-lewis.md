@@ -13,20 +13,18 @@ attendanceRate: 55.1
 participationRate: 93.2
 yeaRate: 94.2
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, or policy changes?"
+  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How often has Shawn Lewis sponsored or introduced motions during council meetings, and what topics did these motions address?"
+  - "What specific committees has Shawn Lewis served on, and what leadership roles, if any, have they held within these committees?"
 ---
-
-Shawn Lewis has served on London City Council from 2018 to 2025, demonstrating consistent participation with attendance at 495 meetings over this period. During their tenure, Lewis has been appointed to serve on eight different committees, indicating broad involvement across various areas of municipal governance and policy development.
-
-Lewis's seven-year term on council shows sustained engagement in local government, with their high meeting attendance suggesting regular participation in council proceedings and committee work. Their service on multiple committees reflects the collaborative nature of municipal governance and the diverse range of issues that city councillors address during their tenure.
 
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 2)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ Lewis's seven-year term on council shows sustained engagement in local governmen
 - Sam Trosow (83.1%)
 - Susan Stevenson (88.0%)
 - David Ferreira (88.3%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

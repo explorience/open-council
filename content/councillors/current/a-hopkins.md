@@ -13,20 +13,18 @@ attendanceRate: 49.9
 participationRate: 94.1
 yeaRate: 92.4
 prefillQuestions:
-  - "What is Anna Hopkins' voting record on key municipal issues such as budget approvals, development projects, and tax increases?"
-  - "How often has she been absent from council meetings and committee meetings during her tenure?"
-  - "Has she held any leadership positions such as committee chair or deputy mayor roles during her time on council?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 640 meetings compare to other council members over the same time period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
-
-Anna Hopkins has served on London City Council for over a decade, maintaining active participation from 2014 to 2025. During this period, she has attended 640 council meetings, demonstrating consistent engagement in municipal governance. Her extensive committee involvement spans eight different committees, indicating broad participation across various areas of city administration and policy development.
-
-Hopkins' lengthy tenure and high meeting attendance record suggest a committed approach to her council duties. Her service across multiple committees reflects either rotation through different areas of municipal responsibility over her years in office, or simultaneous service on several committees, both of which would indicate substantial involvement in the detailed work of city governance beyond regular council meetings.
 
 ## Terms of Service
 
 - 2014-2026: Councillor (Ward 9)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ Hopkins' lengthy tenure and high meeting attendance record suggest a committed a
 - Susan Stevenson (81.5%)
 - Paul Van Meerbergen (86.1%)
 - Steve Hillier (88.3%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

@@ -13,20 +13,18 @@ attendanceRate: 58.0
 participationRate: 96.3
 yeaRate: 94.5
 prefillQuestions:
-  - "What was Jesse Helmer's attendance rate or percentage of meetings attended versus total meetings scheduled during their tenure?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any chair or vice-chair positions on these committees?"
-  - "How did Jesse Helmer vote on major city issues and bylaws during their time on council from 2014-2022?"
+  - "What was Jesse Helmer's voting record on major city budget decisions during their 2014-2022 tenure?"
+  - "Which committees did Jesse Helmer chair or hold leadership positions on during their time on council?"
+  - "How did Jesse Helmer vote on key development and planning issues that came before London City Council?"
 ---
-
-Jesse Helmer served on London City Council from 2014 to 2022, demonstrating consistent participation with attendance at 580 meetings over this eight-year period. This represents an average of approximately 72-73 meetings per year, indicating regular engagement in council proceedings.
-
-During their tenure, Helmer participated on eight different committees, showing broad involvement across various areas of municipal governance. Their eight-year service span covers two full council terms, suggesting they were re-elected during this period and maintained continuity in their council participation throughout their time in office.
 
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 4)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|

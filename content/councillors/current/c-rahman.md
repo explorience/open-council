@@ -13,18 +13,18 @@ attendanceRate: 46.8
 participationRate: 92.1
 yeaRate: 89.8
 prefillQuestions:
-  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
-  - "How frequently does she speak or contribute during council meetings, and on which topics does she most often provide input?"
-  - "What specific committees does she serve on, and has she taken any leadership roles such as committee chair or vice-chair positions?"
+  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
+  - "How does Rahman's meeting attendance record of 216 meetings compare to other council members during the same period?"
+  - "What has been Rahman's voting pattern on key municipal issues and bylaws brought before council?"
 ---
-
-Corrine Rahman has been an active member of London City Council, Canada, serving during the 2022-2025 term. During this period, she has demonstrated strong participation by attending 216 council meetings. Her involvement extends beyond general council meetings, as she has served on eight different committees, indicating broad engagement across various municipal functions and policy areas. This level of meeting attendance and committee participation suggests consistent involvement in the council's decision-making processes throughout her term.
 
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 7)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -52,6 +52,8 @@ Corrine Rahman has been an active member of London City Council, Canada, serving
 - Susan Stevenson (84.5%)
 - Sam Trosow (85.1%)
 - Paul Van Meerbergen (87.5%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

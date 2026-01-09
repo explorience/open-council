@@ -13,20 +13,18 @@ attendanceRate: 44.9
 participationRate: 91.2
 yeaRate: 93.9
 prefillQuestions:
-  - "What specific committees has Steve Lehman served on during his time on London City Council, and what were his primary roles or contributions to each?"
-  - "What is Steve Lehman's voting attendance rate and pattern - does he consistently vote on key municipal issues, and are there any notable absences from important votes?"
-  - "How does Steve Lehman's meeting attendance record of 386 sessions compare to other council members serving during the same period, and what does this say about his level of civic engagement?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during his term?"
+  - "Which specific committees has Steve Lehman served on and what were his roles or contributions to those committees?"
+  - "Has Steve Lehman sponsored or introduced any motions or bylaws during his time on London City Council?"
 ---
-
-Steve Lehman has served on London City Council from 2018 to 2025, demonstrating consistent engagement through his attendance at 386 council meetings during this period. His council participation spans approximately seven years, indicating he has served multiple terms. Throughout his tenure, Lehman has participated on six different committees, showing broad involvement in various aspects of municipal governance and policy development.
-
-His meeting attendance of 386 sessions over seven years suggests regular participation in council proceedings, which would include both regular council meetings and committee work. This level of engagement indicates active involvement in the day-to-day operations and decision-making processes of London's municipal government.
 
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 8)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ His meeting attendance of 386 sessions over seven years suggests regular partici
 - Sam Trosow (84.0%)
 - David Ferreira (87.5%)
 - Susan Stevenson (88.2%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served

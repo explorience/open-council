@@ -13,20 +13,18 @@ attendanceRate: 48.9
 participationRate: 88.8
 yeaRate: 92.4
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "How does her meeting attendance rate compare to other council members during the same period?"
-  - "What has been her voting pattern on major municipal issues and budget decisions?"
+  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
+  - "Which specific committees has she served on and what leadership roles, if any, has she held within those committees?"
+  - "How does her meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her years of service?"
 ---
-
-Elizabeth Peloza has been an active member of London City Council, serving from 2018 to 2025. During her tenure, she has demonstrated strong participation by attending 452 meetings. Her involvement extends beyond regular council meetings through her service on nine different committees, indicating broad engagement across various municipal issues and governance areas.
-
-Her consistent attendance record and extensive committee participation suggest a high level of commitment to her council responsibilities over her multi-year term. The scope of her committee involvement reflects engagement with diverse aspects of municipal governance during her time on London City Council.
 
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 12)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -54,6 +52,8 @@ Her consistent attendance record and extensive committee participation suggest a
 - Susan Stevenson (85.5%)
 - Sam Trosow (86.9%)
 - David Ferreira (89.5%)
+
+[View full voting alignment →](/councillors/alignment)
 
 
 ## Committees Served
