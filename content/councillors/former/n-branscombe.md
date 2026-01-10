@@ -12,19 +12,21 @@ votesAbsent: 0
 attendanceRate: 41.7
 participationRate: 100.0
 yeaRate: 89.9
+contestedDissentRate: 10.9
+contestedVotes: 2090
 prefillQuestions:
-  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what were her primary areas of focus?"
-  - "How did her meeting attendance rate of 119 meetings compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Nancy Branscombe served on London City Council from 2011-2014, a four-year term during which she attended 119 council meetings. Her participation demonstrates consistent engagement with council proceedings over this period. She served on eight different committees during her tenure, indicating broad involvement across various areas of municipal governance and policy development.
 
 ## Terms of Service
 
 - 2006-2014: Councillor (Ward 6)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -34,11 +36,169 @@ Nancy Branscombe served on London City Council from 2011-2014, a four-year term 
 | Absent | 0 (0.0%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 2,088 |
+| Voted Yea | 1,877 (89.9%) |
+| Voted Nay | 211 (10.1%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 10.9%
+- **Contested Votes**: 2,090
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 742 |
+| Voted Yea | 616 (83.0%) |
+| Voted Nay | 126 (17.0%) |
+| Absent | 0 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 41.7%
 - **Meetings Attended**: 156 of 374
 - **Meetings Missed**: 218
+- **Trend**: Declining v
+
+**Attendance by Year:**
+  - 2011: 57.1% (8/14 meetings)
+  - 2012: 35.2% (31/88 meetings)
+  - 2013: 56.4% (79/140 meetings)
+  - 2014: 28.8% (38/132 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 1,031 | 966 | 65 | 100.0% |
+| Strategic Priorities and Policy Committee | 795 | 658 | 137 | 100.0% |
+| Planning and Environment Committee | 119 | 112 | 7 | 100.0% |
+| Civic Works Committee | 72 | 71 | 1 | 100.0% |
+| Community and Protective Services Committee | 40 | 39 | 1 | 100.0% |
+| Corporate Services Committee | 33 | 32 | 1 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Nancy Branscombe voted against the final outcome:*
+
+### 2014-08-25: Installation of
+  Sidewalks
+  on Shavian Boulevard
+
+[Civic Works Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b2d16a7c-90eb-4ef1-ac5e-82b23e03b0f2&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-07-28: Appointments to the
+  London Public Library, 2014 - Term December 1, 2014 to November 30, 2018
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-04-01: Property located at
+  447 Old Wonderland Road (Z-8228)
+
+[MINUTES 10TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-03-18: Consideration of
+  Appointment to the Child Care Advisory Committee
+
+[MINUTES 9TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
+### 2014-02-25: CORPORATE OPERATING BUDGET
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-02-25: CORPORATE OPERATING BUDGET
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-02-25: CORPORATE OPERATING BUDGET
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-02-25: CORPORATE OPERATING BUDGET
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
+
+### 2014-02-25: CORPORATE OPERATING BUDGET
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
+
+### 2014-02-25: CORPORATE OPERATING BUDGET
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
 
 
 ## Committees Served

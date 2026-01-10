@@ -12,21 +12,21 @@ votesAbsent: 573
 attendanceRate: 48.7
 participationRate: 92.3
 yeaRate: 93.3
+contestedDissentRate: 15.2
+contestedVotes: 1923
 prefillQuestions:
-  - "What is Steve Hillier's voting record on major municipal issues such as budget approvals, development projects, and infrastructure spending?"
-  - "How frequently did he miss scheduled council meetings, and what was his overall attendance rate during his tenure?"
-  - "What leadership roles, if any, did he hold on the committees he served on, such as chair or vice-chair positions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Steve Hillier has been an active member of London City Council, Canada, serving from 2018 to 2025. During this period, he has demonstrated consistent participation by attending 453 council meetings. His involvement extends beyond general council meetings, as he has served on seven different committees throughout his tenure, indicating a broad engagement with various aspects of municipal governance and policy areas.
-
-His multi-year service spanning seven years suggests he has been re-elected at least once during this period, reflecting ongoing community support for his participation in local government. The high number of meeting attendances relative to his years of service indicates regular and committed participation in the democratic processes of London City Council.
 
 ## Terms of Service
 
 - 2018-2026: Councillor (Ward 14)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,51 @@ His multi-year service spanning seven years suggests he has been re-elected at l
 | Absent | 573 (7.7%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 4,213 |
+| Voted Yea | 3,359 (89.2%) |
+| Voted Nay | 406 (10.8%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 15.2%
+- **Contested Votes**: 1,923
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 671 |
+| Voted Yea | 509 (81.2%) |
+| Voted Nay | 118 (18.8%) |
+| Absent | 44 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 48.7%
 - **Meetings Attended**: 410 of 842
 - **Meetings Missed**: 432
+- **Trend**: Stable -
+
+**Attendance by Year:**
+  - 2022: 61.7% (58/94 meetings)
+  - 2023: 45.6% (52/114 meetings)
+  - 2024: 53.6% (60/112 meetings)
+  - 2025: 52.2% (48/92 meetings)
 
 
 ## Voting Alignment
@@ -54,6 +94,113 @@ His multi-year service spanning seven years suggests he has been re-elected at l
 - Sam Trosow (81.3%)
 - David Ferreira (85.7%)
 - Susan Stevenson (88.2%)
+
+[View full voting alignment →](/councillors/alignment)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 3,545 | 3,143 | 235 | 95.3% |
+| Strategic Priorities and Policy Committee | 1,668 | 1,192 | 122 | 78.8% |
+| Planning and Environment Committee | 1,623 | 1,552 | 35 | 97.8% |
+| Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
+| Budget Committee | 189 | 125 | 64 | 100.0% |
+| Corporate Services Committee | 51 | 48 | 0 | 94.1% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Steve Hillier voted against the final outcome:*
+
+### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
+
+ 
+
+2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
+
+ 
+
+2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2025-11-20: (ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000          2026 Tax Le...
+
+Voted **Yea** - Motion Failed (4 to 11)
+
+### 2025-11-18: Consideration of Appointments to Western University Board of Governors 
+
+[14th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=01f83737-b25c-48a3-a2a4-1cc3dca73e95&Agenda=PostMinutes&lang=English)
+
+> That the communication dated November 7, 2025 from A. Bryson, University Secretary, Western with respect to appointment to the Western University Board of Governors BE RECEIVED and that Civic Administ...
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+
+[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+
+> That part g) of the motion BE APPROVED: g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annua...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2025-10-28: Consideration of City Appointees to Western University's Board of Governors
+
+[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
+
+> That the motion to appoint Lori Higgs and Marlene McGrath to the Western University's Board of Governors BE REFERRED to the next meeting of Strategic Priorities and Policy Committee to allow for more ...
+
+Voted **Nay** - Motion Passed (8 to 7)
+
+### 2025-10-14: (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps 
+
+[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part d): d)    the Civic Administration BE DIRECTED to take no action on expanding the materials collected in the Green Bin Program at this time;
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2025-10-14: (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
+
+[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+
+> That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with ...
+
+Voted **Yea** - Motion Failed (6 to 9)
 
 
 ## Committees Served

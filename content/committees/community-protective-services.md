@@ -4,14 +4,12 @@ type: committee
 slug: "community-protective-services"
 meetingCount: 196
 prefillQuestions:
-  - "How can residents provide input or present concerns to the Community and Protective Services Committee, and are the meetings open to public attendance?"
-  - "What is the committee's current budget allocation across different services, and how are funding priorities determined for community and protective services?"
-  - "What are the main community safety and social service challenges London is currently facing, and what strategies is the committee implementing to address them?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Community and Protective Services Committee is a standing committee of London City Council that oversees municipal services focused on community well-being, public safety, and social services. As one of the city's key governance bodies, this committee typically handles matters related to police services, fire and emergency services, paramedic services, public health initiatives, housing programs, social services, and community development. The committee serves as a crucial link between city administration and council, reviewing policies, budgets, and strategic plans for these essential municipal services before making recommendations to full City Council.
-
-With 196 meetings held to date, including both regular and special sessions, the committee demonstrates an active role in addressing London's evolving community needs. The types of issues they regularly address likely include emergency response protocols, community safety strategies, affordable housing initiatives, public health programs, social service delivery models, and budget allocations for protective services. The committee's work directly impacts residents' daily lives through decisions about service levels, program funding, and policy directions that affect community safety, health outcomes, and social support systems across London.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

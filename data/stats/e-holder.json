@@ -6,7 +6,40 @@
     "present": 313,
     "absent": 211,
     "remote": 0,
-    "attendanceRate": 59.732824427480914
+    "attendanceRate": 59.732824427480914,
+    "trend": [
+      {
+        "period": "2018",
+        "attendanceRate": 4.761904761904762,
+        "meetingsAttended": 5,
+        "meetingsTotal": 105
+      },
+      {
+        "period": "2019",
+        "attendanceRate": 66.66666666666666,
+        "meetingsAttended": 76,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2020",
+        "attendanceRate": 85.71428571428571,
+        "meetingsAttended": 96,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2021",
+        "attendanceRate": 83.83838383838383,
+        "meetingsAttended": 83,
+        "meetingsTotal": 99
+      },
+      {
+        "period": "2022",
+        "attendanceRate": 56.38297872340425,
+        "meetingsAttended": 53,
+        "meetingsTotal": 94
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 4268,
@@ -14,8 +47,157 @@
     "nays": 126,
     "absent": 920,
     "participationRate": 78.44423617619493,
-    "yeaRate": 96.23655913978494
+    "yeaRate": 96.23655913978494,
+    "contestedDissentRate": 8.236808236808237,
+    "contestedVotes": 777,
+    "substantiveVotes": 2357,
+    "substantiveYeas": 1750,
+    "substantiveNays": 109,
+    "substantiveParticipationRate": 78.87144675434875,
+    "substantiveYeaRate": 94.13663259817106
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 372,
+    "budgetYeas": 317,
+    "budgetNays": 25,
+    "budgetAbsent": 30
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2022-08-02",
+      "meetingTitle": "11th Meeting of City Council",
+      "itemTitle": "(4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case",
+      "motionText": "That item 13, clause 4.5 be amended by adding the following new part b): b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourho...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-03-01",
+      "meetingTitle": null,
+      "itemTitle": "Pet Limits for Approved Foster Organizations",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the staff report dated March 1, 2022, with respect to Pet Limits for Approved Foster Organizations, BE RECEIV...",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=40253e54-5ef3-4ee4-836c-0074e8f8a36d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-10-26",
+      "meetingTitle": null,
+      "itemTitle": "(5.1) Council Vacancy - Ward 6",
+      "motionText": "That part b) BE AMENDED to read as follows: b)    the vacancy of the Office of Ward 6 BE FILLED through an application process in keeping with the proposed application process as outlined in Appendix ...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=42d73788-efc4-4391-a755-464f57589eee&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-06-15",
+      "meetingTitle": null,
+      "itemTitle": "(2.3) Review of Ward Boundaries Update",
+      "motionText": "That Item 7 (2.3) BE AMENDED to include the following additional wording, \"and the Civic Administration BE DIRECTED to not proceed with changes to the existing Ward Boundaries at this time.\"",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82b5607e-07ec-4215-a9bd-00d9f7946371&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-05-10",
+      "meetingTitle": null,
+      "itemTitle": "3557 Colonel Talbot Road (SPA20-063)",
+      "motionText": "That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2749282 Ontario Inc., relating to the property located at 3557 Colo...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=459059e6-b600-482c-9c29-23c07736a1a2&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-03-23",
+      "meetingTitle": null,
+      "itemTitle": "(3.1) New Sidewalks in 2021 Infrastructure Reconstruction Projects",
+      "motionText": "The motion to approve part a), is put. That the following actions be taken with respect to new sidewalks in 2021 infrastructure reconstruction projects: a)     the Civic Administration BE DIRECTED to ...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d2c5fe50-4fa2-46b2-b09a-9b650a12495d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-02-23",
+      "meetingTitle": null,
+      "itemTitle": "(2.8) London Community Recovery Network - Ideas for Action by Municipal Council",
+      "motionText": "That the budget amount for Action Item 1.3 - A Break in the Clouds, BE AMENDED by increasing the amount to $120,000.00.",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-02-23",
+      "meetingTitle": null,
+      "itemTitle": "(2.2) London Community Recovery Network - Ideas for Action by Municipal Council",
+      "motionText": "That part a) i) Idea for Action 2.4  - Create a regional holiday destination in downtown, BE APPROVED. At 5:56 PM, Mayor E. Holder places Deputy Mayor J. Morgan in the Chair and takes a seat at the Co...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-02-23",
+      "meetingTitle": null,
+      "itemTitle": "(2.2) London Community Recovery Network - Ideas for Action by Municipal Council",
+      "motionText": "That part a) i) Idea for Action 5.6 - Mural façade grant, BE APPROVED. At 6:43 PM, Councillor S. Hillier leaves the meeting.",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2020-11-24",
+      "meetingTitle": null,
+      "itemTitle": "Emergent Motions",
+      "motionText": "That the following part c) BE APPROVED: c)      the Province of Ontario BE REQUESTED to provide a longer transition period, up to December 2022, for non-mandatory programs to enable coordination of co...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e3716145-1b8c-4264-aa67-787527e311c6&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1897,
+      "yeas": 1766,
+      "nays": 69,
+      "participationRate": 96.7316816025303
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 885,
+      "yeas": 444,
+      "nays": 9,
+      "participationRate": 51.186440677966104
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 727,
+      "yeas": 625,
+      "nays": 39,
+      "participationRate": 91.33425034387895
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 290,
+      "yeas": 194,
+      "nays": 4,
+      "participationRate": 68.27586206896552
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 275,
+      "yeas": 145,
+      "nays": 3,
+      "participationRate": 53.81818181818182
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 194,
+      "yeas": 48,
+      "nays": 2,
+      "participationRate": 25.773195876288657
+    }
+  ]
 }

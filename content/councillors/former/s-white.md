@@ -12,21 +12,21 @@ votesAbsent: 0
 attendanceRate: 56.7
 participationRate: 100.0
 yeaRate: 91.4
+contestedDissentRate: 9.3
+contestedVotes: 2282
 prefillQuestions:
-  - "What was Sandy White's voting record on major city budget decisions during their 2011-2014 term?"
-  - "How did Sandy White vote on key development and zoning issues that came before council?"
-  - "What specific committees did Sandy White serve on and what was their attendance rate for committee meetings versus regular council meetings?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Sandy White served on London City Council from 2011 to 2014, spanning one full council term. During this period, White demonstrated active participation by attending 164 council meetings. White served on five different committees during their tenure, showing engagement across multiple areas of municipal governance, though the specific committee names are not clearly specified in the available data.
-
-White's four-year term and meeting attendance record suggests consistent involvement in the council's work throughout their time in office. The multi-committee service indicates participation in various aspects of city business and policy development during this period.
 
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 14)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,166 @@ White's four-year term and meeting attendance record suggests consistent involve
 | Absent | 0 (0.0%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 2,281 |
+| Voted Yea | 2,085 (91.4%) |
+| Voted Nay | 196 (8.6%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 9.3%
+- **Contested Votes**: 2,282
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 614 |
+| Voted Yea | 495 (80.6%) |
+| Voted Nay | 119 (19.4%) |
+| Absent | 0 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 56.7%
 - **Meetings Attended**: 212 of 374
 - **Meetings Missed**: 162
+- **Trend**: Declining v
+
+**Attendance by Year:**
+  - 2011: 92.9% (13/14 meetings)
+  - 2012: 86.4% (76/88 meetings)
+  - 2013: 50.7% (71/140 meetings)
+  - 2014: 39.4% (52/132 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 935 | 876 | 59 | 100.0% |
+| Strategic Priorities and Policy Committee | 680 | 556 | 124 | 100.0% |
+| Planning and Environment Committee | 613 | 603 | 10 | 100.0% |
+| Civic Works Committee | 54 | 51 | 3 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Sandy White voted against the final outcome:*
+
+### 2014-11-25: 2015 Water and
+  Wastewater Rates
+
+[MINUTES 26TH
+  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-29: Appointments to the
+  Striking Committee
+  and Appointment Process
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=76b13df1-bcbe-4deb-8aac-8285184c3e8b&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-09-29: Appointments to the
+  Striking Committee
+  and Appointment Process
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=76b13df1-bcbe-4deb-8aac-8285184c3e8b&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-09-23: Property located at
+  2118 Richmond Street (OZ-7890)
+
+[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
+
+### 2014-09-02: Installation of
+  Sidewalks on Shavian Blvd.
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-07-22: Property located at
+  2118 Richmond Street (OZ-7890)
+
+[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
+
+### 2014-07-22: Properties located
+  at 51 and 99 Exeter Road (OZ-8324)
+
+[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
 
 
 ## Committees Served

@@ -6,7 +6,34 @@
     "present": 193,
     "absent": 219,
     "remote": 0,
-    "attendanceRate": 46.84466019417476
+    "attendanceRate": 46.84466019417476,
+    "trend": [
+      {
+        "period": "2022",
+        "attendanceRate": 9.574468085106384,
+        "meetingsAttended": 9,
+        "meetingsTotal": 94
+      },
+      {
+        "period": "2023",
+        "attendanceRate": 63.1578947368421,
+        "meetingsAttended": 72,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2024",
+        "attendanceRate": 54.46428571428571,
+        "meetingsAttended": 61,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2025",
+        "attendanceRate": 55.434782608695656,
+        "meetingsAttended": 51,
+        "meetingsTotal": 92
+      }
+    ],
+    "trendDirection": "improving"
   },
   "voting": {
     "totalVotes": 3194,
@@ -14,7 +41,20 @@
     "nays": 299,
     "absent": 253,
     "participationRate": 92.07889793362554,
-    "yeaRate": 89.83339000340021
+    "yeaRate": 89.83339000340021,
+    "contestedDissentRate": 16.83848797250859,
+    "contestedVotes": 1164,
+    "substantiveVotes": 1911,
+    "substantiveYeas": 1428,
+    "substantiveNays": 260,
+    "substantiveParticipationRate": 88.33071690214548,
+    "substantiveYeaRate": 84.59715639810426
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 333,
+    "budgetYeas": 249,
+    "budgetNays": 84,
+    "budgetAbsent": 0
   },
   "topAlignments": [
     {
@@ -78,6 +118,156 @@
       "sharedVotes": 1192,
       "agreedVotes": 1079,
       "alignmentRate": 90.52013422818791
+    }
+  ],
+  "notableDissents": [
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "Amendment - Budget Case #P-2 - Councillor S. Stevenson",
+      "motionText": "That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "Amendment - Budget Case #P-2 - Councillor S. Stevenson",
+      "motionText": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:\n\n \n\n2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "Amendment - Budget Case #P-2 - Councillor S. Stevenson",
+      "motionText": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:\n\n \n\n2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Councillors C. Rahman and S. Stevenson",
+      "motionText": "That the amendment, as amended, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Councillor D. Ferreira",
+      "motionText": "That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Cor...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson",
+      "motionText": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000          2026 Tax Le...",
+      "vote": "yea",
+      "result": "Motion Failed (4 to 11)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That part a) of the motion BE APPROVED: a) recognizing London’s growth and the public expectation of full-time hours for this role, the annual compensation for Councillors BE INDEXED to the 70th perce...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That part b) of the motion BE APPROVED: b) the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy BE MAINTAINED;",
+      "vote": "nay",
+      "result": "Motion Passed (14 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That part c) of the motion BE APPROVED: c) the annual adjustment in Councillor compensation BE AUTOMATIC and administered by the Civic Administration;",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That part d) of the motion BE APPROVED: d) the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data ...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1547,
+      "yeas": 1326,
+      "nays": 156,
+      "participationRate": 95.7983193277311
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 777,
+      "yeas": 534,
+      "nays": 65,
+      "participationRate": 77.09137709137708
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 417,
+      "yeas": 405,
+      "nays": 8,
+      "participationRate": 99.04076738609112
+    },
+    {
+      "committee": "Budget Committee",
+      "totalVotes": 189,
+      "yeas": 136,
+      "nays": 53,
+      "participationRate": 100
+    },
+    {
+      "committee": "Infrastructure and Corporate Services Committee",
+      "totalVotes": 83,
+      "yeas": 76,
+      "nays": 6,
+      "participationRate": 98.79518072289156
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 67,
+      "yeas": 61,
+      "nays": 2,
+      "participationRate": 94.02985074626866
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 57,
+      "yeas": 50,
+      "nays": 6,
+      "participationRate": 98.24561403508771
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 57,
+      "yeas": 54,
+      "nays": 3,
+      "participationRate": 100
     }
   ]
 }

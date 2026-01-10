@@ -6,7 +6,40 @@
     "present": 275,
     "absent": 378,
     "remote": 0,
-    "attendanceRate": 42.11332312404288
+    "attendanceRate": 42.11332312404288,
+    "trend": [
+      {
+        "period": "2014",
+        "attendanceRate": 6.0606060606060606,
+        "meetingsAttended": 8,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 57.04225352112676,
+        "meetingsAttended": 81,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 58.21917808219178,
+        "meetingsAttended": 85,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 43.75,
+        "meetingsAttended": 56,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 42.857142857142854,
+        "meetingsAttended": 45,
+        "meetingsTotal": 105
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 3477,
@@ -14,8 +47,150 @@
     "nays": 124,
     "absent": 63,
     "participationRate": 98.18809318377913,
-    "yeaRate": 96.36789689513768
+    "yeaRate": 96.36789689513768,
+    "contestedDissentRate": 3.7122207621550594,
+    "contestedVotes": 3044,
+    "substantiveVotes": 3258,
+    "substantiveYeas": 3095,
+    "substantiveNays": 123,
+    "substantiveParticipationRate": 98.77225291589933,
+    "substantiveYeaRate": 96.177750155376
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 545,
+    "budgetYeas": 510,
+    "budgetNays": 30,
+    "budgetAbsent": 5
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "8th Report of the Strategic Priorities and Policy Committee",
+      "motionText": "That the following items from the 8th Report of the Strategic Priorities and Policy Committee BE REFERRED to the July 24, 2018 meeting of the Municipal Council to provide the members of the public an ...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "(2.3)  Free of Fear Services for All Policy",
+      "motionText": "That part d) BE APPROVED: d)            the Civic Administration BE DIRECTED to implement Option #2 as outlined in the staff report date June 25, 2018; it being noted that the cost of this option will...",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "(2.3)  Free of Fear Services for All Policy",
+      "motionText": "That part e) BE APPROVED: e)            the Civic Administration BE DIRECTED to report back on the results of research and any anticipated long-term program costs as a result of implementing this poli...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-03-27",
+      "meetingTitle": null,
+      "itemTitle": "Review of Confidential Matters to be Considered in Public",
+      "motionText": "That pursuant to section 6.4 of the Council Procedure By-law, the order of business be changed to permit consideration of Item 9 of the 5th Report of the Civic Works Committee to be dealt with prior t...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-03-27",
+      "meetingTitle": null,
+      "itemTitle": "Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)",
+      "motionText": "That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Turner be permitted to speak longer than 5 minutes with respect to this matter.",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-03-20",
+      "meetingTitle": null,
+      "itemTitle": "Request for Support for UN Safe Cities Initiative - ANOVA",
+      "motionText": "That the communication dated March 20, 2018, from ANOVA, with respect to a request for support related to the UN Safe Cities Initiative BE REFERRED to the City Manager for further refinement regarding...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0a8dd089-bb13-4863-b756-74faa6ab3b2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-12-12",
+      "meetingTitle": "MINUTES FIRST\n  MEETING",
+      "itemTitle": "Community Mental\n  Health and Addiction Strategy for London: Moving Forward Together",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=54c7bed2-4c64-423b-9ebc-e0e573e394ab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-12-05",
+      "meetingTitle": "Community and Protective Services Committee",
+      "itemTitle": "Community Mental\n  Health and Addiction Strategy for London: Moving Forward Together",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8901d52b-431d-45fd-9733-58c205eb53f5&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-12-05",
+      "meetingTitle": "Community and Protective Services Committee",
+      "itemTitle": "Council Chamber Doors",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8901d52b-431d-45fd-9733-58c205eb53f5&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-11-28",
+      "meetingTitle": "MINUTES 28TH MEETING",
+      "itemTitle": "Dundas Place\n  Management and Dundas Field House",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a6c8289d-c0c9-4818-af92-38b52b79fde8&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1332,
+      "yeas": 1229,
+      "nays": 52,
+      "participationRate": 96.17117117117117
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1044,
+      "yeas": 990,
+      "nays": 54,
+      "participationRate": 100
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 517,
+      "yeas": 505,
+      "nays": 7,
+      "participationRate": 99.03288201160542
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 382,
+      "yeas": 366,
+      "nays": 9,
+      "participationRate": 98.1675392670157
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 202,
+      "yeas": 200,
+      "nays": 2,
+      "participationRate": 100
+    }
+  ]
 }

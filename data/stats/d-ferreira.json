@@ -6,7 +6,34 @@
     "present": 205,
     "absent": 207,
     "remote": 1,
-    "attendanceRate": 49.75728155339806
+    "attendanceRate": 49.75728155339806,
+    "trend": [
+      {
+        "period": "2022",
+        "attendanceRate": 9.574468085106384,
+        "meetingsAttended": 9,
+        "meetingsTotal": 94
+      },
+      {
+        "period": "2023",
+        "attendanceRate": 66.66666666666666,
+        "meetingsAttended": 76,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2024",
+        "attendanceRate": 65.17857142857143,
+        "meetingsAttended": 73,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2025",
+        "attendanceRate": 51.08695652173913,
+        "meetingsAttended": 47,
+        "meetingsTotal": 92
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2884,
@@ -14,7 +41,20 @@
     "nays": 309,
     "absent": 267,
     "participationRate": 90.74202496532594,
-    "yeaRate": 88.19258693160107
+    "yeaRate": 88.19258693160107,
+    "contestedDissentRate": 26.238053866203302,
+    "contestedVotes": 1151,
+    "substantiveVotes": 1854,
+    "substantiveYeas": 1366,
+    "substantiveNays": 259,
+    "substantiveParticipationRate": 87.64832793959008,
+    "substantiveYeaRate": 84.06153846153846
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 318,
+    "budgetYeas": 235,
+    "budgetNays": 75,
+    "budgetAbsent": 8
   },
   "topAlignments": [
     {
@@ -78,6 +118,142 @@
       "sharedVotes": 1147,
       "agreedVotes": 1008,
       "alignmentRate": 87.8814298169137
+    }
+  ],
+  "notableDissents": [
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "Amendment - Budget Case #P-6",
+      "motionText": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures:  $114,000          2026 Tax Levy:  $114,000   ...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "Amendment - Budget Case #P-2 - Councillor S. Stevenson",
+      "motionText": "That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Councillors C. Rahman and S. Stevenson",
+      "motionText": "That the amendment BE AMENDED to change three (3) years to two (2) years.",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Councillors C. Rahman and S. Stevenson",
+      "motionText": "That the amendment, as amended, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-20",
+      "motionText": "That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED by re-directing a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to increase funding for the Housing Stability...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-13 - Councillor S. Stevenson",
+      "motionText": "That the motion BE AMENDED to read as follows: That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges ...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-13 - Councillor S. Stevenson",
+      "motionText": "That the motion, as amended, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Councillor D. Ferreira",
+      "motionText": "That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P25 - Mayor J. Morgan",
+      "motionText": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: -$250,000     2026 T...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment – Councillor H. McAlister ",
+      "motionText": "That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserv...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1547,
+      "yeas": 1338,
+      "nays": 170,
+      "participationRate": 97.47899159663865
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 695,
+      "yeas": 445,
+      "nays": 66,
+      "participationRate": 73.5251798561151
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 323,
+      "yeas": 288,
+      "nays": 23,
+      "participationRate": 96.28482972136223
+    },
+    {
+      "committee": "Budget Committee",
+      "totalVotes": 189,
+      "yeas": 139,
+      "nays": 50,
+      "participationRate": 100
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 75,
+      "yeas": 46,
+      "nays": 0,
+      "participationRate": 61.33333333333333
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 55,
+      "yeas": 52,
+      "nays": 0,
+      "participationRate": 94.54545454545455
     }
   ]
 }

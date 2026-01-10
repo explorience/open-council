@@ -12,21 +12,21 @@ votesAbsent: 47
 attendanceRate: 36.6
 participationRate: 98.9
 yeaRate: 93.2
+contestedDissentRate: 6.6
+contestedVotes: 4110
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on key municipal issues such as budget approvals, development projects, and tax increases during his 2012-2018 tenure?"
-  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did his meeting attendance rate of 245 meetings compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Bill Armstrong served on London City Council, Canada from 2012 to 2018, spanning a six-year period. During his tenure, he demonstrated consistent participation by attending 245 council meetings. Armstrong was actively involved in committee work, serving on five different committees throughout his time on council, though the specific committee names are not clearly specified in the available data.
-
-His attendance record and committee involvement suggest he maintained regular engagement with municipal governance responsibilities during his council term. The six-year service period indicates he likely served either one full term plus a partial term, or was re-elected for consecutive terms, depending on London's electoral cycle during that period.
 
 ## Terms of Service
 
 - 2010-2018: Councillor (Ward 2)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,146 @@ His attendance record and committee involvement suggest he maintained regular en
 | Absent | 47 (1.1%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 4,259 |
+| Voted Yea | 3,936 (93.0%) |
+| Voted Nay | 298 (7.0%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 6.6%
+- **Contested Votes**: 4,110
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 1,001 |
+| Voted Yea | 832 (83.2%) |
+| Voted Nay | 168 (16.8%) |
+| Absent | 1 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 36.6%
 - **Meetings Attended**: 328 of 895
 - **Meetings Missed**: 567
+- **Trend**: Stable -
+
+**Attendance by Year:**
+  - 2015: 45.1% (64/142 meetings)
+  - 2016: 45.9% (67/146 meetings)
+  - 2017: 46.9% (60/128 meetings)
+  - 2018: 35.2% (37/105 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 1,806 | 1,690 | 78 | 97.9% |
+| Strategic Priorities and Policy Committee | 1,587 | 1,374 | 205 | 99.5% |
+| Community and Protective Services Committee | 780 | 765 | 14 | 99.9% |
+| Civic Works Committee | 261 | 260 | 1 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Bill Armstrong voted against the final outcome:*
+
+### 2018-11-20: (3.5) Application - 3080 Bostwick Road (Site 1) (OZ-8941), (3.6) Application - 3080 Bostwick Road (Site 3) (Z-8942), (3.7) Application - 3080 Bostwick Road (Site 5) (OZ-8943) 
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English)
+
+> The motion related to the referral relating to Sites 1 and 5 is put.
+
+Voted **Yea** - Motion Failed (4 to 9)
+
+### 2018-11-20: (3.5) Application - 3080 Bostwick Road (Site 1) (OZ-8941), (3.6) Application - 3080 Bostwick Road (Site 3) (Z-8942), (3.7) Application - 3080 Bostwick Road (Site 5) (OZ-8943) 
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English)
+
+> The motion relating to the referral relating to Site 3 is put.
+
+Voted **Yea** - Motion Failed (4 to 9)
+
+### 2018-06-26: (4.1) 5th Report of the Accessibility Advisory Committee
+
+[13th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English)
+
+> The motion to approve part e) of Item 17, relating to the 5th Report of the ACCAC is put. e)            the following recommendation of the ACCAC BE REFERRED to the next meeting of the CPSC for consid...
+
+Voted **Yea** - Motion Failed (6 to 6)
+
+### 2018-06-26: 8th Report of the Strategic Priorities and Policy Committee
+
+[13th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English)
+
+> That the following items from the 8th Report of the Strategic Priorities and Policy Committee BE REFERRED to the July 24, 2018 meeting of the Municipal Council to provide the members of the public an ...
+
+Voted **Yea** - Motion Failed (5 to 8)
+
+### 2018-05-08: (2.1) Short Term Accommodations
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d246efa1-5a31-4d4a-ad74-2e0440213cbb&Agenda=PostMinutes&lang=English)
+
+> That Item 4.2 BE AMENDED in part c) to direct staff to hold a public participation meeting before the Community and Protective Services Committee on draft by-law amendments to a number of by-laws, to ...
+
+Voted **Yea** - Motion Failed (6 to 8)
+
+### 2018-05-08: (3.3) Adult Live Entertainment Parlour - Location Substitution Request
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d246efa1-5a31-4d4a-ad74-2e0440213cbb&Agenda=PostMinutes&lang=English)
+
+> That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street ...
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2018-05-01: Public Participation Meeting - Adult Live Entertainment Parlour - Location Substitution Request
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b71e24b-f498-4eae-af55-aa07d7b7dfef&Agenda=PostMinutes&lang=English)
+
+> That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street ...
+
+Voted **Nay** - Motion Passed (5 to 1)
+
+### 2018-04-24: Public Consultation - Proposed Expansion of a Gaming Site
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English)
+
+> Approve the introduction included in part b), as follows: b)            the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50...
+
+Voted **Nay** - Motion Passed (9 to 5)
+
+### 2018-04-23: Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English)
+
+> Motion to approve that part b) commence with the words "the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table game...
+
+Voted **Nay** - Motion Passed (7 to 5)
+
+### 2018-04-23: Bus Rapid Transit – Environmental Assessment Initiative 
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English)
+
+> That the order of business BE CHANGED in order to permit Item 4.1 to be dealt with prior to Item 3.1.
+
+Voted **Yea** - Motion Failed (3 to 9)
 
 
 ## Committees Served

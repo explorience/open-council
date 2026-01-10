@@ -12,21 +12,21 @@ votesAbsent: 466
 attendanceRate: 48.5
 participationRate: 86.4
 yeaRate: 91.8
+contestedDissentRate: 15.1
+contestedVotes: 1217
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting pattern on key municipal issues such as budget approvals, development projects, and bylaw changes?"
-  - "How does their meeting attendance rate of 203 meetings compare to other council members during the same 2022-2025 period?"
-  - "Which specific committees has McAlister served on and what has been their level of participation or leadership roles within those committees?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Hadleigh McAlister has served on London City Council, Canada from 2022-2025, demonstrating active participation with attendance at 203 meetings during this period. Their council involvement includes service on six different committees, indicating broad engagement across various municipal matters and policy areas.
-
-McAlister's meeting attendance record suggests consistent involvement in council business throughout their term. Their multi-committee participation reflects engagement with diverse aspects of city governance, though the specific nature of these committee assignments is not detailed in the available participation data.
 
 ## Terms of Service
 
 - 2022-2026: Councillor (Ward 1)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,51 @@ McAlister's meeting attendance record suggests consistent involvement in council
 | Absent | 466 (13.6%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 2,207 |
+| Voted Yea | 1,619 (88.1%) |
+| Voted Nay | 218 (11.9%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 15.1%
+- **Contested Votes**: 1,217
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 376 |
+| Voted Yea | 295 (84.0%) |
+| Voted Nay | 56 (16.0%) |
+| Absent | 25 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 48.5%
 - **Meetings Attended**: 200 of 412
 - **Meetings Missed**: 212
+- **Trend**: Improving ^
+
+**Attendance by Year:**
+  - 2022: 9.6% (9/94 meetings)
+  - 2023: 61.4% (70/114 meetings)
+  - 2024: 63.4% (71/112 meetings)
+  - 2025: 54.3% (50/92 meetings)
 
 
 ## Voting Alignment
@@ -54,6 +94,109 @@ McAlister's meeting attendance record suggests consistent involvement in council
 - Susan Stevenson (85.4%)
 - Paul Van Meerbergen (87.4%)
 - Sam Trosow (89.9%)
+
+[View full voting alignment →](/councillors/alignment)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 1,756 | 1,475 | 120 | 90.8% |
+| Strategic Priorities and Policy Committee | 974 | 679 | 62 | 76.1% |
+| Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
+| Budget Committee | 189 | 135 | 39 | 92.1% |
+| Corporate Services Committee | 164 | 130 | 1 | 79.9% |
+| Civic Works Committee | 90 | 81 | 9 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Hadleigh McAlister voted against the final outcome:*
+
+### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
+
+ 
+
+2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2025-11-20: (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That the amendment BE AMENDED to change three (3) years to two (2) years.
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2025-11-20: (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That the amendment, as amended, BE APPROVED.
+
+Voted **Nay** - Motion Passed (8 to 7)
+
+### 2025-11-20: (ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0     ...
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2025-11-20: (ADDED) Amendment – Councillor H. McAlister 
+
+[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+
+> That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserv...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2025-11-18: Consideration of Appointments to Western University Board of Governors 
+
+[14th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=01f83737-b25c-48a3-a2a4-1cc3dca73e95&Agenda=PostMinutes&lang=English)
+
+> That the communication dated November 7, 2025 from A. Bryson, University Secretary, Western with respect to appointment to the Western University Board of Governors BE RECEIVED and that Civic Administ...
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2025-11-04: (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units 
+
+[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+
+> That the proposed Interim Control by-law BE AMENDED to increase the gross floor area (GFA) limit from eighty percent (80%) to ninety-five percent (95%) of the GFA of the primary dwelling unit.
+
+Voted **Yea** - Motion Failed (6 to 9)
+
+### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+
+[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+
+> That the Final Report of the 2025 Council Resourcing Review Task Force dated October 3, 2025 BE REFERRED to Civic Administration to report back to the December 9, 2025 meeting of the Strategic Priorit...
+
+Voted **Yea** - Motion Failed (6 to 9)
+
+### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+
+[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+
+> That part g) of the motion BE APPROVED: g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annua...
+
+Voted **Yea** - Motion Failed (7 to 8)
 
 
 ## Committees Served

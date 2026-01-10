@@ -12,21 +12,21 @@ votesAbsent: 1
 attendanceRate: 34.2
 participationRate: 80.0
 yeaRate: 100.0
+contestedDissentRate: 0.0
+contestedVotes: 0
 prefillQuestions:
-  - "What specific committees did John Fyfe-Millar serve on during his time on London City Council?"
-  - "How does his meeting attendance rate of 74 meetings compare to other council members during the same 2021-2022 period?"
-  - "What was his voting record on key municipal issues and bylaws that came before council during his tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-John Fyfe-Millar has served on London City Council for two years, being active in 2021 and 2022. During this period, he has demonstrated consistent attendance with 74 meetings attended. His council participation includes service on six different committees, showing broad engagement across various municipal issues and responsibilities.
-
-His attendance record and committee involvement suggests active participation in the council's work during his tenure. The scope of his committee memberships indicates involvement in multiple areas of municipal governance during his time as a council member.
 
 ## Terms of Service
 
 - 2021-2022: Councillor (Ward 13)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,35 @@ His attendance record and committee involvement suggests active participation in
 | Absent | 1 (20.0%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 1 |
+| Voted Yea | 0 (0.0%) |
+| Voted Nay | 0 (100.0%) |
+
+
 ## Attendance
 
 - **Attendance Rate**: 34.2%
 - **Meetings Attended**: 66 of 193
 - **Meetings Missed**: 127
+- **Trend**: Improving ^
+
+**Attendance by Year:**
+  - 2021: 14.1% (14/99 meetings)
+  - 2022: 55.3% (52/94 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Civic Works Committee | 4 | 4 | 0 | 100.0% |
+| Strategic Priorities and Policy Committee | 1 | 0 | 0 | 0.0% |
 
 
 ## Committees Served

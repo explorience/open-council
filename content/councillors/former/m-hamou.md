@@ -12,21 +12,21 @@ votesAbsent: 2
 attendanceRate: 30.1
 participationRate: 60.0
 yeaRate: 0.0
+contestedDissentRate: 100.0
+contestedVotes: 3
 prefillQuestions:
-  - "What was Mariam Hamou's voting record on key municipal issues during her time on council?"
-  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
-  - "How did her participation level compare to other council members during the 2021-2022 period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Mariam Hamou served on London City Council, Canada from 2021 to 2022, demonstrating active participation with attendance at 71 council meetings during this two-year period. Her council involvement included service on five different committees, indicating engagement across multiple areas of municipal governance and policy development.
-
-Her attendance record of 71 meetings over two years suggests consistent participation in council proceedings and committee work. The breadth of her committee involvement reflects her engagement with various aspects of municipal administration and decision-making processes during her tenure on London City Council.
 
 ## Terms of Service
 
 - 2021-2022: Councillor (Ward 6)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,75 @@ Her attendance record of 71 meetings over two years suggests consistent particip
 | Absent | 2 (40.0%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 2 |
+| Voted Yea | 0 (0.0%) |
+| Voted Nay | 1 (100.0%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 100.0%
+- **Contested Votes**: 3
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
 ## Attendance
 
 - **Attendance Rate**: 30.1%
 - **Meetings Attended**: 58 of 193
 - **Meetings Missed**: 135
+- **Trend**: Improving ^
+
+**Attendance by Year:**
+  - 2021: 8.1% (8/99 meetings)
+  - 2022: 53.2% (50/94 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 3 | 0 | 1 | 33.3% |
+| Community and Protective Services Committee | 1 | 0 | 1 | 100.0% |
+| Corporate Services Committee | 1 | 0 | 1 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Mariam Hamou voted against the final outcome:*
+
+### 2022-10-04: Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
+
+[The 11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d43d0068-260d-4de4-9eeb-537f2b29d5ff&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: ...
+
+Voted **Nay** - Motion Passed (5 to 1)
+
+### 2022-01-31: Application - Issuance of Proclamation - Parental Alienation Awareness Day
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=abd83d8b-118e-4c64-8fa4-23f307614b94&Agenda=PostMinutes&lang=English)
+
+> That based on the application dated January 10, 2022 from Just Another Parent, April 25, 2022 BE RECEIVED and NO ACTION be taken.
+
+Voted **Nay** - Motion Passed (4 to 1)
+
+### 2021-12-07: (3.3) 99 Southdale Road West (Z-9162) (Relates to Bill No. 34)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0afa9b5-7da7-4ad1-a51d-e8a6bf3d9777&Agenda=PostMinutes&lang=English)
+
+> That clause 3.3 BE AMENDED to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West H...
+
+Voted **Nay** - Motion Passed (14 to 1)
 
 
 ## Committees Served

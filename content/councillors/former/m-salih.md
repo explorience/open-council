@@ -12,21 +12,21 @@ votesAbsent: 514
 attendanceRate: 39.0
 participationRate: 91.4
 yeaRate: 94.0
+contestedDissentRate: 7.7
+contestedVotes: 3298
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and did they miss any significant votes during their eight years on council?"
-  - "Which specific committees did Mo Salih serve on and did they hold any chair or vice-chair positions?"
-  - "What was Mo Salih's voting pattern on major city issues such as budget approvals, development projects, or policy changes?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Mo Salih served on London City Council in Canada for eight years, from 2014 to 2022. During this tenure, they demonstrated consistent engagement with council duties, attending 350 meetings over the course of their service. Salih participated in the committee structure of the council, serving on four different committees, though the specific names of these committees are not clearly specified in the available data.
-
-Their eight-year term represents two full council terms, indicating they were re-elected at least once during their time in office. The attendance of 350 meetings over eight years suggests active participation in both regular council meetings and committee work throughout their tenure.
 
 ## Terms of Service
 
 - 2014-2022: Councillor (Ward 3)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,145 @@ Their eight-year term represents two full council terms, indicating they were re
 | Absent | 514 (8.6%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 4,675 |
+| Voted Yea | 3,981 (92.9%) |
+| Voted Nay | 305 (7.1%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 7.7%
+- **Contested Votes**: 3,298
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 918 |
+| Voted Yea | 822 (90.1%) |
+| Voted Nay | 90 (9.9%) |
+| Absent | 6 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 39.0%
 - **Meetings Attended**: 418 of 1,072
 - **Meetings Missed**: 654
+- **Trend**: Declining v
+
+**Attendance by Year:**
+  - 2019: 43.9% (50/114 meetings)
+  - 2020: 50.0% (56/112 meetings)
+  - 2021: 42.4% (42/99 meetings)
+  - 2022: 34.0% (32/94 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 3,061 | 2,696 | 160 | 93.3% |
+| Strategic Priorities and Policy Committee | 2,151 | 1,724 | 147 | 87.0% |
+| Community and Protective Services Committee | 775 | 722 | 24 | 96.3% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Mo Salih voted against the final outcome:*
+
+### 2022-10-11: Not to be heard before 4:05 PM - Public Participation Meeting - Amendments to Consolidated Fees and Charges By-law
+
+[14th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4e21e34c-e0f6-4b50-b875-36ae84f833b1&Agenda=PostMinutes&lang=English)
+
+> That the proposed fee of $1.85/hour, associated with Electric Vehicle Charging, as included in Schedule 1, BE REMOVED.
+
+Voted **Yea** - Motion Failed (5 to 9)
+
+### 2022-09-06: (4.2) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264) (Relates to Bill No's. 342 and 354)
+
+[12th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b668cb2-9f07-452e-ae47-87a34f924a19&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)    the proposed, a...
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2022-06-21: "RentSafeTO" Program and Complaint Process Improvements
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a89698f6-901b-4b82-96ed-e74310bb50e2&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to bring forward a business case that would provide for the implementation of a Rent Safe London Housing Enforcement Program, for consideration during the nex...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2022-06-21: REQUEST FOR DELEGATION STATUS - Permission to Use Gibbons Park for an Event - J. Scott-Pearse
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a89698f6-901b-4b82-96ed-e74310bb50e2&Agenda=PostMinutes&lang=English)
+
+> That the verbal delegation, from J. Scott-Pearse, with respect to a request for permission to use Gibbons Park for an event, BE RECEIVED and NO ACTION BE TAKEN.
+
+Voted **Nay** - Motion Passed (4 to 1)
+
+### 2022-05-03: G.F. Stewart, Integrity Commissioner, City of London - Report to City Council: Code of Conduct - Councillor M. van Holst - Vaccination Policy
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part d) d)    Councillor M. van Holst BE REPRIMANDED for his contraventions of the Code of Conduct as noted in part c), above.
+
+Voted **Yea** - Motion Failed (7 to 7)
+
+### 2022-05-03: (3.4) 1521 Sunningdale Road West and 2631 Hyde Park Road (39T-21056) (Relates to Bill No.'s 183, 186 and 202)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+
+> That, further to the direction from Municipal Council on October 5, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Resid...
+
+Voted **Nay** - Motion Passed (8 to 6)
+
+### 2022-05-03: (5.2) Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee	
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+
+> That the proposed amendment, as amended, BE APPROVED: That clause 5.2 of the 6th Report of the CPSC BE AMENDED to add the following new part b): b)       the Civic Administration BE DIRECTED to bring ...
+
+Voted **Nay** - Motion Passed (5 to 9)
+
+### 2022-05-03: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No.’s 183, 186 and 202, BE APPROVED.
+
+Voted **Nay** - Motion Passed (7 to 6)
+
+### 2022-05-03: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No.’s 183, 186 and 202, BE APPROVED.
+
+Voted **Nay** - Motion Passed (7 to 6)
+
+### 2022-05-03: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No.’s 184, 187 and 205, BE APPROVED.
+
+Voted **Nay** - Motion Passed (7 to 6)
 
 
 ## Committees Served

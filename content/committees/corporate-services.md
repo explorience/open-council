@@ -4,14 +4,12 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What specific infrastructure projects is the committee currently reviewing or overseeing, and how do these impact city residents?"
-  - "How does the committee's budget review process work, and when can citizens provide input on spending priorities for corporate services and infrastructure?"
-  - "What are the committee's meeting schedules and how can residents attend meetings or access meeting minutes to stay informed about decisions affecting city operations?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that plays a crucial role in the city's governance structure. This committee is responsible for overseeing the administrative and operational backbone of the municipality, handling matters related to corporate policy, financial management, human resources, information technology, facilities management, and various infrastructure projects. With 280 meetings held to date, it demonstrates the committee's active role in city operations and decision-making processes.
-
-The committee typically addresses a wide range of municipal issues including budget recommendations, procurement policies, capital infrastructure projects, corporate strategic planning, technology initiatives, and administrative services that support other city departments. As an advisory body to City Council, the committee reviews staff reports, makes recommendations on policy matters, and ensures that the city's corporate services align with council priorities and community needs. The recent transition from "Corporate Services Committee" to "Infrastructure and Corporate Services Committee" suggests an expanded mandate that now more explicitly includes infrastructure oversight alongside traditional corporate governance responsibilities.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

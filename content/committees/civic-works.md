@@ -4,14 +4,12 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "What is the current status of major infrastructure projects in my neighborhood, and when can residents expect completion of ongoing road or utility work?"
-  - "How does the Civic Works Committee prioritize which roads get repaired or rebuilt, and how can citizens report infrastructure issues or request improvements?"
-  - "What are the committee's plans for expanding public transit, cycling infrastructure, and sustainable transportation options in London over the next five years?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Civic Works Committee is a standing committee of London City Council that serves as a key component of the city's governance structure, focusing on municipal infrastructure and public works operations. This committee typically handles matters related to transportation infrastructure, including road construction and maintenance, traffic management, public transit planning, and cycling infrastructure. It also oversees water and wastewater systems, waste management and recycling programs, parks and recreation facilities, and other essential municipal services that directly impact residents' daily lives.
-
-As an active committee that has held 203 meetings to date, the Civic Works Committee plays a crucial role in reviewing staff reports, making recommendations to City Council on capital projects and operational matters, and ensuring that London's infrastructure meets the growing needs of the community. The committee examines budgetary allocations for public works projects, evaluates contractor performance, addresses citizen concerns about municipal services, and helps set priorities for long-term infrastructure planning. Their decisions directly influence the quality of roads, the efficiency of public transit, the reliability of water services, and the maintenance of public spaces throughout London.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

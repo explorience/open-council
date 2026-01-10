@@ -6,7 +6,34 @@
     "present": 156,
     "absent": 218,
     "remote": 0,
-    "attendanceRate": 41.711229946524064
+    "attendanceRate": 41.711229946524064,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 57.14285714285714,
+        "meetingsAttended": 8,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 35.22727272727273,
+        "meetingsAttended": 31,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 56.42857142857143,
+        "meetingsAttended": 79,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 28.78787878787879,
+        "meetingsAttended": 38,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2090,
@@ -14,8 +41,157 @@
     "nays": 212,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 89.85645933014355
+    "yeaRate": 89.85645933014355,
+    "contestedDissentRate": 10.909090909090908,
+    "contestedVotes": 2090,
+    "substantiveVotes": 2088,
+    "substantiveYeas": 1877,
+    "substantiveNays": 211,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 89.89463601532567
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 742,
+    "budgetYeas": 616,
+    "budgetNays": 126,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-08-25",
+      "meetingTitle": "Civic Works Committee",
+      "itemTitle": "Installation of\n  Sidewalks\n  on Shavian Boulevard",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b2d16a7c-90eb-4ef1-ac5e-82b23e03b0f2&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-28",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Appointments to the\n  London Public Library, 2014 - Term December 1, 2014 to November 30, 2018",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-01",
+      "meetingTitle": "MINUTES 10TH MEETING",
+      "itemTitle": "Property located at\n  447 Old Wonderland Road (Z-8228)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-03-18",
+      "meetingTitle": "MINUTES 9TH MEETING",
+      "itemTitle": "Consideration of\n  Appointment to the Child Care Advisory Committee",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1031,
+      "yeas": 966,
+      "nays": 65,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 795,
+      "yeas": 658,
+      "nays": 137,
+      "participationRate": 100
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 119,
+      "yeas": 112,
+      "nays": 7,
+      "participationRate": 100
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 72,
+      "yeas": 71,
+      "nays": 1,
+      "participationRate": 100
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 40,
+      "yeas": 39,
+      "nays": 1,
+      "participationRate": 100
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 33,
+      "yeas": 32,
+      "nays": 1,
+      "participationRate": 100
+    }
+  ]
 }

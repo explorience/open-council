@@ -4,14 +4,12 @@ import style from "./styles/homepageHero.scss"
 import script from "./scripts/homepageHero.inline"
 
 export interface HomepageHeroOptions {
-  title: string
   tagline: string
   chatPlaceholder: string
   apiUrl: string
 }
 
 const defaultOptions: HomepageHeroOptions = {
-  title: "Open Council",
   tagline: "London's council meetings, on the record and searchable",
   chatPlaceholder: "Ask anything about council meetings...",
   apiUrl: "https://open-council-production.up.railway.app",
@@ -23,22 +21,20 @@ export default ((userOpts?: Partial<HomepageHeroOptions>) => {
 
     return (
       <div class="homepage-hero" data-api-url={opts.apiUrl}>
-        {/* Hero state - shown initially */}
+        {/* Hero state - shown initially (title now in unified header) */}
         <div class="hero-welcome">
-          <h1 class="hero-title">{opts.title} <span class="beta-tag">BETA</span></h1>
           <p class="hero-tagline">{opts.tagline}</p>
         </div>
 
-        {/* Chat header - shown in chat mode */}
-        <header class="chat-header" aria-label="Chat navigation">
+        {/* Chat action bar - shown in chat mode (main header stays visible) */}
+        <div class="chat-action-bar" aria-label="Chat actions">
           <button class="chat-back-btn" aria-label="Back to home">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
               <path d="M19 12H5M12 19l-7-7 7-7"/>
             </svg>
             <span>Back</span>
           </button>
-          <span class="chat-header-title">{opts.title}</span>
-          <div class="chat-header-actions">
+          <div class="chat-action-buttons">
             <button class="chat-copy-last" aria-label="Copy last exchange" title="Copy last Q&A">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
@@ -53,15 +49,8 @@ export default ((userOpts?: Partial<HomepageHeroOptions>) => {
                 <line x1="9" y1="16" x2="15" y2="16"/>
               </svg>
             </button>
-            <a href="/about" class="chat-about-link" aria-label="About Open Council" title="About">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-                <circle cx="12" cy="12" r="10"/>
-                <line x1="12" y1="16" x2="12" y2="12"/>
-                <line x1="12" y1="8" x2="12.01" y2="8"/>
-              </svg>
-            </a>
           </div>
-        </header>
+        </div>
 
         {/* Chat messages area - grows to fill viewport */}
         <div class="chat-messages" role="log" aria-live="polite" aria-label="Chat messages">

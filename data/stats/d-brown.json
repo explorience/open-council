@@ -6,7 +6,34 @@
     "present": 145,
     "absent": 229,
     "remote": 0,
-    "attendanceRate": 38.770053475935825
+    "attendanceRate": 38.770053475935825,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 71.42857142857143,
+        "meetingsAttended": 10,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 36.36363636363637,
+        "meetingsAttended": 32,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 37.142857142857146,
+        "meetingsAttended": 52,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 38.63636363636363,
+        "meetingsAttended": 51,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2048,
@@ -14,8 +41,136 @@
     "nays": 197,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 90.380859375
+    "yeaRate": 90.380859375,
+    "contestedDissentRate": 9.765625,
+    "contestedVotes": 2048,
+    "substantiveVotes": 2046,
+    "substantiveYeas": 1849,
+    "substantiveNays": 197,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 90.37145650048876
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 638,
+    "budgetYeas": 503,
+    "budgetNays": 135,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH\n  MEETING",
+      "itemTitle": "Office Reallocation\n  - 2014 - 2018 Council Term",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-10-14",
+      "meetingTitle": "MINUTES 24TH MEETING",
+      "itemTitle": "ENQUIRIES",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-05-05",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-05-05",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-28",
+      "meetingTitle": "Community and Protective Services Committee",
+      "itemTitle": "Amendments to\n  Various Fees and Charges By-law and the Yard and Lot Maintenance By-law to\n  Add a Fee for the Retrieval of Abandoned Shopping Carts",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1098257-949d-426d-9665-f6766bf41326&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-15",
+      "meetingTitle": "MINUTES 11TH MEETING",
+      "itemTitle": "Ombudsman Investigation",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-15",
+      "meetingTitle": "MINUTES 11TH MEETING",
+      "itemTitle": "Ombudsman Investigation",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-15",
+      "meetingTitle": "MINUTES 11TH MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-15",
+      "meetingTitle": "MINUTES 11TH MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1170,
+      "yeas": 1115,
+      "nays": 55,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 714,
+      "yeas": 575,
+      "nays": 139,
+      "participationRate": 100
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 164,
+      "yeas": 161,
+      "nays": 3,
+      "participationRate": 100
+    }
+  ]
 }

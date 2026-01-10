@@ -12,21 +12,21 @@ votesAbsent: 0
 attendanceRate: 43.0
 participationRate: 100.0
 yeaRate: 85.3
+contestedDissentRate: 13.6
+contestedVotes: 2074
 prefillQuestions:
-  - "What was Stephen Orser's attendance rate compared to other council members during his 2011-2014 term?"
-  - "Which specific committees did Stephen Orser serve on, and what was his level of participation in committee work?"
-  - "How did Stephen Orser vote on major city issues and budget decisions during his time on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Stephen Orser served on London City Council from 2011 to 2014, completing one full term during this period. Throughout his tenure, he demonstrated consistent engagement with council duties, attending 112 meetings over the course of his service. His participation extended beyond general council sessions, as he served on four different committees during his time in office, though the specific names of these committees are not clearly identified in the available data.
-
-Orser's attendance record and committee involvement suggest he maintained an active role in municipal governance during his term. His four-year service period coincided with important municipal decision-making processes, and his participation across multiple committees would have provided him with exposure to various aspects of city administration and policy development.
 
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 4)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -36,11 +36,161 @@ Orser's attendance record and committee involvement suggest he maintained an act
 | Absent | 0 (0.0%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 2,071 |
+| Voted Yea | 1,767 (85.3%) |
+| Voted Nay | 304 (14.7%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 13.6%
+- **Contested Votes**: 2,074
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 685 |
+| Voted Yea | 477 (69.6%) |
+| Voted Nay | 208 (30.4%) |
+| Absent | 0 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 43.0%
 - **Meetings Attended**: 161 of 374
 - **Meetings Missed**: 213
+- **Trend**: Declining v
+
+**Attendance by Year:**
+  - 2011: 71.4% (10/14 meetings)
+  - 2012: 54.5% (48/88 meetings)
+  - 2013: 37.9% (53/140 meetings)
+  - 2014: 37.9% (50/132 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 1,120 | 1,040 | 80 | 100.0% |
+| Strategic Priorities and Policy Committee | 755 | 535 | 220 | 100.0% |
+| Civic Works Committee | 199 | 194 | 5 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Stephen Orser voted against the final outcome:*
+
+### 2014-11-25: 2015 Water and
+  Wastewater Rates
+
+[MINUTES 26TH
+  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-10-14: Properties located at 51 and 99 Exeter Road
+  (OZ-8324)
+
+[MINUTES 24TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: Deputy City
+  Treasurer - Orchestra London Credit Guarantee
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: Deputy City
+  Treasurer - Orchestra London Credit Guarantee
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-07-29: Property located at
+  2118 Richmond Street (OZ-7890)
+
+[MINUTES 20TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-07-28: Review of Council
+  Policy 5(1) - Process for the Appointment of an Acting Mayor
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-07-28: Improvements to
+  Governance Model and Tracking Approved Projects
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-05-05: Consideration of
+  Nominees for Appointment to the Board of Directors of the Greater London
+  International Airport Authority
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
 
 
 ## Committees Served

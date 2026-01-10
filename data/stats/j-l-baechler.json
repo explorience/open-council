@@ -6,7 +6,34 @@
     "present": 176,
     "absent": 198,
     "remote": 0,
-    "attendanceRate": 47.05882352941176
+    "attendanceRate": 47.05882352941176,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 64.28571428571429,
+        "meetingsAttended": 9,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 53.40909090909091,
+        "meetingsAttended": 47,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 40.714285714285715,
+        "meetingsAttended": 57,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 47.72727272727273,
+        "meetingsAttended": 63,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2640,
@@ -14,8 +41,157 @@
     "nays": 208,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 92.12121212121212
+    "yeaRate": 92.12121212121212,
+    "contestedDissentRate": 9.962121212121213,
+    "contestedVotes": 2640,
+    "substantiveVotes": 2637,
+    "substantiveYeas": 2430,
+    "substantiveNays": 207,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 92.15017064846417
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 762,
+    "budgetYeas": 651,
+    "budgetNays": 111,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-10-14",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Properties located\n  at 510\n  Central Avenue and 609 William Street (Z-8141)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f09d855c-924d-4e01-a896-284e67a7faf6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-23",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-16",
+      "meetingTitle": "MINUTES 22ND MEETING",
+      "itemTitle": "COMMITTEE\n  OF THE WHOLE, IN CAMERA",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-28",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Appointments to the\n  London Public Library, 2014 - Term December 1, 2014 to November 30, 2018",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1223,
+      "yeas": 1151,
+      "nays": 72,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 836,
+      "yeas": 711,
+      "nays": 125,
+      "participationRate": 100
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 336,
+      "yeas": 330,
+      "nays": 6,
+      "participationRate": 100
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 101,
+      "yeas": 97,
+      "nays": 4,
+      "participationRate": 100
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 83,
+      "yeas": 83,
+      "nays": 0,
+      "participationRate": 100
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 61,
+      "yeas": 60,
+      "nays": 1,
+      "participationRate": 100
+    }
+  ]
 }

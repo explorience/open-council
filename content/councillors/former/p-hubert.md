@@ -12,19 +12,21 @@ votesAbsent: 32
 attendanceRate: 52.0
 participationRate: 99.5
 yeaRate: 93.1
+contestedDissentRate: 5.6
+contestedVotes: 6099
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major budget decisions and tax increases during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as chair or vice-chair roles?"
-  - "How did Paul Hubert's attendance rate of 363 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Paul Hubert served on London City Council from 2011 to 2018, demonstrating consistent participation with attendance at 363 meetings over his seven-year tenure. During his time on council, he served on eight different committees, showing broad involvement across various municipal governance areas. His regular meeting attendance and multi-committee participation indicates active engagement in the city's decision-making processes throughout his council term.
 
 ## Terms of Service
 
 - 2010-2018: Councillor (Ward 8)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -34,11 +36,152 @@ Paul Hubert served on London City Council from 2011 to 2018, demonstrating consi
 | Absent | 32 (0.5%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 6,302 |
+| Voted Yea | 5,846 (93.0%) |
+| Voted Nay | 439 (7.0%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 5.6%
+- **Contested Votes**: 6,099
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 1,335 |
+| Voted Yea | 1,118 (84.0%) |
+| Voted Nay | 213 (16.0%) |
+| Absent | 4 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 52.0%
 - **Meetings Attended**: 465 of 895
 - **Meetings Missed**: 430
+- **Trend**: Stable -
+
+**Attendance by Year:**
+  - 2015: 50.7% (72/142 meetings)
+  - 2016: 56.2% (82/146 meetings)
+  - 2017: 52.3% (67/128 meetings)
+  - 2018: 54.3% (57/105 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 2,582 | 2,423 | 139 | 99.2% |
+| Strategic Priorities and Policy Committee | 1,931 | 1,669 | 262 | 100.0% |
+| Planning and Environment Committee | 1,468 | 1,440 | 28 | 100.0% |
+| Corporate Services Committee | 308 | 284 | 12 | 96.1% |
+| Civic Works Committee | 230 | 226 | 4 | 100.0% |
+| Community and Protective Services Committee | 1 | 1 | 0 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Paul Hubert voted against the final outcome:*
+
+### 2018-09-25: Downtown King Street Cycling Improvements
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=22e14156-639d-41e1-a2bc-6eca0202a07d&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Downtown King Street Cycling Improvem...
+
+Voted **Nay** - Motion Passed (4 to 1)
+
+### 2018-07-24: (3.1) By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances (Relates to Bill No.s 435 and 436)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> The motion to approve Part b) of Item 9 (3.1) is put.  Part b) reads as follows: b)            the proposed by-law, appended to the staff report dated July 16, 2018, BE INTRODUCED at the Municipal Cou...
+
+Voted **Nay** - Motion Passed (9 to 6)
+
+### 2018-07-24: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 436, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2018-07-24: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 436, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2018-07-24: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 436, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2018-06-26: (4.1) 9th Report of the Governance Working Group
+
+[13th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part c) Draft Annual Meeting Calendar: c)         the following actions be taken with respect to the draft annual meeting calendar for the period January 1, 2019 to December 31, 2019...
+
+Voted **Nay** - Motion Passed (8 to 5)
+
+### 2018-06-25: 9th Report of the Governance Working Group
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English)
+
+> Motion to refer part c), having to do with a revised Annual Meeting Calendar, BE REFERRED to the 2018-2022 Council for consideration; it being noted that the City Clerk will be required to bring forwa...
+
+Voted **Yea** - Motion Failed (5 to 8)
+
+### 2018-06-25: 9th Report of the Governance Working Group
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part c), with the addition to direct the City Clerk to consult with the Civic Administration on the draft calendars.
+
+Voted **Nay** - Motion Passed (8 to 5)
+
+### 2018-05-08: (2.1) Short Term Accommodations
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d246efa1-5a31-4d4a-ad74-2e0440213cbb&Agenda=PostMinutes&lang=English)
+
+> That Item 4.2 BE AMENDED in part c) to direct staff to hold a public participation meeting before the Community and Protective Services Committee on draft by-law amendments to a number of by-laws, to ...
+
+Voted **Yea** - Motion Failed (6 to 8)
+
+### 2018-05-07: (ADDED) London Middlesex Housing Corporation Board of Directors Vacancies
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=691a23eb-acf5-4a4e-bc63-44f0001d9807&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors:
+
+
+
+a)            the letter of resignation appended to the staff report dated May 7, 20...
+
+Voted **Nay** - Motion Passed (8 to 5)
 
 
 ## Committees Served

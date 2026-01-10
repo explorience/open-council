@@ -6,7 +6,34 @@
     "present": 212,
     "absent": 200,
     "remote": 0,
-    "attendanceRate": 51.45631067961165
+    "attendanceRate": 51.45631067961165,
+    "trend": [
+      {
+        "period": "2022",
+        "attendanceRate": 8.51063829787234,
+        "meetingsAttended": 8,
+        "meetingsTotal": 94
+      },
+      {
+        "period": "2023",
+        "attendanceRate": 54.385964912280706,
+        "meetingsAttended": 62,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2024",
+        "attendanceRate": 69.64285714285714,
+        "meetingsAttended": 78,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2025",
+        "attendanceRate": 69.56521739130434,
+        "meetingsAttended": 64,
+        "meetingsTotal": 92
+      }
+    ],
+    "trendDirection": "improving"
   },
   "voting": {
     "totalVotes": 3363,
@@ -14,7 +41,20 @@
     "nays": 283,
     "absent": 252,
     "participationRate": 92.50669045495094,
-    "yeaRate": 90.90324654451945
+    "yeaRate": 90.90324654451945,
+    "contestedDissentRate": 12.597809076682315,
+    "contestedVotes": 1278,
+    "substantiveVotes": 2162,
+    "substantiveYeas": 1685,
+    "substantiveNays": 251,
+    "substantiveParticipationRate": 89.54671600370028,
+    "substantiveYeaRate": 87.03512396694215
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 379,
+    "budgetYeas": 292,
+    "budgetNays": 82,
+    "budgetAbsent": 5
   },
   "topAlignments": [
     {
@@ -78,6 +118,142 @@
       "sharedVotes": 1443,
       "agreedVotes": 1312,
       "alignmentRate": 90.92169092169092
+    }
+  ],
+  "notableDissents": [
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "Amendment - Budget Case #P-2 - Councillor S. Stevenson",
+      "motionText": "That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Councillor D. Ferreira",
+      "motionText": "That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street pa...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That the Final Report of the 2025 Council Resourcing Review Task Force dated October 3, 2025 BE REFERRED to Civic Administration to report back to the December 9, 2025 meeting of the Strategic Priorit...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-10-28",
+      "meetingTitle": "13th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "Motion to approve part g): g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annual Councillor ...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-10-28",
+      "meetingTitle": "13th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "Motion to approve part n): n) the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated a...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-10-28",
+      "meetingTitle": "13th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of City Appointees to Western University's Board of Governors",
+      "motionText": "That the motion to appoint Lori Higgs and Marlene McGrath to the Western University's Board of Governors BE REFERRED to the next meeting of Strategic Priorities and Policy Committee to allow for more ...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-10-14",
+      "meetingTitle": "16th Council Meeting",
+      "itemTitle": "(2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps ",
+      "motionText": "That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with ...",
+      "vote": "yea",
+      "result": "Motion Failed (4 to 11)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-09-29",
+      "meetingTitle": "14th Meeting of the Community and Protective Services Committee",
+      "itemTitle": "Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adeq...",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=46f1a202-1cdd-40e8-b86a-b77420ab4566&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-08-26",
+      "meetingTitle": "14th Council Meeting",
+      "itemTitle": "(2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan",
+      "motionText": "That the motion be amended by including a new part b) to read as follows: b)         the Civic Administration BE DIRECTED to report back with options addressing property encroachments, including relat...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-08-26",
+      "meetingTitle": "14th Council Meeting",
+      "itemTitle": "(2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan",
+      "motionText": "That the motion be amended by including a new part c) to read as follows: c)         the Civic Administration BE DIRECTED, as part of the Conservation Master Plan review, to include passive recreation...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1748,
+      "yeas": 1563,
+      "nays": 147,
+      "participationRate": 97.82608695652173
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 934,
+      "yeas": 684,
+      "nays": 49,
+      "participationRate": 78.4796573875803
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 354,
+      "yeas": 314,
+      "nays": 32,
+      "participationRate": 97.74011299435028
+    },
+    {
+      "committee": "Budget Committee",
+      "totalVotes": 189,
+      "yeas": 141,
+      "nays": 48,
+      "participationRate": 100
+    },
+    {
+      "committee": "Infrastructure and Corporate Services Committee",
+      "totalVotes": 83,
+      "yeas": 72,
+      "nays": 6,
+      "participationRate": 93.97590361445783
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 55,
+      "yeas": 54,
+      "nays": 1,
+      "participationRate": 100
     }
   ]
 }

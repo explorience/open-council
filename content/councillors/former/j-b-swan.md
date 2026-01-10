@@ -12,19 +12,21 @@ votesAbsent: 0
 attendanceRate: 52.1
 participationRate: 100.0
 yeaRate: 90.2
+contestedDissentRate: 9.1
+contestedVotes: 2232
 prefillQuestions:
-  - "What was Joe Swan's voting pattern on major budget decisions during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on, and what was his attendance record for committee meetings versus regular council meetings?"
-  - "How did Joe Swan vote on key infrastructure or development projects that came before council during his four years of service?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-Joe Swan served on London City Council from 2011 to 2014, completing a four-year term. During this period, he attended 147 council meetings, demonstrating consistent participation in the city's legislative proceedings. Swan served on six different committees during his tenure, though the specific names of these committees are not clearly displayed in the available data. His attendance record and committee involvement indicate active engagement in the council's work throughout his term.
 
 ## Terms of Service
 
 - 2010-2014: Councillor (Ward 3)
 
 ## Voting Record
+
+### All Votes
 
 | Statistic | Count |
 |-----------|-------|
@@ -34,11 +36,162 @@ Joe Swan served on London City Council from 2011 to 2014, completing a four-year
 | Absent | 0 (0.0%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 2,229 |
+| Voted Yea | 2,011 (90.2%) |
+| Voted Nay | 218 (9.8%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 9.1%
+- **Contested Votes**: 2,232
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 756 |
+| Voted Yea | 612 (81.0%) |
+| Voted Nay | 144 (19.0%) |
+| Absent | 0 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 52.1%
 - **Meetings Attended**: 195 of 374
 - **Meetings Missed**: 179
+- **Trend**: Declining v
+
+**Attendance by Year:**
+  - 2011: 78.6% (11/14 meetings)
+  - 2012: 70.5% (62/88 meetings)
+  - 2013: 45.7% (64/140 meetings)
+  - 2014: 43.9% (58/132 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 1,197 | 1,142 | 55 | 100.0% |
+| Strategic Priorities and Policy Committee | 802 | 645 | 157 | 100.0% |
+| Corporate Services Committee | 233 | 226 | 7 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Joe Swan voted against the final outcome:*
+
+### 2014-11-24: Review of Acting
+  Mayor Policy
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8715d678-b972-43eb-89f9-f28c8679f936&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-10-07: Amendment to
+  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
+  Policy 28(3)
+
+[Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0fc443d-8f90-460d-934f-6bb2e9543794&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-10-07: Amendment to
+  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
+  Policy 28(3)
+
+[Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0fc443d-8f90-460d-934f-6bb2e9543794&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-09-30: Property located at
+  1300 Fanshawe Park Road East (OZ-8358)
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
+### 2014-09-30: Property located at
+  1300 Fanshawe Park Road East (OZ-8358)
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-29: 1st Report of the
+  Governance Working Group
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=76b13df1-bcbe-4deb-8aac-8285184c3e8b&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-09-02: Installation of
+  Sidewalks on Shavian Blvd.
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: BY-LAWS
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
 
 
 ## Committees Served

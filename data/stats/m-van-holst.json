@@ -6,7 +6,64 @@
     "present": 486,
     "absent": 586,
     "remote": 0,
-    "attendanceRate": 45.33582089552239
+    "attendanceRate": 45.33582089552239,
+    "trend": [
+      {
+        "period": "2014",
+        "attendanceRate": 6.0606060606060606,
+        "meetingsAttended": 8,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 50.70422535211267,
+        "meetingsAttended": 72,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 51.369863013698634,
+        "meetingsAttended": 75,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 42.96875,
+        "meetingsAttended": 55,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 50.476190476190474,
+        "meetingsAttended": 53,
+        "meetingsTotal": 105
+      },
+      {
+        "period": "2019",
+        "attendanceRate": 46.49122807017544,
+        "meetingsAttended": 53,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2020",
+        "attendanceRate": 69.64285714285714,
+        "meetingsAttended": 78,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2021",
+        "attendanceRate": 50.505050505050505,
+        "meetingsAttended": 50,
+        "meetingsTotal": 99
+      },
+      {
+        "period": "2022",
+        "attendanceRate": 44.680851063829785,
+        "meetingsAttended": 42,
+        "meetingsTotal": 94
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 6938,
@@ -14,8 +71,157 @@
     "nays": 288,
     "absent": 332,
     "participationRate": 95.21475929662728,
-    "yeaRate": 95.64032697547684
+    "yeaRate": 95.64032697547684,
+    "contestedDissentRate": 6.575905471358849,
+    "contestedVotes": 3893,
+    "substantiveVotes": 5439,
+    "substantiveYeas": 4877,
+    "substantiveNays": 262,
+    "substantiveParticipationRate": 94.48428019856591,
+    "substantiveYeaRate": 94.9017318544464
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 955,
+    "budgetYeas": 878,
+    "budgetNays": 73,
+    "budgetAbsent": 4
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2022-10-17",
+      "meetingTitle": "14th Meeting of City Council",
+      "itemTitle": "(5.2) Councillor M. Van Holst - Zoning Amendment to Permit a Pilot of Temporary Mobile Shelters",
+      "motionText": "That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobil...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-06-14",
+      "meetingTitle": null,
+      "itemTitle": "(4.3) Short-term Accommodations - Proposed Amendments (Relates to Bill No's. 239 and 243)",
+      "motionText": "That Item 15 (4.2) BE AMENDED to read as follows: \"That on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff re...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5f48664b-cb1d-422f-85f1-a477cfd6b1b1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-06-14",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Third Reading and Enactment of the revised Bill No.’s 239 and 243, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5f48664b-cb1d-422f-85f1-a477cfd6b1b1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-05-03",
+      "meetingTitle": null,
+      "itemTitle": "G.F. Stewart, Integrity Commissioner, City of London - Report to City Council: Code of Conduct - Councillor M. van Holst - Vaccination Policy",
+      "motionText": "Motion to approve parts a), b) and c) That the following actions be taken with respect to the Report of the Integrity Commissioner entitled “Report On Investigation of Code of Conduct Complaint Concer...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-05-03",
+      "meetingTitle": null,
+      "itemTitle": "(5.3) \"Graphic\" Flyer Deliveries to Residential Properties (Relates to Bill No.'s 181 and 188)",
+      "motionText": "That the following actions be taken with respect to the staff report, dated April 20, 2022, with respect to “Graphic” Flyer Deliveries to Residential Properties: a)    the proposed by-law, as appended...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-03-29",
+      "meetingTitle": null,
+      "itemTitle": "Report on Downtown Road Closures ",
+      "motionText": "That the communication from Councillor M. van Holst, with respect to a report on Downtown road closures BE RECEIVED and NO ACTION BE TAKEN. (2022-C09)",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4d69323b-b755-41e2-b171-955b63be87e0&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-03-08",
+      "meetingTitle": null,
+      "itemTitle": "Including a Carbon Offset Strategy - Councillor M. van Holst",
+      "motionText": "That the Civic Administration BE DIRECTED to include additional detailed calculations/information related to carbon offsets as an option for households in the draft Climate Emergency Action Plan, in o...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 11)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5ee8276e-7895-484f-86c9-c7219cbd1070&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-02-15",
+      "meetingTitle": null,
+      "itemTitle": "(2.2) Considerations and Viability to Implement a Vacant Home Tax in London",
+      "motionText": "That part b), of clause 2.2, as amended BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e237088e-eef7-42cd-9e87-2808fea4225b&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-01-25",
+      "meetingTitle": null,
+      "itemTitle": "(4.3) Amendments to Members of Council Proof of COVID-19 Vaccination Policy (Relates to Bill No. 72)",
+      "motionText": "That the following actions be taken with respect to the Members of Council Proof of COVID-19 Vaccination Policy:\n\n\n\na)  on the recommendation of the City Clerk, the proposed by-law, as appended to the...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b3f00da5-d1bc-40e4-9f51-6eb38c364c0a&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-01-25",
+      "meetingTitle": null,
+      "itemTitle": "(4.3) Full-Time Compensation Determination",
+      "motionText": "That the communication from Councillor M. van Holst, dated January 9, 2022, with respect to typical daytime office hours, BE RECEIVED and no action be taken.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b3f00da5-d1bc-40e4-9f51-6eb38c364c0a&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 3506,
+      "yeas": 3320,
+      "nays": 134,
+      "participationRate": 98.51682829435255
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 2200,
+      "yeas": 1815,
+      "nays": 129,
+      "participationRate": 88.36363636363636
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 852,
+      "yeas": 830,
+      "nays": 18,
+      "participationRate": 99.53051643192488
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 281,
+      "yeas": 255,
+      "nays": 6,
+      "participationRate": 92.88256227758008
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 81,
+      "yeas": 80,
+      "nays": 1,
+      "participationRate": 100
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 18,
+      "yeas": 18,
+      "nays": 0,
+      "participationRate": 100
+    }
+  ]
 }

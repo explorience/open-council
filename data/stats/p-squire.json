@@ -6,7 +6,58 @@
     "present": 442,
     "absent": 536,
     "remote": 0,
-    "attendanceRate": 45.194274028629856
+    "attendanceRate": 45.194274028629856,
+    "trend": [
+      {
+        "period": "2014",
+        "attendanceRate": 4.545454545454546,
+        "meetingsAttended": 6,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 51.40845070422535,
+        "meetingsAttended": 73,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 50,
+        "meetingsAttended": 73,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 55.46875,
+        "meetingsAttended": 71,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 56.19047619047619,
+        "meetingsAttended": 59,
+        "meetingsTotal": 105
+      },
+      {
+        "period": "2019",
+        "attendanceRate": 60.526315789473685,
+        "meetingsAttended": 69,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2020",
+        "attendanceRate": 50.89285714285714,
+        "meetingsAttended": 57,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2021",
+        "attendanceRate": 34.34343434343434,
+        "meetingsAttended": 34,
+        "meetingsTotal": 99
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 6305,
@@ -14,8 +65,150 @@
     "nays": 380,
     "absent": 54,
     "participationRate": 99.14353687549564,
-    "yeaRate": 93.9209726443769
+    "yeaRate": 93.9209726443769,
+    "contestedDissentRate": 6.8084089823220255,
+    "contestedVotes": 4186,
+    "substantiveVotes": 5136,
+    "substantiveYeas": 4745,
+    "substantiveNays": 354,
+    "substantiveParticipationRate": 99.27959501557633,
+    "substantiveYeaRate": 93.05746224749952
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 816,
+    "budgetYeas": 694,
+    "budgetNays": 116,
+    "budgetAbsent": 6
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2021-09-28",
+      "meetingTitle": null,
+      "itemTitle": "(ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer",
+      "motionText": "That part b) BE REFERRED to the multi-year budget process for consideration; it being noted that part b) reads as follows: b)       the Civic Administration BE AUTHORIZED to forgive the remaining bala...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=082f2bfc-2297-44c5-8cca-efb8e4ddc0ec&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-09-28",
+      "meetingTitle": null,
+      "itemTitle": "(ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer",
+      "motionText": "Motion to approve part b) b)  the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83.",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=082f2bfc-2297-44c5-8cca-efb8e4ddc0ec&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-09-07",
+      "meetingTitle": null,
+      "itemTitle": "Downtown Business Improvement Association Appointment",
+      "motionText": "That consideration of an interim Councillor appointment to the London Downtown Business Association Board of Directors BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee ...",
+      "vote": "yea",
+      "result": "Motion Failed (4 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2c345716-1f41-4e80-92ad-5b2a0d35f577&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-08-10",
+      "meetingTitle": null,
+      "itemTitle": "(4.4) Recognizing the Impact of Hosting the COVID-19 Assessment Centres at Oakridge Arena and Carling Heights Optimist Community Centre",
+      "motionText": "That the following actions be taken with respect to the communication, dated July 6, 2021, from Councillors S. Lehman and J. Helmer and Mayor E. Holder, related to Recognizing the Impact of Hosting CO...",
+      "vote": "nay",
+      "result": "Motion Passed (14 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e958fd68-9d6c-49a4-b185-279924b50ac8&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-07-06",
+      "meetingTitle": null,
+      "itemTitle": "(2.2) Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA",
+      "motionText": "That Item 2.2 of the 10th Report of the Planning and Environment Committee BE AMENDED by adding the following new part d): d) the Civic Administration BE DIRECTED to bring forward the final DMOU to a ...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b4f427f-bef1-4f1a-9857-ec2f7ee66abf&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-06-15",
+      "meetingTitle": null,
+      "itemTitle": "(2.3) Review of Ward Boundaries Update",
+      "motionText": "That Item 7 (2.3) BE AMENDED to include the following additional wording, \"and the Civic Administration BE DIRECTED to not proceed with changes to the existing Ward Boundaries at this time.\"",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82b5607e-07ec-4215-a9bd-00d9f7946371&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-04-13",
+      "meetingTitle": null,
+      "itemTitle": "(4.3) Request for Research on the Effects of Public Health Restrictions in London",
+      "motionText": "That the communication dated March 29, 2021 from Councillor M. van Holst with respect to a request for research related to the effects of COVID on the local citizens and economy, BE RECEIVED.",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-02-23",
+      "meetingTitle": null,
+      "itemTitle": "(2.2) London Community Recovery Network - Ideas for Action by Municipal Council",
+      "motionText": "That part a) i) Idea for Action 5.6 - Mural façade grant, BE APPROVED. At 6:43 PM, Councillor S. Hillier leaves the meeting.",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2020-11-24",
+      "meetingTitle": null,
+      "itemTitle": "(2.9) Active Transportation Infrastructure Plan",
+      "motionText": "That Item 11 (2.9) of the 13th Report of the Civic Works Committee be amended by deleting part b) in its entirety and by replacing it with the following new part b); by adding the following new part c...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e3716145-1b8c-4264-aa67-787527e311c6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2020-10-27",
+      "meetingTitle": null,
+      "itemTitle": "(ADDED) Bill 218 and Ranked Ballots",
+      "motionText": "That the following actions be taken with respect to the Bill 218 “An Act to enact the Supporting Ontario’s Recovery Act, 2020”:\n\na)      the Civic Administration BE DIRECTED to submit the following co...",
+      "vote": "nay",
+      "result": "Motion Passed (14 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=445eceb1-7666-412b-a106-2c37ec615b4e&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 2826,
+      "yeas": 2659,
+      "nays": 160,
+      "participationRate": 99.75230007077141
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1704,
+      "yeas": 1500,
+      "nays": 174,
+      "participationRate": 98.23943661971832
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 1148,
+      "yeas": 1116,
+      "nays": 20,
+      "participationRate": 98.95470383275261
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 361,
+      "yeas": 347,
+      "nays": 9,
+      "participationRate": 98.61495844875347
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 266,
+      "yeas": 249,
+      "nays": 17,
+      "participationRate": 100
+    }
+  ]
 }
