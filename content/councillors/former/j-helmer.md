@@ -13,9 +13,9 @@ attendanceRate: 58.0
 participationRate: 96.3
 yeaRate: 94.5
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on major city budget decisions during their 2014-2022 tenure?"
-  - "Which committees did Jesse Helmer chair or hold leadership positions on during their time on council?"
-  - "How did Jesse Helmer vote on key development and planning issues that came before London City Council?"
+  - "What was Jesse Helmer's voting record on key municipal issues during their 8-year tenure?"
+  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions within those committees?"
+  - "How did Jesse Helmer's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

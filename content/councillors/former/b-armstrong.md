@@ -13,9 +13,9 @@ attendanceRate: 36.6
 participationRate: 98.9
 yeaRate: 93.2
 prefillQuestions:
-  - "What was Bill Armstrong's attendance rate as a percentage of total scheduled meetings during his 2012-2018 tenure?"
-  - "Which specific committees did Bill Armstrong serve on and what were his primary areas of focus or expertise?"
-  - "How did Bill Armstrong typically vote on major municipal issues such as budget approvals, development proposals, or policy changes during his time on council?"
+  - "What was Bill Armstrong's attendance rate compared to other council members during his 2012-2018 tenure?"
+  - "Which specific committees did Armstrong serve on and what were his primary areas of focus?"
+  - "How did Armstrong typically vote on major municipal issues like budget approvals, development projects, or policy changes during his time on council?"
 ---
 
 ## Terms of Service

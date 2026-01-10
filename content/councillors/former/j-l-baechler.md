@@ -13,9 +13,9 @@ attendanceRate: 47.1
 participationRate: 100.0
 yeaRate: 92.1
 prefillQuestions:
-  - "What was Joni Baechler's voting record on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Joni Baechler serve on and what roles did they play on those committees?"
-  - "How does Joni Baechler's meeting attendance rate of 132 meetings compare to other council members who served during the same 2011-2014 period?"
+  - "What was Joni Baechler's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Baechler serve on and what role did they play in committee decisions?"
+  - "How did Baechler's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

@@ -13,9 +13,9 @@ attendanceRate: 44.9
 participationRate: 97.7
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Matt Brown's voting record on major budget decisions and tax increases during his time on council?"
-  - "Which specific committees did he serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did his attendance rate of 328 meetings compare to other council members during the same period, and were there any notable absences from key votes?"
+  - "What was Matt Brown's voting record on major budget decisions during his time on council from 2011-2018?"
+  - "How often did Matt Brown vote with or against the majority on contentious issues during council meetings?"
+  - "What specific committees did Matt Brown serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
 ---
 
 ## Terms of Service

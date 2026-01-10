@@ -13,9 +13,9 @@ attendanceRate: 44.7
 participationRate: 91.4
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and were there any notable absences during key votes?"
-  - "Which specific committees did Stephen Turner serve on and what roles did he hold within those committees?"
-  - "How did Stephen Turner's participation level compare to other council members during his tenure from 2014-2022?"
+  - "What was Stephen Turner's voting pattern on key budget decisions during his eight years on council?"
+  - "How frequently did Turner vote with the majority versus taking dissenting positions on council matters?"
+  - "Which specific committees did Turner serve on, and what was his attendance rate for committee meetings compared to regular council meetings?"
 ---
 
 ## Terms of Service

@@ -13,9 +13,9 @@ attendanceRate: 41.3
 participationRate: 86.0
 yeaRate: 82.2
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues during her 2022-2025 term?"
-  - "Which specific committees has she served on and what leadership roles, if any, has she held within those committees?"
-  - "How does her meeting attendance rate compare to other council members during the same period?"
+  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
+  - "How does her meeting attendance record of 178 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
 ## Terms of Service

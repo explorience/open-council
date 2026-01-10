@@ -13,9 +13,9 @@ attendanceRate: 42.2
 participationRate: 91.6
 yeaRate: 91.4
 prefillQuestions:
-  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and city services?"
-  - "How does their meeting attendance rate compare to other council members, and have there been any notable absences during important votes?"
-  - "Which specific committees has Skylar Franke served on, and what leadership roles, if any, have they held within those committees?"
+  - "What specific committees has Skylar Franke served on during their time on London City Council?"
+  - "How does Franke's meeting attendance rate of 179 meetings compare to other council members or the expected number of meetings during this period?"
+  - "What has been Franke's voting pattern on key municipal issues and budget decisions during their 2022-2025 term?"
 ---
 
 ## Terms of Service

@@ -13,9 +13,9 @@ attendanceRate: 38.8
 participationRate: 100.0
 yeaRate: 90.4
 prefillQuestions:
-  - "What was Denise Brown's voting attendance rate and how did it compare to other council members during 2011-2014?"
-  - "Which specific committees did she serve on and what were her key contributions or focus areas on those committees?"
-  - "Did she sponsor or champion any particular motions or initiatives during her four-year term on council?"
+  - "What was Denise Brown's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus full council meetings?"
+  - "Did she sponsor or champion any particular motions or initiatives during her time on council?"
 ---
 
 ## Terms of Service

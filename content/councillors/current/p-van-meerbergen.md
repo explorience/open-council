@@ -13,9 +13,9 @@ attendanceRate: 33.1
 participationRate: 89.9
 yeaRate: 86.9
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and in what capacity (chair, vice-chair, or member)?"
-  - "How has his voting pattern evolved over his 14 years on council, particularly on key municipal issues like budget approvals and development projects?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members serving similar terms?"
+  - "What has been his voting pattern on major city issues such as budget approvals, development projects, or infrastructure investments?"
 ---
 
 ## Terms of Service

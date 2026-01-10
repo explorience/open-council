@@ -13,9 +13,9 @@ attendanceRate: 65.0
 participationRate: 100.0
 yeaRate: 91.8
 prefillQuestions:
-  - "What was Bud Polhill's attendance rate compared to other council members during the 2011-2014 term?"
-  - "Which specific committees did Polhill serve on and what roles did they hold on those committees?"
-  - "How did Polhill vote on major city issues and budget decisions during their time on council?"
+  - "What was Bud Polhill's voting record on major budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings?"
+  - "How did Polhill vote on key infrastructure or development proposals that came before council during their tenure?"
 ---
 
 ## Terms of Service

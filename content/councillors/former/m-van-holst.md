@@ -13,9 +13,9 @@ attendanceRate: 45.3
 participationRate: 95.2
 yeaRate: 95.6
 prefillQuestions:
-  - "What was Michael van Holst's attendance rate compared to other council members during his 2014-2022 tenure?"
-  - "Which specific committees did he serve on and what roles did he hold within those committees?"
-  - "How did his voting patterns align with council majority decisions on key municipal issues during his time in office?"
+  - "What was Michael van Holst's voting record on key municipal issues such as budget approvals, development projects, and tax increases during his tenure?"
+  - "How frequently did he introduce motions or amendments, and what was his success rate in getting them passed by council?"
+  - "What were his attendance rates for the specific committees he served on, and did he hold any leadership positions such as committee chair or vice-chair?"
 ---
 
 ## Terms of Service

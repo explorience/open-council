@@ -13,9 +13,9 @@ attendanceRate: 48.9
 participationRate: 88.8
 yeaRate: 92.4
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
-  - "Which specific committees has she served on and what leadership roles, if any, has she held within those committees?"
-  - "How does her meeting attendance rate compare to other council members, and has her participation level remained consistent throughout her years of service?"
+  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other London City Council members?"
+  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on each?"
+  - "How has her committee participation changed over her years of service from 2018-2025?"
 ---
 
 ## Terms of Service

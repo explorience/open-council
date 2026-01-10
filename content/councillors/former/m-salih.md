@@ -13,9 +13,9 @@ attendanceRate: 39.0
 participationRate: 91.4
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and public transit initiatives during their 8-year tenure?"
-  - "Which specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Mo Salih's meeting attendance rate of 350 meetings compare to other council members during the same 2014-2022 period?"
+  - "What was Mo Salih's voting attendance rate and pattern on key municipal issues during their eight years on council?"
+  - "Which specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Mo Salih's meeting attendance compare to other council members during overlapping terms of service?"
 ---
 
 ## Terms of Service

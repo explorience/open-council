@@ -14,8 +14,8 @@ participationRate: 94.1
 yeaRate: 92.4
 prefillQuestions:
   - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 640 meetings compare to other council members over the same time period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "How does her voting record align on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What has been her attendance rate and participation level in committee meetings versus full council sessions?"
 ---
 
 ## Terms of Service

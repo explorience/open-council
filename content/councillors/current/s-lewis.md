@@ -13,9 +13,9 @@ attendanceRate: 55.1
 participationRate: 93.2
 yeaRate: 94.2
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How often has Shawn Lewis sponsored or introduced motions during council meetings, and what topics did these motions address?"
-  - "What specific committees has Shawn Lewis served on, and what leadership roles, if any, have they held within these committees?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "How does Shawn Lewis's voting record align on key municipal issues such as budget approvals, development projects, and public services?"
+  - "What has been Shawn Lewis's attendance rate and participation level in committee meetings compared to regular council meetings?"
 ---
 
 ## Terms of Service

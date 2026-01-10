@@ -13,9 +13,9 @@ attendanceRate: 48.5
 participationRate: 86.4
 yeaRate: 91.8
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting record on key municipal issues during their time on council?"
-  - "Which specific committees has McAlister served on and what role did they play in committee work?"
-  - "How does McAlister's meeting attendance rate compare to other council members during the same period?"
+  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
+  - "What is Hadleigh McAlister's voting record on key municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "How does Hadleigh McAlister's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

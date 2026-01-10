@@ -13,9 +13,9 @@ attendanceRate: 58.3
 participationRate: 100.0
 yeaRate: 93.3
 prefillQuestions:
-  - "What was Harold Usher's attendance rate at council meetings compared to other councillors during his time in office?"
-  - "Which specific committees did Harold Usher serve on and what were his key contributions to those committees?"
-  - "How did Harold Usher vote on major municipal issues and bylaws during his 2011-2018 tenure?"
+  - "What was Harold Usher's voting record on key municipal issues during his 2011-2018 tenure?"
+  - "Which specific committees did he serve on and what were his roles or contributions to those committees?"
+  - "How did his attendance rate of 403 meetings compare to other council members during the same period?"
 ---
 
 ## Terms of Service

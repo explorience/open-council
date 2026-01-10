@@ -13,9 +13,9 @@ attendanceRate: 59.7
 participationRate: 78.4
 yeaRate: 96.2
 prefillQuestions:
-  - "What was Ed Holder's voting record on key municipal issues like budget approvals, development projects, and transportation initiatives?"
-  - "How frequently did he miss scheduled council and committee meetings, and what was his overall attendance rate?"
-  - "Did he take leadership roles on any committees or sponsor significant motions or initiatives during his time on council?"
+  - "What was Ed Holder's voting record on major municipal issues such as budget approvals, development projects, or policy changes during his 2018-2022 term?"
+  - "Which specific committees did Ed Holder serve on, and what was his attendance rate for committee meetings versus full council meetings?"
+  - "How did Ed Holder's meeting attendance rate compare to other council members during the same period, and were there any notable absences from key votes or discussions?"
 ---
 
 ## Terms of Service

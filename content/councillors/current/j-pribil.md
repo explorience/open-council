@@ -13,9 +13,9 @@ attendanceRate: 51.5
 participationRate: 92.5
 yeaRate: 90.9
 prefillQuestions:
-  - "What specific committees has Jerry Pribil served on during their tenure, and what are their primary responsibilities on each?"
-  - "How does Jerry Pribil's meeting attendance record of 212 meetings compare to other council members during the same 2022-2025 period?"
-  - "What has been Jerry Pribil's voting pattern on major municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "How does his meeting attendance rate compare to other council members during the same period?"
+  - "Which specific committees has he served on and what role has he played in their key decisions and recommendations?"
 ---
 
 ## Terms of Service

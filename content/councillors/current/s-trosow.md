@@ -13,9 +13,9 @@ attendanceRate: 49.0
 participationRate: 88.7
 yeaRate: 82.4
 prefillQuestions:
-  - "What specific committees has Sam Trosow served on during their 2022-2025 term?"
-  - "How does Sam Trosow's meeting attendance rate compare to other London City Council members?"
-  - "What has been Sam Trosow's voting pattern on major city issues and budget decisions?"
+  - "What specific committees has Sam Trosow served on during their time on London City Council?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Sam Trosow's voting pattern on major city issues and budget matters?"
 ---
 
 ## Terms of Service

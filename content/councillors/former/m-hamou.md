@@ -13,9 +13,9 @@ attendanceRate: 30.1
 participationRate: 60.0
 yeaRate: 0.0
 prefillQuestions:
-  - "What was Mariam Hamou's voting record on key municipal issues during her 2021-2022 term?"
-  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
-  - "Did she sponsor or champion any particular pieces of legislation or municipal initiatives during her time on council?"
+  - "What was Mariam Hamou's voting record on major municipal issues and bylaws during her time on council?"
+  - "Which specific committees did she serve on, and what was her attendance rate for committee meetings versus general council meetings?"
+  - "How did her participation and voting patterns compare to other council members during the 2021-2022 period?"
 ---
 
 ## Terms of Service

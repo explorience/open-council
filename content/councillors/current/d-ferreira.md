@@ -13,9 +13,9 @@ attendanceRate: 49.8
 participationRate: 90.7
 yeaRate: 88.2
 prefillQuestions:
-  - "What is David Ferreira's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has David Ferreira served on and what policy areas do they cover?"
-  - "Has David Ferreira missed any significant votes or council meetings, and were there documented reasons for any absences?"
+  - "What is David Ferreira's voting attendance rate compared to other council members, and has he missed any significant votes?"
+  - "Which specific committees has he served on, and what role (chair, vice-chair, or member) has he held on each?"
+  - "How does his meeting attendance record of 208 meetings compare to the total number of meetings held during his term?"
 ---
 
 ## Terms of Service

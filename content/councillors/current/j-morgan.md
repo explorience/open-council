@@ -13,9 +13,9 @@ attendanceRate: 50.8
 participationRate: 88.0
 yeaRate: 94.2
 prefillQuestions:
-  - "What is Josh Morgan's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
-  - "How frequently has he voted with the majority versus taking minority positions on council decisions?"
-  - "Which committees has Josh Morgan served on during his tenure, and has he held any leadership roles such as committee chair or vice-chair positions?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
 ## Terms of Service
