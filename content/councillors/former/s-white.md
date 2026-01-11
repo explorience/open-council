@@ -13,9 +13,9 @@ attendanceRate: 56.7
 participationRate: 100.0
 yeaRate: 91.4
 prefillQuestions:
-  - "What was Sandy White's voting pattern on key municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their attendance record for committee meetings?"
-  - "How did Sandy White's meeting attendance compare to other council members during the same period?"
+  - "What was Sandy White's voting record on major city issues during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on and what was their role or contribution to those committees?"
+  - "What was Sandy White's attendance rate compared to other council members during the same period?"
 ---
 
 ## Terms of Service

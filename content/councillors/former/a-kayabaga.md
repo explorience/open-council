@@ -13,9 +13,9 @@ attendanceRate: 41.4
 participationRate: 93.8
 yeaRate: 95.2
 prefillQuestions:
-  - "What was Arielle Kayabaga's voting attendance rate and were there any notable absences during key votes?"
-  - "Which specific committees did she serve on and did she hold any leadership positions such as chair or vice-chair roles?"
-  - "How did her voting patterns align with other council members, and were there particular issues where she frequently voted differently from the majority?"
+  - "What specific committees did Arielle Kayabaga serve on during her time on London City Council?"
+  - "What was her voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does her meeting attendance rate of 180 meetings compare to other council members who served during the same 2018-2021 period?"
 ---
 
 ## Terms of Service

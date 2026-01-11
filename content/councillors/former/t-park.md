@@ -13,9 +13,9 @@ attendanceRate: 44.4
 participationRate: 99.4
 yeaRate: 95.8
 prefillQuestions:
-  - "What was Tanya Park's voting attendance rate and how often did she vote with the majority on key issues?"
-  - "Which specific committees did she serve on and did she hold any chair or vice-chair positions?"
-  - "How did her meeting attendance compare to other council members during the 2014-2018 term?"
+  - "What was Tanya Park's voting record on major budget decisions during her 2014-2018 term?"
+  - "Which specific committees did she serve on and what were her key contributions to each committee's work?"
+  - "How did her attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

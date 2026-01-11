@@ -13,9 +13,9 @@ attendanceRate: 58.0
 participationRate: 96.3
 yeaRate: 94.5
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues during their 8-year tenure?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions within those committees?"
-  - "How did Jesse Helmer's meeting attendance rate compare to other council members during the same period?"
+  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Jesse Helmer serve on and what were their primary areas of focus or expertise?"
+  - "Did Jesse Helmer hold any leadership positions such as committee chair or deputy mayor during their time on council?"
 ---
 
 ## Terms of Service

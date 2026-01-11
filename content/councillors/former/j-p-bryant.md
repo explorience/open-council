@@ -13,9 +13,9 @@ attendanceRate: 58.3
 participationRate: 100.0
 yeaRate: 91.4
 prefillQuestions:
-  - "What was Judy Bryant's voting record on major budget decisions during her 2011-2014 term?"
-  - "Which specific committees did Judy Bryant serve on and what was her attendance rate for each committee?"
-  - "How did Judy Bryant vote on key development and zoning issues that came before council during her time in office?"
+  - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her role or contribution to each?"
+  - "How did her meeting attendance rate of 168 meetings compare to other council members during the same period?"
 ---
 
 ## Terms of Service

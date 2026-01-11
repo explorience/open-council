@@ -4,14 +4,14 @@ type: committee
 slug: "budget"
 meetingCount: 23
 prefillQuestions:
-  - "How can residents participate in the Budget Committee's public meetings and provide input on spending priorities?"
-  - "What is the timeline for the multi-year budget process and when are key decisions made that affect property taxes and city services?"
-  - "How does the Budget Committee prioritize competing demands for funding between different city departments and community needs?"
+  - "How can residents participate in the budget process and provide input on spending priorities during the public participation meetings?"
+  - "What is the timeline for the multi-year budget approval process, and when are final decisions typically made that affect the upcoming fiscal year?"
+  - "Where can citizens access detailed budget documents and committee meeting minutes to understand how their tax dollars are being allocated across different city services and projects?"
 ---
 
-The Budget Committee of London City Council serves as a specialized body responsible for reviewing, analyzing, and making recommendations on the city's financial planning and budget allocation. Based on the meeting records, this committee handles both annual budget cycles and multi-year budget planning, as evidenced by their work on the 2024-2027 Multi-Year Budget that required multiple continuation meetings due to the complexity and scope of the financial planning involved. The committee appears to meet regularly throughout the budget cycle, with some meetings requiring extensions or continuations to thoroughly examine budget proposals and financial priorities.
+The Budget Committee of London City Council serves as a specialized body responsible for reviewing, analyzing, and making recommendations on the city's financial planning and budget allocation. Based on the meeting records, this committee plays a central role in developing multi-year budget frameworks, with recent focus on the 2024-2027 Multi-Year Budget cycle. The committee conducts thorough deliberations that often require continuation meetings due to the complexity and scope of municipal financial matters, and their work culminates in recommendations that proceed to full City Council for final approval.
 
-The committee plays a crucial role in municipal governance by providing detailed oversight of public spending and ensuring fiscal responsibility in city operations. Their work includes examining budget updates, reviewing departmental funding requests, and facilitating public participation in the budget process through dedicated public meetings. The committee's recommendations are then forwarded to City Council for final approval, making them a key intermediary between city administration, public input, and final budget decisions. This structure allows for thorough examination of complex financial matters before they reach the full council for voting.
+The committee addresses a wide range of municipal financial issues including annual budget reviews, budget updates throughout the fiscal year, and public participation processes that allow citizen input on budget priorities. Their responsibilities span all aspects of city operations from infrastructure and services to long-term financial planning. The frequency and continuation of meetings demonstrates the detailed scrutiny applied to budget proposals, ensuring responsible stewardship of taxpayer funds while balancing competing priorities for municipal services, capital projects, and operational needs across all city departments.
 
 ## Recent Meetings
 

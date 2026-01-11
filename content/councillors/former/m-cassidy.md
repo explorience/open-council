@@ -13,9 +13,9 @@ attendanceRate: 53.1
 participationRate: 96.2
 yeaRate: 96.0
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major budget decisions and tax increases during her time on council?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair?"
-  - "How did her attendance rate of 536 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
+  - "What was Maureen Cassidy's attendance rate compared to other council members during her time in office?"
+  - "Which specific committees did she serve on and what roles did she hold on those committees?"
+  - "How did she vote on major city issues such as budget approvals, development projects, or policy changes during her 2014-2022 tenure?"
 ---
 
 ## Terms of Service

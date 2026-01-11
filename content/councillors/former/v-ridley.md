@@ -13,9 +13,9 @@ attendanceRate: 42.1
 participationRate: 98.2
 yeaRate: 96.4
 prefillQuestions:
-  - "What was Virginia Ridley's attendance rate compared to other council members during her 2014-2018 term?"
-  - "Which specific committees did Virginia Ridley serve on and what were her primary areas of focus?"
-  - "How did Virginia Ridley vote on major municipal issues and bylaws during her time on council?"
+  - "What was Virginia Ridley's attendance rate as a percentage of total possible meetings during her 2014-2018 term?"
+  - "Which specific committees did Virginia Ridley serve on and what were her roles or positions within those committees?"
+  - "How did Virginia Ridley vote on major municipal issues and bylaws during her time on London City Council?"
 ---
 
 ## Terms of Service

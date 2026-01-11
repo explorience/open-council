@@ -13,9 +13,9 @@ attendanceRate: 48.5
 participationRate: 91.4
 yeaRate: 90.4
 prefillQuestions:
-  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
-  - "How does Peter Cuddy's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Peter Cuddy's voting pattern on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
+  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees has Peter Cuddy served on and what are his key areas of focus?"
+  - "How has Peter Cuddy voted on major municipal issues such as budget approvals, development proposals, or policy changes during his term?"
 ---
 
 ## Terms of Service

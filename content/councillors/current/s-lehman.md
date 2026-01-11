@@ -13,9 +13,9 @@ attendanceRate: 44.9
 participationRate: 91.2
 yeaRate: 93.9
 prefillQuestions:
-  - "What is Steve Lehman's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How often has he missed council meetings or committee sessions, and what is his overall attendance rate compared to other council members?"
-  - "Has he introduced any motions or initiatives during his time on council, and what were the outcomes of his proposals?"
+  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "Which specific committees has Steve Lehman served on, and what was his attendance rate and level of participation in committee work?"
+  - "How often has Steve Lehman introduced motions or amendments during council meetings, and what topics did they address?"
 ---
 
 ## Terms of Service

@@ -13,9 +13,9 @@ attendanceRate: 46.0
 participationRate: 100.0
 yeaRate: 93.0
 prefillQuestions:
-  - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the 2011-2014 period?"
-  - "Which specific committees did Joe Fontana serve on and what were his key contributions or leadership roles within those committees?"
-  - "How did Joe Fontana vote on major municipal issues and budget decisions during his time on London City Council?"
+  - "What was Joe Fontana's voting pattern on major budget decisions during his 2011-2014 term?"
+  - "Which specific committees did Joe Fontana serve on and what was his attendance record for each committee?"
+  - "How did Joe Fontana's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

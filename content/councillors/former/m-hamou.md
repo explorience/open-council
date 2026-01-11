@@ -13,9 +13,9 @@ attendanceRate: 30.1
 participationRate: 60.0
 yeaRate: 0.0
 prefillQuestions:
-  - "What was Mariam Hamou's voting record on major municipal issues and bylaws during her time on council?"
-  - "Which specific committees did she serve on, and what was her attendance rate for committee meetings versus general council meetings?"
-  - "How did her participation and voting patterns compare to other council members during the 2021-2022 period?"
+  - "Which specific committees did Mariam Hamou serve on during her time on London City Council?"
+  - "What was her voting record on key municipal issues that came before council during 2021-2022?"
+  - "How does her meeting attendance rate of 71 meetings compare to other council members during the same period?"
 ---
 
 ## Terms of Service

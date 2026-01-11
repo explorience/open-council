@@ -13,9 +13,9 @@ attendanceRate: 48.7
 participationRate: 92.3
 yeaRate: 93.3
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how often does he vote with the majority versus in opposition on key issues?"
-  - "Which specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
-  - "How does Steve Hillier's meeting attendance record compare to other council members during the same time period?"
+  - "What is Steve Hillier's voting record on major municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "How frequently does he speak during council meetings and what topics does he most commonly address?"
+  - "What is his attendance rate for committee meetings compared to general council meetings, and has his participation level changed over his years of service?"
 ---
 
 ## Terms of Service

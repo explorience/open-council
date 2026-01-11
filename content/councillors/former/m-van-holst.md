@@ -13,9 +13,9 @@ attendanceRate: 45.3
 participationRate: 95.2
 yeaRate: 95.6
 prefillQuestions:
-  - "What was Michael van Holst's voting record on key municipal issues such as budget approvals, development projects, and tax increases during his tenure?"
-  - "How frequently did he introduce motions or amendments, and what was his success rate in getting them passed by council?"
-  - "What were his attendance rates for the specific committees he served on, and did he hold any leadership positions such as committee chair or vice-chair?"
+  - "What was Michael van Holst's voting alignment with other council members on major municipal issues during his tenure?"
+  - "How did his committee participation and attendance rates compare to other London City councillors serving during the same period?"
+  - "What were the key policy areas or municipal files where van Holst took leading roles or expressed strong positions during council debates?"
 ---
 
 ## Terms of Service

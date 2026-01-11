@@ -13,9 +13,9 @@ attendanceRate: 34.2
 participationRate: 80.0
 yeaRate: 100.0
 prefillQuestions:
-  - "What was John Fyfe-Millar's voting record on key municipal issues during their time on council?"
-  - "Which specific committees did they serve on and what was their level of participation in committee work?"
-  - "How did their meeting attendance rate compare to other council members during the 2021-2022 period?"
+  - "What was John Fyfe-Millar's voting record on key municipal issues during his 2021-2022 term?"
+  - "Which specific committees did he serve on and what was his attendance record for committee meetings?"
+  - "Did he sponsor or champion any particular motions or initiatives during his time on council?"
 ---
 
 ## Terms of Service

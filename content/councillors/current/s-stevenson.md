@@ -14,8 +14,8 @@ participationRate: 86.0
 yeaRate: 82.2
 prefillQuestions:
   - "What specific committees has Susan Stevenson served on during her time on London City Council?"
-  - "How does her meeting attendance record of 178 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "How does her meeting attendance rate of 178 meetings compare to other council members or the expected number of meetings during her term?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
 ## Terms of Service
