@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 10.3
 contestedVotes: 2235
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "How does Shawn Lewis's voting record align on key municipal issues such as budget approvals, development projects, and public services?"
+  - "What has been Shawn Lewis's attendance rate and participation level in committee meetings compared to regular council meetings?"
 ---
 
 ## Terms of Service

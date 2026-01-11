@@ -4,12 +4,14 @@ type: committee
 slug: "community-protective-services"
 meetingCount: 196
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific services and departments fall under the Community and Protective Services Committee's jurisdiction, and how do they coordinate with other city committees?"
+  - "How can residents provide input or present concerns to the committee about community safety, social services, or emergency services in their neighborhoods?"
+  - "What are the committee's current priority initiatives and how is the effectiveness of community and protective services measured and reported to the public?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Community and Protective Services Committee is a standing committee of London City Council that oversees municipal services directly impacting residents' safety, well-being, and quality of life. This committee typically handles matters related to emergency services (fire, paramedic, and emergency management), social services, housing programs, public health initiatives, community safety programs, and protective services such as bylaw enforcement. As one of the key operational committees of city council, it serves as a forum for reviewing policies, budgets, and service delivery models for these essential municipal functions.
+
+The committee plays a crucial role in city governance by making recommendations to City Council on service levels, funding allocations, and policy directions for community and protective services. With 196 meetings held to date, including both regular and special meetings, the committee demonstrates the ongoing nature of municipal service oversight. Members review staff reports, hear public input, and deliberate on issues ranging from emergency response capacity and social housing strategies to public health programs and community safety initiatives, ensuring these vital services meet the evolving needs of London's residents.
 
 ## Recent Meetings
 

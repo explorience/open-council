@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 8.9
 contestedVotes: 2987
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Bud Polhill's voting record on major budget decisions during their 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings?"
+  - "How did Polhill vote on key infrastructure or development proposals that came before council during their tenure?"
 ---
 
 ## Terms of Service

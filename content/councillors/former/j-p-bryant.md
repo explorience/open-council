@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 10.3
 contestedVotes: 2215
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Judy Bryant's voting record on major budget decisions during her 2011-2014 term?"
+  - "Which specific committees did Judy Bryant serve on and what was her attendance rate for each committee?"
+  - "How did Judy Bryant vote on key development and zoning issues that came before council during her time in office?"
 ---
 
 ## Terms of Service

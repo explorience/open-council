@@ -15,9 +15,9 @@ yeaRate: 94.9
 contestedDissentRate: 3.5
 contestedVotes: 1578
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Jared Zaifman's voting attendance rate and did he miss any significant votes during his 2014-2018 term?"
+  - "Which four committees did Zaifman serve on and what roles did he hold on those committees?"
+  - "How did Zaifman typically vote on major city issues like budget approvals, development projects, and policy initiatives during his council term?"
 ---
 
 ## Terms of Service

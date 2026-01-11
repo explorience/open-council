@@ -15,9 +15,9 @@ yeaRate: 89.9
 contestedDissentRate: 10.9
 contestedVotes: 2090
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Nancy Branscombe's voting record on major municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair?"
+  - "Did she run for re-election after her 2011-2014 term, and if so, what was the outcome?"
 ---
 
 ## Terms of Service

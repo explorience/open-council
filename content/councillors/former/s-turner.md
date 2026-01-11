@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.6
 contestedVotes: 3570
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Stephen Turner's voting pattern on key budget decisions during his eight years on council?"
+  - "How frequently did Turner vote with the majority versus taking dissenting positions on council matters?"
+  - "Which specific committees did Turner serve on, and what was his attendance rate for committee meetings compared to regular council meetings?"
 ---
 
 ## Terms of Service

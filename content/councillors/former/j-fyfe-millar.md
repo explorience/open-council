@@ -15,9 +15,9 @@ yeaRate: 100.0
 contestedDissentRate: 0.0
 contestedVotes: 0
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was John Fyfe-Millar's voting record on key municipal issues during their time on council?"
+  - "Which specific committees did they serve on and what was their level of participation in committee work?"
+  - "How did their meeting attendance rate compare to other council members during the 2021-2022 period?"
 ---
 
 ## Terms of Service

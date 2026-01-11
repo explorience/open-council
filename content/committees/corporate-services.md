@@ -4,12 +4,14 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific infrastructure projects and corporate service improvements has this committee approved in the current budget year, and what is the timeline for implementation?"
+  - "How does the Infrastructure and Corporate Services Committee coordinate with other city committees and departments to ensure efficient service delivery and avoid duplication of efforts?"
+  - "What opportunities exist for public input on the committee's decisions, particularly regarding infrastructure investments and changes to corporate policies that affect city services?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that plays a crucial role in municipal governance by overseeing the city's operational infrastructure and internal administrative functions. This committee typically handles matters related to municipal facilities, technology services, human resources policies, financial management, procurement processes, and corporate governance issues. As one of the key committees in London's council structure, it serves as a forum for reviewing and making recommendations on policies and decisions that affect how the city operates internally and delivers services to residents.
+
+The committee addresses a wide range of issues including budget allocations for city departments, information technology upgrades and cybersecurity measures, municipal building maintenance and capital projects, staff compensation and benefits, risk management, and compliance with provincial regulations. With 280 meetings held to date, this committee demonstrates the ongoing nature of municipal administration, regularly reviewing operational challenges and strategic initiatives that keep the city functioning effectively. The recent transition in naming from "Corporate Services Committee" to "Infrastructure and Corporate Services Committee" suggests an expanded or refined mandate that places additional emphasis on infrastructure-related matters alongside traditional corporate governance responsibilities.
 
 ## Recent Meetings
 

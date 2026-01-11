@@ -15,9 +15,9 @@ yeaRate: 95.6
 contestedDissentRate: 6.6
 contestedVotes: 3893
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Michael van Holst's voting record on key municipal issues such as budget approvals, development projects, and tax increases during his tenure?"
+  - "How frequently did he introduce motions or amendments, and what was his success rate in getting them passed by council?"
+  - "What were his attendance rates for the specific committees he served on, and did he hold any leadership positions such as committee chair or vice-chair?"
 ---
 
 ## Terms of Service

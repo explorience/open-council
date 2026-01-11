@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 23.3
 contestedVotes: 1212
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Skylar Franke served on during their time on London City Council?"
+  - "How does Franke's meeting attendance rate of 179 meetings compare to other council members or the expected number of meetings during this period?"
+  - "What has been Franke's voting pattern on key municipal issues and budget decisions during their 2022-2025 term?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 96.2
 contestedDissentRate: 8.2
 contestedVotes: 777
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Ed Holder's voting record on major municipal issues such as budget approvals, development projects, or policy changes during his 2018-2022 term?"
+  - "Which specific committees did Ed Holder serve on, and what was his attendance rate for committee meetings versus full council meetings?"
+  - "How did Ed Holder's meeting attendance rate compare to other council members during the same period, and were there any notable absences from key votes or discussions?"
 ---
 
 ## Terms of Service

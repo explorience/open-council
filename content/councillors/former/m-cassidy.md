@@ -15,9 +15,9 @@ yeaRate: 96.0
 contestedDissentRate: 4.5
 contestedVotes: 4806
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Maureen Cassidy's voting record on major budget decisions and tax increases during her time on council?"
+  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair?"
+  - "How did her attendance rate of 536 meetings compare to other council members during the same period, and were there any notable absences during key votes?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 92.1
 contestedDissentRate: 10.0
 contestedVotes: 2640
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Joni Baechler's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Baechler serve on and what role did they play in committee decisions?"
+  - "How did Baechler's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

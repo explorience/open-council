@@ -15,9 +15,9 @@ yeaRate: 89.7
 contestedDissentRate: 11.6
 contestedVotes: 2416
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus full council meetings?"
+  - "How did Henderson's meeting attendance compare to other council members during the same period?"
 ---
 
 ## Terms of Service

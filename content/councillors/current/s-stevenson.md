@@ -15,9 +15,9 @@ yeaRate: 82.2
 contestedDissentRate: 35.7
 contestedVotes: 1160
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
+  - "How does her meeting attendance record of 178 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
 ## Terms of Service

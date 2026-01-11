@@ -15,9 +15,9 @@ yeaRate: 92.4
 contestedDissentRate: 16.3
 contestedVotes: 1898
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other London City Council members?"
+  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on each?"
+  - "How has her committee participation changed over her years of service from 2018-2025?"
 ---
 
 ## Terms of Service

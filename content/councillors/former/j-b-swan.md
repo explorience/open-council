@@ -15,9 +15,9 @@ yeaRate: 90.2
 contestedDissentRate: 9.1
 contestedVotes: 2232
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Joe Swan's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "Did Joe Swan sponsor or champion any particular motions, bylaws, or initiatives during his time on council, and what was the outcome of those proposals?"
 ---
 
 ## Terms of Service

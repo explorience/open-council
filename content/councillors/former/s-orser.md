@@ -15,9 +15,9 @@ yeaRate: 85.3
 contestedDissentRate: 13.6
 contestedVotes: 2074
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Stephen Orser's voting record on major budget decisions during his 2011-2014 term?"
+  - "Which specific committees did Orser serve on and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "How did Orser vote on key development or infrastructure projects that came before council during his tenure?"
 ---
 
 ## Terms of Service

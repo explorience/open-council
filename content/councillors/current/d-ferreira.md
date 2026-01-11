@@ -15,9 +15,9 @@ yeaRate: 88.2
 contestedDissentRate: 26.2
 contestedVotes: 1151
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is David Ferreira's voting attendance rate compared to other council members, and has he missed any significant votes?"
+  - "Which specific committees has he served on, and what role (chair, vice-chair, or member) has he held on each?"
+  - "How does his meeting attendance record of 208 meetings compare to the total number of meetings held during his term?"
 ---
 
 ## Terms of Service

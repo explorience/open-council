@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 15.1
 contestedVotes: 1217
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
+  - "What is Hadleigh McAlister's voting record on key municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "How does Hadleigh McAlister's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

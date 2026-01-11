@@ -15,9 +15,9 @@ yeaRate: 90.4
 contestedDissentRate: 11.5
 contestedVotes: 1269
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Peter Cuddy served on during his time on London City Council?"
+  - "How does Peter Cuddy's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Peter Cuddy's voting pattern on key municipal issues such as budget approvals, development proposals, or policy initiatives?"
 ---
 
 ## Terms of Service

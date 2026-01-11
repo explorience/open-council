@@ -15,9 +15,9 @@ yeaRate: 93.3
 contestedDissentRate: 15.2
 contestedVotes: 1923
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Steve Hillier's voting attendance rate and how often does he vote with the majority versus in opposition on key issues?"
+  - "Which specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
+  - "How does Steve Hillier's meeting attendance record compare to other council members during the same time period?"
 ---
 
 ## Terms of Service

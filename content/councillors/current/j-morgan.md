@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 5.3
 contestedVotes: 5245
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, or policy initiatives?"
 ---
 
 ## Terms of Service

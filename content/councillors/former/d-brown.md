@@ -15,9 +15,9 @@ yeaRate: 90.4
 contestedDissentRate: 9.8
 contestedVotes: 2048
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Denise Brown's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus full council meetings?"
+  - "Did she sponsor or champion any particular motions or initiatives during her time on council?"
 ---
 
 ## Terms of Service

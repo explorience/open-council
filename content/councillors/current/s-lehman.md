@@ -15,9 +15,9 @@ yeaRate: 93.9
 contestedDissentRate: 10.2
 contestedVotes: 2024
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Steve Lehman's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How often has he missed council meetings or committee sessions, and what is his overall attendance rate compared to other council members?"
+  - "Has he introduced any motions or initiatives during his time on council, and what were the outcomes of his proposals?"
 ---
 
 ## Terms of Service

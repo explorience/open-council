@@ -15,9 +15,9 @@ yeaRate: 96.4
 contestedDissentRate: 3.7
 contestedVotes: 3044
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Virginia Ridley's attendance rate compared to other council members during her 2014-2018 term?"
+  - "Which specific committees did Virginia Ridley serve on and what were her primary areas of focus?"
+  - "How did Virginia Ridley vote on major municipal issues and bylaws during her time on council?"
 ---
 
 ## Terms of Service

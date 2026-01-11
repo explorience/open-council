@@ -15,9 +15,9 @@ yeaRate: 86.9
 contestedDissentRate: 22.9
 contestedVotes: 3841
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
+  - "How does his meeting attendance rate of 499 meetings compare to other council members serving similar terms?"
+  - "What has been his voting pattern on major city issues such as budget approvals, development projects, or infrastructure investments?"
 ---
 
 ## Terms of Service

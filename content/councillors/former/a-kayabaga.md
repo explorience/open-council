@@ -15,9 +15,9 @@ yeaRate: 95.2
 contestedDissentRate: 16.9
 contestedVotes: 497
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Arielle Kayabaga's voting attendance rate and were there any notable absences during key votes?"
+  - "Which specific committees did she serve on and did she hold any leadership positions such as chair or vice-chair roles?"
+  - "How did her voting patterns align with other council members, and were there particular issues where she frequently voted differently from the majority?"
 ---
 
 ## Terms of Service

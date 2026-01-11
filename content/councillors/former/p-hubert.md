@@ -15,9 +15,9 @@ yeaRate: 93.1
 contestedDissentRate: 5.6
 contestedVotes: 6099
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Paul Hubert's voting record on major municipal issues such as budget approvals, development projects, and infrastructure initiatives during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Paul Hubert's meeting attendance rate compare to other council members during the same period, and were there any notable patterns in his participation?"
 ---
 
 ## Terms of Service

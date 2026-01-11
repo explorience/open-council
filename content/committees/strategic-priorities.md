@@ -4,12 +4,14 @@ type: committee
 slug: "strategic-priorities"
 meetingCount: 274
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific criteria determine which issues are assigned to the Strategic Priorities and Policy Committee versus other city committees?"
+  - "How can residents access meeting agendas, minutes, and provide public input to the Strategic Priorities and Policy Committee?"
+  - "What are the current major strategic initiatives or policy frameworks that this committee is actively working on for the City of London?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Strategic Priorities and Policy Committee serves as a key governance body for London City Council, functioning as a standing committee that addresses high-level municipal policy development and strategic planning initiatives. This committee typically handles comprehensive policy frameworks, long-term city planning, budget considerations, and major municipal priorities that require detailed examination before proceeding to full City Council. Given its substantial meeting history of 274 sessions, the committee demonstrates an active role in London's municipal decision-making process, reviewing complex issues that shape the city's direction and operations.
+
+The committee's work generally encompasses strategic policy development, interdepartmental coordination, and evaluation of significant municipal initiatives that align with the city's broader goals and priorities. This includes reviewing staff recommendations on major policy changes, assessing the implementation of strategic plans, monitoring progress on key city initiatives, and providing oversight on matters that require careful consideration before final council approval. The committee serves as an important intermediary step in London's governance structure, ensuring thorough analysis and public input on substantial policy matters.
 
 ## Recent Meetings
 

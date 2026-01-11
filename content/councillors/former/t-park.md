@@ -15,9 +15,9 @@ yeaRate: 95.8
 contestedDissentRate: 3.1
 contestedVotes: 3458
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Tanya Park's voting attendance rate and how often did she vote with the majority on key issues?"
+  - "Which specific committees did she serve on and did she hold any chair or vice-chair positions?"
+  - "How did her meeting attendance compare to other council members during the 2014-2018 term?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 90.9
 contestedDissentRate: 12.6
 contestedVotes: 1278
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "How does his meeting attendance rate compare to other council members during the same period?"
+  - "Which specific committees has he served on and what role has he played in their key decisions and recommendations?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 4.9
 contestedVotes: 5310
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Matt Brown's voting record on major budget decisions during his time on council from 2011-2018?"
+  - "How often did Matt Brown vote with or against the majority on contentious issues during council meetings?"
+  - "What specific committees did Matt Brown serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
 ---
 
 ## Terms of Service
