@@ -13,9 +13,9 @@ attendanceRate: 48.5
 participationRate: 91.4
 yeaRate: 90.4
 prefillQuestions:
-  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
-  - "Which specific committees has Peter Cuddy served on and what are his key areas of focus?"
-  - "How has Peter Cuddy voted on major municipal issues such as budget approvals, development proposals, or policy changes during his term?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout the 2022-2025 term?"
+  - "What specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
 ## Terms of Service

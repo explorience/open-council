@@ -14,8 +14,8 @@ participationRate: 93.2
 yeaRate: 94.2
 prefillQuestions:
   - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Shawn Lewis served on and what roles did they hold on those committees?"
-  - "What types of motions or initiatives has Shawn Lewis brought forward during their time on council?"
+  - "Which specific committees has Shawn Lewis served on and what policy areas do they cover?"
+  - "Has Shawn Lewis taken leadership roles on any committees or sponsored significant motions during their council tenure?"
 ---
 
 ## Terms of Service

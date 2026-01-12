@@ -13,9 +13,9 @@ attendanceRate: 48.9
 participationRate: 88.8
 yeaRate: 92.4
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council, and which areas of municipal policy has she been most involved with?"
-  - "How does her meeting attendance rate of 452 meetings compare to other council members serving during the same period?"
-  - "What has been her voting pattern on major city issues, and has she taken leadership roles on any particular initiatives or policy areas during her seven years of service?"
+  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 452 meetings compare to other council members serving similar terms?"
+  - "What has been her voting pattern on major city issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
 ## Terms of Service

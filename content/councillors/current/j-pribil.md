@@ -13,9 +13,9 @@ attendanceRate: 51.5
 participationRate: 92.5
 yeaRate: 90.9
 prefillQuestions:
-  - "What is Jerry Pribil's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees has Jerry Pribil served on, and what leadership roles, if any, has he held within those committees?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members, and has he missed any significant votes or discussions?"
+  - "What specific committees has Jerry Pribil served on during his time on London City Council?"
+  - "How does Jerry Pribil's meeting attendance rate compare to other council members?"
+  - "What has been Jerry Pribil's voting pattern on key municipal issues and bylaws during his tenure?"
 ---
 
 ## Terms of Service

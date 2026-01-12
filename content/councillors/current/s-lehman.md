@@ -13,9 +13,9 @@ attendanceRate: 44.9
 participationRate: 91.2
 yeaRate: 93.9
 prefillQuestions:
-  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
-  - "Which specific committees has Steve Lehman served on, and what was his attendance rate and level of participation in committee work?"
-  - "How often has Steve Lehman introduced motions or amendments during council meetings, and what topics did they address?"
+  - "What specific committees has Steve Lehman served on during his time on London City Council?"
+  - "What is Steve Lehman's voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Steve Lehman's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

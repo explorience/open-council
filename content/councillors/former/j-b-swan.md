@@ -13,9 +13,9 @@ attendanceRate: 52.1
 participationRate: 100.0
 yeaRate: 90.2
 prefillQuestions:
-  - "What was Joe Swan's attendance rate and did he miss any significant votes during his time on council?"
-  - "Which specific committees did Joe Swan serve on and what were his key contributions to each?"
-  - "How did Joe Swan typically vote on major municipal issues such as budget approvals, development projects, or policy changes during his 2011-2014 term?"
+  - "What was Joe Swan's voting record on key municipal issues during his 2011-2014 term?"
+  - "Which specific committees did Joe Swan serve on and what was his attendance rate for committee meetings?"
+  - "How did Joe Swan's meeting attendance record of 147 meetings compare to other council members during the same period?"
 ---
 
 ## Terms of Service

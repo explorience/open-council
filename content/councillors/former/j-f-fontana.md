@@ -13,9 +13,9 @@ attendanceRate: 46.0
 participationRate: 100.0
 yeaRate: 93.0
 prefillQuestions:
-  - "What was Joe Fontana's voting pattern on major budget decisions during his 2011-2014 term?"
-  - "Which specific committees did Joe Fontana serve on and what was his attendance record for each committee?"
-  - "How did Joe Fontana's meeting attendance rate compare to other council members during the same period?"
+  - "What was Joe Fontana's voting record on major municipal issues during his 2011-2014 term?"
+  - "Which specific committees did he serve on and what was his attendance rate for each committee?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

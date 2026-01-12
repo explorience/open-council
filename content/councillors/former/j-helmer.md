@@ -14,8 +14,8 @@ participationRate: 96.3
 yeaRate: 94.5
 prefillQuestions:
   - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Jesse Helmer serve on and what were their primary areas of focus or expertise?"
-  - "Did Jesse Helmer hold any leadership positions such as committee chair or deputy mayor during their time on council?"
+  - "Which specific committees did Jesse Helmer serve on and what roles did they hold within those committees?"
+  - "How did Jesse Helmer's participation patterns change between their first term (2014-2018) and second term (2018-2022)?"
 ---
 
 ## Terms of Service

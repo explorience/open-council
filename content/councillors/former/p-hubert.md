@@ -13,9 +13,9 @@ attendanceRate: 52.0
 participationRate: 99.5
 yeaRate: 93.1
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major municipal issues during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on and what were his roles or contributions to those committees?"
-  - "How did Paul Hubert's attendance rate compare to other council members during the same period?"
+  - "What was Paul Hubert's voting attendance rate and were there any notable absences during key votes or budget deliberations?"
+  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions during his tenure?"
+  - "How did Paul Hubert's voting patterns align with other council members, and were there particular issues where he frequently voted against the majority?"
 ---
 
 ## Terms of Service

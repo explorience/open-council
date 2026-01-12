@@ -13,9 +13,9 @@ attendanceRate: 51.3
 participationRate: 100.0
 yeaRate: 89.7
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major city issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus full council meetings?"
-  - "How did Henderson's meeting attendance compare to other council members during the same period?"
+  - "What was Dale Henderson's voting record on major budget decisions and tax increases during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on, and what was their attendance rate for committee meetings versus regular council meetings?"
+  - "How did Henderson vote on key development projects and zoning changes that came before council during their tenure?"
 ---
 
 ## Terms of Service

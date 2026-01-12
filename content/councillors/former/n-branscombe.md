@@ -14,8 +14,8 @@ participationRate: 100.0
 yeaRate: 89.9
 prefillQuestions:
   - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what roles did she play in committee work?"
-  - "How does her meeting attendance rate of 119 meetings compare to other council members during the same period?"
+  - "Which specific committees did she serve on and what roles did she play within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

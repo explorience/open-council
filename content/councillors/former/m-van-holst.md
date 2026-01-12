@@ -13,9 +13,9 @@ attendanceRate: 45.3
 participationRate: 95.2
 yeaRate: 95.6
 prefillQuestions:
-  - "What was Michael van Holst's voting alignment with other council members on major municipal issues during his tenure?"
-  - "How did his committee participation and attendance rates compare to other London City councillors serving during the same period?"
-  - "What were the key policy areas or municipal files where van Holst took leading roles or expressed strong positions during council debates?"
+  - "What was Michael van Holst's voting alignment with other council members on key municipal issues during his tenure?"
+  - "Which specific committees did he serve on and what leadership roles, if any, did he hold within those committees?"
+  - "How did his meeting attendance rate compare to other London City Council members during the same period?"
 ---
 
 ## Terms of Service

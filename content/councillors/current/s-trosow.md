@@ -13,9 +13,9 @@ attendanceRate: 49.0
 participationRate: 88.7
 yeaRate: 82.4
 prefillQuestions:
-  - "What is Sam Trosow's voting record on major city budget decisions and tax rate adjustments during their 2022-2025 term?"
-  - "How does Sam Trosow typically vote on development and planning applications, particularly regarding residential density and commercial projects?"
-  - "What has been Sam Trosow's stance on transit and infrastructure spending proposals that have come before London City Council?"
+  - "What specific committees has Sam Trosow served on during their time on London City Council?"
+  - "How does Sam Trosow's meeting attendance record of 209 meetings compare to other council members during the same period?"
+  - "What has been Sam Trosow's voting pattern on key municipal issues like budget approvals, development proposals, and policy initiatives?"
 ---
 
 ## Terms of Service

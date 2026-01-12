@@ -13,9 +13,9 @@ attendanceRate: 43.0
 participationRate: 100.0
 yeaRate: 85.3
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major city budgets and tax increases during his 2011-2014 term?"
-  - "Which specific committees did Orser serve on, and what was his attendance rate for committee meetings versus regular council sessions?"
-  - "Did Stephen Orser run for re-election after his 2011-2014 term, and if not, what were his stated reasons for leaving council?"
+  - "What was Stephen Orser's voting record on major budget decisions during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on, and what were his key contributions to those committees?"
+  - "How did Stephen Orser vote on significant development projects or zoning changes that came before council during his tenure?"
 ---
 
 ## Terms of Service

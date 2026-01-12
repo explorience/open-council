@@ -13,9 +13,9 @@ attendanceRate: 42.2
 participationRate: 91.6
 yeaRate: 91.4
 prefillQuestions:
-  - "What specific committees has Skylar Franke served on during their time on London City Council?"
-  - "What is Skylar Franke's voting record on major municipal issues and bylaws during their 2022-2025 term?"
-  - "How does Skylar Franke's meeting attendance rate compare to other council members during the same period?"
+  - "What is Skylar Franke's voting record on major budget decisions and tax rate changes during their 2022-2025 term?"
+  - "How often has Skylar Franke proposed or sponsored motions and resolutions at council meetings?"
+  - "What specific committees does Skylar Franke serve on and what role do they play in committee leadership or key decisions?"
 ---
 
 ## Terms of Service

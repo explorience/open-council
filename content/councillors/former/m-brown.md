@@ -13,9 +13,9 @@ attendanceRate: 44.9
 participationRate: 97.7
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Matt Brown's voting record on major municipal issues during his time on council?"
-  - "Which specific committees did he serve on and what roles did he hold within those committees?"
-  - "How did his meeting attendance rate compare to other council members during the 2011-2018 period?"
+  - "What was Matt Brown's voting attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
+  - "Which specific committees did Matt Brown serve on and what were his roles or leadership positions within those committees?"
+  - "What were the key motions or initiatives that Matt Brown sponsored or championed during his time on London City Council?"
 ---
 
 ## Terms of Service

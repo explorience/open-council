@@ -13,9 +13,9 @@ attendanceRate: 50.8
 participationRate: 88.0
 yeaRate: 94.2
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on council, and in what capacity?"
-  - "How does his meeting attendance rate of 654 meetings compare to other council members serving similar terms?"
-  - "What has been his voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council?"
+  - "What has been Josh Morgan's voting record on major city issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2014-2025 term?"
 ---
 
 ## Terms of Service

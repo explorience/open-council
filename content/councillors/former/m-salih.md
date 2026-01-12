@@ -13,9 +13,9 @@ attendanceRate: 39.0
 participationRate: 91.4
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Mo Salih serve on and what were their primary roles or contributions on those committees?"
-  - "Did Mo Salih sponsor or champion any particular pieces of legislation or policy initiatives during their time on council?"
+  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and public service initiatives?"
+  - "How often did Mo Salih miss scheduled council meetings, and what was their attendance rate compared to other council members?"
+  - "Which specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
 ## Terms of Service

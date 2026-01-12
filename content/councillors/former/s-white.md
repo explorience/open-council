@@ -13,9 +13,9 @@ attendanceRate: 56.7
 participationRate: 100.0
 yeaRate: 91.4
 prefillQuestions:
-  - "What was Sandy White's voting record on major city issues during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on and what was their role or contribution to those committees?"
-  - "What was Sandy White's attendance rate compared to other council members during the same period?"
+  - "What was Sandy White's voting record on major budget decisions during their 2011-2014 term?"
+  - "How did Sandy White vote on key development and planning issues that came before council?"
+  - "What positions did Sandy White take on transit and infrastructure projects during their time on council?"
 ---
 
 ## Terms of Service

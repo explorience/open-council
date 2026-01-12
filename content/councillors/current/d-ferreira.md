@@ -13,9 +13,9 @@ attendanceRate: 49.8
 participationRate: 90.7
 yeaRate: 88.2
 prefillQuestions:
-  - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "How does David Ferreira's meeting attendance rate compare to other council members during the same period?"
-  - "What has been David Ferreira's voting pattern on major municipal issues and budget decisions?"
+  - "What is David Ferreira's voting record on major municipal issues such as budget approvals, development applications, and infrastructure projects?"
+  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same period?"
+  - "What specific committees does he serve on, and has he taken any leadership roles such as committee chair or vice-chair positions?"
 ---
 
 ## Terms of Service

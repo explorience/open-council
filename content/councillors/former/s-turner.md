@@ -13,9 +13,9 @@ attendanceRate: 44.7
 participationRate: 91.4
 yeaRate: 94.0
 prefillQuestions:
-  - "What was Stephen Turner's voting record on key municipal issues during his eight years on council?"
-  - "Which specific committees did Stephen Turner serve on and what roles did he hold on those committees?"
-  - "How did Stephen Turner's attendance rate compare to other council members during his time in office?"
+  - "What was Stephen Turner's voting record on major city budget decisions during his 8 years on council?"
+  - "How often did Stephen Turner vote with the majority versus taking dissenting positions on key municipal issues?"
+  - "What specific committees did Stephen Turner chair or hold leadership positions on during his time on council?"
 ---
 
 ## Terms of Service

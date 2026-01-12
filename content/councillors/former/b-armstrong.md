@@ -13,9 +13,9 @@ attendanceRate: 36.6
 participationRate: 98.9
 yeaRate: 93.2
 prefillQuestions:
-  - "What was Bill Armstrong's voting attendance rate and how did it compare to other council members during his 2012-2018 term?"
-  - "Which specific committees did Bill Armstrong serve on and what were his key contributions or leadership roles within those committees?"
-  - "How did Bill Armstrong vote on major municipal issues such as budget approvals, development proposals, or policy changes during his time on council?"
+  - "What was Bill Armstrong's voting record on major budget decisions during his 2012-2018 term?"
+  - "Which specific committees did Armstrong serve on and what were his key contributions to those committees?"
+  - "How did Armstrong's attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

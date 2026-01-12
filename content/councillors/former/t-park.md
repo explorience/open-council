@@ -14,8 +14,8 @@ participationRate: 99.4
 yeaRate: 95.8
 prefillQuestions:
   - "What was Tanya Park's voting record on major budget decisions during her 2014-2018 term?"
-  - "Which specific committees did she serve on and what were her key contributions to each committee's work?"
-  - "How did her attendance rate compare to other council members during the same period?"
+  - "Which specific committees did she serve on and what leadership roles, if any, did she hold within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

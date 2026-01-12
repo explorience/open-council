@@ -13,9 +13,9 @@ attendanceRate: 46.8
 participationRate: 92.1
 yeaRate: 89.8
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
-  - "How does her meeting attendance record of 216 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues and budget decisions during her 2022-2025 term?"
+  - "What specific committees does Corrine Rahman serve on, and what policy areas do they cover?"
+  - "How does her meeting attendance rate of 216 meetings compare to other council members serving the same term?"
+  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy reforms?"
 ---
 
 ## Terms of Service

@@ -13,9 +13,9 @@ attendanceRate: 45.2
 participationRate: 99.1
 yeaRate: 93.9
 prefillQuestions:
-  - "What was Phil Squire's voting record on key municipal issues during their 2014-2021 tenure?"
-  - "Which specific committees did Phil Squire serve on and what roles did they hold on those committees?"
-  - "How does Phil Squire's meeting attendance rate of 372 meetings compare to other council members who served during the same period?"
+  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as committee chair or vice-chair?"
+  - "What were the key issues or policy areas that Phil Squire most frequently spoke about or voted on during council meetings?"
 ---
 
 ## Terms of Service
