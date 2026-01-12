@@ -6,7 +6,58 @@
     "present": 328,
     "absent": 567,
     "remote": 0,
-    "attendanceRate": 36.64804469273743
+    "attendanceRate": 36.64804469273743,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 0,
+        "meetingsAttended": 0,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 1.1363636363636365,
+        "meetingsAttended": 1,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 28.57142857142857,
+        "meetingsAttended": 40,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 44.696969696969695,
+        "meetingsAttended": 59,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 45.07042253521127,
+        "meetingsAttended": 64,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 45.89041095890411,
+        "meetingsAttended": 67,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 46.875,
+        "meetingsAttended": 60,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 35.23809523809524,
+        "meetingsAttended": 37,
+        "meetingsTotal": 105
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 4434,
@@ -14,8 +65,143 @@
     "nays": 298,
     "absent": 47,
     "participationRate": 98.94000902119981,
-    "yeaRate": 93.20720310006838
+    "yeaRate": 93.20720310006838,
+    "contestedDissentRate": 6.642335766423358,
+    "contestedVotes": 4110,
+    "substantiveVotes": 4259,
+    "substantiveYeas": 3936,
+    "substantiveNays": 298,
+    "substantiveParticipationRate": 99.41300774829772,
+    "substantiveYeaRate": 92.96173830892774
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 1001,
+    "budgetYeas": 832,
+    "budgetNays": 168,
+    "budgetAbsent": 1
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2018-11-20",
+      "meetingTitle": null,
+      "itemTitle": "(3.5) Application - 3080 Bostwick Road (Site 1) (OZ-8941), (3.6) Application - 3080 Bostwick Road (Site 3) (Z-8942), (3.7) Application - 3080 Bostwick Road (Site 5) (OZ-8943) ",
+      "motionText": "The motion related to the referral relating to Sites 1 and 5 is put.",
+      "vote": "yea",
+      "result": "Motion Failed (4 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-20",
+      "meetingTitle": null,
+      "itemTitle": "(3.5) Application - 3080 Bostwick Road (Site 1) (OZ-8941), (3.6) Application - 3080 Bostwick Road (Site 3) (Z-8942), (3.7) Application - 3080 Bostwick Road (Site 5) (OZ-8943) ",
+      "motionText": "The motion relating to the referral relating to Site 3 is put.",
+      "vote": "yea",
+      "result": "Motion Failed (4 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "(4.1) 5th Report of the Accessibility Advisory Committee",
+      "motionText": "The motion to approve part e) of Item 17, relating to the 5th Report of the ACCAC is put. e)            the following recommendation of the ACCAC BE REFERRED to the next meeting of the CPSC for consid...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "8th Report of the Strategic Priorities and Policy Committee",
+      "motionText": "That the following items from the 8th Report of the Strategic Priorities and Policy Committee BE REFERRED to the July 24, 2018 meeting of the Municipal Council to provide the members of the public an ...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-05-08",
+      "meetingTitle": null,
+      "itemTitle": "(2.1) Short Term Accommodations",
+      "motionText": "That Item 4.2 BE AMENDED in part c) to direct staff to hold a public participation meeting before the Community and Protective Services Committee on draft by-law amendments to a number of by-laws, to ...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d246efa1-5a31-4d4a-ad74-2e0440213cbb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-05-08",
+      "meetingTitle": null,
+      "itemTitle": "(3.3) Adult Live Entertainment Parlour - Location Substitution Request",
+      "motionText": "That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street ...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d246efa1-5a31-4d4a-ad74-2e0440213cbb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-05-01",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Adult Live Entertainment Parlour - Location Substitution Request",
+      "motionText": "That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street ...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b71e24b-f498-4eae-af55-aa07d7b7dfef&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-04-24",
+      "meetingTitle": null,
+      "itemTitle": "Public Consultation - Proposed Expansion of a Gaming Site",
+      "motionText": "Approve the introduction included in part b), as follows: b)            the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-04-23",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site",
+      "motionText": "Motion to approve that part b) commence with the words \"the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table game...",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-04-23",
+      "meetingTitle": null,
+      "itemTitle": "Bus Rapid Transit – Environmental Assessment Initiative ",
+      "motionText": "That the order of business BE CHANGED in order to permit Item 4.1 to be dealt with prior to Item 3.1.",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1806,
+      "yeas": 1690,
+      "nays": 78,
+      "participationRate": 97.89590254706533
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1587,
+      "yeas": 1374,
+      "nays": 205,
+      "participationRate": 99.49590422180215
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 780,
+      "yeas": 765,
+      "nays": 14,
+      "participationRate": 99.87179487179488
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 261,
+      "yeas": 260,
+      "nays": 1,
+      "participationRate": 100
+    }
+  ]
 }

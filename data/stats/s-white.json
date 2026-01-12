@@ -6,7 +6,34 @@
     "present": 212,
     "absent": 162,
     "remote": 0,
-    "attendanceRate": 56.68449197860963
+    "attendanceRate": 56.68449197860963,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 92.85714285714286,
+        "meetingsAttended": 13,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 86.36363636363636,
+        "meetingsAttended": 76,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 50.71428571428571,
+        "meetingsAttended": 71,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 39.39393939393939,
+        "meetingsAttended": 52,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2282,
@@ -14,8 +41,143 @@
     "nays": 196,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 91.41104294478528
+    "yeaRate": 91.41104294478528,
+    "contestedDissentRate": 9.333917616126206,
+    "contestedVotes": 2282,
+    "substantiveVotes": 2281,
+    "substantiveYeas": 2085,
+    "substantiveNays": 196,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 91.40727750986409
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 614,
+    "budgetYeas": 495,
+    "budgetNays": 119,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH\n  MEETING",
+      "itemTitle": "2015 Water and\n  Wastewater Rates",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-29",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Appointments to the\n  Striking Committee\n  and Appointment Process",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=76b13df1-bcbe-4deb-8aac-8285184c3e8b&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-29",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Appointments to the\n  Striking Committee\n  and Appointment Process",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=76b13df1-bcbe-4deb-8aac-8285184c3e8b&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-23",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-22",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-22",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Properties located\n  at 51 and 99 Exeter Road (OZ-8324)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 935,
+      "yeas": 876,
+      "nays": 59,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 680,
+      "yeas": 556,
+      "nays": 124,
+      "participationRate": 100
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 613,
+      "yeas": 603,
+      "nays": 10,
+      "participationRate": 100
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 54,
+      "yeas": 51,
+      "nays": 3,
+      "participationRate": 100
+    }
+  ]
 }

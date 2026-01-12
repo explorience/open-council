@@ -388,7 +388,7 @@ const testCases: DifficultTestCase[] = [
 describe('Difficult Questions Test Suite (50 questions)', { concurrency: false }, async () => {
   // Run tests sequentially with delay to avoid rate limiting
   for (const testCase of testCases) {
-    test(`[${testCase.id}] ${testCase.question} (${testCase.category})`, async (t) => {
+    test(`[${testCase.id}] ${testCase.question} (${testCase.category})`, async () => {
       // Add delay between tests
       await new Promise(resolve => setTimeout(resolve, 1500));
 

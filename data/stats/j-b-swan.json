@@ -6,7 +6,34 @@
     "present": 195,
     "absent": 179,
     "remote": 0,
-    "attendanceRate": 52.139037433155075
+    "attendanceRate": 52.139037433155075,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 78.57142857142857,
+        "meetingsAttended": 11,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 70.45454545454545,
+        "meetingsAttended": 62,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 45.714285714285715,
+        "meetingsAttended": 64,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 43.93939393939394,
+        "meetingsAttended": 58,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2232,
@@ -14,8 +41,136 @@
     "nays": 219,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 90.18817204301075
+    "yeaRate": 90.18817204301075,
+    "contestedDissentRate": 9.13978494623656,
+    "contestedVotes": 2232,
+    "substantiveVotes": 2229,
+    "substantiveYeas": 2011,
+    "substantiveNays": 218,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 90.21982951996411
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 756,
+    "budgetYeas": 612,
+    "budgetNays": 144,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-11-24",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Review of Acting\n  Mayor Policy",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8715d678-b972-43eb-89f9-f28c8679f936&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-10-07",
+      "meetingTitle": "Corporate Services Committee",
+      "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses\n  Policy 28(3)",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0fc443d-8f90-460d-934f-6bb2e9543794&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-10-07",
+      "meetingTitle": "Corporate Services Committee",
+      "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses\n  Policy 28(3)",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0fc443d-8f90-460d-934f-6bb2e9543794&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-29",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "1st Report of the\n  Governance Working Group",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=76b13df1-bcbe-4deb-8aac-8285184c3e8b&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1197,
+      "yeas": 1142,
+      "nays": 55,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 802,
+      "yeas": 645,
+      "nays": 157,
+      "participationRate": 100
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 233,
+      "yeas": 226,
+      "nays": 7,
+      "participationRate": 100
+    }
+  ]
 }

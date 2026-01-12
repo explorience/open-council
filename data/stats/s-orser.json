@@ -6,7 +6,34 @@
     "present": 161,
     "absent": 213,
     "remote": 0,
-    "attendanceRate": 43.04812834224599
+    "attendanceRate": 43.04812834224599,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 71.42857142857143,
+        "meetingsAttended": 10,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 54.54545454545454,
+        "meetingsAttended": 48,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 37.857142857142854,
+        "meetingsAttended": 53,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 37.878787878787875,
+        "meetingsAttended": 50,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2074,
@@ -14,8 +41,136 @@
     "nays": 305,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 85.29411764705883
+    "yeaRate": 85.29411764705883,
+    "contestedDissentRate": 13.596914175506269,
+    "contestedVotes": 2074,
+    "substantiveVotes": 2071,
+    "substantiveYeas": 1767,
+    "substantiveNays": 304,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 85.3211009174312
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 685,
+    "budgetYeas": 477,
+    "budgetNays": 208,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH\n  MEETING",
+      "itemTitle": "2015 Water and\n  Wastewater Rates",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-10-14",
+      "meetingTitle": "MINUTES 24TH MEETING",
+      "itemTitle": "Properties located at 51 and 99 Exeter Road\n  (OZ-8324)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-29",
+      "meetingTitle": "MINUTES 20TH MEETING",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-28",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Review of Council\n  Policy 5(1) - Process for the Appointment of an Acting Mayor",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-28",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Improvements to\n  Governance Model and Tracking Approved Projects",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-05-05",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1120,
+      "yeas": 1040,
+      "nays": 80,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 755,
+      "yeas": 535,
+      "nays": 220,
+      "participationRate": 100
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 199,
+      "yeas": 194,
+      "nays": 5,
+      "participationRate": 100
+    }
+  ]
 }

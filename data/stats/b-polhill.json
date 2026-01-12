@@ -6,7 +6,34 @@
     "present": 243,
     "absent": 131,
     "remote": 0,
-    "attendanceRate": 64.97326203208557
+    "attendanceRate": 64.97326203208557,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 64.28571428571429,
+        "meetingsAttended": 9,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 68.18181818181817,
+        "meetingsAttended": 60,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 66.42857142857143,
+        "meetingsAttended": 93,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 61.36363636363637,
+        "meetingsAttended": 81,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2987,
@@ -14,8 +41,143 @@
     "nays": 245,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 91.79779042517576
+    "yeaRate": 91.79779042517576,
+    "contestedDissentRate": 8.87177770338132,
+    "contestedVotes": 2987,
+    "substantiveVotes": 2984,
+    "substantiveYeas": 2740,
+    "substantiveNays": 244,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 91.82305630026809
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 704,
+    "budgetYeas": 558,
+    "budgetNays": 146,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH\n  MEETING",
+      "itemTitle": "2015 Water and\n  Wastewater Rates",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-11-24",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Council Benefits",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8715d678-b972-43eb-89f9-f28c8679f936&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-11-11",
+      "meetingTitle": "MINUTES 25TH MEETING",
+      "itemTitle": "Councillor R.\n  Monteith and Councillor N. Branscombe - Emergent Motion - Relocation of\n  Inaugural Council Meeting - December 1, 2014",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-10-14",
+      "meetingTitle": "MINUTES 24TH MEETING",
+      "itemTitle": "Property located at\n  50 King Street (Z-8372)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-10-07",
+      "meetingTitle": "Corporate Services Committee",
+      "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses\n  Policy 28(3)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0fc443d-8f90-460d-934f-6bb2e9543794&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-23",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-23",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-23",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1252,
+      "yeas": 1183,
+      "nays": 69,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 751,
+      "yeas": 590,
+      "nays": 161,
+      "participationRate": 100
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 728,
+      "yeas": 717,
+      "nays": 11,
+      "participationRate": 100
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 256,
+      "yeas": 252,
+      "nays": 4,
+      "participationRate": 100
+    }
+  ]
 }

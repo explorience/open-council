@@ -1,0 +1,322 @@
+@use "../../styles/variables.scss" as *;
+
+// ============================================
+// Unified Header - Sticky with scroll transition
+// ============================================
+
+// Hide the default search button since search is now in header
+// Keep the search-container (modal) visible for functionality
+.search .search-button {
+  display: none !important;
+}
+
+// Hide the default darkmode button since it's now in header
+// Keep the component to load the script
+.darkmode-container {
+  display: none !important;
+}
+
+.unified-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 56px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  box-sizing: border-box;
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+
+  // Default state: solid background
+  background-color: var(--light);
+  border-bottom: 1px solid var(--lightgray);
+
+  // Homepage transparent state (when at top, not scrolled)
+  body[data-slug="index"] &:not(.scrolled) {
+    background-color: transparent;
+    border-bottom-color: transparent;
+    box-shadow: none;
+  }
+
+  // Scrolled state - solid with subtle shadow
+  &.scrolled {
+    background-color: var(--light);
+    border-bottom: 1px solid var(--lightgray);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  @media all and ($mobile) {
+    height: 52px;
+    padding: 0 1rem;
+  }
+}
+
+// Body padding to account for fixed header
+body {
+  padding-top: 56px;
+
+  @media all and ($mobile) {
+    padding-top: 52px;
+  }
+}
+
+// ============================================
+// Header Left - Logo
+// ============================================
+
+.header-left {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--darkgray);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  white-space: nowrap;
+
+  &:hover {
+    color: var(--secondary);
+  }
+
+  @media all and ($mobile) {
+    font-size: 1.1rem;
+  }
+}
+
+.beta-tag {
+  font-size: 0.5em;
+  background-color: #ff6b35;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  vertical-align: middle;
+}
+
+// ============================================
+// Header Right - Actions
+// ============================================
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  @media all and ($mobile) {
+    gap: 0.25rem;
+  }
+}
+
+// Shared button styles
+.header-search-btn,
+.header-darkmode-btn,
+.header-hamburger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: var(--gray);
+  transition: background-color 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    background: var(--lightgray);
+    color: var(--darkgray);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+  }
+
+  svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  @media all and ($mobile) {
+    width: 36px;
+    height: 36px;
+
+    svg {
+      width: 18px;
+      height: 18px;
+    }
+  }
+}
+
+// ============================================
+// Dark Mode Toggle Icons
+// ============================================
+
+.header-darkmode-btn {
+  .sun-icon {
+    display: block;
+  }
+  .moon-icon {
+    display: none;
+  }
+}
+
+:root[saved-theme="dark"] {
+  .header-darkmode-btn {
+    .sun-icon {
+      display: none;
+    }
+    .moon-icon {
+      display: block;
+    }
+  }
+}
+
+// ============================================
+// About Link (Desktop only)
+// ============================================
+
+.header-about-link {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  color: var(--gray);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    background: var(--lightgray);
+    color: var(--darkgray);
+  }
+
+  @media all and ($mobile) {
+    display: none;
+  }
+}
+
+// ============================================
+// Hamburger Menu (Mobile only)
+// ============================================
+
+.header-hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+
+  @media all and ($mobile) {
+    display: flex;
+  }
+}
+
+.hamburger-line {
+  width: 20px;
+  height: 2px;
+  background-color: currentColor;
+  border-radius: 1px;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+// Hamburger animation when active
+.header-hamburger.active {
+  .hamburger-line:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+  .hamburger-line:nth-child(2) {
+    opacity: 0;
+  }
+  .hamburger-line:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+}
+
+// ============================================
+// Mobile Menu Dropdown
+// ============================================
+
+.header-mobile-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--light);
+  border-bottom: 1px solid var(--lightgray);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem;
+  flex-direction: column;
+  gap: 0.25rem;
+  z-index: 999;
+
+  &.open {
+    @media all and ($mobile) {
+      display: flex;
+    }
+  }
+}
+
+.mobile-menu-item {
+  display: flex;
+  align-items: center;
+  padding: 0.875rem 1rem;
+  color: var(--darkgray);
+  font-size: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  width: 100%;
+  text-align: left;
+  font-family: var(--bodyFont);
+
+  &:hover {
+    background: var(--lightgray);
+  }
+}
+
+// ============================================
+// Accessibility: Reduced motion
+// ============================================
+
+@media (prefers-reduced-motion: reduce) {
+  .unified-header {
+    transition: none;
+  }
+
+  .hamburger-line {
+    transition: none;
+  }
+}
+
+// ============================================
+// Dark mode adjustments
+// ============================================
+
+:root[saved-theme="dark"] {
+  .unified-header.scrolled {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .header-mobile-menu {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+}

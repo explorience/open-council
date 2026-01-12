@@ -6,7 +6,58 @@
     "present": 402,
     "absent": 493,
     "remote": 0,
-    "attendanceRate": 44.91620111731844
+    "attendanceRate": 44.91620111731844,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 85.71428571428571,
+        "meetingsAttended": 12,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 46.590909090909086,
+        "meetingsAttended": 41,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 45,
+        "meetingsAttended": 63,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 51.515151515151516,
+        "meetingsAttended": 68,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 38.028169014084504,
+        "meetingsAttended": 54,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 41.78082191780822,
+        "meetingsAttended": 61,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 39.84375,
+        "meetingsAttended": 51,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 49.523809523809526,
+        "meetingsAttended": 52,
+        "meetingsTotal": 105
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 5759,
@@ -14,8 +65,157 @@
     "nays": 336,
     "absent": 133,
     "participationRate": 97.69057127973606,
-    "yeaRate": 94.02772840383932
+    "yeaRate": 94.02772840383932,
+    "contestedDissentRate": 4.934086629001883,
+    "contestedVotes": 5310,
+    "substantiveVotes": 5511,
+    "substantiveYeas": 5109,
+    "substantiveNays": 332,
+    "substantiveParticipationRate": 98.72981310107059,
+    "substantiveYeaRate": 93.89818048152912
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 1382,
+    "budgetYeas": 1200,
+    "budgetNays": 171,
+    "budgetAbsent": 11
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2018-11-06",
+      "meetingTitle": null,
+      "itemTitle": "(3.6) Byron Valley Nature Trail Planning Process",
+      "motionText": "That Item 13 (3.6) BE AMENDED to read as follows: That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Byron Valley Natur...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-10-15",
+      "meetingTitle": null,
+      "itemTitle": "London Hydro – Request for BRT-related Information",
+      "motionText": "That London Hydro be requested to provide to the shareholder, London City Council, a breakdown of the estimated costs London Hydro will absorb for the work required to be undertaken for the bus rapid ...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=10a9414f-43df-452b-acec-64614e08799f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-09-18",
+      "meetingTitle": null,
+      "itemTitle": "(3.1) Annual Meeting Calendar",
+      "motionText": "That the draft meeting calendar for the period of January 1, 2019 to December 1, 2019, reflecting the current meeting schedule, attached as Appendix B to the staff report dated September 11, 2018, BE ...",
+      "vote": "nay",
+      "result": "Motion Passed (6 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6a7d7cc3-bf13-4ecc-8227-9571eb005f24&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "(4.5) Traffic Light - South Carriage Road and Hyde Park Road",
+      "motionText": "That staff BE DIRECTED to install traffic lights at South Carriage road and Hyde Park Road as soon as possible and identify a source of funding for the installation; it being noted that verbal present...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "(4.1) 5th Report of the Accessibility Advisory Committee",
+      "motionText": "The motion to approve part e) of Item 17, relating to the 5th Report of the ACCAC is put. e)            the following recommendation of the ACCAC BE REFERRED to the next meeting of the CPSC for consid...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-25",
+      "meetingTitle": null,
+      "itemTitle": "9th Report of the Governance Working Group",
+      "motionText": "Motion to refer part c), having to do with a revised Annual Meeting Calendar, BE REFERRED to the 2018-2022 Council for consideration; it being noted that the City Clerk will be required to bring forwa...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-03-27",
+      "meetingTitle": null,
+      "itemTitle": "Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)",
+      "motionText": "That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by The Corporation of the City of London, relating to the Wonderland Road Community Enterprise...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-03-27",
+      "meetingTitle": null,
+      "itemTitle": "Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)",
+      "motionText": "That Item 17 BE APPROVED.",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-12-12",
+      "meetingTitle": "MINUTES FIRST\n  MEETING",
+      "itemTitle": "2019 Development\n  Charges (DC) Study - Growth Projections",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=54c7bed2-4c64-423b-9ebc-e0e573e394ab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-12-11",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "2019 Development\n  Charges (DC) Study - Growth Projections",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fdaf40ac-d6d8-455a-bf11-f0d467c1a3bb&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 2760,
+      "yeas": 2651,
+      "nays": 109,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1988,
+      "yeas": 1781,
+      "nays": 207,
+      "participationRate": 100
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 380,
+      "yeas": 296,
+      "nays": 8,
+      "participationRate": 80
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 228,
+      "yeas": 209,
+      "nays": 5,
+      "participationRate": 93.85964912280701
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 209,
+      "yeas": 198,
+      "nays": 4,
+      "participationRate": 96.65071770334929
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 194,
+      "yeas": 155,
+      "nays": 3,
+      "participationRate": 81.44329896907216
+    }
+  ]
 }

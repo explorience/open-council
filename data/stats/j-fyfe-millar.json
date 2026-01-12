@@ -6,7 +6,22 @@
     "present": 66,
     "absent": 127,
     "remote": 0,
-    "attendanceRate": 34.196891191709845
+    "attendanceRate": 34.196891191709845,
+    "trend": [
+      {
+        "period": "2021",
+        "attendanceRate": 14.14141414141414,
+        "meetingsAttended": 14,
+        "meetingsTotal": 99
+      },
+      {
+        "period": "2022",
+        "attendanceRate": 55.319148936170215,
+        "meetingsAttended": 52,
+        "meetingsTotal": 94
+      }
+    ],
+    "trendDirection": "improving"
   },
   "voting": {
     "totalVotes": 5,
@@ -14,8 +29,38 @@
     "nays": 0,
     "absent": 1,
     "participationRate": 80,
-    "yeaRate": 100
+    "yeaRate": 100,
+    "contestedDissentRate": 0,
+    "contestedVotes": 0,
+    "substantiveVotes": 1,
+    "substantiveYeas": 0,
+    "substantiveNays": 0,
+    "substantiveParticipationRate": 0,
+    "substantiveYeaRate": 0
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 0,
+    "budgetYeas": 0,
+    "budgetNays": 0,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [],
+  "committeeActivity": [
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 4,
+      "yeas": 4,
+      "nays": 0,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1,
+      "yeas": 0,
+      "nays": 0,
+      "participationRate": 0
+    }
+  ]
 }

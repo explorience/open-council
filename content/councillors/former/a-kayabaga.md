@@ -12,6 +12,8 @@ votesAbsent: 144
 attendanceRate: 41.4
 participationRate: 93.8
 yeaRate: 95.2
+contestedDissentRate: 16.9
+contestedVotes: 497
 prefillQuestions:
   - "What was Arielle Kayabaga's voting attendance rate and were there any notable absences from key council votes during her 2018-2021 term?"
   - "Which specific committees did she serve on and what were her primary areas of focus or expertise within those committee assignments?"
@@ -34,11 +36,147 @@ prefillQuestions:
 | Absent | 144 (6.2%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 1,332 |
+| Voted Yea | 1,142 (92.6%) |
+| Voted Nay | 91 (7.4%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 16.9%
+- **Contested Votes**: 497
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 239 |
+| Voted Yea | 209 (91.3%) |
+| Voted Nay | 20 (8.7%) |
+| Absent | 10 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 41.4%
 - **Meetings Attended**: 178 of 430
 - **Meetings Missed**: 252
+- **Trend**: Stable -
+
+**Attendance by Year:**
+  - 2018: 5.7% (6/105 meetings)
+  - 2019: 48.2% (55/114 meetings)
+  - 2020: 71.4% (80/112 meetings)
+  - 2021: 37.4% (37/99 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 1,172 | 1,084 | 70 | 98.5% |
+| Strategic Priorities and Policy Committee | 542 | 447 | 29 | 87.8% |
+| Corporate Services Committee | 257 | 222 | 1 | 86.8% |
+| Planning and Environment Committee | 257 | 235 | 3 | 92.6% |
+| Community and Protective Services Committee | 93 | 85 | 1 | 92.5% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Arielle Kayabaga voted against the final outcome:*
+
+### 2021-07-06: (3.2) 193 Queens Avenue (Z-9327) (Relates to Bill No. 302)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b4f427f-bef1-4f1a-9857-ec2f7ee66abf&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application of Farhi Holdings Corporation, relating to the property located at 193 Queens Avenue, the propose...
+
+Voted **Nay** - Motion Passed (10 to 4)
+
+### 2021-07-06: (3.3) London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 293)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b4f427f-bef1-4f1a-9857-ec2f7ee66abf&Agenda=PostMinutes&lang=English)
+
+> That the City of London Elected Official appointments to the London & Middlesex London Community Housing Board of Directors BE REFERRED to the next meeting of the Strategic Priorities and Policy Commi...
+
+Voted **Yea** - Motion Failed (7 to 7)
+
+### 2021-06-15: (2.3) Review of Ward Boundaries Update
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82b5607e-07ec-4215-a9bd-00d9f7946371&Agenda=PostMinutes&lang=English)
+
+> That Item 7 (2.3) BE AMENDED to include the following additional wording, "and the Civic Administration BE DIRECTED to not proceed with changes to the existing Ward Boundaries at this time."
+
+Voted **Yea** - Motion Failed (7 to 7)
+
+### 2021-05-25: (2.6) Elected Officials and Appointed Citizen Members 2021 Remuneration
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c752afe2-3cb1-4bfd-b25f-e9213c238492&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 10, 2021, BE RECEIVED for information; it being noted that the communication from Councillors Cassidy, Ka...
+
+Voted **Nay** - Motion Passed (8 to 6)
+
+### 2021-04-13: (2.17) Dundas Place - Temporary Bicycle Lanes (Relates to Bill No's. 148 and 149)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
+
+> The motion to approve part a) is put: That the following actions be taken with respect to the staff report dated March 30, 2021, related to Temporary Bicycle Lanes on Dundas Place: a)     Option 1, be...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2021-04-13: (3.3) Application - 1414 Dundas Street (Z-9276) (Relates to Bill No. 157)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
+
+> That Item 17 (3.3) regarding the application related to 1414 Dundas Street BE REFERRED back to the Civic Administration to continue to work with the applicant to address various concerns that have bee...
+
+Voted **Yea** - Motion Failed (6 to 9)
+
+### 2021-04-13: (3.3) Application - 1414 Dundas Street (Z-9276) (Relates to Bill No. 157)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
+
+> That Item 17 (3.3), as amended BE APPROVED.
+
+Voted **Nay** - Motion Passed (8 to 7)
+
+### 2021-04-13: (4.4) Operation of City Council
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
+
+> That the Governance Working Group BE DIRECTED to consider, in consultation with the Civic Administration, how the operations of council may be changed to potentially realize efficiencies in line with ...
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2021-04-13: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 157 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2021-04-13: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 157 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 4)
 
 
 ## Committees Served

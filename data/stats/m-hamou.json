@@ -6,7 +6,22 @@
     "present": 58,
     "absent": 135,
     "remote": 0,
-    "attendanceRate": 30.05181347150259
+    "attendanceRate": 30.05181347150259,
+    "trend": [
+      {
+        "period": "2021",
+        "attendanceRate": 8.080808080808081,
+        "meetingsAttended": 8,
+        "meetingsTotal": 99
+      },
+      {
+        "period": "2022",
+        "attendanceRate": 53.191489361702125,
+        "meetingsAttended": 50,
+        "meetingsTotal": 94
+      }
+    ],
+    "trendDirection": "improving"
   },
   "voting": {
     "totalVotes": 5,
@@ -14,8 +29,73 @@
     "nays": 3,
     "absent": 2,
     "participationRate": 60,
-    "yeaRate": 0
+    "yeaRate": 0,
+    "contestedDissentRate": 100,
+    "contestedVotes": 3,
+    "substantiveVotes": 2,
+    "substantiveYeas": 0,
+    "substantiveNays": 1,
+    "substantiveParticipationRate": 50,
+    "substantiveYeaRate": 0
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 0,
+    "budgetYeas": 0,
+    "budgetNays": 0,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2022-10-04",
+      "meetingTitle": "The 11th Meeting of the Community and Protective Services Committee",
+      "itemTitle": "Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location",
+      "motionText": "That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: ...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d43d0068-260d-4de4-9eeb-537f2b29d5ff&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-01-31",
+      "meetingTitle": null,
+      "itemTitle": "Application - Issuance of Proclamation - Parental Alienation Awareness Day",
+      "motionText": "That based on the application dated January 10, 2022 from Just Another Parent, April 25, 2022 BE RECEIVED and NO ACTION be taken.",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=abd83d8b-118e-4c64-8fa4-23f307614b94&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-12-07",
+      "meetingTitle": null,
+      "itemTitle": "(3.3) 99 Southdale Road West (Z-9162) (Relates to Bill No. 34)",
+      "motionText": "That clause 3.3 BE AMENDED to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West H...",
+      "vote": "nay",
+      "result": "Motion Passed (14 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0afa9b5-7da7-4ad1-a51d-e8a6bf3d9777&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 3,
+      "yeas": 0,
+      "nays": 1,
+      "participationRate": 33.33333333333333
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 1,
+      "yeas": 0,
+      "nays": 1,
+      "participationRate": 100
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 1,
+      "yeas": 0,
+      "nays": 1,
+      "participationRate": 100
+    }
+  ]
 }

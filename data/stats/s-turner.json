@@ -6,7 +6,64 @@
     "present": 479,
     "absent": 593,
     "remote": 2,
-    "attendanceRate": 44.68283582089552
+    "attendanceRate": 44.68283582089552,
+    "trend": [
+      {
+        "period": "2014",
+        "attendanceRate": 6.0606060606060606,
+        "meetingsAttended": 8,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 51.40845070422535,
+        "meetingsAttended": 73,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 48.63013698630137,
+        "meetingsAttended": 71,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 48.4375,
+        "meetingsAttended": 62,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 50.476190476190474,
+        "meetingsAttended": 53,
+        "meetingsTotal": 105
+      },
+      {
+        "period": "2019",
+        "attendanceRate": 53.50877192982456,
+        "meetingsAttended": 61,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2020",
+        "attendanceRate": 54.46428571428571,
+        "meetingsAttended": 61,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2021",
+        "attendanceRate": 46.464646464646464,
+        "meetingsAttended": 46,
+        "meetingsTotal": 99
+      },
+      {
+        "period": "2022",
+        "attendanceRate": 46.808510638297875,
+        "meetingsAttended": 44,
+        "meetingsTotal": 94
+      }
+    ],
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 5767,
@@ -14,8 +71,143 @@
     "nays": 316,
     "absent": 496,
     "participationRate": 91.39934107855038,
-    "yeaRate": 94.00493265035098
+    "yeaRate": 94.00493265035098,
+    "contestedDissentRate": 7.591036414565826,
+    "contestedVotes": 3570,
+    "substantiveVotes": 4713,
+    "substantiveYeas": 4066,
+    "substantiveNays": 294,
+    "substantiveParticipationRate": 92.51007850625929,
+    "substantiveYeaRate": 93.25688073394495
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 725,
+    "budgetYeas": 608,
+    "budgetNays": 83,
+    "budgetAbsent": 34
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2022-10-17",
+      "meetingTitle": "14th Meeting of City Council",
+      "itemTitle": "(3.2) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 367 and 378)",
+      "motionText": "That consideration of Item 3 (3.2) BE REFERRED back to the Planning and Environment Committee in order to facilitate an additional public participation meeting; it being noted that a broader circulati...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-05-03",
+      "meetingTitle": null,
+      "itemTitle": "G.F. Stewart, Integrity Commissioner, City of London - Report to City Council: Code of Conduct - Councillor M. van Holst - Vaccination Policy",
+      "motionText": "Motion to approve part d) d)    Councillor M. van Holst BE REPRIMANDED for his contraventions of the Code of Conduct as noted in part c), above.",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-05-03",
+      "meetingTitle": null,
+      "itemTitle": "(5.2) Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee\t",
+      "motionText": "That the proposed amendment, as amended, BE APPROVED: That clause 5.2 of the 6th Report of the CPSC BE AMENDED to add the following new part b): b)       the Civic Administration BE DIRECTED to bring ...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-04-12",
+      "meetingTitle": null,
+      "itemTitle": "(4.2) 2022 Rock the Park One-Time Policy Exemption Request (Relates to Bill No. 167)",
+      "motionText": "That the proposed by-law, as appended to the staff report, dated March 29, 2022, BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, to amend By-law No. CPOL-142-394 being a b...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-04-12",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That introduction and first reading of Bill No. 167, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-04-12",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That second reading of Bill No. 167, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-04-12",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That third reading and enactment of Bill No. 167, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-03-22",
+      "meetingTitle": null,
+      "itemTitle": "(4.1) Development Charge Area Rating Policy Review – Recommended Approach",
+      "motionText": "Motion to approve parts a) and b): That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    The attached memorandum from Hemson Consulting (Appen...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=de8a9b84-5106-497b-b010-8f2bdd5a86cf&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-02-15",
+      "meetingTitle": null,
+      "itemTitle": "(2.2) Considerations and Viability to Implement a Vacant Home Tax in London",
+      "motionText": "That part b), of clause 2.2, as amended BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e237088e-eef7-42cd-9e87-2808fea4225b&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-02-15",
+      "meetingTitle": null,
+      "itemTitle": "(4.10) Unique Part-Time Role of Council",
+      "motionText": "That the Governance Working Group BE REQUESTED to discuss and report back to the Strategic Priorities and Policy Committee with their recommendations about Council continuing as a unique-part-time-rol...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e237088e-eef7-42cd-9e87-2808fea4225b&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 2133,
+      "yeas": 1807,
+      "nays": 145,
+      "participationRate": 91.51429910923582
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 1934,
+      "yeas": 1860,
+      "nays": 52,
+      "participationRate": 98.86246122026887
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1678,
+      "yeas": 1274,
+      "nays": 118,
+      "participationRate": 82.95589988081049
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 22,
+      "yeas": 14,
+      "nays": 1,
+      "participationRate": 68.18181818181817
+    }
+  ]
 }

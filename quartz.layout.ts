@@ -45,27 +45,11 @@ const explorer = Component.Explorer({
   }
 })
 
-// Search and explorer for non-homepage pages
-const searchAndExplorer = Component.Flex({
+// Explorer only for sidebar (search now in header)
+const explorerOnly = Component.Flex({
   direction: "column",
   components: [
-    {
-      Component: Component.Flex({
-        components: [
-          { Component: Component.Search() },
-          { Component: Component.Darkmode() },
-        ],
-      })
-    },
     { Component: explorer }
-  ]
-})
-
-// Homepage header with mode toggle (left) and dark mode (right)
-const homepageHeader = Component.Flex({
-  components: [
-    { Component: Component.ModeToggle(), grow: true, justify: "start" },
-    { Component: Component.Darkmode(), justify: "end" },
   ]
 })
 
@@ -86,14 +70,12 @@ const recentNotes = Component.RecentNotes({
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    // Homepage layout
-    Component.ConditionalRender({
-      component: homepageHeader,
-      condition: (page) => page.fileData.slug === "index",
-    }),
+    // Unified header for all pages (transparent on homepage, solid elsewhere)
+    Component.UnifiedHeader(),
+
+    // Homepage-specific components
     Component.ConditionalRender({
       component: Component.HomepageHero({
-        title: "Open Council",
         tagline: "London's council meetings, on the record and searchable",
         chatPlaceholder: "Ask anything about council meetings...",
         apiUrl: "https://open-council-production.up.railway.app"
@@ -118,11 +100,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
 
-    // Non-homepage: show header and article title
-    Component.ConditionalRender({
-      component: Component.OpenCouncilHeader(),
-      condition: (page) => page.fileData.slug !== "index"
-    }),
+    // Non-homepage: show article title
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
@@ -141,6 +119,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   afterBody: [
+    // Search component for all pages (hidden button, modal still works)
+    Component.Search(),
+    // Darkmode component (hidden, but loads the darkmode toggle script)
+    Component.Darkmode(),
+
     // Homepage: Recent notes (simple mode) and Dashboard (advanced mode)
     Component.ConditionalRender({
       component: recentNotes,
@@ -153,11 +136,6 @@ export const defaultContentPageLayout: PageLayout = {
     // Explorer for Browse All button (hidden by default, shown when button clicked)
     Component.ConditionalRender({
       component: explorer,
-      condition: (page) => page.fileData.slug === "index",
-    }),
-    // Hidden search component for homepage (enables Ctrl+K and search buttons)
-    Component.ConditionalRender({
-      component: Component.Search(),
       condition: (page) => page.fileData.slug === "index",
     }),
 
@@ -180,7 +158,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.ConditionalRender({
-      component: searchAndExplorer,
+      component: explorerOnly,
       condition: (page) => page.fileData.slug !== "index"
     })
   ],
@@ -188,8 +166,10 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.OpenCouncilHeader(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.UnifiedHeader(), Component.ArticleTitle(), Component.ContentMeta()],
   afterBody: [
+    Component.Search(),
+    Component.Darkmode(),
     Component.FullPageChat({
       title: "Open Council",
       placeholder: "Ask anything about council meetings...",
@@ -197,5 +177,5 @@ export const defaultListPageLayout: PageLayout = {
     }),
   ],
   left: [],
-  right: [searchAndExplorer]
+  right: [explorerOnly]
 }

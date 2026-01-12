@@ -6,7 +6,34 @@
     "present": 172,
     "absent": 202,
     "remote": 0,
-    "attendanceRate": 45.98930481283423
+    "attendanceRate": 45.98930481283423,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 64.28571428571429,
+        "meetingsAttended": 9,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 44.31818181818182,
+        "meetingsAttended": 39,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 61.42857142857143,
+        "meetingsAttended": 86,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 28.78787878787879,
+        "meetingsAttended": 38,
+        "meetingsTotal": 132
+      }
+    ],
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2408,
@@ -14,8 +41,157 @@
     "nays": 168,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 93.02325581395348
+    "yeaRate": 93.02325581395348,
+    "contestedDissentRate": 7.392026578073089,
+    "contestedVotes": 2408,
+    "substantiveVotes": 2405,
+    "substantiveYeas": 2238,
+    "substantiveNays": 167,
+    "substantiveParticipationRate": 100,
+    "substantiveYeaRate": 93.05613305613306
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 729,
+    "budgetYeas": 617,
+    "budgetNays": 112,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2014-05-05",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-29",
+      "meetingTitle": "Corporate Services Committee",
+      "itemTitle": "Appeal - Request\n  for Tender 14-08: 2014 Infrastructure Lifecycle Renewal Program Contract #1,\n  Simcoe Street and Henry Street",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b3c85291-b9ab-4b48-937d-a0f24413be2a&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-15",
+      "meetingTitle": "MINUTES 11TH MEETING",
+      "itemTitle": "Ombudsman Investigation",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-03-25",
+      "meetingTitle": "Corporate Services Committee",
+      "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members' Expense Account",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b8449414-6927-47c7-a30b-eaa506003fee&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-03-25",
+      "meetingTitle": "Planning and Environment Committee",
+      "itemTitle": "Property located at\n  447 Old Wonderland Road (Z-8228)",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=af08c76f-7384-4039-b31b-478dc84216ba&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-03-18",
+      "meetingTitle": "MINUTES 9TH MEETING",
+      "itemTitle": "Winter Maintenance\n  Update",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "MINUTES 6TH MEETING",
+      "itemTitle": "Mixed-Use\n  Development including a Performing Arts Centre:  Business Plan Proposed\n  Conditions",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "MINUTES 6TH MEETING",
+      "itemTitle": "Mixed-Use\n  Development including a Performing Arts Centre:  Business Plan Proposed\n  Conditions",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Failed",
+      "vote": "yea",
+      "result": "Motion\n  Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-02-25",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "motionText": "Motion\n  Passed",
+      "vote": "nay",
+      "result": "Motion\n  Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 1082,
+      "yeas": 1045,
+      "nays": 37,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 765,
+      "yeas": 646,
+      "nays": 119,
+      "participationRate": 100
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 299,
+      "yeas": 296,
+      "nays": 3,
+      "participationRate": 100
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 142,
+      "yeas": 137,
+      "nays": 5,
+      "participationRate": 100
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 78,
+      "yeas": 76,
+      "nays": 2,
+      "participationRate": 100
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 42,
+      "yeas": 40,
+      "nays": 2,
+      "participationRate": 100
+    }
+  ]
 }

@@ -12,6 +12,8 @@ votesAbsent: 0
 attendanceRate: 58.3
 participationRate: 100.0
 yeaRate: 91.4
+contestedDissentRate: 10.3
+contestedVotes: 2215
 prefillQuestions:
   - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
   - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
@@ -34,11 +36,171 @@ prefillQuestions:
 | Absent | 0 (0.0%) |
 
 
+### Substantive Votes
+
+*Excludes procedural motions (minutes approval, adjournment, "be received", etc.)*
+
+| Statistic | Count |
+|-----------|-------|
+| Substantive Votes | 2,215 |
+| Voted Yea | 2,024 (91.4%) |
+| Voted Nay | 191 (8.6%) |
+
+
+### Dissent on Contested Votes
+
+*Only counts non-unanimous votes where the councillor participated*
+
+- **Dissent Rate**: 10.3%
+- **Contested Votes**: 2,215
+
+*Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 651 |
+| Voted Yea | 553 (84.9%) |
+| Voted Nay | 98 (15.1%) |
+| Absent | 0 |
+
+
 ## Attendance
 
 - **Attendance Rate**: 58.3%
 - **Meetings Attended**: 218 of 374
 - **Meetings Missed**: 156
+- **Trend**: Declining v
+
+**Attendance by Year:**
+  - 2011: 78.6% (11/14 meetings)
+  - 2012: 59.1% (52/88 meetings)
+  - 2013: 57.9% (81/140 meetings)
+  - 2014: 56.1% (74/132 meetings)
+
+
+## Committee Activity Breakdown
+
+| Committee | Votes | Yea | Nay | Participation |
+|-----------|------:|----:|----:|--------------:|
+| Council | 1,112 | 1,046 | 66 | 100.0% |
+| Strategic Priorities and Policy Committee | 686 | 573 | 113 | 100.0% |
+| Corporate Services Committee | 223 | 216 | 7 | 100.0% |
+| Community and Protective Services Committee | 166 | 162 | 4 | 100.0% |
+| Planning and Environment Committee | 28 | 27 | 1 | 100.0% |
+
+
+## Notable Dissenting Votes
+
+*Recent split votes where Judy Bryant voted against the final outcome:*
+
+### 2014-11-24: Council Benefits
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8715d678-b972-43eb-89f9-f28c8679f936&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
+
+### 2014-11-18: Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=be4bcfd9-764b-4ebb-8afc-66e44bfc7060&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-11-18: Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=be4bcfd9-764b-4ebb-8afc-66e44bfc7060&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
+
+### 2014-10-07: Amendment to
+  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
+  Policy 28(3)
+
+[Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0fc443d-8f90-460d-934f-6bb2e9543794&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-09-16: COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
+### 2014-09-16: COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: Installation of
+  Sidewalks on Shavian Blvd.
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
+### 2014-07-28: Appointments to the
+  London Public Library, 2014 - Term December 1, 2014 to November 30, 2018
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Passed
+
+Voted **Nay** - Motion
+  Passed
+
+### 2014-06-24: Resolution from the
+  Council Meeting of June 24, 2014 with respect to the declaration of a
+  potential vacancy of a Ward seat.
+
+[MINUTES 17TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=296bf116-08e6-4aec-ac1b-935d0b1bb4c9&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
+### 2014-05-05: Consideration of
+  Nominees for Appointment to the Board of Directors of the Greater London
+  International Airport Authority
+
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English)
+
+> Motion
+  Failed
+
+Voted **Yea** - Motion
+  Failed
 
 
 ## Committees Served

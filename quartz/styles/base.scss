@@ -276,22 +276,8 @@ a {
   }
 }
 
-// Add padding to body to account for fixed header (only when sticky header exists)
-body:has(.sticky-header) {
-  padding-top: 56px;
-
-  // Hide duplicate OpenCouncilHeader in sidebar and center content
-  .sidebar .open-council-header,
-  .page-header .open-council-header {
-    display: none;
-  }
-
-  // Hide Search and Darkmode in the right sidebar (they're in sticky header)
-  .right.sidebar .search,
-  .right.sidebar .darkmode {
-    display: none !important;
-  }
-}
+// Legacy: body padding for old sticky header (kept for backwards compatibility)
+// Now handled by UnifiedHeader styles
 
 .page {
   max-width: calc(#{map.get($breakpoints, desktop)} + 300px);

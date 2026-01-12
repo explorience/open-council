@@ -6,7 +6,100 @@
     "present": 541,
     "absent": 1091,
     "remote": 6,
-    "attendanceRate": 33.14950980392157
+    "attendanceRate": 33.14950980392157,
+    "trend": [
+      {
+        "period": "2011",
+        "attendanceRate": 78.57142857142857,
+        "meetingsAttended": 11,
+        "meetingsTotal": 14
+      },
+      {
+        "period": "2012",
+        "attendanceRate": 48.86363636363637,
+        "meetingsAttended": 43,
+        "meetingsTotal": 88
+      },
+      {
+        "period": "2013",
+        "attendanceRate": 36.42857142857142,
+        "meetingsAttended": 51,
+        "meetingsTotal": 140
+      },
+      {
+        "period": "2014",
+        "attendanceRate": 40.15151515151515,
+        "meetingsAttended": 53,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 0,
+        "meetingsAttended": 0,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 0,
+        "meetingsAttended": 0,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 0,
+        "meetingsAttended": 0,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 5.714285714285714,
+        "meetingsAttended": 6,
+        "meetingsTotal": 105
+      },
+      {
+        "period": "2019",
+        "attendanceRate": 50.877192982456144,
+        "meetingsAttended": 58,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2020",
+        "attendanceRate": 51.78571428571429,
+        "meetingsAttended": 58,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2021",
+        "attendanceRate": 46.464646464646464,
+        "meetingsAttended": 46,
+        "meetingsTotal": 99
+      },
+      {
+        "period": "2022",
+        "attendanceRate": 50,
+        "meetingsAttended": 47,
+        "meetingsTotal": 94
+      },
+      {
+        "period": "2023",
+        "attendanceRate": 50,
+        "meetingsAttended": 57,
+        "meetingsTotal": 114
+      },
+      {
+        "period": "2024",
+        "attendanceRate": 55.35714285714286,
+        "meetingsAttended": 62,
+        "meetingsTotal": 112
+      },
+      {
+        "period": "2025",
+        "attendanceRate": 53.2608695652174,
+        "meetingsAttended": 49,
+        "meetingsTotal": 92
+      }
+    ],
+    "trendDirection": "improving"
   },
   "voting": {
     "totalVotes": 8331,
@@ -14,7 +107,20 @@
     "nays": 982,
     "absent": 838,
     "participationRate": 89.94118353138879,
-    "yeaRate": 86.89443480581876
+    "yeaRate": 86.89443480581876,
+    "contestedDissentRate": 22.884665451705285,
+    "contestedVotes": 3841,
+    "substantiveVotes": 5909,
+    "substantiveYeas": 4521,
+    "substantiveNays": 796,
+    "substantiveParticipationRate": 89.98138432898968,
+    "substantiveYeaRate": 85.02915177731803
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 1347,
+    "budgetYeas": 959,
+    "budgetNays": 348,
+    "budgetAbsent": 40
   },
   "topAlignments": [
     {
@@ -78,6 +184,142 @@
       "sharedVotes": 1297,
       "agreedVotes": 1133,
       "alignmentRate": 87.35543562066307
+    }
+  ],
+  "notableDissents": [
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson",
+      "motionText": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0     ...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-20",
+      "motionText": "That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2026 Annual Budget Update to redirect a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to...",
+      "vote": "nay",
+      "result": "Motion Passed (14 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Councillor D. Ferreira",
+      "motionText": "That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-20",
+      "meetingTitle": "6th Meeting of the Budget Committee",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson",
+      "motionText": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000          2026 Tax Le...",
+      "vote": "yea",
+      "result": "Motion Failed (4 to 11)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(3.1) Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program ",
+      "motionText": "That the following part c) BE APPROVED c)    the proposed change to impose a cap of one million dollars (Appendix “A” #6 “Community Mitigative Measures Fund”) BE REMOVED;",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That part a) of the motion BE APPROVED: a) recognizing London’s growth and the public expectation of full-time hours for this role, the annual compensation for Councillors BE INDEXED to the 70th perce...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That part d) of the motion BE APPROVED: d) the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data ...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-04",
+      "meetingTitle": "17th Council Meeting",
+      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "That part h) of the motion BE APPROVED: h) Council undertake the following actions with respect to additional compensation and related matters for the Deputy Mayor and Budget Chair positions, and that...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-10-28",
+      "meetingTitle": "13th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "Motion to approve part a): a) recognizing London’s growth and the public expectation of full-time hours for this role, the annual compensation for Councillors BE INDEXED to the 70th percentile 2020 me...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-10-28",
+      "meetingTitle": "13th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "2025 Council Resourcing Review Task Force Final Report",
+      "motionText": "Motion to approve part d): d) the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to ca...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Council",
+      "totalVotes": 4849,
+      "yeas": 4001,
+      "nays": 527,
+      "participationRate": 93.38007836667353
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 2605,
+      "yeas": 1769,
+      "nays": 340,
+      "participationRate": 80.95969289827255
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 451,
+      "yeas": 409,
+      "nays": 31,
+      "participationRate": 97.5609756097561
+    },
+    {
+      "committee": "Budget Committee",
+      "totalVotes": 189,
+      "yeas": 118,
+      "nays": 68,
+      "participationRate": 98.4126984126984
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 154,
+      "yeas": 144,
+      "nays": 6,
+      "participationRate": 97.40259740259741
+    },
+    {
+      "committee": "Infrastructure and Corporate Services Committee",
+      "totalVotes": 83,
+      "yeas": 70,
+      "nays": 10,
+      "participationRate": 96.3855421686747
     }
   ]
 }

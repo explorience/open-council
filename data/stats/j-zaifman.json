@@ -6,7 +6,40 @@
     "present": 190,
     "absent": 463,
     "remote": 0,
-    "attendanceRate": 29.096477794793262
+    "attendanceRate": 29.096477794793262,
+    "trend": [
+      {
+        "period": "2014",
+        "attendanceRate": 5.303030303030303,
+        "meetingsAttended": 7,
+        "meetingsTotal": 132
+      },
+      {
+        "period": "2015",
+        "attendanceRate": 57.04225352112676,
+        "meetingsAttended": 81,
+        "meetingsTotal": 142
+      },
+      {
+        "period": "2016",
+        "attendanceRate": 25.34246575342466,
+        "meetingsAttended": 37,
+        "meetingsTotal": 146
+      },
+      {
+        "period": "2017",
+        "attendanceRate": 17.1875,
+        "meetingsAttended": 22,
+        "meetingsTotal": 128
+      },
+      {
+        "period": "2018",
+        "attendanceRate": 40.95238095238095,
+        "meetingsAttended": 43,
+        "meetingsTotal": 105
+      }
+    ],
+    "trendDirection": "improving"
   },
   "voting": {
     "totalVotes": 1618,
@@ -14,8 +47,143 @@
     "nays": 83,
     "absent": 2,
     "participationRate": 99.87639060568603,
-    "yeaRate": 94.86386138613861
+    "yeaRate": 94.86386138613861,
+    "contestedDissentRate": 3.4854245880861847,
+    "contestedVotes": 1578,
+    "substantiveVotes": 1599,
+    "substantiveYeas": 1515,
+    "substantiveNays": 83,
+    "substantiveParticipationRate": 99.93746091307067,
+    "substantiveYeaRate": 94.80600750938673
+  },
+  "budgetVoting": {
+    "totalBudgetVotes": 506,
+    "budgetYeas": 467,
+    "budgetNays": 39,
+    "budgetAbsent": 0
   },
   "topAlignments": [],
-  "bottomAlignments": []
+  "bottomAlignments": [],
+  "notableDissents": [
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "(4.1) 5th Report of the Accessibility Advisory Committee",
+      "motionText": "The motion to approve part e) of Item 17, relating to the 5th Report of the ACCAC is put. e)            the following recommendation of the ACCAC BE REFERRED to the next meeting of the CPSC for consid...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "(2.3)  Free of Fear Services for All Policy",
+      "motionText": "That part d) BE APPROVED: d)            the Civic Administration BE DIRECTED to implement Option #2 as outlined in the staff report date June 25, 2018; it being noted that the cost of this option will...",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-26",
+      "meetingTitle": "13th Meeting of City Council",
+      "itemTitle": "(3.3) London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions",
+      "motionText": "Motion to approve part e). e)      the delegation request of Ashton Forrest BE REFERRED to the Board of the London Middlesex Housing Corporation for consideration.",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-12-11",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Financial and Other\n  Resources Required to Host International Plowing Match 2020",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fdaf40ac-d6d8-455a-bf11-f0d467c1a3bb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2017-10-16",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Support of Hosting\n  Request - International Plowing Match",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=246ecf5e-b89d-4825-af51-f215c12b96a7&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2016-05-26",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Shift Rapid Transit\n  - Business Case",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2016-05-26",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Shift Rapid Transit\n  - Business Case",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2016-05-26",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Shift Rapid Transit\n  - Business Case",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2016-05-26",
+      "meetingTitle": "Strategic Priorities and Policy Committee",
+      "itemTitle": "Shift Rapid Transit\n  - Business Case",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2016-04-05",
+      "meetingTitle": "MINUTES NINTH MEETING",
+      "itemTitle": "Amendments to the\n  Traffic and Parking By-law",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ee0872cd-80e7-42cd-accb-cddf7d09825a&Agenda=PostMinutes&lang=English"
+    }
+  ],
+  "committeeActivity": [
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 719,
+      "yeas": 662,
+      "nays": 57,
+      "participationRate": 100
+    },
+    {
+      "committee": "Council",
+      "totalVotes": 483,
+      "yeas": 461,
+      "nays": 20,
+      "participationRate": 99.58592132505176
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 349,
+      "yeas": 344,
+      "nays": 5,
+      "participationRate": 100
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 67,
+      "yeas": 66,
+      "nays": 1,
+      "participationRate": 100
+    }
+  ]
 }

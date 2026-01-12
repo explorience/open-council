@@ -17,9 +17,9 @@
   padding: 0 1rem;
   font-family: var(--bodyFont);
 
-  // Default hero state
+  // Default hero state (title is in header, so less padding needed)
   &:not(.chat-active) {
-    padding-top: 3rem;
+    padding-top: 2rem;
     padding-bottom: 2rem;
 
     .hero-welcome {
@@ -30,7 +30,7 @@
       margin-bottom: 2rem;
     }
 
-    .chat-header {
+    .chat-action-bar {
       display: none;
     }
 
@@ -48,25 +48,25 @@
     }
   }
 
-  // Chat active state - full viewport
+  // Chat active state - full viewport (below unified header)
   &.chat-active {
     position: fixed;
-    top: 0;
+    top: 56px; // Below unified header
     left: 0;
     right: 0;
     bottom: 0;
     max-width: none;
     padding: 0;
     background: var(--light);
-    z-index: 999;
-    // Use dynamic viewport height for better mobile keyboard handling
-    height: 100dvh;
+    z-index: 998; // Below header (1000)
+    // Use dynamic viewport height minus header
+    height: calc(100dvh - 56px);
 
     .hero-welcome {
       display: none;
     }
 
-    .chat-header {
+    .chat-action-bar {
       display: flex;
     }
 
@@ -85,47 +85,28 @@
 
     // Mobile-specific adjustments
     @media (max-width: 600px) {
-      // Ensure the layout works with mobile keyboard
-      height: 100dvh;
-      height: -webkit-fill-available;
+      top: 52px; // Mobile header height
+      height: calc(100dvh - 52px);
+      height: calc(-webkit-fill-available - 52px);
     }
   }
 }
 
 // ============================================
-// Hero Welcome Section
+// Hero Welcome Section (title now in unified header)
 // ============================================
 
-.hero-title {
-  font-size: 2.5rem;
-  font-weight: 700;
-  margin: 0 0 0.5rem 0;
-  color: var(--darkgray);
-
-  @media (max-width: 600px) {
-    font-size: 2rem;
-  }
-
-  .beta-tag {
-    font-size: 0.4em;
-    background-color: #ff6b35;
-    color: white;
-    padding: 2px 8px;
-    border-radius: 4px;
-    vertical-align: middle;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-  }
-}
-
 .hero-tagline {
-  font-size: 1.2rem;
-  color: var(--gray);
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--darkgray);
   margin: 0;
-  line-height: 1.5;
+  line-height: 1.4;
+  text-align: center;
+  max-width: 600px;
 
   @media (max-width: 600px) {
-    font-size: 1rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -190,15 +171,15 @@
 }
 
 // ============================================
-// Chat Header (visible in chat mode)
+// Chat Action Bar (visible in chat mode, below main header)
 // ============================================
 
-.chat-header {
+.chat-action-bar {
   display: none;
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  padding: 0.75rem 1rem;
+  padding: 0.5rem 1rem;
   background: var(--light);
   border-bottom: 1px solid var(--lightgray);
   flex-shrink: 0;
@@ -246,26 +227,14 @@
   }
 }
 
-.chat-header-title {
-  font-weight: 600;
-  color: var(--darkgray);
-  font-size: 1rem;
-
-  @media (max-width: 400px) {
-    font-size: 0.9rem;
-  }
-}
-
-.chat-header-actions {
+.chat-action-buttons {
   display: flex;
   gap: 0.25rem;
   flex-shrink: 0;
-  margin-right: 0.5rem;
 }
 
 .chat-copy-last,
-.chat-copy-all,
-.chat-about-link {
+.chat-copy-all {
   display: flex;
   align-items: center;
   justify-content: center;
