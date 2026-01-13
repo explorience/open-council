@@ -75,20 +75,19 @@ const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
 
       {/* Navigation menu dropdown */}
       <nav class="header-mobile-menu" aria-label="Site navigation">
+        <a href="/councillors" class="mobile-menu-item">Councillors</a>
+        <a href="/months" class="mobile-menu-item">Browse All Meetings</a>
+        <a href="/about" class="mobile-menu-item">About</a>
+        <div class="menu-divider"></div>
         <div class="menu-section">
           <span class="menu-section-title">Committees</span>
+          <a href="/committees/budget" class="mobile-menu-item">Budget Committee</a>
           <a href="/committees/city-council" class="mobile-menu-item">City Council</a>
-          <a href="/committees/planning-environment" class="mobile-menu-item">Planning & Environment</a>
-          <a href="/committees/strategic-priorities" class="mobile-menu-item">Strategic Priorities</a>
           <a href="/committees/civic-works" class="mobile-menu-item">Civic Works</a>
           <a href="/committees/community-protective-services" class="mobile-menu-item">Community Services</a>
-          <a href="/committees/budget" class="mobile-menu-item">Budget Committee</a>
+          <a href="/committees/planning-environment" class="mobile-menu-item">Planning & Environment</a>
+          <a href="/committees/strategic-priorities" class="mobile-menu-item">Strategic Priorities</a>
         </div>
-        <div class="menu-divider"></div>
-        <a href="/councillors" class="mobile-menu-item">Councillors</a>
-        <button class="mobile-menu-item browse-trigger-mobile">Browse All Meetings</button>
-        <div class="menu-divider"></div>
-        <a href="/about" class="mobile-menu-item">About</a>
       </nav>
     </header>
   )
