@@ -35,11 +35,10 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
-      - name: Install Python dependencies
-        run: |
-          pip install requests beautifulsoup4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -51,20 +50,30 @@ jobs:
         run: npm ci
 
       - name: Scan for new transcripts (create transcript-only meetings)
+        id: scan
         working-directory: scraping
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           VERBOSE: "1"
-        run: python transcript.py --scan 14
+        run: |
+          uv run python transcript.py --scan 14 2>&1 | tee scan_output.txt
+          echo "output<<EOF" >> $GITHUB_OUTPUT
+          cat scan_output.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Sync transcripts to existing meetings
+        id: sync
         working-directory: scraping
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           VERBOSE: "1"
           LIMIT: ${{ inputs.limit || '0' }}
-        run: python transcript.py
+        run: |
+          uv run python transcript.py 2>&1 | tee sync_output.txt
+          echo "output<<EOF" >> $GITHUB_OUTPUT
+          cat sync_output.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Add transcripts to meeting pages
         run: npx tsx scripts/add-transcripts-to-pages.ts
@@ -82,3 +91,42 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: sync transcripts from Lillian Skinner archive [automated]"
           git push
+
+      - name: Send success notification
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Open Council: Transcripts synced"
+          to: ${{ secrets.NOTIFICATION_EMAIL }}
+          from: Open Council Bot <${{ secrets.SMTP_USERNAME }}>
+          body: |
+            Transcripts have been synced and committed.
+
+            Scan output:
+            ${{ steps.scan.outputs.output }}
+
+            Sync output:
+            ${{ steps.sync.outputs.output }}
+
+            View the changes: https://github.com/${{ github.repository }}/commits/main
+
+      - name: Send failure notification
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Open Council: Transcript sync FAILED"
+          to: ${{ secrets.NOTIFICATION_EMAIL }}
+          from: Open Council Bot <${{ secrets.SMTP_USERNAME }}>
+          body: |
+            The transcript sync workflow has FAILED.
+
+            Please check the workflow logs:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}

@@ -110,7 +110,7 @@ def process_meeting(meeting_type, target_date):
       meeting = Meeting(soup, url, meeting_type, fallback_date=target_date)
     markdown = meeting.format_markdown()
 
-    output = Path(f"../content/{meeting.yyyy_mm()}/{meeting.format_title().replace('/', '-')}.md")
+    output = Path(f"../content/months/{meeting.yyyy_mm()}/{meeting.format_title().replace('/', '-')}.md")
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(markdown)
 

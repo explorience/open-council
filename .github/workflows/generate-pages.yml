@@ -30,9 +30,14 @@ jobs:
         run: npm ci
 
       - name: Run page generation script
+        id: generate
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: npx tsx scripts/generate-pages.ts
+        run: |
+          npx tsx scripts/generate-pages.ts 2>&1 | tee generate_output.txt
+          echo "output<<EOF" >> $GITHUB_OUTPUT
+          cat generate_output.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Check for changes
         id: changes
@@ -47,3 +52,41 @@ jobs:
           git add content/committees content/years content/councillors
           git commit -m "chore: regenerate summary pages [automated]"
           git push
+
+      - name: Send success notification
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Open Council: Summary pages regenerated"
+          to: ${{ secrets.NOTIFICATION_EMAIL }}
+          from: Open Council Bot <${{ secrets.SMTP_USERNAME }}>
+          body: |
+            Summary pages have been regenerated and committed.
+
+            ${{ steps.generate.outputs.output }}
+
+            View the changes: https://github.com/${{ github.repository }}/commits/main
+
+      - name: Send failure notification
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Open Council: Page generation FAILED"
+          to: ${{ secrets.NOTIFICATION_EMAIL }}
+          from: Open Council Bot <${{ secrets.SMTP_USERNAME }}>
+          body: |
+            The page generation workflow has FAILED.
+
+            Please check the workflow logs:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            Output:
+            ${{ steps.generate.outputs.output }}
