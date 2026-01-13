@@ -149,4 +149,209 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:40 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (55 minutes)</summary>
+
+Audio test for council chambers. Ms. Lippick, can you confirm audio? I hear you.
+
+Thank you. To the last time I had to stand and then look over the edge. Maybe I'll stay up here. Yeah.
+
+Do you mind if we sit up here, can we see it? There's also that side, Emily. Oh, yeah. Stream test one, two.
+
+Well, there's Councillor Stevenson. Hi. Sit on the side. Yeah.
+
+Well, we can go over there. Yeah. Yeah, we're not bothering you. Recording in progress.
+
+Thank you, everybody. It's 12 p.m., so we're gonna start the audit committee. We've got members, Councillor Pribble and Councillor Cuddy with me here in chambers. We've got Mr.
+
+Chima joining online, and we've got Councillor Raman joining as a guest. I'll start with the land acknowledgement. The city of London is situated on the traditional lands of the Anishnabek, at the Haudenosaunee, the Luna Peiwalk, and the Atawandran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home.
+
+The city of London is currently home to many First Nations, Métis, and Inuit today. As representatives of the city of London, we are grateful to have the opportunity to work and live in this territory. Please check the website for additional meeting and detail information. You're welcome to view this online.
+
+So we'll start with disclosures of pecuniary interest. I'll look around to members. Seeing none, next is consent. We have nothing.
+
+Scheduled items. We have nothing. Items for direction. So we're gonna start today with 4.1, 2024, audited board financial statements of the Middlesex London Health Unit.
+
+Can I have a mover? Councilor Pribble. Seconded by Councillor Cuddy. And so we'll open that for questions.
+
+Councillor Pribble. Thank you and sort of chair. I do have a couple of questions to 4.1, actually three questions. And the first one is regarding the $7 million below 2023 reasoning and revenue from Ministry of Health.
+
+If I can please get a response for the lower amount by $7 million, please. Thank you. And we have Ms. Williams here answering questions.
+
+Thank you for being here. The mic is yours. Thank you. And through the chair, Councillor Pribble, that is directly related to 2023 being the last year for COVID-19 extraordinary expense funding.
+
+And so that reduction relates to us no longer receiving COVID-related funding in 2024. Thank you for that answer. And I have a follow-up statement of cash flows. Grants receive 5 million more.
+
+If you can please provide me more information on this amount, please. Thank you. And through the chair, the largest impact to this was a payment over $4 million of COVID-19 extraordinary expense funding incurred in 2023. That was not paid to us from the province until 2024.
+
+This is a common issue for the Middlesex London Health Unit as our fiscal year, which is calendar January to December, does not necessarily align with the ministry fiscal year, which is April to March. And so sometimes we see funding that applies to our calendar year and it flows in their fourth quarter of their fiscal year. Follow-up? Thank you for that.
+
+And I have last question, current demand loan. Can you please comment on it if it's still the best option and when is it coming up for renewal? Thank you. And through the chair, I did meet with the CIBC, who is our bank in this matter, the demand loan and the variable loan both, sorry, the demand loan expires December 31st of this year.
+
+We have asked for support from the city of London as well as County Council in helping us with debt restructuring. However, if that's not approved, we will need to renegotiate the loan at a fixed rate. Obviously, the interest won't be as favorable as we did negotiate that initially in 2020, but the term is up and so we will need to renegotiate. We do not have reserve funding to top into, to pay that debt down any differently.
+
+Thank you very much. No more questions? Thank you, Councillor Cuddy. Thank you, Chair.
+
+I don't have any questions, but I do have a comment. I have the good fortune of serving on Middlesex London Health Unit Board, along with Councillor Frank. And this is truly a board that does more with less. It is one of the best managed boards that I've ever experienced and been on.
+
+I can't say enough good things about the work that the CEO does, Dr. Summers. It's truly a board that works aggressively and with limited resources. So that's all that I have to say, Chair, but I certainly have enjoyed the last three years and I'll enjoy the last year that I have in this board.
+
+And thank you very much for coming today. Okay, thank you. Any other questions? I'm going to pass the chair to Councillor Pribble.
+
+I have a few. I have the chair and I recognize Councillor Stevenson. Thank you. Thanks, Ms.
+
+Williams, for being here to answer questions. On the statement of operations and changes, it shows that other salaries and administrative staff salaries are both combined about a million dollars over budget. And so I just wondered if you could provide any clarification there. Thank you.
+
+And through the chair, Councillor Stevenson, the Health Unit, along with many others, has historically used a budgeted gap or a planned underspend of expenses on salary and wages to account for turnover. For example, delays in time to fill and outgoing staff being paid at a higher rate than incoming staff and to manage the funding uncertainty that I referenced in my earlier comments. The timing of our fiscal year and the ministry often causes those timing issues. This gap sits in the administrative staff budget line, which is why this line looks under budgeted, but is meant to be offset by surpluses across the agency as those gapping scenarios come into play.
+
+Since my arrival, I've been phasing out the gap. It has decreased from 1.5 million in 2023, 990,000 in 24, which is what you see in that line from the audited financial statements of 24. And in 2025 budget, we've decreased that further to 441,000, which is more in line with our historical turnover rate. And of course, the ideal scenario is to no longer have that budgeted gap as part of our planning.
+
+Thank you, and through the presiding officer, thank you for the answers. Really do appreciate you having all these details ready. What's included in other salaries? Through the chair, the overage in other salaries was related to severance and transition payments that were made as part of restructuring from the prior year.
+
+Thank you, and a follow up. And do those also fall into the place where the province pays 75% London pays 21% in terms of the severance payments? Through the chair, yes. That's all part of our cost-share budget.
+
+Anyful. - Thank you. Yep, I've got just a couple other questions. I noticed in the September minutes of 2025 that there was a mention of prior year settlements with the ministry that may be requested back.
+
+You may have already talked about this. I'm not sure if it's the same thing, but I wondered how much we're talking about and when there'd be clarity in terms of whether that money would be requested back? Through the chair, the Ministry of Health undertakes an annual process where they review the prior years, expenses, and potentially they had flowed funding towards us that we didn't spend the full amount. That would be with respect to dedicated provincial program.
+
+So for example, the COVID-19 extraordinary expenses. Through COVID, they got behind on that process. So there are still outstanding settlements from 2023 and 2024 where we expect to go through that line-by-line review in terms of the provincial funding, what amounts were potentially not spent that could then be clawed back. The impact would be felt within our cash in the bank at this point.
+
+Any full up, Council? Yes, thank you for that. And I do just wanna acknowledge, I imagine the challenging times that you guys are all going through right now. So thank you for being here again to answer the questions.
+
+There was one other thing that caught my eye in the minutes and that was, there was some kind of a report file that said the health unit was unable to fulfill all obligations under the Ontario Public Health Standards. And I just wondered if you could clarify what that was about. Thank you. Chair, that is a bit of a complicated question in terms of our funding constraints have meant that we needed to undertake prioritization discussions.
+
+We are no longer, and this has been the case for the last two years, able to comprehensively fulfill the Ontario Public Health Standards, which is the legislation that basically dictates what we as a local public health agency need to be doing. For example, we no longer have nurses in our schools in most cases because we've had to prioritize other interventions like inspections of restaurants and personal service settings over providing nursing resource in schools. We're still there for immunization. We still have oral health there for dental screenings, but these are the kinds of decisions we've had to make to prioritize different programs in order to best serve the community from a risk perspective because we simply don't have the funding to do it all.
+
+Any follow up Councillor? No, thank you again for being here to speak. Thank you all so much for all the answers and I'm returning to chair. Thank you.
+
+I'll just do one last call for questions. Anything online? Okay, with no further questions. And thanks for being here.
+
+I'll call the vote. All in favor? Motion carries. Thank you.
+
+Moving on to 4.2, the summary update from internal audit with MNP, looking for a mover, Councillor Pribble, seconder in Councillor Cuddy, and I'll look to MNP to see if there's anything you'd like to share. Yes, through the chair. Good afternoon, everyone. So just a quick summary with regards to the memo.
+
+The audits as scheduled for 2025 have been completed and we've started on our 2026 round of audits. This scoping for the community improvement plans audit is underway and you'll note in there that part of what we would like to hear see and in having feedback from the committee with regards to previous input is that internal audit was seeking feedback from the audit committee members on which CIPs may be of interest considering that we are undertaking that review. And then just one other thing of note and it's more just of an administrative thing during our previous time together on September 10th in the audit committee, it was raised at the timing of the privacy audit may conflict with the upcoming municipal election as the city personnel involved in that would essentially be busy doing other things. And so there is a switch that we have done with regards to the timing of the privacy audit and basically switching that time slot with the continuous improvement audit.
+
+So just a few things I wanted to highlight for the committee. Perfect, thank you very much and appreciate MNP being here in person as with the health unit being here to answer questions. Thank you for that summary. Look into my colleagues for any questions, anything online?
+
+Councilor Pribble. Thank you and sort of chair back to MNP regarding the recommendation of the CIPs. You're looking for have you already received any feedback or you have not received any feedback yet from either us or the staff? Through you, Madam Chair.
+
+My intention was, our intention was in putting this forward was to put it forward to the committee if there is any particular CIPs that would be of interest to the committee to help guide the shaping of any things for scope. So my intention in putting this forward was to solicit that feedback whether it be here or after the or after we adjourned today. So thank you for that response. I do have one in mind, having said that I have not consulted with my colleagues nor was the staff and I would prefer that I don't know if the chair has different view on this but I would prefer if we can give you this direction before I don't know if the, if can clerk can confirm if it can be done the direction after the meeting or if it has to be done during this meeting?
+
+So direct the clerk's advising me that direction would have to be set here at committee or at council, I'm assuming. And is a motion or direction required or are you just looking for feedback that can be shared via email? Through you, Madam Chair, I was more looking for, we were more looking for feedback. So, yes.
+
+Okay, thank you. So if I'm understanding and the clerk can correct me if I'm wrong, that any committee member or any counselor can reach out to MMP, share their feedback anytime between now and council. Thank you, no more questions, thank you. Okay, looking around at last call for questions and if there's nothing online, I'm gonna call the vote.
+
+All in favor? Opposed and vote, that motion to receive carries. Okay, thank you everyone. Moving right along, we're at 4.3, the performance measurement audit from MMP, looking for a mover in Councilor Pribble, secondary and Councilor Cuddy.
+
+And I will look to MMP to give us a brief introduction. Thank you, through you, Madam Chair. So, before you, as far as number 4.3 is the performance improvement audit that was completed during this last period. Just a brief overview, this audit focused on this, it really looked at the city strategic plan as a foundation base, looking at the alignment of the metrics and how that is being, how progress towards that is being measured.
+
+The audit really focused on the performance measurement within the corporate strategic plan, as this is obviously a key document and public facing for both the council and the public. And again, the defined measurement and reporting processes that are looking to be implemented with regards to that, out of scope was anything that cascaded down through to the departmental piece. We kept it more at the corporate level of strategic plan in order to make sure it was feasible within enough of a scope for us to gain some understanding without biting off more of the elephant than we could chew. There were four main observations that came out of it, all of them rated as low, and they are contained on page five of the audit report.
+
+They center around the consistency in which the performance measurement framework is applied, as well as how the goals are gathered and developed. One other piece focused with regards to the manner in which data collection and reporting takes place. So in summary, and this is the rationale between these all being rated as low, is they are viewed as more improvement opportunities to make sure that the time that is spent in order to set goals, understand them, measure them in the report on them is both efficient and effective. Thank you very much.
+
+Looking to my colleagues for any questions or comments. Councilor Pribble. Thank you, and thank you very much for this report. And as you said, this report or both this report and our strategic plan are certainly keys and for us to move forward.
+
+There were some really great suggestions. I do have few specific questions through the chair. On page 33 or your report's free, it stays or collects data due to the large number of matrix and time constraints. Can you please comment on the time constraints?
+
+Was it from your side or from our staff side? Through you, Madam Chair, thank you for the question, Councilor, thank you for the question. Yes, that specific phrase here, the constraint was upon the audit period that we had. It was essentially what I was mentioning in my previous statement.
+
+In order to make sure that the scope that we put together is feasible and understandable, we have to focus on particular areas. Our goal because we thought it was the greatest value to the city was on that corporate level as opposed to delving down at the department level. As you can appreciate, that would be a huge undertaking that wouldn't necessarily, I think, drive additional value given the time commitments that it would place on civic administration. Follow up.
+
+Sorry, thank you for that. And through the chair, page 34 or your report four, it states their centralized reporting platform and it states making it easier for departments to get reminders, manage, and share their strategic plan updates. And I know if it's coming from you or from the staff, would it be same for the ABCs or would it be just for our service areas? Thank you and through the chair, the smart chief platform is used with both service areas and ABCs.
+
+Perfect, thank you very much for that. And the next one, page 36, your report six. And our staff mentions that Alignswell is the planning process for the next strategic plan, scheduled to begin formally in Q1, 2026. And I just wanted a feedback from our staff because, again, we are in the last stage of our current strategic plan.
+
+What's planned for Q1, 2026? Will it be really just the framework or will it be potentially working with our current actions initiatives? Who'd like to take that one, Mr. Vap?
+
+Thank you, Chair, and through you, this is when, so we've already been thinking about this for some time. Q1, 2026 is when we designated as the project kickoff when our planning begins in earnest, we really are looking to what the next strap plan is going to shape up like in terms of how we design it, as well, and what that development process is going to mean. And we think we need the runway beginning in Q1, 2026 to do an effective job of that. But it is looking ahead to the next strap plan.
+
+Go ahead. Okay, thank you, just one clarification. So there will not be Q1, 2026. It will not be that our current plan is adjusted to the new framework.
+
+It will be looking for the future, for the new framework, which will be based on these findings, is that correct? Actually, I see nods from both. So thank you very much, the answer is yes. Page 37 or seven, there's a question for MNP and clause four and five.
+
+The high volume of matrix relates to the strategy plan and makes it challenging to track progress and link different actions to a matrix on an outcome hindering the city's ability to extract meaningful insights. Five, matrix related to social or difficult to quantify targets. I do agree with you in terms of the corporate, the big picture, but I just want to make sure that, and if you agree with me or if you disagree with me and base this information for our staff, I do believe that this is very important for the departmental staff. So for the corporate, yes, it's gonna be escalating the pyramid and the corporate is gonna get the big picture, but I do believe these are important to go within the departments of the ABCs and our city service areas.
+
+If you can please comment on that. Through you, Madam Chair, and thank you for the question. Yes, I agree with you. At the end of the day, as one moves from the strategic to the operational to the tactical, the breadth becomes more narrow and you're able to go deeper.
+
+So I do, I agree with your sentiment that at the end of the day, when we look at things from the corporate level, can we focus on more truly key metrics or key performance indicators? And then as we move down as individuals, scopes narrow or as groups scopes narrow, they're allowed to then have a more diversity of metrics that then helps them to understand their piece. So it should actually act as that pyramid as you describe it. Perfect, thank you very much.
+
+And I'm glad you're on the agreement of addressing this issue or initiative. And the last question I have, I think again, I think the staff, and we once saw our implementation plan this week already, there's always room for improvement, but I truly believe we are on a good track. Your feedback makes it even stronger. How do we do know, like let's say, you're making certain recommendations, our staff is putting the response from the management, which is positive, but of course, in this, in this, there's no detailed, right?
+
+So there's no detailed, yes, we will address it, but it's not detailed how we address this and that. How do we come as an audit committee or how do you come back? Or how is the opportunity of you coming back and to making sure that let's say your recommendations are followed and the issues you have concerned that our staff really progresses, aligned with those recommendations? Through you, Madam Chair, and thank you for the question.
+
+I want to broaden my answer to that one, and then I will get back to the specific of it, 'cause I think this is an important piece, particularly with an audit like this one. So general practice that we have worked through with the audit committee is that we track and report back on findings that are either deemed to be of a high risk or medium risk nature, which we'll see when we get to the future item, or the future item, which is that dashboard that we provide on the tracking of progress. Low priority items, our practice has been not to necessarily track them quarter to quarter on the progress that's made. So I think this gets to the point that you're also highlighting a little bit.
+
+By the practice that we have done, that is what we have done in the past, and I would still suggest to the committee that we continue on that in the future, 'cause it allows for us to focus as well as for civic administration to continue doing what they're doing, particularly on items that are viewed more as improvement opportunities, as opposed to true red light risks. With that being said though, there is, what I would say is there is always the opportunity for the committee to seek feedback on the progress of particular items, whether that be through the internal audit function or through civic administration. And what I would also say is that, generally speaking, particularly on how the scope of audit is that we have done, we often do see overlapping areas, right? So many of our scopes because the city is so integrated in many of the work that it does, we end up seeing these things come through to fruition going forward.
+
+So I would submit that if we look to the slate of audits that are set for 2026, how the effectiveness of how the city has set this framework, particularly if we look at this scope, how we set our goals, how we set the framework in order to measure them, it will become apparent through the scopes of those other audits. So it may not be a direct manner, but it would be an indirect manner to see the delta of what we observed and how that has been implemented. So thank you for all those answers since through the chair. And there's a question to the staff.
+
+As we just heard, if it's a priority is low, the progress is not kind of as detailed if it were medium, large, high. Can the staff comment on this part for me to give us kind of the counselors, the audit committee, as I said, it's very, the management response is very positive. They will be aligned with this, but in terms of going future, what opportunities there will be, again, if it would be high or medium, MMP would be coming potentially back. In this case, they won't unless we specifically ask for, can I please receive a feedback from our staff?
+
+I thank you through the chair. I think it's very fair to say that when we write our reports for council, we always look for the incentive or the grounding piece. So we always go back to either a council resolution or a kind of framing, right, in this scenario, specifically for the strat plan and the development of council's strat plan moving forward, we're gonna take this information, we're gonna use it and we're gonna cite it as we move forward to share with you our process for the next strat plan. It would certainly be reasonable for us to do that.
+
+And so you will see this information embedded in the work that we share with you as we start to develop the next strat plan for the next council. Thank you for that answer and last comment. Once again, I know I started with this, but I wanna end on it as well. Great findings, great recommendations for staff as well, what we saw.
+
+I saw really a lot of good benefits from the implementation plan update, always room for improvement. But thank you and I really believe you're on the right track and it's getting much clearer, much easier again, to track our successes. And again, and identifying a room for improvement. Thank you all very much.
+
+Thank you very much. You were just under the wire on the five minutes. Any further questions or comments, anything online? Then I'm just gonna make a few comments from the chair if that's okay.
+
+Excited to see this, I've been, you know, frustrated with our strategic planning process, critical of it even. It hasn't worked for me as a counselor very well. There's lots of great things in here. It's great to hear that staff are looking to start looking at that in Q1 of 2026.
+
+I also totally recognize that we've had staff changes and people are working with something that was started by previous people. So very much looking forward to seeing this being implemented and excited for 2026 and future iterations of the strategic plan. Was there anything that staff wanted to add if there's nothing else? I'm gonna go ahead and call the question.
+
+All those in favor? Mr. Chairman, very. Thanks everyone.
+
+I'm gonna move on to 4.4, the anti-racism and anti-oppression ARAO audit by MNP, looking for a mover, Councillor Cuddy, seconded by Councillor Pribble, and I'll open it up. All right, I'm gonna actually, I'm gonna pass it to MNP for a little bit of an introduction. Thank you, through you Madam Chair. So yes, before you for this item is the ARAO audit.
+
+Just very quickly, the scope of this audit was targeting effectively a look at the city's ARAO frameworks. How consistently those frameworks and tools are used applied? Whether the commitments in those plans are being put into practice. And then gaps and opportunities in the implementation, accountability, measurements, engagement that is associated with those, excuse me.
+
+If you, when we step back and take a look at it, and this is actually to the previous comments, so there were seven recommendations in total or seven observations in total. And it ends up being that there are five of those that were deemed to be medium risk, and two of those to be deemed as low. The most significant takeaways that I would just highlight is that integration would be a key takeaway or a theme throughout all this. There's lots of great work that the city is doing in order to push forward on its overall approach to anti-racism, anti-oppression.
+
+But there is a better opportunity for integration among various initiatives that the city is taking, and that kind of cascades down to, with that lack of integration, inconsistency in which tools and frameworks are applied, the focusing on different types of reporting, whether it be on activities rather than outcomes. And so that would effectively be the main takeaway. When you do look at it and there are the, excuse me, there are the two lower observations, they are focused more on, again, opportunities to improve, particularly when it focuses on the data that we collect, the traceability of the initiatives that we do, as well as just awareness of how the city is doing great work to address incidents, and how can we better have both internally and externally that being understood. Thank you very much, appreciate that.
+
+I'll look to my colleagues for any questions or comments. Councillor Pribble. So the chair, actually, I don't have any questions. I just want to give this staff opportunity if anyone wanted to comment, but otherwise on this report, but otherwise, I have no questions.
+
+Thank you, go ahead. Thank you, through the chair. We certainly appreciate the feedback we have received from MNP through this process, and I will say to you that many of the things that they had identified to us were known to us as well. This group of staff and this piece of work came together, sorry, came together very quickly.
+
+And so to hear that from the auditors that we need to focus on integration, the work that we do, but also to highlight the fact that there are many important initiatives and strategies that have been developed, they become the foundation of the way that will move forward, and we're really focused on that. So didn't want to thank MNP for their feedback as well. Thank you as well, no more questions. Okay, thank you for that.
+
+Do we have anyone online with any comments or questions? Okay, seeing none, I'm going to call the question. All those in favor? Motion to receive carries.
+
+All right, moving right along. 4.5 is the internal audit follow-up activities dashboard. I'll look for a mover, Councillor Cuddy, seconded by Councillor Pribble, and I'll look to MNP for an introduction. Thank you, through you, Madam Chair.
+
+So this is the follow-up activities dashboard that we present to the committee as we meet. The big takeaway is that in total, there were six recommendations from previous audit reports that we followed up with civic administration on with regards to this quarter. One management action item was closed, which is represented on page three of the document, which would be the independent payment certifier. Four action items are on track to be completed, and one action item has been retargeted, which is actually on page two of that document, which is the tenant profile considerations.
+
+So yes, that would be my update, thank you. Perfect, thank you, appreciate these summaries. I'll look to my colleagues for any questions or comments. Seeing none, we'll look online and seeing none anywhere.
+
+I'm going to call the question. All those in favor? Motion to receive carries. Okay, so the last thing under items for direction is 4.6 for that.
+
+I'm going to pass the chair to Councillor Pribble so that I can move this motion. I'll have the chair and I recognize Councillor Stevenson. Thank you very much. The motion that I'm going to move is slightly different than what was in my letter, so I'm going to read it out now.
+
+That the city of London internal auditors, MNP, be directed to provide a supplementary report to a future meeting of the audit committee by Q2-2026, which will include A, a cost benefit analysis of operating and administrative expenses, B, clarification of where additional costs to support hubs are being allocated, and C, an explanation of how the incremental cost of hubs is supporting the intended outcomes. It being noted that this analysis will rely on data contained in the working papers of the August 28th, 2025, housing and homelessness value for many VFM audit with an estimated cost of five to $10,000 and no additional funding source being required. So I'd like to move that and I'm looking for a seconder. Looking for a seconder?
+
+I will second it. Thank you. Okay, I have the floor for the questions and comments. Okay, well, just to introduce the motion, this is just a follow-up to the September 10th audit committee where I had asked some questions and was looking for data that wasn't in the report and MNP had suggested that that data was available in the working papers, should we request it?
+
+And I said that I would follow up at another time. I've worked with, thank you to staff, finance and clerks, and I've worked with MNP on the wording of this motion to make sure that it makes sense to everyone and that the funding is available. Through the presiding officer, if I could get MNP's input on this, I'd appreciate that. Absolutely, I'm gonna be, please go ahead.
+
+Thank you, through you, Chair. Yeah, I think that the way the motion is framed is clear. I think it makes sense with regards to the outcome being sought, and I think that the direction, as far as the timing piece as well is clear. As far as thinking forward to the future, our goal will be, obviously, to do that by the timeline.
+
+And just to clarify, as far as being a supplementary report, it won't necessarily take the shaping of the full report. It will be focused, contained, almost a briefing note or memo style is what I'm envisioning in order to meet the ask. Thank you, any full help, Council? Yeah, thank you.
+
+Just my last comment is just, I appreciate the support with this motion, and I'm hoping I'll have committee support for it. It's an opportunity to share with the public why this was a great investment and just get some of the details to help guide Council as we look forward to more opportunities to move forward with the plan. So I don't really have any other comments. I'll leave it to my colleagues and just ask for your support on this motion.
+
+Thank you, Councillor, opening up the floor to any questions or comments. Okay, I don't have any requests for comments or questions. I'm calling to question. All in favor?
+
+Motion to adjourn. Thank you, and I'm returning to chair. Thank you very much. So that's the end of items for direction.
+
+We have no deferred matters or additional business that I'm aware of, nothing in confidential. So that leaves us with just a last thanks to everybody for their contributions today and I'm looking for a move to adjourn. Councillor Cuddy, seconded by Councillor Pribble. All those in favor?
+
+Motion to adjourn. Thank you, everyone.
+
+</details>
