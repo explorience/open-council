@@ -3,6 +3,8 @@
   max-width: 1000px;
   margin: 0 auto;
   padding: 1rem;
+  overflow-x: hidden;
+  box-sizing: border-box;
 }
 
 // Stats Row with Actions
@@ -40,6 +42,13 @@
   background: var(--light);
   border: 1px solid var(--lightgray);
   border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.15s ease;
+
+  &:hover {
+    background: var(--lightgray);
+    border-color: var(--secondary);
+  }
 
   @media (max-width: 600px) {
     padding: 0.5rem 0.75rem;
@@ -214,10 +223,12 @@
   border: 1px solid var(--lightgray);
   border-radius: 8px;
   font-size: 0.875rem;
+  font-family: var(--bodyFont);
   color: var(--darkgray);
   cursor: pointer;
   transition: all 0.15s ease;
   white-space: nowrap;
+  text-decoration: none;
 
   svg {
     width: 16px;

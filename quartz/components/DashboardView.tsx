@@ -77,26 +77,26 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
       <div class="dashboard-view advanced-only">
         {/* Stats Row with Actions */}
         <div class="dashboard-stats">
-          <button class="action-btn browse-all-btn">
+          <a href="/months" class="action-btn browse-all-btn">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
             </svg>
             Browse All
-          </button>
+          </a>
 
           <div class="stats-group">
-            <div class="stat-card">
+            <a href="/months" class="stat-card">
               <span class="stat-number">{totalMeetings.toLocaleString()}</span>
               <span class="stat-label">Meetings</span>
-            </div>
-            <div class="stat-card">
+            </a>
+            <a href="/committees" class="stat-card">
               <span class="stat-number">{opts.committees.length}</span>
               <span class="stat-label">Committees</span>
-            </div>
-            <div class="stat-card">
+            </a>
+            <a href="/councillors" class="stat-card">
               <span class="stat-number">{opts.councillors.length}</span>
               <span class="stat-label">Councillors</span>
-            </div>
+            </a>
           </div>
 
           <button class="action-btn search-btn">
@@ -143,7 +143,7 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
                 )
               })}
             </ul>
-            <a href="#" class="panel-more browse-all-link">View all meetings →</a>
+            <a href="/months" class="panel-more">View all meetings →</a>
           </div>
 
           {/* Councillors Panel */}
