@@ -15,13 +15,6 @@ export default (() => {
       <div class="alignment-matrix-container">
         <div class="alignment-controls">
           <label>
-            <span>Show:</span>
-            <select id="alignment-filter">
-              <option value="current">Current Council (2022-2026)</option>
-              <option value="all">All Councillors</option>
-            </select>
-          </label>
-          <label>
             <span>Sort by:</span>
             <select id="alignment-sort">
               <option value="name">Name</option>

@@ -115,3 +115,23 @@
   position: absolute;
   bottom: 0.5rem;
 }
+
+.scorecard-footer {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--gray);
+  text-align: center;
+}
+
+.alignment-link {
+  display: inline-block;
+  color: var(--secondary);
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: var(--dark);
+    text-decoration: underline;
+  }
+}

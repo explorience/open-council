@@ -16,6 +16,7 @@ export default (() => {
     const participationRate = (fileData.frontmatter?.participationRate as number) || 0
     const yeaRate = (fileData.frontmatter?.yeaRate as number) || 0
     const totalVotes = (fileData.frontmatter?.totalVotes as number) || 0
+    const isCurrent = fileData.slug?.includes("/current/") ?? false
 
     // Get councillor slug from the file path
     const slug = fileData.slug?.split("/").pop() || ""
@@ -64,9 +65,10 @@ export default (() => {
             data-metric="yeaRate"
             role="button"
             tabIndex={0}
+            title="Percentage of votes cast as Yea (excludes absences)"
           >
             <div class="metric-value">{yeaRate.toFixed(0)}%</div>
-            <div class="metric-label">Yea Rate</div>
+            <div class="metric-label">Yea Rate (when voting)</div>
             <div class="metric-hint">Click to compare</div>
           </div>
           <div
@@ -80,6 +82,13 @@ export default (() => {
             <div class="metric-hint">Click to compare</div>
           </div>
         </div>
+        {isCurrent && (
+          <div class="scorecard-footer">
+            <a href="/councillors/alignment" class="alignment-link">
+              View voting alignment with other councillors →
+            </a>
+          </div>
+        )}
       </div>
     )
   }

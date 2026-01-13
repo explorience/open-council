@@ -33,7 +33,6 @@ const CURRENT_COUNCIL = new Set([
 async function renderMatrix() {
   const container = document.getElementById("alignment-matrix")
   const tooltip = document.getElementById("alignment-tooltip")
-  const filterSelect = document.getElementById("alignment-filter") as HTMLSelectElement
   const sortSelect = document.getElementById("alignment-sort") as HTMLSelectElement
 
   if (!container || !tooltip) return
@@ -52,17 +51,10 @@ async function renderMatrix() {
     if (!container) return
     container.innerHTML = ""
 
-    const showCurrent = filterSelect?.value === "current"
     const sortBy = sortSelect?.value || "name"
 
-    // Filter councillors
-    let councillors = data.councillors.filter((c) => {
-      if (showCurrent) {
-        return CURRENT_COUNCIL.has(c.slug)
-      }
-      // For "all", only show councillors with alignment data
-      return Object.keys(data.matrix[c.slug] || {}).length > 0
-    })
+    // Filter to current council only (alignment data only exists for current term)
+    let councillors = data.councillors.filter((c) => CURRENT_COUNCIL.has(c.slug))
 
     // Sort councillors
     if (sortBy === "cluster") {
@@ -180,8 +172,7 @@ async function renderMatrix() {
   // Initial render
   render()
 
-  // Re-render on filter/sort change
-  filterSelect?.addEventListener("change", render)
+  // Re-render on sort change
   sortSelect?.addEventListener("change", render)
 }
 
