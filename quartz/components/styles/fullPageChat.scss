@@ -196,7 +196,7 @@
 
     .fpc-message-content {
       background: var(--secondary);
-      color: #ffffff; // Explicit white for contrast on dark bubble
+      color: #ffffff !important; // Explicit white for contrast on dark bubble
       border-radius: 18px 18px 4px 18px;
       max-width: 100%;
     }
@@ -538,6 +538,7 @@
 
   .fpc-message.user .fpc-message-content {
     background: var(--secondary);
+    color: #ffffff !important;
   }
 
   .fpc-message.assistant .fpc-message-content {

@@ -116,13 +116,20 @@
 
 .chat-action-bar {
   display: none;
-  align-items: center;
-  justify-content: space-between;
   width: 100%;
-  padding: 0.5rem 1rem;
   background: var(--light);
   border-bottom: 1px solid var(--lightgray);
   flex-shrink: 0;
+}
+
+.chat-action-bar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
 
   @media (max-width: 600px) {
     padding: 0.5rem 0.75rem;
@@ -261,7 +268,7 @@
 
     .message-content {
       background: var(--secondary);
-      color: #ffffff; // Explicit white for contrast on dark bubble
+      color: #ffffff !important; // Explicit white for contrast on dark bubble
       border-radius: 18px 18px 4px 18px;
       max-width: 100%;
     }
@@ -631,6 +638,7 @@
 
   .chat-message.user .message-content {
     background: var(--secondary);
+    color: #ffffff !important;
   }
 
   .chat-message.assistant .message-content {
