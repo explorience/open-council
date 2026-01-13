@@ -34,9 +34,36 @@
   background: var(--light);
   border-radius: 8px;
   border-top: 4px solid var(--gray);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  position: relative;
 
-  &:hover {
+  &.clickable {
+    cursor: pointer;
+    padding-bottom: 1.75rem;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      background: var(--lightgray);
+
+      .metric-hint {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    &:focus {
+      outline: 2px solid var(--secondary);
+      outline-offset: 2px;
+    }
+
+    &:active {
+      transform: translateY(0);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  &:not(.clickable):hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
@@ -76,4 +103,15 @@
   letter-spacing: 0.05em;
   margin-top: 0.25rem;
   text-align: center;
+}
+
+.metric-hint {
+  font-size: 0.65rem;
+  color: var(--secondary);
+  opacity: 0;
+  margin-top: 0.5rem;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  transform: translateY(-4px);
+  position: absolute;
+  bottom: 0.5rem;
 }

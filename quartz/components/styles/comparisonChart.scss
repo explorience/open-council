@@ -1,0 +1,156 @@
+// Colors matching the design spec
+$background: #161618;
+$highlight: #84b9ef;
+$bar: #393639;
+$text: #ebebec;
+$text-muted: #a0a0a0;
+
+// Modal container
+.comparison-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+
+  &.open {
+    display: flex;
+  }
+}
+
+// Backdrop overlay
+.comparison-modal-backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(4px);
+  animation: comparisonFadeIn 0.2s ease;
+}
+
+// Modal content box
+.comparison-modal-content {
+  position: relative;
+  background: $background;
+  border-radius: 12px;
+  padding: 1.5rem;
+  max-width: 600px;
+  width: calc(100% - 2rem);
+  max-height: 85vh;
+  overflow-y: auto;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  animation: comparisonSlideUp 0.25s ease;
+
+  @media (max-width: 640px) {
+    padding: 1rem;
+    margin: 0.5rem;
+    max-height: 90vh;
+  }
+}
+
+// Close button
+.comparison-modal-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  border-radius: 50%;
+  color: #9ca3af;
+  cursor: pointer;
+  transition: all 0.15s ease;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+  }
+
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba($highlight, 0.5);
+  }
+}
+
+// Modal title
+.comparison-modal-title {
+  margin: 0 0 1.25rem 0;
+  padding-right: 2.5rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+// Chart container
+.comparison-chart {
+  min-height: 200px;
+  overflow-x: auto;
+
+  svg {
+    display: block;
+    font-family: var(--bodyFont);
+  }
+}
+
+// Animations
+@keyframes comparisonFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes comparisonSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Make scorecard metrics clickable when ComparisonChart is active
+.scorecard-metric {
+  position: relative;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  // Hint text on hover
+  &::after {
+    content: "Click to compare";
+    position: absolute;
+    bottom: 4px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.6rem;
+    color: var(--gray);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    text-transform: none;
+    letter-spacing: normal;
+    white-space: nowrap;
+  }
+
+  &:hover::after {
+    opacity: 0.7;
+  }
+}

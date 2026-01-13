@@ -1,4 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+// @ts-ignore
+import script from "./scripts/scorecard.inline"
 import style from "./styles/scorecard.scss"
 
 export default (() => {
@@ -14,6 +16,9 @@ export default (() => {
     const participationRate = (fileData.frontmatter?.participationRate as number) || 0
     const yeaRate = (fileData.frontmatter?.yeaRate as number) || 0
     const totalVotes = (fileData.frontmatter?.totalVotes as number) || 0
+
+    // Get councillor slug from the file path
+    const slug = fileData.slug?.split("/").pop() || ""
 
     // Determine rating for each metric (for color coding)
     const getAttendanceRating = (rate: number) => {
@@ -31,24 +36,48 @@ export default (() => {
     }
 
     return (
-      <div class="scorecard">
+      <div class="scorecard" data-councillor-slug={slug}>
         <h3>Councillor Scorecard</h3>
         <div class="scorecard-metrics">
-          <div class={`scorecard-metric ${getAttendanceRating(attendanceRate)}`}>
+          <div
+            class={`scorecard-metric clickable ${getAttendanceRating(attendanceRate)}`}
+            data-metric="attendance"
+            role="button"
+            tabIndex={0}
+          >
             <div class="metric-value">{attendanceRate.toFixed(0)}%</div>
             <div class="metric-label">Attendance</div>
+            <div class="metric-hint">Click to compare</div>
           </div>
-          <div class={`scorecard-metric ${getParticipationRating(participationRate)}`}>
+          <div
+            class={`scorecard-metric clickable ${getParticipationRating(participationRate)}`}
+            data-metric="participation"
+            role="button"
+            tabIndex={0}
+          >
             <div class="metric-value">{participationRate.toFixed(0)}%</div>
             <div class="metric-label">Vote Participation</div>
+            <div class="metric-hint">Click to compare</div>
           </div>
-          <div class="scorecard-metric neutral">
+          <div
+            class="scorecard-metric clickable neutral"
+            data-metric="yeaRate"
+            role="button"
+            tabIndex={0}
+          >
             <div class="metric-value">{yeaRate.toFixed(0)}%</div>
             <div class="metric-label">Yea Rate</div>
+            <div class="metric-hint">Click to compare</div>
           </div>
-          <div class="scorecard-metric neutral">
+          <div
+            class="scorecard-metric clickable neutral"
+            data-metric="totalVotes"
+            role="button"
+            tabIndex={0}
+          >
             <div class="metric-value">{totalVotes.toLocaleString()}</div>
             <div class="metric-label">Total Votes</div>
+            <div class="metric-hint">Click to compare</div>
           </div>
         </div>
       </div>
@@ -56,6 +85,7 @@ export default (() => {
   }
 
   Scorecard.css = style
+  Scorecard.afterDOMLoaded = script
 
   return Scorecard
 }) satisfies QuartzComponentConstructor

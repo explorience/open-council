@@ -36,6 +36,7 @@ import Scorecard from "./Scorecard"
 import AlignmentMatrix from "./AlignmentMatrix"
 import CouncillorRankings from "./CouncillorRankings"
 import UnifiedHeader from "./UnifiedHeader"
+import ComparisonChart from "./ComparisonChart"
 
 export {
   ArticleTitle,
@@ -76,4 +77,5 @@ export {
   AlignmentMatrix,
   CouncillorRankings,
   UnifiedHeader,
+  ComparisonChart,
 }
