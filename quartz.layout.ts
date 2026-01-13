@@ -82,10 +82,7 @@ export const defaultContentPageLayout: PageLayout = {
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
-    Component.ConditionalRender({
-      component: Component.NavDropdowns(),
-      condition: (page) => page.fileData.slug === "index",
-    }),
+    // NavDropdowns removed - navigation now in hamburger menu (Issue #129)
     Component.ConditionalRender({
       component: Component.PrefillQuestions({
         title: "Try asking:",

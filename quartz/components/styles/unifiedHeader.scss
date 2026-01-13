@@ -186,43 +186,14 @@ body {
 }
 
 // ============================================
-// About Link (Desktop only)
-// ============================================
-
-.header-about-link {
-  display: flex;
-  align-items: center;
-  padding: 0.5rem 1rem;
-  color: var(--gray);
-  font-size: 0.9rem;
-  font-weight: 500;
-  text-decoration: none;
-  border-radius: 6px;
-  transition: background-color 0.2s ease, color 0.2s ease;
-
-  &:hover {
-    background: var(--lightgray);
-    color: var(--darkgray);
-  }
-
-  @media all and ($mobile) {
-    display: none;
-  }
-}
-
-// ============================================
-// Hamburger Menu (Mobile only)
+// Hamburger Menu (Always visible)
 // ============================================
 
 .header-hamburger {
-  display: none;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 5px;
-
-  @media all and ($mobile) {
-    display: flex;
-  }
 }
 
 .hamburger-line {
@@ -247,36 +218,68 @@ body {
 }
 
 // ============================================
-// Mobile Menu Dropdown
+// Navigation Menu Dropdown
 // ============================================
 
 .header-mobile-menu {
   display: none;
   position: absolute;
   top: 100%;
-  left: 0;
   right: 0;
+  width: 280px;
+  max-height: calc(100vh - 70px);
+  overflow-y: auto;
   background: var(--light);
-  border-bottom: 1px solid var(--lightgray);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  padding: 0.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  padding: 0.75rem;
   flex-direction: column;
   gap: 0.25rem;
   z-index: 999;
+  margin-top: 0.5rem;
+  margin-right: 1rem;
 
   &.open {
-    @media all and ($mobile) {
-      display: flex;
-    }
+    display: flex;
   }
+
+  @media all and ($mobile) {
+    width: auto;
+    left: 1rem;
+    right: 1rem;
+    margin-right: 0;
+  }
+}
+
+.menu-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+}
+
+.menu-section-title {
+  display: block;
+  padding: 0.5rem 1rem 0.375rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--gray);
+}
+
+.menu-divider {
+  height: 1px;
+  background: var(--lightgray);
+  margin: 0.5rem 0;
 }
 
 .mobile-menu-item {
   display: flex;
   align-items: center;
-  padding: 0.875rem 1rem;
+  padding: 0.75rem 1rem;
   color: var(--darkgray);
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 500;
   text-decoration: none;
   background: transparent;

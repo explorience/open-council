@@ -65,12 +65,7 @@ const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
           </svg>
         </button>
 
-        {/* About link - desktop only */}
-        <a href="/about" class="header-about-link">
-          About
-        </a>
-
-        {/* Hamburger menu - mobile only */}
+        {/* Hamburger menu - always visible */}
         <button class="header-hamburger" aria-label="Menu" aria-expanded="false">
           <span class="hamburger-line"></span>
           <span class="hamburger-line"></span>
@@ -78,13 +73,21 @@ const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
         </button>
       </div>
 
-      {/* Mobile menu dropdown */}
-      <nav class="header-mobile-menu" aria-label="Mobile navigation">
+      {/* Navigation menu dropdown */}
+      <nav class="header-mobile-menu" aria-label="Site navigation">
+        <div class="menu-section">
+          <span class="menu-section-title">Committees</span>
+          <a href="/committees/city-council" class="mobile-menu-item">City Council</a>
+          <a href="/committees/planning-environment" class="mobile-menu-item">Planning & Environment</a>
+          <a href="/committees/strategic-priorities" class="mobile-menu-item">Strategic Priorities</a>
+          <a href="/committees/civic-works" class="mobile-menu-item">Civic Works</a>
+          <a href="/committees/community-protective-services" class="mobile-menu-item">Community Services</a>
+          <a href="/committees/budget" class="mobile-menu-item">Budget Committee</a>
+        </div>
+        <div class="menu-divider"></div>
         <a href="/councillors" class="mobile-menu-item">Councillors</a>
-        <a href="/committees/city-council" class="mobile-menu-item">City Council</a>
-        <a href="/committees/planning-environment" class="mobile-menu-item">Planning Committee</a>
         <button class="mobile-menu-item browse-trigger-mobile">Browse All Meetings</button>
-        <button class="mobile-menu-item chat-trigger-mobile">Chat with AI</button>
+        <div class="menu-divider"></div>
         <a href="/about" class="mobile-menu-item">About</a>
       </nav>
     </header>
