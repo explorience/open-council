@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Council - Font Options Mockup (Issue #127)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #1a1a2e;
+            --bg-card: #16213e;
+            --text-primary: #eee;
+            --text-secondary: #aaa;
+            --accent: #4361ee;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { background: var(--bg-dark); color: var(--text-primary); padding: 2rem; min-height: 100vh; }
+        h1 { text-align: center; margin-bottom: 1rem; font-size: 2rem; color: var(--accent); }
+        .intro { text-align: center; max-width: 700px; margin: 0 auto 3rem; color: var(--text-secondary); line-height: 1.6; }
+        .font-options { display: grid; gap: 2rem; max-width: 1200px; margin: 0 auto; }
+        .font-card { background: var(--bg-card); border-radius: 12px; padding: 2rem; border: 2px solid transparent; transition: border-color 0.2s; }
+        .font-card:hover { border-color: var(--accent); }
+        .font-name { font-size: 0.875rem; color: var(--accent); margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.1em; }
+        .mockup-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid rgba(255,255,255,0.1); }
+        .logo { font-weight: 700; font-size: 1.5rem; }
+        .beta-tag { background: var(--accent); padding: 0.125rem 0.5rem; border-radius: 4px; font-size: 0.625rem; font-weight: 600; margin-left: 0.5rem; }
+        .nav-links { display: flex; gap: 1.5rem; font-size: 0.875rem; }
+        .nav-links span { cursor: pointer; opacity: 0.8; }
+        .hero-text { margin-bottom: 1.5rem; }
+        .hero-text h2 { font-size: 2rem; font-weight: 700; margin-bottom: 0.75rem; }
+        .hero-text p { color: var(--text-secondary); font-size: 1.125rem; }
+        .search-bar { background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 1rem 1.25rem; color: var(--text-secondary); font-size: 1rem; margin-bottom: 1.5rem; }
+        .stats-row { display: flex; gap: 1.5rem; }
+        .stat { text-align: center; }
+        .stat-number { font-size: 1.75rem; font-weight: 700; }
+        .stat-label { font-size: 0.75rem; color: var(--text-secondary); text-transform: uppercase; }
+        .recommendation { margin-top: 3rem; padding: 2rem; background: rgba(67, 97, 238, 0.1); border: 1px solid var(--accent); border-radius: 12px; max-width: 1200px; margin-left: auto; margin-right: auto; }
+        .recommendation h3 { color: var(--accent); margin-bottom: 1rem; }
+        .recommendation ul { list-style: none; display: grid; gap: 0.5rem; }
+        .recommendation li { padding-left: 1.5rem; position: relative; }
+        .recommendation li::before { content: ">"; position: absolute; left: 0; color: var(--accent); }
+        .font-inter { font-family: 'Inter', sans-serif; }
+        .font-dm-sans { font-family: 'DM Sans', sans-serif; }
+        .font-source-sans { font-family: 'Source Sans 3', sans-serif; }
+        .font-outfit { font-family: 'Outfit', sans-serif; }
+        .font-jakarta { font-family: 'Plus Jakarta Sans', sans-serif; }
+    </style>
+</head>
+<body>
+    <h1>Font Options for Open Council (Issue #127)</h1>
+    <p class="intro">Below are 5 font options for the Open Council UI refresh. Each mockup shows how the font would look on the homepage header, hero, and stats section.</p>
+
+    <div class="font-options">
+        <div class="font-card font-inter">
+            <div class="font-name">Option 1: Inter (Current)</div>
+            <div class="mockup-header">
+                <div class="logo">Open Council <span class="beta-tag">BETA</span></div>
+                <div class="nav-links"><span>Committees</span><span>Councillors</span><span>Recent</span></div>
+            </div>
+            <div class="hero-text">
+                <h2>London's council meetings, searchable</h2>
+                <p>14 years of decisions, votes, and discussions at your fingertips</p>
+            </div>
+            <div class="search-bar">Ask anything about council meetings...</div>
+            <div class="stats-row">
+                <div class="stat"><div class="stat-number">1,432</div><div class="stat-label">Meetings</div></div>
+                <div class="stat"><div class="stat-number">8</div><div class="stat-label">Committees</div></div>
+                <div class="stat"><div class="stat-number">15</div><div class="stat-label">Councillors</div></div>
+            </div>
+        </div>
+
+        <div class="font-card font-dm-sans">
+            <div class="font-name">Option 2: DM Sans (Friendly, Modern)</div>
+            <div class="mockup-header">
+                <div class="logo">Open Council <span class="beta-tag">BETA</span></div>
+                <div class="nav-links"><span>Committees</span><span>Councillors</span><span>Recent</span></div>
+            </div>
+            <div class="hero-text">
+                <h2>London's council meetings, searchable</h2>
+                <p>14 years of decisions, votes, and discussions at your fingertips</p>
+            </div>
+            <div class="search-bar">Ask anything about council meetings...</div>
+            <div class="stats-row">
+                <div class="stat"><div class="stat-number">1,432</div><div class="stat-label">Meetings</div></div>
+                <div class="stat"><div class="stat-number">8</div><div class="stat-label">Committees</div></div>
+                <div class="stat"><div class="stat-number">15</div><div class="stat-label">Councillors</div></div>
+            </div>
+        </div>
+
+        <div class="font-card font-source-sans">
+            <div class="font-name">Option 3: Source Sans 3 (Clean, Professional)</div>
+            <div class="mockup-header">
+                <div class="logo">Open Council <span class="beta-tag">BETA</span></div>
+                <div class="nav-links"><span>Committees</span><span>Councillors</span><span>Recent</span></div>
+            </div>
+            <div class="hero-text">
+                <h2>London's council meetings, searchable</h2>
+                <p>14 years of decisions, votes, and discussions at your fingertips</p>
+            </div>
+            <div class="search-bar">Ask anything about council meetings...</div>
+            <div class="stats-row">
+                <div class="stat"><div class="stat-number">1,432</div><div class="stat-label">Meetings</div></div>
+                <div class="stat"><div class="stat-number">8</div><div class="stat-label">Committees</div></div>
+                <div class="stat"><div class="stat-number">15</div><div class="stat-label">Councillors</div></div>
+            </div>
+        </div>
+
+        <div class="font-card font-outfit">
+            <div class="font-name">Option 4: Outfit (Geometric, Bold)</div>
+            <div class="mockup-header">
+                <div class="logo">Open Council <span class="beta-tag">BETA</span></div>
+                <div class="nav-links"><span>Committees</span><span>Councillors</span><span>Recent</span></div>
+            </div>
+            <div class="hero-text">
+                <h2>London's council meetings, searchable</h2>
+                <p>14 years of decisions, votes, and discussions at your fingertips</p>
+            </div>
+            <div class="search-bar">Ask anything about council meetings...</div>
+            <div class="stats-row">
+                <div class="stat"><div class="stat-number">1,432</div><div class="stat-label">Meetings</div></div>
+                <div class="stat"><div class="stat-number">8</div><div class="stat-label">Committees</div></div>
+                <div class="stat"><div class="stat-number">15</div><div class="stat-label">Councillors</div></div>
+            </div>
+        </div>
+
+        <div class="font-card font-jakarta">
+            <div class="font-name">Option 5: Plus Jakarta Sans (Recommended)</div>
+            <div class="mockup-header">
+                <div class="logo">Open Council <span class="beta-tag">BETA</span></div>
+                <div class="nav-links"><span>Committees</span><span>Councillors</span><span>Recent</span></div>
+            </div>
+            <div class="hero-text">
+                <h2>London's council meetings, searchable</h2>
+                <p>14 years of decisions, votes, and discussions at your fingertips</p>
+            </div>
+            <div class="search-bar">Ask anything about council meetings...</div>
+            <div class="stats-row">
+                <div class="stat"><div class="stat-number">1,432</div><div class="stat-label">Meetings</div></div>
+                <div class="stat"><div class="stat-number">8</div><div class="stat-label">Committees</div></div>
+                <div class="stat"><div class="stat-number">15</div><div class="stat-label">Councillors</div></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="recommendation">
+        <h3>Recommendation: Plus Jakarta Sans</h3>
+        <ul>
+            <li>Modern and approachable without being too playful</li>
+            <li>Excellent legibility at all sizes</li>
+            <li>Works well for both headings and body text</li>
+            <li>Open source and free to use (Google Fonts)</li>
+            <li>Good x-height makes it readable on mobile</li>
+            <li>Pairs well with the existing color scheme</li>
+        </ul>
+    </div>
+</body>
+</html>

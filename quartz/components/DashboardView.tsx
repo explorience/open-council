@@ -20,7 +20,6 @@ export interface Councillor {
 
 export interface DashboardViewOptions {
   committees: Committee[]
-  years: number[]
   councillors: Councillor[]
   recentMeetingsLimit: number
 }
@@ -36,7 +35,6 @@ const defaultOptions: DashboardViewOptions = {
     { name: "Budget Committee", slug: "budget" },
     { name: "City Council", slug: "city-council", count: 107 },
   ],
-  years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011],
   councillors: [
     { name: "J. Morgan", slug: "j-morgan", role: "Mayor" },
     { name: "P. Cuddy", slug: "p-cuddy" },
@@ -92,12 +90,12 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
               <span class="stat-label">Meetings</span>
             </div>
             <div class="stat-card">
-              <span class="stat-number">14</span>
-              <span class="stat-label">Years</span>
-            </div>
-            <div class="stat-card">
               <span class="stat-number">{opts.committees.length}</span>
               <span class="stat-label">Committees</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-number">{opts.councillors.length}</span>
+              <span class="stat-label">Councillors</span>
             </div>
           </div>
 
@@ -146,18 +144,6 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
               })}
             </ul>
             <a href="#" class="panel-more browse-all-link">View all meetings →</a>
-          </div>
-
-          {/* Years Panel */}
-          <div class="dashboard-panel">
-            <h3 class="panel-title">Browse by Year</h3>
-            <div class="years-grid">
-              {opts.years.map((year) => (
-                <a href={`/years/${year}`} class="year-link">
-                  {year}
-                </a>
-              ))}
-            </div>
           </div>
 
           {/* Councillors Panel */}

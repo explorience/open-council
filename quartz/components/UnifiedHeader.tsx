@@ -80,9 +80,12 @@ const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
 
       {/* Mobile menu dropdown */}
       <nav class="header-mobile-menu" aria-label="Mobile navigation">
-        <a href="/about" class="mobile-menu-item">About</a>
-        <button class="mobile-menu-item chat-trigger-mobile">Chat with AI</button>
+        <a href="/councillors" class="mobile-menu-item">Councillors</a>
+        <a href="/committees/city-council" class="mobile-menu-item">City Council</a>
+        <a href="/committees/planning-environment" class="mobile-menu-item">Planning Committee</a>
         <button class="mobile-menu-item browse-trigger-mobile">Browse All Meetings</button>
+        <button class="mobile-menu-item chat-trigger-mobile">Chat with AI</button>
+        <a href="/about" class="mobile-menu-item">About</a>
       </nav>
     </header>
   )
