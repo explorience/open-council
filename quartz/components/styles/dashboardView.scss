@@ -44,6 +44,7 @@
   border-radius: 8px;
   text-decoration: none;
   transition: all 0.15s ease;
+  flex-shrink: 0;
 
   &:hover {
     background: var(--lightgray);
@@ -59,6 +60,7 @@
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--secondary);
+  white-space: nowrap;
 
   @media (max-width: 600px) {
     font-size: 1.1rem;
@@ -70,6 +72,7 @@
   color: var(--gray);
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  white-space: nowrap;
 }
 
 // Main Grid

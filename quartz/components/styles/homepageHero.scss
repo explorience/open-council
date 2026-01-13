@@ -16,6 +16,7 @@
   margin: 0 auto;
   padding: 0 1rem;
   font-family: var(--bodyFont);
+  box-sizing: border-box;
 
   // Default hero state (title is in header, so less padding needed)
   &:not(.chat-active) {
