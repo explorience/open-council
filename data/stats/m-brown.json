@@ -2,62 +2,62 @@
   "councillor": "Matt Brown",
   "slug": "m-brown",
   "attendance": {
-    "totalMeetings": 895,
+    "totalMeetings": 431,
     "present": 402,
-    "absent": 493,
+    "absent": 29,
     "remote": 0,
-    "attendanceRate": 44.91620111731844,
+    "attendanceRate": 93.27146171693735,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 85.71428571428571,
+        "attendanceRate": 100,
         "meetingsAttended": 12,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 46.590909090909086,
+        "attendanceRate": 100,
         "meetingsAttended": 41,
-        "meetingsTotal": 88
+        "meetingsTotal": 41
       },
       {
         "period": "2013",
-        "attendanceRate": 45,
+        "attendanceRate": 100,
         "meetingsAttended": 63,
-        "meetingsTotal": 140
+        "meetingsTotal": 63
       },
       {
         "period": "2014",
-        "attendanceRate": 51.515151515151516,
+        "attendanceRate": 100,
         "meetingsAttended": 68,
-        "meetingsTotal": 132
+        "meetingsTotal": 68
       },
       {
         "period": "2015",
-        "attendanceRate": 38.028169014084504,
+        "attendanceRate": 98.18181818181819,
         "meetingsAttended": 54,
-        "meetingsTotal": 142
+        "meetingsTotal": 55
       },
       {
         "period": "2016",
-        "attendanceRate": 41.78082191780822,
+        "attendanceRate": 96.82539682539682,
         "meetingsAttended": 61,
-        "meetingsTotal": 146
+        "meetingsTotal": 63
       },
       {
         "period": "2017",
-        "attendanceRate": 39.84375,
+        "attendanceRate": 100,
         "meetingsAttended": 51,
-        "meetingsTotal": 128
+        "meetingsTotal": 51
       },
       {
         "period": "2018",
-        "attendanceRate": 49.523809523809526,
+        "attendanceRate": 66.66666666666666,
         "meetingsAttended": 52,
-        "meetingsTotal": 105
+        "meetingsTotal": 78
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 5759,

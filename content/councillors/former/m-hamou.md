@@ -9,15 +9,15 @@ totalVotes: 5
 votesYea: 0
 votesNay: 3
 votesAbsent: 2
-attendanceRate: 30.1
+attendanceRate: 100.0
 participationRate: 60.0
 yeaRate: 0.0
 contestedDissentRate: 100.0
 contestedVotes: 3
 prefillQuestions:
-  - "What was Mariam Hamou's attendance rate compared to other council members during her 2021-2022 term?"
-  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
-  - "How did she vote on major municipal issues and bylaws that came before council during her tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -59,14 +59,14 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 30.1%
-- **Meetings Attended**: 58 of 193
-- **Meetings Missed**: 135
-- **Trend**: Improving ^
+- **Attendance Rate**: 100.0%
+- **Meetings Attended**: 58 of 58
+- **Meetings Missed**: 0
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2021: 8.1% (8/99 meetings)
-  - 2022: 53.2% (50/94 meetings)
+  - 2021: 100.0% (8/8 meetings)
+  - 2022: 100.0% (50/50 meetings)
 
 
 ## Committee Activity Breakdown

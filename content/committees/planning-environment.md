@@ -4,14 +4,12 @@ type: committee
 slug: "planning-environment"
 meetingCount: 286
 prefillQuestions:
-  - "How can residents participate in Planning and Environment Committee meetings when developments are proposed in their neighborhoods?"
-  - "What criteria does the committee use to evaluate whether a development proposal should be approved or denied?"
-  - "How does the committee balance economic development interests with environmental protection and community concerns?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Planning and Environment Committee is a standing committee of London City Council that plays a crucial role in shaping the city's physical development and environmental stewardship. As one of the key governance bodies, this committee is responsible for reviewing and making recommendations on planning applications, zoning amendments, subdivision proposals, and official plan updates that guide how London grows and develops. The committee typically examines development proposals ranging from residential subdivisions and commercial projects to major infrastructure initiatives, ensuring they align with the city's planning policies and vision.
-
-Beyond land use planning, the committee also addresses environmental matters that affect the city's sustainability and quality of life. This includes reviewing environmental assessments, climate action initiatives, waste management policies, and natural heritage conservation efforts. With 286 meetings held to date, the committee demonstrates the ongoing nature of urban planning and environmental oversight required in a growing city like London. The committee serves as a bridge between city staff recommendations, public input, and final council decisions, making it a vital forum for community engagement on matters that directly impact residents' neighborhoods and the city's long-term development.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

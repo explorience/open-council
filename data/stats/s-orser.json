@@ -2,38 +2,38 @@
   "councillor": "Stephen Orser",
   "slug": "s-orser",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 177,
     "present": 161,
-    "absent": 213,
+    "absent": 16,
     "remote": 0,
-    "attendanceRate": 43.04812834224599,
+    "attendanceRate": 90.96045197740112,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 71.42857142857143,
+        "attendanceRate": 83.33333333333334,
         "meetingsAttended": 10,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 54.54545454545454,
+        "attendanceRate": 92.3076923076923,
         "meetingsAttended": 48,
-        "meetingsTotal": 88
+        "meetingsTotal": 52
       },
       {
         "period": "2013",
-        "attendanceRate": 37.857142857142854,
+        "attendanceRate": 96.36363636363636,
         "meetingsAttended": 53,
-        "meetingsTotal": 140
+        "meetingsTotal": 55
       },
       {
         "period": "2014",
-        "attendanceRate": 37.878787878787875,
+        "attendanceRate": 86.20689655172413,
         "meetingsAttended": 50,
-        "meetingsTotal": 132
+        "meetingsTotal": 58
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2074,

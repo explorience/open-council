@@ -9,15 +9,15 @@ totalVotes: 2048
 votesYea: 1851
 votesNay: 197
 votesAbsent: 0
-attendanceRate: 38.8
+attendanceRate: 88.4
 participationRate: 100.0
 yeaRate: 90.4
 contestedDissentRate: 9.8
 contestedVotes: 2048
 prefillQuestions:
-  - "What was Denise Brown's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her attendance rate for each committee?"
-  - "How did her 95-meeting attendance compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 38.8%
-- **Meetings Attended**: 145 of 374
-- **Meetings Missed**: 229
-- **Trend**: Declining v
+- **Attendance Rate**: 88.4%
+- **Meetings Attended**: 145 of 164
+- **Meetings Missed**: 19
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2011: 71.4% (10/14 meetings)
-  - 2012: 36.4% (32/88 meetings)
-  - 2013: 37.1% (52/140 meetings)
-  - 2014: 38.6% (51/132 meetings)
+  - 2011: 90.9% (10/11 meetings)
+  - 2012: 91.4% (32/35 meetings)
+  - 2013: 88.1% (52/59 meetings)
+  - 2014: 86.4% (51/59 meetings)
 
 
 ## Committee Activity Breakdown

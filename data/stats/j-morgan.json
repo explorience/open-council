@@ -2,86 +2,86 @@
   "councillor": "Josh Morgan",
   "slug": "j-morgan",
   "attendance": {
-    "totalMeetings": 1390,
+    "totalMeetings": 767,
     "present": 706,
-    "absent": 684,
+    "absent": 61,
     "remote": 1,
-    "attendanceRate": 50.79136690647482,
+    "attendanceRate": 92.04693611473273,
     "trend": [
       {
         "period": "2014",
-        "attendanceRate": 6.0606060606060606,
+        "attendanceRate": 100,
         "meetingsAttended": 8,
-        "meetingsTotal": 132
+        "meetingsTotal": 8
       },
       {
         "period": "2015",
-        "attendanceRate": 66.19718309859155,
+        "attendanceRate": 98.94736842105263,
         "meetingsAttended": 94,
-        "meetingsTotal": 142
+        "meetingsTotal": 95
       },
       {
         "period": "2016",
-        "attendanceRate": 60.273972602739725,
+        "attendanceRate": 98.87640449438202,
         "meetingsAttended": 88,
-        "meetingsTotal": 146
+        "meetingsTotal": 89
       },
       {
         "period": "2017",
-        "attendanceRate": 49.21875,
+        "attendanceRate": 96.92307692307692,
         "meetingsAttended": 63,
-        "meetingsTotal": 128
+        "meetingsTotal": 65
       },
       {
         "period": "2018",
-        "attendanceRate": 45.714285714285715,
+        "attendanceRate": 90.56603773584906,
         "meetingsAttended": 48,
-        "meetingsTotal": 105
+        "meetingsTotal": 53
       },
       {
         "period": "2019",
-        "attendanceRate": 56.14035087719298,
+        "attendanceRate": 94.11764705882352,
         "meetingsAttended": 64,
-        "meetingsTotal": 114
+        "meetingsTotal": 68
       },
       {
         "period": "2020",
-        "attendanceRate": 58.92857142857143,
+        "attendanceRate": 98.50746268656717,
         "meetingsAttended": 66,
-        "meetingsTotal": 112
+        "meetingsTotal": 67
       },
       {
         "period": "2021",
-        "attendanceRate": 53.535353535353536,
+        "attendanceRate": 100,
         "meetingsAttended": 53,
-        "meetingsTotal": 99
+        "meetingsTotal": 53
       },
       {
         "period": "2022",
-        "attendanceRate": 57.446808510638306,
+        "attendanceRate": 98.18181818181819,
         "meetingsAttended": 54,
-        "meetingsTotal": 94
+        "meetingsTotal": 55
       },
       {
         "period": "2023",
-        "attendanceRate": 51.75438596491229,
+        "attendanceRate": 56.19047619047619,
         "meetingsAttended": 59,
-        "meetingsTotal": 114
+        "meetingsTotal": 105
       },
       {
         "period": "2024",
-        "attendanceRate": 54.46428571428571,
+        "attendanceRate": 100,
         "meetingsAttended": 61,
-        "meetingsTotal": 112
+        "meetingsTotal": 61
       },
       {
         "period": "2025",
-        "attendanceRate": 52.17391304347826,
+        "attendanceRate": 100,
         "meetingsAttended": 48,
-        "meetingsTotal": 92
+        "meetingsTotal": 48
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "improving"
   },
   "voting": {
     "totalVotes": 10581,

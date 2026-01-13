@@ -9,15 +9,15 @@ totalVotes: 2215
 votesYea: 2024
 votesNay: 191
 votesAbsent: 0
-attendanceRate: 58.3
+attendanceRate: 89.7
 participationRate: 100.0
 yeaRate: 91.4
 contestedDissentRate: 10.3
 contestedVotes: 2215
 prefillQuestions:
-  - "What was Judy Bryant's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 58.3%
-- **Meetings Attended**: 218 of 374
-- **Meetings Missed**: 156
-- **Trend**: Declining v
+- **Attendance Rate**: 89.7%
+- **Meetings Attended**: 218 of 243
+- **Meetings Missed**: 25
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2011: 78.6% (11/14 meetings)
-  - 2012: 59.1% (52/88 meetings)
-  - 2013: 57.9% (81/140 meetings)
-  - 2014: 56.1% (74/132 meetings)
+  - 2011: 91.7% (11/12 meetings)
+  - 2012: 85.2% (52/61 meetings)
+  - 2013: 91.0% (81/89 meetings)
+  - 2014: 91.4% (74/81 meetings)
 
 
 ## Committee Activity Breakdown

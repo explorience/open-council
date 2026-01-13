@@ -9,15 +9,15 @@ totalVotes: 5
 votesYea: 4
 votesNay: 0
 votesAbsent: 1
-attendanceRate: 34.2
+attendanceRate: 100.0
 participationRate: 80.0
 yeaRate: 100.0
 contestedDissentRate: 0.0
 contestedVotes: 0
 prefillQuestions:
-  - "What was John Fyfe-Millar's voting record on key municipal issues such as budget approvals, development projects, or policy changes during his 2021-2022 tenure?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus general council meetings?"
-  - "Did he sponsor or champion any particular motions, bylaws, or initiatives during his time on London City Council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -49,14 +49,14 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 34.2%
-- **Meetings Attended**: 66 of 193
-- **Meetings Missed**: 127
-- **Trend**: Improving ^
+- **Attendance Rate**: 100.0%
+- **Meetings Attended**: 66 of 66
+- **Meetings Missed**: 0
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2021: 14.1% (14/99 meetings)
-  - 2022: 55.3% (52/94 meetings)
+  - 2021: 100.0% (14/14 meetings)
+  - 2022: 100.0% (52/52 meetings)
 
 
 ## Committee Activity Breakdown

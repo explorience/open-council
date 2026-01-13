@@ -2,44 +2,44 @@
   "councillor": "Ed Holder",
   "slug": "e-holder",
   "attendance": {
-    "totalMeetings": 524,
+    "totalMeetings": 398,
     "present": 313,
-    "absent": 211,
+    "absent": 85,
     "remote": 0,
-    "attendanceRate": 59.732824427480914,
+    "attendanceRate": 78.64321608040201,
     "trend": [
       {
         "period": "2018",
-        "attendanceRate": 4.761904761904762,
+        "attendanceRate": 55.55555555555556,
         "meetingsAttended": 5,
-        "meetingsTotal": 105
+        "meetingsTotal": 9
       },
       {
         "period": "2019",
-        "attendanceRate": 66.66666666666666,
+        "attendanceRate": 70.37037037037037,
         "meetingsAttended": 76,
-        "meetingsTotal": 114
+        "meetingsTotal": 108
       },
       {
         "period": "2020",
-        "attendanceRate": 85.71428571428571,
+        "attendanceRate": 88.07339449541286,
         "meetingsAttended": 96,
-        "meetingsTotal": 112
+        "meetingsTotal": 109
       },
       {
         "period": "2021",
-        "attendanceRate": 83.83838383838383,
+        "attendanceRate": 87.36842105263159,
         "meetingsAttended": 83,
-        "meetingsTotal": 99
+        "meetingsTotal": 95
       },
       {
         "period": "2022",
-        "attendanceRate": 56.38297872340425,
+        "attendanceRate": 68.83116883116884,
         "meetingsAttended": 53,
-        "meetingsTotal": 94
+        "meetingsTotal": 77
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 4268,

@@ -9,15 +9,15 @@ totalVotes: 4268
 votesYea: 3222
 votesNay: 126
 votesAbsent: 920
-attendanceRate: 59.7
+attendanceRate: 78.6
 participationRate: 78.4
 yeaRate: 96.2
 contestedDissentRate: 8.2
 contestedVotes: 777
 prefillQuestions:
-  - "What was Ed Holder's voting record on major municipal issues during his 2018-2022 term?"
-  - "How does his meeting attendance rate of 313 meetings compare to other council members during the same period?"
-  - "Which specific committees did Ed Holder serve on and what was his level of participation in committee work versus general council meetings?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 59.7%
-- **Meetings Attended**: 313 of 524
-- **Meetings Missed**: 211
-- **Trend**: Stable -
+- **Attendance Rate**: 78.6%
+- **Meetings Attended**: 313 of 398
+- **Meetings Missed**: 85
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2019: 66.7% (76/114 meetings)
-  - 2020: 85.7% (96/112 meetings)
-  - 2021: 83.8% (83/99 meetings)
-  - 2022: 56.4% (53/94 meetings)
+  - 2019: 70.4% (76/108 meetings)
+  - 2020: 88.1% (96/109 meetings)
+  - 2021: 87.4% (83/95 meetings)
+  - 2022: 68.8% (53/77 meetings)
 
 
 ## Committee Activity Breakdown

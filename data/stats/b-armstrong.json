@@ -2,62 +2,56 @@
   "councillor": "Bill Armstrong",
   "slug": "b-armstrong",
   "attendance": {
-    "totalMeetings": 895,
+    "totalMeetings": 349,
     "present": 328,
-    "absent": 567,
+    "absent": 21,
     "remote": 0,
-    "attendanceRate": 36.64804469273743,
+    "attendanceRate": 93.98280802292264,
     "trend": [
       {
-        "period": "2011",
-        "attendanceRate": 0,
-        "meetingsAttended": 0,
-        "meetingsTotal": 14
-      },
-      {
         "period": "2012",
-        "attendanceRate": 1.1363636363636365,
+        "attendanceRate": 50,
         "meetingsAttended": 1,
-        "meetingsTotal": 88
+        "meetingsTotal": 2
       },
       {
         "period": "2013",
-        "attendanceRate": 28.57142857142857,
+        "attendanceRate": 97.5609756097561,
         "meetingsAttended": 40,
-        "meetingsTotal": 140
+        "meetingsTotal": 41
       },
       {
         "period": "2014",
-        "attendanceRate": 44.696969696969695,
+        "attendanceRate": 95.16129032258065,
         "meetingsAttended": 59,
-        "meetingsTotal": 132
+        "meetingsTotal": 62
       },
       {
         "period": "2015",
-        "attendanceRate": 45.07042253521127,
+        "attendanceRate": 95.52238805970148,
         "meetingsAttended": 64,
-        "meetingsTotal": 142
+        "meetingsTotal": 67
       },
       {
         "period": "2016",
-        "attendanceRate": 45.89041095890411,
+        "attendanceRate": 95.71428571428572,
         "meetingsAttended": 67,
-        "meetingsTotal": 146
+        "meetingsTotal": 70
       },
       {
         "period": "2017",
-        "attendanceRate": 46.875,
+        "attendanceRate": 92.3076923076923,
         "meetingsAttended": 60,
-        "meetingsTotal": 128
+        "meetingsTotal": 65
       },
       {
         "period": "2018",
-        "attendanceRate": 35.23809523809524,
+        "attendanceRate": 88.09523809523809,
         "meetingsAttended": 37,
-        "meetingsTotal": 105
+        "meetingsTotal": 42
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 4434,

@@ -9,15 +9,15 @@ totalVotes: 2987
 votesYea: 2742
 votesNay: 245
 votesAbsent: 0
-attendanceRate: 65.0
+attendanceRate: 98.8
 participationRate: 100.0
 yeaRate: 91.8
 contestedDissentRate: 8.9
 contestedVotes: 2987
 prefillQuestions:
-  - "What was Bud Polhill's voting record on key municipal issues such as budget approvals, development projects, or policy changes during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How does their meeting attendance rate of 199 sessions compare to other council members who served during the same 2011-2014 period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 65.0%
-- **Meetings Attended**: 243 of 374
-- **Meetings Missed**: 131
+- **Attendance Rate**: 98.8%
+- **Meetings Attended**: 243 of 246
+- **Meetings Missed**: 3
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2011: 64.3% (9/14 meetings)
-  - 2012: 68.2% (60/88 meetings)
-  - 2013: 66.4% (93/140 meetings)
-  - 2014: 61.4% (81/132 meetings)
+  - 2011: 90.0% (9/10 meetings)
+  - 2012: 98.4% (60/61 meetings)
+  - 2013: 100.0% (93/93 meetings)
+  - 2014: 98.8% (81/82 meetings)
 
 
 ## Committee Activity Breakdown

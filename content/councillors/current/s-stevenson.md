@@ -9,15 +9,15 @@ totalVotes: 3138
 votesYea: 2217
 votesNay: 481
 votesAbsent: 440
-attendanceRate: 41.3
+attendanceRate: 88.5
 participationRate: 86.0
 yeaRate: 82.2
 contestedDissentRate: 35.7
 contestedVotes: 1160
 prefillQuestions:
-  - "What specific committees has Susan Stevenson served on and what were her primary responsibilities on each?"
-  - "How does her meeting attendance rate of 178 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on major city issues such as budget approvals, development projects, or policy changes?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 41.3%
-- **Meetings Attended**: 170 of 412
-- **Meetings Missed**: 242
+- **Attendance Rate**: 88.5%
+- **Meetings Attended**: 170 of 192
+- **Meetings Missed**: 22
 - **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2022: 9.6% (9/94 meetings)
-  - 2023: 61.4% (70/114 meetings)
-  - 2024: 52.7% (59/112 meetings)
-  - 2025: 34.8% (32/92 meetings)
+  - 2022: 100.0% (9/9 meetings)
+  - 2023: 88.6% (70/79 meetings)
+  - 2024: 89.4% (59/66 meetings)
+  - 2025: 84.2% (32/38 meetings)
 
 
 ## Voting Alignment

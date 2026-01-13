@@ -2,38 +2,38 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 412,
+    "totalMeetings": 211,
     "present": 202,
-    "absent": 210,
+    "absent": 9,
     "remote": 0,
-    "attendanceRate": 49.029126213592235,
+    "attendanceRate": 95.73459715639811,
     "trend": [
       {
         "period": "2022",
-        "attendanceRate": 9.574468085106384,
+        "attendanceRate": 100,
         "meetingsAttended": 9,
-        "meetingsTotal": 94
+        "meetingsTotal": 9
       },
       {
         "period": "2023",
-        "attendanceRate": 64.03508771929825,
+        "attendanceRate": 94.8051948051948,
         "meetingsAttended": 73,
-        "meetingsTotal": 114
+        "meetingsTotal": 77
       },
       {
         "period": "2024",
-        "attendanceRate": 61.60714285714286,
+        "attendanceRate": 93.24324324324324,
         "meetingsAttended": 69,
-        "meetingsTotal": 112
+        "meetingsTotal": 74
       },
       {
         "period": "2025",
-        "attendanceRate": 55.434782608695656,
+        "attendanceRate": 100,
         "meetingsAttended": 51,
-        "meetingsTotal": 92
+        "meetingsTotal": 51
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 3265,

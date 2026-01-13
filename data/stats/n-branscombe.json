@@ -2,35 +2,35 @@
   "councillor": "Nancy Branscombe",
   "slug": "n-branscombe",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 225,
     "present": 156,
-    "absent": 218,
+    "absent": 69,
     "remote": 0,
-    "attendanceRate": 41.711229946524064,
+    "attendanceRate": 69.33333333333334,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 57.14285714285714,
+        "attendanceRate": 88.88888888888889,
         "meetingsAttended": 8,
-        "meetingsTotal": 14
+        "meetingsTotal": 9
       },
       {
         "period": "2012",
-        "attendanceRate": 35.22727272727273,
+        "attendanceRate": 79.48717948717949,
         "meetingsAttended": 31,
-        "meetingsTotal": 88
+        "meetingsTotal": 39
       },
       {
         "period": "2013",
-        "attendanceRate": 56.42857142857143,
+        "attendanceRate": 79.7979797979798,
         "meetingsAttended": 79,
-        "meetingsTotal": 140
+        "meetingsTotal": 99
       },
       {
         "period": "2014",
-        "attendanceRate": 28.78787878787879,
+        "attendanceRate": 48.717948717948715,
         "meetingsAttended": 38,
-        "meetingsTotal": 132
+        "meetingsTotal": 78
       }
     ],
     "trendDirection": "declining"

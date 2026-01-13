@@ -9,15 +9,15 @@ totalVotes: 3550
 votesYea: 2972
 votesNay: 281
 votesAbsent: 297
-attendanceRate: 42.2
+attendanceRate: 96.1
 participationRate: 91.6
 yeaRate: 91.4
 contestedDissentRate: 23.3
 contestedVotes: 1212
 prefillQuestions:
-  - "What is Skylar Franke's voting record on major budget decisions and tax rate changes during their 2022-2025 term?"
-  - "How often has Skylar Franke proposed or sponsored motions and resolutions at council meetings?"
-  - "What specific committees does Skylar Franke serve on and what role do they play in committee leadership or key decisions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 42.2%
-- **Meetings Attended**: 174 of 412
-- **Meetings Missed**: 238
-- **Trend**: Stable -
+- **Attendance Rate**: 96.1%
+- **Meetings Attended**: 174 of 181
+- **Meetings Missed**: 7
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2022: 8.5% (8/94 meetings)
-  - 2023: 52.6% (60/114 meetings)
-  - 2024: 58.0% (65/112 meetings)
-  - 2025: 44.6% (41/92 meetings)
+  - 2022: 100.0% (8/8 meetings)
+  - 2023: 98.4% (60/61 meetings)
+  - 2024: 97.0% (65/67 meetings)
+  - 2025: 91.1% (41/45 meetings)
 
 
 ## Voting Alignment

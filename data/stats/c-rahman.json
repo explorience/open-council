@@ -2,38 +2,38 @@
   "councillor": "Corrine Rahman",
   "slug": "c-rahman",
   "attendance": {
-    "totalMeetings": 412,
+    "totalMeetings": 193,
     "present": 193,
-    "absent": 219,
+    "absent": 0,
     "remote": 0,
-    "attendanceRate": 46.84466019417476,
+    "attendanceRate": 100,
     "trend": [
       {
         "period": "2022",
-        "attendanceRate": 9.574468085106384,
+        "attendanceRate": 100,
         "meetingsAttended": 9,
-        "meetingsTotal": 94
+        "meetingsTotal": 9
       },
       {
         "period": "2023",
-        "attendanceRate": 63.1578947368421,
+        "attendanceRate": 100,
         "meetingsAttended": 72,
-        "meetingsTotal": 114
+        "meetingsTotal": 72
       },
       {
         "period": "2024",
-        "attendanceRate": 54.46428571428571,
+        "attendanceRate": 100,
         "meetingsAttended": 61,
-        "meetingsTotal": 112
+        "meetingsTotal": 61
       },
       {
         "period": "2025",
-        "attendanceRate": 55.434782608695656,
+        "attendanceRate": 100,
         "meetingsAttended": 51,
-        "meetingsTotal": 92
+        "meetingsTotal": 51
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 3194,

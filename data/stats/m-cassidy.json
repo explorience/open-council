@@ -2,65 +2,65 @@
   "councillor": "Maureen Cassidy",
   "slug": "m-cassidy",
   "attendance": {
-    "totalMeetings": 1072,
+    "totalMeetings": 593,
     "present": 569,
-    "absent": 503,
+    "absent": 24,
     "remote": 1,
-    "attendanceRate": 53.07835820895522,
+    "attendanceRate": 95.95278246205734,
     "trend": [
       {
         "period": "2014",
-        "attendanceRate": 6.0606060606060606,
+        "attendanceRate": 100,
         "meetingsAttended": 8,
-        "meetingsTotal": 132
+        "meetingsTotal": 8
       },
       {
         "period": "2015",
-        "attendanceRate": 70.4225352112676,
+        "attendanceRate": 99.00990099009901,
         "meetingsAttended": 100,
-        "meetingsTotal": 142
+        "meetingsTotal": 101
       },
       {
         "period": "2016",
-        "attendanceRate": 45.20547945205479,
+        "attendanceRate": 82.5,
         "meetingsAttended": 66,
-        "meetingsTotal": 146
+        "meetingsTotal": 80
       },
       {
         "period": "2017",
-        "attendanceRate": 57.8125,
+        "attendanceRate": 96.1038961038961,
         "meetingsAttended": 74,
-        "meetingsTotal": 128
+        "meetingsTotal": 77
       },
       {
         "period": "2018",
-        "attendanceRate": 61.904761904761905,
+        "attendanceRate": 98.48484848484848,
         "meetingsAttended": 65,
-        "meetingsTotal": 105
+        "meetingsTotal": 66
       },
       {
         "period": "2019",
-        "attendanceRate": 59.64912280701754,
+        "attendanceRate": 97.14285714285714,
         "meetingsAttended": 68,
-        "meetingsTotal": 114
+        "meetingsTotal": 70
       },
       {
         "period": "2020",
-        "attendanceRate": 68.75,
+        "attendanceRate": 100,
         "meetingsAttended": 77,
-        "meetingsTotal": 112
+        "meetingsTotal": 77
       },
       {
         "period": "2021",
-        "attendanceRate": 64.64646464646465,
+        "attendanceRate": 100,
         "meetingsAttended": 64,
-        "meetingsTotal": 99
+        "meetingsTotal": 64
       },
       {
         "period": "2022",
-        "attendanceRate": 50,
+        "attendanceRate": 94,
         "meetingsAttended": 47,
-        "meetingsTotal": 94
+        "meetingsTotal": 50
       }
     ],
     "trendDirection": "stable"

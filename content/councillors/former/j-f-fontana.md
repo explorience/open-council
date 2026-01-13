@@ -9,15 +9,15 @@ totalVotes: 2408
 votesYea: 2240
 votesNay: 168
 votesAbsent: 0
-attendanceRate: 46.0
+attendanceRate: 95.6
 participationRate: 100.0
 yeaRate: 93.0
 contestedDissentRate: 7.4
 contestedVotes: 2408
 prefillQuestions:
-  - "What was Joe Fontana's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for each committee?"
-  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 46.0%
-- **Meetings Attended**: 172 of 374
-- **Meetings Missed**: 202
-- **Trend**: Declining v
+- **Attendance Rate**: 95.6%
+- **Meetings Attended**: 172 of 180
+- **Meetings Missed**: 8
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2011: 64.3% (9/14 meetings)
-  - 2012: 44.3% (39/88 meetings)
-  - 2013: 61.4% (86/140 meetings)
-  - 2014: 28.8% (38/132 meetings)
+  - 2011: 90.0% (9/10 meetings)
+  - 2012: 97.5% (39/40 meetings)
+  - 2013: 97.7% (86/88 meetings)
+  - 2014: 90.5% (38/42 meetings)
 
 
 ## Committee Activity Breakdown

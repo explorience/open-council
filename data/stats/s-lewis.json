@@ -2,59 +2,59 @@
   "councillor": "Shawn Lewis",
   "slug": "s-lewis",
   "attendance": {
-    "totalMeetings": 842,
+    "totalMeetings": 469,
     "present": 464,
-    "absent": 378,
+    "absent": 5,
     "remote": 2,
-    "attendanceRate": 55.10688836104512,
+    "attendanceRate": 98.93390191897655,
     "trend": [
       {
         "period": "2018",
-        "attendanceRate": 6.666666666666667,
+        "attendanceRate": 100,
         "meetingsAttended": 7,
-        "meetingsTotal": 105
+        "meetingsTotal": 7
       },
       {
         "period": "2019",
-        "attendanceRate": 57.89473684210527,
+        "attendanceRate": 100,
         "meetingsAttended": 66,
-        "meetingsTotal": 114
+        "meetingsTotal": 66
       },
       {
         "period": "2020",
-        "attendanceRate": 62.5,
+        "attendanceRate": 97.22222222222221,
         "meetingsAttended": 70,
-        "meetingsTotal": 112
+        "meetingsTotal": 72
       },
       {
         "period": "2021",
-        "attendanceRate": 63.63636363636363,
+        "attendanceRate": 100,
         "meetingsAttended": 63,
-        "meetingsTotal": 99
+        "meetingsTotal": 63
       },
       {
         "period": "2022",
-        "attendanceRate": 68.08510638297872,
+        "attendanceRate": 100,
         "meetingsAttended": 64,
-        "meetingsTotal": 94
+        "meetingsTotal": 64
       },
       {
         "period": "2023",
-        "attendanceRate": 73.68421052631578,
+        "attendanceRate": 100,
         "meetingsAttended": 84,
-        "meetingsTotal": 114
+        "meetingsTotal": 84
       },
       {
         "period": "2024",
-        "attendanceRate": 55.35714285714286,
+        "attendanceRate": 98.4126984126984,
         "meetingsAttended": 62,
-        "meetingsTotal": 112
+        "meetingsTotal": 63
       },
       {
         "period": "2025",
-        "attendanceRate": 52.17391304347826,
+        "attendanceRate": 96,
         "meetingsAttended": 48,
-        "meetingsTotal": 92
+        "meetingsTotal": 50
       }
     ],
     "trendDirection": "stable"

@@ -9,15 +9,15 @@ totalVotes: 2640
 votesYea: 2432
 votesNay: 208
 votesAbsent: 0
-attendanceRate: 47.1
+attendanceRate: 93.1
 participationRate: 100.0
 yeaRate: 92.1
 contestedDissentRate: 10.0
 contestedVotes: 2640
 prefillQuestions:
-  - "What was Joni Baechler's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
-  - "Which specific committees did Baechler serve on and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "What were the key issues or motions that Baechler voted on during major council decisions between 2011-2014?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 47.1%
-- **Meetings Attended**: 176 of 374
-- **Meetings Missed**: 198
-- **Trend**: Declining v
+- **Attendance Rate**: 93.1%
+- **Meetings Attended**: 176 of 189
+- **Meetings Missed**: 13
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2011: 64.3% (9/14 meetings)
-  - 2012: 53.4% (47/88 meetings)
-  - 2013: 40.7% (57/140 meetings)
-  - 2014: 47.7% (63/132 meetings)
+  - 2011: 90.0% (9/10 meetings)
+  - 2012: 92.2% (47/51 meetings)
+  - 2013: 96.6% (57/59 meetings)
+  - 2014: 91.3% (63/69 meetings)
 
 
 ## Committee Activity Breakdown

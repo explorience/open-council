@@ -2,38 +2,38 @@
   "councillor": "Joni Baechler",
   "slug": "j-l-baechler",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 189,
     "present": 176,
-    "absent": 198,
+    "absent": 13,
     "remote": 0,
-    "attendanceRate": 47.05882352941176,
+    "attendanceRate": 93.12169312169311,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 64.28571428571429,
+        "attendanceRate": 90,
         "meetingsAttended": 9,
-        "meetingsTotal": 14
+        "meetingsTotal": 10
       },
       {
         "period": "2012",
-        "attendanceRate": 53.40909090909091,
+        "attendanceRate": 92.15686274509804,
         "meetingsAttended": 47,
-        "meetingsTotal": 88
+        "meetingsTotal": 51
       },
       {
         "period": "2013",
-        "attendanceRate": 40.714285714285715,
+        "attendanceRate": 96.61016949152543,
         "meetingsAttended": 57,
-        "meetingsTotal": 140
+        "meetingsTotal": 59
       },
       {
         "period": "2014",
-        "attendanceRate": 47.72727272727273,
+        "attendanceRate": 91.30434782608695,
         "meetingsAttended": 63,
-        "meetingsTotal": 132
+        "meetingsTotal": 69
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2640,

@@ -4,14 +4,12 @@ type: committee
 slug: "budget"
 meetingCount: 23
 prefillQuestions:
-  - "How can residents participate in the Budget Committee's public consultation process and provide input on spending priorities?"
-  - "What is the timeline for the multi-year budget process, and when are key decisions made that affect property taxes and city services?"
-  - "Where can citizens access detailed information about budget proposals and committee recommendations before they go to City Council for final approval?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Budget Committee of London City Council serves as a specialized committee responsible for reviewing, analyzing, and making recommendations on the city's financial planning and budgetary matters. Based on the meeting records, this committee plays a central role in developing and overseeing London's multi-year budget cycles, including the comprehensive 2024-2027 Multi-Year Budget process. The committee conducts detailed examinations of municipal spending proposals, revenue projections, and fiscal policies that will guide the city's operations and capital investments over multiple years.
-
-The committee's work involves extensive deliberation, as evidenced by continuation meetings and special council sessions dedicated to budget discussions. They address both annual budget updates and long-term financial planning, ensuring that London's fiscal framework aligns with community needs and municipal priorities. The committee also facilitates public participation in the budget process, providing opportunities for citizen input on how taxpayer dollars should be allocated across various city services, infrastructure projects, and municipal programs. Their recommendations ultimately inform City Council's final budget decisions, making this committee a crucial component of London's democratic governance and financial accountability structure.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

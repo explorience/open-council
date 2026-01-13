@@ -9,15 +9,15 @@ totalVotes: 5759
 votesYea: 5290
 votesNay: 336
 votesAbsent: 133
-attendanceRate: 44.9
+attendanceRate: 93.3
 participationRate: 97.7
 yeaRate: 94.0
 contestedDissentRate: 4.9
 contestedVotes: 5310
 prefillQuestions:
-  - "What was Matt Brown's voting attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
-  - "Which specific committees did Matt Brown serve on and what were his roles or leadership positions within those committees?"
-  - "What were the key motions or initiatives that Matt Brown sponsored or championed during his time on London City Council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -72,16 +72,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 44.9%
-- **Meetings Attended**: 402 of 895
-- **Meetings Missed**: 493
-- **Trend**: Stable -
+- **Attendance Rate**: 93.3%
+- **Meetings Attended**: 402 of 431
+- **Meetings Missed**: 29
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2015: 38.0% (54/142 meetings)
-  - 2016: 41.8% (61/146 meetings)
-  - 2017: 39.8% (51/128 meetings)
-  - 2018: 49.5% (52/105 meetings)
+  - 2015: 98.2% (54/55 meetings)
+  - 2016: 96.8% (61/63 meetings)
+  - 2017: 100.0% (51/51 meetings)
+  - 2018: 66.7% (52/78 meetings)
 
 
 ## Committee Activity Breakdown

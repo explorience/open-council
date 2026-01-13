@@ -9,15 +9,15 @@ totalVotes: 6960
 votesYea: 5707
 votesNay: 470
 votesAbsent: 783
-attendanceRate: 48.9
+attendanceRate: 98.8
 participationRate: 88.8
 yeaRate: 92.4
 contestedDissentRate: 16.3
 contestedVotes: 1898
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 452 meetings compare to other council members serving similar terms?"
-  - "What has been her voting pattern on major city issues such as budget approvals, development projects, and policy initiatives?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 48.9%
-- **Meetings Attended**: 412 of 842
-- **Meetings Missed**: 430
-- **Trend**: Improving ^
+- **Attendance Rate**: 98.8%
+- **Meetings Attended**: 412 of 417
+- **Meetings Missed**: 5
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 51.1% (48/94 meetings)
-  - 2023: 50.0% (57/114 meetings)
-  - 2024: 54.5% (61/112 meetings)
-  - 2025: 57.6% (53/92 meetings)
+  - 2022: 100.0% (48/48 meetings)
+  - 2023: 98.3% (57/58 meetings)
+  - 2024: 95.3% (61/64 meetings)
+  - 2025: 100.0% (53/53 meetings)
 
 
 ## Voting Alignment

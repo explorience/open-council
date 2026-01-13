@@ -2,65 +2,65 @@
   "councillor": "Jesse Helmer",
   "slug": "j-helmer",
   "attendance": {
-    "totalMeetings": 1072,
+    "totalMeetings": 638,
     "present": 622,
-    "absent": 450,
+    "absent": 16,
     "remote": 1,
-    "attendanceRate": 58.02238805970149,
+    "attendanceRate": 97.4921630094044,
     "trend": [
       {
         "period": "2014",
-        "attendanceRate": 6.0606060606060606,
+        "attendanceRate": 100,
         "meetingsAttended": 8,
-        "meetingsTotal": 132
+        "meetingsTotal": 8
       },
       {
         "period": "2015",
-        "attendanceRate": 66.90140845070422,
+        "attendanceRate": 97.9381443298969,
         "meetingsAttended": 95,
-        "meetingsTotal": 142
+        "meetingsTotal": 97
       },
       {
         "period": "2016",
-        "attendanceRate": 61.64383561643836,
+        "attendanceRate": 97.82608695652173,
         "meetingsAttended": 90,
-        "meetingsTotal": 146
+        "meetingsTotal": 92
       },
       {
         "period": "2017",
-        "attendanceRate": 56.25,
+        "attendanceRate": 94.73684210526315,
         "meetingsAttended": 72,
-        "meetingsTotal": 128
+        "meetingsTotal": 76
       },
       {
         "period": "2018",
-        "attendanceRate": 67.61904761904762,
+        "attendanceRate": 100,
         "meetingsAttended": 71,
-        "meetingsTotal": 105
+        "meetingsTotal": 71
       },
       {
         "period": "2019",
-        "attendanceRate": 73.68421052631578,
+        "attendanceRate": 95.45454545454545,
         "meetingsAttended": 84,
-        "meetingsTotal": 114
+        "meetingsTotal": 88
       },
       {
         "period": "2020",
-        "attendanceRate": 74.10714285714286,
+        "attendanceRate": 96.51162790697676,
         "meetingsAttended": 83,
-        "meetingsTotal": 112
+        "meetingsTotal": 86
       },
       {
         "period": "2021",
-        "attendanceRate": 64.64646464646465,
+        "attendanceRate": 98.46153846153847,
         "meetingsAttended": 64,
-        "meetingsTotal": 99
+        "meetingsTotal": 65
       },
       {
         "period": "2022",
-        "attendanceRate": 58.51063829787234,
+        "attendanceRate": 100,
         "meetingsAttended": 55,
-        "meetingsTotal": 94
+        "meetingsTotal": 55
       }
     ],
     "trendDirection": "stable"

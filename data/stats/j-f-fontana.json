@@ -2,38 +2,38 @@
   "councillor": "Joe Fontana",
   "slug": "j-f-fontana",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 180,
     "present": 172,
-    "absent": 202,
+    "absent": 8,
     "remote": 0,
-    "attendanceRate": 45.98930481283423,
+    "attendanceRate": 95.55555555555556,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 64.28571428571429,
+        "attendanceRate": 90,
         "meetingsAttended": 9,
-        "meetingsTotal": 14
+        "meetingsTotal": 10
       },
       {
         "period": "2012",
-        "attendanceRate": 44.31818181818182,
+        "attendanceRate": 97.5,
         "meetingsAttended": 39,
-        "meetingsTotal": 88
+        "meetingsTotal": 40
       },
       {
         "period": "2013",
-        "attendanceRate": 61.42857142857143,
+        "attendanceRate": 97.72727272727273,
         "meetingsAttended": 86,
-        "meetingsTotal": 140
+        "meetingsTotal": 88
       },
       {
         "period": "2014",
-        "attendanceRate": 28.78787878787879,
+        "attendanceRate": 90.47619047619048,
         "meetingsAttended": 38,
-        "meetingsTotal": 132
+        "meetingsTotal": 42
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2408,

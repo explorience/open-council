@@ -2,62 +2,62 @@
   "councillor": "Paul Hubert",
   "slug": "p-hubert",
   "attendance": {
-    "totalMeetings": 895,
+    "totalMeetings": 503,
     "present": 465,
-    "absent": 430,
+    "absent": 38,
     "remote": 0,
-    "attendanceRate": 51.955307262569825,
+    "attendanceRate": 92.44532803180915,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 85.71428571428571,
+        "attendanceRate": 100,
         "meetingsAttended": 12,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 43.18181818181818,
+        "attendanceRate": 100,
         "meetingsAttended": 38,
-        "meetingsTotal": 88
+        "meetingsTotal": 38
       },
       {
         "period": "2013",
-        "attendanceRate": 46.42857142857143,
+        "attendanceRate": 92.85714285714286,
         "meetingsAttended": 65,
-        "meetingsTotal": 140
+        "meetingsTotal": 70
       },
       {
         "period": "2014",
-        "attendanceRate": 54.54545454545454,
+        "attendanceRate": 98.63013698630137,
         "meetingsAttended": 72,
-        "meetingsTotal": 132
+        "meetingsTotal": 73
       },
       {
         "period": "2015",
-        "attendanceRate": 50.70422535211267,
+        "attendanceRate": 91.13924050632912,
         "meetingsAttended": 72,
-        "meetingsTotal": 142
+        "meetingsTotal": 79
       },
       {
         "period": "2016",
-        "attendanceRate": 56.16438356164384,
+        "attendanceRate": 95.34883720930233,
         "meetingsAttended": 82,
-        "meetingsTotal": 146
+        "meetingsTotal": 86
       },
       {
         "period": "2017",
-        "attendanceRate": 52.34375,
+        "attendanceRate": 82.71604938271605,
         "meetingsAttended": 67,
-        "meetingsTotal": 128
+        "meetingsTotal": 81
       },
       {
         "period": "2018",
-        "attendanceRate": 54.285714285714285,
+        "attendanceRate": 89.0625,
         "meetingsAttended": 57,
-        "meetingsTotal": 105
+        "meetingsTotal": 64
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 6520,

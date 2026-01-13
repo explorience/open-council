@@ -9,15 +9,15 @@ totalVotes: 6305
 votesYea: 5871
 votesNay: 380
 votesAbsent: 54
-attendanceRate: 45.2
+attendanceRate: 94.8
 participationRate: 99.1
 yeaRate: 93.9
 contestedDissentRate: 6.8
 contestedVotes: 4186
 prefillQuestions:
-  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as committee chair or vice-chair?"
-  - "What were the key issues or policy areas that Phil Squire most frequently spoke about or voted on during council meetings?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 45.2%
-- **Meetings Attended**: 442 of 978
-- **Meetings Missed**: 536
-- **Trend**: Declining v
+- **Attendance Rate**: 94.8%
+- **Meetings Attended**: 442 of 466
+- **Meetings Missed**: 24
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2018: 56.2% (59/105 meetings)
-  - 2019: 60.5% (69/114 meetings)
-  - 2020: 50.9% (57/112 meetings)
-  - 2021: 34.3% (34/99 meetings)
+  - 2018: 92.2% (59/64 meetings)
+  - 2019: 93.2% (69/74 meetings)
+  - 2020: 100.0% (57/57 meetings)
+  - 2021: 97.1% (34/35 meetings)
 
 
 ## Committee Activity Breakdown

@@ -2,59 +2,59 @@
   "councillor": "Steve Hillier",
   "slug": "s-hillier",
   "attendance": {
-    "totalMeetings": 842,
+    "totalMeetings": 438,
     "present": 410,
-    "absent": 432,
+    "absent": 28,
     "remote": 0,
-    "attendanceRate": 48.69358669833729,
+    "attendanceRate": 93.60730593607306,
     "trend": [
       {
         "period": "2018",
-        "attendanceRate": 6.666666666666667,
+        "attendanceRate": 100,
         "meetingsAttended": 7,
-        "meetingsTotal": 105
+        "meetingsTotal": 7
       },
       {
         "period": "2019",
-        "attendanceRate": 61.40350877192983,
+        "attendanceRate": 94.5945945945946,
         "meetingsAttended": 70,
-        "meetingsTotal": 114
+        "meetingsTotal": 74
       },
       {
         "period": "2020",
-        "attendanceRate": 50,
+        "attendanceRate": 94.91525423728814,
         "meetingsAttended": 56,
-        "meetingsTotal": 112
+        "meetingsTotal": 59
       },
       {
         "period": "2021",
-        "attendanceRate": 59.59595959595959,
+        "attendanceRate": 93.65079365079364,
         "meetingsAttended": 59,
-        "meetingsTotal": 99
+        "meetingsTotal": 63
       },
       {
         "period": "2022",
-        "attendanceRate": 61.702127659574465,
+        "attendanceRate": 93.54838709677419,
         "meetingsAttended": 58,
-        "meetingsTotal": 94
+        "meetingsTotal": 62
       },
       {
         "period": "2023",
-        "attendanceRate": 45.614035087719294,
+        "attendanceRate": 86.66666666666667,
         "meetingsAttended": 52,
-        "meetingsTotal": 114
+        "meetingsTotal": 60
       },
       {
         "period": "2024",
-        "attendanceRate": 53.57142857142857,
+        "attendanceRate": 95.23809523809523,
         "meetingsAttended": 60,
-        "meetingsTotal": 112
+        "meetingsTotal": 63
       },
       {
         "period": "2025",
-        "attendanceRate": 52.17391304347826,
+        "attendanceRate": 96,
         "meetingsAttended": 48,
-        "meetingsTotal": 92
+        "meetingsTotal": 50
       }
     ],
     "trendDirection": "stable"

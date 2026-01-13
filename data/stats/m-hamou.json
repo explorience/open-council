@@ -2,26 +2,26 @@
   "councillor": "Mariam Hamou",
   "slug": "m-hamou",
   "attendance": {
-    "totalMeetings": 193,
+    "totalMeetings": 58,
     "present": 58,
-    "absent": 135,
+    "absent": 0,
     "remote": 0,
-    "attendanceRate": 30.05181347150259,
+    "attendanceRate": 100,
     "trend": [
       {
         "period": "2021",
-        "attendanceRate": 8.080808080808081,
+        "attendanceRate": 100,
         "meetingsAttended": 8,
-        "meetingsTotal": 99
+        "meetingsTotal": 8
       },
       {
         "period": "2022",
-        "attendanceRate": 53.191489361702125,
+        "attendanceRate": 100,
         "meetingsAttended": 50,
-        "meetingsTotal": 94
+        "meetingsTotal": 50
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 5,

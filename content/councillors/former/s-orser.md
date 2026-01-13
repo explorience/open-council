@@ -9,15 +9,15 @@ totalVotes: 2074
 votesYea: 1769
 votesNay: 305
 votesAbsent: 0
-attendanceRate: 43.0
+attendanceRate: 91.0
 participationRate: 100.0
 yeaRate: 85.3
 contestedDissentRate: 13.6
 contestedVotes: 2074
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major budget decisions during his 2011-2014 term?"
-  - "Which specific committees did Stephen Orser serve on, and what were his key contributions to those committees?"
-  - "How did Stephen Orser vote on significant development projects or zoning changes that came before council during his tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 43.0%
-- **Meetings Attended**: 161 of 374
-- **Meetings Missed**: 213
-- **Trend**: Declining v
+- **Attendance Rate**: 91.0%
+- **Meetings Attended**: 161 of 177
+- **Meetings Missed**: 16
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2011: 71.4% (10/14 meetings)
-  - 2012: 54.5% (48/88 meetings)
-  - 2013: 37.9% (53/140 meetings)
-  - 2014: 37.9% (50/132 meetings)
+  - 2011: 83.3% (10/12 meetings)
+  - 2012: 92.3% (48/52 meetings)
+  - 2013: 96.4% (53/55 meetings)
+  - 2014: 86.2% (50/58 meetings)
 
 
 ## Committee Activity Breakdown

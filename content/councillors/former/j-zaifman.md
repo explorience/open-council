@@ -9,15 +9,15 @@ totalVotes: 1618
 votesYea: 1533
 votesNay: 83
 votesAbsent: 2
-attendanceRate: 29.1
+attendanceRate: 70.9
 participationRate: 99.9
 yeaRate: 94.9
 contestedDissentRate: 3.5
 contestedVotes: 1578
 prefillQuestions:
-  - "What was Jared Zaifman's voting attendance rate and how did it compare to other council members during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what were his key contributions or leadership roles within those committees?"
-  - "What was his voting record on major municipal issues such as budget approvals, development projects, or infrastructure initiatives during his tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 29.1%
-- **Meetings Attended**: 190 of 653
-- **Meetings Missed**: 463
+- **Attendance Rate**: 70.9%
+- **Meetings Attended**: 190 of 268
+- **Meetings Missed**: 78
 - **Trend**: Improving ^
 
 **Attendance by Year:**
-  - 2015: 57.0% (81/142 meetings)
-  - 2016: 25.3% (37/146 meetings)
-  - 2017: 17.2% (22/128 meetings)
-  - 2018: 41.0% (43/105 meetings)
+  - 2015: 96.4% (81/84 meetings)
+  - 2016: 43.5% (37/85 meetings)
+  - 2017: 50.0% (22/44 meetings)
+  - 2018: 89.6% (43/48 meetings)
 
 
 ## Committee Activity Breakdown

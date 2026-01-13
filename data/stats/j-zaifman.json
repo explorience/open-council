@@ -2,41 +2,41 @@
   "councillor": "Jared Zaifman",
   "slug": "j-zaifman",
   "attendance": {
-    "totalMeetings": 653,
+    "totalMeetings": 268,
     "present": 190,
-    "absent": 463,
+    "absent": 78,
     "remote": 0,
-    "attendanceRate": 29.096477794793262,
+    "attendanceRate": 70.8955223880597,
     "trend": [
       {
         "period": "2014",
-        "attendanceRate": 5.303030303030303,
+        "attendanceRate": 100,
         "meetingsAttended": 7,
-        "meetingsTotal": 132
+        "meetingsTotal": 7
       },
       {
         "period": "2015",
-        "attendanceRate": 57.04225352112676,
+        "attendanceRate": 96.42857142857143,
         "meetingsAttended": 81,
-        "meetingsTotal": 142
+        "meetingsTotal": 84
       },
       {
         "period": "2016",
-        "attendanceRate": 25.34246575342466,
+        "attendanceRate": 43.529411764705884,
         "meetingsAttended": 37,
-        "meetingsTotal": 146
+        "meetingsTotal": 85
       },
       {
         "period": "2017",
-        "attendanceRate": 17.1875,
+        "attendanceRate": 50,
         "meetingsAttended": 22,
-        "meetingsTotal": 128
+        "meetingsTotal": 44
       },
       {
         "period": "2018",
-        "attendanceRate": 40.95238095238095,
+        "attendanceRate": 89.58333333333334,
         "meetingsAttended": 43,
-        "meetingsTotal": 105
+        "meetingsTotal": 48
       }
     ],
     "trendDirection": "improving"

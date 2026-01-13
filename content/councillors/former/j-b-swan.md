@@ -9,15 +9,15 @@ totalVotes: 2232
 votesYea: 2013
 votesNay: 219
 votesAbsent: 0
-attendanceRate: 52.1
+attendanceRate: 88.2
 participationRate: 100.0
 yeaRate: 90.2
 contestedDissentRate: 9.1
 contestedVotes: 2232
 prefillQuestions:
-  - "What was Joe Swan's voting record on key municipal issues during his 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on and what was his attendance rate for committee meetings?"
-  - "How did Joe Swan's meeting attendance record of 147 meetings compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 52.1%
-- **Meetings Attended**: 195 of 374
-- **Meetings Missed**: 179
-- **Trend**: Declining v
+- **Attendance Rate**: 88.2%
+- **Meetings Attended**: 195 of 221
+- **Meetings Missed**: 26
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2011: 78.6% (11/14 meetings)
-  - 2012: 70.5% (62/88 meetings)
-  - 2013: 45.7% (64/140 meetings)
-  - 2014: 43.9% (58/132 meetings)
+  - 2011: 91.7% (11/12 meetings)
+  - 2012: 91.2% (62/68 meetings)
+  - 2013: 86.5% (64/74 meetings)
+  - 2014: 86.6% (58/67 meetings)
 
 
 ## Committee Activity Breakdown

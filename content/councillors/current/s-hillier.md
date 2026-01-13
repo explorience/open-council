@@ -9,15 +9,15 @@ totalVotes: 7404
 votesYea: 6374
 votesNay: 457
 votesAbsent: 573
-attendanceRate: 48.7
+attendanceRate: 93.6
 participationRate: 92.3
 yeaRate: 93.3
 contestedDissentRate: 15.2
 contestedVotes: 1923
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Steve Hillier served on and what were his roles or contributions to those committees?"
-  - "How has Steve Hillier's committee assignments and meeting participation changed over the course of his 2018-2025 term?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 48.7%
-- **Meetings Attended**: 410 of 842
-- **Meetings Missed**: 432
+- **Attendance Rate**: 93.6%
+- **Meetings Attended**: 410 of 438
+- **Meetings Missed**: 28
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 61.7% (58/94 meetings)
-  - 2023: 45.6% (52/114 meetings)
-  - 2024: 53.6% (60/112 meetings)
-  - 2025: 52.2% (48/92 meetings)
+  - 2022: 93.5% (58/62 meetings)
+  - 2023: 86.7% (52/60 meetings)
+  - 2024: 95.2% (60/63 meetings)
+  - 2025: 96.0% (48/50 meetings)
 
 
 ## Voting Alignment

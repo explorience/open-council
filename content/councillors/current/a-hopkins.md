@@ -9,15 +9,15 @@ totalVotes: 9332
 votesYea: 8120
 votesNay: 665
 votesAbsent: 547
-attendanceRate: 49.9
+attendanceRate: 97.1
 participationRate: 94.1
 yeaRate: 92.4
 contestedDissentRate: 12.3
 contestedVotes: 4782
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "How does her meeting attendance rate compare to other council members over the same period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 49.9%
-- **Meetings Attended**: 693 of 1,390
-- **Meetings Missed**: 697
-- **Trend**: Improving ^
+- **Attendance Rate**: 97.1%
+- **Meetings Attended**: 693 of 714
+- **Meetings Missed**: 21
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 54.3% (51/94 meetings)
-  - 2023: 48.2% (55/114 meetings)
-  - 2024: 53.6% (60/112 meetings)
-  - 2025: 55.4% (51/92 meetings)
+  - 2022: 100.0% (51/51 meetings)
+  - 2023: 91.7% (55/60 meetings)
+  - 2024: 98.4% (60/61 meetings)
+  - 2025: 100.0% (51/51 meetings)
 
 
 ## Voting Alignment

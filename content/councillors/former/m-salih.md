@@ -9,15 +9,15 @@ totalVotes: 5987
 votesYea: 5142
 votesNay: 331
 votesAbsent: 514
-attendanceRate: 39.0
+attendanceRate: 93.7
 participationRate: 91.4
 yeaRate: 94.0
 contestedDissentRate: 7.7
 contestedVotes: 3298
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues like budget approvals, development projects, and public service initiatives?"
-  - "How often did Mo Salih miss scheduled council meetings, and what was their attendance rate compared to other council members?"
-  - "Which specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 39.0%
-- **Meetings Attended**: 418 of 1,072
-- **Meetings Missed**: 654
+- **Attendance Rate**: 93.7%
+- **Meetings Attended**: 418 of 446
+- **Meetings Missed**: 28
 - **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2019: 43.9% (50/114 meetings)
-  - 2020: 50.0% (56/112 meetings)
-  - 2021: 42.4% (42/99 meetings)
-  - 2022: 34.0% (32/94 meetings)
+  - 2019: 96.2% (50/52 meetings)
+  - 2020: 96.6% (56/58 meetings)
+  - 2021: 91.3% (42/46 meetings)
+  - 2022: 84.2% (32/38 meetings)
 
 
 ## Committee Activity Breakdown

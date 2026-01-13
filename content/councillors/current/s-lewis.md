@@ -9,15 +9,15 @@ totalVotes: 8608
 votesYea: 7556
 votesNay: 468
 votesAbsent: 584
-attendanceRate: 55.1
+attendanceRate: 98.9
 participationRate: 93.2
 yeaRate: 94.2
 contestedDissentRate: 10.3
 contestedVotes: 2235
 prefillQuestions:
-  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has Shawn Lewis served on and what policy areas do they cover?"
-  - "Has Shawn Lewis taken leadership roles on any committees or sponsored significant motions during their council tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 55.1%
-- **Meetings Attended**: 464 of 842
-- **Meetings Missed**: 378
+- **Attendance Rate**: 98.9%
+- **Meetings Attended**: 464 of 469
+- **Meetings Missed**: 5
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 68.1% (64/94 meetings)
-  - 2023: 73.7% (84/114 meetings)
-  - 2024: 55.4% (62/112 meetings)
-  - 2025: 52.2% (48/92 meetings)
+  - 2022: 100.0% (64/64 meetings)
+  - 2023: 100.0% (84/84 meetings)
+  - 2024: 98.4% (62/63 meetings)
+  - 2025: 96.0% (48/50 meetings)
 
 
 ## Voting Alignment

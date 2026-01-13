@@ -2,26 +2,26 @@
   "councillor": "John Fyfe-Millar",
   "slug": "j-fyfe-millar",
   "attendance": {
-    "totalMeetings": 193,
+    "totalMeetings": 66,
     "present": 66,
-    "absent": 127,
+    "absent": 0,
     "remote": 0,
-    "attendanceRate": 34.196891191709845,
+    "attendanceRate": 100,
     "trend": [
       {
         "period": "2021",
-        "attendanceRate": 14.14141414141414,
+        "attendanceRate": 100,
         "meetingsAttended": 14,
-        "meetingsTotal": 99
+        "meetingsTotal": 14
       },
       {
         "period": "2022",
-        "attendanceRate": 55.319148936170215,
+        "attendanceRate": 100,
         "meetingsAttended": 52,
-        "meetingsTotal": 94
+        "meetingsTotal": 52
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 5,

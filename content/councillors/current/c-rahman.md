@@ -9,15 +9,15 @@ totalVotes: 3194
 votesYea: 2642
 votesNay: 299
 votesAbsent: 253
-attendanceRate: 46.8
+attendanceRate: 100.0
 participationRate: 92.1
 yeaRate: 89.8
 contestedDissentRate: 16.8
 contestedVotes: 1164
 prefillQuestions:
-  - "What specific committees does Corrine Rahman serve on, and what policy areas do they cover?"
-  - "How does her meeting attendance rate of 216 meetings compare to other council members serving the same term?"
-  - "What has been her voting pattern on major municipal issues such as budget approvals, development projects, or policy reforms?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 46.8%
-- **Meetings Attended**: 193 of 412
-- **Meetings Missed**: 219
-- **Trend**: Improving ^
+- **Attendance Rate**: 100.0%
+- **Meetings Attended**: 193 of 193
+- **Meetings Missed**: 0
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 9.6% (9/94 meetings)
-  - 2023: 63.2% (72/114 meetings)
-  - 2024: 54.5% (61/112 meetings)
-  - 2025: 55.4% (51/92 meetings)
+  - 2022: 100.0% (9/9 meetings)
+  - 2023: 100.0% (72/72 meetings)
+  - 2024: 100.0% (61/61 meetings)
+  - 2025: 100.0% (51/51 meetings)
 
 
 ## Voting Alignment

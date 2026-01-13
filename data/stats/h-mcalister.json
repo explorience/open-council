@@ -2,38 +2,38 @@
   "councillor": "Hadleigh McAlister",
   "slug": "h-mcalister",
   "attendance": {
-    "totalMeetings": 412,
+    "totalMeetings": 213,
     "present": 200,
-    "absent": 212,
+    "absent": 13,
     "remote": 0,
-    "attendanceRate": 48.54368932038835,
+    "attendanceRate": 93.89671361502347,
     "trend": [
       {
         "period": "2022",
-        "attendanceRate": 9.574468085106384,
+        "attendanceRate": 100,
         "meetingsAttended": 9,
-        "meetingsTotal": 94
+        "meetingsTotal": 9
       },
       {
         "period": "2023",
-        "attendanceRate": 61.40350877192983,
+        "attendanceRate": 90.9090909090909,
         "meetingsAttended": 70,
-        "meetingsTotal": 114
+        "meetingsTotal": 77
       },
       {
         "period": "2024",
-        "attendanceRate": 63.39285714285714,
+        "attendanceRate": 93.42105263157895,
         "meetingsAttended": 71,
-        "meetingsTotal": 112
+        "meetingsTotal": 76
       },
       {
         "period": "2025",
-        "attendanceRate": 54.347826086956516,
+        "attendanceRate": 98.0392156862745,
         "meetingsAttended": 50,
-        "meetingsTotal": 92
+        "meetingsTotal": 51
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 3439,

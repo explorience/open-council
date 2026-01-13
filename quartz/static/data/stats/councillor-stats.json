@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-01-10T14:57:24.617Z",
+  "generatedAt": "2026-01-13T05:17:49.129Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
       "slug": "j-morgan",
       "attendance": {
-        "totalMeetings": 1390,
+        "totalMeetings": 767,
         "present": 706,
-        "absent": 684,
+        "absent": 61,
         "remote": 1,
-        "attendanceRate": 50.79136690647482,
+        "attendanceRate": 92.04693611473273,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 66.19718309859155,
+            "attendanceRate": 98.94736842105263,
             "meetingsAttended": 94,
-            "meetingsTotal": 142
+            "meetingsTotal": 95
           },
           {
             "period": "2016",
-            "attendanceRate": 60.273972602739725,
+            "attendanceRate": 98.87640449438202,
             "meetingsAttended": 88,
-            "meetingsTotal": 146
+            "meetingsTotal": 89
           },
           {
             "period": "2017",
-            "attendanceRate": 49.21875,
+            "attendanceRate": 96.92307692307692,
             "meetingsAttended": 63,
-            "meetingsTotal": 128
+            "meetingsTotal": 65
           },
           {
             "period": "2018",
-            "attendanceRate": 45.714285714285715,
+            "attendanceRate": 90.56603773584906,
             "meetingsAttended": 48,
-            "meetingsTotal": 105
+            "meetingsTotal": 53
           },
           {
             "period": "2019",
-            "attendanceRate": 56.14035087719298,
+            "attendanceRate": 94.11764705882352,
             "meetingsAttended": 64,
-            "meetingsTotal": 114
+            "meetingsTotal": 68
           },
           {
             "period": "2020",
-            "attendanceRate": 58.92857142857143,
+            "attendanceRate": 98.50746268656717,
             "meetingsAttended": 66,
-            "meetingsTotal": 112
+            "meetingsTotal": 67
           },
           {
             "period": "2021",
-            "attendanceRate": 53.535353535353536,
+            "attendanceRate": 100,
             "meetingsAttended": 53,
-            "meetingsTotal": 99
+            "meetingsTotal": 53
           },
           {
             "period": "2022",
-            "attendanceRate": 57.446808510638306,
+            "attendanceRate": 98.18181818181819,
             "meetingsAttended": 54,
-            "meetingsTotal": 94
+            "meetingsTotal": 55
           },
           {
             "period": "2023",
-            "attendanceRate": 51.75438596491229,
+            "attendanceRate": 56.19047619047619,
             "meetingsAttended": 59,
-            "meetingsTotal": 114
+            "meetingsTotal": 105
           },
           {
             "period": "2024",
-            "attendanceRate": 54.46428571428571,
+            "attendanceRate": 100,
             "meetingsAttended": 61,
-            "meetingsTotal": 112
+            "meetingsTotal": 61
           },
           {
             "period": "2025",
-            "attendanceRate": 52.17391304347826,
+            "attendanceRate": 100,
             "meetingsAttended": 48,
-            "meetingsTotal": 92
+            "meetingsTotal": 48
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "improving"
       },
       "voting": {
         "totalVotes": 10581,
@@ -326,38 +326,38 @@
       "councillor": "Hadleigh McAlister",
       "slug": "h-mcalister",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 213,
         "present": 200,
-        "absent": 212,
+        "absent": 13,
         "remote": 0,
-        "attendanceRate": 48.54368932038835,
+        "attendanceRate": 93.89671361502347,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 9.574468085106384,
+            "attendanceRate": 100,
             "meetingsAttended": 9,
-            "meetingsTotal": 94
+            "meetingsTotal": 9
           },
           {
             "period": "2023",
-            "attendanceRate": 61.40350877192983,
+            "attendanceRate": 90.9090909090909,
             "meetingsAttended": 70,
-            "meetingsTotal": 114
+            "meetingsTotal": 77
           },
           {
             "period": "2024",
-            "attendanceRate": 63.39285714285714,
+            "attendanceRate": 93.42105263157895,
             "meetingsAttended": 71,
-            "meetingsTotal": 112
+            "meetingsTotal": 76
           },
           {
             "period": "2025",
-            "attendanceRate": 54.347826086956516,
+            "attendanceRate": 98.0392156862745,
             "meetingsAttended": 50,
-            "meetingsTotal": 92
+            "meetingsTotal": 51
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 3439,
@@ -585,59 +585,59 @@
       "councillor": "Shawn Lewis",
       "slug": "s-lewis",
       "attendance": {
-        "totalMeetings": 842,
+        "totalMeetings": 469,
         "present": 464,
-        "absent": 378,
+        "absent": 5,
         "remote": 2,
-        "attendanceRate": 55.10688836104512,
+        "attendanceRate": 98.93390191897655,
         "trend": [
           {
             "period": "2018",
-            "attendanceRate": 6.666666666666667,
+            "attendanceRate": 100,
             "meetingsAttended": 7,
-            "meetingsTotal": 105
+            "meetingsTotal": 7
           },
           {
             "period": "2019",
-            "attendanceRate": 57.89473684210527,
+            "attendanceRate": 100,
             "meetingsAttended": 66,
-            "meetingsTotal": 114
+            "meetingsTotal": 66
           },
           {
             "period": "2020",
-            "attendanceRate": 62.5,
+            "attendanceRate": 97.22222222222221,
             "meetingsAttended": 70,
-            "meetingsTotal": 112
+            "meetingsTotal": 72
           },
           {
             "period": "2021",
-            "attendanceRate": 63.63636363636363,
+            "attendanceRate": 100,
             "meetingsAttended": 63,
-            "meetingsTotal": 99
+            "meetingsTotal": 63
           },
           {
             "period": "2022",
-            "attendanceRate": 68.08510638297872,
+            "attendanceRate": 100,
             "meetingsAttended": 64,
-            "meetingsTotal": 94
+            "meetingsTotal": 64
           },
           {
             "period": "2023",
-            "attendanceRate": 73.68421052631578,
+            "attendanceRate": 100,
             "meetingsAttended": 84,
-            "meetingsTotal": 114
+            "meetingsTotal": 84
           },
           {
             "period": "2024",
-            "attendanceRate": 55.35714285714286,
+            "attendanceRate": 98.4126984126984,
             "meetingsAttended": 62,
-            "meetingsTotal": 112
+            "meetingsTotal": 63
           },
           {
             "period": "2025",
-            "attendanceRate": 52.17391304347826,
+            "attendanceRate": 96,
             "meetingsAttended": 48,
-            "meetingsTotal": 92
+            "meetingsTotal": 50
           }
         ],
         "trendDirection": "stable"
@@ -882,38 +882,38 @@
       "councillor": "Peter Cuddy",
       "slug": "p-cuddy",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 202,
         "present": 200,
-        "absent": 212,
+        "absent": 2,
         "remote": 0,
-        "attendanceRate": 48.54368932038835,
+        "attendanceRate": 99.00990099009901,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 8.51063829787234,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 94
+            "meetingsTotal": 8
           },
           {
             "period": "2023",
-            "attendanceRate": 53.50877192982456,
+            "attendanceRate": 100,
             "meetingsAttended": 61,
-            "meetingsTotal": 114
+            "meetingsTotal": 61
           },
           {
             "period": "2024",
-            "attendanceRate": 59.82142857142857,
+            "attendanceRate": 100,
             "meetingsAttended": 67,
-            "meetingsTotal": 112
+            "meetingsTotal": 67
           },
           {
             "period": "2025",
-            "attendanceRate": 69.56521739130434,
+            "attendanceRate": 96.96969696969697,
             "meetingsAttended": 64,
-            "meetingsTotal": 92
+            "meetingsTotal": 66
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 3594,
@@ -1148,35 +1148,35 @@
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 192,
         "present": 170,
-        "absent": 242,
+        "absent": 22,
         "remote": 1,
-        "attendanceRate": 41.262135922330096,
+        "attendanceRate": 88.54166666666666,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 9.574468085106384,
+            "attendanceRate": 100,
             "meetingsAttended": 9,
-            "meetingsTotal": 94
+            "meetingsTotal": 9
           },
           {
             "period": "2023",
-            "attendanceRate": 61.40350877192983,
+            "attendanceRate": 88.60759493670885,
             "meetingsAttended": 70,
-            "meetingsTotal": 114
+            "meetingsTotal": 79
           },
           {
             "period": "2024",
-            "attendanceRate": 52.67857142857143,
+            "attendanceRate": 89.39393939393939,
             "meetingsAttended": 59,
-            "meetingsTotal": 112
+            "meetingsTotal": 66
           },
           {
             "period": "2025",
-            "attendanceRate": 34.78260869565217,
+            "attendanceRate": 84.21052631578947,
             "meetingsAttended": 32,
-            "meetingsTotal": 92
+            "meetingsTotal": 38
           }
         ],
         "trendDirection": "declining"
@@ -1400,38 +1400,38 @@
       "councillor": "Jerry Pribil",
       "slug": "j-pribil",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 219,
         "present": 212,
-        "absent": 200,
+        "absent": 7,
         "remote": 0,
-        "attendanceRate": 51.45631067961165,
+        "attendanceRate": 96.80365296803653,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 8.51063829787234,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 94
+            "meetingsTotal": 8
           },
           {
             "period": "2023",
-            "attendanceRate": 54.385964912280706,
+            "attendanceRate": 100,
             "meetingsAttended": 62,
-            "meetingsTotal": 114
+            "meetingsTotal": 62
           },
           {
             "period": "2024",
-            "attendanceRate": 69.64285714285714,
+            "attendanceRate": 98.73417721518987,
             "meetingsAttended": 78,
-            "meetingsTotal": 112
+            "meetingsTotal": 79
           },
           {
             "period": "2025",
-            "attendanceRate": 69.56521739130434,
+            "attendanceRate": 91.42857142857143,
             "meetingsAttended": 64,
-            "meetingsTotal": 92
+            "meetingsTotal": 70
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 3363,
@@ -1659,38 +1659,38 @@
       "councillor": "Sam Trosow",
       "slug": "s-trosow",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 211,
         "present": 202,
-        "absent": 210,
+        "absent": 9,
         "remote": 0,
-        "attendanceRate": 49.029126213592235,
+        "attendanceRate": 95.73459715639811,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 9.574468085106384,
+            "attendanceRate": 100,
             "meetingsAttended": 9,
-            "meetingsTotal": 94
+            "meetingsTotal": 9
           },
           {
             "period": "2023",
-            "attendanceRate": 64.03508771929825,
+            "attendanceRate": 94.8051948051948,
             "meetingsAttended": 73,
-            "meetingsTotal": 114
+            "meetingsTotal": 77
           },
           {
             "period": "2024",
-            "attendanceRate": 61.60714285714286,
+            "attendanceRate": 93.24324324324324,
             "meetingsAttended": 69,
-            "meetingsTotal": 112
+            "meetingsTotal": 74
           },
           {
             "period": "2025",
-            "attendanceRate": 55.434782608695656,
+            "attendanceRate": 100,
             "meetingsAttended": 51,
-            "meetingsTotal": 92
+            "meetingsTotal": 51
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 3265,
@@ -1918,38 +1918,38 @@
       "councillor": "Corrine Rahman",
       "slug": "c-rahman",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 193,
         "present": 193,
-        "absent": 219,
+        "absent": 0,
         "remote": 0,
-        "attendanceRate": 46.84466019417476,
+        "attendanceRate": 100,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 9.574468085106384,
+            "attendanceRate": 100,
             "meetingsAttended": 9,
-            "meetingsTotal": 94
+            "meetingsTotal": 9
           },
           {
             "period": "2023",
-            "attendanceRate": 63.1578947368421,
+            "attendanceRate": 100,
             "meetingsAttended": 72,
-            "meetingsTotal": 114
+            "meetingsTotal": 72
           },
           {
             "period": "2024",
-            "attendanceRate": 54.46428571428571,
+            "attendanceRate": 100,
             "meetingsAttended": 61,
-            "meetingsTotal": 112
+            "meetingsTotal": 61
           },
           {
             "period": "2025",
-            "attendanceRate": 55.434782608695656,
+            "attendanceRate": 100,
             "meetingsAttended": 51,
-            "meetingsTotal": 92
+            "meetingsTotal": 51
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 3194,
@@ -2191,62 +2191,62 @@
       "councillor": "Steve Lehman",
       "slug": "s-lehman",
       "attendance": {
-        "totalMeetings": 842,
+        "totalMeetings": 392,
         "present": 378,
-        "absent": 464,
+        "absent": 14,
         "remote": 3,
-        "attendanceRate": 44.89311163895487,
+        "attendanceRate": 96.42857142857143,
         "trend": [
           {
             "period": "2018",
-            "attendanceRate": 5.714285714285714,
+            "attendanceRate": 100,
             "meetingsAttended": 6,
-            "meetingsTotal": 105
+            "meetingsTotal": 6
           },
           {
             "period": "2019",
-            "attendanceRate": 45.614035087719294,
+            "attendanceRate": 96.29629629629629,
             "meetingsAttended": 52,
-            "meetingsTotal": 114
+            "meetingsTotal": 54
           },
           {
             "period": "2020",
-            "attendanceRate": 52.67857142857143,
+            "attendanceRate": 100,
             "meetingsAttended": 59,
-            "meetingsTotal": 112
+            "meetingsTotal": 59
           },
           {
             "period": "2021",
-            "attendanceRate": 49.494949494949495,
+            "attendanceRate": 100,
             "meetingsAttended": 49,
-            "meetingsTotal": 99
+            "meetingsTotal": 49
           },
           {
             "period": "2022",
-            "attendanceRate": 52.12765957446809,
+            "attendanceRate": 96.07843137254902,
             "meetingsAttended": 49,
-            "meetingsTotal": 94
+            "meetingsTotal": 51
           },
           {
             "period": "2023",
-            "attendanceRate": 50.877192982456144,
+            "attendanceRate": 96.66666666666667,
             "meetingsAttended": 58,
-            "meetingsTotal": 114
+            "meetingsTotal": 60
           },
           {
             "period": "2024",
-            "attendanceRate": 50.89285714285714,
+            "attendanceRate": 90.47619047619048,
             "meetingsAttended": 57,
-            "meetingsTotal": 112
+            "meetingsTotal": 63
           },
           {
             "period": "2025",
-            "attendanceRate": 52.17391304347826,
+            "attendanceRate": 96,
             "meetingsAttended": 48,
-            "meetingsTotal": 92
+            "meetingsTotal": 50
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 7143,
@@ -2467,86 +2467,86 @@
       "councillor": "Anna Hopkins",
       "slug": "a-hopkins",
       "attendance": {
-        "totalMeetings": 1390,
+        "totalMeetings": 714,
         "present": 693,
-        "absent": 697,
+        "absent": 21,
         "remote": 1,
-        "attendanceRate": 49.856115107913666,
+        "attendanceRate": 97.05882352941177,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 58.45070422535211,
+            "attendanceRate": 97.6470588235294,
             "meetingsAttended": 83,
-            "meetingsTotal": 142
+            "meetingsTotal": 85
           },
           {
             "period": "2016",
-            "attendanceRate": 51.369863013698634,
+            "attendanceRate": 92.5925925925926,
             "meetingsAttended": 75,
-            "meetingsTotal": 146
+            "meetingsTotal": 81
           },
           {
             "period": "2017",
-            "attendanceRate": 50,
+            "attendanceRate": 91.42857142857143,
             "meetingsAttended": 64,
-            "meetingsTotal": 128
+            "meetingsTotal": 70
           },
           {
             "period": "2018",
-            "attendanceRate": 52.38095238095239,
+            "attendanceRate": 100,
             "meetingsAttended": 55,
-            "meetingsTotal": 105
+            "meetingsTotal": 55
           },
           {
             "period": "2019",
-            "attendanceRate": 53.50877192982456,
+            "attendanceRate": 100,
             "meetingsAttended": 61,
-            "meetingsTotal": 114
+            "meetingsTotal": 61
           },
           {
             "period": "2020",
-            "attendanceRate": 72.32142857142857,
+            "attendanceRate": 98.78048780487805,
             "meetingsAttended": 81,
-            "meetingsTotal": 112
+            "meetingsTotal": 82
           },
           {
             "period": "2021",
-            "attendanceRate": 49.494949494949495,
+            "attendanceRate": 100,
             "meetingsAttended": 49,
-            "meetingsTotal": 99
+            "meetingsTotal": 49
           },
           {
             "period": "2022",
-            "attendanceRate": 54.25531914893617,
+            "attendanceRate": 100,
             "meetingsAttended": 51,
-            "meetingsTotal": 94
+            "meetingsTotal": 51
           },
           {
             "period": "2023",
-            "attendanceRate": 48.24561403508772,
+            "attendanceRate": 91.66666666666666,
             "meetingsAttended": 55,
-            "meetingsTotal": 114
+            "meetingsTotal": 60
           },
           {
             "period": "2024",
-            "attendanceRate": 53.57142857142857,
+            "attendanceRate": 98.36065573770492,
             "meetingsAttended": 60,
-            "meetingsTotal": 112
+            "meetingsTotal": 61
           },
           {
             "period": "2025",
-            "attendanceRate": 55.434782608695656,
+            "attendanceRate": 100,
             "meetingsAttended": 51,
-            "meetingsTotal": 92
+            "meetingsTotal": 51
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 9332,
@@ -2781,104 +2781,86 @@
       "councillor": "Paul Van Meerbergen",
       "slug": "p-van-meerbergen",
       "attendance": {
-        "totalMeetings": 1632,
+        "totalMeetings": 568,
         "present": 541,
-        "absent": 1091,
+        "absent": 27,
         "remote": 6,
-        "attendanceRate": 33.14950980392157,
+        "attendanceRate": 95.24647887323944,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 78.57142857142857,
+            "attendanceRate": 91.66666666666666,
             "meetingsAttended": 11,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 48.86363636363637,
+            "attendanceRate": 87.75510204081633,
             "meetingsAttended": 43,
-            "meetingsTotal": 88
+            "meetingsTotal": 49
           },
           {
             "period": "2013",
-            "attendanceRate": 36.42857142857142,
+            "attendanceRate": 91.07142857142857,
             "meetingsAttended": 51,
-            "meetingsTotal": 140
+            "meetingsTotal": 56
           },
           {
             "period": "2014",
-            "attendanceRate": 40.15151515151515,
+            "attendanceRate": 91.37931034482759,
             "meetingsAttended": 53,
-            "meetingsTotal": 132
-          },
-          {
-            "period": "2015",
-            "attendanceRate": 0,
-            "meetingsAttended": 0,
-            "meetingsTotal": 142
-          },
-          {
-            "period": "2016",
-            "attendanceRate": 0,
-            "meetingsAttended": 0,
-            "meetingsTotal": 146
-          },
-          {
-            "period": "2017",
-            "attendanceRate": 0,
-            "meetingsAttended": 0,
-            "meetingsTotal": 128
+            "meetingsTotal": 58
           },
           {
             "period": "2018",
-            "attendanceRate": 5.714285714285714,
+            "attendanceRate": 100,
             "meetingsAttended": 6,
-            "meetingsTotal": 105
+            "meetingsTotal": 6
           },
           {
             "period": "2019",
-            "attendanceRate": 50.877192982456144,
+            "attendanceRate": 93.54838709677419,
             "meetingsAttended": 58,
-            "meetingsTotal": 114
+            "meetingsTotal": 62
           },
           {
             "period": "2020",
-            "attendanceRate": 51.78571428571429,
+            "attendanceRate": 100,
             "meetingsAttended": 58,
-            "meetingsTotal": 112
+            "meetingsTotal": 58
           },
           {
             "period": "2021",
-            "attendanceRate": 46.464646464646464,
+            "attendanceRate": 97.87234042553192,
             "meetingsAttended": 46,
-            "meetingsTotal": 99
+            "meetingsTotal": 47
           },
           {
             "period": "2022",
-            "attendanceRate": 50,
+            "attendanceRate": 97.91666666666666,
             "meetingsAttended": 47,
-            "meetingsTotal": 94
+            "meetingsTotal": 48
           },
           {
             "period": "2023",
-            "attendanceRate": 50,
+            "attendanceRate": 98.27586206896551,
             "meetingsAttended": 57,
-            "meetingsTotal": 114
+            "meetingsTotal": 58
           },
           {
             "period": "2024",
-            "attendanceRate": 55.35714285714286,
+            "attendanceRate": 98.4126984126984,
             "meetingsAttended": 62,
-            "meetingsTotal": 112
+            "meetingsTotal": 63
           },
           {
             "period": "2025",
-            "attendanceRate": 53.2608695652174,
+            "attendanceRate": 96.07843137254902,
             "meetingsAttended": 49,
-            "meetingsTotal": 92
+            "meetingsTotal": 51
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 8331,
@@ -3106,38 +3088,38 @@
       "councillor": "Skylar Franke",
       "slug": "s-franke",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 181,
         "present": 174,
-        "absent": 238,
+        "absent": 7,
         "remote": 0,
-        "attendanceRate": 42.23300970873786,
+        "attendanceRate": 96.13259668508287,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 8.51063829787234,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 94
+            "meetingsTotal": 8
           },
           {
             "period": "2023",
-            "attendanceRate": 52.63157894736842,
+            "attendanceRate": 98.36065573770492,
             "meetingsAttended": 60,
-            "meetingsTotal": 114
+            "meetingsTotal": 61
           },
           {
             "period": "2024",
-            "attendanceRate": 58.03571428571429,
+            "attendanceRate": 97.01492537313433,
             "meetingsAttended": 65,
-            "meetingsTotal": 112
+            "meetingsTotal": 67
           },
           {
             "period": "2025",
-            "attendanceRate": 44.565217391304344,
+            "attendanceRate": 91.11111111111111,
             "meetingsAttended": 41,
-            "meetingsTotal": 92
+            "meetingsTotal": 45
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 3550,
@@ -3365,62 +3347,62 @@
       "councillor": "Elizabeth Peloza",
       "slug": "e-peloza",
       "attendance": {
-        "totalMeetings": 842,
+        "totalMeetings": 417,
         "present": 412,
-        "absent": 430,
+        "absent": 5,
         "remote": 1,
-        "attendanceRate": 48.9311163895487,
+        "attendanceRate": 98.8009592326139,
         "trend": [
           {
             "period": "2018",
-            "attendanceRate": 6.666666666666667,
+            "attendanceRate": 100,
             "meetingsAttended": 7,
-            "meetingsTotal": 105
+            "meetingsTotal": 7
           },
           {
             "period": "2019",
-            "attendanceRate": 56.14035087719298,
+            "attendanceRate": 98.46153846153847,
             "meetingsAttended": 64,
-            "meetingsTotal": 114
+            "meetingsTotal": 65
           },
           {
             "period": "2020",
-            "attendanceRate": 52.67857142857143,
+            "attendanceRate": 100,
             "meetingsAttended": 59,
-            "meetingsTotal": 112
+            "meetingsTotal": 59
           },
           {
             "period": "2021",
-            "attendanceRate": 63.63636363636363,
+            "attendanceRate": 100,
             "meetingsAttended": 63,
-            "meetingsTotal": 99
+            "meetingsTotal": 63
           },
           {
             "period": "2022",
-            "attendanceRate": 51.06382978723404,
+            "attendanceRate": 100,
             "meetingsAttended": 48,
-            "meetingsTotal": 94
+            "meetingsTotal": 48
           },
           {
             "period": "2023",
-            "attendanceRate": 50,
+            "attendanceRate": 98.27586206896551,
             "meetingsAttended": 57,
-            "meetingsTotal": 114
+            "meetingsTotal": 58
           },
           {
             "period": "2024",
-            "attendanceRate": 54.46428571428571,
+            "attendanceRate": 95.3125,
             "meetingsAttended": 61,
-            "meetingsTotal": 112
+            "meetingsTotal": 64
           },
           {
             "period": "2025",
-            "attendanceRate": 57.608695652173914,
+            "attendanceRate": 100,
             "meetingsAttended": 53,
-            "meetingsTotal": 92
+            "meetingsTotal": 53
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 6960,
@@ -3655,38 +3637,38 @@
       "councillor": "David Ferreira",
       "slug": "d-ferreira",
       "attendance": {
-        "totalMeetings": 412,
+        "totalMeetings": 211,
         "present": 205,
-        "absent": 207,
+        "absent": 6,
         "remote": 1,
-        "attendanceRate": 49.75728155339806,
+        "attendanceRate": 97.1563981042654,
         "trend": [
           {
             "period": "2022",
-            "attendanceRate": 9.574468085106384,
+            "attendanceRate": 100,
             "meetingsAttended": 9,
-            "meetingsTotal": 94
+            "meetingsTotal": 9
           },
           {
             "period": "2023",
-            "attendanceRate": 66.66666666666666,
+            "attendanceRate": 98.7012987012987,
             "meetingsAttended": 76,
-            "meetingsTotal": 114
+            "meetingsTotal": 77
           },
           {
             "period": "2024",
-            "attendanceRate": 65.17857142857143,
+            "attendanceRate": 98.64864864864865,
             "meetingsAttended": 73,
-            "meetingsTotal": 112
+            "meetingsTotal": 74
           },
           {
             "period": "2025",
-            "attendanceRate": 51.08695652173913,
+            "attendanceRate": 92.15686274509804,
             "meetingsAttended": 47,
-            "meetingsTotal": 92
+            "meetingsTotal": 51
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 2884,
@@ -3914,59 +3896,59 @@
       "councillor": "Steve Hillier",
       "slug": "s-hillier",
       "attendance": {
-        "totalMeetings": 842,
+        "totalMeetings": 438,
         "present": 410,
-        "absent": 432,
+        "absent": 28,
         "remote": 0,
-        "attendanceRate": 48.69358669833729,
+        "attendanceRate": 93.60730593607306,
         "trend": [
           {
             "period": "2018",
-            "attendanceRate": 6.666666666666667,
+            "attendanceRate": 100,
             "meetingsAttended": 7,
-            "meetingsTotal": 105
+            "meetingsTotal": 7
           },
           {
             "period": "2019",
-            "attendanceRate": 61.40350877192983,
+            "attendanceRate": 94.5945945945946,
             "meetingsAttended": 70,
-            "meetingsTotal": 114
+            "meetingsTotal": 74
           },
           {
             "period": "2020",
-            "attendanceRate": 50,
+            "attendanceRate": 94.91525423728814,
             "meetingsAttended": 56,
-            "meetingsTotal": 112
+            "meetingsTotal": 59
           },
           {
             "period": "2021",
-            "attendanceRate": 59.59595959595959,
+            "attendanceRate": 93.65079365079364,
             "meetingsAttended": 59,
-            "meetingsTotal": 99
+            "meetingsTotal": 63
           },
           {
             "period": "2022",
-            "attendanceRate": 61.702127659574465,
+            "attendanceRate": 93.54838709677419,
             "meetingsAttended": 58,
-            "meetingsTotal": 94
+            "meetingsTotal": 62
           },
           {
             "period": "2023",
-            "attendanceRate": 45.614035087719294,
+            "attendanceRate": 86.66666666666667,
             "meetingsAttended": 52,
-            "meetingsTotal": 114
+            "meetingsTotal": 60
           },
           {
             "period": "2024",
-            "attendanceRate": 53.57142857142857,
+            "attendanceRate": 95.23809523809523,
             "meetingsAttended": 60,
-            "meetingsTotal": 112
+            "meetingsTotal": 63
           },
           {
             "period": "2025",
-            "attendanceRate": 52.17391304347826,
+            "attendanceRate": 96,
             "meetingsAttended": 48,
-            "meetingsTotal": 92
+            "meetingsTotal": 50
           }
         ],
         "trendDirection": "stable"
@@ -4197,44 +4179,44 @@
       "councillor": "Ed Holder",
       "slug": "e-holder",
       "attendance": {
-        "totalMeetings": 524,
+        "totalMeetings": 398,
         "present": 313,
-        "absent": 211,
+        "absent": 85,
         "remote": 0,
-        "attendanceRate": 59.732824427480914,
+        "attendanceRate": 78.64321608040201,
         "trend": [
           {
             "period": "2018",
-            "attendanceRate": 4.761904761904762,
+            "attendanceRate": 55.55555555555556,
             "meetingsAttended": 5,
-            "meetingsTotal": 105
+            "meetingsTotal": 9
           },
           {
             "period": "2019",
-            "attendanceRate": 66.66666666666666,
+            "attendanceRate": 70.37037037037037,
             "meetingsAttended": 76,
-            "meetingsTotal": 114
+            "meetingsTotal": 108
           },
           {
             "period": "2020",
-            "attendanceRate": 85.71428571428571,
+            "attendanceRate": 88.07339449541286,
             "meetingsAttended": 96,
-            "meetingsTotal": 112
+            "meetingsTotal": 109
           },
           {
             "period": "2021",
-            "attendanceRate": 83.83838383838383,
+            "attendanceRate": 87.36842105263159,
             "meetingsAttended": 83,
-            "meetingsTotal": 99
+            "meetingsTotal": 95
           },
           {
             "period": "2022",
-            "attendanceRate": 56.38297872340425,
+            "attendanceRate": 68.83116883116884,
             "meetingsAttended": 53,
-            "meetingsTotal": 94
+            "meetingsTotal": 77
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 4268,
@@ -4400,65 +4382,65 @@
       "councillor": "Michael van Holst",
       "slug": "m-van-holst",
       "attendance": {
-        "totalMeetings": 1072,
+        "totalMeetings": 504,
         "present": 486,
-        "absent": 586,
+        "absent": 18,
         "remote": 0,
-        "attendanceRate": 45.33582089552239,
+        "attendanceRate": 96.42857142857143,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 50.70422535211267,
+            "attendanceRate": 96,
             "meetingsAttended": 72,
-            "meetingsTotal": 142
+            "meetingsTotal": 75
           },
           {
             "period": "2016",
-            "attendanceRate": 51.369863013698634,
+            "attendanceRate": 97.40259740259741,
             "meetingsAttended": 75,
-            "meetingsTotal": 146
+            "meetingsTotal": 77
           },
           {
             "period": "2017",
-            "attendanceRate": 42.96875,
+            "attendanceRate": 100,
             "meetingsAttended": 55,
-            "meetingsTotal": 128
+            "meetingsTotal": 55
           },
           {
             "period": "2018",
-            "attendanceRate": 50.476190476190474,
+            "attendanceRate": 98.14814814814815,
             "meetingsAttended": 53,
-            "meetingsTotal": 105
+            "meetingsTotal": 54
           },
           {
             "period": "2019",
-            "attendanceRate": 46.49122807017544,
+            "attendanceRate": 86.88524590163934,
             "meetingsAttended": 53,
-            "meetingsTotal": 114
+            "meetingsTotal": 61
           },
           {
             "period": "2020",
-            "attendanceRate": 69.64285714285714,
+            "attendanceRate": 100,
             "meetingsAttended": 78,
-            "meetingsTotal": 112
+            "meetingsTotal": 78
           },
           {
             "period": "2021",
-            "attendanceRate": 50.505050505050505,
+            "attendanceRate": 96.15384615384616,
             "meetingsAttended": 50,
-            "meetingsTotal": 99
+            "meetingsTotal": 52
           },
           {
             "period": "2022",
-            "attendanceRate": 44.680851063829785,
+            "attendanceRate": 95.45454545454545,
             "meetingsAttended": 42,
-            "meetingsTotal": 94
+            "meetingsTotal": 44
           }
         ],
         "trendDirection": "stable"
@@ -4627,65 +4609,65 @@
       "councillor": "Mo Salih",
       "slug": "m-salih",
       "attendance": {
-        "totalMeetings": 1072,
+        "totalMeetings": 446,
         "present": 418,
-        "absent": 654,
+        "absent": 28,
         "remote": 1,
-        "attendanceRate": 38.992537313432834,
+        "attendanceRate": 93.72197309417041,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 5.303030303030303,
+            "attendanceRate": 100,
             "meetingsAttended": 7,
-            "meetingsTotal": 132
+            "meetingsTotal": 7
           },
           {
             "period": "2015",
-            "attendanceRate": 45.774647887323944,
+            "attendanceRate": 97.01492537313433,
             "meetingsAttended": 65,
-            "meetingsTotal": 142
+            "meetingsTotal": 67
           },
           {
             "period": "2016",
-            "attendanceRate": 45.20547945205479,
+            "attendanceRate": 92.95774647887323,
             "meetingsAttended": 66,
-            "meetingsTotal": 146
+            "meetingsTotal": 71
           },
           {
             "period": "2017",
-            "attendanceRate": 42.1875,
+            "attendanceRate": 93.10344827586206,
             "meetingsAttended": 54,
-            "meetingsTotal": 128
+            "meetingsTotal": 58
           },
           {
             "period": "2018",
-            "attendanceRate": 43.80952380952381,
+            "attendanceRate": 93.87755102040816,
             "meetingsAttended": 46,
-            "meetingsTotal": 105
+            "meetingsTotal": 49
           },
           {
             "period": "2019",
-            "attendanceRate": 43.859649122807014,
+            "attendanceRate": 96.15384615384616,
             "meetingsAttended": 50,
-            "meetingsTotal": 114
+            "meetingsTotal": 52
           },
           {
             "period": "2020",
-            "attendanceRate": 50,
+            "attendanceRate": 96.55172413793103,
             "meetingsAttended": 56,
-            "meetingsTotal": 112
+            "meetingsTotal": 58
           },
           {
             "period": "2021",
-            "attendanceRate": 42.42424242424242,
+            "attendanceRate": 91.30434782608695,
             "meetingsAttended": 42,
-            "meetingsTotal": 99
+            "meetingsTotal": 46
           },
           {
             "period": "2022",
-            "attendanceRate": 34.04255319148936,
+            "attendanceRate": 84.21052631578947,
             "meetingsAttended": 32,
-            "meetingsTotal": 94
+            "meetingsTotal": 38
           }
         ],
         "trendDirection": "declining"
@@ -4833,65 +4815,65 @@
       "councillor": "Jesse Helmer",
       "slug": "j-helmer",
       "attendance": {
-        "totalMeetings": 1072,
+        "totalMeetings": 638,
         "present": 622,
-        "absent": 450,
+        "absent": 16,
         "remote": 1,
-        "attendanceRate": 58.02238805970149,
+        "attendanceRate": 97.4921630094044,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 66.90140845070422,
+            "attendanceRate": 97.9381443298969,
             "meetingsAttended": 95,
-            "meetingsTotal": 142
+            "meetingsTotal": 97
           },
           {
             "period": "2016",
-            "attendanceRate": 61.64383561643836,
+            "attendanceRate": 97.82608695652173,
             "meetingsAttended": 90,
-            "meetingsTotal": 146
+            "meetingsTotal": 92
           },
           {
             "period": "2017",
-            "attendanceRate": 56.25,
+            "attendanceRate": 94.73684210526315,
             "meetingsAttended": 72,
-            "meetingsTotal": 128
+            "meetingsTotal": 76
           },
           {
             "period": "2018",
-            "attendanceRate": 67.61904761904762,
+            "attendanceRate": 100,
             "meetingsAttended": 71,
-            "meetingsTotal": 105
+            "meetingsTotal": 71
           },
           {
             "period": "2019",
-            "attendanceRate": 73.68421052631578,
+            "attendanceRate": 95.45454545454545,
             "meetingsAttended": 84,
-            "meetingsTotal": 114
+            "meetingsTotal": 88
           },
           {
             "period": "2020",
-            "attendanceRate": 74.10714285714286,
+            "attendanceRate": 96.51162790697676,
             "meetingsAttended": 83,
-            "meetingsTotal": 112
+            "meetingsTotal": 86
           },
           {
             "period": "2021",
-            "attendanceRate": 64.64646464646465,
+            "attendanceRate": 98.46153846153847,
             "meetingsAttended": 64,
-            "meetingsTotal": 99
+            "meetingsTotal": 65
           },
           {
             "period": "2022",
-            "attendanceRate": 58.51063829787234,
+            "attendanceRate": 100,
             "meetingsAttended": 55,
-            "meetingsTotal": 94
+            "meetingsTotal": 55
           }
         ],
         "trendDirection": "stable"
@@ -5060,65 +5042,65 @@
       "councillor": "Maureen Cassidy",
       "slug": "m-cassidy",
       "attendance": {
-        "totalMeetings": 1072,
+        "totalMeetings": 593,
         "present": 569,
-        "absent": 503,
+        "absent": 24,
         "remote": 1,
-        "attendanceRate": 53.07835820895522,
+        "attendanceRate": 95.95278246205734,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 70.4225352112676,
+            "attendanceRate": 99.00990099009901,
             "meetingsAttended": 100,
-            "meetingsTotal": 142
+            "meetingsTotal": 101
           },
           {
             "period": "2016",
-            "attendanceRate": 45.20547945205479,
+            "attendanceRate": 82.5,
             "meetingsAttended": 66,
-            "meetingsTotal": 146
+            "meetingsTotal": 80
           },
           {
             "period": "2017",
-            "attendanceRate": 57.8125,
+            "attendanceRate": 96.1038961038961,
             "meetingsAttended": 74,
-            "meetingsTotal": 128
+            "meetingsTotal": 77
           },
           {
             "period": "2018",
-            "attendanceRate": 61.904761904761905,
+            "attendanceRate": 98.48484848484848,
             "meetingsAttended": 65,
-            "meetingsTotal": 105
+            "meetingsTotal": 66
           },
           {
             "period": "2019",
-            "attendanceRate": 59.64912280701754,
+            "attendanceRate": 97.14285714285714,
             "meetingsAttended": 68,
-            "meetingsTotal": 114
+            "meetingsTotal": 70
           },
           {
             "period": "2020",
-            "attendanceRate": 68.75,
+            "attendanceRate": 100,
             "meetingsAttended": 77,
-            "meetingsTotal": 112
+            "meetingsTotal": 77
           },
           {
             "period": "2021",
-            "attendanceRate": 64.64646464646465,
+            "attendanceRate": 100,
             "meetingsAttended": 64,
-            "meetingsTotal": 99
+            "meetingsTotal": 64
           },
           {
             "period": "2022",
-            "attendanceRate": 50,
+            "attendanceRate": 94,
             "meetingsAttended": 47,
-            "meetingsTotal": 94
+            "meetingsTotal": 50
           }
         ],
         "trendDirection": "stable"
@@ -5287,62 +5269,62 @@
       "councillor": "Phil Squire",
       "slug": "p-squire",
       "attendance": {
-        "totalMeetings": 978,
+        "totalMeetings": 466,
         "present": 442,
-        "absent": 536,
+        "absent": 24,
         "remote": 0,
-        "attendanceRate": 45.194274028629856,
+        "attendanceRate": 94.84978540772532,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 4.545454545454546,
+            "attendanceRate": 85.71428571428571,
             "meetingsAttended": 6,
-            "meetingsTotal": 132
+            "meetingsTotal": 7
           },
           {
             "period": "2015",
-            "attendanceRate": 51.40845070422535,
+            "attendanceRate": 94.8051948051948,
             "meetingsAttended": 73,
-            "meetingsTotal": 142
+            "meetingsTotal": 77
           },
           {
             "period": "2016",
-            "attendanceRate": 50,
+            "attendanceRate": 96.05263157894737,
             "meetingsAttended": 73,
-            "meetingsTotal": 146
+            "meetingsTotal": 76
           },
           {
             "period": "2017",
-            "attendanceRate": 55.46875,
+            "attendanceRate": 93.42105263157895,
             "meetingsAttended": 71,
-            "meetingsTotal": 128
+            "meetingsTotal": 76
           },
           {
             "period": "2018",
-            "attendanceRate": 56.19047619047619,
+            "attendanceRate": 92.1875,
             "meetingsAttended": 59,
-            "meetingsTotal": 105
+            "meetingsTotal": 64
           },
           {
             "period": "2019",
-            "attendanceRate": 60.526315789473685,
+            "attendanceRate": 93.24324324324324,
             "meetingsAttended": 69,
-            "meetingsTotal": 114
+            "meetingsTotal": 74
           },
           {
             "period": "2020",
-            "attendanceRate": 50.89285714285714,
+            "attendanceRate": 100,
             "meetingsAttended": 57,
-            "meetingsTotal": 112
+            "meetingsTotal": 57
           },
           {
             "period": "2021",
-            "attendanceRate": 34.34343434343434,
+            "attendanceRate": 97.14285714285714,
             "meetingsAttended": 34,
-            "meetingsTotal": 99
+            "meetingsTotal": 35
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 6305,
@@ -5501,65 +5483,65 @@
       "councillor": "Stephen Turner",
       "slug": "s-turner",
       "attendance": {
-        "totalMeetings": 1072,
+        "totalMeetings": 531,
         "present": 479,
-        "absent": 593,
+        "absent": 52,
         "remote": 2,
-        "attendanceRate": 44.68283582089552,
+        "attendanceRate": 90.20715630885122,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 51.40845070422535,
+            "attendanceRate": 85.88235294117646,
             "meetingsAttended": 73,
-            "meetingsTotal": 142
+            "meetingsTotal": 85
           },
           {
             "period": "2016",
-            "attendanceRate": 48.63013698630137,
+            "attendanceRate": 82.55813953488372,
             "meetingsAttended": 71,
-            "meetingsTotal": 146
+            "meetingsTotal": 86
           },
           {
             "period": "2017",
-            "attendanceRate": 48.4375,
+            "attendanceRate": 87.32394366197182,
             "meetingsAttended": 62,
-            "meetingsTotal": 128
+            "meetingsTotal": 71
           },
           {
             "period": "2018",
-            "attendanceRate": 50.476190476190474,
+            "attendanceRate": 100,
             "meetingsAttended": 53,
-            "meetingsTotal": 105
+            "meetingsTotal": 53
           },
           {
             "period": "2019",
-            "attendanceRate": 53.50877192982456,
+            "attendanceRate": 95.3125,
             "meetingsAttended": 61,
-            "meetingsTotal": 114
+            "meetingsTotal": 64
           },
           {
             "period": "2020",
-            "attendanceRate": 54.46428571428571,
+            "attendanceRate": 92.42424242424242,
             "meetingsAttended": 61,
-            "meetingsTotal": 112
+            "meetingsTotal": 66
           },
           {
             "period": "2021",
-            "attendanceRate": 46.464646464646464,
+            "attendanceRate": 90.19607843137256,
             "meetingsAttended": 46,
-            "meetingsTotal": 99
+            "meetingsTotal": 51
           },
           {
             "period": "2022",
-            "attendanceRate": 46.808510638297875,
+            "attendanceRate": 93.61702127659575,
             "meetingsAttended": 44,
-            "meetingsTotal": 94
+            "meetingsTotal": 47
           }
         ],
         "trendDirection": "stable"
@@ -5714,38 +5696,38 @@
       "councillor": "Arielle Kayabaga",
       "slug": "a-kayabaga",
       "attendance": {
-        "totalMeetings": 430,
+        "totalMeetings": 201,
         "present": 178,
-        "absent": 252,
+        "absent": 23,
         "remote": 1,
-        "attendanceRate": 41.3953488372093,
+        "attendanceRate": 88.55721393034825,
         "trend": [
           {
             "period": "2018",
-            "attendanceRate": 5.714285714285714,
+            "attendanceRate": 100,
             "meetingsAttended": 6,
-            "meetingsTotal": 105
+            "meetingsTotal": 6
           },
           {
             "period": "2019",
-            "attendanceRate": 48.24561403508772,
+            "attendanceRate": 85.9375,
             "meetingsAttended": 55,
-            "meetingsTotal": 114
+            "meetingsTotal": 64
           },
           {
             "period": "2020",
-            "attendanceRate": 71.42857142857143,
+            "attendanceRate": 95.23809523809523,
             "meetingsAttended": 80,
-            "meetingsTotal": 112
+            "meetingsTotal": 84
           },
           {
             "period": "2021",
-            "attendanceRate": 37.37373737373738,
+            "attendanceRate": 78.72340425531915,
             "meetingsAttended": 37,
-            "meetingsTotal": 99
+            "meetingsTotal": 47
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 2321,
@@ -5904,62 +5886,62 @@
       "councillor": "Matt Brown",
       "slug": "m-brown",
       "attendance": {
-        "totalMeetings": 895,
+        "totalMeetings": 431,
         "present": 402,
-        "absent": 493,
+        "absent": 29,
         "remote": 0,
-        "attendanceRate": 44.91620111731844,
+        "attendanceRate": 93.27146171693735,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 85.71428571428571,
+            "attendanceRate": 100,
             "meetingsAttended": 12,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 46.590909090909086,
+            "attendanceRate": 100,
             "meetingsAttended": 41,
-            "meetingsTotal": 88
+            "meetingsTotal": 41
           },
           {
             "period": "2013",
-            "attendanceRate": 45,
+            "attendanceRate": 100,
             "meetingsAttended": 63,
-            "meetingsTotal": 140
+            "meetingsTotal": 63
           },
           {
             "period": "2014",
-            "attendanceRate": 51.515151515151516,
+            "attendanceRate": 100,
             "meetingsAttended": 68,
-            "meetingsTotal": 132
+            "meetingsTotal": 68
           },
           {
             "period": "2015",
-            "attendanceRate": 38.028169014084504,
+            "attendanceRate": 98.18181818181819,
             "meetingsAttended": 54,
-            "meetingsTotal": 142
+            "meetingsTotal": 55
           },
           {
             "period": "2016",
-            "attendanceRate": 41.78082191780822,
+            "attendanceRate": 96.82539682539682,
             "meetingsAttended": 61,
-            "meetingsTotal": 146
+            "meetingsTotal": 63
           },
           {
             "period": "2017",
-            "attendanceRate": 39.84375,
+            "attendanceRate": 100,
             "meetingsAttended": 51,
-            "meetingsTotal": 128
+            "meetingsTotal": 51
           },
           {
             "period": "2018",
-            "attendanceRate": 49.523809523809526,
+            "attendanceRate": 66.66666666666666,
             "meetingsAttended": 52,
-            "meetingsTotal": 105
+            "meetingsTotal": 78
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 5759,
@@ -6125,62 +6107,56 @@
       "councillor": "Bill Armstrong",
       "slug": "b-armstrong",
       "attendance": {
-        "totalMeetings": 895,
+        "totalMeetings": 349,
         "present": 328,
-        "absent": 567,
+        "absent": 21,
         "remote": 0,
-        "attendanceRate": 36.64804469273743,
+        "attendanceRate": 93.98280802292264,
         "trend": [
           {
-            "period": "2011",
-            "attendanceRate": 0,
-            "meetingsAttended": 0,
-            "meetingsTotal": 14
-          },
-          {
             "period": "2012",
-            "attendanceRate": 1.1363636363636365,
+            "attendanceRate": 50,
             "meetingsAttended": 1,
-            "meetingsTotal": 88
+            "meetingsTotal": 2
           },
           {
             "period": "2013",
-            "attendanceRate": 28.57142857142857,
+            "attendanceRate": 97.5609756097561,
             "meetingsAttended": 40,
-            "meetingsTotal": 140
+            "meetingsTotal": 41
           },
           {
             "period": "2014",
-            "attendanceRate": 44.696969696969695,
+            "attendanceRate": 95.16129032258065,
             "meetingsAttended": 59,
-            "meetingsTotal": 132
+            "meetingsTotal": 62
           },
           {
             "period": "2015",
-            "attendanceRate": 45.07042253521127,
+            "attendanceRate": 95.52238805970148,
             "meetingsAttended": 64,
-            "meetingsTotal": 142
+            "meetingsTotal": 67
           },
           {
             "period": "2016",
-            "attendanceRate": 45.89041095890411,
+            "attendanceRate": 95.71428571428572,
             "meetingsAttended": 67,
-            "meetingsTotal": 146
+            "meetingsTotal": 70
           },
           {
             "period": "2017",
-            "attendanceRate": 46.875,
+            "attendanceRate": 92.3076923076923,
             "meetingsAttended": 60,
-            "meetingsTotal": 128
+            "meetingsTotal": 65
           },
           {
             "period": "2018",
-            "attendanceRate": 35.23809523809524,
+            "attendanceRate": 88.09523809523809,
             "meetingsAttended": 37,
-            "meetingsTotal": 105
+            "meetingsTotal": 42
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 4434,
@@ -6332,62 +6308,62 @@
       "councillor": "Paul Hubert",
       "slug": "p-hubert",
       "attendance": {
-        "totalMeetings": 895,
+        "totalMeetings": 503,
         "present": 465,
-        "absent": 430,
+        "absent": 38,
         "remote": 0,
-        "attendanceRate": 51.955307262569825,
+        "attendanceRate": 92.44532803180915,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 85.71428571428571,
+            "attendanceRate": 100,
             "meetingsAttended": 12,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 43.18181818181818,
+            "attendanceRate": 100,
             "meetingsAttended": 38,
-            "meetingsTotal": 88
+            "meetingsTotal": 38
           },
           {
             "period": "2013",
-            "attendanceRate": 46.42857142857143,
+            "attendanceRate": 92.85714285714286,
             "meetingsAttended": 65,
-            "meetingsTotal": 140
+            "meetingsTotal": 70
           },
           {
             "period": "2014",
-            "attendanceRate": 54.54545454545454,
+            "attendanceRate": 98.63013698630137,
             "meetingsAttended": 72,
-            "meetingsTotal": 132
+            "meetingsTotal": 73
           },
           {
             "period": "2015",
-            "attendanceRate": 50.70422535211267,
+            "attendanceRate": 91.13924050632912,
             "meetingsAttended": 72,
-            "meetingsTotal": 142
+            "meetingsTotal": 79
           },
           {
             "period": "2016",
-            "attendanceRate": 56.16438356164384,
+            "attendanceRate": 95.34883720930233,
             "meetingsAttended": 82,
-            "meetingsTotal": 146
+            "meetingsTotal": 86
           },
           {
             "period": "2017",
-            "attendanceRate": 52.34375,
+            "attendanceRate": 82.71604938271605,
             "meetingsAttended": 67,
-            "meetingsTotal": 128
+            "meetingsTotal": 81
           },
           {
             "period": "2018",
-            "attendanceRate": 54.285714285714285,
+            "attendanceRate": 89.0625,
             "meetingsAttended": 57,
-            "meetingsTotal": 105
+            "meetingsTotal": 64
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 6520,
@@ -6553,44 +6529,44 @@
       "councillor": "Virginia Ridley",
       "slug": "v-ridley",
       "attendance": {
-        "totalMeetings": 653,
+        "totalMeetings": 300,
         "present": 275,
-        "absent": 378,
+        "absent": 25,
         "remote": 0,
-        "attendanceRate": 42.11332312404288,
+        "attendanceRate": 91.66666666666666,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 57.04225352112676,
+            "attendanceRate": 95.29411764705881,
             "meetingsAttended": 81,
-            "meetingsTotal": 142
+            "meetingsTotal": 85
           },
           {
             "period": "2016",
-            "attendanceRate": 58.21917808219178,
+            "attendanceRate": 90.42553191489363,
             "meetingsAttended": 85,
-            "meetingsTotal": 146
+            "meetingsTotal": 94
           },
           {
             "period": "2017",
-            "attendanceRate": 43.75,
+            "attendanceRate": 94.91525423728814,
             "meetingsAttended": 56,
-            "meetingsTotal": 128
+            "meetingsTotal": 59
           },
           {
             "period": "2018",
-            "attendanceRate": 42.857142857142854,
+            "attendanceRate": 83.33333333333334,
             "meetingsAttended": 45,
-            "meetingsTotal": 105
+            "meetingsTotal": 54
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 3477,
@@ -6749,62 +6725,62 @@
       "councillor": "Harold Usher",
       "slug": "h-l-usher",
       "attendance": {
-        "totalMeetings": 895,
+        "totalMeetings": 551,
         "present": 522,
-        "absent": 373,
+        "absent": 29,
         "remote": 0,
-        "attendanceRate": 58.32402234636872,
+        "attendanceRate": 94.73684210526315,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 78.57142857142857,
+            "attendanceRate": 91.66666666666666,
             "meetingsAttended": 11,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 54.54545454545454,
+            "attendanceRate": 92.3076923076923,
             "meetingsAttended": 48,
-            "meetingsTotal": 88
+            "meetingsTotal": 52
           },
           {
             "period": "2013",
-            "attendanceRate": 53.57142857142857,
+            "attendanceRate": 97.40259740259741,
             "meetingsAttended": 75,
-            "meetingsTotal": 140
+            "meetingsTotal": 77
           },
           {
             "period": "2014",
-            "attendanceRate": 66.66666666666666,
+            "attendanceRate": 100,
             "meetingsAttended": 88,
-            "meetingsTotal": 132
+            "meetingsTotal": 88
           },
           {
             "period": "2015",
-            "attendanceRate": 64.7887323943662,
+            "attendanceRate": 93.87755102040816,
             "meetingsAttended": 92,
-            "meetingsTotal": 142
+            "meetingsTotal": 98
           },
           {
             "period": "2016",
-            "attendanceRate": 65.06849315068493,
+            "attendanceRate": 96.93877551020408,
             "meetingsAttended": 95,
-            "meetingsTotal": 146
+            "meetingsTotal": 98
           },
           {
             "period": "2017",
-            "attendanceRate": 57.8125,
+            "attendanceRate": 89.1566265060241,
             "meetingsAttended": 74,
-            "meetingsTotal": 128
+            "meetingsTotal": 83
           },
           {
             "period": "2018",
-            "attendanceRate": 37.142857142857146,
+            "attendanceRate": 90.69767441860465,
             "meetingsAttended": 39,
-            "meetingsTotal": 105
+            "meetingsTotal": 43
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 6144,
@@ -6963,44 +6939,44 @@
       "councillor": "Tanya Park",
       "slug": "t-park",
       "attendance": {
-        "totalMeetings": 653,
+        "totalMeetings": 321,
         "present": 290,
-        "absent": 363,
+        "absent": 31,
         "remote": 0,
-        "attendanceRate": 44.4104134762634,
+        "attendanceRate": 90.34267912772586,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 6.0606060606060606,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 132
+            "meetingsTotal": 8
           },
           {
             "period": "2015",
-            "attendanceRate": 52.112676056338024,
+            "attendanceRate": 92.5,
             "meetingsAttended": 74,
-            "meetingsTotal": 142
+            "meetingsTotal": 80
           },
           {
             "period": "2016",
-            "attendanceRate": 53.42465753424658,
+            "attendanceRate": 91.76470588235294,
             "meetingsAttended": 78,
-            "meetingsTotal": 146
+            "meetingsTotal": 85
           },
           {
             "period": "2017",
-            "attendanceRate": 61.71875,
+            "attendanceRate": 89.77272727272727,
             "meetingsAttended": 79,
-            "meetingsTotal": 128
+            "meetingsTotal": 88
           },
           {
             "period": "2018",
-            "attendanceRate": 48.57142857142857,
+            "attendanceRate": 85,
             "meetingsAttended": 51,
-            "meetingsTotal": 105
+            "meetingsTotal": 60
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 3563,
@@ -7166,41 +7142,41 @@
       "councillor": "Jared Zaifman",
       "slug": "j-zaifman",
       "attendance": {
-        "totalMeetings": 653,
+        "totalMeetings": 268,
         "present": 190,
-        "absent": 463,
+        "absent": 78,
         "remote": 0,
-        "attendanceRate": 29.096477794793262,
+        "attendanceRate": 70.8955223880597,
         "trend": [
           {
             "period": "2014",
-            "attendanceRate": 5.303030303030303,
+            "attendanceRate": 100,
             "meetingsAttended": 7,
-            "meetingsTotal": 132
+            "meetingsTotal": 7
           },
           {
             "period": "2015",
-            "attendanceRate": 57.04225352112676,
+            "attendanceRate": 96.42857142857143,
             "meetingsAttended": 81,
-            "meetingsTotal": 142
+            "meetingsTotal": 84
           },
           {
             "period": "2016",
-            "attendanceRate": 25.34246575342466,
+            "attendanceRate": 43.529411764705884,
             "meetingsAttended": 37,
-            "meetingsTotal": 146
+            "meetingsTotal": 85
           },
           {
             "period": "2017",
-            "attendanceRate": 17.1875,
+            "attendanceRate": 50,
             "meetingsAttended": 22,
-            "meetingsTotal": 128
+            "meetingsTotal": 44
           },
           {
             "period": "2018",
-            "attendanceRate": 40.95238095238095,
+            "attendanceRate": 89.58333333333334,
             "meetingsAttended": 43,
-            "meetingsTotal": 105
+            "meetingsTotal": 48
           }
         ],
         "trendDirection": "improving"
@@ -7355,38 +7331,38 @@
       "councillor": "Joe Fontana",
       "slug": "j-f-fontana",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 180,
         "present": 172,
-        "absent": 202,
+        "absent": 8,
         "remote": 0,
-        "attendanceRate": 45.98930481283423,
+        "attendanceRate": 95.55555555555556,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 64.28571428571429,
+            "attendanceRate": 90,
             "meetingsAttended": 9,
-            "meetingsTotal": 14
+            "meetingsTotal": 10
           },
           {
             "period": "2012",
-            "attendanceRate": 44.31818181818182,
+            "attendanceRate": 97.5,
             "meetingsAttended": 39,
-            "meetingsTotal": 88
+            "meetingsTotal": 40
           },
           {
             "period": "2013",
-            "attendanceRate": 61.42857142857143,
+            "attendanceRate": 97.72727272727273,
             "meetingsAttended": 86,
-            "meetingsTotal": 140
+            "meetingsTotal": 88
           },
           {
             "period": "2014",
-            "attendanceRate": 28.78787878787879,
+            "attendanceRate": 90.47619047619048,
             "meetingsAttended": 38,
-            "meetingsTotal": 132
+            "meetingsTotal": 42
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 2408,
@@ -7552,38 +7528,38 @@
       "councillor": "Joe Swan",
       "slug": "j-b-swan",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 221,
         "present": 195,
-        "absent": 179,
+        "absent": 26,
         "remote": 0,
-        "attendanceRate": 52.139037433155075,
+        "attendanceRate": 88.23529411764706,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 78.57142857142857,
+            "attendanceRate": 91.66666666666666,
             "meetingsAttended": 11,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 70.45454545454545,
+            "attendanceRate": 91.17647058823529,
             "meetingsAttended": 62,
-            "meetingsTotal": 88
+            "meetingsTotal": 68
           },
           {
             "period": "2013",
-            "attendanceRate": 45.714285714285715,
+            "attendanceRate": 86.48648648648648,
             "meetingsAttended": 64,
-            "meetingsTotal": 140
+            "meetingsTotal": 74
           },
           {
             "period": "2014",
-            "attendanceRate": 43.93939393939394,
+            "attendanceRate": 86.56716417910447,
             "meetingsAttended": 58,
-            "meetingsTotal": 132
+            "meetingsTotal": 67
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 2232,
@@ -7728,38 +7704,38 @@
       "councillor": "Stephen Orser",
       "slug": "s-orser",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 177,
         "present": 161,
-        "absent": 213,
+        "absent": 16,
         "remote": 0,
-        "attendanceRate": 43.04812834224599,
+        "attendanceRate": 90.96045197740112,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 71.42857142857143,
+            "attendanceRate": 83.33333333333334,
             "meetingsAttended": 10,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 54.54545454545454,
+            "attendanceRate": 92.3076923076923,
             "meetingsAttended": 48,
-            "meetingsTotal": 88
+            "meetingsTotal": 52
           },
           {
             "period": "2013",
-            "attendanceRate": 37.857142857142854,
+            "attendanceRate": 96.36363636363636,
             "meetingsAttended": 53,
-            "meetingsTotal": 140
+            "meetingsTotal": 55
           },
           {
             "period": "2014",
-            "attendanceRate": 37.878787878787875,
+            "attendanceRate": 86.20689655172413,
             "meetingsAttended": 50,
-            "meetingsTotal": 132
+            "meetingsTotal": 58
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 2074,
@@ -7904,38 +7880,38 @@
       "councillor": "Joni Baechler",
       "slug": "j-l-baechler",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 189,
         "present": 176,
-        "absent": 198,
+        "absent": 13,
         "remote": 0,
-        "attendanceRate": 47.05882352941176,
+        "attendanceRate": 93.12169312169311,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 64.28571428571429,
+            "attendanceRate": 90,
             "meetingsAttended": 9,
-            "meetingsTotal": 14
+            "meetingsTotal": 10
           },
           {
             "period": "2012",
-            "attendanceRate": 53.40909090909091,
+            "attendanceRate": 92.15686274509804,
             "meetingsAttended": 47,
-            "meetingsTotal": 88
+            "meetingsTotal": 51
           },
           {
             "period": "2013",
-            "attendanceRate": 40.714285714285715,
+            "attendanceRate": 96.61016949152543,
             "meetingsAttended": 57,
-            "meetingsTotal": 140
+            "meetingsTotal": 59
           },
           {
             "period": "2014",
-            "attendanceRate": 47.72727272727273,
+            "attendanceRate": 91.30434782608695,
             "meetingsAttended": 63,
-            "meetingsTotal": 132
+            "meetingsTotal": 69
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 2640,
@@ -8101,35 +8077,35 @@
       "councillor": "Nancy Branscombe",
       "slug": "n-branscombe",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 225,
         "present": 156,
-        "absent": 218,
+        "absent": 69,
         "remote": 0,
-        "attendanceRate": 41.711229946524064,
+        "attendanceRate": 69.33333333333334,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 57.14285714285714,
+            "attendanceRate": 88.88888888888889,
             "meetingsAttended": 8,
-            "meetingsTotal": 14
+            "meetingsTotal": 9
           },
           {
             "period": "2012",
-            "attendanceRate": 35.22727272727273,
+            "attendanceRate": 79.48717948717949,
             "meetingsAttended": 31,
-            "meetingsTotal": 88
+            "meetingsTotal": 39
           },
           {
             "period": "2013",
-            "attendanceRate": 56.42857142857143,
+            "attendanceRate": 79.7979797979798,
             "meetingsAttended": 79,
-            "meetingsTotal": 140
+            "meetingsTotal": 99
           },
           {
             "period": "2014",
-            "attendanceRate": 28.78787878787879,
+            "attendanceRate": 48.717948717948715,
             "meetingsAttended": 38,
-            "meetingsTotal": 132
+            "meetingsTotal": 78
           }
         ],
         "trendDirection": "declining"
@@ -8298,35 +8274,35 @@
       "councillor": "Dale Henderson",
       "slug": "d-g-henderson",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 201,
         "present": 192,
-        "absent": 182,
+        "absent": 9,
         "remote": 0,
-        "attendanceRate": 51.33689839572193,
+        "attendanceRate": 95.52238805970148,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 85.71428571428571,
+            "attendanceRate": 100,
             "meetingsAttended": 12,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 69.31818181818183,
+            "attendanceRate": 96.82539682539682,
             "meetingsAttended": 61,
-            "meetingsTotal": 88
+            "meetingsTotal": 63
           },
           {
             "period": "2013",
-            "attendanceRate": 44.285714285714285,
+            "attendanceRate": 98.4126984126984,
             "meetingsAttended": 62,
-            "meetingsTotal": 140
+            "meetingsTotal": 63
           },
           {
             "period": "2014",
-            "attendanceRate": 43.18181818181818,
+            "attendanceRate": 90.47619047619048,
             "meetingsAttended": 57,
-            "meetingsTotal": 132
+            "meetingsTotal": 63
           }
         ],
         "trendDirection": "declining"
@@ -8474,35 +8450,35 @@
       "councillor": "Bud Polhill",
       "slug": "b-polhill",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 246,
         "present": 243,
-        "absent": 131,
+        "absent": 3,
         "remote": 0,
-        "attendanceRate": 64.97326203208557,
+        "attendanceRate": 98.78048780487805,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 64.28571428571429,
+            "attendanceRate": 90,
             "meetingsAttended": 9,
-            "meetingsTotal": 14
+            "meetingsTotal": 10
           },
           {
             "period": "2012",
-            "attendanceRate": 68.18181818181817,
+            "attendanceRate": 98.36065573770492,
             "meetingsAttended": 60,
-            "meetingsTotal": 88
+            "meetingsTotal": 61
           },
           {
             "period": "2013",
-            "attendanceRate": 66.42857142857143,
+            "attendanceRate": 100,
             "meetingsAttended": 93,
-            "meetingsTotal": 140
+            "meetingsTotal": 93
           },
           {
             "period": "2014",
-            "attendanceRate": 61.36363636363637,
+            "attendanceRate": 98.78048780487805,
             "meetingsAttended": 81,
-            "meetingsTotal": 132
+            "meetingsTotal": 82
           }
         ],
         "trendDirection": "stable"
@@ -8657,35 +8633,35 @@
       "councillor": "Sandy White",
       "slug": "s-white",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 237,
         "present": 212,
-        "absent": 162,
+        "absent": 25,
         "remote": 0,
-        "attendanceRate": 56.68449197860963,
+        "attendanceRate": 89.45147679324894,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 92.85714285714286,
+            "attendanceRate": 100,
             "meetingsAttended": 13,
-            "meetingsTotal": 14
+            "meetingsTotal": 13
           },
           {
             "period": "2012",
-            "attendanceRate": 86.36363636363636,
+            "attendanceRate": 93.82716049382715,
             "meetingsAttended": 76,
-            "meetingsTotal": 88
+            "meetingsTotal": 81
           },
           {
             "period": "2013",
-            "attendanceRate": 50.71428571428571,
+            "attendanceRate": 88.75,
             "meetingsAttended": 71,
-            "meetingsTotal": 140
+            "meetingsTotal": 80
           },
           {
             "period": "2014",
-            "attendanceRate": 39.39393939393939,
+            "attendanceRate": 82.53968253968253,
             "meetingsAttended": 52,
-            "meetingsTotal": 132
+            "meetingsTotal": 63
           }
         ],
         "trendDirection": "declining"
@@ -8840,38 +8816,38 @@
       "councillor": "Judy Bryant",
       "slug": "j-p-bryant",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 243,
         "present": 218,
-        "absent": 156,
+        "absent": 25,
         "remote": 0,
-        "attendanceRate": 58.288770053475936,
+        "attendanceRate": 89.7119341563786,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 78.57142857142857,
+            "attendanceRate": 91.66666666666666,
             "meetingsAttended": 11,
-            "meetingsTotal": 14
+            "meetingsTotal": 12
           },
           {
             "period": "2012",
-            "attendanceRate": 59.09090909090909,
+            "attendanceRate": 85.24590163934425,
             "meetingsAttended": 52,
-            "meetingsTotal": 88
+            "meetingsTotal": 61
           },
           {
             "period": "2013",
-            "attendanceRate": 57.85714285714286,
+            "attendanceRate": 91.01123595505618,
             "meetingsAttended": 81,
-            "meetingsTotal": 140
+            "meetingsTotal": 89
           },
           {
             "period": "2014",
-            "attendanceRate": 56.060606060606055,
+            "attendanceRate": 91.35802469135803,
             "meetingsAttended": 74,
-            "meetingsTotal": 132
+            "meetingsTotal": 81
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 2215,
@@ -9030,38 +9006,38 @@
       "councillor": "Denise Brown",
       "slug": "d-brown",
       "attendance": {
-        "totalMeetings": 374,
+        "totalMeetings": 164,
         "present": 145,
-        "absent": 229,
+        "absent": 19,
         "remote": 0,
-        "attendanceRate": 38.770053475935825,
+        "attendanceRate": 88.41463414634147,
         "trend": [
           {
             "period": "2011",
-            "attendanceRate": 71.42857142857143,
+            "attendanceRate": 90.9090909090909,
             "meetingsAttended": 10,
-            "meetingsTotal": 14
+            "meetingsTotal": 11
           },
           {
             "period": "2012",
-            "attendanceRate": 36.36363636363637,
+            "attendanceRate": 91.42857142857143,
             "meetingsAttended": 32,
-            "meetingsTotal": 88
+            "meetingsTotal": 35
           },
           {
             "period": "2013",
-            "attendanceRate": 37.142857142857146,
+            "attendanceRate": 88.13559322033898,
             "meetingsAttended": 52,
-            "meetingsTotal": 140
+            "meetingsTotal": 59
           },
           {
             "period": "2014",
-            "attendanceRate": 38.63636363636363,
+            "attendanceRate": 86.4406779661017,
             "meetingsAttended": 51,
-            "meetingsTotal": 132
+            "meetingsTotal": 59
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 2048,
@@ -9206,26 +9182,26 @@
       "councillor": "Mariam Hamou",
       "slug": "m-hamou",
       "attendance": {
-        "totalMeetings": 193,
+        "totalMeetings": 58,
         "present": 58,
-        "absent": 135,
+        "absent": 0,
         "remote": 0,
-        "attendanceRate": 30.05181347150259,
+        "attendanceRate": 100,
         "trend": [
           {
             "period": "2021",
-            "attendanceRate": 8.080808080808081,
+            "attendanceRate": 100,
             "meetingsAttended": 8,
-            "meetingsTotal": 99
+            "meetingsTotal": 8
           },
           {
             "period": "2022",
-            "attendanceRate": 53.191489361702125,
+            "attendanceRate": 100,
             "meetingsAttended": 50,
-            "meetingsTotal": 94
+            "meetingsTotal": 50
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 5,
@@ -9307,26 +9283,26 @@
       "councillor": "John Fyfe-Millar",
       "slug": "j-fyfe-millar",
       "attendance": {
-        "totalMeetings": 193,
+        "totalMeetings": 66,
         "present": 66,
-        "absent": 127,
+        "absent": 0,
         "remote": 0,
-        "attendanceRate": 34.196891191709845,
+        "attendanceRate": 100,
         "trend": [
           {
             "period": "2021",
-            "attendanceRate": 14.14141414141414,
+            "attendanceRate": 100,
             "meetingsAttended": 14,
-            "meetingsTotal": 99
+            "meetingsTotal": 14
           },
           {
             "period": "2022",
-            "attendanceRate": 55.319148936170215,
+            "attendanceRate": 100,
             "meetingsAttended": 52,
-            "meetingsTotal": 94
+            "meetingsTotal": 52
           }
         ],
-        "trendDirection": "improving"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 5,

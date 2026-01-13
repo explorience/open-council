@@ -9,15 +9,15 @@ totalVotes: 7143
 votesYea: 6118
 votesNay: 395
 votesAbsent: 630
-attendanceRate: 44.9
+attendanceRate: 96.4
 participationRate: 91.2
 yeaRate: 93.9
 contestedDissentRate: 10.2
 contestedVotes: 2024
 prefillQuestions:
-  - "What specific committees has Steve Lehman served on during his time on London City Council?"
-  - "What is Steve Lehman's voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Steve Lehman's meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 44.9%
-- **Meetings Attended**: 378 of 842
-- **Meetings Missed**: 464
-- **Trend**: Improving ^
+- **Attendance Rate**: 96.4%
+- **Meetings Attended**: 378 of 392
+- **Meetings Missed**: 14
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 52.1% (49/94 meetings)
-  - 2023: 50.9% (58/114 meetings)
-  - 2024: 50.9% (57/112 meetings)
-  - 2025: 52.2% (48/92 meetings)
+  - 2022: 96.1% (49/51 meetings)
+  - 2023: 96.7% (58/60 meetings)
+  - 2024: 90.5% (57/63 meetings)
+  - 2025: 96.0% (48/50 meetings)
 
 
 ## Voting Alignment

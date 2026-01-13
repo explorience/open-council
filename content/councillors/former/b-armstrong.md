@@ -9,15 +9,15 @@ totalVotes: 4434
 votesYea: 4089
 votesNay: 298
 votesAbsent: 47
-attendanceRate: 36.6
+attendanceRate: 94.0
 participationRate: 98.9
 yeaRate: 93.2
 contestedDissentRate: 6.6
 contestedVotes: 4110
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on major budget decisions during his 2012-2018 term?"
-  - "Which specific committees did Armstrong serve on and what were his key contributions to those committees?"
-  - "How did Armstrong's attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 36.6%
-- **Meetings Attended**: 328 of 895
-- **Meetings Missed**: 567
-- **Trend**: Stable -
+- **Attendance Rate**: 94.0%
+- **Meetings Attended**: 328 of 349
+- **Meetings Missed**: 21
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2015: 45.1% (64/142 meetings)
-  - 2016: 45.9% (67/146 meetings)
-  - 2017: 46.9% (60/128 meetings)
-  - 2018: 35.2% (37/105 meetings)
+  - 2015: 95.5% (64/67 meetings)
+  - 2016: 95.7% (67/70 meetings)
+  - 2017: 92.3% (60/65 meetings)
+  - 2018: 88.1% (37/42 meetings)
 
 
 ## Committee Activity Breakdown

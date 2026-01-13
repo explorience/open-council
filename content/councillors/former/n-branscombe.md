@@ -9,15 +9,15 @@ totalVotes: 2090
 votesYea: 1878
 votesNay: 212
 votesAbsent: 0
-attendanceRate: 41.7
+attendanceRate: 69.3
 participationRate: 100.0
 yeaRate: 89.9
 contestedDissentRate: 10.9
 contestedVotes: 2090
 prefillQuestions:
-  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what roles did she play within those committees?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 41.7%
-- **Meetings Attended**: 156 of 374
-- **Meetings Missed**: 218
+- **Attendance Rate**: 69.3%
+- **Meetings Attended**: 156 of 225
+- **Meetings Missed**: 69
 - **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2011: 57.1% (8/14 meetings)
-  - 2012: 35.2% (31/88 meetings)
-  - 2013: 56.4% (79/140 meetings)
-  - 2014: 28.8% (38/132 meetings)
+  - 2011: 88.9% (8/9 meetings)
+  - 2012: 79.5% (31/39 meetings)
+  - 2013: 79.8% (79/99 meetings)
+  - 2014: 48.7% (38/78 meetings)
 
 
 ## Committee Activity Breakdown

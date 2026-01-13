@@ -2,35 +2,35 @@
   "councillor": "Sandy White",
   "slug": "s-white",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 237,
     "present": 212,
-    "absent": 162,
+    "absent": 25,
     "remote": 0,
-    "attendanceRate": 56.68449197860963,
+    "attendanceRate": 89.45147679324894,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 92.85714285714286,
+        "attendanceRate": 100,
         "meetingsAttended": 13,
-        "meetingsTotal": 14
+        "meetingsTotal": 13
       },
       {
         "period": "2012",
-        "attendanceRate": 86.36363636363636,
+        "attendanceRate": 93.82716049382715,
         "meetingsAttended": 76,
-        "meetingsTotal": 88
+        "meetingsTotal": 81
       },
       {
         "period": "2013",
-        "attendanceRate": 50.71428571428571,
+        "attendanceRate": 88.75,
         "meetingsAttended": 71,
-        "meetingsTotal": 140
+        "meetingsTotal": 80
       },
       {
         "period": "2014",
-        "attendanceRate": 39.39393939393939,
+        "attendanceRate": 82.53968253968253,
         "meetingsAttended": 52,
-        "meetingsTotal": 132
+        "meetingsTotal": 63
       }
     ],
     "trendDirection": "declining"

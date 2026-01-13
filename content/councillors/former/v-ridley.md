@@ -9,15 +9,15 @@ totalVotes: 3477
 votesYea: 3290
 votesNay: 124
 votesAbsent: 63
-attendanceRate: 42.1
+attendanceRate: 91.7
 participationRate: 98.2
 yeaRate: 96.4
 contestedDissentRate: 3.7
 contestedVotes: 3044
 prefillQuestions:
-  - "What was Virginia Ridley's voting attendance rate and how did it compare to other council members during the 2014-2018 term?"
-  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
-  - "How did she vote on major municipal issues and budget decisions during her time on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 42.1%
-- **Meetings Attended**: 275 of 653
-- **Meetings Missed**: 378
-- **Trend**: Stable -
+- **Attendance Rate**: 91.7%
+- **Meetings Attended**: 275 of 300
+- **Meetings Missed**: 25
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2015: 57.0% (81/142 meetings)
-  - 2016: 58.2% (85/146 meetings)
-  - 2017: 43.8% (56/128 meetings)
-  - 2018: 42.9% (45/105 meetings)
+  - 2015: 95.3% (81/85 meetings)
+  - 2016: 90.4% (85/94 meetings)
+  - 2017: 94.9% (56/59 meetings)
+  - 2018: 83.3% (45/54 meetings)
 
 
 ## Committee Activity Breakdown

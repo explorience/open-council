@@ -9,15 +9,15 @@ totalVotes: 6520
 votesYea: 6043
 votesNay: 445
 votesAbsent: 32
-attendanceRate: 52.0
+attendanceRate: 92.4
 participationRate: 99.5
 yeaRate: 93.1
 contestedDissentRate: 5.6
 contestedVotes: 6099
 prefillQuestions:
-  - "What was Paul Hubert's voting attendance rate and were there any notable absences during key votes or budget deliberations?"
-  - "Which specific committees did Paul Hubert serve on, and did he hold any chair or vice-chair positions during his tenure?"
-  - "How did Paul Hubert's voting patterns align with other council members, and were there particular issues where he frequently voted against the majority?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 52.0%
-- **Meetings Attended**: 465 of 895
-- **Meetings Missed**: 430
-- **Trend**: Stable -
+- **Attendance Rate**: 92.4%
+- **Meetings Attended**: 465 of 503
+- **Meetings Missed**: 38
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2015: 50.7% (72/142 meetings)
-  - 2016: 56.2% (82/146 meetings)
-  - 2017: 52.3% (67/128 meetings)
-  - 2018: 54.3% (57/105 meetings)
+  - 2015: 91.1% (72/79 meetings)
+  - 2016: 95.3% (82/86 meetings)
+  - 2017: 82.7% (67/81 meetings)
+  - 2018: 89.1% (57/64 meetings)
 
 
 ## Committee Activity Breakdown

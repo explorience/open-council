@@ -2,62 +2,62 @@
   "councillor": "Harold Usher",
   "slug": "h-l-usher",
   "attendance": {
-    "totalMeetings": 895,
+    "totalMeetings": 551,
     "present": 522,
-    "absent": 373,
+    "absent": 29,
     "remote": 0,
-    "attendanceRate": 58.32402234636872,
+    "attendanceRate": 94.73684210526315,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 78.57142857142857,
+        "attendanceRate": 91.66666666666666,
         "meetingsAttended": 11,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 54.54545454545454,
+        "attendanceRate": 92.3076923076923,
         "meetingsAttended": 48,
-        "meetingsTotal": 88
+        "meetingsTotal": 52
       },
       {
         "period": "2013",
-        "attendanceRate": 53.57142857142857,
+        "attendanceRate": 97.40259740259741,
         "meetingsAttended": 75,
-        "meetingsTotal": 140
+        "meetingsTotal": 77
       },
       {
         "period": "2014",
-        "attendanceRate": 66.66666666666666,
+        "attendanceRate": 100,
         "meetingsAttended": 88,
-        "meetingsTotal": 132
+        "meetingsTotal": 88
       },
       {
         "period": "2015",
-        "attendanceRate": 64.7887323943662,
+        "attendanceRate": 93.87755102040816,
         "meetingsAttended": 92,
-        "meetingsTotal": 142
+        "meetingsTotal": 98
       },
       {
         "period": "2016",
-        "attendanceRate": 65.06849315068493,
+        "attendanceRate": 96.93877551020408,
         "meetingsAttended": 95,
-        "meetingsTotal": 146
+        "meetingsTotal": 98
       },
       {
         "period": "2017",
-        "attendanceRate": 57.8125,
+        "attendanceRate": 89.1566265060241,
         "meetingsAttended": 74,
-        "meetingsTotal": 128
+        "meetingsTotal": 83
       },
       {
         "period": "2018",
-        "attendanceRate": 37.142857142857146,
+        "attendanceRate": 90.69767441860465,
         "meetingsAttended": 39,
-        "meetingsTotal": 105
+        "meetingsTotal": 43
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 6144,

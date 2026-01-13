@@ -4,14 +4,12 @@ type: committee
 slug: "city-council"
 meetingCount: 169
 prefillQuestions:
-  - "How can residents access meeting agendas, minutes, and video recordings of City Council proceedings to stay informed about decisions affecting their community?"
-  - "What is the process for citizens to present delegations or submit written comments to City Council on issues they care about?"
-  - "How are the meeting priorities determined, and what criteria are used to decide when special Council meetings are necessary versus addressing items in regular sessions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The City Council of London, Ontario serves as the primary governing body for Canada's 11th largest city, making key decisions that affect over 400,000 residents. As the main legislative authority, the Council is responsible for setting municipal policy, approving budgets, enacting bylaws, and providing strategic direction for city operations. The Council typically meets regularly throughout the year, with both regular meetings and special sessions called to address urgent or complex matters requiring additional deliberation.
-
-The Council addresses a wide range of municipal issues including urban planning and development, transportation infrastructure, public safety, environmental initiatives, economic development, and community services. Members review and vote on matters such as zoning applications, major capital projects, tax rates, service delivery improvements, and responses to community concerns. The mix of regular and special meetings indicates the Council handles both routine municipal business and time-sensitive issues that require focused attention outside the normal meeting schedule.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

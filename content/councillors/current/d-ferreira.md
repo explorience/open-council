@@ -9,15 +9,15 @@ totalVotes: 2884
 votesYea: 2308
 votesNay: 309
 votesAbsent: 267
-attendanceRate: 49.8
+attendanceRate: 97.2
 participationRate: 90.7
 yeaRate: 88.2
 contestedDissentRate: 26.2
 contestedVotes: 1151
 prefillQuestions:
-  - "What is David Ferreira's voting record on major municipal issues such as budget approvals, development applications, and infrastructure projects?"
-  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same period?"
-  - "What specific committees does he serve on, and has he taken any leadership roles such as committee chair or vice-chair positions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 49.8%
-- **Meetings Attended**: 205 of 412
-- **Meetings Missed**: 207
-- **Trend**: Stable -
+- **Attendance Rate**: 97.2%
+- **Meetings Attended**: 205 of 211
+- **Meetings Missed**: 6
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2022: 9.6% (9/94 meetings)
-  - 2023: 66.7% (76/114 meetings)
-  - 2024: 65.2% (73/112 meetings)
-  - 2025: 51.1% (47/92 meetings)
+  - 2022: 100.0% (9/9 meetings)
+  - 2023: 98.7% (76/77 meetings)
+  - 2024: 98.6% (73/74 meetings)
+  - 2025: 92.2% (47/51 meetings)
 
 
 ## Voting Alignment

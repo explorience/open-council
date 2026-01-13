@@ -2,62 +2,62 @@
   "councillor": "Phil Squire",
   "slug": "p-squire",
   "attendance": {
-    "totalMeetings": 978,
+    "totalMeetings": 466,
     "present": 442,
-    "absent": 536,
+    "absent": 24,
     "remote": 0,
-    "attendanceRate": 45.194274028629856,
+    "attendanceRate": 94.84978540772532,
     "trend": [
       {
         "period": "2014",
-        "attendanceRate": 4.545454545454546,
+        "attendanceRate": 85.71428571428571,
         "meetingsAttended": 6,
-        "meetingsTotal": 132
+        "meetingsTotal": 7
       },
       {
         "period": "2015",
-        "attendanceRate": 51.40845070422535,
+        "attendanceRate": 94.8051948051948,
         "meetingsAttended": 73,
-        "meetingsTotal": 142
+        "meetingsTotal": 77
       },
       {
         "period": "2016",
-        "attendanceRate": 50,
+        "attendanceRate": 96.05263157894737,
         "meetingsAttended": 73,
-        "meetingsTotal": 146
+        "meetingsTotal": 76
       },
       {
         "period": "2017",
-        "attendanceRate": 55.46875,
+        "attendanceRate": 93.42105263157895,
         "meetingsAttended": 71,
-        "meetingsTotal": 128
+        "meetingsTotal": 76
       },
       {
         "period": "2018",
-        "attendanceRate": 56.19047619047619,
+        "attendanceRate": 92.1875,
         "meetingsAttended": 59,
-        "meetingsTotal": 105
+        "meetingsTotal": 64
       },
       {
         "period": "2019",
-        "attendanceRate": 60.526315789473685,
+        "attendanceRate": 93.24324324324324,
         "meetingsAttended": 69,
-        "meetingsTotal": 114
+        "meetingsTotal": 74
       },
       {
         "period": "2020",
-        "attendanceRate": 50.89285714285714,
+        "attendanceRate": 100,
         "meetingsAttended": 57,
-        "meetingsTotal": 112
+        "meetingsTotal": 57
       },
       {
         "period": "2021",
-        "attendanceRate": 34.34343434343434,
+        "attendanceRate": 97.14285714285714,
         "meetingsAttended": 34,
-        "meetingsTotal": 99
+        "meetingsTotal": 35
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 6305,

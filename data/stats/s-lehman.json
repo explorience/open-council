@@ -2,62 +2,62 @@
   "councillor": "Steve Lehman",
   "slug": "s-lehman",
   "attendance": {
-    "totalMeetings": 842,
+    "totalMeetings": 392,
     "present": 378,
-    "absent": 464,
+    "absent": 14,
     "remote": 3,
-    "attendanceRate": 44.89311163895487,
+    "attendanceRate": 96.42857142857143,
     "trend": [
       {
         "period": "2018",
-        "attendanceRate": 5.714285714285714,
+        "attendanceRate": 100,
         "meetingsAttended": 6,
-        "meetingsTotal": 105
+        "meetingsTotal": 6
       },
       {
         "period": "2019",
-        "attendanceRate": 45.614035087719294,
+        "attendanceRate": 96.29629629629629,
         "meetingsAttended": 52,
-        "meetingsTotal": 114
+        "meetingsTotal": 54
       },
       {
         "period": "2020",
-        "attendanceRate": 52.67857142857143,
+        "attendanceRate": 100,
         "meetingsAttended": 59,
-        "meetingsTotal": 112
+        "meetingsTotal": 59
       },
       {
         "period": "2021",
-        "attendanceRate": 49.494949494949495,
+        "attendanceRate": 100,
         "meetingsAttended": 49,
-        "meetingsTotal": 99
+        "meetingsTotal": 49
       },
       {
         "period": "2022",
-        "attendanceRate": 52.12765957446809,
+        "attendanceRate": 96.07843137254902,
         "meetingsAttended": 49,
-        "meetingsTotal": 94
+        "meetingsTotal": 51
       },
       {
         "period": "2023",
-        "attendanceRate": 50.877192982456144,
+        "attendanceRate": 96.66666666666667,
         "meetingsAttended": 58,
-        "meetingsTotal": 114
+        "meetingsTotal": 60
       },
       {
         "period": "2024",
-        "attendanceRate": 50.89285714285714,
+        "attendanceRate": 90.47619047619048,
         "meetingsAttended": 57,
-        "meetingsTotal": 112
+        "meetingsTotal": 63
       },
       {
         "period": "2025",
-        "attendanceRate": 52.17391304347826,
+        "attendanceRate": 96,
         "meetingsAttended": 48,
-        "meetingsTotal": 92
+        "meetingsTotal": 50
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 7143,

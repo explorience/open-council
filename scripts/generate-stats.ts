@@ -342,13 +342,31 @@ async function main() {
           }
         }
 
-        // For each councillor active during this meeting, update attendance
+        // Build absent set from meeting data
+        const absentSet = new Set<string>()
+        if (meeting.absent) {
+          for (const name of meeting.absent) {
+            const canonical = normalizeAttendeeName(name)
+            if (canonical && registry[canonical]) {
+              absentSet.add(getSlug(canonical))
+            }
+          }
+        }
+
+        // For each councillor, only count this meeting if they were EXPECTED to attend
+        // (i.e., they appear in either the present or absent list)
+        // This prevents counting committee meetings against councillors who aren't members
         const meetingYear = meetingDate.getFullYear().toString()
 
         for (const canonicalName of Object.keys(registry)) {
           if (!wasActiveOnDate(canonicalName, meetingDate, registry)) continue
 
           const slug = getSlug(canonicalName)
+          const wasExpected = presentSet.has(slug) || absentSet.has(slug)
+
+          // Only count meetings where the councillor was expected to attend
+          if (!wasExpected) continue
+
           councillorAttendance[slug].total++
 
           // Initialize year tracking for this councillor if needed
@@ -366,10 +384,8 @@ async function main() {
             if (remoteSet.has(slug)) {
               councillorAttendance[slug].remote++
             }
-          } else if (meeting.absent?.some((n) => normalizeAttendeeName(n) === canonicalName)) {
-            councillorAttendance[slug].absent++
           } else {
-            // Not explicitly listed as present or absent - might be absent
+            // They were expected (in absent list) but not present
             councillorAttendance[slug].absent++
           }
         }

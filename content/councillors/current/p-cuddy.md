@@ -9,15 +9,15 @@ totalVotes: 3594
 votesYea: 2971
 votesNay: 314
 votesAbsent: 309
-attendanceRate: 48.5
+attendanceRate: 99.0
 participationRate: 91.4
 yeaRate: 90.4
 contestedDissentRate: 11.5
 contestedVotes: 1269
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development applications, and infrastructure projects?"
-  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout the 2022-2025 term?"
-  - "What specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 48.5%
-- **Meetings Attended**: 200 of 412
-- **Meetings Missed**: 212
-- **Trend**: Improving ^
+- **Attendance Rate**: 99.0%
+- **Meetings Attended**: 200 of 202
+- **Meetings Missed**: 2
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 8.5% (8/94 meetings)
-  - 2023: 53.5% (61/114 meetings)
-  - 2024: 59.8% (67/112 meetings)
-  - 2025: 69.6% (64/92 meetings)
+  - 2022: 100.0% (8/8 meetings)
+  - 2023: 100.0% (61/61 meetings)
+  - 2024: 100.0% (67/67 meetings)
+  - 2025: 97.0% (64/66 meetings)
 
 
 ## Voting Alignment

@@ -9,15 +9,15 @@ totalVotes: 6144
 votesYea: 5730
 votesNay: 414
 votesAbsent: 0
-attendanceRate: 58.3
+attendanceRate: 94.7
 participationRate: 100.0
 yeaRate: 93.3
 contestedDissentRate: 6.8
 contestedVotes: 5935
 prefillQuestions:
-  - "What was Harold Usher's voting attendance rate and were there any significant absences during his time on council?"
-  - "Which specific committees did Harold Usher serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Harold Usher's meeting attendance compare to other council members during the same period from 2011-2018?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 58.3%
-- **Meetings Attended**: 522 of 895
-- **Meetings Missed**: 373
-- **Trend**: Declining v
+- **Attendance Rate**: 94.7%
+- **Meetings Attended**: 522 of 551
+- **Meetings Missed**: 29
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2015: 64.8% (92/142 meetings)
-  - 2016: 65.1% (95/146 meetings)
-  - 2017: 57.8% (74/128 meetings)
-  - 2018: 37.1% (39/105 meetings)
+  - 2015: 93.9% (92/98 meetings)
+  - 2016: 96.9% (95/98 meetings)
+  - 2017: 89.2% (74/83 meetings)
+  - 2018: 90.7% (39/43 meetings)
 
 
 ## Committee Activity Breakdown

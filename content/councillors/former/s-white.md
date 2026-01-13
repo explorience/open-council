@@ -9,15 +9,15 @@ totalVotes: 2282
 votesYea: 2086
 votesNay: 196
 votesAbsent: 0
-attendanceRate: 56.7
+attendanceRate: 89.5
 participationRate: 100.0
 yeaRate: 91.4
 contestedDissentRate: 9.3
 contestedVotes: 2282
 prefillQuestions:
-  - "What was Sandy White's voting record on major budget decisions during their 2011-2014 term?"
-  - "How did Sandy White vote on key development and planning issues that came before council?"
-  - "What positions did Sandy White take on transit and infrastructure projects during their time on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 56.7%
-- **Meetings Attended**: 212 of 374
-- **Meetings Missed**: 162
+- **Attendance Rate**: 89.5%
+- **Meetings Attended**: 212 of 237
+- **Meetings Missed**: 25
 - **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2011: 92.9% (13/14 meetings)
-  - 2012: 86.4% (76/88 meetings)
-  - 2013: 50.7% (71/140 meetings)
-  - 2014: 39.4% (52/132 meetings)
+  - 2011: 100.0% (13/13 meetings)
+  - 2012: 93.8% (76/81 meetings)
+  - 2013: 88.8% (71/80 meetings)
+  - 2014: 82.5% (52/63 meetings)
 
 
 ## Committee Activity Breakdown

@@ -2,104 +2,86 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 1632,
+    "totalMeetings": 568,
     "present": 541,
-    "absent": 1091,
+    "absent": 27,
     "remote": 6,
-    "attendanceRate": 33.14950980392157,
+    "attendanceRate": 95.24647887323944,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 78.57142857142857,
+        "attendanceRate": 91.66666666666666,
         "meetingsAttended": 11,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 48.86363636363637,
+        "attendanceRate": 87.75510204081633,
         "meetingsAttended": 43,
-        "meetingsTotal": 88
+        "meetingsTotal": 49
       },
       {
         "period": "2013",
-        "attendanceRate": 36.42857142857142,
+        "attendanceRate": 91.07142857142857,
         "meetingsAttended": 51,
-        "meetingsTotal": 140
+        "meetingsTotal": 56
       },
       {
         "period": "2014",
-        "attendanceRate": 40.15151515151515,
+        "attendanceRate": 91.37931034482759,
         "meetingsAttended": 53,
-        "meetingsTotal": 132
-      },
-      {
-        "period": "2015",
-        "attendanceRate": 0,
-        "meetingsAttended": 0,
-        "meetingsTotal": 142
-      },
-      {
-        "period": "2016",
-        "attendanceRate": 0,
-        "meetingsAttended": 0,
-        "meetingsTotal": 146
-      },
-      {
-        "period": "2017",
-        "attendanceRate": 0,
-        "meetingsAttended": 0,
-        "meetingsTotal": 128
+        "meetingsTotal": 58
       },
       {
         "period": "2018",
-        "attendanceRate": 5.714285714285714,
+        "attendanceRate": 100,
         "meetingsAttended": 6,
-        "meetingsTotal": 105
+        "meetingsTotal": 6
       },
       {
         "period": "2019",
-        "attendanceRate": 50.877192982456144,
+        "attendanceRate": 93.54838709677419,
         "meetingsAttended": 58,
-        "meetingsTotal": 114
+        "meetingsTotal": 62
       },
       {
         "period": "2020",
-        "attendanceRate": 51.78571428571429,
+        "attendanceRate": 100,
         "meetingsAttended": 58,
-        "meetingsTotal": 112
+        "meetingsTotal": 58
       },
       {
         "period": "2021",
-        "attendanceRate": 46.464646464646464,
+        "attendanceRate": 97.87234042553192,
         "meetingsAttended": 46,
-        "meetingsTotal": 99
+        "meetingsTotal": 47
       },
       {
         "period": "2022",
-        "attendanceRate": 50,
+        "attendanceRate": 97.91666666666666,
         "meetingsAttended": 47,
-        "meetingsTotal": 94
+        "meetingsTotal": 48
       },
       {
         "period": "2023",
-        "attendanceRate": 50,
+        "attendanceRate": 98.27586206896551,
         "meetingsAttended": 57,
-        "meetingsTotal": 114
+        "meetingsTotal": 58
       },
       {
         "period": "2024",
-        "attendanceRate": 55.35714285714286,
+        "attendanceRate": 98.4126984126984,
         "meetingsAttended": 62,
-        "meetingsTotal": 112
+        "meetingsTotal": 63
       },
       {
         "period": "2025",
-        "attendanceRate": 53.2608695652174,
+        "attendanceRate": 96.07843137254902,
         "meetingsAttended": 49,
-        "meetingsTotal": 92
+        "meetingsTotal": 51
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 8331,

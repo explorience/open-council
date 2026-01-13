@@ -9,15 +9,15 @@ totalVotes: 3563
 votesYea: 3395
 votesNay: 148
 votesAbsent: 20
-attendanceRate: 44.4
+attendanceRate: 90.3
 participationRate: 99.4
 yeaRate: 95.8
 contestedDissentRate: 3.1
 contestedVotes: 3458
 prefillQuestions:
-  - "What was Tanya Park's voting record on major budget decisions during her 2014-2018 term?"
-  - "Which specific committees did she serve on and what leadership roles, if any, did she hold within those committees?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 44.4%
-- **Meetings Attended**: 290 of 653
-- **Meetings Missed**: 363
-- **Trend**: Improving ^
+- **Attendance Rate**: 90.3%
+- **Meetings Attended**: 290 of 321
+- **Meetings Missed**: 31
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2015: 52.1% (74/142 meetings)
-  - 2016: 53.4% (78/146 meetings)
-  - 2017: 61.7% (79/128 meetings)
-  - 2018: 48.6% (51/105 meetings)
+  - 2015: 92.5% (74/80 meetings)
+  - 2016: 91.8% (78/85 meetings)
+  - 2017: 89.8% (79/88 meetings)
+  - 2018: 85.0% (51/60 meetings)
 
 
 ## Committee Activity Breakdown

@@ -9,15 +9,15 @@ totalVotes: 6938
 votesYea: 6318
 votesNay: 288
 votesAbsent: 332
-attendanceRate: 45.3
+attendanceRate: 96.4
 participationRate: 95.2
 yeaRate: 95.6
 contestedDissentRate: 6.6
 contestedVotes: 3893
 prefillQuestions:
-  - "What was Michael van Holst's voting alignment with other council members on key municipal issues during his tenure?"
-  - "Which specific committees did he serve on and what leadership roles, if any, did he hold within those committees?"
-  - "How did his meeting attendance rate compare to other London City Council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 45.3%
-- **Meetings Attended**: 486 of 1,072
-- **Meetings Missed**: 586
+- **Attendance Rate**: 96.4%
+- **Meetings Attended**: 486 of 504
+- **Meetings Missed**: 18
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2019: 46.5% (53/114 meetings)
-  - 2020: 69.6% (78/112 meetings)
-  - 2021: 50.5% (50/99 meetings)
-  - 2022: 44.7% (42/94 meetings)
+  - 2019: 86.9% (53/61 meetings)
+  - 2020: 100.0% (78/78 meetings)
+  - 2021: 96.2% (50/52 meetings)
+  - 2022: 95.5% (42/44 meetings)
 
 
 ## Committee Activity Breakdown

@@ -9,15 +9,15 @@ totalVotes: 9292
 votesYea: 8450
 votesNay: 496
 votesAbsent: 346
-attendanceRate: 58.0
+attendanceRate: 97.5
 participationRate: 96.3
 yeaRate: 94.5
 contestedDissentRate: 8.2
 contestedVotes: 5396
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Jesse Helmer serve on and what roles did they hold within those committees?"
-  - "How did Jesse Helmer's participation patterns change between their first term (2014-2018) and second term (2018-2022)?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 58.0%
-- **Meetings Attended**: 622 of 1,072
-- **Meetings Missed**: 450
+- **Attendance Rate**: 97.5%
+- **Meetings Attended**: 622 of 638
+- **Meetings Missed**: 16
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2019: 73.7% (84/114 meetings)
-  - 2020: 74.1% (83/112 meetings)
-  - 2021: 64.6% (64/99 meetings)
-  - 2022: 58.5% (55/94 meetings)
+  - 2019: 95.5% (84/88 meetings)
+  - 2020: 96.5% (83/86 meetings)
+  - 2021: 98.5% (64/65 meetings)
+  - 2022: 100.0% (55/55 meetings)
 
 
 ## Committee Activity Breakdown

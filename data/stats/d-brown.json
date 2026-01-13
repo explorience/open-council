@@ -2,38 +2,38 @@
   "councillor": "Denise Brown",
   "slug": "d-brown",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 164,
     "present": 145,
-    "absent": 229,
+    "absent": 19,
     "remote": 0,
-    "attendanceRate": 38.770053475935825,
+    "attendanceRate": 88.41463414634147,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 71.42857142857143,
+        "attendanceRate": 90.9090909090909,
         "meetingsAttended": 10,
-        "meetingsTotal": 14
+        "meetingsTotal": 11
       },
       {
         "period": "2012",
-        "attendanceRate": 36.36363636363637,
+        "attendanceRate": 91.42857142857143,
         "meetingsAttended": 32,
-        "meetingsTotal": 88
+        "meetingsTotal": 35
       },
       {
         "period": "2013",
-        "attendanceRate": 37.142857142857146,
+        "attendanceRate": 88.13559322033898,
         "meetingsAttended": 52,
-        "meetingsTotal": 140
+        "meetingsTotal": 59
       },
       {
         "period": "2014",
-        "attendanceRate": 38.63636363636363,
+        "attendanceRate": 86.4406779661017,
         "meetingsAttended": 51,
-        "meetingsTotal": 132
+        "meetingsTotal": 59
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2048,

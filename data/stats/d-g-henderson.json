@@ -2,35 +2,35 @@
   "councillor": "Dale Henderson",
   "slug": "d-g-henderson",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 201,
     "present": 192,
-    "absent": 182,
+    "absent": 9,
     "remote": 0,
-    "attendanceRate": 51.33689839572193,
+    "attendanceRate": 95.52238805970148,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 85.71428571428571,
+        "attendanceRate": 100,
         "meetingsAttended": 12,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 69.31818181818183,
+        "attendanceRate": 96.82539682539682,
         "meetingsAttended": 61,
-        "meetingsTotal": 88
+        "meetingsTotal": 63
       },
       {
         "period": "2013",
-        "attendanceRate": 44.285714285714285,
+        "attendanceRate": 98.4126984126984,
         "meetingsAttended": 62,
-        "meetingsTotal": 140
+        "meetingsTotal": 63
       },
       {
         "period": "2014",
-        "attendanceRate": 43.18181818181818,
+        "attendanceRate": 90.47619047619048,
         "meetingsAttended": 57,
-        "meetingsTotal": 132
+        "meetingsTotal": 63
       }
     ],
     "trendDirection": "declining"

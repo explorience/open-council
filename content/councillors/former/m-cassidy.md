@@ -9,15 +9,15 @@ totalVotes: 8516
 votesYea: 7864
 votesNay: 330
 votesAbsent: 322
-attendanceRate: 53.1
+attendanceRate: 96.0
 participationRate: 96.2
 yeaRate: 96.0
 contestedDissentRate: 4.5
 contestedVotes: 4806
 prefillQuestions:
-  - "What was Maureen Cassidy's voting attendance rate and how did it compare to other council members during her tenure?"
-  - "Which specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair?"
-  - "What were the key issues or motions she sponsored or voted on during her most active years on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 53.1%
-- **Meetings Attended**: 569 of 1,072
-- **Meetings Missed**: 503
+- **Attendance Rate**: 96.0%
+- **Meetings Attended**: 569 of 593
+- **Meetings Missed**: 24
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2019: 59.6% (68/114 meetings)
-  - 2020: 68.8% (77/112 meetings)
-  - 2021: 64.6% (64/99 meetings)
-  - 2022: 50.0% (47/94 meetings)
+  - 2019: 97.1% (68/70 meetings)
+  - 2020: 100.0% (77/77 meetings)
+  - 2021: 100.0% (64/64 meetings)
+  - 2022: 94.0% (47/50 meetings)
 
 
 ## Committee Activity Breakdown

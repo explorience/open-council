@@ -9,15 +9,15 @@ totalVotes: 3363
 votesYea: 2828
 votesNay: 283
 votesAbsent: 252
-attendanceRate: 51.5
+attendanceRate: 96.8
 participationRate: 92.5
 yeaRate: 90.9
 contestedDissentRate: 12.6
 contestedVotes: 1278
 prefillQuestions:
-  - "What specific committees has Jerry Pribil served on during his time on London City Council?"
-  - "How does Jerry Pribil's meeting attendance rate compare to other council members?"
-  - "What has been Jerry Pribil's voting pattern on key municipal issues and bylaws during his tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 51.5%
-- **Meetings Attended**: 212 of 412
-- **Meetings Missed**: 200
-- **Trend**: Improving ^
+- **Attendance Rate**: 96.8%
+- **Meetings Attended**: 212 of 219
+- **Meetings Missed**: 7
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2022: 8.5% (8/94 meetings)
-  - 2023: 54.4% (62/114 meetings)
-  - 2024: 69.6% (78/112 meetings)
-  - 2025: 69.6% (64/92 meetings)
+  - 2022: 100.0% (8/8 meetings)
+  - 2023: 100.0% (62/62 meetings)
+  - 2024: 98.7% (78/79 meetings)
+  - 2025: 91.4% (64/70 meetings)
 
 
 ## Voting Alignment

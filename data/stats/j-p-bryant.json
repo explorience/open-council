@@ -2,38 +2,38 @@
   "councillor": "Judy Bryant",
   "slug": "j-p-bryant",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 243,
     "present": 218,
-    "absent": 156,
+    "absent": 25,
     "remote": 0,
-    "attendanceRate": 58.288770053475936,
+    "attendanceRate": 89.7119341563786,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 78.57142857142857,
+        "attendanceRate": 91.66666666666666,
         "meetingsAttended": 11,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 59.09090909090909,
+        "attendanceRate": 85.24590163934425,
         "meetingsAttended": 52,
-        "meetingsTotal": 88
+        "meetingsTotal": 61
       },
       {
         "period": "2013",
-        "attendanceRate": 57.85714285714286,
+        "attendanceRate": 91.01123595505618,
         "meetingsAttended": 81,
-        "meetingsTotal": 140
+        "meetingsTotal": 89
       },
       {
         "period": "2014",
-        "attendanceRate": 56.060606060606055,
+        "attendanceRate": 91.35802469135803,
         "meetingsAttended": 74,
-        "meetingsTotal": 132
+        "meetingsTotal": 81
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2215,

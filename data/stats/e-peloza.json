@@ -2,62 +2,62 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 842,
+    "totalMeetings": 417,
     "present": 412,
-    "absent": 430,
+    "absent": 5,
     "remote": 1,
-    "attendanceRate": 48.9311163895487,
+    "attendanceRate": 98.8009592326139,
     "trend": [
       {
         "period": "2018",
-        "attendanceRate": 6.666666666666667,
+        "attendanceRate": 100,
         "meetingsAttended": 7,
-        "meetingsTotal": 105
+        "meetingsTotal": 7
       },
       {
         "period": "2019",
-        "attendanceRate": 56.14035087719298,
+        "attendanceRate": 98.46153846153847,
         "meetingsAttended": 64,
-        "meetingsTotal": 114
+        "meetingsTotal": 65
       },
       {
         "period": "2020",
-        "attendanceRate": 52.67857142857143,
+        "attendanceRate": 100,
         "meetingsAttended": 59,
-        "meetingsTotal": 112
+        "meetingsTotal": 59
       },
       {
         "period": "2021",
-        "attendanceRate": 63.63636363636363,
+        "attendanceRate": 100,
         "meetingsAttended": 63,
-        "meetingsTotal": 99
+        "meetingsTotal": 63
       },
       {
         "period": "2022",
-        "attendanceRate": 51.06382978723404,
+        "attendanceRate": 100,
         "meetingsAttended": 48,
-        "meetingsTotal": 94
+        "meetingsTotal": 48
       },
       {
         "period": "2023",
-        "attendanceRate": 50,
+        "attendanceRate": 98.27586206896551,
         "meetingsAttended": 57,
-        "meetingsTotal": 114
+        "meetingsTotal": 58
       },
       {
         "period": "2024",
-        "attendanceRate": 54.46428571428571,
+        "attendanceRate": 95.3125,
         "meetingsAttended": 61,
-        "meetingsTotal": 112
+        "meetingsTotal": 64
       },
       {
         "period": "2025",
-        "attendanceRate": 57.608695652173914,
+        "attendanceRate": 100,
         "meetingsAttended": 53,
-        "meetingsTotal": 92
+        "meetingsTotal": 53
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 6960,

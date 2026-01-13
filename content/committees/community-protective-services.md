@@ -4,14 +4,12 @@ type: committee
 slug: "community-protective-services"
 meetingCount: 196
 prefillQuestions:
-  - "What is the committee's current budget allocation for community and protective services, and how are priorities determined when funding these various programs?"
-  - "How does the committee measure the effectiveness of protective services and community programs, and what performance metrics are used to evaluate success?"
-  - "What opportunities exist for public input on committee decisions, and how can residents participate in or provide feedback on community and protective services matters?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
-The Community and Protective Services Committee is a standing committee of London City Council that oversees municipal services directly impacting residents' safety, well-being, and quality of life. This committee typically handles matters related to public health, social services, emergency management, fire and police services, animal control, licensing and bylaw enforcement, and community development programs. As one of the key governance bodies within the city's committee structure, it reviews policies, budgets, and operational matters for these essential municipal services before making recommendations to City Council for final approval.
-
-With 196 meetings held to date, including both regular and special sessions, the committee demonstrates an active role in addressing ongoing community needs and emerging issues. The committee serves as a crucial link between city administration and council, reviewing staff reports, hearing public input, and deliberating on matters such as emergency response protocols, social housing initiatives, public health strategies, community safety programs, and protective service delivery models. Their work directly impacts how London delivers essential services that protect and support its residents on a daily basis.
+Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
 
 ## Recent Meetings
 

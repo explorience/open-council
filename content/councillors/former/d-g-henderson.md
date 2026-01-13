@@ -9,15 +9,15 @@ totalVotes: 2416
 votesYea: 2166
 votesNay: 250
 votesAbsent: 0
-attendanceRate: 51.3
+attendanceRate: 95.5
 participationRate: 100.0
 yeaRate: 89.7
 contestedDissentRate: 11.6
 contestedVotes: 2416
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major budget decisions and tax increases during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on, and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How did Henderson vote on key development projects and zoning changes that came before council during their tenure?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 51.3%
-- **Meetings Attended**: 192 of 374
-- **Meetings Missed**: 182
+- **Attendance Rate**: 95.5%
+- **Meetings Attended**: 192 of 201
+- **Meetings Missed**: 9
 - **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2011: 85.7% (12/14 meetings)
-  - 2012: 69.3% (61/88 meetings)
-  - 2013: 44.3% (62/140 meetings)
-  - 2014: 43.2% (57/132 meetings)
+  - 2011: 100.0% (12/12 meetings)
+  - 2012: 96.8% (61/63 meetings)
+  - 2013: 98.4% (62/63 meetings)
+  - 2014: 90.5% (57/63 meetings)
 
 
 ## Committee Activity Breakdown

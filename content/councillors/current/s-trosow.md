@@ -9,15 +9,15 @@ totalVotes: 3265
 votesYea: 2386
 votesNay: 511
 votesAbsent: 368
-attendanceRate: 49.0
+attendanceRate: 95.7
 participationRate: 88.7
 yeaRate: 82.4
 contestedDissentRate: 44.9
 contestedVotes: 1223
 prefillQuestions:
-  - "What specific committees has Sam Trosow served on during their time on London City Council?"
-  - "How does Sam Trosow's meeting attendance record of 209 meetings compare to other council members during the same period?"
-  - "What has been Sam Trosow's voting pattern on key municipal issues like budget approvals, development proposals, and policy initiatives?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 49.0%
-- **Meetings Attended**: 202 of 412
-- **Meetings Missed**: 210
-- **Trend**: Improving ^
+- **Attendance Rate**: 95.7%
+- **Meetings Attended**: 202 of 211
+- **Meetings Missed**: 9
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 9.6% (9/94 meetings)
-  - 2023: 64.0% (73/114 meetings)
-  - 2024: 61.6% (69/112 meetings)
-  - 2025: 55.4% (51/92 meetings)
+  - 2022: 100.0% (9/9 meetings)
+  - 2023: 94.8% (73/77 meetings)
+  - 2024: 93.2% (69/74 meetings)
+  - 2025: 100.0% (51/51 meetings)
 
 
 ## Voting Alignment

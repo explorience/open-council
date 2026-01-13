@@ -2,35 +2,35 @@
   "councillor": "Bud Polhill",
   "slug": "b-polhill",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 246,
     "present": 243,
-    "absent": 131,
+    "absent": 3,
     "remote": 0,
-    "attendanceRate": 64.97326203208557,
+    "attendanceRate": 98.78048780487805,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 64.28571428571429,
+        "attendanceRate": 90,
         "meetingsAttended": 9,
-        "meetingsTotal": 14
+        "meetingsTotal": 10
       },
       {
         "period": "2012",
-        "attendanceRate": 68.18181818181817,
+        "attendanceRate": 98.36065573770492,
         "meetingsAttended": 60,
-        "meetingsTotal": 88
+        "meetingsTotal": 61
       },
       {
         "period": "2013",
-        "attendanceRate": 66.42857142857143,
+        "attendanceRate": 100,
         "meetingsAttended": 93,
-        "meetingsTotal": 140
+        "meetingsTotal": 93
       },
       {
         "period": "2014",
-        "attendanceRate": 61.36363636363637,
+        "attendanceRate": 98.78048780487805,
         "meetingsAttended": 81,
-        "meetingsTotal": 132
+        "meetingsTotal": 82
       }
     ],
     "trendDirection": "stable"

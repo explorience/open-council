@@ -2,38 +2,38 @@
   "councillor": "Joe Swan",
   "slug": "j-b-swan",
   "attendance": {
-    "totalMeetings": 374,
+    "totalMeetings": 221,
     "present": 195,
-    "absent": 179,
+    "absent": 26,
     "remote": 0,
-    "attendanceRate": 52.139037433155075,
+    "attendanceRate": 88.23529411764706,
     "trend": [
       {
         "period": "2011",
-        "attendanceRate": 78.57142857142857,
+        "attendanceRate": 91.66666666666666,
         "meetingsAttended": 11,
-        "meetingsTotal": 14
+        "meetingsTotal": 12
       },
       {
         "period": "2012",
-        "attendanceRate": 70.45454545454545,
+        "attendanceRate": 91.17647058823529,
         "meetingsAttended": 62,
-        "meetingsTotal": 88
+        "meetingsTotal": 68
       },
       {
         "period": "2013",
-        "attendanceRate": 45.714285714285715,
+        "attendanceRate": 86.48648648648648,
         "meetingsAttended": 64,
-        "meetingsTotal": 140
+        "meetingsTotal": 74
       },
       {
         "period": "2014",
-        "attendanceRate": 43.93939393939394,
+        "attendanceRate": 86.56716417910447,
         "meetingsAttended": 58,
-        "meetingsTotal": 132
+        "meetingsTotal": 67
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
     "totalVotes": 2232,

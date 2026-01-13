@@ -9,15 +9,15 @@ totalVotes: 8331
 votesYea: 6511
 votesNay: 982
 votesAbsent: 838
-attendanceRate: 33.1
+attendanceRate: 95.2
 participationRate: 89.9
 yeaRate: 86.9
 contestedDissentRate: 22.9
 contestedVotes: 3841
 prefillQuestions:
-  - "What specific committees has Paul Van Meerbergen served on during his time on London City Council?"
-  - "How does his meeting attendance record of 499 meetings compare to the expected number of meetings over his 14-year tenure?"
-  - "What has been his voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -72,16 +72,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 33.1%
-- **Meetings Attended**: 541 of 1,632
-- **Meetings Missed**: 1,091
-- **Trend**: Improving ^
+- **Attendance Rate**: 95.2%
+- **Meetings Attended**: 541 of 568
+- **Meetings Missed**: 27
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 50.0% (47/94 meetings)
-  - 2023: 50.0% (57/114 meetings)
-  - 2024: 55.4% (62/112 meetings)
-  - 2025: 53.3% (49/92 meetings)
+  - 2022: 97.9% (47/48 meetings)
+  - 2023: 98.3% (57/58 meetings)
+  - 2024: 98.4% (62/63 meetings)
+  - 2025: 96.1% (49/51 meetings)
 
 
 ## Voting Alignment

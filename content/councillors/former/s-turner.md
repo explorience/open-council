@@ -9,15 +9,15 @@ totalVotes: 5767
 votesYea: 4955
 votesNay: 316
 votesAbsent: 496
-attendanceRate: 44.7
+attendanceRate: 90.2
 participationRate: 91.4
 yeaRate: 94.0
 contestedDissentRate: 7.6
 contestedVotes: 3570
 prefillQuestions:
-  - "What was Stephen Turner's voting record on major city budget decisions during his 8 years on council?"
-  - "How often did Stephen Turner vote with the majority versus taking dissenting positions on key municipal issues?"
-  - "What specific committees did Stephen Turner chair or hold leadership positions on during his time on council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 44.7%
-- **Meetings Attended**: 479 of 1,072
-- **Meetings Missed**: 593
+- **Attendance Rate**: 90.2%
+- **Meetings Attended**: 479 of 531
+- **Meetings Missed**: 52
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2019: 53.5% (61/114 meetings)
-  - 2020: 54.5% (61/112 meetings)
-  - 2021: 46.5% (46/99 meetings)
-  - 2022: 46.8% (44/94 meetings)
+  - 2019: 95.3% (61/64 meetings)
+  - 2020: 92.4% (61/66 meetings)
+  - 2021: 90.2% (46/51 meetings)
+  - 2022: 93.6% (44/47 meetings)
 
 
 ## Committee Activity Breakdown

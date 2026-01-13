@@ -2,38 +2,38 @@
   "councillor": "Arielle Kayabaga",
   "slug": "a-kayabaga",
   "attendance": {
-    "totalMeetings": 430,
+    "totalMeetings": 201,
     "present": 178,
-    "absent": 252,
+    "absent": 23,
     "remote": 1,
-    "attendanceRate": 41.3953488372093,
+    "attendanceRate": 88.55721393034825,
     "trend": [
       {
         "period": "2018",
-        "attendanceRate": 5.714285714285714,
+        "attendanceRate": 100,
         "meetingsAttended": 6,
-        "meetingsTotal": 105
+        "meetingsTotal": 6
       },
       {
         "period": "2019",
-        "attendanceRate": 48.24561403508772,
+        "attendanceRate": 85.9375,
         "meetingsAttended": 55,
-        "meetingsTotal": 114
+        "meetingsTotal": 64
       },
       {
         "period": "2020",
-        "attendanceRate": 71.42857142857143,
+        "attendanceRate": 95.23809523809523,
         "meetingsAttended": 80,
-        "meetingsTotal": 112
+        "meetingsTotal": 84
       },
       {
         "period": "2021",
-        "attendanceRate": 37.37373737373738,
+        "attendanceRate": 78.72340425531915,
         "meetingsAttended": 37,
-        "meetingsTotal": 99
+        "meetingsTotal": 47
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2321,

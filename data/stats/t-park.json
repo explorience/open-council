@@ -2,44 +2,44 @@
   "councillor": "Tanya Park",
   "slug": "t-park",
   "attendance": {
-    "totalMeetings": 653,
+    "totalMeetings": 321,
     "present": 290,
-    "absent": 363,
+    "absent": 31,
     "remote": 0,
-    "attendanceRate": 44.4104134762634,
+    "attendanceRate": 90.34267912772586,
     "trend": [
       {
         "period": "2014",
-        "attendanceRate": 6.0606060606060606,
+        "attendanceRate": 100,
         "meetingsAttended": 8,
-        "meetingsTotal": 132
+        "meetingsTotal": 8
       },
       {
         "period": "2015",
-        "attendanceRate": 52.112676056338024,
+        "attendanceRate": 92.5,
         "meetingsAttended": 74,
-        "meetingsTotal": 142
+        "meetingsTotal": 80
       },
       {
         "period": "2016",
-        "attendanceRate": 53.42465753424658,
+        "attendanceRate": 91.76470588235294,
         "meetingsAttended": 78,
-        "meetingsTotal": 146
+        "meetingsTotal": 85
       },
       {
         "period": "2017",
-        "attendanceRate": 61.71875,
+        "attendanceRate": 89.77272727272727,
         "meetingsAttended": 79,
-        "meetingsTotal": 128
+        "meetingsTotal": 88
       },
       {
         "period": "2018",
-        "attendanceRate": 48.57142857142857,
+        "attendanceRate": 85,
         "meetingsAttended": 51,
-        "meetingsTotal": 105
+        "meetingsTotal": 60
       }
     ],
-    "trendDirection": "improving"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 3563,

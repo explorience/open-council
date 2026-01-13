@@ -2,38 +2,38 @@
   "councillor": "David Ferreira",
   "slug": "d-ferreira",
   "attendance": {
-    "totalMeetings": 412,
+    "totalMeetings": 211,
     "present": 205,
-    "absent": 207,
+    "absent": 6,
     "remote": 1,
-    "attendanceRate": 49.75728155339806,
+    "attendanceRate": 97.1563981042654,
     "trend": [
       {
         "period": "2022",
-        "attendanceRate": 9.574468085106384,
+        "attendanceRate": 100,
         "meetingsAttended": 9,
-        "meetingsTotal": 94
+        "meetingsTotal": 9
       },
       {
         "period": "2023",
-        "attendanceRate": 66.66666666666666,
+        "attendanceRate": 98.7012987012987,
         "meetingsAttended": 76,
-        "meetingsTotal": 114
+        "meetingsTotal": 77
       },
       {
         "period": "2024",
-        "attendanceRate": 65.17857142857143,
+        "attendanceRate": 98.64864864864865,
         "meetingsAttended": 73,
-        "meetingsTotal": 112
+        "meetingsTotal": 74
       },
       {
         "period": "2025",
-        "attendanceRate": 51.08695652173913,
+        "attendanceRate": 92.15686274509804,
         "meetingsAttended": 47,
-        "meetingsTotal": 92
+        "meetingsTotal": 51
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 2884,

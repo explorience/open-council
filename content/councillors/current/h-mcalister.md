@@ -9,15 +9,15 @@ totalVotes: 3439
 votesYea: 2728
 votesNay: 245
 votesAbsent: 466
-attendanceRate: 48.5
+attendanceRate: 93.9
 participationRate: 86.4
 yeaRate: 91.8
 contestedDissentRate: 15.1
 contestedVotes: 1217
 prefillQuestions:
-  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
-  - "How does their meeting attendance record of 203 meetings compare to other council members during the same period?"
-  - "What has been their voting pattern on key municipal issues and bylaws brought before council?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 48.5%
-- **Meetings Attended**: 200 of 412
-- **Meetings Missed**: 212
-- **Trend**: Improving ^
+- **Attendance Rate**: 93.9%
+- **Meetings Attended**: 200 of 213
+- **Meetings Missed**: 13
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 9.6% (9/94 meetings)
-  - 2023: 61.4% (70/114 meetings)
-  - 2024: 63.4% (71/112 meetings)
-  - 2025: 54.3% (50/92 meetings)
+  - 2022: 100.0% (9/9 meetings)
+  - 2023: 90.9% (70/77 meetings)
+  - 2024: 93.4% (71/76 meetings)
+  - 2025: 98.0% (50/51 meetings)
 
 
 ## Voting Alignment

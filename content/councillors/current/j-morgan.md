@@ -9,15 +9,15 @@ totalVotes: 10581
 votesYea: 8772
 votesNay: 541
 votesAbsent: 1268
-attendanceRate: 50.8
+attendanceRate: 92.0
 participationRate: 88.0
 yeaRate: 94.2
 contestedDissentRate: 5.3
 contestedVotes: 5245
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council?"
-  - "What has been Josh Morgan's voting record on major city issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Josh Morgan's meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his 2014-2025 term?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -72,16 +72,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 50.8%
-- **Meetings Attended**: 706 of 1,390
-- **Meetings Missed**: 684
-- **Trend**: Stable -
+- **Attendance Rate**: 92.0%
+- **Meetings Attended**: 706 of 767
+- **Meetings Missed**: 61
+- **Trend**: Improving ^
 
 **Attendance by Year:**
-  - 2022: 57.4% (54/94 meetings)
-  - 2023: 51.8% (59/114 meetings)
-  - 2024: 54.5% (61/112 meetings)
-  - 2025: 52.2% (48/92 meetings)
+  - 2022: 98.2% (54/55 meetings)
+  - 2023: 56.2% (59/105 meetings)
+  - 2024: 100.0% (61/61 meetings)
+  - 2025: 100.0% (48/48 meetings)
 
 
 ## Voting Alignment

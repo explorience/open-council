@@ -9,15 +9,15 @@ totalVotes: 2321
 votesYea: 2073
 votesNay: 104
 votesAbsent: 144
-attendanceRate: 41.4
+attendanceRate: 88.6
 participationRate: 93.8
 yeaRate: 95.2
 contestedDissentRate: 16.9
 contestedVotes: 497
 prefillQuestions:
-  - "What was Arielle Kayabaga's voting attendance rate and were there any notable absences from key council votes during her 2018-2021 term?"
-  - "Which specific committees did she serve on and what were her primary areas of focus or expertise within those committee assignments?"
-  - "How did her voting patterns align with other council members, and were there particular issues where she frequently voted in opposition to the majority?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 41.4%
-- **Meetings Attended**: 178 of 430
-- **Meetings Missed**: 252
-- **Trend**: Stable -
+- **Attendance Rate**: 88.6%
+- **Meetings Attended**: 178 of 201
+- **Meetings Missed**: 23
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2018: 5.7% (6/105 meetings)
-  - 2019: 48.2% (55/114 meetings)
-  - 2020: 71.4% (80/112 meetings)
-  - 2021: 37.4% (37/99 meetings)
+  - 2018: 100.0% (6/6 meetings)
+  - 2019: 85.9% (55/64 meetings)
+  - 2020: 95.2% (80/84 meetings)
+  - 2021: 78.7% (37/47 meetings)
 
 
 ## Committee Activity Breakdown

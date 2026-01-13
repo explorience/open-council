@@ -2,38 +2,38 @@
   "councillor": "Skylar Franke",
   "slug": "s-franke",
   "attendance": {
-    "totalMeetings": 412,
+    "totalMeetings": 181,
     "present": 174,
-    "absent": 238,
+    "absent": 7,
     "remote": 0,
-    "attendanceRate": 42.23300970873786,
+    "attendanceRate": 96.13259668508287,
     "trend": [
       {
         "period": "2022",
-        "attendanceRate": 8.51063829787234,
+        "attendanceRate": 100,
         "meetingsAttended": 8,
-        "meetingsTotal": 94
+        "meetingsTotal": 8
       },
       {
         "period": "2023",
-        "attendanceRate": 52.63157894736842,
+        "attendanceRate": 98.36065573770492,
         "meetingsAttended": 60,
-        "meetingsTotal": 114
+        "meetingsTotal": 61
       },
       {
         "period": "2024",
-        "attendanceRate": 58.03571428571429,
+        "attendanceRate": 97.01492537313433,
         "meetingsAttended": 65,
-        "meetingsTotal": 112
+        "meetingsTotal": 67
       },
       {
         "period": "2025",
-        "attendanceRate": 44.565217391304344,
+        "attendanceRate": 91.11111111111111,
         "meetingsAttended": 41,
-        "meetingsTotal": 92
+        "meetingsTotal": 45
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 3550,
