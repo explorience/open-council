@@ -112,6 +112,7 @@ body {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  flex-shrink: 0; // Prevent squishing
 
   @media all and ($mobile) {
     gap: 0.25rem;

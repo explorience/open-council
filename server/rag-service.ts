@@ -2004,8 +2004,11 @@ export class RAGService {
 
       if (!sourceMap.has(key)) {
         // Convert file_path to internal Quartz URL
-        const internalUrl = meta.file_path
-          .replace('data/', '/')
+        // Handle both relative (data/...) and absolute (/usr/src/app/data/...) paths
+        const dataIndex = meta.file_path.indexOf('data/');
+        const relativePath = dataIndex !== -1 ? meta.file_path.substring(dataIndex) : meta.file_path;
+        const internalUrl = '/months/' + relativePath
+          .replace('data/', '')
           .replace('.json', '')
           .replace(/ /g, '-');
 
@@ -2043,9 +2046,12 @@ export class RAGService {
         const meta = result.metadata;
 
         // Convert file_path to internal Quartz URL
-        // e.g., "data/2024-09/2024-09-24 Council.json" -> "/2024-09/2024-09-24-Council"
-        const internalUrl = meta.file_path
-          .replace('data/', '/')
+        // e.g., "data/2024-09/2024-09-24 Council.json" -> "/months/2024-09/2024-09-24-Council"
+        // Handle both relative and absolute paths (server may store full path)
+        const dataIdx = meta.file_path.indexOf('data/');
+        const relPath = dataIdx !== -1 ? meta.file_path.substring(dataIdx) : meta.file_path;
+        const internalUrl = '/months/' + relPath
+          .replace('data/', '')
           .replace('.json', '')
           .replace(/ /g, '-');
 

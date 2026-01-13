@@ -196,7 +196,7 @@
 
     .fpc-message-content {
       background: var(--secondary);
-      color: var(--light);
+      color: #ffffff; // Explicit white for contrast on dark bubble
       border-radius: 18px 18px 4px 18px;
       max-width: 100%;
     }
