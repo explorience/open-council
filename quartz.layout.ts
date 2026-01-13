@@ -107,6 +107,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     // Councillor page components (self-filter by page type)
     Component.Scorecard(),
+    Component.ComparisonChart(),
     Component.VotingRecord(),
     // Alignment matrix visualization (self-filters by page type)
     Component.AlignmentMatrix(),
