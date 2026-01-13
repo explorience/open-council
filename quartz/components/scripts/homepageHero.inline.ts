@@ -193,64 +193,9 @@ document.addEventListener("nav", () => {
   const messagesContainer = hero.querySelector(".chat-messages") as HTMLElement
   const copyLastBtn = hero.querySelector(".chat-copy-last") as HTMLButtonElement
   const copyAllBtn = hero.querySelector(".chat-copy-all") as HTMLButtonElement
-  const trendingPills = hero.querySelector(".trending-pills") as HTMLElement
 
   let isStreaming = false
 
-  // Fetch and display trending topics
-  async function loadTrendingTopics() {
-    if (!trendingPills) return
-
-    try {
-      const response = await fetch(`${apiUrl}/api/trending`)
-      if (!response.ok) throw new Error("Failed to fetch trending")
-
-      const data = await response.json()
-      const topics = data.topics as string[]
-
-      if (topics && topics.length > 0) {
-        trendingPills.innerHTML = topics
-          .slice(0, 5)
-          .map(
-            topic =>
-              `<button class="trending-pill" data-topic="${topic}">${topic}</button>`,
-          )
-          .join("")
-
-        // Add click handlers
-        trendingPills.querySelectorAll(".trending-pill").forEach(pill => {
-          pill.addEventListener("click", () => {
-            const topic = (pill as HTMLElement).dataset.topic
-            if (topic) {
-              sendMessage(`What has council discussed about ${topic.toLowerCase()}?`)
-            }
-          })
-        })
-      }
-    } catch (error) {
-      console.log("Could not load trending topics:", error)
-      // Fallback to static topics
-      const fallbackTopics = ["Housing", "Transit", "Budget", "Climate"]
-      trendingPills.innerHTML = fallbackTopics
-        .map(
-          topic =>
-            `<button class="trending-pill" data-topic="${topic}">${topic}</button>`,
-        )
-        .join("")
-
-      trendingPills.querySelectorAll(".trending-pill").forEach(pill => {
-        pill.addEventListener("click", () => {
-          const topic = (pill as HTMLElement).dataset.topic
-          if (topic) {
-            sendMessage(`What has council discussed about ${topic.toLowerCase()}?`)
-          }
-        })
-      })
-    }
-  }
-
-  // Load trending topics on page load
-  loadTrendingTopics()
 
   // Activate chat mode
   function enterChatMode() {
