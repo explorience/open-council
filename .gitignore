@@ -8,4 +8,4 @@ __pycache__/
 lancedb/
 
 # Chat logs - contain user data, should not be committed
-server/chat-logs/
+server/chat-logs/.DS_Store
