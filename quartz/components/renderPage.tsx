@@ -231,10 +231,18 @@ export function renderPage(
   )
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
+
+  // Extract UnifiedHeader from beforeBody to render it directly under body
+  // This ensures position:fixed works correctly (not affected by transform on containers)
+  const UnifiedHeaderComponent = beforeBody.find((c) => c.displayName === "UnifiedHeader")
+  const otherBeforeBody = beforeBody.filter((c) => c.displayName !== "UnifiedHeader")
+
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
+        {/* UnifiedHeader rendered directly under body for correct fixed positioning */}
+        {UnifiedHeaderComponent && <UnifiedHeaderComponent {...componentData} />}
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
@@ -246,7 +254,7 @@ export function renderPage(
                   ))}
                 </Header>
                 <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
+                  {otherBeforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
                   ))}
                 </div>
