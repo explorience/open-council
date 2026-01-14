@@ -7,7 +7,8 @@
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
-  overflow-x: hidden;
+  // Note: overflow-x: hidden on html breaks position:fixed on iOS Safari
+  // Moved to body only
   width: 100%;
 }
 
