@@ -15,9 +15,9 @@ yeaRate: 94.5
 contestedDissentRate: 8.2
 contestedVotes: 5396
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Jesse Helmer's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees did Jesse Helmer serve on, and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "How did Jesse Helmer's attendance rate compare to other council members during their time in office, and were there any notable absences from important votes?"
 ---
 
 ## Terms of Service

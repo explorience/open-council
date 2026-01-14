@@ -15,9 +15,9 @@ yeaRate: 95.8
 contestedDissentRate: 3.1
 contestedVotes: 3458
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Tanya Park's voting record on key municipal issues during her 2014-2018 term, such as budget approvals and development proposals?"
+  - "Which specific committees did she serve on and what were her attendance rates for committee meetings versus full council meetings?"
+  - "How did her meeting attendance record of 228 meetings compare to other council members during the same 2014-2018 period?"
 ---
 
 ## Terms of Service

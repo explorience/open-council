@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 4.9
 contestedVotes: 5310
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Matt Brown's voting record on key municipal issues during his time on council?"
+  - "Which specific committees did he serve on and what roles did he play within those committees?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

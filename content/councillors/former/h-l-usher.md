@@ -15,9 +15,9 @@ yeaRate: 93.3
 contestedDissentRate: 6.8
 contestedVotes: 5935
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his tenure?"
+  - "Which specific committees did Harold Usher serve on and what were his key contributions or roles on those committees?"
+  - "Did Harold Usher hold any leadership positions such as committee chair or deputy mayor during his time on London City Council?"
 ---
 
 ## Terms of Service

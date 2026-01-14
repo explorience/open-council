@@ -15,9 +15,9 @@ yeaRate: 82.4
 contestedDissentRate: 44.9
 contestedVotes: 1223
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Sam Trosow served on during their time on London City Council?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members during the 2022-2025 term?"
+  - "What has been Sam Trosow's voting pattern on major city issues and budget decisions?"
 ---
 
 ## Terms of Service

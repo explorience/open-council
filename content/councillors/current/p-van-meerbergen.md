@@ -15,9 +15,9 @@ yeaRate: 86.9
 contestedDissentRate: 22.9
 contestedVotes: 3841
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Paul Van Meerbergen's voting record on major budget decisions and tax increases during his time on council?"
+  - "How frequently did he vote with the majority versus dissenting on council decisions, and on which types of issues did he most often dissent?"
+  - "What specific committees did Van Meerbergen serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
 ---
 
 ## Terms of Service

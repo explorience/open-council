@@ -15,9 +15,9 @@ yeaRate: 93.0
 contestedDissentRate: 7.4
 contestedVotes: 2408
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the 2011-2014 period?"
+  - "Which specific committees did Joe Fontana serve on and what were his primary areas of focus or expertise?"
+  - "What key motions or initiatives did Joe Fontana propose or champion during his time on London City Council?"
 ---
 
 ## Terms of Service

@@ -4,12 +4,14 @@ type: committee
 slug: "strategic-priorities"
 meetingCount: 274
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific criteria does the Strategic Priorities and Policy Committee use to determine which issues require their review versus those handled by other city committees?"
+  - "How can residents access meeting agendas, minutes, and provide input or feedback on matters being considered by the Strategic Priorities and Policy Committee?"
+  - "What is the typical timeline for how long it takes for policy recommendations from this committee to be implemented after City Council approval?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, functioning as a standing committee that addresses high-level municipal policy development and strategic planning initiatives. This committee plays a central role in London's municipal decision-making process by reviewing, discussing, and making recommendations on major policy matters before they advance to full City Council for final approval. With 274 meetings held to date, the committee demonstrates an active and ongoing commitment to municipal governance and policy oversight.
+
+The committee typically handles a broad range of strategic municipal issues including budget planning and financial policy, long-term city planning and development strategies, major infrastructure projects, economic development initiatives, and significant policy changes affecting city operations and services. As a policy-focused body, it serves as a forum for detailed discussion and analysis of complex municipal matters that require strategic thinking and comprehensive review before implementation. The committee's work directly influences the direction of city services, resource allocation, and London's overall municipal priorities and objectives.
 
 ## Recent Meetings
 

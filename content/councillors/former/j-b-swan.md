@@ -15,9 +15,9 @@ yeaRate: 90.2
 contestedDissentRate: 9.1
 contestedVotes: 2232
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Joe Swan's voting record on major budget decisions during his 2011-2014 term?"
+  - "How often did Joe Swan vote with the majority versus taking minority positions on key issues?"
+  - "Which specific committees did Joe Swan serve on and what was his attendance rate for each committee?"
 ---
 
 ## Terms of Service

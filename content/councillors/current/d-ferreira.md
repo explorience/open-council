@@ -15,9 +15,9 @@ yeaRate: 88.2
 contestedDissentRate: 26.2
 contestedVotes: 1151
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has David Ferreira served on during his time on London City Council?"
+  - "What is David Ferreira's voting attendance rate and how does it compare to other council members?"
+  - "Has David Ferreira taken any leadership roles, such as committee chair positions, during his council term?"
 ---
 
 ## Terms of Service

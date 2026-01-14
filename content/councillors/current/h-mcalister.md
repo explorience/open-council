@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 15.1
 contestedVotes: 1217
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Hadleigh McAlister's voting attendance rate compared to other council members during the 2022-2025 term?"
+  - "Which specific committees has McAlister served on and what are their primary areas of responsibility?"
+  - "How does McAlister typically vote on major municipal issues like budget approvals, development applications, or policy changes?"
 ---
 
 ## Terms of Service

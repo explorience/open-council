@@ -15,9 +15,9 @@ yeaRate: 93.9
 contestedDissentRate: 6.8
 contestedVotes: 4186
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Phil Squire's voting record on major budget decisions and tax increases during their time on council?"
+  - "Which specific committees did Phil Squire serve on, and did they hold any chair or vice-chair positions?"
+  - "How did Phil Squire's attendance rate compare to other council members during the 2014-2021 period?"
 ---
 
 ## Terms of Service

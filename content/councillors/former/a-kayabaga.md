@@ -15,9 +15,9 @@ yeaRate: 95.2
 contestedDissentRate: 16.9
 contestedVotes: 497
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Arielle Kayabaga's voting pattern on key municipal issues during her 2018-2021 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus regular council meetings?"
+  - "Did she sponsor or champion any particular motions or initiatives during her time on London City Council?"
 ---
 
 ## Terms of Service

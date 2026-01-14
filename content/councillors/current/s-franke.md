@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 23.3
 contestedVotes: 1212
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has Franke served on, and what leadership roles, if any, have they held within those committees?"
+  - "How does Franke's meeting attendance rate compare to other members of London City Council during the same period?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 92.4
 contestedDissentRate: 12.3
 contestedVotes: 4782
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Anna Hopkins served on during her time on London City Council?"
+  - "How does her meeting attendance rate compare to other council members over the same period?"
+  - "What has been her voting pattern on major municipal issues like budget approvals, development proposals, and policy initiatives?"
 ---
 
 ## Terms of Service

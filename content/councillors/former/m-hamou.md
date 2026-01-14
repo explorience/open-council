@@ -15,9 +15,9 @@ yeaRate: 0.0
 contestedDissentRate: 100.0
 contestedVotes: 3
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Mariam Hamou's voting pattern on key municipal issues during her 2021-2022 term?"
+  - "Which specific committees did she serve on and what were her contributions to those committees?"
+  - "How did her meeting attendance rate of 71 meetings compare to other council members during the same period?"
 ---
 
 ## Terms of Service

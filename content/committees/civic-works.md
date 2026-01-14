@@ -4,12 +4,14 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "How can residents stay informed about upcoming Civic Works Committee meetings and provide input on projects that may affect their neighborhoods?"
+  - "What is the typical timeline and approval process for major infrastructure projects that come before the Civic Works Committee?"
+  - "How does the committee prioritize competing infrastructure needs when the city has limited budget resources?"
 ---
 
-Summary for committee will be generated when ANTHROPIC_API_KEY is provided.
+The Civic Works Committee is a standing committee of London City Council that plays a crucial role in overseeing the city's physical infrastructure and public works operations. This committee typically handles matters related to transportation infrastructure, including road construction and maintenance, traffic management, public transit planning, and cycling infrastructure. It also addresses water and wastewater systems, waste management and recycling programs, parks and recreation facilities, and various municipal engineering projects that keep the city functioning effectively.
+
+As an active committee that has held 203 meetings, the Civic Works Committee serves as a key decision-making body that reviews staff reports, evaluates project proposals, and makes recommendations to City Council on significant infrastructure investments and policy changes. The committee addresses both routine operational matters and major capital projects that can impact residents' daily lives, from pothole repairs and snow removal strategies to multi-million dollar infrastructure upgrades and environmental sustainability initiatives. Their work directly affects the quality of life for London residents by ensuring essential city services are delivered efficiently and that the city's infrastructure meets current and future community needs.
 
 ## Recent Meetings
 

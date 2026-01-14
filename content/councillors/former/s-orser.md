@@ -15,9 +15,9 @@ yeaRate: 85.3
 contestedDissentRate: 13.6
 contestedVotes: 2074
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Stephen Orser's voting record on major city budget decisions during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on, and what was his attendance rate for committee meetings versus full council meetings?"
+  - "Did Stephen Orser hold any leadership positions or chair any committees during his time on London City Council?"
 ---
 
 ## Terms of Service

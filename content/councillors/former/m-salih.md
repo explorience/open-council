@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.7
 contestedVotes: 3298
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Mo Salih serve on and what roles did they hold within those committees?"
+  - "What were some of the key motions or initiatives that Mo Salih sponsored or championed during their time on council?"
 ---
 
 ## Terms of Service

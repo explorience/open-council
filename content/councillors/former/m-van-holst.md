@@ -15,9 +15,9 @@ yeaRate: 95.6
 contestedDissentRate: 6.6
 contestedVotes: 3893
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees did Michael van Holst serve on during his 8-year tenure on London City Council?"
+  - "How does his attendance rate of 461 meetings compare to other council members who served during the same period?"
+  - "What were his voting patterns on key municipal issues such as budget approvals, development proposals, or major infrastructure projects?"
 ---
 
 ## Terms of Service

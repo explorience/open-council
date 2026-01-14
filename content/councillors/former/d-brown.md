@@ -15,9 +15,9 @@ yeaRate: 90.4
 contestedDissentRate: 9.8
 contestedVotes: 2048
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Denise Brown's voting attendance rate and how did it compare to other council members during 2011-2014?"
+  - "Which specific committees did she serve on and what were her key contributions to committee work?"
+  - "Were there any particular issues or policy areas where she took a leading role or had a notable voting pattern during her term?"
 ---
 
 ## Terms of Service

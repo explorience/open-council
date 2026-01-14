@@ -2,7 +2,7 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 495
+meetingCount: 496
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 8608
@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 10.3
 contestedVotes: 2235
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
+  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members?"
+  - "Has Shawn Lewis taken any leadership roles, such as committee chair positions, during their council tenure?"
 ---
 
 ## Terms of Service
@@ -199,17 +199,18 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (495 total)
+## Recent Meetings (496 total)
 
+- [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
@@ -219,4 +220,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
-- [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025

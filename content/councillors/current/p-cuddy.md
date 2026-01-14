@@ -2,7 +2,7 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 204
+meetingCount: 206
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3594
@@ -15,9 +15,9 @@ yeaRate: 90.4
 contestedDissentRate: 11.5
 contestedVotes: 1269
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
+  - "Which specific committees does Peter Cuddy serve on, and what has been his attendance rate for committee meetings versus regular council meetings?"
+  - "How does Peter Cuddy's meeting attendance and committee participation compare to other council members during the same time period?"
 ---
 
 ## Terms of Service
@@ -198,18 +198,20 @@ Voted **Nay** - Motion Passed (4 to 2)
 
 ## Committees Served
 
-- [Budget Committee](/committees/budget)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
+- [Budget Committee](/committees/budget)
+- [Audit Committee](/committees/audit)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Audit Committee](/committees/audit)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (204 total)
+## Recent Meetings (206 total)
 
+- [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
+- [4th Meeting of the Audit Committee](</months/2025-11/2025-11-19 4th Meeting of the Audit Committee>) - Wed Nov 19 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
 - [The 17th Meeting of the Planning and Environment Committee](</months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee>) - Wed Nov 12 2025
@@ -217,5 +219,3 @@ Voted **Nay** - Motion Passed (4 to 2)
 - [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
-- [The 16th Meeting of the Planning and Environment Committee](</months/2025-10/2025-10-21 The 16th Meeting of the Planning and Environment Committee>) - Tue Oct 21 2025
-- [16th Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-20 16th Meeting of the Community and Protective Services Committee>) - Mon Oct 20 2025

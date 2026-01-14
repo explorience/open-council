@@ -15,9 +15,9 @@ yeaRate: 96.0
 contestedDissentRate: 4.5
 contestedVotes: 4806
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Maureen Cassidy's voting attendance rate and how did it compare to other council members during her time in office?"
+  - "Which specific committees did she serve on and did she hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What was her voting pattern on major municipal issues like budget approvals, development projects, or infrastructure spending during her 2014-2022 tenure?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 93.2
 contestedDissentRate: 6.6
 contestedVotes: 4110
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Bill Armstrong's voting pattern on key municipal issues during his 2012-2018 tenure?"
+  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "Did he hold any leadership positions within the committees he served on or take on any special roles during his time on council?"
 ---
 
 ## Terms of Service

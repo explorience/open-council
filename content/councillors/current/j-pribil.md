@@ -2,7 +2,7 @@
 title: "Jerry Pribil"
 type: councillor
 slug: "j-pribil"
-meetingCount: 212
+meetingCount: 213
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3363
@@ -15,9 +15,9 @@ yeaRate: 90.9
 contestedDissentRate: 12.6
 contestedVotes: 1278
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Jerry Pribil served on during his time on London City Council?"
+  - "How does Jerry Pribil's voting record align on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What has been Jerry Pribil's attendance rate and participation level in committee meetings compared to regular council sessions?"
 ---
 
 ## Terms of Service
@@ -198,17 +198,18 @@ Voted **Nay** - Motion Passed (9 to 6)
 ## Committees Served
 
 - [Budget Committee](/committees/budget)
+- [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (212 total)
+## Recent Meetings (213 total)
 
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
+- [4th Meeting of the Audit Committee](</months/2025-11/2025-11-19 4th Meeting of the Audit Committee>) - Wed Nov 19 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
@@ -217,4 +218,3 @@ Voted **Nay** - Motion Passed (9 to 6)
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
 - [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025
-- [16th Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-20 16th Meeting of the Community and Protective Services Committee>) - Mon Oct 20 2025

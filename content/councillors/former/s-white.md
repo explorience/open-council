@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 9.3
 contestedVotes: 2282
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Sandy White's voting record on major budget decisions and tax increases during their 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on, and did they hold any chair or vice-chair positions?"
+  - "How did Sandy White's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

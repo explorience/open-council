@@ -2,7 +2,7 @@
 title: "Josh Morgan"
 type: councillor
 slug: "j-morgan"
-meetingCount: 654
+meetingCount: 655
 yearsActive: "2014 - 2026"
 isCurrent: true
 totalVotes: 10581
@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 5.3
 contestedVotes: 5245
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What specific committees has Josh Morgan served on during his time on London City Council?"
+  - "What is Josh Morgan's voting record on major municipal issues such as budget approvals, development projects, or infrastructure spending?"
+  - "How does Josh Morgan's meeting attendance rate of 655 meetings compare to other council members serving during the same period?"
 ---
 
 ## Terms of Service
@@ -200,17 +200,18 @@ Voted **Nay** - Motion Passed (10 to 3)
 
 ## Committees Served
 
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Corporate Services Committee](/committees/corporate-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (654 total)
+## Recent Meetings (655 total)
 
+- [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
@@ -220,4 +221,3 @@ Voted **Nay** - Motion Passed (10 to 3)
 - [16th Council Meeting](</months/2025-10/2025-10-14 16th Council Meeting>) - Tue Oct 14 2025
 - [15th Special Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-08 15th Special Meeting of the Community and Protective Services Committee>) - Wed Oct 8 2025
 - [12th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-07 12th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 7 2025
-- [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-06 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 6 2025

@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.6
 contestedVotes: 3570
 prefillQuestions:
-  - "What were the key decisions?"
-  - "What topics were discussed most?"
-  - "What were the major votes?"
+  - "What was Stephen Turner's voting record on major budget decisions and tax increases during his 2014-2022 term?"
+  - "How often did Stephen Turner vote with the majority versus taking dissenting positions on council decisions?"
+  - "What specific roles or leadership positions did Stephen Turner hold on the seven committees he served on?"
 ---
 
 ## Terms of Service
