@@ -23,6 +23,7 @@
   right: 0;
   height: 56px;
   z-index: 1000;
+  margin: 0; // Override generic header margin
   display: flex;
   align-items: center;
   justify-content: space-between;
