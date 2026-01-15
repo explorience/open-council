@@ -190,12 +190,61 @@ app.post('/api/chat', async (req, res) => {
       };
       logChatInteraction(logEntry);
     } catch (error) {
-      console.error('Error in chat stream:', error);
-      res.write(`data: ${JSON.stringify({ error: 'Error generating response' })}\n\n`);
+      // Extract useful error details for debugging
+      const err = error as Error & { status?: number; code?: string; type?: string };
+      const errorMessage = err.message || 'Unknown error';
+      const errorCode = err.code || err.type || '';
+      const statusCode = err.status || 0;
+
+      // Categorize the error for user-friendly messaging
+      let userError = 'Error generating response';
+      let errorCategory = 'unknown';
+
+      if (errorMessage.includes('rate limit') || statusCode === 429) {
+        userError = 'Rate limit exceeded. Please wait a moment and try again.';
+        errorCategory = 'rate_limit';
+      } else if (errorMessage.includes('insufficient') || errorMessage.includes('credit') || errorMessage.includes('quota')) {
+        userError = 'API quota exceeded. Please try again later.';
+        errorCategory = 'quota';
+      } else if (errorMessage.includes('timeout') || errorCode === 'ETIMEDOUT' || errorCode === 'ESOCKETTIMEDOUT') {
+        userError = 'Request timed out. Try a simpler question.';
+        errorCategory = 'timeout';
+      } else if (errorMessage.includes('context') || errorMessage.includes('too long') || errorMessage.includes('maximum')) {
+        userError = 'Question too complex. Try breaking it into smaller parts.';
+        errorCategory = 'context_length';
+      } else if (statusCode === 401 || statusCode === 403 || errorMessage.includes('auth')) {
+        userError = 'API authentication error. Please contact support.';
+        errorCategory = 'auth';
+      } else if (statusCode >= 500 || errorMessage.includes('unavailable')) {
+        userError = 'AI service temporarily unavailable. Please try again.';
+        errorCategory = 'service_unavailable';
+      }
+
+      // Detailed server logging
+      console.error('Error in chat stream:', {
+        category: errorCategory,
+        message: errorMessage,
+        code: errorCode,
+        status: statusCode,
+        query: message.substring(0, 100), // First 100 chars of query
+        timestamp: new Date().toISOString(),
+      });
+
+      res.write(`data: ${JSON.stringify({
+        error: userError,
+        errorCategory,
+        // Include technical details in non-production for debugging
+        ...(process.env.NODE_ENV !== 'production' && { debug: errorMessage })
+      })}\n\n`);
       res.end();
     }
   } catch (error) {
-    console.error('Error in chat endpoint:', error);
+    const err = error as Error;
+    console.error('Error in chat endpoint:', {
+      message: err.message,
+      stack: err.stack,
+      timestamp: new Date().toISOString(),
+    });
     if (!res.headersSent) {
       res.status(500).json({ error: 'Failed to process chat request' });
     }
