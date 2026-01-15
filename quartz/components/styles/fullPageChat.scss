@@ -195,8 +195,10 @@
     padding-left: 15%; // Ensure user bubbles don't span full width
 
     .fpc-message-content {
-      background: var(--secondary);
-      color: #ffffff !important; // Explicit white for contrast on dark bubble
+      // Light mode: transparent with border for readability
+      background: transparent;
+      border: 1px solid var(--darkgray);
+      color: var(--dark);
       border-radius: 18px 18px 4px 18px;
       max-width: 100%;
     }
@@ -537,7 +539,9 @@
   }
 
   .fpc-message.user .fpc-message-content {
+    // Dark mode: solid background for contrast
     background: var(--secondary);
+    border: none;
     color: #ffffff !important;
   }
 
