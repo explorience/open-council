@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 8.9
 contestedVotes: 2987
 prefillQuestions:
-  - "What was Bud Polhill's voting record on major municipal issues like budget approvals and development proposals during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on and what was their level of participation in committee work versus general council meetings?"
-  - "How did Polhill's meeting attendance rate compare to other council members during the same period, and were there any notable absences from important votes?"
+  - "What was Bud Polhill's attendance rate compared to other council members during his 2011-2014 term?"
+  - "Which specific committees did Bud Polhill serve on and what were his primary areas of focus?"
+  - "How did Bud Polhill typically vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
 ---
 
 ## Terms of Service

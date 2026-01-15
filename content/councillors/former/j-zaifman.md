@@ -15,9 +15,9 @@ yeaRate: 94.9
 contestedDissentRate: 3.5
 contestedVotes: 1578
 prefillQuestions:
-  - "What was Jared Zaifman's voting attendance rate and how did it compare to other council members during the 2014-2018 term?"
-  - "Which specific committees did he serve on and what were his key contributions or leadership roles within those committees?"
-  - "How did he vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
+  - "What was Zaifman's voting record on key municipal issues during his 2014-2018 term?"
+  - "Which specific committees did he serve on and what was his role or contribution to those committees?"
+  - "How did his 142 meeting attendance compare to other council members during the same period?"
 ---
 
 ## Terms of Service

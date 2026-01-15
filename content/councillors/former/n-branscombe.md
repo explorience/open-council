@@ -15,9 +15,9 @@ yeaRate: 89.9
 contestedDissentRate: 10.9
 contestedVotes: 2090
 prefillQuestions:
-  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair?"
-  - "How did her meeting attendance rate of 119 meetings compare to other council members during the same period?"
+  - "What was Nancy Branscombe's voting record on key municipal issues such as budget approvals, development projects, or policy changes during her 2011-2014 term?"
+  - "Which specific committees did she serve on, and did she hold any leadership positions such as chair or vice-chair roles on these committees?"
+  - "How did her meeting attendance rate of 119 meetings compare to other council members during the same period, and were there any notable absences from important votes?"
 ---
 
 ## Terms of Service

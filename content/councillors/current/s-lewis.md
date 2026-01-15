@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 10.3
 contestedVotes: 2235
 prefillQuestions:
-  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
-  - "What is Shawn Lewis's voting attendance rate and how does it compare to other council members?"
-  - "Has Shawn Lewis taken any leadership roles, such as committee chair positions, during their council tenure?"
+  - "What is Shawn Lewis's voting record on major budget decisions and tax increases during their time on council?"
+  - "How frequently did Shawn Lewis vote with the majority versus in opposition on key council decisions?"
+  - "What specific committees did Shawn Lewis serve on, and what was their attendance record for committee meetings versus general council meetings?"
 ---
 
 ## Terms of Service

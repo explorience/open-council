@@ -16,8 +16,8 @@ contestedDissentRate: 7.4
 contestedVotes: 2408
 prefillQuestions:
   - "What was Joe Fontana's voting attendance rate and how did it compare to other council members during the 2011-2014 period?"
-  - "Which specific committees did Joe Fontana serve on and what were his primary areas of focus or expertise?"
-  - "What key motions or initiatives did Joe Fontana propose or champion during his time on London City Council?"
+  - "Which specific committees did Joe Fontana serve on and what was his role or contribution to each committee?"
+  - "Were there any notable motions or initiatives that Joe Fontana sponsored or championed during his time on London City Council?"
 ---
 
 ## Terms of Service

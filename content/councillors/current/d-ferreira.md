@@ -15,9 +15,9 @@ yeaRate: 88.2
 contestedDissentRate: 26.2
 contestedVotes: 1151
 prefillQuestions:
-  - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "What is David Ferreira's voting attendance rate and how does it compare to other council members?"
-  - "Has David Ferreira taken any leadership roles, such as committee chair positions, during his council term?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has he served on and what leadership roles, if any, has he held within those committees?"
+  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same 2022-2025 period?"
 ---
 
 ## Terms of Service

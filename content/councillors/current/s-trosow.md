@@ -16,8 +16,8 @@ contestedDissentRate: 44.9
 contestedVotes: 1223
 prefillQuestions:
   - "What specific committees has Sam Trosow served on during their time on London City Council?"
-  - "How does Sam Trosow's meeting attendance rate compare to other council members during the 2022-2025 term?"
-  - "What has been Sam Trosow's voting pattern on major city issues and budget decisions?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Sam Trosow's voting pattern on key municipal issues such as budget approvals, development applications, and policy initiatives?"
 ---
 
 ## Terms of Service

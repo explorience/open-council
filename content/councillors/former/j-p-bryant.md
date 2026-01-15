@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 10.3
 contestedVotes: 2215
 prefillQuestions:
-  - "What was Judy Bryant's attendance rate compared to other council members during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what was her voting record on key issues within those committees?"
-  - "How many motions or initiatives did she introduce or second during her four years on council?"
+  - "What was Judy Bryant's voting record on major city issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what roles did she play in those committees?"
+  - "How did her attendance rate of 168 meetings compare to other council members during the same period?"
 ---
 
 ## Terms of Service

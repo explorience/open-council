@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 4.9
 contestedVotes: 5310
 prefillQuestions:
-  - "What was Matt Brown's voting record on key municipal issues during his time on council?"
-  - "Which specific committees did he serve on and what roles did he play within those committees?"
-  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What was Matt Brown's voting record on key municipal issues such as budget approvals, development projects, and infrastructure spending during his 2011-2018 tenure?"
+  - "Which specific committees did Matt Brown serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "How did Matt Brown's meeting attendance rate compare to other council members during the same period, and were there any notable absences during important votes?"
 ---
 
 ## Terms of Service

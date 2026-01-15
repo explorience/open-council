@@ -15,9 +15,9 @@ yeaRate: 93.3
 contestedDissentRate: 15.2
 contestedVotes: 1923
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council, and what policy areas do these committees focus on?"
-  - "How does Steve Hillier's meeting attendance rate compare to other council members, and has his attendance been consistent throughout his tenure?"
-  - "What has been Steve Hillier's voting pattern on major municipal issues such as budget approvals, development projects, and infrastructure spending?"
+  - "What is Steve Hillier's voting attendance rate and how often does he miss key votes on important city issues?"
+  - "Which specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
+  - "How does Steve Hillier's meeting attendance record compare to other London City Council members during the same period?"
 ---
 
 ## Terms of Service

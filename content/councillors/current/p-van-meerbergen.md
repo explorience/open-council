@@ -15,9 +15,9 @@ yeaRate: 86.9
 contestedDissentRate: 22.9
 contestedVotes: 3841
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting record on major budget decisions and tax increases during his time on council?"
-  - "How frequently did he vote with the majority versus dissenting on council decisions, and on which types of issues did he most often dissent?"
-  - "What specific committees did Van Meerbergen serve on, and did he hold any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has he served on and what policy areas do those committees oversee?"
+  - "Has his committee participation or meeting attendance patterns changed significantly across his different terms in office from 2011 to 2025?"
 ---
 
 ## Terms of Service

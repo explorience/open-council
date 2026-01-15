@@ -15,9 +15,9 @@ yeaRate: 93.9
 contestedDissentRate: 6.8
 contestedVotes: 4186
 prefillQuestions:
-  - "What was Phil Squire's voting record on major budget decisions and tax increases during their time on council?"
-  - "Which specific committees did Phil Squire serve on, and did they hold any chair or vice-chair positions?"
-  - "How did Phil Squire's attendance rate compare to other council members during the 2014-2021 period?"
+  - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as chair or vice-chair roles?"
+  - "What were some of the major issues or motions that Phil Squire voted on during their time on council from 2014-2021?"
 ---
 
 ## Terms of Service

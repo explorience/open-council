@@ -15,9 +15,9 @@ yeaRate: 93.1
 contestedDissentRate: 5.6
 contestedVotes: 6099
 prefillQuestions:
-  - "What was Paul Hubert's voting attendance rate and did he miss any significant votes during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert serve on and did he hold any chair or vice-chair positions?"
-  - "How did Paul Hubert's meeting attendance record compare to other council members during the same period?"
+  - "What was Paul Hubert's voting attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on and did he hold any chair or vice-chair positions on these committees?"
+  - "What were the key motions or bylaws that Paul Hubert sponsored or co-sponsored during his time on London City Council?"
 ---
 
 ## Terms of Service

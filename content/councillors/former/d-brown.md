@@ -15,9 +15,9 @@ yeaRate: 90.4
 contestedDissentRate: 9.8
 contestedVotes: 2048
 prefillQuestions:
-  - "What was Denise Brown's voting attendance rate and how did it compare to other council members during 2011-2014?"
-  - "Which specific committees did she serve on and what were her key contributions to committee work?"
-  - "Were there any particular issues or policy areas where she took a leading role or had a notable voting pattern during her term?"
+  - "What was Denise Brown's voting record on major city budget decisions during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for committee meetings versus full council meetings?"
+  - "How did her meeting attendance of 95 sessions compare to other council members during the same period?"
 ---
 
 ## Terms of Service

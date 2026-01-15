@@ -15,9 +15,9 @@ yeaRate: 95.8
 contestedDissentRate: 3.1
 contestedVotes: 3458
 prefillQuestions:
-  - "What was Tanya Park's voting record on key municipal issues during her 2014-2018 term, such as budget approvals and development proposals?"
-  - "Which specific committees did she serve on and what were her attendance rates for committee meetings versus full council meetings?"
-  - "How did her meeting attendance record of 228 meetings compare to other council members during the same 2014-2018 period?"
+  - "What was Tanya Park's voting record on major budget decisions during her 2014-2018 term?"
+  - "Which specific committees did she serve on and what roles did she hold within those committees?"
+  - "How did her attendance record compare to other council members during the same period?"
 ---
 
 ## Terms of Service

@@ -16,8 +16,8 @@ contestedDissentRate: 9.3
 contestedVotes: 2282
 prefillQuestions:
   - "What was Sandy White's voting record on major budget decisions and tax increases during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on, and did they hold any chair or vice-chair positions?"
-  - "How did Sandy White's meeting attendance rate compare to other council members during the same period?"
+  - "Which specific committees did Sandy White serve on, and what was their attendance rate for committee meetings versus full council meetings?"
+  - "How did Sandy White vote on key development and zoning issues that came before council during their four years of service?"
 ---
 
 ## Terms of Service

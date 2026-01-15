@@ -15,9 +15,9 @@ yeaRate: 93.9
 contestedDissentRate: 10.2
 contestedVotes: 2024
 prefillQuestions:
-  - "What specific committees has Steve Lehman served on during his time on London City Council, and what were his roles or contributions on each?"
-  - "How does Steve Lehman's meeting attendance rate compare to other council members, and has his attendance been consistent across all years of service?"
-  - "What has been Steve Lehman's voting pattern on major municipal issues such as budget approvals, development proposals, and policy initiatives during his tenure?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has he served on and what roles (chair, vice-chair, member) has he held on these committees?"
+  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 82.2
 contestedDissentRate: 35.7
 contestedVotes: 1160
 prefillQuestions:
-  - "What specific committees has Susan Stevenson served on during her time on London City Council?"
-  - "What is Susan Stevenson's voting attendance rate and how does it compare to other council members?"
-  - "Has Susan Stevenson sponsored or championed any particular pieces of legislation or municipal initiatives during her tenure?"
+  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "How frequently does Susan Stevenson speak or make motions during council meetings, and what topics does she most commonly address?"
+  - "What specific committees has Susan Stevenson served on, and has she held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
 ## Terms of Service

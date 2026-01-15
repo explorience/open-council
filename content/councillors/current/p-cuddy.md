@@ -15,9 +15,9 @@ yeaRate: 90.4
 contestedDissentRate: 11.5
 contestedVotes: 1269
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approvals, development proposals, or infrastructure projects?"
-  - "Which specific committees does Peter Cuddy serve on, and what has been his attendance rate for committee meetings versus regular council meetings?"
-  - "How does Peter Cuddy's meeting attendance and committee participation compare to other council members during the same time period?"
+  - "What is Peter Cuddy's voting record on major municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "Which specific committees has Peter Cuddy served on, and what has been his attendance rate and level of participation in committee work?"
+  - "How does Peter Cuddy's meeting attendance and committee involvement compare to other members of London City Council during the same period?"
 ---
 
 ## Terms of Service

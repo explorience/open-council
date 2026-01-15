@@ -15,9 +15,9 @@ yeaRate: 96.2
 contestedDissentRate: 8.2
 contestedVotes: 777
 prefillQuestions:
-  - "What was Ed Holder's voting record on key municipal issues during his 2018-2022 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "How did his 313 meeting attendance compare to other council members' participation rates during the same period?"
+  - "What was Ed Holder's attendance rate as a percentage of total scheduled meetings during his 2018-2022 term?"
+  - "Which specific committees did Ed Holder serve on and what were his primary areas of focus?"
+  - "How did Ed Holder vote on major municipal issues like budget approvals, development proposals, and policy changes during his council term?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 15.1
 contestedVotes: 1217
 prefillQuestions:
-  - "What is Hadleigh McAlister's voting attendance rate compared to other council members during the 2022-2025 term?"
-  - "Which specific committees has McAlister served on and what are their primary areas of responsibility?"
-  - "How does McAlister typically vote on major municipal issues like budget approvals, development applications, or policy changes?"
+  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
+  - "How does their meeting attendance record of 203 meetings compare to other council members during the same period?"
+  - "What has been their voting pattern on key municipal issues such as budget approvals, development proposals, or policy changes?"
 ---
 
 ## Terms of Service

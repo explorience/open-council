@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.7
 contestedVotes: 3298
 prefillQuestions:
-  - "What was Mo Salih's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Mo Salih serve on and what roles did they hold within those committees?"
-  - "What were some of the key motions or initiatives that Mo Salih sponsored or championed during their time on council?"
+  - "What was Mo Salih's voting record on key municipal issues during their time on council?"
+  - "Which specific committees did Mo Salih serve on and what roles did they hold on those committees?"
+  - "How does Mo Salih's meeting attendance rate of 350 meetings compare to other council members who served during the same period?"
 ---
 
 ## Terms of Service

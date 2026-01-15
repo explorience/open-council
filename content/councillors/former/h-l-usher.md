@@ -15,9 +15,9 @@ yeaRate: 93.3
 contestedDissentRate: 6.8
 contestedVotes: 5935
 prefillQuestions:
-  - "What was Harold Usher's voting attendance rate and how did it compare to other council members during his tenure?"
-  - "Which specific committees did Harold Usher serve on and what were his key contributions or roles on those committees?"
-  - "Did Harold Usher hold any leadership positions such as committee chair or deputy mayor during his time on London City Council?"
+  - "What was Harold Usher's voting record on key municipal issues during his 2011-2018 tenure?"
+  - "Which specific committees did Harold Usher serve on and what roles did he hold on those committees?"
+  - "How did Harold Usher's attendance rate compare to other council members during his time in office?"
 ---
 
 ## Terms of Service
