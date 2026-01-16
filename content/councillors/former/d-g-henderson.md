@@ -15,9 +15,9 @@ yeaRate: 89.7
 contestedDissentRate: 11.6
 contestedVotes: 2416
 prefillQuestions:
-  - "What was Dale Henderson's voting record on major municipal issues during their 2011-2014 term?"
-  - "Which specific committees did Henderson serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How did Henderson's meeting attendance rate of 142 meetings compare to other council members serving during the same 2011-2014 period?"
+  - "What was Dale Henderson's voting record on key municipal issues during their 2011-2014 term?"
+  - "Which specific committees did Henderson serve on and what was their level of participation in committee work?"
+  - "How did Henderson's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

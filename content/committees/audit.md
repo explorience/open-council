@@ -4,14 +4,14 @@ type: committee
 slug: "audit"
 meetingCount: 67
 prefillQuestions:
-  - "What specific financial irregularities or operational inefficiencies has the Audit Committee identified in recent city departments, and what corrective actions have been implemented?"
-  - "How does the Audit Committee ensure that recommendations from external auditors are being properly followed up on and implemented by city staff?"
-  - "What is the committee's role in overseeing major city contracts and capital projects, and how do they assess whether these expenditures provide good value for taxpayers?"
+  - "What were the key findings and recommendations from the most recent external audit of the City's financial statements, and how is management addressing any identified concerns?"
+  - "How does the Audit Committee ensure that taxpayer money is being spent efficiently and that the City is getting value for money on major contracts and capital projects?"
+  - "What internal controls and risk management processes are in place to prevent fraud or financial mismanagement, and how often are these systems reviewed and updated?"
 ---
 
-The Audit Committee of London City Council serves as an independent oversight body responsible for ensuring accountability, transparency, and effective governance within the municipal government. This committee typically reviews and monitors the city's financial reporting processes, internal controls, and risk management systems. It works closely with both internal and external auditors to examine city operations, evaluate compliance with policies and regulations, and assess the effectiveness of municipal programs and services.
+The Audit Committee of London City Council serves as an independent oversight body responsible for ensuring the City's financial accountability, transparency, and risk management practices. This committee typically reviews the City's annual financial statements, oversees internal and external audit functions, and monitors compliance with financial policies and procedures. The committee plays a crucial role in municipal governance by providing objective assessment of the City's financial controls, risk management frameworks, and operational efficiency.
 
-The committee plays a crucial role in municipal governance by providing objective analysis of city finances and operations, helping to identify areas for improvement, and ensuring that taxpayer dollars are being used efficiently and appropriately. Through its regular meetings, the Audit Committee addresses issues such as annual financial audits, internal audit reports, fraud prevention measures, and recommendations for operational improvements across various city departments. This oversight function helps maintain public trust and supports informed decision-making by City Council.
+The committee addresses a wide range of issues including reviewing audit reports from both internal auditors and external accounting firms, examining the City's compliance with provincial regulations and municipal bylaws, and assessing the effectiveness of internal controls over financial reporting. They also typically review significant financial risks facing the municipality, evaluate the performance of audit functions, and ensure that management responds appropriately to audit recommendations. Through their work, the Audit Committee helps maintain public trust in the City's financial stewardship and supports Council's decision-making with independent financial oversight.
 
 ## Recent Meetings
 

@@ -17,7 +17,7 @@ contestedVotes: 4186
 prefillQuestions:
   - "What was Phil Squire's voting attendance rate and how did it compare to other council members during their tenure?"
   - "Which specific committees did Phil Squire serve on and did they hold any leadership positions such as chair or vice-chair roles?"
-  - "What were some of the major issues or motions that Phil Squire voted on during their time on council from 2014-2021?"
+  - "What was Phil Squire's voting pattern on major municipal issues like budget approvals, development projects, or policy initiatives during their 2014-2021 term?"
 ---
 
 ## Terms of Service

@@ -16,8 +16,8 @@ contestedDissentRate: 22.9
 contestedVotes: 3841
 prefillQuestions:
   - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and what policy areas do those committees oversee?"
-  - "Has his committee participation or meeting attendance patterns changed significantly across his different terms in office from 2011 to 2025?"
+  - "Which specific committees has he served on and in what capacity (member, chair, vice-chair) throughout his years of service?"
+  - "What has been his voting pattern on major city issues such as budget approvals, development projects, and policy initiatives?"
 ---
 
 ## Terms of Service

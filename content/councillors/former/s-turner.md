@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.6
 contestedVotes: 3570
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his 8-year tenure?"
-  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Stephen Turner's meeting attendance compare to other council members during the same period, and what was his participation rate in committee meetings versus regular council sessions?"
+  - "What was Stephen Turner's voting record on key budget decisions during his eight years on London City Council?"
+  - "How frequently did Turner vote with the majority versus taking minority positions on council votes?"
+  - "Which specific committees did Turner serve on, and what role did he play in major policy decisions that came through those committees?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 93.3
 contestedDissentRate: 15.2
 contestedVotes: 1923
 prefillQuestions:
-  - "What is Steve Hillier's voting attendance rate and how often does he miss key votes on important city issues?"
-  - "Which specific committees has Steve Hillier served on and what leadership roles, if any, has he held within those committees?"
-  - "How does Steve Hillier's meeting attendance record compare to other London City Council members during the same period?"
+  - "What specific committees has Steve Hillier served on during his time on London City Council?"
+  - "How does his meeting attendance rate of 454 meetings compare to other council members serving during the same period?"
+  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, or policy changes?"
 ---
 
 ## Terms of Service

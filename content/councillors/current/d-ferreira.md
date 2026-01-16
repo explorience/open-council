@@ -15,9 +15,9 @@ yeaRate: 88.2
 contestedDissentRate: 26.2
 contestedVotes: 1151
 prefillQuestions:
-  - "What is David Ferreira's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees has he served on and what leadership roles, if any, has he held within those committees?"
-  - "How does his meeting attendance rate of 208 meetings compare to other council members during the same 2022-2025 period?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget decisions, development proposals, and policy initiatives?"
+  - "Which specific committees has he served on, and what has been his attendance rate and level of participation in committee work?"
+  - "How does his meeting attendance rate of 208 meetings compare to other council members and the expected number of meetings during his 2022-2025 term?"
 ---
 
 ## Terms of Service

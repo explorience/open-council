@@ -15,9 +15,9 @@ yeaRate: 82.4
 contestedDissentRate: 44.9
 contestedVotes: 1223
 prefillQuestions:
-  - "What specific committees has Sam Trosow served on during their time on London City Council?"
-  - "How does Sam Trosow's meeting attendance rate compare to other council members during the same period?"
-  - "What has been Sam Trosow's voting pattern on key municipal issues such as budget approvals, development applications, and policy initiatives?"
+  - "What is Sam Trosow's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How frequently does Sam Trosow propose motions or amendments during council meetings, and what topics do they typically focus on?"
+  - "What specific committees does Sam Trosow serve on, and do they hold any chair or vice-chair positions on these committees?"
 ---
 
 ## Terms of Service

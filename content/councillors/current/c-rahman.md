@@ -15,9 +15,9 @@ yeaRate: 89.8
 contestedDissentRate: 16.8
 contestedVotes: 1164
 prefillQuestions:
-  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development applications, and bylaw amendments?"
-  - "Which specific committees has Corrine Rahman served on, and what role did they play in committee work and recommendations?"
-  - "How does Corrine Rahman's meeting attendance rate compare to other council members, and were there any notable absences during important votes or discussions?"
+  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
+  - "How does her meeting attendance rate of 217 meetings compare to other council members during the same period?"
+  - "What has been her voting pattern on key municipal issues and budget decisions during her 2022-2025 term?"
 ---
 
 ## Terms of Service

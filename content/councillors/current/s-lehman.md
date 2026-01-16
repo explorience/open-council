@@ -15,9 +15,9 @@ yeaRate: 93.9
 contestedDissentRate: 10.2
 contestedVotes: 2024
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and what roles (chair, vice-chair, member) has he held on these committees?"
-  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "What specific committees has Steve Lehman served on during his time on London City Council?"
+  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Steve Lehman's meeting attendance rate of 387 meetings compare to other council members serving during the same period?"
 ---
 
 ## Terms of Service

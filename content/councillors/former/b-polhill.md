@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 8.9
 contestedVotes: 2987
 prefillQuestions:
-  - "What was Bud Polhill's attendance rate compared to other council members during his 2011-2014 term?"
-  - "Which specific committees did Bud Polhill serve on and what were his primary areas of focus?"
-  - "How did Bud Polhill typically vote on major municipal issues such as budget approvals, development projects, or policy changes during his time on council?"
+  - "What was Bud Polhill's attendance rate compared to other council members during the 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what were their primary roles or contributions on those committees?"
+  - "How did Polhill typically vote on major issues that came before council during their term, such as budget approvals or development proposals?"
 ---
 
 ## Terms of Service

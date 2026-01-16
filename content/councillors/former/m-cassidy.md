@@ -15,9 +15,9 @@ yeaRate: 96.0
 contestedDissentRate: 4.5
 contestedVotes: 4806
 prefillQuestions:
-  - "What was Maureen Cassidy's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending during her 2014-2022 tenure?"
-  - "Which specific committees did she serve on, and did she hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did her meeting attendance rate compare to other council members, and were there any notable periods of absence or particularly active participation?"
+  - "What was Maureen Cassidy's voting pattern on key municipal issues like budget approvals and development proposals during her time on council?"
+  - "Which specific committees did she serve on and did she hold any leadership positions such as chair or vice-chair roles?"
+  - "How did her meeting attendance rate compare to other council members, and were there any notable absences during important votes?"
 ---
 
 ## Terms of Service

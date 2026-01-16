@@ -15,9 +15,9 @@ yeaRate: 85.3
 contestedDissentRate: 13.6
 contestedVotes: 2074
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his role or contribution to each committee's work?"
-  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What was Stephen Orser's voting attendance rate and how did it compare to other council members during the 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on and what were his key contributions or leadership roles on those committees?"
+  - "How did Stephen Orser vote on major city issues and budget decisions during his time on London City Council?"
 ---
 
 ## Terms of Service

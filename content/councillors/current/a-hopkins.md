@@ -16,8 +16,8 @@ contestedDissentRate: 12.3
 contestedVotes: 4782
 prefillQuestions:
   - "What specific committees has Anna Hopkins served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 640 meetings compare to other council members over the same period?"
-  - "What has been her voting pattern on key municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "What has been Anna Hopkins' voting record on major municipal issues such as budget approvals, development projects, or policy initiatives?"
+  - "How does Anna Hopkins' meeting attendance rate of 640 meetings compare to other council members during the same time period?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 23.3
 contestedVotes: 1212
 prefillQuestions:
-  - "What is Skylar Franke's voting record on major municipal issues during their 2022-2025 term?"
-  - "Which specific committees has Skylar Franke served on and what roles have they held on those committees?"
-  - "How does Skylar Franke's meeting attendance rate of 179 meetings compare to other council members during the same period?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development proposals, and bylaw amendments?"
+  - "Which specific committees has Skylar Franke served on, and what was their level of participation and leadership roles within those committees?"
+  - "How does Skylar Franke's meeting attendance rate of 179 meetings compare to other council members and the expected number of meetings during their 2022-2025 term?"
 ---
 
 ## Terms of Service

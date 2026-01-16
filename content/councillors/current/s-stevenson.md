@@ -15,9 +15,9 @@ yeaRate: 82.2
 contestedDissentRate: 35.7
 contestedVotes: 1160
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development projects, and policy initiatives?"
-  - "How frequently does Susan Stevenson speak or make motions during council meetings, and what topics does she most commonly address?"
-  - "What specific committees has Susan Stevenson served on, and has she held any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "Which specific committees does Susan Stevenson serve on, and what are her attendance rates for each committee?"
+  - "How does Susan Stevenson's meeting attendance and committee participation compare to other London City Council members during the same period?"
 ---
 
 ## Terms of Service

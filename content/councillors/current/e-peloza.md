@@ -15,9 +15,9 @@ yeaRate: 92.4
 contestedDissentRate: 16.3
 contestedVotes: 1898
 prefillQuestions:
-  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
-  - "What is Elizabeth Peloza's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Elizabeth Peloza's meeting attendance rate compare to other council members during the same period?"
+  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during the same period?"
+  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on these committees?"
+  - "How has her committee participation changed over the course of her tenure from 2018 to 2025?"
 ---
 
 ## Terms of Service

@@ -16,8 +16,8 @@ contestedDissentRate: 6.8
 contestedVotes: 5935
 prefillQuestions:
   - "What was Harold Usher's voting record on key municipal issues during his 2011-2018 tenure?"
-  - "Which specific committees did Harold Usher serve on and what roles did he hold on those committees?"
-  - "How did Harold Usher's attendance rate compare to other council members during his time in office?"
+  - "Which specific committees did Harold Usher serve on and what were his roles or contributions to those committees?"
+  - "How does Harold Usher's meeting attendance rate of 403 meetings compare to other council members who served during the same period?"
 ---
 
 ## Terms of Service
