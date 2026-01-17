@@ -15,9 +15,9 @@ yeaRate: 93.1
 contestedDissentRate: 5.6
 contestedVotes: 6099
 prefillQuestions:
-  - "What was Paul Hubert's voting record on major municipal issues during his 2011-2018 tenure?"
-  - "Which committees did Paul Hubert chair or serve in leadership roles on during his time on council?"
-  - "How did Paul Hubert's meeting attendance rate compare to other council members during the same period?"
+  - "What was Paul Hubert's voting attendance rate and pattern on key municipal issues during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert chair or serve as vice-chair on, and what were his primary areas of focus?"
+  - "How did Paul Hubert's committee participation and meeting attendance compare to other council members during the same period?"
 ---
 
 ## Terms of Service

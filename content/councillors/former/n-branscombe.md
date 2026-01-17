@@ -15,9 +15,9 @@ yeaRate: 89.9
 contestedDissentRate: 10.9
 contestedVotes: 2090
 prefillQuestions:
-  - "What was Nancy Branscombe's voting record on key municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
-  - "How did her attendance rate of 119 meetings compare to other council members during the same period?"
+  - "What was Nancy Branscombe's attendance rate compared to other council members during the 2011-2014 term?"
+  - "Which specific committees did Nancy Branscombe serve on and what were her roles or contributions to those committees?"
+  - "How did Nancy Branscombe vote on major municipal issues and bylaws that came before council during her four-year term?"
 ---
 
 ## Terms of Service

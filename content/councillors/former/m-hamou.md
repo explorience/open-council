@@ -15,9 +15,9 @@ yeaRate: 0.0
 contestedDissentRate: 100.0
 contestedVotes: 3
 prefillQuestions:
-  - "What was Mariam Hamou's voting record on key municipal issues during her 2021-2022 term?"
-  - "Which specific committees did she serve on and what was her level of participation in committee work?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What was Mariam Hamou's voting attendance rate and how did it compare to other council members during 2021-2022?"
+  - "Which specific committees did she serve on and what were her key contributions or positions taken during committee discussions?"
+  - "How did she vote on major municipal issues and budget items that came before council during her tenure?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.7
 contestedVotes: 3298
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues during their time on council?"
-  - "Which specific committees did Mo Salih serve on and what roles did they play in those committees?"
-  - "How did Mo Salih's attendance record compare to other council members during the same period?"
+  - "What was Mo Salih's attendance rate compared to other council members during their 2014-2022 tenure?"
+  - "Which specific committees did Mo Salih serve on, and did they hold any leadership positions such as committee chair or vice-chair?"
+  - "How did Mo Salih typically vote on major municipal issues such as budget approvals, development projects, or policy initiatives during their time on council?"
 ---
 
 ## Terms of Service

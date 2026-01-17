@@ -15,9 +15,9 @@ yeaRate: 92.1
 contestedDissentRate: 10.0
 contestedVotes: 2640
 prefillQuestions:
-  - "What was Joni Baechler's voting record on major municipal issues like budget approval, development projects, and infrastructure spending during their 2011-2014 term?"
-  - "Which specific committees did Baechler serve on, and did they hold any chair or vice-chair positions on these committees?"
-  - "How does their meeting attendance rate of 132 meetings compare to other council members during the same period, and were there any notable absences from key votes?"
+  - "What was Joni Baechler's voting record on major municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what were her key contributions or initiatives within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

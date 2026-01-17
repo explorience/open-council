@@ -15,9 +15,9 @@ yeaRate: 93.0
 contestedDissentRate: 7.4
 contestedVotes: 2408
 prefillQuestions:
-  - "What was Joe Fontana's voting attendance rate and did he miss any significant votes during his 2011-2014 tenure?"
-  - "Which specific committees did Joe Fontana serve on and did he hold any leadership positions within those committees?"
-  - "How did Joe Fontana's meeting attendance compare to other council members during the same period?"
+  - "What was Joe Fontana's voting record on key municipal issues during his 2011-2014 term?"
+  - "Which specific committees did he serve on and what was his level of participation in committee work?"
+  - "How did his meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

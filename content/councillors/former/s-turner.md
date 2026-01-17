@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.6
 contestedVotes: 3570
 prefillQuestions:
-  - "What was Stephen Turner's voting record on key budget decisions during his eight years on London City Council?"
-  - "How frequently did Turner vote with the majority versus taking minority positions on council votes?"
-  - "Which specific committees did Turner serve on, and what role did he play in major policy decisions that came through those committees?"
+  - "What was Stephen Turner's attendance rate as a percentage of total scheduled council meetings during his 2014-2022 tenure?"
+  - "Which specific committees did Stephen Turner serve on and in what capacity (chair, vice-chair, or member)?"
+  - "How did Stephen Turner typically vote on major municipal issues such as budget approvals, development proposals, and policy changes?"
 ---
 
 ## Terms of Service

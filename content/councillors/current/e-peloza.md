@@ -2,7 +2,7 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 453
+meetingCount: 454
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 6960
@@ -15,9 +15,9 @@ yeaRate: 92.4
 contestedDissentRate: 16.3
 contestedVotes: 1898
 prefillQuestions:
-  - "What is Elizabeth Peloza's voting attendance rate and how does it compare to other council members during the same period?"
-  - "Which specific committees has she served on and what roles (chair, vice-chair, member) has she held on these committees?"
-  - "How has her committee participation changed over the course of her tenure from 2018 to 2025?"
+  - "What specific committees has Elizabeth Peloza served on during her time on London City Council?"
+  - "What has been her voting record on key municipal issues such as budget approval, development projects, or policy initiatives?"
+  - "How does her meeting attendance rate of 454 meetings compare to other council members during the same time period?"
 ---
 
 ## Terms of Service
@@ -198,9 +198,9 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
@@ -208,8 +208,9 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (453 total)
+## Recent Meetings (454 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
@@ -219,4 +220,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
-- [The 16th Meeting of the Planning and Environment Committee](</months/2025-10/2025-10-21 The 16th Meeting of the Planning and Environment Committee>) - Tue Oct 21 2025

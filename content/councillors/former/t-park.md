@@ -15,9 +15,9 @@ yeaRate: 95.8
 contestedDissentRate: 3.1
 contestedVotes: 3458
 prefillQuestions:
-  - "What was Tanya Park's voting record on major municipal issues during her 2014-2018 term?"
-  - "Which specific committees did she serve on and what were her key contributions to those committees?"
-  - "Did she run for re-election in 2018, and if so, what were the results of that campaign?"
+  - "What was Tanya Park's voting record on key municipal issues during her 2014-2018 term?"
+  - "Which specific committees did she serve on and what roles did she hold within those committees?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

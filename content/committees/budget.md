@@ -4,14 +4,14 @@ type: committee
 slug: "budget"
 meetingCount: 23
 prefillQuestions:
-  - "How can residents participate in the budget process and provide input on spending priorities during the committee's public participation meetings?"
-  - "What are the key differences between the annual budget reviews and the multi-year budget planning process that the committee oversees?"
-  - "How does the Budget Committee's recommendations influence the final budget decisions made by City Council, and what happens when there are disagreements between the committee and full council?"
+  - "How can residents participate in the Budget Committee's public consultation process and when are these meetings typically scheduled during the budget cycle?"
+  - "What is the timeline for the multi-year budget process, and how does the committee handle budget adjustments or amendments between the planned years?"
+  - "Where can citizens access the Budget Committee's meeting agendas, minutes, and voting records to track how their tax dollars are being allocated across different city services and projects?"
 ---
 
-The Budget Committee of London City Council serves as a crucial governance body responsible for reviewing, analyzing, and making recommendations on the city's financial planning and budget allocation. Based on the meeting records, this committee handles both annual and multi-year budget cycles, with particular focus on the 2024-2027 Multi-Year Budget planning process. The committee conducts detailed examinations of municipal spending priorities, revenue projections, and financial strategies that affect all city services and operations. Their work includes continuation meetings for complex budget discussions and special budget sessions that require extended deliberation.
+The Budget Committee of London City Council serves as a specialized body responsible for reviewing, analyzing, and making recommendations on the city's financial planning and budget allocation. Based on the meeting records, the committee handles both annual budget cycles and multi-year budget planning, as evidenced by their work on the 2024-2027 Multi-Year Budget. The committee appears to conduct intensive budget review processes, often requiring multiple continuation meetings and special sessions to thoroughly examine financial proposals and priorities.
 
-The committee plays a vital role in municipal governance by providing thorough oversight of public finances and ensuring responsible stewardship of taxpayer dollars. They address a wide range of budgetary issues including capital expenditures, operational costs, service delivery funding, and long-term financial sustainability. The committee also facilitates public participation in the budget process, as evidenced by dedicated public participation meetings, allowing citizens to provide input on spending priorities and fiscal policies that directly impact their community.
+The committee plays a crucial role in municipal governance by acting as an intermediary between city administration and full City Council on budgetary matters. Their work includes reviewing departmental budget requests, analyzing revenue projections, examining capital projects, and ensuring fiscal responsibility in city operations. The committee also facilitates public participation in the budget process, as indicated by dedicated public participation meetings, allowing citizens to provide input on spending priorities and tax implications before final budget approval by the full City Council.
 
 ## Recent Meetings
 

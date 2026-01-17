@@ -2,7 +2,7 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 217
+meetingCount: 219
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3194
@@ -15,9 +15,9 @@ yeaRate: 89.8
 contestedDissentRate: 16.8
 contestedVotes: 1164
 prefillQuestions:
-  - "What specific committees has Corrine Rahman served on during her time on London City Council?"
-  - "How does her meeting attendance rate of 217 meetings compare to other council members during the same period?"
-  - "What has been her voting pattern on key municipal issues and budget decisions during her 2022-2025 term?"
+  - "What is Corrine Rahman's voting record on major budget decisions and tax increases during her current term?"
+  - "How often does she vote with the majority versus taking independent positions on key municipal issues?"
+  - "What specific committees does she serve on, and has she taken leadership roles or been particularly active on any particular committee?"
 ---
 
 ## Terms of Service
@@ -207,18 +207,20 @@ Voted **Nay** - Motion Passed (10 to 5)
 
 ## Committees Served
 
-- [Budget Committee](/committees/budget)
-- [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Budget Committee](/committees/budget)
+- [Audit Committee](/committees/audit)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (217 total)
+## Recent Meetings (219 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
+- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [4th Meeting of the Audit Committee](</months/2025-11/2025-11-19 4th Meeting of the Audit Committee>) - Wed Nov 19 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
@@ -227,5 +229,3 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025
 - [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
-- [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
-- [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025

@@ -2,7 +2,7 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 454
+meetingCount: 457
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 7404
@@ -15,9 +15,9 @@ yeaRate: 93.3
 contestedDissentRate: 15.2
 contestedVotes: 1923
 prefillQuestions:
-  - "What specific committees has Steve Hillier served on during his time on London City Council?"
-  - "How does his meeting attendance rate of 454 meetings compare to other council members serving during the same period?"
-  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "What is Steve Hillier's voting record on major city budget decisions and tax increases during his time on council?"
+  - "How often has Steve Hillier voted against the majority position on council, and on what types of issues?"
+  - "What specific committees has Steve Hillier served on, and what role did he play in their key decisions and recommendations?"
 ---
 
 ## Terms of Service
@@ -205,16 +205,19 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
-- [Planning and Environment Committee](/committees/planning-environment)
-- [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
+- [Budget Committee](/committees/budget)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (454 total)
+## Recent Meetings (457 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
+- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
+- [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
 - [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
@@ -222,6 +225,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
 - [The 17th Meeting of the Planning and Environment Committee](</months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee>) - Wed Nov 12 2025
 - [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025
-- [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
-- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
-- [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025

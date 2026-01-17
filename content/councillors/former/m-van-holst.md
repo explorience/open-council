@@ -15,9 +15,9 @@ yeaRate: 95.6
 contestedDissentRate: 6.6
 contestedVotes: 3893
 prefillQuestions:
-  - "What was Michael van Holst's voting record on major municipal issues during his time on London City Council?"
-  - "Which specific committees did he serve on and what roles did he play within those committees?"
-  - "How did his attendance rate and participation compare to other council members during the same period?"
+  - "What was Michael van Holst's voting record on key municipal issues during his 8 years on council?"
+  - "Which specific committees did he serve on and what roles did he hold within those committees?"
+  - "How did his attendance rate compare to other council members during overlapping terms of service?"
 ---
 
 ## Terms of Service

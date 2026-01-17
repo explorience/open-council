@@ -2,19 +2,20 @@
 title: "Strategic Priorities and Policy Committee"
 type: committee
 slug: "strategic-priorities"
-meetingCount: 274
+meetingCount: 275
 prefillQuestions:
-  - "How can citizens access meeting agendas, minutes, and outcomes from the Strategic Priorities and Policy Committee to stay informed about major city decisions?"
-  - "What is the process for citizens to provide input or present concerns to the Strategic Priorities and Policy Committee before major policy decisions are made?"
-  - "How does the Strategic Priorities and Policy Committee prioritize which issues to address, and what criteria determine whether a matter requires a continuation meeting?"
+  - "How can citizens participate in or provide input to the Strategic Priorities and Policy Committee meetings, and are there specific opportunities for public delegation or comment?"
+  - "What are the current strategic priorities that this committee is focusing on, and how do these align with London's overall municipal strategic plan?"
+  - "How are decisions made within this committee, and what is the process for recommendations to move from this committee to final approval by city council?"
 ---
 
-The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, Canada, functioning as a high-level committee that addresses the city's most significant policy directions and strategic initiatives. Based on its extensive meeting history of 274 sessions, this committee appears to operate as a central decision-making forum that reviews, discusses, and recommends major policy matters before they proceed to full City Council. The committee's role typically encompasses long-term planning, budget oversight, major municipal projects, strategic plan implementation, and policy development that affects the overall direction of the city.
+The Strategic Priorities and Policy Committee serves as a key governance body within London City Council, Canada, functioning as a high-level committee that addresses the city's most important strategic initiatives and policy directions. Based on its extensive meeting history of 275 sessions, this committee appears to play a central role in municipal decision-making, likely serving as either the primary committee of the whole council or a senior executive committee that handles major policy matters before they proceed to full council consideration.
 
-This committee likely handles complex issues such as city-wide strategic planning, major infrastructure decisions, budget priorities, economic development initiatives, and cross-departmental policy coordination. The numbering system of recent meetings suggests regular, ongoing sessions that address both routine strategic matters and special continuation meetings for particularly complex issues. As a strategic body, it would be responsible for ensuring that individual departmental policies align with broader city objectives and that London's municipal government maintains a coherent, forward-looking approach to governance and service delivery.
+This committee typically deals with broad municipal issues including budget planning, strategic planning initiatives, major policy development, economic development strategies, and significant municipal projects that require high-level oversight. The committee's role involves reviewing, debating, and making recommendations on matters that shape London's long-term direction and priorities. Given its name and apparent importance in the city's governance structure, it likely coordinates between various city departments and provides policy guidance on complex issues that affect multiple areas of municipal operations.
 
 ## Recent Meetings
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 - [12th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-07 12th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 7 2025
@@ -24,8 +25,7 @@ This committee likely handles complex issues such as city-wide strategic plannin
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 17 2025
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2025-05/2025-05-27 7th Meeting of the Strategic Priorities and Policy Committee>) - Tue May 27 2025
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 1 2025
-- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2025-04/2025-04-10 5th Meeting of the Strategic Priorities and Policy Committee>) - Thu Apr 10 2025
 
 
-[View all 274 meetings →](#)
+[View all 275 meetings →](#)
 

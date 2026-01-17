@@ -15,8 +15,8 @@ yeaRate: 90.4
 contestedDissentRate: 9.8
 contestedVotes: 2048
 prefillQuestions:
-  - "What was Denise Brown's voting record on major municipal issues during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what role did she play in committee decisions?"
+  - "What was Denise Brown's voting record on key municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her role or contribution to those committees?"
   - "How did her meeting attendance rate of 95 meetings compare to other council members during the same period?"
 ---
 

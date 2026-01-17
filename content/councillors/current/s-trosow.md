@@ -2,7 +2,7 @@
 title: "Sam Trosow"
 type: councillor
 slug: "s-trosow"
-meetingCount: 209
+meetingCount: 210
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3265
@@ -15,9 +15,9 @@ yeaRate: 82.4
 contestedDissentRate: 44.9
 contestedVotes: 1223
 prefillQuestions:
-  - "What is Sam Trosow's voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How frequently does Sam Trosow propose motions or amendments during council meetings, and what topics do they typically focus on?"
-  - "What specific committees does Sam Trosow serve on, and do they hold any chair or vice-chair positions on these committees?"
+  - "What is Sam Trosow's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "How frequently does Sam Trosow vote in alignment with the majority versus taking independent positions on council decisions?"
+  - "Which specific committees has Sam Trosow served on, and what has been their level of participation and leadership within those committees?"
 ---
 
 ## Terms of Service
@@ -201,8 +201,8 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
-- [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Budget Committee](/committees/budget)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
@@ -210,8 +210,9 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (209 total)
+## Recent Meetings (210 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
@@ -221,4 +222,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
 - [16th Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-20 16th Meeting of the Community and Protective Services Committee>) - Mon Oct 20 2025
 - [16th Council Meeting](</months/2025-10/2025-10-14 16th Council Meeting>) - Tue Oct 14 2025
-- [15th Special Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-08 15th Special Meeting of the Community and Protective Services Committee>) - Wed Oct 8 2025

@@ -15,9 +15,9 @@ yeaRate: 94.9
 contestedDissentRate: 3.5
 contestedVotes: 1578
 prefillQuestions:
-  - "What was Jared Zaifman's voting record on major city issues during his 2014-2018 term?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus general council meetings?"
-  - "Did he sponsor or champion any particular pieces of legislation or city initiatives during his four years on council?"
+  - "What was Jared Zaifman's voting record on key municipal issues such as budget approvals, development projects, and policy changes during his 2014-2018 term?"
+  - "Which specific committees did he serve on, and what was his attendance rate for committee meetings versus regular council meetings?"
+  - "Did he introduce any motions or initiatives during his time on council, and what was the outcome of any proposals he championed?"
 ---
 
 ## Terms of Service

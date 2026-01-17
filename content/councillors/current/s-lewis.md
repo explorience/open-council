@@ -2,7 +2,7 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 496
+meetingCount: 499
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 8608
@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 10.3
 contestedVotes: 2235
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How often has Shawn Lewis introduced motions or amendments during council meetings, and what topics do they typically focus on?"
-  - "What specific committees has Shawn Lewis served on, and have they held any leadership positions such as committee chair or vice-chair roles?"
+  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, and bylaw amendments?"
+  - "Which specific committees has Shawn Lewis served on, and what leadership roles, if any, have they held within those committees?"
+  - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service
@@ -199,17 +199,20 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
-- [Planning and Environment Committee](/committees/planning-environment)
-- [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
+- [Budget Committee](/committees/budget)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (496 total)
+## Recent Meetings (499 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
+- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
+- [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
 - [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
@@ -217,6 +220,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
 - [The 17th Meeting of the Planning and Environment Committee](</months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee>) - Wed Nov 12 2025
 - [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025
-- [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
-- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
-- [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025

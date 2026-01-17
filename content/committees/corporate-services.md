@@ -2,19 +2,20 @@
 title: "Corporate Services Committee"
 type: committee
 slug: "corporate-services"
-meetingCount: 280
+meetingCount: 281
 prefillQuestions:
-  - "What is the committee's annual budget allocation, and how are infrastructure and corporate service priorities balanced when making funding decisions?"
-  - "How can residents access meeting agendas, minutes, and reports to stay informed about upcoming infrastructure projects or changes to city services in their neighborhoods?"
-  - "What is the typical timeline from when the committee makes a recommendation to when City Council votes on it, and how can citizens provide input during this process?"
+  - "What is the committee's current budget allocation and how do they prioritize infrastructure investments versus corporate service improvements?"
+  - "How can residents access meeting agendas and minutes to stay informed about decisions that affect municipal services and facilities?"
+  - "What major infrastructure or corporate service initiatives is the committee currently working on that will impact residents in the coming year?"
 ---
 
-The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that serves a dual mandate in municipal governance. The committee oversees the city's corporate administrative functions, including financial management, human resources, information technology systems, legal services, and general municipal operations. Simultaneously, it addresses infrastructure-related matters such as roads, bridges, public transit, utilities, and capital projects that support the city's physical framework and long-term development needs.
+The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that plays a crucial role in municipal governance by overseeing the city's operational infrastructure and internal administrative functions. This committee typically handles matters related to municipal facilities, technology services, fleet management, procurement policies, human resources, financial administration, and corporate governance issues. With 281 meetings held to date, it demonstrates the ongoing and comprehensive nature of municipal operations that require regular oversight and decision-making.
 
-As an integral part of London's council structure, this committee reviews staff reports, makes recommendations to City Council on policy matters, and provides oversight of significant municipal expenditures and strategic initiatives. The committee's work directly impacts residents' daily lives through decisions about service delivery, infrastructure investments, technology upgrades, and operational efficiency measures. With 280 meetings held to date, the committee demonstrates the ongoing nature of municipal administration and the continuous need to address both immediate operational concerns and long-term planning for London's growth and development.
+The committee serves as an intermediary body between city staff and full Council, reviewing staff recommendations, budget proposals, and policy changes before they advance to Council for final approval. Their work encompasses both the physical infrastructure that keeps the city running—such as municipal buildings, IT systems, and vehicle fleets—as well as the corporate policies and procedures that govern how the city operates internally. This includes everything from employee benefit programs and organizational restructuring to major technology upgrades and facility maintenance contracts, making it essential to the day-to-day functioning and long-term planning of municipal services.
 
 ## Recent Meetings
 
+- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
 - [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025
 - [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-06 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 6 2025
@@ -24,8 +25,7 @@ As an integral part of London's council structure, this committee reviews staff 
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-06/2025-06-16 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 16 2025
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee>) - Mon May 26 2025
 - [9th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2025-05/2025-05-12 9th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon May 12 2025
-- [8th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Apr 30 2025
 
 
-[View all 280 meetings →](#)
+[View all 281 meetings →](#)
 

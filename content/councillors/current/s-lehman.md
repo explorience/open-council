@@ -2,7 +2,7 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 387
+meetingCount: 389
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 7143
@@ -15,9 +15,9 @@ yeaRate: 93.9
 contestedDissentRate: 10.2
 contestedVotes: 2024
 prefillQuestions:
-  - "What specific committees has Steve Lehman served on during his time on London City Council?"
-  - "What is Steve Lehman's voting record on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "How does Steve Lehman's meeting attendance rate of 387 meetings compare to other council members serving during the same period?"
+  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during his tenure?"
+  - "Which specific committees has Steve Lehman served on and what leadership roles, if any, has he held within those committees?"
+  - "How has Steve Lehman's meeting attendance pattern changed over the course of his time on council, and were there any notable periods of absence?"
 ---
 
 ## Terms of Service
@@ -196,15 +196,17 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (387 total)
+## Recent Meetings (389 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
+- [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
 - [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
@@ -213,5 +215,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
-- [The 16th Meeting of the Planning and Environment Committee](</months/2025-10/2025-10-21 The 16th Meeting of the Planning and Environment Committee>) - Tue Oct 21 2025
-- [16th Council Meeting](</months/2025-10/2025-10-14 16th Council Meeting>) - Tue Oct 14 2025

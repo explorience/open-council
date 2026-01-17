@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 9.3
 contestedVotes: 2282
 prefillQuestions:
-  - "What was Sandy White's voting record on major budget decisions and tax rate changes during their 2011-2014 term?"
-  - "Which specific committees did Sandy White serve on, and what was their attendance record for committee meetings versus full council meetings?"
-  - "How did Sandy White vote on key development projects and zoning changes that came before council during their four-year tenure?"
+  - "What was Sandy White's attendance rate and how did it compare to other council members during the 2011-2014 term?"
+  - "Which specific committees did Sandy White serve on and what were their primary responsibilities on each committee?"
+  - "What were some of the major issues or votes that came before council during Sandy White's term, and how did they vote on key municipal matters?"
 ---
 
 ## Terms of Service

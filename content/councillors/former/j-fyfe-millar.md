@@ -15,9 +15,9 @@ yeaRate: 100.0
 contestedDissentRate: 0.0
 contestedVotes: 0
 prefillQuestions:
-  - "What was John Fyfe-Millar's voting record on key municipal issues during their 2021-2022 tenure?"
-  - "Which specific committees did they serve on and what was their attendance rate for committee meetings versus general council meetings?"
-  - "Did they sponsor or champion any particular bylaws, motions, or initiatives during their time on council?"
+  - "What specific committees did John Fyfe-Millar serve on during his time on London City Council?"
+  - "What was his voting pattern on key municipal issues such as budget approvals, development projects, or policy changes?"
+  - "How does his meeting attendance rate of 74 meetings compare to other council members during the same 2021-2022 period?"
 ---
 
 ## Terms of Service

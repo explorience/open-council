@@ -15,9 +15,9 @@ yeaRate: 93.2
 contestedDissentRate: 6.6
 contestedVotes: 4110
 prefillQuestions:
-  - "What was Bill Armstrong's voting record on key municipal issues during his 2012-2018 tenure?"
-  - "Which specific committees did he serve on and what was his attendance rate for committee meetings versus regular council meetings?"
-  - "Did he hold any leadership positions such as committee chair or deputy mayor during his time on council?"
+  - "What was Bill Armstrong's attendance rate and did he miss any significant votes during his six years on council?"
+  - "Which specific committees did Armstrong serve on and what was his level of participation in committee work?"
+  - "How did Armstrong typically vote on major city issues such as budget approvals, development proposals, and municipal policy changes?"
 ---
 
 ## Terms of Service

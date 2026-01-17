@@ -2,7 +2,7 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 499
+meetingCount: 501
 yearsActive: "2010 - 2026"
 isCurrent: true
 totalVotes: 8331
@@ -15,9 +15,9 @@ yeaRate: 86.9
 contestedDissentRate: 22.9
 contestedVotes: 3841
 prefillQuestions:
-  - "What is Paul Van Meerbergen's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and in what capacity (member, chair, vice-chair) throughout his years of service?"
-  - "What has been his voting pattern on major city issues such as budget approvals, development projects, and policy initiatives?"
+  - "What specific committees has Paul Van Meerbergen served on during his 15 years on London City Council?"
+  - "What is Paul Van Meerbergen's voting record on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
+  - "How does Paul Van Meerbergen's meeting attendance rate of 501 meetings compare to other council members' attendance records during the same period?"
 ---
 
 ## Terms of Service
@@ -198,16 +198,18 @@ Voted **Nay** - Motion Passed (13 to 2)
 
 ## Committees Served
 
-- [Budget Committee](/committees/budget)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Budget Committee](/committees/budget)
 - [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (499 total)
+## Recent Meetings (501 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
+- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
@@ -216,5 +218,3 @@ Voted **Nay** - Motion Passed (13 to 2)
 - [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
 - [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025
-- [16th Council Meeting](</months/2025-10/2025-10-14 16th Council Meeting>) - Tue Oct 14 2025
-- [12th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-07 12th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 7 2025
