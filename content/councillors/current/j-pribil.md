@@ -15,9 +15,9 @@ yeaRate: 90.9
 contestedDissentRate: 12.6
 contestedVotes: 1278
 prefillQuestions:
-  - "What specific committees has Jerry Pribil served on during their time on London City Council?"
-  - "How does Jerry Pribil's meeting attendance record of 215 meetings compare to other council members during the same period?"
-  - "What has been Jerry Pribil's voting pattern on key municipal issues such as budget approvals, development projects, and policy initiatives?"
+  - "What is Jerry Pribil's voting record on major city issues such as budget approvals, development projects, or policy changes?"
+  - "Which specific committees has he served on and what leadership roles, if any, has he held within those committees?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his term?"
 ---
 
 ## Terms of Service

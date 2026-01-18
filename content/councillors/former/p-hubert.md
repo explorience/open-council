@@ -15,9 +15,9 @@ yeaRate: 93.1
 contestedDissentRate: 5.6
 contestedVotes: 6099
 prefillQuestions:
-  - "What was Paul Hubert's voting attendance rate and pattern on key municipal issues during his 2011-2018 tenure?"
-  - "Which specific committees did Paul Hubert chair or serve as vice-chair on, and what were his primary areas of focus?"
-  - "How did Paul Hubert's committee participation and meeting attendance compare to other council members during the same period?"
+  - "What was Paul Hubert's voting attendance rate and how did it compare to other council members during his 2011-2018 tenure?"
+  - "Which specific committees did Paul Hubert serve on and did he hold any chair or vice-chair positions?"
+  - "On what major issues or controversial votes did Paul Hubert take notable positions during his time on London City Council?"
 ---
 
 ## Terms of Service

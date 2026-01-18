@@ -15,9 +15,9 @@ yeaRate: 94.5
 contestedDissentRate: 8.2
 contestedVotes: 5396
 prefillQuestions:
-  - "What was Jesse Helmer's voting record on key municipal issues like budget approvals, development projects, and infrastructure investments during their 2014-2022 tenure?"
-  - "Which specific committees did Jesse Helmer serve on, and did they hold any leadership positions such as committee chair or vice-chair roles?"
-  - "How did Jesse Helmer's meeting attendance rate compare to other council members, and were there any notable patterns in their participation or absences?"
+  - "What was Jesse Helmer's attendance rate and how did it compare to other council members during their tenure?"
+  - "Which specific committees did Jesse Helmer serve on and what policy areas did they focus on most heavily?"
+  - "How did Jesse Helmer's voting patterns align with council majorities on key municipal issues during their 2014-2022 term?"
 ---
 
 ## Terms of Service

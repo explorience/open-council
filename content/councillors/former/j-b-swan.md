@@ -15,9 +15,9 @@ yeaRate: 90.2
 contestedDissentRate: 9.1
 contestedVotes: 2232
 prefillQuestions:
-  - "What was Joe Swan's voting record on major budget decisions during their 2011-2014 term?"
-  - "Which specific committees did Joe Swan serve on, and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How did Joe Swan vote on key municipal issues such as development proposals, tax increases, or infrastructure projects during their time in office?"
+  - "What was Joe Swan's voting record on major budget decisions during his 2011-2014 term?"
+  - "How did his attendance rate of 147 meetings compare to other council members serving during the same period?"
+  - "What specific committees did he serve on and what were his key contributions or positions on those committees?"
 ---
 
 ## Terms of Service

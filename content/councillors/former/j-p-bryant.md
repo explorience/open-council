@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 10.3
 contestedVotes: 2215
 prefillQuestions:
-  - "What was Judy Bryant's voting record on major budget decisions during her 2011-2014 term?"
-  - "Which specific committees did she serve on and what were her key contributions to those committees?"
-  - "How did her attendance rate of 168 meetings compare to other council members during the same period?"
+  - "What was Judy Bryant's voting record on major municipal issues during her 2011-2014 term?"
+  - "Which specific committees did she serve on and what was her attendance rate for each?"
+  - "How did her meeting attendance rate compare to other council members during the same period?"
 ---
 
 ## Terms of Service

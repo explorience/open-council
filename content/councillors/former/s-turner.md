@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.6
 contestedVotes: 3570
 prefillQuestions:
-  - "What was Stephen Turner's attendance rate as a percentage of total scheduled council meetings during his 2014-2022 tenure?"
-  - "Which specific committees did Stephen Turner serve on and in what capacity (chair, vice-chair, or member)?"
-  - "How did Stephen Turner typically vote on major municipal issues such as budget approvals, development proposals, and policy changes?"
+  - "What was Stephen Turner's attendance rate at council meetings compared to other council members during his tenure?"
+  - "Which specific committees did Stephen Turner serve on and what were his roles or leadership positions within those committees?"
+  - "How did Stephen Turner vote on major municipal issues such as budget approvals, development projects, or policy changes during his 2014-2022 term?"
 ---
 
 ## Terms of Service

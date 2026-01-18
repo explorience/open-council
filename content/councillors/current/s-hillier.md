@@ -15,9 +15,9 @@ yeaRate: 93.3
 contestedDissentRate: 15.2
 contestedVotes: 1923
 prefillQuestions:
-  - "What is Steve Hillier's voting record on major city budget decisions and tax increases during his time on council?"
-  - "How often has Steve Hillier voted against the majority position on council, and on what types of issues?"
-  - "What specific committees has Steve Hillier served on, and what role did he play in their key decisions and recommendations?"
+  - "What is Steve Hillier's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "Which specific committees has he served on, and what leadership roles, if any, has he held within those committees?"
+  - "How does his meeting attendance rate compare to other council members, and has his participation level remained consistent throughout his tenure?"
 ---
 
 ## Terms of Service

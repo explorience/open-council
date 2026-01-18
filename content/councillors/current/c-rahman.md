@@ -15,9 +15,9 @@ yeaRate: 89.8
 contestedDissentRate: 16.8
 contestedVotes: 1164
 prefillQuestions:
-  - "What is Corrine Rahman's voting record on major budget decisions and tax increases during her current term?"
-  - "How often does she vote with the majority versus taking independent positions on key municipal issues?"
-  - "What specific committees does she serve on, and has she taken leadership roles or been particularly active on any particular committee?"
+  - "What is Corrine Rahman's voting record on major municipal issues like budget approvals, development projects, and infrastructure spending?"
+  - "How often does she vote in alignment with the majority versus taking dissenting positions on council decisions?"
+  - "Which specific committees does she serve on, and has she taken leadership roles such as committee chair or vice-chair positions?"
 ---
 
 ## Terms of Service

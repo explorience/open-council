@@ -15,9 +15,9 @@ yeaRate: 82.2
 contestedDissentRate: 35.7
 contestedVotes: 1160
 prefillQuestions:
-  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "Which specific committees does Susan Stevenson serve on, and what has been her level of participation and leadership roles within those committees?"
-  - "How does Susan Stevenson's meeting attendance rate compare to other council members, and has her participation been consistent throughout her term?"
+  - "What is Susan Stevenson's voting record on key municipal issues such as budget approvals, development proposals, and policy changes?"
+  - "Which specific committees has she served on, and has she held any leadership positions such as committee chair or vice-chair roles?"
+  - "How does her meeting attendance rate of 183 meetings compare to other council members, and what percentage of total scheduled meetings does this represent?"
 ---
 
 ## Terms of Service

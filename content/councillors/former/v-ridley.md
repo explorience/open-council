@@ -16,7 +16,7 @@ contestedDissentRate: 3.7
 contestedVotes: 3044
 prefillQuestions:
   - "What was Virginia Ridley's voting record on key municipal issues during her 2014-2018 term?"
-  - "Which specific committees did she serve on and what was her role or contribution to those committees?"
+  - "Which specific committees did she serve on and what roles did she play in those committees?"
   - "How did her attendance rate of 212 meetings compare to other council members during the same period?"
 ---
 

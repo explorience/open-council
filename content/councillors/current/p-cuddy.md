@@ -15,9 +15,9 @@ yeaRate: 90.4
 contestedDissentRate: 11.5
 contestedVotes: 1269
 prefillQuestions:
-  - "What is Peter Cuddy's voting record on key municipal issues such as budget approval, development proposals, and infrastructure projects?"
-  - "How often does Peter Cuddy vote with the majority versus taking independent positions on council decisions?"
-  - "Which of the eight committees that Peter Cuddy serves on see his most active participation, and what types of motions or initiatives has he proposed?"
+  - "What is Peter Cuddy's voting attendance rate and how does it compare to other council members?"
+  - "Which specific committees does Peter Cuddy serve on and what are his roles within those committees?"
+  - "What have been Peter Cuddy's key voting positions on major municipal issues during his 2022-2026 term?"
 ---
 
 ## Terms of Service

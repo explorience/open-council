@@ -15,9 +15,9 @@ yeaRate: 92.4
 contestedDissentRate: 12.3
 contestedVotes: 4782
 prefillQuestions:
-  - "What specific committees has Anna Hopkins served on during her time on London City Council, and in what capacity?"
-  - "How does Anna Hopkins' voting record align with major municipal issues such as budget approvals, development projects, and public services?"
-  - "What has been Anna Hopkins' attendance rate and participation level in committee meetings compared to regular council sessions?"
+  - "What is Anna Hopkins' voting record on key municipal issues such as budget approval, development proposals, and infrastructure projects?"
+  - "How frequently does Anna Hopkins introduce motions or amendments during council meetings, and what topics do they typically address?"
+  - "What leadership roles, if any, has Anna Hopkins held on the committees she has served on, such as chair or vice-chair positions?"
 ---
 
 ## Terms of Service

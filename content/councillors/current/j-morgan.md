@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 5.3
 contestedVotes: 5245
 prefillQuestions:
-  - "What specific committees has Josh Morgan served on during his time on London City Council, and what policy areas do these committees oversee?"
-  - "How does Josh Morgan's meeting attendance rate of 657 meetings compare to other council members during similar time periods?"
-  - "What has been Josh Morgan's voting pattern on major municipal issues such as budget approvals, development projects, and infrastructure investments during his tenure?"
+  - "What is Josh Morgan's voting attendance rate and how does it compare to other London City Council members?"
+  - "Which specific committees has he served on and what were his roles or leadership positions on those committees?"
+  - "How has his voting pattern evolved over his 12-year tenure, particularly on key municipal issues like budget approval, development projects, and policy initiatives?"
 ---
 
 ## Terms of Service

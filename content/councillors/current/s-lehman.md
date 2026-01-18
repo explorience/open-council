@@ -16,8 +16,8 @@ contestedDissentRate: 10.2
 contestedVotes: 2024
 prefillQuestions:
   - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Steve Lehman served on and what leadership roles, if any, has he held within those committees?"
-  - "How has Steve Lehman's meeting attendance pattern changed over the course of his time on council, and were there any notable periods of absence?"
+  - "Which specific committees has he served on and what roles or leadership positions has he held within those committees?"
+  - "How has his voting pattern aligned with council majority decisions versus minority positions on key municipal issues?"
 ---
 
 ## Terms of Service

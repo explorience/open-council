@@ -15,9 +15,9 @@ yeaRate: 86.9
 contestedDissentRate: 22.9
 contestedVotes: 3841
 prefillQuestions:
-  - "What specific committees has Paul Van Meerbergen served on during his 15 years on London City Council?"
-  - "What is Paul Van Meerbergen's voting record on major municipal issues such as budget approvals, development projects, or infrastructure investments?"
-  - "How does Paul Van Meerbergen's meeting attendance rate of 501 meetings compare to other council members' attendance records during the same period?"
+  - "What is Paul Van Meerbergen's voting record on key municipal issues such as budget approvals, development projects, and public transit initiatives?"
+  - "How often has he been absent from council meetings, and what is his attendance rate compared to other council members?"
+  - "Which specific committees has he served on, and has he held any leadership positions such as committee chair or vice-chair roles?"
 ---
 
 ## Terms of Service

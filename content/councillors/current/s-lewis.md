@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 10.3
 contestedVotes: 2235
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on major municipal issues such as budget approvals, development projects, and bylaw amendments?"
-  - "Which specific committees has Shawn Lewis served on, and what leadership roles, if any, have they held within those committees?"
+  - "What specific committees has Shawn Lewis served on during their time on London City Council?"
   - "How does Shawn Lewis's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Shawn Lewis's voting pattern on major municipal issues and budget decisions during their tenure?"
 ---
 
 ## Terms of Service

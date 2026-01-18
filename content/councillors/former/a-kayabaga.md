@@ -15,9 +15,9 @@ yeaRate: 95.2
 contestedDissentRate: 16.9
 contestedVotes: 497
 prefillQuestions:
-  - "What was Arielle Kayabaga's voting attendance rate and how did it compare to other council members during her 2018-2021 term?"
-  - "Which specific committees did she serve on and what roles or leadership positions did she hold within those committees?"
-  - "What were her key voting patterns on major municipal issues such as budget approvals, development proposals, or policy initiatives during her council tenure?"
+  - "What was Arielle Kayabaga's voting record on key municipal issues during her time on London City Council?"
+  - "Which specific committees did she serve on and what was her level of participation in committee discussions and decisions?"
+  - "How did her meeting attendance rate compare to other council members during the 2018-2021 term?"
 ---
 
 ## Terms of Service

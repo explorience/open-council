@@ -15,9 +15,9 @@ yeaRate: 91.4
 contestedDissentRate: 23.3
 contestedVotes: 1212
 prefillQuestions:
-  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, zoning changes, and infrastructure projects?"
-  - "How often does Skylar Franke initiate motions or propose new policies versus voting on items brought forward by other council members?"
-  - "What specific committees does Skylar Franke serve on, and what has been their attendance rate for committee meetings versus regular council meetings?"
+  - "What is Skylar Franke's voting record on key municipal issues such as budget approvals, development projects, and bylaw changes?"
+  - "How does their meeting attendance rate compare to other London City Council members during the same period?"
+  - "What specific committees has Skylar Franke served on and what has been their level of participation in committee work versus general council meetings?"
 ---
 
 ## Terms of Service

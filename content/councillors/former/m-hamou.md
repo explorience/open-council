@@ -15,9 +15,9 @@ yeaRate: 0.0
 contestedDissentRate: 100.0
 contestedVotes: 3
 prefillQuestions:
-  - "What was Mariam Hamou's voting attendance rate and how did it compare to other council members during 2021-2022?"
-  - "Which specific committees did she serve on and what were her key contributions or positions taken during committee discussions?"
-  - "How did she vote on major municipal issues and budget items that came before council during her tenure?"
+  - "What specific committees did Mariam Hamou serve on during her time on London City Council?"
+  - "How did her meeting attendance rate compare to other council members during the 2021-2022 period?"
+  - "What was her voting record on key municipal issues and council decisions during her tenure?"
 ---
 
 ## Terms of Service

@@ -15,9 +15,9 @@ yeaRate: 82.4
 contestedDissentRate: 44.9
 contestedVotes: 1223
 prefillQuestions:
-  - "What is Sam Trosow's voting record on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
-  - "How frequently does Sam Trosow vote in alignment with the majority versus taking independent positions on council decisions?"
-  - "Which specific committees has Sam Trosow served on, and what has been their level of participation and leadership within those committees?"
+  - "What specific committees has Sam Trosow served on during their tenure on London City Council?"
+  - "How does Sam Trosow's meeting attendance rate compare to other council members during the same period?"
+  - "What has been Sam Trosow's voting pattern on major city initiatives and budget decisions since 2022?"
 ---
 
 ## Terms of Service

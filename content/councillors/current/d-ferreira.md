@@ -15,9 +15,9 @@ yeaRate: 88.2
 contestedDissentRate: 26.2
 contestedVotes: 1151
 prefillQuestions:
-  - "What specific committees has David Ferreira served on during his time on London City Council?"
-  - "How does David Ferreira's voting record align on key municipal issues such as budget approvals, development projects, or policy initiatives?"
-  - "What has been David Ferreira's attendance rate and participation level in committee meetings compared to regular council meetings?"
+  - "What is David Ferreira's voting record on key municipal issues such as budget approvals and development projects?"
+  - "Which specific committees does David Ferreira serve on, and what are his attendance rates for each committee?"
+  - "How does David Ferreira's meeting attendance and committee participation compare to other council members during the same term?"
 ---
 
 ## Terms of Service

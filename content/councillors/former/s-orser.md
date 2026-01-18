@@ -15,9 +15,9 @@ yeaRate: 85.3
 contestedDissentRate: 13.6
 contestedVotes: 2074
 prefillQuestions:
-  - "What was Stephen Orser's voting pattern on major city budget decisions during his 2011-2014 term?"
-  - "How frequently did Stephen Orser miss committee meetings compared to full council meetings?"
-  - "Did Stephen Orser sponsor or champion any specific motions or initiatives during his time on council?"
+  - "What was Stephen Orser's voting record on major budget decisions during his 2011-2014 term?"
+  - "Which specific committees did Stephen Orser serve on and what was his attendance rate for each committee?"
+  - "Did Stephen Orser hold any leadership positions or chair any committees during his time on London City Council?"
 ---
 
 ## Terms of Service

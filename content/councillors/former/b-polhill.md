@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 8.9
 contestedVotes: 2987
 prefillQuestions:
-  - "What was Bud Polhill's voting record on major budget decisions during their 2011-2014 term?"
-  - "Which specific committees did Polhill serve on and what was their attendance rate for committee meetings versus regular council meetings?"
-  - "How did Polhill's meeting attendance of 199 sessions compare to other council members during the same 2011-2014 period?"
+  - "What was Bud Polhill's attendance rate compared to other council members during the 2011-2014 term?"
+  - "Which specific committees did Polhill serve on and what roles did they hold on those committees?"
+  - "How did Polhill vote on major municipal issues and budget decisions during their tenure?"
 ---
 
 ## Terms of Service

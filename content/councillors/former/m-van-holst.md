@@ -15,9 +15,9 @@ yeaRate: 95.6
 contestedDissentRate: 6.6
 contestedVotes: 3893
 prefillQuestions:
-  - "What was Michael van Holst's voting record on key municipal issues during his 8 years on council?"
-  - "Which specific committees did he serve on and what roles did he hold within those committees?"
-  - "How did his attendance rate compare to other council members during overlapping terms of service?"
+  - "What specific committees did Michael van Holst serve on during his time on London City Council?"
+  - "What was his voting record on major municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "How did his committee participation and voting patterns change between his first term (2014-2018) and second term (2018-2022)?"
 ---
 
 ## Terms of Service

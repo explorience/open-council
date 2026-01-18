@@ -15,9 +15,9 @@ yeaRate: 93.2
 contestedDissentRate: 6.6
 contestedVotes: 4110
 prefillQuestions:
-  - "What was Bill Armstrong's attendance rate and did he miss any significant votes during his six years on council?"
-  - "Which specific committees did Armstrong serve on and what was his level of participation in committee work?"
-  - "How did Armstrong typically vote on major city issues such as budget approvals, development proposals, and municipal policy changes?"
+  - "What was Bill Armstrong's voting attendance rate and how did it compare to other council members during his 2012-2018 term?"
+  - "Which specific committees did Armstrong serve on and what were his key contributions or leadership roles within those committees?"
+  - "Were there any notable issues or policy areas where Armstrong frequently voted differently from the majority of council during his tenure?"
 ---
 
 ## Terms of Service
