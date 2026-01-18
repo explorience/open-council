@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 10.3
 contestedVotes: 2235
 prefillQuestions:
-  - "What is Shawn Lewis's voting record on major budget decisions and tax increases during their time on council?"
-  - "How frequently did Shawn Lewis vote with the majority versus in opposition on key council decisions?"
-  - "What specific committees did Shawn Lewis serve on, and what was their attendance record for committee meetings versus general council meetings?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

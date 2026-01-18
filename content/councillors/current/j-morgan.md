@@ -15,9 +15,9 @@ yeaRate: 94.2
 contestedDissentRate: 5.3
 contestedVotes: 5245
 prefillQuestions:
-  - "What is Josh Morgan's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has Josh Morgan served on and in what capacity (chair, vice-chair, or member)?"
-  - "How has Josh Morgan's meeting attendance and committee participation changed over his different terms on council from 2014 to 2025?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

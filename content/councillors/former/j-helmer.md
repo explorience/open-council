@@ -15,9 +15,9 @@ yeaRate: 94.5
 contestedDissentRate: 8.2
 contestedVotes: 5396
 prefillQuestions:
-  - "What was Jesse Helmer's voting attendance rate and how did it compare to other council members during their tenure?"
-  - "Which specific committees did Jesse Helmer serve on and did they hold any leadership positions such as committee chair or vice-chair?"
-  - "What were some of the major municipal issues or initiatives that came before council during Helmer's 2014-2022 service period and how did they vote on key decisions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

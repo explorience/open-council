@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.7
 contestedVotes: 3298
 prefillQuestions:
-  - "What was Mo Salih's voting record on key municipal issues during their time on council?"
-  - "Which specific committees did Mo Salih serve on and what roles did they hold on those committees?"
-  - "How does Mo Salih's meeting attendance rate of 350 meetings compare to other council members who served during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

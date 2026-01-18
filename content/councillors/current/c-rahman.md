@@ -15,9 +15,9 @@ yeaRate: 89.8
 contestedDissentRate: 16.8
 contestedVotes: 1164
 prefillQuestions:
-  - "What is Corrine Rahman's voting record on key municipal issues such as budget approvals, development applications, and bylaw amendments?"
-  - "Which specific committees has Corrine Rahman served on, and what role did they play in committee work and recommendations?"
-  - "How does Corrine Rahman's meeting attendance rate compare to other council members, and were there any notable absences during important votes or discussions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

@@ -271,8 +271,10 @@
     padding-left: 15%; // Ensure user bubbles don't span full width
 
     .message-content {
-      background: var(--secondary);
-      color: #ffffff !important; // Explicit white for contrast on dark bubble
+      // Transparent with border for readability (both light and dark mode)
+      background: transparent;
+      border: 1px solid var(--darkgray);
+      color: var(--dark);
       border-radius: 18px 18px 4px 18px;
       max-width: 100%;
     }
@@ -640,10 +642,8 @@
     }
   }
 
-  .chat-message.user .message-content {
-    background: var(--secondary);
-    color: #ffffff !important;
-  }
+  // User messages keep same style in dark mode (transparent + border)
+  // No override needed - base styles work for both modes
 
   .chat-message.assistant .message-content {
     background: transparent;

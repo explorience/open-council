@@ -15,9 +15,9 @@ yeaRate: 85.3
 contestedDissentRate: 13.6
 contestedVotes: 2074
 prefillQuestions:
-  - "What was Stephen Orser's voting record on major municipal issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what was his role or contribution to each committee's work?"
-  - "How did his meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

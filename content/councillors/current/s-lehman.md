@@ -15,9 +15,9 @@ yeaRate: 93.9
 contestedDissentRate: 10.2
 contestedVotes: 2024
 prefillQuestions:
-  - "What is Steve Lehman's voting attendance rate and how does it compare to other council members during his tenure?"
-  - "Which specific committees has he served on and what roles (chair, vice-chair, member) has he held on these committees?"
-  - "What has been his voting pattern on key municipal issues such as budget approvals, development proposals, and infrastructure projects?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

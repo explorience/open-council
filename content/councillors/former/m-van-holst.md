@@ -15,9 +15,9 @@ yeaRate: 95.6
 contestedDissentRate: 6.6
 contestedVotes: 3893
 prefillQuestions:
-  - "What was Michael van Holst's voting pattern on major municipal issues during his tenure from 2014-2022?"
-  - "Which specific committees did he serve on and what was his level of participation in committee work?"
-  - "How did his attendance rate of 461 meetings compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

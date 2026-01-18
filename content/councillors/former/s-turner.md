@@ -15,9 +15,9 @@ yeaRate: 94.0
 contestedDissentRate: 7.6
 contestedVotes: 3570
 prefillQuestions:
-  - "What was Stephen Turner's voting attendance rate and did he miss any significant votes during his 8-year tenure?"
-  - "Which specific committees did Stephen Turner serve on and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Stephen Turner's meeting attendance compare to other council members during the same period, and what was his participation rate in committee meetings versus regular council sessions?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

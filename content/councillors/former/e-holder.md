@@ -15,9 +15,9 @@ yeaRate: 96.2
 contestedDissentRate: 8.2
 contestedVotes: 777
 prefillQuestions:
-  - "What was Ed Holder's attendance rate as a percentage of total scheduled meetings during his 2018-2022 term?"
-  - "Which specific committees did Ed Holder serve on and what were his primary areas of focus?"
-  - "How did Ed Holder vote on major municipal issues like budget approvals, development proposals, and policy changes during his council term?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

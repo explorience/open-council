@@ -15,9 +15,9 @@ yeaRate: 93.2
 contestedDissentRate: 6.6
 contestedVotes: 4110
 prefillQuestions:
-  - "What was Bill Armstrong's voting pattern on major city budget decisions during his 2012-2018 tenure?"
-  - "Which specific committees did Armstrong serve on, and did he hold any leadership positions such as committee chair or vice-chair?"
-  - "How did Armstrong's attendance rate of 245 meetings compare to other council members serving during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

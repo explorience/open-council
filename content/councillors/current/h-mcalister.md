@@ -15,9 +15,9 @@ yeaRate: 91.8
 contestedDissentRate: 15.1
 contestedVotes: 1217
 prefillQuestions:
-  - "What specific committees has Hadleigh McAlister served on during their time on London City Council?"
-  - "How does their meeting attendance record of 203 meetings compare to other council members during the same period?"
-  - "What has been their voting pattern on key municipal issues such as budget approvals, development proposals, or policy changes?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

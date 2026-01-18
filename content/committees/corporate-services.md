@@ -4,14 +4,10 @@ type: committee
 slug: "corporate-services"
 meetingCount: 280
 prefillQuestions:
-  - "What specific infrastructure projects is the committee currently prioritizing, and what is the timeline for their completion?"
-  - "How does the committee balance infrastructure investment needs with budget constraints, and what criteria do they use to prioritize competing projects?"
-  - "What opportunities exist for public input on the committee's decisions, and how can residents stay informed about upcoming infrastructure and corporate services initiatives that may affect their neighborhoods?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-The Infrastructure and Corporate Services Committee (formerly the Corporate Services Committee) is a standing committee of London City Council that oversees critical municipal operations and administrative functions. Based on the meeting nomenclature showing a transition from "Corporate Services Committee" to "Infrastructure and Corporate Services Committee," this committee appears to have expanded its mandate to include both corporate governance and infrastructure matters. The committee serves as an intermediary body between city administration and full Council, reviewing and making recommendations on matters before they proceed to Council for final approval.
-
-This committee typically handles a broad range of municipal business including corporate policies, administrative procedures, human resources matters, information technology systems, facilities management, and infrastructure planning and maintenance. They likely address issues such as budget allocations for city operations, procurement policies, strategic planning initiatives, technology upgrades, building maintenance, roads and utilities infrastructure, and various corporate governance matters. The committee plays a vital role in ensuring the city's administrative and physical infrastructure operates efficiently and meets the needs of London's residents while maintaining fiscal responsibility and regulatory compliance.
 
 ## Recent Meetings
 

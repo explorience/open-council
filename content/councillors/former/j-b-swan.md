@@ -15,9 +15,9 @@ yeaRate: 90.2
 contestedDissentRate: 9.1
 contestedVotes: 2232
 prefillQuestions:
-  - "What was Joe Swan's voting pattern on major city issues during his 2011-2014 term?"
-  - "Which specific committees did he serve on and what were his key contributions to those committees?"
-  - "How did his attendance rate of 147 meetings compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

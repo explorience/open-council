@@ -2,18 +2,13 @@
  * Generate summary pages for committees, years, and councillors
  *
  * This script scans all meeting content, extracts metadata, and generates
- * AI-powered summary pages for browsing.
+ * browsable index pages.
  *
  * Usage: npx tsx scripts/generate-pages.ts
- *
- * Environment variables:
- * - ANTHROPIC_API_KEY: Required for AI summaries
- * - SKIP_AI: Set to "true" to skip AI generation (for testing)
  */
 
 import fs from "fs/promises"
 import path from "path"
-import Anthropic from "@anthropic-ai/sdk"
 import matter from "gray-matter"
 
 // Import councillor data from shared module
@@ -394,140 +389,15 @@ function groupByCouncillor(meetings: Meeting[]): Map<string, CouncillorData> {
 
 // Note: getCouncillorTerms and isCurrentCouncillor are imported from lib/councillors
 
-// Generate AI summary using Anthropic
-async function generateSummary(
-  anthropic: Anthropic | null,
-  type: "committee" | "year" | "councillor",
-  data: CommitteeData | YearData | CouncillorData,
-  skipAI: boolean
-): Promise<{ summary: string; questions: string[] }> {
-  if (skipAI || !anthropic) {
-    return {
-      summary: `Summary for ${type} will be generated when ANTHROPIC_API_KEY is provided.`,
-      questions: [
-        `What were the key decisions?`,
-        `What topics were discussed most?`,
-        `What were the major votes?`,
-      ],
-    }
-  }
-
-  let prompt = ""
-
-  if (type === "committee") {
-    const d = data as CommitteeData
-    const recentMeetings = d.meetings.slice(0, 20).map(m => m.title).join("\n- ")
-    prompt = `You are summarizing the work of the "${d.name}" of London City Council, Canada.
-
-This committee has held ${d.count} meetings. Recent meetings include:
-- ${recentMeetings}
-
-Write a 2-3 paragraph summary of what this committee typically handles, its role in city governance, and the types of issues it addresses. Be factual and informative.
-
-Then provide 3 contextual questions a citizen might want to ask about this committee's work.
-
-Format your response as:
-SUMMARY:
-[Your summary here]
-
-QUESTIONS:
-1. [Question 1]
-2. [Question 2]
-3. [Question 3]`
-  } else if (type === "year") {
-    const d = data as YearData
-    const breakdown = d.committeeBreakdown.map(c => `${c.name}: ${c.count} meetings`).join("\n- ")
-    prompt = `You are summarizing London City Council's work in ${d.year}.
-
-There were ${d.count} total meetings across committees:
-- ${breakdown}
-
-Write a 2-3 paragraph summary of what a typical year of council work looks like, mentioning the types of decisions councils make (budgets, zoning, infrastructure, etc.).
-
-Then provide 3 contextual questions about this year's council work.
-
-Format your response as:
-SUMMARY:
-[Your summary here]
-
-QUESTIONS:
-1. [Question 1]
-2. [Question 2]
-3. [Question 3]`
-  } else {
-    const d = data as CouncillorData
-    const committees = d.committees.join(", ")
-    const years = d.yearsActive.length > 3
-      ? `${Math.min(...d.yearsActive)}-${Math.max(...d.yearsActive)}`
-      : d.yearsActive.join(", ")
-    prompt = `You are summarizing the council participation of ${d.name} on London City Council, Canada.
-
-They have attended ${d.count} meetings.
-Committees served on: ${committees}
-Years active: ${years}
-
-Write a 1-2 paragraph factual summary of their council participation based on this data. Do not make up information about their policies or positions - just describe their participation.
-
-Then provide 3 questions someone might ask about their voting record or participation.
-
-Format your response as:
-SUMMARY:
-[Your summary here]
-
-QUESTIONS:
-1. [Question 1]
-2. [Question 2]
-3. [Question 3]`
-  }
-
-  try {
-    const response = await anthropic.messages.create({
-      model: "claude-sonnet-4-20250514",
-      max_tokens: 1024,
-      messages: [{ role: "user", content: prompt }],
-    })
-
-    const text = response.content[0].type === "text" ? response.content[0].text : ""
-
-    // Parse response
-    const summaryMatch = text.match(/SUMMARY:\s*([\s\S]*?)(?=QUESTIONS:|$)/i)
-    const questionsMatch = text.match(/QUESTIONS:\s*([\s\S]*)/i)
-
-    const summary = summaryMatch ? summaryMatch[1].trim() : text
-    const questions: string[] = []
-
-    if (questionsMatch) {
-      const qText = questionsMatch[1]
-      const qMatches = qText.matchAll(/\d+\.\s*(.+)/g)
-      for (const m of qMatches) {
-        questions.push(m[1].trim())
-      }
-    }
-
-    return { summary, questions: questions.length > 0 ? questions : [
-      "What were the key decisions?",
-      "What topics were discussed most?",
-      "What were the major votes?",
-    ]}
-  } catch (error) {
-    console.error(`Error generating summary for ${type}:`, error)
-    return {
-      summary: `Summary generation failed. Please try again later.`,
-      questions: [
-        "What were the key decisions?",
-        "What topics were discussed most?",
-        "What were the major votes?",
-      ],
-    }
-  }
-}
+// Default questions for chat prefill
+const DEFAULT_QUESTIONS = [
+  "What were the key decisions?",
+  "What topics were discussed most?",
+  "What were the major votes?",
+]
 
 // Generate committee page markdown
-function generateCommitteePage(
-  data: CommitteeData,
-  summary: string,
-  questions: string[]
-): string {
+function generateCommitteePage(data: CommitteeData): string {
   const recentMeetings = data.meetings.slice(0, 10)
   const meetingsList = recentMeetings
     .map(m => `- [${m.title}](</${m.slug}>) - ${formatMeetingDate(m.date)}`)
@@ -539,10 +409,8 @@ type: committee
 slug: "${data.slug}"
 meetingCount: ${data.count}
 prefillQuestions:
-${questions.map(q => `  - "${q}"`).join("\n")}
+${DEFAULT_QUESTIONS.map(q => `  - "${q}"`).join("\n")}
 ---
-
-${summary}
 
 ## Recent Meetings
 
@@ -553,11 +421,7 @@ ${data.count > 10 ? `\n[View all ${data.count} meetings →](#)\n` : ""}
 }
 
 // Generate year page markdown
-function generateYearPage(
-  data: YearData,
-  summary: string,
-  questions: string[]
-): string {
+function generateYearPage(data: YearData): string {
   const breakdown = data.committeeBreakdown
     .map(c => `| ${c.name} | ${c.count} |`)
     .join("\n")
@@ -572,10 +436,8 @@ title: "${data.year}"
 type: year
 meetingCount: ${data.count}
 prefillQuestions:
-${questions.map(q => `  - "${q}"`).join("\n")}
+${DEFAULT_QUESTIONS.map(q => `  - "${q}"`).join("\n")}
 ---
-
-${summary}
 
 ## Meetings by Committee
 
@@ -592,8 +454,6 @@ ${meetingsList}
 // Generate councillor page markdown with verified term data
 function generateCouncillorPage(
   data: CouncillorData,
-  _summary: string,
-  questions: string[],
   canonicalName: string,
   voteStats: VoteStats | null,
   stats: CouncillorStatsData | null
@@ -788,7 +648,7 @@ meetingCount: ${data.count}
 yearsActive: "${yearsRange}"
 isCurrent: ${isCurrent}${votesFrontmatter}${statsFrontmatter}
 prefillQuestions:
-${questions.map(q => `  - "${q}"`).join("\n")}
+${DEFAULT_QUESTIONS.map(q => `  - "${q}"`).join("\n")}
 ---
 
 ## Terms of Service
@@ -858,16 +718,6 @@ async function main() {
   console.log("🏛️ Open Council Page Generator\n")
 
   const contentDir = path.join(process.cwd(), "content")
-  const skipAI = process.env.SKIP_AI === "true"
-
-  // Initialize Anthropic client if API key is available
-  let anthropic: Anthropic | null = null
-  if (process.env.ANTHROPIC_API_KEY && !skipAI) {
-    anthropic = new Anthropic()
-    console.log("✓ Anthropic API key found, will generate AI summaries")
-  } else {
-    console.log("⚠ No ANTHROPIC_API_KEY found or SKIP_AI=true, using placeholder summaries")
-  }
 
   // Step 1: Scan meetings
   console.log("\n📁 Scanning meetings...")
@@ -896,8 +746,7 @@ async function main() {
   // Step 4: Generate committee pages
   console.log("\n📝 Generating committee pages...")
   for (const [slug, data] of committees) {
-    const { summary, questions } = await generateSummary(anthropic, "committee", data, skipAI)
-    const content = generateCommitteePage(data, summary, questions)
+    const content = generateCommitteePage(data)
     const filePath = path.join(committeesDir, `${slug}.md`)
     await fs.writeFile(filePath, content)
     console.log(`   ✓ ${data.name}`)
@@ -906,8 +755,7 @@ async function main() {
   // Step 5: Generate year pages
   console.log("\n📝 Generating year pages...")
   for (const [year, data] of years) {
-    const { summary, questions } = await generateSummary(anthropic, "year", data, skipAI)
-    const content = generateYearPage(data, summary, questions)
+    const content = generateYearPage(data)
     const filePath = path.join(yearsDir, `${year}.md`)
     await fs.writeFile(filePath, content)
     console.log(`   ✓ ${year}`)
@@ -945,10 +793,9 @@ async function main() {
     const isCurrent = isCurrentCouncillor(canonicalName)
     const targetDir = isCurrent ? currentDir : formerDir
 
-    const { summary, questions } = await generateSummary(anthropic, "councillor", data, skipAI)
     const voteStats = await loadVoteStats(data.slug)
     const stats = await loadCouncillorStats(data.slug)
-    const content = generateCouncillorPage(data, summary, questions, canonicalName, voteStats, stats)
+    const content = generateCouncillorPage(data, canonicalName, voteStats, stats)
     const filePath = path.join(targetDir, `${data.slug}.md`)
     await fs.writeFile(filePath, content)
 

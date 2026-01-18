@@ -4,14 +4,10 @@ type: committee
 slug: "civic-works"
 meetingCount: 203
 prefillQuestions:
-  - "How can residents provide input or raise concerns about specific infrastructure issues like road repairs, traffic problems, or water service disruptions to the Civic Works Committee?"
-  - "What is the typical timeline and approval process for major infrastructure projects, from initial proposal through the committee to final implementation?"
-  - "How does the committee prioritize competing infrastructure needs across different neighborhoods, and what criteria are used to determine which projects receive funding first?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
-
-The Civic Works Committee is a standing committee of London City Council that serves as a key component of the city's governance structure, handling infrastructure and public works matters that are essential to the daily functioning of the municipality. This committee typically oversees and makes recommendations on a wide range of civic infrastructure projects including road construction and maintenance, water and wastewater systems, public transit initiatives, waste management programs, and other municipal engineering services. With 203 meetings held to date, the committee demonstrates an active and ongoing role in addressing the city's physical infrastructure needs.
-
-As part of London's committee system, the Civic Works Committee reviews staff reports, evaluates project proposals, and makes recommendations to City Council on matters requiring policy direction or budget approval. The committee's work directly impacts residents through decisions on capital projects, service levels, and infrastructure investments that affect everything from road quality and traffic flow to water service reliability and environmental sustainability initiatives. Their deliberations help shape the city's long-term infrastructure planning and ensure that public works projects align with community needs and municipal priorities.
 
 ## Recent Meetings
 

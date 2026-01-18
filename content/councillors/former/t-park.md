@@ -15,9 +15,9 @@ yeaRate: 95.8
 contestedDissentRate: 3.1
 contestedVotes: 3458
 prefillQuestions:
-  - "What was Tanya Park's voting record on major budget decisions during her 2014-2018 term?"
-  - "Which specific committees did she serve on and what roles did she hold within those committees?"
-  - "How did her attendance record compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service

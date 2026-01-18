@@ -194,19 +194,22 @@
     justify-content: flex-end;
     padding-left: 15%; // Ensure user bubbles don't span full width
 
-    .fpc-message-content {
-      // Light mode: transparent with border for readability
-      background: transparent;
-      border: 1px solid var(--darkgray);
-      color: var(--dark);
-      border-radius: 18px 18px 4px 18px;
-      max-width: 100%;
-    }
-
     @media (max-width: 600px) {
       padding-left: 10%;
     }
   }
+}
+
+// Light mode user messages - explicit selector for higher specificity
+:root:not([saved-theme="dark"]) .fpc-message.user .fpc-message-content {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: 2px solid var(--darkgray) !important;
+  color: var(--dark) !important;
+  border-radius: 18px 18px 4px 18px;
+}
+
+.fpc-message {
 
   &.assistant {
     justify-content: flex-start;

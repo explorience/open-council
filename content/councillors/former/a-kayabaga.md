@@ -15,9 +15,9 @@ yeaRate: 95.2
 contestedDissentRate: 16.9
 contestedVotes: 497
 prefillQuestions:
-  - "What was Arielle Kayabaga's voting record on key municipal issues during her 2018-2021 term?"
-  - "Which specific committees did she serve on and what were her roles or contributions to those committees?"
-  - "How did her meeting attendance rate compare to other council members during the same period?"
+  - "What were the key decisions?"
+  - "What topics were discussed most?"
+  - "What were the major votes?"
 ---
 
 ## Terms of Service
