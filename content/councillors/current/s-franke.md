@@ -2,7 +2,7 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 179
+meetingCount: 181
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3550
@@ -213,8 +213,10 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (179 total)
+## Recent Meetings (181 total)
 
+- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
+- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
 - [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025
@@ -223,5 +225,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025
 - [16th Council Meeting](</months/2025-10/2025-10-14 16th Council Meeting>) - Tue Oct 14 2025
 - [15th Special Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-08 15th Special Meeting of the Community and Protective Services Committee>) - Wed Oct 8 2025
-- [12th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-07 12th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 7 2025
-- [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-06 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 6 2025
