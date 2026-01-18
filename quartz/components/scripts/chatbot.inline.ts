@@ -1,5 +1,6 @@
 // Client-side chatbot functionality
 import { Marked } from "marked"
+import DOMPurify from "dompurify"
 
 interface Message {
   role: "user" | "assistant"
@@ -24,7 +25,8 @@ const renderer = {
 marked.use({ renderer })
 
 function renderMarkdown(content: string): string {
-  return marked.parse(content) as string
+  // Sanitize HTML output to prevent XSS attacks
+  return DOMPurify.sanitize(marked.parse(content) as string)
 }
 
 function createMessageElement(role: "user" | "assistant", content: string): HTMLElement {
