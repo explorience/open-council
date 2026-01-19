@@ -5,7 +5,13 @@ import script from "./scripts/unifiedHeader.inline"
 
 const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
   return (
-    <header class="unified-header">
+    <>
+      {/* Skip links for keyboard navigation */}
+      <div class="skip-links" role="navigation" aria-label="Skip links">
+        <a href="#main-content">Skip to main content</a>
+        <a href="#hero-chat-input">Skip to chat</a>
+      </div>
+      <header class="unified-header">
       <div class="header-left">
         <a href="/" class="header-logo">
           Open Council <span class="beta-tag">BETA</span>
@@ -90,6 +96,7 @@ const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
         </div>
       </nav>
     </header>
+    </>
   )
 }
 

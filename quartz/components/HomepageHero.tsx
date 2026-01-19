@@ -75,11 +75,12 @@ export default ((userOpts?: Partial<HomepageHeroOptions>) => {
             <svg class="chat-input-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
               <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
             </svg>
+            <label for="hero-chat-input" class="sr-only">Type your question</label>
             <textarea
+              id="hero-chat-input"
               class="chat-input"
               placeholder={opts.chatPlaceholder}
               rows={1}
-              aria-label="Type your question"
             ></textarea>
             <button class="chat-send-btn" aria-label="Send message">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">

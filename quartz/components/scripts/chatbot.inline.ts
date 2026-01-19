@@ -183,6 +183,59 @@ function autoResize(textarea: HTMLTextAreaElement) {
   textarea.style.height = textarea.scrollHeight + "px"
 }
 
+// Focus trap for modal accessibility
+function trapFocus(container: HTMLElement) {
+  const focusableElements = container.querySelectorAll<HTMLElement>(
+    'button:not([disabled]), textarea:not([disabled]), input:not([disabled]), [tabindex]:not([tabindex="-1"])'
+  )
+  const firstElement = focusableElements[0]
+  const lastElement = focusableElements[focusableElements.length - 1]
+
+  container.addEventListener("keydown", (e) => {
+    if (e.key !== "Tab") return
+
+    if (e.shiftKey) {
+      // Shift + Tab
+      if (document.activeElement === firstElement) {
+        e.preventDefault()
+        lastElement?.focus()
+      }
+    } else {
+      // Tab
+      if (document.activeElement === lastElement) {
+        e.preventDefault()
+        firstElement?.focus()
+      }
+    }
+  })
+}
+
+// Set inert on background content when modal is open
+function setBackgroundInert(inert: boolean) {
+  const pageContent = document.querySelector(".page") as HTMLElement
+  const header = document.querySelector(".unified-header") as HTMLElement
+
+  if (pageContent) {
+    if (inert) {
+      pageContent.setAttribute("inert", "")
+      pageContent.setAttribute("aria-hidden", "true")
+    } else {
+      pageContent.removeAttribute("inert")
+      pageContent.removeAttribute("aria-hidden")
+    }
+  }
+
+  if (header) {
+    if (inert) {
+      header.setAttribute("inert", "")
+      header.setAttribute("aria-hidden", "true")
+    } else {
+      header.removeAttribute("inert")
+      header.removeAttribute("aria-hidden")
+    }
+  }
+}
+
 document.addEventListener("nav", () => {
   const chatbot = document.querySelector(".chatbot") as HTMLElement
   if (!chatbot) return
@@ -205,18 +258,40 @@ document.addEventListener("nav", () => {
     updateMaximizeButton(true)
   }
 
+  let previousFocus: HTMLElement | null = null
+
+  // Initialize focus trap on container
+  trapFocus(container)
+
   // Toggle chatbot
   toggle?.addEventListener("click", () => {
     const isHidden = container.style.display === "none"
-    container.style.display = isHidden ? "flex" : "none"
     if (isHidden) {
+      previousFocus = document.activeElement as HTMLElement
+      container.style.display = "flex"
+      setBackgroundInert(true)
       input?.focus()
+
+      // Announce to screen readers
+      const announcement = document.createElement("div")
+      announcement.setAttribute("role", "status")
+      announcement.setAttribute("aria-live", "polite")
+      announcement.className = "sr-only"
+      announcement.textContent = "Chat opened. Type your message."
+      document.body.appendChild(announcement)
+      setTimeout(() => announcement.remove(), 1000)
+    } else {
+      container.style.display = "none"
+      setBackgroundInert(false)
+      previousFocus?.focus()
     }
   })
 
   // Close chatbot
   closeBtn?.addEventListener("click", () => {
     container.style.display = "none"
+    setBackgroundInert(false)
+    previousFocus?.focus()
   })
 
   // Maximize/minimize chatbot
@@ -277,6 +352,8 @@ document.addEventListener("nav", () => {
         updateMaximizeButton(false)
       } else {
         container.style.display = "none"
+        setBackgroundInert(false)
+        previousFocus?.focus()
       }
     }
   })
