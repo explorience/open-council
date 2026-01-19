@@ -27,6 +27,57 @@ body {
   max-width: 100vw;
 }
 
+// Screen reader only - visually hidden but accessible to assistive technology
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+// Global focus styles for accessibility
+:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+// Remove default focus outline when not using keyboard
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+// Skip links for keyboard navigation
+.skip-links {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+
+  a {
+    position: absolute;
+    left: -10000px;
+    top: 0;
+    padding: 0.75rem 1.5rem;
+    background: var(--secondary);
+    color: var(--light);
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 0 0 4px 0;
+    white-space: nowrap;
+
+    &:focus {
+      left: 0;
+      outline: 2px solid var(--tertiary);
+      outline-offset: 2px;
+    }
+  }
+}
+
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;

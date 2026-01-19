@@ -29,7 +29,7 @@ export default ((userOpts?: Partial<ChatBotOptions>) => {
           <span class="chatbot-badge" style="display: none;">1</span>
         </button>
 
-        <div class="chatbot-container" style="display: none;">
+        <div class="chatbot-container" role="dialog" aria-modal="true" aria-label="Chat with AI assistant" style="display: none;">
           <div class="chatbot-header">
             <h3>{opts.title}</h3>
             <div class="chatbot-header-buttons">
@@ -50,7 +50,7 @@ export default ((userOpts?: Partial<ChatBotOptions>) => {
             </div>
           </div>
 
-          <div class="chatbot-messages">
+          <div class="chatbot-messages" role="log" aria-live="polite" aria-label="Chat messages">
             <div class="chatbot-message assistant">
               <div class="message-content">
                 <p>Hi! I'm here to help you explore London City Council meetings. Ask me anything about votes, decisions, councillors, or meeting records.</p>
@@ -59,11 +59,12 @@ export default ((userOpts?: Partial<ChatBotOptions>) => {
           </div>
 
           <div class="chatbot-input-container">
+            <label for="chatbot-input" class="sr-only">Type your message</label>
             <textarea
+              id="chatbot-input"
               class="chatbot-input"
               placeholder={opts.placeholder}
               rows={1}
-              aria-label="Chat input"
             ></textarea>
             <button class="chatbot-send" aria-label="Send message">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">

@@ -17,9 +17,10 @@ document.addEventListener("nav", () => {
     navItems?.classList.toggle("expanded", !isExpanded)
   })
 
-  // Handle dropdown toggles
+  // Handle dropdown toggles with arrow key navigation
   dropdowns.forEach((dropdown) => {
     const trigger = dropdown.querySelector(".nav-dropdown-trigger") as HTMLButtonElement
+    const menu = dropdown.querySelector(".nav-dropdown-menu") as HTMLElement
 
     trigger?.addEventListener("click", (e) => {
       e.stopPropagation()
@@ -33,6 +34,72 @@ document.addEventListener("nav", () => {
 
       // Toggle this dropdown
       trigger.setAttribute("aria-expanded", isOpen ? "false" : "true")
+
+      // Focus first menu item when opening
+      if (!isOpen && menu) {
+        const firstItem = menu.querySelector(".nav-dropdown-item") as HTMLElement
+        setTimeout(() => firstItem?.focus(), 10)
+      }
+    })
+
+    // Arrow key navigation for dropdown trigger
+    trigger?.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowDown" || e.key === "Enter" || e.key === " ") {
+        if (e.key === "ArrowDown") e.preventDefault()
+        const isOpen = trigger.getAttribute("aria-expanded") === "true"
+
+        if (!isOpen) {
+          // Close all other dropdowns
+          dropdowns.forEach((d) => {
+            const t = d.querySelector(".nav-dropdown-trigger") as HTMLButtonElement
+            t?.setAttribute("aria-expanded", "false")
+          })
+          trigger.setAttribute("aria-expanded", "true")
+        }
+
+        if (menu) {
+          const firstItem = menu.querySelector(".nav-dropdown-item") as HTMLElement
+          setTimeout(() => firstItem?.focus(), 10)
+        }
+      } else if (e.key === "ArrowUp") {
+        e.preventDefault()
+        const isOpen = trigger.getAttribute("aria-expanded") === "true"
+
+        if (isOpen && menu) {
+          const items = menu.querySelectorAll(".nav-dropdown-item")
+          const lastItem = items[items.length - 1] as HTMLElement
+          lastItem?.focus()
+        }
+      }
+    })
+
+    // Arrow key navigation within the menu
+    menu?.addEventListener("keydown", (e) => {
+      const items = Array.from(menu.querySelectorAll(".nav-dropdown-item")) as HTMLElement[]
+      const currentIndex = items.indexOf(document.activeElement as HTMLElement)
+
+      if (e.key === "ArrowDown") {
+        e.preventDefault()
+        const nextIndex = currentIndex < items.length - 1 ? currentIndex + 1 : 0
+        items[nextIndex]?.focus()
+      } else if (e.key === "ArrowUp") {
+        e.preventDefault()
+        if (currentIndex <= 0) {
+          // Move focus back to trigger
+          trigger?.focus()
+        } else {
+          items[currentIndex - 1]?.focus()
+        }
+      } else if (e.key === "Home") {
+        e.preventDefault()
+        items[0]?.focus()
+      } else if (e.key === "End") {
+        e.preventDefault()
+        items[items.length - 1]?.focus()
+      } else if (e.key === "Escape") {
+        trigger?.setAttribute("aria-expanded", "false")
+        trigger?.focus()
+      }
     })
   })
 

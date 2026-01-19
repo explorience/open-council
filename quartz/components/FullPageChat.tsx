@@ -20,7 +20,7 @@ export default ((userOpts?: Partial<FullPageChatOptions>) => {
     const opts = { ...defaultOptions, ...userOpts }
 
     return (
-      <div class="full-page-chat" data-api-url={opts.apiUrl} style="display: none;">
+      <div class="full-page-chat" role="dialog" aria-modal="true" aria-label="Full page chat with AI assistant" data-api-url={opts.apiUrl} style="display: none;">
         {/* Chat header */}
         <header class="fpc-header" aria-label="Chat navigation">
           <button class="fpc-back-btn" aria-label="Close chat and return to page">
@@ -64,11 +64,12 @@ export default ((userOpts?: Partial<FullPageChatOptions>) => {
         {/* Input area */}
         <div class="fpc-input-area">
           <div class="fpc-input-wrapper">
+            <label for="fpc-input" class="sr-only">Type your question</label>
             <textarea
+              id="fpc-input"
               class="fpc-input"
               placeholder={opts.placeholder}
               rows={1}
-              aria-label="Type your question"
             ></textarea>
             <button class="fpc-send-btn" aria-label="Send message">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">

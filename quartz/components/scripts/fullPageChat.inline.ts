@@ -72,6 +72,56 @@ function autoResize(textarea: HTMLTextAreaElement) {
   textarea.style.height = Math.min(textarea.scrollHeight, 200) + "px"
 }
 
+// Focus trap for modal accessibility
+function trapFocus(container: HTMLElement) {
+  const focusableSelector =
+    'button:not([disabled]), textarea:not([disabled]), input:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])'
+
+  container.addEventListener("keydown", (e) => {
+    if (e.key !== "Tab") return
+
+    const focusableElements = container.querySelectorAll<HTMLElement>(focusableSelector)
+    const firstElement = focusableElements[0]
+    const lastElement = focusableElements[focusableElements.length - 1]
+
+    if (e.shiftKey) {
+      // Shift + Tab
+      if (document.activeElement === firstElement) {
+        e.preventDefault()
+        lastElement?.focus()
+      }
+    } else {
+      // Tab
+      if (document.activeElement === lastElement) {
+        e.preventDefault()
+        firstElement?.focus()
+      }
+    }
+  })
+}
+
+// Set inert on background content when modal is open
+function setBackgroundInert(inert: boolean) {
+  const pageContent = document.querySelector(".page") as HTMLElement
+  const header = document.querySelector(".unified-header") as HTMLElement
+  const skipLinks = document.querySelector(".skip-links") as HTMLElement
+  const homepageHero = document.querySelector(".homepage-hero") as HTMLElement
+
+  const elements = [pageContent, header, skipLinks, homepageHero].filter(Boolean)
+
+  elements.forEach((el) => {
+    if (el) {
+      if (inert) {
+        el.setAttribute("inert", "")
+        el.setAttribute("aria-hidden", "true")
+      } else {
+        el.removeAttribute("inert")
+        el.removeAttribute("aria-hidden")
+      }
+    }
+  })
+}
+
 // Copy functionality
 function copyToClipboard(text: string, button: HTMLButtonElement) {
   navigator.clipboard.writeText(text).then(() => {
@@ -132,11 +182,15 @@ document.addEventListener("nav", () => {
   let isStreaming = false
   let previousFocus: HTMLElement | null = null
 
+  // Initialize focus trap
+  trapFocus(chat)
+
   // Open chat
   function openChat() {
     previousFocus = document.activeElement as HTMLElement
     chat.style.display = "flex"
     document.body.style.overflow = "hidden"
+    setBackgroundInert(true)
 
     setTimeout(() => {
       input?.focus()
@@ -157,6 +211,7 @@ document.addEventListener("nav", () => {
   function closeChat() {
     chat.style.display = "none"
     document.body.style.overflow = ""
+    setBackgroundInert(false)
 
     // Return focus to trigger button or previous focus
     setTimeout(() => {
