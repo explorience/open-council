@@ -717,4 +717,143 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:29 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (49 minutes)</summary>
+
+Okay, thank you, please be seated. So this is the 19th meeting of council. This is a special council meeting related to the municipal budget. I'm gonna start with the land acknowledgement.
+
+We acknowledge that we are gathered today on the traditional lands of the Anishinaabak, Haudenosaunee, Lani Peiwak, and Adawan drawn peoples. We honor and respect the history and languages and culture of the diverse indigenous people who call this territory home. We acknowledge all of the trees that are specific to this area. The two row wampum bell tree of the Haudenosaunee Confederacy, so we're covered in chain.
+
+Beaver hunting grounds, the Haudenosaunee Nanfant Treaty of 1701, the McKee Treaty of 1790, London Township Treaty of 1796, the Huron track treaty of 1827 with the Anishinaabak, and the dish with one spoon covenant wampum of the Anishinaabak and Haudenosaunee. Three indigenous nations that are neighbors to London are the Chippewaas of the Thames First Nation, Oneida Nation of the Thames, and the Muncie Delaware Nation who all continue to live as sovereign nations with individual and unique languages, cultures, and customs. The City of London is also committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact council agenda at London.ca 519-661-2489, extension 2425.
+
+With that, we do not have an O Canada performer, but we do have a recording, and so I'll just ask you to rise for the playing of the National Anthem. Please be seated. We're on to disclosures of pecuniary interest. I looked for any colleagues who have any disclosures, seeing none.
+
+There are no recognitions today. There are no reviews of matters from a confidential matters to be considered in public. We have no closed session. We have no minutes to sign.
+
+We have one communication. I have a motion to refer that the relevant part of the agenda, which is in 8.3. So I look for a mover for that. Councilor Ferra, seconded by Councilor Vamerebergen, any discussion on the referral to that point in the agenda?
+
+Okay, we'll open that for voting. Closing the vote, motion carries 14 to zero. Great, we have no emotions to which notice was given. What we do have is three reports, and I'll just outline how this is gonna work.
+
+First, Councilor blows of the Budget Chair had to be pulled away at the last moment. The Vice Chair, Councilor Lehman, is going to present the three reports. Just as a quick overview, the first report is the tabling of the budget or report. The second report is the public participation meeting.
+
+The third report is the work we did last week, which has the 16 votes that we had. This includes the amendments that were made, but also the things that we basically just received. I know one Councilor would like to pull at least one of those items, which is item 16. Councilor Lehman, if you could make a note of that.
+
+And at that time, we can consider an amendment and alternate path on item 16 under the 8.3 report. So that's how we'll proceed. And then I'll have Councilor Lehman present the first of the three reports. Thank you, Mayor.
+
+I'd like to present the fourth report of the Budget Committee. Okay, and this was the tabling of the budget report, so I'll look for anybody who'd like any of those items dealt with separately. Seeing none, any comments on this report? Okay, we'll open that for voting.
+
+E-Scribe issue, so I will vote yes. noted, thank you. Closing the vote, motion carries 14-0. Councilor Lehman.
+
+Thank you, Mayor. And I will put on the floor of the fifth report of the Budget Committee. Perfect, this is the public participation meeting. There's really only one item.
+
+Any discussion on this one? Seeing none, we'll open that for voting. Closing the vote, motion carries 14-0. Go ahead, Councilor Lehman.
+
+Thank you, and I will now put the sixth report of the Budget Committee on the floor. Yes, and just for colleagues' reference, you'll see one through nine are the actual amendments that were made, 10 through 16 were the other votes we considered and did not proceed with amendments, but this was structured this way, so that like Councilor McAllister would like to do to make a change to one of those things that we didn't proceed on. So right now, all of it's on the floor with the exception of 16. Would anybody like anything else dealt with separately?
+
+Councillor Frank. Thank you, can I vote against number eight? Yes, we could deal with eight separate, yes. Anything else anybody wants separately?
+
+All of that then please. Oh, I couldn't quite make that out, Councillor Stevenson. 11 please. 11, sure.
+
+Which is the health unit. Yep, we can do that separate. All right, anything else? Colleagues, we'll like dealt with separately.
+
+Okay, I don't see any, so I'm gonna let Councillor Lehman craft a motion with what's left. Okay, so what I'd like to do is I'd like to put items one through seven, nine, 10, 12, 13, 14, and 15. I'll move those. Okay, those are on the floor.
+
+Any discussion on any of those items? Okay, seeing none, we will open that for voting. Close in the vote, motion carries 14 to zero. Go ahead, Councillor Lehman.
+
+Thank you, I'd now like to put on item number eight. That was bold. Okay, that's item number eight, 4.9. Any discussion on that?
+
+Okay, seeing none, we'll open that for voting. Close in the vote, motion carries 11 to three. Go ahead, Councillor Lehman. I'd like to now put item 11 regarding 4.3, budget KSP2 on the floor.
+
+Okay, that's on the floor. Any discussion? Okay, seeing none, then we'll open item 11 for voting. Councillor Brad Nairberg.
+
+Close in the vote, motion carries 11 to three. Councillor Lehman. Finally, I'd like to put on number 16 on the floor, understanding there's an amendment coming to that. Okay, that's on the floor, just give me one second.
+
+Okay, so that's on the floor. Councillor McAllister has an amendment to this. Councillor McAllister, I can put it up on the screen if you need to read it out, unless you have it with you. If you refresh, it should be up.
+
+I've offered to second it so that we'll proceed. Okay, thank you, through the mayor. Yes, thank you for seconding. I can read it out, colleagues, so that the mayor's table 2026 annual budget update be amended in order to fund the Housing Stability Bank program, 250,000 for 2026 from the Community Investment Reserve Fund, 2026 operating expenditures, 250,000, 2026 levy zero, and capital expenditures for 26, also zero.
+
+It being noted that future funding for the Housing Stability Bank can be brought forward for debate of the 2027 update, and that the level of funding for the next multi-year budget may warrant review based on future demand for this program. Oh, and there's also it being noted that correspondences received from the Salvation Army. Okay, so that's on the floor, seconded by myself. We can have a debate and discussion on this.
+
+Any debate, would you like to proceed, Councillor McAllister? Yeah, thank you, and through the mayor, appreciate the opportunity to bring this back, recognizing the conversation we had at the Budget Committee. I still think there's a lot of value in this, understanding that this would just be for 2026, but I do see the need in this community. I have residents who have personally accessed this program, and they are oversubscribed as is, with the communication received from the Salvation Army.
+
+Any additional funding that they can receive, we know there's a need, and then there will be used. So I am happy to put this forward. Again, listening to the conversation we had at the committee, I know there was desire for communication from the Salvation Army to provide the information in terms of the program and its usage to date. Also recognizing that this isn't necessarily something that we as a municipality cannot handle all of the issues around housing, but this is one area where we can make a difference.
+
+This is a proactive program. We're keeping people housed. We spend a lot of time at Council talking about homelessness, but those are reactive measures, and this is a proactive step that we can do right now for next year to keep people housed. So I really encourage my colleagues to support this.
+
+It is just for the one year, it is from the Reserve Fund, also recognizing what staff said in terms of not bringing the Reserve Fund below a level that they don't feel is appropriate based on our policy. I think that this is a path forward, which I hope I can get wider support from, based on what we discussed at committee. Again, I just want to stress the importance of this program. It is needed, the current environment that we're facing, especially with the rental market, there is a need in the community for this, not just in my area, but across the city.
+
+This is something we can do, and I really encourage my Council colleagues to support it. Thank you. I have Council Raman and then myself on the speaker's list. Thank you and through you just wanted to say, I appreciate the amendment in the discussion that we're having, I'm willing to get behind.
+
+This is a 2026 budget amendment coming from the Reserve Fund. I was a little bit challenged on that one. If it was for 2027, just because of the position, it put the Reserve Fund in as well. And I had a good back and forth with the Salvation Army about this discussion as well, and really did appreciate the communication coming forward from them to give us some more information and ways to interpret that information.
+
+What I think it's important for the community to understand as well about this is when they came to us at first with the initial budget amendment in the multi-year budget, they asked for additional funds. Then later, there were some changes in terms of how they receive funding and where they can allocate funding as it relates to electricity costs. So the Ontario Energy Board made a decision that anybody that was in electricity rears needed to be supported through funding at the Housing Stability Bank, which helped to free up more dollars for their programming as well through London Hydro and the OEB. So obviously there is considerable need, which is why that additional pool of money and this, they're still running out every month.
+
+So happy to support this and hoping for a report later on at Community and Protective Services to get some more information about how these funds will be used and any changes to the program. Thank you. Great, I'll turn the chair over to Deputy Mayor Lewis 'cause I have myself on this speaker's list. Go ahead Mayor Morgan.
+
+Thank you, I will be brief on this one. I'm gonna support Councilor McAllister's amendment, which is why I was willing to second it. I appreciate his dialogue on this. I also appreciate the approach that he took.
+
+He listened to what colleagues said around the table. The organization reached out, they provided additional context. I think he was also respectful of the debate in proposing the amendment in the way that he did, using a reserve fund that Council does have discretion and control over, being respectful of the balance and the implications of that, and also doing it just for 2026, which allows future decision making to be made down the road. I think all of those pieces together was a very respectful and appropriate way to approach the amendment on a program that we know is important to the city, and I will emphasize, was not a program that we cut, but we did not support an expansion to it at the start of the multi-year budget.
+
+I think this modest expansion to it will help some people in the interim, as we continue to advocate for the other things, I think, across the system, including at the provincial level, that can aid those who are in precarious housing situations and need some support. So I think a good amendment, I'm fully behind it, and I wanna thank the Councilor for the approach that he took to this amendment. Thank you, Mayor Morgan, returning the chair to you. Sure, and I have you next on this speaker's list, so you go ahead.
+
+You do, so I'm gonna say that I will be reluctantly supporting this, and I say reluctantly for multiple reasons. I don't think the way this came before us in the Budget Committee was actually appropriate, and I don't think that, for me, the communication from the Salvation Army after the fact doesn't hold weight. Any organization could have written a letter after the fact and said, yes, of course, we'll take the money. However, I do appreciate the approach Councilor McAllister has taken to use this from a reserve fund for one year as an emergency measure from a reserve fund that we have Council discretion over.
+
+I would not support a further expansion of this program on the property tax levy. I don't think it's good to take from one household to do support on rental for another household, but I do acknowledge and Councilor McAllister's comments about the need out there. Yes, it's there. I disagree that it's proactive.
+
+I think this continues to be a reactive situation. I think the proactive situation is what we are seeing out there in the community. The Vision SoHo redevelopment that will start welcoming tenants to new affordable housing units in 2026. The partnerships with organizations like St.
+
+Vincent DePaul, Building and Councilor Cuddy's Ward, the work that is happening with LMCH building new builds. Housing is the answer, not income redistribution. So for me, I'm supporting this reluctantly, but I'm supporting it as an interim step from a reserve fund that we have, as the Mayor mentioned, discretionary control over. I would not support this if it was permanent, if it was coming on the property tax levy.
+
+I think this is a year by year approach to things, but for me, the long-term solution to housing affordability is housing inventory on the market and affordable housing in the 80% AMR, the RGI and the highly supportive housing realms. We know Elmwood Place is underway on highly supportive. As another example, the Home for Heroes project at Parkwood Hospital for Veterans is underway. Those are the initiatives that I think we should be making the long-term investments in to address this problem.
+
+Not drawing from reserve funds for temporary relief for on an individual basis. It's housing inventory, not income supports that the municipality can deliver. That said, provincially income supports ODSP and OW in particular and the shelter allowance, still extremely inadequate. In the London market and in every other market and every other major urban center across this province, and arguably, you could say the same thing about the assistance programs across this country.
+
+You can't get a place for $500 a month in the city of London, Ontario. And so ODSP and OW rates have to be addressed, but that is not something we can do. So as an interim step for the short-term, I'll support this, but I wanted to lay that out now because should this group or a variation of this group that I'm a part of be here next year, I will not be supporting a continuing add to this fund every year. We've seen what happened in other municipalities were in Windsor, it's bloomed to $2.6 million a year because we will never be able to backfill the entire amount on the property tax base.
+
+So I will support it this time, and I will say credit due to Councilor McAllister because I was not originally inclined to support this, but with the amendments he's made and brought forward, and the approach that he's taken for the source of funding, I can support it on this one-off basis. Okay, any other speakers to this? Go ahead, Councilor Trossa. Thank you, Mayor and through you.
+
+I'm not going to start the debate on what our budget deliberations are gonna be. Next year, I'm sure we're gonna have a very robust discussion about this. Many of the budget items that we look at target one group or one set of stakeholder holders at the expense of all the taxpayers. So I don't think that's a good criteria for determining what should go in the budget.
+
+What I want to stress, and I hope I'm wrong, we've just seen new provincial legislation pass, and from everything that I'm hearing, there's no reason to disbelieve what some of the experts are saying, we are going to see an increase in rent default evictions. This is an essential program. And again, I think I really want to commend Councilor Callister for bringing this forward in a way that we can all support. But the underlying root problem, that being that rents are too high, income is too low, people are being displaced, and people fall behind in rent for a variety of reasons.
+
+This is a compassionate program. I would have preferred to see it at the higher level, but I'm very happy that we've been able to work out, we've been able to work out a situation here where we can all support it. So I'm hoping to see a unanimous vote on this, and to be continued, because this problem of rents being too high and people being displaced is not going away. And as a member of CAHPS, in our last council year, I'm going to be monitoring this very carefully.
+
+Thank you. Any other speakers to this? Okay, so this is on the amendment by Councilor McAllister, seconded by myself. We're going to open that for voting.
+
+Councillor Trostac, can we have your microphone, please? Closing the vote, motion carries 14-0. Okay, and now we need an as amended motion for that. So if Councilor McAllister, if you're willing to do the as amended motion, you got to stand up again.
+
+I'll second the as amended. So this is the as amended. This is everything this actually brings into effect the actual amendment to the table budget. So we'll vote on that now.
+
+So approval, closing the vote, motion carries 14-0. Councillor Layman. Thank you. That concludes the sixth report of the budget committee.
+
+Okay, and that concludes addressing all of the amendments that Council has made to the budget, which means we've concluded that piece. We have no added reports, no deferred matters. Any inquiries? Seeing none, emergent motions.
+
+There are none. The bylaws, we only have the confirming bylaw. I'll just remind colleagues, this is the same confirming bylaw that we do at the end of every meeting. This is not actually related to any sort of budget approval in any sort of way.
+
+The way that we, the process we've gone through is the budget was tabled. Council made recommendations on amendments. Those amendments have been improved or incorporated into the budget. That is the budget and the budget is finalized.
+
+This is not a global vote on the budget. This is just the confirming bylaw that we do at the end of each meeting that also gives direction to the clerk and I to bring into effect all of the components that happened at the meeting today if we have to do so. So just wanted to be clear, in case anybody thought they were voting on the budget. Now, we've actually concluded that piece we're just voting on the confirming bylaw.
+
+So I'll look for a mover and a seconder of the confirming bylaw today. Councillor Hillier and seconded by Councillor Troso. And we'll do first reading now and we'll open after voting. Closing vote, motion carries 14-0.
+
+Second reading, same mover and seconder. You're okay with that. Councillor Hillier, Councillor Troso, yes. Okay, we'll open second reading on the confirming bylaw.
+
+See if there's any speakers seeing none. We'll open second reading for voting. Carries 14-0. And same mover and seconder, third and final reading of the confirming bylaw.
+
+We'll open that for voting. Motion carries 14-0. Great, and before I adjourn, I'm not gonna do a global talk about the budget. I'm not gonna throw that in.
+
+What I do wanna say is just thank you to our staff. Obviously the preparation of the budget is months and months in the making, it requires all civic departments to participate, it requires all boards and commissions. I know all members of council participated through the process that we started earlier this year. I appreciate the work of both Budget Chair Ploza and Vice Chair Layman on navigating us through the budget process.
+
+I just wanted to say just a global thank you to everybody involved in the budget process for the work that you did in bringing us to the point of approving the 2026 budget update. All of that work kinda ends now. And I guess you started thinking about the 2027 budget, but for now I just wanted to say thanks on behalf of council for the work that was done to all involved. And with that, I'll look for a motion to adjourn.
+
+Councilor Vamever again, seconded by Councilor Hopkins. We can do this one by hand. All those in favor of adjournment. Motion carries.
+
+Okay, thank you, we're adjourned.
+
+</details>

@@ -1,1 +1,1225 @@
-{"title": "1st Meeting of the Infrastructure and Corporate Services Committee", "datetime": "2025-12-08 13:00:00", "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=938d230c-e676-44f3-a338-f5e0461a6a45&Agenda=PostMinutes&lang=English", "meeting_type": "Infrastructure and Corporate Services Committee", "bills": null, "present": ["C. Rahman", "H. McAlister", "S. Stevenson", "P. Van Meerbergen", "S. Franke"], "also_present": ["J. Pribil", "S. Datars Bere", "A. Abraham", "A. Barbon", "K. Chambers", "S. Chambers", "J. Dann", "J. Hachey", "D. MacRae", "K. Murray", "B. Nourse", "J. Paradis", "T. Pollitt", "A. Rammeloo", "A. Rozentals", "E. Skalski."], "remote_attendance": ["B. Baar", "E. Bennett", "D. Freeman", "P. Lupa."], "content": {"string": "The meeting is called to order at 1:00 PM.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that no pecuniary interests were disclosed.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That Consent Items 2.1 to 2.13 BE APPROVED with the exception of items 2.2, 2.3, and 2.10", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "S. Stevenson", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {"1": {"title": "Fiscal Agents Service Agreement", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated December 8, 2025 as Appendix \u201cA\u201d, BE INTRODUCED at the Municipal Council meeting to be held on December 16, 2025, to approve the Fiscal Agents Service Agreement (Schedule \u201c1\u201d) with CIBC World Markets Inc., National Bank Financial Inc. and RBC Dominion Securities Inc., and to authorize the Mayor and City Clerk to execute the agreement.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Fiscal Agents Service Agreement", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120821", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "4": {"title": "City of London's Share of Funding for UTRCA Watercourse Monitoring ", "number": "4", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of Upper Thames River Conservation Authority (UTRCA) for the following projects:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0Upper Thames River Conservation Authority (UTRCA) BE APPOINTED to complete surface water monitoring of Dingman Creek through a three-year flow monitoring program (2025-2027) and one-year water quality monitoring program (2025) in accordance with the estimate, on file, at an upset amount of $310,450 and $106,050, excluding HST, in accordance with Section 13.1,13.2, & 13.3 iii(a) of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and", "__class__": "Paragraph"}, {"string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Funding for UTRCA Watercourse Monitoring", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120826", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "5": {"title": "2025 Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System", "number": "5", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following report on the Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System BE RECEIVED for information.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - 2025 Ministry of the Environment", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120822", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Municipal Drain Reassessment Toloczko Drain", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Toloczko Municipal Drain:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 a reassessment of the schedule of costs BE TAKEN to allow for future maintenance of the drain; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0Mike DeVos P. Eng. of Spriet Associates London Limited BE APPOINTED under section 76 of the Drainage Act.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Toloczko Municipal Drain", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120823", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Holtby Municipal Drain Reconstruction", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Holtby Municipal Drain Reconstruction:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 the Engineering Report, appended to the staff report dated December 8, 2025 as Appendix 'A', prepared by Spriet Associates London Ltd., Consulting Engineers for the re-construction of the Holtby Drain 2025 BE ADOPTED; and it being noted the notice of the public meeting was provided in accordance with the provisions of Section 41 of the Drainage Act; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated December 8, 2025 as Appendix 'B', BE INTRODUCED and BE GIVEN two readings at the Municipal Council meeting to be held on December 16, 2025 to authorize the construction of the Holtby Drain project, it being noted that the third reading of the by-law for enactment would occur at the Council meeting after holding of the Court of Revision in connection with the project.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Holtby Municipal Drain", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120834", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Request for Proposal RFP-2025-212 Consulting Services Award of Greenway Sanitary Model Calibration", "number": "8", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to Greenway Sanitary Model Calibration:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0WSP Canada Inc. BE APPOINTED to carry out consulting services to complete the Greenway Sanitary Model Calibration at an upset amount of $245,465.00, excluding HST, in accordance with Section 15.2(e) of the City of London\u2019s former Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this purchase BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations; and", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Request for Proposal RFP-2025-212", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120827", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Amendments to the Traffic and Parking By-law", "number": "9", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated December 8, 2025 as Appendix 'A', BE INTRODUCED at the Municipal Council meeting to be held on December 16, 2025 for the purpose of amending the Traffic and Parking By-law (PS-114).", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Amendments to the Traffic Parking By-law", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120828", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "11": {"title": "Vehicle Detection Systems Limited Tender Procurement", "number": "11", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the purchase of Traffic Signal Controllers for the traffic signal system:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 the quotation submitted by Fortran Traffic Systems Limited, at its quoted price of $591,900 (excluding HST) BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 13.3 iii) (e);", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this project BE APPROVED with the Source of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix 'A';", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project; and", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the approval given herein BE CONDITIONAL upon the Corporation entering into a formal contract for the material to be supplied and the work to be done relating to this project.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Vehicle Detection System", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120829", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "12": {"title": "Limited Tendering and Cooperative Procurement - Road and Parks Operations Equipment LT-2025-289", "number": "12", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the procurement of Road and Parks Operations Equipment:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0approval BE GIVEN to exercise the Limited Tendering provisions and Cooperative Purchasing in accordance with section 13.3 iii (a) and (e), and 20.0 of the Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Cooperative purchasing negotiated pricing BE ACCEPTED to purchase two (2) Ravo 5i Street Sweepers and two (2) Ravo R2 Compact Sweepers for a total estimated price of $1,420,804.04 (excluding HST) from Cubex in Brantford Ontario, through Canoe Procurement (RFP#093021-FAY);", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0Limited Tendering negotiated price BE ACCEPTED to purchase one (1) Energreen ILF Alpha Mower for a total estimated price of $714,047.40 (excluding HST) from Colvoy Equipment in Courtland Ontario;", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0Limited Tendering negotiated price BE ACCEPTED to purchase four (4) Asphalt Recyclers for a total estimated price of $187,532.40 (excluding HST) from Heat Design Equipment Inc. in Kitchener Ontario;", "__class__": "Paragraph"}, {"string": "e) \u00a0 the financing for this purchase BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019; and", "__class__": "Paragraph"}, {"string": "f)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Limited Tendering", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120830", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "13": {"title": "Declare Surplus - City-Owned Property - Parts 2, 3, 4 and 5, Plan 33R22249 - Ashland Avenue", "number": "13", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned property, the following actions be taken:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the subject properties, Parts 2, 3, 4, and 5, Plan 33R-22249, BE DECLARED SURPLUS; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the subject properties (\u201cSurplus Lands\u201d) BE TRANSFERRED to the abutting property owners under the Sale and Other Disposition of Land Policy, subject to retaining Part 1 for a future ultimate road allowance.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Declare Surplus-Ashland Avenue", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120833", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Pollution Prevention and Control Plan Update Study - Notice of Completion", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That the Pollution Prevention and Control Plan Update Study Executive Summary, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019, BE REFERRED to Civic Administration to report back to the Infrastructure and Corporate Services Committee by the end of Q1 2026 with a summary of alternative strategies as well as Civic Administration's recommendation.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "S. Stevenson", "C. Rahman"]}, {"vote": "Nays:", "voters": ["H. McAlister", "S. Franke"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (3 to 2)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "ADDITIONAL VOTES:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by H. McAlister", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Franke", "__class__": "Mover"}, "motion_texts": [{"string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Pollution Prevention and Control Plan Update Study:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 the Pollution Prevention and Control Plan Update Study Executive Summary, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019, BE ACCEPTED;", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the Notice of Completion BE FILED with the Municipal Clerk; and", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 the Pollution Prevention and Control Plan Update Study report BE PLACED on public record for a 30-day review period.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by H. McAlister", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That the motion BE AMENDED in part a) to delete the word \"ACCEPTED\" and replace it with \"RECEIVED\".", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "S. Stevenson", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by C. Rahman", "__class__": "Mover"}, "motion_texts": [{"string": "That the motion BE AMENDED to add a new part that reads as follows:", "__class__": "Paragraph"}, {"string": "d) that Civic Administration BE DIRECTED to report back to the Infrastructure and Corporate Services Committee with the public engagement comments received after the Pollution Prevention and Control Plan Update Study Report public 30-day review period.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "S. Stevenson", "S. Franke", "C. Rahman"]}, {"vote": "Nays:", "voters": ["H. McAlister"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 1)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by C. Rahman", "__class__": "Mover"}, "motion_texts": [{"string": "That the motion, as amended, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Pollution Prevention", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120824", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Cross City Feedermain Condition Assessment", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Cross City Feedermain Condition Assessment:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the contract value for Pure Technologies Ltd. BE APPROVED, in the amount of $693,827.88, excluding HST, in accordance with section 13.3 iii) (a) of the Corporation of the City of London\u2019s Procurement of Goods and Services Policy;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019;", "__class__": "Paragraph"}, {"string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project; and", "__class__": "Paragraph"}, {"string": "d) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "S. Stevenson", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Cross City Feedermain", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120825", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Purchase of Standard City Waste Receptacles", "number": "10", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Van Meerbergen", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the purchase of waste receptacles from Joseph Adamou Steelworks:", "__class__": "Paragraph"}, {"string": "a)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to pay the invoices from Joseph Adamou Steelworks for the purchase of 140 waste receptacles, totaling $266,400 (HST excluded);", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019; and", "__class__": "Paragraph"}, {"string": "c)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this procurement.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "S. Stevenson", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Staff Report - Purchase of Standard City Waste Receptacles", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120831", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2025-12-08 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [], "items": {"1": {"title": "Recycling Materials for Small Businesses and Nonprofit Organizations - Councillor S. Franke and Mayor J. Morgan", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Franke", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That the Civic Administration BE DIRECTED to review and report back to the Infrastructure and Corporate Services Committee (in Q2 2026) on the following:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the feasibility of allowing small businesses and nonprofit organizations to bring their recycling materials to the City\u2019s EnviroDepots, including:", "__class__": "Paragraph"}, {"string": "i)\u00a0 \u00a0 any limits or restrictions that would apply to the quantity of materials accepted; and\n\nii)\u00a0 \u00a0 options to waive or offset fees for small businesses and nonprofits (e.g., through a pass or permit system); and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the feasibility of providing green bin organics collection for small businesses and nonprofits located along residential collection routes, as a potential offset for the new recycling collection fees:", "__class__": "Paragraph"}, {"string": "it being noted that this service would reduce the volume of organics going to landfill; it could lower garbage tipping fees for small businesses; and it aligns with Council\u2019s recent approval to collect food waste from nonprofit and faith-based organizations;", "__class__": "Paragraph"}, {"string": "it being further noted that the Infrastructure and Corporate Services Committee received a communication dated November 20, 2025 from Councillor S. Franke and Mayor J. Morgan, a communication dated November 21, 2025 from D. Swaenepoel, Executive Pastor, newhope Community Church and a communication dated December 3, 2025 from T. MacMillan, Owner, Quarter Master Natural Foods with respect to this matter.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["P. Van Meerbergen", "H. McAlister", "S. Stevenson", "S. Franke", "C. Rahman"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [{"empty_flag": false, "title": "2025-12-08 Submission - Recycling-Franke and Morgan", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120832", "date": "2025-12-08 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2025-12-08 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Confidential\u00a0", "number": "6", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Adjournment", "number": "7", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Van Meerbergen", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by H. McAlister", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 2:27 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2025-12-08 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "1st Meeting of the Infrastructure and Corporate Services Committee",
+  "datetime": "2025-12-08 13:00:00",
+  "url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=938d230c-e676-44f3-a338-f5e0461a6a45&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Infrastructure and Corporate Services Committee",
+  "bills": null,
+  "present": [
+    "C. Rahman",
+    "H. McAlister",
+    "S. Stevenson",
+    "P. Van Meerbergen",
+    "S. Franke"
+  ],
+  "also_present": [
+    "J. Pribil",
+    "S. Datars Bere",
+    "A. Abraham",
+    "A. Barbon",
+    "K. Chambers",
+    "S. Chambers",
+    "J. Dann",
+    "J. Hachey",
+    "D. MacRae",
+    "K. Murray",
+    "B. Nourse",
+    "J. Paradis",
+    "T. Pollitt",
+    "A. Rammeloo",
+    "A. Rozentals",
+    "E. Skalski."
+  ],
+  "remote_attendance": [
+    "B. Baar",
+    "E. Bennett",
+    "D. Freeman",
+    "P. Lupa."
+  ],
+  "content": {
+    "string": "The meeting is called to order at 1:00 PM.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that no pecuniary interests were disclosed.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-12-08 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by S. Franke",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Consent Items 2.1 to 2.13 BE APPROVED with the exception of items 2.2, 2.3, and 2.10",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "P. Van Meerbergen",
+                  "H. McAlister",
+                  "S. Stevenson",
+                  "S. Franke",
+                  "C. Rahman"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (5 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {
+        "1": {
+          "title": "Fiscal Agents Service Agreement",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated December 8, 2025 as Appendix \u201cA\u201d, BE INTRODUCED at the Municipal Council meeting to be held on December 16, 2025, to approve the Fiscal Agents Service Agreement (Schedule \u201c1\u201d) with CIBC World Markets Inc., National Bank Financial Inc. and RBC Dominion Securities Inc., and to authorize the Mayor and City Clerk to execute the agreement.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Fiscal Agents Service Agreement",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120821",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "4": {
+          "title": "City of London's Share of Funding for UTRCA Watercourse Monitoring ",
+          "number": "4",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of Upper Thames River Conservation Authority (UTRCA) for the following projects:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0Upper Thames River Conservation Authority (UTRCA) BE APPOINTED to complete surface water monitoring of Dingman Creek through a three-year flow monitoring program (2025-2027) and one-year water quality monitoring program (2025) in accordance with the estimate, on file, at an upset amount of $310,450 and $106,050, excluding HST, in accordance with Section 13.1,13.2, & 13.3 iii(a) of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Funding for UTRCA Watercourse Monitoring",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120826",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "5": {
+          "title": "2025 Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System",
+          "number": "5",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following report on the Ministry of the Environment, Conservation and Parks Inspection of the City of London Drinking Water System BE RECEIVED for information.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - 2025 Ministry of the Environment",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120822",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "6": {
+          "title": "Municipal Drain Reassessment Toloczko Drain",
+          "number": "6",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Toloczko Municipal Drain:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 a reassessment of the schedule of costs BE TAKEN to allow for future maintenance of the drain; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0Mike DeVos P. Eng. of Spriet Associates London Limited BE APPOINTED under section 76 of the Drainage Act.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Toloczko Municipal Drain",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120823",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "7": {
+          "title": "Holtby Municipal Drain Reconstruction",
+          "number": "7",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Holtby Municipal Drain Reconstruction:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 the Engineering Report, appended to the staff report dated December 8, 2025 as Appendix 'A', prepared by Spriet Associates London Ltd., Consulting Engineers for the re-construction of the Holtby Drain 2025 BE ADOPTED; and it being noted the notice of the public meeting was provided in accordance with the provisions of Section 41 of the Drainage Act; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the proposed by-law, as appended to the staff report dated December 8, 2025 as Appendix 'B', BE INTRODUCED and BE GIVEN two readings at the Municipal Council meeting to be held on December 16, 2025 to authorize the construction of the Holtby Drain project, it being noted that the third reading of the by-law for enactment would occur at the Council meeting after holding of the Court of Revision in connection with the project.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Holtby Municipal Drain",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120834",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "8": {
+          "title": "Request for Proposal RFP-2025-212 Consulting Services Award of Greenway Sanitary Model Calibration",
+          "number": "8",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to Greenway Sanitary Model Calibration:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0WSP Canada Inc. BE APPOINTED to carry out consulting services to complete the Greenway Sanitary Model Calibration at an upset amount of $245,465.00, excluding HST, in accordance with Section 15.2(e) of the City of London\u2019s former Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this purchase BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Request for Proposal RFP-2025-212",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120827",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "9": {
+          "title": "Amendments to the Traffic and Parking By-law",
+          "number": "9",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated December 8, 2025 as Appendix 'A', BE INTRODUCED at the Municipal Council meeting to be held on December 16, 2025 for the purpose of amending the Traffic and Parking By-law (PS-114).",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Amendments to the Traffic Parking By-law",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120828",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "11": {
+          "title": "Vehicle Detection Systems Limited Tender Procurement",
+          "number": "11",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the purchase of Traffic Signal Controllers for the traffic signal system:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 the quotation submitted by Fortran Traffic Systems Limited, at its quoted price of $591,900 (excluding HST) BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 13.3 iii) (e);",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this project BE APPROVED with the Source of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix 'A';",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the approval given herein BE CONDITIONAL upon the Corporation entering into a formal contract for the material to be supplied and the work to be done relating to this project.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Vehicle Detection System",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120829",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "12": {
+          "title": "Limited Tendering and Cooperative Procurement - Road and Parks Operations Equipment LT-2025-289",
+          "number": "12",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the procurement of Road and Parks Operations Equipment:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0approval BE GIVEN to exercise the Limited Tendering provisions and Cooperative Purchasing in accordance with section 13.3 iii (a) and (e), and 20.0 of the Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Cooperative purchasing negotiated pricing BE ACCEPTED to purchase two (2) Ravo 5i Street Sweepers and two (2) Ravo R2 Compact Sweepers for a total estimated price of $1,420,804.04 (excluding HST) from Cubex in Brantford Ontario, through Canoe Procurement (RFP#093021-FAY);",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0Limited Tendering negotiated price BE ACCEPTED to purchase one (1) Energreen ILF Alpha Mower for a total estimated price of $714,047.40 (excluding HST) from Colvoy Equipment in Courtland Ontario;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0Limited Tendering negotiated price BE ACCEPTED to purchase four (4) Asphalt Recyclers for a total estimated price of $187,532.40 (excluding HST) from Heat Design Equipment Inc. in Kitchener Ontario;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "e) \u00a0 the financing for this purchase BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "f)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Limited Tendering",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120830",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "13": {
+          "title": "Declare Surplus - City-Owned Property - Parts 2, 3, 4 and 5, Plan 33R22249 - Ashland Avenue",
+          "number": "13",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned property, the following actions be taken:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the subject properties, Parts 2, 3, 4, and 5, Plan 33R-22249, BE DECLARED SURPLUS; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the subject properties (\u201cSurplus Lands\u201d) BE TRANSFERRED to the abutting property owners under the Sale and Other Disposition of Land Policy, subject to retaining Part 1 for a future ultimate road allowance.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Declare Surplus-Ashland Avenue",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120833",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "Pollution Prevention and Control Plan Update Study - Notice of Completion",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Pollution Prevention and Control Plan Update Study Executive Summary, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019, BE REFERRED to Civic Administration to report back to the Infrastructure and Corporate Services Committee by the end of Q1 2026 with a summary of alternative strategies as well as Civic Administration's recommendation.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "S. Stevenson",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Nays:",
+                    "voters": [
+                      "H. McAlister",
+                      "S. Franke"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (3 to 2)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "ADDITIONAL VOTES:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by H. McAlister",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Franke",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Pollution Prevention and Control Plan Update Study:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 the Pollution Prevention and Control Plan Update Study Executive Summary, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019, BE ACCEPTED;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the Notice of Completion BE FILED with the Municipal Clerk; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 the Pollution Prevention and Control Plan Update Study report BE PLACED on public record for a 30-day review period.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by H. McAlister",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the motion BE AMENDED in part a) to delete the word \"ACCEPTED\" and replace it with \"RECEIVED\".",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Franke",
+                      "C. Rahman"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by C. Rahman",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the motion BE AMENDED to add a new part that reads as follows:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) that Civic Administration BE DIRECTED to report back to the Infrastructure and Corporate Services Committee with the public engagement comments received after the Pollution Prevention and Control Plan Update Study Report public 30-day review period.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "S. Stevenson",
+                      "S. Franke",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Nays:",
+                    "voters": [
+                      "H. McAlister"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (4 to 1)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by C. Rahman",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the motion, as amended, BE APPROVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Pollution Prevention",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120824",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "Cross City Feedermain Condition Assessment",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Cross City Feedermain Condition Assessment:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the contract value for Pure Technologies Ltd. BE APPROVED, in the amount of $693,827.88, excluding HST, in accordance with section 13.3 iii) (a) of the Corporation of the City of London\u2019s Procurement of Goods and Services Policy;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c) \u00a0 \u00a0the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "d) \u00a0 \u00a0the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Franke",
+                      "C. Rahman"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Cross City Feedermain",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120825",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "10": {
+          "title": "Purchase of Standard City Waste Receptacles",
+          "number": "10",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Van Meerbergen",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the purchase of waste receptacles from Joseph Adamou Steelworks:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to pay the invoices from Joseph Adamou Steelworks for the purchase of 140 waste receptacles, totaling $266,400 (HST excluded);",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated December 8, 2025 as Appendix \u2018A\u2019; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "c)\u00a0 \u00a0 the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this procurement.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Franke",
+                      "C. Rahman"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Staff Report - Purchase of Standard City Waste Receptacles",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120831",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2025-12-08 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-12-08 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Recycling Materials for Small Businesses and Nonprofit Organizations - Councillor S. Franke and Mayor J. Morgan",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Franke",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by H. McAlister",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Civic Administration BE DIRECTED to review and report back to the Infrastructure and Corporate Services Committee (in Q2 2026) on the following:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the feasibility of allowing small businesses and nonprofit organizations to bring their recycling materials to the City\u2019s EnviroDepots, including:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i)\u00a0 \u00a0 any limits or restrictions that would apply to the quantity of materials accepted; and\n\nii)\u00a0 \u00a0 options to waive or offset fees for small businesses and nonprofits (e.g., through a pass or permit system); and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the feasibility of providing green bin organics collection for small businesses and nonprofits located along residential collection routes, as a potential offset for the new recycling collection fees:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that this service would reduce the volume of organics going to landfill; it could lower garbage tipping fees for small businesses; and it aligns with Council\u2019s recent approval to collect food waste from nonprofit and faith-based organizations;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being further noted that the Infrastructure and Corporate Services Committee received a communication dated November 20, 2025 from Councillor S. Franke and Mayor J. Morgan, a communication dated November 21, 2025 from D. Swaenepoel, Executive Pastor, newhope Community Church and a communication dated December 3, 2025 from T. MacMillan, Owner, Quarter Master Natural Foods with respect to this matter.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "P. Van Meerbergen",
+                      "H. McAlister",
+                      "S. Stevenson",
+                      "S. Franke",
+                      "C. Rahman"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2025-12-08 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2025-12-08 Submission - Recycling-Franke and Morgan",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=120832",
+              "date": "2025-12-08 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2025-12-08 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-12-08 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Confidential\u00a0",
+      "number": "6",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-12-08 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Adjournment",
+      "number": "7",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by P. Van Meerbergen",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by H. McAlister",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 2:27 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2025-12-08 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": "Good afternoon, everyone. I'm glad you all came to join us for the first meeting of the Infrastructure and Corporate Services Committee. We're gonna get started with the land acknowledgement. The city of London is situated on the traditional lands of the Anishinaabek, Haudenosaunee, Lanabuik, and Adewandran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nation, M\u00e9tis, and Inuit today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. I'm joined today with members of the Infrastructure and Corporate Services Committee. That includes myself, Vice Chair, Haben Callister. We have Councillor Skyler-Frank, Councillor Van Mirbergen, and Councillor Stevenson. And we're also joined by visiting Councillors, and so far I've got Councillor Pribble. It's checking I don't see anybody online so far, but those are all in chambers right now. So we will get started with one disclosure of pecuniary interests. Hey, seeing none, we will move on to consent. I've had requests to pull items 2.2, 2.3 into 10, just looking to members of the committee to see if there's anything else that you'd like pulled. Okay, seeing none, I will look for a mover and a seconder for the remaining items on the agenda. That will be 2.1, 2.4 through 2.9, 2.11 through 2.13. Councillor Van Mirbergen, Councillor Frank, thank you. And I'm looking for discussion on these items. Hey, seeing none right now from members of the committee, I'll just look to visiting Councillors see if they have any questions. I do have comments if you permit me from the chair. My comments are on 2.9, which is the amendments to the traffic and parking by-law. First, I wanna thank staff for their work on bringing this forward and the continued work to make our local roads safer for everyone using them. Within the report, it contains information about some changes within our newer school zones around Northwest Public School. I know this is an area of great concern for residents in my ward where the Northwest Public School now exists. So I appreciate the ability to have conversation with staff and the feedback from the community on their concerns on this particular school zone and some of the safety mitigations. However, I wanted to share this concern as we continue to build new schools in our communities and especially new schools in new subdivisions. I do think we need to find a way forward to make the process easier so that families and students and walkers can get comfortable with moving in the school zone of a new community, of a new, in a new school area where the safety measures are already in place versus the safety measures coming into place after the school is open. So one of the things that I found with this particular school, one of the challenges we ran into was I had many requests from families ahead of the school opening to address safety concerns that they felt would be hindering their ability to walk and bike to school. And we still opened the school with those concerns not addressed yet. And so a lot of these as you see with this bylaw are still either being enacted or going to be put in in the future, which is a challenge for setting good practices from the beginning. Any of us with kids know that setting them up for success by having them do the same thing every day from the beginning of the school year is a good way to build habits. So I would like to see us be more proactive with how we set up and get ourselves ready for new schools by making sure that our safety, our pedestrian crossovers, our traffic calming, et cetera, is in place beforehand. And I know there were some limitations with this site because it's a new subdivision that hadn't been selected for a school beforehand. I'm just wondering if Mr. McCray has any comments about that. Thank you, Madam Chair. Yeah, certainly acknowledge the comments. We continue to work with our partners internally and with the developers and school boards in order to get the measures in as proactively as possible. And there's been ongoing dialogue just recently prompted out of this learning, but also other sites. We certainly want access to schools to be convenient and safe and also supporting active travel for young students. So appreciate the comments. Thanks. Thank you. And I will look to my colleagues to see if there's any further conversation on these items. I'll go to Councilor Stevenson, go ahead. Thank you. Look, comment or question on 2.11, the vehicle detection systems. We hear a lot of requests from the public around better timing on the lights. And I just wanted to give staff an opportunity to maybe tell lenders what they've got to look forward to here. Mr. McCray. Through the chair, thank you for the question. Yes, our intelligent traffic signal project continues. Detection is certainly an important part of having the traffic signals work more intelligently. And so the systems get in procurement approval today and in this council cycle are to provide better detection through a radar based system so that traffic signals know what the demands are on the different likes of an intersection and come more efficiently meet the demands and enable traffic to flow smoother. Thank you. Thank you, yes, just to follow up. It says in the report that approximately a third of the city's detection systems are signalized are at signalized intersections and here we're buying 25 more. Do we have a goal that we're working towards? This is the end of that installation or are we halfway there or is there any information that can be provided that way? Mr. McCray. Yes, certainly the project has progressed to a point where all the signalized intersections are connected, the expansion of the detection system, the procurement for today is largely to expand for maintenance purposes and to expand the detection system. I don't have a specific percentage wise and there's different operation models across the city. But certainly the project is well-programmed and a current action underway is to provide better communications through fiber optic installations between the traffic signals so they can better communicate to our central operating system. Councillor? Thank you. I'll go to Councillor Pervall. Thank you, sir. To the staff same point that I would like to discuss or talk about and if we don't have or if we have certainly not a high number of the intersections and if there's gonna be the detection and also for example, the TSPs on the buses, if we have only certain number of them, isn't it gonna make it worse for the other intersections? Currently we have it planned, sorry, currently we have it planned that the intersections are aligned and in terms of south, north, east, west. But for example, TSPs on the buses, if there are five minutes late, it could delay the signal lights, with the detection here as well. In the big picture, is this potentially actually including the TSPs more negative than positive in terms of the whole London? Mr. McRae? Yeah, the procurement of the WaveTronics radar detection system is for detection of all road users. So it's a separate system than the TSP or the transit signal priority. So this device is really making the intersections more efficient for all traffic flows and then the TSP is layered on top of that. Council Perbal. I think yeah, and I do understand that, but let's say if the focus or if it's gonna be certain, so I'll give an example, let's say one cliff and Oxford. And if we are gonna do this, let's say on the east west and then potentially it's gonna adjust to the traffic there. And then it's gonna potentially adjust that will adjust the timing that when we go more west in terms of the Wonderland and Oxford, it's gonna mess it up and then people traveling through the green lights, they might not be getting through east west more smoother than if we have this. I totally understand if we had it everywhere, but if we don't have it everywhere, is it beneficial in the big picture? Because are we gonna get them of one intersection faster, or are they gonna get stuck on the next intersection, south north or east or west? Mr. McRae. I guess there's two different, two components, I think to the discussion that you're raising and it's the detection through the procured product here that we're discussing today. It's detection of all vehicles versus transit signal priority, which runs on a different system, a communication between buses and the traffic signal controllers, so this procurement today is certainly maximizing benefit for all vehicles. The transit signal priority system, if I understand your question correctly, it does prioritize the buses on an as needed basis, i.e. if they're significantly behind schedule, and then the system would, so it identifies a priority, but then the system modifies and kind of reverts back to the optimal operation of both that intersection and adjacent intersections to, again, maximize flows for all traffic. Councillor? Okay, thank you, I have no more questions, but I do wanna follow up on this after, thank you. Thank you, looking around for any final comments. Okay, with that, we'll open the vote. Those in the vote, motion carries five to zero. Thank you, so we'll deal with the remaining items after our items for direction. So move on to item 4.1, which is recycling materials for small businesses and nonprofit organizations. This was communication submitted by Councillor Frank and Mayor Morgan. I will go to Councillor Frank if she'd like to move her item. Thank you, yes, I would like to move that item, just with the one edit of Q2, 2026. I chatted with staff and that would be a more manageable timeline, so I'd like to put that on the floor, and if I have a seconder. Councillor, do you just wanna read it? That the civic administration be directed to review and report back on to the Infrastructure and Corporate Services Committee in Q2, 2026. On the A, the feasibility of allowing small businesses and nonprofit organizations to bring their recycling materials to the city's environment depots, including any limits or restrictions that would apply to the quantity of materials accepted and II options to waive or offset fees for small businesses and nonprofits, example through a pass or permit system, and be the feasibility of providing green-bed organics collection for small businesses and nonprofits located along residential collection routes as a potential offset for the new recycling collection fees. It being noted that the service would reduce the volume of organics going to landfill, it could lower garbage tipping fees for small businesses and it aligns with Council's recent approval to collect food waste from nonprofit and faith-based organizations. Do we read it? Okay, great. Thank you, and then the rest of the motion just takes care of the communication. Thank you so much. I saw a seconder in Councilor McAllister looking for a discussion on this item. Council Frank, go ahead. Thank you, yes, happy to introduce the rationale. So since we heard that the province through the extended producer responsibility and the new system that's being set up will not be taking the recycling that about 535 small businesses and nonprofits across the city and residential areas, it will not be picking up the recycling materials. I've had a variety of different businesses reach out to me and share concerns regarding cost and their ability to continue to recycle or the likelihood that they will simply just put in the garbage due to cost, despite them wanting to still participate. So in that context, I was hoping to find some options that they don't directly address the issue, but they might provide some savings or some future new options for businesses and nonprofits. And I chatted with staff and we are limited due to the fact that the entire recycling facility that we previously owned is now entirely operated by this consortium group. And so we have no control over requiring them to accept a certain portion. And we won't know until later into next year if there's even any space in the future beyond what is currently gonna be processed there. So in that context, we're just hoping to explore these two possibilities. I do wanna note that the green bin, in my understanding would be they would only be given what a residential building is given. So it's a 44 pound bin, which for a restaurant would not be significant, but perhaps for a smaller organization that again, that might be at least somewhat helpful for trying to reduce their garbage pickup. Yeah, so happy to chat more. Our staff are, I think, very well versed and could answer more of your technical questions on that. Thank you, looking for other speakers. Councillor Stevenson. Thank you, yes, I'm happy to support this. Businesses have expressed concern about the January 1st change and what that's gonna mean for their ability to contribute to the recycling program here in the city and the costs that they'll have to bear for that. I've also had complaints in the past about businesses on residential streets that were permitted to be part of the green bin program. They didn't understand why there was that restriction. And I think this will be a really welcome change for a lot of our small businesses out there. Councillor McAllister. Thank you through the chair. Yeah, I just wanna know, so express my support for this. Noting obviously the challenges we have, but I really do think that we should explore all of our options. Appreciate Councillor Frank bringing this forward. And I know, you know, staff will do their best in terms of looking at what options we have available. I've also heard from businesses nonprofits that still wanna participate, but just kind of looking to us to see what we could potentially do in the future. So appreciate it and look forward to this report coming back. Thank you. Thank you, looking for other speakers. Okay, seeing none, if you'll permit me a comment from the chair, just wanted to say thank you to Councillor Frank and Mayor Morgan and Councillor McAllister for this item. I just wanted to mention, I also have heard from small businesses that have concerns. The one challenge I see though, is that we may have some difficulty communicating out a new strategy after we are in the process of sending out communication saying where things are right now. But I do think for those that are really interested in ensuring that they're doing their part, they may be more inclined to find this information and seek it out after the fact. I will say I sympathize with organizations that are losing this ability to be able to be more sustainable and support our environmental goals here locally. And I ask them to continue to bear with the city as we continue to look for strategies, but also to communicate to the province about the fact that this program and the changes have been from a provincial outcome. That's my comments. With that, I will look to the committee to see if there are any final thoughts and if not, we will open the vote. Closing the vote, motion carries, five to zero. Okay, thank you. We will deal with our deferred matters from earlier. We'll start with 2.2, which is the Pollution Prevention and Control Plan Update Study Notice of Completion. I will look for a mover and a seconder to put this item on the floor and begin discussion. Councilor McAllister, do you have a seconder? Councilor Frank, thank you. With that, I will look for speakers. Councilor Stevenson, go ahead. Thank you. I asked for this one to be pulled. I like, I'm sure all the other councilors are very concerned about the sewage that goes into our Thames River and how we can do everything that we can to reduce that impact. But my understanding was we had an opt-in program that had subsidies related to it and we weren't getting a lot of buy-in. And now I'm seeing a proposal that we mandate it upon property transfer and that the cost be incurred by the new owner. So I was just wondering if staff could just give an update on what the previous program was and what the rationale was behind making this switch 'cause it's a pretty big switch. Thank you, I'll start with Ms. Ranlow. Thank you, through the chair. Yes, it is a big switch. This is something that's been examined in the past and not pursued because it is a big switch. So we have traditionally opted to go for the voluntary opt-in program. However, the reality is that does not get significant enough results to actually decrease overflows to Thames River. So we estimate that we have about 50,000 homes with their weeping tiles or the drainage footing connections, however you want to say it, connected to the sanitary sewer. So during large rain events, that overwhelms our sanitary sewer. We have found that you typically need about 50 to 60% of the street to disconnect to see a real decrease in flooding and a real impact on those overflows. We continue to do bigger projects like combined sewer separation and so on, but really this is a big, big source of that unwanted water and at a rate of 70 to 90 connections done per year through the opt-in program, that's not really making much of a dent on those 50,000. So if we want to have a real impact on those 50,000 and on the influence on overflows, this would be what we would recommend moving towards. That said, the report today is acknowledging the master plan update study, putting it out for review. It's not approving the program itself today. We would be coming back with more details of how it would work, whether there would be subsidies. All of that would be done at a later date, along with any staffing and budget implications. And we could, there would be the opportunity to really delve into the approval or not at that point. This, the endorsement today would give staff the direction to go forward and look at this in more detail. Councillor Stevenson. Thank you for that, I appreciate it. I looked around, I couldn't find it in the other cities that had made this move. Are there others that have led the way? Ms. Ramlo. Thank you, through the chair in Ontario. No. But I will pass it to Mr. Chambers, who's more deeply involved with the study and what some of the other municipalities are doing. Mr. Chambers, please go ahead. Thank you, and through the chair, yeah, Ashley is correct in that there are no, there's not a lot of other comparators in Canada. There are some jurisdictions in the United States that have employed this through often requirements through the US EPA. So there are a couple of examples to look at in that location, but not in Canada. Councillor Stevenson. Thank you. Is there something unique about London that we need to make this move, or do we see ourselves as leaders in this space? Ms. Ramlo. Thank you, through the chair. It could be, I mean, possibly not, it would be more that we are a leader in this space in tackling this. There is a hesitation from municipalities, of course, to make anything mandatory. And we have been very cognizant of the cost that it puts on homeowners, which is why we're proposing we do it at point of sale when there's a significant amount of money already changing hands, and other things are often covered at this point as well, you know, whether this is electrical work needed for insurance purposes and so on. There are certainly other cities in Canada that would have weeping towels connecting to their wet weather flows. Not all cities have combined sewer systems. It depends on the age of the city and the age of their infrastructure, but we would certainly be a leader on this if we went forward, yes. Councillor Stevenson. Thank you. I'll look into this more. I think it does impact certain areas of the city more than others, and mine is one of those, I think heavily impacted. There is, I am concerned about the reception that this is gonna have on Londoners who are being told this is being mandated and that the cost is now being borne by them, which I found a bit surprising too, if we have a budget to fund it for those who volunteered and we have staff to run that program, I'm assuming those funds and those staffing would move to the new program. Ms. Ramlou. Thank you through the chair. So that is certainly part of the analysis we would be doing. I don't believe we would be looking to remove the subsidies or anything like that, but we will have to look at the budget considering there would be significantly more being done, but that would all come as part of those budget discussions. Thanks. Like I said, I'm gonna look into it more later, but I did have one last question, and that is knowing that, you know, if 50 to 60% of the street is sufficient, is there a thought to maybe cap it, that once that, once a certain number had been reached, that the rest would be not mandated to do so? Ms. Ramlou. Thank you through the chair. That might be difficult data to capture as we don't necessarily have all the information on previously separated. So I mean, we can certainly work to gather that. Sometimes we know, sometimes we don't, depending how far back records go, but that is something we can certainly take back for consideration as we work through an implementation plan. Councillor? Thank you, that's good. I'm gonna be voting no for now, but I'll be doing some more research before council. Okay, I have quite the speakers list building. So what I'll do is I will hand the chair over to Councillor McAllister, nice to be Councillor, and if I'll take my time, and then I'll come back and chair the rest of it. Okay, noting that I have the chair, go ahead, Councillor Rhone. Thank you, and three, you, yes, this is an item that I was quite interested in, especially around this idea of this new charge for point of sale. To me, it feels like a new land transfer tax for London, but only applicable to houses that are under the age of 1985. And for me, that's a big concern. We're talking about an affordability crisis with housing right now, and we're saying that a homeowner with a home that is connected to the weeping tile system could pay between $5,000 and $10,000 extra. So I agree I would be open to hearing about incentives. I would be very open to hearing about maybe some other levels of government that may have programs, but I also wanted to understand, if we decide to use this strategy, does this sit as a liability for us at all? If, let's say, the sale happens, and the homeowner now has to comply, and they're not compliant. I didn't understand what happens at the point that they're non-compliant, so I'm not sure if we can comment on that and how that sits as a liability for us or not. Go ahead, Steph. Thank you, through the chairs. So that would, again, be part of the greater implementation plan. We have had initial discussions with our legal staff on this matter, but haven't necessarily reached a firm conclusion at this point. Go ahead, Councilor. Thank you, so just to understand with the motion that's in front of us, we would be sending this out, placing on the public record for a 30-day review period, is that intended for the public to provide their feedback on this program as well as the entirety of the report? Thank you, through the chair. That time period is for on this report only. We would certainly be doing a lot more consultation and so on information sessions, et cetera, should we come forward with an implementation plan and associated budget? Go ahead, Councilor. Thank you, and through you, this might be a question for the clerk because within this particular study, there's no way to really separate out this portion of the discussion. I don't want to say no to the entire study because I want more information before I agree to what's in front of us. I would have a lot of questions like, I would want to hear from, let's say, the real estate industry. And get a sense of their feelings on impact. I would want to understand a lot more before I made a decision like this. So I'm in a tough place trying to decide how to vote on this item because I feel like within this report, it's a bit challenging to separate those items out. I'm not sure if Steph want to comment on that at all. Go ahead, Steph. Thank you, through the chair. I definitely appreciate that. This was not meant to be a report for the full implementation that you would then vote on that. That will definitely come at a later date. So today as an endorsement or acceptance of the study, this was a primary recommendation of the study from the consultant based on the scale of the issue and the way in which other more traditional measures if you will have worked or not worked. So for instance, in the past, we have built storage for wet weather flows. They work until a point, but they fill up very, very quickly. And then you're back to having basement floods. So you spend a lot of money in an area, for instance, to have storage and it will work for some of those smaller storms, for some of those bigger ones, it still doesn't. This is to remove it right at the source. So that's why the report recommends it as, if you want to really fix the problem, this is the way to do it. We recognize that this would be a massive undertaking for city staff, for residents to understand and for industry to be able to absorb the extra work. So there is a lot more work that would be required here. Today's report is to see, basically, do you agree with us looking at this more at least to come back with a fuller plan? And at that point, and with all the consultation, and if at that point we say, you know what, no, this is not the way we want to go, that's okay. We can do the additional work that is entailed in this report, like to look at the feasibility and the staff with our existing staff and zone in our internal legal review, all of that. So it's really just to give us a direction if this is something Council even wants to consider at this point in time or not, you can accept the report without us having to do that, additional work, though. You can say thank you very much, but no, thank you. Go ahead, Councilor. Thank you and through you. So this is where I'm struggling because I feel like I'd want to unwind a bit of this, a bit of the language in the report around accepted to explore or to do something different with that segment of the report to show. I, first I appreciate the bold thinking and I appreciate the fact that there are many homeowners in our city that are affected every year because of basement flooding, and I know how damaging and how demoralizing and how challenging and stressful it can be for families to deal with that. And that's a real and true reality in our community. And I do think that we have to do things that are proactive to address those issues. So fully appreciate what's in here and the fact that we're thinking maybe a little bit outside of the box in how to address the solution. However, I do want to see the options come back to better understand them, but I don't want the message out to be the community, to the community to be that we accepted this at this point while we're still actually in the process of really evaluating our position on it. So I'm not sure if there's something we can do within the motion to be able to better separate those items out so that we can say we're, we want to explore what that looks like, but it's not an acceptance. So maybe I will go back to the chair or the presiding officer and I can park my comments and work on something while other people are speaking if that's helpful. Okay, thank you, Councillor. And just let you know you've used four minutes. So if you want to introduce something, you got another minute. I believe Councillor Frank was next. Oh, and Ms. Remlow, I know you want to say something as well. I will hand the chair back to Councillor Raman and Councillor Frank's next on the list, but go ahead, Ms. Miller. Go ahead Ms. Remlow. Thank you through the chair. If I may perhaps simply amending resolution A to be that the report be received rather than be accepted. Thank you. Okay, I will look for other speakers on this item. I had Councillor Frank next and I saw Councillor Privel as well with this hand up. Councillor Frank. Thank you, yes. I have been following this process for a little while and I pulled up an article from CBC from 2021. And in that article, it's sites that we spend 1.4 million a year with all this unwanted water ending up in our treatment plan. So I noticed that I didn't notice that in this report, but I was wondering if you could verify that 1.4 million that we spent on unwanted water. Is that in relation to this unwanted water that's going through the weeping tiles? Ms. Remlow. Thank you through the chair. I'm not 100% sure on what the 1.4 million they're referencing refers to if that's additional treatment cost, estimated treatment cost. That is a number we could estimate as it's not going to be exact because there will be somewhat weather flows that are captured and treated, but there is more which is also measured and we do not know that amount that is released either after only initial treatment or no treatment. So we would need a little bit of time to put a dollar value on that. Councillor Frank. Thank you, yes. I'll send you the article, but I guess my question, if I could disassociate it from a dollar figure, is the city paying any additional costs essentially to have this unwanted water end up in our systems? Ms. Remlow. Thank you through the chair, yes. Because as I said, so some of that water does go through the full treatment process. So we are treating storm water. Councillor Frank. Thank you, yes. If there's any way at all to be able to estimate how much that is, and then in addition, the basement flooding that occurs, again, I'm not sure if that's entirely born by taxpayers in every situation or if there's some other dollar values that come with that, but I think it'd be good for us to fully understand as well the costs that we're already paying for this unwanted water ending up in our system. And I think maybe that might help point us in a different direction. The other question I had in regards to this is, I know in the report it referenced having the people who are buying the house perhaps be the ones who pay the fee. I'm wondering if the people selling the house who are likely going to make hundreds of thousands of dollars on the sale of their house could either be partially responsible for doing it before they sell their house or be part of their responsibility. Ms. Remlow. Through the chair, thank you. Yes, we can certainly look at the exact wording of that or where the responsibility lays. The intent is that either the seller would be doing it or the buyer would be receiving a credit from the seller to do it afterwards if it needed to be done. Councillor Frank. Thank you, yes. I'm supportive of at least exploring this and I actually think it's really exciting for London to take a leadership role in this area. I think that for the reasons outlined in the report it makes sense for us to at least look at it and see what's possible. I personally purchased a house this summer that is 100 and something years old and found out within a month or two that it had lead water pipes going into the house and had to get that fixed because I didn't really want to be drinking lead water. And I guess all to say, it would be nice in my opinion, especially in houses that are older that have weeping tiles or have lead pipes or have this infrastructure that has been aged that the people who are selling the house have some form of responsibility to, like I didn't even know when I bought the house that had that. And so it's one of those things where it becomes incumbent on the buyer to do this work. And anyway, I guess all to say, I think moving forward it would actually be in my opinion a nice thing for these issues to be at least pointed out. So buyers are aware that they might have to end up spending their money on these kinds of things, which at the end of the day I think is better for us if we have infrastructure that is at the level of 2025, especially with climate change and our increase in flooding risks. So I look forward to hopefully seeing a report back from staff on this. Thank you. Before I go to Councilor Perbal, I've Councilor Ms. Callister and I'll come to Councilor. Go ahead, Councilor McAllister. Thank you and to the Chair. Just to get it on the floor, I would like to amend A to have it as a be received. So I will move that amendment. Thank you. So that would read the pollution prevention and control plan updated study executive summary as appended to the staff report dated December 8th, 2025 as appendix A be received instead of accepted. Do I have a seconder for that? Okay, Councilor Van Meerberg and Councilor McAllister, did you want to continue speaking? Thank you. To the amendment. Yes, I'll speak to the amendment. Just in terms of the conversation we've had, I think there is an appetite to explore, but I think Councilor Stevenson said it well earlier, areas in the city that are older. I would say much if not all of my award would probably be impacted by it. I'm still willing to look at the options. I'm not really willing to just accept it outright at this moment. So I think receiving and getting more information back and give us more options to explore. So I'm happy to go that direction at this time. Thank you. I'll go to Councilor Perbal, go ahead. Thank you, it's for you to just-- Oh, this is on the amendment. Sorry, did you want to speak on the amendment? No, on the main motion. Okay, let's deal with the amendment first then. And that is just to change the wording from accepted to received on part A, any other speakers on that part of the item? Okay, seeing none, we will open the vote. Opposed in the vote, motion carries, five to zero. Okay, thank you. We are back on the main motion, looking for a mover and seconder for the as amended motion. Councilor McAllister, Councilor Rievergen, thank you. Okay, and we'll go back to our discussion. I'm Councilor Perbal, go ahead. Thank you, so to chair to the staff, certainly. By the way, even though I'm not a voting member, I'm glad it was changed to receive. So thank you for that suggestion. I see a great advantage in terms of the overflow sand. I do have it in, I hear it frequently from various areas of the city. So I think that's really positive. Of course, the negative is we are trying to make housing affordable. And then there is the extra cost. And if the staff, if you could explain me the C, because if I understand it correctly, my issue is with that is we are placing it potentially if we agree as a public information. But for me, it's not kind of complete. And what I mean by that, if I look at our grants, for example, if you offer, there are two grants, 4,000 and 2,400 currently, if you look at what we offer. And then in the reported states, it would be five to $10,000. So bottom line is, if you were to place it for a 38 public record, I think that we should do it when we have the study done. And when we are going to the public with actuals, this is how it's gonna be. And this is kind of a negative in terms of them paying five to $10,000, see the buyer's seller or whatever the agreement is gonna be. So if you could please comment on that, 'cause I don't remember that we would do anything like that if it would be full complete report with all the pluses, all the minuses listed, thanks. Mr. Amalou, thank you. Through the chair, the 30 day review period is because this is part of the class EA process in the master planning process. So this is a review period that's mandated. So this is for the PPCP study and recommendations only. That would be put on the Republic review period at this point. This would not prescribe additional cost to property owners. It would not prescribe the implementation plan, et cetera. It's merely suggestions. This is what we've looked at. That could solve the problem. After this, it's similar to doing an EA for infrastructure work that we then go into a design period. And then we go out and do consultation on what the design would be. So in this case, it's study work on how do we tackle this problem of overflows? How would we continue to reduce our overflows? And then the design period is us working on the implementation plan and doing the consultation with the public. There would be a budget process and need associated with this as well. So that will have its own consultation period associated with those. If that answers your question. Council approval? Thank you. No more questions. Thank you. Councilor Stevenson back on the list and I'll go to Councilor McAllister. Thank you. As a follow up on that 30 day review period, in this case, it's right over the holidays. Is there anything stopping us from making it 60 days so that there's time for people to really look at it? Ms. Remley. Thank you through the chair. So the 30 day review period doesn't automatically start when this passes at council. It starts when we issue the notice of completion. So we can wait until after the holidays to issue that notice of completion. That's not a problem. Councilor Stevenson. And that leads to my other follow up, which is what is that notice of completion? Ms. Remley. Thank you. It is a very standard worded document that gets released that says the study has, or that, sorry, that the city has completed this study. It can be reviewed here and it will have a link to the website and that comment and questions and so on can be directed to staff that this address and that the comment period closes on this date. So it's very prescribed. Councilor Stevenson. Thank you. So should we be making an amendment to say that it be filed in the new year? Or is that not required? Ms. Remley. Thank you through the chair. No, that's not required. We can just wait. That's no problem. Councilor? One last one too. When I talked to residents trying to encourage them to do the disconnect connection voluntarily, they had concerns of the risks that it posed to them. Are we aware of what those risks are to their property and future flooding? Ms. Remley. Thank you through the chair. So when we disconnect weeping tiles from the sanitary sewer, what we also do is we install a sump pump and a backwater valve. So those are not without maintenance requirements. So people do need to maintain them. They need to ensure that their backwater valve is functioning properly and they need to ensure that if it is activated during a large storm, that they're not using large amount of water because they could flood themselves out potentially. So there is an awareness that's required when you have this done. But should you, and furthermore, I mean, nothing is fail safe, right? So it's, I'll often liken it to wearing a seat belt in your car. If you're in an accident with a seat belt, that seat belt is your best chance of not being hurt. It does not guarantee that you won't be hurt, but it is your best chance. Similarly, disconnecting your weeping tiles, having the sump pump, having the backwater valve is your best chance of not having future flooding. Councillor Stevenson. Thanks. I'm also wondering about possibly referring even the receiving of this study until after the review period when we've heard from people because I'm a little concerned about receiving it. And then there's nothing in here that says it's going to come back to council for that okay to go ahead and do all the work of coming up with this plan. So I don't know if staff have any suggestions around how we could have an opportunity given that a significant impact and the fact that we're the first in Canada doing this to give ourselves a chance to come back before any work is done. Mr. Remley. Thank you. So we do require council to receive the report and direct us to put it on record for 30 days. That said, if any comments came back that significantly or materially changed our recommendations, we would certainly bring that back similar to how we do other environmental assessments. That said, there was also previous public engagement on this. There were public information centers held and information went out about it to which we have not received a lot of comment or information we may now at this point receive more. But again, that can either inform any changes to the report or inform the next stage of work as we've worked through any implementation. Councillor Steevesant. I think what I'd like to do is make an amendment to see that says that a report come back to council after the 30 day review period with a summary of comments. Just a moment while we work with that. Councillor, can you just restate what you were looking for? The intention is that it a report we brought back to council with a summary of comments after the 30 day review period. I should have said committee. Just a moment while we sort out the language. Hey, Councillor Stevenson, what we're looking at doing is keeping C and amending to add a D. And then in D you have the report. I'm gonna check in with staff. Ms. Rimmel, is there any statutory requirement? Any issue with that if that comes back to us? The chair, thank you. I don't believe there is. Typically what we do after the 30 day review period is that's all packaged up. All those comments and they are submitted to the ministry but we can simply hold off on doing so until after council has had a chance to review them. Okay, Councillor, we'll just read this out for you to see if it's what you intended and then we'll look for a seconder. Through the chair, the motion reads as follows that the motion be amended to add a new part to direct civic administration to report back to the ICSC after the pollution prevention and control plan update study report is placed on the public record for a 30 day review period. I guess it'll just be understood that it's with the public comments, the summary of the comments. Thank you, I think we can add that just to be clear. Okay, thank you. So we updated that to include a report back to the ICSC with the public engagement comments after the pollution prevention and control plan date study report is placed on public record for a 30 day review period. Okay, so that is now here as an amendment looking for a seconder. I'm happy to second it to get it on the floor for discussion. Okay, looking for those interested in speaking on the amendment. I'll give my rationale. I guess there was a little reluctance on a second. The intention is to just bring it back for our awareness again, to be able to give direction if we want to change course. 'Cause staff is gonna do a lot of work preparing this and then bringing it forward. And I just want to be sure that that's what we want before all of that effort is taken. So this is just an opportunity to see the public comments and receive them if that's all that's required or potentially take action if the comments call for some kind of different action. I would also just ask too, if there's a way to communicate with council when that period's open and how to engage the public so that we can participate in that process. Ms. Rowland. Thank you through the chair. Yes, we can send it out through council notifications with the notice of completion. Thank you, Councillor. No, that's good. Thanks. I'm hoping my colleagues will support this because I think it would be, this is a significant. We're the first city in Canada to do this. We are potentially coming back with a plan that mandates purchasers of these properties to spend five to $10,000 on this mandated and potentially there's budget implications with cost of staffing and everything else. So it's a big undertaking that I think just would serve by having a summary of public comments prior to proceeding. Thank you. I'm going to turn the chair over to Councillor McAllister and then I've got a couple of people on the speakers list for you, Councillor McAllister after. But if you don't mind, I'll just, as a second, I'll speak to it. Okay, I'm recognizing I have the chair. Go ahead, Councillor. Thank you and through you. So as we continue this discussion, I guess one of the things that's becoming clear to me is even if we did put this out for 30-day consultation period on the study as recommended here, the comments that come back around that 30-day period still satisfy the notice of completion. So even if it were to come back to committee and then to council, our requirement is to basically say that the study was completed. It doesn't matter if we agree or disagree with the recommendation. I'm just wondering if I could see clarification on that. Go ahead, Steph. Thank you, through the chair. Yeah, I'm trying to figure out how to answer that. So whether or not it means that you agree with it, generally it signals the completion of the study and that is the primary thing. Whether or not, sometimes whether or not we agree with those recommendations, I'm struggling a little bit with this one because it's not our typical environmental assessment where it says you're going to put the pipe here or you're gonna put the road there. This is a recommendation that requires significantly more work and acceptance. So it's a little bit different and it's more of a strategy than in short, I would say that accepting the report today and placing it on the 30-day review period does not tie your hands to move forward with a mandatory disconnect program, I think is the key thing here. Follow-up council. Thank you, just to follow up. So I think where I would been more comfortable is if the report included the evaluation of the mitigation strategies so that we could fully understand what the alternatives were that were looked at and whether or not all those alternatives, why this was the top ranking alternative and if the report included all of those items in it so that it signaled to the ministry, I guess, or signaled as part of this process that this is one of the options. It's the best option that we could come up with and even if it's not council endorsed, we have the ability to move forward with other, maybe less desirable alternative strategies. So I'm just wondering if that question can be answered. Go ahead, Ms. Rhonda. Thank you, through the chart, yes. So we can absolutely make the full report available to you for your review. When we submitted this report, we have appended the executive summary only for the sake of length, but we can absolutely make that report available to you. Go ahead, Councilor. Thank you. So I think at this point, I would be comfortable referring this matter until I see the full report and then from there dealing with this matter because I don't feel like I have another option in front of me and I'd like to understand all the different mitigation strategies before I agree to a preferred option. So we're on an amendment, so I'm not sure I can refer on an amendment. So I will, we can refer the amendment. Yeah, so I'm just gonna hold my comments, I guess, and tell me in motion. Okay, thank you, Councilor. I don't have the speakers list, so who is next on it? Thank you for returning the speakers to me and I will look to Councilor Frank and then I had Councilor Stevenson again and then Councilor Preble, I think. Okay, Councilor Frank. Okay, I'll return the chair to you, I'm sorry. Actually, I'll wait until you do your referral because my question will be about that. Okay, we're on the amendment still, so we'll come back to you. Okay, Councilor Stevenson. Thank you. I just wanna clarify this amendment just as the public comments will come back to committee. So it's not doing anything other than that, but just allowing the public to also see whether maybe they're views in the minority or majority or that kind of thing. So that's all this amendment is. Thank you for the clarifications, looking for any further speakers on the amendment. Okay, with that, we'll open the vote on the amendment. Close in the vote, motion carries, four to one. Okay, thank you, we're back on to the main motion now, looking for to committee. Sorry, we need a new mover and seconder because we are as amended once again, Councilor Frank, looking for a seconder. Okay, I will second to continue discussion on this item. Okay, looking to members of committee, I'm in your hands on what you'd like to do next. The amended version is on the floor, and Councilor Stevenson. Is there a time requirement for us to do this? Are we able to refer this for a certain period of time? Ms. Ramlou. Thank you, Chair. No, these processes are proponent directed. So we have the ability to delay placing it on the public record and issuing that notice of completion. Councillor Stevenson. So if I heard committee correctly, there was, I'll move a referral to the end of Q1 2026. Okay, I have a referral on the floor for Q1 in 2020. The reason would be to engage with the public. To engage with the public, do you wanna add anything else into the referral? I think I do, is it a PPM? No, I'm just wondering if you wanna add the alternative strategies, the full report. Yes, so thank you. And then to refer back for public engagement time period, like for us, sorry, refer back to allow for public engagement and to receive a staff report with sort of overarching alternative strategies. I'm actually, I'm gonna let colleagues maybe help me with the wording on this. Okay, thanks, just to clarify though, the referral, if you're referring it for public engagement, you're only speaking to the fact that the public is maybe seeing this somewhere. It's not because of the notice of completion, which starts the 30-day period. So it's just so that people can provide their feedback based on maybe the things that they see or hear. Yep, it's just to allow time for public engagement and to ask for staff to come back with a summary of options. Okay, thank you, we're just clicking that just a moment. Through the chair, motion reads as follows that the pollution prevention and control plan study update, study executive summary as appended to the staff report dated December 8th, 2025 as appendix A, be referred to civic administration for further public engagement prior to the notice of completion being filed with the municipal clerk. Sorry, I apologize. Be referred to civic administration for further public engagement and report back with a summary of alternative strategies by the end of Q1 2026. I'm wondering if we should just take the public engagement piece out of there. Like, that's what we're going to do, but we're not asking civic administration to do that, so. Through the chair, the motion reads as follows that the pollution prevention control plan update study executive summary as appended to the staff report dated December 8th as appendix A, be referred to civic administration to report back with a summary of alternative strategies by the end of Q1 2026. And Council Frank, did you have, were you looking to second or were you looking to? We haven't, don't have a song of glory yet. I just wanted a clarification. So if we are not asking them to do any more community engagement feedback, we're just going to get them to send the report. Why do we need to refer it? Can they just email us the report? Like, I just don't understand now that we're taking out the community engagement part. What are we doing? Thank you. I think this is so that we can review the alternative strategies and then have a report back on all of it so we can decide what to do at that time. Do you want more clarification of that in the motion? So we're just still on crafting the motion right now. Okay, Councilor Stevenson, does that satisfy the way it's written, does that satisfy what you're looking for? Yes, and I'm open to putting something back about public engagement in there again. I just want to confirm that alternative strategies includes the current strategy, that it would be a brief overview of all of them. So then we'll amend it to say with a summary of alternative strategies as well as the recommendation by the end of Q1 2026. Ms. Ramley. - Thank you, through the chair. So I just want to make sure that staff are clear on the expectations then coming forward. So as written then now, we would come back with the report with more information from the full report. I'm going to suggest, does need to be in the resolution, but I'm going to suggest we do a presentation. But I do want to be clear that you're not asking us to do additional public meetings or if you would. So just, I just want to make sure we're clear on that so that when we come back, we've met your expectations. Thank you. This isn't for additional public engagement at this time. It's just to be able to bring the alternative strategies and then have the discussion where we evaluate the alternative strategies as well as the recommendation. Okay, so that is on the floor. I have a mover. I'm looking for a seconder for that. Councillor van Mirberg and thank you. And now we'll begin discussion. I have Councillor Frank. Thank you. I have a question then for staff and through the chair. So the alternative strategies are already outlined in this report, the staff have already compiled. So, and you just said that you want to put a slide show together. So you're probably going to read the report that you have written that's already done and put together 10 to 15 slides. So I guess my question is why would we need to refer this all the way to the end of Q1, 20, 26 when this could be done in, I imagine a week, but you guys could probably be faster than that. So I just don't know why we would spend this much time waiting for them to be able to summarize something that's already an existing report that we could read. So I guess through the chair, my question is just, is that like correct my logic that I just used on timelines to staff. Okay, thank you. I'll go to Ms. Ramalu if she wants to comment on the timeline. Thank you, through the chair. Yes, I'm envisioning that we help parse through some of the information from the PPCP. It is a large document and put together a presentation comparator of some of those alternatives and perhaps some of the history of things that have been done in the past and so on too. We likely don't need until the very end of Q1, but that said, I know our February, what we're anticipating bringing forward in February is already pretty heavy. So it might be best for March in any case. Thank you, Councillor, anything further? Yes, thanks. Yeah, I'm not gonna support this 'cause I think I probably would be able to read the report that staff said that they would send. And I'm gonna assume that the recommendation that staff came forward is likely perhaps the best one given your expertise. So I don't personally feel like I necessarily need this amount of additional time. I was actually kind of interested in the community engagement stuff because it would be interesting to me to see what residents would say. But yeah, I just won't support this at this time. Thank you, Councillor, students, and next. Thank you. I just wanted to say like I plan to do community engagement sessions on this. I've reached out to real estate agents who weren't aware that this was a thing. So I mean, if we're asking civic administration to do public engagement, I'm happy to support that amendment. Otherwise, this will, you know, hopefully be in the news. People will be reaching out to us. We can have our own community engagement sessions in areas that are most impacted. I'm open to colleagues as to, you know, I'll support as much public engagement as a committee's willing to do. Looking for other speakers on this item. Hey, thank you. From the chair, I will just comment on the referral. So I will be supporting the referral that's in front of us. And my reason for doing so is I do believe that this does require us to take some extra time to be able to look at those alternatives. And I think it would be helpful for us as well as the community to get a fuller perspective of what all those alternatives are, as well as to discuss and maybe share more about how that implementation plan, what the strategy will be. It feels like if we agree to the study, we're agreeing to the recommendation in a sense to move forward. And then from there, it's just a bunch of other connecting steps that will move that item forward as a direction. And to me, that's a challenge without understanding the public's view of that. As mentioned, I see this as a land transfer tax in a sense. And I need to get a full sense from the community about one, their ability to pay and to whether or not the industry feels like this is something that will have some perceived impacts in the local community. Okay, looking for any other speakers. Councillor McAllister. Thank you and through the chair, I'm hoping. My question still falls under the parameters of this 'cause it speaks of the summary of alternative strategies. But I'm just wondering then if staff could maybe comment more on what would be added in? 'Cause I think if I'm trying to put myself in the public's shoes, I think it's council, you know, we have to make our own determination. But I'm just curious how there is no public engagement component of this, but how different between now and when this comes back to us, it will be in that, how this is being presented. 'Cause like, I haven't got any comments on this. Maybe it's because people were unaware. But in terms of these alternatives, from what I heard earlier from Mr. Chambers, we are the first, what would you highlight, for instance, in terms of options because we either don't do it, but like in terms of what mitigating factors, what else could we do that would address the problems you've identified that the public would want to weigh in on? Mr. Chambers or Ms. Ceramaloo? Yeah, through the chair. So I guess a couple of the other major alternatives considered were voluntary, weeping-tiled disconnection, which is in effect already in place. We have overall extremely low uptake in that. So it's largely ineffective for large-scale reduction or elimination of overflows and basement flooding. There would be the non-point-of-sale mandatory disconnect as well, like something like, you undertake a selective enforcement or city-wide enforcement regardless of whether the house is for sale. And then there is the, what I'd say, accommodation or capital infrastructure improvements, such as storage solutions or pipe-upsizing solutions, which Ms. Ramaloo spoke of earlier, which do offer some mitigating effects, but are, if you will, a bit of a band-aid approach in that it will work until it doesn't, until the system is full, and then you're back to overflowing or causing basement flooding. And we do have some storage solutions in place in our infrastructure currently. So it would be a, you know, a compare and contrast on those various alternatives. Councilor Kouser. Thank you, and through the chair, appreciate that. I think where I'm struggling with this is that, the reason why I had previously asked for it to be received is, from what staff said, that they were going to wait until the new year anyways. So I feel like we're entering Q1 once the clock starts on the 30-day notice anyways. I don't see this adding anymore. I think the decision is still going to come back to us, regardless, that we'll have to decide whether we want to move forward with the mandatory. This is Mr. Chambers' outline. The voluntary system has very little uptake, essentially, or come between a rock and a hard place, either go with the mandatory, go with the voluntary. There's not really a lot in between that we can work with. So I'm willing to kind of just let this process move forward as is. I mean, I'm happy to do that engagement with my residents to let them know what's going on, but I don't think delaying this from the timeline that's already being presented is going to change much. So I won't be supporting this at this time. Thank you. I have Councillor Stevenson on the referral. Thank you. Just one question is a follow-up to that. Am I correct in understanding that the current program provides funding for residents who voluntarily choose in? Ms. Remley. Thank you. Through the chair, yes, that is correct. So the public portion of their connection is subsidized at 90%, and that include also the disconnection, sorry, some pump, backwater valve and so on, is subsidized at 90% up to an upset limit. Thank you, Councillor on the referral. Thank you. So another reason for this referral is to give the public an opportunity between now and the end of Q1, 2026, or whenever the report comes forward, to choose in voluntarily and have the city pay for it. Maybe we'll see an uptake in the voluntary willingness to do it, knowing that if we move forward with the alternate arrangement, they're gonna be, or the potential purchaser of their property is gonna have to pay for it, and property taxpayers are gonna have to pay for the whole program and staffing and compliance and enforcement piece. So I think this is a good opportunity for us to see what happens when we engage in the public on this issue. Ms. Ramallah. Thank you, through the chair. So this would not be coming into force, as soon as we issue a notice of completion, as soon as we have that 30 day period. If you think of this really accepting the report at this point is acknowledging the recommendation that this is the best way to remove the problem at the source. However, as I mentioned, there's a lot more work to do after that, and council will have the opportunity to decide if those details are amenable to them and to their constituents. Some of those details could include ongoing subsidies of this work. So it may continue to be subsidized at a certain percentage, but made mandatory instead, so that there is more of the work being done, so that we are seeing that actual reduction rather than the trickle in effect, if that's helpful. Councilor Stevenson on the referral. Thank you, I appreciate that. And I just do see this as an opportunity to potentially get engagement in the current program that we have, because it's gonna get people talking about it and that the opportunity to have it taxpayer funded with the money sitting there already versus mandated and privately paid for, and given that, you know, this would be benefit our city and our river to have people engage, I see benefit in referring this for the few months, and giving the news and all of us an opportunity to see how much buy-in we can get might save a lot of issues. Thank you, any final speakers? Okay, with that, I will look to open the vote on the referral. Closing the vote, motion carries, three to two. Okay, thank you, that concludes that item. We are on to item 2.3, which was the Cross City Feederman Condition Assessment. And I'll look for a mover and a seconder on this item. Councillor Frank, seconder, Councillor McAllister, and any discussion? I have Councillor Stevenson, go ahead. Thank you, I just pulled this one. I was unable to access the inspection strategy from July 2014 on the website for some reason, and I was just curious, you know, is this required? Is it how long is the contract for? How often will it get done? And are we provincially required to do this in any way? Go to Ms. Ramaloo, go ahead. Thank you, from through the chair, I will start with the last question. Are we provincially mandated specifically like this? No, we are mandated to have an asset management plan to maintain our water infrastructure in good condition. So those things are mandated. Exactly how we do that is not. I will refer back to information on the previous inspection report to Mr. Rosenthal's. Thank you, I'll go to Mr. Rosenthal's. Oh, and through the chair, I'm not sure exactly the details from that 2014 strategy that was from time ago, but we do now, I think that was partially in establishing the budget to do regular inspections of our trunk water mains, which we do now, and we do have a budget item for that, which is where this is coming from. In terms of frequency, this would be the first time this particular water main would be inspected, and this contract is for a one time inspection of this water main. As noted in the report, this water main is also continuously monitored. There was an inspection attempted, I think around 2014 on this water main, but there was some technical difficulties with it. They weren't able to complete it. So now we've, you know, advancements in technology in the meantime, and as well, some different processes. We've done some testing, we're confident we can do the inspection this time, so. Councillor Stevenson. Okay, thanks, I appreciate that first time in this committee, so this area is a little bit newer to me, and I noticed that the strategy was in 2014, the next report listed on here is 10 years later in 2024, and then we've got this one in 2025. So, and it is a lot of money, so that just had me asking a little bit more about it. I guess the only other question I have is, and if it's not easy to answer, that's fine, but we did go 10 years without a report here, and now it's been two years in a row, is this something like, will it be different sections coming forward each year, or how is this budget allocated? Ms. Ranaloo. Thank you, through the chair. So, the inspection that we're awarding today is the baseline inspection, so it's where they put an actual device inside the pipe, and we create a baseline condition assessment so that we know what we're working from. The acoustic monitoring is what has been done in the interim, so it actually listens for wire breaks in the pipe, and so when we have a baseline report on that condition, then we know if we're starting with a pipe that's in okay condition and we're hearing the occasional break, we know that it's probably still okay. If we have a pipe that the condition assessment shows is not in poorer condition, and we now start hearing a whole bunch of breaks without acoustic monitoring, we know we might need to do something more and plan for that, so the two really go together. So, the original inspection that baseline was done in 2014, and it remains the same, and then we use the monitoring to keep an eye on it, so to speak, so that's what the 2024 report was. It was for the acoustic fiber optic monitoring contract, the part that we do ongoing today is to finish off that baseline report for the section that we couldn't do previously. Councillor Stevenson. Thank you very much, I appreciate understanding that better. Thank you, looking for other speakers on this item. Seeing none, we'll open the vote. Closing the vote, motion carries five to zero. Thank you, that brings us to item 210, which is the purchase of standard city waste receptacles. I'm looking for a mover and a seconder on this item. Councillor Frank, Councillor van Mirberg, and thank you looking for speakers on this item. Councillor Stevenson. Thanks. Yeah, I just, I pulled this one for a couple of reasons, and I do totally understand that we already have them, and now we're saying we're gonna pay for what we already have, but looking at it from a taxpayer perspective, and on the heels of budget talk, the $1,900 per receptacle just seems really high, and I just wondered if there was staff had any way to sort of explain to like the value, how, why they're so expensive, I guess. I'll go to Ms. Stan. Yes, and through the chair, the costing of these units, it is comparable or less than what you see for a commercially available units. This is a standard that we've developed over about 15 years together with a local vendor to be durable and they're modular. One of the benefits of them is that if one of the side panels is damaged or dented, we can replace just the panel and not the entire unit. So that brings with itself its own savings. They have become the standard in the core with the exception of Dundas Place, and they're also consistently what we're specifying on our road projects as we move out across the city. Same thing, they're included on the rapid transit contract. So going forward, as a result of this report, and we've kind of crossed the threshold where we're using them more frequently, we realize that we need to go through a procurement process, and so we will be looking at all options, but we know that this is one that has been working for us. Councillor Stevenson. Thank you, and I guess, you know, as a follow-up, glad to hear we're gonna get them at the rapid transit stations 'cause I had heard some complaints that there wasn't garbage there. For me, when I drive through the core, I see the lids open all the time. I don't think it looks very good, and we do have people rummaging through them and issues of cleanliness and health issues. I know that Windsor just recently did a sort of first of its kind for their strength in the core program where they were not typical and you can't get into them, and there's a pedal where the drawer opens to put stuff away, they were $2,400 each. So I just wondered, like, and it was 15 years ago or 10 years ago that these were first purchased, and I love the idea that we're using a local supplier, but I just wondered at how often we reevaluate whether these are the appropriate model given the changing conditions, and I just feel like it might save more time if and money if we had garbage receptacles that address the garbage issues that we have in the core. Ms. Stan, through the chair, I'm actually gonna pass this one to Mr. McCray. He can speak to our operations crews in the work that they did to develop the standard. Mr. McCray? Thank you, through the chair. Appreciate the information from the City of Windsor. As we move forward with this, we're constantly reviewing, and so we'll reach out and see what they're using. We have purchased some off-the-shelf commercially available receptacles, and they haven't stood the durability test, but yeah, we wanna keep our eyes open, and certainly, you know, maybe there's ways forward with that product or adaptation of our current product. We have trialled locking mechanisms for the lids in the past that it hasn't worked great, especially during winter, freezing, locks breaking, like from an operational perspective, but yeah, we're kind of always looking for a continuous improvement opportunity, so we'll investigate that further, move it forward. Councillor Stevenson. Okay, thank you. I appreciate the challenges, and I don't actually know how successful those have been in Windsor, so it'd be interesting to know if that's actually done what it was intended to do. That's all the questions I have on that, thank you. Thank you, looking for other speakers. Okay, seeing none, I will call. Open the vote, closing the vote. Motion carries five to zero. Thank you, that takes us to item seven, adjournment, looking for a motion to adjourn. Councillor Viamir, and Councillor McAllister, by hand, all in favor, motion carries. Thanks, everyone. Have a great day.",
+  "transcript_duration": "1 hour, 49 minutes",
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Infrastructure%20and%20Corporate%20Services%20Committee/2025/12-08/.transcript.srt"
+}

@@ -415,4 +415,839 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:52 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (2 hours, 58 minutes)</summary>
+
+Good afternoon, everyone. We're about to get started and just take your seats. This is the first meeting in the Communion Protected Services Committee. The city of London is situated on the traditional lands of Anashbak, Haudenosaunee, Lenafuak, and Adwandran.
+
+We honor and respect the history, languages, and culture, the diverse indigenous people who call this territory home. The city of London is currently home to many first nation, Métis, and Inuit today. As representatives of the people of the city of London, we are grateful to have an opportunity to work and live in this territory. As you'd recognize, I'm not Councillor Ferreira.
+
+The committee selection turns over beginning in December, so thank you to the Councillor for his past service and remaining. I'm the new incoming chair. I chaired in the past. I'm back.
+
+And Councillor Pribble will be the vice chair currently at this committee. So I'm joined in chambers by all members of committee with the exclusion of Councillor Hopkins, who we're not expecting today. Online so far, Councillor Frank and Councillor Stevenson has joined us. So welcome.
+
+The city of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact CPSC at London.ca or 519-661-2489, extension 2425. Looking to committee members for disclosures of pecuniary interest. Seeing none, on our consent item, you will see seven items.
+
+We had a delegation request for 2.6. So I will pull that one. Looking to see if members committee would like anything else pulled from 2.1 through 2.7. Councillor Troso.
+
+Thank you. I'm not gonna pull anything, but I just wanna make a comment about 2.2. Yeah, so that's fine. I'm just looking for pull requests.
+
+And then you can have all the comments you like once we get into it. Okay, so. Someone could pull 2.4 for me. I'd appreciate it.
+
+Councillor Stevenson, I appreciate that. Only members of committee can pull things, but certainly when we get to 2.4, you can speak to it. I was just hoping one of the committee members would. So I'll just make that ask if somebody would be willing to pull 2.4.
+
+I see nothing at this time. Though I'll certainly make a note of that. And when we get to council, I'll have that prepared. So it could be pulled separate for you.
+
+Okay, looking to the other Councillors. Okay, seeing none, looking for a mover and a seconder to put 2.1 to 2.7 with the exclusion of 2.6 on the floor. I have a mover and Councillor Ferrera, a seconder and Councillor Troso. I'll just let you know that in item 2.1, the advisory committee had requested that a member of LTC staff comment and speak to the committee regarding paratransit.
+
+The clerk will make sure that happens as well as the LTC board getting notification as well when that line comes as Councillor Frank chairs that and would like information for the board as well. So that's the only change behind the scene and I will start my speaker's list. I'll start with Councillor Troso. All items except for 2.6 are on the floor.
+
+I just wanna say a few words about 2.2. I am, I wanna commend code enforcement staff for getting these matters on the agenda. I think that there have always been issues in the past about how long it takes for these things to come before us. And I was just very pleased to see this report.
+
+The one question I would ask though is do you need direction through the chair? Is any affirmative direction needed from council to make it really clear that 100% certainty we are going to be charging the tax accounts of the delinquent property owners or is that something that is still a matter of discretion? Okay, to staff. Do the chair know that it's not required?
+
+That's part of our standard process. If we're not able to, if those payments aren't made in a timely manner, to be able to add those to tax arrears. So that is a part of our standard process. Councillor.
+
+Through the chair, do you have any rough estimate of with respect to Dundas property, what that might come to? If you're able to share direct things, Mr. Mathers. Through the chair, we don't have an estimate at this time but our process is to go and get several estimates before we proceed, but they're making sure that we follow over procurement processes.
+
+But yeah, it is likely to be substantial 'cause it's a substantial building. But again, all of those fees would be paid by the owner of the property ultimately. Thank you. My last question is this might go beyond the actual physical demolition, but through the chair, it's my firm belief that the owner of this property has caused a lot of unnecessary and hurtful damage to the adjacent property owners, to the street, to the city, to the agencies who often get blamed for the dilapidated condition that this property owner has allowed to fester.
+
+And I'm wondering does the city have any ability to take these sort of nuisance damages into account when we assess what this owner should have to pay? Staff for the chair, those are definitely considerations that we review when we're looking at which property is to prioritize for demolition, understanding what you're asking, the property owner would be responsible for the expenses incurred in relation to any enforcement action that occurs on this property only. Councilor Troso. Thank you, I appreciate that, no further question.
+
+Thank you. I'll also let everyone know that Councillor Raman and Councillor Hillyer have also joined us virtually. Councillor Frank, and then I will go to Councillor Steak. So I'm gonna do Councillor Frank first, and then I'll throw Councillor Pribilin, and then I'll go to Councillor Stevenson.
+
+Thank you, I appreciate the questions on this item. I did have one question in regards to item, or I guess this item, but location of 76 commissioners rode east. I know that currently that is under a zoning application, and so I'm just wondering how this demolition would impact the zoning application that's currently submitted. To staff?
+
+Through you, I don't believe it will have an impact on that. This is to ensure that the property is brought into compliance and made safe. Councillor Frank. Thank you, so then just for my understanding, would the applicant who is currently submitting their application for development, are they gonna demolish it, or do we demolish it in charge of them?
+
+To staff, just procedurally, depending on timelines? Pardon me, sorry. Could you clarify the timelines question? Yeah, so just, do they have an opportunity to start demolishing first, or once we take it over, I know some of them lag until we start a course of action.
+
+So if you can just lay out the process for that, please. Yes, and through you, they do have the opportunity to demolish it on their own. This is a process whereby we get Council approval to be able to demolish. It's not requiring us to demolish.
+
+So we will continue to work with property owners toward compliance, and if it's their direction that they wish to undertake this process, and by all means they can. Councillor Frank. Thank you, I appreciate that. I just wanted to share that I have received many complaints of this location.
+
+There's many people that go inside and start fires and require EMS services regularly. So I do think it's at the point where it does need to be demolished, so I appreciate that. But I hope that the applicant will do it, given that they are trying to currently ask for a very increased size of density and the lot. So thank you.
+
+Thank you, Councillor Pribble. Thank you, sir, the chair. I'm going to start with 2.3, and through you to the staff. On page 20, it has to obtain the CIP and OPHI contribution.
+
+On page 19, it also mentions Kochi, C-O-C-H-I. And the first, when I read it, I actually thought maybe on the page 20, the CIP should have been in Kochi. But can you please explain to me the Kochi, and then if the Kochi is not needed, it's already done, guaranteed, and it doesn't need to have additional actions taken. Mr.
+
+Felberg? Thank you, and through you, Madam Chair. So the first component, the CIP is actually our dollars to doors Roadmap funded community improvement plans. So it actually doesn't have any funding through the OPHI or the OPHI program.
+
+The OPHI program is part is funding that is transferred to the city from the province with the assistance of the federal government through the Kochi program as well. So the OPHI program is a separate funding source that is not attributed to our particular CIP. Councillor Pribble. Thank you, and just one clarification then.
+
+Then on page 20, it says 3.1, OPHI funding contribution to obtain the CIP and OPHI contribution. So it does not include the Kochi in terms of CMHA 12 times while it is not required to enter any contribution agreement regarding Kochi because I didn't see the Kochi in this afterwards. Thanks. Mr.
+
+Felberg? Thank you, and through you, Madam Chair. No, there is another contribution agreement that's required for the Kochi program. Kochi is specifically for the community housing providers.
+
+So our 63 social housing properties as well as the home CH would be eligible for Kochi. OPHI is a different program which is available for affordable housing developers, much like CMHA or other groups like CCLC, which was the special council we did in March earlier this year. Councillor. Perfect, thank you.
+
+Now I do have the clear understanding of the Kochi. So thank you for that. 2.4 on page 116, the executive summary, it says offering to move some tenants to upcoming highly supportive housing projects. Could I have potential timelines and is it something behind the Elmo and Hill Street?
+
+Could there be other ones as well and approximate timeline, please? Thank you, Mr. Felberg. Thank you, and through you, Madam Chair.
+
+So Elmwood, last update we heard was late January, early February when they would start taking tenants at that location. For the Hill Street project, it's looking like a fall or late 2026 construction completion. So those units would be available at that time. We do have two other projects that are ongoing right now in the vision so-ho.
+
+So the War Memorial Project and the Health Services Project, they're looking probably closer to 2027 before those units will be available, although I don't have confirmation at this time. And then through item 2.3, the Canadian Mental Health Association Project, we're anticipating a 2027 timeframe for when those units will be available for the highly supportive housing in higher-accuity individuals. Councillor Perbell. Thank you for that.
+
+1.3, which is 1.17, so again, administration are undertaking a review and will report back to a future meeting of the governance working group. However, the request for the waitlist policies is not specifically addressed in the audit and will be addressed under separate report. Could you please provide me with the timelines for both of these reports? Mr.
+
+Dickens. Through you, Madam Chair. I can speak to the governance working group review on the tenant placement policies. The chair of the governance working group has indicated that that is to be scheduled and likely in late January.
+
+So we expect to be reporting back. Should that meeting go ahead at that timeline to report on that timeline? Councillor Perbell. Okay, thank you for that.
+
+And there was, sorry, there was another report. There were mentioned one more report. There were two of them. So this one is late January.
+
+And so I don't have it in front of me. The grants are hard. So this one is going to be the waitlist policies because I know it was mentioning two reports to be delivered in the future. Mr.
+
+Dickens. Through you, Madam Chair. It's looking at how we manage the waitlist combined with the tenant placement policy. So it'll be one report back.
+
+Councillor. Thank you for that. 5.1 page 124, civic administration will work with LMCH to report back to Council Q426. I did read, for example, the LMCH has provided five-year operating costs.
+
+But my question is, how were they involved in this report? And also if they are in agreement with it or if it's aligned. If both organizations, if you are aligned, we have the same vision. That's the bottom line.
+
+Thank you. To staff, Mr. Falber. Thank you.
+
+And through you, Madam Chair, absolutely LMCH was involved throughout the development of this report. In fact, they're chief operating officer, Sarah de Canada was here if there are any further questions from Council, but we are definitely aligned on how we are going to be delivering this moving forward. Councillor. Thank you for that.
+
+So if she's, if the representative is already here, would she like to add anything or anything to the report? Staff, Chair, I don't necessarily have anything to add just to echo Matt's comments. We definitely are aligned. I think we jointly contributed the development of this report and have a mutual alignment on how we move forward strategically in terms of operation of the building, as well as how we're managing tenants.
+
+So Councillor. Thank you very much. No more questions? Thank you.
+
+I'll keep building up my speakers list. I'll also note Ms. Campbell 2.6 was pulled to allow for delegation requests, but it'll just be after a bunch of other good things. So you haven't missed it and welcome.
+
+Next on the speakers list, I had Councillor Stevenson, the floor is yours. Thank you, I'll start with 2.2. There was a little bit of confusion about the Dundas Street property and the fact that they had applied for a demolition permit back in 2019 and now it's showing up this way. So I just wondered if we could get some clarity on that from staff.
+
+Staff, please. Through you, Madam Chair, I would just reiterate what I had said earlier in terms of using this as a tool to ensure that we are able to obtain compliance. In this case, we may have to proceed to demolition. We may not.
+
+The property owner themselves may undertake that process, but again, just seeking to have the ability in the enhanced enforcement tool in this case. Councillor Stevenson. Thank you. Yeah, the question was about the active demolition permit that the property owner had.
+
+Yes, and through you, Madam Chair, yes, they just haven't proceeded on that demolition permit at this point in time. Councillor Stevenson. Thank you. I guess the question was on the delay because I think it's just very recently been inspected and approved, but the request had gone in eight years ago.
+
+Staff can comment further. Through the chair, I'm not aware of any delay, but with any demolition permit that was, if you submit one, there's certain actions that the applicant needs to take. So it was issued and they are able to proceed. There may be conditions on which they have to approve, but for the most part, those are in the hands of the applicant for that.
+
+So right now, we're at the point we haven't seen that progress. We would be the ideal situation if the applicant came forward and did this work. We're seeing that there's a bit of a stalemate right now. So we're coming to council and asking for your support in proceeding or giving us the ability to proceed.
+
+Councillor Stevenson. Yeah, thank you. Well, full support from the ward councilor. I mean, the sooner this comes down, the happier many people will be.
+
+So thanks for staff for moving forward with it. 2.3, as far as I understand, this money that becomes available, we find out about it in July and then we allocate it. I wondered if there were other projects that were considered, I know this was the one that got the approval, but were there any other projects that were considered for this funding? Mr.
+
+Felberg, if you're able to comment. Thank you, and through you, Madam Chair, what one of the provisions for this particular funding is the timing of construction and when the building or when the project can actually be complete. Given that CMHA is anticipating receiving a permit early in the year, it fits very well within the timelines that the provincial government have set out. So this was one of the projects given that we were already providing funding under our dollars to doors program that we felt was a good candidate for us to invest some additional funding to support new affordable and highly supportive housing units in the city.
+
+Councillor. Thank you, I also wondered, is there operational funding committed for this building and if that doesn't materialize what happens at the time of completion? Mr. Felberg.
+
+Through you, Madam Chair, this city has not contributed any operational funding to this particular project, but CMHA through their own means, they do have funding and work with the federal and provincial government to support the building. Councillor. Okay, thank you. I'll move on to 2.4 then for the baseline building.
+
+I wondered, there's an increase in the operating costs for security and staffing and where is that funding coming from? Mr. Felberg. Thank you and through you, Madam Chair.
+
+So the additional rents that we're looking to collect by increasing the rent, it allows us to balance out the operating budget and that will support the additional needs of the building. If there's further questions, perhaps Mr. Canada can answer those. Councillor Stevenson.
+
+Thank you. And in this case, it seems as though the city is still gonna own the building. Is there a reason why it wouldn't get transferred to LMCH and just be operated like the others? Mr.
+
+Felberg. Thank you and through you, Madam Chair. We haven't explored that yet. At this point, our focus has been on stabilizing the building for improving the capital or addressing the capital needs in the building and the tenant issues that we have there as well as coordinating with LMCH Tensor viable operating performance moving forward.
+
+If that's something that Council would like us to explore, we'd look for direction on that. Councillor Stevenson. Thank you. And a question on the, you know, changing the tenant profile mix.
+
+It talks about you need the tenants consent to have them moved. Under what conditions are we, you know, addressing issues where consent isn't given? Mr. Felberg or anybody?
+
+Yeah. Through the chair, I'll take this one, Susan. So essentially we are bound rightfully by the RTA, right? So that's where consent plays into how we move forward with some of the tendencies.
+
+Essentially, once this is approved, we will work through a framework to establish the pathways based on the tendency and the complexities of the tendencies on how we move forward. So some of it will be voluntary, some of it will be working together with the tenant to explore options. We haven't established the framework, but we are ready to immediately do that pending, you know, post today's meeting. Thank you.
+
+MSD confused, just, we are formally sitting. So it would have to be Councillor Stevenson versus just Susan, so just flagging that, especially at council. Councillor Stevenson, the floor is still yours. Thank you.
+
+Another question is, you know, it's mentioned here that we'll be moving some of these more problematic tenants into the highly supportive housing. I wondered, has there been inspections of the units at the House of Hope on Dundas Street to confirm that, you know, the apartments aren't in similar damage condition there? Sorry, I'm questioning, Councillor, the relevance, the item that's on the floor that you were originally speaking to, but we'll go to staff if they have information to share, but just keeping it tight to the report. Thank you, Madam Chair, and through you, we don't actually do inspections of those other properties, and our intentions for this particular property are to move tenants into the Elmwood, which would be a brand new building.
+
+Councillor Stevenson. Thank you, yes, I guess I'm just wondering, the premise here is that we won't have the issues, the same issues in a highly supportive housing with the damages that we incurred in this one, and I'm hearing from several sources that the condition of the apartments may be very concerning with damages and that kind of thing at the highly supportive housing on Dundas Street. Is it possible for staff to maybe explore that and get back to us before council to just confirm that the pathway that's outlined here, that we have evidence that that does work? Chair, I'm just respectfully gonna have to call a point of order, sorry.
+
+Thank you, Councillor Ferra. That's out of scope for this report. Thank you, I would rule in favor of that. Perhaps if there's more detailed questions, a follow up behind the scenes, and then you feel something is appropriate after that conversation with staff behind the scenes to bring somebody forward to council.
+
+Councillor Stevenson, the floor is still yours and you've used three minutes, so you have two minutes remaining. Okay, thank you very much. Well, I guess my point with that was, as I said, we're talking about a very expensive, again, lessons learned in terms of this 122 baseline. We've got a property that's only three years old that's looking at severe damages in the units, and we're assuming that this new plan of them moving them to the highly supportive housing isn't gonna have the same problems there.
+
+I think having some evidence to support that would be really good from a taxpayer perspective. In terms of the funding coming from the capital infrastructure gap, I'm wondering, given that we already have a shortfall in that fund, and we're pulling this 700,000, is the extra 100,000 a year to 2028 or 2029 also coming from that fund? To staff. Thank you, and three, Madam Chair.
+
+Mr. Dunbar is also available online to support this particular question. Excellent, Mr. Dunbar, your call if you want just to use audio or visual too, but the floor is yours.
+
+Thank you, through the chair. The going, there is sufficient funding in the capital infrastructure gap reserve fund to flow through to the new municipal housing. The municipal affordable housing renewal reserve fund to support the $700,000 ask in the current report, and going forward, there would be additional funding available if necessary. The process, as I understand it, will be reviewing the needs for the additional unit rehabilitation as we, as the tenants are moving and see if we need the additional 100,000 in each year or what the stage of the movement is the requirement is for that additional funding.
+
+It won't be necessarily 100,000 in 27, 28, and 29. Thank you, Councillor Stevenson. Okay, thank you, that makes sense. Somewhere in this report, it talked about how there wasn't an operational plan for 122 baseline at the time it was done under the development, but then nothing under the operational.
+
+I'm just wondering if staff can comment on sort of how that gap occurred. Just one moment and we'll find the appropriate staff. Thank you, and through you, Madam Chair. Sorry, could you please repeat the question?
+
+Councillor Stevenson. Yeah, in the report here, it mentioned that there was, you know, with the development plan, there were budgets, but that there weren't operational templates hence the shortfall that we've got right now. Mr. Cooper.
+
+Thank you, and through the chair, I'm not 100% sure that relates specifically to the agency operations of the site. I do know during the original ramp up of the site, St. Leonard's does provide a building maintenance worker, a building worker, I should say, in the space and continues to do so, and so that worker at the time was to help facilitate organizations to work in support with their clients that were residing in the building. Councillor Stevenson.
+
+Okay, thank you. And then in terms of the tenancy profile, how did we find ourselves in this situation where, you know, we were placing this tenant profile in this building, and how are we gonna be sure that that isn't gonna happen again? 'Cause, you know, you can see in it that there was a large choice to do from the tenancy profile, and in this case, we put in, you know, highly, high needs people. Okay, sorry, we're just shuffling a few more spots for microphones, and I will note, Councillor, you have 20 seconds remaining.
+
+Mr. Dickens is gonna start off on this one. Thank you, Madam Chair. So how we find ourselves in this position, and this position is relative, and we would always like to bat a thousand on these, 61 units, and all 61 are stellar tenants.
+
+We know in reality, we have a small number of units that have had challenges, and to some extent, very significant challenges that have significant impacts on those that live in the building, not disputing that. How we got here to housing 61 individuals was a sudden announcement by the federal government that the Rapid Housing Initiative was being offered to 15 municipalities across the country, of which we were one. The tenant selection process began by focusing on those that had spent the previous four to six months at the Fanshawe Golf Course. We had been providing stability and support to a number of individuals out at the Fanshawe Golf Course.
+
+They had spent the entire winter months building a sense of community, building some stability, working with those that were on site. And then it came time to start to move towards filling the tendencies at baseline. The team at the time worked with those that were at the Fanshawe Golf Course to ensure that we could meet the requirements of the Rapid Housing Initiative in terms of tenant profile, and then working through other service providers to fill in any gaps that remained in terms of that tenant mix. After months of support out there, at the time folks appeared to be suitable candidates for moving into this new building.
+
+Understanding there would be some services on site. What materialized over the last couple of years was that for many, the vast majority, transition from a temporary trailer unit at the Golf Course to a full blown apartment unit was actually quite successful. For others, it did pose a challenge. And what we learned was that the onsite services were not enough and we have tried to adjust and catch up ever since, not disputing that.
+
+What you will see at the governance working group is staff reporting back with how tenant selection processes work based on the funding source, based on the project requirements, based on community priorities, whatever that may be. I think it's a little bit misleading to say that baseline was a failure. I think those that have been able to build home, build family, build community, it probably feels very successful to them. For those that this has been very challenging and has caused significant issues in that building, absolutely.
+
+And that's why staff have, with council's support, been very fortunate to advance other housing projects where supports are on site. Supportive housing, as we know, is a game changer. Doesn't mean that there will not be problem tenants in supportive housing, as was alluded to earlier, that this won't happen. Units won't get damaged in supportive housing.
+
+Absolutely not. These are complex individuals. And the folks that provide that space and provide that support do absolutely everything in their power to ensure it's successful. Thank you, Councilor, you have 20 seconds remaining.
+
+The last question is the focus on income needs only going forward. How are we doing that here and not across all of our LMCH properties? Hey, if staff is through the chair. So I would say that we are generally focusing across all of our LMCH properties with this focus and other mandates.
+
+Moving forward with a group hopefully that will kind of follow what you would have heard more about the Sylvan Street model in terms of the upfront screening, focusing on those where income is the greatest barrier with low supportive needs. That is generally something we're doing across actually LMCH holistically as well too. So this would be definitely aligned with our current practices. And so essentially moving forward with baseline, we will take that approach, I think more wholeheartedly per se, right?
+
+So ensuring that those families can afford the 80% market rent as well. All those factors in terms of forwardability, intent and mix and low acuity are really where we're moving forward baseline, but generally across LMCH it's a principle that we have anyways. Thank you. I'm gonna go with Councillor Ferrer first.
+
+And as usual, I'm gonna do first round before second rounds. As Councillor Frank, I do see you and I will circle back. I also note that Deputy Mayor Lewis has joined us online as well. Councillor Ferrer, the floor is yours.
+
+Thank you chair. I guess some of my questions were similar to Councillor Stevenson so I'll lead off with that. I did hear, I guess the answer for the framework that what we're looking for for the re-tenancy placement within 122 baseline. I just wanted to go back there first and start there.
+
+So I know we're still working on that, but are we gonna be seeing kind of like a natural attrition for tenancy placements moving out of 122 baseline? And or is there gonna be any type of, I guess, framework that is involved there to better place tenants in better spaces? To staff, through the chair, thank you for the help. So, as mentioned earlier, so as units become available, that's our opportunity to align these strategies to the new tenancy.
+
+The framework I mentioned earlier, it's really important that today's endorsement takes place and then we forward that framework because there is different pathways based on the tenancy at play that we need to explore and ensure that we're aligned to the RTA, that we're respecting the dignity of the individual and aligning to our strategy moving forward. And that's not one pathway. So we intend to do the work to develop those pathways. And I do believe this isn't just for 122 baseline.
+
+This is a framework that we may be able to adopt across LMCH as complex tendencies are something that we experience quite often. 122 is highlighted here today, but some of these challenges for tenants are not unique. So that work we look forward to doing, it's likely timely and perhaps overdue, but ensuring that there is a framework in place to ensure equitable approach, to ensure consistency and align with the strategic mandate that allows for a financial performance that is sustainable across all of our sites at LMCH is super important. And so doing that work and doing it diligently is very important.
+
+Councillor Ferra. Okay, thanks. Thank you for that through you. So I appreciate the answer and I do see that I like how we're looking at across the entire LMCH housing spectrum that they have out of all the buildings as well.
+
+And I do believe, and the report to speak to this and we spoke to this before, but that type of housing is built for income levels. That house is built specifically for people who need housing that's affordable according to their income. And we have heard this story before with placement of tenants and where is the appropriate place to go. So when I see supportive housing and I see we speak about that, I do believe that's the alternative.
+
+And that's kind of how we're making those placements. So I did see in this report, you know, the Elmwood property that CMHA is working on and the Hill Street property as well. So I guess I did hear this answer, but we are going to be looking, I guess, for 122 baseline specifically to see if we can move people from 122 baseline to either Elmwood or Hill Street. I was wondering if I could just get some more specifics on that of where the relocation locations would be.
+
+To staff, Mr. Belver. Thank you and through you Madam Chair. So yes, we'll be looking at Elmwood when it comes online early in 2026.
+
+We'll be looking at Hill Street when it comes on late in 2026. And then as some of the other projects like the CMHA project on the agenda today, as those come online, we'll be looking to transition folks with that need that higher level of care, that more 24/7 support model, they will be able to transition to those locations. What we'll also be doing, and it's outlined a little bit in section 5.2 of the report, is that what we are going to look at is folks that are receiving social assistance or folks that are receiving income supports in order for them to be able to pay what they can afford plus and make up the amount up to the rent, which are some of the city programs that we have through our housing stability services. Those will also be examined.
+
+And then additionally, we've seen a lot of, we've had a lot of success lately at the Sylvan property with LMCH and identifying tenants and making sure the right tenant has the right type of housing. So those projects are moving forward very effectively, but we're also working with Division SoHo folks. And so, Zaren is the first property that came online. They worked with our new wait list process as well, and they've had some, they've been very satisfied, very happy with that.
+
+And we're starting to bring on the other projects, their homes, Chelsea, and the others as they start to finish off. So there's a lot of things that are moving in the right direction, and we'll continue to talk about those that governance work and group early in next year. Councilor. Thank you for that.
+
+Okay, so my next question. I do see in the report, it's noted to ensure a viable operational model that vacancies will lead to new rents at 80% AMR. So I just wanted to like quickly ask, would that be LMCH-wide, or would that be just for 122 baseline? Staff.
+
+Thank you, and through you, Madam Chair, that will just be for the baseline property. Councilor. Okay, thanks for that. I'll move on to another item of the report.
+
+I do see 2.5, that wasn't pulled, Chair. That's still on this consent. Okay, so the old Victoria Hospital Lands and the Thames Valley Quarter Phase I construction contract, just say to committee, people in the neighborhood are looking forward to this improvement that we're gonna have there. So I'm hoping that we get that support for that.
+
+I'm excited to see it. And I guess just one quick question on the property standards related demolitions. I did see that the acreage was given, or the size of the law was given for 76 commissioners, but 120 Gideon Road. I was just wondering if you had offhand what the law size is for that.
+
+And that's just for my own general information purposes. Ms. Taffer. And through your chair, no, I'm sorry, I don't have that, but I could get that for you and get back to you this afternoon.
+
+Yeah, a follow-up behind the scenes is perfect to Councilor for anything further. Just some comments. I guess for the property standard related demolitions, it's a shame to see that those properties in the state that they are especially 76 commissioners and 120 Gideon. So I guess I like this report coming through.
+
+I like that we're gonna be taking action. Hopefully property owners would be able to take some measures in their own hands, but I'd be looking forward to information on that when they come forward. And I believe 2.6 was pulled, so I'm not gonna be making comments on that, so I'm done. Thanks.
+
+Thank you. I am going to Councilor Pribble next who has two minutes remaining. Councilor, you're on the committee, so I was prioritizing you as your vote will hold extra weight today before your council. Thank you for that.
+
+In terms of the 122 baseline, and I just want to mention a couple of things regarding this property, there are many tenants, and I've spoken to some. Many of them are very proud of their place where they live, this place has provided roofs over the heads for many. And just again, from one person that I just recently found out, I knew him for a very long time. He mentioned that actually current issues, he doesn't believe it's as much as the tenants, as with the friends and people coming into the building, which again will be probably even more challenging for us to control, but that's what he has mentioned.
+
+And I just want to say at the executive summary, there's a great last sentence of the building operating performance stabilizes faster than anticipated future capital and operating needs may be reduced. And I'm quite sure we all agree that there should be our goal and hopefully it will be reduced and the cost will decrease as well. So I just want to make these comments. Thank you.
+
+Thank you, Councillor Frank. Thank you. Yes, I just want to provide a few comments regarding 122 baseline. And thank you, Mr.
+
+Felberg, for taking some time this morning to chat with me about the report. I want to share that as the ward, Councillor, I'm very supportive of this moving forward. I've had many discussions with residents in the area who since 122 baseline has opened, has seen a very marked shift in the community along that area. And they have been waiting for improvements for many years.
+
+Over the last year, I'd say there has been some improvements. I've heard anecdotes from nearby residents who have said they have seen less EMS vehicles at the building. So I appreciate any efforts that have been done by LMCH and city staff to make those changes. I do still hear from many residents in the area, however, that there are remaining concerns.
+
+And I'm hopeful that this will address some of them because it predominantly seems to be specific tenants and their guests who are causing the largest disruption in the area. I'm willing additionally to try to relocate those folks to other highly supportive units. Given Elmwood places also in my ward, it will still remain within my area. And again, we'll work within well to address any concerns.
+
+Should those tenants cause disruptions at that location? I think that it is better than evicting the people into homelessness, which seems to be the only other alternative at that point. So I'd rather give them another opportunity to succeed with the right supports. And the last thing I will add is I was a little bit disappointed to see the increase in rent costs go up, but I understand from a fiscally responsible perspective, we do need to make those changes.
+
+And that the people who are remaining in the building will still be paying the current rent that they have agreed to. So folks are able to stay in the building and the building improves. Then those folks who already have rents that are within their means will be able to maintain that. So again, appreciate this.
+
+And I'm hoping that it rolls out fairly quickly because a lot of residents in the area and I think in the building would like to see change. So appreciate staff and on stage effort for moving this forward. Thank you, looking for further speakers on items 2.1 through to 2.5 or 2.7. I see no one in chambers checking online.
+
+I see no one online calling the question. Closing the vote, the motion carries four to zero. Thank you, we have no scheduled items. This moves us on to items per direction before we scoot back for that 2.6.
+
+So if you're here for that, hold tight. This is a communication from Councillor Ferrer and Troso being 4.1 looking to see which Councillor would like to introduce it and then we'll go from there, Councillor Ferrer. Thank you, Chair. I'd be happy to move it.
+
+I also know that there's some delegation requests as well. I believe some are here. So Councillor Ferrer, so you would like to move your motion and that we hear the delegates at this time. Please.
+
+Okay, a seconder and Councillor Troso. Perfect, so we'd like to speak to your motion first and then I will go through the list to see what delegates are here. I'd like to hear the delegates first if that's possible. Okay, okay, so procedurally we're gonna call the vote first then for getting the delegates now and hearing them at this time.
+
+So that's gonna open briefly. And then I'll read through the list of whoever sought delegation status. It's not a public participation meeting. If you didn't sign up in advance, you can't speak to it but I will go through the list of names of people who sought delegation status and we'll see who's here and we'll check, there might be one online too, but we'll check when we get there.
+
+Okay, the vote is opening to deal with the delegation portion at this time. Closing the vote, the motion carries four to zero. Thank you, so for our delegates, I'll go through the list as they appeared on our agenda. Just let people in the gallery know that the top mic on this side is not working.
+
+It's had technical issues. Neighborhood and legal services have sent the regrets for their delegation status. G Harrison, okay, perfect, welcome. You can come to the mic.
+
+We'll make sure that we can hear the volume okay and then you'll have up to five minutes. Open my mask down for this. Perfect, the volume is great. So the floor is yours and welcome.
+
+Thank you. So my name is Gail Harrison. I'm a long-time resident of London and a renter in a rent-controlled building in downtown. My rent was based on the cost of the incidentals of the ownership of the building.
+
+The building was paid for by the owner, the landlord and my rent reflected the costs of the incidentals such as taxes and maintenance and so on. And I've lived there since 1991 and with no incidences between myself and the landlord, it was a great relationship. Until 2019, we were bought by York developments. Since then, I've had to deal with five.
+
+Actually, we just added six landlord tenant issues. Three are N13s, not because of major renovations but because of neglect to the building where they leave repairs and don't do them until they are so severe that they need additional work but don't require permits. These are the kind of actions that corporate landlords are doing to rent control, to try and make it so miserable that we move out and that they can jack the rent without putting any work into the units. A unit in my building has turned over two times since the new ownership of York developments and the rent there is three times what I pay plus parking which should pay for removal of snow and maintenance but it doesn't.
+
+We've had to call several times to have snow removal at reasonable times and even then it's usually just one swipe of a strip through the parking lot and not around where we park taking up extra space which they feel is reasonable to charge the new tenants $75 a month for. It's also a safety concern. There seems to be a continuing problem in the city of buildings changing hands and then units that are rent controlled. Being treated less than reasonably so that they can cash in on the unregulated rents and changes that would be by the provincial government.
+
+It's been very sad to work in the background of this in the fact that there seems to be very little interest from City Hall to manage what they can do for landlords. I know that the new N13 law certainly saved me from going through a fourth N13 for the same issue and finally did get a collapsed ceiling and wall fixed in my apartment. The reason the N13 was there was because as a healthcare worker I do require workers coming in to wear a mask and they didn't want to. I mean, they were dealing with a collapsed wall and drywall and basic standard safety for construction which you would wanna wear a mask anyway but these are the excuses that were used to put off the repair for over two years.
+
+I'm currently waiting to have two windows that were broken during that time and one that was broken before that again I've been promised several times to be fixed. I finally got property standards here at City Hall to give a directive to get them fixed. So they sent maintenance workers who were supposed to show up at a certain time they did. They left without any direction.
+
+I found out two days later that they weren't prepared to do the repair but now they have to have somebody else come in. Now I have to take more time off of work so that they can have somebody come in tomorrow morning again to do measurements. Even though they know the sizes of the windows, they have pictures of the damages and then they won't even be fixed tomorrow. It'll be fixed some time later and I just lost my notes so I'm sorry if I ramble.
+
+We also didn't have heat for the first two months of this year despite the regulation that we were supposed to have heat as of September. We put in several complaints. We finally got property standards to reach out to York the middle of October. They were told that they didn't have the parts that they needed to fix it.
+
+Although there was some doubts about that because when I had a hole in my ceiling-- 30 second morning. Yep, when I had a hole in my ceiling they said that they couldn't find a six by four piece of drywall anywhere in the city. We now have some seniors who are sitting beside me and they're up on delegation right now. Marsha Davis can't be here.
+
+She's asked that I can speak with her. I don't know if that's within the rules but she's had a health issue. But their building was just turned over this year and they've received two N13s because they want to convert this building that was specifically built as a residential building into a commercial building. This is happening again where they've asked for it.
+
+They did an N13 and they want permits and surely I would plead the city not to be putting permits into convert affordable housing into commercial. Sorry, that's your five minutes. Okay, thank you. We need to look at things-- You're almost at six minutes.
+
+I did give some grace already. I'm sorry. Let me just finish with saying, you know, the physicist Erwin Schrodinger says it's not enough just to see something as being different but we got to think about things differently and it's really time that City Hall looks at things differently when it comes to affordable housing or more of us are going to be out on the street. Thank you.
+
+Our next speaker would have been M. Davies, which we just learned can't attend. For anyone in the future, you're always welcome to request a call-in feature or a Zoom feature. That way if you're not well or whether it picks up, we can still accommodate you that way.
+
+She's tried. She's been texting me and she wasn't able to-- Okay, well, I'm going to ask the-- Okay, I've been told that she has the link and she is watching but has chosen not to participate virtually. So like I said, even in this situation, always trying to have you to accommodate what we can to make sure delegates get their time. So I'll leave that there.
+
+Is it B. Grossman here? Okay, no one else is online. Oh, perfect.
+
+So welcome, you have up to five minutes. I assume you are B. Grossman. I am.
+
+I don't know exactly what to say but we have been in the apartment that she just spoke about where the zoning was residential and in the early '60s, the main floor had a clause to allow office/lawyers offices on the main floor. Floor is two, floor is three. With two apartments each were to remain residential. We have been there over half a century, obviously on a rent control that is way less than what we would have to do if we went elsewhere.
+
+We are on limited incomes. This is unacceptable. And as Gail just said, we have received another N13, which we ignored because they don't qualify. So they have not asked for a tribunal and we paid the last month's rent and it was not sent back to us.
+
+So the landlord knows that we are paying the rent. There are two other apartments that are in the same situation. The fourth apartment of the tenant living beside us decided that she just didn't want to deal with the hassle and she could afford to move out and she found great accommodations that were at least $1,200 more a month plus plus. So we are of the example of people who are caught up in this where a landlord wants to evict people who seniors.
+
+I mean, none of us are less than 72 years of age. We thought that we would be here forever and hope that we can be. I'm not sure what else I can say. Okay, I guess I'm done.
+
+Okay, you only get to speak once. So if you need to make sure that you didn't forget anything, go ahead. Thank you. Thank you for joining us.
+
+Marcia Davies, I see that you've joined here on Zoom. You're welcome to just observe or just looping back if you want to speak. You are welcome to speak if you do with your camera on or your camera off, that is up to you. So you are muted at the moment, but looking to see if you were just wanting to observe or if you want to take this opportunity to speak.
+
+We can't hear you, they're not. Perfect, we can hear you, welcome. You have up to five minutes if you would like to speak. Okay, well, I think I had Marcia Davies here.
+
+I live in the same building as Dan and Bennett and my friend Barbara. The other lady, Diane, who was in unit two has already moved out because she got scared. She had the means to pay the higher rents. That are on in the city at this moment.
+
+However, the rest of us don't have those funds. I've been in my unit now for 23 years, it's my home. And now because of the people on the first floor who, yes, who have established the business down there, their clients feel that the building is very charming and she now wants to turn the rest of our homes into offices for herself, which to me doesn't make sense because there's a lot of empty office spaces around this city already that could be used. Another thing I wanted to mention was with all the equity we've put into this building between Dan, Bennett, Barbara, myself, and Diane, we've basically paid the mortgage on this building over and over again and we've received nothing in return for it.
+
+And lastly, again, I can't afford to be moving out. I don't have the income to pay for the prices of the apartments that they're asking. This is my security in my home and my safety. And receiving the N13 says totally disrupted my life.
+
+My health has been affected along with my neighbors that their health has been affected. And we're really actually scared to death that where are we gonna go and what are we going to do? We have, we'll be homeless. I'll be out on the street and I'm disabled as it is.
+
+So they have all our equity into this building that we've paid in over the years. I don't know what else to tell you. I'm just hoping and praying to God that these N13s are removed from us so that we don't have to lose our homes. Thank you.
+
+Was that the conclusion of your comments, Ms. Davies? You did wonderful. Just want to know that you were done before we go to the next speaker.
+
+Just give me one moment. Yes, I'm hoping that the council's decision will not allow our residential building to be turned into a commercial building. It's a residential area. The entire streets around us are residential and they're trying to create more housing.
+
+But what sense does it make throwing seniors out on the street to have to like turn it into offices when there's a lot of office space available already in this city, empty, sitting empty, thank you. Thank you, our next delegation request would be debarns. Perfect, welcome to technology, the mic on the lower level. Yeah, I think both of those mics work.
+
+Yeah, it's just the top one that's wonky. So yep, that's okay. So we'll do a sound check once you say hello and then when you're ready, you have up to five minutes. You can always take the mic out too or if someone wanted to help them take the mic out, you can hang onto it, you don't have to fight with the arm thing.
+
+Thank you, can you hear me funny? We can hear you perfectly, welcome and you have five minutes. Okay, good after counselors, my name is Darcy Barnes and I'm a member of London Acorn Central Chapter. I'm 63 years old.
+
+My neighbors and I have been fighting a demo eviction in my six unit building for almost eight months. We've been served two in thirties by our landlord, Scott Wilson. The first in 13 came April 2nd. It claimed he wanted to renovate and demolish the building.
+
+He also sent a letter saying there was two apartments that were illegal, but when asked which ones he said he didn't know, this didn't make sense to me. He also threatened after the first in 13, he threatened to have my neighbor's car removed. He also claimed that we had five days to tell him if we were leaving or staying. With the first in 13s, I was in shock.
+
+I was terrified, I didn't know what to do. I'm unknown, the Ontario Disability Support Program. I can't afford today's rents. I'm afraid of becoming homeless.
+
+I don't know what's gonna happen to me and my cat. I felt like there's a cloud hanging over my head since day one. I knew I had to find out as much information. I reached out to Acorn and the neighborhood legal clinic and they helped me understand my rights.
+
+Landlords aren't legally allowed to claim demolition and renovation in the same end 13. And he was supposed to give us three months compensation, but only offered one. I later learned he never filed the first in 13 with the LTB. He clearly thought we would just cave and leave.
+
+I called the city a multi-illegal apartments, the landlord mentioned. And this city told me all the units were illegal because the building is own commercial space. But they would be legalized once the landlord was approved for the zoning change. On April 12th, my landlord, Scott Wilson sent me an email saying they hadn't heard from us.
+
+And then if we wanted to stay, the rent would be 1,500 for a one bedroom and 1,200 for a bachelor. I currently pay 692. My neighbors pay similar. Legally, he's supposed to offer us the same rents we had before.
+
+He's just trying to get us to pay for the renovations. I contacted a paralegal trident representation, but the cost was prohibited, $3,000. I couldn't afford it. The neighborhood legal clinic left a voicemail with my landlord, explaining what he was doing was illegal, but he never responded.
+
+On May 24th, the landlord showed up my hall, uninvited, and offered us cash for keys. He didn't want to talk to us or explain what was happening. He just wanted us out. I explained to him what I was told, and they need to give us three months' compensation and the issues with the eviction notice, and asked him to speak to the neighborhood legal clinic.
+
+I also explained to him I was having maintenance problems with leaking sink and a stove door. He hasn't addressed any of these issues. My neighbor, Arnold, asked him to keep the driveway shoveled. He hasn't shoveled once.
+
+All summer, there were weeds and ornaments everywhere. The landlord soon realized we weren't leaving in an early June, June 12th. We received a second-end 13. This time, it was for renovations.
+
+He also, with the end 13, served my neighbor Todd with an end five for disruptive behavior, because he simply smoked in his unit, which he's legally allowed to do. After this second-end 13, the London renovation by-law passed, so we knew we couldn't get ourselves that way anyway. The legal clinic told him to communicate through them. He kept saying he wanted to negotiate in good faith, but refused to speak to the neighborhood legal clinic because he wanted the precious individually.
+
+Then we had our hearing November 19. Right before the hearing, I was lucky to get somebody from Western University legal aid to represent me and helped us get the eviction dismissed. But we were lucky if the landlord had not made so many errors, or if we had believed the threats and misinformation, we would have lost our homes and be in dire straits. I worked like a dog to protect my home.
+
+I shouldn't have to fight this hard to keep a roof over my head. This situation has been awful. I've been suicidal at times, and I just want to say, these bad face of addiction traumatized people. The hard part of the fear or not knowing what's happening or what's coming next, I've never felt fear like this.
+
+Please don't let more people go through the horrors. Please protect us from the next demo eviction that's coming this way. Thank you. Thank you, Mr.
+
+Barnes. Yeah, if you just try and shove it back in there, that's fine. Thank you. Looking to see if there's a J.
+
+Smith for East of A.L.A. chapter chair. Perfect. So your option as well to use the microphone the way it is and fight with the arm or remove it your choice.
+
+And then once you're there, you'll have up to five minutes. And then this will be our last delegation, and then we'll get into debate. And just letting everyone know that there is one correspondence in our agenda from London Acorn that is included to receive it in your motion. That's so easy.
+
+(laughing) Florida lawyers and welcome. Thank you. Good afternoon, counselors. My name's Jordan Smith.
+
+I'm the chair of the East of A.L.A. chapter of London Acorn. Acorn, as many of you are all aware, is a community-based union of tenants made up of low to moderate income residents. We've been organizing in London since 2020 and nationally since 2004.
+
+Our members set our priorities, and most of our work is done by talking directly with people in their neighborhoods, building leadership and taking action on issues that matter to the working-class communities. Today, Acorn members wanna show our support for the motion to look at ways to stop the bad faith demonstrations in London. Right now, Ontario is losing affordable housing that we have faster than it can be replaced. The province keeps pushing new development, but most of the new buildings going up are expensive luxury rentals with no rent control at all.
+
+Meanwhile, the housing that is truly affordable, which is the older rent control departments, is the housing that's most at risk of disappearing. And I just could briefly go off notes here real quick, as you can have heard from the delegates previous to me, at first hand, the first people to be targeted are the people that have been in their units the longest, which most happens to be the most vulnerable. It's the elderly and it's the disabled. And the traumas that they have to go through to fight back against these bad faith tactics, it's exhausting to say the least.
+
+Earlier this year, Council passed an anti-renaviction by-law, and Acorn wants to recognize how important that step was. It's already made a huge difference by drastically reducing the number of fake renovations being used to push tenants out, but those rent evictions were only one tactic. Demovictions, when a landlord empties out a building to knock it down and replace it with something bigger or more profitable, are becoming more and more common. Demovictions are especially harmful because they permanently erase affordable homes.
+
+When a rent control building is demolished, it usually gets replaced with high-end apartments that the original tenants can't afford, and that don't have rent control. Families are pushed out of their communities. Seniors lose the ability, the stability that they rely on, and people on fixed incomes are often left with nowhere realistic to go. Hamilton Acorn has documented these impacts clearly as part of their own fight for stronger tenant protections.
+
+That's why Acorn is asking the city of London to consider bringing in a rental replacement by-law. Many other cities, including Hamilton, Toronto, Mississauga, Oakville, and Kitchener, have already have versions of this in place. A strong rental replacement by-law would require that if a developer wants to demolish a rental building, they must, one, replace the demolished rental units with new rental units at similar rents, and maintain those rents according to the Ontario's rent control guidelines. Two, to give current tenants the right to move back into the new building into a similar sized unit at the same rent they were paying before the demolition.
+
+Three, to provide tenants with temporary housing at the same rent during construction, or offer up a rent top up if the tenant prefers to find their own place. Four, is to cover moving the cost for tenants who are forced to relocate. And finally, clearly inform tenants about their rights from the very beginning of the demolition process. Purpose built rentals buildings, which are the backbone of affordable housing in Ontario, are at the highest risk of demolition.
+
+Most of these buildings were built decades ago, and once they're gone, their affordable units are gone for good. Keeping them standing or ensuring that any redevelopment does not result in a net loss of affordable homes is essential if we want to prevent the housing crisis from becoming even worse. A rental replacement by-law would give London a real tool to protect the homes that we rely on. It would prevent unfair displacement and make sure that if redevelopment happens, the tenants aren't left behind in the process.
+
+30 seconds. Acorn urges council to move ahead with this work and bring forward a rental replacement by-law for London. Thank you for your time. Thank you, Mr.
+
+Smith. That concludes our delegation request for today. So moving back on to the main topic. I'm not sure who would like to speak.
+
+I'll start with the speaker's list with Councillor Ferra. Thank you, Chair. Just for the motion that we moved, do you need to add the receive of delegations? We called that vote separate, and then they've already added in the extra communication from Acorn that it'll be included in us too, so we don't lose track of any paperwork or the delegations.
+
+Perfect. But we're good procedurally, thank you. Thank you. Do you want me to read out the motion, or can I just make my remarks?
+
+We're gonna post it up on the big screen. It should be up now. It's your speaking time, you're welcome to read it, or you're welcome just to get into your comments. I'll just let everybody read it up on the board.
+
+All right, so I appreciate the delegates coming through and speaking here today, and I appreciate the committee hearing this. This motion that we brought forward, Councillor Trusson, myself, is about homelessness prevention. It's about preventing homelessness before it even starts, and it's also about saving affordable housing. The biggest stock of affordable housing in the city is the unseen stock from longstanding tenants who have been in rent control buildings for a while.
+
+So if we see that stock get eroded, we will see our homelessness crisis just tick up to a whole other level, which we're trying to prevent, and that's the main intent of this motion as it is. It saves costs on the municipal coffers. It saves the psyche costs of tenants themselves who are worrying about being displaced by either a demo eviction or any type of rent eviction. And I really think that this is something we should be doing.
+
+It's part of our strategic goals, it's part of our strategic direction, and also it's something that should be incorporated within the complement that we have right now. So I do wanna go to staff with that question, that specific one, and that is, if we were to expand and add, minimally add to our current rent evictions program that we have, would we be able to use the complement that we increased with that to also cover this? Is that a possibility? I know you still have to look into it, but is there a possibility there?
+
+To staff, yes, and through you, Chair. Yes, we do anticipate, depending on the nature of what these improvements may or may not look like, that our current complement would be sufficient to address these, yes. Councillor Ferra. Thank you, I appreciate that.
+
+So this is definitely something that we can do. It doesn't seem like it's gonna have an extra cost, it's just will give us that extra tool to protect tenants. As we can see, I have two handfuls worth of cases when it comes to the STEM evictions stuff. I have individuals who showed up in the gallery who spoke to their case, and I haven't even met them before, so clearly there's more than what I know.
+
+And citywide, who knows what the number is right now, but there has been a clear increase on demavictions from bad faith landlords just looking to remove tenants from their longstanding housing for reasons that are not really what these N13 forms are supposed to be meant for. So I appreciate the delegates coming out and speaking to us and telling us what's going on. And in the end, you know, this is, like I said, it's about homelessness prevention, and it's about saving affordable housing. So I'll leave my comments there for now, I may come back into it, but I would like to hear what committee has to say, and I'm hoping for your support for this motion.
+
+Thank you, Councillor Troffs. I would like to speak now, or? I have no one else on my speaker's list, so before I call the vote, doing last call. Yes, when you're involved in a controversy like this with your landlord, and I speak from experience 'cause I spent a good part of my life representing tenants in different city, at different time, at different place, but it's the same thing, because you're never done.
+
+You never win, you never go to the board, and you're told, you won, congratulations, it's over, because they can come back and do it again, and again, and if they don't wanna use the same tactic, they used unsuccessfully the first time, they've got a variety of different things they can do, and it takes a toll, you never get to walk away from a landlord-tenant controversy when you're the tenant. You get to go home if you're a representative, or if you're the landlord, or if you're the city, but you never, ever, ever get the peace and security, and the quiet enjoyment of your premises when you're a tenant, because you know, even if you win, which isn't always the case, sounds like people have been very diligent about being able to access neighborhood legal services and community legal services, and some very, very talented lay counselors who are in the vicinity helping them. Not everybody's that lucky, we don't hear about it. The city needs to take more purposeful action, and I understand there are two reasons why some people don't wanna do that.
+
+Number one, the city doesn't have the authority. Well, the city clearly has the authority here. We're not trying to make amendments to the good cause for eviction of provincial requirements. We are simply trying to using the limited resources that the city has that are well-recognized heads of municipal authority under the Municipal Act to actually provide just a little bit of assurance, peace and quiet, and dignity to our residents.
+
+We're not, you're not asking for much. I knew there was going to be another round of requests for amendments to the demolition by-law when we went through the first one, which was good. And I was very, very happy that we were able to get this council to come together, I believe it was the anonymous, to pass the by-law that we passed. Subsequent evidence has shown that we need to take that next step now.
+
+Now, we're not putting any specific legislation on the table today. We're asking staff to come back. And I think that's an imminently reasonable request. And the last thing I want to ask is, I guess this is a zoning question for Mr.
+
+Mathers. What is the effect of a 1960 zoning amendment on the state of the situation in 2025 when we have vastly different circumstances? Mr. Mathers, I'll go to you recognizing this is not planning environment committee and just trying to keep it tight.
+
+Through the chair, so we haven't reviewed that specific property. So we can do that, but if it is something that is within the current zoning regulation, and it was previously approved by council, it would need to be re-reviewed by council. And very much we are looking at updating the entire zoning by-laws, proper rethink process. So there's possibly changes in the future, but absolutely the context has significantly changed from the 1960s to the current context.
+
+Yes, thank you for that through the chair. It most certainly has. And would that be something that would go to PEC? Okay, so I won't pursue that avenue now.
+
+How much time do I have left? A minute and a half. Good one, and I yield to somebody else, and maybe Councilor Pribble is the lucky guy who is waving at me next. And then I'll put you back on the speaker's list.
+
+If anyone online would like to chime in, just put your little virtual hand up and I'll circle to you next. Thank you, Chair, and through you to the staff. And we passed the repair license by-law in March. And I heard from our Mr.
+
+Smith, and potentially one more person that it has been positive, or it shows some positive effects already, which I'm very happy to hear. Since March, or is this sufficient time to kind of give us to analyze true effectiveness of this initiative that we have passed in March? Not quite, but I hear there's a report coming back to staff, yes, and through you, Chair. We do have a report coming back early Q2 of 2026 to discuss the potential success of what we have done so far.
+
+And certainly through that endeavor, we'll be looking at any potential improvements to tighten up the N13 in relation to renovations. Councilor Pribble. How many licenses for the rental units repaired did we have so far since March? Staff.
+
+Through you, Chair, so far we've issued seven. Councilor? Thank you. If we were to pass, and again, currently it's at the committee level, it will go to the council.
+
+If we were to pass it here today and at the council, what would be the reasonable time for you to come back with some proposals? I believe we'll get maybe Q3. I'll go to staff though. It will take a little bit of time.
+
+Yes, through you, Chair. Q3 would likely be the earliest. It's certainly not enough time to get it ready to accompany the report in Q2. Q3 or Q4 ideally speaking, Councilor?
+
+Thank you for that. And one thing that I wanna mention and yes, the new buildings that have been built and developed on really, as you know, we are giving green lines to many, many and the units are there. Then they do not have rent control, that is correct, but in terms of the supply and demand, all the day right now, depending on the building, they are 10 to 20% lower than they were about a year ago. Yes, still with the 10 to 20%, I agree.
+
+It's still not affordable to many. I totally agree with that. Based on what I heard from the staff and some of the questions and communication I had prior today, I will not be supporting this, what's in front of us. What I do want to do is wait for the Q2 report coming back to us because I do believe that that will give us additional information for us to make the best possible decisions.
+
+And what I mean by that is that if we are gonna get this in Q2, the staff is gonna work. If this would be coming before, then I would still understand it, but we already have a report that it's coming back. It's coming back before the Q3, Q4, and I really wanna wait for it and make the best possible decisions going forward. So even with this, it's not that it's gonna be, it's not that some of the individuals who are here and online that would be influenced would be having the deadline or the report coming sooner.
+
+It's actually the other way around. So I will wait, I don't know if this, by the way, I know if it's proper, but I do want to, because I wanna lose Ms. Harrison if he can either wait for me afterwards or if he can contact me. But thank you very much, no more questions or comments right now.
+
+Thank you for Ms. Harrison. I also note that if you don't wanna hang out and wait for Councilor Pribble, 'cause we still have confidential session after this, the Councilor's office is right outside when you leave and you can just leave your name and contact information. Should you wish to engage in conversation with the Councilor?
+
+Councilor Freire, you were next. You have used 220, so the rest of the time still yours. Thank you, Chair. Here's a question.
+
+For our current rental unit repair license program that we have, a unit that it's looking for a change of use or a demolition on that, is that applicable for the licensing regime as it is right now? So the question is, if we were to get this report back, will this cover demavictions? To staff, your interpretation of what's on the screen and how you'd interpret it and operationalize it? Through you, Chair, no, it will not be making reference to demolition or conversion.
+
+Councilor? Thank you. I hear the comments from committee members, but this area doesn't get captured and it all started, I guess, when I started getting cases coming in and I started looking at the business licensing by-law and I started looking into schedule 23 of the business licensing by-law that specifically speaks to our rental unit repair licensing regime and demavictions or demolition or change of use is not captured under that. It also says on the city website for information from landlords that demolitions or change of use is not covered within our program as it is right now, which is why I'm bringing this forward, Councilor Trustee and I.
+
+I also have a board that is highly a rental ward. Lots of tenants are renting in spaces in my ward and a lot of people are clearly at risk of that. So this is what this is for. We have some delegates here who have spoke about the issues that they have been going through, longstanding tenants paying their rent always on time, very good upkeep of their units, but yet they're still at risk of losing their housing and I can say that we have gone through a couple of rounds of N13s with the tenants of one of these buildings where they have been lucky enough to be able to win at the LTB, but eventually I am worried that an N13 will come through and they will not be so lucky.
+
+So this is about saving people from homelessness and it's about, like I said at the beginning, keeping and maintaining our affordable housing stock. I really hope that we can get support for this. Now I guess some of the other questions that I have would be what can we do in the meantime? And I did look into this with staff 'cause I did see when we were having our discussion about ADUs, there was an interim control bylaw that was brought into effect.
+
+And I did look into that 'cause I wanted to stop that potential happening. 40 seconds. So I guess I'll just go to staff and just speak. If you can give me how, if it's applicable an interim control bylaw for this motion right here, is that a possibility?
+
+Is it not a possibility? Staff. Through the chair. So we did review that and that's not something that's possible under the Planning Act.
+
+So there might be other ways to be able to look at this and to possibly have different abilities to do it, but that's not one of the ways that you can do it is through an interim control bylaw. Council for. Thank you for that. Would you require a motion to include that amendment to the language of the motion?
+
+Or could you look into that potential interim control that we may or may not be able to bring in? Sorry, and Mr. Mays, I believe your prior comment was that it's not applicable under the Planning Act. So just looking for clarification.
+
+Through the chair. So yes, it's not something that's applicable through the Planning Act, but if you'd like some documentation around that, be happy to provide as part of this report, but we have done a review and it reached out to legal as well and it's not something that's allowed. Is this documentation something you'd have to make or something that you already have? It would be something that we'd work with legal on in the language.
+
+So I would suggest if you are looking for that, then it's something we can provide as part of this committee report if it's something you need. Council for. Thank you for that chair. I guess I'm done with my comments and my questions for now.
+
+I guess Q3 or Q4 is when we're expecting this report in 2026, hopefully the sooner rather than the latter, but I'm not putting pressure on that. And I'll leave my comments for there. Thank you. Councilor Pribble, could you take the chair if I can make comment and a question to staff, please?
+
+I have the chair and I recognize Councilor Pelosa. Thank you. The clerk helps you time. So just cut me off when I get close.
+
+A question through you to staff. I appreciate what some of the guests in the gallery have raised today in regards to the questions around residential units being renovated and then becoming commercial space and being rented out. Just reading the motion that's before us of bringing back things that would potentially prohibit this of the conversion from those units to commercial spaces. Realizing some of these properties in order to do this would already be zoned with a certain amount of commercial, especially on the main floor.
+
+Just looking to see how you would interpret this. I'm just looking at some of this actually might be in contravention to the zoning that these places already have that allow them to do this, that we've got ourselves into a bit of a legal quandary when they've already been giving zoning. Mr. Oh, sorry.
+
+There's stuff through the chair. So absolutely, if there is an as of right ability for someone to use a building for the purposes of commercial, that is something that needs to be respected and have regard for. We have just done extremely preliminary work on looking at some other municipalities and what they've been able to do. And there does seem like that there is some municipalities that have a conversion application process.
+
+So that might allow different ways to be able to provide those checks and balances. Similar to what we have for our renovation program. So we're very happy to do that research and take a look at what is applicable and work with our legal team as well to ensure that everything is about board from a legal perspective. Councilor, any follow up?
+
+Thank you, one follow up. Just looking to see how that currently is procedurally handled when they are zoned to do a conversion and they are doing it and following the process of when there's that conflict, how do we currently, what application comes in or what's the process just behind the scenes? Through you, Mr. Chair, designing officer.
+
+Good stuff. Through the chair, similar to any kind of a renovation, usually they're from what we've seen is that it's looking at for renovation of a property. So that would come through very similar to any other kind of application and be a building permit. They would part of that process and ensure that the zoning allows for the use that's being proposed.
+
+On the owner's side, there may be the M13 portion or the aspect that they need to go through, but that isn't something that we would see currently within our processes. We would only see the permit coming in. So if we're looking at some other type of process and it may allow for more of those considerations of what's happening related to the actual tenant on the property. Thank you, Councillor, I fill up, no fill up.
+
+No one on the list, we're turning the chair to you. Thank you. Councillor Trousa, I believe you've used three and a half minutes, let's just check. Okay, so there are a few lingering issues I wanna close up.
+
+Number one, just because there was a zone change in the past and if the unit was vacant, they'd be able to put the commercial use in there and that doesn't mean that they can circumvent a whole range of other laws, all these other laws, whether it's, they have to be harmonized. So this doesn't give them an absolute right to say, okay, you're out of here because we've got a zone change in 1960, that doesn't, that doesn't work. And I understand that the interim control by law, that title is something that's unique to the Planning Act. So we're not gonna do that here, I get that.
+
+But what I'm worried about is people falling through the cracks 'cause now that everybody in the public knows that this is something we're considering, my worry is that landlords will rush in before the effective date of the by-law, which won't even be until later next year and start issuing these. We need to be as part of this review, looking at ways to protect people from falling into cracks in the interim and I think I heard you say that that's something you will look at. Finally, finally, I'm looking out at people in this audience. I'm not willing to write you off.
+
+I'm not willing to say, sorry, we're gonna do a review next year and too bad so sad if something happens to you between that 'cause I hear the stress that you're all going through and I want the city to be responsive to that. So no, I don't want to-- So that's your five minutes. Yeah, I don't wanna delay this anymore. Thank you.
+
+- Thank you. And I would like to say that in regards to how a person votes on this for whatever reasons, it doesn't mean any of us are writing off any residents of London. Looking online to see if there's any one online who would like to participate as I have no hands currently in chambers. Okay, if anyone else is besides Councilor Raman would like, please just indicate as my speakers, this is becoming exhausted.
+
+Councilor Raman, welcome and the floor is yours. Thank you. I appreciate the conversation here today and I really appreciate hearing from the public on this item, I just wanted to, I guess speak to some of the points that Councilor Troso just made because I tend to agree that if we're moving in this direction and thinking of strengthening the renovation by law by considering any other potential coverage with demolitions that there is the opportunity that with the amount of time between our deliberation and decision that we could be looking at a situation where more come forward or there's some desire to move those maybe forward that perhaps wouldn't have moved forward because we're considering it. So I'm just wondering, looking at Mississauga's by-law, Oakville's by-law, Toronto's by-laws around Demaviction, it seems like we're in a similar position to where we were with Hamilton where there's some really good potential measures already for us to consider.
+
+And so I'm just wondering if staff might comment on what further they may be looking for to staff. Through the chair, so it does appear that there is a lot of other work that's been done. I'll just highlight for committee that we've had a significant number of by-law related requests in the last four months of very urgent, very important matters to consider. And this is as much on the same level of importance.
+
+So we're happy to prioritize that work. We do have a very tight schedule to bring a number of different by-law elements forward. So again, I think there is a lot of good work out there that we can use and we can be able to bring forward and bring forward some options that have been suggested by other municipalities. We do wanna make sure we do that thorough process so that if there is any pushback or on this from a perspective of the people impacted that we show that we've done that good background work and it's applicable to the city of London.
+
+So as much, we can do that review of the timing moving forward. I could bring you forward some even options on that if that's something you'd like to do. But as far as just being able to commit that we can turn this around in Q1 of next year, that would be difficult. What is really good and already on our work plan is that we are bringing forward that review in Q2 related to the overall renovations.
+
+And that may be an opportunity for us to start this conversation about the changes that will be related to conversions. And, but I think this is a very important motion and something that we will absolutely prioritize just in that in that alignment with all of those other very important items we're working on currently. Councilor Raman. Thank you.
+
+And again, my appreciation and my colleagues for bringing this item forward. I will say what I'd like to do what we did with the Hamilton Renovictions By-law is, I mean, we only had one comparator at the time. So we could only bring one forward. But I wonder if the direction was more in line with we pick a way forward.
+
+And then we see if there's a balance or a way to move forward with that particular option if it could help to speed up the review. In my just quick glance at all the forms available, I saw some strength with Oakville's approach, but I do think that it does require better set of eyes to understand what the implications are and does need staff review for that. And absolutely we'll await that. But I wonder if perhaps there is some expert opinion that can provide us with more guidance as we move forward.
+
+And that's just my thought to try to find a path forward that could be perhaps less than having to wait till Q4 of next year. Councilor, was that a comment to staff of, do they have an expert opinion that they're thinking or they're also doing? No, okay. It's over all.
+
+Thank you. Thank you. Looking for further comments or speakers online or in chambers, Councillor Pribble, you've got a minute and a bit left. Thank you, Mr.
+
+Chair, just to have the report, original report that you'll be coming up Q1 next year. Was the report to include comparative analysis with other municipalities or just the results, what we have experienced during the first 12 months of the new by-law we passed in March? To staff, through you, Chair. So that report will be coming early Q2, 2026.
+
+And yes, it will include a comparative analysis because it is important to understand what our colleagues are seeing in relation to their bylaws. Our bylaws are very similar in nature and it would be incomplete without that analysis. Would that report also include some advisable next steps? Should you see any as a staff recommendation coming to council?
+
+Yes, through you, Chair, it absolutely would. Thank you, Councillor. Thank you for that answer. So I will, and I'm not gonna take any more time and actually I don't have even any more time, but I do want one clarification about the evictions, having what I heard before the council, but having what I heard now from our staff in terms of the report, including the comparative analysis, I will not be supporting the what's in front of us today.
+
+Thank you. Thank you, looking at online, looking at chambers, calling the question. Closing the vote, the motion fails on a tie two to two. Thank you for members following along on this one.
+
+So we're doing a motion to receive the communication for we don't lose track of the acorns communication that was submitted in the package. Looking for a mover and a seconder for that. Moved by Councillor Per beau, seconded by Councillor Ferra. Before we call that question, letting everyone in the audience know that we were short a member committee today.
+
+So today, regardless of what the decision was on it, everyone can come prepared to council and that council vote is the December 16th. And this item, as with all items, will be voted on by council on that date for a final decision. So today's discussion decision is not final. It's just a recommendation to council and in there, it will lie in the hands of all 15 members of committee.
+
+Which this is to receive the councilor's communication and the one from beep flare. Closing the vote, the motion carries four to zero. Okay, so for everyone in the chambers, we're circling back to that item's under direction. That 2.6.
+
+That was the housing stability service procurement work. As we also had a delegation request from Ms. Campbell, who is in chambers today and an added communication from a joint of partners that we'll also be looking to receive today. So we need to circle back to that one.
+
+So loaded into eScry, we have two ways forward. Staff is also prepared to give us a brief overview before we get into our delegations and discussions. So looking to committee, if you would like to hear the staff overview first, and then our delegation, and then it would be a mover and a seconder for what's in eScry, or we can get this moved in on the floor then procedurally start everything. Councilor Frara.
+
+Okay, so Councilor Frara is moving what's in eScry. Okay, so looking for a seconder for the motion in eScry, and then we'll do a separate vote for the delegation. Hit refresh, it should be there, as it's also showing on the big screen. Okay, so the moving of the delegation to be heard this time is moved by Councilor Frara, seconded by myself.
+
+So it'd be for up to five minutes and they are in chambers. So doing a motion to receive the delegation at this time. Councilor Trassel. We're hosting the vote, the motion carries four to zero.
+
+Mr. Dickens, we're prepared to give a brief overview of this. And I know you had some questions behind the scenes. So if some of those are magically wrapped into your overview, that'd be great to help.
+
+Yes, I'll have to a good start. And at that point, just for technology, Ms. Campbell's on this side today, and we'll go to her next. Thank you, Madam Chair and through you.
+
+The purpose of the report before you is to provide a multi-year procurement framework that organizes services into interconnected system areas and works to maintain a level of continuity of service throughout this process. Civic administration is seeking committees endorsement of this multi-year housing stability services procurement framework that will guide how we fund and organize London's homelessness response system over the next couple of years. The recommendations before you are to endorse the proposed system transformation approach and multi-year procurement framework. Direct civic administration to explore other funding options or funding sources for outdoor basic needs and one-time federal funding, as one-time federal funding expires.
+
+Direct civic administration to report back to a future CAHPS meeting with an information report describing the execution of service agreements under each procurement process. What this procurement framework does is that it organizes services across four interconnected system areas aligned with the continuum of housing. Supports for people living unsheltered to move indoors remains a key priority. We don't want to just forever sustain encampments and people sleeping rough.
+
+This procurement framework sets to move people indoors. The second area is emergency shelters and hubs. Third, we focus on highly supportive transitional and other supportive affordable housing. And last, housing supports, which is community housing affordable programs and portable benefits.
+
+This framework establishes a multi-year phased approach to procurement beginning in 2026. And the reason you see the timing in the pacing is that the provincial investment remains stagnant. The federal investment through the one-time sources is actually being reduced. And we are maintaining our municipal investment.
+
+So civic administration understands that if we were to procure the entire system right away, all at once, it would be very destabilizing and cause a significant amount of chaos. And what we propose is a framework that has pacing that is respectful of the fact that we're trying to be as accountable to the public and counsel as possible and be very transparent with the funding sources and where those funds are allocated. It allows us time to seek additional provincial funding through next year's HPP allocation. And it also aligns with some larger parts of the procurement of the system with the next MYB.
+
+What you'll see here is that this framework extends existing contracts for up to two years that was previously built into the existing contracts to maintain the system's stability, although we do hear, support and understand that no funding increase creates significant operational pressures. We know that too, with our funding being stagnant or reduced. This framework, as I mentioned, ensures that we're able to modernize some of the expectations that we have in the system going forward, that we have a trauma-informed and culturally safe practice of service delivery, that we have accountability frameworks and that we're outcome-based service models. And lastly, this framework ensures transparency and engagement with Indigenous partners that people have lived in living experience.
+
+And with that, Madam Chair, I'll hand it back to you. Thank you. That would take us to our delegation at this point. I'll note that they have a communication in the added agenda package.
+
+Commencing on page 251, also related to this item on page 256 is a joint letter by service providers. So welcome Ms. Campbell, you have up to five minutes, and the floor is yours. Thank you, Madam Chair, and through you to all of the people in the room.
+
+Really grateful for the excellent overview of the report, and I'm here representing Yes Arcade Mission, but also a number of community partners. You see the letter in the package. And really, overall, I think the key message is, we see this framework and we understand why it has to happen, that we're very much in alignment with the plan and the way that it's being laid out. That being said, our job as community partners, and when we think about the political process, is to really lend credibility to the concerns and the challenges that are posed when we see a 10% reduction in funding, in this case coming from the federal government.
+
+And what does that mean for the average citizen here in London and for the service providers and the people who are requiring those services in the city? So I simply wanna make clear that given the circumstances that we all find ourselves in, that this $4 million not being on the table will have direct impact really to the most vulnerable in our community. So if shelters are stabilized, if housing is stabilized, these are the right ways to help people move towards home. And I think we would all agree that this is critical.
+
+And yet, the issue on the streets of London continues to be growing, the last number I heard from the mayor's mouth was 19% growth last year and the number of people experiencing homelessness in our community. And that against a backdrop of 10% reduction of support from the federal government is a real concern. The people who are outside, and I do see in the report talking about the provision of outdoor basic needs continuing to look for those sources of funding, that's critical certainly. But as again, Mr.
+
+Dickens very well articulated, the goal is to bring people inside. And so some of the basic needs that we're talking about are in fact human rights such as shelter and restroom facilities and some of the things that simply do not exist in our community at this time. I think it's very important to realize even with those funds in place, we are not funding 24/7 access to indoor spaces for basic needs in our community right now, which means for those who cannot access shelter, cannot access the services that are being funded here, they are not getting access to indoor space. There's no referral place for the hospital and the police and the emergency service providers to refer people to.
+
+And this is a real strain on our whole system. So when we take this very specific report about procurement of specific services, we need to look at the impact on some of the broader spending across our community and myself, my colleagues in this work and certainly the Board of Arcade Street Mission wanted to make it very clear to you as counselors, the challenge as before us all when we look at this reduction in funding. And of course, the recommendation in both letters is first and foremost to continue advocacy and we know that there's lots of work going on within council, but to maybe partner additionally as we see these funds going away, there might be additional steps that could be taken. And as I was kind of, I've talked to many of you in preparation for this morning or this afternoon to simply say, I might have not said it correctly.
+
+I understand we're in a constrained environment. So I'm not asking for money to be found and allocated. That's not really a reasonable request given everything that's going on in our community right now. But what is reasonable is to make sure that we don't just say outdoor basic needs.
+
+Perhaps we just say basic needs or human rights services. I'm not sure if that small change could be added because I do think that it's somewhat limiting not to realize that we really need the infrastructure, those open doors for people, if we want to be able to move from the streets of London, from the encampments all the way to home. There's a lot more that could be said on this topic, but more or less, I hope what you're seeing and hearing is that there is a coordinated effort and an understanding between civic administration and service providers that this is, in fact, the best that can be done given the current environment. And so I wanted to come and speak directly to you to give you the opportunity to understand what we're seeing on the streets of London.
+
+I can tell you firsthand that the desperation is very real and palpable. As far as arcade street mission is concerned, our four hours a day of funding is a far cry from the 24 hours a day, seven days a week that we're serving right now, and we will not be able to make up the difference through donated dollars. Thank you. You still have 30 seconds.
+
+That's okay, I just want to, just so you understand, I think it's to understand really practically where it is that land, thank you. And don't escape yet. You mentioned a wording change of human rights, so I started writing part and I couldn't hear the rest while I was writing. That's okay, I actually took a picture when I was up on the screen because I thought, well, how can we find something that's reasonable or that covers, I think again, civic administration did a great job saying, listen, this is where we are, this is what we're going to have to do given this environment, so let me find it.
+
+Yeah, it was along the lines of human rights and basic needs. Yeah, so I think it's-- So Kevin and Mr. Dickens, I'll go to you just for a comment of does that wording change anything? And then I'll go to you for an overall comment and then we'll get into community debate.
+
+So Ms. Campbell? It was, I think that B, and it just says that civic administration be directed to explore other funding options for outdoor basic needs and my recommendation would be maybe basic needs and human rights provision. But I don't know if that makes a difference.
+
+Appreciate the consideration. And maybe it's something else. It's the idea that as funds become available, we don't want to see the gaps that come up when we have to go back to council to keep these things going. There's a cliff, March 31st.
+
+What can we put in language now that helps us so we don't see that cliff? Thank you. Thank you. And thank you for your behind the scenes advocacy and heads up to myself and some other counselors.
+
+Mr. Dickens, just on that part B is very specific. And I know members of committee would have heard it too of would you interpret basic needs and human rights provisions any differently than basic needs? Thank you, Madam Chair.
+
+So the language that's in there now is tied to previous council reports and council decisions. That's all essentially what this is, is you're exploring or you're directing us to go and find a source of funding to meet the basic needs of those that are living outdoors, essentially. So we're good with what's here. We understand the broad scope.
+
+Thank you. Any other general comments you want to make before we get into our committee debate, Mr. Dickens? Okay.
+
+It is moved and second, it is on the floor. I will start with members of committee and then I will start a speaker's list as I do recognize Deputy Mayor Lewis does have his hand raised. Okay, Deputy Mayor Lewis, the floor is yours to start as go ahead, you're muted. Deputy Mayor Lewis, you're still muted.
+
+Try again, 'cause your little mute signs off but so we should hear you in theory. If not, we'll start fighting and then you can come, nope, still can't hear you. We can always wait if you want to come down to chambers. Perfect, five minutes, next, no, just, sorry.
+
+Deputy Mayor, if you want to come downstairs, that's fine. I won't stop debate if you want to mess around with technology but I will go to other speakers in the interim. Looking to see if there's anyone else online joining us. Okay, I will start with Councillor Stevenson then and Deputy Mayor Lewis, I will come back to you after the Councillor.
+
+Okay, thank you. I do have a few questions on this. When we're talking about using procurement again over the next couple of years, given that that was unsuccessful previously and it was only a couple of years ago that we had the option of the Bob Hayward why where we could put 100 people in that winter and there were no agencies willing to take that on. I'm just wondering what is the reason for thinking that things are going to be different in this round of procurement?
+
+To staff, if you want to answer the question or respond to the Bob Hayward as well, Mr. Dickens. Thank you and through you, Madam Chair, the Bob Hayward reference is speaking to a temporary pop-up space over the winter months. The YMC at the time was generous enough to make that space available but it was not ready and much work was still needed.
+
+It was also an ask of community partners to assume a space with 100 people in it as quick as possible and I think rightfully so, there was some trepidation and questions and concerns and that project just could not materialize. I don't think a temporary winter pop-up at that time in that location with many uncertainties was really reflective of the overall position of the organizations that are helping our vulnerable populations every day. We know organizations remain committed to evolving, maturing and trying to meet the needs of an ever-growing and very complex population. I think organizations will tell us that and the population they're trying to support today is very different than the one that was there in London five, 10, 15 years ago and our organizations have done great work to adapt and change to those changing clientele demographics.
+
+So we remain hopeful. The new procurement policy that was launched in October of 2025 really was our guide post for how this report came forward and when this report came forward and it affords us new avenues, different avenues to try and procure the vital services in our system. Oh, sorry. So another question I have is the money, the funding that was used for the micro shelter site and for the Corona and Warner arcade site.
+
+I think, you know, we're close to 15 million there in surplus and reserve funds. Is that showing on these reports anywhere? You're asking if that's showing on the housing stability service procurement framework? Yep, in this report.
+
+Mr. Cooper. Thank you and through you, Madam Chair. The micromodra shelter piece is not showing on this framework or this report, but the Corona and Warner funding for both the 70 beds and the one time funding for 696 basic needs is in the report.
+
+Councillor Stevenson. Okay, thank you. So in quarter in the procurement plan, it says that in Q2 of 2026, there'll be the housing first review findings and the plan going forward. I'm assuming that is the review coming from the September CAHPS report where an council where we approved a review of that housing program.
+
+I just wanted to confirm that that's going to be the report coming. I've had nods, but a verbal, yes, yes it is. Okay, thank you. So I'm also wondering, like in that it was, you know, to get an overview of the issues identified in terms of placing people, the motion to pause any placements of high acuity of individuals through the project home program failed.
+
+And yet earlier today, we were talking about only placing low acuity people within our LMCH housing and how that is going to be more standardized, more enforced. I'm wondering, I just want to go back again as to why we can't or wouldn't be doing that in our housing stability program in terms of placing people in private apartments. To staff, if you want to provide any clarity on some comments or how this ties into the procurement framework. Thank you, Madam Chair, through you.
+
+I think the council actually touched on it in terms of council direction. There was a great debate at council about pausing certain tenant placements and it was not endorsed or supported. So it is a program that's constantly under review in the day-to-day sense with the matching and re-matching of individuals. What we spell out here is that we will do a full review.
+
+So we don't anticipate that we would suddenly make a change now when we've indicated we'll do a review and come back to council at which time we can have a discussion about what that looks like. As far as the previous report on 122 baseline, I think our colleagues at LMCH did reference that community housing or social housing are looking to have more lower acuity individuals and families in their spaces, which I don't know if that relates or connects to this report. Councilor. Thank you.
+
+I guess my point is I'm concerned about the renewals that are being done under delegated authority. And what I'm wondering is could we bring forward an amendment that may be pulled back on that delegated authority or delayed the renewal of the contracts for outreach and for housing stability so that we could, I don't wanna renew till 2028 and then find out that there were best practices in terms of not putting high acuity people in there and find that out after the fact. So is there an opportunity both between now and council to bring forward amendment that would ask council or ask staff not to go ahead with the renewals for project home, London cares for outreach and housing stability until we've got that review and we could endorse it at that point. Okay, this might be a two part question with clerking stuff as well.
+
+Councilor, how's your tongue on the speaker's list? No, I just-- - Okay, then you're gonna have to wait. Mr. Dickens, Sam, your mic.
+
+I wanted to make a point of order. Oh, you can do that, go ahead. Yeah, and it may be premature 'cause there's nothing on the floor but I would certainly find such a motion to be out of order and beyond the scope of the purpose and intent of the matter that's on the floor. It's also a decided matter of council and I just, I don't wanna sidetrack this discussion.
+
+We're having about a much needed framework by going back and relitigating issues that we've already dealt with. Thank you, I appreciate that. The council is also not a member of the committee so they can actually make a motion. So there's nothing on the floor besides actually what's in eScribe for the report.
+
+Mr. Dickens, if you want to speak briefly to that as it's procurement and the question is how, does one potentially change procurement? I can also get a clerk-sided answer as well to compliment yours if they want to. Thank you, Madam Chair.
+
+I will start and defer to others if they would like to add in that case. So the language, it's an up to two year renewal. We have the provision at any time. We can conduct a thorough analysis and review of the current program which is outlined in this report and should we need to make changes, modify and contracts.
+
+We have the ability to do that. It's an up to two year period. Thank you. And the clerk has also said they have to go back and review all the minutes and what was passed to council if you wanted more precise answer.
+
+You can connect with them offline 'cause they don't have that available today. The floor is still yours and you have two minutes remaining. Okay, well, thank you. Well, I am gonna be looking into that because when we approve those, as I said, I think there's things that council gets to look at before we go ahead and do those renewals.
+
+The anticipation was that things were gonna be different now and now we're looking at two years away from now because the outreach when the London Police Board did their, received their report, it said that only 63% were declining service from the agencies in terms of outreach. I hear a lot of negative feedback around the current outreach program. And of course, there's serious concerns about the housing stability programs that we're waiting for staff information on. I'm also wondering if there's an opportunity to get, again, before we renew for another two years, if there's an opportunity to get some reporting on outcomes so that we can reevaluate things like the outreach services.
+
+There are an opportunity to get reports on that in terms of are they seeing too a rate of 63% refusal of service? Okay, I will note that this is already a delegated authority to staff to enact this for us, but looking to see if there's a response for anyone following along. I'll note that Deputy Mayor Lewis has joined us in chambers. Mr.
+
+Dickens, the floor is yours. Thank you, Madam Chair and through you. As outlined, we'll be bringing back that report between January and March of 2026, so Q1. And yes, that outcomes report is the report that will be covered off in Q1.
+
+So you will have that information. Thank you. Councillor Stevenson, you have 50 seconds. Okay, thank you.
+
+So just to confirm, 'cause the report that I was expecting was around the housing stability program, nothing around outreach. So are there other outcomes type reports that are coming in general regarding the shelter services in the outreach? Is that what I'm hearing? I'd say there's always an ongoing cycle of reports coming to us, but Mr.
+
+Cooper, any insightful information? Thank you and through you, Madam Chair, the intention with the report back was to provide, you know, not a full, like not a full reprogram review, but definitely provide outcomes, provide an overview of sort of what the program has provided for the funding over the last term of the contract. You know, it was also then to look at what direction council would like us to take for those funding opportunities and then assess service impacts, right? 'Cause the reality is if we aren't renewing contracts, those services end April 1, 2026, which will have a significant impact, not only are those that those programs are supported, but the agencies that operate, those programs and the staff that work for those agencies.
+
+Thank you, Councillor. I apologize, maybe it's just me that's a little bit confused. So we're talking about those sort of broad-based, homeless service updates is coming into Q1 of 2026. It's not specifically coming out of that September motion that was passed, but that there's some kind of review coming of all of the services.
+
+Sorry, I'll let staff do a confirmation, also noting that I don't believe this is actually related to what's on the floor, but since staff seem to have an answer, go ahead. Thank you, and through you, Madam Chair, just highlight page 13 of the report, right? It notes that service system area one will be looking to bring that back in January, 2026, and then service system area three, which speaks to sort of the affordable housing, supportive housing, which would be, in addition to a number of programs, the St. Leonard's Housing First program in March of 2026.
+
+So a number of those programs are coming back for council direction and some information to council to make a decision, to provide civic administration, some guidelines going forward as we look to re-percure those specific system areas. Councillor, 19 seconds. Okay, thank you. So the renewals, the under-delegated authority, are those being done piecemeal with each of these sections as well?
+
+Mr. Cooper. Thank you, through you, Madam Chair. The renewals would be based on what the current contracts indicate as sort of the determination date, and so most contracts right now, I believe all contracts actually right now, expire March 31st, 2026.
+
+So appreciating a report's coming back in January, the council cycle, and then some conversations with the agencies, another report coming back in March. There is a need to continue on with those services while that work is happening, and so that renewal provision provides for that. And as Mr. Dickens indicated, there are provisions in our contract to make amendments.
+
+If we needed to end contracts at earlier transition contract, we do have those provisions within our delegated authority and within the existing contract template that council had approved. Thank you, Councillor. And any increase in funding in those renewals? Thank you, through you, Madam Chair.
+
+At this time, we are maintaining, looking to maintain the existing funding allocations for each agency, recognizing that a number of agencies, as Mr. Dickens had indicated earlier, have issued some concerns with that. Thank you. Deborah Marlous, you're next in the speakers list.
+
+Thank you, Madam Chair, and it's probably a good thing that I couldn't get the microphone to work, 'cause the words that I would've had to say about Microsoft updates might've led to a code of conduct complaint, so thankfully the mic wasn't working, 'cause it was a rather frustrating experience trying to get it turned on. Anyway, first of all, I wanna say, I appreciate Ms. Campbell's presentation. She clarified for me some things that I had some concerns about.
+
+I think that there is an advocacy piece that's needed here. This city absolutely cannot just backfill because the federal government decides they're gonna back out some of their funding, and so that advocacy piece is gonna be really important. I also agree with the Council of Trust all that the framework discussion is important. To me, it's what the municipality can deliver within its framework and its fiscal capacity.
+
+We could say this about everything under the sun, really, whether it's housing, whether it's supports for those who are unhoused, whether it's policing and enforcement, whether it's by law enforcement. I know there's some discussions earlier about a by-law update, we will never fill all the needs on every file everywhere. That's just not realistic on the property tax base. We need to have senior levels of government treating this issue seriously.
+
+I also think we really do need to be taking seriously the importance of the longer-term strategy. Again, I know our colleagues from LMCH were here earlier today. The longer-term strategy has to be that we're not doing basic outreach provision, that we're bringing people indoors because there are spaces for them and what that looks like moving forward. However, I think Ms.
+
+Campbell suggested a good suggestion in terms of dropping the outdoor and just saying basic needs. I would be extremely hesitant and I don't think if a change was made to start getting into human rights and debates about what is and isn't a human right and where rights and responsibilities overlap. I don't want to get into that discussion quite frankly. And if we did, I don't think I could be supportive of this motion.
+
+I think that's a different layer of complexity versus what we need to do in terms of basic needs provision. But I do think that some of that basic needs provision doesn't need to be explicitly limited to outdoor basic needs and it's what I was just saying. I think longer-term, we need to be looking at what basic needs means in terms of bringing people inside. And so I think that that small language change maybe makes a lot of sense.
+
+I'm just going to, through Madam Chair, ask staff if they would concur that perhaps that maybe even adds some flexibility to what we develop moving forward. If we just strike the outdoor and just leave it simply at basic needs rather than outdoor basic needs. To staff for your comments? Through you Madam Chair, that would be no problem for us as we mentioned.
+
+The intention here is to move people from outdoors to indoors. So meeting their basic needs is the primary focus. Okay, Deputy Mayor. So not being a voting member of this committee, obviously it's in the committee's hands but I wanted to share that thought base so that as this discussion moves forward, if people do want to take or consider some changes as Ms.
+
+Campbell suggested, I would be comfortable striking the outdoor and just staying with basic needs. I would be very hesitant to start wandering into debates and discussions and legal interpretations of what are in our human rights. I think basic needs is a much more straightforward term that we can apply in this situation without muddying the waters too much. So that would be my suggestion to committee if you're going to endorse that direction to take out the outdoor piece.
+
+Otherwise I'll have some more to say at council I think but I do agree that this is an important discussion. And certainly when it comes to the advocacy piece, that's key, I mean, having this kind of withdrawal of federal support on this issue is simply not acceptable. Thank you. I would tell you how much time you used but time you got messed up.
+
+It's all technologies today. Your points were noted, Councilor Ferra. Thank you, Chair. I guess I'm gonna follow up where Deputy Mayor Lewis left off.
+
+If we were to be looking into the recommendations or some of the discussion that we saw here from the delegation, outdoor basic needs. I'm looking at the report here and it does say, it does kind of have some things put together. Basic needs could mean food, water and hygiene or supplies like that. But I also see like safety checks are involved in their relationship basic engagement, mobile outreach.
+
+I was just wondering if we just get a clarification when we discuss basic needs and potentially reducing that. What would we capture under basic needs? That's a question for staff looking to see who wants it, anybody. Soon they're still looking up a definition of things.
+
+Councilor Ferra, are you gonna have other questions or just as they dig? We can certainly come back to that one. I'll try. So, you know, like I'm looking at the different system areas and I do see that this one is captured in system area one which seems to have amongst the other system areas that were referenced in the report, the lowest amount of the housing stability services budget there.
+
+So, I guess like the main thing that's glaring for the report is obviously we're gonna lose I think $2.3 million in our operating budget because of the ETF and you unsheltered homelessness and cabinet initiative monies that are not no longer coming in. So obviously my interest is where does that shortfall lie? Where are we gonna have that shortfall? Is it gonna be for our housing?
+
+Is it gonna be for outreach? That's kind of why I'm asking the question 'cause I'd like to obviously ensure that we do have enough housing. I don't wanna see any cuts to that but I also, I don't know with using that temporary money 'cause some of that temporary money is going towards housing. The question really is, is what is being thought or where is it gonna be looked at or what, if you can crystal ball it, where will we see these cuts happening if we don't get, if we're not successful in our advocacy with extra money coming in from those other levels of government?
+
+To staff and then you can answer that and then if you have the basic needs question, you can answer that one too. Yes, thank you and appreciate your patience on that through you, Madam Chair. So the loss of federal funding is federal funding, if you will, it was from the one time on sheltered homeless encampment initiative as well as the two emergency treatment funds proposals. So and sheltered homeless encampment initiative did support a number of additional shelter beds through Salvation Army Center of Hope.
+
+So those are looking to schedule to close down. It's about 18 beds specific for women who are leaving encampments. But in addition, there was funding for the, or daytime space that they just drop in for that Campbell noted for 696 Dundas, as well as a number of outreach programs who are emergency treatment fund and the provisions of meals, water, comfort stations or porta potties. Most of those items were all deemed that are identified under basic needs and would also wind down as part of that one time funding.
+
+So it's really 18 shelter beds at Salvation Army Center of Hope, a variety of outreach programs and then the meals, water and comfort stations as part of basic needs. And so as we look at what we still fund under the original question, we do fund an outreach program through London Cares as part of conjunction with our coordinate and form response team. Those teams do go out into encampments during daytime hours as well as work some of the areas downtown and within our community of common places where people we know sleep rough. And then they do operate seven days a week.
+
+Councillor Ferra. Thank you for that. So I guess like my concern would be on like the full spectrum of the system. Like regardless of how full that parts of the spectrum are, like we still need to have engagement for people.
+
+We still need to have outreach to make sure that we can bring people in to connect them with housing or with any type of pathways to housing or agency support that we have. There would still be, I guess, cleanups that would be involved in some areas. Would those be, would that be on the chopping block, I guess? Or would that still exist within the framework staff?
+
+Thank you, Madam Chair, appreciate the question. So the coordinate form response program is funded through municipal multi-year budgets. So the cleanups and the work that is done through that program would continue on. It's just a function of scale, I think.
+
+That program is extremely busy. It is oversubscribed if you'd ask. I think the outreach agencies as well as many of our municipal staff. Councillor.
+
+Okay, thanks, Chair. Thanks for the answer. I would just, you know, I know we're still waiting for more information to come back as you look into this, but I would just be wherever we have to go lean just to make sure that we don't have a gap in the actual connection itself to just make sure that we still have, you know, these pathways open. Maybe they are not as full as they are.
+
+But as we lean it out, I just don't want to see any gaps anywhere in the system itself. So that would be my comment. I'm done there, thanks. Thank you, Councillor, sorry.
+
+I didn't know Councillor Peril, if you were ready now, if you wanted. Okay, Councillor Tressa. I would like, through the chair, I would like B2B as broad as possible, which means removing unnecessary adjectives. So outdoor needs satisfies that.
+
+But I think it would be better to just say basic needs without the outdoor. So I would, without, without the need to add all those other languages. Because after all, everything we do is covered by-- Okay, I'll have you pause there. The clerk is just clerking.
+
+Oh, I'm sorry, just state the motion. Sorry, yeah. Remove the word outdoor. Okay, so that was part B, same for basic needs, just with the removal of outdoor as a predecessor.
+
+Okay, I'll second it. Hey, if you refresh, it's up. Part B is exactly the same, just it's remove the word outdoor before basic needs. Do we need to have a discussion on it, or are we just good to vote?
+
+Okay, speakers list is starting on that. I'll start with Councillor Tressa as he was the mover. I'm sorry, without, through the chair, without going through a long-winded explanation of why I want to make the change, I just wanted to be as all-encompassing as possible and not get hung up later on, or of whether this is indoor or outdoor, or within a human rights framework or not. It is going to be within the human rights framework, 'cause everything we do is in that framework, and that's nothing that this city can really, really change.
+
+So I'm happy, I appreciate the Deputy Mayor's suggestion is where is the delegates' suggestion. So let's just take that out. And I want to make a comment about the overall framework here, but should we do the vote on the amendment first? Yeah, you're just speaking on the outdoor versus not outdoor word.
+
+Okay, I'm done. Councillor Pribble. Thank you, Mr. Chair, to the staff, very much in support of what's in front of us, having said that there, throughout the report, there's quite a few times mentioned outdoor.
+
+If this is passed, will the report be adjusted so there's no confusion? Mr. Dickens. Thank you, Madam Chair, very good question.
+
+Yes, we will follow the council direction that ends up in the resolution. So if that's what the resolution says, that's what we will do. Councillor? Thank you for the answer.
+
+And I'm very much in support of what's in front of us. Further speakers, if you can call the question, follow the question. Councillor Trosto? Councillor votes, yes.
+
+Opposing the vote, motion carries four to zero. So a mover and a seconder for the motion as amended. Councillor Trosto, Councillor Pribble, we're just clipping some stuff. Councillor Trosto, if you want to go back to your speakers list as it's now as amended.
+
+Yes, and thank you for bringing this framework forward. I like frameworks because frameworks remove at least a little bit of uncertainty about the direction we're going in and they're open to additions and subtractions later on. This is very badly needed. I have a lot of worries.
+
+I have a lot of worries about things that are gonna happen in the near to moderate future. I'm not gonna try to put any amendments on this because this is a framework. I'm very worried about what's gonna happen when we see new assessments. I'm very worried about what's gonna happen when we see mortgage rates continue to go up.
+
+And I'm very happy, I'm very unhappy and worried about what's gonna happen when we continue to allow more and more people to fall into homelessness. I don't think that this is a place for me to make a specific amendment, but I'm just going to say those things in support of why I think a framework, a flexible framework is important right now. So thank you again for providing us with that. Thank you, further speakers, before calling the question, Councilor Pervall.
+
+Thank you, Chair. And thank you as well as to what's in front of us, the multi-year framework. I would love to say that I'm happy what I see in front of us. I'm not happy with the reason why I'm not happy is because the situation we are in.
+
+But having said that under circumstances, what's in front of us, I'm very glad that we have the multi-year framework that's, and when our staff, Mr. Dickens mentioned accountability, transparency and outcomes. I'm really happy about to see that. You know, when I look at the continuum of housing and I try to put this on every of my town hall meetings, I really think it's a great continuum, great strategy.
+
+We have the unfortunate part that from the middle to the right, those are really good positive projects. I consider Sylvain Thompson, Baseline, Soho, Umford, Hill Street, very positive projects. Even though, yes, there are some issues and there will be issues. There will be.
+
+Last week, I know a person for five years. He's on the street for, I would say, for last six months, I would say he was low-accuity. Guess what? Last week, I would say he was over high-accuity.
+
+It just so unpredictable and it's so challenging, so difficult. And so, again, very happy what's in front of us. Yes, we do have to work and lobby with the higher levels of government because even though we took out the outdoor or we talked about the outreach, it is important in the situation we are in. And I always say one example, and the example is that when I'm in the area where there are encampments and there are neighbors outside and I do talk to them, are there any issues or how is everything going, most of them stayed very similar thing, that overall it's okay.
+
+Guess what, weekends are usually the highest issues, are the highest issues. And again, this is my assumption. I don't have to be accurate, but for me it is, if you look at the weekends, the services that are provided through the city are very, very limited. And those are the times we apply in desperation, they don't have the food, they don't have the drinks, et cetera.
+
+And that's when things happen. So that's why even though, yes, those are the services we would not like to have, we wouldn't want to fund, but unfortunately we are in a situation that, unfortunately I believe we do have to. Not the after years in municipal coffers, we have to work with the higher levels of government. I do thank you to the staff for the work you've been doing.
+
+So thank you to the agencies as well. Having said that, yeah, do we have to be better? Absolutely, do we have to stretch and come up with certain ideas, different ideas and how to collaborate more together, agencies with our city hall, et cetera. Absolutely, I still think that working together on certain things, we can maximize our opportunities and maximize, get the dollar, go further.
+
+And I think that whatever we do in this area and whatever we approve, once it's approved, let's really work together and maximize the opportunities and deliver the best results, best possible results for half a million of lenders, thank you all. Thank you, Councilor Provost, can you hit the chair for a moment? I have the chair and I recognize Councilor Pelosa. Thank you, question three to staff, Mr.
+
+Presiding Officer. Part of the conversation from our delegate and, as always, is advocacy, as Deputy Mayor Lewis has said, like, we need partners in this, we just can't fund what the extent of the need is off the property base. Would you, there's always so many different requests of the Mayor and Civic Administration be requested to advocate to senior levels of government for funding in this need. Do you believe that's already incorporated in other directions given to you of funding for this need or do you believe it would be advantageous in this part to have it in writing?
+
+Is it a self lease? Through you, Madam Chair, we know this Council's taking a very strong position on advocacy with other orders of government for funding. We assume that work is going to continue. And I think be as general as it is, does not preclude us from packaging together information for the Mayor to continue as part of our efforts to explore funding options may be relying on Council to do some direct advocacy or ensuring that Council is well-informed in the event that they have the opportunity.
+
+Council full up, no full up. Thank you for the answer and giving the Chair back to the Council full, is that Chair? Thank you. Just having heard that that answer that was so open as we left be that I won't do an amendment to do what he's already doing.
+
+We'll be expedient, Councilor Ferra. Thank you, Chair. So I appreciate the report coming through. I'm happy the work that the staff is doing.
+
+I'm not happy the situation that we're in, definitely not happy about that. We're in a continual crisis here when it comes to homelessness and just the lack of funding and the structure that we have. We're operating in a top down failure with these other levels of government. Advocacy is something we talk about all the time, but we rarely see some of that advocacy materializing to something that's beneficial for us.
+
+And here we are at the municipal level, using municipal dollars, trying to divvy out those funds, which we don't necessarily have, which we don't have, trying to make big impacts here. And we are usually restricted to reactive measures. And those reactive measures as we've seen in past reports are very expensive for us and the taxpayer. So I can understand why we have Council colleagues here saying, you know, this is not the best, most effective use of our money.
+
+And I could agree as well, but at the same time, we don't necessarily have any other options because I don't necessarily see the help from the levels of government that are responsible in a lot of ways for this type of stuff. Like I obviously wanna see our stretch our dollars to go further, to stretch our dollars to go as far as possible. And I do believe that preventative measures with homelessness is really kind of a really big course to take, but that seems to be issues to bring that to committee as well and to Council as well. I really think that we should start being as proactive as we can to stop homelessness before it occurs and then find ways to spend our money in the most efficient possible way for the reactive parts that we're already locked into.
+
+So I guess when it comes to the advocacy, like obviously we want to advocate, but I don't necessarily have too much faith that that advocacy is gonna translate into something for us, not with the current forms of government that we're operating with at the moment. So in this time of crisis that we're in, we're talking about a reduced housing stability services budget and I really would like to know what is the likeliness that we'll be able to make that gap whole. And I guess some of the questions that I was asking, like where are these cuts gonna come from if we don't realize that revenue coming in, if we don't realize that gap and fulfill that gap? Where is it gonna be?
+
+Is it gonna be right sizing? Is it gonna be obviously our outreach? Is it gonna be in some of our housing capacity that we're creating? I feel like it's gonna be at least two out of the three.
+
+And that just doesn't necessarily make me too confident and it makes me worry about the situation that we're in because a crisis is getting worse and worse and worse and we can see the numbers and I'm getting those communications coming in. So I really like to, I guess, make a call out to not just us, but the other levels of government, let's start putting down our stripes and start doing the work and rolling up our sleeves 'cause this is the time that we need to do it. Actually, the time happened a few years ago. So this is the time that we really got to start making a difference and really kind of finding ways to move forward and be impactful.
+
+Thank you. I will recognize Councillor Roman on screen. Councillor Roman, this comment's not for you. Just letting members of the committee know that we have this item before us.
+
+There's an additional business item. There's a confidential session still to come and I really do tend to run my committees at every three hours we take a break. So just mindful of that as we move forward that that'll be my chairing going forward. So we will manage our time accordingly knowing that we'll get longer due to breaks.
+
+Councillor Roman, the floor is yours. Thank you and through you. I appreciate the conversation that's had been had so far and the input of my colleagues and from staff. I guess I just wanna hone in a little bit on what our requests are for other levels of government.
+
+To me, when I read this report, when I thought about what's expiring in March of 2026 or the end of March 2026 in terms of our funding, we have the 18 beds that are funded for women at the Salvation Army. I'm just wondering if staff are recommending or have had discussions about making those beds permanent if funding were available. I can go to staff recognizing it's procurement and the 18 beds have been referenced as. Thank you and through you, Madam Chair, I don't have a direct answer to that question.
+
+Unfortunately, I do know that our Salvation Army Center of Hope is a strong partner with the City of London and they have come to the table numerous times when we've asked for flex beds, when we've asked them to adjust their services or increase services. So should funding become available to make those beds permanent? It would be part of our procurement process and conversation with that organization, but we'd also look to see what other community partners could offer as well. Councilor?
+
+Thank you, I appreciate the answer. In December, 2024, the province announced $75.5 million worth of funding and it was related to encampments. And I'm just wondering outside of the heart hub, what portion of that did London receive? Staff.
+
+Thank you, Madam Chair. Point of clarification, if it could, the prevention dollars that you're referring to were March, I'm gonna say 2023, 2024, is that what the council is referring to? Sorry, there's been so many funding sources of late with UNGI and ETF, they do blur from time to time. So the province has money that they announced in December, 2024 related to encampments and in it, they packaged the heart hubs as well.
+
+And they talked about that it would be for encampment related services, moving people out of parks, et cetera. Just wondering if we received anything outside of that other than the heart hub money. Mr. Cooper.
+
+Thank you, through you. Madam Chair, I appreciate that point of clarification. I believe, I have to go back and check and I can do that before council, but I believe we received just an additional around 70 to $75,000 to support work in encampments. There was no additional funding provided for shelter expansion, it was really specific to the encampment work that our coordinating form response team undertakes.
+
+Councillor. Thank you. Is that by way of us applying for those dollars or did the province allocate them based on need? Like, how did that extra only 70, 75,000 from the province come about?
+
+Staff. Thank you, Madam Chair, I'll start this answer and then look to others and Mr. Felberg has rejoined us and he may be able to speak to the other application that was made. So the province was looking for active or shovel ready projects that they could fund in the immediate term.
+
+So we submitted our application, we actually submitted multiple applications. The one was approved, it was $75,000, that was a call out to the community organizations. To seek what organizations could offer, what they could do that they could stand up within a matter of weeks, I believe it was, recognizing the funding was going to end within a matter of months. So it was tough to say to the organizations, hey, there's this big pot of money potentially, what do you wanna do?
+
+Can you do it really fast? Can you do it for a short amount of time? The other additional application that was made was under that same envelope and it was called the last mile funding. And I know the city of London through Mr.
+
+Felberg's office submitted an application. It was worth over a million dollars, I believe, but it was not adopted or supported by the provincial government. And I may throw it to Mr. Felberg to see if he has any additional information as I put him on the spot.
+
+Thank you, Mr. Dickens and through you, Madam Chair. So yeah, we submitted for two projects and part of what we tried to do was we tried to align some of the supports through those two projects. They were intended to be highly supportive housing projects and they were gonna support a number of different populations within the federal government's housing plan, but we were unsuccessful.
+
+So we move on. Further comments? Yes, thank you, I appreciate that. So that to me is, it's surprising.
+
+When we think about the fact that the province said, hey, we have $75.5 million on the table to help address this crisis and London's, what we received was, in my opinion, quite small. And so when we talk about advocacy, I think we need to really look at what our advocacy looks like to the province. We talk a lot about the fact that there are insurmountable needs, but I think we need to put a very long laundry list together of all of the ways that we need support and try to quantify them. Unfortunately, when funding does open up, oftentimes the organizations that are then asked to turn around a proposal very quickly, they're already overextended.
+
+They're not able to hire new staff quickly. So putting these things together is a patchwork project on the backs of people that are hoping that the province or the federal government then approves it. So I do think that there's work that we can do to get ourselves in a position where we are able to really extend to our partners, what are those big needs? And I think even though we're talking about the money that we are not getting from the federal government, we're missing part of the conversation.
+
+And that is the fact that this is not kept up with inflationary pressures to begin with and the fact that the cost of labor continues to increase. So I would like to see us quantify all that as a bigger, rounder number that we have to put to the province, the federal government, as well as stabilize more beds in our community. Thank you. Further questions or comments saying non-calling vote?
+
+The motion carries four to zero. Thank you. This takes us to deferred matters, additional business, 5.1. And thank you Ms.
+
+Campbell for being with us today. Endures one of the one voice, member and renter standing. Looking to Mr. Parity, if you want to do a brief overview of it, it's not really quite standard that we see it.
+
+No, you don't. Okay, mover and seconder to get this on the floor. Moved by Councillor Trove. So I was seconded by Councillor Pribble.
+
+The item's on the floor. Councillor Ferri, you wanna be the first speaker? No chair, I just wanted to know, there is a, hold on, actually before I make that comment. Nevermind, pick that back.
+
+This page 258 of the agenda added, we can't do a change to order, something's already on the floor. Further questions or comments on this? Seeing none, calling the vote? Supposing the vote, the motion carries four to zero.
+
+Thank you. And thanks to staff for answering my questions behind the scenes on this one. That brings us now into confidential session, need a motion for the recent state on the agenda. For a matter of pertain to the security of the property, Ms.
+
+Pali, the local board, moved by Councillor Ferri, seconded by Councillor Troso. For this one, anyone in the chambers upstairs would need to vacate. And then we'll, we stay in chambers for this one. So just a moment while we, okay, so calling the question, then we'll need a moment to change chambers over.
+
+Supposing the vote, the motion carries four to zero. Thank you, Councillor Pribble. Thank you chair. And I would like to report that the progress was made for the confidential 6.1 security of property, a matter pertaining to the security of the property of the municipality or local board.
+
+Thank you. That would bring us to the conclusion of our agenda before us today. I would need a motion to adjourn. Moved by Councillor Troso, seconded by Councillor Pribble.
+
+A hand vote of all in favor of adjournment. Okay, Sam, you would need to sit down. Sorry, Councillor Troso, the clerk can't announce the vote until we're seeing seated in Y-ish. Okay, so we need to recall that all in favor of adjournment by a show of hands.
+
+Motion carries four to zero. Thank you, we're adjourned to December 16th at council for final decision. Thank you.
+
+</details>
