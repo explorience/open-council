@@ -2,7 +2,7 @@
 title: "Budget Committee"
 type: committee
 slug: "budget"
-meetingCount: 23
+meetingCount: 24
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
 - [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025
@@ -20,8 +21,7 @@ prefillQuestions:
 - [19th Special Meeting of City Council - BUDGET](</months/2024-11/2024-11-27 19th Special Meeting of City Council - BUDGET>) - Wed Nov 27 2024
 - [6th Meeting of the Budget Committee - CONTINUATION](</months/2024-11/2024-11-22 6th Meeting of the Budget Committee - CONTINUATION>) - Fri Nov 22 2024
 - [6th Meeting of the Budget Committee](</months/2024-11/2024-11-21 6th Meeting of the Budget Committee>) - Thu Nov 21 2024
-- [5th Meeting of the Budget Committee](</months/2024-11/2024-11-19 5th Meeting of the Budget Committee>) - Tue Nov 19 2024
 
 
-[View all 23 meetings →](#)
+[View all 24 meetings →](#)
 
