@@ -346,9 +346,9 @@ export class RAGService {
 
     if (councillorVoting.isCouncillorQuery) {
       if (councillorVoting.wantsHistoricalContext) {
-        // Historical analysis ("voting record over time") needs full coverage
-        topK = TOP_K_COMPREHENSIVE;
-        console.log(`Query complexity: COUNCILLOR HISTORICAL (TOP_K=${TOP_K_COMPREHENSIVE})`);
+        // Historical analysis ("voting record over time") - capped to avoid context overflow
+        topK = TOP_K_COMPLEX;
+        console.log(`Query complexity: COUNCILLOR HISTORICAL (TOP_K=${TOP_K_COMPLEX})`);
       } else {
         // Simple vote lookup - structured vote data provides accuracy,
         // only need moderate context for narrative
@@ -904,7 +904,10 @@ export class RAGService {
       'over time',
       'over the years',
       'through the years',
-      'throughout',
+      'throughout the years',
+      'throughout history',
+      'throughout their tenure',
+      'throughout their career',
       'in the past',
       'past votes',
       'past voting',
@@ -2177,8 +2180,9 @@ ${result.text}
     history: ChatMessage[] = [],
     metadataCollector?: ChatMetadataCollector
   ): AsyncGenerator<string, void, unknown> {
-    // Retrieve relevant context
-    const results = await this.retrieveContext(message);
+    // Retrieve relevant context with truncation
+    const rawResults = await this.retrieveContext(message);
+    const results = this.truncateContextToFit(rawResults, 'gpt-4o');
     const context = this.buildContextString(results);
     const systemPrompt = getSystemPrompt(context);
 
@@ -2259,8 +2263,9 @@ ${result.text}
       throw new Error('Anthropic API key not configured');
     }
 
-    // Retrieve relevant context
-    const results = await this.retrieveContext(message);
+    // Retrieve relevant context with truncation
+    const rawResults = await this.retrieveContext(message);
+    const results = this.truncateContextToFit(rawResults, 'claude-sonnet-4-5-20250929');
     const context = this.buildContextString(results);
 
     // Split system prompt for caching:
@@ -2357,12 +2362,12 @@ ${result.text}
       throw new Error('OpenRouter API key not configured');
     }
 
-    // Retrieve relevant context
-    const results = await this.retrieveContext(message);
+    // Retrieve relevant context with truncation
+    const rawResults = await this.retrieveContext(message);
+    const modelId = OPENROUTER_MODELS[this.openrouterModel];
+    const results = this.truncateContextToFit(rawResults, modelId);
     const context = this.buildContextString(results);
     const systemPrompt = getSystemPrompt(context);
-
-    const modelId = OPENROUTER_MODELS[this.openrouterModel];
 
     // Populate metadata for logging
     if (metadataCollector) {
@@ -2427,18 +2432,87 @@ ${result.text}
     return this.openrouterModel;
   }
 
+  // Smart routing constants
+  private static readonly SIMPLE_MODEL: OpenRouterModel = 'llama-3.3-70b';
+  private static readonly COMPLEX_MODEL: OpenRouterModel = 'claude-sonnet-4';
+  private static readonly COMPLEXITY_THRESHOLD = 150; // TOP_K >= 150 → complex model
+
+  // Context budget per model (in characters, ~4 chars per token)
+  // Leave room for system prompt (~4K tokens) + history + response
+  private static readonly MODEL_CONTEXT_BUDGETS: Record<string, number> = {
+    // OpenAI
+    'gpt-4o': 400_000,                        // 128K tokens → ~100K usable
+    // Anthropic direct
+    'claude-sonnet-4-5-20250929': 600_000,     // 200K tokens → ~150K usable
+    // OpenRouter models
+    'meta-llama/llama-3.3-70b-instruct': 480_000,  // 128K tokens → ~120K usable
+    'anthropic/claude-sonnet-4': 600_000,
+    'anthropic/claude-sonnet-4.5': 600_000,
+    'anthropic/claude-3-haiku': 600_000,
+    'anthropic/claude-3.5-haiku': 600_000,
+    'google/gemini-2.5-flash-lite': 400_000,
+    'google/gemini-2.0-flash-001': 400_000,
+    'google/gemini-2.5-flash': 400_000,
+    'openai/gpt-4o-mini': 400_000,
+    'qwen/qwen-2.5-72b-instruct': 400_000,
+    'deepseek/deepseek-chat': 400_000,
+    'mistralai/mistral-large-2411': 400_000,
+    'cohere/command-r-08-2024': 400_000,
+  };
+
+  /**
+   * Truncate context chunks to fit within model's context budget
+   */
+  private truncateContextToFit(results: SearchResult[], modelId: string): SearchResult[] {
+    const budget = RAGService.MODEL_CONTEXT_BUDGETS[modelId] || 400_000;
+    let totalChars = 0;
+    const truncated: SearchResult[] = [];
+
+    for (const result of results) {
+      const chunkSize = result.text.length + 200; // ~200 chars metadata overhead per chunk
+      if (totalChars + chunkSize > budget) {
+        console.log(`⚠️ Context truncated: using ${truncated.length}/${results.length} chunks to fit ${modelId} budget (${budget.toLocaleString()} chars)`);
+        break;
+      }
+      totalChars += chunkSize;
+      truncated.push(result);
+    }
+
+    return truncated;
+  }
+
   /**
    * Main chat method that uses configured provider
+   * Smart routing: picks model by query complexity, OpenRouter-first
    */
   async *chat(
     message: string,
     history: ChatMessage[] = [],
     metadataCollector?: ChatMetadataCollector
   ): AsyncGenerator<string, void, unknown> {
+    // Determine complexity for smart routing
+    const analysis = this.analyzeQuery(message);
+    const topK = analysis.topK || TOP_K_SIMPLE;
+    const isComplex = topK >= RAGService.COMPLEXITY_THRESHOLD;
+
+    // OpenRouter-first routing (both simple AND complex go through OR)
+    if (this.openrouter) {
+      const prevModel = this.openrouterModel;
+      this.openrouterModel = isComplex ? RAGService.COMPLEX_MODEL : RAGService.SIMPLE_MODEL;
+      console.log(isComplex
+        ? `🎭 Routing to ${RAGService.COMPLEX_MODEL} via OpenRouter (topK=${topK})`
+        : `🦙 Routing to ${RAGService.SIMPLE_MODEL} via OpenRouter (topK=${topK})`);
+      try {
+        yield* this.chatStreamOpenRouter(message, history, metadataCollector);
+      } finally {
+        this.openrouterModel = prevModel; // restore
+      }
+      return;
+    }
+
+    // Fallback: direct provider (no OR key)
     if (this.provider === 'openai') {
       yield* this.chatStreamOpenAI(message, history, metadataCollector);
-    } else if (this.provider === 'openrouter') {
-      yield* this.chatStreamOpenRouter(message, history, metadataCollector);
     } else {
       yield* this.chatStreamAnthropic(message, history, metadataCollector);
     }
