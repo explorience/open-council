@@ -73,6 +73,9 @@ async function initializeServices() {
   if (llmProvider === 'openrouter') {
     console.log('OpenRouter Model:', openrouterModel || 'claude-3.5-haiku (default)');
   }
+  if (openrouterKey) {
+    console.log('🔀 Smart routing enabled: simple → llama-3.3-70b, complex → claude-sonnet-4 (via OpenRouter)');
+  }
 }
 
 // Health check endpoint
