@@ -8,6 +8,91 @@ const { RRFReranker } = rerankers;
 const DB_PATH = './lancedb';
 const TABLE_NAME = 'council_meetings';
 
+/**
+ * Calculate recency boost based on document age
+ * More recent documents get higher scores
+ */
+function getRecencyBoost(meetingDate: string): number {
+  const docDate = new Date(meetingDate);
+  const now = new Date();
+  const yearsAgo = (now.getTime() - docDate.getTime()) / (365.25 * 24 * 60 * 60 * 1000);
+
+  if (yearsAgo <= 2) return 1.0;      // Last 2 years: no penalty
+  if (yearsAgo <= 5) return 0.7;      // 2-5 years: 30% penalty
+  return 0.4;                          // 5+ years: 60% penalty
+}
+
+/**
+ * Extract likely organization/person names from text
+ * Matches capitalized multi-word phrases
+ */
+function extractEntities(text: string): string[] {
+  // Match capitalized multi-word phrases (likely org/person names)
+  const orgPattern = /\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\b/g;
+  const matches = text.match(orgPattern) || [];
+  // Filter common false positives
+  const exclude = ['City Council', 'Municipal Council', 'Motion Passed', 'Motion Failed',
+                   'Council Meeting', 'Committee Meeting', 'Public Meeting', 'London Ontario',
+                   'City Hall', 'Council Chambers'];
+  return matches.filter(m => !exclude.includes(m));
+}
+
+/**
+ * Calculate entity match boost
+ * Boosts documents that contain entities mentioned in the query
+ */
+function getEntityBoost(queryEntities: string[], docText: string): number {
+  if (queryEntities.length === 0) return 1.0;
+  const docLower = docText.toLowerCase();
+  const matchCount = queryEntities.filter(e => docLower.includes(e.toLowerCase())).length;
+  // Boost docs that contain query entities: +30% per entity match
+  return 1.0 + (matchCount * 0.3);
+}
+
+/**
+ * Check if query requests historical data (should disable recency boost)
+ */
+function wantsHistoricalData(queryText: string): boolean {
+  const historicalPatterns = [
+    /\b(in|from|during)\s+20[01]\d\b/i,           // "in 2015", "from 2018"
+    /\b(historically|history|historical)\b/i,      // "historically", "history"
+    /\b(past|previous|old|older|early|earlier)\b/i, // "past decisions"
+    /\bover\s+the\s+(years|decades)\b/i,           // "over the years"
+    /\b(before|prior\s+to)\s+20\d{2}\b/i,          // "before 2020"
+    /\b(20[01]\d[-–]20\d{2})\b/i,                  // "2015-2020" date range
+  ];
+  return historicalPatterns.some(p => p.test(queryText));
+}
+
+/**
+ * Enforce result diversity to prevent results from clustering in one time period
+ * Limits results per meeting and per year to ensure temporal spread
+ */
+function enforceResultDiversity(
+  results: Array<SearchResult & { _score?: number }>,
+  maxPerMeeting: number = 3,
+  maxPerYear: number = 10
+): Array<SearchResult & { _score?: number }> {
+  const meetingCounts: Record<string, number> = {};
+  const yearCounts: Record<string, number> = {};
+
+  return results.filter(r => {
+    const meeting = r.metadata.meeting_title;
+    const year = r.metadata.meeting_date?.substring(0, 4) || 'unknown';
+
+    const currentMeetingCount = meetingCounts[meeting] || 0;
+    const currentYearCount = yearCounts[year] || 0;
+
+    if (currentMeetingCount >= maxPerMeeting || currentYearCount >= maxPerYear) {
+      return false;
+    }
+
+    meetingCounts[meeting] = currentMeetingCount + 1;
+    yearCounts[year] = currentYearCount + 1;
+    return true;
+  });
+}
+
 export class VectorStore {
   private db: any;
   private table: Table | null = null;
@@ -203,6 +288,11 @@ export class VectorStore {
    * The results are reranked using Reciprocal Rank Fusion (RRF) which
    * combines scores from both search methods.
    *
+   * Additional boosting applied:
+   * - Recency boost: Recent documents score higher (unless historical query)
+   * - Entity boost: Documents containing query entities score higher
+   * - Diversity enforcement: Limits results per meeting/year for temporal spread
+   *
    * @param queryEmbedding - Vector embedding of the query
    * @param queryText - Original query text for BM25 matching
    * @param limit - Maximum number of results to return
@@ -227,30 +317,78 @@ export class VectorStore {
     try {
       console.log(`🔀 Hybrid search: "${queryText.substring(0, 50)}..." (alpha=${alpha})`);
 
-      // Perform hybrid search with RRF reranking
-      // The fullTextSearch chain combines vector + FTS results
-      const results = await this.table
+      // Check if this is a historical query (should skip recency boost)
+      const isHistorical = wantsHistoricalData(queryText);
+      if (isHistorical) {
+        console.log(`   📜 Historical query detected - recency boost disabled`);
+      }
+
+      // Extract entities from query for boosting
+      const queryEntities = extractEntities(queryText);
+      if (queryEntities.length > 0) {
+        console.log(`   🏢 Detected entities: ${queryEntities.join(', ')}`);
+      }
+
+      // Get more results to allow for filtering/reranking
+      // Fetch 3x the limit to have enough after diversity filtering
+      const rawResults = await this.table
         .vectorSearch(queryEmbedding)
         .fullTextSearch(queryText, { columns: ['text'] })
         .rerank(this.reranker)
-        .limit(limit)
+        .limit(limit * 3)
         .toArray();
 
-      console.log(`   Found ${results.length} results via hybrid search`);
+      console.log(`   Found ${rawResults.length} raw results via hybrid search`);
 
-      return results.map((result: any) => ({
-        text: result.text,
-        score: result._score || result._distance || 0,
-        metadata: {
-          meeting_title: result.meeting_title,
-          meeting_date: result.meeting_date,
-          meeting_type: result.meeting_type,
-          meeting_url: result.meeting_url,
-          item_number: result.item_number || undefined,
-          item_title: result.item_title || undefined,
-          chunk_type: result.chunk_type,
-          file_path: result.file_path,
-        },
+      // Apply recency and entity boosts
+      const boostedResults = rawResults.map((row: any) => {
+        const meetingDate = row.meeting_date || '';
+        const recencyBoost = isHistorical ? 1.0 : getRecencyBoost(meetingDate);
+        const entityBoost = getEntityBoost(queryEntities, row.text);
+        const originalScore = row._score || row._distance || 0;
+        const totalBoost = recencyBoost * entityBoost;
+
+        return {
+          text: row.text,
+          score: originalScore * totalBoost,
+          metadata: {
+            meeting_title: row.meeting_title,
+            meeting_date: row.meeting_date,
+            meeting_type: row.meeting_type,
+            meeting_url: row.meeting_url,
+            item_number: row.item_number || undefined,
+            item_title: row.item_title || undefined,
+            chunk_type: row.chunk_type,
+            file_path: row.file_path,
+          },
+          _recencyBoost: recencyBoost,
+          _entityBoost: entityBoost,
+          _originalScore: originalScore,
+        };
+      });
+
+      // Sort by boosted score (descending)
+      boostedResults.sort((a, b) => (b.score || 0) - (a.score || 0));
+
+      // Enforce diversity: max 3 results per meeting, max 10 per year
+      const diverseResults = enforceResultDiversity(boostedResults, 3, 10);
+
+      // Log boosting effects
+      const recencyBoosted = boostedResults.filter(r => r._recencyBoost !== 1.0).length;
+      const entityBoosted = boostedResults.filter(r => r._entityBoost > 1.0).length;
+      const diversityFiltered = boostedResults.length - diverseResults.length;
+      if (recencyBoosted > 0 || entityBoosted > 0 || diversityFiltered > 0) {
+        console.log(`   📊 Boosts applied: ${recencyBoosted} recency, ${entityBoosted} entity; ${diversityFiltered} filtered for diversity`);
+      }
+
+      const finalResults = diverseResults.slice(0, limit);
+      console.log(`   Returning ${finalResults.length} results after boosting and diversity`);
+
+      // Return clean SearchResult objects (without internal boost fields)
+      return finalResults.map(r => ({
+        text: r.text,
+        score: r.score,
+        metadata: r.metadata,
       }));
     } catch (error: any) {
       console.error('Hybrid search failed, falling back to vector search:', error?.message);
@@ -431,6 +569,61 @@ export class VectorStore {
     } catch (error) {
       console.error('Error in date range search:', error);
       // Fallback: return empty array
+      return [];
+    }
+  }
+
+  /**
+   * Search for chunks within a date range using Date objects
+   * Combines semantic search with date filtering for councillor validation fallback
+   */
+  async searchByDateRangeWithVector(
+    queryEmbedding: number[],
+    startDate: Date,
+    endDate: Date,
+    limit: number = 50
+  ): Promise<SearchResult[]> {
+    if (!this.table) {
+      throw new Error('Table not initialized. Please run embedding generation first.');
+    }
+
+    const startStr = startDate.toISOString().split('T')[0];
+    const endStr = endDate.toISOString().split('T')[0];
+
+    console.log(`🔍 Searching for meetings between ${startStr} and ${endStr} with vector similarity`);
+
+    try {
+      const results = await this.table
+        .vectorSearch(queryEmbedding)
+        .where(`meeting_date >= '${startStr}' AND meeting_date <= '${endStr} 23:59:59'`)
+        .limit(limit)
+        .toArray();
+
+      console.log(`   Found ${results.length} chunks in date range with vector search`);
+
+      // Sort by date descending (newest first)
+      const sorted = results.sort((a: any, b: any) => {
+        const dateA = new Date(a.meeting_date).getTime();
+        const dateB = new Date(b.meeting_date).getTime();
+        return dateB - dateA;
+      });
+
+      return sorted.map((result: any) => ({
+        text: result.text,
+        score: result._distance || 0,
+        metadata: {
+          meeting_title: result.meeting_title,
+          meeting_date: result.meeting_date,
+          meeting_type: result.meeting_type,
+          meeting_url: result.meeting_url,
+          item_number: result.item_number || undefined,
+          item_title: result.item_title || undefined,
+          chunk_type: result.chunk_type,
+          file_path: result.file_path,
+        },
+      }));
+    } catch (error) {
+      console.error('Error in date range vector search:', error);
       return [];
     }
   }

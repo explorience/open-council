@@ -5,7 +5,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { VectorStore } from './vector-store.js';
 import { getStaticSystemPrompt, getContextBlock, getSystemPrompt } from './system-prompt.js';
 import type { ChatMessage, SearchResult, ChatSource } from './types.js';
-import { getAllCouncillors } from '../lib/councillors/index.js';
+import { getAllCouncillors, isCurrentCouncillor, getCurrentCouncillors } from '../lib/councillors/index.js';
 import { voteLookupService } from './vote-lookup.js';
 import { councillorStatsLookupService } from './councillor-stats-lookup.js';
 import { detectTopicsInQuery } from '../lib/topics/index.js';
@@ -1975,6 +1975,37 @@ export class RAGService {
     // Use balanced weight (0.5) for general queries - both semantic and keyword matching matter
     console.log(`🔀 Using hybrid search for general query`);
     const results = await this.vectorStore.hybridSearch(queryEmbedding, query, topK, 0.5);
+
+    // Councillor validation: detect if we got stale data
+    // If all councillors mentioned in results are former (not current), re-search with recency filter
+    const councillorNames = this.extractCouncillorNamesFromResults(results);
+    if (councillorNames.length > 0) {
+      const { current, former } = this.categorizeCouncillors(councillorNames);
+
+      if (former.length > 0 && current.length === 0) {
+        console.log(`⚠️ All councillors in results are FORMER: ${former.join(', ')}`);
+        console.log(`   Re-searching with recency filter (last 2 years)...`);
+
+        // Re-search with date filter (last 2 years only)
+        const twoYearsAgo = new Date(Date.now() - 2 * 365 * 24 * 60 * 60 * 1000);
+        const recentResults = await this.vectorStore.searchByDateRangeWithVector(
+          queryEmbedding,
+          twoYearsAgo,
+          new Date(),
+          topK
+        );
+
+        if (recentResults.length >= 3) {
+          console.log(`   ✅ Found ${recentResults.length} recent results after recency re-search`);
+          return recentResults;
+        } else {
+          console.log(`   ⚠️ Recency re-search found only ${recentResults.length} results, using original results`);
+        }
+      } else if (current.length > 0) {
+        console.log(`   ✅ Results contain current councillors: ${current.join(', ')}`);
+      }
+    }
+
     return results;
   }
 
@@ -1990,6 +2021,65 @@ export class RAGService {
     if (dates.length > 0) {
       console.log(`   Found ${results.length} chunks from ${seenMeetings.size} meetings (${dates[0]} to ${dates[dates.length - 1]})`);
     }
+  }
+
+  /**
+   * Extract councillor names from search results
+   * Looks for patterns like "Councillor Morgan" or "Mayor Lewis"
+   */
+  private extractCouncillorNamesFromResults(results: SearchResult[]): string[] {
+    const names = new Set<string>();
+    const namePattern = /(?:Councillor|Mayor)\s+([A-Z]\.\s*)?([A-Z][a-z]+)/g;
+
+    for (const r of results) {
+      const matches = r.text.matchAll(namePattern);
+      for (const m of matches) {
+        names.add(m[2]); // Last name
+      }
+    }
+    return Array.from(names);
+  }
+
+  /**
+   * Categorize councillor names as current or former
+   * Uses the councillor registry to determine status
+   */
+  private categorizeCouncillors(names: string[]): { current: string[], former: string[] } {
+    // Build list of current councillor last names
+    const currentCouncillorsData = getCurrentCouncillors();
+    const currentLastNames = new Set<string>();
+
+    for (const { info } of currentCouncillorsData) {
+      // Extract last name from displayName (e.g., "Josh Morgan" -> "morgan")
+      const parts = info.displayName.split(' ');
+      if (parts.length > 0) {
+        const lastName = parts[parts.length - 1].toLowerCase();
+        currentLastNames.add(lastName);
+      }
+    }
+
+    const current: string[] = [];
+    const former: string[] = [];
+
+    for (const name of names) {
+      if (currentLastNames.has(name.toLowerCase())) {
+        current.push(name);
+      } else {
+        // Only mark as former if it's in the councillor registry at all
+        // This avoids false positives from non-councillor names
+        const allCouncillors = getAllCouncillors();
+        const isKnownCouncillor = allCouncillors.some(({ info }) => {
+          const parts = info.displayName.split(' ');
+          const lastName = parts[parts.length - 1].toLowerCase();
+          return lastName === name.toLowerCase();
+        });
+        if (isKnownCouncillor) {
+          former.push(name);
+        }
+      }
+    }
+
+    return { current, former };
   }
 
   /**
