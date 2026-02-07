@@ -2,7 +2,7 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 505
+meetingCount: 508
 yearsActive: "2010 - 2026"
 isCurrent: true
 totalVotes: 8331
@@ -200,14 +200,17 @@ Voted **Nay** - Motion Passed (13 to 2)
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [City Council](/committees/city-council)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (505 total)
+## Recent Meetings (508 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
+- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
@@ -215,6 +218,3 @@ Voted **Nay** - Motion Passed (13 to 2)
 - [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
-- [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
-- [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025

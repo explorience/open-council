@@ -2,7 +2,7 @@
 title: "Jerry Pribil"
 type: councillor
 slug: "j-pribil"
-meetingCount: 219
+meetingCount: 221
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3363
@@ -198,16 +198,18 @@ Voted **Nay** - Motion Passed (9 to 6)
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (219 total)
+## Recent Meetings (221 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
@@ -216,5 +218,3 @@ Voted **Nay** - Motion Passed (9 to 6)
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [4th Meeting of the Audit Committee](</months/2025-11/2025-11-19 4th Meeting of the Audit Committee>) - Wed Nov 19 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
-- [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025

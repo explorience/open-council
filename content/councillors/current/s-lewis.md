@@ -2,7 +2,7 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 503
+meetingCount: 507
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 8608
@@ -208,15 +208,15 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (503 total)
+## Recent Meetings (507 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
+- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
+- [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
 - [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [1st Meeting of the Community and Protective Services Committee](</months/2025-12/2025-12-01 1st Meeting of the Community and Protective Services Committee>) - Mon Dec 1 2025
-- [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
-- [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
-- [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

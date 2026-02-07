@@ -2,7 +2,7 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 224
+meetingCount: 226
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3194
@@ -217,8 +217,10 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (224 total)
+## Recent Meetings (226 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
@@ -227,5 +229,3 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
-- [4th Meeting of the Audit Committee](</months/2025-11/2025-11-19 4th Meeting of the Audit Committee>) - Wed Nov 19 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

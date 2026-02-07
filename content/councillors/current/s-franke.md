@@ -2,7 +2,7 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 186
+meetingCount: 189
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3550
@@ -207,14 +207,17 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [City Council](/committees/city-council)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (186 total)
+## Recent Meetings (189 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
+- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
@@ -222,6 +225,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [1st Meeting of the Community and Protective Services Committee](</months/2025-12/2025-12-01 1st Meeting of the Community and Protective Services Committee>) - Mon Dec 1 2025
 - [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
-- [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
-- [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025

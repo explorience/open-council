@@ -2,7 +2,7 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 461
+meetingCount: 462
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 7404
@@ -205,16 +205,17 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [City Council](/committees/city-council)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (461 total)
+## Recent Meetings (462 total)
 
+- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
@@ -224,4 +225,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

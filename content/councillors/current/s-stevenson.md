@@ -2,7 +2,7 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 188
+meetingCount: 190
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3138
@@ -213,8 +213,10 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Audit Committee](/committees/audit)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (188 total)
+## Recent Meetings (190 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
@@ -223,5 +225,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
 - [1st Meeting of the Community and Protective Services Committee](</months/2025-12/2025-12-01 1st Meeting of the Community and Protective Services Committee>) - Mon Dec 1 2025
 - [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
-- [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
-- [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025

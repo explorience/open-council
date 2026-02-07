@@ -2,7 +2,7 @@
 title: "Anna Hopkins"
 type: councillor
 slug: "a-hopkins"
-meetingCount: 643
+meetingCount: 645
 yearsActive: "2014 - 2026"
 isCurrent: true
 totalVotes: 9332
@@ -199,16 +199,18 @@ Voted **Yea** - Motion Failed (5 to 10)
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [City Council](/committees/city-council)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (643 total)
+## Recent Meetings (645 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
@@ -217,5 +219,3 @@ Voted **Yea** - Motion Failed (5 to 10)
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
 - [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
-- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
-- [4th Meeting of the Budget Committee](</months/2025-10/2025-10-28 4th Meeting of the Budget Committee>) - Tue Oct 28 2025

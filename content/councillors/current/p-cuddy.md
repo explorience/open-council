@@ -2,7 +2,7 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 211
+meetingCount: 213
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3594
@@ -207,8 +207,10 @@ Voted **Nay** - Motion Passed (4 to 2)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (211 total)
+## Recent Meetings (213 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
@@ -217,5 +219,3 @@ Voted **Nay** - Motion Passed (4 to 2)
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [4th Meeting of the Audit Committee](</months/2025-11/2025-11-19 4th Meeting of the Audit Committee>) - Wed Nov 19 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
-- [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025

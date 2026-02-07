@@ -2,7 +2,7 @@
 title: "Sam Trosow"
 type: councillor
 slug: "s-trosow"
-meetingCount: 214
+meetingCount: 216
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3265
@@ -210,8 +210,10 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (214 total)
+## Recent Meetings (216 total)
 
+- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
+- [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
 - [1st Meeting of the Community and Protective Services Committee](</months/2025-12/2025-12-01 1st Meeting of the Community and Protective Services Committee>) - Mon Dec 1 2025
@@ -220,5 +222,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
 - [5th Meeting of the Budget Committee](</months/2025-11/2025-11-18 5th Meeting of the Budget Committee>) - Tue Nov 18 2025
-- [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025
-- [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
