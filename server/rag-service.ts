@@ -1125,6 +1125,7 @@ export class RAGService {
       /how has .+ voted/,
       /how have .+ voted/,
       /.+('s|s') voting record/,
+      /.+ voting record/,  // Also match without possessive: "peter cuddy voting record"
       /what did .+ vote/,
       /did .+ vote (for|against|yes|no)/,
       /has .+ (ever )?voted/,
@@ -1135,6 +1136,14 @@ export class RAGService {
       /.+ voting (pattern|behavior|tendency|tendencies)/,
       /who.*(opposition|bloc|coalition|majority)/,
       /(progressive|conservative|fiscal).*(councillor|bloc|group)/,
+      // Overall record / characterization patterns
+      /gist of .+ vot/,                       // "gist of X's voting"
+      /overall .+ vot/,                        // "overall X voting record"
+      /what kind of (councillor|council member|representative) is/,
+      /what type of (councillor|council member|representative) is/,
+      /what sort of (councillor|council member|representative) is/,
+      /.+ voting (stance|position|history)/,   // "X's voting stance"
+      /record of .+ (as|on)/,                  // "record of X as councillor"
     ];
 
     // Check if query matches voting patterns
