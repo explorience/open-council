@@ -906,8 +906,10 @@ export class RAGService {
       'through the years',
       'throughout the years',
       'throughout history',
-      'throughout their tenure',
-      'throughout their career',
+      'throughout',
+      'this term',
+      'current term',
+      'most recent term',
       'in the past',
       'past votes',
       'past voting',
@@ -938,6 +940,18 @@ export class RAGService {
       '180',
       'turnaround',
       'turn around',
+      'changed stance',
+      'changed position',
+      'switched',
+      'gone from',
+      'went from',
+      'moved from',
+      'come around',
+      'came around',
+      'softened',
+      'hardened',
+      'moderated',
+      'radicalized',
 
       // Comparison/tracking terms
       'track record',
@@ -957,6 +971,31 @@ export class RAGService {
       'progression',
       'journey',
 
+      // Broad summary / overall characterization terms
+      'overall',
+      'in general',
+      'generally',
+      'on the whole',
+      'big picture',
+      'sum up',
+      'summary of',
+      'summarize',
+      'overview',
+      'gist',
+      'broad strokes',
+      'stance on',
+      'where do they stand',
+      'where does he stand',
+      'where does she stand',
+      'position on',
+      'how do they lean',
+      'how does he lean',
+      'how does she lean',
+      'leaning',
+      'what kind of',
+      'what type of',
+      'what sort of',
+
       // Time-span terms
       'always',
       'consistently',
@@ -965,16 +1004,33 @@ export class RAGService {
       'career',
       'since elected',
       'since they started',
+      'since taking office',
+      'since being elected',
+      'since joining council',
+      'since they joined',
       'when first elected',
+      'when they started',
       'first term',
       'last term',
       'previous term',
+      'full term',
+      'entire term',
+      'whole term',
       'full record',
       'complete record',
       'entire record',
       'comprehensive',
       'all votes',
       'every vote',
+      'all their votes',
+      'every time',
+      'time and again',
+      'repeatedly',
+      'again and again',
+      'time after time',
+      'across meetings',
+      'across votes',
+      'across the board',
 
       // Temporal references to old periods
       'years ago',
@@ -992,6 +1048,9 @@ export class RAGService {
       'original position',
       'former position',
       'starting position',
+      'from day one',
+      'from the start',
+      'from the beginning',
     ];
 
     // Check for any historical indicator
@@ -1715,8 +1774,13 @@ export class RAGService {
 
         case 'councillor-profile':
           if (alignmentCouncillorSlug) {
-            verifiedAlignmentContext = councillorStatsLookupService.formatCouncillorAlignmentForContext(alignmentCouncillorSlug);
-            console.log(`   ✅ Loaded councillor profile for ${alignmentCouncillorSlug}`);
+            // Use the richer record format which includes dissent rate, budget voting, notable dissents
+            verifiedAlignmentContext = councillorStatsLookupService.formatCouncillorRecordForContext(alignmentCouncillorSlug);
+            // Fall back to alignment-only if record format returns empty
+            if (!verifiedAlignmentContext) {
+              verifiedAlignmentContext = councillorStatsLookupService.formatCouncillorAlignmentForContext(alignmentCouncillorSlug);
+            }
+            console.log(`   ✅ Loaded councillor record profile for ${alignmentCouncillorSlug}`);
           }
           break;
 
@@ -1816,6 +1880,22 @@ export class RAGService {
           if (motionResult) {
             verifiedVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
             console.log(`   ✅ Found VERIFIED motion vote breakdown`);
+          }
+        }
+      }
+
+      // Inject councillor stats profile for overall record grounding
+      // This gives the LLM hard numbers (dissent rate, budget voting, notable dissents)
+      // to prevent vague positive summaries
+      if (this.councillorStatsInitialized && councillorName) {
+        const councillorSlug = this.councillorNameToSlug(councillorName);
+        if (councillorSlug) {
+          const statsContext = councillorStatsLookupService.formatCouncillorRecordForContext(councillorSlug);
+          if (statsContext) {
+            verifiedVoteContext = verifiedVoteContext
+              ? verifiedVoteContext + '\n\n' + statsContext
+              : statsContext;
+            console.log(`   📊 Injected councillor stats profile for ${councillorName}`);
           }
         }
       }
