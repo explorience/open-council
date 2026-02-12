@@ -110,8 +110,9 @@ app.post('/api/context', async (req, res) => {
     const results = await ragService.getRelevantContext(query);
     res.json({ results });
   } catch (error) {
-    console.error('Error retrieving context:', error);
-    res.status(500).json({ error: 'Failed to retrieve context' });
+    const err = error as Error;
+    console.error('Error retrieving context:', { message: err.message, stack: err.stack });
+    res.status(500).json({ error: 'Failed to retrieve context', debug: err.message });
   }
 });
 
@@ -223,21 +224,22 @@ app.post('/api/chat', async (req, res) => {
         errorCategory = 'service_unavailable';
       }
 
-      // Detailed server logging
+      // Detailed server logging - always include stack trace
       console.error('Error in chat stream:', {
         category: errorCategory,
         message: errorMessage,
         code: errorCode,
         status: statusCode,
-        query: message.substring(0, 100), // First 100 chars of query
+        query: message.substring(0, 100),
+        stack: err.stack,
         timestamp: new Date().toISOString(),
       });
 
       res.write(`data: ${JSON.stringify({
         error: userError,
         errorCategory,
-        // Include technical details in non-production for debugging
-        ...(process.env.NODE_ENV !== 'production' && { debug: errorMessage })
+        // Always include debug info - this is an API, not a public page
+        debug: errorMessage,
       })}\n\n`);
       res.end();
     }
