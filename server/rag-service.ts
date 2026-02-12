@@ -1917,7 +1917,7 @@ export class RAGService {
       const semanticResults = await this.vectorStore.hybridSearch(
         queryEmbedding,
         hybridQuery,
-        Math.floor(topK * 0.4),
+        wantsHistoricalContext ? Math.floor(topK * 0.5) : Math.floor(topK * 0.4),
         0.6  // Weight toward keyword matching for councillor names
       );
       console.log(`   Hybrid search: ${semanticResults.length} results (vector + BM25)`);
@@ -1925,10 +1925,12 @@ export class RAGService {
       // 2. Get recent results to ensure we don't miss recent votes
       const recentResults = await this.vectorStore.getMostRecent(Math.floor(topK * 0.3));
 
-      // 3. CRITICAL: Get recent news_coverage chunks which contain actual vote breakdowns
+      // 3. Get news_coverage chunks which contain actual vote breakdowns
       // These are the chunks that say "Councillors who voted AGAINST: ..."
-      const newsCoverageResults = await this.vectorStore.getRecentNewsCoverage(Math.floor(topK * 0.3), 6);
-      console.log(`   News coverage search: ${newsCoverageResults.length} results with vote breakdowns`);
+      // For historical queries, expand to full available range (180 months) to get temporal spread
+      const newsCoverageMonths = wantsHistoricalContext ? 180 : 6;
+      const newsCoverageResults = await this.vectorStore.getRecentNewsCoverage(Math.floor(topK * 0.3), newsCoverageMonths);
+      console.log(`   News coverage search: ${newsCoverageResults.length} results with vote breakdowns (${newsCoverageMonths} months)`);
 
       // 4. If we have a councillor name, do additional targeted searches using HYBRID
       let councillorNameResults: SearchResult[] = [];
@@ -1961,6 +1963,25 @@ export class RAGService {
         }
       }
 
+      // 5. For historical queries, also search older date ranges to get temporal spread
+      // This ensures we don't just get recent results when the user wants overall record
+      let historicalSpreadResults: SearchResult[] = [];
+      if (wantsHistoricalContext && councillorName) {
+        const currentYear = new Date().getFullYear();
+        // Search across multiple years for this councillor's voting activity
+        for (let year = currentYear - 4; year <= currentYear - 1; year++) {
+          for (const month of [1, 6]) { // Sample Jan and Jun of each year
+            const yearResults = await this.vectorStore.searchByDateRange(month, year, 10);
+            // Filter to only chunks mentioning this councillor
+            const councillorChunks = yearResults.filter(r =>
+              r.text.toLowerCase().includes(councillorName!.toLowerCase().split(' ').pop()!)
+            );
+            historicalSpreadResults.push(...councillorChunks.slice(0, 3));
+          }
+        }
+        console.log(`   Historical spread search: ${historicalSpreadResults.length} results across ${currentYear - 4}-${currentYear - 1}`);
+      }
+
       // Combine and deduplicate results, prioritizing news_coverage and recency
       const seenIds = new Set<string>();
       const combinedResults: SearchResult[] = [];
@@ -1976,12 +1997,15 @@ export class RAGService {
         }
       };
 
-      // Add in order: news_coverage FIRST (has vote breakdowns), then recent, then semantic, then name-based, then topic-based
+      // Add in order: news_coverage FIRST (has vote breakdowns), then recent, then semantic, then name-based, then topic-based, then historical spread
       addResults(newsCoverageResults);  // CRITICAL: These contain "Councillors who voted AGAINST: ..."
       addResults(recentResults);
       addResults(semanticResults);
       addResults(councillorNameResults);
       addResults(councillorTopicResults);
+      if (historicalSpreadResults.length > 0) {
+        addResults(historicalSpreadResults);
+      }
 
       // Sort by date descending so recent votes appear first in context
       const sorted = combinedResults.sort((a, b) => {
@@ -1991,7 +2015,7 @@ export class RAGService {
       });
 
       this.logUniqueMeetings(sorted);
-      console.log(`   Combined: ${newsCoverageResults.length} news_coverage + ${recentResults.length} recent + ${semanticResults.length} semantic + ${councillorNameResults.length} name + ${councillorTopicResults.length} topic = ${sorted.length} unique chunks`);
+      console.log(`   Combined: ${newsCoverageResults.length} news_coverage + ${recentResults.length} recent + ${semanticResults.length} semantic + ${councillorNameResults.length} name + ${councillorTopicResults.length} topic + ${historicalSpreadResults.length} historical = ${sorted.length} unique chunks`);
 
       // CRITICAL: Filter out old data for councillor voting queries UNLESS user explicitly asked for historical context
       // This prevents the model from elaborating on old votes when the user just wants current position
