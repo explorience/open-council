@@ -1565,7 +1565,8 @@ export class RAGService {
 
     // Strategy 2: "Most recent" query (e.g., "last council meeting", "latest updates")
     // Bypass semantic search, query by date with optional meeting type filter
-    if (isMostRecent) {
+    // Skip if this is a councillor voting query - let Strategy 4 handle those even when "most recent" is detected
+    if (isMostRecent && !isCouncillorVotingQuery) {
       console.log(`🕐 Most recent query${meetingTypeFilter ? ` (filtered: ${meetingTypeFilter})` : ''}`);
 
       const recentResults = await this.vectorStore.getMostRecent(topK * 3, meetingTypeFilter);
