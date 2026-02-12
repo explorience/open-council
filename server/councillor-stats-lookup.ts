@@ -31,6 +31,7 @@ interface CouncillorStats {
     absent: number;
     remote: number;
     attendanceRate: number;
+    trendDirection?: string;
   };
   voting: {
     totalVotes: number;
@@ -39,7 +40,24 @@ interface CouncillorStats {
     absent: number;
     participationRate: number;
     yeaRate: number;
+    contestedDissentRate?: number;
+    contestedVotes?: number;
   };
+  budgetVoting?: {
+    totalBudgetVotes: number;
+    budgetYeas: number;
+    budgetNays: number;
+    budgetAbsent: number;
+  };
+  notableDissents?: {
+    date: string;
+    meetingTitle: string;
+    itemTitle: string;
+    motionText: string;
+    vote: string;
+    result: string;
+    meetingUrl: string;
+  }[];
   topAlignments: {
     councillor: string;
     sharedVotes: number;
@@ -348,6 +366,69 @@ ${stats.bottomAlignments.slice(0, 5).map((a, i) => `${i + 1}. ${a.councillor} ($
 
 ⚠️ This is verified structured data. Use these exact details in your response.
 `;
+  }
+
+  /**
+   * Format comprehensive councillor record for LLM context.
+   * Used for "overall record" queries to provide hard numbers that prevent
+   * the model from producing vague positive summaries.
+   */
+  formatCouncillorRecordForContext(slug: string): string {
+    const stats = loadCouncillorStats(slug);
+    if (!stats) return '';
+
+    const totalCast = stats.voting.yeas + stats.voting.nays;
+    const nayRate = totalCast > 0 ? ((stats.voting.nays / totalCast) * 100).toFixed(1) : '0.0';
+
+    let output = `
+## VERIFIED COUNCILLOR RECORD: ${stats.councillor} (from structured data - USE THIS)
+
+**Voting Summary:**
+- Total votes cast: ${totalCast} (${stats.voting.absent} absences)
+- Yea rate: ${stats.voting.yeaRate.toFixed(1)}% | Nay rate: ${nayRate}%
+- Participation: ${stats.voting.participationRate.toFixed(1)}%`;
+
+    if (stats.voting.contestedDissentRate != null) {
+      output += `
+- Contested dissent rate: ${stats.voting.contestedDissentRate.toFixed(1)}% (how often they vote against the majority on close/contested votes)`;
+    }
+
+    if (stats.budgetVoting && stats.budgetVoting.totalBudgetVotes > 0) {
+      const budgetCast = stats.budgetVoting.budgetYeas + stats.budgetVoting.budgetNays;
+      const budgetNayRate = budgetCast > 0 ? ((stats.budgetVoting.budgetNays / budgetCast) * 100).toFixed(1) : '0.0';
+      output += `
+
+**Budget Voting:**
+- ${stats.budgetVoting.totalBudgetVotes} budget votes: ${stats.budgetVoting.budgetYeas} yea, ${stats.budgetVoting.budgetNays} nay (${budgetNayRate}% nay rate on budget items)`;
+    }
+
+    if (stats.attendance.trendDirection) {
+      output += `
+
+**Attendance:** ${stats.attendance.attendanceRate.toFixed(1)}% overall (trend: ${stats.attendance.trendDirection})`;
+    }
+
+    output += `
+
+**Votes most often with:**
+${stats.topAlignments.slice(0, 3).map((a, i) => `${i + 1}. ${a.councillor} (${a.alignmentRate.toFixed(1)}%)`).join('\n')}
+
+**Votes least often with:**
+${stats.bottomAlignments.slice(0, 3).map((a, i) => `${i + 1}. ${a.councillor} (${a.alignmentRate.toFixed(1)}%)`).join('\n')}`;
+
+    if (stats.notableDissents && stats.notableDissents.length > 0) {
+      const recentDissents = stats.notableDissents.slice(0, 5);
+      output += `
+
+**Recent Notable Dissents (votes where they were in the minority):**
+${recentDissents.map(d => `- ${d.date}: "${d.itemTitle}" - voted ${d.vote}, ${d.result}`).join('\n')}`;
+    }
+
+    output += `
+
+⚠️ This is verified structured data. Use these numbers directly in your response. State the dissent rate, name their closest allies and opponents, and characterize their position relative to council majority. Do NOT produce a vague positive summary.`;
+
+    return output;
   }
 
   /**
