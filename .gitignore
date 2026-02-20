@@ -9,3 +9,8 @@ lancedb/
 
 # Chat logs - contain user data, should not be committed
 server/chat-logs/.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.production
