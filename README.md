@@ -1,166 +1,197 @@
 # Open Council
 
-Open Council scrapes London council meetings, nicely formats them, and parses the data into an easy-to-work-with JSON format.
+**Make your city council's decisions searchable, accessible, and queryable with AI.**
 
-## 🤖 NEW: AI Chatbot
+Open Council scrapes publicly available city council meeting data, structures it into searchable formats, and provides an AI-powered chatbot so anyone can ask questions about what their council has discussed, voted on, and decided — from 2011 to present.
 
-Ask questions about council meetings in natural language! The chatbot uses RAG (Retrieval Augmented Generation) to provide intelligent answers based on actual meeting data.
+**Live site:** [opencouncil.xyz](https://opencouncil.xyz)
 
-**Quick Start:**
-1. `cp .env.example .env` and add your API keys
-2. `npm run chat:generate` (one-time setup)
-3. `npm run chat:server` (keep running)
-4. `npm run dev` (in another terminal)
+---
 
-See [CHATBOT_QUICKSTART.md](./CHATBOT_QUICKSTART.md) for details or [CHATBOT.md](./CHATBOT.md) for full documentation.
+## For Citizens
 
-## Folders
+Visit [opencouncil.xyz](https://opencouncil.xyz) to:
 
-- [`scraping/`](scraping/): Python scraping scripts
-- [`data/`](data/): outputted JSON data
-- [`content/`](content/): formatted markdown
-- [`server/`](server/): AI chatbot backend API
+- **Search meetings** — Browse council and committee meetings from 2011 to today
+- **Ask questions** — Use the AI chatbot to ask about any topic discussed in council (e.g. "What has council said about bike lanes?" or "How did my councillor vote on the budget?")
+- **Track councillors** — See attendance records and voting history
+- **Browse by topic** — Find what committees discussed on specific issues
 
-## Scripts
+No account needed. No paywall. Just public data made actually accessible.
 
-To serve the site, run `npm run dev` in this directory.
+**Found a problem?** Email [info@opencouncil.xyz](mailto:info@opencouncil.xyz) or [open an issue](https://github.com/explorience/open-council/issues).
 
-To scrape, run `uv run main.py` in the [`scraping/`](scraping/) directory. This will find all new meetings in the past 6 months, and process them. It determines which meetings have already been scraped from the `data/` folder.
+---
 
-You can also run something like
+## For Developers
+
+### Tech Stack
+
+| Component | Tech |
+|-----------|------|
+| Static site | [Quartz](https://quartz.jzhao.xyz/) (TypeScript/Preact) |
+| Chatbot API | Express + LanceDB vector store |
+| Embeddings | OpenAI text-embedding-3-small |
+| LLM | Anthropic Claude (via OpenRouter) |
+| Scraper | Python 3.12+ with BeautifulSoup |
+| Data | JSON (structured) + Markdown (rendered) |
+
+### Project Structure
+
 ```
+open-council/
+├── content/          # Markdown pages (generated from data)
+│   ├── months/       # Meeting pages by month
+│   ├── councillors/  # Councillor profile pages
+│   ├── committees/   # Committee pages
+│   └── years/        # Year summary pages
+├── data/             # Structured JSON meeting data (2011–present)
+│   ├── YYYY-MM/      # Meeting JSON files by month
+│   ├── councillors/  # Councillor metadata
+│   ├── votes/        # Individual voting records
+│   └── stats/        # Aggregate statistics
+├── scraping/         # Python scraper (eScribe → JSON)
+├── server/           # Express API + RAG pipeline
+│   ├── index.ts      # API server entry point
+│   ├── rag-service.ts    # Retrieval + generation
+│   ├── vector-store.ts   # LanceDB vector search
+│   ├── embeddings.ts     # Embedding generation
+│   └── analytics.ts      # Query analytics
+├── quartz/           # Quartz static site framework (customized)
+├── scripts/          # Page generation + transcript tools
+└── transcripts/      # Full meeting transcripts (where available)
+```
+
+### Local Development
+
+**Prerequisites:** Node.js >= 22, Python 3.12+, [uv](https://docs.astral.sh/uv/)
+
+```bash
+# Clone and install
+git clone https://github.com/explorience/open-council.git
+cd open-council
+npm install
+cd scraping && uv sync && cd ..
+
+# Set up environment
+cp .env.example .env
+# Add your OPENAI_API_KEY and optionally ANTHROPIC_API_KEY
+
+# Generate embeddings (first time only — takes a few minutes)
+npm run chat:generate
+
+# Start development
+npm run chat:dev    # Terminal 1: chatbot API (port 3001)
+npm run dev         # Terminal 2: static site (port 8080)
+```
+
+### Key Scripts
+
+| Command | What it does |
+|---------|-------------|
+| `npm run dev` | Serve the site locally |
+| `npm run build` | Build the static site |
+| `npm run chat:generate` | Generate vector embeddings from meeting data |
+| `npm run chat:dev` | Start chatbot API with hot reload |
+| `npm run chat:server` | Start chatbot API (production) |
+| `npm run generate:pages` | Regenerate markdown pages from JSON data |
+| `npm run transcripts:full` | Sync transcripts and add to pages |
+| `npm run check` | Run TypeScript + Prettier checks |
+| `npm run format` | Auto-format code with Prettier |
+
+### Scraping
+
+The scraper pulls meeting data from London's [eScribe system](https://pub-london.escribemeetings.com/):
+
+```bash
+cd scraping
+
+# Scrape recent meetings (last 6 months)
+uv run main.py
+
+# Scrape a specific meeting
 uv run main.py 'Community and Protective Services Committee' '2025-05-20'
 ```
-to scrape a specific meeting from its meeting type and date. The name of the meeting comes from the [eScribe's meeting types](https://pub-london.escribemeetings.com/?MeetingViewId=1) (the name of the collapsible)
 
-## Data
+It detects which meetings have already been scraped by checking the `data/` folder, so it's safe to run repeatedly.
 
-JSON data for meetings is available in [`data/YYYY-MM/`](data/) folders. This JSON data is serialized (quickly and dirtly) from the Python classes in the [`scraping/`](scraping/) directory. Each object has a `__class__` property that identifies its class. Here is some pseudocode for the format:
+---
 
-```ocaml
-File : Meeting
+## For Other Cities
 
-class Meeting:
-  (* Meeting title (and sometimes... meetings don't have titles.) *)
-  title : String | null
+Open Council was built for London, Ontario, but the approach works for any city that publishes council minutes online. Here's how to adapt it for your city.
 
-  (* YYYY-MM-DD HH:MM:SS, in London's time zone *)
-  datetime : String
+### Step 1: Understand the Architecture
 
-  (* Link to the original meeting minutes *)
-  url : String
+The system has three independent layers:
 
-  (* An option from the dropdowns in https://pub-london.escribemeetings.com/?MeetingViewId=1 *)
-  meeting_type : String
+1. **Scraper** → Pulls raw meeting data from your city's meeting system and outputs structured JSON
+2. **Content generator** → Converts JSON into markdown pages for browsing
+3. **Chatbot** → Indexes the data into a vector store for AI-powered Q&A
 
-  (* Bills passed this meeting (only present at Council meetings) *)
-  bills : null | Bills
+You can use any combination of these. The chatbot works on the JSON data, not the website.
 
-  (* Attendees lists - may contain improperly split names or fragments of titles; I try my best to clean this up but some edge cases surely elude me *)
-  present : [String]
-  also_present : [String]
-  absent : [String]
-  remote_attendance : [String]
+### Step 2: Write Your Scraper
 
-  (* Brief text before the items ("this meeting called to order at ..." etc) *)
-  content : Content | Paragraph
+This is the main work. Every city publishes minutes differently.
 
-  (* The key of each subitem is usually a number ("1", "2"), but may occasionally be a letter (such as "a") *)
-  items : Dict(String, MeetingItem)
+**If your city uses eScribe** (many Canadian cities do): You can likely reuse or adapt the existing scraper in `scraping/` with minimal changes. Look at `scraping/main.py` and update the base URL and meeting type names.
 
-class Bills:
-  bills : [Bill]
+**If your city uses a different system:** You'll need to write a new scraper that outputs JSON in the same format. See `data/` for examples of the expected structure. The key fields are:
+- Meeting title, date, type, URL
+- Agenda items with titles and content
+- Attendance (present, absent, remote)
+- Voting records (where available)
 
-class Bill:
-  title : String
-  desc : String
+Common meeting platforms to look at:
+- [eScribe](https://escribemeetings.com/) — Used by many Canadian municipalities
+- [Legistar](https://www.granicus.com/solution/govmeetings/) — Common in US cities
+- Custom municipal websites — You'll need to inspect the HTML
 
-class MeetingItem:
-  title : String
+### Step 3: Generate Pages
 
-  (* Same as the key for the dict in which this item resides (see `items` above) *)
-  number : String
+Once you have JSON data in `data/`, update the page generation scripts in `scripts/` to reflect your city's council structure (ward names, committee names, councillor info).
 
-  (* Subitems *)
-  items : Dict(String, MeetingItem)
-
-  content : [Content | Paragraph | Motion]
-
-  (* Relevant attachments (these may be absent on some meetings when not provided, even in a place like "previous meeting minutes" when you expect them to be there) *)
-  attachments : [Attachment]
-
-  (* Relevant report for this subitem, if report has already been processed and is in the data.
-   For example, if section 8.1 is "budget committee meeting", and this item is 8.1.3, "section 4.3 from budget committee meeting", this would hold the path to the budget committee meeting
-   In other words, this holds a path to the parent's Attachment *)
-  report : String | null
-
-class Attachment:
-  (* Link to attachment *)
-  url : String
-
-  (* YYYY-MM-DD, date of attached meeting/report *)
-  date : String | null
-
-  (* Path to local file if the meeting is in data (this may occasionally be incorrect - categorizing meetings is based on heuristics from common document titles and isn't perfect) *)
-  local_page : String | null
-
-class Motion:
-  pre_motion_texts : [Content | Paragraph]
-  moved_by : Mover
-  seconded_by : Mover
-  motion_texts : [Content | Paragraph]
-  vote : Vote
-  result : MotionResult
-  post_motion_texts : [Content | Paragraph]
-
-class Mover:
-  (* Name of the person that moved/seconded this motion. Could be an empty string if the motion didn't need someone to move/second. *)
-  string : String
-
-class Vote:
-  (* This could be an empty list due to document quirks *)
-  rows: [{
-    (* Such as "Yeas" or "Nays" or "Absent" *)
-    "vote" : String
-
-    (* List of names *)
-    "voters" : [String]
-  }]
-
-class MotionResult
-  (* eg "Motion Passed (15 to 0)" or "Motion Failed (5 to 10)". Could also be an empty string if inconclusive (such as if it was amended) *)
-  string : String
-
-class Content:
-  (* Completely empty, for indicating that there is no content *)
-
-class Paragraph:
-  string : String
+```bash
+npm run generate:pages
 ```
 
-## Debugging
+### Step 4: Set Up the Chatbot
 
-The HTML structure of meeting minutes is quite inconsistent. I have tested the scraper on 2022-August 2025 meetings, but you may run into issues if scraping older or newer meetings. When a meeting fails to parse, you will get a message like this:
+The chatbot is city-agnostic — it indexes whatever meeting data exists in `data/`:
 
-```
-2 meetings could not be processed:
-- 'Council' '2023-02-14'
-- 'Strategic Priorities and Policy Committee' '2023-08-16'
-```
+```bash
+# Generate embeddings from your city's data
+npm run chat:generate
 
-Let's debug the council meeting. First, we'll try to process that specific meeting:
-
-```
-uv run main.py 'Council' '2023-02-14'
-
-...
-
-  File "open-council/scraping/Attachment.py", line 47, in __init__
-    self.title = Path(attrs["data-original-title"]).stem
-                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-KeyError: 'data-original-title'
+# Start the API
+npm run chat:server
 ```
 
-From the error message, we can figure out what part fails to parse. Then, I just use a lot of print debugging to figure out where our assumptions of the structure are wrong. (In this case, it appears like some attachments are completely empty. In that case, I will set their empty flag to `True` so that they will be filtered out.)
+Update `server/system-prompt.ts` to reference your city instead of London.
 
-For HTML elements, you can print them nicely with `print(elem.prettify())`. You can skim the [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to further understand how HTML elements are represented and how they can be manipulated.
+### Step 5: Customize the Site
+
+- Update `content/about.md` with your city's info
+- Update `quartz.config.ts` with your site title and domain
+- Adjust any London-specific references in the Quartz layout
+
+### Inspiration
+
+Similar projects making government more accessible:
+- [OttWatch](https://www.ottwatch.ca/) — Ottawa city council tracker
+- [OpenParliament.ca](https://openparliament.ca/) — Canadian federal parliament
+
+---
+
+## Support
+
+Open Council is a community project with over **600 hours** of volunteer work behind it.
+
+- **Report issues:** [GitHub Issues](https://github.com/explorience/open-council/issues)
+- **Email:** [info@opencouncil.xyz](mailto:info@opencouncil.xyz)
+- **Support the project:** [Ko-fi](https://ko-fi.com/heenalr)
+
+## License
+
+This project is licensed under the [Peer Production License](./LICENSE) — a copyfarleft license that allows free use by individuals, cooperatives, and nonprofits, while requiring commercial entities to negotiate separate terms. See [LICENSE-FAQ.md](./LICENSE-FAQ.md) for details.

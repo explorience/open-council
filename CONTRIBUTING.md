@@ -101,4 +101,4 @@ Open an issue or reach out to the maintainers. We're happy to help you get start
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the CC BY-NC-SA 4.0 license.
+By contributing, you agree that your contributions will be licensed under the [Peer Production License](./LICENSE).
