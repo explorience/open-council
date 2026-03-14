@@ -1,6 +1,6 @@
 import sys
 from datetime import datetime, timedelta
-from process_meeting import process_meeting, get_processing_stats
+from process_meeting import process_meeting, get_processing_stats, create_placeholder_meeting
 from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types, get_meetings
 
 target_meetings = [] # { meeting_type, date }
@@ -31,6 +31,9 @@ else:
       meeting_info = { "meeting_type": meeting_type, "date": d }
       if not meeting_minutes(m):
         without_minutes.append(meeting_info)
+        # Create placeholder file so transcript sync can still find this meeting
+        if not meeting_local_copy(meeting_type, d):
+          create_placeholder_meeting(meeting_type, d)
         continue
       if meeting_local_copy(meeting_type, d): continue
       target_meetings.append(meeting_info)
