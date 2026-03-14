@@ -138,3 +138,52 @@ def process_meeting(meeting_type, target_date):
 
 def get_processing_stats():
   return (meetings_processed, meetings_processed_errors)
+
+
+def create_placeholder_meeting(meeting_type, target_date):
+  """
+  Create a placeholder meeting file when minutes aren't available yet.
+  This allows the transcript sync to still find the meeting and search for coverage.
+  """
+  from download_meeting import get_meetings, meeting_date, meeting_minutes
+
+  yyyy_mm = target_date.strftime("%Y-%m")
+  date_str = target_date.strftime("%Y-%m-%d")
+  title = f"{date_str} - {meeting_type}"
+
+  # Try to get meeting info from eScribe
+  try:
+    meetings = get_meetings(meeting_type, target_date.year)
+    meeting_data = None
+    for m in meetings:
+      if meeting_date(m) == target_date:
+        meeting_data = m
+        break
+
+    if meeting_data:
+      # Build minimal meeting info from eScribe data
+      meeting_info = {
+        "meeting_type": meeting_type,
+        "date": date_str,
+        "url": meeting_data.get("MeetingUrl", ""),
+        "has_minutes": False,
+        "has_transcript": False,  # Will be updated by transcript sync
+        "source": "escribe",
+        "created_at": datetime.now().isoformat(),
+        "agenda_items": [],
+        "votes": [],
+        "attendance": {"present": [], "absent": [], "remote": []},
+        "placeholder": True,
+        "note": "Minutes not yet published - placeholder created for transcript sync"
+      }
+
+      output_json = Path(f"../data/{yyyy_mm}/{title.replace('/', '-')}.json")
+      output_json.parent.mkdir(parents=True, exist_ok=True)
+      output_json.write_text(json.dumps(meeting_info, indent=2))
+
+      print(f"  → Created placeholder: {title}")
+      return f"{yyyy_mm}/{title}"
+  except Exception as e:
+    print(f"  → Error creating placeholder for {meeting_type} {date_str}: {e}")
+
+  return None
