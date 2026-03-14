@@ -32,14 +32,33 @@ def get_meeting_types(year=datetime.now().year):
 @functools.cache
 def get_meetings(meeting_type, year):
   url = f"{BASE_URL}MeetingsCalendarView.aspx/PastMeetings?MeetingViewId=1&Year={year}&Expanded={meeting_type}"
-  data = {
-    "type": meeting_type
-  }
-  print(f"Fetching {year} {meeting_type} meetings...")
-  x = requests.post(url, json=data, verify=False)
-  print(f"Data for {year} {meeting_type} meetings retrieved")
-  data = json.loads(x.text)
-  return data["d"]
+  all_meetings = []
+  page = 1
+
+  while True:
+    data = {
+      "type": meeting_type,
+      "pageNumber": page
+    }
+    print(f"Fetching {year} {meeting_type} meetings (page {page})...")
+    x = requests.post(url, json=data, verify=False)
+    print(f"Data for {year} {meeting_type} meetings retrieved")
+    result = json.loads(x.text)
+
+    # Handle both old format (data["d"] is list) and new paginated format
+    # (data["d"] is {"Meetings": [...], "TotalCount": N})
+    d = result["d"]
+    if isinstance(d, list):
+      return d
+    
+    meetings = d["Meetings"]
+    all_meetings.extend(meetings)
+
+    if len(all_meetings) >= d["TotalCount"] or len(meetings) == 0:
+      break
+    page += 1
+
+  return all_meetings
 
 def meeting_name(m):
   if m["HasLinks"]:

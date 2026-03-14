@@ -32,6 +32,7 @@ jobs:
         id: scrape
         working-directory: scraping
         run: |
+          set -o pipefail
           uv run main.py 2>&1 | tee scrape_output.txt
           echo "output<<EOF" >> $GITHUB_OUTPUT
           cat scrape_output.txt >> $GITHUB_OUTPUT
