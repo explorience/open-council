@@ -162,7 +162,6 @@ def create_placeholder_meeting(meeting_type, target_date):
 
     if meeting_data:
       # Build minimal meeting info from eScribe data
-<<<<<<< HEAD
       # Must match format expected by server/embeddings.ts
       meeting_info = {
         "meeting_type": meeting_type,
@@ -177,19 +176,6 @@ def create_placeholder_meeting(meeting_type, target_date):
         "bills": [],
         "content": "",
         "__class__": "Placeholder",
-=======
-      meeting_info = {
-        "meeting_type": meeting_type,
-        "date": date_str,
-        "url": meeting_data.get("MeetingUrl", ""),
-        "has_minutes": False,
-        "has_transcript": False,  # Will be updated by transcript sync
-        "source": "escribe",
-        "created_at": datetime.now().isoformat(),
-        "agenda_items": [],
-        "votes": [],
-        "attendance": {"present": [], "absent": [], "remote": []},
->>>>>>> origin/main
         "placeholder": True,
         "note": "Minutes not yet published - placeholder created for transcript sync"
       }

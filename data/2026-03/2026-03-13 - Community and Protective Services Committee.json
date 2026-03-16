@@ -1,18 +1,16 @@
 {
   "meeting_type": "Community and Protective Services Committee",
-  "date": "2026-03-13",
+  "datetime": "2026-03-13",
+  "title": "2026-03-13 - Community and Protective Services Committee",
   "url": "https://pub-london.escribemeetings.com/MeetingsCalendarView.aspx/Meeting?Id=7993b69a-aa6b-44e7-9ea4-9dee886030ce",
-  "has_minutes": false,
-  "has_transcript": false,
-  "source": "escribe",
-  "created_at": "2026-03-15T06:48:34.938975",
-  "agenda_items": [],
-  "votes": [],
-  "attendance": {
-    "present": [],
-    "absent": [],
-    "remote": []
-  },
+  "present": [],
+  "absent": [],
+  "also_present": [],
+  "remote_attendance": [],
+  "items": [],
+  "bills": [],
+  "content": "",
+  "__class__": "Placeholder",
   "placeholder": true,
   "note": "Minutes not yet published - placeholder created for transcript sync"
 }

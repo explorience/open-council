@@ -1,18 +1,16 @@
 {
   "meeting_type": "Planning and Environment Committee",
-  "date": "2026-03-10",
+  "datetime": "2026-03-10",
+  "title": "2026-03-10 - Planning and Environment Committee",
   "url": "https://pub-london.escribemeetings.com/MeetingsCalendarView.aspx/Meeting?Id=c54777ec-4f72-472c-a200-acb7dbb91897",
-  "has_minutes": false,
-  "has_transcript": false,
-  "source": "escribe",
-  "created_at": "2026-03-15T06:48:30.806656",
-  "agenda_items": [],
-  "votes": [],
-  "attendance": {
-    "present": [],
-    "absent": [],
-    "remote": []
-  },
+  "present": [],
+  "absent": [],
+  "also_present": [],
+  "remote_attendance": [],
+  "items": [],
+  "bills": [],
+  "content": "",
+  "__class__": "Placeholder",
   "placeholder": true,
   "note": "Minutes not yet published - placeholder created for transcript sync"
 }
