@@ -76,4 +76,27 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:02 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (22 minutes)</summary>
+
+Okay, good afternoon, everyone. We are going to get started with the fifth meeting, which is a special meeting of the Infrastructure and Corporate Services Committee. I'll start with the land acknowledgement. The city of London is situated on the traditional lands of the Anishinaabeck, Haudenosaunee, Lenapawik, and Adawandran.
+
+We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The city of London is currently home to many First Nation, Métis, and Inuit today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. The city of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request.
+
+To make a request specific to this meeting, please contact ICSC@london.ca or 519-661-2489, extension 2425. I'll begin with item one, which is the disclosure of any pecuniary interest. Hey, seeing none, we'll move on to consent. The item for consent is 2.1.
+
+The public sector salary disclosure act report for calendar year 2025. I will look for a mover and seconder for this report. Councillor Frank. Councillor McKelvie.
+
+Oh, I heard Councillor van Mirbergen, thank you. And with that, I'll look for any discussion on this item. Okay, seeing none, I will open the vote on this one. Closing the vote, motion carries four to zero.
+
+Thank you. And with that, we have no scheduled items, no items for direction, no deferred matters and additional business allowed at a special meeting. No confidential, so we'll move on to item seven, which is a German, I'll look for motion to adjourn. Thank you, Councillor McAllister and Councillor Frank.
+
+All in favor by hand, that motion carries. Great day, everyone.
+
+</details>
