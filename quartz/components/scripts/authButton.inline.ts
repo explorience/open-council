@@ -1,6 +1,5 @@
 import {
   getSupabaseClient,
-  signInWithGoogle,
   signInWithMagicLink,
   signOut,
   getCurrentUser,
@@ -20,7 +19,6 @@ document.addEventListener("nav", async () => {
   const signedInEl = document.getElementById("auth-signed-in") as HTMLElement
   const triggerBtn = document.getElementById("auth-trigger") as HTMLButtonElement
   const dropdown = document.getElementById("auth-dropdown") as HTMLElement
-  const googleBtn = document.getElementById("auth-google") as HTMLButtonElement
   const emailForm = document.getElementById("auth-email-form") as HTMLFormElement
   const emailInput = document.getElementById("auth-email-input") as HTMLInputElement
   const emailSent = document.getElementById("auth-email-sent") as HTMLElement
@@ -87,12 +85,6 @@ document.addEventListener("nav", async () => {
     dropdown.style.display = dropdown.style.display === "none" ? "block" : "none"
   }
   triggerBtn?.addEventListener("click", toggleDropdown)
-
-  // Google sign-in
-  function handleGoogle() {
-    signInWithGoogle()
-  }
-  googleBtn?.addEventListener("click", handleGoogle)
 
   // Magic link
   function handleEmailSubmit(e: Event) {
@@ -190,7 +182,6 @@ document.addEventListener("nav", async () => {
   window.addCleanup(() => {
     subscription?.unsubscribe()
     triggerBtn?.removeEventListener("click", toggleDropdown)
-    googleBtn?.removeEventListener("click", handleGoogle)
     emailForm?.removeEventListener("submit", handleEmailSubmit)
     userBtn?.removeEventListener("click", toggleUserDropdown)
     signoutBtn?.removeEventListener("click", handleSignout)
