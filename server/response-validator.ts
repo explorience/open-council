@@ -25,6 +25,7 @@ export interface ValidationResult {
   isValid: boolean;
   issues: ValidationIssue[];
   disclaimer: string | null;  // null if no issues, otherwise a disclaimer to append
+  blockedResponse?: string;   // if set, replace the entire response with this (e.g., prompt leak blocked)
 }
 
 export interface ValidationIssue {
@@ -359,8 +360,121 @@ function buildDisclaimer(issues: ValidationIssue[], usedStructuredData: boolean,
  * @param response - The full LLM response text
  * @param usedStructuredData - Whether the response was backed by the structured vote lookup engine
  */
+/**
+ * E. System prompt leak detection
+ *
+ * Checks if the LLM response contains fragments of the system prompt,
+ * which would indicate a successful prompt extraction attack.
+ */
+const SYSTEM_PROMPT_SIGNATURES = [
+  'SECURITY NOTICE',
+  'RESPONSE PHILOSOPHY',
+  'COUNCILLOR NAMES - NEVER HALLUCINATE',
+  'WHAT NOT TO DO (Critical)',
+  'QUESTION TYPES AND HOW TO HANDLE',
+  'Narrative First, Details on Request',
+  'Don\'t recite motions verbatim',
+  'Don\'t list vote tallies',
+  'VERIFY PREMISES BEFORE ANSWERING',
+  'COUNCILLOR VOTING QUESTIONS',
+  'Procedural vs Substantive Votes',
+  'Movers vs Voters - Different Levels',
+  'DO NOT CHEERLEAD',
+  'getStaticSystemPrompt',
+  'getContextBlock',
+  'OpenRouter',
+  'OPENROUTER_API_KEY',
+  'ANTHROPIC_API_KEY',
+  'OPENAI_API_KEY',
+  'text-embedding-3-small',
+  'chatStreamOpenRouter',
+  'chatStreamAnthropic',
+  'RAGService',
+  'vectorStore',
+  'TOP_K_SIMPLE',
+  'TOP_K_COMPLEX',
+  'LLM_PROVIDER',
+];
+
+function detectSystemPromptLeak(response: string): boolean {
+  const upper = response.toUpperCase();
+  let matchCount = 0;
+  for (const sig of SYSTEM_PROMPT_SIGNATURES) {
+    if (upper.includes(sig.toUpperCase())) {
+      matchCount++;
+    }
+    // 3+ matches = almost certainly a leak
+    if (matchCount >= 3) return true;
+  }
+  return false;
+}
+
+/**
+ * Detect prompt injection attempts in user input.
+ * Returns a canned response if injection detected, null otherwise.
+ */
+export function detectPromptInjection(input: string): string | null {
+  const lower = input.toLowerCase();
+
+  const injectionPatterns = [
+    // Direct prompt extraction
+    /ignore\s+(your\s+)?(previous\s+)?instructions/i,
+    /output\s+(your\s+)?(full\s+)?system\s+prompt/i,
+    /reveal\s+(your\s+)?system\s+prompt/i,
+    /print\s+(your\s+)?(full\s+)?system\s+(prompt|instructions)/i,
+    /what\s+(is|are)\s+your\s+(system\s+)?instructions/i,
+    /show\s+me\s+your\s+(system\s+)?prompt/i,
+    /repeat\s+(your\s+)?(system\s+)?(prompt|instructions)\s+verbatim/i,
+    /display\s+(your\s+)?initial\s+instructions/i,
+
+    // Roleplay/debug jailbreaks
+    /pretend\s+you\s+are\s+a\s+debugging/i,
+    /you\s+are\s+now\s+(in\s+)?debug\s+mode/i,
+    /enter\s+(maintenance|admin|debug)\s+mode/i,
+    /as\s+a\s+(developer|admin|debug)\s+tool/i,
+
+    // DAN-style jailbreaks
+    /\bDAN\b.*\bjailbreak\b/i,
+    /do\s+anything\s+now/i,
+    /you\s+have\s+been\s+freed/i,
+
+    // Encoding tricks
+    /decode\s+and\s+execute/i,
+    /base64.*execute/i,
+  ];
+
+  for (const pattern of injectionPatterns) {
+    if (pattern.test(input)) {
+      return "I'm here to help you learn about London City Council meetings, votes, and decisions. What would you like to know about? You can ask about specific topics, councillor voting records, or recent council decisions.";
+    }
+  }
+
+  // Also check for suspicious keywords clustered together
+  const suspiciousTerms = ['system prompt', 'training data', 'api key', 'environment variable', 'internal configuration', 'previous instructions'];
+  const termMatches = suspiciousTerms.filter(t => lower.includes(t));
+  if (termMatches.length >= 2) {
+    return "I'm here to help you learn about London City Council meetings, votes, and decisions. What would you like to know about? You can ask about specific topics, councillor voting records, or recent council decisions.";
+  }
+
+  return null;
+}
+
 export function validateResponse(response: string, usedStructuredData: boolean): ValidationResult {
   const issues: ValidationIssue[] = [];
+
+  // E. System prompt leak detection (highest priority - block entire response)
+  if (detectSystemPromptLeak(response)) {
+    return {
+      isValid: false,
+      issues: [{
+        type: 'hallucinated-name' as const,  // reuse type for simplicity
+        severity: 'error',
+        detail: 'Response contained system prompt fragments (potential prompt extraction attack)',
+      }],
+      disclaimer: null,
+      blockedResponse: "I'm here to help you learn about London City Council meetings, votes, and decisions. What would you like to know about? You can ask about specific topics, councillor voting records, or recent council decisions.",
+    };
+  }
 
   try {
     // A. Councillor name validation
