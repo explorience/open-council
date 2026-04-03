@@ -86,6 +86,10 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
+        {/* Supabase config for watchlist sync & user accounts */}
+        <meta name="supabase-url" content="https://befyylvlassopwiypasi.supabase.co" />
+        <meta name="supabase-anon-key" content="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJlZnl5bHZsYXNzb3B3aXlwYXNpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUyMzkwMDcsImV4cCI6MjA5MDgxNTAwN30.psWNY9SyEYR-2tFmdnoHN3zEcYth7S7TUFUvPYe7HmQ" />
+
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")

@@ -83,6 +83,8 @@ const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
       <nav class="header-mobile-menu" aria-label="Site navigation">
         <a href="/councillors" class="mobile-menu-item">Councillors</a>
         <a href="/months" class="mobile-menu-item">Browse All Meetings</a>
+        <a href="/watchlist" class="mobile-menu-item">My Watchlist</a>
+        <a href="/alerts" class="mobile-menu-item">Alerts</a>
         <a href="/about" class="mobile-menu-item">About</a>
         <div class="menu-divider"></div>
         <div class="menu-section">
