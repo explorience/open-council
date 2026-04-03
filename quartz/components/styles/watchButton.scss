@@ -1,0 +1,42 @@
+.watch-button-container {
+  display: inline-flex;
+  align-items: center;
+  margin: 0.5rem 0;
+}
+
+.watch-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--darkgray);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  font-family: inherit;
+
+  &:hover {
+    border-color: var(--secondary);
+    color: var(--secondary);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  }
+
+  &.watching {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: #fff;
+
+    &:hover {
+      opacity: 0.9;
+      color: #fff;
+    }
+  }
+
+  svg {
+    flex-shrink: 0;
+  }
+}

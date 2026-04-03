@@ -97,10 +97,24 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
 
-    // Non-homepage: show article title
+    // Non-homepage: show article title and watch button
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.WatchButton(),
+      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "watchlist" && page.fileData.slug !== "alerts",
+    }),
+    // Watchlist page component (self-filters by slug)
+    Component.ConditionalRender({
+      component: Component.WatchlistPage(),
+      condition: (page) => page.fileData.slug === "watchlist",
+    }),
+    // Alerts feed component (self-filters by slug)
+    Component.ConditionalRender({
+      component: Component.AlertsFeed(),
+      condition: (page) => page.fileData.slug === "alerts",
     }),
     // Councillor page components (self-filter by page type)
     Component.Scorecard(),

@@ -1,0 +1,179 @@
+.watchlist-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.watchlist-header {
+  margin-bottom: 1.5rem;
+
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+    color: var(--dark);
+  }
+}
+
+.watchlist-subtitle {
+  color: var(--gray);
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.watchlist-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid var(--lightgray);
+  margin-bottom: 1.5rem;
+}
+
+.watchlist-tab {
+  padding: 0.6rem 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--gray);
+  cursor: pointer;
+  border: none;
+  background: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: all 0.15s;
+  font-family: inherit;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  &.active {
+    color: var(--dark);
+    border-bottom-color: #c4533a;
+  }
+
+  &:hover {
+    color: var(--dark);
+  }
+}
+
+.tab-count {
+  background: var(--lightgray);
+  color: var(--gray);
+  font-size: 0.75rem;
+  padding: 1px 7px;
+  border-radius: 10px;
+  margin-left: 4px;
+
+  .active & {
+    background: #fce8e4;
+    color: #c4533a;
+  }
+}
+
+.watchlist-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1rem;
+}
+
+.watchlist-card {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: box-shadow 0.15s;
+
+  &:hover {
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.topic-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.tag-zoning { background: #e4ecf7; color: #2d4a7a; }
+.tag-budget { background: #fef3e0; color: #8a6b1e; }
+.tag-transit { background: #f5e8f5; color: #6a2d6a; }
+.tag-community { background: #e8f4e8; color: #2d6a2d; }
+.tag-strategic { background: #e0f5f0; color: #1e6a5a; }
+.tag-councillor { background: #f0eeeb; color: #555; }
+.tag-council { background: #e4ecf7; color: #2d4a7a; }
+
+.unwatch-btn {
+  font-size: 0.75rem;
+  color: var(--gray);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px 6px;
+  font-family: inherit;
+
+  &:hover {
+    color: #c4533a;
+  }
+}
+
+.card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+  line-height: 1.4;
+
+  a {
+    color: var(--dark);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+.card-meta {
+  font-size: 0.8rem;
+  color: var(--gray);
+}
+
+.watchlist-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--gray);
+
+  .empty-icon {
+    margin-bottom: 1rem;
+    opacity: 0.4;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    color: var(--darkgray);
+    margin: 0 0 0.5rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    max-width: 400px;
+    line-height: 1.6;
+  }
+
+  a {
+    color: var(--secondary);
+  }
+}

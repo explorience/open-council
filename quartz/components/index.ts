@@ -37,6 +37,9 @@ import AlignmentMatrix from "./AlignmentMatrix"
 import CouncillorRankings from "./CouncillorRankings"
 import UnifiedHeader from "./UnifiedHeader"
 import ComparisonChart from "./ComparisonChart"
+import WatchButton from "./WatchButton"
+import WatchlistPage from "./WatchlistPage"
+import AlertsFeed from "./AlertsFeed"
 
 export {
   ArticleTitle,
@@ -78,4 +81,7 @@ export {
   CouncillorRankings,
   UnifiedHeader,
   ComparisonChart,
+  WatchButton,
+  WatchlistPage,
+  AlertsFeed,
 }

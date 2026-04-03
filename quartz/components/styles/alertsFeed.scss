@@ -1,0 +1,198 @@
+.alerts-feed {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.alerts-header {
+  margin-bottom: 1.5rem;
+
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+    color: var(--dark);
+  }
+}
+
+.alerts-subtitle {
+  color: var(--gray);
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.alerts-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.filter-btn {
+  padding: 0.35rem 0.9rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--gray);
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.15s;
+  font-family: inherit;
+
+  &:hover {
+    border-color: var(--secondary);
+    color: var(--secondary);
+  }
+
+  &.active {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: #fff;
+  }
+}
+
+.alerts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.alert-card {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  transition: box-shadow 0.15s;
+
+  &:hover {
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+}
+
+.alert-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-top: 2px;
+
+  &.tag-zoning { background: #e4ecf7; color: #2d4a7a; }
+  &.tag-budget { background: #fef3e0; color: #8a6b1e; }
+  &.tag-transit { background: #f5e8f5; color: #6a2d6a; }
+  &.tag-community { background: #e8f4e8; color: #2d6a2d; }
+  &.tag-strategic { background: #e0f5f0; color: #1e6a5a; }
+  &.tag-councillor { background: #f0eeeb; color: #555; }
+  &.tag-council { background: #e4ecf7; color: #2d4a7a; }
+}
+
+.alert-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.alert-top {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.35rem;
+}
+
+.alert-date {
+  font-size: 0.75rem;
+  color: var(--gray);
+}
+
+.alert-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0 0 0.35rem;
+  line-height: 1.4;
+
+  a {
+    color: var(--dark);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+.alert-meta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.8rem;
+}
+
+.alert-link {
+  color: #c4533a;
+  text-decoration: none;
+  font-weight: 500;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.alerts-loading {
+  color: var(--gray);
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 2rem;
+}
+
+.alerts-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--gray);
+
+  .empty-icon {
+    margin-bottom: 1rem;
+    opacity: 0.4;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    color: var(--darkgray);
+    margin: 0 0 0.5rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    max-width: 400px;
+    line-height: 1.6;
+  }
+
+  a {
+    color: var(--secondary);
+  }
+}
+
+// Reuse topic tags from watchlist
+.topic-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.tag-zoning { background: #e4ecf7; color: #2d4a7a; }
+.tag-budget { background: #fef3e0; color: #8a6b1e; }
+.tag-transit { background: #f5e8f5; color: #6a2d6a; }
+.tag-community { background: #e8f4e8; color: #2d6a2d; }
+.tag-strategic { background: #e0f5f0; color: #1e6a5a; }
+.tag-councillor { background: #f0eeeb; color: #555; }
+.tag-council { background: #e4ecf7; color: #2d4a7a; }
