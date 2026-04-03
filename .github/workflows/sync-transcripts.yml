@@ -57,7 +57,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           VERBOSE: "1"
         run: |
-          uv run python transcript.py --scan 14 2>&1 | tee scan_output.txt
+          uv run python transcript.py --scan 30 2>&1 | tee scan_output.txt
           echo "output<<EOF" >> $GITHUB_OUTPUT
           cat scan_output.txt >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
@@ -74,6 +74,9 @@ jobs:
           echo "output<<EOF" >> $GITHUB_OUTPUT
           cat sync_output.txt >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Generate pages for transcript-only meetings
+        run: npx tsx scripts/generate-transcript-pages.ts
 
       - name: Add transcripts to meeting pages
         run: npx tsx scripts/add-transcripts-to-pages.ts
