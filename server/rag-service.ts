@@ -21,6 +21,7 @@ export interface ChatMetadataCollector {
   model?: string;
   sources?: ChatSource[];
   detectedTopics?: string[];
+  usedStructuredData?: boolean;
 }
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
@@ -47,6 +48,10 @@ export const OPENROUTER_MODELS = {
   'gemini-2.5-flash-lite': 'google/gemini-2.5-flash-lite',
   'gemini-2.0-flash': 'google/gemini-2.0-flash-001',
   'gemini-2.5-flash': 'google/gemini-2.5-flash',
+
+  // Google models - Gemini 3.x (latest, best accuracy)
+  'gemini-3-flash': 'google/gemini-3-flash-preview',
+  'gemini-3.1-flash-lite': 'google/gemini-3.1-flash-lite-preview',
 
   // OpenAI alternatives
   'gpt-4o-mini': 'openai/gpt-4o-mini',
@@ -2243,6 +2248,10 @@ export class RAGService {
     const verifiedVoteContext = (this as any)._verifiedVoteContext || '';
     // Clear it after use
     (this as any)._verifiedVoteContext = '';
+    // Track whether structured data was used (for response validation)
+    if (verifiedVoteContext) {
+      (this as any)._usedStructuredData = true;
+    }
 
     if (results.length === 0 && !verifiedVoteContext) {
       return 'No relevant information found in the city council meeting records.';
@@ -2328,6 +2337,11 @@ ${result.text}
       // Detect topics in the query
       const detectedTopics = detectTopicsInQuery(message);
       metadataCollector.detectedTopics = detectedTopics.map(t => t.name);
+      // Track whether structured data was used (set by buildContextString)
+      if ((this as any)._usedStructuredData) {
+        metadataCollector.usedStructuredData = true;
+        (this as any)._usedStructuredData = false;
+      }
     }
 
     // Build messages array
@@ -2399,6 +2413,11 @@ ${result.text}
       // Detect topics in the query
       const detectedTopics = detectTopicsInQuery(message);
       metadataCollector.detectedTopics = detectedTopics.map(t => t.name);
+      // Track whether structured data was used (set by buildContextString)
+      if ((this as any)._usedStructuredData) {
+        metadataCollector.usedStructuredData = true;
+        (this as any)._usedStructuredData = false;
+      }
     }
 
     // Build messages array
@@ -2493,6 +2512,11 @@ ${result.text}
       metadataCollector.sources = this.extractSources(results);
       const detectedTopics = detectTopicsInQuery(message);
       metadataCollector.detectedTopics = detectedTopics.map(t => t.name);
+      // Track whether structured data was used (set by buildContextString)
+      if ((this as any)._usedStructuredData) {
+        metadataCollector.usedStructuredData = true;
+        (this as any)._usedStructuredData = false;
+      }
     }
 
     // Build messages array
@@ -2547,7 +2571,7 @@ ${result.text}
   }
 
   // Smart routing constants
-  private static readonly SIMPLE_MODEL: OpenRouterModel = 'llama-3.3-70b';
+  private static readonly SIMPLE_MODEL: OpenRouterModel = 'gemini-3-flash';
   private static readonly COMPLEX_MODEL: OpenRouterModel = 'claude-sonnet-4';
   private static readonly COMPLEXITY_THRESHOLD = 150; // TOP_K >= 150 → complex model
 
@@ -2572,6 +2596,8 @@ ${result.text}
     'deepseek/deepseek-chat': 400_000,
     'mistralai/mistral-large-2411': 400_000,
     'cohere/command-r-08-2024': 400_000,
+  'google/gemini-3-flash-preview': 800_000,       // 1M tokens → ~200K usable
+  'google/gemini-3.1-flash-lite-preview': 800_000,
   };
 
   /**
