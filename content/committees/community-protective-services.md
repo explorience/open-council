@@ -2,7 +2,7 @@
 title: "Community and Protective Services Committee"
 type: committee
 slug: "community-protective-services"
-meetingCount: 199
+meetingCount: 205
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,17 +11,17 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [2026-03-13 - Community and Protective Services Committee](</months/2026-03/2026-03-13 - Community and Protective Services Committee>) - Fri Mar 13 2026
+- [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
+- [Community and Protective Services Committee Meeting](</months/2026-03/2026-03-13-Community and Protective Services Committee>) - Fri Mar 13 2026
+- [2026-03-09 - Community and Protective Services Committee](</months/2026-03/2026-03-09 - Community and Protective Services Committee>) - Mon Mar 9 2026
+- [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
+- [Community and Protective Services Committee Meeting](</months/2026-03/2026-03-09-Community and Protective Services Committee>) - Mon Mar 9 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
 - [1st Meeting of the Community and Protective Services Committee](</months/2025-12/2025-12-01 1st Meeting of the Community and Protective Services Committee>) - Mon Dec 1 2025
 - [17th Meeting of the Community and Protective Services Committee](</months/2025-11/2025-11-10 17th Meeting of the Community and Protective Services Committee>) - Mon Nov 10 2025
-- [16th Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-20 16th Meeting of the Community and Protective Services Committee>) - Mon Oct 20 2025
-- [15th Special Meeting of the Community and Protective Services Committee](</months/2025-10/2025-10-08 15th Special Meeting of the Community and Protective Services Committee>) - Wed Oct 8 2025
-- [14th Meeting of the Community and Protective Services Committee](</months/2025-09/2025-09-29 14th Meeting of the Community and Protective Services Committee>) - Mon Sep 29 2025
-- [13th Meeting of the Community and Protective Services Committee](</months/2025-09/2025-09-08 13th Meeting of the Community and Protective Services Committee>) - Mon Sep 8 2025
-- [12th Meeting of the Community and Protective Services Committee](</months/2025-08/2025-08-11 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 11 2025
-- [11th Meeting of the Community and Protective Services Committee](</months/2025-07/2025-07-14 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 14 2025
 
 
-[View all 199 meetings →](#)
+[View all 205 meetings →](#)
 

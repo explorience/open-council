@@ -2,7 +2,7 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 216
+meetingCount: 217
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3439
@@ -201,15 +201,16 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (216 total)
+## Recent Meetings (217 total)
 
+- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
@@ -219,4 +220,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
-- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025

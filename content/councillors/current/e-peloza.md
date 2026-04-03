@@ -2,7 +2,7 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 464
+meetingCount: 465
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 6960
@@ -198,18 +198,19 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (464 total)
+## Recent Meetings (465 total)
 
+- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
@@ -219,4 +220,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
-- [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025

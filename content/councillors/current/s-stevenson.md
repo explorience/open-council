@@ -2,7 +2,7 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 196
+meetingCount: 198
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3138
@@ -204,17 +204,19 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
+- [Planning and Environment Committee](/committees/planning-environment)
+- [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (196 total)
+## Recent Meetings (198 total)
 
+- [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
+- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
@@ -223,5 +225,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
-- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
