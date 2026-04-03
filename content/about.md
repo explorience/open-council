@@ -12,7 +12,7 @@ City council decisions shape our communities, but meeting minutes are often buri
 
 ## Who made it?
 
-Open Council was created by [Heenal Rajani](https://ko-fi.com/heenalr), a London resident who wanted to make it easier for citizens to engage with their local government.
+Open Council was created by volunteers at the [Institute for Community Sustainability](https://communitysustainability.ca/), a London-based non-profit. The project team has since expanded to include contributors from [Open Civics](https://www.opencivics.co/) and [SuperBenefit](https://superbenefit.org/).
 
 ## How does it work?
 
@@ -33,5 +33,4 @@ This project is still in active development. We need your help to make it better
 Open Council is a labour of love. Over **600 hours** (and counting) have been poured into building and maintaining this project.
 
 If you find it useful, please consider supporting us:
-
 <a href="https://ko-fi.com/heenalr" target="_blank" rel="noopener noreferrer">Support us on Ko-fi</a>

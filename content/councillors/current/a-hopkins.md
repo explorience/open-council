@@ -2,7 +2,7 @@
 title: "Anna Hopkins"
 type: councillor
 slug: "a-hopkins"
-meetingCount: 648
+meetingCount: 651
 yearsActive: "2014 - 2026"
 isCurrent: true
 totalVotes: 9332
@@ -198,17 +198,20 @@ Voted **Yea** - Motion Failed (5 to 10)
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (648 total)
+## Recent Meetings (651 total)
 
+- [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
+- [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
+- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
@@ -216,6 +219,3 @@ Voted **Yea** - Motion Failed (5 to 10)
 - [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [19th Special Meeting of City Council - BUDGET](</months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET>) - Wed Nov 26 2025
-- [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
-- [6th Meeting of the Budget Committee](</months/2025-11/2025-11-20 6th Meeting of the Budget Committee>) - Thu Nov 20 2025
-- [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025

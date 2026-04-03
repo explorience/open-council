@@ -2,7 +2,7 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 511
+meetingCount: 513
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 8608
@@ -199,17 +199,19 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (511 total)
+## Recent Meetings (513 total)
 
+- [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
+- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
@@ -218,5 +220,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
 - [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
-- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026

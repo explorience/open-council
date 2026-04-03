@@ -2,7 +2,7 @@
 title: "Corporate Services Committee"
 type: committee
 slug: "corporate-services"
-meetingCount: 285
+meetingCount: 287
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,8 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [2026-03-23 - Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 - Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
+- [Infrastructure and Corporate Services Committee Meeting](</months/2026-03/2026-03-23-Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
@@ -19,9 +21,7 @@ prefillQuestions:
 - [17th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-11/2025-11-17 17th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Nov 17 2025
 - [16th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-27 16th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 27 2025
 - [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-10/2025-10-06 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 6 2025
-- [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-09/2025-09-15 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 15 2025
-- [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2025-08/2025-08-13 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 13 2025
 
 
-[View all 285 meetings →](#)
+[View all 287 meetings →](#)
 

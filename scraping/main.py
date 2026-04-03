@@ -1,10 +1,11 @@
 import sys
 from datetime import datetime, timedelta
 from process_meeting import process_meeting, get_processing_stats, create_placeholder_meeting
-from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types, get_meetings
+from download_meeting import get_meetings, meeting_date, meeting_local_copy, meeting_minutes, get_meeting_types, get_meetings, is_placeholder_copy
 
 target_meetings = [] # { meeting_type, date }
 without_minutes = [] # { meeting_type, date }
+upgraded_placeholders = [] # { meeting_type, date } - placeholders that now have minutes
 
 if len(sys.argv) == 3:
   # special option to test all meetings from a certain year
@@ -35,6 +36,12 @@ else:
         if not meeting_local_copy(meeting_type, d):
           create_placeholder_meeting(meeting_type, d)
         continue
+      # Reprocess placeholders now that minutes are available
+      if is_placeholder_copy(meeting_type, d):
+        print(f"  → Placeholder has minutes now, reprocessing: {meeting_type} {d.strftime('%Y-%m-%d')}")
+        upgraded_placeholders.append(meeting_info)
+        target_meetings.append(meeting_info)
+        continue
       if meeting_local_copy(meeting_type, d): continue
       target_meetings.append(meeting_info)
 
@@ -57,4 +64,5 @@ def print_processing_results(text, meeting_list):
 (processed_list, error_list) = get_processing_stats()
 print_processing_results("successfully processed", processed_list)
 print_processing_results("could not be processed", error_list)
+print_processing_results("upgraded from placeholder", upgraded_placeholders)
 print_processing_results("without minutes", without_minutes)

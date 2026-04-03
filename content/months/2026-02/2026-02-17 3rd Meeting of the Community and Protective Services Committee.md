@@ -334,4 +334,735 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:36 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (2 hours, 53 minutes)</summary>
+
+Hey, good afternoon, everyone. We just take our seats. Good afternoon, everyone. This is a third meeting of the Community and Strategic Services Committee.
+
+The city of London is situated on the traditional lands of the Nashback, Haudenosaunee, Anapawak, and Adewandran. We honor and respect the history, languages, and culture, the diverse indigenous people who call this territory home. The city of London is currently home to many First Nation, Métis, and Inuit today. As it represents the people of the city of London, we are grateful to the opportunity to work and live in this territory.
+
+For everyone's information, I'm joined in chambers by the following voting members of the committee, myself, Councillor Pribble, Councillor Hopkins, Councillor Ferrera, Councillor Travsau is not here. Though in the building somewhere online, we are joined guests, Councillors Stevenson, Ramen, and McAllister. The city of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact CPSC at London.ca or 5196-12489 extension 2425.
+
+Looking to committee for disclosure of community interest. Seeing none, I'll let you know that Councillor Travsau has now joined the meeting. Mayor Morgan is away with Minister Flack. Deputy Mayor Lewis is acting mayor in his place and will be a voting member of committee today and we have his presence until 2 p.m.
+
+Until he has another appointment. You have my presence until 2.40. I'm hoping we're done by then. For consent items, we have a delegation request on 2.4.
+
+So I'll be pulling that to make sure, okay, and they are in the gallery, so they are here. So I'm pulling 2.4 as we have a delegation request. Looking to see if there's anything else from consent we want pulled. Realizing we could ask all our questions of consent is just if you want to vote differently or have an alternate motion.
+
+Councillor Travsau, did you need anything besides, besides 2.4 is already getting pulled. Do you have anything else? I have a question on 2.3. And depending on how the question is answered, I may or may not need an amendment.
+
+Okay, we'll pull 2.3 just to be safe then procedurally. So looking for a mover and a seconder of other items of all consent, excluding 2.3 and 2.4. I've been mover and I'm just gonna go with Deputy Mayor Lewis, seconded by Councillor Hopkins. So all consent on the floor with the exclusion of 2.3 and 2.4, looking to start my speakers list and Councillor Travsau, your mic's still on.
+
+Councillor Pribble, I know you had some questions. Did you want to start off with your questions of everything but 2.4? Certainly, thank you for that. My first question is to 2.2 regarding the MAMP.
+
+And I just want to ask if we can get it from staff, just clarification, what are the significant changes between the internal manual and the proposed MAMP. Thank you. Thank you, happy to go to Mr. Wells.
+
+Good to see you, floor is all yours. Once you're ready in the hot seat, please proceed. The chair, thank you very much, appreciate that. The municipal alcohol management policy does bring revision to an old internal document.
+
+It highlights the city's business in comparison to what's required under the AGCO and the Liquor License Act. It promotes risk mitigation, public safety, and smart alcohol service. And it provides a greater scope than the policy in the past as there's been changes to the license over the years. The new parameters are that it now includes a temporary physical outdoor extension for areas where alcohol can be served under the Liquor License Sales Act.
+
+And as far as safety, it includes some new parameters in regards to drinking practices, service controls, such as maximum two drink service per person, no last call, and standardized drink sizes, prohibiting explicit prohibiting on oversized drinks, double shots, drinking contests, free pouring and pictures. It has modernized requirements for signage where there's additional verbiage required regarding drinking age, drinking limits, intoxication rules, no last calls, and safe transportation. It also highlights the requirement for safe transportation and that you have to have plans in place for that. In addition for plans for disruptive persons and reporting requirements to the city, they are also required in the map to offer free water and non-alcoholic options and food services.
+
+It improves enforcement and reporting expectations. There is a requirement for reporting of adverse events within 48 hours of them and requirements to contact police for any alcohol related issues. And we have the right to cancel an event during or pre-event options. It also has stated minimum insurance requirements and notifications for events and holding alcohol.
+
+So overall, the policy has improvements, has more detail, it's more modern, it aligns with public health and safety, it's more prescriptive and enforceable, and it's consistent with the AGCO's contemporary framework. And the reason for a policy in general is that this does happen within the city's premises. And so as an occupier and an owner, we have an invested interest to make sure things are done in a safe and healthy manner. So that's the highlights.
+
+Thank you. I'll note that Councilor Frank and Hillyer have also joined us online and for their information to point four and three have been pulled. Councilor Pribble, the floor is still yours. Thank you, I had two more questions, but you actually answered them, so I will just ask one more.
+
+Many says the states reduce barriers to the community partners will be the major or the biggest barriers and I don't need to know all of them. But let's say what would be example of the barrier that it would be less restrictive now, thank you. Staff. Through the chair, the Municipal Alcohol Management Policy does adhere to rules and regulations under the AGCO.
+
+And so this modernized policy does advance and make it more open, reduced barrier by the fact that it now includes a temporary outdoor extension to a liquor license sales option. And the policy maybe in the future might be more open if we have further considerations. Other municipalities, for example, may allow drinking in their parks or in their arenas. And so the policy is a place where you could recognize those activities should the civic administration decide to go in that direction.
+
+Councilor. Perfect, thank you very much. The next one I have on 2.5 and through the chair to the staff, I do, by the way, I'm just gonna wait for the staff. I think they are changing around.
+
+So I'm gonna start by thanking the staff. This is a great report that has a lot of valuable information and the points actions in what's working challenges and action plan for 2026 are truly very beneficial. And to task you in the appendix, when it states 675 and 1360 units in progress, units in planning. And I do understand that there are certain things that still could affect it.
+
+But could you please give me a kind of a timeframe, approximate timeframe, if there are no negative influences ahead of us what it would be? Thank you. Hey, the staff. Thank you, and through you, Madam Chair.
+
+So the projects and planings are various projects. So for example, the Fairmont subdivision that we just recently approved a council or it could be the Duluth project or some of the surplus lands that we have. So we have an RFP plan that we're planning to issue many of these projects over the next probably 12 to 18 months or so. We also have to get into detailed design for engineering for the Fairmont lands and service it.
+
+So we are looking from today to occupancy. It could be as much as five years before we see people actually moving into the units on some of those properties. Councillor. Thank you for that answers through the chair.
+
+The 29 housing providers reaching an end of mortgage and eligible to negotiate new. I know it says here percentage wise and the numbers, but do we collect the data, analyze such as number of units? Because again, based on the providers, there are certain providers. I'm going to exaggerate that there is a provider who's offered five units and there's a provider that offers 100 units, which is quite different.
+
+Do we look at the data and do we consider it as well? Thank you. Mr. Felberg.
+
+Thank you and through you Madam Chair. Yes, we do. I would say that the 45% is a pretty good representation just on an aggregate if you look at the overall. So if you take, I believe it's 2,512 units, multiply by 45%, you get about 1,100 units or so and that is pretty close to what the actual number of units is that are within that 45.
+
+Yeah, absolutely. Perfect, thank you for that. Follow up. For awarding court chief funding, and I do understand that readiness, health and safety are a big issues, but do we also consider things like the, if the agreement is coming forward, do we consider KPIs as well?
+
+Or do we really, majority goes into the health and safety and readiness? Mr. Felberg. Through you Madam Chair.
+
+Yeah, the main focus when we're identifying projects is health and safety. We're looking to ensure that there is a mold in attics or there aren't trip hazards in a particular property. We don't have fire hazards, those types of things. Those are our priorities when we're assigning the coaching dollars, but after that, we're looking at the aggregate all of the different coaching projects that get submitted.
+
+I will say that for this year, we were oversubscribed and we are looking for future years to be able to apply some of the funding and even some of the projects we've split up over two years in order to be able to afford more projects in this particular program year. No, sir. And thank you for that answer. Last one regarding this point.
+
+Action plan for 2026, some really great points of addressing these issues that we have. Are there currently anything that you would need from the council or if there would be anything would you come back in terms of you being able to deliver all these actions that are listed in this report? Mr. Falberg.
+
+Thank you and three, Madam Chair. It's a good question, Councillor. I would say generally we have what we need at our fingertips as the province and potentially federal government make changes. We might, we'll come back to council seeking direction.
+
+The one thing we are working on right now is a submission through Build Canada Homes, which is the new arm of the federal government to bring more housing across Canada. So we're looking at a portfolio and how we can submit to them and request funding so that we can continue supporting the local sector with both affordable and community housing units. Councillor. Thank you, no more questions.
+
+And I'm gonna end what I started for this great report. This really kind of analyzing where we are where we should be and with the next steps. So thank you and thank you to your team for that. One question to 2.7 Housing Stability Services.
+
+This document, it does say legal is a legal CC, but it doesn't say anything in terms of legal was reviewed is document or so my question is, has it been reviewed by legal? Will it be reviewed by legal? Thank you. Mr.
+
+Cooper. Thank you and through you, Madam Chair. We did circulate that report to our legal colleagues as well as risk management. Councillor, you satisfied?
+
+And based on that, I would imagine that there was then no, as it's in front of us, I don't believe there would be any concerns raised from legal, correct? Okay. Yeah, I'm gonna assume legal didn't give us something they have a problem with. I'll allow it this time, but going forward, I won't, Mr.
+
+Cooper. Thank you and I can start this answer. And if there's anything to add, I see Ms. Marshall's here as well.
+
+Yeah, the unlimited indemnity was an item that was raised by our legal team as a concern, which is why we did bring it to council for their consideration. Well, committee and then council for their consideration. Ms. Marshall, did you wanna add anything?
+
+If not, I can go back to Mr. Councillor Pribble. Councillor Pribble, did you wanna hear from legal as well? Or no?
+
+Okay. I'm sorry, so I was at answer. Okay. - If there's nothing else to add.
+
+Thank you very much, no more questions? Thank you. Next to my speakers list, I have Councillor Ferrer, then Councillor Hopkins and I will do committee members first, and I'll get into our visiting Councillors. So Councillor Ferrer, the floor is yours.
+
+Thank you, Chair. I have, I guess, some questions for section 2.5, the affordable and community housing update. The report does lay out a few items when it comes to our affordable housing, new affordable housing, the maintaining of existing. And I do see that there's some like clear headwinds that are also kind of described in the report, but I wanted to kind of focus on the end of mortgage agreements.
+
+I do remember that there was a report that came to this committee, I think around January or maybe April last year. And in that report, I remember it was kind of describing out how the provincial subsidies for existing affordable housing for private landlords who were getting that subsidization was coming to a close. And then city funding would be filling the gap there. I was wondering if Saf could just give me an overview of that report.
+
+I believe it was supposed to be by 27 or 28 when the funding was supposed to be fully removed. And I think it was around $18 million that we had to put into the pause. I just wanted to know if Saf could just refresh the committee's memory on that. Mr.
+
+Felberg. Thank you, and three, Madam Chair. I think you might be referring to the business case for Gazette funding, which is a little bit different than the end of mortgage strategy. The end of mortgage strategy relates to the, all the nonprofits, the 64 nonprofits that we have within the city and the county.
+
+The mortgage portion of our subsidy, they finished paying their mortgage, so they no longer require that mortgage portion of a subsidy. We as a city will continue to provide that subsidy, which is a requirement under the Housing Services Act. With respect to Gazette funding, Gazette funding was a program from the federal government where they provided funding to pay for the mortgage portion for those federal nonprofits within our portfolio. And the funding for that is declining over the period.
+
+I believe it's, I think you're right, 27 or 28, something like that. And then the offset of that is through the Coachete funding, they have the provincial and federal government came to an agreement to increase the Coachete funding in order to essentially redirect where the funding would go. So as the mortgages come to a complete worry, then invest more in the capital needs of the different providers. Councilor, thank you for that.
+
+Is there any, I guess, city property tax dollars going towards that funding as well, or is it gonna be all funding from those two levels of government there that you referred to? Mr. Felberg. Thank you, and through you, Madam Chair.
+
+So the subsidies that we provide to the nonprofits, that is property tax dollars, we do share that with the county. But none of those Coachete dollars, or none of that Gazette funding, there is a small portion that we do subsidize with that, but that's embedded within our overall subsidy budget. Councilor? Thanks, and I did hear, I guess, from Councilor Pribble's questions that some of these programs are a little bit oversubscribed.
+
+I wanted to know if there is a risk that we might not be able to maintain some of these as the end of mortgage contracts come up for renewal, is there a risk that we won't be able to, I guess, fund to continue those affordable units? Mr. Felberg. Thank you, and through you, Madam Chair, it's a very good question in the projection.
+
+So we brought a report to Council in January of last year, which was our end of mortgage strategy. Within that strategy, what we looked to do was use the existing subsidy budget that we have from Council, and use that in an effort to support the entire sector. So all 64 of our nonprofits, it will say, and as you can likely expect, when we are talking to some of the nonprofits, they are looking for more funding and they may need to meet their operational needs. Our goal is to ensure that they have enough funding to meet their operational needs, they're able to pay their debts, and hopefully reduce that 43% that you see in the number of projects with liquidity challenges.
+
+And then over time, also be able to invest themselves in their own capital needs, as opposed to needing an injection through Coachea or other programs, so that they effectively are able to operate on their own without intervention from the city and using the budget that we've estimated. Councilor. Thank you for that. And I guess you kind of led into my last question about the capital part.
+
+Some of the conditions of these properties from I saw on the last report are in need of some, I guess, capital work. I was wondering if you could just kind of touch on that part too, and just to see where were the funding sources come from, or any type of capital repairs on the buildings, especially considering we're trying to maintain the affordable housing therein, so I just want to know if you could speak to that too. So Mr. Felberg, I'll also note that Ben Councillor has detailed questions offline.
+
+You're in your staff are also available. Thank you, through you Madam Chair. In Appendix A, and I think it's Appendix B as well, we do identify that there is a capital infrastructure gap of $58 million, and that represents between half and two thirds of our nonprofits right now as we continue that number may grow. We are relying quite heavily on the provincial federal program, Ophi and Coachee, in order to be able to support those properties.
+
+We'll see where Build Canada Homes goes, and where CMHC fit into this space, and if they have programs and funding available, right now, Ophi and Coachee is really the place where we can make significant investments in capital, where any intervention is needed, if the nonprofits are not able to afford based on their current subsidy amounts. Councillor. - Thank you, Chair. And the reason I'm asking is I just wanted to put it on the public record.
+
+I do see that. We're over-subscribed on both Ophi and Coachee, and I do see that there's gonna be a kind of a leaning in for the property tax base. A lot of these private buildings are in need to prepare. They do need a lot of capital work, and we're trying to maintain those existing affordable housing units as they are.
+
+So, when we talk about provincial downloading of anything, this is one that I'd just like to highlight. I'd like to highlight that this is a provincial download of maintaining the existing affordable housing stock that we have in the city, and it is being squarely put on the rest of the city shoulders, so I'll leave it there. Thank you. I also noted all the committee reports that we're discussing right now are also on the public record and publicly available if anyone wishes to view them.
+
+Next on my speaker's list, I have Councillor Hopkins. Yeah, thank you, Madam Chair. And first of all, I just have a couple comments and maybe a question. First of all, on 2.2, which is the Municipal Alcohol Management Policy.
+
+Thank you for that change and obviously a new by-law. I appreciate the amendments that are being made. We're making some changes regarding the anti-racism and the anti-oppression framework as well, which I think is probably an important change in modernizing our policy and in particular, as it relates to women and girls, I think I appreciate the work that staff did. I do want to just maybe make a comment.
+
+I was at a venue and another municipality, a very large venue and they had half of their venue, self-serve now where you just sort of, there's no one there handing out drinks and it made me think that that whole industry is probably changing as well when it comes to self-serve alcohol in our, but it's an interesting time and obviously we needed these updates in our policy here in our city. I do have a comment and maybe a question around 2.5, the affordability and community housing update. Thank you, Mr. Mathers, Mr.
+
+Felberg. Great information here, a lot of moving pieces, a lot of information, I did not realize how complex and how much work is going into our affordable housing. So thank you very much for that. Obviously more work remains to be done, but I also appreciated having a better understanding about the legislation coming down from the province when it relates to Bill 10 and obviously the fire code.
+
+Those changes as well as dealing with those changes in our policies and the work that needs to do just adds more layers. The financial infrastructure gap as well just realizing that that exists and how important we as a municipality are relying on other levels of government to help assist us and deal with ways to maintain lower rent in affordable housing. So really, that's really top of mind when I was reading this report. I did appreciate and maybe a little bit to Councillor Ferrer's question as it relates to where the federal government is when it comes to the changes that are being made at CMHC and sort of moving over to another, not sure what that other company is, but I would like to know a little bit more about that model and about the opportunities that are there still those opportunities for the municipality to take advantage of the funding that at one time was CMHC and I got that in my brain, but the Bill Canada Homes I guess now is the same thing but if you, through Madam Chair, if we can have a better understanding and what we're doing there in terms of the funding piece.
+
+In terms of, sorry, Councillor Hopkins overall. Well, as it relates to the Bill Canada Homes, I know we're changing over. Do we continue reaching out to them? What are those opportunities?
+
+And has the formula changed? Given that the name has changed, but a few questions there for staff. Thank you, Mr. Felberg, a concise reply, please.
+
+Thank you, Madam Chair. So our team has actually been to a couple of webinars over the past couple of weeks with Bill Canada Homes, which were provided across the country. So we're currently working on a submission to Bill Canada Homes to request capital funding in order to maintain affordable housing and build new affordable housing here in London and the county as part of our service manager hat. The plan is to come back to council in one either next cycle or the cycle after to let you know what we're planning to submit and seek input from council on where we're going.
+
+And then at that point, we can have a more fulsome discussion. Councillor Hopkins. Yeah, thank you. So the work continues, it's the same thing.
+
+Maybe just a quick follow up to that. Is it just the capital or are we operational as well with this fund? Thank you, and Councillor Hopkins, I'll just let you know you used four minutes in 10 seconds. Mr.
+
+Felberg. Pardon? Timewise, you're at four minutes in 10 seconds. The clear minutes in 10 seconds.
+
+Okay. Mr. Felberg. Thank you, and through you, Madam Chair.
+
+So we're just focused on the capital. The operational funding would typically come from the provincial government for, depending on the model. Also, what we're looking for with many of our affordable projects is for them to be self-sustaining and be able to pay for their operations using the rent that they collect, which is the model that we're seeking to deliver. Thank you, Councillor Hopkins.
+
+Oh, you still have 50 seconds to go. I just didn't want to interrupt you in the middle of the speaking. Okay, so you still have 50 seconds remaining. My next speaker I had.
+
+If I've got 50 seconds remaining, can I ask a question through you, Madam Chair, about the supports? Do we still do the housing with supports model? I know at one time we had a lot of conversations there, but how does that fit in to all this information that we've just received? Mr.
+
+Felberg. Thank you. Through you, Madam Chair, I believe in Appendix E, we outline where the roadmap and housing accelerator funding was attributed. And there's about 400 units of highly supportive housing that Council has approved.
+
+Those will be, many of them will be coming online this year and early next as well. So that continues to progress. The one remaining piece for us to land is long-term and consistent operational funding. Councillor Hopkins.
+
+I would say you satisfied, but we're not satisfied. I have Councillor Stevenson as my next speaker who is online. Perfect, we can see you. If we can't hear you, I'll let you know.
+
+Okay, thank you very much. My questions kind of fall between 2.5 and 2.6. And so on page 49 for 2.5, at least, there's an overview of continuous improvement activities. And the first one is weightless intent matching.
+
+And I just wondered if we could get an update from staff on that as well as any timeline. Okay, Mr. Felberg. Thank you, and through you, Madam Chair.
+
+So at this point, what we're doing is we're going through all of the weightless intent and process. And we're starting to map those out in order to look for any potential efficiencies. I'm not sure if Mr. Cooper has anything further to add to that or?
+
+Mr. Cooper. Thank you, and through you, Madam Chair, just to note that many of the pieces with legislative units would be regulated under the HSA and their associated regulations. So although we look for opportunities to optimize matching and supporting individuals into those units regulated by the HSA, we do have some limitations.
+
+Councillor? Thank you, and I guess I was wondering too, how much of the capital needs in these buildings may be due to a mismatch of high QED tenants going in like we had at 122 baseline? I'll go to staff realizing whether it might be subjective guessing, which is the exact accounts that they're conversing. Thank you, and through you, Madam Chair.
+
+So there are a number of different items in the capital that we would be looking to address. So things like elevators and windows and whatnot would not be attributed to tenants. When we're dealing with a particular unit, those are typically intended to come through the maintenance or the day-to-day operations and the funding that the property or the nonprofit is collecting from rent. Councillor?
+
+Okay, thank you for that. And then the last one on here is publicly available copies of contribution agreements. Is there a timeline for that, Mr. Felberg?
+
+Thank you, and through you, Madam Chair, we are actively working on this right now. As soon as we are able to post them on the website, they will be available and we'll let Council know that they are there. Thank you, Councillor Stevenson. Excellent, thank you very much.
+
+And through you, Chair, I sent an email on February 11th with some questions regarding the Ontario Works. There was a long discussion in Hamilton around overpayments and fraud in terms of O.W. And I didn't see any of that in the report in terms of overpayments, recovered amounts, instances of fraud, that kind of thing. I wonder if staff might have any information available?
+
+Thank you, I'll go to Mr. Dickens. If that information's with the city versus the province, I'll let you highlight that as well. Thank you, Madam Chair and through you.
+
+Yes, upon receiving the list of questions, we actually reached our term industry supervisor at the province. There's some information that would be contained in a response back that the province has indicated is not public facing and that the proper process would be to file a freedom of information request. That again, that's the province's response, not civic administrations. I wanna make that clear.
+
+I'm not trying to obstruct the access to information. However, I can share that the province has long taken a risk-based approach when it comes to overpayments. And they typically target around a 4% rate across the province as potential flags in files. London sits at about 3% annually that we get some reviews on flagged.
+
+However, an overpayment can happen for any number of reasons, change in circumstances, administrative error, whatever. There's a number of reasons. It does not mean that there's some malicious intent or fraud occurring. So some of those answers we have in the general sense, some of the province was indicated as not currently public facing.
+
+Thank you, Councillor Stevenson. Okay, thank you very much. I have spoken to some landlord too upon taking back an apartment or finding 10 different OW statements arriving in the mail, none of which were tenants to that unit. If that is reported to the city, what is that city responsibility that we look into that?
+
+Or if there's concerns around OW fraud in that sense? Mr. Dickens, even the reporting process as other people would might have the same question. And I know I certainly get other people's mail, but what we do when it's legitimate.
+
+Absolutely, Madam Chair, through you, it's a very good question. So the team can be alerted in a number of ways. Sometimes the client self reports, hey, I moved and I forgot to notify you. Like I'm actually been living somewhere else and there's a timing lapse between when payments go at the door and the end of month.
+
+There's also instances where a landlord will indicate, hey, this person hasn't been here for a month. Sometimes people leave for short periods of time and sometimes they come back. If we, and this does happen, it happens all over the place. But if we get notified that someone's mail is showing up and it's stacking up and it's not being collected, that is a flag for our team and the team would then investigate.
+
+So case worker would be notified. They would do a follow up with that participant and we would get to the bottom of it. So sometimes we also send out generalized mail. So we do, they're called inserts and we'll send out notifications or information to tenants.
+
+So if it's a direct deposit, so it's going into a person's bank account or whatever, the mail might be lagging and we might be absolutely inadvertently sending communication to an old address or the address hasn't been updated in SAMs. Councilor? Thank you and I appreciate that. And in the two specific instances that I'm thinking of, these people were never tenants.
+
+So it seems that some tenants are then letting other people use their address in order to obtain the shelter allowance. And in some cases, it's like eight or 10 people that are using the same address, never been tenants, never lived there, simply using it to access the shelter allowance. So I'm looking for comments from staff in terms of that. How is that handled or addressed?
+
+Mr. Dickens and team. Thank you through you, Madam Chair. It would be no different from what we just indicated.
+
+If we're made aware that that scenario was happening then the team would investigate. We do have staff as part of the Ontario worker life stabilization team that can do investigations and they frequently will do file audits, will do file reviews. So if that instance is happening, then the team would fully investigate. If there appears to be any wrongdoing, we can apply an overpayment or we can flag that file and we can take the necessary steps to recoup any of those funds.
+
+Councilor? Thank you for that. And along this, or in a different avenue than this, the tenants have the option to opt out of having their shelter allowance deducted from their monthly check or direct deposit. Is there a way to ensure that they maintain, like I don't wanna see people get into a rears and lose their housing because of this?
+
+And so I'm wondering what attention is paid there. Like if people, or do any of our programs, highly supportive, supportive or affordable housing, do any of them mandate that the shelter allowance piece has to be paid from the check? Yeah, through you Madam Chair, just conferring with our Ontario Works folks behind us here. It's not a mandated requirement.
+
+Just like it is in the Ontario Works Act, it's not a mandatory requirement that anybody in receipt of social assistance must have automatic pay directs set up. So we absolutely do it in some cases. In fact, the Ontario Works Act spells out certain criteria when an Ontario Works administrator should consider applying pay directs to third parties for utilities or rent. So we follow the Ontario Works Act when it comes to following that criteria, not just arbitrarily making it mandatory for people in receipt of social assistance.
+
+Part of the reason of that is the criteria specific. If someone is routinely falling behind in rent or falling behind in a rears or they're currently in a rears, we can take the steps to assist that individual. If they're coming back to their caseworker in the middle of every month saying they've run out of money, we can set up those systems to assist that person and make sure those bills are paid accordingly and pay direct. To the council's question though, pay direct supply to all housing types.
+
+And I don't want to pigeonhole that it's people on assistance are only in certain types of housing or those certain types of housing programs must or better have pay direct in place. That's simply not the case. When it comes to the pay direct to just make it a blanket requirement for all recipients, really would be undermining a person's ability to get back on their feet and develop daily living skills and independent living skills. Our teams work with folks to develop those skills to be able to pay their rent themselves.
+
+If they run into challenges with that, that's when we can step in and put those safety nets in place. Councilor anything further? Your lips are moving, we just can't hear you. Yes, it's okay.
+
+Yes, thank you. I appreciate that. And I wasn't trying to do a blanket statement. What I'm referring to is like highly supportive housing, for instance, House of Hope, where we're funding that program.
+
+And I know the budgets include a certain amount of shelter allowance per person. So I'm wondering if, for instance, in an example like that, is it an auto direct payment to ensure that we don't have a rear or a shortfall in that budget? Mr. Dickens.
+
+Thank you and through you, Madam Chair, my apologies for not being clear. It's done on an individual basis. So it's with the participant. It certainly can be a best practice, especially for folks that might be further away from independent living than others.
+
+I think it would be very reasonable to say if a person needs to enter into a highly supportive housing environment, they may lack the independent living skills necessary. And so it would be appropriate in many cases to have a pay direct. I couldn't tell you today if it's 100% of all the occupants have that in place, but it's on an individual basis, not on a housing program basis. Thank you.
+
+And just to clarify, but. Okay, sorry, Councillor Stevenson. I just feel like we're getting really into the weed of a report that was just to be received for information. If there's anything, well, as a visiting guest, a committee.
+
+I'd like to take the question ahead of time. I'd just like to clarity on this last question. Okay, proceed. Which is, it's usually at the tenant discretion that they can opt out.
+
+So are you saying that for a highly supportive housing, potentially that ability to opt out can be waived for the highly supportive housing? Mr. Dickens. Thank you, Madam Chair.
+
+And no, that's not what I'm saying. What I'm saying is that we follow the Interior Works Act, which says that, well, it's not a requirement. Pay-to-rack can be put in place based on an individual need based on the criteria and the act. If we're seeing that the criteria is met, then we would apply a pay-to-rack and we'd have the ability to uphold that and keep that in place.
+
+If a person wishes to have that removed or revoked, it would be a conversation with the caseworker. And in most cases, the caseworkers would need to see some evidence that the person is capable of managing this stuff on their own. It might be that they're set up with a pay-to-rack to start and a year later it starts to get scaled back. The first sign of that's not being upheld then we can revisit that and put that back in place.
+
+Much like my mortgage is pay-to-rack and so are others. It is a service that's available to people on receipt of social assistance and not a punitive measure. Councilor, are you satisfied with that answer? Yes, I just have one last question and that's around any instances of fraud.
+
+What's the city's policy in regards to referring OWA or ODSP fraud to the London Police Service? Councilor, I question that one. I don't believe it's highlighted in the report at all. I'm gonna deem it out of order.
+
+As a member, police services board, perhaps something could be asked there. Looking to see if that was your final question, is you also or almost out of time? Yeah, well, it's just, I did ask this question in any email on February 11th. And I would like an answer on the floor here because it's a city policy in terms of how and when OWA fraud would be passed to police.
+
+And I think it's a relevant question, even though it's not included on the report, it is a 2025 update. I'm still deeming it out of order as outside the scope of the report. On more grounds? It's outside the scope of the report.
+
+It's in the report. Well, I'll clarify it in 2025. What was the policy for the OWA? 'Cause it's a 2025 report.
+
+And what page of the report is that on? It is. Well, no, I said it's not on the report. Thank you, so it's not on the report.
+
+I'm deeming it a scope of the report that's before us. Is there anything else that's in the report? Well, I think the issue is that it wasn't included in the report and that's my concern, that there wasn't anything around that issue. It was highly debated at the Hamilton Council and so I just feel like it's an appropriate question here.
+
+Councilor, you have seven seconds remaining. I am deeming it out of order. I have points of order being raised in chambers. Councilor Troso.
+
+Okay, thank you. The appropriate way to challenge a point of order is not to argue with the chair. It's to make a motion to overrule. If she wishes to do that, she can do that, but she's just arguing with you.
+
+I can't do it as a guess. Thank you very much. Yeah, a member committee would have to challenge me. This is Councillor's cannot, I think.
+
+Oh, let's draw the question. Thank you very much. Okay, I had no further speakers on the consent items that were before us. Councillor Troso, you have not spoken yet.
+
+Your full five minutes remains. Floor is yours. Yes, I would like to discuss the section of the housing report that deals with road map to 3,000 affordable units and also the information that's contained in Appendix E. And my question is, and I didn't pull this.
+
+Sorry, Councillor, sorry. There's just what consent item are you on? Sorry, I'm just trying to follow and your time is paused. Just point five.
+
+Please proceed. So the 3,000 new affordable housing units, then it says, since that report and as amplified through the COVID-19 pandemic, the housing needs of blindeners have continued to increase. Now, my question is, and I'm not going to try to put a motion on the floor today, but it's a exploratory question. At what point would this council wish to revisit the number 3,000 and ask whether or not in light of subsequent events and conditions, which is well-documented, this be increased.
+
+And what would the procedural way of proper procedural way of doing that? 'Cause I think 3,000 is too low, and I'd like to think about how we can fix that. Okay, realizing this is an exploratory question, I'm going to also, being as this report, is on consent to be received very tight with your answer, as the council can also follow with you offline. Thank you, and through you, Madam Chair, noted on concise.
+
+We would first look to establish a target through our housing stability action plan, which is what we use in order to determine what these programs are. From there, we would take that and we would go, we would bring back a multi-year budget business case in order to look at how we might fund additional units. Councilor, your mic, please. Skipping down to Appendix E, which provides more information here.
+
+I see that 1,309 units have been complete, which is very good. I also see that 675 are in progress. In the opinion of staff, is this satisfactory progress towards our ultimate goal of 3,000? I'm not gonna ask to stop to answer that in their opinion.
+
+If you're asking if we're benchmarking to accomplish it, I could allow that. May I ask what staff would consider to be an appropriate benchmark at this point in time, giving those numbers? Mr. Felberg.
+
+Thank you, and through you, Madam Chair. So the process of bringing on new affordable units is incredibly nuanced. Bigger elements, such as the inflation rate and what the typical mortgage rate are, have a huge impact on our ability to actually deliver the projects. Given that CMHC stopped funding, portable housing projects last March, February, February, March of last year.
+
+We've had a number of projects that are waiting for capital funding in order to meet their financing needs for the projects. We're starting to see some of those start to come forward. So I feel like we've made a significant amount of progress on this, and it looks like we are in good shape to be able to deliver on council's vision of 3,000 units. Councilor?
+
+In determining the progress that we're making towards the number, would the increase in the amount of reported homelessness be a relevant factor? Mr. Felberg. Through you, Madam Chair.
+
+So the increase in the amount of homelessness is, it's notable given that it is one of the components of our housing stability action plan that we, and council strategic plan, one of the things that we are looking to reduce. So the more affordable units that we have available for folks to be able to rent and live someplace using elements like 30% of their income or within the AMR that we're delivering under the roadmap, those are all positive things moving towards an ultimate goal of being able to house as many Londoners as possible. Thank you, Councilor? My final question on this is, short of waiting for the next budget cycle and making a request for a business case, is there anything else that the council can do in the interim during this term of council to revisit this number?
+
+Mr. Felberg, I can say his answer. Thank you, and through you, Madam Chair. As I noted a little bit earlier in the meeting, we are working on a submission to Build Canada Homes for our portfolio under the roadmap to be able to look for more capital funding for us to be able to do more within our community.
+
+So when that comes forward, council will have an opportunity to weigh in on that and provide guidance and direction on which way municipal council would like to go. Councilor? I have no further questions. Thank you very much.
+
+I appreciate your latitude. Thank you. I do realize I'm crispy today and I've been crispy all weekend. Councilor Stevenson has taken leave of the meeting.
+
+I do just try to update you and we know who's here and who's coming as visiting. Councillors was looking to call the question on the consent items that are on the floor. Councilor Ferret, you have a question, I believe you're at three-ish minutes. I just have one question.
+
+Follow up from Councilor Trussell's question. So considering that CMHC has stopped available funding for capital builds when it comes to affordable housing, is there any pots of money within the city that we could look into as well in addition to build Canada homes? Like is the Housing Accelerator Fund money available for this type of work? Mr.
+
+Falberg? Thank you and through you, Madam Chair. So we'd already committed $20 million of the Housing Accelerator Fund to our roadmap program. 10 million was specifically attributed to highly supportive housing and another 10 million towards RCIP projects.
+
+So projects like the Cross Cultural Learning Center, they've recently received a commitment from CMHC. They are starting to fund the remaining amounts of money that they have to some affordable projects and others across the country. As far as pots of money that the city might have, we do use the roadmap, but we take an approach of the city is not the only funder. We need the federal government to come forward.
+
+We need them to stack the financing and additional capital in order for those projects to be successful. We assist the nonprofit and the affordable housing developer with the planning and development approvals and then some of the funding through the roadmap, but then also with DC exemptions if they're eligible. Councillor's satisfied. I am one last question.
+
+This is for sure the last one. Is there been any analysis between the amount of, how do I phrase this question? Has there been any analysis between the cost and how many new affordable units we can build and maintaining existing affordable units as they stand today? And is there any risk that some money may be better?
+
+And I'm not saying let's not build new affordable units, but is there any risk that some money might be better placed in the maintaining or just ensuring that those existing affordable units stay affordable rather than putting it into new affordable units? I just want to know if there's any analysis between the two. Mr. Felberg.
+
+Thank you and through you, Madam Chair. The roadmap to 3000 was really focused on building new and adding 3000 units to our portfolio. So we haven't done that specific work to look at that. That is one of the things we'll be looking at in future and looking to bring something forward.
+
+And as noted in the report, there is a section on that talking about wanting to retain the affordable units that we have in place and how we might go about doing that. Hey, David, Councillor Ferri, you're smiling at me. Is there a follow up to your last question? That was your last question.
+
+There is, but I can follow up offline on that one. Thank you. I have no hands online, none in chambers. I also know that Councillor Frank has taken the hard leave as well.
+
+Call on the question of the consent items that have not been pulled. I was saying the vote, the motion carries six to zero. Thank you, procedurally, that would put us, we had no scheduled items. I would put us into items for direction before going back and finishing consent.
+
+items for direction, we had a correspondence from Mr. Morrison of the Old East Village BIA and an added correspondence as well from the Midtown Community Organization. I'll recognize that Mr. Morrison is in the gallery but did not seek delegation status.
+
+So procedurally, he is observing, turning to committee to speak to it or what your intentions are if you would like to make a motion, if you would like to receive it for information and the correspondence, Councillor Tressa. I'd like to make a motion that we receive the request and refer it to staff for a follow up report at an upcoming meeting of this committee. And you would refer Mr. Morrison's communication and the communication for Midtown to package it for staff for the information?
+
+Yes, I would like to hear the staff's response to this in a report. Great, so the clerk is clerking and I'll read about it in a minute. So just bear with us, Councillor Tressa, just looking for some clarifications. We have that be received, so Mr.
+
+Morrison's request for reimbursement for the private property cleaning graffiti removal service be received and that the communication be referred to a specific administration for report back at a future meeting of CPSC. Was it just in regards to feasibility or what's already currently being done or what would you specifically like? In regards to the substance of his funding request, including the source of funding available funds and other options for providing this service. Okay, if you refresh eScribe, it's for those following along that it's be received and that the communication be referred to specific administration for report back at a future meeting of CPSC in order with respect to the substance of the funding request, including the source of funding available funds and other options for providing this service.
+
+Okay, the Councillor indicates that captures his intent, looking to see if there would be a seconder. Seeing none, we would need an alternate motion. Deputy Mayor, your thoughts? I know that you do need to leave in three minutes.
+
+If you want to share your thoughts. Well, I can give you 13 minutes before I have to leave, but I do have a political appointment at 2.30, so I have to attend to that. But I threw you Madam Chair, and I recognize that you're not the clerk, so through you to the clerks, I actually want to ask a point of order on why this request is even at this committee. On January 12 of this year, the Infrastructure and Corporate Services Committee received the Old East Village BIA budget in a report at that committee.
+
+BIA budgets and levy matters are dealt with typically through Infrastructure and Corporate Services, unless it's a boundary expansion, then it goes to PEC. And so procedurally, I have to be honest, I'm not sure why this is on a community protective services agenda. When it's a budgetary request for a reimbursement, when we just approve their budget on the January 12 infrastructure corporate services and then at the subsequent council. Okay, thank you, we'll pause there.
+
+We're just asking Ms. Kielarski online, we'll get an answer. They have replied that the committee, this committee can put it to ICSC to keep it all like-minded matters there, if it's the intention. I do recognize Councillor Ramen's online as well, but I will not ask her to speak to it.
+
+Deputy Mayor, is that your intention? Well, yes, I think it is. I'm gonna say I'm inclined not to support the request at all, but I think that like needs to go with like, and it needs to be part of the discussion of a BIA budget, which we just approved, so. Okay, so pause there.
+
+I'm gonna move a referral to the next cycle of infrastructure and corporate services committee. Okay, you have a seconder and Councillor Hopkins, we're just doing the clerking on it. So it's not this matter being referred to the next ICSC meeting for consideration. And we're adding in that the correspondence from Midtown as well be included with that, and both items be referred.
+
+I'm not including the correspondence from Midtown. They're not a BIA, this is specific to a BIA budget. Okay, so just procedurally trying to not lose people's correspondence? I'll just receive, I would include receive the correspondence from Midtown.
+
+Okay, so the clerks said that we can do it in the same motion, so we'll receive the correspondence and then send Mr. Morrison's portion to ICSC for your like with like. Okay, it is saved and up. If we refresh, you will see it.
+
+Councillor Hopkins, you're okay with it. No comments yet, we're just trying to get the wording right, unless it's a comment for inaccurate wording. Deputy Mayor, does that, your intention of that? I have a nod there.
+
+That this be referred to the ICSC, meaning for consideration and it being noted that the communication from Midtown Community Organization was received in regards to this matter. Okay, so it's moved by Deputy Mayor Lewis, seconded by Councillor Hopkins. Yeah, Councillor McAllister will need to, I'll get to you as a visiting member, starting with comments from committee first. We'll start with Councillor Hopkins, or if you're okay, I'll start with Deputy Mayor Lewis, just I know he has to, if you could go before this is done, I'll note procedurally, if the Deputy Mayor runs it at a time before this is done, I will find a replacement as a mover.
+
+So if we keep it tight just as it is, just speaking on a referral. I'll start with Deputy Mayor Lewis, Councillor Hopkins, Councillor Ferra, others, and then I recognize Councillor McAllister when we get there. So I'm gonna be very brief and tight. I appreciate that all these village and the BIA and all these village has some particular challenges, but we cannot deal with requests in these one-off scenarios consistently coming to us for small amounts of money that should be allocated in a BIA's budget.
+
+I'm not gonna speak to all of the reasons today. I'll go to ISCSC and speak to that then. I think that this needs to belong as part of the discussion around BIA budgets though, and not as a community and protective services committee one-off budgetary request. If this were to come through this committee and end up by Council, I would not support it.
+
+I'm prepared to have a longer discussion at ISC, but I think it's at the wrong committee. Thank you. Strictly on the referral, Councillor Hopkins. Yeah, I'm happy to second it.
+
+I too would not be supporting this at the end, but I do think it's in the wrong committee. It should go. I would hope that a further report could be added to it for further information, but I am very concerned that we are just doing these one-offs. I would hope that there would be a delegation even 'cause there's a number of questions at that committee that I would have as well.
+
+So with that, I'm happy to second it. Councillor Ferra. Thanks, Chair. Well, I'm not far off.
+
+I do think that it would probably be appropriate to go to the ISCSC. I do see, I'm gonna speak to the midtown piece 'cause this is part of the referral still. Midtown has been telling us that they are looking for some additional support in their area. I do see that this is for a BIA, so it is gonna go to ISCSC, and it's with respect to the BIA budget.
+
+I don't see any support for midtown potentially with that movement, so I just wanna go with staff and just ask or to the clerks or whoever can answer this question in that discussion. Would midtown be able to get some support? 'Cause I guess some of it is in the BIA for all these village, but some of it is not. So Councillor Ferra, essentially, none of that conversation's happening today.
+
+It's all going to ISCSC, so that all goes there. Okay, I do wanna see something done for midtown, but I guess I can't do that 'cause this is a referral. No, you can do that on March 23rd at ISCSC, so have something right there if you have a thought for it. Okay, I have not a member of-- You can still submit correspondence, and they'll be discussed as part and parcel when it gets there.
+
+Would it be out of order, because midtown is not a BIA at ISCSC? Councillor would you, so this is part of, I would say, some things of not having motion circulated in advance of anything of committee. If you wanna bring something forward to the proper standing committee for something specific for midtown, or wait to see and join that meeting at ISCSC to see how they're taking it, or talk to Councillor Ramen, who chairs it, to see how she's gonna procedurally handle it when it gets to her committee, to make sure you have something behind hand, like in hand, I'll also acknowledge Ms. Pfeffer, was the one talking about graffiti, removal and stuff for by-law related stuff, maybe touch point with her and her team beforehand.
+
+I'll just, that's all I got for you right now, Councillor. Is this a point of order-y stuff? Well, I'm hoping perhaps I can just provide a little assistance to you. I would suggest that perhaps what the Councillor wants to do is talk to Ms.
+
+Smith, because neighborhood associations would go under her area, and so perhaps an offline conversation with her about where community association groups might be able to access assistance, and then depending on her guidance, it could land at a couple of different committees, potentially depending on, might come back here, depending on what the source of funding is, might go to ICSC, but I think that the Councillor might find a conversation with Ms. Smith helpful to sort of offer some options for his considerations ahead of a committee meeting. Yeah, yeah. So I know that we do committee work at committee meeting, but some of this is just prep, research work to even get to committee.
+
+So Ms. Smith might be, start with her. Okay, she's happy, she's smiling. I have gone to Ms.
+
+Smith's area before. It's always, there's no funding is really the issue, and what Midtown is looking for, is they're looking for cleanups within the space, within the scope of this committee. So I don't know if we can go to ICSC and get cash for Midtown in that regard, but I guess I'll go to Ms. Smith, if she's got something to say.
+
+Ms. Smith, we seem to have three, four different things that play in the moment. Thank you, and through the chair, I'm happy to talk to the Councillor. We do fund a program through YOU that provides some cleanup.
+
+It doesn't include graffiti, but it doesn't preclude us from exploring or council exploring. They'd have to identify a source of funding, but we could look for a similar program run by a not-for-profit that could support graffiti cleanup on private property. That's not something the municipality does, but it is something we fund and support the downtown, and we have supported the BIA when it comes to our separate programs through YOU. Councillor.
+
+Thank you, for that's the clean slate of YOU program you're referring to, how far east does that go? 'Cause I believe it goes from the river, but I thought it didn't go-- Councillor, is the referrals strictly on what's on the floor? Can I ask that you follow up offline to know the boundaries? And then if it is something coming back to committee with a source of funding, Ms.
+
+Smith could help you draft language? Okay, I feel like this is the opportunity to do this work, but if I have to bring it back, then I will. Okay, here's my question then. This reimbursement is for non-paying levy members for the BIA.
+
+Would that be appropriate at ICSC to talk about the BIA budget? Is that still within, is that not out of order? It was referral to put it to ICSC. Are you asking?
+
+The question is because it's not, this reimbursement is for non-paying members for the BIA, and we were referring it to ICSC 'cause that's where BIA budgets go. So my question is, is that still in order to go to ICSC? I was deeming it in order. The clerks upstairs are saying that they could review and amend it if necessary before council, if something wasn't all completely right.
+
+Okay, I'm done with my questions. Councillor McAllister. Thank you, and through the chair, similar to what Councillor Perro was asking, I know we had this discussion last year in terms of some reimbursements, and those did come before CAP. So I think my question to staff that the clerks would be, was it purely just because the source of funding was from the community investment reserve that those were allowed?
+
+I'm just trying to head off any back and forth between committees on this because it wasn't the source of funding that had it landed CAPs because I would imagine if there are future requests, this is something you should probably clarify on any referral. I also think maybe a meeting offline with the clerks to clarify some who goes where for what. So again, they're saying they could review it before council, and yes, it went to CPC last year, but they could, maybe there's just some cleanup behind the scenes for procedurally what community gets, exactly what when it's dealing with the same topic. We cleaned up some stuff last year for PAC, so maybe it's similar for this.
+
+So I just want to confirm that through the chair, does a community investment reserve exclusively have to be authorized through CAPs? Or does that, can that be used through other committees? I believe it could be used in other committees. We've used it a budget before for staff, which is a different committee.
+
+I assume you're looking for a precise answer for clerks, it's going to take a moment. Okay, well, there's a clerk's, sir. Yeah, yeah, so the clerks are sending it to finance, I'm like, there's no finance committee, but there's a finance team. Is anyone from finance, even in the room or online, to answer such a question?
+
+I don't know if that staff's even available, Councillor. I have no one in chambers. Okay, I will just make a quick comment then through the chair on the referral. I'm on infrastructure, so I mean, I guess this has come to me depending on how the vote goes.
+
+But as the representative for the Hamilton Road BIA, these are issues we face as well, graffiti is a big problem. And I would say it is very difficult to come up with, say, a budget item, or having that budget set aside, not knowing in any given year what that's going to look like. I do think there needs to be coordination with the city in terms of having some sort of a program, because we all have-- Councillor Strickland, the referral, and as of any Councillor, any of the comments just strictly in the referral, not merits of what's behind it. Okay, then I'll be coming probably to my committee anyway, so I'll use it by comments for that, thanks.
+
+Thank you, Councillor Ferri, a question on the referral? No, just some comments. So like, when this item came to committee last time, I wasn't in support of it. Councillor, it's just strictly, not on the motion of the merits of Mr.
+
+Morrison's letter, it's just the referral. All right. Yes, or no one in favor of referral? All right, well, I'm not going to be in favor of the referral.
+
+If there has to be some cleanup from now until council, I'm not really up for that. I think committee work should be done at committee. I feel like this was a one-off kind of last minute. There's clearly some issues that I didn't get answers to, so I can't be supportive of that.
+
+Okay, looking online, so I just have Councillor Pribble and Chambers, if there's anyone else online, please indicate it. If not, Councillor Pribble's our current last speaker. Thank you, I will make a comment that I will certainly support what's in front of us. Having said that, I didn't second the previous motion, which didn't make it, because I do believe there's more ICSC than our committee or CPSC, but having said that, as stated in the letter, I do believe there needs to be discussed as, again, I'm not going to go to the details of the letter, but also in terms of the funding, source funding, and these providing these services on ongoing basis, as clearly stated, that BIA will not be doing it anymore, but it certainly is a must.
+
+So very much happy to support it, and this will discuss it more at ICSC, thank you. Thank you, seeing nobody else online, nor in Chambers calling the question on referring this to ICSC, realizing if the clerk's standing behind the scenes, it will be cleaned up and played for us at council, or if committee wants to do something different with it, council, have your motions in, or talk to the chairs and the clerks. Seeing the vote, the motion carries five to one. Madam Chair, I am going to take my leave.
+
+I have advised the clerk, if I return in time, I'll rejoin the meeting, but I'm hopeful that you'll all be done by then. Thank you, good luck at your medical appointment. So that takes us back to the 2.3 that we pulled. This was the Parks and Rec Master Plan, and the added communication by Brandon Samuels, Councillor Troso, Sam, did you want the floor, Councillor?
+
+Okay, mover and seconder of the report to get on the floor. Moved by Councillor Hawkins, seconded by myself, any questions or comments, Councillor? Thank you very much, I'm going to keep my comments limited to the very specific issue of invasive species, which was noted in the communication that you received from Mr. Samuels.
+
+And I just want to have that in front of me, so I have this right. Would you be able at this meeting, at this committee, to clarify the three questions that he asked in his letter? Stop, no, stop, can I answer them? Yes, and through the chair.
+
+So for the three questions, I can provide some short answers and then follow up if there's further questions. So in terms of which invasive species are subject to our management efforts, we've managed invasive plants, in accordance with the Council approved London Invasive Plant Management Strategy. So our current priorities are Phragmites, Japanese knot wig, dog-strangled vine, and the common glossy buckthorn. In terms of performance indicators used to track, so the city tracks treatment areas through mapping and monitoring, and through a follow-up retreatment when required, recognizing that management programs are multi-year and they're adaptive in nature, so invasive species control does require sustained effort over time.
+
+In terms of strategies to mitigate introduction through horticultural trade, regulation of plant sales is primarily regulated through the province and the federal level. But the city does do is with our own projects, we prioritize native species, and we also use public education to help promote awareness and responsible planting practices. Council Trosa? Thank you, and that was a very succinct answer.
+
+Understanding, I understand how the regulation of the sale of invasive species would probably be beyond the municipal jurisdiction and that would be provincial. However, as in the case of other products, for example, fireworks. While we don't tell vendors that they can't sell them, we had this discussion during the pesticide issue many years ago. While we don't tell Home Depot that they can't sell pesticides, we do ask for certain disclosures.
+
+So my question is, within the scope of the city's ability, would we be able to require the vendor of such plants to make disclosures in an informational pamphlet to be determined that they would have to give to customers who are purchasing these plants? This is very similar to what we do in the case of fireworks. Stop. Through the chair, the city doesn't currently have a specific by-law that regulates horticultural trade, kind of leaning back on some of the public education components through our tree planting and the plantation plants through other different programs that we have.
+
+We do try to educate, and there's probably materials that we could use to coordinate with vendors to try to help them get on board with educating the public on proper species and native plants. Thank you, and given the very deleterious effects on the environment and health and safety, that some of these plants that are readily available in stores has, I think where I'm going with this is, I would like to see a future discussion about the city, maybe either amending the by-law or bringing in a new one. Not today, I'm not going to offer an amendment today, but I think this would go to a future meeting of caps. And as an interim measure, what I'd like to suggest is that this be referred to the environmental stewardship and action community advisory committee, that this meaning this matter of the regulation and sale of these invasive species plants, would staff need an amendment, and this is why I pulled this, would staff need an amendment to the recommendation to formally refer this to the committee, or is this something that you can just do without an amendment?
+
+To staff, also recognizing if that wanted to come us down versus committee up procedurally, how to get to, I think they answer the question through the chair, staff will be happy to attend the advisory committee and provide an update, or just a refresher on our invasive plant species, our management strategy. Another group that also is involved in invasive management is Upper Thames for the Conservation Authority, we could reach out to them and see if we could come and do a joint update, and at least that gives everyone, updated on where we currently stand in our current strategies. Thank you, that's helpful through the chair. I'm asking for more than an update though, I'm asking for their recommendations.
+
+Staff want to comment, and also notice, Councilor ramen will chime in once, Councilor Charles has done. Certainly, we can listen to recommendations of the advisory committee, I think presenting what is currently recommended in our strategies, a good starting point, we're happy to listen to any feedback that they have, Councilor. Thank you, and that satisfies my question, so I will not be making a motion to amend the staff report because it's been represented by staff, that they will do this anyway. So thank you very much, and I look forward to that discussion.
+
+Thank you, Councilor ramen, I had you next to my speakers list. Thank you and through you, unfortunately the camera's not working right now, so voice only, but just wanted to talk about the update here, that's here at committee, and specifically I had some, first I want to say thanks for the report, I always appreciate receiving these updates, I think they're very helpful to help us to think about how our community is engaging in our recreational programs and how we're using our parks and our communities. I just wanted to check in about the 84% quality and content of aquatic programming and see what staff have planned to address some of the concerns maybe that they heard through that feedback. Thank you, I will start with Ms.
+
+Smith, and she can hand it off to her team, that's also in attendance. Thank you, and through the chair, we've been working hard in this area as you know, pre-COVID came and it impacted us a lot in aquatic, so as young people have been trained in lifeguards and instructing, and also we're seeing a big dramatic increase in our registered programs and learn to swim programs, which is really great, however, because of the times we have in the pool, it does impact our public swims, so we've had to bring down our public swims a bit because of such a high demand for instructional programs, but I'll turn it over to Ms. Der McGonagall, if I'm missing anything else. Thank you, and through the chair, I think in addition to Ms.
+
+Smith's comments, I think what's important to note about aquatic programming and content that is different than other buckets that you may see there, is that aquatics can't have pass/fail. I can certainly have outcomes that parents don't like or don't agree with, and so some of it's just in the difference of the certifications and the requirements of the programming. Nonetheless, as part of this survey, there was lots of opportunities for respondents to provide lots of open text form, so we're in the process of analyzing some of that open text form, but I think the real difference between what you see in the dry land programming in '95 and what you see in aquatic programming and content 84% is partially because we do have to communicate with families sometimes in a pass/fail, given the safety requirements related to water activities. Thank you.
+
+Councilor. Thank you, and just a follow-up. So one of the concerns I hear from my residents is that even though we are close to an aquatics facility, that it's very difficult to find programming, especially for older participants, maybe looking to access life-guarding opportunities, that the training is most often available in the east end or in the south end, creating a barrier for transportation to get there. And so they're relying on other programs in the community, whether that's the YMCA or others sometimes, but I'm just wondering if we can comment on the need for programming everywhere and how we plan to address that stuff.
+
+Thank you, and through the chair, obviously indoor pools are constrained by the sheer volume that you have. We currently support six indoor pools. We expand by another 10 outdoor pools when we hit that summer season. We know that it can be incredibly difficult to balance everybody's wants.
+
+We do our very best to make sure that we take care of individual's needs. So I think for us, it's the continued engagement with our aquatic participants. It's how we can be innovative. It's as the Parks and Recreation Master Plan states, can we increase capacity by increasing access to non-municipally owned pools as an example?
+
+So outside of new infrastructure, really good planning around space utilization in the pools that we have. And I think just constant engagement with our aquatic users, recognizing that sometimes the feedback you do get can conflict with each other from the varying groups. Thank you. Councilor Robin.
+
+Thank you. With the Aquatic Center in my ward, I do hear sometimes from participants about some of their concerns and some of their questions. Just with respect to our outdoor pools, just maybe an odd topic, but do any cities heat their outdoor pools? Ta.
+
+Thank you. And through the chair, the answer to that is absolutely yes. So all of our pools, except for one, are heated in the outdoor sense, as you'll see in some of our 2025 accomplishments, we were able to heat Silverwoods Outdoor Pool. We have one more remaining pool that does not have heat outdoor, but we are working on the plan for next year for that investment.
+
+So the answer to that is yes, along with indoor pools, and people can be very sensitive to pool temperatures, which may be another reason for some of that lower feedback in that bucket. Thank you. Like my indoor pools at hot tub temperature. Councilor Robin, any more questions or feedback?
+
+Thank you. So my kids must have been it after lessons in the one pool that isn't heated then this summer, 'cause I heard a lot, and I thought maybe that contributed to the comments. But no, thank you. I appreciate that feedback, and I do understand that we've made the investment there.
+
+Just looking at our future plans with our recreational master plan, how do we, the information that we've received already, how do we heat map that? Do we have an idea of where this feedback is coming from? Are we seeing any indicators that with less facilities in certain areas, we're seeing less uptake of programming, or we're seeing, for instance, less opportunity for recreational experiences because of where the program is taking place, or where the facilities are. To staff, it's a multiple staff.
+
+Thank you, and through the chair, we do map all of our participant utilization across the city. We do have postal codes that people provide as part of their individual portfolios in our recreation management system. So yes, we do do our heat mapping, and yes, we do every quarter regroup on our previous programs as we start to plan out the future. And as council knows, many of our programming locations are done in schools and not in city owned or operated facilities.
+
+And so we try and use as much community space as we can, recognizing that it's quite unaffordable to build facilities in every neighborhood. But we feel as though we have a really good distribution of programs based on postal codes and based on actuals that we do look at quarterly. Thank you. Councilor Raman.
+
+Thank you. Appreciate the answers. Hey, I have Councilor Hopkins next, and then Councilor Perbal. Thank you, Madam Chair, and appreciate Councilor Raman's comments around a warm pool that reminds me when my son would go at nine o'clock in the morning to the Byron pool and would step into the pool, even though I paid for his lesson.
+
+But now if he was young, he would be able to go into a nice warm pool. So thank you for reminding me of how we've upgraded and tried to keep our facilities modernized. I do want to thank staff for following up with the advisory group when it comes to our plans for invasive species in our parks. I think it's really important that the ESA/CAC have that follow up.
+
+Upper Thames is a great resource since they do a lot of work in our ESAs as well. So thank you, Councillor, yourself, for having that conversation here at committee. I do want to thank staff though for this report. I always look forward to it every year.
+
+It's amazing the increase in all our programs, aquatic sports, golf, and in particular, recreation programs, year by year, we have the participation increasing. So it really shows the importance of these programs. I was particularly pleased to see summer camps increasing. The increase in visitors to Storybook Gardens, I am so pleased to have see that this facility is being used.
+
+I think it's really important offering that free access. I know there's special days throughout the year, but it's wonderful to hear the buzz in Storybook Gardens and visitors using it as well as some other participants in the city. In 2026, Thames Valley Parkway System is when residents come in to London, they're amazed at this facility. And pleased to see that we're going to be doing some final upgrades along corridors, public hospital, finally, I think we've been talking about that for many years, but the more we can sort of invest in the TVP, I think it creates the standard of living that London is really enjoying and it's so, so important.
+
+So I'm looking forward to master plan coming back to us. And maybe through you, Madam Chair, this is I think on the capital project. I wonder if you can just sort of clarify, this is an update on what we did in 25. What can we expect next coming to us?
+
+This is my question. Yes, and through the chair, we are working on bringing forward an update to the 2019 Parks and Rec Master Plan. That's going to be coming later this spring. In the fall, we did the Let's Talk Parks engagement and we're able to get a lot of feedback from the public about what they were seeing, the types of amenities they want to see in different parks and different parts of the city.
+
+So we've received the feedback that what we heard report and we're compiling our recommendations to bring forward a council later this spring. Okay, Councillor Hopkins. Yeah, looking forward to that. Would we be getting the information that you heard from the public or will it be just informing the report?
+
+Staff, through the chair, we are planning to come back with a quick update with the recommendations and the draft and then we will be going back with a short follow-up consultation and engagement with the community before we bring the final report. Okay, and will we receive the public feedback and appendices when you come back? We'll ensure that the report that has the final recommendation summarizes what we heard in that second round of public community engagement. Thank you, Councillor Hopkins.
+
+Yeah, that's good, thank you. Councillor Preble, I think, was next and then Councillor Trapp so. Thank you, first of all, let me thank you and congratulate to the entire staff because the KPIs are incredibly positive, the surveys are positive as well. And if I look at year-on-year growth, it's all the numbers are really going up.
+
+I really think that this report and as was stated, I'm really always happy and I share it with my residents during the town halls because this I truly believe makes our society, our community healthier, more fit and hopefully even happier. So thank you and to your teams. I do have a few questions from 2024 report. There were 20 listed 20, 25 priorities.
+
+If you can please summarize for me, if there were from both areas, from both divisions, if there are any priorities that were listed for 2025, that we have not reached or accomplished, thank you. And if you did not, why? Thanks. To staff.
+
+Thank you and through the chair, there are a number of priorities listed in 2025 that were carrying over into 2026 because they're not completed. Examples were reviewing our programs, but we wanted to do a thorough review of those programs and part of that may be tied to the next multi-year budget process. So we have some time to do that. We're also working on several infrastructure projects that don't happen unfortunately in one year.
+
+They get carried over. So for example, Silverwoods, which will be coming to fruition this year, Carlin Heights Optimist Community Center, although we identified it last year with some delays in construction. We are now undergoing the construction of the elevator and kitchen there. So there are some infrastructure projects that are carried over multiple years.
+
+And there's also, as we continue to work on our KPIs and enhancing and making our programs more accessible to the broader community, we continue to see the same priorities and we continue to enhance them every year. Councilor. Thank you for that answer. Follow-up through the chair.
+
+We do have, as mentioned, strategic plan. We have outcomes. We have implementation plan that we do receive updates on annual basis. And I just want to know these results, the targets that are there, are they aligned with these reports?
+
+Are we on track? Thank you and through the chair, all of our priorities in our 2019 Parks and Rec Master Plan are integrated into the city's Lemon Strategic Plan. Councilor. Thank you for that.
+
+And the last question, last year's annual report, which was February 8th, 25, including detail specifics in 4.0 next steps, which including the objectives from November 11th, 24 report. Have they all been considered and will they be included in the 26th update of the Parks and Rec Plan? Staff, yeah, through the chair, we're making strong progress on our Parks goals and metrics. Our 2025 priorities have either been completed or are actively underway.
+
+Any of the remaining next steps will be incorporated into the Parks and Recreation Master Plan and we'll be able to do a comprehensive progress report and outline our next phase of work through that process. Thank you for that. Once again, thank you for all the deliverables and I think there's a great value for our citizens, for our community. So thank you and your teams very much.
+
+I just wanna confirm last thing, the additional communication that was from Mr. Samuels that our staff will be responding and they will be copying us on the response. If you can please confirm, thank you. Absolutely the chair.
+
+I'm happy to share the information with Mr. Samuels if someone could provide me with his email address. Thank you. Thank you.
+
+Thank you, no more questions, no more comment. Okay, I'll note at this point, I need to take leave in a couple of minutes. So Councilor Pribble in a moment, you're gonna have to log over there and come over here if you wanna start packing up your treasures. Councilor Troso, if you have brief comments.
+
+Very brief. Is staff able through the chair to give us a rough estimate of how many responses you received in the aggregate through the let's talk park consultation? Staff, yes, through the chair, we had a really robust response. We had an online survey, which received over 20,000 responses.
+
+We also had engagements out in different community events, over 20 different locations and opportunities to connect with the public and hear what they like about their parks. I just have to say that is an incredibly successful consultation. I did not expect the numbers to be that high, I was looking for it, but congratulations. And I saw you all over the place.
+
+And finally, yeah, while I was raising some issues about the report, I forgot to say how grateful I am to park staff and for the work that you've done on this. This is truly one of the gems of this city and it's repeatedly cited as one of the really good things about living in London. So I don't think you have to change a lot about what you do. And the fact that you were able to get that outpouring of response shows that people really have a lot of confidence, not only in the way that the park is being administered, but in the fact that they think you're gonna listen to them.
+
+So thank you for that. I'll let you know that I have no counselors online remaining with us looking for further comments from the gallery, or not from the gallery, you guys can't vote or speak right now, from chambers. Okay, so this is gonna be calling the quote, oh my goodness, it's really is time that I go, that this is be received and that we had the added communication from Mr. Samuels that we're receiving as well.
+
+It's been moved and seconded calling the vote by the Pelosi's voting yes. Councilor Pribble voting yes. Opposing the vote, the motion carries five to zero. Thank you, I'm taking my leave, vice chair Pribble will take over at this point.
+
+And I restart the computer and it's super slow. So the clerk will help him through this 'cause I start with that, Jerry. Thank you, I currently have the chair and I'm just trying to start up my computer, but the next point we are gonna be discussing from the consent and chair now, which was pulled. It's 2.4, residential rental unit licensing, our URL license display.
+
+They can give me a couple of minutes, I'm just gonna try to get into the computer, thank you. Residing officer, I can move a motion to open the delegation for you. Thank you for that, let me just quickly, I just wanna do, because I can do the voting, just a second please, very slow down. Oh, here we go.
+
+If I can please ask our IT for assistance. Okay, well, the IT is working on them, so get me in, I can focus now on this, so I do have a mover to open up the delegation, if I can please have the second there. I have it in Council Troso. If we can vote anyone or post, you'll do it, it will be done in the system.
+
+Councilor Preble votes yes. Opposing the vote, the motion carries 4-0. Thank you, if I can please have Ms. Kyler McFarland go to the podium, and you have five minutes to discuss your topic, thank you.
+
+All right, thank you so much, and I would just like to start by expressing my appreciation to the chair and all members of this committee for the opportunity to speak to this issue today. My name is Kyler McFarland, I'm a leader at the East of Adelaide Chapter of London Acorn, a tenant union with over 3,000 members across the city, and I'm here today to speak in support of requiring that residential rental unit licensing is publicly displayed, and additionally, that it includes the permitted occupancy of each building alongside already existing requirements. Furthermore, I hope I can adequately address many of the concerns that were raised by staff in their report to this committee. Simply put, requiring that the information provided within residential rental unit licenses is accessible to the public, is one of the easiest and most effective measures that we can take to ensure maximum transparency, accountability, and safety for tenants, both perspective and current, while protecting landlords' reasonable expectations of personal privacy.
+
+Moreover, this is a measure that we can take without placing an undue burden on property owners, the city, or taxpayers. This won't create more bureaucracy, there's no new fee, and there's no new inspections. This is nothing more than the logical continuation of the residential rental unit licensing program originally introduced in 2013 to further tenant protections and ensure greater transparency, and in that sense, it's everything. It's everything for the students and newcomers who will be able to easily confirm whether the unit they intend to rent is up to standard without having to navigate unfamiliar systems.
+
+It's everything for the first responders in case of an emergency being able to quickly check how many people occupy a building so that they know how many people to evacuate when every second counts most. From restaurants to childcare facilities and contractors, we already have a similar framework in place across a wide variety of industries that service the public, and in which safety is of the utmost importance. Housing is no less one of these vital matters of the public interest, and it must be subjected to these same standards of accountability to guarantee safety within our control. Finally, one of the primary concerns highlighted by staff in this report was that by having this information publicly available, we could inadvertently encourage members of the public to take enforcement of city bylaws upon themselves, which could present a serious liability for the city.
+
+Instead, it's suggested that any concerns be directed towards bylaw enforcement, but as bylaw enforcement continues to face an extensive backlog, this could risk wasting resources that could be needed elsewhere. In my personal experience working with tenants, often concerns do not need to get to that point. Many times, it's as simple as bringing an issue to the attention of the landlord. In some cases, where the landlord is particularly non-compliant, it requires a level of sustained pressure from tenants within the building, but often never escalates to involving bylaw enforcement, nor does it amount to tenants or others attempting to enforce the laws themselves.
+
+Ensuring that the landlord's contact information is readily accessible makes it easier to resolve any issues to be a good neighbor, if you will, through this line of communication, as opposed to further escalation. And if it has come to that point to hold them accountable through legal means such as bylaw enforcement or even the landlord and tenant board, should they remain non-compliant. Not only that, but I would argue that limiting the display of the information to the confines of a residential rental unit presents a greater liability to the city as it risks encouraging the public to enter the unit to gain access to this information. In conclusion, if you're a landlord in this city and you follow the rules already set out by this body, you should have absolutely no reason to be concerned should counsel choose to implement public residential rental unit licenses.
+
+In fact, this rewards good landlords through recognition for their compliance and singles out bad ones for their refusal to meet these standards, essentially working to enforce itself through the market. This is the easiest, most cost effective and comprehensive measure at our disposal, at our disposal to ensure a more just rental market for all. And with that, I urge members of this committee and later counsel as a whole to vote in favor of affirming and strengthening tenants' rights by requiring the public display of residential rental unit licenses and ensuring that they include permitted occupancy in that display. Thank you once again for your time and consideration.
+
+And thank you, Skyler McFarland for your feedback. Thank you very much for that. And I'm looking to the members of the committee either to pass to staff recommendation or alternate motion. Councillor Ferriero.
+
+Thank you, presiding officer. Sorry, I had some microphone problems. I do wanna put an alternate motion on the floor. I think that we may have found something that can work with both staff's report and with what we already have available and just kind of clean it up.
+
+So I have sent this to the clerk. I can read out that motion and I'll do that now. Let me speak and please because I haven't seen it yet, please go ahead. So that civic administration be directed to review and report back to a future meeting of the community and protective services committee, the feasibility of posting on the city of London website, the professional or business contact information of rental property owners.
+
+I say future meeting of the community and protective services committee, but I am up for amending that for depending on when this committee would like to see it back and I would look for a seconder and then I can speak to it. Thank you, Councillor. I'm looking for a seconder. Councillor Troster, will second.
+
+Would you like to speak to it now? Please go ahead. Thank you. So the reason that I have this motion on the floor is 'cause I do hear what staff has said in their report and I do see what we have available right now and I would point out if anybody in the city were to walk into City Hall's main lobby right now and you were to see that computer in the front there.
+
+If you were to type in an address, you would see not only, you'd see all information, not all information, but you'd see who is the registered owner on title for a property address if you were to go into that and that would be beyond just rental properties, that would be residential as well. And because we already provide that information, I don't want to be looking into the residential portion of it. I just want to be looking into the business info for landlords I want to be providing that. I feel like we can find a middle ground, not have to have and not bring people close to a property to read a business license that maybe or it may not be posted outside.
+
+We'd be able to have that information available at people's fingertips. The report does speak to landlord contact information is considered business info and not personal information. And we do have that information already in the public lobby as it is. So the reason I bring the motion forward is because instead of having Londoners come into City Hall, make it just a little bit more accessible and make it a little bit easier to be able to reach that information online for an online portal or however we put it online.
+
+So that's why I have the motion on the floor. Thank you, Councillor. I don't think I didn't hear any question through staff. I heard just comments.
+
+If there are any questions, would you like to ask the staff or were those just comments made? Comments right now, I may have questions later, but I would cycle back if I do. Okay, thank you for that. Anyone else?
+
+I would like to speak to this motion. Councillor Hopkins, please go ahead. Yeah, through you, Mr. Residing Chair, to staff, maybe if I can have a better understanding of what the feasibility of posting on the City of London website, the professional business contact information.
+
+On the one hand, I understand we do it already, but how does staff interpret the direction here? Please go ahead, staff. Through the chair, just to clarify, the information that I believe Councillor Ferreira is talking about that is available through the city downstairs, is information based on the city's assessment role via the Assessment Act. And that information is provided by the Municipal Property Assessment Corporation, MPAC.
+
+My understanding it's not, the corporation of the city of London information, it's provided by MPAC. So that information wouldn't be available to us to post online. There is a contract that the city has entered into with respect to MPAC for use of that information. And MPAC is an Ontario corporation through the province.
+
+Councillor Hopkins. Yeah, just a follow up to that. So understanding what would we need to do, reach out to MPAC to be able to provide that information, just wanna know how you will sort of view this report back to us, if it's possible. Staff, please.
+
+Thank you, and through the chair. Civic administration isn't actually recommending that this type of information be posted on the website. The reason being is that it's not clear what the valid municipal purpose would be of posting that information on the city of London website. Currently the by-law, the residential rental unit licensing by-law clearly indicates that it is to be enforced by city municipal law enforcement officer or a London police service police officer.
+
+So it's very clear who is enforcing that by-law. And they have access to the information that they require to enforce the by-law. So they don't need anything posted outside the building or posted on a public website in order to enforce their by-law and do their job under the provisions of that section of the by-law. I would like to also indicate that those enforcement officers are trained with respect to enforcement.
+
+And that's obviously why that's part of their job to enforce that by-law. There's also limitations on who can enter onto property to enforce municipal by-laws. So not anyone can just enter onto property to enforce a by-law. It has to be validly authorized under the Municipal Act provisions as well as our inspection by-law.
+
+And that pertains to municipal law enforcement officers. So then the other issue is, again, as I mentioned, what is the valid municipal purpose of posting that information online? As I said, it's not required by enforcement officers. So that certainly wouldn't fall under that provision.
+
+And then just to also indicate there may be unintended consequences with respect to requiring the occupancy load to be posted visible to the public, especially where you have perhaps one or two individuals that are occupying a property. And those could be vulnerable people or single women. So there could be unintended consequences of posting who is the number of people located at any particular property. And in terms of additional liability with respect to having anyone else attempting to enforce the by-law, that would be better done in camera.
+
+Thank you for that answer, Councillor Hopkins. Councillor Trosto, please go ahead. Yeah, I'd like to start by making a couple of background points. I'll try not to repeat too much of what's in the report.
+
+There is a difference between anonymity and reasonable privacy protections. I'm sorry, is that a point of order? Could you stop my time? It's all good, go out, Councillor Thomson, it's all good.
+
+Okay, so I think the way things are right now, the owner of a residential rental property, even one that has to be licensed under the licensing regime, is treated as if it's anonymous. And we're giving the owner not just reasonable privacy protections, but full anonymity. And there's no reason for that. We are bound by Mfipa, the Provincial Privacy Law.
+
+And as the staff report correctly points out, the court in the initial challenge to our registration regime said that the directory information, the owner's name, contact information, property address, is not protected personal information by definition under Mfipa. That's clear, yet we continue to treat this information as if it's somehow subject to a privacy interest, which it's not. I'm not interested in getting a DNA sample from the landlord's third child who lives in Oakville. I'm interested in getting directory information about the subject of the municipal regulation.
+
+There doesn't need to be an additional head of authority in the municipal act to talk about why the public should have this information. This is information that the city is collecting, pursuant to its very broad licensing authority, just like walking into a restaurant and seeing the color coding. Or you walk into an elevator and you see the occupancy limits. These are all examples of information flow that are designed to give the public information about what their rights and obligations are.
+
+Now, in terms of enforcement, I don't think getting the contact information for somebody that is a absentee landlord down the street so I can write them a letter. I don't think that's enforcement activity. I think knocking on the door and saying I'm coming in to do an inspection, that's enforcement activity. Nobody wants to do that.
+
+And the problem is the information's posted indoors, not outdoors, so I understand why I can't go inside. However, if there are staff concerns about posting on the premises. So I'm happy to walk back from that and at least have it available online, which it is downstairs for impact purposes. But I say I went in there this morning to try to check the machine wasn't working so I had to get a staff member to come and open it up.
+
+I'm not sure they wouldn't spend a lot of time down there doing assistance with people on that machine. And I understand that impact doesn't want us to use other purposes. So what I'm saying is the online look up that is currently available that anybody can use that will you enter the address, that should include, and it's really just a question of changing the settings on the database in terms of what's public. That should be available to the public.
+
+And if anything, this is going to create more harmonious relations on the block. And it may be that there's a situation where, hey, there's a problem with water coming from your property or some defect that the landlord would actually be to hear about. So this is not creating hostile relations between neighbors and owners. Now, there's been a stress here on the rights of tenants.
+
+And I fully agree with everything that's been said. However, this goes beyond the rights and interests of tenants as someone who's been involved in neighborhood activities and as a counselor. I can tell you, there are often requests from people who have issues about things that are going on in the property. Maybe it is a water flow, maybe it's a loud party, maybe it's lawn parking.
+
+30 seconds, Counselor. Yeah, so just to clear up here, I think that the color coding, the occupancy information, these are things that can be deferred for a much later discussion. Right now, what I think we need to do is make it clear that members of the public can get access to this directory information, just the directory information, which is not subject to VIPA. And there is no legitimate reason to keep people from having access to this information.
+
+I think the counselor's motion on the table, I think could be, I would ask how quickly would staff be able to turn this over in terms of making that directory information available? Thank you to the staff. Thank you and through you the chair. Preliminary inquiries indicate that it could be a process that would require at least one to two weeks of full-time data entry.
+
+And of course, it would have to be scheduled in with all of the other projects that are ongoing with that team. In the interim, would members of the public be able to call the office? Sure, Counselor, you're at five minutes, Counselor. Could I have a few more minutes because we don't really have anything else on the agenda and there weren't a lot of it.
+
+How much time would you like to ask for? Two minutes. Circus, bring in to the computer right now. Three minutes, correct Counselor.
+
+I know both hands went up, who would like to second it? It's not open. It is open. Housing the motion carries four to zero.
+
+Counselor, please go ahead. I'll speak quick. In the interim, two weeks seems reasonable. A little bit of data entry seems reasonable.
+
+I'd rather get the impact information, but we can't get that, so this is the next best thing. It's limited to just the rental units, which we know is a business. In the interim, if somebody calls up the licensing office and says they have this issue, would you be able to either direct them to the computer downstairs or better yet, just tell them who the owner of record is? Please go ahead, Scott.
+
+I just clarify the question through you, Chair. Counselor, Tressa? Yes, I'll use a real life situation without giving you the address or the name of the person. There was an issue with what was going on next door with the new owner.
+
+The person very badly wanted to just know the identity of the new owner, so they could send them a letter. Your office refused to give them that information citing the privacy acts. Would your office be willing to just provide that information if somebody called? Scott, please go ahead.
+
+Do you need additional clarification? Just, I'll try to jump in on this one. Anyone can make an MPAPA request, obviously, for information that's contained on a license. Other people have avenues to determine ownership, and the issue here, again, is what is the municipal purpose for providing this information publicly?
+
+And it has to be related to our rental residential unit licensing by-law, which sets out the information that is collected by the license manager for the purposes of determining whether a license should be issued. And then the by-law also sets out what that information will be used for. It doesn't currently set out that it would be used to be placed on a public facing website. So that's certainly an issue with respect to how that information can be used.
+
+So I'm not sure that answers your question, but please. It certainly doesn't, I'm sorry, being very frank with you, it certainly doesn't, because there's no reason why you couldn't do it. The limitation on you doing it would be that it would violate privacy law. It would violate privacy law, which it clearly doesn't.
+
+Now, you say that you could go down and run a title search. You could hire a lawyer to do a title search. You can then, if it's a number company, go to Toronto, and at another expense and at another delay, get the information. All I wanna do is make it easy for our residents to understand what's going on on their block.
+
+So they can better live there in harmony, and they can better have good communications with their neighbors. And there doesn't need to be a purpose written into the Municipal Act to say that. 30 seconds. That's part and parcel of the regulation.
+
+This regulation, when it came in, was very aggressively litigated, and every part of it was upheld, including the privacy limitations. So for now, I'm just going to support this motion. I'll ask my colleagues on this committee, and I'll counsel to support the counselor's motion, and we'll take it from here. Thank you, Councilman.
+
+I just wanna let you know you're out of time. Next one on the list, Council Fereira. Thank you, presiding officer. Okay, I gotta make some clarification here.
+
+I was talking about the lobby computer as an example of how much more information I'm really asking for. I'm asking for the professional or business contact information of rental property owners, full stop. If you were to go down to that computer, you could see personal information there. You can see the individual who owns that property at that computer.
+
+And the municipal purpose as far as I'm concerned, I can come up with a lot of reasons, but right now it would be accessibility to make it easily accessible, because anybody can come in to City Hall, get that information, and find out who the registered owner on the property is. They can find out if that registered owner is in another address. They can find out what address that is as well. If it is an Ontario business company, they could go to the Ontario business registry, plug that in, pay $8, and get the articles of incorporation, and get the directors information, and get their phone numbers, and their contact information like that.
+
+This information is already readily publicly available. It's just not in one place. It's all over the place, and there's barriers there. And what I think we should do, which is a good work round, so we don't have people going to the front door, so we don't encourage people to carry out their own enforcement is to provide that information, because I've had residents seek out, where can I get that information before?
+
+I pointed them to that computer in the front lobby. I'm not looking to use MPAC's property in the computer. I'm looking to use our licensing, our business licensing information, and create a list from that. I'm looking to use our own personal information, or our own business information.
+
+And as Council Trust was pointed out, as I pointed out, and as is in the report, it's considered business information as it is. It's considered the same type of information as we saw from what the delegate said from restaurant information. I would like to see if we can just put that into one place and make it more easily and readily accessible for information for neighbors who want to send letters to potential issues that they might see. It's not to start any controversy.
+
+It's to say, hey, just so you know, heads up, this is what's going on there, and just informing the property owner of what potentially could be going on. It would also relieve the pressure on our staff side too, because you wouldn't have inquiries coming through the council's office, and you wouldn't have inquiries going directly into compliance. Thank you, Council, again, I heard some comments, but I didn't hear any specific question, or were you seeking a feedback from our staff? I just wanted to make a clarification that I'm not looking to use the MPAC information on the computer downstairs, but I am also pointing out that that information is already available to the public at large.
+
+Anybody can walk in, type in an address, get the information right there. So the discussion about privacy or amphiba, I don't think is relevant here, because it's already accessible information. If someone were to not want to call in compliance, or have to go through the amphiba process, if they just walked into the front lobby, all they have to do is type in the address. Okay, you have 15 seconds left, but again, after I ask you, we're seeking a feedback, you just made some comments again.
+
+Is there a question? Are you looking for a feedback? I never said I was seeking feedback, I'm just making clarification. So thank you for that.
+
+Councilor Hopkins, please go ahead. Yeah, thank you, and thanks for clarifying. I do appreciate the efficacy work of the councilors with this, but I will not be supporting the review or report back. I'm just not confident enough to understand the unintended consequences of doing this, and for that reason, I won't be supporting the report back.
+
+I don't have anyone else on the list. Councilor, you have 15 seconds left, please go ahead. Just to respond, it is a report back. We're not implementing this as it is, we're just looking for the report back to see what information staff can give us with this type of motion, with this type of direction.
+
+Thank you, and I don't have anyone else on the list. If you allow me from the chair, I will make my comments. And I will say that I will not be supporting it either. And I know there were some comments and letters that came from the public and comments made from my fellow councillors around the horseshoe.
+
+I just do wanna let you know that there are certain businesses, or even let's say stated, there were restaurants that there's actually not owner listed, there's potentially the operation in terms of the business name, but there is no name of the individual and the phone number. So based on this information, and based on the answers I received from the staff, I will not be supporting what's in front of us. Thank you, and I don't have any other comments. If you can please go vote.
+
+I was in the vote, the motion fails on a tie. I'm looking for someone to move the staff recommendation and I have Councillor Hopkins, a seconder. I will second, Councillor Hopkins, please go ahead. Yeah, thank you through you, Mr.
+
+Presiding Chair to staff, just with like a little bit of clarification at the very end, so two parts of this direction, we are ready to, the third part is what we don't do and staff are not recommending to do, is adding the occupancy limits to the by-law, because we're duplicating the process. If you could explain what we're already doing, so I can understand the motion. Please go ahead, staff. Thank you, and through you, Chair.
+
+So currently, occupancy limits are governed by a number of different pieces of legislation, but from the perspective of the city, the property standards by-law, dictates that maximum occupancy of one person for every 9.3 square meters is allowable, and the Ontario building code indicates two people per sleeping room. The Landlord Tenants, the Residential Tenancies Act, also covers off tenancy agreements between landlords and prospective tenants, and so for us to establish a maximum occupancy limit, we did feel would be overly effective in terms of enhancing tenant safety. It's a number, it doesn't mean that that's how many people are living inside or presently inside the unit in the event of an emergency, and it really can't be relied on for any enhanced safety reasons. Thank you, Councilor Hopkins.
+
+And just as a follow up to that, so what would a resident do then when the knowing that the occupancy is being, there are more than required? Staff, please go ahead. Yes, thank you, and through you, Chair. Great question, and we do get frequent complaints through to our enforcement staff, through the service London Portal or other complaint mechanisms that suggest that a rental unit will have too many people living inside, and it's upon receipt of those complaints that we would then do a thorough investigation to determine whether or not that's actually the case.
+
+The residential rental unit license that is posted inside the unit enables tenants, as well as enforcement staff, to be able to get ahold of the landlord or responsible person of that unit when needed. Thank you, Councilor Hopkins. And again, following up with that, what would residents do then just reach out to by law enforcement and put in the complaint? Staff, please go ahead.
+
+Thank you, and through you, Chair. Yes, so there are several mechanisms for making a complaint. We like to direct folks to the service London Portal. You can also call the service London number directly to make your complaint.
+
+You can reach out to licensing staff directly through the licensing at london.ca email, and you can really reach compliance staff directly through that email as well. Thank you, Councilor Hopkins. Yeah, and just to sort of again, thank the to councilors, I appreciate the conversation that we've had here at the committee to make it better, but I'm confident in the recommendation coming from staff that we just received the information and no further action be taken. Thank you, Councilor Hopkins.
+
+Next one to Council Ferreira. Thank you, presiding officer. For the rental property license, I saw that there were some extra contact information recently added to that. Well, on those rental property licenses, we have the units, the amount of units that are licensed within that.
+
+We have the property itself and the addresses of those properties. We have the contact information, the actual phone number of the property owner. Is that everything? Or is it by missing any of those?
+
+Staff, please go ahead. Thank you, and through you, Chair. The address of the owner or the person responsible for the rental unit is also listed. Thank you, Councilor.
+
+Thank you. And I guess with that, because this posted on the inside in a prominent area near the main entrance or in a prominent area near the front door, it's on the inside, I believe how the bylaws written. That would be kind of more positioned in a way for tenants of the building to be able to see that contact information, right? Staff, please go ahead.
+
+Thank you, and through you, Chair. Yes, that's the intent actually, is so that the tenants have access to reviewing the information on that license. Additionally, in terms of prospective tenants, when they're coming to tour the unit and meeting whomever it is that's showing them the unit, they would be able to access that information at that time as well. So they could see that the unit's properly licensed and get the contact information for the owner as well.
+
+Thank you, Councilor, please go ahead. Thank you. With the prospective tenants and the tenants as they are who are in the building, I would assume that they would have that information with the lease agreements and all that information as it is. So that's just kind of like a redundant kind of putting of the information out there for tenants to see.
+
+I guess the next question would be, is the reason that we do that is because like this is considered like a professional or business when you have a rental property license, that's considered a business license as well. Is that safe to say? Staff, please go ahead. Thank you and through you, Chair.
+
+It is a separate bylaw from the business licensing bylaw, but in relation to what you're asking, many people do interpret it as a business license. That being said, it is a private home, a private residential home and it's not open to the public such as the childcare facilities or the restaurants, for instance, and the information that's listed on the license, albeit potentially redundant, we couldn't say that from city staff perspective, that their rental agreement covers all of that information. So we have to be sure that they do have access to that information. Thank you, Councilor.
+
+Thank you. I understand it's a private home, and I live in one of those too, but the actual business license information is to the contact information of the owner of the business or the property owner who is bringing in rent as they rent out the property. So that's, I guess the point or I guess the next question would be when it comes to respect to that information being publicly available, what are the restrictions exactly for that when it comes to, even though it is a separate by-law, but it is considered somewhat of a business license, what would be, I guess, the restrictions of allowing the public at large to be able to access that information readily? Please go ahead, Steph.
+
+Through the chair, the residential rental unit licensing by-law sets out all of the provisions with respect to collecting that information and then what is done with that information. So under section 4.1, for instance, the administration of the by-laws is signed to the license manager who shall generally perform all of the administrative functions conferred upon them. And so they receive all of the applications, issue the licenses and pose terms and conditions. Under section 5.1, the application for a license and a renewal is made to the license manager on the forms provided by the license manager and shall include the following information, the name, municipal address, and telephone number of each owner.
+
+So that information goes to the license manager, and that's clearly set out in the by-law. The license manager then looks at that information that the license manager receives and determines whether to issue a license based on that information. And then the by-law specifically provides in section 6.2 that the licensee shall ensure that a copy of the license under the by-law is posted and maintained in a prominent and visible position inside the rental unit near the front entrance. So that by-law sets out what can be done, what information is collected, and then what can be done with that information.
+
+It does not contemplate providing that information to the public. Thank you for the answer, Councillor. Thank you. And I appreciate the answer.
+
+I would say we also decide on how we can amend by-laws and how we can make changes with that. So I understand the current by-law. It doesn't say that at the moment, but this is why we're having this discussion. It's why I brought the last motion.
+
+But I do feel like we can be a little more forthcoming with some of the information. As far as I'm concerned, this is business contact information. It's like other needs with other businesses that have similar aspects. It would be better if it was a little bit shared.
+
+I'm not saying share all the contact information, like I think Councillor Trosto said. I'm not looking for the DNA of their third son. But I do believe considering that this information is already available in the front lobby, is already available if we were to go through other means through provincial sites, just to make that accessibility piece a little bit more easy for people to reach. And especially when it comes to the neighboring communities, like I live in a near-campus neighborhood, and I know that that issue comes up a lot.
+
+People are trying to see how can they inform the property owner of what's going on to make things a little bit better, not in any reason to have a confrontation. But it's really to just say, hey, heads up, and this is what's going on, and by the way, I'm your neighbor. I think that would be a better way to move forward. I don't see a difference of this with the restaurant part, or I even heard a part with the occupancy.
+
+I'm not even getting there when it comes to elevators. But I do feel like because we don't have the restrictions when it comes to professional business contact information. As we do with private information, but we're already giving out the private information downstairs for anybody who walks in the front door. This is a much less restrictive approach than we're already providing.
+
+So that's why I'm not gonna be supporting the staff recommendation. Thank you, Councillor. I just would like to clarify one thing is to have any mentioned business contact information. I believe that was already defeated.
+
+We are back to the staff recommendation, and we gave them a direction. Yeah, the report does say that with the rental property license, the contact information of both the address of the owner of the rental property and their phone number is on the business license. That is posted in a prominent place, as according to the report. That is correct, but not the business contact information as well stated.
+
+So right now we are dealing with the staff recommendation, and our direction was to explore the opportunities of listing the owner's name and the contact information. Thank you, I have next Council, Councillor. I'd like to make a motion, and I'll be looking for a seconder, to remove the words and that no further action be taken. So that would be contrary, what's on the floor, so we would have to defeat it first.
+
+To the contrary, it's not contrary at all, it's just removing some of the language, and most of it is still intact, because we can receive the report without finally dispensing with it. And we've even had one Councillor who voted against the first motion, saying that she would like to understand better what the unanticipated consequences are. So I think removing the no further action be taken, which is the technical way of killing something permanently, a poison pill, be removed, and it's perfectly consistent with this resolution. Thank you, Councillor, we can divide it into two parts, and you can vote on it separately.
+
+Well, I don't think that's necessary, I'll just use the rest of my time to speak against the motion. Saying that no further action be taken is tantamount to saying, this is a close question, we don't even want to discuss this anymore. There are a lot of issues out there that people are raising, but we don't want to hear it, because we just want to preserve the status quo, and the status quo is it's too bad for the public if they want to get this additional information. Now, I guess the question I have for staff is, what remedy would a member of the public next have if they can't get this information, and if they contact the licensing office and they're told, you're not going to get this information.
+
+Would the next step to be for them to file a complaint with the ombudsman, or would there be another internal process? 'Cause I don't think people need to be filing complaints with the ombudsman if there's another avenue within the city. So before I advise people that they really have no place else to go, but the ombudsman's person, I'd like to know, is there another remedy? Councillor Haye, for the motion, please.
+
+Staff, please go ahead. Staff, please go ahead. Thank you, and through you, Chair. So we would be cautious in terms of advising what their next outcome or their next option would be, but I want to express that if we receive that call in the licensing office, that is then triaged, and we provide customer service in terms of addressing their concerns.
+
+And so if they were dissatisfied with not being able to get the registration information for the property owner, we would still be assisting them to resolve their concern in relation to the property. If their concern is being able to contact the owner, how would they do that if you don't give them the contact information? Councillor, Mr. Chair, please.
+
+Please, Chair. Thank you. Staff. Thank you, and through you, Chair.
+
+So this would be an enforcement endeavor, of course. It would be a conversation with the individual that's calling to determine, as I said, what their concerns were, and to try to resolve those concerns. If they were not satisfied at that point in time, they would definitely have other options, as you've alluded to, in terms of seeking recourse. Thank you, Councillor.
+
+It was referred to FIPA requests before, and if a FIPA request was made for the directory information on a particular property, what would the response to that be? Would you be taking a privacy objection? Staff, please go ahead. Through the Chair, I believe that function is delegated to the head to determine, and so that would be a matter for the head to respond up to.
+
+Councillor, would they seek advice from your office in that case? Staff, please go ahead. I know that I would take caution about responding to that question, it's with respect to legal advice. Thank you.
+
+Thank you for the response, which I agree with. Go ahead, Councillor. Well, I'd say what your internal protocol is, in terms of how you handle these procedures, is hardly legal advice, but okay, I'll let that go. My next question is, what interest does the city have, does the city have an interest in impeding the flow of information to residents about what's going on on their block?
+
+And I'm just slipping the issue. Staff, please go ahead. Thank you, and through you, Chair, no, we do not. Okay, thank you.
+
+Now, let's assume a situation where, nevermind, I think I've made my point. I think that we do not need the language in order to receive this report and proceed. Unless you think that there are no outstanding issues here and everything is abundantly clear, I would urge you to vote yes on my amendment to remove, oh, that's been ruled out of order. Okay, so I would urge you to vote down the staff report.
+
+And I think the staff report cut short, the staff report cut short an important civic discussion that I think is legitimate for us to have. And I want to assure you, this is not just about tenants rights. This is about many property owners who live on blocks where there are now more and more absentee owners who do not knock on your door and say, "Hi, neighbor, I'm the new owner, "and if you have any problems, "here's my phone number, give me a call." You have to go through layers of legal work to ascertain the identity of absentee owners. And this is not conducive to a good, neighborly feeling on a block, and I'll leave it at that.
+
+Thank you, Councillor Trussell. Councillor Federer, please go ahead. Thank you, presiding officer. If, here's a question.
+
+If someone were to contact us and ask for the rental property, business owner contact information, would we be able to refer them to the computer in the front lobby rather than directing them to an MFIPA request? Before I go to the staff, Councillor, I don't, this part is, I will go to the staff transfer question, but please address what's on the floor currently. It is, page 33 says the court in London property management association versus city of London held that the city collection of landlord contact information did not violate MFIPA and as the contact information is considered to be business information and not personal information, I am referring to the report. Thank you, Councillor.
+
+Staff, please go ahead. I'm sorry, if you could clarify that question here. Please go ahead. His question was regarding the paragraph that was listed there, please go ahead, Councillor.
+
+If someone were to call in and request the information of the property owner for a certain rental property, as I understand it, we ask, we tell them they have to submit an MFIPA request. Would it be possible that we could also provide the option of saying you could also go into the front hall of city lobby and type in the address and get that information as well without going through the MFIPA request? Staff, please go ahead. The impact information is with respect to assessment role use and I don't, I mean, I haven't looked at the contract for quite some time but whether that would authorize uses other than for assessment role purposes, I think it's something that would need to be considered and in any event, my understanding as the assessment role is not always up to date in terms of who the current owner is of a property and so I think it would be, one would have to use extreme caution when recommending that someone use that for other means.
+
+Thank you, go ahead, Councillor. Thank you, I think I got the answer. So if they didn't say rental property owner and they said someone who is the registered owner on title of a property, would that be, I guess the appropriate language that we'd be able to point to the assessment role and not have an MFIPA? You don't have to answer that, I feel like I got the answer, so thank you.
+
+Thank you, I don't have currently anyone else unless anyone else would like to speak to it. So if you allow me from the chair, I will be supporting the staff's recommendations based on what I, and I did receive again concerns certainly from some of the citizens but the answers that I've received from the staff and also included in the report, I'll be supporting it and again, the questions like what is the municipal purpose and what we do, I do believe that we have our policies and bylaws currently are there to protect certainly our citizens point one, about point two, it is also the operators, owners of these buildings and as stated before, if we do look at the business licenses restaurant licenses, they are not mentioned there either. So I will not be supporting the staff's recommendation that is in front of us, thank you. Okay, before we go to the vote council, please.
+
+Yes. And you have a minute left. Yeah, let's say for example, that I'm frustrated by this and I'm just left with, I'm gonna file a enforcement complaint. I'm gonna go on to service London and file an enforcement complaint.
+
+Isn't it the case that under current practice, I'm gonna get back a note that says for privacy reasons, for privacy reasons, we're not gonna give you any more information on this file so we might not contact you back. Is it true that that's what people get if they file a service lending request? Stop these, go ahead. Thank you and through you, Chair.
+
+I'm not 100% familiar with the exact language but they do get a prompt that indicates something very similar to what you've just stated in terms of municipal compliance service policy and the principles of fair and enforcement. They will not get an update in relation to enforcement action, taken or not. Thank you. I see no more questions, no more comments.
+
+Please go ahead, just to clarify, there's the vote in supporting the staff's recommendation. Opposing the vote, the motion fails two to two. I'm gonna ask if there is a, oh, Council Member, go ahead. Okay, motion to adjourn, Council Member, second.
+
+Council Hopkins, all in favor? Thank you, have a great day, everyone. Motion carries.
+
+</details>

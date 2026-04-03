@@ -2,7 +2,7 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 466
+meetingCount: 468
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 7404
@@ -205,16 +205,18 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (466 total)
+## Recent Meetings (468 total)
 
+- [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
+- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
@@ -223,5 +225,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026
 - [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
-- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
-- [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
