@@ -6,6 +6,7 @@ import { config } from 'dotenv';
 import { resolve } from 'path';
 import { VectorStore } from './vector-store.js';
 import { RAGService, ChatMetadataCollector, OPENROUTER_MODELS, type OpenRouterModel, type LLMProvider } from './rag-service.js';
+import { validateResponse } from './response-validator.js';
 import { logChatInteraction, generateSessionId, topKToComplexity, ChatLogEntry } from './chat-logger.js';
 import { EmbeddingGenerator } from './embeddings.js';
 import { logQuery, getCombinedTrending } from './analytics.js';
@@ -166,6 +167,14 @@ app.post('/api/chat', async (req, res) => {
       for await (const chunk of ragService.chat(message, history, metadataCollector)) {
         fullResponse += chunk;
         res.write(`data: ${JSON.stringify({ content: chunk })}\n\n`);
+      }
+
+      // Validate response before sending done signal
+      const validation = validateResponse(fullResponse, metadataCollector.usedStructuredData || false);
+      if (validation.disclaimer) {
+        const disclaimerChunk = '\n\n---\n' + validation.disclaimer;
+        fullResponse += disclaimerChunk;
+        res.write(`data: ${JSON.stringify({ content: disclaimerChunk })}\n\n`);
       }
 
       // Send done signal with sources metadata
