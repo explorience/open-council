@@ -4,8 +4,6 @@ Transcript scraper and SRT parser for Lillian Skinner's London Council Archive.
 This module fetches and parses SRT (SubRip Text) transcripts from:
 https://london.lillianskinner.ca/
 
-Uses the Firecrawl API for reliable scraping to avoid 403 errors.
-
 Usage:
   python transcript.py                    # Sync all available transcripts
   python transcript.py 2025-11-26 Council # Fetch specific meeting transcript
@@ -1023,7 +1021,7 @@ def fetch_transcript_via_firecrawl(url: str, verbose: bool = False) -> Optional[
 
 def fetch_transcript_direct(url: str) -> Optional[str]:
     """
-    Fetch content from a URL directly (fallback method).
+    Fetch transcript SRT file directly via HTTP request.
 
     Args:
         url: The URL to fetch
@@ -1032,16 +1030,20 @@ def fetch_transcript_direct(url: str) -> Optional[str]:
         Raw content as string, or None if not available
     """
     try:
-        response = requests.get(url, timeout=30)
+        response = requests.get(url, timeout=30, headers={
+            'User-Agent': 'OpenCouncil/1.0 (https://opencouncil.xyz; council meeting archive)'
+        })
         if response.status_code == 200:
-            return response.text
+            content = response.text
+            # Verify it looks like SRT content
+            if '-->' in content and re.search(r'\d{2}:\d{2}:\d{2}', content):
+                return content
+            return None
         elif response.status_code == 404:
             return None
         else:
-            print(f"  Warning: Got status {response.status_code} for {url}")
             return None
-    except requests.RequestException as e:
-        print(f"  Error fetching transcript: {e}")
+    except requests.RequestException:
         return None
 
 
@@ -1063,14 +1065,12 @@ def fetch_transcript(date: datetime, meeting_type: str, verbose: bool = False) -
     if not url:
         return None
 
-    # Try Firecrawl API first if key is available
-    content = None
-    if FIRECRAWL_API_KEY:
-        content = fetch_transcript_via_firecrawl(url, verbose=verbose)
+    # Fetch transcript directly (SRT files are plain text, no JS rendering needed)
+    content = fetch_transcript_direct(url)
 
-    # Fall back to direct request if Firecrawl didn't work
-    if content is None and not FIRECRAWL_API_KEY:
-        content = fetch_transcript_direct(url)
+    # Fall back to Firecrawl API if direct fetch failed and key is available
+    if content is None and FIRECRAWL_API_KEY:
+        content = fetch_transcript_via_firecrawl(url, verbose=verbose)
 
     if content:
         return parse_srt(content)
@@ -1212,6 +1212,42 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False, limit: in
     return stats
 
 
+def find_existing_meeting_file(data_dir: Path, date: datetime, meeting_type: str) -> Optional[Path]:
+    """
+    Find an existing meeting JSON file by date and meeting type, regardless of filename format.
+
+    Placeholder files use: "2026-03-09 - Community and Protective Services Committee.json"
+    Transcript files use: "2026-03-09-Community-and-Protective-Services-Committee.json"
+    Scraped files use: "2026-03-09 3rd Meeting of the Community and Protective Services Committee.json"
+
+    This checks for any file starting with the date that contains the meeting type name.
+    Also handles aliases like "City Council" matching files named "Council".
+    """
+    month_dir = data_dir / date.strftime('%Y-%m')
+    if not month_dir.exists():
+        return None
+
+    date_str = date.strftime('%Y-%m-%d')
+
+    # Build list of type name variants to check (e.g. "City Council" should also match "Council")
+    type_variants = {meeting_type.lower()}
+    mapped = MEETING_TYPE_MAPPING.get(meeting_type)
+    if mapped:
+        type_variants.add(mapped.lower())
+    # Also check reverse: if this IS the mapped name, other keys may have mapped to it
+    for key, val in MEETING_TYPE_MAPPING.items():
+        if val.lower() == meeting_type.lower():
+            type_variants.add(key.lower())
+
+    for f in month_dir.glob(f"{date_str}*.json"):
+        fname_lower = f.name.lower()
+        for variant in type_variants:
+            if variant.replace(' ', '-') in fname_lower or variant in fname_lower:
+                return f
+
+    return None
+
+
 def create_transcript_only_meeting(
     date: datetime,
     meeting_type: str,
@@ -1249,15 +1285,44 @@ def create_transcript_only_meeting(
     month_dir = data_dir / date.strftime('%Y-%m')
     month_dir.mkdir(parents=True, exist_ok=True)
 
-    # Generate filename
+    # Check if a file already exists for this date/type (any filename format)
+    existing = find_existing_meeting_file(data_dir, date, meeting_type)
+    if existing:
+        # Add transcript to existing placeholder file instead of creating a new one
+        try:
+            with open(existing, 'r') as f:
+                meeting_data = json.load(f)
+
+            # Skip if transcript already exists
+            if meeting_data.get('transcript'):
+                print(f"  Meeting already has transcript: {existing.name}")
+                return None
+
+            meeting_data['transcript'] = consolidate_transcript(transcript_segments)
+            meeting_data['transcript_source'] = 'lillian_skinner_archive'
+            meeting_data['transcript_source_url'] = build_transcript_url(date, meeting_type)
+            meeting_data['transcript_duration'] = get_transcript_duration(transcript_segments)
+            if 'data_sources' not in meeting_data:
+                meeting_data['data_sources'] = {}
+            meeting_data['data_sources']['transcript'] = True
+
+            with open(existing, 'w') as f:
+                json.dump(meeting_data, f, indent=2)
+            print(f"  ✓ Added transcript to existing meeting: {existing.name}")
+
+            # Generate markdown page
+            from process_meeting import create_basic_markdown
+            create_basic_markdown(meeting_data, existing)
+
+            return existing
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"  Error updating {existing}: {e}")
+            return None
+
+    # Generate filename for new file
     mapped_type = MEETING_TYPE_MAPPING.get(meeting_type, meeting_type.replace(' ', '-'))
     filename = f"{date.strftime('%Y-%m-%d')}-{mapped_type}.json"
     json_path = month_dir / filename
-
-    # Check if file already exists
-    if json_path.exists():
-        print(f"  Meeting file already exists: {json_path}")
-        return None
 
     # Search for news coverage (for vote information)
     news_coverage = []
@@ -1295,6 +1360,11 @@ def create_transcript_only_meeting(
         with open(json_path, 'w') as f:
             json.dump(meeting_data, f, indent=2)
         print(f"  ✓ Created transcript-only meeting: {json_path.name}")
+
+        # Generate markdown page
+        from process_meeting import create_basic_markdown
+        create_basic_markdown(meeting_data, json_path)
+
         return json_path
     except IOError as e:
         print(f"  Error writing {json_path}: {e}")
@@ -1335,23 +1405,26 @@ def scan_archive_for_new_transcripts(
 
     for date in dates_to_check:
         for meeting_type in meeting_types:
-            # Build expected filename
-            mapped_type = MEETING_TYPE_MAPPING.get(meeting_type, meeting_type.replace(' ', '-'))
-            month_dir = data_dir / date.strftime('%Y-%m')
-            filename = f"{date.strftime('%Y-%m-%d')}-{mapped_type}.json"
-            json_path = month_dir / filename
+            # Check if we already have this meeting with a transcript (any filename format)
+            existing = find_existing_meeting_file(data_dir, date, meeting_type)
+            if existing:
+                # Check if it already has a transcript
+                try:
+                    with open(existing, 'r') as f:
+                        data = json.load(f)
+                    if data.get('transcript'):
+                        stats['already_exist'] += 1
+                        continue
+                    # Placeholder exists without transcript — fall through to try fetching
+                except (json.JSONDecodeError, IOError):
+                    pass
 
-            # Skip if we already have this meeting
-            if json_path.exists():
-                stats['already_exist'] += 1
-                continue
-
-            # Check if transcript is available
+            # Check if transcript URL can be built
             url = build_transcript_url(date, meeting_type)
             if not url:
                 continue
 
-            # Try to create transcript-only meeting
+            # Try to create/update transcript-only meeting
             result = create_transcript_only_meeting(date, meeting_type, data_dir)
             if result:
                 stats['created'] += 1

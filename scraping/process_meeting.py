@@ -184,9 +184,98 @@ def create_placeholder_meeting(meeting_type, target_date):
       output_json.parent.mkdir(parents=True, exist_ok=True)
       output_json.write_text(json.dumps(meeting_info, indent=2))
 
+      # Generate a basic markdown page
+      create_basic_markdown(meeting_info, output_json)
+
       print(f"  → Created placeholder: {title}")
       return f"{yyyy_mm}/{title}"
   except Exception as e:
     print(f"  → Error creating placeholder for {meeting_type} {date_str}: {e}")
 
   return None
+
+
+def create_basic_markdown(meeting_data, json_path):
+  """
+  Create a basic markdown page for a meeting without official minutes.
+  Used for placeholder meetings and transcript-only meetings so they
+  appear on the static site.
+  """
+  json_path = Path(json_path)
+  date_str = meeting_data.get('datetime', '').split()[0]  # "YYYY-MM-DD"
+  meeting_type = meeting_data.get('meeting_type', '')
+  title = meeting_data.get('title', f"{date_str} - {meeting_type}")
+
+  # Parse date for display
+  try:
+    dt = datetime.strptime(date_str, '%Y-%m-%d')
+    date_display = dt.strftime('%B %-d, %Y')
+  except ValueError:
+    date_display = date_str
+
+  # Use the meeting title if it's descriptive, otherwise build one
+  if title == f"{date_str} - {meeting_type}" or title == f"{meeting_type} Meeting":
+    page_title = meeting_type
+  else:
+    page_title = title
+
+  md = f"---\ntitle: \"{page_title}\"\ndate: {date_str}\n---\n"
+  md += f"{date_display}\n\n"
+
+  # Link to original if available
+  url = meeting_data.get('url')
+  if url:
+    md += f"[Original link]({url})\n\n"
+
+  # Note about minutes status
+  has_transcript = bool(meeting_data.get('transcript'))
+  has_news = bool(meeting_data.get('news_coverage'))
+
+  if not meeting_data.get('items') and not has_transcript:
+    md += "> [!info] Official minutes have not been published yet for this meeting.\n\n"
+  elif not meeting_data.get('items'):
+    md += "> [!info] Official minutes have not been published yet. A meeting transcript is available below.\n\n"
+
+  # Transcript section
+  if has_transcript:
+    transcript = meeting_data['transcript']
+    duration = meeting_data.get('transcript_duration', '')
+    source_url = meeting_data.get('transcript_source_url', '')
+
+    md += "## Meeting Transcript\n\n"
+    if duration:
+      md += f"Duration: {duration}\n\n"
+    if source_url:
+      md += f"Source: [Lillian Skinner's London Council Archive]({source_url})\n\n"
+    md += f"> [!example]- Full Transcript\n"
+    for line in transcript.split('\n'):
+      md += f"> {line}\n"
+    md += "\n"
+
+  # News coverage section
+  if has_news:
+    md += "## News Coverage\n\n"
+    for article in meeting_data['news_coverage']:
+      article_title = article.get('title', 'Article')
+      article_url = article.get('url', '')
+      summary = article.get('summary', '')
+      if article_url:
+        md += f"- [{article_title}]({article_url})"
+      else:
+        md += f"- {article_title}"
+      if summary:
+        md += f" — {summary}"
+      md += "\n"
+    md += "\n"
+
+  # Write markdown file
+  # Resolve the project root: json_path is under data/YYYY-MM/, so go up to project root
+  yyyy_mm = date_str[:7]
+  project_root = Path(__file__).parent.parent
+  content_dir = project_root / 'content' / 'months' / yyyy_mm
+  content_dir.mkdir(parents=True, exist_ok=True)
+
+  # Use the JSON filename stem for the markdown filename
+  md_path = content_dir / f"{json_path.stem}.md"
+  md_path.write_text(md)
+  print(f"  → Created markdown page: {md_path.relative_to(project_root)}")
