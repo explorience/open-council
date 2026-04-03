@@ -56,7 +56,15 @@ export const OPENROUTER_MODELS = {
   // OpenAI alternatives
   'gpt-4o-mini': 'openai/gpt-4o-mini',
 
-  // Open source models (100% accuracy, very cheap)
+  // Meta Llama 4 (open source, 1M context)
+  'llama-4-maverick': 'meta-llama/llama-4-maverick',
+  'llama-4-scout': 'meta-llama/llama-4-scout',
+
+  // Qwen 3.x (Alibaba, strong benchmarks)
+  'qwen-3.6-plus': 'qwen/qwen3.6-plus:free',
+  'qwen-3.5-flash': 'qwen/qwen3.5-flash-02-23',
+
+  // Open source models (legacy)
   'llama-3.3-70b': 'meta-llama/llama-3.3-70b-instruct',
   'qwen-72b': 'qwen/qwen-2.5-72b-instruct',
   'deepseek-chat': 'deepseek/deepseek-chat',
@@ -2598,6 +2606,10 @@ ${result.text}
     'cohere/command-r-08-2024': 400_000,
   'google/gemini-3-flash-preview': 800_000,       // 1M tokens → ~200K usable
   'google/gemini-3.1-flash-lite-preview': 800_000,
+  'meta-llama/llama-4-maverick': 800_000,           // 1M tokens
+  'meta-llama/llama-4-scout': 260_000,              // 328K tokens
+  'qwen/qwen3.6-plus:free': 800_000,               // 1M tokens
+  'qwen/qwen3.5-flash-02-23': 800_000,             // 1M tokens
   };
 
   /**
