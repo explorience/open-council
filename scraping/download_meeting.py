@@ -123,3 +123,17 @@ def meeting_local_copy(meeting_type, target_date):
     if data["meeting_type"] == meeting_type:
       return f"{yyyy_mm}/{path.stem}"
   return None
+
+# check if an existing local copy is just a placeholder (no minutes processed yet)
+def is_placeholder_copy(meeting_type, target_date):
+  yyyy_mm = target_date.strftime("%Y-%m")
+  folder = Path(f"../data/{yyyy_mm}/")
+  if not folder.exists(): return False
+
+  yyyy_mm_dd = target_date.strftime("%Y-%m-%d")
+  for path in folder.iterdir():
+    if yyyy_mm_dd not in path.name: continue
+    data = json.loads(path.read_text())
+    if data.get("meeting_type") != meeting_type: continue
+    return data.get("placeholder", False)
+  return False
