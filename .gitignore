@@ -14,3 +14,5 @@ server/chat-logs/.DS_Store
 .env
 .env.local
 .env.production
+.DS_Store
+*.sync-conflict-*

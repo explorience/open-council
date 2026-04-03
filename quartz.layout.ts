@@ -106,6 +106,11 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.WatchButton(),
       condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "watchlist" && page.fileData.slug !== "alerts",
     }),
+    // Auth button for watchlist/alerts pages
+    Component.ConditionalRender({
+      component: Component.AuthButton(),
+      condition: (page) => page.fileData.slug === "watchlist" || page.fileData.slug === "alerts",
+    }),
     // Watchlist page component (self-filters by slug)
     Component.ConditionalRender({
       component: Component.WatchlistPage(),

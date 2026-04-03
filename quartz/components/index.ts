@@ -40,6 +40,7 @@ import ComparisonChart from "./ComparisonChart"
 import WatchButton from "./WatchButton"
 import WatchlistPage from "./WatchlistPage"
 import AlertsFeed from "./AlertsFeed"
+import AuthButton from "./AuthButton"
 
 export {
   ArticleTitle,
@@ -84,4 +85,5 @@ export {
   WatchButton,
   WatchlistPage,
   AlertsFeed,
+  AuthButton,
 }
