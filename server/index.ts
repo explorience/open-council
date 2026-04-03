@@ -6,6 +6,7 @@ import { config } from 'dotenv';
 import { resolve } from 'path';
 import { VectorStore } from './vector-store.js';
 import { RAGService, ChatMetadataCollector, OPENROUTER_MODELS, type OpenRouterModel, type LLMProvider } from './rag-service.js';
+import { validateResponse, detectPromptInjection } from './response-validator.js';
 import { logChatInteraction, generateSessionId, topKToComplexity, ChatLogEntry } from './chat-logger.js';
 import { EmbeddingGenerator } from './embeddings.js';
 import { logQuery, getCombinedTrending } from './analytics.js';
@@ -157,6 +158,16 @@ app.post('/api/chat', async (req, res) => {
     res.setHeader('Cache-Control', 'no-cache');
     res.setHeader('Connection', 'keep-alive');
 
+    // INPUT FILTER: Detect prompt injection attempts before calling the LLM
+    const injectionResponse = detectPromptInjection(message);
+    if (injectionResponse) {
+      console.log(`🛡️ Prompt injection detected and blocked: "${message.substring(0, 80)}..."`);
+      res.write(`data: ${JSON.stringify({ content: injectionResponse })}\n\n`);
+      res.write(`data: ${JSON.stringify({ done: true, sources: [], detectedTopics: [] })}\n\n`);
+      res.end();
+      return;
+    }
+
     // Stream the response
     try {
       // Metadata collector for logging
@@ -166,6 +177,26 @@ app.post('/api/chat', async (req, res) => {
       for await (const chunk of ragService.chat(message, history, metadataCollector)) {
         fullResponse += chunk;
         res.write(`data: ${JSON.stringify({ content: chunk })}\n\n`);
+      }
+
+      // Validate response before sending done signal
+      const validation = validateResponse(fullResponse, metadataCollector.usedStructuredData || false);
+
+      // OUTPUT FILTER: If system prompt was leaked, replace entire response
+      if (validation.blockedResponse) {
+        console.log(`🛡️ System prompt leak detected in response - blocking and replacing`);
+        // We already streamed the leaked content unfortunately (SSE), but we can
+        // send a clear replacement signal. The client should handle 'blocked' events.
+        res.write(`data: ${JSON.stringify({ blocked: true, content: validation.blockedResponse })}\n\n`);
+        res.write(`data: ${JSON.stringify({ done: true, sources: [], detectedTopics: [] })}\n\n`);
+        res.end();
+        return;
+      }
+
+      if (validation.disclaimer) {
+        const disclaimerChunk = '\n\n---\n' + validation.disclaimer;
+        fullResponse += disclaimerChunk;
+        res.write(`data: ${JSON.stringify({ content: disclaimerChunk })}\n\n`);
       }
 
       // Send done signal with sources metadata
