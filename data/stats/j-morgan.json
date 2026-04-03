@@ -2,11 +2,11 @@
   "councillor": "Josh Morgan",
   "slug": "j-morgan",
   "attendance": {
-    "totalMeetings": 767,
-    "present": 706,
+    "totalMeetings": 779,
+    "present": 718,
     "absent": 61,
     "remote": 1,
-    "attendanceRate": 92.04693611473273,
+    "attendanceRate": 92.16944801026958,
     "trend": [
       {
         "period": "2014",
@@ -77,203 +77,209 @@
       {
         "period": "2025",
         "attendanceRate": 100,
-        "meetingsAttended": 48,
-        "meetingsTotal": 48
+        "meetingsAttended": 52,
+        "meetingsTotal": 52
+      },
+      {
+        "period": "2026",
+        "attendanceRate": 100,
+        "meetingsAttended": 8,
+        "meetingsTotal": 8
       }
     ],
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 10581,
-    "yeas": 8772,
-    "nays": 541,
-    "absent": 1268,
-    "participationRate": 88.01625555240526,
-    "yeaRate": 94.19091592397723,
-    "contestedDissentRate": 5.281220209723546,
-    "contestedVotes": 5245,
-    "substantiveVotes": 7747,
-    "substantiveYeas": 6372,
-    "substantiveNays": 508,
-    "substantiveParticipationRate": 88.80857105976507,
-    "substantiveYeaRate": 92.61627906976744
+    "totalVotes": 10841,
+    "yeas": 8960,
+    "nays": 564,
+    "absent": 1317,
+    "participationRate": 87.85167419979707,
+    "yeaRate": 94.07811843763125,
+    "contestedDissentRate": 5.349487418452935,
+    "contestedVotes": 5365,
+    "substantiveVotes": 7898,
+    "substantiveYeas": 6475,
+    "substantiveNays": 530,
+    "substantiveParticipationRate": 88.69334008609775,
+    "substantiveYeaRate": 92.43397573162027
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1400,
-    "budgetYeas": 1204,
+    "totalBudgetVotes": 1409,
+    "budgetYeas": 1213,
     "budgetNays": 184,
     "budgetAbsent": 12
   },
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 2693,
-      "agreedVotes": 2596,
-      "alignmentRate": 96.39806906795395
+      "sharedVotes": 2779,
+      "agreedVotes": 2681,
+      "alignmentRate": 96.4735516372796
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 2906,
-      "agreedVotes": 2791,
-      "alignmentRate": 96.04267033723332
-    },
-    {
-      "councillor": "Elizabeth Peloza",
-      "sharedVotes": 2716,
-      "agreedVotes": 2596,
-      "alignmentRate": 95.58173784977909
+      "sharedVotes": 2994,
+      "agreedVotes": 2876,
+      "alignmentRate": 96.05878423513694
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1417,
-      "agreedVotes": 1347,
-      "alignmentRate": 95.05998588567395
+      "sharedVotes": 1505,
+      "agreedVotes": 1433,
+      "alignmentRate": 95.21594684385381
+    },
+    {
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 2788,
+      "agreedVotes": 2654,
+      "alignmentRate": 95.19368723098995
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1411,
-      "agreedVotes": 1338,
-      "alignmentRate": 94.82636428065202
+      "sharedVotes": 1501,
+      "agreedVotes": 1422,
+      "alignmentRate": 94.73684210526315
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1314,
-      "agreedVotes": 1129,
-      "alignmentRate": 85.92085235920852
+      "sharedVotes": 1398,
+      "agreedVotes": 1192,
+      "alignmentRate": 85.26466380543634
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1316,
-      "agreedVotes": 1140,
-      "alignmentRate": 86.62613981762918
+      "sharedVotes": 1409,
+      "agreedVotes": 1222,
+      "alignmentRate": 86.72817601135557
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1136,
-      "agreedVotes": 1033,
-      "alignmentRate": 90.9330985915493
+      "sharedVotes": 1213,
+      "agreedVotes": 1089,
+      "alignmentRate": 89.77741137675186
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2666,
-      "agreedVotes": 2451,
-      "alignmentRate": 91.93548387096774
+      "sharedVotes": 2757,
+      "agreedVotes": 2536,
+      "alignmentRate": 91.98404062386652
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1307,
-      "agreedVotes": 1214,
-      "alignmentRate": 92.88446824789595
+      "sharedVotes": 1397,
+      "agreedVotes": 1289,
+      "alignmentRate": 92.26914817465999
     }
   ],
   "notableDissents": [
     {
-      "date": "2025-11-20",
-      "meetingTitle": "6th Meeting of the Budget Committee",
-      "itemTitle": "Amendment - Budget Case #P-6",
-      "motionText": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures:  $114,000          2026 Tax Levy:  $114,000   ...",
+      "date": "2026-03-09",
+      "meetingTitle": "4th Meeting of the Community and Protective Services Committee",
+      "itemTitle": "Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations",
+      "motionText": "That the motion BE AMENDED to add a new part d) to read as follows: The Civic Administration BE DIRECTED to consult with the Environmental Stewardship and Action Community Advisory Committee about the...",
       "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2025-11-20",
-      "meetingTitle": "6th Meeting of the Budget Committee",
-      "itemTitle": "(ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson",
-      "motionText": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0     ...",
+      "date": "2026-02-10",
+      "meetingTitle": "3rd Council Meeting",
+      "itemTitle": "(2.3) System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options",
+      "motionText": "That, the staff report dated January 26, 2026 with respect to the System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options, BE REFERRED to a future meeting of the Com...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-02-10",
+      "meetingTitle": "3rd Council Meeting",
+      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
+      "motionText": "vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.",
       "vote": "nay",
       "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2025-11-20",
-      "meetingTitle": "6th Meeting of the Budget Committee",
-      "itemTitle": "(ADDED) Amendment - Councillor D. Ferreira",
-      "motionText": "That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street pa...",
+      "date": "2026-02-10",
+      "meetingTitle": "3rd Council Meeting",
+      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
+      "motionText": "vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-02-10",
+      "meetingTitle": "3rd Council Meeting",
+      "itemTitle": "(2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
+      "motionText": "That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...",
       "vote": "yea",
       "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2025-11-04",
-      "meetingTitle": "17th Council Meeting",
-      "itemTitle": "(4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units ",
-      "motionText": "That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”",
-      "vote": "yea",
-      "result": "Motion Failed (5 to 10)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2025-11-04",
-      "meetingTitle": "17th Council Meeting",
-      "itemTitle": "(4.1) 2025 Council Resourcing Review Task Force Final Report",
-      "motionText": "That part g) of the motion BE APPROVED: g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annua...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2025-10-28",
-      "meetingTitle": "13th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "2025 Council Resourcing Review Task Force Final Report",
-      "motionText": "Motion to approve part n): n) the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated a...",
+      "date": "2026-02-03",
+      "meetingTitle": "3rd Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
+      "motionText": "That the motion BE FURTHER AMENDED to extend the term of the loan from five years to ten years.",
       "vote": "nay",
-      "result": "Motion Passed (9 to 6)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (12 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2025-10-14",
-      "meetingTitle": "16th Council Meeting",
-      "itemTitle": "Councillor S. Franke - Revisiting the Urban Growth Boundary Review Using Updated Population Projections",
-      "motionText": "That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Franke to move a motion related to item 7.2 on the Council Agenda related to Revisiting the Urba...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2025-10-14",
-      "meetingTitle": "16th Council Meeting",
-      "itemTitle": "(3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)",
-      "motionText": "That item 9, clause 3.5, as amended, BE APPROVED.",
+      "date": "2026-01-13",
+      "meetingTitle": "2nd Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East",
+      "motionText": "b)    the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3ff44bea-1732-40f8-a0be-0bb3b886e41b&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2025-10-14",
-      "meetingTitle": "16th Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No.'s 369 and 379 BE APPROVED.",
+      "date": "2025-12-02",
+      "meetingTitle": "The 1st Meeting of the Planning and Environment Committee",
+      "itemTitle": "Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595",
+      "motionText": "That Schedule 1 to Appendix “A” of the proposed by-law as appended to the staff report dated December 2, 2025, to adopt the Urban Growth Boundary for The London Plan as part of the Section 26 Official...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (4 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8d91b1ee-f4a7-4907-b940-3c3769649180&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2025-10-14",
-      "meetingTitle": "16th Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No.'s 369 and 379 BE APPROVED.",
+      "date": "2025-11-25",
+      "meetingTitle": "18th Council Meeting",
+      "itemTitle": "(2.5) Blue Box Transition Final Year - Part B Update",
+      "motionText": "Motion to approve part b): b) the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Infrastructure and Corporate Services Committee on potential interim measur...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2025-11-25",
+      "meetingTitle": "18th Council Meeting",
+      "itemTitle": "(2.5) Blue Box Transition Final Year - Part B Update",
+      "motionText": "Motion to approve part c): c) the Civic Administration BE DIRECTED to request the Ministry of Environment, Conservation and Parks amend the Blue Box Regulation (Reg 210/25) to include non-profit organ...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 5002,
-      "yeas": 4669,
-      "nays": 253,
-      "participationRate": 98.40063974410236
+      "totalVotes": 5188,
+      "yeas": 4805,
+      "nays": 265,
+      "participationRate": 97.72552043176562
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 3030,
-      "yeas": 2382,
-      "nays": 176,
-      "participationRate": 84.42244224422443
+      "totalVotes": 3075,
+      "yeas": 2419,
+      "nays": 184,
+      "participationRate": 84.65040650406505
     },
     {
       "committee": "Corporate Services Committee",
@@ -284,10 +290,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 634,
-      "yeas": 161,
-      "nays": 3,
-      "participationRate": 25.86750788643533
+      "totalVotes": 640,
+      "yeas": 162,
+      "nays": 4,
+      "participationRate": 25.937500000000004
     },
     {
       "committee": "Civic Works Committee",
@@ -298,10 +304,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 282,
-      "yeas": 175,
-      "nays": 13,
-      "participationRate": 66.66666666666666
+      "totalVotes": 296,
+      "yeas": 181,
+      "nays": 14,
+      "participationRate": 65.87837837837837
     },
     {
       "committee": "Budget Committee",
@@ -312,10 +318,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 27,
-      "yeas": 21,
-      "nays": 1,
-      "participationRate": 81.48148148148148
+      "totalVotes": 36,
+      "yeas": 29,
+      "nays": 2,
+      "participationRate": 86.11111111111111
     }
   ]
 }
