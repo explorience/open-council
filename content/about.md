@@ -12,7 +12,7 @@ City council decisions shape our communities, but meeting minutes are often buri
 
 ## Who made it?
 
-Open Council was created by volunteers at the [Institute for Community Sustainability](https://communitysustainability.ca/), a London-based non-profit. The project team has since expanded to include contributors from [Open Civics](https://www.opencivics.co/) and [SuperBenefit](https://superbenefit.org/).
+Open Council was created by Heenal Rajani at the [Institute for Community Sustainability](https://communitysustainability.ca/), a London-based non-profit. Coding support was provided by Ethan Sue and transcripts were collated by Lillian Skinner for [The London Archive](https://london.lillianskinner.ca). The project team has since expanded to include contributors from [Open Civics](https://www.opencivics.co/) and [SuperBenefit](https://superbenefit.org/).
 
 ## How does it work?
 
@@ -20,7 +20,11 @@ The site scrapes publicly available meeting data from London's eScribe system, p
 
 ## How up-to-date is the data?
 
-Our data is only as current as the City of London's published minutes. The City Clerk's office typically publishes official meeting minutes **several weeks after** a meeting takes place. Until the minutes are published on eScribe, we cannot extract vote breakdowns or agenda item details for that meeting. We check for new data regularly and update the site as soon as it becomes available. If you notice a recent meeting is missing vote data, that's almost certainly because the city hasn't published the minutes yet — not because of an issue on our end.
+Our data is only as current as the City of London's published minutes. The City Clerk's office typically publishes official meeting minutes **several weeks after** a meeting takes place. Until the minutes are published on eScribe, we cannot extract vote breakdowns or agenda item details for that meeting.
+
+We also process meeting transcripts and press coverage, which helps the AI chatbot answer questions about recent discussions. However, transcripts and press coverage don't give us the official vote records — only the published minutes contain the structured vote data (who voted yea, nay, or absent on each motion).
+
+We check for new data regularly and update the site as soon as it becomes available. If you notice a recent meeting is missing vote data, that's almost certainly because the city hasn't published the minutes yet — not because of an issue on our end.
 
 ## Help us improve
 
@@ -36,5 +40,5 @@ This project is still in active development. We need your help to make it better
 
 Open Council is a labour of love. Over **600 hours** (and counting) have been poured into building and maintaining this project.
 
-If you find it useful, please consider supporting us:
-<a href="https://ko-fi.com/heenalr" target="_blank" rel="noopener noreferrer">Support us on Ko-fi</a>
+If you find it useful, please consider supporting the Institute for Community Sustainability:
+<a href="https://communitysustainability.ca" target="_blank" rel="noopener noreferrer">Support the Institute for Community Sustainability</a>

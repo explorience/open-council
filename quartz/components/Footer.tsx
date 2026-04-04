@@ -11,12 +11,33 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Website by <a href="https://facebook.com/heenalr">Heenal Rajani</a> and Ethan Sue for the{" "}
-          <a href="http://communitysustainability.ca">Institute for Community Sustainability</a>
+          A project of the{" "}
+          <a href="https://communitysustainability.ca">Institute for Community Sustainability</a>
+          {" "}and{" "}
+          <a href="https://www.opencivics.co/">Open Civics</a>
         </p>
-        <p>
-          Transcripts by Lilian Skinner for <a href="https://london.lillianskinner.ca">The London Archive</a>
-        </p>
+        <nav class="footer-links">
+          <div class="footer-col">
+            <strong>Explore</strong>
+            <a href="/councillors">Councillors</a>
+            <a href="/votes">Votes</a>
+            <a href="/councillors/alignment">Voting Alignment</a>
+            <a href="/committees">Committees</a>
+          </div>
+          <div class="footer-col">
+            <strong>Tools</strong>
+            <a href="/watchlist">Watchlist</a>
+            <a href="/alerts">Alerts</a>
+            <a href="/guide">User Guide</a>
+            <a href="/feedback">Feedback</a>
+          </div>
+          <div class="footer-col">
+            <strong>About</strong>
+            <a href="/about">About Open Council</a>
+            <a href="https://github.com/explorience/open-council">GitHub</a>
+            <a href="mailto:info@opencouncil.xyz">Contact</a>
+          </div>
+        </nav>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
