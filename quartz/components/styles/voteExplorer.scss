@@ -245,6 +245,22 @@
     }
   }
 
+  .ve-topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .ve-topic-tag {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    background: var(--lightgray);
+    color: var(--darkgray);
+    white-space: nowrap;
+  }
+
   .ve-unanimous {
     font-size: 0.85rem;
     color: var(--gray);

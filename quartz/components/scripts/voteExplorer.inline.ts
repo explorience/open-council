@@ -16,6 +16,7 @@ interface Motion {
   n: string[] // nays
   a: string[] // absent
   m: number   // margin
+  topics?: string[] // topic tags
 }
 
 interface YearIndex {
@@ -132,6 +133,7 @@ function renderMotion(motion: Motion): string {
       <span class="ve-result-badge">${badge}${closeIcon}</span>
     </div>
     <div class="ve-motion-text">${motion.tx}</div>
+    ${motion.topics?.length ? `<div class="ve-topics">${motion.topics.map((t: string) => `<span class="ve-topic-tag">${t}</span>`).join("")}</div>` : ""}
     ${rollcall}
   </div>`
 }
@@ -142,6 +144,7 @@ function applyFilters(): void {
   const typeEl = document.getElementById("ve-type") as HTMLSelectElement
   const resultEl = document.getElementById("ve-result") as HTMLSelectElement
   const splitEl = document.getElementById("ve-split") as HTMLSelectElement
+  const topicEl = document.getElementById("ve-topic") as HTMLSelectElement
 
   if (!searchEl || !yearEl || !typeEl || !resultEl || !splitEl) return
 
@@ -150,6 +153,7 @@ function applyFilters(): void {
   const typeFilter = typeEl.value
   const resultFilter = resultEl.value
   const splitFilter = splitEl.value
+  const topicFilter = topicEl?.value || "all"
 
   filteredMotions = allMotions.filter((m) => {
     // Year filter
@@ -169,6 +173,11 @@ function applyFilters(): void {
     // Split filter
     if (splitFilter === "contested" && m.u) return false
     if (splitFilter === "close" && (m.u || m.m > 3)) return false
+
+    // Topic filter
+    if (topicFilter !== "all") {
+      if (!m.topics || !m.topics.includes(topicFilter)) return false
+    }
 
     // Search
     if (search) {
@@ -276,6 +285,7 @@ async function init(): Promise<void> {
     document.getElementById("ve-type")?.addEventListener("change", applyFilters)
     document.getElementById("ve-result")?.addEventListener("change", applyFilters)
     document.getElementById("ve-split")?.addEventListener("change", applyFilters)
+    document.getElementById("ve-topic")?.addEventListener("change", applyFilters)
 
     // Infinite scroll
     const sentinel = document.getElementById("ve-sentinel")
