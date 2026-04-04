@@ -100,7 +100,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Non-homepage: show article title and watch button
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "votes",
+      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "votes" && page.fileData.slug !== "feedback",
     }),
     Component.ConditionalRender({
       component: Component.WatchButton(),
@@ -125,6 +125,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.VoteExplorer(),
       condition: (page) => page.fileData.slug === "votes",
+    }),
+    // Feedback form
+    Component.ConditionalRender({
+      component: Component.FeedbackForm(),
+      condition: (page) => page.fileData.slug === "feedback",
     }),
     // Councillor page components (self-filter by page type)
     Component.Scorecard(),

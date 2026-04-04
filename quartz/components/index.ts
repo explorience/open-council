@@ -40,6 +40,7 @@ import ComparisonChart from "./ComparisonChart"
 import WatchButton from "./WatchButton"
 import WatchlistPage from "./WatchlistPage"
 import VoteExplorer from "./VoteExplorer"
+import FeedbackForm from "./FeedbackForm"
 import AlertsFeed from "./AlertsFeed"
 import AuthButton from "./AuthButton"
 
@@ -86,6 +87,7 @@ export {
   WatchButton,
   WatchlistPage,
   VoteExplorer,
+  FeedbackForm,
   AlertsFeed,
   AuthButton,
 }
