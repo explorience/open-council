@@ -34,6 +34,7 @@ The **navigation menu** at the top has dropdown menus for:
 
 - **Committees** — browse by committee (Planning, Budget, Civic Works, etc.)
 - **Councillors** — view all current and former councillors
+- **Topics** — browse votes organized by policy area (housing, budget, transit, etc.)
 - **Recent Meetings** — jump to the latest meetings
 
 On mobile, tap the **hamburger menu** (three lines) to open navigation.
@@ -130,6 +131,7 @@ The search checks motion text, item titles, meeting names, and councillor names 
 
 Use the dropdown menus to narrow your results:
 
+- **Topic** — filter by policy area (Housing & Homelessness, Budget & Taxes, Transit, etc.). This is the same as going to the Topics page, but built right into the Vote Explorer. *Tip: topic pages link here with the topic pre-selected.*
 - **Year/Term** — default is "Current Term (2022-2026)". Change to a specific year or "All Years" to go back to 2011
 - **Meeting Type** — filter by committee: Council, Planning & Environment, Budget, etc.
 - **Result** — show only Passed or Failed votes
@@ -148,6 +150,46 @@ Each vote card shows:
 - **Roll call** — click "View roll call" on any contested vote to see the full breakdown
 
 The list loads more votes automatically as you scroll down (infinite scroll — no need to click "next page").
+
+---
+
+## Topics (/topics)
+
+The **Topics** page at [opencouncil.xyz/topics](https://opencouncil.xyz/topics) organizes votes by policy area — making it easy to see what council has done on the issues you care about.
+
+### Available Topics
+
+There are 14 topic categories covering the most common areas of council business:
+
+- **Housing & Homelessness** — shelters, warming centres, affordable housing, encampments, rental licensing
+- **Budget & Taxes** — annual budget, property taxes, user fees, reserve funds
+- **Transit & Mobility** — LTC routes, bus rapid transit, cycling infrastructure, mobility master plan
+- **Development & Zoning** — new builds, zoning changes, urban growth boundary, site plans
+- **Policing & Public Safety** — police budget, community safety, bylaw enforcement
+- **Infrastructure** — roads, sewers, water, bridges, construction projects
+- **Environment & Climate** — emissions targets, tree protection, stormwater, climate adaptation
+- **Parks & Recreation** — community centres, sports fields, playgrounds, park maintenance
+- **Education & Libraries** — library branches, programs, partnerships with school boards
+- **Parking** — meters, permits, downtown parking, residential parking
+- **Neighbourhoods** — neighbourhood-specific issues, community associations, area plans
+- **Fireworks Bylaw** — the ongoing debate about private fireworks regulation
+- **Property Standards** — yard maintenance, property condition, landlord compliance
+- **Heritage** — heritage buildings, conservation districts, demolition applications
+
+### What's on a Topic Page
+
+Each topic page shows:
+
+- **At a Glance stats** — total votes, how many were contested, pass rate
+- **Activity by Year** — a simple bar chart showing how much attention the topic got each year (useful for spotting trends — is housing getting more or less attention over time?)
+- **Recent Contested Votes** — the latest split votes on that topic, with links to the full meeting page
+- **"View all votes" link** — takes you directly to the Vote Explorer pre-filtered to that topic
+
+### Tips
+
+- **Want to see every vote on housing?** Go to the Housing & Homelessness topic page and click "View all Housing & Homelessness votes in the Vote Explorer →" at the top
+- **Tracking an issue over time?** The activity-by-year bars quickly show whether council attention is increasing or decreasing
+- **Looking for controversial decisions?** The contested votes section shows where councillors disagreed — that's where the real debates happen
 
 ---
 
@@ -289,6 +331,11 @@ All data comes from publicly available sources:
 - **Vote records** — extracted from the official minutes
 
 The data covers **August 2011 to present**, updated regularly as new meetings occur.
+---
+
+## Feedback
+
+Have a suggestion, found a bug, or want to tell us what you think? Visit [opencouncil.xyz/feedback](https://opencouncil.xyz/feedback) to send us a message. We read every piece of feedback.
 
 ---
 
