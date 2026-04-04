@@ -100,11 +100,11 @@ export const defaultContentPageLayout: PageLayout = {
     // Non-homepage: show article title and watch button
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "votes",
     }),
     Component.ConditionalRender({
       component: Component.WatchButton(),
-      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "watchlist" && page.fileData.slug !== "alerts" && !page.fileData.slug?.startsWith("months/"),
+      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "watchlist" && page.fileData.slug !== "alerts" && page.fileData.slug !== "votes" && !page.fileData.slug?.startsWith("months/"),
     }),
     // Auth button for watchlist/alerts pages
     Component.ConditionalRender({
