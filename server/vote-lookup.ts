@@ -341,6 +341,137 @@ export class VoteLookupService {
   }
 
   /**
+   * Find ALL motions matching keywords (returns multiple when same item has original + alternative)
+   * This fixes the bug where only one motion is returned for items like OEV BIA
+   * which had an original motion (failed 5-8) AND an alternative (passed 10-3).
+   */
+  findAllMotionVotes(
+    topicKeywords: string[],
+    recentMonths: number = 24
+  ): MotionVotesResult[] {
+    const cutoffDate = new Date();
+    cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
+
+    const slugs = getAllCouncillorSlugs();
+
+    // Collect all matching motions above threshold, keyed by (date, itemTitle, motionText)
+    const motionMap = new Map<string, { date: string; itemTitle: string; motionText: string; meetingTitle: string; score: number }>();
+
+    for (const slug of slugs) {
+      const voteFile = loadCouncillorVotes(slug);
+      if (!voteFile) continue;
+
+      for (const vote of voteFile.votes) {
+        if (new Date(vote.date) < cutoffDate) continue;
+
+        const searchText = `${vote.itemTitle} ${vote.motionText}`;
+        const score = calculateMatchScore(searchText, topicKeywords);
+
+        if (score >= 0.3) {
+          const key = `${vote.date}|${vote.itemTitle}|${vote.motionText}`;
+          if (!motionMap.has(key)) {
+            motionMap.set(key, {
+              date: vote.date,
+              itemTitle: vote.itemTitle,
+              motionText: vote.motionText,
+              meetingTitle: vote.meetingTitle,
+              score,
+            });
+          }
+        }
+      }
+    }
+
+    if (motionMap.size === 0) return [];
+
+    // Sort by score descending, then collect vote details for each motion
+    const sortedMotions = Array.from(motionMap.values()).sort((a, b) => b.score - a.score);
+
+    // Group motions by itemTitle (same agenda item = original + alternatives)
+    const bestItemTitle = sortedMotions[0].itemTitle;
+    const relatedMotions = sortedMotions.filter(m =>
+      m.itemTitle === bestItemTitle && m.date === sortedMotions[0].date
+    );
+
+    console.log(`   Motion lookup: Found ${relatedMotions.length} motion(s) on "${bestItemTitle}"`);
+
+    const results: MotionVotesResult[] = [];
+    for (const motion of relatedMotions) {
+      const yeas: string[] = [];
+      const nays: string[] = [];
+      const absent: string[] = [];
+      let result = '';
+      let passed = false;
+
+      for (const slug of slugs) {
+        const voteFile = loadCouncillorVotes(slug);
+        if (!voteFile) continue;
+
+        const matchingVote = voteFile.votes.find(
+          v => v.date === motion.date &&
+            v.itemTitle === motion.itemTitle &&
+            v.motionText === motion.motionText
+        );
+
+        if (matchingVote) {
+          result = matchingVote.result;
+          passed = matchingVote.passed;
+          switch (matchingVote.vote) {
+            case 'yea': yeas.push(voteFile.councillor); break;
+            case 'nay': nays.push(voteFile.councillor); break;
+            case 'absent': absent.push(voteFile.councillor); break;
+          }
+        }
+      }
+
+      results.push({
+        motionTitle: motion.itemTitle,
+        motionText: motion.motionText,
+        date: motion.date,
+        meetingTitle: motion.meetingTitle,
+        result,
+        passed,
+        yeas,
+        nays,
+        absent,
+      });
+    }
+
+    // Sort: failed motions first (original typically fails, then alternative passes)
+    results.sort((a, b) => {
+      if (a.passed === b.passed) return 0;
+      return a.passed ? 1 : -1; // failed first
+    });
+
+    return results;
+  }
+
+  /**
+   * Format multiple motion votes for context (original + alternatives)
+   */
+  formatAllMotionVotesForContext(results: MotionVotesResult[]): string {
+    if (results.length === 0) return '';
+    if (results.length === 1) return this.formatMotionVotesForContext(results[0]);
+
+    let context = `## VERIFIED VOTE DATA: Multiple motions on same item (from structured data - USE THIS)\n`;
+    context += `⚠️ There were ${results.length} separate votes on this item. The FIRST is the original motion, subsequent ones are alternatives/amendments.\n\n`;
+
+    results.forEach((r, i) => {
+      const label = i === 0 ? 'ORIGINAL MOTION' : `ALTERNATIVE MOTION #${i}`;
+      const outcomeWord = r.passed ? 'PASSED' : 'FAILED';
+      context += `### ${label}\n`;
+      context += `**Motion Text:** ${r.motionText.substring(0, 300)}...\n`;
+      context += `**Outcome:** ${outcomeWord} - ${r.result}\n`;
+      context += `**Voted YEA (${r.yeas.length}):** ${r.yeas.join(', ')}\n`;
+      context += `**Voted NAY (${r.nays.length}):** ${r.nays.join(', ')}\n`;
+      context += `**Absent (${r.absent.length}):** ${r.absent.join(', ')}\n\n`;
+    });
+
+    context += `⚠️ When the user asks about the "original" motion, refer to the FIRST vote above. The alternative motions came later.\n`;
+    return context;
+  }
+
+  /**
    * Get a councillor's voting summary
    */
   getCouncillorSummary(councillorSlug: string): CouncillorVoteFile['summary'] | null {

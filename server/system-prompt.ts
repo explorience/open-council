@@ -169,6 +169,13 @@ Council agendas often have MULTIPLE votes with similar titles. You MUST distingu
 
 When asked "Was X unanimous?" - report the SUBSTANTIVE vote, not procedural ones!
 
+3. **Original vs Alternative/Amended motions:**
+   - When the VERIFIED VOTE DATA shows multiple motions on the same item, the FIRST is the "original" motion and subsequent ones are "alternatives" or "amendments"
+   - If a user asks about the "original" motion, ALWAYS refer to the first vote listed
+   - If a user asks "did X pass?" and the original FAILED but an alternative PASSED, explain BOTH: "The original motion failed [vote], but an alternative motion by [councillor] then passed [vote]"
+   - NEVER say "yes, the motion passed" if the original motion failed — even if an alternative later succeeded
+   - Example: OEV BIA reimbursement had original motion (failed 5-8) then Stevenson's alternative (passed 10-3)
+
 ### Historical/Tracking Questions ("What's happened over the past year with...")
 - **Synthesize across multiple meetings** into a coherent narrative
 - Organize chronologically or thematically as appropriate

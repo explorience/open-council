@@ -1660,10 +1660,10 @@ export class RAGService {
 
         let verifiedVoteContext = '';
         if (this.voteLookupInitialized) {
-          const motionResult = voteLookupService.findMotionVotes(motionKeywords);
-          if (motionResult) {
-            verifiedVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
-            console.log(`   ✅ Found VERIFIED motion vote breakdown: ${motionResult.yeas.length} yea, ${motionResult.nays.length} nay`);
+          const motionResults = voteLookupService.findAllMotionVotes(motionKeywords);
+          if (motionResults.length > 0) {
+            verifiedVoteContext = voteLookupService.formatAllMotionVotesForContext(motionResults);
+            console.log(`   ✅ Found VERIFIED motion vote breakdown: ${motionResults.length} motion(s)`);
           } else {
             console.log(`   ⚠️ No matching motion found in structured vote data`);
           }
@@ -1735,10 +1735,10 @@ export class RAGService {
 
       let verifiedVoteContext = '';
       if (this.voteLookupInitialized) {
-        const motionResult = voteLookupService.findMotionVotes(motionKeywords);
-        if (motionResult) {
-          verifiedVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
-          console.log(`   ✅ Found VERIFIED motion vote breakdown: ${motionResult.yeas.length} yea, ${motionResult.nays.length} nay`);
+        const motionResults = voteLookupService.findAllMotionVotes(motionKeywords);
+        if (motionResults.length > 0) {
+          verifiedVoteContext = voteLookupService.formatAllMotionVotesForContext(motionResults);
+          console.log(`   ✅ Found VERIFIED motion vote breakdown: ${motionResults.length} motion(s)`);
         } else {
           console.log(`   ⚠️ No matching motion found in structured vote data`);
         }
@@ -2017,9 +2017,9 @@ export class RAGService {
           }
         } else if (topicKeywords.length > 0) {
           // Looking for all votes on a motion (who voted for/against)
-          const motionResult = voteLookupService.findMotionVotes(topicKeywords);
-          if (motionResult) {
-            verifiedVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
+          const motionResults = voteLookupService.findAllMotionVotes(topicKeywords);
+          if (motionResults.length > 0) {
+            verifiedVoteContext = voteLookupService.formatAllMotionVotesForContext(motionResults);
             console.log(`   ✅ Found VERIFIED motion vote breakdown`);
           }
         }
@@ -2206,10 +2206,10 @@ export class RAGService {
         const keywords = this.extractVoteKeywords(query);
         if (keywords.length > 0 && this.voteLookupInitialized) {
           console.log(`🔍 Catch-all vote query: trying structured lookup for keywords "${keywords.join(' ')}"`);
-          const motionResult = voteLookupService.findMotionVotes(keywords);
-          if (motionResult) {
-            catchAllVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
-            console.log(`   ✅ Catch-all found VERIFIED motion vote breakdown: ${motionResult.yeas.length} yea, ${motionResult.nays.length} nay`);
+          const motionResults = voteLookupService.findAllMotionVotes(keywords);
+          if (motionResults.length > 0) {
+            catchAllVoteContext = voteLookupService.formatAllMotionVotesForContext(motionResults);
+            console.log(`   ✅ Catch-all found VERIFIED motion vote breakdown: ${motionResults.length} motion(s)`);
           } else {
             console.log(`   ⚠️ Catch-all: no matching motion found in structured data`);
           }
