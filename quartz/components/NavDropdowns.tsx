@@ -62,9 +62,21 @@ export default ((userOpts?: Partial<NavDropdownsOptions>) => {
             Councillors
           </a>
 
+          <a href="/votes" class="nav-link">
+            Votes
+          </a>
+
           <button class="nav-link nav-recent-meetings" aria-label="Show recent meetings" aria-expanded="false">
             Recent Meetings
           </button>
+
+          <a href="/guide" class="nav-link">
+            Guide
+          </a>
+
+          <a href="/watchlist" class="nav-link nav-login-link">
+            Login
+          </a>
         </div>
       </nav>
     )
