@@ -189,9 +189,23 @@ async function runTestCase(tc: TestCase) {
   }
 
   for (const phrase of tc.mustNotContain ?? []) {
+    // Negation-aware check: "did NOT pass unanimously" should not trigger
+    // a false positive for mustNotContain: ["unanimous"]
+    const phraseLower = phrase.toLowerCase();
+    const idx = lowerResponse.indexOf(phraseLower);
+    let inAffirmativeContext = idx !== -1;
+
+    if (idx !== -1) {
+      // Check for negation words within 40 chars before the phrase
+      const prefix = lowerResponse.substring(Math.max(0, idx - 40), idx);
+      if (/\b(not|no|never|nor|neither|wasn'?t|didn'?t|does not|did not|was not|is not|aren'?t|don'?t)\b/i.test(prefix)) {
+        inAffirmativeContext = false; // negated — don't count as a match
+      }
+    }
+
     assert.ok(
-      !lowerResponse.includes(phrase.toLowerCase()),
-      `Unexpected phrase "${phrase}" found in response.\nQuestion: ${tc.question}\nGot: ${response}`
+      !inAffirmativeContext,
+      `Unexpected phrase "${phrase}" found in affirmative context.\nQuestion: ${tc.question}\nGot: ${response}`
     );
   }
 
