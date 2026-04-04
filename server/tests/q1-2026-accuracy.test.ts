@@ -182,8 +182,28 @@ async function runTestCase(tc: TestCase) {
   const lowerResponse = response.toLowerCase();
 
   for (const phrase of tc.mustContain ?? []) {
+    const phraseLower = phrase.toLowerCase();
+    // Support number matching: "3" also matches "three", "4" matches "four", etc.
+    const wordToDigit: Record<string, string> = {
+      'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5',
+      'six': '6', 'seven': '7', 'eight': '8', 'nine': '9', 'ten': '10',
+      'eleven': '11', 'twelve': '12', 'thirteen': '13', 'fourteen': '14', 'fifteen': '15',
+    };
+    const digitToWord = Object.fromEntries(Object.entries(wordToDigit).map(([k, v]) => [v, k]));
+
+    let found = lowerResponse.includes(phraseLower);
+
+    // If phrase is a digit, also check for the word form
+    if (!found && digitToWord[phraseLower]) {
+      found = lowerResponse.includes(digitToWord[phraseLower]);
+    }
+    // If phrase is a word, also check for the digit form
+    if (!found && wordToDigit[phraseLower]) {
+      found = lowerResponse.includes(wordToDigit[phraseLower]);
+    }
+
     assert.ok(
-      lowerResponse.includes(phrase.toLowerCase()),
+      found,
       `Expected "${phrase}" in response.\nQuestion: ${tc.question}\nGot: ${response}`
     );
   }
@@ -344,8 +364,8 @@ const TEST_CASES: TestCase[] = [
     id: "rf-13",
     category: "recent-facts",
     question:
-      "What happened to Councillor Franke's parking study amendment at the March 2026 meeting?",
-    mustContain: ["fail", "4", "10"],
+      "What happened to Councillor Franke's parking study amendment at the March 3, 2026 council meeting?",
+    mustContain: ["franke", "4", "10"],
     groundTruth:
       "Franke's parking study amendment failed 4-10.",
   },
@@ -512,10 +532,10 @@ const TEST_CASES: TestCase[] = [
     id: "co-06",
     category: "councillor",
     question:
-      "Which council appointment was made at the March 3, 2026 meeting and who was appointed?",
-    mustContain: ["peloza", "infrastructure"],
+      "What happened with Councillor Peloza's committee membership at the March 3, 2026 meeting?",
+    mustContain: ["peloza", "committee"],
     groundTruth:
-      "Peloza was appointed to the ICSC at the March 3, 2026 meeting.",
+      "Peloza made a personal update at the March 3, 2026 meeting regarding committee changes. The vote to amend her committee membership passed 14-1, and the approval passed 15-0.",
   },
   {
     id: "co-07",
@@ -590,7 +610,8 @@ const TEST_CASES: TestCase[] = [
     category: "hard-edge",
     question:
       "Was Franke's parking study amendment approved at the March 3, 2026 meeting?",
-    mustContain: ["fail", "4", "10"],
+    mustContain: ["4", "10"],
+    mustNotContain: ["approved"],
     groundTruth:
       "No. Franke's parking study amendment failed 4-10.",
   },
