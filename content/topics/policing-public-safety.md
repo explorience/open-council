@@ -2,8 +2,6 @@
 title: "Policing & Public Safety"
 ---
 
-# Policing & Public Safety
-
 London Police Service, police budget, public safety initiatives, enforcement, and the integrity commissioner.
 
 [View all Policing & Public Safety votes in the Vote Explorer →](/votes?topic=Policing%20%26%20Public%20Safety)

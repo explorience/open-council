@@ -2,8 +2,6 @@
 title: "Neighbourhoods"
 ---
 
-# Neighbourhoods
-
 Neighbourhood connectivity plans, community improvement areas, ward-level decisions, and local initiatives.
 
 [View all Neighbourhoods votes in the Vote Explorer →](/votes?topic=Neighbourhoods)

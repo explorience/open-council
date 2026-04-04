@@ -2,8 +2,6 @@
 title: "Development & Zoning"
 ---
 
-# Development & Zoning
-
 Official plan amendments, rezoning, building heights, urban growth boundary, site plans, and intensification.
 
 [View all Development & Zoning votes in the Vote Explorer →](/votes?topic=Development%20%26%20Zoning)

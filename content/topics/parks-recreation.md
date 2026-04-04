@@ -2,8 +2,6 @@
 title: "Parks & Recreation"
 ---
 
-# Parks & Recreation
-
 Parks, playgrounds, trails, community centres, arenas, aquatics, and sports fields.
 
 [View all Parks & Recreation votes in the Vote Explorer →](/votes?topic=Parks%20%26%20Recreation)

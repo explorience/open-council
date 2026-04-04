@@ -2,8 +2,6 @@
 title: "Education & Libraries"
 ---
 
-# Education & Libraries
-
 School board matters, library services, student transit passes, and education-related council decisions.
 
 [View all Education & Libraries votes in the Vote Explorer →](/votes?topic=Education%20%26%20Libraries)

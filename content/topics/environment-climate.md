@@ -2,8 +2,6 @@
 title: "Environment & Climate"
 ---
 
-# Environment & Climate
-
 Climate action, tree protection, conservation, emissions targets, waste diversion, and natural heritage.
 
 [View all Environment & Climate votes in the Vote Explorer →](/votes?topic=Environment%20%26%20Climate)

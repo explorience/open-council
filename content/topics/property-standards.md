@@ -2,8 +2,6 @@
 title: "Property Standards & Yard Maintenance"
 ---
 
-# Property Standards & Yard Maintenance
-
 Yard maintenance bylaws, property standards enforcement, boulevard maintenance, and weed control.
 
 [View all Property Standards & Yard Maintenance votes in the Vote Explorer →](/votes?topic=Property%20Standards%20%26%20Yard%20Maintenance)

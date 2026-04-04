@@ -2,8 +2,6 @@
 title: "Heritage"
 ---
 
-# Heritage
-
 Heritage designations, cultural heritage conservation, heritage register, and heritage impact assessments.
 
 [View all Heritage votes in the Vote Explorer →](/votes?topic=Heritage)
