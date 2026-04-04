@@ -57,7 +57,7 @@ const CURRENT_TERM = ["2022", "2023", "2024", "2025", "2026"]
 async function loadYearData(year: string): Promise<Motion[]> {
   if (loadedYears.has(year)) return []
   try {
-    const resp = await fetch(`/votes/votes-${year}.json`)
+    const resp = await fetch(`/static/votes/votes-${year}.json`)
     if (!resp.ok) return []
     const data: Motion[] = await resp.json()
     loadedYears.add(year)
@@ -221,7 +221,7 @@ async function init(): Promise<void> {
 
   try {
     // Load index
-    const indexResp = await fetch("/votes/index.json")
+    const indexResp = await fetch("/static/votes/index.json")
     yearIndex = await indexResp.json()
 
     // Load current term by default
