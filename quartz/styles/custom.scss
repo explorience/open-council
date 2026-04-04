@@ -4,3 +4,6 @@
 
 // Import homepage styles
 @use "../components/styles/homepage.scss";
+
+/* Hide folder listing on topics index */
+.hide-folder-listing .page-listing { display: none; }
