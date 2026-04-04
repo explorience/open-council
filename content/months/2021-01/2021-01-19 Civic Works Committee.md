@@ -22,7 +22,6 @@ January 19, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -49,7 +48,6 @@ That Councillor S. Turner BE ELECTED Vice-Chair of the Civic Works Committee for
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -246,7 +244,6 @@ e)     the funding for this purchase BE APPROVED as set out in the Source of 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Street Renaming Portion of Darlington Place (Plan 33M-773)
 
@@ -311,7 +308,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Implementing Speed Bumps on Aldersbrook Gate - A. Mercer
 
@@ -336,7 +332,6 @@ That the communication from A. Mercer, dated December 29, 2020, related to Imple
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -360,7 +355,6 @@ That the Civic Works Committee Deferred Matters List, as at January 7, 2021, BE 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:44 PM.
 

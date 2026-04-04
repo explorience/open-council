@@ -17,19 +17,15 @@ November 4, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor C. Rahman discloses a pecuniary interest in item 4.1, clause 6.1 of the Confidential 16th Report of the Infrastructure and Corporate Services Committee having to do with Property Acquisition, 580 Wellington Road, Wellington Gateway Project by indicating that her spouse has an employment relationship with St. Joseph’s Health Care London.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Franke
 
@@ -99,7 +95,6 @@ At 1:16 PM, Councillor P. Van Meerbergen enters the meeting.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;16th Meeting held on October 14, 2025
 
@@ -134,7 +129,6 @@ That the Minutes of the 16th Meeting of the Municipal Council, held on October 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Hillier
 
@@ -181,11 +175,9 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Co
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;16th Report of the Infrastructure and Corporate Services Committee
 
@@ -1872,7 +1864,6 @@ it being noted that the verbal delegation from M. Horak, Chair, 2025 Council Res
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 At 4:15 PM, Councillor P. Van Meerbergen leaves the meeting.
 
@@ -1949,19 +1940,15 @@ That progress was made with respect to items 4.3, 4.4, 4.5 and 4.6 as noted on t
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Stevenson enquires with respect to progress on the 60 micro-modular shelter site. The City Manager provides a response to the Council with respect to this matter.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -2504,7 +2491,6 @@ That Third Reading and Enactment of Bill No.’s 381 to 399 BE APPROVED with the
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by D. Ferreira
 
@@ -2518,7 +2504,6 @@ The meeting adjourned at 4:33 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 381**

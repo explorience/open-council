@@ -15,10 +15,8 @@ October 29, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Belch, J. Braam, J. Clark, I. Collins, T. Copeland, B. Coxhead, J. Edward, J.M. Fleming, B. George, K. Graham, A. Hagan, M. Hayward, J. Kobarda, B. Kritchker, J. Lajoie, D. Lazenby, L. Livingstone, J. Lucas, V. McAlea Major, L. Palarchio, M. Ribera, J. Senese, E. Soldo, C. Saunders, J. Saunders, J. Stanford, A. Weeden, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Budget
   Development Process and Community Engagement Plan
 
 Recommendation:  
@@ -41,7 +39,6 @@ b)           
   Corporate Services and City Treasurer, Chief Financial Officer with respect
   to this matter.
 
-# 3.&nbsp;&nbsp;&nbsp;Tabling of the 2013
   Water and Wastewater and Treatment Budgets
 
 Recommendation:  That, on the
@@ -63,7 +60,6 @@ it being noted that the Managing Director,
   Engineering and City Engineer gave a verbal overview with respect to this
   matter.
 
-# 4.&nbsp;&nbsp;&nbsp;Rationale for
   Continuing the Service Delivery Review Process
 
 Recommendation: That the presentation by
@@ -71,7 +67,6 @@ Recommendation: That the presentation by
   process BE DEFERRED until a future meeting of the Strategic Priorities
   and Policy Committee.
 
-# 5.&nbsp;&nbsp;&nbsp;Service London
   Implementation Plan
 
 Recommendation:  That further consideration
@@ -84,7 +79,6 @@ Recommendation:  That further consideration
   Director of Neighbourhood, Children’s and Fire Services with respect to this
   matter.
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Eldon
   House Board of Directors
 
 Recommendation: 
@@ -95,7 +89,6 @@ Recommendation: 
 John Richard Lisowski (background in
        and experience with law)
 
-# 7.&nbsp;&nbsp;&nbsp;Standing Committee
   Appointments
 
 (See Confidential Appendix to the 15th

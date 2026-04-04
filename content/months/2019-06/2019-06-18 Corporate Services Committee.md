@@ -17,11 +17,9 @@ June 18, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -258,7 +256,6 @@ That a delegation from N. Finlayson BE APPROVED to be heard at this time.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 12:30 PM - Council Procedure By-law
 
@@ -325,15 +322,12 @@ Motion to close the Public Participation Meeting related to the Council Procedur
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Helmer
 
@@ -372,7 +366,6 @@ The Corporate Services Committee convened In Closed Session from 1:00 PM to 2:11
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:12 PM.
 

@@ -33,7 +33,6 @@ February 8, 2022, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -45,7 +44,6 @@ a) Councillor S. Lehman discloses a pecuniary interest in clause 4.1 having to d
 
 b) Councillor P. Van Meerbergen discloses a pecuniary interest in clause 4.9 having to do with the 7th Report of the Governance Working Group and specifically the Childcare Advisory Committee being dissolved, by indicating that his wife owns/operates a childcare business.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Anonymized Application Review for the London Community Grants Program
 
@@ -78,11 +76,9 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Strategy to Reduce Core Area Vacancy - Business Case: Core Area Pilot Program
 
@@ -600,7 +596,6 @@ That the Governance Working Group BE REQUESTED to discuss and report back to the
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Audit and Accountability Fund - Intake 3 - Transfer Payment Agreement and Single Source Contract Award
 
@@ -665,7 +660,6 @@ c)    the Civic Administration BE AUTHORIZED to undertake all administrative a
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Lehman
 
@@ -704,7 +698,6 @@ The Strategic Priorities convenes, In Closed Session, from 8:52 PM to 8:57 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lehman
 

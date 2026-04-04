@@ -12,31 +12,26 @@ July 23, 2013, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, W.J. Armstrong, J.L. Baechler, G. Barrett, P. Christiaans, M. Corby, J.M. Fleming, B. Henry, M. Johnson, P. Kokkoros, G. Kotsifas, B. Krichker, L. Mottram, A. MacLean, C. Saunders, R. Sharpe, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Agricultural Advisory Committee from its meeting held on June 19, 2013 BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;6th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 6th Report of the
   Trees and Forests Advisory Committee from its meeting held on June 26, 2013
   BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;7th Report of the
   Environmental and Ecological Planning and Advisory Committee
 
 Recommendation:  That the 7th Report of the
   Environmental and Ecological Planning Advisory Committee from its meeting
   held on June 20, 2013 BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 412-416 and 420-424 Rectory Street and 814-826 King Street (H-8137)
 
 Recommendation:  That, on the
@@ -50,7 +45,6 @@ Recommendation:  That, on the
   (h-147*RF(2)) Zone TO a Regional Facility Special Provision (RF(2)) Zone to
   remove the holding provision. (2013-D14B)
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 3592-3614 Isaac Court and 6951-6973 Clayton Walk (H-8175)
 
 Recommendation:  That, on the
@@ -63,7 +57,6 @@ Recommendation:  That, on the
   of the subject lands FROM a Holding Residential R1 (h.R1-8) Zone TO a
   Residential R1 (R1-8) Zone to remove the “h”, holding provision. (2013-D14B)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1550 Highbury Avenue North (H-8193)
 
 Recommendation:  That, on the
@@ -78,7 +71,6 @@ Recommendation:  That, on the
   TO a Highway Service Commercial/ Restricted Service Commercial
   (HS/HS2/HS3/RSC1/RSC3/RSC4) Zone to remove the “h” holding provision.  (2013-D14B)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   537 Crestwood Drive (H-8147)
 
 Recommendation:  That, on the
@@ -91,7 +83,6 @@ Recommendation:  That, on the
   R6 Special Provision (h-145.h-146.R6-2(13)) Zone TO a Residential R6 Special
   Provision (R6-2(13)) Zone to remove the h-145 and h-146 holding provisions.  (2013-D14B)
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 365 and 385 Sugar Creek Trail (H-8179)
 
 Recommendation:  That, on the
@@ -105,7 +96,6 @@ Recommendation:  That, on the
   (h-1*h-18*R5-2*B11) Zone TO a Residential R5 Bonus (R5-2*B11) Zone to remove
   the “h-1” and “h-18” holding provisions. (2013-D14B)
 
-# 10.&nbsp;&nbsp;&nbsp;Ballymote Woods
   Subdivision (Lots 88 and 89 in Plan 33M-631 and Lots 1-12 in Plan 33M-632)
   (P-8205)
 
@@ -133,7 +123,6 @@ b)         the
   applicant BE ADVISED that the cost of registration of this by-law is to be
   borne by the applicant in accordance with City policy.   (2013-D12)
 
-# 11.&nbsp;&nbsp;&nbsp;Greengate Village
   Limited re Asima Drive (Lots 60 to 73 and Lots 113 and 114 Plan 33M-533)
   (P-8199)
 
@@ -237,7 +226,6 @@ d)         the applicant BE ADVISED that
   the cost of registration of this by-law is to be borne by the applicant in
   accordance with City policy.   (2013-D12)
 
-# 12.&nbsp;&nbsp;&nbsp;Sunningdale Meadows
   Subdivision (39T-10502)
 
 Recommendation:  That, on the
@@ -268,7 +256,6 @@ c)         the
   Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any
   amending agreements and all documents required to fulfill its conditions.   (2013-D12)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   655 Tennent Avenue Subdivision (39T-13501)
 
 Recommendation:  That, on the
@@ -300,13 +287,11 @@ d)         the
   Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any
   amending agreements and all documents required to fulfill its conditions.   (2013-D12)
 
-# 14.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for May 2013
 
 Recommendation:  That the Building Division
   Monthly Report for May 2013 BE RECEIVED.   (2013-P06)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   2825 Tokala Trail (OZ-8115)
 
 Recommendation:  That, on the
@@ -319,7 +304,6 @@ Recommendation:  That, on the
   reviewed its decision relating to this matter and sees no reason to alter it.
   (2013-D14A)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 275-277 Piccadilly Street (Z-8132)
 
 Recommendation:  That, on the
@@ -331,7 +315,6 @@ Recommendation:  That, on the
   Council has reviewed its decision relating to this matter and sees no reason
   to alter it. (2013-D14A)
 
-# 17.&nbsp;&nbsp;&nbsp;Various Streets
   Listed in Section 4.21 of the Z-1. Zoning By-law  (Z-8142)
 
 Recommendation:  That, on the
@@ -343,7 +326,6 @@ Recommendation:  That, on the
   Ontario Municipal Board BE ADVISED that the Municipal Council has reviewed
   its decision relating to this matter and sees no reason to alter it.  (2013-D14A)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   1761 Wonderland Road North (O-8131/OZ-7825)
 
 Recommendation:  That, on the
@@ -356,7 +338,6 @@ Recommendation:  That, on the
   Council decision relating to the property located at 1761 Wonderland Road North
   BE RECEIVED. (2013-D14A)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   754 Maitland Street (Z-8065)
 
 Recommendation:  That, on the
@@ -366,7 +347,6 @@ Recommendation:  That, on the
   for an amendment to the Zoning By-law No. Z.-1, which was refused by the Municipal
   Council concerning the property located at 754 Maitland Street BE RECEIVED.  (2013-D14A)
 
-# 20.&nbsp;&nbsp;&nbsp;London Psychiatric
   Hospital Secondary Plan (O-7668)
 
 Recommendation:  That, on the
@@ -380,7 +360,6 @@ Recommendation:  That, on the
   east of 850 Highbury Avenue North and bounded by the Canadian Pacific and
   Canadian National Railways, BE RECEIVED.   (2013-D08)
 
-# 21.&nbsp;&nbsp;&nbsp;7th and 8th Reports
   of the London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -464,7 +443,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from W. Kinghorn, Chair,
   LACH, with respect to these matters.
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   1615 North Routledge Park (Z-8166)
 
 Recommendation:  That, on the
@@ -492,7 +470,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.   (2013-D14A)
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   36 Blackfriars Street - Request For Delegation Status
 
 Recommendation:  That C. Wilson, 36
@@ -501,7 +478,6 @@ Recommendation:  That C. Wilson, 36
   Heritage Conservation District study for the Petersville/Blackfriars area and
   there may be programs available once the HCD is completed.  (2013-D19)
 
-# 24.&nbsp;&nbsp;&nbsp;Riverbend South
   Secondary Plan Terms of Reference
 
 Recommendation:  That, on the
@@ -519,7 +495,6 @@ it being pointed
   Zunti, Sifton Properties Limited, applicant – expressing support for the
   Terms of Reference.  (2013-D08)
 
-# 25.&nbsp;&nbsp;&nbsp;Properties located
   at 754 and 764 Waterloo Street and 354 Oxford Street East (OZ-8121)
 
 Recommendation:  That, on the
@@ -1006,7 +981,6 @@ it
   welcomes international companies into London any day.  (see attached
   photographs)  (2013-D14A)
 
-# 26.&nbsp;&nbsp;&nbsp;Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
 Recommendation:  That, the following
@@ -1512,7 +1486,6 @@ it
   to expand the urban growth boundary and he does not think that that has gone
   any further than what the Planning staff have said that there is not.   (2013-D08)
 
-# 27.&nbsp;&nbsp;&nbsp;Council Committee
   Recommendations Source Identification
 
 Recommendation:  That the communication
@@ -1520,7 +1493,6 @@ Recommendation:  That the communication
   Committee recommendations source identification BE REFERRED to the Civic
   Administration for consideration.   (2013-C03C)
 
-# 28.&nbsp;&nbsp;&nbsp;Property located at
   13 Blackfriars Street - Request For Delegation Status
 
 Recommendation:  That B. Storonianski, 13

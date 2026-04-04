@@ -18,7 +18,6 @@ April 15, 2014, at  4:03 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor M. Brown disclosed a pecuniary
@@ -82,19 +81,13 @@ Councillor S.E. White discloses a pecuniary
   it relates to discussions about children under the care of the Children’s Aid
   Society, by indicating that the Children’s Aid Society is her employer.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Service London Update
 
-# 3.&nbsp;&nbsp;&nbsp;ReThink London - Update
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -132,7 +125,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Ombudsman Investigation
 
 > Moved by Councillor D. Brown
 
@@ -594,9 +586,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TENTH MEETING HELD ON APRIL 1, 2014
 
 > Moved by Councillor D. Brown
@@ -632,13 +622,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.P. Bryant
 
@@ -646,26 +633,19 @@ Approve clauses 1 to 11, inclusive.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Industrial Land Development Strategy Update
   (City Manager)
 
-# 5.&nbsp;&nbsp;&nbsp;2014 Development Charges – Covering Report
   and Draft DC Rate By-law
 
-# 6.&nbsp;&nbsp;&nbsp;Request for Delegation Status at the May 5,
   2014 Strategic Priorities and Policy Committee Meeting re London &
   Middlesex Housing Corporation (LMHC Annual General Meeting)
 
-# 7.&nbsp;&nbsp;&nbsp;Request for Delegation Status at the May 5,
   2014 Strategic Priorities and Policy Committee Meeting re London Hydro (LHI)
   Annual General Meeting
 
-# 8.&nbsp;&nbsp;&nbsp;London Hydro By-law Request for VISA
   Payments
 
-# 9.&nbsp;&nbsp;&nbsp;London Hydro Public Consultation
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of the
   Council Housing Leadership Committee
 
 That, on the recommendation of the Council
@@ -726,7 +706,6 @@ iii)           
  
 c)   clause 3 BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Public Submission -
   Business License - Late Payment Fee
 
 That the following actions be taken with respect
@@ -762,7 +741,6 @@ Approve clauses 1 and 3.
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   313 Clarke Road (OZ-8300)
 
 That, the application of St. Leonard’s
@@ -802,7 +780,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.   (2014-D14)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   1836 Richmond Street (Z-8229)
 
 That, on the recommendation of the Managing
@@ -985,7 +962,6 @@ Approve clauses 1 to 12, excluding clause 10.
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Strategies for
   Reducing Bird Deaths as a Result of High-Rise Developments
 
 That the communication, dated April 8,
@@ -993,22 +969,17 @@ That the communication, dated April 8,
   for consideration and to report back at a future meeting of the Planning and
   Environment Committee.   (2014-P14)
 
-# 16.&nbsp;&nbsp;&nbsp;Request to start
   the April 29, 2014 Planning and Environment Committee meeting at 5:30 PM
 
 That, notwithstanding Section 24.11 of the
   Council Procedure By-law, the April 29, 2014 meeting of the Planning and Environment
   Committee commence at 5:30 PM.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1412,7 +1383,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

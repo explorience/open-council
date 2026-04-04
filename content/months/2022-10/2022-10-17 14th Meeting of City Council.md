@@ -17,19 +17,15 @@ October 17, 2022, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following Members were in remote attendance, Councillors M. van Holst, M. Salih, J. Helmer and P. Van Meerbergen
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Hillier discloses a pecuniary interest in item 6 of the 11th Report of the Community and Protective Services Committee Report, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family hosts a five day event.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Hillier
 
@@ -94,7 +90,6 @@ At 4:36 PM, Council resumes in public session, with all members in attendance.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;13th Meeting held on September 27, 2022
 
@@ -128,7 +123,6 @@ That the Minutes of the 13th Meeting held on September 27, 2022, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Hillier
 
@@ -178,11 +172,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;13th Report of the Civic Works Committee
 
@@ -1477,7 +1469,6 @@ it being noted that the Striking Committee will proceed with the above-noted mem
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;13th Report of Council in Closed Session
 
@@ -1521,15 +1512,12 @@ That the 13th Report of the Council in Closed Session BE APPROVED, as follows:
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor P. Van Meerbergen enquires with respect to groups of homeless individuals relocating to London, in an organized manner.  The Deputy City Manager, Social and Health Development responds by indicating that narrative is difficult to substantiate.  Councillor P. Van Meerbergen further enquires with respect to potential actions that the City may be able to take to mitigate any substantiated claims.  The Deputy City Manager, Social and Health Development indicates that in event of any such actions, the City would look to re-establish individuals with their home municipality.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Hillier
 
@@ -1615,7 +1603,6 @@ That third reading and enactment of Bill No.'s 361 to the revised Bill No. 381, 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Turner
 
@@ -1629,7 +1616,6 @@ The meeting adjourned at 6:10 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 361**

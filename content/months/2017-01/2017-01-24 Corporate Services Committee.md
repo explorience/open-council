@@ -12,7 +12,6 @@ January 24, 2017, at 12:01 PM
 > [!abstract]- Also Present:
 > P. Squire, M. van Holst; A. Zuidema, A.L. Barbon, D. Bordin, S. Corman, B. Coxhead, K. Graham, M. Hayward, J. Klingenberger, V. McAlea Major, D. Mounteer, M. Ribera, A. Ripepi, J. Rodrigues, C. Saunders, E. Soldo, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor J. Morgan
   the expropriation of land for the widening of Western Road, by indicating
   that he is employed by Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Ranked Ballot Election Model
 
 That the City Clerk BE DIRECTED to begin
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Municipal Election Campaign Contribution Rebate By-law
 
 That NO ACTION BE TAKEN to proceed with a
@@ -67,7 +64,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Cedarpark Crescent
 
 That, on the recommendation of the Managing
@@ -100,7 +96,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Lilac Avenue
 
 That, on the recommendation of the Managing
@@ -133,7 +128,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Isaac Drive
 
 That, on the recommendation of the Managing
@@ -166,7 +160,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Authorization for Temporary Borrowing
 
 That, on the recommendation of the Managing
@@ -193,7 +186,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Transportation Advisory Committee Amendment to Terms of Reference
 
 That, on the recommendation of the City
@@ -219,7 +211,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Expropriation of Land - Western Road Widening and Improvements Project TS
   1489-1
 
@@ -271,7 +262,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Ontario Good Roads Association Campaign Expenses
 
 That the communication dated January 24,
@@ -295,7 +285,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for Designation of the Colombia Gastronomy Festival as a Municipally Significant
   Event
 
@@ -321,7 +310,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION
   - Change in Representation on the London Advisory Committee on
   Heritage
 
@@ -342,7 +330,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Funding Unclosed Projects
 
 That the Managing Director, Corporate
@@ -369,7 +356,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Federation of Canadian Municipalities (FCM) Board of Directors
 
 That Councillor H.L. Usher BE AUTHORIZED to
@@ -395,7 +381,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee
@@ -418,7 +403,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Review of City of London Ward Boundaries
 
 That, on the recommendation of the City
@@ -445,7 +429,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;ADDED – Enquiry – Councillor P. Hubert –
   “No-cut” Employment Agreements
 
 That it BE NOTED that Councillor P. Hubert requested

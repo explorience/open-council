@@ -17,11 +17,9 @@ May 26, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -285,11 +283,9 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2025 Council Policy Review
 
@@ -674,7 +670,6 @@ That the Civic Administration BE DIRECTED to prepare an information report summa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
 
@@ -734,7 +729,6 @@ b)    Civic Administration BE REQUESTED to prepare a new rendering that addres
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by J. Pribil
 
@@ -758,7 +752,6 @@ The Infrastructure and Corporate Services Committee convenes In Closed session f
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

@@ -12,13 +12,11 @@ October 6, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Hopkins, M. Salih, P. Squire, J. Zaifman; J. Braam, S. Chambers, A. Drost, A. Dunbar, G. Gauld, T. Koza, J. Lucas, D. MacRae, S. Maguire, S. Mathers, R. Pedlow, J. Ramsay, M. Ribera, L. Rowe, S. Smout, E. Soldo, J. Stanford, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Cycling Advisory Committee
 
 That the 8th Report of the Cycling Advisory
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Transportation Advisory Committee
 
 That the 4th Report of the Transportation
@@ -64,7 +61,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Closing Part of
   Robin's Hill Road
 
 That, on the recommendation of the Managing
@@ -99,7 +95,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Thames River
   Experimental Stream Science Facility at Adelaide Pollution Control Plant
 
 That, on the recommendation of the Managing
@@ -134,7 +129,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Flooding Matters -
   Terms of Reference
 
 That the following actions be taken with
@@ -166,7 +160,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Dingman Creek
   Subwatershed - Stormwater Servicing Strategy – Schedule C - Municipal Class
   Environmental Assessment
 
@@ -227,7 +220,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Western Road /
   Wharncliffe Road North Widening Environmental Study Report
 
 That, on the recommendation of the Managing
@@ -268,7 +260,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Pavement Rehabilitation Appointment of Survey Consultant
 
 That, on the recommendation of the Managing
@@ -317,7 +308,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Wonderland Road
   South Two-Lane Upgrade Highway 401 to Highway 402 Appointment of Consulting
   Engineer
 
@@ -366,7 +356,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Downtown London
   Parking Utilization Study
 
 That, on the recommendation of the
@@ -391,7 +380,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Left-Turn Ban onto
   Farnham Road from Southdale Road West
 
 That the Civic Administration BE REQUESTED
@@ -417,7 +405,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Kindness Meters
 
 That the Kindness Meter Project BE APPROVED
   IN PRINCIPLE and the Civic Administration BE REQUESTED to consult with L.
@@ -465,7 +452,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Winter Maintenance
   for Un-assumed Subdivisions
 
 That, on the recommendation of the Managing
@@ -506,7 +492,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Individual
   Environmental Assessment - Long Term Solid Waste Resource Recovery and
   Disposal Plan
 
@@ -540,7 +525,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee (CWC)

@@ -17,11 +17,9 @@ June 23, 2020, at  4:00 PM
 
 The meeting is called to order at 4:08 PM; it being noted that the following were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, A. Hopkins, P. Van Meerbergen, S. Turner, A. Kayabaga, S. Hillier
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Helmer discloses a pecuniary interest in Item 2.3 - COVID-19 Financial Impacts, specific to item #10 of Table 3 - Additional Proposed Service Adjustments - having to do with the proposed closure of River Road Golf Course for the 2020 season, by indicating that his father is employed by National Golf Course Owners Association of which River Road is a member.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;COVID-19 - City of London Services
 
@@ -404,7 +402,6 @@ The Strategic Priorities and Policy Committee recesses at 6:57 PM and reconvenes
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Federal/Provincial Advocacy Efforts Related to COVID-19 - Verbal Update - City Manager
 
@@ -435,11 +432,9 @@ That it BE NOTED that the Strategic Priorities and Policy Committee heard a verb
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Community Recovery Plan
 
@@ -473,7 +468,6 @@ That the Civic Administration BE DIRECTED to develop and report back as soon as 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. Cassidy
 
@@ -489,7 +483,6 @@ At 7:45 PM, Councillor M. Salih leaves the meeting.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 7:54 PM.
 

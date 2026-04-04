@@ -15,13 +15,11 @@ February 20, 2018, at 12:30 PM
 > [!abstract]- Also Present:
 > V. Ridley, H.L. Usher; M. Hayward, A.L. Barbon, C. Bazilli, B. Card, I. Collins, S. Corman, B. Coxhead, J. Edmunds, P. Foto, R. Hicks, S. Khan, J.P. McGonigle, J. Raycroft, C. Saunders, S. Spring, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2018 Municipal
   Election Update
 
 That, on the recommendation of the City
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2018 Municipal
   Election Compliance Audit Committee
 
 That, on the recommendation of the City
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Update: Equity and
   Inclusion Lens for Development of Policies, Procedures and Programs
 
 That the following actions be taken with
@@ -131,7 +127,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Infrastructure
   Canada's Smart Cities Challenge
 
 That the following actions be taken with
@@ -165,7 +160,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -193,7 +187,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Requests for
   "Sister City" Partnerships
 
 That the following actions be taken with
@@ -245,7 +238,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Mayor’s Report on
   the FCM Trip to Washington, DC
 
 That the communication dated February 20,
@@ -268,7 +260,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Request for
   Designation of the I ♥ Beer and Bacon Event as a Municipally
   Significant Event
 
@@ -293,7 +284,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Latin Gastronomy Festival as a Municipally Significant
   Event
 
@@ -318,7 +308,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Request for
   Designation of the London Taco Fest as a Municipally Significant Event
 
 That the London Taco Fest 2018, to be held
@@ -341,7 +330,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the
   Diversity Inclusion & Anti-Oppression Advisory Committee
 
 That Matt Sereda BE APPOINTED to the
@@ -365,7 +353,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   Animal Welfare Advisory Committee
 
 That the following BE APPOINTED to the
@@ -396,7 +383,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Appointment to the
   Cycling Advisory Committee
 
 That Rose Sirois BE APPOINTED to the
@@ -421,7 +407,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee

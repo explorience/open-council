@@ -15,10 +15,8 @@ June 3, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > B. Armstrong, G. Barrett, G. Belch, C. Colvin, M. Davis, A. Dunbar, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, I. Listar, J. Lucas, A. Macpherson, T. MacBeth, J. MacKay, A. MacLean, R. Postma, C. Saunders, M. Tomazincic, B. Turcotte
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 2155 and 2253 Richmond Street (39T-04513)
 
 Recommendation:  That, on the
@@ -63,7 +61,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision (39T-09502)
 
 Recommendation:  That, on the
@@ -115,7 +112,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
 Recommendation:  That the following actions
@@ -210,7 +206,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Urban Forest
   Strategy and Implementation Plan - Keeping the Forest in the Forest City
 
 Recommendation:  That, the Urban Forest
@@ -301,7 +296,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Industrial Lands
   Community Improvement Plan and Official Plan Amendment (O-8318)
 
 Recommendation:  That, further to the
@@ -462,7 +456,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   313 Clarke Road (OZ-8300)
 
 Recommendation:  That, the application of
@@ -546,7 +539,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Chelsea Green
   Subdivision (formerly Terrace Street Subdivision) (39T-02511)
 
 Recommendation:  That, on the
@@ -628,7 +620,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Storage Units and Non-Permanent Structures
 
 Recommendation:  That the Civic
   Administration BE REQUESTED to investigate and report back to the Planning

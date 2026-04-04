@@ -20,11 +20,9 @@ September 11, 2023, at 12:00 PM
 
 The meeting is called to order at 12:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Trosow
 
@@ -188,11 +186,9 @@ b)    the proposed by-law as appended to the staff report dated September 11, 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by S. Trosow
 
@@ -277,11 +273,9 @@ That based on the application dated August 15, 2023 from Home Child Canada, Sept
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Stevenson
 
@@ -312,7 +306,6 @@ The Corporate Services Committee convenes in Closed Session from 12:15 PM to 12:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

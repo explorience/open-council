@@ -22,11 +22,9 @@ March 18, 2024, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -381,11 +379,9 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2024 Rock the Park One-Time Policy Exemption Request
 
@@ -462,7 +458,6 @@ Motion to approve part b) of the motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Reduced Parking Incentive Pilot Project
 
@@ -490,7 +485,6 @@ Motion to approve that the Civic Administration BE DIRECTED to implement a reduc
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by H. McAlister
 
@@ -516,7 +510,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:29 PM.
 ---

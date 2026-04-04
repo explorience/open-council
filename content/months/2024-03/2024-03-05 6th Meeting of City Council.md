@@ -17,19 +17,15 @@ March 5, 2024, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Franke disclosed a pecuniary interest related to Council In Closed Session, the 6th Report of Council in Closed Session, and Added Bill No. 96, by indicating that her spouse is employed by the Thames Valley District School Board.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -92,7 +88,6 @@ That Council convenes In Closed Session, from 1:23 PM to 2:16 PM.
 
 ## 4.5&nbsp;&nbsp;&nbsp;Security of Property
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Cuddy
 
@@ -127,7 +122,6 @@ That the Minutes of the 4th Meeting of the Municipal Council, held on February 1
 
 [2024-02-13 - Council Minutes](</2024-02/2024-02-13 4th Meeting of City Council>)
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Van Meerbergen
 
@@ -244,11 +238,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 [2024-03-05 - Submission (ADDED) (CPSC) - Regulation of the Display of Graphic Images - M. McCann](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107544>)
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Civic Works Committee
 
@@ -1424,7 +1416,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;6th Report of Council in Closed Session
 
@@ -1496,15 +1487,12 @@ That progress was made with respect to items 4.1, 4.4, and 4.5, as noted on the 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 > Motion made by S. Lehman
 
@@ -1587,7 +1575,6 @@ That on the recommendation of the Deputy City Manager, Finance Supports, the sta
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -1923,7 +1910,6 @@ That Third Reading and Enactment Bill No. 96 BE APPROVED.
 
 [Bill No. 94](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=107536>)
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 
@@ -1937,7 +1923,6 @@ The meeting adjourned at 5:16 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 74**

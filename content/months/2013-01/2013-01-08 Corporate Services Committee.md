@@ -15,10 +15,8 @@ January 8, 2013, at  1:00 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, D. Henderson, P. Hubert, H.L. Usher; A. Zuidema, R. Armistead, J.P. Barber, A.L. Barbon, J. Braam, B. Campbell, I. Collins, P. Foto, E. Gamble, A. Hagan, M. Hayward, M. Henderson, G.T. Hopcroft, J. Kobarda, V. McAlea Major, S. Miller, L. Palarchio, R. Paynter, A. Ripepi, C. Saunders, E. Soldo, J. Stanford, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London Days
   - Budweiser Gardens
 
 Recommendation:  That, on the
@@ -29,7 +27,6 @@ Recommendation:  That, on the
   Lunch Event featuring local restaurants on June 10, 2013 BE APPROVED
   as a City of London Day at the Budweiser Gardens.
 
-# 3.&nbsp;&nbsp;&nbsp;Tender 12-101 -
   Supply and Delivery of a Cab and Chassis with Combination Sewer Cleaner and
   Hydro Excavation Unit
 
@@ -56,7 +53,6 @@ d)         approvals
   formal contract or issuing a purchase order relating to the subject matter of
   this approval.
 
-# 4.&nbsp;&nbsp;&nbsp;Property Acquisition
   - Portion
   of 600 - 650 Industrial Road - Pottersburg Creek
 
@@ -98,7 +94,6 @@ c)         the
   authorize the Mayor and the City Clerk to execute the Agreement of Purchase
   and Sale and Grant of Easement agreement.
 
-# 5.&nbsp;&nbsp;&nbsp;Declaration of
   Surplus Land and Land Exchange with Sifton Properties Limited - Riverbend
   Road
 
@@ -155,7 +150,6 @@ it being noted that the land exchange
   permits development of four additional houses, with an increase in the City’s
   assessment base.
 
-# 6.&nbsp;&nbsp;&nbsp;Reporting of
   Statements of Claim
 
 Recommendation:  That, on the
@@ -163,7 +157,6 @@ Recommendation:  That, on the
   2013 regarding the reporting of statements of claim BE RECEIVED for
   information.
 
-# 7.&nbsp;&nbsp;&nbsp;Procurement of
   Goods and Services Policy Revision
 
 Recommendation:  That, on the
@@ -174,7 +167,6 @@ Recommendation:  That, on the
   being the Procurement of Goods and Services Policy, to add a new section 2.14
   for compliance with the new AODA requirements starting January 1, 2013.
 
-# 8.&nbsp;&nbsp;&nbsp;No. 1 Fire Station
   - Interior Alterations - Project No. PP1176-11 Tender No. 12-102
 
 Recommendation:  That consideration of
@@ -182,7 +174,6 @@ Recommendation:  That consideration of
   Alterations – Project No. PP1176-11 BE REFERRED to the 2013 Budget
   deliberations.
 
-# 9.&nbsp;&nbsp;&nbsp;London Bid for
   Federation of Canadian Municipalities (FCM) 2015 Sustainable Communities
   Conference and Trade Show
 
@@ -192,7 +183,6 @@ Recommendation:  That, on the
   London to host the Federation of Canadian Municipalities 2015 Sustainable
   Communities Conference and Trade Show.
 
-# 10.&nbsp;&nbsp;&nbsp;OMERS Pension
   Contribution Increases
 
 Recommendation:  That the communication
@@ -201,7 +191,6 @@ Recommendation:  That the communication
   presentation from M. Robinson and J. Pierce, OMERS, BE RECEIVED for
   information.
 
-# 11.&nbsp;&nbsp;&nbsp;Welcoming the World
   to London Campaign
 
 Recommendation:  That, on the
@@ -215,7 +204,6 @@ Recommendation:  That, on the
   the attached presentation from the Director of Corporate
   Communications with respect to this matter.
 
-# 12.&nbsp;&nbsp;&nbsp;Federation of
   Canadian Municipalities Board of Directors Meeting - Ottawa, November 20-23,
   2012
 
@@ -225,7 +213,6 @@ Recommendation:  That the
   Board of Directors meeting held on November 20-23, 2012 in Ottawa, Ontario BE
   RECEIVED.
 
-# 13.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status at the Corporate Services Committee re Post-Secondary
   Students Becoming More Involved in Municipal Government
 
@@ -249,14 +236,12 @@ b)           
   representatives, to appear as a delegation at the meeting which the report
   requested in a), above, is before the Corporate Services Committee.
 
-# 14.&nbsp;&nbsp;&nbsp;Reserve Expenditure
 
 Recommendation:  That the Covent
   Garden Market BE AUTHORIZED to increase the draw down on its reserve to
   $67,000 in order to replace the existing lighting in the underground parking
   at the Covent Garden Market.
 
-# 15.&nbsp;&nbsp;&nbsp;Resignation from
   the Trees and Forests Advisory Committee
 
 Recommendation:  That the communication from Craig Neilans, resigning his
@@ -264,7 +249,6 @@ Recommendation:  That the communication from Craig Neilans, resigning his
   Mr. Neilans BE THANKED for participating on the Trees and Forests
   Advisory Committee.
 
-# 16.&nbsp;&nbsp;&nbsp;Resignation from
   the Accessibility Advisory Committee
 
 Recommendation:  That the communication dated November 22, 2012 from
@@ -272,7 +256,6 @@ Recommendation:  That the communication dated November 22, 2012 from
   Advisory Committee, BE ACCEPTED and Ms. Badeski BE THANKED for
   participating on the Accessibility Advisory Committee.
 
-# 17.&nbsp;&nbsp;&nbsp;Resignation from
   the Accessibility Advisory Committee
 
 Recommendation:  That the communication dated November 28, 2012 from David
@@ -280,7 +263,6 @@ Recommendation:  That the communication dated November 28, 2012 from David
   Committee, BE ACCEPTED and Mr. Woods BE THANKED for
   participating on the Accessibility Advisory Committee.
 
-# 18.&nbsp;&nbsp;&nbsp;Resignation from
   the London Housing Advisory Committee
 
 Recommendation:  That
@@ -289,7 +271,6 @@ Recommendation:  That
   Butler BE THANKED for participating on the London Housing Advisory
   Committee.
 
-# 19.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the following individual
@@ -302,7 +283,6 @@ Voting:
 Sandra Cruz - London District Catholic
        School Council
 
-# 20.&nbsp;&nbsp;&nbsp;Roof Lease
   Agreement for Employing Solar PV Systems on City of London's Municipal
   Buildings and Properties
 
@@ -322,7 +302,6 @@ a)         approve
 b)         authorize
   the Mayor and City Clerk to execute the agreement in (i) above.  (See Report attached.)
 
-# 21.&nbsp;&nbsp;&nbsp;2013 World Figure Skating Championships
 
 Recommendation:  That the Civic
   Administration BE ADVISED that it is the Municipal Council’s
@@ -333,7 +312,6 @@ Recommendation:  That the Civic
   make certain administrative/operational decisions which might otherwise have
   been vetted through the Municipal Council.
 
-# 22.&nbsp;&nbsp;&nbsp;Advancements in Lighting Technology
 
 Recommendation:  That the Civic
   Administration BE REQUESTED to report back to the Civic Works

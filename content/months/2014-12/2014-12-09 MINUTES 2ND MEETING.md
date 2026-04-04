@@ -15,7 +15,6 @@ December 9, 2014, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Morgan discloses a pecuniary
@@ -39,15 +38,11 @@ Mayor M. Brown discloses a pecuniary
   Improvement Association by indicating that one of the individuals recently
   assisted him with the purchase of a family vehicle.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -81,7 +76,6 @@ e)         Councillor
   do with the appointment of a Deputy Mayor selected by the Mayor, by
   indicating that he is the subject of the decision.
 
-# 2.&nbsp;&nbsp;&nbsp;Deputy Mayor Policy
 
 That the following actions be taken
   regarding a Deputy Mayor Policy:
@@ -131,7 +125,6 @@ f)         the
   City Clerk BE DIRECTED to bring forward the necessary by-law to confirm the
   Municipal Council’s selection of Councillor M. Cassidy as Deputy Mayor.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING AND THE FIRST MEETING
   HELD ON NOVEMBER 25, 2014 AND DECEMBER 1, 2014, RESPECTIVELY
 
@@ -170,7 +163,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor H.L. Usher
@@ -212,10 +204,8 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor B. Armstrong
 
@@ -223,7 +213,6 @@ Approve clauses 1 to 3
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Tabling of the 2015
   Draft Budgets
 
 That the following actions be taken with
@@ -250,7 +239,6 @@ it being noted that the Strategic
   Director, Environmental and Engineering Services & City Engineer, with
   respect to the above-noted Draft Budgets.
 
-# 4.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Amendments to Council Procedure By-law
 
 That, on the recommendation of the City
@@ -273,7 +261,6 @@ c)         reallocate
   Strategic Priorities and Policy Committee (SPPC), pending the outcome of the
   review of the IEPC as recommended by KPMG LLP.
 
-# 5.&nbsp;&nbsp;&nbsp;Investment and
   Economic Prosperity Committee
 
 That the following actions be taken with
@@ -304,7 +291,6 @@ d)         the
   continue to be the City of London’s representative on the Governing Council
   BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Civic Works Committee
 
 Recommendation:  That the membership of the
@@ -317,7 +303,6 @@ Councillor T. Park
 Councillor V. Ridley
 Councillor J. Helmer
 
-# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Community and Protective Services Committee
 
 That the membership for the Community and
@@ -329,7 +314,6 @@ Councillor T. Park
 Councillor V. Ridley
 Councillor M. Salih
 
-# 8.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Corporate Services Committee
 
 That the membership of the Corporate
@@ -344,7 +328,6 @@ Councillor J. Morgan
 Councillor J. Zaifman
 Councillor H.L. Usher
 
-# 9.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Planning and Environment Committee
 
 That the membership of the Planning and
@@ -357,7 +340,6 @@ Councillor J. Helmer
 Councillor P. Squire
 Councillor S. Turner
 
-# 11.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Audit Committee
 
 That the following BE APPOINTED to the
@@ -371,7 +353,6 @@ Councillor S. Turner
 Councillor M. van Holst
 Sumeet Khullar
 
-# 14.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Covent Garden Market Corporation Board of Directors
 
 That the following BE APPOINTED to the
@@ -388,7 +369,6 @@ Firas Sefian
 Donna Szpakowski
 Matt Thomas
 
-# 15.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Dearness Home Committee of Management
 
 That the following BE APPOINTED to the
@@ -401,7 +381,6 @@ Councillor H.L. Usher
 Councillor J. Zaifman
 Councillor V. Ridley
 
-# 16.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Elgin Area Primary Water Supply System Joint Board of
   Management
 
@@ -419,7 +398,6 @@ Alternate Members:
 Councillors M. Cassidy, M. van Holst and B.
   Armstrong.
 
-# 17.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Kettle Creek Conservation Authority - 3 Year Term
 
 That the following BE APPOINTED to the
@@ -430,7 +408,6 @@ Councillor J. Zaifman
 Bill Mackie
 Ralph Winfield
 
-# 18.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Lake Huron Primary Water Supply System Joint Board of
   Management
 
@@ -448,7 +425,6 @@ Alternate Members:
 Councillors B. Armstrong, J. Morgan, J.
   Zaifman and A. Hopkins.
 
-# 20.&nbsp;&nbsp;&nbsp;London Convention
   Centre
 
 That the following actions be taken with
@@ -471,7 +447,6 @@ it being noted that the Strategic
   Priorities and Policy Committee received a communication dated October 10,
   2014 from the LCC Board of Directors, with respect to this matter.
 
-# 21.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Downtown Business Association Board of Management
 
 That Councillor T. Park BE APPOINTED to the
@@ -480,14 +455,12 @@ That Councillor T. Park BE APPOINTED to the
   will be considered at a future date, once available from the London Downtown
   Business Association.
 
-# 22.&nbsp;&nbsp;&nbsp;Consideration of Appointment
   to the London Hydro Inc. Board of Directors
 
 That Councillor M. van Holst BE APPOINTED
   to the London Hydro Inc. Board of Directors for the term December 1, 2014 to
   November 30, 2018.
 
-# 23.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Police Services Board
 
 That the following BE APPOINTED to the
@@ -497,7 +470,6 @@ That the following BE APPOINTED to the
 Councillor S. Turner
 Paul Paolatto
 
-# 24.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Public Library Board
 
 That the following actions be taken with
@@ -523,7 +495,6 @@ b)         Donna
   Vachon BE APPOINTED to the London Public Library Board at the conclusion of
   G. Leckie’s one-year term appointment.
 
-# 25.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Transit Commission
 
 That the following BE APPOINTED to the
@@ -535,7 +506,6 @@ Eric Southern
 Sheryl Rooth
 R. Dean Sheppard
 
-# 26.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Transit Commission Long Term Growth Report Working
   Group
 
@@ -549,7 +519,6 @@ Councillor P. Hubert
 Councillor M. Salih
 Councillor P. Squire
 
-# 27.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Middlesex-London Health Unit Board of Health
 
 That the following actions be taken with respect
@@ -566,13 +535,11 @@ b)         the
   Clerk BE DIRECTED to advertise for citizen applications to fill the citizen
   vacancy.
 
-# 28.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Museum London
 
 That Councillor V. Ridley BE APPOINTED to
   Museum London for the term December 1, 2014 to November 30, 2018.
 
-# 29.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Old East Village Business Improvement Area Board of
   Management
 
@@ -582,7 +549,6 @@ That Councillor J. Helmer BE APPOINTED to
   of appointments will be made at a future date, when available from the Old
   East Village Business Improvement Area.
 
-# 30.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Public Utility Commission of the City of London
 
 That the following BE APPOINTED to the
@@ -593,7 +559,6 @@ Mayor M. Brown
 Councillor P. Hubert
 Councillor J. Morgan
 
-# 31.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Tourism London Board of Directors
 
 That the following BE APPOINTED to the
@@ -603,7 +568,6 @@ That the following BE APPOINTED to the
 Councillor P. Hubert
 Councillor M. Salih
 
-# 32.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Town and Gown Committee
 
 That the following BE APPOINTED to the Town
@@ -616,7 +580,6 @@ Councillor T. Park
 Councillor M. Salih
 Councillor P. Squire
 
-# 33.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Upper Thames River Conservation Authority - 3 Year Term
 
 That the following BE APPOINTED to the
@@ -627,7 +590,6 @@ Councillor A. Hopkins
 Marie Blosh
 Sandy Levin
 
-# 35.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Western Fair Association Programming Council (Requires 2
   Council Members)
 
@@ -638,14 +600,12 @@ That the following BE APPOINTED to the
 Councillor V. Ridley
 Councillor M. Salih
 
-# 37.&nbsp;&nbsp;&nbsp;1st Report of the
   Striking Committee
 
 That the 1st Report of the Striking
   Committee from its meetings held on November 27, 2014 and December 5, 2014 BE
   RECEIVED.
 
-# 38.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Committee of Adjustment
 
 That the following BE APPOINTED to the
@@ -657,14 +617,12 @@ Shawn Lewis
 Maria Mendes
 Jeffrey Preston
 
-# 39.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Committee of Revision/Court of Revision
 
 That the City Clerk BE INSTRUCTED to re-advertise
   for applications for appointment to the Committee of Revision/Court of
   Revision for the term December 1, 2014 to November 30, 2018.
 
-# 40.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to Eldon House
 
 That the following BE APPOINTED to Eldon
@@ -680,35 +638,30 @@ Theresa Regnier
 Maureen Spencer Golovchenko
 Mark Tovey
 
-# 41.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London and Middlesex Heritage Museum Board of Directors
 
 That Mike Harris BE APPOINTED to the London
   and Middlesex Heritage Museum Board of Directors for the term December 1,
   2014 to November 30, 2018.
 
-# 42.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Council for Adult Education
 
 That Carmelita Tang BE APPOINTED to the
   Council for Adult Education for the term December 1, 2014 to November 30,
   2018.
 
-# 43.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Lower Thames Valley Conservation Authority - 3 Year Term
 
 That Stanley Caveney BE APPOINTED to the
   Lower Thames Valley Conservation Authority for the term December 1, 2014 to
   November 30, 2017.
 
-# 44.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Plumbers' and Drain Layers' Examining Board
 
 That the City Clerk BE INSTRUCTED to
   re-advertise for applications for appointment to the Plumbers' and Drain
   Layers' Examining Board for the term December 1, 2014 to November 30, 2018.
 
-# 45.&nbsp;&nbsp;&nbsp;Consideration of Appointment to the
   Plumbers' and Drain Layers' Examining Board
 
 That the Mayor BE REQUESTED to direct
@@ -742,7 +695,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Argyle Business
     Improvement Association
 
 Motion Passed
@@ -769,7 +721,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Consideration of
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
@@ -960,7 +911,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Consideration of
     Appointment to the City of London and London District Catholic School Board
     Liaison Committee
 
@@ -988,7 +938,6 @@ Motion Passed
 
 ****
 
-# 36.&nbsp;&nbsp;&nbsp;Consideration of
     Appointment to Western University Board of Governors
 
 Motion Passed
@@ -1015,7 +964,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor H.L. Usher
@@ -1055,7 +1003,6 @@ Motion Passed
 
 ****
 
-# 34.&nbsp;&nbsp;&nbsp;Consideration of Appointment to Western Fair
   Association Board of Governors
 
 > Moved by Councillor S. Turner
@@ -1124,15 +1071,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1239,7 +1182,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

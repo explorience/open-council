@@ -20,13 +20,11 @@ February 20, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -338,11 +336,9 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Street Light Local Improvements Process
 
@@ -449,7 +445,6 @@ That the matter of the Downtown OEV East-West Bikeway BE REFERRED back to the st
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -473,7 +468,6 @@ That it BE NOTED that the Deferred Matters List as amended, was received.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice / Litigation/Potential Litigation
 
@@ -519,7 +513,6 @@ The Civic Works Committee convenes, In Closed Session from 5:46 PM to 6:08 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:06 PM
 

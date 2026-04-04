@@ -17,11 +17,9 @@ January 6, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Demolition - City-Owned Properties - 74 Wellington Road and 78 Wellington Road
 
@@ -81,11 +79,9 @@ That the communications from Councillor J. Morgan regarding the Federation of Ca
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Issuance of Proclamations Policy
 
@@ -109,7 +105,6 @@ That the proposed by-law, as appended to the staff report dated January 6, 2020 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 2nd Report of the City Manager Search Committee
 
@@ -134,7 +129,6 @@ That the 2nd Report of the City Manager Search Committee, from its meeting held 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -161,7 +155,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:34 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 12:46 PM.
 

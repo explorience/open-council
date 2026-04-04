@@ -17,11 +17,9 @@ February 19, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -149,7 +147,6 @@ That the communication dated February 19, 2019, from Councillor A. Hopkins, wi
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Apportionment of Taxes
 
@@ -165,7 +162,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Grand Theatre - Municipal Accommodation Tax Funding Request
 
@@ -250,7 +246,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Consideration of Appointments to the Eldon House Board of Directors
 
@@ -290,7 +285,6 @@ Manosij (Mano) Majumdar
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Kayabaga
 
@@ -312,7 +306,6 @@ The Corporate Services Committee convenes, In Closed Session from 12:33 to 12:43
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:43 PM.
 

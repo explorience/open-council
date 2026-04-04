@@ -12,10 +12,8 @@ February 24, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, I. Collins, S. Corman, B. Coxhead, S. Datars Bere, A. Dunbar, J. Fleming, P. Foto, M. Hayward, G. Kostifas, L. Livingstone, A. Macpherson, K. Murray, D. O’Brien, L. Palarchio, J. Senese, S. Spring, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Assessment Growth
   Policy and Allocation of 2016 Assessment Growth Funding
 
 Motion Passed
@@ -39,7 +37,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2016-2019
   Multi-Year Budget - Public Participation Meeting
 
 That the delegations from the 2016-2019
@@ -127,14 +124,12 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2016-2019
   Multi-Year Budget - Urban Forest Strategy - E. Arellano
 
 That the communication dated February 8,
   2016, from Erick Arellano, Forester-Economist, regarding the 2016-2019
   Multi-Year Budget for Urban Forest Strategy BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;2016-2019
   Multi-Year Budget - Environmentally Significant Areas - A. Caveney
 
 That the communication dated February 10,

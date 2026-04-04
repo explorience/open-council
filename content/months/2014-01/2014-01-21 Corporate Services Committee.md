@@ -15,13 +15,11 @@ January 21, 2014, at  1:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, S. Corman, A. Griffiths, M. Hayward, G.T. Hopcroft, J. Jackson, J. Logan, V. McAlea Major, M. Ribera, C. Saunders, J. Stanford, M. Turner, B. Warner, B. Whitelaw
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Assessment Growth
   for 2014, Changes in Taxable Phase-In Values and Shifts in Taxation as a
   Result of Reassessment
 
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Declare Surplus –
   City-Owned Property - 575 Franklinway Gate
 
 Recommendation:  That, on the
@@ -65,7 +62,6 @@ b)         the
   market value, failing which it will be tendered for sale in accordance with
   the Sale and Other Disposition of Land Policy.
 
-# 4.&nbsp;&nbsp;&nbsp;2014 General
   Insurance Renewal
 
 Recommendation:  That, on the recommendation
@@ -93,7 +89,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Expenses - Ontario
   Ombudsman's Investigation
 
 That the following actions be taken with
@@ -127,7 +122,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;New Initiatives -
   2014 Municipal Election
 
 Recommendation:  That, on the
@@ -151,7 +145,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That Saman Raufi BE
@@ -174,7 +167,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Fanshawe College
   and Western University Representation on City of London Advisory Committees
 
 Recommendation:  That the following
@@ -236,7 +228,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Agreement
   with the Province of Ontario to Participate in the Ontario Certified Site
   Program with the Ministry of Economic Development, Trade and Employment for
   2575 Boyd Court, Innovation Park - Phase IV

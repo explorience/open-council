@@ -20,11 +20,9 @@ December 17, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that some Members advised of potential pecuniary interests that would be noted specifically throughout the 2020-2023 Multi-Year Budget consideration process.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Review of City Services for Potential Reductions and Eliminations - Downtown and Industrial Lands Community Improvement Plans (CIPs)
 
@@ -87,7 +85,6 @@ That the request for delegation status from C. Butler BE APPROVED to be heard at
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Tabling of the 2020-2023 Multi-Year Budget (Tax Supported, Water and Wastewater and Treatment)
 
@@ -245,15 +242,12 @@ d)      the attached presentation from the Chief Administrative Officer of th
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 7:26 PM.
 

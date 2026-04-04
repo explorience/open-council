@@ -12,10 +12,8 @@ January 5, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Hopkins, V. Ridley, M. Salih, M. van Holst, G. Barrett, P. Christiaans, M. Davis, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, A. MacLean, D. Menard, D. Mounteer, J. Ramsay, M. Ribera, C. Saunders, M. Tomazincic, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for November 2014
 
 Recommendation:  That the Building Division
@@ -62,7 +59,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 120 Gideon Drive (OZ-8365)
 
 Recommendation:  That, on the
@@ -107,7 +103,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   6421 Wellington Road South (Z-8424)
 
 Recommendation:  That, on the
@@ -187,7 +182,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;1st Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -341,7 +335,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -367,7 +360,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters
 
 Recommendation:  That, the attached
@@ -390,7 +382,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters
 
 Recommendation:  That, the attached

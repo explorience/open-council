@@ -15,10 +15,8 @@ June 2, 2015, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Hopkins; W. Abbott, G. Belch, J. Braam, A. Dunbar, K. Graham, M. Losee, J. Lucas, D. MacRae, D. Popadic, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   LTC Long Term Growth Report Working Group
 
 Motion Passed
@@ -49,7 +47,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London ON Bikes
   Cycling Master Plan Status Report
 
 That, on the recommendation of the Managing
@@ -203,7 +200,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Local Improvement
   Initiation - Perkins Road
 
 That, on the recommendation of the Managing
@@ -236,7 +232,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with this project.
 
-# 9.&nbsp;&nbsp;&nbsp;Local Improvement
   Initiation - Eastgate Crescent
 
 That, on the recommendation of the Managing
@@ -282,7 +277,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Proposed Revision
   to the W12A Landfill Designated Haul Route – Public Participation Meeting
 
 That, on the recommendation of the Managing
@@ -351,7 +345,6 @@ Voting
 Motion to Open the public participation
   meeting.
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) Deferred
   Matters List
 
 That the following

@@ -12,13 +12,11 @@ December 5, 2016, at  8:30 PM
 > [!abstract]- Also Present:
 > M. van Holst, B. Armstrong, M. Salih, M. Cassidy, P. Squire, A. Hopkins, V. Ridley; D. Mounteer, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;ADDED - Appointment of Acting Chair
 
 That it BE NOTED that Councillor P. Hubert
   was appointed Acting Chair.

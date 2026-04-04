@@ -12,13 +12,11 @@ November 29, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > T. Copeland, A. Dunbar, G. Gauld, K. Graham, G. Irwin, J. Lucas, D. MacRae, S. Maguire, L. Marshall, S. Mathers, S. Miller, N. Pasato, L. Rowe, K. Scherr, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;11th Report of the
   Cycling Advisory Committee
 
 That the 11th Report of the Cycling
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -68,7 +65,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Riverside Drive and Beaverbrook Avenue Intersection
 
 That, on the recommendation of the Managing
@@ -93,7 +89,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   South Carriage Road and Hyde Park Road Intersection
 
 That, on the recommendation of the Managing
@@ -155,7 +150,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Wharncliffe Road South - Environmental Assessment Update
 
 That, on the recommendation of the Managing
@@ -181,7 +175,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Complete Streets Design Manual - Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -229,7 +222,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Municipal Waste and Resource Materials Collection By-law Amendments
 
 That, on the recommendation of the Managing
@@ -255,7 +247,6 @@ c)         allow
   the use of purchased garbage tags for receptacles of garbage above the 3
   receptacle limit, effective January 16, 2017.  (2016-E07)
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer for the Contract Administration of the Fox
   Hollow SWM Facility No. 3 (ES3020-FH3) and Trunk Sanitary Sewer (ES5236-16)
 
@@ -318,7 +309,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Quotation Q16-50 - Irregular Result - Supply and Delivery of Geotextile Tubes
   - Greenway Wastewater Treatment Plant
 
@@ -365,7 +355,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consultants - Clean Water and Wastewater Fund Projects
 
 That, on the recommendation of the Managing
@@ -444,7 +433,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Engineering Fees Contract Amendment - Wickerson Pumping Station Upgrades -
   Project No. EW3653
 
@@ -465,7 +453,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Shift Rapid Transit Implementation Office
 
 That, on the recommendation of the Managing
@@ -490,7 +477,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Closing of Isaac Drive
 
 That, on the recommendation of the Managing
@@ -525,7 +511,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Closing of Lilac Avenue
 
 That, on the recommendation of the Managing
@@ -561,7 +546,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;STAFF REPORT - RFP
   16-44 Irregular Bid - Engineering Services for the Detailed Design of the
   First Phase of the York Street Sewer Separation
 
@@ -614,7 +598,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   RFP16-49 Irregular Bid - Engineering Services for City Centre Servicing
   Strategy
 
@@ -667,7 +650,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Comments on Ministry of Transportation Ontario (MTO) Discussion Paper on
   Cycling Initiatives for Submission to the Environmental Bill of Rights (EBR)
   Registry
@@ -689,7 +671,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Application by Cedar Hollow Developments Limited -
   Street Renaming - Cedarpark Crescent (East of Cedarhollow Boulevard)
 
@@ -766,7 +747,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Lake Erie
   Bi-National Phosphorous Reduction Target
 
 That, on the recommendation of the Managing
@@ -796,7 +776,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;1st Report of the
   Rapid Transit Implementation Working Group
 
 That the following actions be taken with
@@ -830,7 +809,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   S. Ryall, Race Director, Forest City Road Races -  Request for Permanent
   Finish Line on the North Side of Dufferin Avenue, between Clarence Street and
   Wellington Street
@@ -859,7 +837,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;REQUEST FOR
   DELEGATION STATUS - L. McKenzie, Gleed Inc., Broker - Disabled Street Parking
 
 That
@@ -906,7 +883,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -930,7 +906,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR
   SUBMSSION - Terms of Reference and Public Consultation Process -
   Environmental Assessment
 
@@ -969,7 +944,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR
   SUBMSSION - Traffic Calming
 
 That the Civic Administration BE DIRECTED

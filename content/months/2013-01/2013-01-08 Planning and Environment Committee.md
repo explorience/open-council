@@ -15,14 +15,12 @@ January 8, 2013, at  4:20 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, G. Barrett, S. Bellaire, M. Corby, M. Elmadhoon, J.M. Fleming, T. Grawey, M. Henderson, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, D. Menard, N. Musicco, R. Sharpe, C. Smith, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor P. Hubert disclosed a pecuniary interest in
   clause 13 of this Report having to do with the application of Richmond
   Corporate Centre Inc. relating to the properties located at 142 Horton Street
   East and 291, 297, 303 and 305 Richmond Street, as there is a private career
   college in the circulation area, by indicating that he operates a private
   career college.
 
-# 2.&nbsp;&nbsp;&nbsp;1460 Hamilton Road
   Subdivision (39T-04509/39T-07506)
 
 Recommendation:  That, on the
@@ -32,13 +30,11 @@ Recommendation:  That, on the
   Futurestreets Subdivision, which was registered on June 26, 2009, as
   Instrument Number ER648737, BE APPROVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for October 2012
 
 Recommendation:  That the Building Division
   Monthly Report for October 2012, BE RECEIVED.   (2012-D00-00)
 
-# 4.&nbsp;&nbsp;&nbsp;1st Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -113,7 +109,6 @@ it
   being noted that the Planning and Environment Committee heard a verbal
   presentation from G. Goodlet, Chair, LACH, with respect to these matters.
 
-# 5.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That, the following
@@ -157,7 +152,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from H. Fletcher, Chair,
   AAC, with respect to these matters.
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   373 Wharncliffe Road South (Z-8116)
 
 Recommendation:  That, on the
@@ -189,7 +183,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.  (2012-D11-08)
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to
   Planning Fees By-law CP-18 - Applications Under the Feed-In Tariff (FIT)
   Program
 
@@ -206,7 +199,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter. (2012-G05-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   585 Third Street (TZ-8112)
 
 Recommendation:  That, on the
@@ -224,7 +216,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2012-D11-05)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1900 Huron Street (Z-8108)
 
 Recommendation:  That, on the
@@ -245,7 +236,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2012-D11-06)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   2371 Highbury Avenue North (Z-8078)
 
 Recommendation:  That, on the
@@ -296,7 +286,6 @@ it being pointed out that at the public
   Davidson, 2377 Highbury Avenue North – advising that they are interested in
   the outcome of the application.   (2012-D11-07)
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1461-1465 Oxford Street East and 613-629 First Street
 
 Recommendation:  That, on the
@@ -355,7 +344,6 @@ it being pointed out that at the public
   international students; advising that this model will be implemented across
   Ontario and Canada.   (2012-D25-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 1235-1253 Richmond Street
 
 Recommendation:  That, on the recommendation
@@ -409,7 +397,6 @@ it being pointed out that at the public
   to students; and enquiring as to whether the dilapidated student house beside
   him will become vacant once this building is built and sold at a discount.   (2012-D25-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 142 Horton Street East and 291, 297, 303 and 305 Richmond Street (OZ-8107)
 
 Recommendation:  That, on the
@@ -450,7 +437,6 @@ it
   being pointed out that there were no oral submissions made at the public
   participation meeting associated with this matter.   (2012-D11-06)
 
-# 14.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following
@@ -481,14 +467,12 @@ b)         that
   clauses 2 to 9, inclusive, of the 3rd Report of the Trees and Forests  Advisory
   Committee (TFAC), BE RECEIVED.
 
-# 15.&nbsp;&nbsp;&nbsp;Election of Vice
   Chair for the term ending November 30, 2013
 
 Recommendation:  That Councillor S. White BE
   ELECTED as Vice Chair of the Planning and Environment Committee for the
   term ending November 30, 2013.
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at 527 Wellington Road
   South
 
 Recommendation:  Pursuant to Section 2.8 of
@@ -497,7 +481,6 @@ Recommendation:  Pursuant to Section 2.8 of
   19, 2013, for the purpose of hearing public submissions relating to the
   proposed methadone clinic at 527 Wellington Road South.
 
-# 17.&nbsp;&nbsp;&nbsp;Hamilton Road Businesses
 
 Recommendation:  That the Civic Administration
   BE REQUESTED to study the Hamilton Road area to allow businesses to

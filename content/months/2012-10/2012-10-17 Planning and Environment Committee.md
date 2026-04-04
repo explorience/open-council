@@ -15,10 +15,8 @@ October 17, 2012, at  7:04 PM
 > [!abstract]- Also Present:
 > D. Brown, M. Brown, H.L. Usher, J.M. Fleming, E. Lalande, J. Page, D. O’Brien, M. Tomazincic, B. Turcotte
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   425 Wharncliffe Road South (Z-8063)
 
 Recommendation:  That, on the recommendation

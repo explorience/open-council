@@ -18,7 +18,6 @@ August 27, 2013, at  4:09 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:09 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor M. Brown discloses a pecuniary
@@ -73,13 +72,10 @@ Councillor N. Branscombe discloses a pecuniary
   to the Veterans Memorial Parkway, by indicating that her spouse owns and
   operates a business at Oxford Street/Veterans Memorial Parkway.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -94,9 +90,7 @@ Approve that Council rise and go into
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor D. Brown
   - Enquiry - 425 Wharncliffe Road South
 
 Councillor D. Brown enquired as to how the
@@ -107,14 +101,12 @@ Councillor D. Brown enquired as to how the
   that could be taken to ensure that both the conditions of zoning approval and
   licensing requirements are met.
 
-# 2.&nbsp;&nbsp;&nbsp;City Clerk - 2nd
   and 3rd Reports of the 2013 Council Compensation Review Task Force
 
 That the 2nd and 3rd Reports of the 2013
   Council Compensation Review Task Force, from its meetings held on July 26,
   2013 and August 7, 2013 BE RECEIVED.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRTEENTH MEETING HELD ON JULY 30, 2013
 
 > Moved by Councillor P. Van Meerbergen
@@ -150,7 +142,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor D. Brown
@@ -162,7 +153,6 @@ Approve referral of the following
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Strategic
   Change in Delivery of Development Charge Exemptions and Incentives Policies
 
@@ -246,7 +236,6 @@ it being further noted that the Strategic
   from P. Christiaans, Director, Development Finance, with respect to this
   matter.
 
-# 4.&nbsp;&nbsp;&nbsp;Managing Director,
   Planning and City Planner - ReThink London Discussion Papers - What We've
   Heard
 
@@ -282,10 +271,8 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF WHICH
   NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor B. Polhill
 
@@ -293,7 +280,6 @@ Approve clauses 1 to 22, excluding clauses 4, 13,16 and 18.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Ontario Lottery and
   Gaming Corporation (OLG) - Broader Plan for Gaming within Municipalities
 
 That the delegation from P. Pellizzari,
@@ -304,7 +290,6 @@ That the delegation from P. Pellizzari,
   resolution adopted at its meeting held on June 11, 2013 with respect to this
   matter, BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Project Proposal
   for the Pottersburg Brownfield
 
 Recommendation:  That the attached
@@ -312,7 +297,6 @@ Recommendation:  That the attached
   respect to the Pottersburg Brownfield project proposal, BE FORWARDED to the
   Civic Administration for further review and possible advancement.
 
-# 7.&nbsp;&nbsp;&nbsp;Municipality
   Contribution Agreement - Ontario Lottery and Gaming Corporation
 
 Recommendation:  That the following actions
@@ -340,7 +324,6 @@ Approve clauses 1 to 4, inclusive.
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Contract Award:
   York Street/Richmond Street and York Street/Talbot Street Traffic Signal
   Rebuilds Single Source and Irregular Bid (Tender No. T13-71)
 
@@ -374,7 +357,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04)
 
-# 9.&nbsp;&nbsp;&nbsp;Greenway Wastewater
   Treatment Plant Rotating Drum Thickner Engineering Project No. ES5084-11
 
 That, on the recommendation of the Managing
@@ -411,7 +393,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04)
 
-# 10.&nbsp;&nbsp;&nbsp;Gore Road Bridge
   Replacement Detailed Deign and Tendering Appointment of Consulting Engineer
 
 That, on the recommendation of the
@@ -444,7 +425,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-A05)
 
-# 11.&nbsp;&nbsp;&nbsp;Highbury Avenue
   over CN Rail Bridge Rehabilitation Detailed Design and Tendering-Appointment
   of Consulting Engineer
 
@@ -479,7 +459,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-A05)
 
-# 12.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law.
 
 That, on the recommendation of the Managing
@@ -489,7 +468,6 @@ That, on the recommendation of the Managing
   the purpose of amending the Traffic and Parking By-law (P.S. 111). 
   (2013-C01)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   1166 Hamilton Road
 
 That, on the recommendation of the Manager,
@@ -507,7 +485,6 @@ b)         the
   plan application for a four storey apartment building with 23 units.   
   (2013-D11)
 
-# 15.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway South Extension (OZ-8195)
 
 That, on the recommendation of the Managing
@@ -538,7 +515,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2013-D14A)
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   982 Gainsborough Road (Z-8178)
 
 That, on the recommendation of the Managing
@@ -806,7 +782,6 @@ it being pointed out that at the public
   be made so that there are no impacts from this proposed development on the
   existing traffic patterns to that entrance.    (2013-D14A)
 
-# 19.&nbsp;&nbsp;&nbsp;Proposed
   Stoneycreek Pathway
 
 The S. Evoy, 29 Stoneycreek Crescent, BE
@@ -814,7 +789,6 @@ The S. Evoy, 29 Stoneycreek Crescent, BE
   Committee meeting with respect to the proposed Stoneycreek Pathway. 
   (2013-R04)
 
-# 20.&nbsp;&nbsp;&nbsp;Tricar Subdivision
   (Phase 2) - 39T-11504
 
 That C. Linton, Norquay Sunningdale Land
@@ -822,7 +796,6 @@ That C. Linton, Norquay Sunningdale Land
   Committee meeting with respect to the Tricar Subdivision, Phase 2, as there
   is an existing policy and process in place with respect to this matter.
 
-# 21.&nbsp;&nbsp;&nbsp;Near-Campus
   Neighbourhood Amendments (Z-8218)
 
 That, on the recommendation of the Managing
@@ -862,7 +835,6 @@ c)         the
   relief from the regulations of the Zoning By-law pertaining to the interior
   side yard depth BE ENDORSED.   (2013-D14A)
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   13 Blackfriars Street
 
 That, on the recommendation of the Managing
@@ -870,7 +842,6 @@ That, on the recommendation of the Managing
   relating to the property located at 13 Blackfriars Street BE RECEIVED.
   (2013-L01/R01)
 
-# 13.&nbsp;&nbsp;&nbsp;The Great Lakes
   Sewage Report Card 2013
 
 That the Civic Works Committee received a
@@ -889,7 +860,6 @@ Approve clauses 1 to 7, inclusive.
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway (Z-8194)
 
 That, on the recommendation of the Managing
@@ -999,7 +969,6 @@ Motion Passed
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Secondary Dwelling
   Units (OZ-8053)
 
 That, on the recommendation of the Managing
@@ -1056,12 +1025,9 @@ Approve clauses 1 to 10, inclusive.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor B. Polhill
@@ -1169,7 +1135,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1566,7 +1531,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

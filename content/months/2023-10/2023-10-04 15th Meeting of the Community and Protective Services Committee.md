@@ -20,11 +20,9 @@ October 4, 2023, at  4:00 PM
 
 The meeting was called to order at 4:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -112,11 +110,9 @@ e)    authorize the Deputy City Manager, Planning and Economic Development, or
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Alignment of Rent Supplement and Housing Allowance Programs to a Portable Benefit System
 
@@ -147,11 +143,9 @@ c)    the Deputy City Manager, Social and Health Development, or delegate, BE 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by C. Rahman
 
@@ -186,7 +180,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:39 PM.
 ---

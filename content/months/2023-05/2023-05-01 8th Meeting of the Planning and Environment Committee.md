@@ -20,9 +20,7 @@ May 1, 2023, at  4:00 PM
 
 The meeting is called to order at 4:01 PM
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -106,7 +104,6 @@ That the staff report dated May 1, 2023 entitled "Annual Report on Building Perm
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2060 Jetstream (Z-9592)
 
@@ -516,15 +513,12 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by A. Hopkins
 
@@ -564,7 +558,6 @@ The Planning and Environment Committee convened, in Closed Session, from 4:53 PM
 
 ## 6.2&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice / Litigation/Potential Litigation 
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:34 PM.
 ---

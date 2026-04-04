@@ -12,10 +12,8 @@ November 19, 2012, at  4:07 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, J. Buchanan, T. Copeland, M. Feldberg, E. Gamble, S. Glickman, M. Hayward, G.T. Hopcroft, J. Lucas, D. O’Brien, R. Pedlow, C. Saunders, J. Senese, R. Sharpe, J. Simon, E. Soldo, R. Sutton, R. Welker, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Council
   Compensation Review Task Force
 
 Recommendation:  
@@ -54,7 +52,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2013 Water
   and Wastewater Budgets
 
 Recommendation:  That, on the
@@ -141,7 +138,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;The Board of Health
   of the Middlesex-London Health Unit
 
 Recommendation:  That, at the request of
@@ -200,7 +196,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Council Compensation Review Task Force
 
 Recommendation:      That the following

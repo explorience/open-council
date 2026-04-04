@@ -12,20 +12,17 @@ April 21, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, H.L. Usher, M. van Holst, J. Zaifman; J. Braam, B. Coxhead, S. Datars Bere, C. Deforest, A. Drost, I. Gibb, G. Kotsifas, L. Livingstone, L. Marshall, D. O’Brien, L. Rowe, J. Smout, E. Soldo, S. Spring, S. Stafford, D. Warren, J. Winston
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 4th Report of the London Diversity
   and Race Relations Advisory Committee, from its meeting held on March 19,
   2015, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the 3rd Report of the Community Safety
@@ -34,25 +31,21 @@ That the 3rd Report of the Community Safety
   of the CSCP was amended by replacing the references to the “Advisory
   Committee on the Environment” to the “Transportation Advisory Committee”.
 
-# 4.&nbsp;&nbsp;&nbsp;3rd Report of the
   Accessibility Advisory Committee
 
 That the 3rd Report of the Accessibility
   Advisory Committee, from its meeting held on March 26, 2015, BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Housing Advisory Committee
 
 That the 3rd Report of the London Housing
   Advisory Committee, from its meeting held on April 7, 2015, BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;3rd Report of the
   Animal Welfare Advisory Committee
 
 That the 3rd Report of the Animal Welfare
   Advisory Committee, from its meeting held on April 2, 2015, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Pedestrian Pathway
   Connection Across Canadian National Railway Lands in Kiwanis Park, Municipal
   Class Environmental Assessment
 
@@ -75,7 +68,6 @@ c)         the
   Municipal Class Environmental Assessment Project File, noted in a) above, BE
   PLACED on public record for a 30-day review period.  (2015-E05)
 
-# 8.&nbsp;&nbsp;&nbsp;Ban on Shark Fin Products
 
 That the following actions be taken with
   respect to a ban on shark fin products:
@@ -96,7 +88,6 @@ b)         the
   purchase, sale, trade, distribution, consumption or preparation for
   consumption of shark fins.  (2015-C01)
 
-# 9.&nbsp;&nbsp;&nbsp;2013-2016 Long-Term
   Care Home Service Accountability Agreement between The Corporation of the
   City of London (Dearness Home) and the South West Local Health Integration
   Network (LHIN) - Declaration of Compliance 2014
@@ -109,7 +100,6 @@ That, on the recommendation of the Managing
   reporting period of January 1 to December 31, 2014, BE RECEIVED for
   information. (2015-S03)
 
-# 10.&nbsp;&nbsp;&nbsp;Child Care
   Information Update and 2015 Child Care Service Plan
 
 That, on the recommendation of the Managing
@@ -125,7 +115,6 @@ b)         the
   2015 Child Care Service Plan, appended to the staff report dated April 21,
   2015, as Schedule 1, BE ENDORSED.  (2015-S12)
 
-# 11.&nbsp;&nbsp;&nbsp;Children's Services
   Wage Enhancement Grant Agreement
 
 That, on the recommendation of the Managing
@@ -150,7 +139,6 @@ b)         delegate
 (iii)       execute
   the Agreements and any amending Agreements.  (2015-F11A/L04A)
 
-# 12.&nbsp;&nbsp;&nbsp;London Majors
   Baseball - Licence Agreement for Use of Labatt Park
 
 That, on the recommendation of the Managing
@@ -182,7 +170,6 @@ c)          authorize
   the Managing Director of Parks and Recreation, or written designate, to
   execute any agreements approved under a) or b).  (2015-K04A/P09)
 
-# 13.&nbsp;&nbsp;&nbsp;Diversity, Race
   Relations and Inclusivity Award
 
 That, on the recommendation of the City
@@ -190,7 +177,6 @@ That, on the recommendation of the City
   Relations and Inclusivity Award, appended to the staff report dated April 21,
   2015, BE ADOPTED.  (2015-M11)
 
-# 14.&nbsp;&nbsp;&nbsp;Rock the Park 12 -
   July 2015
 
 That the following actions be taken with
@@ -227,10 +213,8 @@ ii)            
   Global Spectrum Facility Management and General Manager, Budweiser Gardens.
   (205-M02)
 
-# 15.&nbsp;&nbsp;&nbsp;Taxicab/Limousine
   Licensing By-law - Fare Amendments and Housekeeping Matters
 
-# 16.&nbsp;&nbsp;&nbsp;Request for Delegation Status
 
 That the request for delegation status from
   Abe Oudshoorn and Jeff Schlemmer, Executive Director, Neighbourhood and Legal
@@ -239,7 +223,6 @@ That the request for delegation status from
   to attend the next Community and Protective Services Committee meeting, when
   staff will be reporting back on this matter.
 
-# 17.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That

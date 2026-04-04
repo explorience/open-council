@@ -12,10 +12,8 @@ August 26, 2013, at  3:33 PM
 > [!abstract]- Also Present:
 > A. Zuidema, A. Ripepi, J. Senese, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Debenture
   Issue Update
 
 Recommendation:  That on the recommendation

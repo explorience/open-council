@@ -12,13 +12,11 @@ December 3, 2013, at  2:30 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, G. Belch, J. Braam, J. Clark, I. Collins, B. Coxhead, C. Cucksey, S. Datars Bere, A. Dunbar, J.M. Fleming, M. Hayward, G.T. Hopcroft, G. Kotsifas, R. Lamon, L. Livingstone, V. McAlea Major, R. Paynter, M. Ribera, C. Saunders, M. Semeniuk, J. Senese, B. Warner, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Tabling of the 2014
   Draft Budget
 
 Recommendation:  That the 2014 Draft Budget

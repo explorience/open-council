@@ -12,13 +12,11 @@ February 6, 2018, at 12:30 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, B. Card, I. Collins, S. Corman, J. Edmonds, S. Spring, E. Soldo, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London Days
   at Budweiser Gardens - United Way London & Middlesex
 
 That, on the recommendation of the City
@@ -27,7 +25,6 @@ That, on the recommendation of the City
   host the annual United Way Campaign Launch & 3M Harvest Lunch on
   September 20, 2018, BE APPROVED as a City of London Day at Budweiser Gardens.
 
-# 3.&nbsp;&nbsp;&nbsp;Amendment to Flags
   at City Hall Policy
 
 That, on the recommendation of the City
@@ -56,7 +53,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Strategic Plan
   Progress Variance
 
 That, on the recommendation of the City
@@ -64,7 +60,6 @@ That, on the recommendation of the City
   City Treasurer and Chief Financial Officer, the staff report dated February
   6, 2018 with respect to the Strategic Plan progress variance BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Declare Surplus and
   Sale - 330 Thames Street (South Portion)
 
 That, on the recommendation of the Managing
@@ -84,7 +79,6 @@ b)         the
   market value, in accordance with the City’s Sale and Other Disposition of
   Land Policy.
 
-# 6.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -112,7 +106,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Transportation Advisory Committee (Requires 2 Members at
   Large)
 
@@ -143,7 +136,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Accessibility Advisory Committee (Requires 1 Member at
   Large)
 
@@ -152,7 +144,6 @@ That Pamela Quesnel BE APPOINTED to the
   ending February 28, 2019; it being noted that the appointment was made in
   accordance with the attached ranked ballot.
 
-# 9.&nbsp;&nbsp;&nbsp;Forest City Beer
   Fest 2018 Winter Pop Up Bar - Request for Designation as a Municipally
   Significant Event
 

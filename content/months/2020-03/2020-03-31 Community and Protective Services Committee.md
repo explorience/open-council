@@ -17,13 +17,11 @@ March 31, 2020, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that the following Members were in remote attendance: Councillors S. Hillier and M. van Holst
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Mayor E. Holder discloses a pecuniary interest in Item 5.1 a) of the 4th Report of the Community and Protective Services Committee, having to do with New Licensing and Licensing Renewal Requirements, by indicating that he has family in the food business.
 
 Councillor M. Salih discloses a pecuniary interest in Item 2.2 of the 4th Report of the Community and Protective Services Committee, having to do with Single Source 20-04 - Agreement for London and Middlesex Local Immigration Partnership with WIL Counselling and Training for Employment, by indicating that he is an employee of the Canadian Border Services Agency.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Contract Award Recommendation for Housing Stability Services - Request for Proposal 20-07
 
@@ -144,15 +142,12 @@ b)     delegate authority to the Managing Director, Housing, Social Services 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements
 
@@ -213,7 +208,6 @@ Motion to approve parts b), c) and d), above.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:10 PM.
 

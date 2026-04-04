@@ -17,27 +17,21 @@ June 20, 2023, at  3:00 PM
 
 The meeting is called to order at 3:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Personal Matters/Identifiable Individual
 
@@ -65,7 +59,6 @@ The Corporate Services Committee convenes In Closed Session from 3:02 PM to 3:36
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

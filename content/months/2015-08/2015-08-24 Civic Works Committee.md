@@ -12,13 +12,11 @@ August 24, 2015, at  1:01 PM
 > [!abstract]- Also Present:
 > M. Salih, J. Zaifman; G. Belch, J. Braam, T. Copeland, A. Drost, J. Ford, T. Landry, D. MacRae, S. Maguire, K. Paleczny, L. Rowe, E. Soldo, S. Spring, J. Stanford, E. Veittiaho, J. Verhaeghe
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Burbrook Trunk
   Storm Sewer Project Award
 
 That, on the recommendation of the Managing
@@ -71,7 +69,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Address Safety Issues during the Western Fair
 
 That, on the recommendation of the Managing
@@ -99,7 +96,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Transportation
   Energy Optimization Plan (TEOP) Phase 1 Contract Award
 
 That, on the recommendation of the Managing
@@ -147,7 +143,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
   Initiative Appointment of Survey Consultants
 
 Motion
@@ -167,7 +162,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Noise Attenuation Wall Current Noise Levels
 
 That, on the recommendation of the
@@ -192,7 +186,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Local Improvement
   Initiation-Franklinway Crescent and Franklinway Gate
 
 Motion
@@ -211,7 +204,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London Transit
   Commission 2014 Annual Report
 
 That the London Transit Commission 2014
@@ -239,7 +231,6 @@ Motion
 
 None
 
-# 9.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -273,7 +264,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;(ADDED) Permitting
   Overnight Parking Additional Months of the Year
 
 That the Civic Administration BE DIRECTED

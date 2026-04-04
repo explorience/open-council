@@ -15,10 +15,8 @@ September 16, 2013, at  2:00 PM
 > [!abstract]- Also Present:
 > O. Katolyk, G. Kotsifas, R. Sharpe, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Taxicab and
   Limousine Licensing By-law Related Issues
 
 Recommendation:  That, on the

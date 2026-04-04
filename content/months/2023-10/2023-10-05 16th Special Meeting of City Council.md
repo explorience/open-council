@@ -20,19 +20,15 @@ October 5, 2023, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted that Councillors A. Hopkins and P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 At 1:06 PM, His Worship Mayor J. Morgan places Councillor S. Lewis in the Chair.
 
@@ -76,11 +72,9 @@ At 1:38 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 ## 6.1&nbsp;&nbsp;&nbsp;Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results
 
@@ -112,11 +106,9 @@ That the Communications BE RECEIVED and BE REFERRED as noted on the Council Adde
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;23rd Special Report of the Strategic Priorities and Policy Committee
 
@@ -591,19 +583,15 @@ it being further noted that the communications, included on the Added Council Ag
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 ## 12.1&nbsp;&nbsp;&nbsp;(ADDED) Councillors S. Stevenson and J. Pribil
 
@@ -611,7 +599,6 @@ None.
 
 That it BE NOTED that pursuant to section 20.2 of the Council Procedure By-law, there was no motion for leave introduced with respect to this matter.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by E. Peloza
 
@@ -780,7 +767,6 @@ By-law No. A.-8419-282 -- A by-law to authorize the Deputy City Manager, Social 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Franke
 

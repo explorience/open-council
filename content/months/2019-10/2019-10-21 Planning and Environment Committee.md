@@ -17,13 +17,11 @@ October 21, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -100,7 +98,6 @@ That M. Wallace, Executive Director, London Development Institute, BE GRANTED de
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting – Demolition Request for Dwelling on Heritage Listed Property - 6100 White Oak Road
 
@@ -439,7 +436,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;9th Report of the Advisory Committee on the Environment
 
@@ -507,13 +503,11 @@ d)         clauses 1.1, 3.1, 3.2, 3.4, 4.1, 5.3 and 6.1 BE RECEIVED for 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Turner
 
@@ -542,7 +536,6 @@ The Planning and Environment Committee convened, In Closed Session, from 4:37 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:59 PM.
 

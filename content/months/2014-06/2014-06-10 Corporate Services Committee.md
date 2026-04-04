@@ -15,7 +15,6 @@ June 10, 2014, at  3:04 PM
 > [!abstract]- Also Present:
 > J.P. Barber, K. Dawtrey, M. Hayward
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

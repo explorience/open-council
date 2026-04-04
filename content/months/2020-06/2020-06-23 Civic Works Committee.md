@@ -22,11 +22,9 @@ June 23, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -127,11 +125,9 @@ e)       the funding for this purchase BE APPROVED as set out in the Sourc
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) Active Transportation Manager - Councillors E. Peloza and S. Lewis
 
@@ -187,7 +183,6 @@ That the request for delegation status made by H. Sanderson, dated June 22, 2020
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -212,7 +207,6 @@ That the Deferred Matters List, as at June 15, 2020, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:18 PM.
 

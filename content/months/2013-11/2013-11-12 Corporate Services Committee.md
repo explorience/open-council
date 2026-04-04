@@ -12,13 +12,11 @@ November 12, 2013, at  1:01 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, A. Zuidema, J.P. Barber, S. Datars Bere, M. Hayward, G.T. Hopcroft, V. McAlea Major, R. Sharpe, J. Tansley, C. Saunders, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Council Policy -
   Illumination of City of London Buildings and Amenities with Multi-Colour
   Capable LED Lighting Installations
 
@@ -53,7 +51,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Council Policy -
   Amendment of Flags at City Hall Policy
 
 Recommendation:  That, on the
@@ -82,7 +79,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;City of London Days
   - Budweiser Gardens
 
 Recommendation:  That, on the
@@ -93,7 +89,6 @@ Recommendation:  That, on the
 Showdown in the Downtown
 October 18, 2014
 
-# 5.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Enhance the London and Middlesex Immigration Portal
   Labour Market Section
 
@@ -131,7 +126,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Comprehensive
   Economic and Trade Agreement with the European Union
 
 Recommendation:  That, on the
@@ -157,7 +151,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;FCM's National
   Housing Campaign - Fixing Canada's Housing Crunch
 
 Recommendation:  That, on the
@@ -243,7 +236,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Request by Councillor
   H.L. Usher  to Update the Councillor's Lounge
 
 Recommendation:  That the request dated
@@ -269,7 +261,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment 
   of Voting Member to the Animal Welfare Advisory Committee
 
 Recommendation:  That Christine Schmidt BE
@@ -294,7 +285,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment of
   Non-Voting Member to the Community Safety and Crime Prevention Advisory
   Committee
 

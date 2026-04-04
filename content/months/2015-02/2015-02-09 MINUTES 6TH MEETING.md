@@ -18,7 +18,6 @@ February 9, 2015
 The Council meets in Regular Session in the
   Council Chambers this day at 4:08 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Helmer discloses a pecuniary
@@ -26,15 +25,11 @@ Councillor J. Helmer discloses a pecuniary
   to do with the Canada Post Community Mailbox Program, by indicating that his
   wife is employed with Canada Post.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 > Moved by Councillor V. Ridley
 
@@ -94,7 +89,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -166,7 +160,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD ON JANUARY 27, 2015
 
 > Moved by Councillor B. Armstrong
@@ -200,7 +193,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor H.L. Usher
@@ -212,7 +204,6 @@ Approve Receipt and Referral of the
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic
   Plan - Discussion of Strategy
 
 Motion Passed
@@ -238,10 +229,8 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -276,7 +265,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Canada Post Community Mailbox Program
 
 > Moved by Councillor H.L. Usher
 
@@ -388,7 +376,6 @@ Approve clauses 1 to 6, inclusive.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 3550 and 3590 Singleton Avenue (H-8322)
 
 That, on the recommendation of the Planner
@@ -403,7 +390,6 @@ That, on the recommendation of the Planner
   (h-134*R5-4/R6-5) Zone to remove the “h”, “h-54”, “h-71” and “h-100” holding
   provisions.   (2015-D09)
 
-# 4.&nbsp;&nbsp;&nbsp;Development Charges
   Grant Program for Downtown and Old East Village Community Improvement Plan
   (CIP) Areas
 
@@ -453,7 +439,6 @@ d)         the
   recommendations for changes to the Grant program parameters.   
   (2014-F11A/F21)
 
-# 5.&nbsp;&nbsp;&nbsp;Proposed Amendments
   to the Site Plan By-law
 
 That, on the recommendation of the Manager
@@ -466,7 +451,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter. (2015-C01)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1671 Fanshawe Park Road West (TZ-8438)
 
 That, on the recommendation of the Managing
@@ -495,7 +479,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral
   submission in connection therewith.   (2015-D09)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 2155 and 2253 Richmond Street (Z-8440)
 
 That, on the recommendation of the Senior
@@ -520,7 +503,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral
   submission in connection therewith.  (2015-D09)
 
-# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -548,22 +530,18 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from W. Kinghorn, Chair,
   LACH, with respect to these matters.
 
-# 9.&nbsp;&nbsp;&nbsp;Boulevard Tree
   Protection By-law Revision
 
-# 12.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Development Services
 
 That, the orientation presentation from the
   Manager, Development Services and Engineering Liaison, BE RECEIVED.
 
-# 13.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Planning
 
 That, the attached orientation
   presentation from the Manager, Long Range Planning and Research, BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;Old East Village
   Community Incentive Plan's Tax Grant Program
 
 That, notwithstanding the Old East Village
@@ -593,7 +571,6 @@ That, the communication from Councillor M.
   report back at a future Planning and Environment Committee meeting.  
   (2015-D19)
 
-# 10.&nbsp;&nbsp;&nbsp;"Our Move
   Forward" London's Downtown Plan (O-8385)
 
 That, on the recommendation of the Managing
@@ -631,7 +608,6 @@ Approve referral of the “Our Move Forward”
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -662,15 +638,11 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from D. Szoller, Chair,
   ACE, with respect to these matters.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -771,7 +743,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

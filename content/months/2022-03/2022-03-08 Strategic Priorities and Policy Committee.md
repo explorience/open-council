@@ -20,11 +20,9 @@ March 8, 2022, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that Acting Mayor J. Morgan was in the Chair and the following members were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, M. Hamou, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -162,11 +160,9 @@ f)    staff BE DIRECTED to prepare an updated Core Area Action Plan expanding 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Development Charge Area Rating Policy Review – Recommended Approach
 
@@ -358,7 +354,6 @@ The Strategic Priorities and Policy Committee recessed from 6:34 PM to 6:54 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Palace Theatre Arts Commons Loan Forgiveness Business Case
 
@@ -449,7 +444,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Lehman
 
@@ -481,7 +475,6 @@ The Corporate Services Committee convenes, In Closed Session, from 7:13 PM to 8:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lehman
 

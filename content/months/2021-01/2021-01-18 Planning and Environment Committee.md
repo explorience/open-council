@@ -21,13 +21,11 @@ January 18, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -165,7 +163,6 @@ That, on the recommendation of the Director, Development Services, based on the 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application - 690, 696, 698, 700 King Street, 400 Lyle Street, 701, 725, 729, 735, 737 Dundas Street and 389, 391, 393 Hewitt Street
 
@@ -314,7 +311,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;R. Pinheiro, Chairman, Hamilton Road Business Improvement Area - Request for Amendment to our Hamilton Road Business Improvement Area By-laws
 
@@ -341,11 +337,9 @@ That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:08 PM.
 

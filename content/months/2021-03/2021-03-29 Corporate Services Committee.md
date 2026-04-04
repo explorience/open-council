@@ -17,11 +17,9 @@ March 29, 2021, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder and Councillors M. van Holst, J. Morgan, E. Peloza and A. Kayabaga.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -81,11 +79,9 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Delegation Status - Public Notice Policy - AnnaMaria Valastro
 
@@ -232,11 +228,9 @@ c)      this resolution BE FORWARDED to local M.P.s and M.P.P.s, the Federati
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Morgan
 
@@ -277,7 +271,6 @@ A matter pertaining to personal matters about an identifiable individual with re
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by E. Peloza
 

@@ -12,13 +12,11 @@ August 22, 2016, at  1:02 PM
 > [!abstract]- Also Present:
 > T. Park, H. L. Usher; J. Braam, S. Chambers, A. Dunbar, T. Gaffney, G. Gauld, G. Irwin, J. Lucas, S. MacDonald, S. Maguire, S. Mathers, M. Ribera, L. Rowe, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Cycling Advisory Committee
 
 That the 8th Report of the Cycling Advisory
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Single Source
   Purchase of Turbo Blowers for the Greenway Wastewater Treatment Plant
 
 That, on the recommendation of the Managing
@@ -137,7 +134,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award
   Tender No. 16-60 - Hyde Park Pumping Station-Electrical and Pump Upgrades
 
 That, on the recommendation of the Managing
@@ -186,7 +182,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Water and Erosion
   Control Infrastructure (WECI) Program: 2016 Provincially Approved Project
   Funding  - Sole Sourced
 
@@ -253,7 +248,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Rapid Transit
   Environmental Assessment Study Consulting Fees Amendment
 
 That, on the recommendation of the Managing
@@ -296,7 +290,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Provincial
   Maintenance Standards for Municipal Highways - Proposed Amendments 2016
 
 That, on the recommendation of the Managing
@@ -324,7 +317,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -351,7 +343,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Draft Coloured
   Crosswalk Policy
 
 That the staff report dated August 22, 2016
@@ -378,7 +369,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Street Boundary
   Feature Ownership and Maintenance Policy
 
 That, on the recommendation of the Managing
@@ -407,7 +397,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Amendment to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
 
 That, on the recommendation of the Managing
@@ -434,7 +423,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Corporate Energy
   Management Program Update
 
 That, on the recommendation of the Managing
@@ -460,7 +448,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Ontario's Climate
   Change Action Plan - Initial Impact and Alignment with London's Current
   Plans, Programs and Projects
 
@@ -487,7 +474,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Unlidded Garbage
   Bins
 
 That the Civic Works Committee received a
@@ -511,13 +497,11 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at July 26, 2016, BE RECEIVED.
 
-# 17.&nbsp;&nbsp;&nbsp;(Added) Amendments to the Traffic and Parking
     By-law
 
 That it BE NOTED that the Civic Works

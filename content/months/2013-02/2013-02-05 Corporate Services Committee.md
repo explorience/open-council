@@ -12,17 +12,14 @@ February 5, 2013, at  1:00 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, D. Brown; J.P. Barber, G. Belch, A. Dunbar, K. Graham, M. Hayward, M. Henderson, G.T. Hopcroft, J. Jackson, J. Logan, J. Page, J. Smout, E. Soldo, J. Stanford, M. Turner, B. Warner, R. Wilcox, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Community Pulse
   Check
 
 Recommendation:  That, on the
   recommendation of the City Manager, the staff report dated February 5, 2013, regarding
   community perceptions in London, BE RECEIVED for information.
 
-# 3.&nbsp;&nbsp;&nbsp;Real Property
   Acquisition Policy
 
 Recommendation:  That, on the
@@ -34,7 +31,6 @@ Recommendation:  That, on the
   meeting on February 12, 2013 to implement a Real Property Acquisition Policy
   for the City of London.
 
-# 4.&nbsp;&nbsp;&nbsp;Local Improvement Charges - Potential Uses
 
 Recommendation:  That the following actions
   be taken with respect to the use of Local Improvement Charges:
@@ -58,7 +54,6 @@ c)           
   report back to the Corporate Service Committee that would include information
   from the City Solicitor’s Office with respect to this matter.
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment to the
   Town and Gown Committee
 
 Recommendation:  That the following actions
@@ -79,7 +74,6 @@ b)           
   as from each of its affiliated colleges, and a representative of the London
   Property Management Association.
 
-# 6.&nbsp;&nbsp;&nbsp;Resignation from
   the Animal Welfare Advisory Committee
 
 Recommendation:  That
@@ -88,7 +82,6 @@ Recommendation:  That
   Ms. McFadden BE THANKED for participating on the Animal Welfare
   Advisory Committee.
 
-# 7.&nbsp;&nbsp;&nbsp;Association of
   Municipalities of Ontario Economic Development Task Force
 
 Recommendation:  That the following actions
@@ -108,7 +101,6 @@ b)           
   with attendance at the 2013 meetings of the Economic Development Task Force
   for the Association of Municipalities of Ontario BE APPROVED.
 
-# 8.&nbsp;&nbsp;&nbsp;Request for Delegation Status at the Corporate
   Services Committee re Post Secondary Students Becoming More Involved in
   Municipal Government
 

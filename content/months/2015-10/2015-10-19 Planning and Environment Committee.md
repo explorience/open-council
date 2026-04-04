@@ -12,10 +12,8 @@ October 19, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > J. Morgan, M. van Holst, G. Barrett, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, P. Kokkoros, E. Lalande, A. MacLean, N. Pasato, L. Pompilii, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   2055 Dundas Street (H-8499)
 
 That, on the recommendation of the Manager,
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   230 Villagewalk Boulevard (Block 1 in Plan 33M-664) (P-8531)
 
 That, on the recommendation of the Senior
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1647 Fanshawe Park Road East - O'Hanlan Subdivision (39T-10503)
 
 That, on the recommendation of the Senior
@@ -128,7 +124,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 860-874 Southdale Road West (H-8529)
 
 That, on the recommendation of the Senior
@@ -160,7 +155,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 3294  and a portion of 3260 Singleton Avenue (39CD-15509/SP15-013646)
 
 That, on the recommendation of the Senior
@@ -267,7 +261,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 2605-2651 Tokala Trail (OZ-8511)
 
 That, on the recommendation of the Managing
@@ -442,7 +435,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;7th Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -505,7 +497,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Archaeological
   Master Plan Review Project Terms of Reference
 
 That, on the recommendation of the Managing

@@ -12,7 +12,6 @@ March 30, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown, M. Cassidy, J. Helmer, P. Squire, M. van Holst; R. Armistead, J. Browne, B. Coxhead, S. Datars Bere, I. Gibb, S. Giustizia, K. Graham, L. Hamer, O. Katolyk, J. Kobarda, G. Kotsifas, L. Livingstone, A. McNaughton (Heritage Council), A. Macpherson, J. Michaud, D. O’Brien, M. Ribera, J. Skimming, J. Smout, J. Stanford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor M. Salih disclosed
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor M. Salih disclosed
   III Public Art Monument, by indicating that he is involved with the Wolseley
   Barracks, related to his service.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Childcare Advisory Committee
 
 That the following actions be taken with
@@ -51,7 +49,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -89,7 +86,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Update on
   Immigrants and the Labour Market: A London Perspective
 
 That, on the recommendation of the Managing
@@ -116,7 +112,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Open Air Burning
   By-law - Air Quality and Enforcement
 
 That the following actions be taken with
@@ -166,7 +161,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Neighbourhood Family Centre - London
   District Catholic School Board - St. Francis Catholic School
 
 That, on the recommendation of the Managing
@@ -232,7 +226,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Corporate
   Sponsorship and Advertising Policy
 
 That, on the recommendation of the Managing
@@ -264,7 +257,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Outdoor Tethering
   of Dogs
 
 That the following actions be taken with
@@ -314,7 +306,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Springbank Park
   Playground Upgrade Sponsored by Jenny Jones - London Hometown Hero Project
 
 That, on the recommendation of the Managing
@@ -354,7 +345,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;LAV lll Public Art
   Monument
 
 That, on the recommendation of the
@@ -394,7 +384,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;2016-2019 Service
   Accountability Agreement Between the Corporation of the City of London
   (Dearness Home) and the South West Local Health Integration Network (LHIN)
 
@@ -430,7 +419,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Community Response to Situations of
   Potential Vulnerable Occupancy
 
 That, on the recommendation of the Managing
@@ -458,7 +446,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;New Provincial
   Funding for Energy Retrofits in Social Housing
 
 That, on the recommendation of the Managing
@@ -501,7 +488,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Climate Change Risk
   Disclosures on Gas Pumps
 
 That the following actions be taken with
@@ -579,7 +565,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Pay and Display
   Parking Receipt Advertisement
 
 That the Civic Administration BE REQUESTED
@@ -604,7 +589,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Tea Cup Pigs
 
 That the
   communication dated March 2, 2016, from H. Beuerman, 580 Ross Street, with
@@ -683,7 +667,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;2nd and 3rd Reports
   of London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -772,7 +755,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;3rd and 4th Reports
   of the Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -839,7 +821,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;2nd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -906,7 +887,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Deferred Matters List
 
 That
   the March 2016 Deferred Matters List for the Community and Protective
@@ -929,7 +909,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;(ADDED) Additional Community and Protective
   Services Committee Meetings
 
 That the City Clerk BE DIRECTED to provide

@@ -17,11 +17,9 @@ February 20, 2019, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -212,7 +210,6 @@ b)            authorize the Mayor and the City Clerk to execute the a
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Sound By-Law - Outdoor Patio Time Exemption and Housekeeping Amendments
 
@@ -310,11 +307,9 @@ That, on the recommendation of the Managing Director, Parks and Recreation, the 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -362,7 +357,6 @@ That the 2nd Report of the Animal Welfare Advisory Committee, from its meeting h
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:42 PM.
 

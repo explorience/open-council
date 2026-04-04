@@ -25,7 +25,6 @@ November 29, 2022, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -51,7 +50,6 @@ That Councillor D. Ferreira BE APPOINTED Vice Chair of the Community and Protect
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -141,7 +139,6 @@ b)    authorize the Mayor and the City Clerk to execute the above-noted by-law
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;4th Report of the Animal Welfare Community Advisory Committee
 
@@ -177,7 +174,6 @@ b)    clauses 1.1, 2.1 to 2.3 and 5.1 to 5.6 BE RECEIVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
 
@@ -394,11 +390,9 @@ it being noted that the delegation request from M. Wallace, London Development I
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Stevenson
 
@@ -428,7 +422,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:19 PM.
 ---

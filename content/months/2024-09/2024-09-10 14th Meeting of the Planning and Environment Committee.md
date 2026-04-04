@@ -17,11 +17,9 @@ September 10, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -70,7 +68,6 @@ That, on the recommendation of the Deputy City Manager, Planning and Economic De
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2-4 Audrey Avenue and 186-188 Huron Street (Z-9755)
 
@@ -1136,15 +1133,12 @@ Motion as amended
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:13 PM.
 ---

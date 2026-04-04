@@ -15,13 +15,11 @@ September 12, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, P. Hubert, M. van Holst, J. Zaifman; C. DeForest, K. Dickins, O. Katolyk, G. Kotsifas, L. Livingstone, A. Macpherson, M. Marcellin, S. Oldham, A. Patis, M. Ribera, J. Richardson, J. Smout, E. Soldo, J. Tansley, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;7th and 8th Reports
   of the Accessibility Advisory Committee
 
 That it BE NOTED that the 7th and 8th
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London’s Homeless Prevention System - Contract Amendment – Cargo Management
   Consulting Inc. - Homeless Management Information System Implementation
   Consultant
@@ -95,7 +92,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London’s Homeless Prevention System - Homelessness Partnering Strategy -
   Homeless Individuals and Families Information System -  Data Provision
   Agreement
@@ -141,7 +137,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London’s Homeless Prevention System - Homelessness Partnering Strategy
   Funding Agreement - 2018 Coordinated Point-In-Time Count
 
@@ -186,7 +181,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT  - 
   Community Mental Health and Addictions Strategy
 
 That, on the recommendation of the Managing
@@ -210,7 +204,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Overview of Ontario Works Basic Needs and Shelter Allowance Rates
 
 That, on the recommendation of the Managing
@@ -235,7 +228,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;7th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -291,7 +283,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Ontario Works Rates
 
 That
   the following actions be taken with respect to Ontario Work Rates:
@@ -324,7 +315,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
   Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage
 
@@ -405,7 +395,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Shared Rail - Trail Link Along the CN Talbot Spur Line
 
 That the City Manager BE DIRECTED to:
@@ -439,7 +428,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Pool Equipment Noise - REQUEST FOR DELEGATION STATUS
 
 That no action BE TAKEN with respect to a
@@ -464,7 +452,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Partnership to Establish
   London as a UN Women’s Safe City
 
 That the following actions be taken with
@@ -509,7 +496,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the September 2017 Deferred Matters
@@ -532,7 +518,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) COUNCIL
   MEMBER SUBMISSION - Request for Information - London Police Services - Cost -
   August 26, 2017 Protest
 

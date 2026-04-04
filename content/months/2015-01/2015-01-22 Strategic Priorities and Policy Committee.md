@@ -15,7 +15,6 @@ January 22, 2015, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, B. Coxhead, A. Dunbar, J.M. Fleming, A. Hagan, M. Hayward, G.T. Hopcroft, O. Katolyk, L. Livingstone, J.P. McGonigle, D. O’Brien, L. Palarchio, J. Ramsay, C. Saunders, P. Sauro, J. Senese, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that the
@@ -46,10 +45,8 @@ c)           
   London Youth Advisory Council by indicating that this organization is a
   client of his company.
 
-# 2.&nbsp;&nbsp;&nbsp;2015
   Budget – Public Participation
 
-# 3.&nbsp;&nbsp;&nbsp;City Budget 2015 -
   Recommendations (G. Macartney, CEO, London Chamber of Commerce)
 
 Recommendation:  That the communication
@@ -80,7 +77,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;City Budget 2015 -
   Capital Grant Funding (F. Coates, General Manager, Palace Theatre)
 
 Recommendation:  That the communication
@@ -109,7 +105,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - 2015 Budget
   - Public Input
 
 Recommendation:  That, on the

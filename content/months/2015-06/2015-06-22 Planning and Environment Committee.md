@@ -15,13 +15,11 @@ June 22, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > (June 24, 2015)  M. van Holst, M. Salih, J. Morgan, H.L Usher, J. Zaifman;, G. Barrett, D. Dobson, S. Galloway, T. Grawey, N. Hall, A. MacPherson, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 THAT
   it BE NOTED That no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Not to be heard
   before 4:00 PM - PUBLIC PARTICIPATION MEETING - The London Plan - 
   Second Draft - June 2015
 

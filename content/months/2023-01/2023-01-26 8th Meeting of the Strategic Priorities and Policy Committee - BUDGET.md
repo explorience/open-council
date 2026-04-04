@@ -20,11 +20,9 @@ January 26, 2023, at  9:30 AM
 
 The meeting is called to order at 9:34 AM; it being noted that Councillor P. Cuddy was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor P. Van Meerbergen disclosed a pecuniary interest in Item 4.1 b.) having to do with Business Cass #P-2, Ontario Works and Children's Services, specific to the Children's Services portion, by indicating that his wife owns and operates her own daycare.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2023 Annual Budget Update Presentation
 
@@ -57,11 +55,9 @@ That the update presentation BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
 
@@ -1249,7 +1245,6 @@ it being noted that all rates and charges relating to the provision of Wastewate
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Municipal Council resolution from its meeting held on January 24, 2023 with respect to the Animal Welfare Community Advisory Committee
 
@@ -1282,7 +1277,6 @@ That the Added Communication from the Animal Welfare Community Advisory Committe
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

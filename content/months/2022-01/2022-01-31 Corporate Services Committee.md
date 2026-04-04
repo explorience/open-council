@@ -17,11 +17,9 @@ January 31, 2022, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that the following members attended remotely: Mayor E. Holder, Councillors M. Cassidy, M. Hamou, and J. Morgan.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -164,11 +162,9 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the st
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Parental Alienation Awareness Day
 
@@ -227,7 +223,6 @@ That pursuant to section 35.8 of the Council Procedure By-law that item 4.1 BE R
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -251,7 +246,6 @@ That the Corporate Services Committee Deferred Matters List as of January 24, 20
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Fyfe-Millar
 
@@ -332,7 +326,6 @@ employees of the Corporation.
 
 ## 6.3&nbsp;&nbsp;&nbsp;Personal Matters/Identifiable Individual
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Fyfe-Millar
 

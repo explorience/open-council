@@ -15,26 +15,22 @@ May 25, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Datars Bere, L. Hamer, J. Kobarda, O. Katolyk, L. Livingstone, S. MacDonald, A. Macpherson, C. Parker, C. Saunders, C. Smith, T. Wellhauser, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Accessibility Advisory Committee
 
 That the 4th Report of the Accessibility
   Advisory Committee from its meeting held on April 28, 2016 BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 4th Report of the London Diversity
   and Race Relations Advisory Committee from its meeting held on April 21, 2016
   BE RECEIVED
 
-# 4.&nbsp;&nbsp;&nbsp;529 Philip Street -
   Property Standards Related Demolition
 
 That, on the recommendation of the Managing
@@ -45,7 +41,6 @@ That, on the recommendation of the Managing
   the property located at 529 Philip Street, in accordance with the City of
   London Property Standards By-law and the Ontario Building Code. (2016-P10D)
 
-# 5.&nbsp;&nbsp;&nbsp;Master Product and
   Services Agreement with Intergraph Canada Ltd. doing Business as Hexagon
   Safety & Infrastructure and Upgrade Computer Aided Dispatch System
 
@@ -95,7 +90,6 @@ iii)         the
   purchases noted in b) above, including authorizing Statement of Work
   #2016-1014.  (2016-P03)
 
-# 6.&nbsp;&nbsp;&nbsp;2014-2017
   Multi-Sector Service Accountability Agreement Dearness Home Adult Day Program
   and the South West Local Health Integration Network Declaration of Compliance
   - April 2, 2015 - March 21, 2016
@@ -109,7 +103,6 @@ That, on the recommendation of the Managing
   report dated May 25, 2016 for the reporting period April 1, 2015 to March 31,
   2016.  (2016-S02)
 
-# 7.&nbsp;&nbsp;&nbsp;Achieva Health
   Increase on Contract Value
 
 That, on the recommendation of the Managing
@@ -138,7 +131,6 @@ it being noted that the contract with
   Procurement of Goods and Services Policy, to incorporate increases in
   Ministry of Health and Long Term Care funding for physiotherapy services.  (2016-S02/A05)
 
-# 8.&nbsp;&nbsp;&nbsp;Supporting the
   Community Response to Syrian Newcomers - Update
 
 That, on the recommendation of the Managing
@@ -146,7 +138,6 @@ That, on the recommendation of the Managing
   entitled “Supporting the Community Response to Syrian Newcomers – Update”, dated
   May 25, 2016, BE RECEIVED for information.  (2016-S15)
 
-# 9.&nbsp;&nbsp;&nbsp;Community Policing
   Partnership Program
 
 That, on the recommendation of the Chief of
@@ -164,7 +155,6 @@ b)         authorize
   the Mayor and the City Clerk  to execute the Agreement approved in a) above. 
   (2016-P03)
 
-# 10.&nbsp;&nbsp;&nbsp;Safer Communities
   1,000 Officers Partnership Program
 
 That, on the recommendation of the Chief of
@@ -182,7 +172,6 @@ b)         authorize
   the Mayor and the City Clerk to execute the Agreement approved in a) above.
   (2016-P03)
 
-# 11.&nbsp;&nbsp;&nbsp;Council Policy
   1(10) - Diversity, Race Relations and Inclusivity Award
 
 That, on the recommendation of the City
@@ -233,7 +222,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Cavendish Park
   Information Update - Deferred Matter #2
 
 That, on the recommendation of the Managing
@@ -241,7 +229,6 @@ That, on the recommendation of the Managing
   Information Update Deferred Matter 2”, dated May 25, 2016, BE RECEIVED for
   information.(2016-R04)
 
-# 13.&nbsp;&nbsp;&nbsp;By-law for the
   Execution of the Connection Agreement with London Hydro for a Load
   Displacement Generator at the Canada Games Aquatic Centre
 
@@ -260,7 +247,6 @@ b)         authorize
   the Mayor and the City Clerk to execute the Agreement approved in a) above. 
   (2016-E06)
 
-# 14.&nbsp;&nbsp;&nbsp;Dearness Home: Long
   Term Care and Adult Day Program Management Consulting and Administrator
   Services Contract
 
@@ -303,7 +289,6 @@ c)         the
   that are necessary in connection with the extension of the  Agreement noted
   in a) above.  (2016-S02)
 
-# 15.&nbsp;&nbsp;&nbsp;2nd Report of the
   Childcare Advisory Committee
 
 That the following actions be taken with
@@ -345,7 +330,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;2nd Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -413,7 +397,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;6th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -458,7 +441,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Councillor B.
   Armstrong - Robarts Provincial School for the Deaf and Amethyst Provincial
   Demonstration School
 
@@ -484,7 +466,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;C. Campbell,
   Director of Culture & Entertainment Tourism, Tourism London - Country
   Music Week 2016
 
@@ -528,7 +509,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the May 2016 Deferred Matters List for

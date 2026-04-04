@@ -17,11 +17,9 @@ January 7, 2025, at  1:00 PM
 
 The meeting was called to order at 1:01 PM; it being noted that Councillor E. Peloza was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;1st Report of the Community Advisory Committee on Planning 
 
@@ -45,7 +43,6 @@ That the 1st Report of the Community Advisory Committee on Planning Report, from
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;629 Baseline Road East (OZ-9807)
 
@@ -369,11 +366,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -398,7 +393,6 @@ That the Deferred List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

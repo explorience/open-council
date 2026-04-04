@@ -20,11 +20,9 @@ February 19, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor P. Squire disclosed a pecuniary interest in clause 2.5 of this Report, having to do with the application by Sunningdale Golf and Country Club Ltd., relating to the property located at 379 Sunningdale Road West, by indicating that he is a member of the Sunningdale Golf and Country Club.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -293,7 +291,6 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - L. Kirkness, Kirkness Consulting Inc. - 131 King Street - Obtain a Section 45(1.4) Council Resolution
 
@@ -781,11 +778,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 3rd Report of the London Advisory Committee on Heritage
 
@@ -863,7 +858,6 @@ d)         clauses 1.1, 3.1 to 3.3, 3.6, 5.1 to 5.4, inclusive, and 6.1 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:46 PM
 

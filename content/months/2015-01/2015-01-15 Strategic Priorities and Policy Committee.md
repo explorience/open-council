@@ -15,13 +15,11 @@ January 15, 2015, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, K. Chambers, I. Collins, T. Copeland, A. Dunbar, G. Gauld, A. Hagan, M. Hayward, D. Huggins, J. Lucas, R. Pedlow, C. Saunders, J. Simon, S. Spring, R. Sutton, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2015 Budgets -
   Water and Wastewater Treatment - Public Participation Meeting and Review
 
 Recommendation:  

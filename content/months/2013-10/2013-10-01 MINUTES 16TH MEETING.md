@@ -18,7 +18,6 @@ October 1, 2013, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J.B. Swan discloses a pecuniary
@@ -74,19 +73,15 @@ Councillor S.E. White discloses a pecuniary
   particularly as it relates to clause 3 of that Report, by indicating that she
   lives in proximity to the subject property located at 1030 Coronation Drive.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -114,9 +109,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS (continued)
 
-# 2.&nbsp;&nbsp;&nbsp;Western
   University's Research Park Progress Update and Future Plans
 
 That the attached presentation
@@ -129,7 +122,6 @@ That the attached presentation
   Economic Prosperity Committee (IEPC) meeting, in advance of the Municipal
   Council Meeting of October 1, 2013.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEETING HELD ON SEPTEMBER 17,
   2013
 
@@ -166,13 +158,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.P. Bryant
 
@@ -180,7 +169,6 @@ Approve clauses 1 to 10.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;The Municipal
   Council recognizes City of London Employees who have achieved 25 years of
   service during 2012:
  
@@ -201,7 +189,6 @@ Fire - Kevin Austin, Bridget A. Bond, Kevin
   Dash, Kimberly Gough, Steve Hardy, Andrew Henshall, Nick Hewetson, Philip
   Steven Oliva, Peter Sheriff, Scott Turnbull.
 
-# 4.&nbsp;&nbsp;&nbsp;Thames River Reach
   Study Update
 
 That the verbal update from the Director of
@@ -238,7 +225,6 @@ Approve clauses 2 and 3.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located on
   the North Side of North Routledge Park West of Hyde Park Road (39T-78066)
 
 That, on the recommendation of the Senior Planner,
@@ -261,7 +247,6 @@ b)         the
   Estimated Costs and Revenues" appended as Schedule "B" to the
   associated staff report, dated September 24, 2013.   (2013-D12)
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 1311, 1363 and 1451 Wharncliffe Road South
 
 That, on the recommendation of the Manager,
@@ -281,7 +266,6 @@ b)         the
   these matters and retain outside expert witnesses in support of the Municipal
   Council’s position.    (2013-L01)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South
   (OZ-7072/OZ-7073)
 
@@ -309,14 +293,12 @@ c)         the
   with the hearing of PL130020, relating to approval of the Southwest Area
   Secondary Plan.   (2013-L01)
 
-# 8.&nbsp;&nbsp;&nbsp;Environmental
   Review Lands Study
 
 That, on the recommendation of the Managing
   Director, Planning and City Planner, the report dated September 24, 2013,
   with respect to the Environmental Review Lands Study BE RECEIVED.  (2013-E20)
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 611-619 Oxford Street East (O-8213)
 
 That, on the recommendation of the Managing
@@ -359,7 +341,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2013-D14A)
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 That Carson Rennick BE APPOINTED to the
@@ -420,7 +401,6 @@ Approve clauses 1 to 5.
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   2290 Torrey Pines Way (39CD-13510)
 
 That, on the recommendation of the Senior Planner,
@@ -438,7 +418,6 @@ b)         the
   instead of a separate development agreement and a separate condominium
   agreement, to address the development of this site.   (2013-D07)
 
-# 13.&nbsp;&nbsp;&nbsp;9th Report of the
   London Advisory Committee on Heritage and Property located at 275 Thames
   Street
 
@@ -545,7 +524,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1103 Adelaide Street North
 
 That on the recommendation of the Manager
@@ -892,7 +870,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
 That, notwithstanding the recommendation of
@@ -902,7 +879,6 @@ That, notwithstanding the recommendation of
   Administration for consultation with the developer and the community on
   issues related to, but not limited to, height, density and setbacks;
 
-# 15.&nbsp;&nbsp;&nbsp;Stoney Creek Open
   Space System
 
 That, the following actions be taken with
@@ -978,12 +954,9 @@ Approve clauses 1 to 3.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor J.L. Baechler
@@ -1156,7 +1129,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1258,7 +1230,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

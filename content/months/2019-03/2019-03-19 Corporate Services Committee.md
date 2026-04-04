@@ -17,11 +17,9 @@ March 19, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -419,11 +417,9 @@ b)            the Civic Administration BE DIRECTED to immediately beg
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Downtown Business Association Improvement Area - 2019 Proposed Budget - Municipal Special Levy
 
@@ -577,11 +573,9 @@ That the Attorney General of Ontario and the Alcohol Gaming Commission of Ontari
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Van Meerbergen
 
@@ -631,7 +625,6 @@ The Corporate Services Committee convened, In Closed Session, from 2:28 PM to 3:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:44 PM.
 

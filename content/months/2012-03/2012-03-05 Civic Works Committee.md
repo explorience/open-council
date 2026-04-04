@@ -15,16 +15,13 @@ March 5, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Dunbar, D. Huggins, S. Koshowski, J. Lucas, S. Maguire, D. Menard, D. Mounteer, A. Rozentals, J. Simon, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Transportation Advisory Committee, from its meeting held on February 7, 2012,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Close Circuit
   (CCTV) Sewer Inspection Service - Tender 12-12
 
 Recommendation:  That, on the
@@ -55,7 +52,6 @@ d)         the
   into a formal contract or issuing purchase orders or a contract record
   relating to the matters of this approval.  (2012-W10-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Granular Materials
   - Area "B" - Tender 12-18
 
 Recommendation:  That, on the
@@ -85,7 +81,6 @@ d)         the
   into a formal contract or issuing purchase orders or a contract record
   relating to the matters of this approval.  (2012-F13-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Supply of Hot Mix
   Asphalt for Road Maintenance and Repair - Tender 12-20
 
 Recommendation:  That, on the
@@ -110,7 +105,6 @@ c)         the
   into a formal contract or issuing purchase orders or a contract record
   relating to the matters of this approval.  (2012-F13-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -120,7 +114,6 @@ Recommendation:  That, on the
   INTRODUCED at the Municipal Council meeting to be held on March 20, 2012.
    (2012-S09-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Lead Mitigation
   Program Update
 
 Recommendation:  That the information
@@ -129,7 +122,6 @@ Recommendation:  That the information
   City of London’s lead mitigation program for Londoners with lead water
   service pipes, BE RECEIVED.  (2012-W13-00)
 
-# 8.&nbsp;&nbsp;&nbsp;City of London
   Water Distribution System - 2011 Compliance Report
 
 Recommendation:  That the information
@@ -140,7 +132,6 @@ Recommendation:  That the information
   Engineer, with respect to the 2011 Compliance Report for the City of London’s
   Water Distribution System, BE RECEIVED.  (2012-W13-00)
 
-# 9.&nbsp;&nbsp;&nbsp;The Meadowlily
   Bridge Restoration and Cultural Heritage Evaluation Study Report
 
 Recommendation:  That, on the recommendation

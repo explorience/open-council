@@ -18,7 +18,6 @@ November 5, 2013, at  4:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -67,13 +66,10 @@ Councillor J.B. Swan discloses a pecuniary
   arts centre, by indicating that his employer, Orchestra London, is a
   proponent.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -88,7 +84,6 @@ Approve that Council rise and go into
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON OCTOBER 22,
   2013
 
@@ -126,13 +121,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS (Continued)
 
 > Moved by Councillor D. Brown
 
@@ -140,9 +132,7 @@ Approve clauses 1, 2, 3, 5, 9, 10, 12, 13, 14 and 17.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Mixed-Use Development Including a
   Performing Arts Centre – Review of Proposals and Public Input
 
 Motion Passed
@@ -235,13 +225,10 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Economic Development Corporation –
   Activity Update
 
-# 4.&nbsp;&nbsp;&nbsp;Inquiry – CIP Development Along the 401
   Corridor
 
-# 5.&nbsp;&nbsp;&nbsp;Porter Airlines in London, Ontario
 
 That the Greater London International
   Airport Authority BE ADVISED that the City of London fully supports the
@@ -272,7 +259,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adelaide Street/Canadian
   Pacific Railway Grade Separation
 
 That, on the recommendation of the
@@ -349,7 +335,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Waste Diversion and
   Garbage Collection Updates
 
 That, on the recommendation of the Director,
@@ -413,7 +398,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Sanitary Service
   Agreement between the City of London and Middlesex Centre
 
 That the attached presentation
@@ -456,14 +440,12 @@ Approve clauses 11 and 12.
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Water Bill Investigation
 
 That the communication dated August 9,
   2013, from M. Bruggeman, with respect to the water bills for 51 Chesterfield
   Avenue, BE REFERRED to staff for continued discussion and resolution. 
   (2013-E06)
 
-# 6.&nbsp;&nbsp;&nbsp;Wellington Street
   Parking Meters
 
 That, on the recommendation of the
@@ -471,7 +453,6 @@ That, on the recommendation of the
   changing the parking regulations on Wellington Street between Grosvenor
   Street and Cheapside Street.  (2013-T02)
 
-# 8.&nbsp;&nbsp;&nbsp;2012 Community
   Energy and Greenhouse Gas Inventory Challenges and Opportunities
 
 That the staff report dated October 28,
@@ -479,7 +460,6 @@ That the staff report dated October 28,
   the 2012 Community Energy and Greenhouse Gas Inventory: Challenges and
   Opportunities report BE RECEIVED.  (2013-E17)
 
-# 12.&nbsp;&nbsp;&nbsp;Water Power Imports
   from Quebec
 
 That the communication dated October 8,
@@ -517,7 +497,6 @@ Approve clauses 1, 3, 4 and 5.
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;8th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -560,9 +539,7 @@ b)         clause
  
 c)         clauses 3 to 16 BE RECEIVED.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 14.&nbsp;&nbsp;&nbsp;9th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -622,7 +599,6 @@ it being noted that the Community and
   Protective Services Committee received a verbal presentation from P.
   Shanahan, Chair LDRRAC, with respect to this matter.
 
-# 17.&nbsp;&nbsp;&nbsp;S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
 
 That the request for delegation status,
@@ -635,7 +611,6 @@ Approve clauses 4, 15 and 16.
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;2014 Child Care
   Service Plan
 
 That, on the recommendation of the Managing
@@ -652,7 +627,6 @@ b)         the
   APPROVED as a drawdown from the Child Care and Early Childhood Development
   Reserve Fund.   (2013-S12)
 
-# 16.&nbsp;&nbsp;&nbsp;Children's Services
   Funding Agreement
 
 That, on the recommendation of the Managing
@@ -705,10 +679,8 @@ Approve clauses 6, 7 and 8.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor B.
   Councillor B. Armstrong enquired as to whether the report regarding the
@@ -726,10 +698,8 @@ Councillor S. Orser enquired if the Civic
   to recycling.  It was noted that a report is forthcoming with respect to this
   and other recycling matters.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -919,7 +889,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

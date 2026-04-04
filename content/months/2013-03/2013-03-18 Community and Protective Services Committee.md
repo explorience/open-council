@@ -15,13 +15,11 @@ March 18, 2013, at  7:09 PM
 > [!abstract]- Also Present:
 > I. Collins, B. Coxhead, J. Kobarda, O. Katolyk, L. Livingstone, C. Saunders, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor D.
   Brown disclosed a pecuniary interest in clause 10 of this Report, having to
   do with London Taxicab Owners’ and Drivers’ Group Inc. application to the
   Ontario Superior Court of Justice, by indicating that her employer operates a
   taxi dispatch service.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 3rd Report of the
@@ -38,7 +36,6 @@ Recommendation:  That the 3rd Report of the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation: That the following actions
@@ -65,7 +62,6 @@ b)         the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the
   Community Safety and Crime Prevention Advisory Committee.
 
 Recommendation:  That the 2nd Report of the
@@ -85,7 +81,6 @@ Recommendation:  That the 2nd Report of the
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2nd Report of the Accessibility
   Advisory Committee
 
 Recommendation:  That the 2nd Report of the
@@ -102,7 +97,6 @@ Recommendation:  That the 2nd Report of the
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;City of London and
   London District Catholic School Board Liaison Committee
 
 Recommendation:  That, on the
@@ -120,7 +114,6 @@ Recommendation:  That, on the
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Automatic Aid
   Agreement with Central Elgin
 
 Recommendation:  That, on the
@@ -148,7 +141,6 @@ b)         authorize
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Policy Regarding
   the Use of Inflatable Amusement Devices During Rentals of City Parks or Other
   Facilities
 
@@ -170,7 +162,6 @@ Recommendation:  That, on the
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Social Assistance
   Review Commission Report: "Brighter Prospects: Transforming Social
   Assistance in Ontario"
 
@@ -189,7 +180,6 @@ Recommendation:  That, on the
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;London Taxicab
   Owners' and Drivers' Group Inc. Application to the Ontario Superior Court of
   Justice
 
@@ -208,7 +198,6 @@ Recommendation:  That, on the
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;4th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation: That the following actions
@@ -246,7 +235,6 @@ b)         clauses
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;2013-2016 Service
   Accountability Agreement between The Corporation of the City of London
   (Dearness Home) and the South West Local Health Integration Network (LHIN)
 

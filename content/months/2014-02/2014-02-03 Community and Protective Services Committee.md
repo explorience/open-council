@@ -12,7 +12,6 @@ February 3, 2014, at  7:07 PM
 > [!abstract]- Also Present:
 > B. Polhill;, S. Datars Bere, L. Livingstone, R. Sharpe, C. Smith
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that the
@@ -32,7 +31,6 @@ b)           
   School Board Liaison Committee, by indicating that the Thames Valley District
   School Board is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the City
   of London and Thames Valley District School Board Liaison Committee
 
 Recommendation:  That the 2nd Report of the
@@ -55,21 +53,18 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Community Safety and Crime Prevention Advisory Committee, from its meeting
   held on January 23, 2014, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;1st Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Accessibility Advisory Committee, from its meeting held on January 23, 2014,
   BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the following actions
@@ -137,7 +132,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Strategic Funding
   Framework: Revised Grant Agreement
 
 Recommendation:  That, on the recommendation

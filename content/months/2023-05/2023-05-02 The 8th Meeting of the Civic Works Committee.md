@@ -20,11 +20,9 @@ May 2, 2023, at 12:00 PM
 
 The meeting was called to order at 12:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Trosow discloses a pecuniary interest in Item 2.4, having to do with the Broughdale Dyke Disaster Mitigation and Adaptation Funding – Contribution Agreement, by indicating that he owns property in the area of project.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -119,11 +117,9 @@ e)    authorize the Deputy City Manager, Finance Supports, or their delegate, 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor S. Franke - Plastic Regulations Feedback
 
@@ -153,11 +149,9 @@ c)    the Civic Administration BE DIRECTED to provide a copy of the written su
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:10 PM.
 ---

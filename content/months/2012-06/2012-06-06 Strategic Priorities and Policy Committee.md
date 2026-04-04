@@ -15,19 +15,16 @@ June 6, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > E. Gamble, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor D.T.
   Brown disclosed a pecuniary interest in clause 13 of this Report having to do
   with appointments to the Transportation Advisory Committee by indicating that
   her employer operates a transportation business in London.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Striking Committee
  
 That clauses 1 to 4, inclusive, of the 1st
   Report of the Striking Committee, from its meetings held on May 3 and May 15,
   2012, BE RECEIVED AND NOTED.
 
-# 3.&nbsp;&nbsp;&nbsp;Accessibility
   Advisory Committee
 
 Recommendation:  That the following BE
@@ -80,7 +77,6 @@ Deb Wilson-MacLeod (Partners in
 Valerie Waines (Seniors’ Community of
        London)
 
-# 4.&nbsp;&nbsp;&nbsp;Advisory Committee
   on the Environment
 
 Recommendation:  That the following BE
@@ -134,7 +130,6 @@ Iqbal
 Janine
        Pitman (Thames Valley District School Board)
 
-# 5.&nbsp;&nbsp;&nbsp;Agricultural
   Advisory Committee
 
 Recommendation:  That the following BE
@@ -168,7 +163,6 @@ Steve
 Doug
        Duffin (Middlesex Federation of Agriculture – Alternate)
 
-# 6.&nbsp;&nbsp;&nbsp;Animal Welfare
   Advisory Committee
 
 Recommendation:  That the following BE
@@ -225,7 +219,6 @@ Non-Voting:
   Faith
   Sekercioglu (Middlesex-London Health Unit)
 
-# 7.&nbsp;&nbsp;&nbsp;Child Care Advisory
   Committee
 
 Recommendation:  That the following BE
@@ -272,7 +265,6 @@ Ellen
 Holly
        Gerrits (Local School Boards)
 
-# 8.&nbsp;&nbsp;&nbsp;Community Safety
   and Crime Prevention Advisory Committee
 
 Recommendation:  That the following BE
@@ -338,7 +330,6 @@ Non-Voting:
   Simmi
   Sandhu (Youth Representative - Thames Valley District School Board)
 
-# 9.&nbsp;&nbsp;&nbsp;Environmental and
   Ecological Planning Advisory Committee
 
 Recommendation:  That the following BE
@@ -388,7 +379,6 @@ Christine
 Joe
        Gordon (Kettle Creek Conservation Authority)
 
-# 10.&nbsp;&nbsp;&nbsp;London Advisory
   Committee on Heritage
 
 Recommendation:  That the following BE
@@ -433,7 +423,6 @@ Darryl
        Dann (Archaeology/Anthropology - Ontario Archaeological Society, London
        Chapter)
 
-# 11.&nbsp;&nbsp;&nbsp;London Diversity
   and Race Relations Advisory Committee
 
 Recommendation:  That the following BE
@@ -506,7 +495,6 @@ Terri
 Sheila
        Wilson (Fanshawe College of Applied Arts and Technology)
 
-# 12.&nbsp;&nbsp;&nbsp;London Housing
   Advisory Committee
 
 Recommendation:  That the following BE APPOINTED
@@ -560,7 +548,6 @@ Glenn
 David
        Norton (London & Middlesex Housing Corporation)
 
-# 13.&nbsp;&nbsp;&nbsp;Transportation
   Advisory Committee
 
 Recommendation:  That the following BE
@@ -600,7 +587,6 @@ John
 Iqbal
        Kalsi (Middlesex-London Health Unit)
 
-# 14.&nbsp;&nbsp;&nbsp;Trees and Forests
   Advisory Committee
 
 Recommendation:  That the following BE
@@ -641,7 +627,6 @@ Ken
 Brandon
        Williamson (Upper Thames River Conservation Authority)
 
-# 15.&nbsp;&nbsp;&nbsp;Creative City Committee
 
 That the following actions be taken with
   respect to appointments to the Creative City Committee:
@@ -659,7 +644,6 @@ b)           
   BE EXTENDED until such time as new appointments are made in keeping with
   a), above.
 
-# 16.&nbsp;&nbsp;&nbsp;Town and Gown Committee
 
 That the following BE APPOINTED to
   the Town and Gown Committee for the term ending February 28, 2015; it being
@@ -678,7 +662,6 @@ Pauline
 Dennis Pellarin (Western University
        Neighbourhood Area)
 
-# 17.&nbsp;&nbsp;&nbsp;Letter of Appreciation – Striking Committee
   Members
 
 That the Mayor BE REQUESTED to write
@@ -687,7 +670,6 @@ That the Mayor BE REQUESTED to write
   G. Thompson, Striking Committee Chair, provided an brief overview of the
   process followed by the Striking Committee in making its recommendations.
 
-# 18.&nbsp;&nbsp;&nbsp;Enquiry – Councillor P. Hubert
 
 Councillor P. Hubert enquired if an
   Advisory Committee member would be required to step down from an Advisory

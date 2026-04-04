@@ -12,13 +12,11 @@ March 24, 2015, at 12:10 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, P. Squire, M. van Holst; A. Zuidema, R. Armistead, G. Bailey, J.P. Barber A.L. Barbon, G. Barrett, J. Braam, S. Corman, M. Daley, A. Dunbar, C. Dziedzic, J.M. Fleming, A. Hagan, M. Hayward, L. Kolodiazny, J. Kovacs, J. Logan, V. McAlea Major, D. Mounteer, K. Pawelec, M. Ribera, S. Swance, M. Tomazincic, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Sale of VQA Wine at
   Eligible Ontario Farmers' Markets
 
 That, on the recommendation of the City
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;City of London Days
   at Budweiser Gardens - Growing Chefs! Ontario Society
 
 That, on the recommendation of the City Clerk
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Information About
   the Use of Credit Cards for Property Tax Payments on the City Website
 
 That, on the recommendation of the Managing
@@ -96,7 +92,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Banking Services
   and Commercial Card Agreements - Contract Extension
 
 That, on the recommendation of the Managing
@@ -132,7 +127,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Signing Authority
   By-law
 
 That, on the recommendation of the Managing
@@ -160,7 +154,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Statement of Remuneration
   and Expenses - Elected and Appointed Officials
 
 That, in accordance with Section 284 of the
@@ -184,7 +177,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Public Sector
   Salary Disclosure Act Report for Calendar Year 2014
 
 That, on the recommendation of the Managing
@@ -209,7 +201,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Receive Funding for the Personalized Information
   Toolbox for Immigrants and International Students
 
@@ -246,7 +237,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Fibre Optic
   Connection Grant Program for Downtown - Amendments to Purchase of Services
   Agreement with London Economic Development Corporation
 
@@ -282,7 +272,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Expropriation of
   Lands - Fanshawe Park Road Widening (Phase ll - TS1475-02)
 
 That, on the recommendation of the Managing
@@ -331,7 +320,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Lorne Avenue Public
   School Update
 
 That, on the recommendation of the Managing
@@ -370,7 +358,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   Advisory Committee of the Environment (Requires 1 Member at Large)
 
 That Diane Szoller BE APPOINTED to the
@@ -420,7 +407,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Appointments to the
   Town and Gown Committee (Requires 1 Neighbourhood Representative of a
   Residential Area in the Immediate Vicinity of Western University and 1
   Neighbourhood Representative of a Residential Area in the Immediate Vicinity
@@ -476,7 +462,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the London Diversity and Race Relations Advisory Committee
   (Requires 1 Voting Member-at-Large; 1 Non-Voting Member Representing the
   Aboriginal Community Group; 1 Non-Voting Member Representing the Immigrant
@@ -559,7 +544,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Trees and Forests Advisory Committee (Requires  1
   Voting Member-at-Large and 1 Voting Representative of the Urban League of
   London
@@ -631,7 +615,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Transportation Advisory Committee (Requires 1 Voting
   Representative of the London Chamber of Commerce)
 
@@ -656,7 +639,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee (Requires
   1 Voting Representative from the London District Catholic School Board and 1
   Voting Representative from the Traffic Safety Education Committee-Safety
@@ -688,7 +670,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Advisory Committee on Heritage (Requires 1 Voting
   Representative of the Built Heritage - London Branch of the Architectural
   Conservancy of Ontario and 1 Non-Voting Representative of the London Heritage
@@ -724,7 +705,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Lobbyist Registry
 
 That the Civic Administration BE REQUESTED to
   bring forward its earlier report on the potential for implementing a Lobbyist

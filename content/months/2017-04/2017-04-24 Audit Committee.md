@@ -15,7 +15,6 @@ April 24, 2017, at  3:00 PM
 > [!abstract]- Also Present:
 > J. Helmer; A.L. Barbon, A. Hagan, N. Hall, D. McLean (PwC), K. Murray, C. Shah (PwC)
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That

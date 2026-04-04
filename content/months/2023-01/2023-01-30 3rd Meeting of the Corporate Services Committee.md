@@ -20,11 +20,9 @@ January 30, 2023, at 12:00 PM
 
 The meeting is called to order at 12:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -132,11 +130,9 @@ That the matter of the declaration of the property located at Part of 641 Queens
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by S. Stevenson
 
@@ -184,11 +180,9 @@ That based on the application dated January 13, 2023 from the Girl Guides of Can
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Stevenson
 
@@ -272,7 +266,6 @@ The Corporate Services Committee convenes in Closed Session from 12:48 PM to 1:3
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

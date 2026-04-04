@@ -20,21 +20,17 @@ July 5, 2022, at  4:00 PM
 
 The meeting is called to order at 4:01 PM;  it being noted that the following members were in remote attendance: Councillors M. van Holst, J. Helmer, M. Hamou, P. Van Meerbergen, E. Peloza and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Hillier discloses a pecuniary interest in Item 8 (5.1) of the 8th Report of the Community and Protective Services Committee, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family also hosts a five day event.
 
 Councillor P. Van Meerbergen discloses a pecuniary interest in Bill No. 260, having to do with the establishment of a Child Care and Early Childhood Development Reserve Fund and the repeal of By-law No. A.-6945-139, as amended, by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 There are none.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -96,7 +92,6 @@ Council convenes In Closed Session, from 4:15 PM to 4:35 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Van Meerbergen
 
@@ -124,7 +119,6 @@ That the Minutes of the 9th Meeting, held on June 14, 2022, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by E. Peloza
 
@@ -186,11 +180,9 @@ That the following communications BE RECEIVED and BE REFERRED, as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Planning and Environment Committee
 
@@ -1593,7 +1585,6 @@ That the communication on the agenda and the revised communication on the added 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;10th Report of Council in Closed Session
 
@@ -1684,21 +1675,17 @@ b)    the financing for this acquisition BE APPROVED as set out in the Source 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor A. Hopkins enquires with respect to the process to review the Fire Works By-law. The Deputy City Manager, Neighbourhood and City-wide Services provides information about the next steps for community survey, draft staff report, public feedback, and final report to Council.
 
 Councillor M. van Holst enquires with respect to urban encampments, shelter capacity, and transitional housing.  The Director, Housing Stability Services provides information on the supports provided to address these issues in the community.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Van Meerbergen
 
@@ -2283,7 +2270,6 @@ By-law No. Z.-1-223042 - A by-law to amend By-law No. Z.-1 to rezone an area of 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by A. Hopkins
 

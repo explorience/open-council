@@ -15,13 +15,11 @@ June 17, 2014, at  1:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Belch, J. Braam, C. Colvin, J.M. Fleming, G.T. Hopcroft, V. McAlea Major, D. Mounteer, D. O’Brien, A. Ripepi, C. Saunders, J. Senese, J. Smout, S. Swance, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Investment
   Report
 
 Motion Passed
@@ -52,7 +50,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Revision of Taxes
   Section of City Council Policy Manual
 
 Motion Passed
@@ -103,7 +100,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment to the
   Transportation Advisory Committee (Requires 1 Voting Member from the Council
   for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
   Committee)

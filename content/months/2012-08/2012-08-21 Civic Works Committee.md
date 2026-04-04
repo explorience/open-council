@@ -15,10 +15,8 @@ August 21, 2012, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, T. Copeland, A. Drost, A. Dunbar, B. Krichker, J. Lucas, D. MacRae, J. Ramsay, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
 
 Recommendation:  That, on the
@@ -28,7 +26,6 @@ Recommendation:  That, on the
   the Traffic and Parking By-law (P.S. 111) to address safety concerns during
   the Western Fair. (2012-G05-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Highway Salt (Tender 12-76)
 
 Recommendation:  That, on the
@@ -53,7 +50,6 @@ c)         the
   formal contract or issuing purchase orders or a contract record relating to this
   approval. (2012-W00-00)
 
-# 4.&nbsp;&nbsp;&nbsp;London Road Safety
   Strategy - Appointment of Consulting Engineer (Project Number TS4040)
 
 Recommendation:  That, on the
@@ -85,7 +81,6 @@ e)         the
   other documents, if required, to give effect to these recommendations. 
   (2012-A09-3-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Highway
   401/Westminster Drive Structure Replacement - Ministry of Transportation
   Class Environmental Assessment
 
@@ -106,7 +101,6 @@ b)         a
 c)         a
   bridge closure for a period up to three-months during construction.  (2012-S11-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Hyde Park Road
   Widening Phase 1, North of Oxford Street to North of CN Railway - Appointment
   of Consulting Engineer (TS1477-1)
 
@@ -145,7 +139,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-A03-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Foundation Drain
   Disconnection to Mitigate Basement Flooding
 
 Recommendation:  That, on the
@@ -153,7 +146,6 @@ Recommendation:  That, on the
   information report dated August 21, 2012, with respect to foundation drain
   disconnections to mitigate basement flooding, BE RECEIVED.  (2012-W10-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Single Source
   Purchase of New Dome Bricks for the Greenway Sludge Incinerator
 
 Recommendation:  That, on the
@@ -180,7 +172,6 @@ d)         the
   formal contract or issuing a purchase order relating to the subject matter of
   this approval. (2012-W06-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Proposed New
   Procedures and Fee Structure for Developer-Led Water Servicing Under the
   Municipal Drinking Water Works Permit
 

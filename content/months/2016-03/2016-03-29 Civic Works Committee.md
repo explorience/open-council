@@ -12,7 +12,6 @@ March 29, 2016, at  1:00 PM
 > [!abstract]- Also Present:
 > V. Ridley, J. Zaifman; G. Belch, J. Braam, U. DeCandido, A. Drost, A. Dunbar, J. Lucas, D. MacRae, S. Mathers, D. Popadic, M. Ribera, L. Rowe, E. Soldo, J. Stanford, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor J. Helmer
   the Community Mail Boxes, by indicating that his wife is employed by Canada
   Post.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law PS-111 with Respect to Off Street Accessible
   Parking Stalls
 
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -112,7 +109,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Leasing of Highway
   Tractors for Sludge Hauling
 
 That, on the recommendation of the Managing
@@ -158,7 +154,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-02 - 2016 Infrastructure Renewal Program - South, Waterloo and
   Hill Streets Reconstruction Project
 
@@ -228,7 +223,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-37 - 2016 Infrastructure Lifecycle Renewal Program Contract 5:
   Landor Street
 
@@ -292,7 +286,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2016 Renew London
   Infrastructure Construction Project
 
 That, on the recommendation of the Managing
@@ -320,7 +313,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2016 Annual
   Warranted Sidewalk Program
 
 That, on the recommendation of the Director,
@@ -345,7 +337,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Transport Canada -
   Grade Crossing Regulations
 
 That, on the recommendation of the
@@ -371,7 +362,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-14 - Veterans Memorial Parkway Resurfacing
 
 That, on the recommendation of the Managing
@@ -428,7 +418,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of
   Contractor to Complete Maintenance on Dingman Creek Municipal Drain
   (ES4834-14)
 
@@ -480,7 +469,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Update on Community
   Carshare in London
 
 That, on the recommendation of the
@@ -505,7 +493,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Responding to the
   Provincial Public Electric Vehicle (EV) Charging Stations Application Process
   and Related Updates
 
@@ -578,7 +565,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Community Program - 2015 Summary and 2016 Planning Report
 
 That, on the recommendation of the Managing
@@ -607,7 +593,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization - Status of Opportunities and Next Steps
 
 That, on the recommendation of the
@@ -678,7 +663,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Kindness Meters
 
 That the Civic Administration BE DIRECTED
   to dispose of 2 surplus parking meters, at no cost to the Lions Club (London
@@ -706,7 +690,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 That
@@ -730,7 +713,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;4th Report of the
   Cycling Advisory Committee
 
 That
@@ -754,7 +736,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Field Marshal
   Wolseley Bridge (Quebec Street)
 
 Motion
@@ -775,7 +756,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Deferred Matter List
 
 That the following actions be taken with
   respect to the Civic Works Committee (CWC) Deferred Matters List as at March
@@ -809,7 +789,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Canada Post Community Mail Box Program
 
 That the Civic Administration BE REQUESTED
   to include the costs associated with respect to the installation of “No Parking”

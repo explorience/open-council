@@ -12,14 +12,12 @@ November 5, 2012, at  4:03 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, M. Brown, P. Hubert, G. Barrett, M. Corby, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, D. Menard, D. O’Brien, C. Parker, J. Ramsay, M. Ribera, C. Saunders, C. Smith, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that
   Councillor B. Polhill disclosed a pecuniary interest in clause 10 of this
   Report having to do with the application of Middlesex Vacant Land Condominium
   Plan No. 677 relating to the property located at 181 Skyline Avenue, as
   the application was dealt with by the Committee of Adjustment, by indicating
   that his son is a member of the Committee of Adjustment.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   2310, 2330 and 2350 Dundas Street (39T-12502)
 
 Recommendation:  That, on the
@@ -47,7 +45,6 @@ c)         the
   “Estimated Claims and Revenues Report” provided as Schedule “B” to the
   associated staff report, dated November 5, 2012.    (2012-D26-05)
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 2310, 2330 and 2350 Dundas Street (H-8109)
 
 Recommendation:  That, on the
@@ -72,7 +69,6 @@ Recommendation:  That, on the
   “h-11” holding provision; subject to final approval and registration of the
   plan of subdivision. (2012-D26-05)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   995 Fanshawe Park Road West (H-8089)
 
 Recommendation:  That, on the
@@ -85,7 +81,6 @@ Recommendation:  That, on the
   a Residential R1 (R1-13) Zone, to remove the h. and h-100 holding provisions.  
   (2012-D11-05)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   89 York Street (H-8064)
 
 Recommendation:  That, on the
@@ -97,7 +92,6 @@ Recommendation:  That, on the
   lands FROM a holding Downtown Area (h-1-h-3-DA2-D350) Zone TO a
   Downtown Area (DA2-D350) Zone, to remove the holding provisions.  (2012-D11-02)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1820 Woodhull Road (39T-03511)
 
 Recommendation:  That, on the
@@ -124,7 +118,6 @@ c)         the
   “Estimated Claims and Revenues Report” provided as Appendix “A” to the
   associated staff report, dated November 5, 2012.   (2012-D26-04)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1139 Fanshawe Park Road West (H-8086)
 
 Recommendation:  That, on the
@@ -138,7 +131,6 @@ Recommendation:  That, on the
   (R1-3/R4-3) and a Residential R1 (R1-3) Zone, to remove the h. and h-100
   holding provisions.   (2012-D11-07)
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 255 South Carriage Road and 1331 Hyde Park Road (39T-08502)
 
 Recommendation:  That, in response to the
@@ -157,7 +149,6 @@ b)        
   these matters and may retain outside expert witnesses in support of the
   Municipal Council’s position.   (2012-D26-03)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   7 Holiday Avenue (H-7964)
 
 Recommendation:  That, on the
@@ -175,7 +166,6 @@ Recommendation:  That, on the
   site plan, is entered into, to the satisfaction of the Municipal Council .
   (2012-D11-03)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   181 Skyline Avenue
 
 Recommendation:  That, on the
@@ -194,7 +184,6 @@ b)        
   DIRECTED to provide legal and planning representation at the Ontario
   Municipal Board Hearing to support the Committee of Adjustment’s decision.   (2012-D11-05)
 
-# 11.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 2nd Report of the
@@ -203,7 +192,6 @@ Recommendation:  That the 2nd Report of the
   Planning and Environment Committee did not hear a verbal presentation from D.
   Sheppard, Chair, EEPAC.
 
-# 12.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -254,7 +242,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from W.
   Kinghorn, Vice-Chair, LACH, with respect to these matters.
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1351-1369 Hyde Park Road (O-8077)
 
 Recommendation:  That, further to
@@ -312,7 +299,6 @@ it
   Road; noting that the intention for the east half of the property was always
   to be turned into residential properties.   (2012-D18-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   2079 Huron Street
 
 Recommendation:  That, on the
@@ -339,7 +325,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.    (2012-D10-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Grosvenor Gate
   Neighbourhood Character Statement and Compatibility Guidelines (O-8102)
 
 Recommendation:  That, on the
@@ -394,7 +379,6 @@ it being pointed out that at the public
   site plan stage; and advising that there are no zoning changes required so
   the community had no choice but to work with the developer.   (2012-D11-02)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   2371 Highbury Avenue North (Z-8078)
 
 Recommendation:  That, notwithstanding the
@@ -426,7 +410,6 @@ it being pointed out that at the public
   participation meeting; and, requesting that, if a revised justification
   report is circulated, he be allowed to review it.   (2012-D11-08)
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   390 Princess Avenue (OZ-8088)
 
 Recommendation:  That, on the
@@ -596,7 +579,6 @@ it being pointed out that at the public
   they are supportive of the application as it does not require the removal of
   a heritage structure.    (2012-D11-08)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   591 Maitland Street
 
 Recommendation:  That, notwithstanding the
@@ -768,7 +750,6 @@ advising that the
   support for the London Advisory Committee on Heritage and Civic Administration’s
   recommendations.   (2012-D10-00)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   450 Oxford Street West (OZ-8003)
 
 Recommendation:  That the delegation
@@ -778,21 +759,18 @@ Recommendation:  That the delegation
   and Environment Committee meeting; it being noted that the application will
   be coming forward at a public participation meeting at that meeting.   (2012-D11-09/2)
 
-# 20.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 3rd Report of the
   Advisory Committee on the Environment from its meeting held on October 3,
   2012, BE RECEIVED.
 
-# 21.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Trees and Forests Advisory Committee from its meeting held on October 24,
   2012, BE RECEIVED.
 
-# 22.&nbsp;&nbsp;&nbsp;Performance Indicators
 
 Recommendation:  That the Managing
   Director, Planning & City Planner BE DIRECTED to provide, at the

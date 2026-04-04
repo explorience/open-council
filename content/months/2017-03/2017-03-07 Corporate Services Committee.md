@@ -15,13 +15,11 @@ March 7, 2017, at 12:00 PM
 > [!abstract]- Also Present:
 > M. van Holst, J. Zaifman; M. Hayward, A.L. Barbon, G. Belch, L. Bruin, A. Dunbar, T. Gaffney, K. Graham, J. Kovacs, A. Macpherson, V. McAlea Major, D. Mounteer, L. Palarchio, D. Popadic, A. Ripepi, J. Senese, S. Spring, S. Swance, B. Warner, B. Westlake-Power, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London Community Suite - Fanshawe Foundation Request
 
 That, on the recommendation of the City
@@ -32,7 +30,6 @@ That, on the recommendation of the City
   it being noted that the Fanshawe Foundation will be required to meet all
   insurance, deposit, and administrative requirements outlined in the policy.
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Mayors of Southwest Ontario (MOSO) Update
 
 That, on the recommendation of the
@@ -54,7 +51,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Asset Review: Sale of Major Assets Policy and Future Asset Review Timelines
 
 That, on the recommendation of the Managing
@@ -97,7 +93,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Old
   East Village Business Improvement Area - 2017 Proposed Budget - Municipal
   Special Levy
 
@@ -129,7 +124,6 @@ d)         the
   Improvement Area, BE INTRODUCED at the Municipal Council meeting to be held on
   March 21, 2017.
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Downtown Business Association - 2017 Proposed Budget - Municipal
   Special Levy
 
@@ -161,7 +155,6 @@ d)         the
   Improvement Area, BE INTRODUCED at the Municipal Council meeting to be held on
   March 21, 2017.
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Argyle Business Improvement Area - 2017 Proposed Budget - Municipal Special
   Levy
 
@@ -192,7 +185,6 @@ d)         the
   respect to municipal special levy for the Argyle Business Improvement Area,
   BE INTRODUCED at the Municipal Council meeting to be held on March 21, 2017.
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Reserve Funds Housekeeping - Woodland Acquisition and Management Reserve Fund
 
 That, on the recommendation of the Managing
@@ -218,7 +210,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Reserve Funds Housekeeping - Parkland Acquisition Reserve Fund
 
 That, on the recommendation of the Managing
@@ -229,7 +220,6 @@ That, on the recommendation of the Managing
   and to repeal and replace By-law A.-4968-17, entitled “A by-law to establish a
   reserve fund for Parklands”.
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Reserve Fund Housekeeping - Community Investment Reserve Fund
 
 That, on the recommendation of the Managing
@@ -253,7 +243,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendment to Council Policy Pertaining to "Accounts Receivable and
   Collections Policy"
 
@@ -265,7 +254,6 @@ That, on the recommendation of the Managing
   adopt a new Council Policy entitled “Accounts Receivable and Collections
   Policy”.
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Procurement of Goods and Services Policy Revision
 
 That, on the recommendation of the Managing
@@ -278,10 +266,8 @@ That, on the recommendation of the Managing
   accountability and transparency and delegation of powers and duties as
   required under section 270(1) of the Municipal Act, 2001”.
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Statement of Remuneration and Expenses - Elected and Appointed Officials
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Audio Recording of Municipal Council and Standing Committee In Closed Session
   Meetings
 
@@ -305,7 +291,6 @@ Motion Failed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;ADDED - PUBLIC
   SUBMISSION - Ombudsman Investigation Letter
 
 That the communication dated March 1, 2017
@@ -327,7 +312,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Canadian Coalition of Municipalities Against Racism and
   Discrimination
 
@@ -352,7 +336,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;ADDED – COUNCIL MEMBER SUBMISSION - VERBAL
   – Start Time of Corporate Services Committee Meetings
 
 That the City Clerk BE DIRECTED to bring

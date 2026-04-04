@@ -17,7 +17,6 @@ July 27, 2022, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following members were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, S. Lehman, P. Van Meerbergen, S. Turner, E. Peloza and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -25,7 +24,6 @@ a)     Councillor S. Turner discloses a pecuniary interest in item 4.1 of thi
 
 b)      Councillor J. Helmer discloses a pecuniary interest in item 3.1 of this Report, having to do with Municipal Accommodation Tax on Short-term Accommodations, by indicating that he has rented out his home through Airbnb in the past and may do so again in the future.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -136,7 +134,6 @@ That, on the recommendation of the Deputy City Manager, Finance Supports and the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - Public Participation Meeting - Municipal Accommodation Tax on Short-Term Accommodations - Single Source Procurement 2022-211
 
@@ -249,7 +246,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Community Recovery Network – Recovery Funding Business Cases
 
@@ -573,11 +569,9 @@ it being noted that this may assist in identifying those which can be prioritize
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

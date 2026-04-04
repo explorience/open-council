@@ -17,11 +17,9 @@ February 15, 2024, at  9:30 AM
 
 The meeting is called to order at 9:33 AM; it being noted that S. Lehman, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.29&nbsp;&nbsp;&nbsp;Amendment - Business Case #P-15, #P-16, #P-17, #P-18
 
@@ -767,7 +765,6 @@ In accordance with section 33.4 of the Council Procedure By-law, the motion to a
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

@@ -12,7 +12,6 @@ April 8, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Brown;  A. Hopkins, M. Salih, J. Zaifman; G. Belch, J. Braam, T. Copeland, U. DeCandido, A. Dunbar, M. Feldberg, D. Huggins, S. Koshowski, J. Lucas, S. Maguire, D. Popadic, J. Simon, E. Soldo, S. Spring, J. Stanford, R. Welker, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor T. Park disclosed
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor T. Park disclosed
   Reconstruction Project, by indicating that her family owns a home in the
   area.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Cycling Advisory Committee
 
 That the 4th Report of the Cycling Advisory
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Contract Award:
   2015 Arterial Road  Rehabilitation Project Contract #2 (Tender # 15-23)
 
 That, on the recommendation of the Managing
@@ -92,7 +89,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Sanitary Forcemain
   Inspection, RFP #14-57 - Irregular Result
 
 That, on the recommendation of the Managing
@@ -141,7 +137,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Household Special
   Waste Program Update
 
 That, on the recommendation of the Managing
@@ -177,7 +172,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of 2015 Infrastructure Renewal
   Projects, Briscoe Reconstruction and Tecumseh Reconstruction
@@ -239,7 +233,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Water and
   Wastewater Customer Service Review - Customer Reward Program
 
 That, on the recommendation of the Managing
@@ -280,7 +273,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Contract Award:
   Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt (Tender 15-38)
 
 That, on the recommendation of the Managing
@@ -330,7 +322,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Contract Award:
   District Metering Area Chambers (Tender 15-18)
 
 That, on the recommendation of the Managing
@@ -389,7 +380,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award:
   2015 Infrastructure Renewal Program Colborne and South Street Reconstruction
   Project (Tender 15-03)
 
@@ -464,7 +454,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Water Efficiency
   Program Update  - Proposed Water By-law Revisions
 
 That, on the recommendation of the Managing
@@ -510,7 +499,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;2015 Annual
   Warranted Sidewalk Program
 
 That, on the recommendation of the
@@ -535,7 +523,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;London Clean and
   Green Updates
 
 That, on the recommendation of the Director
@@ -560,7 +547,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Parking Sign at 35
   Stirrup Court
 
 That

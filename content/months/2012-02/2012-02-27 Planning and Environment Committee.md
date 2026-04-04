@@ -12,7 +12,6 @@ February 27, 2012, at  4:06 PM
 > [!abstract]- Also Present:
 > J. F. Fontana, J.L. Baechler, N. Branscombe, S. Orser, D. Ailles, G. Barrett, S. Bellaire, J. Braam, P. Christiaans, M. Elmadhoon, J. M. Fleming, B. Henry, P. Kokkoros, B. Krichker, E. Lalande, J. Leunissen, A. MacLean, L. McDougall, N. Musicco, J. Page, J. Ramsay, A. Riley, C. Saunders, J. Shaughnessy, C. Smith, M. Tomazincic, B. Turcotte, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor Polhill disclosed a
   pecuniary interest in clause 7 of this Report, relating to the property
   located at 4 Erie Avenue, by indicating that his son is a member of the
   Committee of Adjustment.  Councillor Polhill further disclosed a pecuniary
@@ -20,7 +19,6 @@ February 27, 2012, at  4:06 PM
   50 Jacqueline Street, by indicating that his son is a member of the Committee
   of Adjustment.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -54,7 +52,6 @@ c)           
 d)         that
   clauses 3 through 15, inclusive, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Forest City
   Industrial Stormwater Management Facility and Westminster Wetland Complex
 
 Recommendation:  That, on the recommendation
@@ -76,7 +73,6 @@ b)           
   Civic Administration BE REQUESTED to work with ReForest London, as
   part of the One Million Tree Challenge, on tree plantings for this area.   (2012-W10-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Ballymote Woods
   Subdivision
 
 Recommendation:  That, on the
@@ -162,7 +158,6 @@ c)           
   applicant BE ADVISED that the cost of registration of these by-laws is
   to be borne by the applicant in accordance with City policy.  (2012-D11-07/D26-05)
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 1280 Fanshawe Park Road West and 1875 and 1965 Hyde Park Road (OZ-7401)
 
 Recommendation:  That, on the
@@ -206,7 +201,6 @@ it
   communication, dated February 26, 2012 from E. Saulesleja, GSP Group Inc.,
   with respect to this matter.  (2012-D11-02)
 
-# 6.&nbsp;&nbsp;&nbsp;Comprehensive Official
   Plan Review and Komoka-Kilworth Secondary Plan
 
 Recommendation:  That, on the
@@ -226,7 +220,6 @@ b)         the
   Middlesex Centre to develop phasing policies to manage Middlesex Centre’s
   rate of growth and the physical expansion of Komoka-Kilworth and Ilderton.  (2012-D11-09)
 
-# 7.&nbsp;&nbsp;&nbsp;Ontario Municipal
   Board Decision - 4 Erie Avenue
 
 Recommendation:  That, the decision of the
@@ -235,7 +228,6 @@ Recommendation:  That, the decision of the
   application for minor variances, respecting property at 4 Erie Avenue BE
   RECEIVED.  (2012-D16-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Ontario Municipal
   Board Decision - 50 Jacqueline Street
 
 Recommendation:  That, the decision of the
@@ -245,7 +237,6 @@ Recommendation:  That, the decision of the
   Authority which did not make a decision on the application for consent,
   respecting property at 50 Jacqueline Street BE RECEIVED.  (2012-D16-00/D09-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Telecommunication
   Towers (O-7881)
 
 Recommendation:  That, on the
@@ -265,13 +256,11 @@ b)         a
   Telecommunication Facilities Policy Plan.
             (2012-I11-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for January 2012
 
 Recommendation:  That the Building Division
   Monthly Report for January 2012 BE RECEIVED.  (2012-D05-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   43 Saunby Street
 
 Recommendation:  That, on the
@@ -295,7 +284,6 @@ c)         the
   and Revenues Report” provided as Schedule “A” to the associated staff report,
   dated February 27, 2012.   (2012-D25-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   47 Saunby Street
 
 Recommendation:  That, on the
@@ -319,7 +307,6 @@ c)         the
   and Revenues Report” provided as Schedule “A” to the associated staff report,
   dated February 27, 2012.   (2012-D25-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   280 Callaway Road
 
 Recommendation:  That, on the
@@ -345,7 +332,6 @@ c)         the
   and Revenues Report” provided as Schedule “A” to the associated staff report,
   dated February 27, 2012.   (2012-D25-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   28 Watmar Avenue
 
 Recommendation:  That, on the
@@ -371,7 +357,6 @@ c)         the
   and Revenues Report” provided as Schedule “A” to the associated staff report,
   dated February 27, 2012.   (2012-D25-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   2020 Hyde Park Road (Z-8009)
 
 Recommendation:  That, on the
@@ -419,7 +404,6 @@ it being
   report back with policies; advising that there is built form on Mr. Stavrou’s
   site; and reiterating that the policies treat the lands separately.  (2012-D11-01)
 
-# 16.&nbsp;&nbsp;&nbsp;Pellumb Jakupi re
   property located at 363 Edmonton Street
 
 Recommendation:  That, on the
@@ -445,7 +429,6 @@ c)         the
   and Revenues Report” provided as Schedule “A” to the associated staff report,
   dated February 27, 2012.   (2012-D25-00)
 
-# 17.&nbsp;&nbsp;&nbsp;The Ashfield Group
   Inc. re property located at 503 York Street (Z-7996)
 
 Recommendation:  That, on the
@@ -521,7 +504,6 @@ it being pointed out that there were no oral
   this matter.  
    (2012-D11-01)
 
-# 18.&nbsp;&nbsp;&nbsp;Old Oak Properties
   re properties located at 909 Southdale Road West and 3045 Pomeroy Lane
   (OZ-7988)
 
@@ -673,7 +655,6 @@ it being
   indicating that more people will be able to view her backyard; and advising
   that there is already a lot of traffic in the area.  (2012-D11-06)
 
-# 19.&nbsp;&nbsp;&nbsp;1705820 Ontario
   Limited (York Developments) re property located at 2118 Richmond Street
   (OZ-7890)
 
@@ -867,7 +848,6 @@ it being
   Association’s are ignored, it throws into question why neighbourhoods would
   come out; and Council gives the same message to all neighbourhoods.  (2012-D11-06)
 
-# 20.&nbsp;&nbsp;&nbsp;2261531 Ontario Limited
   re property located at 1103 Adelaide Street North (OZ-7972)
 
 Recommendation:  That,
@@ -1140,7 +1120,6 @@ it being
   that it will increase the traffic to her part of Huron Street and indicating
   that it doesn’t flow with the neighbourhood.  (2012-D11-07)
 
-# 21.&nbsp;&nbsp;&nbsp;Sifton Properties
   Limited re property located at 1551 Blackwell Boulevard (39T-08504/Z-7521)
 
 Recommendation:  That, notwithstanding the
@@ -1190,7 +1169,6 @@ it being
   that there has been co-operation between Sifton and the Church; and
   recommending that the application move forward.  (2012-D11-07)
 
-# 22.&nbsp;&nbsp;&nbsp;Amendments to the
   Official Plan and Zoning By-law to Provide Appropriate Opportunities for the
   Siting of Methadone Clinics and Methadone Pharmacies Within the City of
   London (OZ-8004)

@@ -17,7 +17,6 @@ June 7, 2022, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following were in remote attendance: Councillors M. van Holst, M. Salih, J. Helmer, P. Van Meerbergen, S. Turner, E. Peloza and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -27,7 +26,6 @@ That it BE NOTED that the following pecuniary interests were disclosed:
 
 - Councillor M. Salih discloses a pecuniary interest in Clause 4.1 of this Report, specific to Business Case #4: Talent Attraction and Labour Force Growth for Sustainable Economic Recovery, by indicating that he works for the Federal Government.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Fyfe-Millar
 
@@ -181,7 +179,6 @@ it being noted that the Strategic Priorities and Policy received a communication
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - London Hydro Inc. - 2021 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -367,7 +364,6 @@ The Committee recesses at 6:37 PM, and resumes at 6:55 PM.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Community Recovery Network – Recovery Funding Business Cases
 
@@ -528,7 +524,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Recruitment for the London and Middlesex Community Housing
 
@@ -562,7 +557,6 @@ That the application process BE RE-ADVERTISED to allow for additional outreach f
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

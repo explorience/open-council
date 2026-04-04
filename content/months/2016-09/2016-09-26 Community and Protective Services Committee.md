@@ -15,13 +15,11 @@ September 26, 2016, at 10:33 AM
 > [!abstract]- Also Present:
 > L. Rowe
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Housing Development Corporation, London
   Board of Directors
 
 (See Confidential Appendix to the 12th

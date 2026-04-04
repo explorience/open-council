@@ -12,13 +12,11 @@ July 18, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > B. Armstrong, A. Hopkins, M. van Holst; J. Adema, G. Barrett, M. Corby, C. Crossman, L. Dent, C. Dyck, M. Elmadhoon, J.M. Fleming, T. Grawey, K. Gonyou, T. MacBeth, O. Katolyk, I. Listar, C. Parker, J. Ramsay, C. Saunders, J. Smout, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Agricultural Advisory Committee
 
 That the 4th Report of the Agricultural
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;West Five
   Subdivision (39T-14503)
 
 That, on the recommendation of the Manager,
@@ -88,7 +85,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   905 Sarnia Road (H-8642)
 
 That, on the recommendation of the Manager,
@@ -137,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   930 Gainsborough Road (H-8627)
 
 That, on the recommendation of the Manager,
@@ -176,7 +171,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   193 Clarke Road (H-8625)
 
 That, on the recommendation of the Senior
@@ -206,7 +200,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Local Renewable
   Electricity Generation Projects Seeking Ontario Feed-In Tariff Contracts -
   Municipal Council Resolutions for Feed-In Tariff (FIT) 5.0 Prescribed Forms
 
@@ -272,7 +265,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1345 Whetherfield Street - Disposition of School Site (39T-06501 - 33M-600,
   39T-03501 - 33M-566)
 
@@ -301,7 +293,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Portion of 1300
   Fanshawe Park Road East (H-8600)
 
 That, on the recommendation of the Senior
@@ -333,7 +324,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1656 Hyde Park Road
 
 That, on the recommendation of the Managing
@@ -363,7 +353,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   68 Bruce Street
 
 That, on the recommendation of the Managing
@@ -393,7 +382,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   3967 Savoy Street (H-8647)
 
 That, on the recommendation of the Senior
@@ -422,7 +410,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;8th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -694,7 +681,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   2449 Dundas Street (Z-8609)
 
 That, on the recommendation of the Managing
@@ -798,7 +784,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Zoning Amendment
   for Private Home Day Cares (Z-8607)
 
 That, on the recommendation of the Managing
@@ -902,7 +887,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   129 Langarth Street East
 
 That the following actions be taken with
@@ -997,7 +981,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   269 Thames Street
 
 That, on the recommendation of the Managing
@@ -1103,7 +1086,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   102 Wharncliffe Road North - Blackfriars/Petersville Heritage Conservation
   District
 
@@ -1198,7 +1180,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Downtown Business
   Improvement Area and Old East Village Community Improvement Area (Z-8625)
 
 That, on the recommendation of the Managing
@@ -1307,7 +1288,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   3260 Singleton Avenue (OZ-8606)
 
 That, on the recommendation of the Managing
@@ -1447,7 +1427,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Great Near-Campus
   Neighbourhoods Strategy Review (OZ-8610)
 
 That, on the recommendation of the Managing
@@ -1589,7 +1568,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Byron Gravel Pits
   Secondary Plan
 
 That, the following actions be taken with respect
@@ -1640,7 +1618,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;6th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -1710,7 +1687,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Sign and Canopy By-law
 
 That the Civic Administration BE DIRECTED
   to consult Business Improvement Areas to seek input with respect to the

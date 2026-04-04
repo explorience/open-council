@@ -18,11 +18,9 @@ October 20, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 That Consent Items 2.2 and 2.6 BE APPROVED.
 
@@ -206,7 +204,6 @@ That, on the recommendation of the Managing Director, Environmental & Engineerin
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Amendments to Consolidated Fees and Charges By-law
 
@@ -399,7 +396,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Hydro Proposed Corporate Restructuring
 
@@ -1051,11 +1047,9 @@ That the Civic Administration BE DIRECTED to initiate an update of the Master Ac
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:46 PM.
 

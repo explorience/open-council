@@ -20,11 +20,9 @@ April 20, 2022, at  4:00 PM
 
 The meeting was called to order at 4:00 PM; it being noted that the following Members were in remote attendance: Councillors J. Helmer, S. Hillier and M. Salih
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Hillier disclosed a pecuniary interest in clause 5.4 of this Report, having to do with the Deferred Matters List, specifically item number 2 on the list, by indicating that his family also hosts a five day event.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Request for Proposal 2022-054 - New Play Equipment at Gibbons Park and Greenway Park
 
@@ -110,15 +108,12 @@ c)    the approvals, hereby given, BE CONDITIONAL upon the Corporation enterin
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;DELEGATION - A. Valastro - Light Pollution By-law
 
@@ -334,7 +329,6 @@ That the 3rd Report of the Animal Welfare Advisory Committee, from its meeting h
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by J. Helmer
 
@@ -360,7 +354,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:20 PM
 ---

@@ -19,9 +19,7 @@ The
   Council meets in Regular Session in the Council Chambers this day at 5:02
   p.m.
 
-# I.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Bed Bugs
 
 > Moved by Councillor N. Branscombe
 
@@ -59,7 +57,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Mental Health
   Funding
 
 > Moved by Councillor N. Branscombe
@@ -99,10 +96,8 @@ Motion Passed
 
 ****
 
-# II.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# 351.&nbsp;&nbsp;&nbsp;351.
 
 351.
 
@@ -114,31 +109,26 @@ Councillor N. Branscombe discloses a
   its option on property in Skyway Industrial Park, by indicating that her
   husband owns and operates a business in the area.
 
-# 352.&nbsp;&nbsp;&nbsp;352.
 
 352.
 
 352.
 
-# 353.&nbsp;&nbsp;&nbsp;353.
 
 353.
 
 353.
 
-# 354.&nbsp;&nbsp;&nbsp;354.
 
 354.
 
 354.
 
-# 355.&nbsp;&nbsp;&nbsp;355.
 
 355.
 
 355.
 
-# 356.&nbsp;&nbsp;&nbsp;356.
 
 356.
 
@@ -177,25 +167,20 @@ Motion Passed
 
 ****
 
-# 357.&nbsp;&nbsp;&nbsp;357.
 
 357.
 
 357.
 
-# IV.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# 358.&nbsp;&nbsp;&nbsp;358.
 
 358.
 
 358.
 
-# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 3.&nbsp;&nbsp;&nbsp;Political Action
   List
 
 > Moved by Councillor N. Branscombe
@@ -231,22 +216,18 @@ Motion Passed
 
 ****
 
-# 359.&nbsp;&nbsp;&nbsp;359.
 
 359.
 
 359.
 
-# VI.&nbsp;&nbsp;&nbsp;MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-# 360.&nbsp;&nbsp;&nbsp;360.
 
 360.
 
 360.
 
-# VII.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 1.         28th Report of the
@@ -291,15 +272,12 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 361.&nbsp;&nbsp;&nbsp;361.
 
 361.
 
 361.
 
-# 4.&nbsp;&nbsp;&nbsp;Ontario Works -
   Employment Programs
 
 > Moved by Councillor N. Branscombe
@@ -314,7 +292,6 @@ Approve that the Civic Administration BE DIRECTED to report back at a future
 
 Motion Passed
 
-# 5.&nbsp;&nbsp;&nbsp;2012 Budget
   Development
 
 > Moved by Councillor N. Branscombe
@@ -327,7 +304,6 @@ Approve that the Services Review Committee received a verbal update from the
 
 Motion Passed
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Business Cases - Proposed Add/Cut List
 
 > Moved by Councillor N. Branscombe
@@ -350,7 +326,6 @@ Approve that the Services Review Committee (SRC) deferred consideration and
 
 Motion Passed
 
-# 7.&nbsp;&nbsp;&nbsp;Business Plan
   Summary Review
 
 > Moved by Councillor N. Branscombe
@@ -380,7 +355,6 @@ Approve that the Services Review Committee (SRC) held a general discussion
 
 Motion Passed
 
-# 8.&nbsp;&nbsp;&nbsp;Business Plan
   Summary Review – Deferred
 
 > Moved by Councillor N. Branscombe
@@ -401,7 +375,6 @@ Approve that the Services Review Committee (SRC) deferred consideration of
 
 Motion Passed
 
-# 9.&nbsp;&nbsp;&nbsp;Disclosures
 
 > Moved by Councillor N. Branscombe
 
@@ -416,7 +389,6 @@ Receive
 
 Motion Passed
 
-# 10.&nbsp;&nbsp;&nbsp;Next Meeting
 
 > Moved by Councillor N. Branscombe
 
@@ -428,7 +400,6 @@ Receive
 
 Motion Passed
 
-# 11.&nbsp;&nbsp;&nbsp;2012 Curb and
   Gutter Local Improvement – Gretna Green
 
 > Moved by Councillor J.B. Swan
@@ -485,7 +456,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;2012 Water Budget
   and 2012 Wastewater and Treatment Budget - Public Participation Meeting
 
 > Moved by Councillor P. Hubert
@@ -554,7 +524,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Recorded Vote -
   2012 Water Budget and 2012 Wastewater and Treatment Budget - Referral to
   Investment and Economic Prosperity Committee
 
@@ -604,7 +573,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Recorded Vote -
   2012 Water Budget and 2012 Wastewater and Treatment Budget Recommendations -
   As Amended
 
@@ -654,7 +622,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;10th Report of the
   London Diversity and Race Relations Advisory Committee
 
 > Moved by Councillor H.L. Usher
@@ -689,7 +656,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Naming of London’s Newest Baseball Team
 
 > Moved by Councillor D.G. Henderson
 
@@ -722,7 +688,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;7th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 > Moved by Councillor H.L. Usher
@@ -758,19 +723,16 @@ Motion Passed
 
 ****
 
-# 362.&nbsp;&nbsp;&nbsp;362.
 
 362.
 
 362.
 
-# 363.&nbsp;&nbsp;&nbsp;363.
 
 363.
 
 363.
 
-# 19.&nbsp;&nbsp;&nbsp;4th Report of the
   Council Housing Leasership Committee
 
 > Moved by Councillor H.L. Usher
@@ -805,7 +767,6 @@ Motion Passed
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;10th Report of the
   Advisory Committee on the Environment
 
 > Moved by Councillor H.L. Usher
@@ -840,7 +801,6 @@ Motion Passed
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;In Camera
 
 > Moved by Councillor H.L. Usher
 
@@ -882,7 +842,6 @@ Motion Passed
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;8th Report of the
   Transportation Advisory Committee
 
 > Moved by Councillor J.B. Swan
@@ -917,7 +876,6 @@ Motion Passed
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 > Moved by Councillor J.B. Swan
@@ -954,7 +912,6 @@ Motion Passed
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status – Veterans Memorial Parkway Noise and Vibration Studies
 
 > Moved by Councillor J.B. Swan
@@ -990,7 +947,6 @@ Motion Passed
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Confidential
   Matters
 
 > Moved by Councillor J.B. Swan
@@ -1051,19 +1007,16 @@ Motion Passed
 
 ****
 
-# 364.&nbsp;&nbsp;&nbsp;364.
 
 364.
 
 364.
 
-# 365.&nbsp;&nbsp;&nbsp;365.
 
 365.
 
 365.
 
-# 18.&nbsp;&nbsp;&nbsp;9th Report of the
   Trees and Forests Advisory Committee
 
 > Moved by Councillor H.L. Usher
@@ -1098,62 +1051,50 @@ Motion Passed
 
 ****
 
-# 366.&nbsp;&nbsp;&nbsp;366.
 
 366.
 
 366.
 
-# 367.&nbsp;&nbsp;&nbsp;367.
 
 367.
 
 367.
 
-# 368.&nbsp;&nbsp;&nbsp;368.
 
 368.
 
 368.
 
-# 369.&nbsp;&nbsp;&nbsp;369.
 
 369.
 
 369.
 
-# IX.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# 370.&nbsp;&nbsp;&nbsp;370.
 
 370.
 
 370.
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# 371.&nbsp;&nbsp;&nbsp;371.
 
 371.
 
 371.
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# 372.&nbsp;&nbsp;&nbsp;372.
 
 372.
 
 372.
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
 
-# XIII.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -1168,19 +1109,16 @@ Council rise
 
 ****
 
-# 373.&nbsp;&nbsp;&nbsp;373.
 
 373.
 
 373.
 
-# 374.&nbsp;&nbsp;&nbsp;374.
 
 374.
 
 374.
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -17,19 +17,15 @@ April 22, 2025, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors J. Pribil and E. Peloza (at 3:08 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Mayor J. Morgan discloses a pecuniary interest in item 9, clause 6.2 of the 7th Report of the Infrastructure and Corporate Services Committee, having to do with execution of 2023 to 2026 Collective Agreement for Local Union No. 101 (Canadian Union of Public Employees) (“CUPE Local 101”).
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by H. McAlister
 
@@ -86,7 +82,6 @@ That Council convenes In Closed Session from 1:17 PM to 1:25 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;6th Meeting held on April 1, 2025
 
@@ -121,7 +116,6 @@ That the Minutes of the 6th Meeting of the Municipal Council, held on April 1, 2
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Trosow
 
@@ -166,11 +160,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;7th Report of the Infrastructure and Corporate Services Committee
 
@@ -1695,7 +1687,6 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by S. Franke
 
@@ -1768,19 +1759,15 @@ At 4:36 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -2115,7 +2102,6 @@ That Third Reading and Enactment of Added Bill No.'s 153 and 154 BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 
@@ -2129,7 +2115,6 @@ The meeting adjourned at 4:47 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 131**

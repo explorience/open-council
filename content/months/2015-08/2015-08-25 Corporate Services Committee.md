@@ -12,13 +12,11 @@ August 25, 2015, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. Salih, M. van Holst; J.P. Barber, A.L. Barbon, S. Corman, K. Graham, M. Hayward, S. MacDonald, V. McAlea Major, A. Ostrowski, Saunders, S. Spring, J. Stanford, J. Tansley, B. Warner, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;By-law for the
   Execution of the Occupancy Agreement with London Hydro for an Electric
   Vehicle Charger with Battery Storage System
 
@@ -49,7 +47,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2015 Federal
   Election
 
 That, on the recommendation of the Director
@@ -86,7 +83,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Encroachment
   Agreement - Northwest Corner of Dundas and Burbrook Streets - By-law
   S.-5743-223
 
@@ -126,7 +122,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;1499 Stoneybrook
   Crescent - Encroachment Agreement - By-law S.-5742-222
 
 That, on the recommendation of the City
@@ -153,7 +148,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Recognition of the
   Reign of Queen Elizabeth ll
 
 That, on the recommendation of the City
@@ -194,7 +188,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 28(2) Council Members' Expense Account
 
 That the following actions be taken with
@@ -286,7 +279,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Option to Convert
   Interest Free Loan to Grant - London Community Players (Palace Theatre)
 
 That, on the recommendation of the Managing
@@ -312,7 +304,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Advisory Committee on the Environment
 
 That Scott Armstrong, representing the
@@ -337,7 +328,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Accessibility Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -388,7 +378,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;(ADDED) Federation of Canadian
   Municipalities Appointments
 
 That it BE NOTED that Councillor H.L. Usher
@@ -396,7 +385,6 @@ That it BE NOTED that Councillor H.L. Usher
   been appointed to Standing Committees of the Federation of Canadian
   Municipalities.
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) Ranked Ballot Process –
   Appointments by Municipal Council
 
 That Councillor J. Morgan BE REQUESTED to

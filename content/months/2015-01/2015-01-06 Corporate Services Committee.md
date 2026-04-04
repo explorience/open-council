@@ -15,13 +15,11 @@ January 6, 2015, at 12:03 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. Van Holst; A. Zuidema, J. Braam, S. Galloway, M. Hayward, G.T. Hopcroft, V. McAlea Major, D. Mounteer, M. Ribera, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Letter of Agreement
   - Provincial Dedicated Gas Tax Funds for Public Transportation Program
 
 Recommendation:  That, on the
@@ -49,7 +47,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Pre-Budget
   Submission to the Provincial Standing Committee on Finance and Economic
   Affairs
 
@@ -76,7 +73,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Orientation
   Planning - Verbal (City Manager)
 
 Recommendation:  That the City Manager BE
@@ -103,7 +99,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status - Agreement between The Corporation of the City of London
   and Fanshawe College of Applied Arts and Technology
 
@@ -133,7 +128,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Access to
   Refreshments for Members of the Public Attending Council and Standing
   Committee Meetings
 

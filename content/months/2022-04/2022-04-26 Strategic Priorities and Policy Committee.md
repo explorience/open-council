@@ -20,13 +20,11 @@ April 26, 2022, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following members were in remote attendance, Councillors: M. van Holst, M. Salih, J. Helmer, M. Cassidy, A. Hopkins, P. Van Meerbergen, S. Turner and E. Peloza.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Truth and Reconciliation Commission Recommendations: Update on City of London Efforts
 
@@ -70,11 +68,9 @@ c)    the balance of the above-noted report, BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Appointments to the Greater London International Airport Authority Board of Directors
 
@@ -1202,11 +1198,9 @@ Consideration of appointment to the Integrated Transportation Community Advisory
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

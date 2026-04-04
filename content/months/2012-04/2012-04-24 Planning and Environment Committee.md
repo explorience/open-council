@@ -12,9 +12,7 @@ April 24, 2012, at  7:05 PM
 > [!abstract]- Also Present:
 > Acting  S. Orser, J.L. Baechler, M. Brown, P. Hubert, P. Van Meerbergen, J. P. Barber, J. Braam, J. Buchanan, B. Henry, G. Kotsifas, B. Krichker, L. McDougall, J. Ramsay, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   940 Springbank Drive
 
 Recommendation:  That, on the

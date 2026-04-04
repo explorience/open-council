@@ -16,9 +16,7 @@ The
   Council meets in Regular Session in the Council Chambers these days
   commencing at 5:00 p.m. on June 26, 2012.
 
-# I.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Dearness
   Home Consulting Services – Single Source
 
 Recommendation:  That, on the recommendation
@@ -66,7 +64,6 @@ it being noted that line 3 of the third paragraph in
   should read “…Engaged Companies and received an ‘Exemplary Standing’
   designation with…”.
 
-# II.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -107,7 +104,6 @@ Councillor J.L. Baechler discloses a
   abandonment of identified sections of the Stanton Municipal Drain, by
   indicating that she has a business that operates out of an adjacent property.
 
-# III.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON JUNE 12, 2012
 
 > Moved by Councillor P. Van Meerbergen
@@ -144,10 +140,8 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS AND
   PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -185,7 +179,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;License Agreement
   for Use of 80 Dundas Street for Communication Equipment
 
 That, on the recommendation of the Fire
@@ -201,13 +194,10 @@ a)         approve
 b)         authorize the Mayor and the
   Clerk to sign the agreement.  (2012-L03-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Services
   Review Committee Terms of Reference
 
-# 4.&nbsp;&nbsp;&nbsp;Town
   and Gown Committee
 
-# 5.&nbsp;&nbsp;&nbsp;Amendment to Fees
   and Charges By-law Waiving Fireworks Display Permit Fees
 
 That, on the recommendation of the Fire
@@ -233,7 +223,6 @@ it being noted that at the public
   Martin – expressing a concern with respect to the noise associated with
   firework demonstrations.
 
-# 6.&nbsp;&nbsp;&nbsp;3rd, 4th and 5th
   Reports of the Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -305,12 +294,9 @@ iii)         the
 f)          clauses 2 through 9 of the 5th
   Report, BE RECEIVED.
 
-# VI.&nbsp;&nbsp;&nbsp;MOTIONS OF WHICH
   NOTICE IS GIVEN
 
-# VII.&nbsp;&nbsp;&nbsp;ADDED REPORTS
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor N. Branscombe
 
@@ -355,7 +341,6 @@ Approve clauses 1 to 3.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Requests for
   Delegation Status
 
 That the following actions be taken with
@@ -401,7 +386,6 @@ e)         the
   By-law, BE ACCEPTED and scheduled for the next meeting of the Public Safety
   Committee.
 
-# 8.&nbsp;&nbsp;&nbsp;Contraband Tobacco
 
 WHEREAS Contraband tobacco has negative
   pubic consequences and impacts such as unrestricted youth access to tobacco
@@ -450,7 +434,6 @@ it being noted the Public Safety Committee
   President and CEO of the Ontario Convenience Stores Association (OCSA) with
   respect to this matter.(2012-P00-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Agreement for
   On-Line Training System
 
 That, on the recommendation of the Fire
@@ -488,7 +471,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2nd and 3rd Reports
   of the Community Safety and Crime Prevention Advisory Committee
 
 The motion to Approve part a) is put.
@@ -544,7 +526,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -655,7 +636,6 @@ Approve clauses 1, 3 and 4.
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Contract Award:
   2012 W12A Landfill Gas Collection System Expansion (Tender 12-77)
 
 That, on the recommendation of
@@ -698,7 +678,6 @@ f)         the Mayor and the City Clerk BE AUTHORIZED to
   execute any contract or other documents, if required, to give effect to these
   recommendations.
 
-# 13.&nbsp;&nbsp;&nbsp;Contract Award:
   Trunk Watermain Chamber Installation Program (Tender 12-78)
 
 That, on the recommendation of the Acting
@@ -742,7 +721,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 14.&nbsp;&nbsp;&nbsp;By-Law for
   the Execution of the Occupancy Agreement with London Hydro for Ground-Mounted
   Automatic-Tracking Solar Photovoltaic Energy Systems
 
@@ -756,7 +734,6 @@ That, on the recommendation of the
   Facility, and to authorize the Mayor and the City Clerk to execute the
   Agreement on the City's behalf.
 
-# 15.&nbsp;&nbsp;&nbsp;Removal of Buses
   from Dundas Street
 
 At 11:05 PM Mayor J.F. Fontana places
@@ -791,7 +768,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Tender
   12-58 – Manufacture and Installation of Rear Loading Packer Bodies
 
 That, notwithstanding the recommendation of
@@ -850,14 +826,10 @@ Approve 3rd Reading of Bill Nos. 307 to
 
 Motion Passed
 
-# IX.&nbsp;&nbsp;&nbsp;DEFERRED MATTERS
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS
   TO BE READ A FIRST, SECOND AND THIRD TIME:
@@ -1222,13 +1194,11 @@ Approve 3rd reading of Bill Nos. 269
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE
   WHOLE, IN CAMERA
 
 MOTION
   FOR IN CAMERA SESSION
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

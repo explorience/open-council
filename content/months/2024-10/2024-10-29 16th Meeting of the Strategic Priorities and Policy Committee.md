@@ -17,11 +17,9 @@ October 29, 2024, at  2:00 PM
 
 The meeting is called to order at 2:04 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -126,11 +124,9 @@ it being further noted the request for delegation dated October 27, 2024, from B
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update 
 
@@ -1152,7 +1148,6 @@ Appointment to Planning and Environment Committee
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 2025 Calendar Amendment Motion - Deputy Mayor S. Lewis and Councillor P. Cuddy
 
@@ -1191,7 +1186,6 @@ it being pointed out that the Strategic Priorities and Policy Committee received
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -1228,7 +1222,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 7:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

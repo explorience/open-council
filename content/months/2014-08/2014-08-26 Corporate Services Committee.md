@@ -12,13 +12,11 @@ August 26, 2014, at  1:00 PM
 > [!abstract]- Also Present:
 > D. Brown, M. Brown, D.G. Henderson, P. Hubert, W.R. Monteith, S. Orser; A. Zuidema, J.P. Barber, G. Belch, J. Braam, L. Burgess, C. Colvin, M. Daley, A. Dunbar, J.M. Fleming, K. Graham, M. Hayward, L. Kolodiazny, G. Kotsifas, L. Livingstone, V. McAlea Major, R. Paynter, C. Saunders, J. Senese, J. Smout, M. Turner, B. Warner, T. Wellhauser, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Offer to Purchase
   Industrial Lands - 2097800 Ontario Inc. - Innovation Park, Phase l
 
 Recommendation:  That, on the
@@ -61,7 +59,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Huron Heights
   Public School - 1245 Michael Street
 
 Recommendation:  That, on the
@@ -122,7 +119,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2014 Operating
   Budget Status - Second Quarter Report
 
 Recommendation:  That, on the
@@ -209,7 +205,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2014 Capital Budget
   Status - Second Quarter Report
 
 Recommendation:  That, on the
@@ -251,7 +246,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Corporate Asset Management
   Plan 2014
 
 Recommendation:  That, on the
@@ -284,7 +278,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Request for
   Proposal No. 14-38 - Construction Manager/General Contractor for Renovations
   to the Normal School - Project #GG1558
 
@@ -343,7 +336,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Federal Gas Tax
   Allocation
 
 Recommendation:  That, on the
@@ -390,7 +382,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Offer to Purchase
   Industrial Lands - IO Industries Inc. - Skyway Industrial Park, Phase ll
 
 Recommendation: 
@@ -456,7 +447,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;City of London Days
   - Budweiser Gardens
 
 Recommendation:  That, on the
@@ -486,7 +476,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Reduced Hours of
   Voting at Certain Institutions and Retirement Homes
 
 Recommendation:  That, on the
@@ -526,7 +515,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Diversecity Onboard
   Program
 
 Recommendation:  That, on the
@@ -552,7 +540,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Integrity
   Commissioner
 
 Recommendation:  That, on the
@@ -597,7 +584,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Report on the
   Corporate Human Rights Program, Code of Conduct Program and Corporate
   Training Initiatives as of June 30, 2014
 
@@ -624,7 +610,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Old Victoria
   Hospital Lands: Request for Proposals Update
 
 Recommendation:  That, on the
@@ -649,7 +634,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Receive Funding for the Start Up Your Business
   Initiative
 
@@ -686,7 +670,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Agreement with the
   Federation of Canadian Municipalities to Host the 2015 FCM Sustainable
   Communities Conference
 
@@ -723,7 +706,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Comprehensive
   Economic and Trade Agreement with the European Union
 
 Recommendation:  That, on the
@@ -748,7 +730,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Annual Meeting
   Calendar
 
 Recommendation:  That, on the
@@ -784,7 +765,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Application to the
   Alcohol and Gaming Commission of Ontario - Jim Bob Ray's - 585 Richmond
   Street
 
@@ -814,7 +794,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Request for
   Amendment to the Council Expense Funds Guidelines
 
 Recommendation:  That the communication
@@ -839,7 +818,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee (Requires 1
   Representative from the Aboriginal Community Groups/Agencies)
 
@@ -879,7 +857,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That Pooyan Rahimy BE
@@ -902,7 +879,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
 
 Recommendation: That, based on the
@@ -1002,7 +978,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;ADDED - Election
   Campaign Sign By-law Update
 
 Recommendation:  That, on the
@@ -1030,7 +1005,6 @@ Motion
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;ADDED - RFP14-20
   Customer Relationship Management Software Implementation Partner
 
 Recommendation:  That on the recommendation

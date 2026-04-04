@@ -12,10 +12,8 @@ February 2, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Brown, T. Park, M. Salih, H. Usher, M. Van Holst, J. Adema, G. Barrett, J. Braam, P. Christiaans, E. Conway, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, B. Henry, K. Killen, P. Kokkoros, G. Kotsifas, E. Lalande, I. Listar, A. Macpherson, A. MacLean, D. Menard, C. Parker, J. Ramsay, M. Ribera, C. Saunders, C. Smith, E. Soldo, M. Tomazincic, A.B. Watson, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That, the 2nd Report of
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 3550 and 3590 Singleton Avenue (H-8322)
 
 Recommendation:  That, on the
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Development Charges
   Grant Program for Downtown and Old East Village Community Improvement Plan
   (CIP) Areas
 
@@ -147,7 +143,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Proposed Amendments
   to the Site Plan By-law
 
 Recommendation:  That, on the
@@ -221,7 +216,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1671 Fanshawe Park Road West (TZ-8438)
 
 Recommendation:  That, on the
@@ -312,7 +306,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 2155 and 2253 Richmond Street (Z-8440)
 
 Recommendation:  That, on the
@@ -397,7 +390,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -448,7 +440,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Boulevard Tree
   Protection By-law Revision
 
 Recommendation:  That, the following
@@ -561,7 +552,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;“Our Move
   Forward" London's Downtown Plan (O-8385)
 
 Recommendation:  That, on the
@@ -652,7 +642,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That, the following
@@ -728,7 +717,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Development Services
 
 Recommendation:      That, the orientation
@@ -752,7 +740,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters – Planning
 
 That, the attached orientation
@@ -775,7 +762,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Old East Village
   Community Incentive Plan's Tax Grant Program
 
 Recommendation:      That, notwithstanding the
@@ -817,7 +803,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;North London
   Housing Concerns
 
 Recommendation:  That, on the
@@ -879,7 +864,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Hamilton Road Area
   Community Improvement Plan
 
 Recommendation:      That, the

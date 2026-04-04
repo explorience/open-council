@@ -14,11 +14,9 @@ October 22, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -180,15 +178,12 @@ e) the City Clerk BE DIRECTED to notify the Agricultural Advisory Committee of t
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -244,7 +239,6 @@ That the balance of the Deferred Matters list, as amended, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Kayabaga
 
@@ -279,7 +273,6 @@ The Corporate Services Committee convenes, In Closed Session, from 1:00 PM to 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:48 PM.
 

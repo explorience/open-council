@@ -21,11 +21,9 @@ August 10, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -105,7 +103,6 @@ That, on the recommendation of the City Clerk, the Mayor and the City Clerk BE A
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 12:05 PM - Public Participation Meeting - Council Procedure By-law
 
@@ -173,7 +170,6 @@ Motion to Close the Public Participation Meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Representation on the Municipal Service Board for the Provision of Land Ambulance Services
 
@@ -264,7 +260,6 @@ That based on the application dated July 30, 2020, from MitoCanada, the week of 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -288,7 +283,6 @@ That the Corporate Services Committee Deferred Matters List, as of July 31, 2020
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Holder
 
@@ -334,7 +328,6 @@ The Corporate Services Committee convenes, In Closed Session, from 1:27 PM to 2:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:14 PM.
 

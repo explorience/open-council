@@ -17,11 +17,9 @@ June 18, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor T. Park disclosed a pecuniary interest in clause 5.1 of this Report specifically relating to clause 3.2 of the 7th Report of the London Advisory Committee on Heritage, having to do with the properties located at 147-149 Wellington Street and 253-257 Grey Street, by indicating that her family owns property in the area.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by T. Park
 
@@ -256,7 +254,6 @@ c)    the Civic Administration BE DIRECTED to initiate The London Plan and Of
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;S. Ratz, Chair, Advisory Committee on the Environment - 7th Report of the Advisory Committee on the Environment
 
@@ -884,7 +881,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Tree Protection By-law C.P. -1515-228 Amendments and Implementation Update
 
@@ -992,7 +988,6 @@ Motion to part a) which reads as follows:
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 7th Report of the London Advisory Committee on Heritage
 
@@ -1039,7 +1034,6 @@ d)            clauses 1.1, 2.2 to 2.4, 3.1, 3.3, 3.5, 5.1 and 5.2, BE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 ## 6.1&nbsp;&nbsp;&nbsp;(ADDED) Personal Matters/Identifiable Individual/Litigation/Potential Litigation/Solicitor-Client Privileged Advice
 
@@ -1055,7 +1049,6 @@ The Planning and Environment Committee convened in Committee, In Closed Session,
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:34 PM
 

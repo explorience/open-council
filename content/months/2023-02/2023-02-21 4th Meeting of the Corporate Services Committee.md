@@ -20,11 +20,9 @@ February 21, 2023, at 12:00 PM
 
 The meeting is called to order at 12:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Stevenson
 
@@ -225,11 +223,9 @@ b) the Mayor BE DIRECTED to continue advocacy to the Province, on behalf of the 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by S. Stevenson
 
@@ -291,11 +287,9 @@ That based on the application dated February 16, 2023 from the Diversity, Inclus
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Trosow
 
@@ -325,7 +319,6 @@ The Corporate Services Committee convenes In Closed Session from 1:50 PM to 1:53
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

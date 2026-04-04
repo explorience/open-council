@@ -20,11 +20,9 @@ March 26, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor M. Salih disclosed a pecuniary interest in clause 2.1 of this Report, having to do with arrangements for the City of London to become a Sanctuary City/Access to Service Without Fear City, by indicating that he is employed by the Federal Government.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Arrangements for The City of London to Become a Sanctuary City/Access to Service Without Fear City
 
@@ -132,7 +130,6 @@ e)          the Mayor and the City Clerk BE AUTHORIZED to execute any c
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ****
 
@@ -297,7 +294,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee (SPPC) heard
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London and Middlesex Housing Corporation
 
@@ -501,7 +497,6 @@ c)         clauses 1, 2  and 5 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Helmer
 

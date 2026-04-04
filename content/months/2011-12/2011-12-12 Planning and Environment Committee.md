@@ -12,12 +12,10 @@ December 12, 2011, at  4:05 PM
 > [!abstract]- Also Present:
 > J. F. Fontana, J. L. Baechler, M. Brown, R. L. Fair, P. McNally, D. Ailles, G. Barrett, G. Belch, P. Christiaans, B. Debbert, A. Dunbar, M. Elmadhoon, J. M. Fleming, S. Galloway, E. Gamble, B. Gilmore, T. Grawey, S. Hanwell, B. Henry, P. Kokkoros, B. Krichker, J. Leunissen, I. Listar, L. MacDougall, L. Marshall, S. Mathers, H. McNeely, D. Menard, C. Parker, N. Pasato, C. Saunders, C. Smith, D. Stanlake, L. Stevens, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor Polhill disclosed a
   pecuniary interest in clause 20 of this Report relating to the property
   located at 7092 Longwoods Road, by indicating that his son is a member of the
   Committee of Adjustment.
 
-# 2.&nbsp;&nbsp;&nbsp;Amend Zoning By-law
   Z.-1 to Correct Two Special Provision Zones Numbered in Error
 
 Recommendation:  That, on the
@@ -51,7 +49,6 @@ it being
   Zunti, Sifton Properties Limited, on behalf of the applicant – expressing
   support for the application.
 
-# 3.&nbsp;&nbsp;&nbsp;MHBC Planning re
   property located at 1680 Richmond Street
 
 Recommendation:  That, on the
@@ -77,7 +74,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.
 
-# 4.&nbsp;&nbsp;&nbsp;MHBC Planning re
   property located at 785 Wonderland Road South
 
 Recommendation:  That, on the recommendation
@@ -103,7 +99,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.
 
-# 5.&nbsp;&nbsp;&nbsp;Finch Chevrolet
   Cadillac Buick Ltd. re property located at 530 Oxford Street West (Z-7969)
 
 Recommendation:  That, on the
@@ -125,7 +120,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.
 
-# 6.&nbsp;&nbsp;&nbsp;Wortley Village -
   Old South - Heritage Conservation District Study
 
 Recommendation:  That, on the
@@ -159,7 +153,6 @@ iv)        the
   the initiation of Phase 2 of the Study, with the suggested revised
   boundaries.
 
-# 7.&nbsp;&nbsp;&nbsp;Downtown Master
   Plan - Downtown Heritage Conservation District Plan
 
 Recommendation:  That, on the recommendation
@@ -168,7 +161,6 @@ Recommendation:  That, on the recommendation
   landowners, agencies and the London Advisory Committee on Heritage for review
   and comment prior to finalization and the holding of a public participation meeting.
 
-# 8.&nbsp;&nbsp;&nbsp;Official Plan
   Review
 
 Recommendation:  That, the following
@@ -198,7 +190,6 @@ it being further noted that a public
   feedback received from the general public, municipal departments and review
   agencies.
 
-# 9.&nbsp;&nbsp;&nbsp;Draft Southwest
   Area Plan (SWAP) - Land Use Plan, Phasing and Servicing Strategy,
   Transportation Network and Natural Heritage Features Plan (O-7609)
 
@@ -228,7 +219,6 @@ it being noted that the Planning and
   R.
   Collins, Hully Gully, dated December 9, 2011.
 
-# 10.&nbsp;&nbsp;&nbsp;Urban Design
   Guidelines
 
 Recommendation:  That, on the
@@ -248,7 +238,6 @@ b)         the
   Civic Administration BE ASKED to provide examples of projects to demonstrate
   how the Urban Design Guidelines have been applied.
 
-# 11.&nbsp;&nbsp;&nbsp;Duo Building Ltd.
   re property located at 90 Central Avenue
 
 Recommendation:  That, on the
@@ -272,7 +261,6 @@ c)         the
   projected the claims and revenues related to this development as outlined on
   the attached (Schedule “A”).
 
-# 12.&nbsp;&nbsp;&nbsp;LHSC South Street Hospital
   Complex - Heritage Issues
 
 Recommendation:      That, notwithstanding
@@ -282,7 +270,6 @@ Recommendation:      That, notwithstanding
   for further consideration and to report back at a public participation
   meeting to be held on January 16, 2012.
 
-# 13.&nbsp;&nbsp;&nbsp;Lighting - Your
   Storage Team - 715 Fanshawe Park Road
 
 Recommendation:      That, the Civic
@@ -310,7 +297,6 @@ it being further noted that the Planning
   and Environment Committee reviewed and received a communication, dated
   December 4, 2011, from D. Ionescu, with respect to this matter.
 
-# 14.&nbsp;&nbsp;&nbsp;10th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, on the
@@ -348,7 +334,6 @@ it being noted that the Planning and
   Environment Committee heard a delegation from B. Gilmore, Chair, Trees and
   Forests Advisory Committee, with respect to this matter.
 
-# 15.&nbsp;&nbsp;&nbsp;London Dairy Farm
   re properties located at 2034 and 2214 Wilton Grove Road and 3700 Old
   Victoria Road (Z-7960)
 
@@ -397,7 +382,6 @@ it being
   there not be a cap on the gross floor area; however, if there has to be a
   cap, requesting that it be 600 m2.
 
-# 16.&nbsp;&nbsp;&nbsp;Longwood Oaks Ltd.
   re property located at 35 Southdale Road East (Z-7954)
 
 Recommendation:  That, on the recommendation
@@ -512,7 +496,6 @@ it being
   would not have built her house there if she had known there would be a car
   dealership built there.
 
-# 17.&nbsp;&nbsp;&nbsp;The City of London
   re properties located at 1607, 1609 (eastern portion), 1611, 1615, 1619,
   1623, 1627, 1631, 1635, 1639, 1643, 1649 and 1653 Richmond Street (OZ-7965)
 
@@ -793,7 +776,6 @@ it being
   that traffic is a problem, but that it is a problem everywhere; and
   congratulating the City for doing this.
 
-# 18.&nbsp;&nbsp;&nbsp;Application by
   Drewlo Holdings Inc. re properties located at 1522 Kilally Road, 1654
   Highbury Avenue North and a portion of 1782 Kilally Road (39T-05505/Z-7942)
 
@@ -863,7 +845,6 @@ it being
   the residents to review the 72 page report that they received the Thursday
   prior to the meeting.
 
-# 19.&nbsp;&nbsp;&nbsp;Limiting Distance
   (No-Build) Agreement Between the Corporation of the City of London and Barvest
   Realty Incorporated (725 Third Street)
 
@@ -885,7 +866,6 @@ b)         the
   Services to execute, on behalf of the City of London as the adjacent property
   owner, a limiting distance (no-build) agreement for the property at 725 Third Street.
 
-# 20.&nbsp;&nbsp;&nbsp;Nicolas Schidowka
   re property located at 7092 Longwoods Road
 
 Recommendation:  That, on the
@@ -906,7 +886,6 @@ b)           
   DIRECTED to provide legal and planning representation at the Ontario
   Municipal Board Hearing to support the Committee of Adjustment’s decision.
 
-# 21.&nbsp;&nbsp;&nbsp;Oakridge Heights
   Development Inc. re property located at 495 Oakridge Drive (H-7978)
 
 Recommendation:  That, on the
@@ -920,7 +899,6 @@ Recommendation:  That, on the
   Special Provision (h-101 R6-2(9)) Zone; TO a Residential R6 Special Provision
   (R6-2(9)) Zone to remove the h-101 holding provision from these lands.
 
-# 22.&nbsp;&nbsp;&nbsp;Pemic Land
   Corporation re property located at 1480 Riverbend Road (39T-10504)
 
 Recommendation:  That, on the
@@ -959,7 +937,6 @@ c)         the
   planning evidence at the Ontario Municipal Board Hearing in support of
   Council’s position.
 
-# 23.&nbsp;&nbsp;&nbsp;Storm Sewer to
   Accommodate Intensification on Richmond Street
 
 Recommendation:  That, on the
@@ -983,7 +960,6 @@ it being further noted that the Planning
   communication, dated December 12, 2011, from J. Kennedy, President, London
   Development, with respect to this matter.
 
-# 24.&nbsp;&nbsp;&nbsp;London Health
   Sciences Centre - South Street Campus Decommissioning
 
 Recommendation:  That, notwithstanding the
@@ -993,7 +969,6 @@ Recommendation:  That, notwithstanding the
   Architects Inc., at a public participation meeting to be held on January 16,
   2012.
 
-# 25.&nbsp;&nbsp;&nbsp;Barry Molloy - 7
   Holiday Avenue
 
 Recommendation:  That the Planning and
@@ -1002,7 +977,6 @@ Recommendation:  That the Planning and
   Avenue.  The PEC asked the Civic Administration to report back on this matter
   at the February 6, 2012 PEC meeting.
 
-# 26.&nbsp;&nbsp;&nbsp;Downtown Tax
   Exemption Program - 431 Richmond Street
 
 Recommendation:  That the Civic
@@ -1013,7 +987,6 @@ Recommendation:  That the Civic
   communication, dated December 2, 2011, from M. Doornbosch, Zelinka Priamo
   Ltd., with respect this matter.
 
-# 27.&nbsp;&nbsp;&nbsp;Recommendation:      That
   Councillor S. White BE ELECTED as Vice Chair of the Planning and
   Environment Committee for the term ending November 30, 2012.
 

@@ -12,13 +12,11 @@ February 23, 2015, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Coxhead, S. Datars Bere, J.M. Fleming, K. Graham, A. Hagan, M. Hayward, G. Kotsifas, L. Livingstone, V. McAlea Major, J.P. McGonigle, K. Pawelec, C. Saunders, C. Smith, E. Soldo, S. Spring, J. Taylor
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2015 – 2019 Strategic Plan
 
 Recommendation:  That the attached 2015-2019
   Strategic Plan for the City of London BE APPROVED.

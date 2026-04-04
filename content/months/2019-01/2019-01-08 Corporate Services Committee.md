@@ -17,11 +17,9 @@ January 8, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -87,11 +85,9 @@ That, on the recommendation of the Managing Director, Corporate Services and Chi
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Environmental and Ecological Planning Advisory Committee
 
@@ -151,7 +147,6 @@ That Lori-Ann Pizzolato BE APPOINTED as an Alternate Voting Member representing 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Meeting Schedules and Fulltime Councillors
 
@@ -222,7 +217,6 @@ That the nomination of Councillor J. Morgan for appointment as the Third-Vice Pr
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:07 PM.
 

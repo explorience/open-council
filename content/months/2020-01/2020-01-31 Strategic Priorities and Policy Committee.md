@@ -17,11 +17,9 @@ January 31, 2020, at  9:30 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Mayor E. Holder discloses a pecuniary interest in Item 4.6 Protective Services, specific to the Fire Services, by indicating that his son-in-law is a member of the London Professional Firefighters Association.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.3&nbsp;&nbsp;&nbsp;Environmental Services
 
@@ -1346,7 +1344,6 @@ That consideration of item 4.7 a) v) Page 121 – Land Ambulance - $91,255,000 B
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Strategic Priorities and Policy Committee recessed at 4:51 PM; it being noted that the meeting will resume at 9:30 AM, Thursday, February 6, 2020.
 

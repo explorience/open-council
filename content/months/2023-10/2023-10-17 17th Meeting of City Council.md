@@ -20,21 +20,17 @@ October 17, 2023, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Franke discloses a pecuniary interest in item 6, clause 4.2 of the 25th Report of the Strategic Priorities and Policy Committee, having to do with the Consideration of Appointments to the London Transit Commission, by indicating that her brother is an applicant.
 
 Councillor P. Van Meerbergen discloses a pecuniary interest in item 7, clause 3.5 of the 16th Report of the Planning and Environment Committee, having to do with 50 King Street and 399 Ridout Street, by indicating that his immediate family resides in area of the properties.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by C. Rahman
 
@@ -102,7 +98,6 @@ That Council convenes In Closed Session, from 1:09 PM to 1:20 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Cuddy
 
@@ -132,7 +127,6 @@ That the Minutes of the 15th Meeting held on September 26, 2023 and the 16th Spe
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by C. Rahman
 
@@ -197,11 +191,9 @@ That the communications, with respect to the following, BE RECIEVED and BE REFER
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;15th Report of the Community and Protective Services Committee
 
@@ -1645,7 +1637,6 @@ At 5:58 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;14th Report of Council in Closed Session
 
@@ -1678,19 +1669,15 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, with t
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -1923,7 +1910,6 @@ That Third Reading and Enactment of Bill No.'s 373 and 380, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by C. Rahman
 
@@ -1937,7 +1923,6 @@ The meeting adjourned at 6:24 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 368**

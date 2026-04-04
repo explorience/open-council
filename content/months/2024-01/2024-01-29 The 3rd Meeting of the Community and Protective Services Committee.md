@@ -22,11 +22,9 @@ January 29, 2024, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -345,11 +343,9 @@ Motion to approve that the Civic Administration BE DIRECTED to update the snapsh
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Possible Amendments to the Vehicle for Hire By-law
 
@@ -395,7 +391,6 @@ Motion to approve the delegation request from H. Savehilaghi, Yellow London Taxi
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Remembrance Gardens at 2315 River Road
 
@@ -426,7 +421,6 @@ c)    the communication from Councillor H. McAlister and Councillor D. Ferreir
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:01 PM.
 ---

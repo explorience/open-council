@@ -15,7 +15,6 @@ December 4, 2012, at  3:35 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, G. Barrett, J. Braam, I. Collins, B. Coxhead, C. Cucksey, A. Dunbar, J.M. Fleming, S. Galloway, E. Gamble, K. Graham, M. Hayward, G.T. Hopcroft, O. Katolyk, G. Kotsifas, B. Kritchker, L. Livingstone, L. Palarchio, R. Paynter, A. Ripepi, C. Saunders, R. Semeniuk, J. Senese, R. Sharpe, J. Stanford, B. Westlake-Power, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that the following
   pecuniary interests were disclosed:
  
 a)           
@@ -44,7 +43,6 @@ d)           
   that relate to London CAReS by indicating that her employer is currently in
   negotiations with WOTCH, which receives funding from the City of London.
 
-# 2.&nbsp;&nbsp;&nbsp;Managing Director,
   Neighbourhood, Children's and Fire Services - Service London Value
   Proposition
 
@@ -94,7 +92,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;DELEGATION - City
   Manager - Verbal- 2012 Report to the Community
 
 > Moved by M. Brown
@@ -132,7 +129,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Tabling of the 2013
   Draft Budget
 
 > Moved by J.L. Baechler and seconded
@@ -171,7 +167,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING - City Clerk - Amendments to Consolidated Fees and Charges By-law
 
 > Moved by J.P. Bryant
@@ -214,7 +209,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Director, Corporate
   Communications - Community Engagement Task Force - Phase ll Report
 
 > Moved by J.L. Baechler and seconded
@@ -258,7 +252,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;DELEGATION -
   Managing Director, Planning & City Planner - Status of Rethink London
   Community Engagement Report Draft Values, Vision and Direction
 
@@ -311,7 +304,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;DELEGATION -
   Managing Director, Corporate Services and City Treasurer, Chief Financial
   Officer - Growth Management Implementation Strategy (GMIS): 2013 Annual
   Review and Update
@@ -400,7 +392,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;DELEGATION -
   Managing Director, Planning and City Planner - Industrial Lands Review O-8014
 
 > Moved by S. Orser
@@ -458,7 +449,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Argyle BIA Board of Management
 
 > Moved by B. Polhill
@@ -523,7 +513,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;London Convention
   Centre Board of Directors - Appointment Recommendations for the London
   Convention Centre Board of Directors
 
@@ -576,7 +565,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;London Police
   Services Board
 
 > Moved by B. Polhill
@@ -637,7 +625,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED - M. Seabrook,
   President and C.E.O, London International Airport - Extension of Term for
   Jeff Brown to the London International Airport Board of Directors
 

@@ -17,11 +17,9 @@ July 25, 2022, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that the following were in remote attendance: Mayor E. Holder, Councillor M. Cassidy
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Fyfe-Millar
 
@@ -154,11 +152,9 @@ b)    the Subject Property BE OFFERED for sale to the abutting property owners
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by J. Fyfe-Millar
 
@@ -278,11 +274,9 @@ That based on the application dated July 4, 2022 from #1792Project, the month of
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. Hamou
 
@@ -341,7 +335,6 @@ The Corporate Services Committee convenes in Closed Session from 12:25 PM to 1:0
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Fyfe-Millar
 

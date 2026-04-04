@@ -12,14 +12,12 @@ April 8, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > W.J. Armstrong, J.P. Bryant, G. Barrett, M. Corby, M. Davis, B. Debbert, M. Elmadhoon, S. Galloway, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, I. Listar, A. Macpherson, A. MacLean, D. Menard, C. Parker, N. Pasato, M. Ribera, C. Saunders, C. Smith, M. Tomazincic, A-B. Watson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor S.E. White
   disclosed a pecuniary interest in clause 13 of this Report having to do with
   the application of St. Leonard’s Community Services, regarding the property
   located at 313 Clarke Road, specifically as it relates to discussions about
   children under the care of the Children’s Aid Society, as the Children’s Aid
   Society is her employer.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 2nd Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8295)
 
 Recommendation:  That, on the
@@ -80,7 +77,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That, the following
@@ -155,7 +151,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following
@@ -244,7 +239,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to Fees
   and Charges By-law A-47 - Planning Fees - Extension of a Draft Plan of
   Subdivision
 
@@ -325,7 +319,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;City-Wide Changes
   to Vacant Land Condominium Policies (OZ-8288)
 
 Recommendation:  That, on the
@@ -475,7 +468,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 240 Waterloo Street (Z-8317)
 
 Recommendation:  That, on the
@@ -564,7 +556,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 221-225 Queens Avenue (Z-8312)
 
 Recommendation:  That, on the
@@ -701,7 +692,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 486, 486B and 500 Clarke Road (Z-8309)
 
 Recommendation:  That, on the
@@ -783,7 +773,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   2825 Tokala Trail (Z-8326)
 
 Recommendation:  That, on the
@@ -865,7 +854,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1550 Sunningdale Road West (Z-8079)
 
 Recommendation:  That, on the
@@ -973,7 +961,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   313 Clarke Road (OZ-8300)
 
 Recommendation:  That, the application of
@@ -1080,7 +1067,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   1836 Richmond Street (Z-8229)
 
 Recommendation:  That, on the
@@ -1293,7 +1279,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Strategies for
   Reducing Bird Deaths as a Result of High-Rise Developments
 
 Recommendation:  That the communication,
@@ -1319,7 +1304,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Request to start
   the April 29, 2014 Planning and Environment Committee meeting at 5:30 PM
 
 Recommendation: That, notwithstanding

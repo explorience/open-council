@@ -20,11 +20,9 @@ May 9, 2022, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that Councillors M. Cassidy and M. Hamou were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Fyfe-Millar
 
@@ -232,11 +230,9 @@ That the staff recommendation BE AMENDED by adding following new part c):
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Association of Municipalities Ontario - Board of Directors, Large Urban Caucus
 
@@ -334,7 +330,6 @@ That based on the application dated April 27, 2022 from Never Give Up Day, Augus
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Application - Issuance of Proclamation - Day of Remembrance for Our London Family
 
@@ -358,7 +353,6 @@ That based on the application dated May 3, 2022 from London and Middlesex Local 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. Cassidy
 
@@ -392,7 +386,6 @@ The Corporate Services Committee convenes in Closed Session from 1:14 PM to 2:15
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Fyfe-Millar
 

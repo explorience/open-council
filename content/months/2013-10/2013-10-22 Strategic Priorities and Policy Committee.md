@@ -15,12 +15,10 @@ October 22, 2013, at  3:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, R. Paynter, M. Ribera, C. Saunders, J. Smout, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;A. Marin, Ombudsman
   of Ontario – Final Report – Investigation into Whether Members of Council for
   the City of London Held an Improper Closed Meeting on February 23, 2013.
 

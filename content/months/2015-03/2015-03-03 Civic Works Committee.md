@@ -12,7 +12,6 @@ March 3, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > M. Cassidy, J. Morgan, M. Salih; J. Braam, T. Copeland, N. Hall, G. Irwin, J. Lawrence, D. MacRae, S. Mathers, D. Popadic, M. Ribera, L. Rowe, D. Simpson, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -20,7 +19,6 @@ Recommendation:  That it BE NOTED that
   Report, having to do with the Canada Post Community Mailbox Program, by
   indicating that his wife is employed by Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Single Source
   Procurement - Service and Repairs, 2-Way Radio Communication Equipment
 
 Recommendation:  That, on the
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Canada Post
   Community Mailbox Program Jurisdictional
 
 Recommendation:
@@ -228,7 +224,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Pollution
   Prevention and Control Plan Infoworks Modelling Assignments Additional Flow
   Monitoring
 
@@ -287,7 +282,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Hyde Park Road and
   South Carriage Road Intersection Assessment
 
 Recommendation:  That, on the
@@ -323,7 +317,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Closing the
   Baseline Road Allowance East of Hamilton Road
 
 Recommendation:  That, on the
@@ -359,7 +352,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Crinklaw Municipal
   Drain Improvements
 
 Recommendation:  That, on the
@@ -450,7 +442,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2015 Renew London -
   Infrastructure Construction Program
 
 Recommendation:  That, on the
@@ -476,7 +467,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Program
 
 Recommendation:  That the following actions
@@ -508,7 +498,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;3rd Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the 3rd Report of the

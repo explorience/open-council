@@ -18,7 +18,6 @@ March 31, 2015, at  4:00 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -40,15 +39,11 @@ Councillor J. Helmer discloses a pecuniary
   Civic Works Committee, having to do with Canada Post community mailboxes, by
   indicating that his spouse is a Canada Post employee.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -56,13 +51,11 @@ That it BE NOTED that Councillor J. Helmer
   the Canada Post Community Mailbox Program, by indicating that his spouse is
   employed by Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   LTC Long Term Growth Report Working Group
 
 That the 1st Report of the LTC Long Term
   Growth Report Working Group, from its meeting on March 12, 2015, BE RECEIVED.
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -77,7 +70,6 @@ Approve that Council rise and go into
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON MARCH 10, 2015
 
 > Moved by Councillor J. Zaifman
@@ -113,7 +105,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor P. Hubert
@@ -125,10 +116,8 @@ Approve the receipt and referral of the
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor P. Hubert
 
@@ -136,7 +125,6 @@ Approve clauses 1 to 8, clauses 10, 13, 14 and 16.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2015 Dig Safe
   Campaign
 
 That, on the recommendation of the
@@ -144,7 +132,6 @@ That, on the recommendation of the
   with respect to the 2015 Dig Safe Campaign, BE RECEIVED for information. 
   (2015-P15)
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -154,7 +141,6 @@ That, on the recommendation of the Managing
   2015, for the purpose of amending the Traffic and Parking By-law (P.S. 111). 
   (2015-C01)
 
-# 5.&nbsp;&nbsp;&nbsp;Single Source
   15-10, Supply and Delivery of Glass Beads and Traffic Paint (EMOP - County of
   Middlesex)
 
@@ -184,7 +170,6 @@ d)         the
   formal contracts or having purchase orders relating to the subject matter of
   this approval.  (2015-F18)
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender T15-04, 2015 Growth Management Implementation Strategy (GMIS)
   Southwest Area Trunk Sanitary Sewer- Phase 1
 
@@ -226,7 +211,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2015-L04)
 
-# 7.&nbsp;&nbsp;&nbsp;Replacement of Rear
   Loading Garbage Packers, Tender 15-32 and T15-33
 
 That, on the recommendation of the Managing
@@ -257,7 +241,6 @@ e)         the
   funding for this purchase BE APPROVED as set out in the Source of Financing
   Report appended to the staff report dated March 23, 2015.  (2015-F18)
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Detailed Design and Contract Administration for the
   Construction of Fox Hollow SWM Facility No. 3 (ES3020-FH3)
 
@@ -292,7 +275,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2015-A05)
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-06 Highbury Avenue Bridge Rehabilitation over CN Rail
 
 That, on the recommendation of the Managing
@@ -330,7 +312,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2015-L04)
 
-# 13.&nbsp;&nbsp;&nbsp;Single Source 15-11
   Pay and Display Parking Meters
 
 That, on the recommendation of the Managing
@@ -359,7 +340,6 @@ d)         the
   formal contract or having a purchase order relating to the subject matter of
   this approval.  (2015-F18)
 
-# 14.&nbsp;&nbsp;&nbsp;Tender 14-116
   Supply and Installation of Sewer Liners - Cured In Place Pipe (CIPP)
 
 That, on the recommendation of the Managing
@@ -387,7 +367,6 @@ d)         the
   formal contract or issuing purchase orders or contract record relating to
   these matters of this approval.  (2015-F18)
 
-# 16.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Program - Un-assumed Subdivisions
 
 That the Civic Administration BE REQUESTED
@@ -396,7 +375,6 @@ That the Civic Administration BE REQUESTED
   options for private contacting for snow removal for un-assumed streets, for
   implementation in the 2015/2016 winter season (2015-T06/D12)
 
-# 9.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry - Ontario's Climate Change Discussion
   Paper 2015
 
@@ -418,7 +396,6 @@ b)         any
   Registry posting (EBR 012-3452) shortly after the Municipal Council meeting
   on March 31, 2015.  (2015-E02/C09)
 
-# 11.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-10 Hyde Park Road Widening Phase 2 CPR to Fanshawe Park Road
 
 That, on the recommendation of the Managing
@@ -456,7 +433,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2015-L04)
 
-# 12.&nbsp;&nbsp;&nbsp;Fanshawe Park Road
   and Richmond Street Intersection Improvements Environmental Assessment Study
   Appointment of Consulting Engineer
 
@@ -488,7 +464,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2015-A05)
 
-# 15.&nbsp;&nbsp;&nbsp;Canada Post Community
   Mailboxes
 
 That the following actions be taken with
@@ -558,7 +533,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Review of
   Delegation Request Process
 
 That the City Clerk BE REQUESTED to report
@@ -567,7 +541,6 @@ That the City Clerk BE REQUESTED to report
   mitigate those situations where a potential delegation must prepare for and
   attend a meeting in order to find out when/if their delegation will be heard.
 
-# 18.&nbsp;&nbsp;&nbsp;Speed Limits on
   School Zones
 
 That the Civic Administration BE REQUESTED
@@ -575,7 +548,6 @@ That the Civic Administration BE REQUESTED
   to reducing the speed limit in school zones in order to improve pedestrian
   safety.
 
-# 19.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Advisory Committee on Heritage
 
 That the following individuals BE CONFIRMED
@@ -591,7 +563,6 @@ Non-Voting:
  
 Joshua Dent - London Heritage Council
 
-# 20.&nbsp;&nbsp;&nbsp;Lobbyist Registry
 
 That the Civic Administration BE REQUESTED
   to bring forward its earlier report on the potential for implementing a
@@ -627,15 +598,11 @@ Approve clauses 1 to 18, excluding clause 15.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -741,7 +708,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

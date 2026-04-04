@@ -20,11 +20,9 @@ January 14, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor E. Peloza was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That is BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -122,11 +120,9 @@ That, on the recommendation of the City Manager and with the concurrence of the 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the Integrated Transportation Community Advisory Committee
 
@@ -291,11 +287,9 @@ That Jim Dean, of Jim Dean Law BE APPOINTED to the Hamilton Road BIA for the ter
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Cuddy
 
@@ -331,7 +325,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 2:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

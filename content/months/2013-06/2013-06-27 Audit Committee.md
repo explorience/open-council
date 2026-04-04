@@ -15,10 +15,8 @@ June 27, 2013, at  2:43 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.P. Barber, J. Braam, I. Collins, Natalie Dowhanick (PwC), J.M. Fleming, C. Kotsovos, V. McAlea Major, L. Palarchio, A. Prince, I. Sadler (PwC), J. Senese, C. Shah (PwC), R. Sharpe, S. Swance, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;RFP 10-24 -
   Internal Audit Services
 
 Recommendation: That, on
@@ -43,7 +41,6 @@ c)         approval
   (PwC) LLP to the satisfaction of the Managing Director, Corporate Services
   and City Treasurer, Chief Financial Officer.
 
-# 3.&nbsp;&nbsp;&nbsp;2012 Financial
   Audit
 
 Recommendation:  That the following actions
@@ -63,7 +60,6 @@ it being noted that the Audit Committee
   received the attached presentation from the Deputy City Treasurer and
   a verbal presentation from KPMG with respect to these matters.
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Urban Forestry and Planning Applications and
   Corporate Services/Finance - Budgeting Process
 
@@ -81,7 +77,6 @@ b)           
   action plans identified in Appendices A, B and C of the report noted in a),
   above, BE IMPLEMENTED.
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - Emerald Ash Borer – Tree
   Replacement Process
 
 Recommendation:  That the Civic Administration
@@ -91,7 +86,6 @@ Recommendation:  That the Civic Administration
   option of purchasing larger trees and making arrangements for a City of
   London approved contractor to undertake the work at the residents’ expense.
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED - Verbal Update – Succession Plan
 
 (See Confidential Appendix to the 4th
   Report of the Audit Committee is enclosed for Members only.)

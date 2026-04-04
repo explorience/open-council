@@ -12,7 +12,6 @@ September 14, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, K. Graham, A. Hagan, M. Hayward, K. Huner, G. Kotsifas, L. Livingstone, V. McAlea Major, L. Palarchio, M. Ribera, C. Saunders, J. Senese, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor J. Helmer
   the community mailbox installation agreement, by indicating that his spouse
   is employed by Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;Community and
   Development Industry Stakeholder Consultation Regarding Proposed Amendments
   to the Development Charges Act, 1997
 
@@ -55,7 +53,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Community Mailbox
   Installation Agreement
 
 That, on the recommendation of the Managing
@@ -134,7 +131,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Multi-Year Budget
 
 That the following actions be taken with
   respect to the Multi-Year Budget:
@@ -229,7 +225,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Town and Gown Committee
 
 That Councillor J. Zaifman BE APPOINTED to
@@ -260,7 +255,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Provincial Transportation Modes
 
 That the following actions be taken with
   respect to the Province of Ontario’s examination of the optimal use of
@@ -338,7 +332,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Councillor J. Helmer Enquiry – Moving
   Ontario Forward Consultation
 
 That it BE NOTED that Councillor J. Helmer

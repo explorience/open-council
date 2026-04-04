@@ -18,7 +18,6 @@ January 28, 2014, at  4:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor S.E. White discloses a pecuniary
@@ -41,10 +40,8 @@ Councillor M. Brown discloses a pecuniary
   with the proposed new school in the Summerside area, by indicating that the
   Thames Valley District School Board is his employer.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor J.L. Baechler
@@ -93,7 +90,6 @@ Approve that pursuant to section to
 
 ****
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor Baechler enquired if it would be
   possible to receive an update on the City of London’s Industrial Land
@@ -111,9 +107,7 @@ Councillor S.E. White indicated it was her
   future meeting with the City of London/London District Catholic School Board
   Liaison Committee.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -130,7 +124,6 @@ b)         Councillor
   by indicating that she is employed by the Children’s Aid Society and the
   London Mental Health Crisis Centre.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Budget -
   Public Participation Meeting
 
 That the written and verbal submissions
@@ -258,7 +251,6 @@ n)         Yasmin,
   not cleared year round; asking that the bike budget not be cut; and noting
   year round access to the paths is necessary for running errands.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor D. Brown
@@ -357,7 +349,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 14, 2014
 
 > Moved by Councillor J.L. Baechler
@@ -393,7 +384,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -405,10 +395,8 @@ Approve referral of the following communication
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor S.E. White
 
@@ -445,7 +433,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Participate in the Ontario Certified Site Program with
   the Ministry of Economic Development, Trade and Employment for 2575 Boyd
   Court, Innovation Park - Phase IV
@@ -550,7 +537,6 @@ Approve clauses 1 to 4, inclusive, and 6 to 8, inclusive.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   122 Wortley Road (Z-8183)
 
 > Moved by Councillor S. Orser
@@ -588,7 +574,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Chamber of
   Commerce - 2014 Budget
 
 That the communication dated December 19,
@@ -596,7 +581,6 @@ That the communication dated December 19,
   Chamber of Commerce Board’s observations and recommendations regarding the
   2014 Budget BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Closing of Colborne
   Street Diversion
 
 That, on the recommendation of the Director
@@ -615,7 +599,6 @@ b)         the
   not be initiated until the City enters into a purchase and sale agreement for
   the road allowances.  (2014-T09)
 
-# 6.&nbsp;&nbsp;&nbsp;Closing of Hill
   Street Boulevard
 
 That, on the recommendation of the Director
@@ -632,7 +615,6 @@ b)         the
   noted that the closing will not be initiated until the City enters into a
   purchase and sale agreement for the closed road allowance.  (2014-709)
 
-# 7.&nbsp;&nbsp;&nbsp;Ban on Unsafe Rail
   Tank Cars Carrying Hazardous Materials
 
 That the Mayor BE REQUESTED to send a
@@ -646,7 +628,6 @@ That the Mayor BE REQUESTED to send a
   explosive product subject to the protocols for moving highly dangerous goods
   by rail.  (2014-P04)
 
-# 8.&nbsp;&nbsp;&nbsp;Fanshawe College
   and Western University Representation on City of London Advisory Committees
 
 That the following individuals from
@@ -690,7 +671,6 @@ f)          Transportation Advisory
             -           Amir Eftekarpour
   (Western University)
 
-# 13.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 That, the following actions be taken with
@@ -711,7 +691,6 @@ a)         the
 b)         clauses 2 to 7, inclusive, of
   the 1st Report of the AAC BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;Trees on Private
   Property
 
 That the communication, dated December 13,
@@ -719,7 +698,6 @@ That the communication, dated December 13,
   REFERRED to the Civic Administration for review and to report back to a
   future meeting of the Planning and Environment Committee.   (2013-E04)
 
-# 15.&nbsp;&nbsp;&nbsp;Infill
 
 That, the following actions be taken with
   respect to Civic Administration’s procedures relating to infill:
@@ -809,7 +787,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
   1653 Richmond Street (OZ-7965)
 
@@ -1141,7 +1118,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;1st and 2nd Reports
   of the Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -1191,7 +1167,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Downtown London -
   2014 Budget
 
 That the attached communication
@@ -1386,13 +1361,10 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1683,7 +1655,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

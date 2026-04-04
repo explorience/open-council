@@ -12,13 +12,11 @@ May 24, 2016, at  1:03 PM
 > [!abstract]- Also Present:
 > G. Belch, A. Dunbar, J. Lucas, P. Lupton, S. Mathers, D. Popadic, M. Ribera, L. Rowe, J. Simon, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Transportation Advisory Committee
 
 That the 5th Report of the Transportation
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Increase in
   Engineering Fees - Southeast Pumping Station and Reservoir - Project No.
   EW3614
 
@@ -96,7 +93,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -122,7 +118,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Watermain Cleaning
   and Relining Renewal
 
 That, on the recommendation of the Managing
@@ -172,7 +167,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Kilally South
   Stormwater Management Study Municipal Class Environmental Study Addendum
 
 That, on the recommendation of the Managing
@@ -212,7 +206,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer - Hyde Park Community Stormwater Servicing Environmental
   Assessment Addendum Consultant Appointment
 
@@ -261,7 +254,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Contract Administration Services Associated with the
   Construction of 2016 Infrastructure Renewal Projects - William Street and
   Wellington Street Reconstruction, Ashland Avenue Reconstruction and Iroquois
@@ -330,7 +322,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Elgin-Middlesex
   Pumping Station - Operation and Maintenance Services Agreement Review of
   Contract Term Extension
 
@@ -360,7 +351,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer - Long Term Solid Waste Resource Recovery and Disposal
   Plans
 
@@ -401,7 +391,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -425,7 +414,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED)  Rainbow Crosswalks
 
 That the Civic Administration BE DIRECTED
   to create a rainbow crosswalk in advance of the 2016 Pride London festival,

@@ -12,7 +12,6 @@ December 16, 2013, at  3:03 PM
 > [!abstract]- Also Present:
 > N. Branscombe, A. Zuidema, J. P. Barber, S. Datars Bere, J.M. Fleming, M. Hayward, D. Mounteer, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

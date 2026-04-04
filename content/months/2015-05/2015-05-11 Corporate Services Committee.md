@@ -12,7 +12,6 @@ May 11, 2015, at  3:01 PM
 > [!abstract]- Also Present:
 > M. van Holst, J. Helmer, A. Zuidema, A. Athanasiou, J.P. Barber, J. Braam, T. Copeland, A. Dunbar, M. Hayward, D. Mounteer, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary

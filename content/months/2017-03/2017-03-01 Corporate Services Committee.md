@@ -12,10 +12,8 @@ March 1, 2017, at  2:32 PM
 > [!abstract]- Also Present:
 > A. Hopkins, M. van Holst; M. Hayward, A.L. Barbon, G. Belch, B. Card, K. Dawtrey, A. Hagan, V. McAlea Major, M. Ribera, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Debenture Issue Update
 
 That, on the recommendation of the Managing

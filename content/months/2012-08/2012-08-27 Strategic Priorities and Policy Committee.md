@@ -15,10 +15,8 @@ August 27, 2012, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, P. Christiaans, J.M. Fleming, E. Gamble, M. Henderson, G.T. Hopcroft, V. McAlea Major, S. Mathers, D. O’Brien, L. Palarchio, M. Ribera, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Master Servicing
   and 2014 Development Charge Studies Consultant Appointment
 
 Recommendation:  That, on the
@@ -69,14 +67,12 @@ it being noted that the consulting fees for
   Guideline for Professional Engineering Services, 2012,  recommended by the
   Ontario Society of Professional Engineers.
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Services Review Committee
 
 Recommendation: 
   That the 4th Report of the Services Review Committee from its meeting held on
   June 25, 2012, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Role of the
   Ombudsman
 
 Recommendation: That the City Clerk BE
@@ -104,7 +100,6 @@ it being noted that the Strategic
   from Councillor S. Orser with respect to the role of the Ontario Ombudsman as
   the City of London’s closed meeting investigator.
 
-# 5.&nbsp;&nbsp;&nbsp;London Hydro Inc.
   Board of Directors Compensation
 
 Recommendation:  That the following actions
@@ -152,7 +147,6 @@ A recorded vote was held on part a), with
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Resignation of
   Tamara Nugent from the London Public Library Board Trustee as a
   representative of the London and District Catholic School Board
 
@@ -165,7 +159,6 @@ Recommendation:  That the communication
   London District Catholic School Board will be appointing a replacement at its
   meeting being held on August 27, 2012.
 
-# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Eldon House Board of Directors
 
 Recommendation:  That the following

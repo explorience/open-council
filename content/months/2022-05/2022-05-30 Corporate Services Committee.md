@@ -17,11 +17,9 @@ May 30, 2022, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that Mayor E. Holder and Councillor M. Cassidy were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Fyfe-Millar
 
@@ -98,11 +96,9 @@ That, on the recommendation of the City Clerk and with the concurrence of the Di
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
 
@@ -164,7 +160,6 @@ THAT notwithstanding the Terms of Reference for the Ecological Community Advisor
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Application - Issuance of Proclamation - Never Give Up Day - Resubmitting
 
@@ -189,7 +184,6 @@ That the application for the Issuance of Proclamation "Never Give Up Day" BE REC
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Fyfe-Millar
 
@@ -220,7 +214,6 @@ The Corporate Services Committee convenes in Closed Session from 12:39 PM to 12:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Cassidy
 

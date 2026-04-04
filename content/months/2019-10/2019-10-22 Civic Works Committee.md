@@ -17,11 +17,9 @@ October 22, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -310,11 +308,9 @@ f)             the Mayor and the City Clerk BE AUTHORIZED to execute
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;9th Report of the Cycling Advisory Committee
 
@@ -337,7 +333,6 @@ That the 9th Report of the Cycling Advisory Committee, from its meeting held on 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -393,7 +388,6 @@ b)         the remaining clauses of the above-noted CAC report BE REFERR
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:39 PM.
 

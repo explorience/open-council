@@ -17,11 +17,9 @@ April 1, 2019, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Salih
 
@@ -213,7 +211,6 @@ That the delegation request from T. Cuzzocrea BE APPROVED with respect to the 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Unsanctioned and Unsafe Street Parties Policy Amendments - Public Nuisance By-law - Cost Recovery
 
@@ -319,11 +316,9 @@ c)            clauses 1.1, 2.1, 2.2, 4.1, 5.1, 5.2 and 6.1 b), BE REC
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -347,7 +342,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:20 PM.
 

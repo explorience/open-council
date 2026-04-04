@@ -17,11 +17,9 @@ September 8, 2020, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that the following Members were in remote attendance:  Councillors M. van Holst, J. Helmer, A. Hopkins and J. Morgan.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Morgan
 
@@ -212,11 +210,9 @@ b)      the proposed by-law appended to the staff report dated September 8, 2
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Respiratory Therapy Week
 
@@ -241,11 +237,9 @@ That based on the application dated August 25, 2020, from the Canadian Society o
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Morgan
 
@@ -268,7 +262,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:57 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:07 pm.
 

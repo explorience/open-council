@@ -15,7 +15,6 @@ April 16, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Zuidema, B. Coxhead, K. Dawtrey, A. Dunbar, J.M. Fleming, A. Hagan, J. Kobarda, L. Livingstone, V. McAlea Major, L. Palarchio, C. Saunders, J. Saunders (Hicks Morley)
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins
@@ -29,7 +28,6 @@ That it BE NOTED that Councillor A. Hopkins
   communications necessary for that purpose, by indicating that her son is
   employed by the City of London.
 
-# 2.&nbsp;&nbsp;&nbsp;ADDED - Resignation
   from the London Public Library Board
 
 That the resignation of Councillor A.

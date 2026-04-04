@@ -15,10 +15,8 @@ June 21, 2016, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer; A. Zuidema, A.L. Barbon, S. Datars Bere, K. denBok (KPMG) S. Gilfillan (PwC), M. Hayward, I. Jeffreys (KPMG), V. McAlea Major, D. McLean (PwC), K. Medinilla, D. O’Brien, M. Ribera, C. Shah (PwC), J. Smout, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2015
   Financial Audit
 
 That the following actions be taken with
@@ -37,7 +35,6 @@ it being noted that the Audit Committee
   received the attached presentation from the Director, Financial Services and
   a verbal presentation from KPMG with respect to these matters.
 
-# 3.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   London Downtown Closed Circuit Television Program - Report on Specified
   Auditing Procedures
 
@@ -45,10 +42,8 @@ That the KPMG Report on Specified Auditing
   Procedures for the London Downtown Closed Circuit Television Program, dated
   March 31, 2016, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Consultant Contract Award and Payment Reporting Processes
 
-# 5.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Quarterly Report on Internal Audit Results - Status of Past Project Action
   Plans
 

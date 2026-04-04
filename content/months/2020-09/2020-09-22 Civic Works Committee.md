@@ -20,11 +20,9 @@ September 22, 2020, at 12:00 PM
 
 The meeting was called to order at 12:14 PM; it being noted that the following Members were in remote attendance: Councillors M. Cassidy and P. Van Meerbergen
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -270,11 +268,9 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Street Renaming By-law, Policies and Guidelines - Councillor E. Peloza
 
@@ -328,7 +324,6 @@ Motion to amend the main motion by removing the following, "it being noted that 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -374,7 +369,6 @@ That the Civic Administration BE DIRECTED to report back at a future meeting of 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:18 PM.
 

@@ -21,19 +21,15 @@ March 22, 2022, at  2:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Temporary Reintroduction of Mask By-law to Limit the Spread of COVID-19 - Councillors Helmer, Turner and Cassidy
 
@@ -90,7 +86,6 @@ That the attached by-law BE INTRODUCED at the Council meeting to be held on Mar
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;CONFIDENTIAL Solicitor-Client Privilege/Litigation-Potential Litigation
 
@@ -122,7 +117,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by E. Peloza
 

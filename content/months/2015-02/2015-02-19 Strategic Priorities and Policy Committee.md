@@ -12,10 +12,8 @@ February 19, 2015, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, M. Hayward, O. Katolyk, G. Kotsifas, L. Livingstone, V. McAlea Major, J.P. McGonigle, D. O’Brien, L. Palarchio, M. Ribera, C. Saunders, J. Senese, C. Smith, B. Westlake-Power
 
-# 2.&nbsp;&nbsp;&nbsp;2015
   Budget – Public Participation
 
-# 3.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Committee of Revision/Court of Revision (Requires 3
   Members)
 
@@ -27,7 +25,6 @@ C. Edgar
 W.R. Monteith
 W.C. Pol
 
-# 4.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Plumbers' and Drain Layers' Examining Board (Requires 3
   Members)
 
@@ -39,7 +36,6 @@ S. Atchison
 D. Brouwer
 M. Salliss
 
-# 5.&nbsp;&nbsp;&nbsp;2nd Report of the
   Striking Committee
 
 Recommendation:  That the following actions
@@ -208,7 +204,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Accessibility Advisory Committee
 
 Recommendation:  That the following BE CONFIRMED
@@ -219,7 +214,6 @@ Joyce Bennett - Board of Education
 Valerie Waines - Seniors' Community of
   London
 
-# 7.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Advisory Committee on the Environment
 
 Recommendation:  That the following BE
@@ -238,7 +232,6 @@ Iqbal Kalsi - Middlesex-London Health Unit
 Linda De Vos - Thames Valley District
   School Board
 
-# 8.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Agricultural Advisory Committee
 
 Recommendation:  That the following BE
@@ -254,7 +247,6 @@ Steve Twynstra - Middlesex Soil and Crop
 Patrick Conlin - Middlesex Soil and Crop
   Improvement Association - Alternate
 
-# 9.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Animal Welfare Advisory Committee
 
 Recommendation:  That the following BE
@@ -273,7 +265,6 @@ Non-Voting:
 Fatih Sekercioglu - Middlesex-London Health
   Unit
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Child Care Advisory Committee
 
 Recommendation:  That the following BE
@@ -286,7 +277,6 @@ Holly Gerrits - Local School Boards
 Jeff Havemen - Support Services for
   Children with Special Needs
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the following BE
@@ -321,7 +311,6 @@ Nancy Collister - London Public Library
 Emily van Kesteren - London and Area Active
   & Safe Routes to School
 
-# 12.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Cycling Advisory Committee
 
 Recommendation:  That the following BE
@@ -342,7 +331,6 @@ Non-Voting:
 Paul Dubniak - London Transit Commission
 Gary Strang - London Police Service
 
-# 13.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That Christine Creighton,
@@ -350,7 +338,6 @@ Recommendation:  That Christine Creighton,
   Non-Voting Member on the Environmental and Ecological Planning Advisory
   Committee for the term March 1, 2015 to February 28, 2019.
 
-# 14.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Advisory Committee on Heritage
 
 Recommendation:  That the following BE
@@ -376,7 +363,6 @@ Derek Dudek - Development Community (London
 Heather Garrett - Urban Design Community
   (London Urban Design Association)
 
-# 15.&nbsp;&nbsp;&nbsp;Confirmation of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That Jessica Hill,
@@ -384,7 +370,6 @@ Recommendation:  That Jessica Hill,
   a Non-Voting Member on the London Diversity and Race Relations Advisory
   Committee for the term of March 1, 2015 to February 28, 2019.
 
-# 16.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Housing Advisory Committee
 
 Recommendation:  That the following BE CONFIRMED
@@ -398,7 +383,6 @@ Steve Matthew - London & Middlesex
 Melissa Hardy-Trevenna - London & St.
   Thomas Real Estate Board
 
-# 17.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Town and Gown Committee
 
 Recommendation:  That the following BE
@@ -429,7 +413,6 @@ Sergeant David Ellyatt - London Police
 Wendy Cowdrey - London Fire Services
 Glenn Matthews - Housing Mediation Office
 
-# 18.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Transportation Advisory Committee
 
 Recommendation:  That the following BE
@@ -454,7 +437,6 @@ Staff Sergeant Arlene Wilson - London
 Iqbal Kalsi - Middlesex-London Health Unit
 Jen Carter - Post-Secondary Student
 
-# 19.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Trees and Forests Advisory Committee
 
 Recommendation:  That the following BE
@@ -473,7 +455,6 @@ Non-Voting:
 Brandon Williamson - Upper Thames Valley
   Conservation Authority
 
-# 20.&nbsp;&nbsp;&nbsp;ADDED - 2015 Budget
   - Public Input
 
 Recommendation:  That, on the
@@ -505,7 +486,6 @@ Motion Passed
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;ADDED - 2015 Budget – Additional
   Contribution – Middlesex-London Health Unit
 
 Recommendation:   That a pro-rated sum of

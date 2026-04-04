@@ -21,11 +21,9 @@ June 21, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -318,7 +316,6 @@ That the staff report dated June 21, 2021 entitled "Memorandum of Understanding 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;915 - 919 Commissioners Road East (Z-9334)
 
@@ -653,7 +650,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;183 and 197 Ann Street - A-M. Valastro - REQUEST FOR DELEGATION STATUS
 
@@ -809,7 +805,6 @@ g)   clauses 1.1, 3.1 to 3.7, inclusive, 3.9, 4.1 and 5.4 BE RECEIVED for info
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED)  5th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -878,7 +873,6 @@ d)  clauses 1.1, 2.1 BE RECEIVED for information.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:14 PM.
 ---

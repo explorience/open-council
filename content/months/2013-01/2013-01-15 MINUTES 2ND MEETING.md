@@ -18,7 +18,6 @@ January 15, 2013, at  4:48 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:48 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J.B. Swan discloses a pecuniary
@@ -71,13 +70,10 @@ Councillor M. Brown discloses a pecuniary
   Place Subdivision), by indicating that his residence is within the vicinity
   of these projects.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor B. Polhill
@@ -114,15 +110,12 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS, continued.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Chair
   and Vice-Chair for the term ending November 30, 2013
 
 That Councillor M. Brown BE ELECTED Chair
@@ -236,7 +229,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 11, 2012
 
 > Moved by Councillor B. Polhill
@@ -273,13 +265,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor B. Polhill
 
@@ -287,7 +276,6 @@ Approve clauses 1 to 17, except clauses 13 and 16.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Budget Targets
 
 That the attached
   presentations as contained in the attachment noted in clause 2, above, from
@@ -295,7 +283,6 @@ That the attached
   Corporation; L. Ducharme, London Transit Commission, and the attached presentation
   from B. Duncan, London Police Service BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;London Public
   Library 2013 Operating Budget - Impact of 0% Budget
 
 That the communication dated November 19,
@@ -303,7 +290,6 @@ That the communication dated November 19,
   Krimmer, CEO and Chief Librarian, London Public Library regarding the 2013
   Operating Budget BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Joint Venture - Fit
   Program
 
 That the communication dated January 7,
@@ -317,7 +303,6 @@ Approve clauses 1 and 2.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Councillor D.
   Henderson - Development Proposals
 
 That it BE NOTED that Councillor D.
@@ -389,7 +374,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Procurement of
   Goods and Services Policy Revision
 
 That, on the recommendation of the Managing
@@ -400,14 +384,12 @@ That, on the recommendation of the Managing
   of Goods and Services Policy, to add a new section 2.14 for compliance with
   the new AODA requirements starting January 1, 2013.
 
-# 8.&nbsp;&nbsp;&nbsp;No. 1 Fire Station
   - Interior Alterations - Project No. PP1176-11 Tender No. 12-102
 
 That consideration of Tender No. 12-102 for
   No. 1 Fire Station (400 Horton Street East) – Interior Alterations – Project
   No. PP1176-11 BE REFERRED to the 2013 Budget deliberations.
 
-# 9.&nbsp;&nbsp;&nbsp;London Bid for
   Federation of Canadian Municipalities (FCM) 2015 Sustainable Communities
   Conference and Trade Show
 
@@ -417,7 +399,6 @@ That, on the recommendation of the Director
   Canadian Municipalities 2015 Sustainable Communities Conference and Trade
   Show.
 
-# 10.&nbsp;&nbsp;&nbsp;OMERS Pension
   Contribution Increases
 
 That the communication dated November 30,
@@ -425,7 +406,6 @@ That the communication dated November 30,
   pension contribution increases; and the attached presentation
   from M. Robinson and J. Pierce, OMERS, BE RECEIVED for information.
 
-# 11.&nbsp;&nbsp;&nbsp;Welcoming the World
   to London Campaign
 
 That, on the recommendation of the City
@@ -463,7 +443,6 @@ Motion Failed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Federation of
   Canadian Municipalities Board of Directors Meeting - Ottawa, November 20-23,
   2012
 
@@ -472,14 +451,12 @@ That the communication dated December 3,
   Federation of Canadian Municipalities Board of Directors meeting held on
   November 20-23, 2012 in Ottawa, Ontario BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;Reserve Expenditure
 
 That the Covent Garden Market BE AUTHORIZED
   to increase the draw down on its reserve to $78,711.23 in order to replace
   the existing lighting in the underground parking at the Covent Garden
   Market.
 
-# 15.&nbsp;&nbsp;&nbsp;Resignation from
   the Trees and Forests Advisory Committee
 
 That the communication from Craig Neilans,
@@ -487,7 +464,6 @@ That the communication from Craig Neilans,
   ACCEPTED and Mr. Neilans BE THANKED for participating on the Trees and
   Forests Advisory Committee.
 
-# 17.&nbsp;&nbsp;&nbsp;Resignation from
   the Accessibility Advisory Committee
 
 That the communication dated November 28,
@@ -495,7 +471,6 @@ That the communication dated November 28,
   Advisory Committee, BE ACCEPTED and Mr. Woods BE THANKED for participating on
   the Accessibility Advisory Committee.
 
-# 13.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status at the Corporate Services Committee re Post-Secondary
   Students Becoming More Involved in Municipal Government
 
@@ -516,7 +491,6 @@ b)         the
   as a delegation at the meeting which the report requested in a), above, is
   before the Corporate Services Committee.
 
-# 16.&nbsp;&nbsp;&nbsp;Resignation from
   the Accessibility Advisory Committee
 
 That the communication dated November 22,
@@ -524,7 +498,6 @@ That the communication dated November 22,
   Advisory Committee, BE ACCEPTED and Ms. Badeski BE THANKED for participating
   on the Accessibility Advisory Committee.
 
-# 18.&nbsp;&nbsp;&nbsp;Resignation from
   the London Housing Advisory Committee
 
 That the communication dated December 17,
@@ -532,7 +505,6 @@ That the communication dated December 17,
   Advisory Committee, BE ACCEPTED and Ms. Butler BE THANKED for participating
   on the London Housing Advisory Committee.
 
-# 19.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following individual BE APPOINTED
@@ -544,7 +516,6 @@ Voting:
 -           Sandra Cruz - London District
   Catholic School Council
 
-# 20.&nbsp;&nbsp;&nbsp;Roof Lease
   Agreement for Employing Solar PV Systems on City of London's Municipal
   Buildings and Properties
 
@@ -564,7 +535,6 @@ a)         approve
 b)         authorize
   the Mayor and City Clerk to execute the agreement in (i) above.  (See Report attached.)
 
-# 22.&nbsp;&nbsp;&nbsp;Advancement in
   Lighting Technology
 
 That the Civic Administration BE REQUESTED
@@ -572,7 +542,6 @@ That the Civic Administration BE REQUESTED
   being taken, and may be taken, to take advantage of energy and cost savings
   arising from advancements in lighting technology.
 
-# 21.&nbsp;&nbsp;&nbsp;2013 World Figure
   Skating Championships
 
 That the Civic Administration BE ADVISED
@@ -742,10 +711,8 @@ Approve clauses 1 to 3.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor S. White enquires as to sourcing
   additional funds for a donation to the Glanworth Library.
@@ -823,10 +790,8 @@ Councillor W.J.
   inquiry to the Civic Administration, for report back at a future meeting of the
   Civic Works Committee.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 > Moved by Councillor B. Polhill
 
@@ -1162,7 +1127,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

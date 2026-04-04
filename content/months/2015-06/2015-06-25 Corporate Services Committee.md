@@ -15,7 +15,6 @@ June 25, 2015, at  3:17 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That

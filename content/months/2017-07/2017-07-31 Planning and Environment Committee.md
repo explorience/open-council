@@ -12,13 +12,11 @@ July 31, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > M. van Holst (Acting );  J. Zaifman; I. Abushehada, G. Belch, L. Dent, P. Kokkoros, G. Kotsifas, A. MacLean, B. O’Hagan, N. Pasato, M. Pease, M. Ribera, C. Saunders, J.-A. Spence, M. Tomazincic, S. Wise, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at a portion of 1800 Cedarhollow Boulevard - Cedarhollow Subdivision
   Phase 4 (H-8696)
 
@@ -50,7 +48,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 66 Byron Avenue (Z-8616)
 
 That, on the recommendation of the Managing
@@ -77,7 +74,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 2332 Wickerson Road - Phase 1 and 2 (H-8700/H-8750)
 
 That, on the recommendation of the Senior
@@ -114,7 +110,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at Wickerson Hills Subdivision - Phase Two (39T-08507)
 
 That, on the recommendation of the Manager,
@@ -164,7 +159,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 2150 Oxford Street East (H-8801)
 
 That, on the recommendation of the Senior
@@ -195,7 +189,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance Report
 
 That, on the recommendation of the City
@@ -222,7 +215,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Limiting Distance (No-Build) Agreement Between the Corporation of the City of
   London and Jose Pereira (320 Phyllis Street)
 
@@ -266,7 +258,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 150 Dundas Street  and 153
   Carling Street - Request for Demolition of a Heritage Designated Property
 
@@ -371,7 +362,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 150 Dundas Street and 153
   Carling Street
 
@@ -618,7 +608,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Group Home Type 1 Uses with Regards to Distance
   Separation Regulations of the Zoning By-law (Z-8779)
 
@@ -801,7 +790,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;COUNCILOR MEMBER SUBMISSION
   - Bill C-45 Potential Local Impacts
 
 That the Civic Administration BE REQUESTED
@@ -843,7 +831,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PEC Deferred List
 
 That the Civic Administration BE DIRECTED
   to update the Deferred Matters List to remove any items that have been

@@ -12,19 +12,16 @@ October 4, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > H. L. Usher; J. Braam, S. Chambers, T. Copeland, A. Dunbar, K. Graham, T. Grawey, J. Lucas, A. MacLean, A. Macpherson, D. MacRae S. Maguire, S. Mathers, D. Mounteer, J. Parsons, L. Rowe, K. Scherr, J. Simon, E. Soldo, S. Spring, J. Stanford, R. Sutton, A. Thompson
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the Cycling
   Advisory Committee
 
 That the 9th Report of the Cycling Advisory
   Committee, from its meeting held on September 21, 2016, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Wonderland Road
   South Improvements (Manning Drive to South City Limits) Detailed Design and
   Tendering Appointment of Consulting Engineer
 
@@ -75,7 +72,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Southwest Ontario's
   Public Transportation Opportunities
 
 That, on the recommendation of the Managing
@@ -112,7 +108,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -122,7 +117,6 @@ That, on the recommendation of the Managing
   October 11, 2016 for the purpose of amending the Traffic and Parking By-law
   (P.S. 111).  (2016-T08)
 
-# 6.&nbsp;&nbsp;&nbsp;Street Light Design
   Standards
 
 That, on the recommendation of the Managing
@@ -151,7 +145,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Parking Between the
   Sidewalk and Roadway
 
 That, on the recommendation of the Managing
@@ -177,7 +170,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Infrastructure
   Canada Phase 1 Project Requests - Clean Water and Wastewater Infrastructure Fund
 
 That, on the recommendation of the Managing
@@ -225,7 +217,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Foundation Drain
   Disconnection to Mitigate Basement Flooding
 
 That, on the recommendation of the Managing
@@ -251,7 +242,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Update and Next
   Steps -  London Waste to Resources Innovation Centre and Green Shields Energy
 
 That, on the recommendation of the
@@ -260,7 +250,6 @@ That, on the recommendation of the
   Resources Innovation Centre and Green Shields Energy, BE RECEIVED for
   information.(2016-E07)
 
-# 11.&nbsp;&nbsp;&nbsp;RFP 16-37
   Envirodepot Operation and Management Program - Contract Award
 
 That, on the recommendation of the Managing
@@ -347,7 +336,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization Update and Next Steps
 
 That, on the recommendation of the Managing
@@ -407,7 +395,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Infrastructure
   Canada - Phase One Investments - Public Transit Infrastructure Fund
 
 That, on the recommendation of the Managing
@@ -449,7 +436,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Master Servicing Study for the Huron Industrial 
   Area
 
@@ -485,7 +471,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-A05)
 
-# 15.&nbsp;&nbsp;&nbsp;Tender 12-76 Supply
   and Delivery of Highway Salt - 2016-2017 Contract Renewal
 
 That, on the recommendation of the Managing
@@ -507,7 +492,6 @@ c)         the
   formal contract or issuing purchase orders or contract record relating to
   these matters of this approval.  (2016-F18)
 
-# 16.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Program- Salt Management Plan Update
 
 That, on the recommendation of the Managing
@@ -515,7 +499,6 @@ That, on the recommendation of the Managing
   report dated October 4, 2016 with respect to the “Winter Maintenance Program
   - Salt Management Plan Update” BE RECEIVED for information.(2016-T06)
 
-# 17.&nbsp;&nbsp;&nbsp;Mud Creek Municipal
   Class Environmental Assessment - Status Update and Scope Change
 
 That, on the recommendation of the Managing
@@ -572,7 +555,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;8th Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -620,7 +602,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Road Hockey –
   Letting Kids Play
 
 That the Mayor BE REQUESTED to correspond with
@@ -647,7 +628,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred

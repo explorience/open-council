@@ -15,13 +15,11 @@ August 1, 2017, at 12:31 PM
 > [!abstract]- Also Present:
 > S. Datars Bere, B. Baar, B. Card, I. Collins, J. Freeman, K. Graham, J. Ramsay, M. Ribera, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Procurement of
   Goods & Services Policy
 
 That the Civic Administration BE REQUESTED
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Cycling Advisory Committee
 
 That the following actions be taken in

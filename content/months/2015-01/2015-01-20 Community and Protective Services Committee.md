@@ -12,13 +12,11 @@ January 20, 2015, at  4:04 PM
 > [!abstract]- Also Present:
 > M. Cassidy, J. Helmer, M. Van Holst, J. Zaifman; G. Bridge, B. Coxhead, S. Datars Bere, M. Henderson, O. Katolyk, J. Kobarta, D. Lazenby, L. Livingstone, D. O’Brien, A. Prince, J. Richardson, S. Spring, S. Stafford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Municipal Golf -
   Agreement with London Golf Club
 
 Recommendation:  That, on the
@@ -88,7 +85,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Single Source
   Supply and Delivery of Motorized Riding Golf Carts
 
 Recommendation:  That, on the
@@ -131,7 +127,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Report to the Licensee
   of the Dearness Home Regarding the Orientation Conducted with the Dearness
   Home Committee of Management - January 7, 2015
 
@@ -160,7 +155,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;General Orientation
   – Key Committee Matters
 
 Recommendation:  That the following
@@ -191,7 +185,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;1st Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -238,7 +231,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Food Trucks
 
 Recommendation:  That the following actions
   be taken with respect to Food Trucks:
@@ -327,7 +319,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions

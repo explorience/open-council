@@ -25,11 +25,9 @@ April 20, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -225,11 +223,9 @@ d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Speed Reduction Petition - Dingman Drive
 
@@ -257,7 +253,6 @@ b)    the matter BE REFERRED to Civic Administration for a traffic study revie
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -281,7 +276,6 @@ That the Civic Works Committee Deferred Matters List as at April 11, 2022, BE RE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:41 PM.
 ---

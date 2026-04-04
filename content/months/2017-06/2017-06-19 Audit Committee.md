@@ -12,13 +12,11 @@ June 19, 2017, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer; M. Hayward, A.L. Barbon, B. Card, K. denBok (KPMG), A. Hagan, I. Jeffries (KPMG), J. Kovacs, K. Medinilla, D. O’Brien, M. Redden (KPMG), M. Ribera, A. Ruffudeen (Deloitte), S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Financial Audit
 
 That the following actions be taken with
@@ -37,7 +35,6 @@ it being noted that the Audit Committee
   Services and City Treasurer, Chief Financial Officer and a verbal
   presentation from KPMG with respect to these matters.
 
-# 3.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   London Downtown Closed Circuit Television Program for the Year Ending
   December 31, 2016
 

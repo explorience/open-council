@@ -18,7 +18,6 @@ July 14, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in the added item 5.2, having to do with potential additional legislative actions to prevent the spread of COVID-19, by indicating that the matter concerns the Medical Officer of Health, Middlesex-London Health Unit, which is his employer.  Councillor S. Turner further discloses a pecuniary in item 2.1 having to do with the Core Area Action Plan 2020 Progress Update, specifically related to those components having to do with the Middlesex-London Health Unit (MLHU), because he is an employee of the MLHU.
 
@@ -28,7 +27,6 @@ Councillor J. Helmer discloses a pecuniary interest in item 2.4 - 2nd Report of 
 
 Councillor S. Lehman discloses a pecuniary interest in item 2.4 - 2nd Report of the Rapid Transit Implementation Working Group, specific to item 3.2 - North Corridor, by indicating that he owns a business on Richmond Row.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Core Area Action Plan - 2020 Progress Update
 
@@ -246,7 +244,6 @@ That clause 3.2 of the 2nd Report of the Rapid Transit Implementation Working Gr
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2021 Development Charges Update Covering Report and Proposed By-law
 
@@ -355,7 +352,6 @@ The Strategic Priorities and Policy Committees recesses from 6:45 PM to 6:54 PM.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Resignation from Eldon House Board of Directors
 
@@ -467,7 +463,6 @@ b)  Dan Eminger and Frank Boutzis BE APPOINTED for the term ending November 15,
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Making Anti-Racism a Strategic Priority 
 
@@ -597,7 +592,6 @@ b)      the Medical Officer of Health, Dr. Chris Mackie, BE REQUESTED to atte
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;(ADDED) Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;(ADDED) Solicitor-Client Privileged Advice
 
@@ -613,7 +607,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 8:43 PM.
 

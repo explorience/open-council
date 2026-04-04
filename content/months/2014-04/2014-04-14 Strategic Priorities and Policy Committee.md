@@ -15,13 +15,11 @@ April 14, 2014, at  4:07 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Barrett, P. Christiaans, C. Colvin, M. Daley, J.M. Fleming, S. Galloway, M. Hayward, G.T. Hopcroft, L. Kolodiazny, G. Kotsifas, L. Livingstone, S. Mathers, H. McNeely, K. Owen, N. Pasato, C. Saunders, J. Smout, E. Soldo, J. Stanford, T. Wellhauser, R. Wilcox, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Service London
   Update Report
 
 Recommendation:  That, on the
@@ -65,7 +63,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;ReThink London
   - Update
 
 Recommendation:  That, on the
@@ -113,7 +110,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy Update (City Manager)
 
 Recommendation:  That the verbal update
@@ -149,7 +145,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2014 Development
   Charges - Covering Report and Draft DC Rate By-law
 
 Recommendation:  That, on the
@@ -253,7 +248,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status at the May 5, 2014 Strategic Priorities and Policy
   Committee Meeting re London & Middlesex Housing Corporation (LMHC) Annual
   General Meeting
@@ -308,7 +302,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status at the May 5, 2014 Strategic Priorities and Policy
   Committee Meeting re London Hydro Inc. (LHI) Annual General Meeting
 
@@ -361,7 +354,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London Hydro By-law
   Request for VISA Payments
 
 Recommendation:  That the City Clerk BE
@@ -394,14 +386,12 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;(ADDED) London Hydro Public Consultation
 
 Recommendation:  That it BE NOTED that the
   Chair advised that implementation of the public education, dialogue and
   consultation plan for future options for London Hydro has been postponed at
   this time.
 
-# 10.&nbsp;&nbsp;&nbsp;(ADDED) Ombudsman Investigation
 
 Recommendation:  That it BE NOTED that the
   Chair advised that the Ombudsman’s Office will be releasing a report within

@@ -15,14 +15,12 @@ November 24, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, J. Braam, I. Collins, S. Datars Bere, S. Giustizia, M. Hayward, G.T. Hopcroft, J. Lucas, V. McAlea Major, S. Miller, K. Murray, M. Ribera, C. Saunders, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
   Councillor W.R. Monteith disclosed a pecuniary interest in clause 8 of this
   report having to do with Council benefits due to his age.
 
-# 2.&nbsp;&nbsp;&nbsp;Eldon House
   Municipal Service Board By-law Amendment to the Board Composition
 
 Recommendation:  That, on the
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Board Structure
   Resolution for London and Middlesex Housing Corporation
 
 Recommendation:  That, on the
@@ -96,7 +93,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Amendments to Consolidated Fees and Charges By-law
 
 Recommendation:  That, on the
@@ -188,7 +184,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - 2015 Water and Wastewater Rates
 
 Recommendation:  That, on the
@@ -309,7 +304,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Review of Acting
   Mayor Policy
 
 Recommendation:  That, on the
@@ -406,7 +400,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Office Reallocation
   - 2014 - 2018 Council Term
 
 Recommendation:  That, at the request of
@@ -437,7 +430,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Council Benefits
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Corporate Services and Chief Human
@@ -496,7 +488,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED -
   Confirmation of London Hydro Borrowing Requirements
 
 Recommendation:  That, on the

@@ -12,7 +12,6 @@ May 15, 2017, at  2:30 PM
 > [!abstract]- Also Present:
 > M. Hayward, B. Card, B. Coxhead, S. Datars Bere, K. Edwards, M. Feldberg, J.M. Fleming, K. Graham, B. Hollingworth (Consultant), G. Kotsifas, A. Langmuir, L. Livingstone, N. MacDonald, D. MacRae, M. Marcellin, V. McAlea Major, J.P. McGonigle, D. O’Brien, K. Paleczny, J. Ramsay, C. Saunders, K. Scherr, S. Spring, A. Thompson, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -55,7 +54,6 @@ d)           
   Bus Rapid Transit plan, by indicating that her parents own property on that
   corridor.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Governance Working Group
 
 That the 1st Report of the Governance
@@ -80,7 +78,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Council Policy Manual Review of Chapters 1, 2, 3, 4, 6 and 8
 
 That the staff report dated May 15, 2017,
@@ -113,7 +110,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Update on Municipal Implications of the Truth and Reconciliation Commission
   Report
 
@@ -154,7 +150,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Growth Management Implementation Strategy (GMIS):
   2018 Annual Review & Update
 
@@ -282,7 +277,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   London and Middlesex Housing Corporation (LMHC) - State of Infrastructure
 
 That the presentation appended to the Added
@@ -315,7 +309,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;REVISED - PUBLIC
   SUBMISSION - Request for a Shareholder's Meeting for the London &
   Middlesex Housing Corporation
 
@@ -361,7 +354,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for a Shareholder's Meeting for the Housing Development Corporation, London
 
 That the following actions be taken with
@@ -406,7 +398,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for a Shareholder's Meeting for London Hydro Inc.
 
 That the following actions be taken with
@@ -450,7 +441,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Rapid Transit Corridors
 
 That, on the recommendation of the Managing
@@ -839,7 +829,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Potential Additional Strategic Priorities
   and Policy Committee Meeting
 
 That it BE NOTED that the Chair indicated

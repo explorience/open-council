@@ -18,12 +18,9 @@ December 2, 2011
 The Council meets in Special Session in the
   Municipal Offices this day at 5:01 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN
   PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN CAMERA
 
 MOTION
   FOR IN CAMERA SESSION
@@ -101,7 +98,5 @@ as procedural matter pursuant to
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;BY-LAWS
 
-# V.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 

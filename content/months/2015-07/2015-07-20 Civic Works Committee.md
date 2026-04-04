@@ -15,13 +15,11 @@ July 20, 2015, at  1:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, A. Hopkins, P. Hubert, J. Zaifman; G. Belch, J. Braam, K. Chambers, T. Copeland, D. Dobson, A. Dunbar, G. Gauld, J. Lucas, D. MacRae, R. Pedlow, D. Popadic, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of 2015 Infrastructure Renewal
   Project - Braesyde and Dengate Reconstruction
@@ -75,7 +73,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Greenway Wastewater
   Treatment Plant Expansion & Upgrades - Construction Contract Award
 
 That, on the recommendation of the Managing
@@ -142,7 +139,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Single Source
   Procurement - Customer Engagement Upgrade to MyLondonHydro Web Portal
 
 That, on the recommendation of the Managing
@@ -188,7 +184,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Update on Rainfall
   Event of June 22, 2015
 
 That, on the recommendation of the Managing
@@ -214,7 +209,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Sewer Flow
   Monitoring Services to Support Infoworks Modeling
 
 That, on the recommendation of the Managing
@@ -263,7 +257,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Quebec Street
   Bridge - Pedestrian Safety
 
 That the Civic Administration BE REQUESTED
@@ -290,7 +283,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Wonderland Road
   South Environmental Study Report
 
 That, on the recommendation of the Managing
@@ -328,7 +320,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Proposed Revision
   to the W12A Landfill Designated Haul Route
 
 That, on the recommendation of the Managing
@@ -364,7 +355,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Wickerson Road -
   Parking Infractions
 
 That the Civic Administration BE REQUESTED
@@ -390,7 +380,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Sponsored Research
   Agreement with the University of Waterloo - Sustainable Management of Water
   Infrastructure
 
@@ -435,7 +424,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) Deferred
   Matters List
 
 That consideration of the Deferred Matters
@@ -461,7 +449,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) Coordination of Environmental
   Assessments with Shift Rapid Transit Initiative
 
 That the Civic Administration BE REQUESTED

@@ -15,13 +15,11 @@ March 3, 2014, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, J. Lucas, D. MacRae, E. Maged, S. Maguire, J. Parsons, M. Ribera, L. Rowe, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Natural Resources
   Gas Franchise Agreement
 
 Recommendation:  That, on the
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2014 Watermain
   Cleaning and Structural Lining Contract Award (Tender No 13-115)
 
 Recommendation:  That, on the
@@ -118,7 +115,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;City of London 2013
   Drinking Water Annual Report and Summary Report
 
 Recommendation:  That, on the
@@ -142,7 +138,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Single Source
   Purchase of a Replacement Pump at Springbank Pumping Station (EW3409-13)
 
 Recommendation:  That, on the
@@ -184,7 +179,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Local Improvements
   Charges for Energy and Water Efficiency Improvements Update
 
 Recommendation:  That the staff report
@@ -208,7 +202,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the following actions
@@ -251,7 +244,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Share the Road
   Project
 
 Recommendation:  That the Share the Road
@@ -276,7 +268,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;London Road Safety
   Strategy
 
 Recommendation:  That, on the
@@ -309,7 +300,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Red Light Camera
   Program
 
 Recommendation:  That, on the
@@ -348,14 +338,12 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;(ADDED) Carling Arena Road Safety
 
 That it BE NOTED that Councillor S. Orser expressed
   concern with respect to potential road safety issues in the vicinity of Carling
   Arena and was advised that the Civic Administration will review traffic
   control in that area.
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) Winter Maintenance Update
 
 That it BE NOTED that the Managing
   Director, Environmental and Engineering Services and City Engineer, provided

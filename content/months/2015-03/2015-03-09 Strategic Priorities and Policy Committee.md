@@ -12,7 +12,6 @@ March 9, 2015, at  4:28 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, G. Barrett, J. Braam, I. Collins, B. Coxhead, S. Datars Bere, C. Dziedzic, J.M. Fleming, S. Galloway, K. Graham, A. Hagan, M. Hayward, G. Kotsifas, K. Lakhotia, L. Livingstone, J. Lucas, H. Lysynski, T. Macbeth, H. McNeely, D. Menard, D. Mounteer, D. Popadic, C. Saunders, S. Spring, R. Sutton, B. Warner, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -61,7 +60,6 @@ b)         Councillor
   indicating that he is the Executive Director of a social services agency that
   has a working relationship with the ACFLA.
 
-# 2.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy - Annual Monitoring and Pricing Report - City of London
 
 That, on the recommendation of the Managing
@@ -117,7 +115,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Allocation of 2015
   Assessment Growth Funding
 
 That the following actions be taken with
@@ -179,7 +176,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Performing Arts
   Centre
 
 That, on the recommendation of the City
@@ -230,7 +226,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;The London Plan -
   Overview and Status Update
 
 That, on the recommendation of the Managing
@@ -265,7 +260,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy Update
 
 That, on the recommendation of the City
@@ -313,7 +307,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment  to the Middlesex-London Health Unit Board of Health
   (Requires 1 Member)
 
@@ -345,7 +338,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Music and
   Entertainment District for London, Ontario
 
 That the Civic Administration BE REQUESTED
@@ -377,7 +369,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Delegation by the African Canadian
   Federation of London and Area
 
 That a representative of the African

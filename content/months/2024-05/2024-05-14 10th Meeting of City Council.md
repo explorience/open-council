@@ -20,15 +20,12 @@ May 14, 2024, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Van Meerbergen
 
@@ -76,7 +73,6 @@ That Council convenes In Closed Session, from 1:08 PM to 1:16 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Van Meerbergen
 
@@ -106,7 +102,6 @@ That the Minutes of the 8th Special Meeting and 9th Meeting of the Municipal Cou
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Lehman
 
@@ -150,11 +145,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Corporate Services Committee
 
@@ -1594,7 +1587,6 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That the 10th Report of Council in Closed Session BE APPROVED.
 
@@ -1685,21 +1677,17 @@ b)    the financing for this acquisition BE APPROVED as set out in the Source 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
 It being noted that Councillor P. Van Meerbergen leaves the meeting at 3:28 PM
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -1935,7 +1923,6 @@ That Third Reading of Bill No. 164 BE APPROVED
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
 
@@ -1949,7 +1936,6 @@ The meeting adjourned at 3:56PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 153**

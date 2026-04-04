@@ -17,13 +17,11 @@ January 6, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Kayabaga
 
@@ -258,7 +256,6 @@ That M. Wallace, Executive Director, London Development Institute, BE GRANTED de
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Demolition Request and Heritage Alteration Permit Application - 88 Blackfriars Street, Blackfriars/Petersville Heritage Conservation District   
 
@@ -811,7 +808,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the Advisory Committee on the Environment 
 
@@ -844,13 +840,11 @@ d)  clauses 1.1 and 1.2, inclusive, 2.1 and 2.2, inclusive, 3.1 and 3.2, inclus
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 > Moved by S. Turner
 
@@ -881,7 +875,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 7:08 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:29 PM.
 

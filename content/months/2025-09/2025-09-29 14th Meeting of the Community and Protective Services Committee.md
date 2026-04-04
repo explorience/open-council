@@ -17,11 +17,9 @@ September 29, 2025, at  1:00 PM
 
 The meeting was called to order at 1:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -309,7 +307,6 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Health and Homelessness Whole of Community System Response Research and Evaluation Report
 
@@ -505,11 +502,9 @@ That part d) of the amendment BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 6th Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -540,7 +535,6 @@ c)    clauses 1.1, 3.1, 3.2, 4.1, 5.1, 5.4 and 6.1 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by H. McAlister
 
@@ -570,7 +564,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

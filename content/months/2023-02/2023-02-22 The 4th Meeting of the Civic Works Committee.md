@@ -20,11 +20,9 @@ February 22, 2023, at 12:00 PM
 
 The meeting was called to order at 12:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That is BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -211,7 +209,6 @@ it being noted that the communication as appended to the Added Agenda, from C. B
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
 
@@ -242,11 +239,9 @@ it being noted that the Civic Works Committee received the  presentation from Dr
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 3rd Report of the Integrated Transportation Community Advisory Committee
 
@@ -269,7 +264,6 @@ That the 3rd Report of the Integrated Transportation Community Advisory Committe
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:46 PM.
 

@@ -15,7 +15,6 @@ July 4, 2013, at  1:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, A. Zuidema, J.P. Barber, S. Gilfillan (PwC), V. McAlea Major, I. Sadler (PwC), C. Shah (PwC), M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: That it BE NOTED
   that no pecuniary interests were disclosed.
 
 (See Confidential Appendix to the 5th Report

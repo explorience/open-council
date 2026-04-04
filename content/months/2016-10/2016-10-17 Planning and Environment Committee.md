@@ -12,7 +12,6 @@ October 17, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, A. Hopkins, M. van Holst; G. Barrett, P. Christiaans, M. Corby, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, P. Kokkoros, G. Kotsifas, E. Ling, A. MacLean, B. Page, L. Pompilii, J. Ramsay, A. Salton, C. Saunders, S. Spring, B. Turcotte
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -28,7 +27,6 @@ b)           
   T. Park disclosed a pecuniary interest in clause 8 of this Report as her brothers
   are working on this site.
 
-# 2.&nbsp;&nbsp;&nbsp;10th Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -128,7 +126,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;9th Report of the
   Trees and Forests Advisory Committee
 
 That the 9th Report of the Trees and
@@ -152,7 +149,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1959 Wharncliffe Road South (H-8660)
 
 That, on the recommendation of the Senior
@@ -194,7 +190,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;10th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -408,7 +403,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Byron Gravel Pit
   Secondary Plan Terms of Reference (O-8434)
 
 That on the recommendation of the Managing
@@ -481,7 +475,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   169 Foster Avenue (Z-8651)
 
 That, on the recommendation of the Managing
@@ -633,7 +626,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 1680 Richmond Street and 95 and 97 Fanshawe Park Road East (Z-8652)
 
 That, on the recommendation of the Managing
@@ -733,7 +725,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Proposed New Sign
   By-law and Amendments to Current Sign and Canopy By-law
 
 That, on the recommendation of the Managing

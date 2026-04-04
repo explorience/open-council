@@ -17,7 +17,6 @@ April 8, 2019, at  5:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -27,7 +26,6 @@ b)            Councillor P. Van Meerbergen discloses a pecuniary inter
 
 c)            Councillor S. Lehman discloses a pecuniary interest in Strategy GOE-21, having to do with London's downtown, by indicating that he is a member of the London Downtown Business Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Morgan
 
@@ -113,7 +111,6 @@ That on the recommendation of the Managing Director, Corporate Services and City
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
@@ -592,7 +589,6 @@ The motion to approve part e) of Item 3.1 is put.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by A. Hopkins
 
@@ -828,11 +824,9 @@ That Councillor J. Morgan BE APPOINTED as the Council lead for the upcoming four
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Salih
 

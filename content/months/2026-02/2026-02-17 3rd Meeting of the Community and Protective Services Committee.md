@@ -17,11 +17,9 @@ February 17, 2026, at  1:00 PM
 
 The meeting was called to order at 1:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis (Acting Mayor)
 
@@ -286,11 +284,9 @@ it being noted that communications from the following individuals, as appended t
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
 
@@ -317,11 +313,9 @@ it being noted that the communication, as appended to the Added Agenda, from D. 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

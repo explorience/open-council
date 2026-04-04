@@ -17,17 +17,14 @@ December 2, 2021, at  9:30 AM
 
 The meeting is called to order at 9:34 AM; it being noted that the following members were in remote attendance: Mayor E. Holder; Councillors M. van Holst, M. Salih, P. Van Meerbergen and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest specific to items 4.8, 4.9 and 4.10, with respect to any direct connection(s) to the London Public Library (LPL), by indicating that his wife is an LPL employee.
 
 Councillor J. Helmer discloses a pecuniary interest specific to items 4.8 and 4.9 with respect to any direct connection(s) to the municipal golf system by indicating that his father employed by golf course owners association of which the City of London is a member.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;(ADDED) 2022 Annual Budget Update Presentation
 
@@ -61,7 +58,6 @@ That the overview presentation, as appended to the added agenda, by the Deputy C
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
@@ -1439,11 +1435,9 @@ it being noted that all rates and charges relating to the provision of Wastewate
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Turner
 

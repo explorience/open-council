@@ -22,11 +22,9 @@ April 15, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -255,11 +253,9 @@ That part b) above BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) Sidewalk Extension on Forward Avenue 
 
@@ -284,7 +280,6 @@ That the communication and petition from J. Seaman, dated March 24, 2020, with r
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -313,7 +308,6 @@ That the Deferred Matters List, as at April 6, 2020, BE RECEIVED.
 
 That it BE NOTED that the Civic Works Committee received an update from the Civic Administration with respect to the street sweeping schedule during the COVID-19 emergency.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:47 PM.
 

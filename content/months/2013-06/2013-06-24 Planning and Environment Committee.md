@@ -15,13 +15,10 @@ June 24, 2013, at  3:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.P. Bryant, H.L. Usher, J.P. Barber, G. Barrett, J. Braam, J.M. Fleming, T. Grawey, G. Kotsifas, B. Krichker, J. Lucas, C. Saunders, C. Smith, E. Soldo, M. Tomaznicic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located at 56-82 Wellington
   Street, 283-323 South Street and 69-77 Waterloo Street (OZ-8114)
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South
   (OZ-7072/OZ-7073)
 

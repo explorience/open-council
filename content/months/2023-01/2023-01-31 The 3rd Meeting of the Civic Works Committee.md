@@ -25,11 +25,9 @@ January 31, 2023, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Trosow
 
@@ -192,7 +190,6 @@ f)     the Mayor and City Clerk BE AUTHORIZED to execute any contract or other
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Glen Cairn Neighbourhood Connectivity Plan
 
@@ -379,7 +376,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;New Sidewalk Project List 2023
 
@@ -425,7 +421,6 @@ That the request for delegation, from J. Preston, London Transit Commission, wit
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 2nd Report of the Integrated Transportation Community Advisory Committee
 
@@ -449,7 +444,6 @@ That the 2nd Report of the Integrated Transportation Community Advisory Committe
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:03 PM.
 

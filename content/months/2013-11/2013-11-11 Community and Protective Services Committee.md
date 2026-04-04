@@ -12,13 +12,11 @@ November 11, 2013, at  7:01 PM
 > [!abstract]- Also Present:
 > S. Orser, B. Polhill, B. Coxhead, S. Datars Bere, S. Giustizia, J. Jessop, J. Kobarda, R. Sharpe, S. Stafford, L. Stevens, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 - 2017
   Community Accountability Planning Submission (CAPS) for the Dearness Home -
   Adult Day Program
 
@@ -49,7 +47,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Transfer of
   Administration of Rent Supplement Programs
 
 Recommendation:  That, on the
@@ -78,7 +75,6 @@ b)         the
   authority to the Director of Municipal Housing or her/his designate to
   execute all Rent Supplement Agreements on behalf of the City of London.  (2013-S11)
 
-# 4.&nbsp;&nbsp;&nbsp;Update on Actions
   Related to Shared Services and Support to the London and Middlesex Housing
   Corporation (LMHC)
 
@@ -91,7 +87,6 @@ Recommendation:  That, on the
   review and report back at the 2013 Shareholder’s meeting to be held by the
   Strategic Planning and Priorities Committee in 2014.   (2013-S11)
 
-# 5.&nbsp;&nbsp;&nbsp;Ontario Works
   Employment Assistance Framework 2013 - 2018
 
 Recommendation:  That, on the
@@ -121,7 +116,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London Special Events Policies and
   Procedures Manual - Proposed Amendment – Noise Exemptions
 
 Recommendation:  That, on the
@@ -149,7 +143,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Parks and
   Recreation Area By-law PR-2 Amendments
 
 Recommendation:  That, on the
@@ -175,7 +168,6 @@ d)         restrict the feeding of wildlife
 e)         improve guidelines for licensed
   events or gatherings in City parks.
 
-# 8.&nbsp;&nbsp;&nbsp;Fees for Fire
   Prevention Office Services
 
 Recommendation:  That, on the
@@ -208,7 +200,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
 
 Recommendation:  That the attached
@@ -234,7 +225,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;9th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the following actions
@@ -285,7 +275,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;A. Oudshoorn,
   Chair, London Homeless Coalition – Request for Delegation Status
 
 Recommendation:  That the request of A.

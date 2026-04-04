@@ -15,18 +15,15 @@ May 3, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Hayward, B. Card, K. Paleczny, C. Saunders, K. Scherr, E. Soldo, G. Tucker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Absence from Meeting – Councillor V. Ridley
 
 That the Strategic Priorities and Policy Committee
   (SPPC) received two communications dated April 24, 2017 and April 27, 2017,
   respectively, from Councillor V. Ridley, with respect to her attendance at
   the May 3, 2017 meeting of the SPPC.
 
-# 3.&nbsp;&nbsp;&nbsp;SHIFT Rapid Transit
 

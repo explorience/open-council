@@ -22,13 +22,11 @@ July 15, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor M. Cassidy disclosed a pecuniary interest in clauses 2.1 and 3.5 of this Report, having to do with the property located at 307 Fanshawe Park Road East, by indicating that her family owns property in the area.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Request for Council Resolution, under section 45(1.4) of the Planning Act, R.S.O. 1990, c. P.13 - 307 Fanshawe Park Road East 
 
@@ -78,7 +76,6 @@ That D. Hannam, Zelinka Priamo Ltd., BE GRANTED delegation status relating to th
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;London Plan Housekeeping Amendment (O-9173)
 
@@ -538,7 +535,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
@@ -587,13 +583,11 @@ That R. Galizia BE GRANTED delegation status with respect to the proposed sidewa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:52 PM.
 

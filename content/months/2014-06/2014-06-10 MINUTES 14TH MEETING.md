@@ -18,16 +18,12 @@ June 10, 2014, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;(ADDED) Councillor
   D. Brown - Emergent Motion - Application to Serve on FCM Standing
   Committee(s)
 
@@ -189,7 +185,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;RETHINK London
 
 That the following actions be taken with
   respect to the development of a new Official Plan for the City of London:
@@ -220,9 +215,7 @@ it being noted that statutory meetings
   website for the development of a new Official Plan for the City of London can
   be found at www.TheLondonPlan.ca, effective May 23, 2014.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 3.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision (39T-09502)
 
 That, on the recommendation of the Senior
@@ -256,7 +249,6 @@ d)         the
   amending agreements and all documents required to fulfill its conditions.  
   (2014-D12)
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor J.L. Baechler
@@ -360,7 +352,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRTEENTH MEETING HELD ON MAY 20, 2014
 
 > Moved by Councillor S. Orser
@@ -396,7 +387,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -408,7 +398,6 @@ Approve the receipt and referral of the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
 That the following actions be taken with
@@ -440,7 +429,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral submissions in
   connection therewith.   (2014-D14)
 
-# 5.&nbsp;&nbsp;&nbsp;Urban Forest
   Strategy and Implementation Plan - Keeping the Forest in the Forest City
 
 That, the Urban Forest Strategy and
@@ -462,10 +450,8 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral submissions in
   connection therewith.  (2014-E04)
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Brown
 
@@ -473,7 +459,6 @@ Approve clauses 1, 3 to 6, and 8 to 11.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Industrial Lands
   Community Improvement Plan and Official Plan Amendment (O-8318)
 
 That, further to the direction of Municipal
@@ -547,7 +532,6 @@ it
   this matter, the individual indicated on the attached public
   participation meeting record made an oral submission in connection therewith.
 
-# 8.&nbsp;&nbsp;&nbsp;Chelsea Green
   Subdivision (formerly Terrace Street Subdivision) (39T-02511)
 
 That, on the recommendation of the Senior
@@ -665,7 +649,6 @@ Approve clauses 1 and 2.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Storage Units and
   Non-Permanent Structures
 
 That the Civic Administration BE REQUESTED
@@ -673,7 +656,6 @@ That the Civic Administration BE REQUESTED
   the banning of storage containers and non-permanent structures in residential
   rear yards.
 
-# 10.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 The following actions be taken with respect
@@ -743,7 +725,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from W. Kinghorn, Chair,
   LACH, with respect to these matters.
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 360 Crumlin Sideroad and 3301 and 3345 Gore Road (OZ-8188)
 
 That, on the recommendation of the Managing
@@ -794,7 +775,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral submissions in
   connection therewith.   (2014-D14)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   313 Clarke Road (OZ-8300)
 
 That, the application of St. Leonard’s
@@ -827,7 +807,6 @@ it being also pointed out that the Planning
   Development Consultants Inc. and L. Davis, Clarke/Churchill Resident’s Group,
   with respect to this matter.  (2014-D14)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1565 North Routledge Park (Z-8338)
 
 That, on the recommendation of the Managing
@@ -845,7 +824,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral submission
   in connection therewith.   (2014-D14)
 
-# 13.&nbsp;&nbsp;&nbsp;Hyde Park
   Industrial Area (O-8340)
 
 That, the application of the City of
@@ -860,7 +838,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral submission
   in connection therewith.   (2014-D08)
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 283 and 283/ South Street - Demolition Request
 
 That, on the recommendation of the Managing
@@ -876,7 +853,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral submission
   in connection therewith.    (2014-P10D)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   491 Southdale Road West - Demolition Request
 
 That, on the recommendation of the Managing
@@ -892,7 +868,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.  (2014-P10D)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   69 Trevithen Street
 
 That the Civic Administration BE REQUESTED
@@ -905,10 +880,8 @@ Approve clauses 1 to 9, excluding clause 8.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor
   S.E. White enquired, if it would be possible for the Civic Administration to
@@ -928,10 +901,8 @@ Councillor J.L. Baechler enquired if the
   London Fanshawe Horticulture Society was no longer being supplied with mulch
   by the City. Council directs that the mulch be provided.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1033,7 +1004,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

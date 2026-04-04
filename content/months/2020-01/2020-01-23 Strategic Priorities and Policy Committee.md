@@ -17,15 +17,12 @@ January 23, 2020, at  3:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:00 PM - Public Participation Meeting - 2020-2023 Multi-Year Budget
 
@@ -192,7 +189,6 @@ Motion to close the Public Participation Meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Hydro Proposed Corporate Restructuring 
 
@@ -243,7 +239,6 @@ c)      the City Clerk BE DIRECTED to forward the report from the January 23,
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Proposed Changes to the City Manager Search Committee Terms of Reference
 
@@ -319,7 +314,6 @@ That the resignation of Councillor M. Cassidy, dated January 20, 2020, from the 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:51 PM.
 

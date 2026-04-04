@@ -20,11 +20,9 @@ June 10, 2024, at  1:00 PM
 
 The meeting was called to order at 1:02 PM; it being noted that Councillor H. McAlister was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -114,11 +112,9 @@ b)    the Civic Administration BE DIRECTED to circulate this report to communi
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor C. Rahman and Councillor D. Ferreira - CPKC Train Fire
 
@@ -150,11 +146,9 @@ it being further noted that the communication, dated June 2, 2024, from Councill
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by E. Peloza
 
@@ -180,7 +174,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:04 PM.
 ---

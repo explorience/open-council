@@ -15,13 +15,11 @@ February 20, 2014, at  4:08 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, P. Christiaans, J.M. Fleming, T. Grawey, M. Hayward, G. Kotsifas, H. Lysynski, S. Mathers, V. McAlea Major, M. Ribera, E. Soldo, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Growth Management
   Implementation Strategy (GMIS) - 2014 Annual Review and Update
 
 Recommendation:  That the following action
@@ -95,7 +93,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Development Charges
   Review 2014 - Draft Rate Calculations
 
 Recommendation: That the following actions
@@ -264,7 +261,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Convention
   Centre Corporation Board Appointment
 
 Recommendation:  That Crispin Colvin BE

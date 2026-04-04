@@ -20,19 +20,15 @@ July 29, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Review of City Services for Potential Reductions and Eliminations
 
@@ -434,7 +430,6 @@ it being noted that the Strategic Priorities and Policy Committee received a rev
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Middlesex-London Food Policy Council (Requires 1 Council Member)
 
@@ -462,7 +457,6 @@ That the matter of an appointment to the Middlesex London Food Policy Council BE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Confidential Trade Secret or Scientific, Technical, Commercial or Financial Information Belonging to the City / Labour Relations / Personal Matters/Identifiable Individual / Solicitor-Client Privileged Advice    
 
@@ -493,7 +487,6 @@ The Strategic Priorities and Policy Committee convened In Closed Session from 7
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:45 PM.
 

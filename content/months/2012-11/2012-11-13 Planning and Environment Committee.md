@@ -15,10 +15,8 @@ November 13, 2012, at  6:04 PM
 > [!abstract]- Also Present:
 > H.L. Usher, G. Barrett, G.T. Hopcroft, O. Katolyk, G. Kotsifas, D. Mounteer, J. Page, C. Parker, J. Stanford, R. Sharpe, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   4675 Wellington Road South
 
 Recommendation:  That, the following

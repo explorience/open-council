@@ -22,11 +22,9 @@ March 9, 2026, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -155,7 +153,6 @@ v)    AUTHORIZE the Deputy City Manager, Housing and Community Growth, or thei
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Short Term Accommodation Licensing and Penalties
 
@@ -278,7 +275,6 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations
 
@@ -469,7 +465,6 @@ The Committee recesses at 4:28 PM and reconvenes at 4:39 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by J. Pribil
 
@@ -670,7 +665,6 @@ That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

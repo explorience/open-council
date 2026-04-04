@@ -17,7 +17,6 @@ February 13, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen, S. Lehman, E. Peloza and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins discloses a pecuniary interest in item 13, clause 3.8 of the 3rd Report of the Planning and Environment Committee having to do with City-Wide 5-Bedroom Limits and Increased Permissions for Additional Residential Units (OZ-9661) by indicating that her son owns a rental property.
 
@@ -25,15 +24,12 @@ At 1:04 PM, Councillor S. Trosow enters the meeting.
 
 At 1:06 PM, Councillor P. Van Meerbergen enters the meeting.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Franke
 
@@ -70,7 +66,6 @@ That Council convenes In Closed Session, from 1:09 PM to 1:14 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by C. Rahman
 
@@ -101,7 +96,6 @@ That the Minutes of the 2nd Meeting and 3rd Special Meeting of the Municipal Cou
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Stevenson
 
@@ -168,11 +162,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;3rd Report of the Community and Protective Services Committee 
 
@@ -1475,23 +1467,18 @@ That based on the application dated February 1, 2024 from BGC London, June 7, 20
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -1736,7 +1723,6 @@ That Third Reading and Enactment of Bill No 71, as amended, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by C. Rahman
 
@@ -1750,7 +1736,6 @@ The meeting adjourned at 3:00 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 46**

@@ -12,13 +12,11 @@ May 26, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, M. Hayward, B. Hollingworth (IBI), L. Livingstone, D. MacRae, V. McAlea Major, D. O’Brien, K. Paleczny (LTC), E. Peissel (WSP), C. Saunders, C. Smith, E. Soldo, S. Spring, A. Thompson, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
   - Business Case
 
 That on the recommendation of the City

@@ -15,7 +15,6 @@ November 27, 2017, at  1:04 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, D. Bordin, B. Card, K. Dawtrey, A. Dunbar, J.M. Fleming, A. Hagan, G. Kotsifas, L. Livingstone, S. Mathers, S. Miller, J. Millson, K. Murray, D. O’Brien, M. Ribera, C. Saunders, J. Senese, C. Smith, S. Stafford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -45,7 +44,6 @@ c)           
   Health Unit or Childreach, as he is employed by the Middlesex-London Health
   Unit and his spouse is employed by Childreach.
 
-# 2.&nbsp;&nbsp;&nbsp;London Children's
   Museum Capital Funding Request
 
 That, on the recommendation of the Managing
@@ -77,7 +75,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2018 Annual Budget
   Update - Public Engagement
 
 That, on the recommendation of the Managing
@@ -108,7 +105,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Strategic
   Investment Update and Other Options to Reduce Budget Pressures
 
 That, on the recommendation of the Managing
@@ -212,7 +208,6 @@ Motion Failed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Budget Overview
 
 That the attached budget presentation from
   the Managing Director, Corporate Services and City Treasurer, Chief Financial
@@ -241,7 +236,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
@@ -943,7 +937,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;WATER AND
   WASTEWATER & TREATMENT BUDGETS
 (rounded to the
   closest $1,000)
@@ -1149,7 +1142,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2019 Budget – Identification of Potential
   Adjustments to Achieve Targets
 
 That the City Manager BE REQUESTED to

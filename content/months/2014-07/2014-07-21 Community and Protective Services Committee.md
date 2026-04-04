@@ -15,7 +15,6 @@ July 21, 2014, at  7:03 PM
 > [!abstract]- Also Present:
 > S. Orser, H. Chapman, B. Coxhead, S. Datars Bere, J. Kobarda, L. Livingstone, D. Mounteer, R. Oke, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -28,35 +27,30 @@ Recommendation:  That it BE NOTED that
   relates to the awarding of the 2014 Queen Elizabeth Scholarships, by
   indicating that the TVDSB is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 8th Report of the
   Animal Welfare Advisory Committee, from its meeting held on July 3, 2014, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Child Care Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Child Care Advisory Committee, from its meeting held on June 25, 2014, BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;7th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 7th Report of the
   London Housing Advisory Committee, from its meeting held on July 9, 2014, BE
   RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;6th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 6th Report of the
   Accessibility Advisory Committee, from its meeting held on June 26, 2014, BE
   RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Safer Communities -
   1,000 Officers Partnership Program
 
 Recommendation:  That, on the
@@ -77,7 +71,6 @@ b)           
   the Mayor and the City Clerk to execute the said Agreement on behalf of The
   Corporation of the City of London.  (2014-P15)
 
-# 7.&nbsp;&nbsp;&nbsp;Community Policing
   Partnership Program
 
 Recommendation:  That, on the
@@ -98,7 +91,6 @@ b)           
   the Mayor and the City Clerk to execute the said Agreement on behalf of The
   Corporation of the City of London.  (2014-P15)
 
-# 8.&nbsp;&nbsp;&nbsp;Homemakers Program
   Update
 
 Recommendation:  That, on the
@@ -145,7 +137,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Memorandum of
   Understanding  - Adult Day Program Transportation
 
 Recommendation:  That, on the
@@ -173,7 +164,6 @@ c)           
   Understanding, provided that it does not increase the City’s liability and is
   provided for in the City’s current budget.  (2014-S02)
 
-# 10.&nbsp;&nbsp;&nbsp;Thames Valley
   District School Board and City of London Joint Use of Facilities Agreement
 
 Recommendation:  That, at the request of
@@ -197,7 +187,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Potential Partners
   in the Southwest Multipurpose Recreation Facility
 
 Recommendation:  That, on the
@@ -218,7 +207,6 @@ b)           
   Request for Proposal requirement for the above-noted project BE WAIVED. 
   (2014-R05)
 
-# 12.&nbsp;&nbsp;&nbsp;By-law Amendments
   for Expanded Animal Welfare Initiatives
 
 Recommendation:  That, on the recommendation
@@ -317,7 +305,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;4th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -361,7 +348,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the following actions
@@ -391,7 +377,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Pawnbrokers and Salvage
   Yard Regulations - False Verification of Ownership for Stolen Items - List of
   Prohibited Items for Scrap Metal Recycling Yards
 
@@ -427,7 +412,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Legislative Changes
   Intended to Improve Fire Safety in Vulnerable Occupancies
 
 Recommendation:  That the communication
@@ -452,7 +436,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;The Impact of
   Prescription and Non-Prescription Drug Use in Middlesex-London
 
 Recommendation:  That the Civic

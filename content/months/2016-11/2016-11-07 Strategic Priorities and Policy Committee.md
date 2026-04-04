@@ -15,13 +15,11 @@ November 7, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, L. Bruni, C. Campbell, I. Collins, B. Coxhead, S. Datars Bere, K. Dawtrey, A. Dunbar, J.M. Fleming, K. Graham, N. Hall, G. Kotsifas, L. Livingstone, V. McAlea Major, W. McKaig, D. Mounteer, K. Murray, D. O’Brien, L. Palarchio, C. Parsons, R. Paynter, M. Ribera, C. Saunders, K. Scherr, J. Senese, J. Winston, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2015
   Annual Report – Development Charges Reserve Funds
 
 That on the recommendation of the Managing
@@ -56,7 +54,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Development Charges Rate Monitoring - 2016 Review
 
 That, on the recommendation of the Managing
@@ -88,7 +85,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Tabling of the 2017
   Budget (Tax Supported Operating, Capital, Water and Waste Water Treatment)
 
 That the following actions be taken with
@@ -133,7 +129,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London Music
   Strategy – A Year in Review
 
 That the staff report dated November 7,
@@ -165,7 +160,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Standing Committee Appointments
 
 That the following appointments be made to
   the Standing Committees of the Municipal Council for the term December 1,

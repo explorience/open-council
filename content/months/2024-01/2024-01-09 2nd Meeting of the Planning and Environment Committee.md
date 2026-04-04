@@ -20,11 +20,9 @@ January 9, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;1st Report of the Ecological Community Advisory Committee
 
@@ -48,7 +46,6 @@ That the 1st Report of the Ecological Community Advisory Committee BE RECEIVED f
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1544 Dundas Street (Z-9671)
 
@@ -793,11 +790,9 @@ That pursuant to Section 34(17) of the Planning Act, as determined by the Munici
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -919,7 +914,6 @@ That M.A. Hodge and L. Blumer BE GRANTED delegation status relating to the Green
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:42 PM.
 ---

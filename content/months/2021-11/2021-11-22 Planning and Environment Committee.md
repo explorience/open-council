@@ -21,11 +21,9 @@ November 22, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -263,7 +261,6 @@ That, on the recommendation of the Director, Planning and Development, based on 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;3103 Petty Road and 3047 White Oak Road (Z-9383)
 
@@ -912,7 +909,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;11th Report of the London Advisory Committee on Heritage
 
@@ -973,7 +969,6 @@ e)    clauses 1.1, 2.1, 2.2, 2.4, 3.1 and 4.4, BE RECEIVED for information.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 8th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -1023,7 +1018,6 @@ Motion to change the order of business to hear the delegation by S. Levin, Chair
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:56 PM.
 ---

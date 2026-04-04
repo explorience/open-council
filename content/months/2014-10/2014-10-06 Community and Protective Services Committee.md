@@ -15,13 +15,11 @@ October 6, 2014, at  7:00 PM
 > [!abstract]- Also Present:
 > C. Colvin S. Datars Bere, O.Katolyk, L. Livingstone, S. Spring, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Child Care Advisory Committee
 
 Recommendation:  That the 4th Report of the
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Ontario Works
   Participant Profile-July 2014
 
 Recommendation:  That, on the
@@ -68,7 +65,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;5th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -113,7 +109,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;5th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That, on the
@@ -181,7 +176,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;8th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the following actions
@@ -235,7 +229,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Taxicab and
   Limousine Licensing By-law - Fare Review
 
 Recommendation:  That, on the recommendation

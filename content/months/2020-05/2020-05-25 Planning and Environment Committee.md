@@ -17,13 +17,11 @@ May 25, 2020, at  4:00 PM
 
 The meeting is called to order at 4:19 PM, with Councillor M. Cassidy in the Chair, Councillor S. Turner present; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors J. Helmer, A. Hopkins and A. Kayabaga.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Kayabaga
 
@@ -173,19 +171,16 @@ d) the Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any ame
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -216,7 +211,6 @@ c)  the Managing Director, Development and Compliance Services & Chief Building
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:37 PM.
 

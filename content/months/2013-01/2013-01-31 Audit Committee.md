@@ -15,10 +15,8 @@ January 31, 2013, at  4:00 PM
 > [!abstract]- Also Present:
 > S. Bahm, J.P Barber, J. Braam, G. Bridge, C. Clendenning, S. Gillifilan (PwC), M. Hayward, I. Jeffreys (KPMG), S. Morgan, I. Sadler (PwC), C. Shah (PwC), J. Stanford, S. Swance, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2011 and 2012
   Internal Audit Results Summary
 
 Recommendation:  That,  the following
@@ -38,7 +36,6 @@ c)          
   information related to quantifying cost avoidances BE INCLUDED in
   future Annual Internal Audit Results Summary Reports.
 
-# 3.&nbsp;&nbsp;&nbsp;Proposed Risk
   Assessment and 2013 Risk-Based Audit Plan
 
 Recommendation: That,
@@ -58,7 +55,6 @@ b)          
   Quarter, with the report on revenue and cost model analysis on solid waste
   collection being reported out in the 1st Quarter of 2014.
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Corporate Services/Finance - Payroll Administration
 
 Recommendation:  That, the following
@@ -74,7 +70,6 @@ RECEIVED; and
 b)         the action plans identified in
   Appendix A of the report noted in a) above,             BE IMPLEMENTED.
 
-# 5.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Human Resources - Succession Planning
 
 Recommendation:  That,  the

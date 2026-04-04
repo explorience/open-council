@@ -20,11 +20,9 @@ April 15, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -185,7 +183,6 @@ That, on the recommendation of the Managing Director, Development and Complianc
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 4th Report of the Environmental and Ecological Planning Advisory Committee 
 
@@ -911,7 +908,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Repeal of Building By-law B-6 and Proposed Building By-law B-7
 
@@ -957,7 +953,6 @@ That R. Sidhu, Executive Director, Argyle Business Improvement Area, BE GRANTED 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 5th Report of the London Advisory Committee on Heritage
 
@@ -1015,7 +1010,6 @@ h)           clauses 1.1, 3.1 to 3.4, inclusive, 4.1 and 5.3 BE RECEIV
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:43 PM.
 

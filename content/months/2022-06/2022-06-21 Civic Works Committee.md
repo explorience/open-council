@@ -25,11 +25,9 @@ June 21, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -149,11 +147,9 @@ That, on the recommendation of the Deputy City Manager, Environment and Infrastr
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Participation in Provincial Cargo E-bike Pilot 
 
@@ -289,7 +285,6 @@ That part c) BE AMENDED by adding the following, "the Civic Administration be di
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -313,7 +308,6 @@ That the Civic Works Committee Deferred Matters List as at June 13, 2022, BE REC
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

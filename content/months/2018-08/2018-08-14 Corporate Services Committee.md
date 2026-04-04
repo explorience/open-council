@@ -17,11 +17,9 @@ August 14, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Zaifman
 
@@ -69,11 +67,9 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Federation of Canadian Municipalities - Standing Committees
 
@@ -109,7 +105,6 @@ it being noted that the Board of Directors Meeting - March 12-15, 2019 Penticton
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -133,7 +128,6 @@ That the Corporate Services Committee Deferred Matters List, as of August 2018, 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -175,7 +169,6 @@ The Corporate Services Committee convened in closed session from 12:36 PM to 12:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:51 PM.
 

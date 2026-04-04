@@ -12,10 +12,8 @@ February 4, 2013, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, M. Hayward, J. Lucas, A. Macpherson, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Annual Ministry of
   Environment Inspection of the City of London Water Distribution System - 2012
 
 Recommendation:  That, on the
@@ -23,7 +21,6 @@ Recommendation:  That, on the
   Annual Ministry of Environment Inspection of the City of London Water
   Distribution System BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Community Program 2012 Summary and 2013 Planning Report
 
 Recommendation:  That, on the
@@ -33,7 +30,6 @@ Recommendation:  That, on the
   per the requirements of the City’s agreement with Landscape Ontario for the
   enhancement of the Veterans Memorial Parkway.
 
-# 4.&nbsp;&nbsp;&nbsp;New 2013 Traffic
   Signal-Byron Baseline Road at Colonel Talbot Road
 
 Recommendation:  That, on the
@@ -50,7 +46,6 @@ b)         future
   APPROVED as a first priority commitment from available assessment growth
   in 2013, subject to final budget approval.
 
-# 5.&nbsp;&nbsp;&nbsp;Highway 401
   Interchange Projects Agreement with Ministry of Transportation
 
 Recommendation: 

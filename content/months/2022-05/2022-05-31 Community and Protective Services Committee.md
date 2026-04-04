@@ -22,11 +22,9 @@ May 31, 2022, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer disclosed a pecuniary interest in clause 4.3 of this Report, having to do with Short Term Accommodations - Proposed Amendments, by indicating that he has used Airbnb to rent out his home in the past.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -289,11 +287,9 @@ it being noted that the communication, dated May 27, 2022, from M. Laliberte and
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;On the Wellbeing of Waterfowl and a Proposal to Resolve the Disservice of Ducks - D. Brunt
 
@@ -436,7 +432,6 @@ The Civic Administration BE DIRECTED to review the temporary pandemic-related fl
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -461,11 +456,9 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:29 PM.
 

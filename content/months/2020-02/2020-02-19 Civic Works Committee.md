@@ -21,11 +21,9 @@ February 19, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -117,11 +115,9 @@ c)       the Mayor and the City Clerk BE AUTHORIZED to execute any contract 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;User-Pay Christmas Tree Pick Up - Councillor M. van Holst
 
@@ -255,7 +251,6 @@ Motion to receive the verbal presentation from R. Cory and to take no action wit
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Transportation Advisory Committee 2020 Work Plan - Feedback
 
@@ -341,7 +336,6 @@ That the Deferred Matters List as at February 18, 2020, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:01 PM.
 

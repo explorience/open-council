@@ -17,19 +17,15 @@ November 5, 2024, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor P. Cuddy disclosed a pecuniary interest in item 11, clause 3.4 of the 16th Report of the Planning and Environment Committee having to with 313-323 Horton Street East by indicating he owns property at 359-371 Horton Street East.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -86,7 +82,6 @@ That Council convenes In Closed Session, from 1:18 PM to 1:40 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by S. Franke
 
@@ -117,7 +112,6 @@ That the Minutes of the 16th Meeting of the Municipal Council, held on October 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by E. Peloza
 
@@ -365,11 +359,9 @@ That the report from the Ontario Ombudsman dated October 24, 2024 with respect t
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;14th Report of the Civic Works Committee
 
@@ -2390,7 +2382,6 @@ it being noted that the Community and Protective Services Committee received a c
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;17th Report of Council in Closed Session
 
@@ -2434,19 +2425,15 @@ That progress was made with respect to items 4.1, 4.2, 4.5, and 4.6, as noted on
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 At 5:37 PM Councillor S. Trosow leaves the meeting.
 
@@ -2717,7 +2704,6 @@ That Third Reading and Enactment of Bill No.'s 354 to Added Bill No. 381, exclud
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 
@@ -2731,7 +2717,6 @@ That the meeting adjourned at 5:43 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 354**

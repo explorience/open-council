@@ -15,10 +15,8 @@ March 26, 2013, at  2:30 PM
 > [!abstract]- Also Present:
 > D.G. Henderson, A. Zuidema, C. Abromaitis, J. P. Barber, J. Braam, P. Foto, M. Hayward, V. McAlea Major, D. Mounteer, B. Warner, P. White
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;That the City Clerk BE REQUESTED to
   defer bringing forward the report on the Code of Conduct until the Corporate
   Services Committee meeting on April 23, 2013, so that all Committee Members
   can be present to discuss the matter.

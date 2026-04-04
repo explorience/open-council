@@ -15,13 +15,11 @@ May 22, 2014, at  4:10 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Barrett, J. Braam, C. Colvin, B. Coxhead, J.M. Fleming, S. Galloway, T. Grawey, M. Hayward, G. Kotsifas, H. McNeely, R. Nemis, R. Paynter, C. Saunders, B. Turcotte, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;ReThink London – The London Plan
   – Development of a New Official Plan for the City of London
 
 Recommendation:  That the following actions

@@ -17,7 +17,6 @@ December 4, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in item 4.28, having to do with appointments to the Middlesex-London Health Unit (MLHU) Board of Directors, by indicating that the MLHU is his employer.
 
@@ -25,15 +24,12 @@ Councillor J. Morgan discloses a pecuniary interest in item 4.39, having to do 
 
 Councillor J. Helmer discloses a pecuniary interest in item 4.39, having to do with appointments to the Western University Board of Governors, by indicating that he is a Teaching Assistant at Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by M. Salih
 
@@ -2474,7 +2470,6 @@ That pursuant to section 2.6 of the Council Procedure By-law, authorization BE G
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Request for Appointment Process to be Referred to the Governance Working Group
 
@@ -2508,7 +2503,6 @@ That the process for public appointments of directors for boards and commission
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Helmer
 

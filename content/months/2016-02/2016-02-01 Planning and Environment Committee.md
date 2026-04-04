@@ -12,12 +12,10 @@ February 1, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Morgan, M. van Holst, J. Zaifman, G. Barrett, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, I. Listar, A. Macpherson, L. Mottram, J. Ramsay, M. Ribera, C. Saunders, E. Soldo, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor T. Park
   disclosed a pecuniary interest in part e) of the staff report related to Item
   10, having to do with the evaluation of Community Improvement Plan
   incentives, by indicating that she owns a neighbouring property.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 2nd Report of the Environmental
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Designation of the
   King Street Bridge Under the Ontario Heritage Act
 
 That, on the recommendation of the Managing
@@ -78,7 +75,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1192 Highbury Avenue North – Ontario Municipal Board (OZ-8463)
 
 That, on the recommendation of the Managing
@@ -106,7 +102,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   275 Thames Street
   - Repeal of Designation
 
@@ -136,7 +131,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 130, 136, 146 and 164 Pond Mills Road and 925 Deveron Crescent
   (39T-12501/Z-8007)
 
@@ -292,7 +286,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -339,7 +332,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 That, the following actions be taken with
@@ -380,7 +372,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 That, the following actions be taken with
@@ -449,7 +440,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Evaluation of
   Community Improvement Plan Incentives
 
 That, on the recommendation of the Managing
@@ -652,7 +642,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Public Engagement
   Process – Glanworth Neighbourhood
 
 That the Civic Administration BE DIRECTED
@@ -682,7 +671,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Bonus Policies –
   Draft London Plan
 
 That the Civic Administration BE DIRECTED

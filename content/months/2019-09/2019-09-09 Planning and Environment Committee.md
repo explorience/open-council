@@ -17,13 +17,11 @@ September 9, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That Councillor S. Turner disclosed a pecuniary interest in clause 3.3 of this Report, having to do with the properties located at 220 and 244 Adelaide Street South, by indicating that his employer, the Middlesex-London Health Unit, is assisting with the dental initiative.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -265,7 +263,6 @@ That, on the recommendation of the Director, Development Services, based on the 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - A. Cantell, Vice-Chair,Trees and Forests Advisory Committee - 8th Report of the Trees and Forests Advisory Committee
 
@@ -916,7 +913,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;7th Report of the Advisory Committee on the Environment
 
@@ -1006,13 +1002,11 @@ f)          clauses 1.1, 2.4, 2.6, 3.1 to 3.6, inclusive and 5.2 BE REC
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 Moved by: S. Turner
 
@@ -1030,7 +1024,6 @@ A matter pertaining to matters about an identifiable individual, including munic
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:11 PM.
 

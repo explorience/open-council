@@ -15,19 +15,16 @@ June 16, 2014, at  7:01 PM
 > [!abstract]- Also Present:
 > P. Hubert, S. Orser, H.L. Usher; C. Colvin, B. Coxhead, P. D’Hollander, S. Datars Bere, J. Kobarda, G. Kotsifas, L. Livingstone, D. Menard, K. Owen, J. Richardson, C. Smith
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Childcare Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Childcare Advisory Committee, from its meeting on May 21, 2014, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Introduction of
   By-law to Appoint the Ontario Works Administrator as the Municipal Welfare
   Administrator Under the Homemakers and Nurses Services Act, R.S.O 1990. c.
   H.10
@@ -51,7 +48,6 @@ b)         the
   City Clerk BE DIRECTED to forward the by-law noted in a), above, to the
   Minister of Community and Social Services for approval.   (2014-C01)
 
-# 4.&nbsp;&nbsp;&nbsp;London's Homeless
   Prevention System Housing Stability Fund
 
 Recommendation:  That, on the
@@ -77,7 +73,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Homelessness
   Partnering Strategy - Designated Communities - Sub-Project Funding Agreement
 
 Recommendation:  That, on the
@@ -100,7 +95,6 @@ b)         delegate
   Sub-Project Funding Agreement authorized and approved above, with no further
   approval required from Council.  (2014-L04)
 
-# 6.&nbsp;&nbsp;&nbsp;Addition and Interior
   Alterations to the South London Community Centre Project No. P126- RC2751
   Tender No. 14-58
 
@@ -156,7 +150,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Tires for Fire
   Department Heavy Duty Vehicles - Single Source Procurement
 
 Recommendation:  That, on the
@@ -182,7 +175,6 @@ c)         the
   formal contract or having a purchase order, or contract record relating to
   the subject matter of this approval.  (2014-L04A)
 
-# 8.&nbsp;&nbsp;&nbsp;Amendment of
   Fireworks By-law PW-11
 
 Recommendation:  That, on the
@@ -193,7 +185,6 @@ Recommendation:  That, on the
   for the purpose of providing additional dates to discharge consumer fireworks
   in celebration of Canada Day.  (2014-C01)
 
-# 9.&nbsp;&nbsp;&nbsp;5th Report of the
   Accessibility Advisory Committee
 
 Recommendation: That the following actions
@@ -236,7 +227,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Old East Village
   Neighbourhood Safety Plan
 
 Recommendation:  That, on the
@@ -278,7 +268,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;7th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -307,7 +296,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Information Request
   - Ontario Fire Marshal
 
 Recommendation:  That, on the
@@ -357,7 +345,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;S. Tucker, 3391
   Settlement Trail - Street Parking - École Marie-Curie
 
 Recommendation:  That the communication of

@@ -15,13 +15,11 @@ February 21, 2018, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer; S. Datars Bere, L. Livingstone, L. Marshall, S. Oldham, M. Pease, M. Ribera, J. Richardson, J. Stanford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homeless Prevention System- Homeless Management Information System -
   Cargo Management Consulting Inc. - Contract Amendment #2
 
@@ -68,7 +66,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homeless Prevention System - Housing Stability Bank Update
 
 That, on the recommendation of the Managing
@@ -92,7 +89,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homeless Prevention System - London CAReS Homeless Response Services
 
 That, on the recommendation of the Managing
@@ -116,7 +112,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Housing Services - Rent Supplement Program
 
 That, on the recommendation of the Managing
@@ -151,7 +146,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Social Housing Apartment Improvement Program (SHAIP)
 
 That, on the recommendation of the Managing
@@ -211,7 +205,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -239,7 +232,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Irregular Result Request for Proposal 18-09 - Parks and Recreation Strategic
   Master Plan Update
 
@@ -284,7 +276,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Proposed Public Nuisance By-law Amendment to Address Odour
 
 That, on the recommendation of the Managing
@@ -338,7 +329,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2nd Report of the
   Animal Welfare Advisory Committee
 
 That the 2nd Report of the Animal Welfare
@@ -360,7 +350,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -401,7 +390,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;2nd Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -438,7 +426,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the January 2018 Deferred Matters List

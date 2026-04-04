@@ -17,11 +17,9 @@ June 22, 2022, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following members were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, J. Morgan, P. Van Meerbergen, E. Peloza, S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2021 Performance Report and May 2022 Semi-Annual Progress Report
 
@@ -55,7 +53,6 @@ That, on the recommendation of the City Manager, the report including the 2021 P
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - Housing Development Corporation (HDC) - 2021 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -153,7 +150,6 @@ d)  the 2021 Financial Statements BE RECEIVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Community Recovery Network – Recovery Funding Business Cases
 
@@ -198,7 +194,6 @@ c) the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other d
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
@@ -230,7 +225,6 @@ That the presentation, and associated report, from M. Wallace and J. Zaifman, of
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -268,7 +262,6 @@ The Strategic Priorities and Policy Committee convenes in Closed Session from 6:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Turner
 

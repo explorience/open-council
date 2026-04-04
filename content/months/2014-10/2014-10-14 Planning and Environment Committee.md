@@ -12,13 +12,11 @@ October 14, 2014, at  3:32 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, J. Bryant, B. Debbert, J.M. Fleming, B. Mercier, M. Ribera, M. Tomazincic, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 510
   Central Avenue and 609 William Street (Z-8141)
 

@@ -17,11 +17,9 @@ October 7, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor S. Stevenson was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village
 
@@ -145,7 +143,6 @@ it being noted that the Strategic Priorities and Policy Committee heard delegati
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 1:05 PM - 2026 Water and Wastewater Rates
 
@@ -246,15 +243,12 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by D. Ferreira
 
@@ -295,7 +289,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

@@ -12,13 +12,11 @@ February 18, 2015, at  4:01 PM
 > [!abstract]- Also Present:
 > M. Cassidy, J. Helmer, P. Squire, S. Turner, H.L. Usher, M. Van Holst, J. Zaifman, W. Adams, J.P. Barber, B. Coxhead, M. Daly, S. Datars Bere, K. Dawtrey, M. Dellamora, D. Dobson, I. Gibb, S. Giustizia, M. Henderson, O. Katolyk, E. Ling, L. Livingstone, D. O’Brien, S. Oldham, M. Ribera, J. Smout, L. Stevens, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interest were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London's Child and
   Youth Network 2014 Progress Report and Child and Youth Network Impact
   Assessment Update
 
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Memorandum of
   Understanding - Proposed Joint Venture to Construct and Operate a Facility
   between The City of London and The YMCA of Western Ontario and The London
   Public Library Board
@@ -116,7 +112,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Architect to Act as
   Prime Consultant for the Southwest Multi-Purpose Recreation Centre (RFP
   14-61) (Project # RC2755)
 
@@ -169,7 +164,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Recreation Activity
   Management System (RFP 14-48)
 
 Recommendation:  That, on the
@@ -218,7 +212,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Agreement to
   Approve a Management Contract (AAMC) Regarding the Long Term Care and Adult
   Day Program Management Consulting and Administrator Services Contract for the
   Dearness Homes
@@ -266,7 +259,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Housing
   Collaborative Initiative (HCI) Update
 
 Recommendation:  That, on the
@@ -294,7 +286,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Changes to
   Proposals Under Investment in Affordable Housing (IAH) Program (RFP14-36)
 
 Recommendation:  That, on the
@@ -361,7 +352,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing (IAH) Program (2014 Extension) Funding Years 2 to 6 and
   Recommendation for Additional Proposal Under (RFP 14-36)
 
@@ -421,7 +411,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;End of Operation
   Agreement (EOA) for Social Housing Providers in London and Middlesex County
 
 Recommendation:  That, on the
@@ -464,7 +453,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Food Trucks
 
 Recommendation:  That on the recommendation
   of the Managing Director, Development and Compliance Services and the Chief
@@ -654,7 +642,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;General Orientation
   – Key Committee Matters
 
 Recommendation:  That the Age Friendly
@@ -679,7 +666,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;2nd Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -747,7 +733,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the following actions
@@ -806,7 +791,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the following actions
@@ -858,7 +842,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 Recommendation:  That the following actions

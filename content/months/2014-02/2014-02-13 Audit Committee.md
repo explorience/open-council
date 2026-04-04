@@ -15,13 +15,11 @@ February 13, 2014, at  4:03 PM
 > [!abstract]- Also Present:
 > L. Da Silva, K. denBok (KPMG), L. Ducharme, S. Gilfillan (PwC), M. Hayward, I. Jeffries (KPMG), K. Paleczny, C. Shah (PwC), S. Swance, M. Turner, B. Whitelaw
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Corporate Services - IT: Project Management and
   System Prioritization
 
@@ -45,7 +43,6 @@ c)         PricewaterhouseCoopers
   respect to Projects Action Plans, with an explanation for the cause for the
   delays in the completion of these Projects.
 
-# 3.&nbsp;&nbsp;&nbsp;Audit Planning
   Report - Year Ending December 31, 2013
 
 Recommendation:  That the KPMG LLP Audit Planning
@@ -55,7 +52,6 @@ Recommendation:  That the KPMG LLP Audit Planning
   regulations, including misconduct or unethical behaviour related to financial
   reporting or misappropriation of assets.
 
-# 4.&nbsp;&nbsp;&nbsp;PwC Operational
   Review
   – London Transit
 
@@ -83,7 +79,6 @@ d)     
   designed to increase revenues and any other operational areas that may be deemed
   to be beneficial.
 
-# 5.&nbsp;&nbsp;&nbsp;London Convention
   Centre Audit Report - Revenue and Growth Opportunities
 
 Recommendation:  That the following actions
@@ -100,7 +95,6 @@ b)         the
   Chair of the Audit Committee BE REQUESTED to send a letter of thanks to the London
   Convention Centre for their participation in the above-noted review.
 
-# 6.&nbsp;&nbsp;&nbsp;Shared Service Opportunities
 
 Recommendation:  That the Civic
   Administration BE REQUESTED to submit to a future meeting of the Audit

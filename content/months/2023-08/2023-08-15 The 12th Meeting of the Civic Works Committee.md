@@ -20,11 +20,9 @@ August 15, 2023, at 12:00 PM
 
 The meeting was called to order at 12:01 PM; it being noted that P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -158,11 +156,9 @@ d)    the Mayor and City Clerk BE AUTHORIZED to execute any contract or other 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;REQUEST FOR DELEGATION STATUS - M. Judson, Springbank Park Recreational Dam 
 
@@ -342,7 +338,6 @@ c)    clauses 3.1, 3.2, 5.1, 5.3 and 5.4 BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -435,7 +430,6 @@ Motion to approve the addition of the following clauses:
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:36 PM.
 ---

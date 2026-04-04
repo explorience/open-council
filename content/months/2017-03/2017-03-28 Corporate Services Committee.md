@@ -15,13 +15,11 @@ March 28, 2017, at 10:30 AM
 > [!abstract]- Also Present:
 > M. van Holst, M. Hayward, B. Baar, A.L. Barbon, G. Bridge, B. Card, J. Freeman, K. Graham, J. Kovacs, J. Logan, A. Macpherson, V. McAlea Major, M. Ribera, C. Saunders, K. Scherr, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Advance Voting Days and Use of Vote Counting Equipment, Voting Machines,
   Voting by Mail, and Proxy Voting
 
@@ -63,7 +61,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Vacant Unit Rebate and Vacant/Excess Land Subclass Tax Reductions
 
 That, on the recommendation of the Managing
@@ -108,7 +105,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointed Citizen Members 2017 Remuneration
 
 That, on the recommendation of the Managing
@@ -137,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Compliance Report in Accordance with the Procurement of Goods and Services
   Policy
 
@@ -193,7 +188,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Sherwood Forest Public School Request for Proposals - Update and Next Steps
 
 That, on the recommendation of the Managing
@@ -219,7 +213,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Public Sector Salary Disclosure Act Report for Calendar Year 2016
 
 That, on the recommendation of the Managing
@@ -243,7 +236,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus – Closed Road Allowance – Part of Riverside Drive
 
 That, on the recommendation of the Managing
@@ -269,7 +261,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Ontario 150 Community Celebration Program and Ontario 150 Partnership Program
   Transfer Payment Agreements
 
@@ -317,7 +308,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Accessibility Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -348,7 +338,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Transportation Advisory Committee
 
 That Hani Moussa BE APPOINTED as a Voting
@@ -372,7 +361,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Outstanding London Ambassador Award Committee
 
 That
@@ -395,7 +383,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Consideration
   of Appointment to the London Police Services Board
 
 That Susan Toth BE APPOINTED to the London

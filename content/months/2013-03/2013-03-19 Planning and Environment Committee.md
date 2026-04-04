@@ -15,38 +15,32 @@ March 19, 2013, at  4:08 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, M. Corby, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, A. Macpherson, A. MacLean, D. Mounteer, J. Page, J. Ramsay, A. Riley, C. Saunders, R. Sharpe, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Agricultural Advisory Committee from its meeting held on February 20, 2013 BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Environmental and Ecological Planning Advisory Committee from its meeting
   held on February 21, 2013 BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Trees and Forests Advisory Committee from its meeting held on February 27,
   2013 BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on Environment
 
 Recommendation:  That the 3rd Report of the
   Advisory Committee on the Environment from its meeting held on March 6, 2013 BE
   RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;North Lambeth
   Estates Subdivision - Phase 3 (39T-00510-3)
 
 Recommendation:  That, on the
@@ -73,7 +67,6 @@ c)         the
   Costs and Revenues” provided as Schedule “B” to the associated staff report,
   dated March 19, 2013.   (2013-D12)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 613 to 629 First Street and 1461 to 1465 Oxford Street East (H-8127)
 
 Recommendation:  That, on the recommendation
@@ -86,7 +79,6 @@ Recommendation:  That, on the recommendation
   Holding Residential R10 (h-88*R10-1*H40) Zone TO a Residential R10
   (R10-1*H40) Zone, to remove the holding provision. (2013-D14A)
 
-# 8.&nbsp;&nbsp;&nbsp;Review of Holding
   Provision Requirements in Zoning By-law No. Z.-1
 
 Recommendation:  That, the following
@@ -103,13 +95,11 @@ b)         the
   hold a public participation meeting at a future meeting of the Planning and
   Environment Committee with respect to the amendment noted in part a), above.   (2013-C01)
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for January 2013
 
 Recommendation:  That the Building Division
   Monthly Report for January 2013 BE RECEIVED.   (2013-D00)
 
-# 10.&nbsp;&nbsp;&nbsp;Zoning By-law No. Z.-1
   Text Amendments (Z-7992)
 
 Recommendation:  That, on the
@@ -124,7 +114,6 @@ Recommendation:  That, on the
   pointed out that there were no oral submissions made at the public
   participation meeting associated with this matter. (2013-C01)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1815 Dundas Street (Z-8135)
 
 Recommendation:  That, on the
@@ -140,7 +129,6 @@ Recommendation:  That, on the
   it being pointed out that there were no oral submissions made at the public
   participation meeting associated with this matter. (2013-D14A)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   9345 Elviage Drive
 
 Recommendation:      That the
@@ -164,7 +152,6 @@ it being noted that
   the Planning and Environment Committee received a delegation from M.
   Doornbosch, Zelinka Priamo Ltd. regarding this matter.     (2013-D14A)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1311, 1363 and 1451 Wharncliffe Road South (OZ-8087)
 
 Recommendation:  That, the application of
@@ -282,7 +269,6 @@ it being pointed
   and Lowe’s; indicating that there will be an increase in the number of
   accidents; and advising that this is not fair to area residents.   (2013-D14A)
 
-# 14.&nbsp;&nbsp;&nbsp;Enquiry – Property located at Huron Street
   and Adelaide Street North
 
 That, the Managing Director, Planning and City

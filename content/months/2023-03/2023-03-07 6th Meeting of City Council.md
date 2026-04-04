@@ -20,19 +20,15 @@ March 7, 2023, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillors D. Ferreira, S. Franke, S. Hillier, P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -66,7 +62,6 @@ The Council convenes, In Closed Session, from 1:12 PM to 1:16 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;5th Meeting held on February 14, 2023
 
@@ -99,7 +94,6 @@ That the Minutes of the 5th meeting of the Municipal Council, held on February 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by A. Hopkins
 
@@ -128,11 +122,9 @@ That the communications BE RECEIVED and BE REFERRED as noted on the agenda.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Civic Works Committee
 
@@ -1436,7 +1428,6 @@ That the final report dated February 6, 2023 from MNP regarding the Neighbourhoo
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;5th Report of Council in Closed Session
 
@@ -1547,19 +1538,15 @@ That the report dated February 24, 2023 from P. Dube, Ombudsman of Ontario regar
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Stevenson enquiries with respect to London Cares Homelessness Response provision of 24/7 emergency drop-in space.  The Deputy City Manager, Social and Health Development provides information to the Council with respect to this matter.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -1720,7 +1707,6 @@ That Third Reading and Enactment of Added Bill No. 94, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Cuddy
 
@@ -1734,7 +1720,6 @@ The meeting adjourned at 2:15 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 73**

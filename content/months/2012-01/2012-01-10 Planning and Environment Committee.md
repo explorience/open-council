@@ -12,9 +12,7 @@ January 10, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > J. F. Fontana, D. Ailles, J. Leunissen, N. McKee, D. Stanlake
 
-# 1.&nbsp;&nbsp;&nbsp;None are disclosed
 
-# 2.&nbsp;&nbsp;&nbsp;That, on
   the recommendation of the Director of Development Planning and the Managing
   Director of Development Approvals Business Unit, the following actions be
   taken with respect to the applications by Drewlo Holdings Inc. relating to

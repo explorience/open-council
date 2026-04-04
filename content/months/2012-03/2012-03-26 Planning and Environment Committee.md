@@ -15,9 +15,7 @@ March 26, 2012, at  4:08 PM
 > [!abstract]- Also Present:
 > J. F. Fontana, J.L. Baechler, M. Brown, G. Barrett, S. Bellaire, J. Braam, A. Dunbar, M. Elmadhoon, J. M. Fleming, S. Galloway, B. Henry, G. Kotsifas, B. Krichker, J. Leunissen, I. Listar, A. MacLean, L. McDougall, D. Menard, C. Parker, J. Ramsay, A. Riley, C. Saunders, J. Shaughnessy, C. Smith, J. Smout, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary interests are disclosed
 
-# 2.&nbsp;&nbsp;&nbsp;3rd and 4th Reports
   of the Advisory Committee on the Environment
 
 Recommendation:  That, the following
@@ -40,7 +38,6 @@ b)           
 d)         that
   clauses 1 through 8, inclusive, of the 4th Report of the ACE, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;3rd and 4th Reports
   of the Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  The following actions be
@@ -57,7 +54,6 @@ b)         that
   clauses 1 through 9, inclusive, of the 4th Report of the EEPAC, BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Hyde Park Road
   Commercial Review Official Plan and Zoning Review - 1331-1369 and 1364-1420
   Hyde Park Road
 
@@ -70,7 +66,6 @@ Recommendation:  That, notwithstanding the
   and the applicant to further discuss the proposal and to report back to the
   PEC with the results of the discussion.  (2012-D11-04/D26-03)
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 1235, 1237, 1245, 1247 and 1253 Richmond Street (Z-7856)
 
 Recommendation:  That, the decision of the
@@ -82,7 +77,6 @@ Recommendation:  That, the decision of the
   properties located at 1235, 1237, 1245, 1247, and 1253 Richmond Street, BE
   RECEIVED.  (2012-D11-08)
 
-# 6.&nbsp;&nbsp;&nbsp;London Psychiatric
   Hospital Secondary Plan - Notice of Appeal to the Ontario Municipal Board
   (O-7668)
 
@@ -96,7 +90,6 @@ Recommendation:  That, on the
   east of 850 Highbury Avenue North and bounded by the Canadian Pacific and
   Canadian National Railways, BE RECEIVED.  (2012-D11-05)
 
-# 7.&nbsp;&nbsp;&nbsp;Candidate Approval
   for the Urban Design Peer Review Panel
 
 Recommendation:  That, on the
@@ -112,7 +105,6 @@ b)         Gerald Gallacher – Architect;
  
 c)         Michael McLean – Architect.   (2012-G03-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   280 Callaway Drive (H-7977)
 
 Recommendation:  That, on the
@@ -126,7 +118,6 @@ Recommendation:  That, on the
   Residential R4/R6 Special Provision (R4-3/R6-5(23)) Zone, to remove the h-5,
   h-99 and h-100 holding provisions from these lands.  (2012-D11-07)
 
-# 9.&nbsp;&nbsp;&nbsp;Annual Report on
   Building Permit Fees
 
 Recommendation:  That, on the
@@ -137,7 +128,6 @@ Recommendation:  That, on the
   will report to the Planning and Environment Committee in the Spring of 2012
   regarding building permit fees and any adjustments that may be warranted.  (2012-D06-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Hickory Heights
   Subdivision (39T-06510)
 
 Recommendation:  That, on the
@@ -171,7 +161,6 @@ d)         the
   “Estimated Claims and Revenues Report” provided as Appendix ‘B’ to the
   associated staff report, dated March 26, 2012.   (2012-D26-02)
 
-# 11.&nbsp;&nbsp;&nbsp;Portion of 530
   Sunningdale Road East - Phase Two of Uplands North Subdivision (H-8025)
 
 Recommendation:  That, on the
@@ -186,7 +175,6 @@ Recommendation:  That, on the
   (R1-2) Zone; a Residential R1 (R1-3) Zone; and Residential R1 Special
   Provision (R1-3(7)) Zone to remove the “h” holding provision.  (2012-D26-06)
 
-# 12.&nbsp;&nbsp;&nbsp;4th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -262,7 +250,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from Joe
   O’Neil, Acting Chair, LACH, with respect to these matters.
 
-# 13.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  The following actions be
@@ -331,7 +318,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from Bill Gilmore, Chair,
   TFAC, with respect to these matters.
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   940 Springbank Drive
 
 Recommendation:  That, the following
@@ -361,7 +347,6 @@ it being noted that the Planning and Environment
   Committee received communications, dated February 21 and March 26, 2102, from
   A.R. Patton, Patton Cormier and Associates, with respect to this matter.   (2012-D25-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Wickerson Heights
   Subdivision – Assumption Status (33M-514)
 
 Recommendation:  That, the communication
@@ -369,7 +354,6 @@ Recommendation:  That, the communication
   Wickerson Heights subdivision (33M-514) assumption status being held in abeyance
   BE REFERRED to the Civic Administration for consideration.   (2012-D26-06)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   806 Victoria Street
 
 Recommendation:  That, on the
@@ -393,7 +377,6 @@ c)         the
   and Revenues Report” provided as Schedule “A” to the associated staff report,
   dated March 26, 2012.    (2012-D25-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   844 Wonderland Road South (Z-8012)
 
 Recommendation:  That, on the
@@ -414,7 +397,6 @@ Recommendation:  That, on the
   submissions made at the public participation meeting held in connection with
   this matter.  (2012-D11-04)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   681 Highbury Avenue North (Z-8001)
 
 Recommendation:  That, on the
@@ -433,7 +415,6 @@ Recommendation:  That, on the
   were no oral submissions made at the public participation meeting held in
   connection with this matter.  (2012-D11-02)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   1671 Fanshawe Park Road West (TZ-8010)
 
 Recommendation:  That, on the
@@ -459,7 +440,6 @@ it being
   White, 828 Commissioners Road West – expressing support for the
   recommendation.  (2012-D11-06)
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   580 Fanshawe Park Road East
 
 Recommendation:  That, on the
@@ -521,7 +501,6 @@ it being
   indicating that traffic is an issue; and advising that safety is the main
   concern.  (2012-D25-00)
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   1461 Huron Street (Z-8005)
 
 Recommendation:  That, on the
@@ -593,7 +572,6 @@ it being
   Reverend
   Doug McKenzie – expressing support for the application.  (2012-D11-07)
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   1285 Western Road (Southwest Portion) (OZ-7955)
 
 Recommendation:  That, on the
@@ -672,7 +650,6 @@ it being
   Sandy
   Levin, 59 Longbow Road – expressing support for the application.  (2012-D11-01)
 
-# 23.&nbsp;&nbsp;&nbsp;Properties located
   at 73, 77, 81 and 91 Southdale Road East (OZ-7943)
 
 Recommendation:  That, notwithstanding the
@@ -783,7 +760,6 @@ it being
   sales and service, but not a car wash; advising that the site plan stage will
   drill down the level of detail required.  (2012-D11-02)
 
-# 24.&nbsp;&nbsp;&nbsp;Urban Design
   Guidelines
 
 Recommendation:  That, on the
@@ -840,7 +816,6 @@ it being
   you build a 30 foot building and fill it with light, people are going to be
   affected.  (2012-D07-00)
 
-# 25.&nbsp;&nbsp;&nbsp;Property located at 215 Fanshawe Park Road
   West
 
 Recommendation:  That, on the
@@ -917,7 +892,6 @@ it being
   potential for a speed hump, changing the radius of the turn at Fanshawe Park
   Road and Derwent Road or a pork chop traffic measure. (2012-D25-00)
 
-# 26.&nbsp;&nbsp;&nbsp;Downtown Master
   Plan - Downtown Heritage Conservation District Plan (O-8024/08)
 
 Recommendation:  That, on the
@@ -1056,7 +1030,6 @@ it being
   shapes and all windows still exist; and providing an example of a ‘C’ ranking
   where more of details have been lost.   (2012-D07-00)
 
-# 27.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (39T-11503/OZ-7985)
 
 Recommendation:  That, on the
@@ -1274,7 +1247,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.  (2012-D26-02)
 
-# 28.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West (39T-11504/OZ-7991)
 
 Recommendation:  That, notwithstanding the
@@ -1337,7 +1309,6 @@ it being
   part of a development, the trees planted were 6 inches tall until the City
   stepped in and the trees were replaced with 18 inch tall trees.   (2012-D26-06)
 
-# 29.&nbsp;&nbsp;&nbsp;Properties located
   at 255 South Carriage Road and 1331 Hyde Park Road (39T-08502/Z-7489/OZ-7510)
 
 Recommendation:  That, notwithstanding the
@@ -1401,7 +1372,6 @@ it being
   be for commercial uses; expressing concern as she has young children; and
   advising that she has been waiting for a long time for a park.    (2012-D26-03)
 
-# 30.&nbsp;&nbsp;&nbsp;Commercial
   Development - Boler Mountain Ski Club
 
 Recommendation:  That the communication,

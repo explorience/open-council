@@ -15,7 +15,6 @@ July 20, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That

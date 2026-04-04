@@ -12,7 +12,6 @@ April 8, 2013, at  7:30 PM
 > [!abstract]- Also Present:
 > M. Brown, S. Orser, S.E. White, A. Barbon, J. Braam, B. Coxhead, I. Gibb, J. Jessop, O. Katolyk, G. Kotsifas, L. Livingstone, M. Ribera, C. Saunders, S. Stafford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that the following
   pecuniary interests were disclosed:
  
 a)           
@@ -27,28 +26,24 @@ b)           
   to do with Amendments to the Fees and Charges By-law, specific to Residential
   Rental Units Licensing, by indicating that she has a rental unit in her home.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 4th Report of the
   London Housing Advisory Committee, from its meeting held on March 13, 2013,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   London Diversity and Race Relations Advisory Committee, from its meeting held
   on March 21, 2013, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;3rd Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Accessibility Advisory Committee, from its meeting held on March 28, 2013, BE
   RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;London Majors
   Baseball License Agreement for Use of Labatt Park
 
 Recommendation:  That, on the
@@ -105,7 +100,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to Fees
   and Charges By-law
 
 Recommendation:  That the matter of
@@ -296,7 +290,6 @@ It being
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Child Care Funding
   Formula Update
 
 Recommendation: That, on the recommendation
@@ -328,7 +321,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Introduction of
   By-law for Approval of Liquor Licence Applications for the City of London
 
 Recommendation:  That, on the

@@ -20,11 +20,9 @@ June 19, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by T. Park
 
@@ -339,11 +337,9 @@ That, on the recommendation of the Managing Director, Environmental & Engineerin
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Innovate4Cities - A Global Climate Action Accelerator - Edmonton Declaration
 
@@ -395,7 +391,6 @@ That consideration of  amending the Terms of Reference for the Cycling Advisory
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -423,7 +418,6 @@ That it BE NOTED Councillor H. Usher enquired about the Union Gas site at Nixon
 
 That it BE NOTED Councillor M. Vanholst enquired about the reason for the deterioration of the pavement on Commissioners Road East that required the recent repaving. The Managing Director, Environmental & Engineering Services and City Engineer advised that the mixture approved for use by the Province at the time, has now been found to be unreliable, resulting in a shorter than anticipated lifecycle that necessitated the repairing.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:14 PM
 

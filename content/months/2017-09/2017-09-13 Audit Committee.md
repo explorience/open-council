@@ -15,26 +15,22 @@ September 13, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer; A.L. Barbon, B. Card, I. Collins, J. Pryce (Deloitte), A. Ruffudeen (Deloitte), J. Smout, S. Spring, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Draft Internal
   Audit Charter
 
 That attached revised internal audit
   charter BE APPROVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Internal Audit
   Summary Update
 
 That the revised memo dated September 1,
   2017, from Deloitte, with respect to the internal audit summary update BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;June 2017 -
   December 2018 Internal Audit Dashboard as at September 1, 2017
 
 That the communication from Deloitte,

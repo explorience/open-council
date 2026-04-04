@@ -17,19 +17,15 @@ March 4, 2025, at  1:00 PM
 
 The meeting is called to order at 1:03 PM
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor H. McAlister discloses a pecuniary interest in item 13, clause 3.6 of the 4th Report of the Planning and Environment Committee, having to do with 1378-1398 Commissioners Road West (Z-9815), by indicating that his family member owns property near the development.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -76,7 +72,6 @@ That Council convenes In Closed Session, from 1:09 PM to 1:25 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;3rd Meeting held on February 11, 2025
 
@@ -111,7 +106,6 @@ That the Minutes of the 3rd Meeting of the Municipal Council, held on February 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Cuddy
 
@@ -250,11 +244,9 @@ c)   the costs of services be included as an Appendix to the agenda.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Planning and Environment Committee
 
@@ -1650,15 +1642,12 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED that Councillor S. Lehman presented the 4th Report of the Council in Closed Session, by noting progress was made with respect to items 4.1, 4.2 and 4.3 as noted on the public agenda. (6.1/4/ICSC) (6.1/4/CPSC) (6.1/3/SPPC).
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 At 3:51 PM, Mayor J. Morgan places Deputy Mayor S. Lewis in the Chair.
 
@@ -1666,11 +1655,9 @@ At 3:58 PM, Mayor J. Morgan resumes the Chair
 
 Councillor P. Van Meerbergen enquires with respect to the initiatives the City of London is taking responding to tariffs, Mayor J. Morgan provides a response.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 At 3:59 PM, Councillor P. Van Meerbergen leaves the meeting.
 
@@ -1839,7 +1826,6 @@ That Third Reading and Enactment of Bill No.100 BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by A. Hopkins
 
@@ -1853,7 +1839,6 @@ The meeting adjourned at 4:02 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 78**

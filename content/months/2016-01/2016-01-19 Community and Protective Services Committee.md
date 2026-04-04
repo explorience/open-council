@@ -15,7 +15,6 @@ January 19, 2016, at  4:23 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Squire; M. Bohorquez, B. Coxhead, S. Datars Bere, A. Dunbar, S. Giustizia, M. Hayward, A. Heinz, O. Katolyk, D. Mounteer, D. Popadic, M. Ribera, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -24,7 +23,6 @@ That it BE NOTED that Councillor J. Helmer
   course; it being noted that Councillor J. Helmer is not a member of the
   Community and Protective Services Committee.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of
   London Housing Advisory Committee
 
 That the 1st Report of the London Housing
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Municipal Golf -
   Agreement with London Golf Club
 
 That, on the recommendation of the Managing
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Annual Review -
   2016 Special Events Policies and Procedures Manual
 
 That, on the recommendation of the Managing
@@ -111,7 +107,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Integrated Assessment
   Record (IAR) Project Agreement - The Corporation of The City of London -
   Dearness Home
 
@@ -152,7 +147,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;BMO Centre
 
 That the following actions be taken with
   respect to the funding request from the London Optimist Sports Centre for the
@@ -198,7 +192,6 @@ Voting
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2nd Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -251,7 +244,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Climate Change Risk
   Disclosures on Gas Pumps through Municipal Licensing Powers
 
 That the request for delegation status from
@@ -260,7 +252,6 @@ That the request for delegation status from
   powers, BE APPROVED and that Mr. Shirkey BE INVITED to attend a future
   meeting of the Community and Protective Services Committee meeting.  (2016-C06A)
 
-# 9.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the January 2016 Deferred Matters List
@@ -282,7 +273,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -312,7 +302,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Absence from
   Meeting - Councillor V. Ridley
 
 That the communication dated January 12,

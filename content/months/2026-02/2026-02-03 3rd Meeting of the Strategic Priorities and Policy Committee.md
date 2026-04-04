@@ -20,11 +20,9 @@ February 3, 2026, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillor E. Peloza (4:55 PM) and Mayor J. Morgan (5:42 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor S. Franke discloses a pecuniary interest in item 2.3, having to do with Secondary School Transit Pass Pilot Program Update by indicating that her spouse is employed by the TVDSB.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -450,11 +448,9 @@ The Strategic Priorities and Policy Committee recesses at 4:36 PM and reconvenes
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointments to the London Transit Commission (Requires 5 Council Members)
 
@@ -586,11 +582,9 @@ That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Pri
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 > Moved by S. Trosow
 
@@ -620,7 +614,6 @@ That Strategic Priorities and Policy Committee convenes In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

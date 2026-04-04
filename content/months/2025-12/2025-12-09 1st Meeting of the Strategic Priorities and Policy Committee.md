@@ -20,11 +20,9 @@ December 9, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor E. Peloza was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Micro-Modular Shelter Site Update
 
@@ -175,7 +173,6 @@ d)    the Civic Administration BE DIRECTED to consult with first responders in
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - Chief Thai Truong, Chief of Police
 
@@ -209,7 +206,6 @@ That it BE NOTED the Strategic Priorities and Policy Committee received a presen
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Hydro Affiliate 
 
@@ -385,7 +381,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request to Declare State of Emergency regarding the Community Safety and Humanitarian Crisis - Councillor C. Rahman
 
@@ -427,11 +422,9 @@ And that the province engages with OBCM and relative partners to fulfil the Solv
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

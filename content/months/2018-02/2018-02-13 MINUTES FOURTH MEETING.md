@@ -18,7 +18,6 @@ February 13, 2018
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Zaifman discloses a pecuniary
@@ -27,24 +26,19 @@ Councillor J. Zaifman discloses a pecuniary
   Development construction administration, by indicating that lands owned by
   his family are impacted by the project.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2018
 
 That M. van Holst BE ELECTED Vice Chair of
   the Audit Committee for the term ending November 30, 2018.
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor M. Salih
@@ -81,7 +75,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 30, 2018
 
 > Moved by Councillor J. Morgan
@@ -117,13 +110,10 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor T. Park
 
@@ -131,7 +121,6 @@ Approve clauses 1 through 22, excluding clause 7.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Audit Planning Report
   for the Year Ended December 31, 2017
 
 That the KPMG LLP Audit Planning Report,
@@ -139,7 +128,6 @@ That the KPMG LLP Audit Planning Report,
   Audit Committee received a verbal presentation from K. den Bok, with respect
   to this matter.
 
-# 4.&nbsp;&nbsp;&nbsp;London Downtown
   Closed Circuit Television Program – Report on the Results of Applied
   Specified Auditing Procedures for the Year Ending December 31, 2017
 
@@ -147,7 +135,6 @@ That the KPMG Report on Specified Auditing
   Procedures for the London Downtown Closed Circuit Television Program, for the
   year ending December 31, 2017, BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Building Permit
   Review - Internal Audit Report
 
 That the following actions be taken with
@@ -179,7 +166,6 @@ it being noted that the attached
   documents related to the London Hydro service portal were circulated to
   committee members by Councillor M. van Holst.
 
-# 6.&nbsp;&nbsp;&nbsp;Freedom of
   Information Process Review - Final Internal Audit Report
 
 That the Internal Audit Report with respect
@@ -187,14 +173,12 @@ That the Internal Audit Report with respect
   January 2018, BE RECEIVED and the recommendations BE IMPLEMENTED as
   appropriate, and in accordance with applicable legislation.
 
-# 8.&nbsp;&nbsp;&nbsp;June 2017 -
   December 2018 Internal Audit Dashboard as at January 29, 2018
 
 That the communication from Deloitte,
   regarding the June 2017 - December 2018 internal audit dashboard as of
   January 29, 2018, BE RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;Observation Summary
   as at January 29, 2018
 
 That the Observation Summary from Deloitte,
@@ -363,7 +347,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award  -
   T17-56 North Lambeth P9 Stormwater Management Facility (ESSWM  - DCNLP9)
 
 That, on the recommendation of the Managing
@@ -401,7 +384,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. (2018-E03)
 
-# 11.&nbsp;&nbsp;&nbsp;Weeping Tile
   Disconnection Promotional Canvassing Campaign
 
 That, on the recommendation of the Managing
@@ -409,7 +391,6 @@ That, on the recommendation of the Managing
   recommended action to promote weeping tile disconnection through door-to-door
   canvassing with the Growing Naturally Program BE ENDORSED. (2018-E13)
 
-# 12.&nbsp;&nbsp;&nbsp;2017 Ministry of
   the Environment and Climate Change Inspection Report for the City of London
   Water Distribution System
 
@@ -419,7 +400,6 @@ That, on the recommendation of the Managing
   the Environment and Climate Change Inspection of the City of London Water
   Distribution System, BE RECEIVED. (2018-E13)
 
-# 13.&nbsp;&nbsp;&nbsp;Contract Price
   Increase -  Tender T17-15 Infrastructure Renewal Program - Byron Baseline
   Road Reconstruction Project
 
@@ -446,7 +426,6 @@ d)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. (2018-T04)
 
-# 14.&nbsp;&nbsp;&nbsp;Strategic Plan
   Variance Report
 
 That, on the recommendation of the City
@@ -454,19 +433,16 @@ That, on the recommendation of the City
   Engineering Services and City Engineer, the staff report dated February 6,
   2018, related to Strategic Plan Progress Variance, BE RECEIVED. (2018-C08)
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Waste Management Working Group
 
 That the 1st Report of the Waste Management
   Working Group, from its meeting held on January 18, 2018, BE RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 That the 1st Report of the Transportation
   Advisory Committee, from its meeting held on January 23, 2018, BE RECEIVED.
 
-# 17.&nbsp;&nbsp;&nbsp;Wharncliffe Road
   South Environmental Study Report
 
 That, on the recommendation of the Managing
@@ -498,7 +474,6 @@ it being further noted that the Civic Works
   Dupont-Martinez – expressing support for the property at 100 Stanley Street
   remaining in-situ. (2018-E05)
 
-# 18.&nbsp;&nbsp;&nbsp;2nd Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -542,7 +517,6 @@ it being noted that the Civic Works
   Committee heard a verbal delegation from W. Pol, Vice-Chair, Cycling Advisory
   Committee, with respect to this matter.
 
-# 19.&nbsp;&nbsp;&nbsp;Underground
   Utilities on Hamilton Road
 
 That the communications from Councillor M.
@@ -550,7 +524,6 @@ That the communications from Councillor M.
   Hamilton Road BE RECEIVED and no further action be taken with respect to this
   matter. (2018-E06)
 
-# 20.&nbsp;&nbsp;&nbsp;Private Drain
   Connection (PDC) Projects
 
 That the Director of Water and Wastewater
@@ -562,7 +535,6 @@ That the Director of Water and Wastewater
   commercial fees; it being noted that a communication dated January 16, 2018,
   from Councillor T. Park was received related to this matter. (2018-E09)
 
-# 21.&nbsp;&nbsp;&nbsp;Pedestrian
   Sidewalk  - Pack Road and Colonel Talbot Road - J. Burns
 
 That the communication from J. Burns
@@ -572,19 +544,16 @@ That the communication from J. Burns
   as well as a report back to the appropriate standing committee related to
   this matter.
 
-# 22.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee deferred
   list, as of December 12, 2017, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Internal Audit
   Summary Update Memo
 
 That the memo dated January 29, 2018, from
   Deloitte, with respect to the internal audit summary update BE RECEIVED.
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor P. Hubert
@@ -593,15 +562,11 @@ Approve clauses 1 to 9, inclusive.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -705,7 +670,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

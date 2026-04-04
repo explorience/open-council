@@ -15,10 +15,8 @@ April 29, 2014, at  5:33 PM
 > [!abstract]- Also Present:
 > J.P. Bryant, G. Barrett, M. Corby, J.M. Fleming, T. Grawey, N. Hall, P. Kokkoros, G. Kotsifas, B. Krichker, A. MacLean, D. Menard, C. Parker, L. Pompilii, M. Ribera, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 5th Report of the
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   193 Clarke Road - Notice of Appeal to the Ontario Municipal Board (Z-8143)
 
 Recommendation:  That, on the
@@ -69,7 +66,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
   1653 Richmond Street - Notice of Appeal to the Ontario Municipal Board
   (OZ-7965)
@@ -90,7 +86,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   29 Dunkirk Place
 
 Recommendation:  That, on the
@@ -131,7 +126,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Residential
   Driveway Widths (Z-8316)
 
 Recommendation:  That, on the
@@ -162,7 +156,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Annual Report on
   Building Permit Fees
 
 Recommendation:  That, on the
@@ -188,7 +181,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for March 2014
 
 Recommendation:  That the Building Division
@@ -210,7 +202,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;5th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -280,7 +271,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Heritage Conservation District Plan and Conservation Guidelines and Official
   Plan Amendments to Implement District (OZ-8295)
 
@@ -406,7 +396,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Request to start
   the May 13, 2014 Planning and Environment Committee meeting at 4:30 PM
 
 Recommendation: That, notwithstanding

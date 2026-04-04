@@ -17,13 +17,11 @@ September 22, 2020, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following Members were in remote attendance:  M. van Holst, M. Salih, J. Helmer, M. Cassidy, A. Hopkins, P. van Meerbergen, S. Turner, A. Kayabaga and S. Hillier
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Morgan discloses a pecuniary interest with respect to item 4.5, having to do with an appointment to the London Public Library Board by indicating that a candidate is a member of the Board of Governors of Western University, which is his employer.
 
 Councillor S. Turner discloses a pecuniary interest with respect to item 4.1, having to do with the Mandatory Face Coverings By-law Status Update by indicating that this is a public health matter and he is employed by the Middlesex-London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -291,11 +289,9 @@ b)      the Civic Administration BE DIRECTED to proceed with the recommended 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Mandatory Face Coverings By-law Status Update
 
@@ -812,11 +808,9 @@ Test motion to confirm the voting capability of remote attendees.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 8:50 PM.
 

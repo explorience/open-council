@@ -15,13 +15,11 @@ January 20, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, G. T. Hopcroft, G. Irwin, J. Lucas, S. Maguire, M. Ribera, L. Rowe, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Supply and
   Installation of Sewer Liners - Cured In Place Pipe (CIPP) (Tender 13-30)
 
 Recommendation:  That, on the
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Natural Resources
   Gas Franchise Agreement
 
 Recommendation:  That the staff report
@@ -110,7 +106,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Closing of Colborne
   Street Diversion
 
 Recommendation:  That, on the
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Closing of Hill
   Street Boulevard
 
 Recommendation:  That, on the
@@ -176,7 +170,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Ban on Unsafe Rail
   Tank Cars Carrying Hazardous Materials
 
 Motion

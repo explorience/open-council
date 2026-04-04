@@ -17,11 +17,9 @@ May 9, 2023, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following were in remote attendance, Councillors P. Van Meerbergen, S. Hillier and E. Peloza (at 5:32 PM).
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That is BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2023 Industrial Land Development Strategy
 
@@ -136,11 +134,9 @@ d)    the Civic Administration BE DIRECTED to undertake an Industrial Land Nee
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Mayor's Provincial and Federal Government Lobbying Activities in Support of Health and Homelessness System Response
 
@@ -403,11 +399,9 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

@@ -12,13 +12,11 @@ May 6, 2013, at  7:02 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Daters-Baer, O. Katolyk, J. Kobarda, P. Kokkoros, L. Livingstone, M. Riberia, C. Smith
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor J.P.
   Bryant disclosed a pecuniary interest in clause 5 of this Report, having to
   do with the 5th Report of the London Housing Advisory Committee, as it
   relates to the recommendation related to the Residential Rental Unit
   Licensing By-law, by indicating that she owns a rental unit.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the 4th Report of the
@@ -36,7 +34,6 @@ Recommendation:  That the 4th Report of the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;No. 7 Fire Station
   Relocation Project No. F07-PP1089 Tender No. 13-51
 
 Recommendation:  That, on the
@@ -68,7 +65,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04A)
 
-# 4.&nbsp;&nbsp;&nbsp;Fence By-law
   Amendments
 
 Recommendation:  That, on the
@@ -78,7 +74,6 @@ Recommendation:  That, on the
   May 14, 2013, to amend the Fence By-law, PS-6, to for the purpose of
   addressing public safety.  (2013-C01)
 
-# 5.&nbsp;&nbsp;&nbsp;5th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the following actions
@@ -95,7 +90,6 @@ a)         on
  
 b)         clauses 2 to 5 BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status
   - Guaranteed Designs
 
@@ -116,7 +110,6 @@ b)           
   additional correspondence from M. Shahabi, with respect to this matter BE
   RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Request for Delegation Status – Youth
   Create Healthy Communities
 
 Recommendation: That the following actions

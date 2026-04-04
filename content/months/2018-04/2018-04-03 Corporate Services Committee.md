@@ -20,11 +20,9 @@ April 3, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Zaifman
 
@@ -168,11 +166,9 @@ b)                   the subject property ("Surplus Lands") BE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by M. van Holst
 
@@ -310,7 +306,6 @@ c)         Councillor J. Morgan BE REIMBURSED by The Corporation of the 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Report of the Federation of Canadian Municipalities Board of Directors Meeting - Laval, QC - March 5-9, 2018
 
@@ -382,7 +377,6 @@ b)            the Mayor BE REQUESTED to provide a letter to Tourism L
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Zaifman
 
@@ -412,7 +406,6 @@ The Corporate Services Committee convened in Committee, In Closed Session, from
 
 ## 6.2&nbsp;&nbsp;&nbsp;Land Acquisition/Solicitor-Client Privileged Advice
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Meeting adjourned at 2:18 PM.
 

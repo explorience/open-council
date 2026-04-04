@@ -17,7 +17,6 @@ November 28, 2022, at  4:00 PM
 
 The meeting was called to order at 4:02 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -57,7 +56,6 @@ Election of Vice Chair
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -255,7 +253,6 @@ g) the Heritage Alteration Permit be displayed in a location visible from the st
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;3195, 3207 White Oak Road and 2927 Petty Road (Z-9350 / 39CD-21505)
 
@@ -1150,7 +1147,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Planning Application Process Changes Due to Bill 109, the More Homes For Everyone Act, 2022
 
@@ -1196,7 +1192,6 @@ That M. Wallace, Executive Director, London Development Institute, BE GRANTED de
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Bill 23, More Homes Built Faster Act, 2022 - Mayors and Regional Chairs of Ontario
 
@@ -1221,7 +1216,6 @@ That the communication dated November 21, 2022 from K. Redman, Chair, Mayors and
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:50 PM.
 

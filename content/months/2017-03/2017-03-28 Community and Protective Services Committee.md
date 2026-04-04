@@ -12,13 +12,11 @@ March 28, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; G. Bridge, B. Coxhead, C. Da Silva, S. Datars Bere, K. Graham, K. Koltun, L. Livingstone, J. Richardson, C. Smith, S. Stafford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Diversity Inclusion and Anti-Oppression Advisory Committee
 
 That the 3rd Report of the Diversity
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Report to the Licensee of the Dearness Home Regarding the 2016-2019 Long-Term
   Care Home Service Accountability Agreement Between the Corporation of The
   City of London (Dearness Home) and the South West Local Health Integration
@@ -70,7 +67,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Ontario Works Employment Innovations - Bridges Out of Poverty and Circle
   Baseline Evaluation
 
@@ -96,7 +92,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Renewal of Ontario Works Employment Assistance Purchase of Services
   Agreements
 
@@ -168,7 +163,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Municipal Golf -  Agreement with Ultimate Golf Club Inc. (formerly London
   Golf Club)
 
@@ -216,7 +210,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Majors Baseball - Licence Agreement for use of Labatt Park
 
 That, on the recommendation of the Managing
@@ -264,7 +257,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homelessness Prevention System - Homelessness Partnering Strategy -
   Homeless Individuals and Families Information System - Community Coordinator
   Funding Agreement
@@ -306,7 +298,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2nd and 3rd Reports
   of the Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -368,7 +359,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2nd and 3rd Reports
   of Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -491,7 +481,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Housing and ODSP
   Residents
 
 That Civic Administration BE REQUESTED to
@@ -519,7 +508,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;100in1 Day London
 
 That the delegation and attached
   presentation from N. St. John and W. Kinghorn with respect to the 100in1 Day
@@ -545,7 +533,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Community Diversity
   and Inclusion Strategy
 
 That, on the recommendation of the
@@ -577,7 +564,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Open Air Burning
   By-law
 
 That the delegation requests by C. Oglan,
@@ -601,7 +587,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the March 2017 Deferred Matters List
@@ -623,7 +608,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR
   SUBMISSION - Youth Subsidized Bus Passes (13 to18 years of age)
 
 That the Civic Administration BE DIRECTED

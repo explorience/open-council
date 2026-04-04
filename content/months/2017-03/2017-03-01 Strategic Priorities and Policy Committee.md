@@ -15,7 +15,6 @@ March 1, 2017, at  4:03 PM
 > [!abstract]- Also Present:
 > M. Hayward, B. Card, I. Collins, B. Coxhead, P. D’Hollander, S. Datars Bere, J.M. Fleming, K. Graham, G. Kotsifas, L. Livingstone, K. Murray, J. Nolan, K. Pawelec, L. Palarchio, M. Ribera, K. Scherr, C. Smith, A. Ripepi, B. Westlake-Power, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that Councillor P. Hubert
@@ -24,7 +23,6 @@ That it BE NOTED that Councillor P. Hubert
   Funded Organizations, by indicating that he is the Executive Director of a
   social service agency that is named in the report.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Information Report on Civic Administration's Approach for Addressing
   Council's Recent Directions Regarding London's Downtown
 
@@ -61,7 +59,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Assessment Growth Funding Allocation
 
 That, on the recommendation of the Managing
@@ -91,7 +88,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Council Policy Manual Review
 
 That, on the recommendation of the Managing
@@ -140,7 +136,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Community Grants Program Outcomes and Sustainability Plans for all
   Funded Organizations
 
@@ -171,7 +166,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED - PUBLIC
   SUBMISSION - Request for Continuance of the Housing Development Corporation,
   London (HDC) Board Member V. Lui for a Second Term
 
@@ -204,7 +198,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Absence from Meetings
 
 That the communication dated February 26,

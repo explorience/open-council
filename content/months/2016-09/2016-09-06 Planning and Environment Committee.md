@@ -15,13 +15,11 @@ September 6, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown, A. Hopkins, M. van Holst; M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, A. MacLean, A. Macpherson, L. Maitland, N. Pasato, J. Ramsay, C. Saunders, S. Spring, M. Tomazincic, A-B. Watson, S. Wise, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 9th Report of the Environmental
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Urban Agriculture
   Strategy - Draft Terms of Reference
 
 That, on the recommendation of the Managing
@@ -83,7 +80,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Request for
   Extension and Revision of Draft Approval - North Side of North Routledge Park
   West of Hyde Park Road - Draft Approved Plan - Doman Developments Inc.
   (39T-78066)
@@ -125,7 +121,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Subdivision
   Agreement Provisions Relating to School Blocks and Park Facilities
 
 That, on the recommendation of the Manager,
@@ -150,7 +145,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Claimable Works for
   1030 Coronation Drive, Hyde Park, Block 8 Reconstruction - Update to DC
   Claimable Works
 
@@ -188,7 +182,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1400 Riverbend Road  (H-8631)
 
 That, on the recommendation of the Senior
@@ -220,7 +213,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Foxwood Crossing
   Subdivision - Phase 3 (39T-14502)
 
 That, on the recommendation of the Manager,
@@ -272,7 +264,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for July 2016
 
 That the Building Division Monthly Report
@@ -294,7 +285,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   25 Gower Street (Z-8648)
 
 That, further to the direction of the
@@ -378,7 +368,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 1654 Highbury Avenue North (Edgevalley Subdivision)  (Z-8618)
 
 That, on the recommendation of the Senior
@@ -476,7 +465,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Portion of Land
   Known Municipally as 1500 Dundas Street East (Z-8628)
 
 That, on the recommendation of the Managing
@@ -579,7 +567,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   21 Wharncliffe Road South (OZ-8484)
 
 That, on the recommendation of the Managing
@@ -719,7 +706,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
   (Z-8617)
 
@@ -840,7 +826,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Walkway at Clayton
   Walk
 
 That the delegation and communication from
@@ -863,7 +848,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;8th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -937,7 +921,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Brownfield
   Incentive Application - Chelsea Green Meadows (33M-686)
 
 That delegation status BE GRANTED to D. de
@@ -966,7 +949,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Dundas Flex Street –
   Programming
 
 That the Civic Administration BE DIRECTED

@@ -17,11 +17,9 @@ January 15, 2024, at  1:00 PM
 
 The meeting is called to order at 12:01 PM it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -285,11 +283,9 @@ it being noted that the Corporate Services Committee received a communication da
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by C. Rahman
 
@@ -359,7 +355,6 @@ That based on the application dated December 5, 2023 from Girl Guides of Canada,
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request for Indemnification for a Judicial Review - Councillor S. Stevenson
 
@@ -382,7 +377,6 @@ That the communication dated January 10, 2024 from Councillor S. Stevenson with 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by C. Rahman
 
@@ -468,7 +462,6 @@ The Corporate Services Committee convenes In Closed Session from 1:41 PM to 2:06
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

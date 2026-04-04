@@ -12,7 +12,6 @@ April 28, 2014, at  7:01 PM
 > [!abstract]- Also Present:
 > S. Orser, H.L. Usher, J. Braam, B. Coxhead, S. Datars Bere, M. Henderson, O. Katolyk, P. Kokkoros, G. Kotsifas, E. Ling, L. Livingstone, M. Ribera, J. Richardson, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -21,21 +20,18 @@ Recommendation:  That it BE NOTED that
   neighbourhood, by indicating that the Thames Valley District School Board is
   his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 5th Report of the
   Animal Welfare Advisory Committee, from its meeting held on April 3, 2014, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;5th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 5th Report of the
   London Housing Advisory Committee, from its meeting held on April 9, 2014, BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Homelessness
   Partnering Strategy - Designated Communities - Community Entity - Funding
   Agreement
 
@@ -69,14 +65,12 @@ c)           
   provided that the monetary amounts do not exceed the maximum amount of
   Canada’s contribution specified in the Agreement.   (2014-L04)
 
-# 5.&nbsp;&nbsp;&nbsp;Public Submission -
   Eliminating Waitlists for Developmental Services
 
 Recommendation:  That the communication,
   dated April 11, 2014, with respect to the elimination of waitlists for developmental
   services, BE RECEIVED. (2014-S12)
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to
   Various Fees and Charges By-law and the Yard and Lot Maintenance By-law to
   Add a Fee for the Retrieval of Abandoned Shopping Carts
 
@@ -157,7 +151,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Food Truck
   Amendments to Business Licensing By-law L-6, Including General Provisions
   Report
 
@@ -226,7 +219,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Old East Village
   BIA Request for Signage within the Community Improvement Plan Area
 
 Recommendation:  That the communication
@@ -256,7 +248,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Need for Public
   Elementary School in the Summerside Neighbourhood
 
 Recommendation:  That the communication dated

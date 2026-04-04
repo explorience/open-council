@@ -12,13 +12,11 @@ April 10, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan, H.L. Usher, M. van Holst; G. Barrett, E. Conway, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Graham, T. Grawey, P. Kokkoros, A. MacLean, A. Macpherson, L. Maitland, C. Parsons, L. Pompilii, J. Ramsay, M. Ribera, A. Salton, C. Saunders, M. Tomazincic, A-B. Watson
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -77,7 +75,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Fibre Optic Grant Program for Downtown London
 
 That, on the recommendation of the Managing
@@ -121,7 +118,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Asian Long Horned Beetle - Status Update
 
 That the Federation of Canadian
@@ -146,7 +142,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT –
   Properties located at 2577, 2583, 2589, 2595, 2599, 2611, 2617, 2621, 2625,
   2629, 2633, 2637, 2641, 2645, 2649, 2653 and 2661 Tokala Trail (H-8742)
 
@@ -180,7 +175,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 1198-1212 Commissioners Road West (H-8747)
 
 That, on the recommendation of the Senior
@@ -209,7 +203,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 905 Sarnia Road (H-8642)
 
 That, on the recommendation of the Manager,
@@ -242,7 +235,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 2946 Bateman Trail (H-8722)
 
 That, on the recommendation of the Senior
@@ -273,7 +265,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at  2605-2651 Tokala Trail and 1055 and 1075 Fanshawe Park Road West
   (H-8732)
 
@@ -305,7 +296,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Proposed Sign By-law and Amendments to Current Sign and Canopy By-law
 
 That, the following actions be taken with
@@ -346,7 +336,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING - Southwest Area Secondary Plan Parking Regulations (O-8741)
 
 That, on the recommendation of the Managing
@@ -438,7 +427,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
   (SP15-019249)
 

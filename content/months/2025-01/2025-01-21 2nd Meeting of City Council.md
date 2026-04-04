@@ -20,7 +20,6 @@ January 21, 2025, at  1:00 PM
 
 The meeting is called to order at 1:06 PM; it being noted that Councillors J. Pribil and S. Franke (at 2:28 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 At 1:07 PM, Councillor S. Lehman enters the meeting.
 
@@ -28,17 +27,14 @@ At 1:10 PM, Councillor S. Trosow enters the meeting.
 
 That it BE NOTED that Councillor C. Rahman disclosed a pecuniary interest in item 11, clause 2.6 of the 2nd Report of the Infrastructure and Corporate Services Committee, having to do with Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East, by indicating that Fanshawe College is her employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;2025 Mayor's New Year's Honour List
 
 His Worship the Mayor recognizes the contributions made to London by the following citizens who were named to the 2025 Mayor's New Year's Honour List in the following categories: Jacqueline Madden (Accessibility); Diane MacMillan (Age Friendly); Clark Bryan (Arts); Claire Crooks (Distinguished Londoner); George Kerhoulas (Distinguished Londoner); Jim Chapman (Distinguished Londoner); Mike Bessegato (Distinguished Londoner); Sheldon Carter (Distinguished Londoner); Tyler Stewart (Distinguished Londoner); Hetham Karky (Diversity and Race Relations); Shaquille Sealy (Environment); Maureen Spencer Golovchenko (Heritage).
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -87,7 +83,6 @@ At 1:44 PM, Councillor S. Trosow leaves the meeting.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Cuddy
 
@@ -115,7 +110,6 @@ That the Minutes of the 1st Meeting of the Municipal Council, held on December 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 At 2:07 PM, Councillor S. Trosow enters the meeting.
 
@@ -194,11 +188,9 @@ b) the Civic Administration BE DIRECTED to commence the 2025 Council Resourcing 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;2nd Report of the Infrastructure and Corporate Services Committee
 
@@ -1083,7 +1075,6 @@ That the Deferred List BE RECEIVED.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;2nd Report of Council in Closed Session
 
@@ -1126,11 +1117,9 @@ That progress was made with respect to items 4.2, 4.3, and 4.4 as noted on the p
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Trosow enquires with respect to the status of the City of London's warming centres. The City Manager provides a response.
 
@@ -1157,11 +1146,9 @@ That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED 
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by C. Rahman
 
@@ -1439,7 +1426,6 @@ That Third Reading and Enactment of Bill No.’s 43 to 71 excluding Bill No.’s
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 
@@ -1453,7 +1439,6 @@ The meeting adjourned at 2:51 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 43**

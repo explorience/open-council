@@ -12,7 +12,6 @@ June 11, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, D. Brown, G. Barrett, P. Christiaans, A. Dunbar, M. Elmadhoon, J.M. Fleming, B. Henry, G. Kotsifas, B. Krichker, N. McKee, D. Menard, J. Page, J. Ramsay, A. Riley, C. Saunders, R. Sharpe, B. Turcotte, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that:
  
 a)           
   Councillor
@@ -30,14 +29,12 @@ b)           
   Street, by indicating that his son is a member of the Committee of
   Adjustment.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 4th Report of the
   Trees and Forests Advisory Committee from its meeting held on May 23, 2012, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1465 Richmond Street
 
 Recommendation:  That, on the
@@ -59,7 +56,6 @@ b)           
   Municipal Board Hearing to support Municipal Councils’ decision.
   (2012-D11-07)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   800 Sunningdale Road West (39T-05508)
 
 Recommendation:  That, on the
@@ -90,7 +86,6 @@ it being noted that the Planning and
   2012, from D. Schmidt, Development Manager, Corlon Properties Inc., relating
   to this matter.   (2012-D26-05)
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 2310, 2330, 2350 and 2362 Dundas Street (39T-12502)
 
 Recommendation:  That, on the
@@ -127,7 +122,6 @@ it being noted that the Planning and
   Associates and Ian R.K. Cousins, Cram & Associates, with respect to this
   matter.    (2012-D26-05)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1576 Richmond Street
 
 Recommendation:  That, on the
@@ -145,7 +139,6 @@ it being noted that the Planning and
   Crozier, 619 William Street and Ethne
   Beeckmans, 24-1574 Richmond Street, with respect to this matter. (2012-D13-00)
 
-# 7.&nbsp;&nbsp;&nbsp;City Initiated
   Amendments to the Z.-1 Zoning By-law to Provide for Senior and/or Persons
   with Disability Day Care Services in the City of London
 

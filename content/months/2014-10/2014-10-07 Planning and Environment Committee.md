@@ -12,13 +12,11 @@ October 7, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Baechler, M. Brown, J.P. Bryant, G. Barrett, P. Christiaans, C. Colvin, S. Datars Bere, M. Davis, B. Debbert, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, N. Hall, B. Henry, P. Kokkoros, G. Kotsifas, E. Lalande, A. MacLean, A. Macpherson, B. Martinez, S. Mathers, B. Mercier, N. Pasato, J. Ramsay, B. Turcotte, M. Tomazincic, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 9th Report of the
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 4th Report of the
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;7th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 7th Report of the
@@ -90,7 +86,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;A Statistical
   Portrait of London - Community & Neighbourhood Profiles
 
 Recommendation:  That the report dated
@@ -115,7 +110,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
 Recommendation:  That, on the
@@ -304,7 +298,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1576 Richmond Street
 
 Recommendation:  That the Report dated
@@ -335,7 +328,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 3718, 3766 and 3812 Dingman Drive and 437 Exeter Road (39T-06504)
 
 Recommendation:  That, on the
@@ -383,7 +375,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 55 and 60 Chalkstone Drive (39T-06508)
 
 Recommendation:  That, on the
@@ -430,7 +421,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 3854 Dingman Drive and 4112-4432 White Oak Road - Request for Extension of
   Draft Plan (39T-05513)
 
@@ -480,7 +470,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Parking Section
   4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
 
 Recommendation:  That, on the
@@ -570,7 +559,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Old Victoria
   Hospital Lands Zoning Study (Z-8344)
 
 Recommendation:  That, on the
@@ -687,7 +675,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   946 Longworth Road (Z-8293)
 
 Recommendation:  That, on the
@@ -770,7 +757,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
 Voting
@@ -887,7 +873,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   175 Fanshawe Park Road West (Z-8397)
 
 Recommendation:  That the following actions
@@ -978,7 +963,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   7 Annadale Drive (Z-8334)
 
 Recommendation:  That, on the
@@ -1121,7 +1105,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property Located at
   50 King Street (Z-8372)
 
 Recommendation:  That the application by
@@ -1184,7 +1167,6 @@ Motion Passed
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
 Recommendation:  That the application of
@@ -1268,7 +1250,6 @@ Motion Passed
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Bonusing
   Regulations
 
 Recommendation:  That the attached
@@ -1292,7 +1273,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   1040 Coronation Drive (H-8376)
 
 Recommendation:  That, on the

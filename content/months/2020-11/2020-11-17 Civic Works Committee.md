@@ -22,11 +22,9 @@ November 17, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -248,7 +246,6 @@ c)     the remaining identified projects BE CONSIDERED for other available fe
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application By: The Corporation of the City of London - Street Renaming - Portion of Lismer Way Within Plan 33M-786
 
@@ -309,7 +306,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Blue Community Project/Movement - L. Brown, Blue Community Committee - Request for Delegation Status
 
@@ -332,7 +328,6 @@ That the request for delegation status from L. Brown, Blue Community Committee, 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -355,7 +350,6 @@ That the Civic Works Committee Deferred Matters List, as at November 9, 2020, BE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:34 PM.
 

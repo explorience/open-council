@@ -18,11 +18,9 @@ January 10, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Fyfe-Millar
 
@@ -257,11 +255,9 @@ it being noted that there will be a report back to the Corporate Services Commit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the County/City Liaison Committee
 
@@ -360,7 +356,6 @@ b)  that NO ACTION be taken with respect to the communications dated December 2
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Application - Issuance of Proclamation - National Day of Remembrance of the Quebec City Mosque Attack and Action Against Islamophobia
 
@@ -385,7 +380,6 @@ That based on the application from Community Diversity and Inclusion Strategy (C
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. Cassidy
 
@@ -439,7 +433,6 @@ The Corporate Services Committee convenes, In Closed Session, from 1:58 PM to 2:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Hamou
 

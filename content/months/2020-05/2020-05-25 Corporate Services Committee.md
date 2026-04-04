@@ -17,11 +17,9 @@ May 25, 2020, at 12:00 PM
 
 The meeting is called to order at 12:03 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors M. van Holst, J. Helmer, J. Morgan, A. Hopkins
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -116,7 +114,6 @@ That, on the recommendation of the City Manager, the staff report dated May 25, 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2020 Debenture Issuance Report #2
 
@@ -147,7 +144,6 @@ it being noted that the Corporate Services Committee received a verbal presentat
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;New Commercial Property Tax Rate Out of Sync with Current Economic Reality - G. Macartney, CEO, London Chamber of Commerce
 
@@ -176,11 +172,9 @@ b)    the Mayor BE DIRECTED to provide information to the London Chamber of Co
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:05 PM.
 

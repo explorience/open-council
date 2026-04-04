@@ -12,10 +12,8 @@ June 13, 2016, at  8:00 AM
 > [!abstract]- Also Present:
 > A. Zuidema, A.L. Barbon, M. Hayward, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Request for Proposal for Internal Audit Services
 
 That, on the recommendation of the Managing

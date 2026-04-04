@@ -20,11 +20,9 @@ November 13, 2023, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -95,7 +93,6 @@ That, the Monthly Heritage Report for October, 2023, BE RECEIVED for information
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;6019 Hamlyn Street (Z-9654)
 
@@ -656,11 +653,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 [2023-11-13 PEC Deffered Matters List](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=104918>)
 
@@ -729,7 +724,6 @@ That the 12th Report of the Community Advisory Committee on Planning, from its m
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;(ADDED) Confidential (Enclosed for Members Only)
 
 > Moved by A. Hopkins
 
@@ -754,7 +748,6 @@ The Planning and Environment Committee convened, in Closed Session, from 6:00 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:11 PM.
 ---

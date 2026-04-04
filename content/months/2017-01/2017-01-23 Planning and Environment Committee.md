@@ -12,13 +12,11 @@ January 23, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Salih, P. Squire, M. van Holst; J. Adema, G. Barrett, M. Corby, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, N. Hall, P. Kokkoros, A. MacLean, A. Macpherson, L. Maitland, H. McNeely, N. Pasato, L. Pompilii, J. Ramsay, C. Saunders, C. Smith, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -61,7 +59,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -104,7 +101,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Building
   Division Monthly Report for November 2016
 
 That the Building Division monthly report
@@ -126,7 +122,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 That the
@@ -236,7 +231,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 169 Foster Avenue (Z-8651)
 
 That, on the recommendation of the Managing
@@ -365,7 +359,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property Located at 1509 Ed Ervasti Lane (39T-16507)
 
 That, on the recommendation of the Senior
@@ -490,7 +483,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - The
   London Plan - Minister's Modifications
 
 That the following actions be taken with
@@ -527,7 +519,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property Located at 1245 Michael Street
   (39T-1506/Z-8664)
 
@@ -716,7 +707,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Mushroom Farm Zoning Review (Z-8513)
 
 That, on the recommendation of the Managing

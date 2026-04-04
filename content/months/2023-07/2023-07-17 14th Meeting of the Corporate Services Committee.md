@@ -20,11 +20,9 @@ July 17, 2023, at 12:00 PM
 
 The meeting is called to order at 12:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.5&nbsp;&nbsp;&nbsp;Council Policy Manual Review 2023
 
@@ -644,7 +642,6 @@ c)    the proposed by-laws as appended to the staff report dated July 17, 2023
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointments to the London Community Advisory Committees
 
@@ -991,11 +988,9 @@ That based on the application dated July 5, 2023 from Coaches Association of Ont
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Stevenson
 
@@ -1037,7 +1032,6 @@ The Corporate Services Committee convenes in Closed Session from 2:12 PM to 2:30
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

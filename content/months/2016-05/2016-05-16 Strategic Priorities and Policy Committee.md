@@ -15,13 +15,11 @@ May 16, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, J. Browne, B. Coxhead, S. Datars Bere, K. Dawtrey, J.M. Fleming, S. Giustizia, T. Grawey, M. Hayward, L. Livingstone, V. McAlea Major, C. Saunders, C. Smith, J. Smout, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan -
   Semi-Annual Progress Report
 
 That, on the recommendation of the City
@@ -50,7 +48,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc. -
   2015 Annual Meeting of the Shareholder
 
 That the following actions be taken with respect
@@ -319,7 +316,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation (LMHC) - 2015 Annual Meeting of the Shareholder
 
 That the following actions be taken with respect
@@ -414,7 +410,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Interim Report to
   Council - 2016 Council Compensation Review Task Force
 
 That the communication dated April 20,
@@ -444,7 +439,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Notice of Application
   - London Police Service Board
 
 That the Notice of Application by the
@@ -474,7 +468,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;A London for All -
   I. Mathyssen, MP
 
 That the communication dated April 25, 2016
@@ -504,7 +497,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Greater London
   International Airport Authority Nominees
 
 That the following individuals BE INVITED
@@ -557,7 +549,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Argyle Business Improvement Association Board of
   Management
 
@@ -589,7 +580,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Tourism London Bid
   – 2018 Ontario Summer Games
 
 That the bid by Tourism London to host the

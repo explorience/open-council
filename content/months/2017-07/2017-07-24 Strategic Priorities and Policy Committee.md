@@ -15,7 +15,6 @@ July 24, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, B. Card, B. Coxhead, M. Daley, S. Datars Bere, A. Dunbar, J. Ford (London Transit Commission), S. Galloway, K. Graham, G. Kotsifas, L. Livingstone, V. McAlea Major, J.P. McGonigle, J. Nolan, D. O’Brien, K. Paleczny (London Transit Commission), J. Ramsay, C. Saunders, K. Scherr, E. Soldo, S. Spring, R. Wilcox, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
@@ -24,7 +23,6 @@ That it BE NOTED that Councillor J. Morgan
   Case, as those parts relate to routes going through property owned by his
   employer, Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Service London: The Costs and Considerations Associated with a 311 Number
 
 That the Civic Administration BE DIRECTED
@@ -55,7 +53,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -86,7 +83,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Shift Rapid Transit – Master Plan and Business Case
 
 That on the recommendation of the Managing
@@ -204,7 +200,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request that the Governance Working Group Create and Identify More
   Accountability on How Councillors Carry Out Their Role
 
@@ -235,7 +230,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Request for Appointment and to Amend the Terms and
   Reference of the Governance Working Group
 
@@ -266,7 +260,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;(ADDED)
   Enquiry – Councillor M. van Holst – Japanese Beetle
 
 Councillor M. van Holst enquired if it
@@ -275,7 +268,6 @@ Councillor M. van Holst enquired if it
   Environmental and Engineering Services and City Engineer advised that she
   would have staff contact him in order to provide him with information.
 
-# 8.&nbsp;&nbsp;&nbsp;(ADDED) 
   Appointment of Acting Mayors
 
 That Mayor M. Brown BE AUTHORIZED to

@@ -20,11 +20,9 @@ October 31, 2022, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that the following members were in remote attendance, Councillors M. Cassidy and M. Hamou.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests be disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Morgan
 
@@ -76,7 +74,6 @@ b)    the by-law, as appended to the staff report dated October 31, 2022 as Ap
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
 
@@ -178,15 +175,12 @@ That the meeting of the Tribunal, under Section 26 of By-law C.P.-1551-337 BE AD
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 6.1  Solicitor-Client Privileged Advice
 
@@ -194,7 +188,6 @@ None.
 
 A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, regarding a complaint made by Derek Satnik, Vice President of Technology, EVE Park London LP under Part IV of By-law C.P.-1496-244, as amended, the Development Charges By-law, in respect of the development charge imposed by The Corporation of the City of London in connection with development on the land known as 2050 Linkway Boulevard; Clerk's Note -  this confidential session was held while the Corporate Services Committee convened as the Hearing Tribunal, see item 3.1, above.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Fyfe-Millar
 

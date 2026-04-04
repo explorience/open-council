@@ -12,13 +12,11 @@ July 21, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, S. Turner, M. van Holst, J. Zaifman; J.P. Barber, S. Datars Bere, P. D’Hollander, D. Dobson, O. Katolyk, J. Kobarda, D. Lazenby, L. Livingstone, L. Marshall, J. Smout, A. Vandervoort
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Request for
   Proposal (15-03) - Driver Simulator
 
 That, on the recommendation of the Fire
@@ -60,7 +58,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;License Agreement -
   Optimist Club of North London
 
 That, on the recommendation of the Managing
@@ -93,7 +90,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;(ADDED) Deferred
   Matters List
 
 That the Deferred Matters List BE RECEIVED.
@@ -115,7 +111,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;(ADDED) Violations of Provincial
   Regulations Related to Fire and Life Safety Issues
 
 That the following actions be taken with
@@ -162,7 +157,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;(ADDED)
   Open Air Burning and Air Quality
 
 That the Civic Administration BE REQUESTED

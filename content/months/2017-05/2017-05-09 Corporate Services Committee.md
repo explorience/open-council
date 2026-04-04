@@ -12,13 +12,11 @@ May 9, 2017, at 12:33 PM
 > [!abstract]- Also Present:
 > M. Hayward, R. Armistead, G. Bridge, K. Graham, A. Hagan, L. Karidas, S. Khan, M. Marcellin, V. McAlea Major, A. Prince, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Corporate Human Rights and Code of Conduct Inquiries, Requests, Complaints
   and Training Initiatives 2016
 
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Employee Absenteeism 2016
 
 That, on the recommendation of the Managing
@@ -72,7 +69,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Workplace Diversity and Inclusion Activities
 
 That, on the recommendation of the Managing
@@ -101,7 +97,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - PUBLIC
   SUBMISSION - Appleseed Cider Festival - Request for Designation as a
   Municipally Significant Event
 
@@ -128,7 +123,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   SUBMISSION - Canada 150 Celebrations
 
 That the following one-time allocations

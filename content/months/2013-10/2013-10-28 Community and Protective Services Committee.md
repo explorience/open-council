@@ -15,34 +15,29 @@ October 28, 2013, at  7:03 PM
 > [!abstract]- Also Present:
 > J.P. Barber, B. Coxhead, I. Gibb, S. Godin, P. Kokkoros, L. Livingstone, P. Sauro, R. Sharpe, E. Soldo, B. Warner, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the 6th Report of the
   Community Safety and Crime Prevention Advisory Committee, from its meeting
   held on September 26, 2013, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 10th Report of
   the London Housing Advisory Committee, from its meeting held on October 9,
   2013, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;3rd Report of the
   Child Care Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Child Care Advisory Committee, from its meeting held on October 17, 2013, BE
   RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;June Callwood
   Outstanding Achievement Award for Voluntarism in Ontario
 
 Recommendation:  That the communication
@@ -67,7 +62,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Ontario Works
   Decentralization
 
 Recommendation:  That, on the
@@ -91,7 +85,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Ontario Works
   Participant Profile, July 2013
 
 Recommendation:  That, on the
@@ -116,7 +109,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Ontario Works
   Caseload Update for January 2013 to September 2013
 
 Recommendation:  That, on the
@@ -125,7 +117,6 @@ Recommendation:  That, on the
   Home, the report dated October 28, 2013, with respect to an update on the
   Ontario Works caseload for January to September 2013, BE RECEIVED. (2013-S05)
 
-# 9.&nbsp;&nbsp;&nbsp;Resident Patient
   Handling and Hygiene Systems at Dearness Home - Single Source
 
 Recommendation:  That, on the
@@ -159,7 +150,6 @@ ii)            
   Corporation entering into a formal contract or having a purchase order,
   relating to the subject matter of this approval.  (2013-S03)
 
-# 10.&nbsp;&nbsp;&nbsp;Single Source -
   Advertising Services in the City Arena Facilities
 
 Recommendation:  That, on the
@@ -199,7 +189,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Sign and Canopy
   By-law - Gateway Sign Feature Request
 
 Recommendation:  That the following actions
@@ -244,7 +233,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;11th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -292,7 +280,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;8th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the following actions
@@ -351,7 +338,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;9th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -447,7 +433,6 @@ Parts
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;2014 Child Care
   Service Plan
 
 Recommendation:  That, on the
@@ -464,7 +449,6 @@ b)         the
   APPROVED as a drawdown from the Child Care and Early Childhood Development
   Reserve Fund.   (2013-S12)
 
-# 16.&nbsp;&nbsp;&nbsp;Children's Services
   Funding Agreement
 
 Recommendation:  That, on the
@@ -488,7 +472,6 @@ Recommendation:  That, on the
   Administrator, Day Nurseries Act the authority to execute the Agreements. 
   (2013-L04)
 
-# 17.&nbsp;&nbsp;&nbsp;S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
 
 Recommendation:  That the request for

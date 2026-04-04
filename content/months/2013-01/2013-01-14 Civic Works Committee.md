@@ -12,7 +12,6 @@ January 14, 2013, at  3:30 PM
 > [!abstract]- Also Present:
 > J. Bryant, J. Barber, J. Braam, J. Fleming, N. Hall, B. Krichker, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
 (See

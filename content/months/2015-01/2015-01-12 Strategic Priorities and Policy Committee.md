@@ -12,7 +12,6 @@ January 12, 2015, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, I. Collins, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, I. Gibb, K. Graham, A. Hagan, M. Hayward, G.T. Hopcroft, G. Kotsifas, J.P. McGonigle, L. Palarchio, K. Pawlec, C. Saunders, J. Senese, C. Smith, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that the
@@ -33,7 +32,6 @@ b)           
   for the London Arts Council (LAC) as her employer receives funding from the
   LAC.
 
-# 2.&nbsp;&nbsp;&nbsp;2015 Tax-Supported
   Budget - General Overview (Managing Director, Corporate Services & City
   Treasurer, Chief Financial Officer and Director, Financial Planning and
   Policy)
@@ -67,7 +65,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Strategic Plan -
   Tabling of Strategies
 
 Recommendation:  That the following actions
@@ -112,7 +109,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;(ADDED) Provision of PowerPoint
   Presentations
 
 Recommendation:  That the Civic
@@ -146,7 +142,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;(ADDED) Enquiry – Clearing of Roadways
 
 Recommendation:  That it BE NOTED that the
   Managing Director, Environmental and Engineering Services and City Engineer

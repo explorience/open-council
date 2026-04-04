@@ -20,11 +20,9 @@ September 10, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor T. Park disclosed a pecuniary interest in clause 3.2 of this Report, having to do with the properties located at 147-149 Wellington Street and 253-257 Grey Street, by indicating that her family owns property in the area.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by T. Park
 
@@ -222,7 +220,6 @@ That, consideration of the application by Endri Poletti Architect Inc., relati
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Swimming Pool Fence By-law Amendments - City Initiated  
 
@@ -620,7 +617,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;9th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -707,7 +703,6 @@ That the communication dated August 21, 2018, from J. Grainger, President, Londo
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -731,7 +726,6 @@ That the Managing Director, Development and Compliance Services & Chief Building
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:32 PM.
 

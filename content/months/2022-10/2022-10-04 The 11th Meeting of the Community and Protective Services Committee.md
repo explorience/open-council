@@ -22,11 +22,9 @@ October 4, 2022, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Hillier disclosed a pecuniary interest in clause 5.1 of this Report, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family hosts a five day event.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -93,7 +91,6 @@ That, on the recommendation of the Deputy City Manager, Planning and Economic De
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
 
@@ -169,11 +166,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -247,7 +242,6 @@ That the communication, dated September 30, 2022, from Councillor M. van Holst, 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by M. Hamou
 
@@ -286,7 +280,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:36 PM.
 ---

@@ -20,11 +20,9 @@ February 21, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.4&nbsp;&nbsp;&nbsp;Heritage Easement Agreement for 39 Carfrae Street
 
@@ -82,7 +80,6 @@ That J. Gard BE GRANTED delegation status with respect to the property located a
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1160 Wharncliffe Road South and 234 Exeter Road (OZ-9450/39T-21507) 
 
@@ -509,11 +506,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 2nd Report of the Community Advisory Committee on Planning 
 
@@ -557,7 +552,6 @@ That the Planning and Environment Committee Deferred Matters List dated February
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 ## 6.1&nbsp;&nbsp;&nbsp;(ADDED) Solicitor-Client Privilege and Position, Plan, Procedure Criteria or Instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board
 
@@ -583,7 +577,6 @@ The Planning and Environment Committee convenes In Closed Session from 3:56 PM t
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:48 PM.
 ---

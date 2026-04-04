@@ -12,10 +12,8 @@ November 4, 2014, at  4:06 PM
 > [!abstract]- Also Present:
 > J.P. Bryant, G. Barrett, M. Corby, A. DeCicco, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, G. Kotsifas, E. Lalande, A. MacLean, A. Macpherson, L. McDougall, D. Menard, N. Musicco, J. Ramsay, M. Ribera, A. Riley, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;10th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 10th Report of
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;8th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 8th Report of the
@@ -63,7 +60,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Delegated Authority
   for Heritage Alteration Permits
 
 Recommendation:  That, on the
@@ -92,7 +88,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Heritage
   Conservation District Work Plans and Prioritization
 
 Recommendation:  That, the report dated
@@ -119,7 +114,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   193 Clarke Road - Ontario Municipal Board Decision (Z-8143)
 
 Recommendation:  That, the Ontario
@@ -145,7 +139,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1671 Fanshawe Park Road East - Cedarhollow Subdivision - Phase 3 - Removal of
   Holding Provision (H-8334)
 
@@ -176,7 +169,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   530 Sunningdale Road East - Powell Subdivision - Phase 3 - Removal of Holding
   Provision (H-8400)
 
@@ -214,7 +206,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1235 Eagletrace Drive (formerly 751 Fanshawe Park Road West) - Vista Woods
   Estates Subdivision - Phase 1A - Special Provisions (39T-11505)
 
@@ -263,7 +254,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for September 2014
 
 Recommendation:  That, the Building
@@ -286,7 +276,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;11th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -346,7 +335,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 2526 Oxford Street West and 600 Sanatorium Road - Request for Demolition
 
 Recommendation:  That, on the
@@ -455,7 +443,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   420 Fanshawe Park Road East - Demolition Request
 
 Recommendation: 
@@ -562,7 +549,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   1470 Dundas Street (Z-8396)
 
 Recommendation:  That, on the
@@ -639,7 +625,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Coves ESA
   Conservation Master Plan
 
 Recommendation:  That, on the
@@ -738,7 +723,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   130 Thompson Road (OZ-8404)
 
 Recommendation:  That, on the
@@ -828,7 +812,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   6667 Wonderland Road South (Z-8402)
 
 Recommendation:  That, on the
@@ -907,7 +890,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   1452 Byron Baseline Road (39CD-14512)
 
 Recommendation:  That, on the
@@ -992,7 +974,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;10th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That, the following

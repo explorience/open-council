@@ -18,7 +18,6 @@ July 29, 2014, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:06 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor N. Branscombe discloses a
@@ -66,17 +65,12 @@ Councillor M. Brown discloses a pecuniary interest
   District School Board (TVDSB) and the City of London Joint Use of Facilities
   Agreement, by indicating that TVDSB is his employer.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;2011-2014 Report to the Community
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -89,9 +83,7 @@ Approve that Council rise and go into to
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTEENTH, EIGHTEENTH AND NINETEENTH
   MEETINGS HELD ON JUNE 24, 2014, JUNE 25, 2014 AND JULY 21, 2014, RESPECTIVELY.
 
@@ -129,7 +121,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor H.L. Usher
@@ -141,13 +132,10 @@ Approve receipt and referral of the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment to the Greater London
   International Airport Authority Board of Directors
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;MAYOR'S
   OPENING REMARKS
 
 At 5:15 PM Her Worship the Mayor places
@@ -156,7 +144,6 @@ At 5:15 PM Her Worship the Mayor places
 At 5:18 PM Her Worship the Mayor resumes
   the Chair and Councillor P. Hubert takes his seat at the Council Board.
 
-# X.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.B. Swan
 
@@ -164,13 +151,10 @@ Approve clauses 1 and 2.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Hydro Promissory Note to the City of
   London
 
-# 5.&nbsp;&nbsp;&nbsp;Proposal to Establish a Housing Development
   Corporation
 
-# 9.&nbsp;&nbsp;&nbsp;Memorandum of
   Understanding - Adult Day Program Transportation
 
 That, on the recommendation of the Manager
@@ -198,7 +182,6 @@ c)         delegate
   Understanding, provided that it does not increase the City’s liability and is
   provided for in the City’s current budget.  (2014-S02)
 
-# 29.&nbsp;&nbsp;&nbsp;Property located at
   2118 Richmond Street (OZ-7890)
 
 That, further to
@@ -329,20 +312,16 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
 That Christian Tham BE APPOINTED as a
   Voting Member at Large on the Environmental and Ecological Planning Advisory
   Committee, for the term ending February 28, 2015.
 
-# 6.&nbsp;&nbsp;&nbsp;Review of Council Policy 5(1) – Process for
   the Appointment of an Acting Mayor
 
-# 7.&nbsp;&nbsp;&nbsp;Improvements to Governance Model and
   Tracking Approved Projects
 
-# 8.&nbsp;&nbsp;&nbsp;Appointments to the London Public Library
   2014 – Terms December 1, 2014 to November 30, 2018
 
 Motion Passed
@@ -432,7 +411,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Deputy
@@ -443,7 +421,6 @@ That, on the recommendation of the Deputy
   at the public hearing associated with this matter, to speak before the
   Corporate Services Committee.
 
-# 11.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 hat the recommendations contained in the
@@ -452,14 +429,12 @@ hat the recommendations contained in the
   Services Committee, at the public hearing associated with the Tax Adjustment
   Agenda.
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   Trees and Forests Advisory Committee
 
 That Gillian Barker BE APPOINTED as a
   Voting Member at Large on the Trees and Forests Advisory Committee, for the
   term ending February 28, 2015.
 
-# 14.&nbsp;&nbsp;&nbsp;4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -473,7 +448,6 @@ a)         clause
  
 b)         clauses 2 to 10 BE RECEIVED.
 
-# 15.&nbsp;&nbsp;&nbsp;Pawnbrokers and Salvage
   Yard Regulations - False Verification of Ownership for Stolen Items - List of
   Prohibited Item for Scrap Metal Recycling Yards
 
@@ -494,7 +468,6 @@ b)         the
   necessary to the Pawnbrokers Act that would assist in reducing such issues
   within and between jurisdictions in the province.
 
-# 16.&nbsp;&nbsp;&nbsp;Legislative Changes
   Intended to Improve Fire Safety in Vulnerable Occupancies
 
 That the communication dated June 17, 2014,
@@ -504,7 +477,6 @@ That the communication dated June 17, 2014,
   BE RECEIVED; it being noted that Chief J. Kobarda provided a verbal update
   with respect to this matter.  (2014-P19)
 
-# 17.&nbsp;&nbsp;&nbsp;The Impact of Prescription
   and Non-Prescription Drug Use on Middlesex-London
 
 That the Civic Administration BE DIRECTED
@@ -557,7 +529,6 @@ Motion Passed
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Proposed Boulevard
   Agreement at 1365 Dundas Street - Highbury Ford
 
 That, on the recommendation of the Manager,
@@ -580,7 +551,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D17)
 
-# 19.&nbsp;&nbsp;&nbsp;Hyde Park
   Industrial Area (O-8340)
 
 That, on the recommendation of the Managing
@@ -601,7 +571,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D08)
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   3425 Roe Street (OZ-8360)
 
 That, on the recommendation of the Managing
@@ -632,7 +601,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D14)
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   4585 Blakie Road (OZ-8361)
 
 That, on the recommendation of the Managing
@@ -667,7 +635,6 @@ it being pointed out that at the public participation
   public participation meeting record made an oral submission in connection
   therewith.   (2014-D14)
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   5279 Colonel Talbot Road (Z-8342)
 
 That, on the recommendation of the Managing
@@ -684,7 +651,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record
   made oral submissions in connection therewith.  (2014- D14)
 
-# 23.&nbsp;&nbsp;&nbsp;Properties located
   at 1922-1930 Mallard Road and surrounding properties zoned Open Space (OS4)
   (OZ-8306)
 
@@ -721,7 +687,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record
   made oral submissions in connection therewith.   (2014-D14)
 
-# 24.&nbsp;&nbsp;&nbsp;Property located at
   930 Gainsborough Road (39T-13505/Z-8308)
 
 That, on the recommendation of the Senior
@@ -786,7 +751,6 @@ it being pointed out that at the public participation
   public participation meeting record made oral submissions in connection
   therewith.   (2014-D14)
 
-# 25.&nbsp;&nbsp;&nbsp;Request for
   Demolition - Property located at 646 Dingman Drive
 
 That, on the recommendation of the Managing
@@ -801,7 +765,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submission in connection therewith.   (2014-P10)
 
-# 26.&nbsp;&nbsp;&nbsp;Request for
   Demolition - Property located at 1057 Richmond Street
 
 That, the request by the owners, for the
@@ -814,7 +777,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record
   made oral submissions in connection therewith.  (2014-P10D)
 
-# 27.&nbsp;&nbsp;&nbsp;Property located at
   660 Sunningdale Road East (39T-09501/OZ-7638)
 
 That, the Draft Plan of Subdivision,
@@ -830,7 +792,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record
   made oral submissions in connection therewith.   (2014-D12/D14)
 
-# 28.&nbsp;&nbsp;&nbsp;Properties located
   at 225 and 229 Greenwood Avenue (Z-8289)
 
 That, on the recommendation of the Managing
@@ -875,7 +836,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D14)
 
-# 30.&nbsp;&nbsp;&nbsp;Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
 That, the application of Greenhills
@@ -904,7 +864,6 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record
   made oral submissions in connection therewith.   (2014-D14)
 
-# 31.&nbsp;&nbsp;&nbsp;6th Report of the
   Trees and Forests Advisory Committee
 
 That, the following action be taken with
@@ -938,7 +897,6 @@ b)         clauses
   2 to 8 inclusive, of the 6th Report of the Trees and Forests Advisory
   Committee, BE RECEIVED.
 
-# 32.&nbsp;&nbsp;&nbsp;Request for
   Heritage Conservation District Status for the Neighbourhood of St.
   George-Grosvenor
 
@@ -957,17 +915,14 @@ d)         the
   status of the work that has been undertaken by the community towards a
   Heritage Conservation District.  (2014-R01)
 
-# 33.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2014
 
 That Councillor S.E. White BE ELECTED as
   the Vice Chair of the Planning and Environment Committee for the term ending
   November 30, 2014.
 
-# XI.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Mayor J. Baechler notes that a number of
   London athletes have proudly represented Canada at the Olympics. Although the
@@ -1035,10 +990,8 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIV.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1138,7 +1091,6 @@ Motion Passed
 
 ****
 
-# XV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -18,7 +18,6 @@ February 12, 2013, at  4:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -50,15 +49,12 @@ Councillor J.B. Swan discloses a pecuniary
   Prosperity Committee having to do with Orchestra London and any reference to
   a performing art centre, by indicating that Orchestra London is his employer.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 5th Report of Corporate Services Committee.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor P. Hubert
@@ -94,9 +90,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
@@ -197,7 +191,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;2011 and 2012
   Internal Audit Results Summary
 
 That,  the following actions be taken
@@ -214,7 +207,6 @@ c)         that
   information related to quantifying cost avoidances BE INCLUDED in future
   Annual Internal Audit Results Summary Reports.
 
-# 3.&nbsp;&nbsp;&nbsp;Proposed Risk
   Assessment and 2013 Risk-Based Audit Plan
 
 That, the following actions be taken with
@@ -230,7 +222,6 @@ b)         the
   the report on revenue and cost model analysis on solid waste collection being
   reported out in the 1st Quarter of 2014.
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Corporate Services/Finance - Payroll Administration
 
 That, the following actions be taken with
@@ -244,7 +235,6 @@ b)         the
   action plans identified in Appendix A of the report noted in a) above, BE
   IMPLEMENTED.
 
-# 5.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Human Resources Succession Planning
 
 That,  the following actions be taken with
@@ -275,7 +265,6 @@ Approve clause 1.
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 29, 2013
 
 > Moved by Councillor M. Brown
@@ -312,15 +301,11 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 6.&nbsp;&nbsp;&nbsp;Lorne Avenue Public
   School
 
 That the following actions be taken with
@@ -368,7 +353,6 @@ Approve clauses 2 and 3.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at a portion of 1956 Shore Road and a portion of 1585 Riverbend Road
   (Z-8113)
 
@@ -395,7 +379,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2013-D14A)
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
 > Moved by Councillor N. Branscombe
@@ -640,7 +623,6 @@ Approve clauses 1, 3, 4 and 5.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   591 Maitland Street
 
 That, on the recommendation of the Managing
@@ -685,7 +667,6 @@ it being noted that the Planning and
   Chair, London Advisory Committee on Heritage and Don Menard, Heritage
   Planner, with respect to this matter.  (2013-R01)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   9345 Elviage Drive
 
 That, the Civic Administration BE DIRECTED
@@ -695,20 +676,16 @@ That, the Civic Administration BE DIRECTED
   it being noted that M. Doornbosch, Zelinka Priamo Ltd., be granted delegation
   status when the Civic Administration reports back.   (2013-D14A)
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor
   S. White enquiries with respect to the use of inflatable devices at
   City-owned facilities.  The Chair refers the enquiry to the Civic
   Administration.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -812,7 +789,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -14,11 +14,9 @@ June 18, 2018, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by B. Armstrong
 
@@ -317,7 +315,6 @@ That, on the recommendation of the Director, Community and Economic Innovation, 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;4th Report of the Community Safety & Crime Prevention Advisory Committee
 
@@ -384,7 +381,6 @@ That, on the recommendation of the Managing Director, Housing, Social Services a
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;5th Report of the Accessibility Advisory Committee
 
@@ -491,7 +487,6 @@ That the communication, dated June 18, 2018, from Dr. C. Mackie, Medical Office
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -581,7 +576,6 @@ That it BE NOTED that Councillor T. Park enquired about the status of replacing 
 
 That it BE NOTED that Councillor M. Salih enquired as to the well-being of the two firefighters injured in a water rescue training exercise on Fanshawe Lake; the Managing Director, Neighbourhood, Children and Fire Services provided a brief verbal update.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:31 PM.
 

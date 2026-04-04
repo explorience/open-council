@@ -17,11 +17,9 @@ April 29, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -129,7 +127,6 @@ c)  the attached, revised, illustration with respect to how planning recommen
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - R. Sidhu, Argyle Business Improvement Area - Community Improvement Plan (CIP) Study Request for the Argyle BIA and Surrounding Area
 
@@ -341,7 +338,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Lambeth Main Streetscape Master Plan Concept and Background Document
 
@@ -399,11 +395,9 @@ c)    the Civic Administration BE DIRECTED to initiate an Official Plan amen
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:00 PM.
 

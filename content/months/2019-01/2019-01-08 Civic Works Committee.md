@@ -17,11 +17,9 @@ January 8, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -199,11 +197,9 @@ the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other doc
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Proposed By-law Amendments Traffic & Parking By-law PS-113
 
@@ -228,7 +224,6 @@ That the communication from Councillor S. Hillier dated December 17, 2018 with 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Snow Clearing Standards
 
@@ -317,7 +312,6 @@ That the communication from M. van Holst dated January 7, 2019 with respect to B
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:34 PM.
 

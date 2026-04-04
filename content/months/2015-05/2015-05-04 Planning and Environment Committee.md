@@ -15,10 +15,8 @@ May 4, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Salih, M. van Holst, G. Barrett, G. Belch, M. Davis, M. Elmadhoon, J.M. Fleming, T. Grawey, P. Kokkoros, G. Kotsifas, A. Macpherson, L. Maitland, J. Ramsay, A. Riley, C. Saunders, C. Smith, S. Spring, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Trees and Forests Advisory Committee
 
 That the 4th Report of the Trees and
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;City of London
   Response to Draft Ontario Ministry of Agriculture, Food and Rural Affairs
   Guidelines on Permitted Uses in Ontario's Prime Agricultural Areas
 
@@ -80,7 +77,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Special Provisions
   - Sifton Properties Limited - Forest Hill Subdivision (Phase 4C)
   (39T-99515-4C)
 
@@ -132,7 +128,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1820 Woodhull Road (H-8433)
 
 That, on the recommendation of the Senior
@@ -163,7 +158,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for March 2015
 
 That, the Building Division Monthly Report
@@ -185,7 +179,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the Terms of Reference for the
@@ -220,7 +213,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1551 Blackwell Boulevard (39T-08504/Z-7521)
 
 That, on the recommendation of the Senior

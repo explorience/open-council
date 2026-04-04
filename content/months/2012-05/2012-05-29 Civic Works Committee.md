@@ -12,10 +12,8 @@ May 29, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > M. Brown, J.P. Bryant, J. Braam, T. Copeland, A. Drost, A. Dunbar, M. Feldberg, E. Gamble, B. Krichker, J. Lucas, D. MacRae, D. O’Brien, A. Rozentals, J. Simon, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Appointment
   of Consulting Services for Pottersburg
   Creek Subwatershed Study Update
 
@@ -50,7 +48,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Services for Water Resources and Slope Stability Evaluation of the
   Central Thames Subwatershed Study
 
@@ -88,7 +85,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 4.&nbsp;&nbsp;&nbsp;Industrial Road
   Bridge Rehabilitation (Tender 12-40)
 
 Recommendation:  That, on the
@@ -131,7 +127,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 5.&nbsp;&nbsp;&nbsp;Southcrest Storm
   Sewer and Outfall Replacement (Tender 12-47)
 
 Recommendation:  That, on the
@@ -190,7 +185,6 @@ h)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 6.&nbsp;&nbsp;&nbsp;Wonderland Road
   North Improvements (Tender 12-62)
 
 Recommendation:  That, on the
@@ -246,7 +240,6 @@ h)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to the above recommendations.
 
-# 7.&nbsp;&nbsp;&nbsp;Infrastructure
   Lifecycle Renewal Program 2013-2014
 
 Recommendation:  That, on the
@@ -338,7 +331,6 @@ it being noted that
   construction phase of these projects and will be presented at the time of
   contract award, if required.
 
-# 8.&nbsp;&nbsp;&nbsp;Infrastructure
   Lifecycle Renewal Program - Third Street Reconstruction
 
 Recommendation:  That, on the
@@ -375,7 +367,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.
 
-# 9.&nbsp;&nbsp;&nbsp;Update on the
   Ontario Traffic Manual, Book 15 - Pedestrian Crossing Facilities Interim
   Report
 
@@ -384,7 +375,6 @@ Recommendation:  That, on the
   information report dated October 31, 2011, related to the Ontario Traffic
   Manual, Book 15: Pedestrian Crossing Facilities, BE RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Concrete Pressure
   Pipe Inspection Fibre Optic Installation
 
 Recommendation:  That, on the recommendation
@@ -436,7 +426,6 @@ it being further noted that the Corporation
   undertake the installation of the fibre optic cable and acoustic monitoring
   system, and this work is an amendment of that contract.
 
-# 11.&nbsp;&nbsp;&nbsp;Sunningdale Road
   Improvements - Environmental Study Report
 
 Recommendation:  That, on the
@@ -524,7 +513,6 @@ A.
 -       What is the exact
   position of realignment of the Petro Carbon pipeline.
 
-# 12.&nbsp;&nbsp;&nbsp;Parking Enforcement
   Notification
 
 Recommendation:  That the communication
@@ -534,7 +522,6 @@ Recommendation:  That the communication
   report back at a future meeting of the Civic Works Committee, as to what types
   of neighbourhood notification would be feasible.
 
-# 13.&nbsp;&nbsp;&nbsp;Water
   Ban Communication
 
 Recommendation:  That the communication
@@ -544,7 +531,6 @@ Recommendation:  That the communication
   Administration to incorporate this request into its current review of
   communication options for public notification in an emergency event.
 
-# 14.&nbsp;&nbsp;&nbsp;Briefing
   Notes – City Response to Lake Huron Pipeline Break
 
 Recommendation:  That the communication

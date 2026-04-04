@@ -15,7 +15,6 @@ January 12, 2016, at  5:03 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:03 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor A. Hopkins discloses a pecuniary
@@ -24,13 +23,10 @@ Councillor A. Hopkins discloses a pecuniary
   efficiency improvements, by indicating that her husband is employed as a Home
   Comfort Advisor for a London HVAC company.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Property located at
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
@@ -201,9 +197,7 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS, continued
 
-# 2.&nbsp;&nbsp;&nbsp;Red Light Camera
   Program Implementation
 
 That, on the recommendation of the Managing
@@ -262,7 +256,6 @@ it being noted that potential changes to
   the Provincial Offences Act court system may result in decreased violation
   revenue, which is not included in the 2016 – 2019 Budget.  (2015-T08)
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -275,7 +268,6 @@ The Committee of the Whole rises at 5:24 PM
   and Council reconvenes at 5:28 PM, with Mayor M. Brown in the Chair and all
   Members present.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 4, 2016
 
 > Moved by Councillor J. Helmer
@@ -312,13 +304,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Helmer
 
@@ -326,7 +315,6 @@ Approve clauses 1, 4 and 6 to 12.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Response Plan for
   Frozen Water Services
 
 That, on the recommendation of the
@@ -334,7 +322,6 @@ That, on the recommendation of the
   respect to the City of London's response plan for frozen water services, BE
   RECEIVED for information.  (2015-E08)
 
-# 6.&nbsp;&nbsp;&nbsp;Western
   Road/Wharncliffe Road North Widening Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -367,7 +354,6 @@ e)         the
   documents, including rail-related agreements, if required, to give effect to
   these recommendations.  (2015-A05)
 
-# 7.&nbsp;&nbsp;&nbsp;Appeal of Certain
   Amendments to the Greenway WWTP Environmental Compliance Approval
 
 That, on the recommendation of the Managing
@@ -377,7 +363,6 @@ That, on the recommendation of the Managing
   Amended ECA No. 8081-9Z4H48, issued by the MOECC on October 20, 2015, to the
   Environmental Review Tribunal.(2015-E02)
 
-# 8.&nbsp;&nbsp;&nbsp;Overnight Parking
   Update
 
 That, on the recommendation of the Managing
@@ -387,7 +372,6 @@ That, on the recommendation of the Managing
   Committee during the first quarter of 2016, with respect to overnight permit
   options, for its consideration.  (2015-T02)
 
-# 9.&nbsp;&nbsp;&nbsp;Proposed Street
   Encroachment Policy
 
 That, on the recommendation of the Managing
@@ -417,7 +401,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral submissions in
   connection with this matter.  (2015-D16)
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -443,13 +426,11 @@ b)         the
  
 c)         clauses 1 to 3 and 6 to 7, BE RECEIVED.
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at December 8, 2015, BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Request for
   Delegation
 
 That consideration of the attached request
@@ -457,7 +438,6 @@ That consideration of the attached request
   Committee to allow staff sufficient time to attempt to resolve this matter in
   the intervening period.
 
-# 3.&nbsp;&nbsp;&nbsp;At 6:13 PM, His
   Worship the Mayor recognizes the contributions made to London by the
   following citizens who were named to the 2016 Mayor's New Year's Honour List as
   follows: Glen Curnoe (Heritage), Tessa Virtue and Scott Moir (Sports), Holly
@@ -571,7 +551,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Adelaide
   Street/Canadian Pacific Railway Grade Separation Environmental Assessment
   Appointment of Consulting Engineer
 
@@ -629,15 +608,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -744,7 +719,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

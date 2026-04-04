@@ -17,11 +17,9 @@ July 13, 2020, at 12:00 PM
 
 The meeting is called to order at 12:02 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder, M. van Holst, J. Helmer, J. Morgan, A. Hopkins
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor A. Hopkins discloses a pecuniary interest in item 2.8, having to do with the Employee Absenteeism 2019 Report, by indicating that her son is an employee of the City of London and a member of CUPE 107.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -232,15 +230,12 @@ That, on the recommendation of the Director of People Services, that the staff r
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Remuneration for Elected Officials and Appointed Citizens
 
@@ -316,7 +311,6 @@ AND THAT Council direct staff to work with AMO in order to coordinate the declar
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Helmer
 
@@ -328,7 +322,6 @@ The Corporate Services Committee convenes, In Closed Session, from 1:01 PM to 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:19 PM.
 

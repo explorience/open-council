@@ -12,10 +12,8 @@ January 13, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, A.L. Barbon, J. Braam, B. Coxhead, S. Datars Bere, A. Dunbar, M. Hayward, G.T. Hopcroft, G. Kotsifas, L. Livingstone, A. Macpherson, V. McAlea Major, D. Mounteer, D. O’Brien, L. Palarchio, M. Ribera, J. Senese, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Budget -
   Public Participation Meeting
 
 That the written and verbal submissions
@@ -169,7 +167,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Chamber of
   Commerce - 2014 Budget
 
 Recommendation:  That the communication
@@ -204,7 +201,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Downtown London -
   2014 Budget
 
 Recommendation:  That the attached communication

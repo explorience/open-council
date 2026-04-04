@@ -15,13 +15,11 @@ September 15, 2014, at  3:05 PM
 > [!abstract]- Also Present:
 > J. Braam, D. MacRae, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Installation of
   Sidewalks  on Shavian Blvd.
 
 Recommendation:  That, on the recommendation

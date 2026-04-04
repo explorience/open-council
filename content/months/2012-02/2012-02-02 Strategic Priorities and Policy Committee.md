@@ -15,7 +15,6 @@ February 2, 2012, at  9:13 AM
 > [!abstract]- Also Present:
 > (January 26, 2012) J. Braam, R.L. Fair, M. Hayward, A.L. Barbon, M. Bax, I. Collins, A. Dunbar, J. Edward, J.M. Fleming, G.T. Hopcroft, T.A. Johnson, L. Palarchio, R. Paynter, C. Saunders, M. Shears, J. Taylor, J. Verhaeghe, B. Westlake-Power
 
-# 3.&nbsp;&nbsp;&nbsp;CORPORATE CAPITAL BUDGET
 
 v)         ADDED 
   - J. Morgan, Chair, London Public Library Board and S. Hubbard Krimmer, CEO

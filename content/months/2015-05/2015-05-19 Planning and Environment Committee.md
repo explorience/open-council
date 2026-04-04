@@ -12,10 +12,8 @@ May 19, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Morgan, V. Ridley, H.L. Usher, M. van Holst, J. Zaifman, J. Adema, G. Barrett, J. Braam, P. Christiaans, E. Conway, M. Davis, B. Debbert, J. Devito, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, M. Henderson, G. Kotsifas, E. Lalande, A. MacLean, A. Macpherson, N. Pasato, L. Pompilii, J. Ramsay, C. Saunders, S. Spring, J. Stanford, M. Tomazincic, T. Wellhauser, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Advisory Committee on the Environment
 
 That the 5th Report of the Advisory
@@ -38,7 +36,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Development Charges
   Grant Program for Downtown & Old East Village Community Improvement Plan
   Areas
 
@@ -81,7 +78,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1285 Western Road (H-8480)
 
 That, on the recommendation of the Senior
@@ -111,7 +107,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1166 Hamilton Road (H-8237)
 
 That, on the recommendation of the Planner
@@ -141,7 +136,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Vista Woods Estates
   Subdivision - Special Provisions (39T-03505)
 
 That, on the recommendation of the Manager,
@@ -192,7 +186,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 941, 943 and 945 Hamilton Road (Z-8457)
 
 That, on the recommendation of the Managing
@@ -275,7 +268,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   3243 Manning Drive (Z-8473)
 
 That, on the recommendation of the Managing
@@ -353,7 +345,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 690, 696, 698, and 700 King Street, 372 Lyle Street and 701 and 729 Dundas
   Street (Z-8543)
 
@@ -474,7 +465,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   on a portion of 3105 Bostwick Road and Block 172, 33M-562, Talbot Village
   Phases 5 and 6 (39T-14506/Z-8436)
 
@@ -657,7 +647,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   165 Elmwood Avenue East (SP15-011783) (OZ-8464)
 
 That, on the recommendation of the Managing
@@ -802,7 +791,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1653 Richmond Street - Site Plan (SP15-011783)
 
 That on the recommendation of the Manager,
@@ -889,7 +877,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1631, 1635, 1639, 1643 and 1649 Richmond Street - Site Plan (SP15-011562)
 
 That on the recommendation of the Manager,
@@ -983,7 +970,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   164 Sherwood Forest Square - Site Plan (SP15-004713)
 
 That on the recommendation of the Manager,
@@ -1084,7 +1070,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Great Near Campus
   Neighbourhood Strategy Review - Terms of Reference
 
 That, on the recommendation of the

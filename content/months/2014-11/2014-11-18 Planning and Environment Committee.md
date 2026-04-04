@@ -12,10 +12,8 @@ November 18, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > Acting  J.P. Bryant, M. Brown, B. Debbert, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, E. Lalande, A. Macpherson, L. McDougall, S. Meksula, D. Menard, M. Pease, J. Ramsay, M. Ribera, A. Rozentals, S. Spring, M. Tomazincic, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;11th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 11th Report of
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   2070 Shore Road (H-8406)
 
 Recommendation:  That, on the
@@ -72,7 +69,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   2031 Pennyroyal Street (39CD-14513)
 
 Recommendation:  That, on the recommendation
@@ -160,7 +156,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 3550-3590 Singleton Avenue (39CD-14521)
 
 Recommendation:  That, on the
@@ -247,7 +242,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   710 Proudfoot Lane (OZ-8423)
 
 Recommendation:  That, on the
@@ -377,7 +371,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Proposed Amendments
   to the Site Plan Control Area By-law
 
 Recommendation:  That, on the
@@ -455,7 +448,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 445-447-449 Dundas Street - Demolition Request
 
 Recommendation:  That, on the
@@ -544,7 +536,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
 
 Recommendation:  That, on the
@@ -648,7 +639,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
 Recommendation:  That, on the
@@ -866,7 +856,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Standard
   Subdivision Agreement Template - Updated General Provisions
 
 Recommendation:  That, on the
@@ -983,7 +972,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   161 Windermere Road (39CD-14501/Z-8167)
 
 Recommendation:  That the application of
@@ -1111,7 +1099,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;12th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following

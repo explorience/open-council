@@ -15,13 +15,11 @@ February 21, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer; T. Copeland, J. Davies, U. DeCandido, A. Dunbar, G. Gauld, D. Gough, D. MacRae, S. Mathers, M. Ribera, L. Rowe, K. Scherr, J. Simon, E. Soldo, J. Stanford, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Single Source
   Purchase of One Turbo Blower for the Greenway Wastewater Treatment Plant
 
 That, on the recommendation of the Managing
@@ -66,7 +64,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Greenway Wastewater
   Treatment Plant Expansion Project Consulting Fee Increase
 
 That, on the recommendation of the Managing
@@ -105,7 +102,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2017 Drinking Water
   Annual Report and Summary Report for the City of London Distribution System
 
 That, on the recommendation of the Managing
@@ -130,7 +126,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Colonel Talbot
   Pumping Station Consulting Fee Increase
 
 That, on the recommendation of the Managing
@@ -169,7 +164,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award -
   Tender No. 17-128 - Dundas Place
 
 That, on the recommendation of the Managing
@@ -224,7 +218,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Ontario Municipal
   Commuter Cycling (OMCC) Program -  Transfer Payment Agreement
 
 That, on the recommendation of the Managing
@@ -276,7 +269,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   Rapid Transit Implementation Working Group
 
 That the 2nd Report of the Rapid Transit
@@ -299,7 +291,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights (EBR) Registry-Ontario’s Guideline on Community
   Emissions Reduction Planning
 
@@ -328,7 +319,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Memorandum of
   Understanding with the Canadian Plastics Industry Association as Part of the
   London Waste to Resources Innovation Centre
 
@@ -366,7 +356,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Memorandum of
   Understanding with Resource Energy Development of Canada Ltd. as Part of the
   London Waste to Resources Innovation Centre
 
@@ -404,7 +393,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Municipal Class
   Environmental Assessment Reform
 
 That, on the recommendation of the Managing
@@ -477,7 +465,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred

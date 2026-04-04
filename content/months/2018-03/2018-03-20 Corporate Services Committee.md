@@ -17,11 +17,9 @@ March 20, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor P. Hubert discloses a pecuniary interest in Item 2.8 as it relates to the London Community Woodshop by indicating that he is the Executive Director of a social services agency affiliated with the London Community Woodshop.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Hubert
 
@@ -284,9 +282,7 @@ b)         the subject properties (“Surplus Lands”) BE DISPOSED of 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Transportation Advisory Committee (Requires 1 Voting Member at Large)
 
@@ -363,7 +359,6 @@ That the Forked River Fest, to be held on June 9, 2018, at 4-45 Pacific Court, f
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Workplace Harassment and Discrimination Prevention Policy
 
@@ -403,7 +398,6 @@ i)            the Civic Administration BE AUTHORIZED to undertake all
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Meeting adjourned at 1:53 PM.
 

@@ -20,19 +20,15 @@ April 2, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, P. Van Meerbergen, E. Peloza (6:49 PM)  and S. Hillier (enters at 1:07 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -81,7 +77,6 @@ At 3:19 PM, His Worship Mayor J. Morgan resumes the Chair.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Cuddy
 
@@ -111,7 +106,6 @@ That the Minutes of the 5th Special Meeting and 6th Meeting of the Municipal Cou
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by A. Hopkins
 
@@ -319,11 +313,9 @@ That, pursuant to section 6.4 of the Council Procedure By-law, a change in order
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.4&nbsp;&nbsp;&nbsp;5th Report of the Community and Protective Services Committee
 
@@ -2590,7 +2582,6 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by D. Ferreira
 
@@ -2628,19 +2619,15 @@ the financing for this easement acquisition BE APPROVED as set out in the Source
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -2934,7 +2921,6 @@ That Third Reading and Enactment of Bill No. 106, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by A. Hopkins
 
@@ -2948,7 +2934,6 @@ The meeting adjourned at 7:45 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 97**

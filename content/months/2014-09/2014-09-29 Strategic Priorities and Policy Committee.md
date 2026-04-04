@@ -15,7 +15,6 @@ September 29, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, C. Dziedzec, K. Graham, M. Hayward, G.T. Hopcroft, V. McAlea Major, S. Miller, J. Nolan, C. Saunders, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -24,7 +23,6 @@ Recommendation:  That it BE NOTED that
   Committee, by indicating that he sits on the Board of Pillar Non-Profit
   Network, of which Ms. Baldwin is Executive Director.
 
-# 2.&nbsp;&nbsp;&nbsp;Economic
   Development Review - Next Steps
 
 Recommendation:  That, on the
@@ -55,7 +53,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointments to the
   Striking Committee
   and Appointment Process
 
@@ -206,7 +203,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;1st Report of the
   Governance Working Group
 
 Recommendation:  That the following actions
@@ -319,7 +315,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Council Housing Leadership Committee and
   Creative City Committee
 
 Recommendation:  That the following actions

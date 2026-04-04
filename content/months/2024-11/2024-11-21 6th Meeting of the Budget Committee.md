@@ -17,11 +17,9 @@ November 21, 2024, at  9:30 AM
 
 The meeting is called to order at 9:31 AM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2025 Annual Budget Update Civic Administration Presentation
 
@@ -56,7 +54,6 @@ That the budget presentation from the Deputy City Manager, Finance and Supports 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Mayor's Budget
 
@@ -648,7 +645,6 @@ That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London P
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

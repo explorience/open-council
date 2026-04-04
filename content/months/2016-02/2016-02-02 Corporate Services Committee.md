@@ -12,13 +12,11 @@ February 2, 2016, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. Salih, M. van Holst; J.P. Barber, A.L. Barbon, J. Braam, S. Datars Bere, J. Edmunds, K. Graham, A. Hagan, M. Hayward, J. Logan, V. McAlea Major, D. O’Brien, A. Ripepi, J. Senese, J. Stanford, J. Taylor, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London Days
   at Budweiser Gardens - United Way London & Middlesex
 
 That, on the recommendation of the City
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Authorization for
   Temporary Borrowing
 
 That, on the recommendation of the Managing
@@ -74,7 +71,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2016 Debenture
   Issuance
 
 That the Managing Director, Corporate
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2015 Annual Update
   on Budweiser Gardens
 
 That, on the recommendation of the Managing
@@ -127,7 +122,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Corporate Credit
   Cards for Council Members
 
 That, on the recommendation of the Managing
@@ -153,7 +147,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointed Citizen
   Members 2015 Remuneration
 
 That, on the recommendation of the Managing
@@ -183,7 +176,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -234,7 +226,6 @@ Motion
 Motion
   to Close the public participation meeting.
 
-# 9.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status - Amir Farahi, Executive Director, London Institute for
   Public Policy
 
@@ -263,7 +254,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED - Request for
   Designation of the 14th Annual Women's Lifestyle Show as a Municipally
   Significant Event
 
@@ -305,7 +295,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;ADDED - 2016
   Council Compensation Review Task Force
 
 That, on the recommendation of the City Clerk,

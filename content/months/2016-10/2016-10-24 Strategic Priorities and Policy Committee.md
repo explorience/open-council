@@ -15,13 +15,11 @@ October 24, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, B. Coxhead, S. Datars Bere, K. Dawtrey, J.M. Fleming, K. Graham, M. Hayward, G. Kotsifas, L. Livingstone, V. McAlea Major, D. Mounteer, M. Ribera, E. Soldo, J. Stanford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED no pecuniary interests were
   disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to
   Consolidated Fees and Charges By-law
 
 That, on the recommendation of the City
@@ -83,7 +81,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Live Work Learn
   Play Update
 
 That the following actions be taken with
@@ -177,7 +174,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Deputy Mayors
 
 That the City Clerk BE DIRECTED to report
@@ -205,7 +201,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;12th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -246,7 +241,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;4th Report of the
   Outstanding London Ambassador Award Committee
 
 That the following actions be taken with
@@ -287,7 +281,6 @@ iv)        Corporate
  
 b)         clauses 1, 2 and 4 BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - Request for
   Delegation Status - 5th Report of the Outstanding London Ambassador Award
   Committee
 

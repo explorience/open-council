@@ -12,7 +12,6 @@ December 7, 2015, at  3:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, P. Hubert, T. Park; A. Zuidema, S. Crawford, S. Datars Bere, K. Dawtrey, A. Hagan, V. McAlea Major, D. O’Brien
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED no pecuniary interests

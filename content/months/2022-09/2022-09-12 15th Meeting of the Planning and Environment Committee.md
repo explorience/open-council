@@ -20,11 +20,9 @@ September 12, 2022, at  4:00 PM
 
 The meeting was called to order at 4:01 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Building Division Monthly Report - July 2022
 
@@ -48,7 +46,6 @@ That the Building Division Monthly report for July, 2022 BE RECEIVED for informa
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;4680 Wellington Road South (TZ-9509)
 
@@ -192,11 +189,9 @@ Motion to close the public participation meeting.
 
 [2022-09-12 Presentation - 1407-1427 Hyde Park Road (OZ-9438)](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=94686>)
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -220,7 +215,6 @@ That the Deputy City Manager, Planning and Economic Development BE DIRECTED to u
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:38 PM.
 ---

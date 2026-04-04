@@ -12,7 +12,6 @@ October 24, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Hopkins, H.L. Usher, J. Zaifman; T. Copeland, U. DeCandido, G. Gauld, N. Hall, G. Irwin, A. Macpherson, D. MacRae, S. Maguire, M. Marcellin, S. Mathers, B. Nourse, R. Pedlow, M. Ribera, L. Rowe, A. Rozentaals, J. Simon, E. Soldo, J. Stanford, G. Stronghill
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -31,7 +30,6 @@ b)           
   to do with the 2017 Grosvenor Street Infrastructure Renewal Project Update,
   by indicating that he resides on this street.
 
-# 2.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Community Program for Landscape Enhancements Final Report
 
 That the staff report dated October 24,
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Highway 401
   Overpass at Pond Mills Road -  Structure Expansion Agreement
 
 That, on the recommendation of the Managing
@@ -105,7 +102,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Wilton Grove Road
   Improvements -  Detailed Design and Tendering -  Appointment of Consulting
   Engineer
 
@@ -155,7 +151,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Public Transit
   Infrastructure Fund -  Project Modifications
 
 That, on the recommendation of the Managing
@@ -189,7 +184,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -217,7 +211,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Clean Water and
   Wastewater Fund - 2017 Grosvenor Street Infrastructure Renewal Project Update
 
 That, on the recommendation of the Managing
@@ -243,7 +236,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Clean Water and
   Wastewater Fund - Large Diameter Watermain Inspection - Elgin Pipeline
 
 That, on the recommendation of the Managing
@@ -286,7 +278,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Intelligent
   Transportation System - Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -334,7 +325,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Bulk Water Station
   Access Terminal Upgrades
 
 That, on the recommendation of the Managing
@@ -390,7 +380,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Phase 1
   Implementation of Cityworks CMMS Solution For Water, Sewer and Stormwater
   Infrastructure
 
@@ -457,7 +446,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Updates – Proposed Blue
   Box Program Plan Amendment and Waste Free Ontario Act
 
 That, on the recommendation of the
@@ -483,7 +471,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Guiding Principles
   – Resource Recovery and Residual Waste Disposal Strategies
 
 That, on the recommendation of the Managing
@@ -532,7 +519,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Residual Waste
   Disposal Strategy Scope of Work as Part of the Environmental Assessment
   Process
 
@@ -584,7 +570,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Municipal
   Greenhouse Gas (GHG) Challenge Fund Applications
 
 That, on the recommendation of the Managing
@@ -665,7 +650,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization – Update on Feed-In Tariff (FIT) Program Application for a 500kw
   Landfill Gas Power Plant & Request for Authorization to Execute Feed in
   Tariff (FIT) Contract
@@ -744,7 +728,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer - Mornington Area Storm Drainage Servicing Environmental
   Assessment
 
@@ -796,7 +779,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Vauxhall Wastewater
   Treatment Plant Flood Protection Construction Tender Award
 
 That, on the recommendation of the Managing
@@ -845,7 +827,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Basement Flooding
   Grant Program By-Law Amendment
 
 That, on the recommendation of the Managing
@@ -873,7 +854,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Emergency Work -
   Birchwood Drive & Meadowvale Drive - Sanitary Sewer and Private Drain
   Connection Failures
 
@@ -910,14 +890,12 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;7th Report of the
   Rapid Transit Implementation Working Group
 
 That
   the 7th Report of the Rapid Transit Implementation Working Group, from its
   meeting held on October 12, 2017, BE RECEIVED.
 
-# 22.&nbsp;&nbsp;&nbsp;National Zero Waste
   Council
 
 That the following actions be taken in
@@ -954,7 +932,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Motion to Lift
   Watering Restrictions
 
 That it BE NOTED that a motion to direct staff
@@ -984,7 +961,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;8th Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -1018,7 +994,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;3rd Report of the
   Waste Management Working Group
 
 That the following actions be taken with
@@ -1127,7 +1102,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;9th Report of the
   Cycling Advisory Committee
 
 That
@@ -1151,7 +1125,6 @@ Motion
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -1194,7 +1167,6 @@ Motion
 
 ****
 
-# 28.&nbsp;&nbsp;&nbsp;(ADDED) Springbank
   Dam: Status of Funding  and Legal Settlement Money
 
 That the communication dated October 23,
@@ -1218,7 +1190,6 @@ Motion
 
 ****
 
-# 29.&nbsp;&nbsp;&nbsp;(ADDED) ENQUIRY – Councillor V. Ridley –
   Damage to Irrigation Systems
 
 That it BE NOTED that Councillor V. Ridley

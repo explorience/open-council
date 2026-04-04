@@ -15,13 +15,11 @@ May 5, 2014, at  3:03 PM
 > [!abstract]- Also Present:
 > S. Orser, M. Henderson, O. Katolyk, G. Kotsifas, E. Ling, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Requested Changes
   to Food Truck By-law
 
 Recommendation:  That the following actions

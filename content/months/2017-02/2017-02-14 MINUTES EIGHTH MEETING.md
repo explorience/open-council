@@ -18,16 +18,11 @@ February 14, 2017, at  4:01 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:01 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan Progress Variance
 
-# 3.&nbsp;&nbsp;&nbsp;Asset Review of London Hydro Inc. –
   Discussion Paper
 
 Motion Passed
@@ -69,10 +64,8 @@ Motion Passed
 
 ****
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN CLOSED SESSION
   (Continued)
 
 > Moved by Councillor J. Helmer
@@ -105,7 +98,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTH AND SEVENTH meetings HELD JANUARY 31,
   2017 AND FEBRUARY 3, 2017
 
@@ -141,7 +133,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor A. Hopkins
@@ -153,7 +144,6 @@ Approve receipt and referral of the
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
 > Moved by Councillor P. Hubert
@@ -190,7 +180,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -288,7 +277,6 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. van Holst
 
@@ -296,7 +284,6 @@ Approve clauses 1 to 13, excluding clauses 6 and 12.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Consideration of Appointment to the
   Economic Partnership Advisory Panel
 
 Motion Passed
@@ -321,7 +308,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Streaming Offsite
   Standing Committee Meetings
 
 That, on the recommendation of the
@@ -329,7 +315,6 @@ That, on the recommendation of the
   Clerk, the staff report entitled “Streaming Offsite Standing Committee
   Meetings” BE RECEIVED for information.
 
-# 7.&nbsp;&nbsp;&nbsp;Proposed Election
   Sign By-law
 
 That the following actions be taken with
@@ -376,7 +361,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -387,7 +371,6 @@ That, on the recommendation of the Managing
   were no members of the public in attendance to speak to the Corporate
   Services Committee at the public hearing associated with this matter.
 
-# 9.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -396,7 +379,6 @@ That the recommendations contained in the
   Corporate Services Committee, at the public hearing associated with the Tax
   Adjustment Agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointments to the Cycling Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -407,14 +389,12 @@ Bernadette McCall - Non-Voting
 Dan Doroshenko - Voting Representative of
   the Urban League of London
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Trees and Forests Advisory Committee
 
 That Randy Walker BE APPOINTED to the Trees
   and Forests Advisory Committee as a Voting Representative of the
   Middlesex-London Health Unit for the term ending February 28, 2019.
 
-# 13.&nbsp;&nbsp;&nbsp;Provincial Tax
   Reduction Legislation - Vacant Buildings
 
 That the Civic Administration BE DIRECTED
@@ -422,7 +402,6 @@ That the Civic Administration BE DIRECTED
   30, 2017 from Councillor M. van Holst, related to tax relief for vacant
   buildings.
 
-# 6.&nbsp;&nbsp;&nbsp;City of London Days
   at Budweiser Gardens - United Way London & Middlesex
 
 That the following actions be taken with
@@ -448,7 +427,6 @@ ii)         ask
   Pillar Nonprofit Network to advise its members of the opportunity to book
   City of London Days at Budweiser Gardens.
 
-# 12.&nbsp;&nbsp;&nbsp;Canada 150 London -
   Proposed Community Celebration Event and Promotion
 
 That, on the recommendation of the
@@ -486,7 +464,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located
   at  1 Terrace Street - Brownfield Incentive
 
 That consideration of the application from
@@ -495,7 +472,6 @@ That consideration of the application from
   Environment Committee meeting for consideration; it being noted that the
   applicant requested the referral. (2017-D09)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties Located
   at 946, 954 and 962 Longworth Road (H8713)
 
 That delegation status BE GRANTED to C.
@@ -521,7 +497,6 @@ it being noted that the Planning and
 -           a communication from A. Saab,
   986 Longworth Road.
 
-# 17.&nbsp;&nbsp;&nbsp;Use of New
   Technology for Engagement
 
 That, on the recommendation of the Managing
@@ -529,7 +504,6 @@ That, on the recommendation of the Managing
   entitled "Use of New Technology for Engagement" BE RECEIVED for
   information.  (2017-M17)
 
-# 18.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -567,7 +541,6 @@ c)         consideration
 d)         clauses 1 to 3, 5, 6 and 9, BE
   RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;Farm Property
   Assessments
 
 That it BE NOTED that Councillor J. Helmer
@@ -577,18 +550,13 @@ That it BE NOTED that Councillor J. Helmer
   Division Manager – Taxation and Revenue will be reporting back with further
   details on this matter.
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

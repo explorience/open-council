@@ -14,13 +14,11 @@ February 19, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Mayor E. Holder discloses a pecuniary interest in Item 4.1 of the 3rd Report of the Community and Protective Services Committee, having to do with Cost Recovery for Fire Services - Third Party Cost Recovery - Fire Marque, by indicating that his son is a City of London firefighter.
 
 Councillor M. Salih discloses a pecuniary interest in Item 5.3 of the 3rd Report of the Community and Protective Services Committee, having to do with an Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada, by indicating that he is an employee of the Canadian Border Services Agency.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -356,7 +354,6 @@ it being noted that a communication from G. Webster, as appended to the Added Ag
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1st Report of the Community Safety and Crime Prevention Advisory Committee
 
@@ -385,7 +382,6 @@ b)            representatives from the London Police Services and Corp
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor E. Peloza - Cost Recovery for Fire Services - Third Party Cost Recovery - Fire Marque
 
@@ -430,7 +426,6 @@ That the Civic Administration BE DIRECTED to report back to the Community and Pr
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -527,7 +522,6 @@ d)            delegate authority to the Managing Director, Housing, S
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Hillier
 
@@ -557,7 +551,6 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:44 PM.
 

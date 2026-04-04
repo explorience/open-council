@@ -12,13 +12,11 @@ December 16, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, J. Zaifman; W. Abbott, J. Braam, M. Bushby, T. Copeland, K. Dawtrey, P. Donnelly, A. Drost, A. Dunbar, G. Gauld, A. Hagan, A. Henry, D. Huggins, G. Irwin, G. Kotsifas, J. Lawrence, J. Lucas, D. MacRae, S. Maguire, S. Mathers, V. McAlea Major, M. Pease, R. Pedlow, L. Rowe, J. Simon, E. Soldo, S. Spring, J. Stanford, R. Sutton, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2015
 
 Recommendation: 
@@ -66,7 +64,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;6th Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the 6th Report of the
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the recommendation
@@ -117,7 +113,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Transportation
   Energy Optimization Plan (TEOP) Update
 
 Recommendation:  That, on the recommendation
@@ -177,7 +172,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Mudcreek East
   Environmental Assessment: Owner Reimbursement
 
 Recommendation:  That, on the
@@ -214,7 +208,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2014 External Audit
   of London's Drinking Water Quality Management System and 2014 Management
   Review
 
@@ -240,7 +233,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Update on Key Solid
   Waste Management Initiatives
 
 Recommendation:  That the staff report
@@ -265,7 +257,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;W12A Landfill
   Public Liaison Committee Proposed Water Supply Fund
 
 Recommendation:  That, on the
@@ -294,7 +285,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;General Orientation
   – Key Committee Matters
 
 Recommendation:  That the
@@ -321,7 +311,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Garbage and
   Recycling Collection - Status and Potential Next Steps
 
 Recommendation:  That, on the
@@ -400,7 +389,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Boulevard Parking
   Application - 552 Colborne Street
 
 Recommendation:  That the communication
@@ -426,14 +414,12 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) Statutory Standard of Care Workshop
 
 That it BE NOTED that J. Braam, Managing
   Director, Environmental and Engineering Services and City Engineer,
   encouraged Committee members to attend the Statutory Standard of Care
   Workshop being held January 13 and 14, 2015.
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) Professional Executive of the Year
   Award
 
 That it BE NOTED that J. Braam, Managing
@@ -443,7 +429,6 @@ That it BE NOTED that J. Braam, Managing
   Professional/Executive of the Year Award (Medium Municipality) from the
   Ontario Municipal Waste Management Association.
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) Reasons for In-Camera Meetings
 
 That it BE NOTED that K. Dawtrey, Solicitor
   II, provided clarification to the Civic Works Committee with respect to reasons

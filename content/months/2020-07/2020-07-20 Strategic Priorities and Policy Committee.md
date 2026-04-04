@@ -17,19 +17,15 @@ July 20, 2020, at  4:00 PM
 
 The meeting is called to order at 4:10 PM; it being noted that the following Members were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, A. Hopkins, S. Turner, A. Kayabaga
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in the added item 4.1, having to do with potential additional legislative actions to prevent the spread of COVID-19, and the related confidential item 6.1, by indicating that the matter concerns the Medical Officer of Health, Middlesex-London Health Unit, which is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Additional Legislated Measures to Reduce the Risk of Further COVID-19 Infections in the City of London
 
@@ -163,11 +159,9 @@ That the Civic Administration, in conjunction with appropriate stakeholders, BE 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. Cassidy
 
@@ -227,7 +221,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:14 PM.
 

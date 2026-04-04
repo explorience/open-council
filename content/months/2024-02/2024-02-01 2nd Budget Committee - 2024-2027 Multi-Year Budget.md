@@ -17,11 +17,9 @@ February 1, 2024, at  9:30 AM
 
 The meeting is called to order at 9:30 AM; it being noted that Councillors S. Franke and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Staff Presentation
 
@@ -56,7 +54,6 @@ That the budget presentation from the Deputy City Manager, Finance Supports BE R
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.2&nbsp;&nbsp;&nbsp;Amendment - Business Case #P-5
 
@@ -115,7 +112,6 @@ That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Cas
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by D. Ferreira
 
@@ -149,7 +145,6 @@ The Budget Committee convenes In Closed Session from 1:03 PM to 1:17 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Trosow
 

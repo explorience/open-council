@@ -12,10 +12,8 @@ November 7, 2016, at 12:05 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park; C. DeForest, A. Drost, O. Katolyk, G. Kotsifas, M. Kryworuk, M. Ribera, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Vehicle for Hire
   By-law - Action Items From Public Participation Meeting
 
 That the following actions be taken with

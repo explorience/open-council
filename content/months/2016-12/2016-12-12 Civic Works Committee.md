@@ -12,7 +12,6 @@ December 12, 2016, at 12:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park; A. Drost, A. Dunbar, J. M. Fleming, J. Lucas, D. MacRae, S. Maguire, S. Mathers, R. Pedlow, L. Rowe, K. Scherr, A. Spahiu. S. Spring, J. Stanford, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor V. Ridley
   Plan by indicating that her spouse is employed in the energy industry, which
   could be directly impacted by the Long Term Energy Plan.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2017
 
 That Councillor P. Squire BE ELECTED
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Flooding Matters Phase ll - Progress Report
 
 That, on the recommendation of the Managing
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Traffic and Parking By-law Consolidation
 
 That, on the recommendation of the Managing
@@ -116,7 +112,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Adelaide Street/Canadian Pacific Railway Grade Separation Environmental Assessment
   Update
 
@@ -145,7 +140,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Options for Increased Recycling in the Downtown Core
 
 That, on the recommendation of the
@@ -200,7 +194,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Comments on the Ministry of Energy's Discussion Paper on Ontario's Long-Term
   Energy Plan for Submission to the Environmental Bill of Rights (EBR) Registry
 
@@ -240,7 +233,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Memorandum of Understanding with the University of Western Ontario (Institute
   for Chemicals and Fuels from Alternative Resources) as Part of the London
   Waste to Resources Innovation Centre
@@ -283,7 +275,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;DELEGATION - J.
   Matthews, P. Eng., Dillon Consulting  -  Dundas Place - Environmental Study
   Report
 
@@ -324,7 +315,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -349,7 +339,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR
   SUBMISSION - Rapid Transit Corridor Traffic Flow
 
 That the Civic Administration BE DIRECTED

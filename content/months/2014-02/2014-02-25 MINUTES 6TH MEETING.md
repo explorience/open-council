@@ -18,23 +18,18 @@ February 25, 2014, at  4:24 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:24 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J. Swan
   disclosed a pecuniary interest in clause 2 of this Report having to do with a
   mixed-use development including a Performing Arts Centre, by indicating that
   his employer, Orchestra London, is a proponent.
 
-# 2.&nbsp;&nbsp;&nbsp;Mixed-Use
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
@@ -263,14 +258,11 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 3.&nbsp;&nbsp;&nbsp;Development Charges
   Review 2014 - Draft Rate Calculations
 
 That the following actions be taken with
@@ -346,7 +338,6 @@ it being noted that the Strategic
 -           Gloria
   McGinn-McTeer, Urban League;
 
-# 4.&nbsp;&nbsp;&nbsp;London Convention
   Centre Corporation Board Appointment
 
 That Crispin Colvin BE APPOINTED to the
@@ -378,7 +369,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London Convention
   Centre Audit Report - Revenue and Growth Opportunities
 
 That the following actions be taken
@@ -395,7 +385,6 @@ b)         the
   Chair of the Audit Committee BE REQUESTED to send a letter of thanks to the
   London Convention Centre for their participation in the above-noted review.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD ON FEBRUARY 11, 2014
 
 > Moved by Councillor B. Polhill
@@ -432,13 +421,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.L. Baechler
 
@@ -446,7 +432,6 @@ Approve clauses 1, 2, 4 and 5.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Shared Service
   Opportunities
 
 That the Civic Administration BE REQUESTED
@@ -488,10 +473,8 @@ Approve clauses 1 to 4.
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor M. Brown advises that he has
   been told by planning staff that a report will be submitted to the May
@@ -541,10 +524,8 @@ Councillor Orser enquired if people who are
   Chair directed the matter to the Chief Municipal Law Enforcement Officer for
   response.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -648,7 +629,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

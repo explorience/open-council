@@ -17,7 +17,6 @@ December 13, 2021, at  4:00 PM
 
 The meeting was called to order at 4:02 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lehman, M. Hamou and S. Lewis present and all other Members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -44,7 +43,6 @@ That Councillor S. Lehman BE ELECTED as Vice-Chair for the term ending November 
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -258,7 +256,6 @@ That, on the recommendation of the Director, Planning and Development, the Trans
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;876 Wellington Road (Z-9380)
 
@@ -998,7 +995,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the Advisory Committee on the Environment
 
@@ -1083,7 +1079,6 @@ b)    the request to accept a Minor Variance application relating to the prope
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -1157,7 +1152,6 @@ c)  clauses 1.1, 2.1 to 2.4 inclusive, 3.1, 4.3, 4.4 and 5.1 BE RECEIVED for in
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege / Litigation or Potential Litigation
 
@@ -1198,7 +1192,6 @@ The Planning and Environment Committee convenes, in Closed Session, from 7:43 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:37 PM.
 ---

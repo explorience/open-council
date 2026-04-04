@@ -12,7 +12,6 @@ September 26, 2017, at 12:30 PM
 > [!abstract]- Also Present:
 > P. Squire, M. van Holst, J. Zaifman; A.L. Barbon, G. Bridge, B. Card, I. Collins, B. Coxhead, M. Daley, S. Datars Bere, K. Dawtrey, A. Hagan, O. Katolyk, C. Kay (Outside Counsel), J. Kobarda, P. Kokkoros, Lamon, L. Livingstone, J.P. McGonigle, J. Millson, K. Murray, M. Ribera, A. Ripepi, C. Saunders, K. Scherr, J. Senese, J. Smout, S. Stafford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor J. Helmer
   the S.E.I.U. Bargaining Unit, by indicating that his company does work for
   the S.E.I.U. Bargaining Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London's
   Credit Rating
 
 Motion
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2017 Operating
   Budget Mid-Year Monitoring Report - Property Tax, Water, Wastewater &
   Treatment Budgets
 
@@ -221,7 +218,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to the
   Council Policy By-law - Replacement of Schedule "E" - Public Notice
   Policy
 
@@ -242,7 +238,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Update: Employee
   Absenteeism 2017 Mid-Year Review
 
 That, on the recommendation of the Managing
@@ -275,7 +270,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Pay Equity Update
 
 That, on the recommendation of the Managing
   Director, Corporate Services & Chief Human Resources Officer, the staff
@@ -299,7 +293,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Annual Report of
   the Integrity Commissioner from May 17, 2016 to August 1, 2017
 
 That the following actions be taken with

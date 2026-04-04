@@ -12,19 +12,16 @@ November 15, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Squire; A. Zuidema, B. Coxhead, P. D’Hollander, S. Datars Bere, M. Dellamora, T. Fowler, K. Graham, O. Katolyk, L. Livingstone, L. Marshall, K. Paleczny, D. Popadic, A. Small, C. Smith, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   London Housing Advisory Committee
 
 That the 9th Report of the London Housing
   Advisory Committee, from its meeting held on October 12, 2016, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Northeast
   London Family Centre – Provincial Investment and New Agreement
 
 That, on the recommendation of the Managing
@@ -47,7 +44,6 @@ it being noted that this new Funding and
   as a result of subsequent investment in funding from the Ministry of
   Education.  (2016-F11/S12)
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Northwest London Family Centre – Provincial Investment and New Agreement
 
 That, on the recommendation of the Managing
@@ -70,7 +66,6 @@ it being noted that this new Funding and
   as a result of subsequent investment in funding from the Ministry of
   Education.  (2016-F11/S12)
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Family Centre Westminster – Increased Provincial Investment
 
 That, on the recommendation of the Managing
@@ -94,7 +89,6 @@ it being noted that this new Funding and
   2016 as a result of subsequent investment in funding from the Ministry of
   Education.   (2016-F11/S12)
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Age
   Friendly London Year Three Progress Report and Impact Assessment
 
 That, on the recommendation of the Managing
@@ -120,7 +114,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London for All Update: First 12 Months Recommendations and Development of the
   Implementation Body
 
@@ -130,7 +123,6 @@ That, on the recommendation of the Managing
   dated November 15, 2016 with respect to the London for All update BE
   RECEIVED.  (2016-S04)
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Putting Consumers First Act
 
 That the following actions be taken with
@@ -168,7 +160,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;DELEGATION - S. Hubbard
   Krimmer, CEO & Chief Librarian, London Public Library
 
 That, at the request of S. Hubbard Krimmer,
@@ -194,7 +185,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT - Subsidized
   Public Transit
 
 That the following actions be taken with
@@ -226,7 +216,6 @@ it being noted that the CPSC received the attached
   respect to a related petition for a proposed discounted bus pass and
   associated plan.  (2016-S07)
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -320,7 +309,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;3rd Report of the
   Childcare Advisory Committee
 
 That the following actions be taken with
@@ -396,7 +384,6 @@ it being noted that Childcare Advisory
 b)         clauses 1 to 3 and 5 to 9 BE
   RECEIVED.
 
-# 13.&nbsp;&nbsp;&nbsp;6th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -428,7 +415,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;10th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -456,7 +442,6 @@ a)         the
 b)         clauses 1 to 3 and 5 to 13 BE
   RECEIVED.
 
-# 15.&nbsp;&nbsp;&nbsp;REQUEST FOR
   DELEGATION - R. Rowland, 120 Chesterfield Avenue - Amend By-law for Visiting
   Dogs
 
@@ -507,7 +492,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the November 2016 Deferred Matters
@@ -530,7 +514,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;(ADDED) 11th Report
   of the Animal Welfare Advisory Committee
 
 That the 11th Report of the Animal Welfare
@@ -553,7 +536,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;(ADDED) 10th Report
   of the London Housing Advisory Committee
 
 That the 10th Report of the London Housing
@@ -576,7 +558,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;(ADDED) STAFF
   REPORT - Community Diversity and Inclusion Strategy Update
 
 That the Civic Administration BE DIRECTED

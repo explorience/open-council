@@ -12,13 +12,11 @@ February 7, 2017, at 12:01 PM
 > [!abstract]- Also Present:
 > M. van Holst, J. Zaifman; A. Zuidema, R. Armistead, A.L. Barbon, G. Bridge, S. Corman, M. Daley, D. Dobson, A. Dunbar, J. Edmunds, K. Graham, M. Hayward, L. Karidas, J.P. McGonigle, D. Mounteer, C. Saunders, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Reserve Fund Housekeeping
 
 That, on the recommendation of the Managing
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Vendor of Record (VOR) OSS-00415819 Arrangement for Mobile Devices and
   Services
 
@@ -112,7 +109,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Debenture Issuance
 
 That, on the recommendation of the Managing
@@ -141,7 +137,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Streaming Offsite Standing Committee Meetings
 
 That, on the recommendation of the
@@ -166,7 +161,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London Days at Budweiser Gardens - United Way London & Middlesex
 
 That the following actions be taken with
@@ -213,7 +207,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Proposed Election Sign By-law
 
 That the following actions be taken with
@@ -298,7 +291,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -366,7 +358,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -432,7 +423,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointments to the Cycling Advisory Committee
 
 That
@@ -461,7 +451,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Trees and Forests Advisory Committee
 
 That Randy Walker BE APPOINTED to the Trees
@@ -485,7 +474,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Canada 150 London - Proposed Community Celebration Event and
   Promotion
 
@@ -520,7 +508,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Provincial Tax Reduction Legislation - Vacant Buildings
 
 That the Civic Administration BE DIRECTED
@@ -545,7 +532,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL MEMBER ENQUIRY – Farm Property
   Assessments
 
 That it BE NOTED that Councillor J. Helmer

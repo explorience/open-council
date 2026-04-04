@@ -20,11 +20,9 @@ October 11, 2022, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following members were in remote attendance, Councillors M. van Holst, M. Salih, J. Helmer, M. Hamou, A. Hopkins, P. van Meerbergen, S. Turner, S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Hamou
 
@@ -80,7 +78,6 @@ That the 5th Report of the Diversity, Inclusion and Anti-Oppression Community Ad
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - Public Participation Meeting - Amendments to Consolidated Fees and Charges By-law
 
@@ -291,7 +288,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointments to the Striking Committee
 
@@ -336,11 +332,9 @@ it being noted that the Striking Committee will proceed with the above-noted mem
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Lehman
 
@@ -378,7 +372,6 @@ The Strategic Priorities and Policy Committee convenes in Closed Session from 6:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Turner
 

@@ -15,7 +15,6 @@ January 30, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, S. Datars Bere, A. Hagan, M. Hayward, J. Kobarda, L. Livingstone, M. Marcellin, V. McAlea Major, D. Mounteer, D. O’Brien, M. Ribera, C. Saunders, A. Thompson
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That is BE NOTED that the following
@@ -44,7 +43,6 @@ d)           
   to do with an appointment to the London Police Services Board, by indicating
   that S. Marentette was his election campaign manager.
 
-# 2.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for Delegation Status - Richard Robson, Executive Director, London
   Police Association
 
@@ -132,7 +130,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Police
   Services Board
 
 That the resignation of Paul Paolatto from
@@ -283,7 +280,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Eldon House
 
 That the resignation of Mike Donachie from
   Eldon House BE ACCEPTED, and Marvin Recker BE APPOINTED to the Eldon House
@@ -337,7 +333,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;1st Report of the
   Outstanding London Ambassador Award Committee
 
 That the following actions be taken with
@@ -401,7 +396,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Request for London Police Services/City of London Liaison
   Committee
 
@@ -431,7 +425,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Rapid Transit Implementation Working Group
 
 That the resignation of Councillor J.
@@ -463,7 +456,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL MEMBER SUBMISSION –
   Sanctuary City
 
 That the following actions be taken in

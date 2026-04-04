@@ -15,10 +15,8 @@ April 30, 2013, at  2:35 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, D. Brown, J.M. Fleming, T. Grawey, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   77 Tecumseh Avenue West (Z-8136)
 
 Recommendation:  That, on the

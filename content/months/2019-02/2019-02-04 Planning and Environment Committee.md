@@ -20,11 +20,9 @@ February 4, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -44,7 +42,6 @@ That Items 2.1 to 2.4, inclusive, BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - 240 Oakland Avenue (SPA18-098) 
 
@@ -218,7 +215,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;L .Kirkness, Kirkness Consulting Inc - Request for Delegation Status - 894 Adelaide Street North
 
@@ -260,11 +256,9 @@ That L. Kirkness, Kirkness Consulting Inc., BE GRANTED delegation status at the 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:12 PM.
 

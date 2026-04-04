@@ -20,11 +20,9 @@ August 14, 2023, at  4:00 PM
 
 The meeting is called to order at 4:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -185,7 +183,6 @@ That the request for delegation status by U. Hecht relating to the property loca
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Demolition Request for Heritage Property - 763-769 Dundas Street
 
@@ -590,7 +587,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Facilitation of London as a Bird Friendly City by Nature Canada - B. Samuels, Coordinator, Bird Friendly London
 
@@ -627,7 +623,6 @@ it being noted that the Planning and Environment Committee received a communicat
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 9th Report of the Community Advisory Committee on Planning
 
@@ -658,7 +653,6 @@ b) clauses 1.1, 3.1, 3.2 and 3.3, 4.1, 5.1 to 5.6, inclusive, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:07 PM.
 ---

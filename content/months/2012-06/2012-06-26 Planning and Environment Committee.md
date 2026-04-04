@@ -15,10 +15,8 @@ June 26, 2012, at  4:33 PM
 > [!abstract]- Also Present:
 > B. Henry
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 725 and 751 Fanshawe Park Road West (H-8050)
 
 Recommendation:  That, on the

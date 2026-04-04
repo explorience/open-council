@@ -17,11 +17,9 @@ March 4, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Lehman discloses a pecuniary interest in item 4.5 having to do with the confirmation of appointments to the London Downtown Business Association (LDBA), by indicating he is a member of the LDBA.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2019 Assessment Growth Funding Allocation
 
@@ -171,7 +169,6 @@ To ensure it is maximizing its investment in housing, civic administration BE DI
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
@@ -353,7 +350,6 @@ it being noted that the attached presentation from the City Manager and the Mana
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the Governance Working Group
 
@@ -700,11 +696,9 @@ That the update from the Mayor BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -744,7 +738,6 @@ The Strategic Priorities and Policy Committee recesses at 7:35 PM, and reconvene
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 10:02 PM.
 

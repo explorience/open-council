@@ -12,26 +12,21 @@ June 20, 2016, at  4:03 PM
 > [!abstract]- Also Present:
 > B. Armstrong, A. Hopkins, M. van Holst; G. Barrett, J.M. Fleming, K. Gonyou, T. Grawey, P. Kokkoros, G. Kotsifas, I. Listar, J. MacKay, A. MacLean, A. Macpherson, D. MacRae, L. Maitland, L. McDougall, L. Mottram, N. Pasato, L. Pompilii, J. Ramsay, A. Riley, C. Saunders, C. Smith, S. Spring, M. Tomazincic, B. Turcotte, A-B. Watson, S. Wilson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   Advisory Committee on the Environment
 
-# 3.&nbsp;&nbsp;&nbsp;6th Report of the
   Trees and Forests Advisory Committee
 
 That the 6th Report of the Trees and
   Forests Advisory Committee from its meeting held on June 1, 2016, BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;7th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-# 5.&nbsp;&nbsp;&nbsp;Trail Planning in Environmentally
   Significant Areas – 2016 Update
 
 Motion
@@ -51,7 +46,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Mathers Cemetery
 
 That, on the recommendation of the Managing
   Director, Planning and City Planner, the proposed by-law appended to the revised
@@ -61,7 +55,6 @@ That, on the recommendation of the Managing
   to 3551 Colonel Talbot Road; it being noted that this matter has been
   considered by the London Advisory Committee on Heritage.   (2016-S09)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   335 Thames Street, King Street Bridge
 
 That, on the recommendation of the Managing
@@ -74,7 +67,6 @@ That, on the recommendation of the Managing
   in compliance with the requirements of the Ontario Heritage Act.  
   (2016-R01)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   864-872 Dundas Street
 
 That, on the recommendation of the Managing
@@ -87,10 +79,8 @@ That, on the recommendation of the Managing
   in compliance with the requirements of the Ontario Heritage Act. 
   (2016-R01)
 
-# 10.&nbsp;&nbsp;&nbsp;Stoney Creek South
   Subdivision (39T-04512)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   2253 Richmond Street (H-8581)
 
 That, on the recommendation of the Manager,
@@ -104,10 +94,8 @@ That, on the recommendation of the Manager,
   Zone TO a Residential R1 (R1-5) Zone and a Holding Residential R1
   (h-114*R1-5) Zone to remove the holding h and h-100 provisions.  (2016-D09)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   805 Killarney Road (Part Block 141 in Plan 33M-580) (P-8612)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   1490 Highbury Avenue North (H-8615)
 
 That, on the recommendation of the Senior
@@ -120,10 +108,8 @@ That, on the recommendation of the Senior
   Office Special Provision (RO2(20)) Zone  to remove the “h” and “h-18” holding
   provision.  (2016-D09)
 
-# 14.&nbsp;&nbsp;&nbsp;Claimable Works for
   1030 Coronation Drive
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   7186 Isaac Drive (H-8496)
 
 That, on the recommendation of the Senior
@@ -136,7 +122,6 @@ That, on the recommendation of the Senior
   Residential R6 (R6-1 D10) Zone to remove the “h.” and “h-5” holding
   provisions. (2016-D09)
 
-# 16.&nbsp;&nbsp;&nbsp;Consideration of
   City-Initiated Amendments to the Z.-1 Zoning By-law
 
 That, on the recommendation of the Manager,
@@ -146,13 +131,11 @@ That, on the recommendation of the Manager,
   report dated June 20, 2016 for consideration at a future public participation
   meeting of the Planning and Environment Committee. (2016-D14)
 
-# 17.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for April 2016
 
 That the Building Division Monthly Report
   for April 2016 BE RECEIVED.   (2016-A23)
 
-# 18.&nbsp;&nbsp;&nbsp;7th Report of the
   London Advisory Committee on Heritage
 
 The following actions be taken with respect
@@ -176,7 +159,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   193 Clarke Road (SPA16-001)
 
 Motion
@@ -219,7 +201,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (SP15-030856)
 
 Motion
@@ -262,7 +243,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Area (Z-8602)
 
 Motion
@@ -302,7 +282,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   4680 Wellington Road South (Z-8603)
 
 That,  based on the recommendation of the
@@ -359,7 +338,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   5221 Cook Road
 
 Motion
@@ -402,7 +380,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Property located at
   455 Clarence Street (Z-8560)
 
 Motion
@@ -445,7 +422,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Property located at
   1691 Hamilton Road - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-13502/OZ-8147)
 
@@ -489,7 +465,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Properties located
   at 175, 179 and 181 King Street
 
 it being pointed
@@ -537,7 +512,6 @@ Motion
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Properties located
   at 1179 and 1185 Riverside Drive (39CD-16503/Z-8594)
 
 Motion
@@ -580,7 +554,6 @@ Motion
 
 ****
 
-# 28.&nbsp;&nbsp;&nbsp;Properties located
   at 704 and 706 Boler Road (39T-15503/Z-8505)
 
 Motion
@@ -623,7 +596,6 @@ Motion
 
 ****
 
-# 29.&nbsp;&nbsp;&nbsp;Properties located
   at 240 Waterloo Street and 358 Horton Street East (OZ-8598)
 
 That, on the recommendation of the Managing
@@ -731,7 +703,6 @@ Motion
 
 ****
 
-# 30.&nbsp;&nbsp;&nbsp;Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
 Motion
@@ -772,7 +743,6 @@ Motion
 
 ****
 
-# 31.&nbsp;&nbsp;&nbsp;PEC Deferred List
 
 The Planning and Environment Committee
   reviewed and received the PEC Deferred List as of March 22, 2016.

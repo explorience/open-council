@@ -18,7 +18,6 @@ March 26, 2013, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -79,13 +78,10 @@ Councillor Armstrong discloses a pecuniary
   purpose  and advice of officers and employees of the Corporation, including
   communications necessary for that purpose.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;(ADDED) Indemnification of Council Members
 
 Councillor D. Henderson enquired about what
   insurances can be obtained to protect Council Members as they carry out their
@@ -94,7 +90,6 @@ Councillor D. Henderson enquired about what
   the City Solicitor provide Councillor Henderson with the previous staff
   report on this matter.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor B. Polhill
@@ -138,9 +133,7 @@ The Committee of the Whole rises and
   Council resumes in regular session at 5:00 PM with Mayor J.F. Fontana in the
   Chair and all Members present except Councillors J.P. Bryant and S.E. White.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 2.&nbsp;&nbsp;&nbsp;(ADDED) Downtown
   Maintenance
 
 Councillor H.L. Usher enquired about the
@@ -150,7 +143,6 @@ Councillor H.L. Usher enquired about the
   Services and City Engineer, for review and report back to the Civic Works
   Committee.
 
-# 3.&nbsp;&nbsp;&nbsp;(ADDED) The Tree of
   Light Show
 
 Councillor H.L. Usher enquired about the
@@ -161,7 +153,6 @@ Councillor H.L. Usher enquired about the
   review, in liaison with Tourism London, and report back to the Community and
   Protective Services Committee.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH AND SIXTH MEETINGS HELD ON FEBRUARY
   28, 2013 AND MARCH 5, 2013, RESPECTIVELY
 
@@ -199,7 +190,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -211,7 +201,6 @@ Approve referral of the following
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;(ADDED) Parking Costs in the Downtown Core
 
 Councillor W.J. Armstrong enquired about
   the possibility of conducting a quick analysis of parking costs in the
@@ -221,10 +210,8 @@ Councillor W.J. Armstrong enquired about
   Services and Chief Building Official, for report back to the Civic Works
   Committee.
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor D. Brown
 
@@ -232,7 +219,6 @@ approve clauses 1 to 12, excluding clauses 9 and 10.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;(ADDED) Police Operation of On-Board Automated
   Electronic Defibrillators
 
 Councillor W.J. Armstrong enquired about
@@ -241,7 +227,6 @@ Councillor W.J. Armstrong enquired about
   advised that the matter is currently under review and will be reported upon
   in due course.
 
-# 6.&nbsp;&nbsp;&nbsp;North Lambeth
   Estates Subdivision - Phase 3 (39T-00510-3)
 
 That, on the recommendation of the Senior
@@ -268,7 +253,6 @@ c)         the
   and Revenues” provided as Schedule “B” to the associated staff report, dated
   March 19, 2013.   (2013-D12)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 613 to 629 First Street and 1461 to 1465 Oxford Street East (H-8127)
 
 That, on the recommendation of the Senior
@@ -281,7 +265,6 @@ That, on the recommendation of the Senior
   (h-88*R10-1*H40) Zone TO a Residential R10 (R10-1*H40) Zone, to remove the
   holding provision. (2013-D14A)
 
-# 8.&nbsp;&nbsp;&nbsp;Review of Holding
   Provision Requirements in Zoning By-law Z.-1
 
 That, the following actions be taken with
@@ -299,7 +282,6 @@ b)         the
   Environment Committee with respect to the amendment noted in part a),
   above.   (2013-C01)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1815 Dundas Street (Z-8135)
 
 That, on the recommendation of the Managing
@@ -355,7 +337,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization - Next Steps - Preparing for a Feed-In-Tariff Submission
 
 That, on the recommendation of the Director
@@ -405,7 +386,6 @@ e)         the
   Civic Administration BE DIRECTED to report back to the Civic Works Committee
   with the results of the RFP process.  (2013-E19)
 
-# 10.&nbsp;&nbsp;&nbsp;Zoning By-law No.
   Z.-1 Text Amendments (Z-7992)
 
 That, on the recommendation of the Senior
@@ -438,13 +418,11 @@ it being noted that the Planning and
   Environment Committee received a delegation from M. Doornbosch, Zelinka
   Priamo Ltd. regarding this matter.     (2013-D14A)
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for January 2013
 
 That the Building Division Monthly Report
   for January 2013 BE RECEIVED.   (2013-D00)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1311, 1363 and 1451 Wharncliffe Road South (OZ-8087)
 
 That, the application of Sifton Properties
@@ -564,7 +542,6 @@ it being pointed
   (2013-D14A)
   (13/7/PEC)
 
-# 14.&nbsp;&nbsp;&nbsp;Enquiry - Property
   located at Huron Street and Adelaide Street North
 
 That, the Managing Director, Planning and
@@ -597,7 +574,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Elimination of
   Issuing Parking Tickets to Commercial Operating/Car Dealerships Displaying
   Vehicles on Boulevards
 
@@ -637,7 +613,6 @@ Approve clauses 1 to 14, except clause 11.
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Environmental Bill
   of Rights Registry Request for Comment - Michigan Recyclables Processing
 
 That the Civic Administration BE REQUESTED
@@ -672,14 +647,12 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
 
 That the Forest City Beer Fest to be held
   Saturday, August 3, 2013, at Museum London, BE DESIGNATED as a
   municipally-significant event
 
-# 18.&nbsp;&nbsp;&nbsp;Resignation from
   the Advisory Committee on the Environment and from the Environmental and
   Ecological Planning Advisory Committee
 
@@ -689,7 +662,6 @@ That the communication dated February 19,
   Committee, BE ACCEPTED and Mr. Yousseff BE THANKED for participating on the
   Committees.
 
-# 19.&nbsp;&nbsp;&nbsp;Appointment to the
   Accessibility Advisory Committee
 
 That the following BE APPOINTED to the
@@ -702,7 +674,6 @@ Voting:
 -           Antoinette Dona (Parent of a
   Child with a Disability)
 
-# 20.&nbsp;&nbsp;&nbsp;Appointment to the
   Advisory Committee on the Environment
 
 That the following individual BE APPOINTED
@@ -714,7 +685,6 @@ Voting:
 -           Trevor Kolybaba
   (Member-at-Large)
 
-# 21.&nbsp;&nbsp;&nbsp;Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
 That the following BE APPOINTED to the
@@ -732,7 +702,6 @@ Voting:
 -           Chris Smart (Member-at-Large)
 -           Brennan Vogel (Member-at-Large)
 
-# 22.&nbsp;&nbsp;&nbsp;Appointment to the
   Trees and Forests Advisory Committee
 
 That the following BE APPOINTED to the
@@ -745,7 +714,6 @@ Voting:
 -           Paul Williamson
   (Member-at-Large)
 
-# 23.&nbsp;&nbsp;&nbsp;Appointment to the
   Transportation Advisory Committee
 
 That the following BE APPOINTED to the
@@ -758,7 +726,6 @@ Voting:
 -           Michael Clark (Old East Village
   BIA)
 
-# 24.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following individual BE APPOINTED
@@ -770,7 +737,6 @@ Voting:
 -           Bill Hall (London District
   Catholic School Board Representative)
 
-# 25.&nbsp;&nbsp;&nbsp;Request for Support
   re Bell Media and Astral Media Inc.
 
 That the Director of Intergovernmental and
@@ -780,7 +746,6 @@ That the Director of Intergovernmental and
   emphasis on the need for protection of local talent, production, content and
   artists in order to preserve the unique interests of local communities.
 
-# 26.&nbsp;&nbsp;&nbsp;Special Meeting –
   March 26, 2013
 
 That the Committee Secretary BE DIRECTED to
@@ -888,15 +853,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1133,7 +1094,6 @@ The Committee of the Whole rises and
   Chair and all Members present except Councillors W.J. Armstrong, D. Brown and
   S.E. White.
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

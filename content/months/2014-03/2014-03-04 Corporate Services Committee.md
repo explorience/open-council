@@ -15,13 +15,11 @@ March 4, 2014, at  1:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, F. Angeletti (Filion, Wakely, Thorup, Angeletti LLP), J. Braam, A. Hagan, G.T. Hopcroft, V. McAlea Major, D. Mounteer, K. Owen, M. Ribera, C. Saunders, J. Smout, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Restricted Acts of
   Council After Nomination Day and Voting Day - "Lame Duck" Council
 
 Recommendation:  That, on the
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Expropriation of
   Lands - Hyde Park Road Widening Project - Phase ll - TS1477-2
 
 Recommendation:  That, on the
@@ -95,7 +92,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Statement of
   Remuneration and Expenses - Elected and Appointed Officials
 
 Recommendation:  That, in accordance with
@@ -119,7 +115,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Delegated Signing
   Authority - Energy Conservation Incentive Applications
 
 Recommendation:  That, on the
@@ -149,7 +144,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Single Source -
   Supply and Install Stonedeck Floor Coating to the Controlled Basement Parking
   Area in City Hall
 
@@ -188,7 +182,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Declare Surplus -
   City-Owned Land - Untraveled Section of Hill Street Road Allowance
 
 Recommendation:  That, on the
@@ -224,7 +217,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Declare Surplus and
   Offer for Sale - One Foot Strip of City-Owned Land Between 167 and 169
   Elworthy Avenue
 
@@ -260,7 +252,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Declare Surplus and
   Offer for Sale - Five Metre Strip of City-Owned Land Abutting 6 Empress
   Avenue
 
@@ -296,7 +287,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Declare Surplus
   City-Owned Land - Colborne Street Diversion
 
 Recommendation:  That, on the
@@ -331,7 +321,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Council Members'
   Expense Account Policy 28(2)
 
 Recommendation:  That the following actions
@@ -365,7 +354,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;City of London's
   Declaration of Office
 
 Recommendation:  That the communication
@@ -389,7 +377,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for
   Designation of the London Rib Fest as a Municipally Significant Event
 
 Recommendation:  That the London Rib Fest,
@@ -412,7 +399,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Request for
   Designation of the International Food Festival as a Municipally Significant
   Event
 
@@ -436,7 +422,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Advisory Committee on Heritage
 
 Recommendation:  That Doug Bricknell, from
@@ -459,7 +444,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Trees and Forests Advisory Committee
 
 Recommendation:  That Chris Haindl,
@@ -483,7 +467,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Child Care Advisory Committee
 
 Recommendation:  That Ailene Wittstein BE

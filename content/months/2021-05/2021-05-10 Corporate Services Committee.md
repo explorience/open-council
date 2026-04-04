@@ -17,11 +17,9 @@ May 10, 2021, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors M. van Holst, E. Peloza and A. Kayabaga.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -235,11 +233,9 @@ That, notwithstanding the provisions of the Council Policy "Remuneration for Ele
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;How to Strengthen Accountability for Municipal Council Members
 
@@ -348,7 +344,6 @@ d)      clauses 3.1 and 4.4 BE RECEIVED for information.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Application - Issuance of Proclamation - June is Deafblind Awareness Month
 
@@ -373,7 +368,6 @@ That based on the application dated May 6, 2021 from Sensity Deafblind and Senso
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -420,7 +414,6 @@ The Corporate Services Committee convenes, In Closed Session, from 1:14 PM to 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. van Holst
 

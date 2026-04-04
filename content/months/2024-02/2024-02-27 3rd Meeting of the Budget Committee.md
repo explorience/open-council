@@ -20,11 +20,9 @@ February 27, 2024, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that Councillors P. Van Meerbergen, S. Lehman, and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2024-2027 Multi-Year Budget Reconciliation to the Public Sector Accounting Board (PSAB) Financial Statement Budget
 
@@ -62,7 +60,6 @@ b)    the Civic Administration BE DIRECTED to update the Reconciliation to ref
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:00 PM - Budget
 
@@ -507,19 +504,15 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

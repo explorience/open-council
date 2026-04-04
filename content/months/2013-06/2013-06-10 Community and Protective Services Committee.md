@@ -12,10 +12,8 @@ June 10, 2013, at  3:00 PM
 > [!abstract]- Also Present:
 > S. Orser, M. Henderson, O. Katolyk, G. Kotsifas, M. Ribera, R. Sharpe, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Food Truck Proposal
 
 Recommendation:  That the matter of a
   City-wide food truck pilot program BE REFERRED back to the Civic

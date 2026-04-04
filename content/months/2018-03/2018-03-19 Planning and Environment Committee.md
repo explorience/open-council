@@ -17,11 +17,9 @@ March 19, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner disclosed a pecuniary interest in clause 3.2 of this Report, having to do with the application by the London Health Science Centre with respect to the property located at 825 Commissioners Road East, by indicating that his wife's employer, ChildReach, operates a program at this location.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by T. Park
 
@@ -223,7 +221,6 @@ That, on the recommendation of the Managing Director, Development and Compliance
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:00 PM - Planning Application - 50 Charterhouse Crescent  (Z-8834)
 
@@ -796,7 +793,6 @@ Motion to open the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;3rd Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -907,7 +903,6 @@ That, on the recommendation of the Managing Director, Planning and City Planner,
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;PEC Deferred List
 
@@ -1036,7 +1031,6 @@ k)            clauses 1.1, 3.1 and 5.2 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:34 PM.
 

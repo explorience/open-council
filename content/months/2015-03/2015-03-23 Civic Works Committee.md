@@ -12,7 +12,6 @@ March 23, 2015, at  1:02 PM
 > [!abstract]- Also Present:
 > A. Hopkins, M. Salih; J. Braam, T. Copeland, A. Dunbar, A. Drost, G. Irwin, J. Lawrence, J. Lucas, D. MacRae, S. Maguire, S. Mathers, L. Rowe, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer disclosed
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor J. Helmer disclosed
   Post Community Mailbox Program, by indicating that his spouse is employed by Canada
   Post.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   LTC Long Term Growth Report Working Group
 
 That the 1st Report of the LTC Long Term
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2015 Dig Safe
   Campaign
 
 That, on the recommendation of the
@@ -69,7 +66,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -96,7 +92,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Single Source
   15-10, Supply and Delivery of Glass Beads and Traffic Paint (EMOP - County of
   Middlesex)
 
@@ -142,7 +137,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender T15-04, 2015 Growth Management Implementation Strategy (GMIS)
   Southwest Area Trunk Sanitary Sewer- Phase 1
 
@@ -201,7 +195,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Replacement of Rear
   Loading Garbage Packers, Tender 15-32 and T15-33
 
 That, on the recommendation of the Managing
@@ -248,7 +241,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Detailed Design and Contract Administration for the
   Construction of Fox Hollow SWM Facility No. 3 (ES3020-FH3)
 
@@ -300,7 +292,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry - Ontario's Climate Change Discussion
   Paper 2015
 
@@ -338,7 +329,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-06 Highbury Avenue Over CN Rail Bridge Rehabilitation
 
 That, on the recommendation of the Managing
@@ -393,7 +383,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-10 Hyde Park Road Widening Phase 2 CPR to Fanshawe Park Road
 
 That, on the recommendation of the Managing
@@ -449,7 +438,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Fanshawe Park Road
   and Richmond Street Intersection Improvements- Environmental Assessment Study-Appointment
   of Consulting Engineer
 
@@ -498,7 +486,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Single Source 15-11
   Pay and Display Parking Meters
 
 That, on the recommendation of the Managing
@@ -545,7 +532,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Tender 14-116
   Supply and Installation of Sewer Liners - Cured In Place Pipe (CIPP)
 
 That, on the recommendation of the Managing
@@ -590,7 +576,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Canada Post
   Community Mailboxes
 
 That the following actions be taken with
@@ -646,7 +631,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Program - Unassumed Subdivisions
 
 That the Civic Administration BE REQUESTED
@@ -672,7 +656,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Review of Delegation Request Process
 
 That the City Clerk BE REQUESTED to report
   back with a means by which the City Clerk could determine, in advance of an
@@ -697,7 +680,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Speed Limits in School Zones
 
 That the Civic Administration BE REQUESTED
   to report back at a future meeting of the Civic Works Committee with respect

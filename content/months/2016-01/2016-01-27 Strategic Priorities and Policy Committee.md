@@ -12,7 +12,6 @@ January 27, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, F. Angeletti (outside Counsel), A. Hagan, V. McAlea Major, J. McNair (outside Counsel), C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that pecuniary interests

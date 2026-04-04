@@ -20,13 +20,11 @@ November 4, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -424,7 +422,6 @@ That, on the recommendation of the City Clerk, the proposed by-law appended to t
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 12th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -792,13 +789,11 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Environmental Considerations Relating to Studies and Reports
 
@@ -826,7 +821,6 @@ c)         the Civic Administration BE REQUESTED to review the plan for 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:09 PM.
 

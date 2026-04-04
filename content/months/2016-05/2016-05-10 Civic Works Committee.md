@@ -12,7 +12,6 @@ May 10, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > B. Armstrong, P. Hubert, M. Salih, H. L. Usher; A. Zuidema, G. Belch, J. Braam, T. Copeland, A. Drost, A. Dunbar, D. Estrin (outside Counsel), G. Irwin, J. Lucas, A. Macpherson, S. Mathers, M. Ribera, L. Rowe, J. Smout, E. Soldo, J. Stanford, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor M. van
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor M. van
   with the closing of part of Cedarpark Crescent and Kilcrest Way, by
   indicating that he is employed by the Thames Valley District School Board.
 
-# 2.&nbsp;&nbsp;&nbsp;Closing of Part of
   Cedarpark Crescent and Kilcrest Way
 
 That, on the recommendation of the Managing
@@ -58,7 +56,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Proposed Alternate
   Locate Agreement
 
 That, on the recommendation of the Managing
@@ -97,7 +94,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Selling Blue Boxes
   at the Envirodepots
 
 That, on the recommendation of the Managing
@@ -135,7 +131,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Options for
   Collection and Diversions of Christmas Trees
 
 That, on the recommendation of the Managing
@@ -184,7 +179,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Garbage Container
   Limits (Waste Diversion)
 
 That, on the recommendation of the
@@ -220,7 +214,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;"One
   River" - Master Plan Environmental Assessment
 
 That the Civic Administration BE DIRECTED
@@ -270,7 +263,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Irregular Result -
   Rotary Mowers
 
 That, on the recommendation of the Managing
@@ -322,7 +314,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Pay by App for
   Parking
 
 That, on the recommendation of the Managing
@@ -375,7 +366,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;5th Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -410,7 +400,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Aldersbrook Gate-
   Traffic Congestion and Safety Concerns
 
 That the Civic Administration BE DIRECTED
@@ -438,7 +427,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Garbage Can, Needle
   Bins and Signage - Downtown London
 
 That the following actions be taken with
@@ -513,7 +501,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred

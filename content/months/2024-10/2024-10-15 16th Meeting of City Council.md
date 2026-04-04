@@ -17,19 +17,15 @@ October 15, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen, S. Franke and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -103,7 +99,6 @@ At 1:10 PM, Councillor P. Van Meerbergen leaves the meeting.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by H. McAlister
 
@@ -134,15 +129,12 @@ That the Minutes of the 15th Meeting of the Municipal Council, held on September
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Community and Protective Services Committee
 
@@ -1395,7 +1387,6 @@ That the Accessibility Review from MNP dated September 3, 2024 BE RECEIVED.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;16th Report of the Council in Closed Session
 
@@ -1442,19 +1433,15 @@ That progress was made with respect to items 4.1, 4.2, 4.3, and 4.4, 4.5, 4.6, 4
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Stevenson enquires with respect to the office to residential conversion program and the occupancy status of the first approved project.  The Director and Chief Building Official provides a response.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -1627,7 +1614,6 @@ That Third Reading and Enactment of Added Bill No. 353, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by D. Ferreira
 
@@ -1641,7 +1627,6 @@ The meeting adjourned at 2:59 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 336**

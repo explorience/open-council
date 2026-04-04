@@ -12,7 +12,6 @@ September 7, 2016, at  4:11 PM
 > [!abstract]- Also Present:
 > T. Park, V. Ridley, H. L. Usher; J. Bos, J. Braam, T. Copeland, A. Henry, G. Irwin, S. Koshowski, J. Lucas, A. Macpherson, S. Mathers, D. Mounteer, L. Rowe, J. Simon, D. Simpson, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor M. van
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor M. van
   with the closing of part of Cedarpark Crescent, by indicating that he is
   employed by the Thames Valley District School Board.
 
-# 2.&nbsp;&nbsp;&nbsp;Closing of Part of
   Cedarpark Crescent
 
 That, on the recommendation of the Managing
@@ -54,7 +52,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London ON Bikes
   Cycling Master Plan
 
 That, on the recommendation of the Managing
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Unmanned Air
   Vehicles (UAV) Use in the Municipal Government Environment
 
 That, on the recommendation of the Managing
@@ -115,7 +111,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Exercise Renewal
   Options Curbside Collection and Material Recovery Facility Operations
   Contracts - Miller Waste Systems
 
@@ -156,7 +151,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Municipal Waste and
   Resource Materials Collection By-law Amendment
 
 That, on the recommendation of the
@@ -211,7 +205,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Water Meters and Electronic Radio Transmitters Single Source Procurement
 
 That, on the recommendation of the Managing
@@ -269,7 +262,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Water Meter
   Location Options for Residential Customers
 
 That, on the recommendation of the
@@ -294,7 +286,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Establishment of
   W12A Landfill Public Liaison Committee Point of Source Water Treatment 
   Program
 
@@ -333,7 +324,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;London Transit
   Commission's 2015 Annual Report
 
 That the London Transit Commission 2015
@@ -360,7 +350,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Lake Huron and
   Elgin Area Water Supply Systems
 
 That the summary overview document and the attached
@@ -385,7 +374,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Bannister Municipal
   Drain Improvements
 
 That, on the recommendation of the Managing
@@ -460,7 +448,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Curbside Snowplow
   Damage
 
 That the communication dated August 2, 2016,
@@ -484,7 +471,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -508,7 +494,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Relocation of Bus
   Routes Off Dundas Street
 
 That the following actions be taken with

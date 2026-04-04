@@ -22,7 +22,6 @@ December 14, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -48,7 +47,6 @@ That Councillor J. Fyfe-Millar BE ELECTED Vice-Chair of the Civic Works Committe
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -167,11 +165,9 @@ That, on the recommendation of the Deputy City Manager, Environment and Infrastr
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;A Conceptual Framework for Regional Transportation in London
 
@@ -202,7 +198,6 @@ it being noted that the staff presentation and a communication from R. Chambers,
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -227,7 +222,6 @@ That the Civic Works Committee Deferred Matters List as at December 6, 2021, BE 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:55 PM.
 ---

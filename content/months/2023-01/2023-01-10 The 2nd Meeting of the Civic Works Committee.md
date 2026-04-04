@@ -20,11 +20,9 @@ January 10, 2023, at 12:00 PM
 
 The meeting was called to order at 12:00 PM with Councillor C. Rahman in the Chair; it being noted that P. Van Meerbergen and P. Cuddy were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -146,15 +144,12 @@ it being noted that the communication as appended to the Added Agenda, from B. B
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Delegation - B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee - 1st Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -216,7 +211,6 @@ d)  the Municipal Council BE REQUESTED to direct Civic Administration to develo
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:01.
 ---

@@ -20,15 +20,12 @@ February 7, 2023, at  4:00 PM
 
 The meeting is called to order at 4:02 PM; it being noted that the following were in remote attendance Councillors P. Van Meerbergen and S. Hillier; it being further noted that Councillors S. Franke and E. Peloza were in remote attendance after 10:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - Dr. Jackie Schleifer Taylor, President and CEO, London Health Sciences Centre (LHSC)
 
@@ -61,7 +58,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee heard a dele
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London's Housing Pledge: A Path to 47,000 Units by 2031
 
@@ -662,11 +658,9 @@ c)  the Civic Administration BE REQUESTED to investigate and report back to the
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

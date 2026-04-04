@@ -15,19 +15,16 @@ December 7, 2016, at  4:08 PM
 > [!abstract]- Also Present:
 > J. Helmer; A. Zuidema, A.L. Barbon, S. Corman, M. Hayward, D. McLean (PwC), M. Ribera, J. Rodriguez, C. Saunders, C. Shah (PwC)
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2017
 
 That M. van Holst BE ELECTED Vice Chair of
   the Audit Committee for the term ending November 30, 2017.
 
-# 3.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for the City of London to Engage PricewaterhouseCoopers LLP on Behalf
   of the London & Middlesex Housing Corporation
 
@@ -40,7 +37,6 @@ That the request dated November 2, 2016,
   will be referred to the new outsourced internal auditor for the City of
   London, for incorporation into the new audit work plan.
 
-# 4.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Quarterly Report on Internal Audit Results
 
 That, on the recommendation of

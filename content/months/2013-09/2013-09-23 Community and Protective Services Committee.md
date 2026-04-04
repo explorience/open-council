@@ -12,10 +12,8 @@ September 23, 2013, at  7:00 PM
 > [!abstract]- Also Present:
 > A. Barbon, G. Belch, B. Coxhead, S. Datars Bere, L. Livingstone, L. Marshall, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 9th Report of the
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Town and Gown Committee
 
 Recommendation:  That the 3rd Report of the
@@ -63,7 +60,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Long Term Care and
   Adult Day Program, Management Consulting and Administrator Services Contract
 
 Recommendation:  That, on the

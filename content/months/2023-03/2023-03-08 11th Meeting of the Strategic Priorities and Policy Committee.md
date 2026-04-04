@@ -20,15 +20,12 @@ March 8, 2023, at  4:00 PM
 
 The meeting is called to order at 4:04 PM, it being noted that Councillors S. Franke, S. Hillier and P. Van Meerbergen were in remote attendance; it being further noted that Councillors S. Lewis and E. Peloza were in remote attendance after 7:39 PM and 9:41 PM respectively.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - Public Participation Meeting - Council's Draft 2023-2027 Strategic Plan
 
@@ -206,7 +203,6 @@ The Committee recesses at 6:34 PM and reconvenes at 7:08 PM.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) Developing Council's 2023-2027 Strategic Plan: Community Engagement Update
 
@@ -401,11 +397,9 @@ That, the Strategic Area of Focus: Economic Growth, Culture, and Prosperity, Out
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

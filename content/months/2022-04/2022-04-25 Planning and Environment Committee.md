@@ -17,11 +17,9 @@ April 25, 2022, at  4:00 PM
 
 The meeting was called to order at 4:18 PM, with Councillor A. Hopkins in the Chair, Deputy Mayor J. Morgan; Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -116,7 +114,6 @@ That, the staff report dated April 25, 2022 entitled "Annual Report on Building 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1055 Fanshawe Park Road West (OZ-9444)
 
@@ -376,7 +373,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Heritage Alteration Permit – 18 Byron Avenue East (HAP22-016-L)
 
@@ -495,11 +491,9 @@ d) clauses 1.1, 3.1 to 3.5, inclusive, 4.1 and 5.1 BE RECEIVED for information.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:31 PM.
 

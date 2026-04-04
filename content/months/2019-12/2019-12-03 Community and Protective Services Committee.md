@@ -14,7 +14,6 @@ December 3, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -40,7 +39,6 @@ That Councillor P. Squire BE ELECTED Vice-Chair of the Community and Protective 
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -236,7 +234,6 @@ it being further noted that the attached presentation from C. Cooper, Manager, H
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Vaping in Schools and Student Health 
 
@@ -338,7 +335,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Policies and Funding - Arts and Culture - K. O'Neill - Request for Delegation Status
 
@@ -363,7 +359,6 @@ That the delegation request by K. O’Neill with respect to policies and funding
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -415,11 +410,9 @@ b)            clauses 1.1, 2.1, 2.2, 3.1 to 3.5, 5.1 to 5.3, 5.5 and 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:57 PM.
 

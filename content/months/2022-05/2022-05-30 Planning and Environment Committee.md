@@ -20,11 +20,9 @@ May 30, 2022, at  4:00 PM
 
 The meeting was called to order at 4:01 PM, with Councillor A. Hopkins in the Chair, Councillor S. Lewis present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -142,7 +140,6 @@ That the Building Division Monthly Report for the month of March, 2022  BE RECE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Definition of " Public Park" in Zoning By-law Z-1 / City-Wide
 
@@ -694,11 +691,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
@@ -732,7 +727,6 @@ d)  clauses 1.1, 1.2, 2.1, 3.1 to 3.7, inclusive, 4.1, 5.2, 5.3 and 6.1 to 6.3
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Instructions for OLTAppeal, OLT-22-002053 (2624 Woodhull Road) -  File No. A.146/21 and B.008/21
 
@@ -758,7 +752,6 @@ The Planning and Environment Committee convenes, in Closed Session, from 6:11 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:31 PM.
 ---

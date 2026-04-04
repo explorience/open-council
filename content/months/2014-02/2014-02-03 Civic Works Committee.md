@@ -12,13 +12,11 @@ February 3, 2014, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Braam, T. Copeland, A. Dunbar, B. Krichker, J. Lucas, L. Rowe, R. Sharpe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Contract Award -
   Dingman Creek Stormwater Management Erosion Control Wetland Facility (ES2682)
   (Tender No. T13-89)
 
@@ -85,7 +83,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Granular Materials
   - Area "A"  and Area "B" (Tender 13-113)
 
 Recommendation:  That, on the
@@ -132,7 +129,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Pollution
   Prevention and Control Plan - Consultant Appointment Continuation (ES2464-11)
 
 Recommendation:  That, on the recommendation
@@ -185,7 +181,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of the Fox Hollow SWM Facility No.
   1 - South Cell and Woodlot Berm (ES3020 - FH1)
@@ -246,7 +241,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Notice of
   Completion of the Southwest Area Sanitary Servicing Master Plan: Municipal
   Class Environmental Assessment for the Southland Wastewater Treatment Plant
   and Proposed Sanitary Servicing of the Southwest Area (ES5260)
@@ -290,7 +284,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Application by City
   of London - Street Renaming of Tennent Avenue (East Leg)
 
 Recommendation:  That, on the
@@ -319,7 +312,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Proposed Waste
   Reduction Act and Related Matters for Financing the Blue Box Program
 
 Recommendation:  That, on the

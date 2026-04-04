@@ -12,10 +12,8 @@ July 30, 2013, at  2:30 PM
 > [!abstract]- Also Present:
 > J.P. Barber, L. Livingstone, L. Marshall, C. Smith
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Neighbourhood Watch
   London
 
 Recommendation:  That, on the

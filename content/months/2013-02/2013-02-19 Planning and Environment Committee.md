@@ -15,14 +15,12 @@ February 19, 2013, at  7:12 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, H.L. Usher, J.M. Fleming, E. Lalande, D. O’Brien, R. Sharpe, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
 None
 
 None
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   527
   Wellington Road
 

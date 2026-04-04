@@ -17,11 +17,9 @@ January 13, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor C. Rahman disclosed a pecuniary interest in item 2.6, having to do with Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East, by indicating that Fanshawe College is her employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -331,15 +329,12 @@ That the delegation request by C. Butler BE APPROVED to be heard at this time.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Infrastructure and Corporate Services Committee Deferred Matters List
 
@@ -364,7 +359,6 @@ That the January 6, 2025 Deferred Matters List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -403,7 +397,6 @@ The Infrastructure and Corporate Services Committee convenes In Closed Session f
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

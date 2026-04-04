@@ -12,10 +12,8 @@ April 11, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. van Holst; G. Barrett, P. Christiaans, A. DiCicco, M. Elmadhoon, J.M. Fleming, T. Grawey, G. Kotsifas, E. Lalande, A. MacLean, A. Macpherson, N. Pasato, L. Pompilii, J. Ramsay, M. Ribera, C. Saunders, M. Tomazincic
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Richmond North
   (Phase 2) Subdivision (39T-04513)
 
 That, on the recommendation of the Manager,
@@ -60,7 +58,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;West Coronation
   Subdivision (39T-13505)
 
 That, on the recommendation of the Manager,
@@ -113,7 +110,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 181 and 199 Commissioners Road East - Extension to Draft Plan of
   Subdivision Approval (39T-08501)
 
@@ -155,7 +151,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for February 2016
 
 That the Building Division Report for the
@@ -176,7 +171,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 232 to 240 Oakland Avenue (Z-8578)
 
 That, on the recommendation of the Managing
@@ -264,7 +258,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;4th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -329,7 +322,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road
   (Cedarhollow Subdivision) (Z-8596)
 
@@ -461,7 +453,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Community Urban
   Agriculture Opportunities
 
 The Civic Administration BE DIRECTED to

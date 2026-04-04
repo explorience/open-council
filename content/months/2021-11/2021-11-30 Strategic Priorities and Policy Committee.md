@@ -19,11 +19,9 @@ November 30, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest with respect item 4.10, having to do with the London Public Library (LPL) Board of Directors vacancy, by indicating that his spouse is employed by the LPL.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Strategy to Reduce Core Area Vacancy
 
@@ -131,7 +129,6 @@ That, on the recommendation of the City Manager, the staff report dated November
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - Brian Hill, Member - 9th Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
 
@@ -185,7 +182,6 @@ it being noted that the Strategic Priorities and Policy Committee received a ver
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
 
@@ -984,7 +980,6 @@ c) bring forward applications, noted in parts a) and b), above for consideration
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Governance Working Group Membership
 
@@ -1015,7 +1010,6 @@ That members who may be interested in an appointment to the Governance Working G
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Hamou
 

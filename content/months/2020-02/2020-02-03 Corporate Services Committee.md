@@ -20,11 +20,9 @@ February 3, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;3rd Report of the City Manager Search Committee
 
@@ -47,11 +45,9 @@ That the 3rd Report of the City Manager Search Committee, from its meeting held 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
 
@@ -97,7 +93,6 @@ Appointments to vacancies on the Advisory Committee on the Environment
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -120,7 +115,6 @@ That the Corporate Services Committee Deferred Matters List, as of January 24, 2
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -165,7 +159,6 @@ The Corporate Services Committee convened, In Closed Session, from 12:09 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:16 PM.
 

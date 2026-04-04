@@ -20,11 +20,9 @@ May 15, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;City of London’s Credit Rating
 
@@ -77,11 +75,9 @@ b)         the subject properties (“Surplus Lands”) BE DISPOSED OF t
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Designation of the Anderson Craft Ales 2nd Anniversary Celebration as a Municipally Significant Event
 
@@ -127,11 +123,9 @@ That the City Clerk BE DIRECTED to report back to the Corporate Services Committ
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -199,7 +193,6 @@ The Corporate Services Committee convened in confidential session from 12:45 PM 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at  1:54 PM.
 

@@ -15,7 +15,6 @@ February 29, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Bridge, P. Christiaans, A. Dunbar, M. Hayward, V. McAlea Major, M. Ribera, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins
@@ -23,7 +22,6 @@ That it BE NOTED that Councillor A. Hopkins
   City of London unfunded liabilities, specifically as it relates to the
   landfill site, as her son is employed at the landfill.
 
-# 2.&nbsp;&nbsp;&nbsp;Changes to
   Development Charges Act - Bill 73 and Regulations
 
 That, on the recommendation of the Managing
@@ -54,7 +52,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Update on Unfunded
   Liability
 
 That, on the recommendation of Managing
@@ -84,7 +81,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation Annual General Meeting (AGM) Request
 
 That the following actions be taken with
@@ -135,7 +131,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London Hydro Annual
   General Meeting (AGM) Request
 
 That the following actions be taken with
@@ -183,7 +178,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;9th Report of the
   Governance Working Group
 
 That, the following actions be taken with

@@ -15,9 +15,7 @@ January 17, 2012, at  4:10 PM
 > [!abstract]- Also Present:
 > R.L. Fair, M. Hayward, J. Braam, A. Dunbar, J. Lucas, L. Palarchio, C. Saunders, R. Skinner
 
-# 1.&nbsp;&nbsp;&nbsp;None are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2012 BUDGET -
   PUBLIC PARTICIPATION MEETING
 
 Recommendation:      That the following

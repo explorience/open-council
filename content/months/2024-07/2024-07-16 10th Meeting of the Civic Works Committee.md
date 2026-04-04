@@ -17,11 +17,9 @@ July 16, 2024, at  9:30 AM
 
 The meeting was called to order at 9:30 AM; it being noted that Councillor D. Ferreira was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -230,15 +228,12 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 8th Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -304,7 +299,6 @@ That the Civic Administration BE DIRECTED to report back to a future meeting of 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:30 AM.
 

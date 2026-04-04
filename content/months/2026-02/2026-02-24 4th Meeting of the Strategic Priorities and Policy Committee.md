@@ -17,7 +17,6 @@ February 24, 2026, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and E. Peloza (at 2:39 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -47,7 +46,6 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -179,11 +177,9 @@ That the delegation request from C. Butler BE APPROVED to be heard at this time.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London UNESCO City of Music Action Plan 2021-2025 Update
 
@@ -339,11 +335,9 @@ f)    the Civic Administration BE AUTHORIZED to undertake all administrative a
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by C. Rahman
 
@@ -384,7 +378,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 1:
 
 ## 6.1&nbsp;&nbsp;&nbsp;Information Supplied in Confidence to the Municipality by a Crown Agency of Canada / Solicitor-Client Privileged Advice
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by C. Rahman
 

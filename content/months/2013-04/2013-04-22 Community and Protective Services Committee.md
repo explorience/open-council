@@ -15,10 +15,8 @@ April 22, 2013, at  7:03 PM
 > [!abstract]- Also Present:
 > S. Orser;, S. Giustizia, L. Livingstone, A. Macpherson, D. O’Brien, J. Richardson
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the 3rd Report of the
@@ -34,7 +32,6 @@ Recommendation:  That the 3rd Report of the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Fence By-law
   Amendments
 
 Recommendation:  That consideration of
@@ -51,7 +48,6 @@ Recommendation:  That consideration of
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Tender 13-46 Supply
   and Installation of Playgrounds, Pathways, Parking Lots and Site Amenities in
   City Parks
 
@@ -100,7 +96,6 @@ e)           
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Early Childhood
   Educators (ECE) Labour Market Partnership (LMP) Research Project
 
 Recommendation:  That, on the
@@ -146,7 +141,6 @@ d)           
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Homeless
   Prevention  System for London Three-Year Implementation Plan
 
 Recommendation:  That, on the
@@ -201,7 +195,6 @@ it being noted that
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Public Monument for
   Individuals Experiencing Homelessness
 
 Recommendation:  That, on the
@@ -230,7 +223,6 @@ b)           
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Rzone: Respect and
   Responsibility in the City of London Recreation Program Locations, Facilities
   and Properties
 
@@ -258,7 +250,6 @@ b)         delegate
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Fire Safety Plan
   Boxes
 
 Recommendation:  That, on the
@@ -278,7 +269,6 @@ Recommendation:  That, on the
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Housing
   Collaborative Initiative Service Manager Consortium Agreement: Expression of
   Interest for the Development of an Information System for Social Housing
   Administration
@@ -315,7 +305,6 @@ c)           
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Request for Capital
   Funding from the Social Housing Major Repairs and Upgrades Stabilization
   Reserve Fund for Columbus Non-Profit Housing of Strathroy Inc., 305 Oak
   Street, Strathroy
@@ -336,7 +325,6 @@ Recommendation:  That, on the
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;S. McCutcheon,
   Access to Care Lead - Engagement of Council
 
 Recommendation:  That the attached presentation
@@ -354,7 +342,6 @@ Recommendation:  That the attached presentation
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;5th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -393,7 +380,6 @@ b)         clauses
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;2nd Report of the
   Council Housing Leadership Committee
 
 Recommendation:  That, on the
@@ -463,7 +449,6 @@ d)           
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 Recommendation:  That, on the
@@ -562,7 +547,6 @@ e)           
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Abandoned Shopping
   Cart By-law
 
 Recommendation: That the request of
@@ -584,7 +568,6 @@ Recommendation: That the request of
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Youth Create
   Healthy Communities, Middlesex-London Health Unit – Request for
   Delegation Status
 

@@ -12,13 +12,11 @@ October 31, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. van Holst; W. Abbott, M. Elmadhoon, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, A. MacLean, A. Macpherson, L. Mottram, M. Pease, L. Pompilii, J. Ramsay, A. Riley, C. Saunders, C. Smith, S. Spring, M. Tomazincic, S. Wise
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 1235-1249 Hyde Park Road (H-8689)
 
 That, on the recommendation of the Senior
@@ -49,7 +47,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Local Renewable
   Electricity Generation Projects Seeking Ontario Feed-In Tariff Contracts -
   Municipal Council Blanket Support Resolution Landfill Gas Projects on Active
   and Closed Landfill Sites Feed-In Tariff (FIT) 5.0 Prescribed Forms
@@ -78,7 +75,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 110 and 120 Shamrock Road
 
 That, on the recommendation of the Manager
@@ -121,7 +117,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   2332 Wickerson Road (H-8345)
 
 That, on the recommendation of the Planner
@@ -166,7 +161,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   3343 Morgan Avenue (H-8536)
 
 That, on the recommendation of the Senior
@@ -196,7 +190,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Municipal Council Support Resolution - Ground Mounted Solar Project Under the
   Feed-In Tariff (FIT) Program
 
@@ -225,7 +218,6 @@ it being noted that the sole purpose of
   the Feed-in Tariff (FIT) Program and may not be used for any other form of
   municipal approval in relation to the project.   (2016-E17)
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for August 2016
 
 That the Building Division Monthly Report
@@ -248,7 +240,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   2028 Wickerson Road (39CD-16507/OZ-8645)
 
 That, on the recommendation of the Senior
@@ -377,7 +368,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 3260 Singleton Avenue (39CD-16512/SPA16-031)
 
 That, on the recommendation of the Planner
@@ -484,7 +474,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 2044, 2062, 2070 and 2100 Meadowgate Boulevard (OZ-8663)
 
 That, on the recommendation of the Managing
@@ -625,7 +614,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   255 South Carriage Road (39T-08502/Z-8614)
 
 That, on the recommendation of the Senior
@@ -837,7 +825,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -954,7 +941,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   1877 Sandy Somerville Lane (Z-8661)
 
 That, on the recommendation of the Senior

@@ -12,13 +12,11 @@ February 3, 2015, at 12:05 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; A. Zuidema, R. Armistead, J.P. Barber, I. Collins, M. Daley, L. Fisher, K. Graham, A. Hagan, M. Hayward, G.T. Hopcroft, V. McAlea Major, L. Palarchio, M. Ribera, C. Saunders, B. Warner, T. Wellhauser, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London Days
   at Budweiser Gardens - Thames Valley District School Board
 
 Motion
@@ -73,7 +71,6 @@ c)         steps
   BE TAKEN to identify a dinner break on the Council and Committee agendas,
   where applicable.
 
-# 5.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters
 
 Recommendation: That the orientation
@@ -81,7 +78,6 @@ Recommendation: That the orientation
   Services and City Treasurer, Chief Financial Officer, regarding their
   respective areas of operation, BE RECEIVED for information.
 
-# 6.&nbsp;&nbsp;&nbsp;Standing Committee
   Membership - Federation of Canadian Municipalities
 
 Recommendation:  That Councillor M. Cassidy

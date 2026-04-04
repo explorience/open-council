@@ -15,10 +15,8 @@ June 10, 2013, at  4:12 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, G. Barrett, J. Braam, P. Christiaans, J.M. Fleming, S. Galloway, M. Hayward, G. Kotsifas, L. Livingstone, S. Mathers, V. McAlea Major, H. McNeely, J. Page, R. Sharpe, J. Smout, L. Townsend (Consultant), T. Williams (Navigant Consulting), J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Funding
   Framework: City Council-Directed Funding to Non-Profit Organizations
 
 Recommendation:  That, on the
@@ -90,7 +88,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Development Charges
   Review Update
 
 Recommendation:  That the following BE
@@ -143,7 +140,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Future Options for
   London Hydro Inc.
 
 Recommendation:  That the following actions
@@ -191,7 +187,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Status of ReThink
   London Key Directions and Discussion Papers
 
 Recommendation:  That, on the
@@ -225,7 +220,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Enquiry – Near Campus Neighbourhoods
 
 Councillor J.L. Baechler enquired about the
   status of the City’s defense of the Municipal Council’s position regarding

@@ -22,11 +22,9 @@ October 20, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -171,7 +169,6 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program 
 
@@ -349,11 +346,9 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor S. Trosow and Councillor J. Pribil - Improving By-law Compliance Communications
 
@@ -401,7 +396,6 @@ That the Civic Administration BE DIRECTED to continue 1-hour free on street park
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by H. McAlister
 
@@ -432,7 +426,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

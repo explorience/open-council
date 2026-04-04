@@ -15,6 +15,5 @@ July 13, 2015, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Coxhead, S. Datars Bere, D. Dobson, J.M. Fleming, K. Graham, M. Hayward, G. Kotsifas, L. Livingstone, A. Macpherson, V. McAlea Major, J.P. McGonigle, K. Pawelec, C. Saunders, C. Smith
 
-# 2.&nbsp;&nbsp;&nbsp;Setting Priorities
   - Council's 2016 - 2019 Multi-Year Budget
 

@@ -12,13 +12,11 @@ May 5, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, B. Coxhead, S. Datars Bere, J.M. Fleming, T. Gaffney, K. Graham, M. Hayward, M. Henderson, L. Livingstone, D. MacRae, V. McAlea Major, K. Paleczny, E. Soldo, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
   - Business Case
 
 That the following actions be taken with

@@ -15,13 +15,11 @@ January 6, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > B. Armstrong, B. Polhill; J. Braam, A. Dunbar, B. Krichker, D. MacRae, M. Ribera, L. Rowe, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Notice of
   Abandonment of the Crinklaw Drain in the Dingman Creek Subwatershed
 
 Recommendation:  That, on the
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Noise Attenuation Wall
 
 Recommendation:  That, on the
@@ -81,7 +78,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Stormwater
   Infrastructure Improvements/Remediation Works Along Richmond Street Corridor
 
 Recommendation:  That, on the
@@ -108,7 +104,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Western/Wharncliffe
   Road North Widening Environmental Assessment Study-Appointment of Consulting
   Engineer
 
@@ -158,7 +153,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Snow-Packed Roads
   and Snow Dumping from Private Property
 
 Recommendation:  That, on the
@@ -183,7 +177,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Request for a Four-Way
   Stop to be Placed on Curry Street at the Corner of Piccadilly Street
 
 Recommendation: That the communication from
@@ -209,7 +202,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;(ADDED) Southdale Road Widening
 
 The
   meeting adjourned at 5:05 PM.

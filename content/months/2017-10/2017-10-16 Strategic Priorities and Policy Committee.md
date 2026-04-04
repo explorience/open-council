@@ -12,13 +12,11 @@ October 16, 2017, at  4:04 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, B. Card, S. Datars Bere, L. Livingstone, M. Marcellin, D. O’Brien, C. Saunders, K. Scherr, S. Spring, S. Stafford, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Establishment of
   Indigenous Relations Working Group
 
 That, on the recommendation of the City
@@ -65,7 +63,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Standing Committee Appointments
 
 That the following appointments BE MADE to
   the Standing Committees of the Municipal Council for the term December 1,
@@ -249,7 +246,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Resignation from
   the Rapid Transit Implementation Working Group
 
 That the resignation from Councillor A.
@@ -280,7 +276,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Support of Hosting
   Request - International Plowing Match
 
 That the following actions be taken with

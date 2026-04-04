@@ -12,13 +12,11 @@ March 30, 2016, at 12:04 PM
 > [!abstract]- Also Present:
 > R. Armistead, J.P. Barber, A.L. Barbon, J. Braam, M. Daley, S. Datars Bere, K. Dawtrey, S. Giustizia, K. Graham, A. Hagan, J. Kovacs, J. Logan, S. MacDonald, S. Mathers, R. Paynter, M. Ribera, A. Ripepi, C. Saunders, J. Senese, J. Smout, B. Warner, T. Wellhauser, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Mobile User Experience
 
 That, on the recommendation of the Managing
   Director, Corporate Services and City Treasurer, Chief Financial Officer the
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Residential Tax
   By-Law for New Affordable Housing Program Project at 1166 Hamilton Road,
   London
 
@@ -72,7 +69,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Residential Tax
   By-Law for New Affordable Housing Program Project at 226, 228 and 230 Dundas
   Street, London
 
@@ -103,7 +99,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Residential Tax
   By-Law for New Affordable Housing Program Project at 339 Commissioners Road
   West, London
 
@@ -134,7 +129,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Residential Tax
   By-Law for New Affordable Housing Program Project at 380 Princess Avenue,
   London
 
@@ -164,7 +158,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Residential Tax
   By-Law for New Affordable Housing Program Project at 193 Clarke Road, London
 
 That, on the recommendation of the Managing
@@ -193,7 +186,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointed Citizen
   Members 2016 Remuneration
 
 That, on the recommendation of the Managing
@@ -225,7 +217,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Green Municipal
   Fund – Combined Loan and Grant Agreement Update
 
 That, on the recommendation of the Managing
@@ -263,7 +254,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Grand Theatre Multi-Year
   Operating Agreement
 
 That, on the recommendation of the
@@ -296,7 +286,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Expropriation of Lands
   – Wonderland Road South Improvements – Phase I - TS1487 PR-01
 
 That, on the recommendation of the Managing
@@ -345,7 +334,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Public Sector Salary
   Disclosure Act Report for Calendar Year 2015
 
 That, on the recommendation of the Managing
@@ -370,7 +358,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting -
   Sherbrooke, Quebec - March 1-4, 2016
 
@@ -397,7 +384,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;2015 London
   Convention Centre Operational Results
 
 That the transfer of 100% of the 2015
@@ -422,7 +408,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Appointments to the
   Advisory Committee on the Environment
 
 That
@@ -460,7 +445,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Ontario Good Roads
   Association
 
 That Councillor V. Ridley BE REIMBURSED for
@@ -487,7 +471,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities - Councillor H.L. Usher
 
 That consideration of Councillor H.L.
@@ -517,7 +500,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities - Deputy Mayor M. Cassidy
 
 That consideration of Deputy Mayor M.
@@ -547,7 +529,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status - L. N. Garrison
 
 That the delegation request by Ms. L.N. Garrison

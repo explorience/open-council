@@ -18,7 +18,6 @@ May 12, 2015, at  4:01 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:01 PM
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Zaifman discloses a pecuniary
@@ -36,13 +35,10 @@ Councillor V. Ridley discloses a pecuniary
   Implementation Strategy update, by indicating that her family owns property
   in the affected area.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary
   interests were disclosed:
@@ -70,7 +66,6 @@ c)           
   employees of the Corporation, by indicating that he is the Executive Director
   of a social service agency that works with the union group.
 
-# 2.&nbsp;&nbsp;&nbsp;London Arts Council Agreement Renewal
 
 > Moved by Councillor A. Hopkins
 
@@ -139,9 +134,7 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -169,7 +162,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON APRIL 28, 2015
 
 > Moved by Councillor M. Cassidy
@@ -204,13 +196,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -218,7 +207,6 @@ Approve clauses 1 to 15, excluding clause 3.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the Governance Working Group
 
 That the following actions be taken with
   respect to the 2nd Report of the Governance Working Group, from its meeting
@@ -324,7 +312,6 @@ xvi)      investigate
  
 c)         clauses 1 and 2 BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;London & Middlesex Housing Corporation
   – 2014 Annual Meeting of the Shareholder-Annual Resolution Update
 
 That, on the recommendation of the City
@@ -346,7 +333,6 @@ it being noted that the Strategic
   Priorities and Policy Committee heard a presentation from G. Saylor, LMHC
   Chair and S. Matthew, LMHC Executive Director.
 
-# 6.&nbsp;&nbsp;&nbsp;2016-2019 Multi-Year Budget
 
 That, on the recommendation of the Managing
   Director, Corporate Services and City Treasurer, Chief Financial Officer,
@@ -398,7 +384,6 @@ g)         the
   meeting of the Strategic Priorities and Policy Committee before the end of
   June 2015.
 
-# 7.&nbsp;&nbsp;&nbsp;2016 Growth Management Implementation
   Strategy (GMIS) Update
 
 That, on the recommendation of the Managing
@@ -499,7 +484,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Public Library Board
 
 That Councillor P. Squire BE APPOINTED to
@@ -528,7 +512,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Greenbrier Crescent
   Emergency Sanitary Sewer Repair
 
 That, on the recommendation of the Managing
@@ -536,7 +519,6 @@ That, on the recommendation of the Managing
   report dated May 5, 2015, with respect to the Greenbrier Crescent emergency
   sanitary sewer repair, BE RECEIVED for information.  (2015-E01)
 
-# 10.&nbsp;&nbsp;&nbsp;Stormwater
   Servicing and Tributary Works for the North Lambeth P9 Stormwater Management
   Facility Municipal Class Environmental Study
 
@@ -583,7 +565,6 @@ e)          the
   financing for the payment noted in d) above, BE APPROVED as set out in the
   Sources of Financing Report, Appendix ‘B’ of the staff report.  (2015-E20)
 
-# 11.&nbsp;&nbsp;&nbsp;Dingman Creek No.
   B-4 Stormwater Management Facility and Tributary Channel
   Improvement/Modification Municipal Class Environmental Study
 
@@ -632,7 +613,6 @@ e)         the
   the Sources of Financing Report, Appendix ‘B’ of the staff report. 
   (2015-E20)
 
-# 12.&nbsp;&nbsp;&nbsp;Update on Results
   of Sherwood Forest Weeping Tile Disconnect Pilot Project
 
 That, on the recommendation of the Managing
@@ -640,7 +620,6 @@ That, on the recommendation of the Managing
   report dated May 5, 2015, with respect to the Sherwood Forest Weeping Tile
   Disconnect Pilot Project, BE RECEIVED for information.  (2015-A20)
 
-# 13.&nbsp;&nbsp;&nbsp;Community Energy
   Action Program - Update and Status
 
 That, on the recommendation of the
@@ -648,7 +627,6 @@ That, on the recommendation of the
   2015, with respect to an update on the status of the Community Energy Action
   Plan, BE RECEIVED for information.  (2015-E17)
 
-# 14.&nbsp;&nbsp;&nbsp;2014 Community Energy
   and Greenhouse Gas Inventory: Challenges and Opportunities
 
 That, on the recommendation of the
@@ -656,7 +634,6 @@ That, on the recommendation of the
   2015, with respect to the 2014 community energy and greenhouse gas inventory,
   BE RECEIVED for information.  (2015-E17)
 
-# 15.&nbsp;&nbsp;&nbsp;Active and Green
   Communities Engagement Strategy
 
 That, on the recommendation of the
@@ -664,7 +641,6 @@ That, on the recommendation of the
   2015, with respect to the Active and Green Communities engagement strategy,
   BE RECEIVED for information.  (2015-E00)
 
-# 3.&nbsp;&nbsp;&nbsp;City of London’s Participation in
   Government Relations Networks
 
 That, on the recommendation of the
@@ -672,7 +648,6 @@ That, on the recommendation of the
   2015 on the City of London’s Participation in Government Relations Networks
   BE RECEIVED for information.
 
-# 16.&nbsp;&nbsp;&nbsp;Highway 401/Colonel
   Talbot Road/Highway 4 Interchange Reconstruction Ministry of Transportation
   Class Environmental Assessment Addendum
 
@@ -799,12 +774,9 @@ Approve clauses 1 to 8, excluding clause 6.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor P. Squire
@@ -874,7 +846,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -978,7 +949,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

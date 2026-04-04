@@ -20,13 +20,11 @@ June 17, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Turner
 
@@ -236,7 +234,6 @@ it being noted that the results of consultations regarding the Toolkit will als
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - Scott Allen, MHBC - Request for Council Resolution, under Section 45 (1.4) of the Planning Act, 1990 - 3080 Bostwick Road: Site 5
 
@@ -622,7 +619,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Standard Form Railway Overpass Sign Licence Agreement 
 
@@ -674,11 +670,9 @@ That M. Clawson, Clawson Group Inc., BE GRANTED delegation status at the July 22
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;(ADDED) Litigation or Potential Litigation/ Solicitor-Client Privileged Advice 
 
@@ -702,7 +696,6 @@ The Planning and Environment Committee convened, In Closed Session, from 9:26 P
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:42 PM.
 

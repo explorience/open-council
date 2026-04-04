@@ -12,13 +12,11 @@ November 1, 2016, at 12:03 PM
 > [!abstract]- Also Present:
 > P. Hubert, P. Squire, M. van Holst; A. Zuidema, F. Angeletti (Outside Counsel), A.L. Barbon, S. Corman, K. Dawtrey, K. Graham, A. Hagan, N. Hall, J. Logan, V. McAlea Major, L. Palarchio, R. Paynter, J. Rodrigues, C. Saunders, S. Spring, A. Thompson
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - Vesting
   Properties in the Name of the City after a Tax Sale
 
 That, on the recommendation of the Managing
@@ -55,7 +53,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Pre-Authorized Tax Payment Plan By-law and Collection of Property Taxes
   By-law
 
@@ -76,7 +73,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Forked River Brewing - Request for Designation as a Municipally Significant
   Event
 
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Ontario Good Roads Association
 
 That
@@ -141,7 +136,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Canada 150 Community Leader
 
 That consideration of the designation of a
@@ -169,7 +163,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Length of Time of Council, In Closed Session
 
 That the communication dated October 22,
@@ -212,7 +205,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Appointment By-laws
 
 That the communication dated October 24,
@@ -240,7 +232,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 4 Members-at-Large)
 
@@ -270,7 +261,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Advisory Committee on Heritage (Requires 1
   Non-Voting Post-Secondary Student)
 
@@ -296,7 +286,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Cycling Advisory Committee (Requires 1 Non-Voting
   Post-Secondary Student)
 
@@ -321,7 +310,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Advisory Committee on the Environment (Requires 1
   Non-Voting Post-Secondary Student)
 
@@ -347,7 +335,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Diversity, Inclusion and Anti-Oppression Advisory
   Committee (Requires 1 Non-Voting Post-Secondary Student)
 
@@ -373,7 +360,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;ADDED -
   Confirmation of Appointment to the Community Safety and Crime Prevention
   Advisory Committee (Requires 1 Non-Voting Post-Secondary Student)
 
@@ -399,7 +385,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;ADDED -
   Confirmation of Appointment to the London Housing Advisory Committee
   (Requires 1 Non-Voting Post-Secondary Student)
 
@@ -424,7 +409,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;ADDED -
   Confirmation of Appointment to the Transportation Advisory Committee
   (Requires 1 Non-Voting Post-Secondary Student)
 
@@ -449,7 +433,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;ADDED -
   Confirmation of Appointment to the Accessibility Advisory Committee (Requires
   1 Non-Voting Post-Secondary Student)
 
@@ -474,7 +457,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;ADDED – Terms of Reference – Advisory
   Committee on the Environment and Diversity, Inclusion and Anti-Oppression
   Advisory Committee
 

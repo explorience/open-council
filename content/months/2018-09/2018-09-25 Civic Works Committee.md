@@ -17,11 +17,9 @@ September 25, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley disclosed a pecuniary interest in clause 2.12 of this Report, having to do with the Business Case-Switching to Compressed Natural Gas (CNG) Waste Collection Vehicles, by indicating her spouse works for Union Gas.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Hubert
 
@@ -386,7 +384,6 @@ f)     the Civic Administration BE DIRECTED to report back on progress on th
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Proposed Terms of Reference - Environmental Assessment of the Proposed W12A Landfill Expansion
 
@@ -592,7 +589,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;8th Report of the Cycling Advisory Committee
 
@@ -694,7 +690,6 @@ That the communication from Councillor M. van Holst with respect to Public Educa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -717,7 +712,6 @@ That the Civic Works Committee Deferred List, as at September 17, 2018, BE RECEI
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:36 PM.
 

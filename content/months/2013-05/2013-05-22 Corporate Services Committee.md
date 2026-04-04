@@ -15,10 +15,8 @@ May 22, 2013, at 12:21 PM
 > [!abstract]- Also Present:
 > D. Matthews, MPP, London North West; T. Armstrong, MPP, London-Fanshawe, J. Yurek, MPP, Elgin-Middlesex-London, D. Henderson, A. Zuidema, C. Donnelly (London West Constituency Office), L. Ducharme, K. Graham, M. Hayward, G.T. Hopcroft, V. McAlea Major, E. Soldo, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;General Discussion
 
 Recommendation:  That
   it BE NOTED that the Corporate Services Committee held general discussions

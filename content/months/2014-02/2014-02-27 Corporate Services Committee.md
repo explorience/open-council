@@ -12,7 +12,6 @@ February 27, 2014, at  3:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, J.M. Fleming, J. Stanford, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

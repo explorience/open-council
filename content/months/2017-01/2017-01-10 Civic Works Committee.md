@@ -12,7 +12,6 @@ January 10, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer; A. Dunbar, D. Huggins. J. Lucas, A. Macpherson, D. MacRae, L. Rowe, K. Scherr, J. Simon, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley disclosed
   a pecuniary interest in clause 13 of this Report, having to do with garbage
@@ -24,7 +23,6 @@ That it BE NOTED that Councillor V. Ridley disclosed
   by indicating that her spouse is employed in the energy industry, which could
   be directly impacted.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 That the 1st Report of the Transportation
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Cycling Advisory Committee
 
 That the 1st Report of the Cycling Advisory
@@ -70,7 +67,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the
   Rapid Transit Implementation Working Group
 
 That the 2nd Report of the Rapid Transit
@@ -94,7 +90,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Renew London Infrastructure Construction Program
 
 That the following actions be taken with
@@ -131,7 +126,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Lead
   Mitigation Program Update
 
 That, on the recommendation of the
@@ -156,7 +150,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer for the Stormwater Servicing Municipal
   Class Environmental Assessment for the Huron Industrial Area
 
@@ -208,7 +201,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Queens Avenue and Colborne Street Cycletracks
 
 That, on the recommendation of the Managing
@@ -306,7 +298,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Southdale Road West - Environmental Assessment - Pine Valley Boulevard to
   Colonel Talbot Road, Including Bostwick Road North of Pack Road, Appointment
   of Consulting Engineer
@@ -355,7 +346,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Kiwanis Park Pathway Connection - Ontario Municipal Cycling Infrastructure
   Program Transfer Payment Agreement and Consultant Services Extension
 
@@ -431,7 +421,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT - Engineering
   Fees Contract Amendment: Huron Street Watermain River Crossing Project No.
   EW3580
 
@@ -481,7 +470,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Single Source: Arva-Huron Pipeline Chamber Upgrades and Pipe Replacement
   Project No. EW3576
 
@@ -525,7 +513,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Updates: Garbage and Recycling Collection and Next Steps
 
 That, on the recommendation of the Managing
@@ -570,7 +557,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Execution of Contribution Amending Agreement with the Government of Canada
   for the HELP Clean Water Initiative
 
@@ -602,7 +588,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) Comments on
   Environmental Bill of Rights Registry - Final Draft Strategy for a Waste Free
   Ontario: Building the Circular Economy
 
@@ -631,7 +616,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) Deferred
   Matters List
 
 That the Civic Works Committee Deferred
@@ -654,7 +638,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;(ADDED) Request for Delegation Status
 
 That delegation status BE APPROVED for a
   community representative to speak to the Civic Works Committee on February

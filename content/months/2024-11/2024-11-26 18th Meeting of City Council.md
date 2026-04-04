@@ -20,19 +20,15 @@ November 26, 2024, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillors S. Lehman, P. Van Meerbergen, and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor recognizes the 2024 Diversity, Race Relations and Inclusivity Awards Recipients: Needham Funeral Home / London Afro Centric Association (LACA) / Black Health, London Health Sciences Centre.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -84,7 +80,6 @@ That Council convenes In Closed Session, from 1:27 PM to 1:47 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by S. Franke
 
@@ -114,7 +109,6 @@ That the Minutes of the 17th Meeting of the Municipal Council, held on November 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Lewis
 
@@ -162,11 +156,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;17th Report of the Strategic Priorities and Policy Committee
 
@@ -1681,7 +1673,6 @@ it being noted that a communication dated November 19, 2024 was received from Mi
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;18th Report of Council in Closed Session
 
@@ -1719,19 +1710,15 @@ That progress was made with respect to items 4.1, 4.2, 4.3, and 4.5 as noted on 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -1895,7 +1882,6 @@ That Third Reading and Enactment of Bill No. 394 and Revised Bill No. 396 BE APP
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Cuddy
 
@@ -1909,7 +1895,6 @@ The meeting adjourned at 2:41 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 382**

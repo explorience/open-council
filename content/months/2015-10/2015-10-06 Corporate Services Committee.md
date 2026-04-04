@@ -12,7 +12,6 @@ October 6, 2015, at 12:06 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, J. Braam, S. Corman, K. Graham, M. Hayward, V. McAlea Major, M. Ribera, C. Saunders, B. Westlake-Power, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -22,7 +21,6 @@ That it BE NOTED that Councillor J. Helmer
   public notice via Canada Post, by indicating that his spouse is employed by
   Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 28(2) Council Members' Expense Account
 
 That, on the recommendation of the City
@@ -65,7 +63,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Municipal
   Act, 2001 and Municipal Conflict of Interest Act
 
 That, on the recommendation of the Director
@@ -116,7 +113,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Request for
   Proposal 15-21 - General Insurance Program
 
 That, on the recommendation of the Manager
@@ -155,7 +151,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting -
   Fredericton, NB, September 9-12, 2015
 
@@ -182,7 +177,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Accessibility Advisory Committee
 
 That
@@ -206,7 +200,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
 That Muriel Abbott BE APPOINTED to the
@@ -231,7 +224,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That
@@ -276,7 +268,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - 2015
   Federal Election Questionnaire
 
 That, on the recommendation of the

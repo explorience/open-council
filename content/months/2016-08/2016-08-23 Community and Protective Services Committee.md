@@ -15,20 +15,17 @@ August 23, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Helmer; B. Coxhead, S. Datars Bere, D. Diegel, J. DeVito, S. Giustizia, O. Katolyk, J. Kobarda, P. Kokkoros, G. Kotsifas, L. Livingstone, A. Macpherson, D. O’Brien, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 7th Report of the London Diversity
   and Race Relations Advisory Committee, from its meeting held on July 21,
   2016, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - No.
   11 Fire Station Project No. F011-PP1088 Tender No. T16-67
 
 That, on the recommendation of the Fire
@@ -59,7 +56,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-F18)
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Approval of the Service Manager Administration Agreement for the 2016 Social
   Infrastructure Fund (SIF) for Survivors of Domestic Violence Portable Housing
   Benefit Policy (SDV-PHBP)
@@ -82,7 +78,6 @@ b)         authorize
   the Mayor and the City Clerk to execute the said agreement and assignments in
   a form satisfactory to the City Solicitor.  (2016-L04A)
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Extension: C11-119 Cold Beverage Vending at City Facilities
 
 That, on the recommendation of the Managing
@@ -100,7 +95,6 @@ b)         the
   are necessary in connection with the contract extension approved in part a), above. 
   (2016-L04)
 
-# 6.&nbsp;&nbsp;&nbsp;DELEGATION - M.
   Dawthorne, J. Sanders and M. Cairns - 7th Report of the Accessibility
   Advisory Committee
 
@@ -284,7 +278,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING - Informal Residential Care Facility Licensing By-law
 
 That, on the recommendation of the Managing
@@ -335,7 +328,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the August 2016 Deferred Matters List
@@ -357,7 +349,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;(ADDED) 8th Report
   of the Animal Welfare Advisory Committee
 
 That the following actions be taken with

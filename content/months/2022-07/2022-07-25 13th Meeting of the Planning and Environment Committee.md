@@ -17,11 +17,9 @@ July 25, 2022, at  4:00 PM
 
 The meeting was called to order at 4:00 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis, S. Lehman and Turner present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -170,7 +168,6 @@ That the Building Division Monthly report for May, 2022 BE RECEIVED for informat
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;414 and 418 Old Wonderland Road (39CD-22501)
 
@@ -1085,15 +1082,12 @@ That M. Campbell's delegation BE EXTENDED beyond five minutes.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Land Acquisition / Solicitor-Client Privileged Advice / Commercial and Financial Information / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiation
 
@@ -1120,7 +1114,6 @@ The Planning and Environment Committee convenes, in Closed Session, from 10:13 P
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:44 PM
 ---

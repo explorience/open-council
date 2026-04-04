@@ -12,10 +12,8 @@ December 14, 2015, at  3:30 PM
 > [!abstract]- Also Present:
 > M. Brown, M. Cassidy, A. Hopkins, M. van Holst, J. Zaifman; J. Adema, G. Barrett, J. Braam, M. Corby, M. Davis, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Graham, T. Grawey, N. Hall, G. Kotsifas, I. Listar, J. Lucas, T. Macbeth, A. MacLean, A. Macpherson, B. O’Hagan, B. Page, J. Ramsay, C. Saunders, J. Smolarek, E. Soldo, S. Spring, M. Tomazincic, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the Term Ending November 30, 2016
 
 That Councillor T. Park BE APPOINTED as the
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Great Near-Campus
   Neighbourhoods Strategy Review - Status Update
 
 That, on the recommendation of the Managing
@@ -64,7 +61,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Environmental
   Impact Study Recommendations Within Plans of Subdivision
 
 That, on the recommendation of the Managing
@@ -90,7 +86,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Designation of
   Appointment Authority
 
 That, on the recommendation of the Managing
@@ -170,7 +165,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Wickerson Hills
   Subdivision - Subdivision Special Provisions (39T-08507)
 
 That, on the recommendation of the Manager,
@@ -224,7 +218,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Wickerson Woods
   Subdivision - Subdivision Special Provisions (39T-00519)
 
 That, on the recommendation of the Manager,
@@ -278,7 +271,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;1st Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -419,7 +411,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1890 Hyde Park Road (Z-8533)
 
 That, on the recommendation of the Managing
@@ -523,7 +514,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;8th Report of the
   Trees and Forests Advisory Committee
 
 That, the following actions be taken with
@@ -571,7 +561,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;"Back to the
   River" Design Competition Winning Submission and Next Steps
 
 That, on the recommendation of the Managing
@@ -644,7 +633,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   89 York Street (Z-8525)
 
 That, on the recommendation of the Managing
@@ -784,7 +772,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Urban Growth Boundary
   Expansion for Future Industrial Growth (O-8014)
 
 That, on the recommendation of the Managing
@@ -862,7 +849,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   50 King Street (Z-8372)
 
 That, on the recommendation of the Managing
@@ -954,7 +940,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -987,7 +972,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Residential Infill
   Analysis
 
 That, in response to the Municipal Council
@@ -1073,7 +1057,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Planning Services
   2-Year Work Program - Updated
 
 That, on the recommendation of the Managing
@@ -1098,7 +1081,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Review of
   Intensification Targets in the London Plan
 
 That, on the recommendation of the Managing
@@ -1195,7 +1177,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Planning and
   Environment Committee Deferred List
 
 That the Deferred Matters List BE REVISED
@@ -1220,7 +1201,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Old East Village
   Commercial Corridor Design Guidelines
 
 That, on the recommendation of the Managing

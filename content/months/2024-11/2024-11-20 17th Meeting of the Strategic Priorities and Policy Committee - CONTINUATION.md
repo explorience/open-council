@@ -20,7 +20,6 @@ November 20, 2024, at  9:30 AM
 
 The meeting is called to order at 9:30 AM; it being noted that Councillors S. Stevenson, P. Van Meerbergen, E. Peloza and S. Hillier were in remote attendance.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Confirmation of Appointment to the Community and Protective Services Committee
 
@@ -636,15 +635,12 @@ That the balance of the motion, as amended, be approved.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

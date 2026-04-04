@@ -15,13 +15,11 @@ July 18, 2016, at 12:00 PM
 > [!abstract]- Also Present:
 > V. Ridley, H. L. Usher; J. Braam, J. Bruin, T. Clayton, T. Copeland, A. Dunbar, K. Grabowski, N. Hall, O. Katolyk, J. Lucas, A. Macpherson, D. MacRae, S. Maguire, S. Mathers, R. Pedlow, D. Popadic, L. Rowe, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th and 7th Reports
   of the Transportation Advisory Committee
 
 That the 6th and 7th Reports of the
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   Cycling Advisory Committee
 
 That the 7th Report of the Cycling Advisory
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Engineering Fees
   Contract Amendment: Uplands Pumping Station Upgrades - Project No. EW3590
 
 That, on the recommendation of the Managing
@@ -120,7 +116,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Advancing a 760kW
   Renewable Energy Project at the Greenway Wastewater Treatment Plant
 
 That, on the recommendation of the
@@ -158,7 +153,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Burbrook Trunk
   Sewer Completion Tunnelling Project
 
 That, on the recommendation of the Managing
@@ -183,7 +177,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law with Respect to the Implementation of Pedestrian
   Crossovers
 
@@ -210,7 +203,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
 
 That, on the recommendation of the Managing
@@ -236,7 +228,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Overnight Parking
   Pass Program
 
 That, on the recommendation of the Managing
@@ -262,7 +253,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -288,7 +278,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Customer Engagement
   Upgrade to MyLondonHydro Web Portal - Water Usage Tool
 
 That, on the recommendation of the Managing
@@ -315,7 +304,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Flooding Matters
   Phase ll
 
 That, on the recommendation of the Managing
@@ -349,7 +337,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Design of the Forest City South Industrial Park
   and Stormwater Management Solution
 
@@ -400,7 +387,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Richmond Street
   Recreational Pathway Crossing Environmental Study Report
 
 That, on the recommendation of the Managing
@@ -444,7 +430,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Southdale Road West
   Environmental Assessment - Boler Road to Wickerson Road - Appointment of
   Consulting Engineer
 
@@ -493,7 +478,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Transportation
   Network Forecast Model Update - Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -539,7 +523,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Detailed Design of the Fox Hollow SWM Facility No. 3
   (ES3020-FH3) and Trunk Sanitary Sewer (ES5236-16)
 
@@ -598,7 +581,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Draft School Zone
   Speed Limit Policy - Resubmitted Report
 
 That, on the recommendation of the Managing
@@ -679,7 +661,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That

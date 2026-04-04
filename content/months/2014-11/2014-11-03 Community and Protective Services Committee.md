@@ -15,34 +15,29 @@ November 3, 2014, at  7:00 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Datars Bere, N. Hall, L. Livingstone, M. Ribera, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 9th Report of the
   London Housing Advisory Committee, from its meeting held on October 8, 2014,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;11th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 11th Report of
   the Animal Welfare Advisory Committee, from its meeting held on October 2,
   2014, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;9th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 9th Report of the
   Accessibility Advisory Committee, from its meeting held on October 23, 2014,
   BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;June Callwood
   Outstanding Achievement Award for Voluntarism in Ontario
 
 Recommendation:  That the communication
@@ -50,7 +45,6 @@ Recommendation:  That the communication
   Immigration and International Trade, with respect to the June Callwood
   Outstanding Achievement Award for Voluntarism in Ontario, BE RECEIVED.  (2014-M11)
 
-# 6.&nbsp;&nbsp;&nbsp;Amendment to Animal
   Control By-law PH-3 and Amendments to Dog Licensing and Control By-law PH-4
 
 Recommendation:  That, on the recommendation
@@ -67,7 +61,6 @@ b)         amend
   matters in the by-law and to revise the wording of section 4.1 to provide for
   an offence provision for set fines.   (2014-C01)
 
-# 7.&nbsp;&nbsp;&nbsp;6th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the following actions
@@ -108,7 +101,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;6th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -164,7 +156,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Cavendish Park
 
 Recommendation:  That the Civic
   Administration BE DIRECTED to review and report back to the appropriate
@@ -178,7 +169,6 @@ a)         a
 b)         an update on the condition of Cavendish
   Park, as it is located on a former landfill.
 
-# 10.&nbsp;&nbsp;&nbsp;Decision of the Ontario College of Veterinarians
 
 Recommendation:  That the City Solicitor BE
   REQUESTED to review the existing contract for animal care and control in

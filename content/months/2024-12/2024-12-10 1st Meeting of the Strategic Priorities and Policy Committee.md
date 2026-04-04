@@ -17,11 +17,9 @@ December 10, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor J. Pribil discloses a pecuniary interest in item 2.1, having to do with Film London - LEDC Purchase of Service Agreement Amendment by indicating that his son is contemplating seeking project support from Film London.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -115,7 +113,6 @@ b)    the Mayor and the City Clerk BE AUTHORIZED to execute the amending agree
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
 
@@ -395,7 +392,6 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Convention Centre Corporation (RBC Place London) By-law Update and Appointments
 
@@ -612,15 +608,12 @@ That the delegation request from M. Wallace, Executive Director, London Developm
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

@@ -20,11 +20,9 @@ November 5, 2019, at  4:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in Item 2.1, having to do with Updates to the 2020-2023 Multi-year Budget, specifically those matter pertaining to the Middlesex-London Health Unit (MLHU), by indicating that the MLHU is his employer.  Councillor S. Turner further indicates a pecuniary interest in Item 4.2, having to do with Councillor E. Peloza' s resignation from the MLHU Board of Directors, by indicating that the Board is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Update on the 2020-2023 Multi-Year Budget
 
@@ -274,11 +272,9 @@ That the date of the December Strategic Priorities and Policy Committee meeting 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;5th Report of the Governance Working Group
 
@@ -402,11 +398,9 @@ That the resignation of Councillor E. Peloza, dated October 25, 2019, BE ACCEPTE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:02 PM.
 

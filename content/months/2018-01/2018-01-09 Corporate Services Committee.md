@@ -12,13 +12,11 @@ January 9, 2018, at 12:32 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, B. Card, I. Collins, A. Dunbar, L. Livingstone, J. Nolan, S. Spring, A. Thompson, B. Westlake-Power, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Customer
   Relationship Management Software Implementation Partner - Phase Four
 
 That, on the recommendation of the Managing
@@ -71,7 +69,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Provincial
   Dedicated Gas Tax Funds for Public Transportation Program
 
 That, on the recommendation of the Managing
@@ -101,7 +98,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting - Ottawa,
   ON, November 20-24, 2017
 
@@ -128,7 +124,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - Memorial –
   Quebec Mosque Shooting – January 29, 2018
 
 That the City Clerk BE DIRECTED to make the

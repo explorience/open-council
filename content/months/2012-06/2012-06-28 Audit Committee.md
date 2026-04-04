@@ -15,16 +15,13 @@ June 28, 2012, at  3:30 PM
 > [!abstract]- Also Present:
 > T. Dobbie, A.L. Barbon, J. Braam, G. Bridge, C. Clendenning (PwC), M. Daley, K. denBok (KPMG), J. Edward, P. Foto, S. Gillfilan (PwC), M. Hayward, S. Houde, I. Jeffreys (KPMG), J. Lawrence, I. Mackay, V. McAlea Major, T. Rauch, I. Sadler (PwC), C. Shah (PwC), S. Swance, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Audit Committee
 
 Recommendation:  That the 2nd Report of the
   Audit Committee, from its meeting held on February 1, 2012, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Update on 2011
   Internal Audit of Community Services - Housing Division
 
 Recommendation:  That, on the
@@ -33,7 +30,6 @@ Recommendation:  That, on the
   Audit of Community Services - Housing Division, BE RECEIVED. 
   (2012-A04-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Brownfield
   Administration Policy Project
 
 Recommendation:  That, on the
@@ -44,7 +40,6 @@ Recommendation:  That, on the
   Administrative Services Committee in January 2012, as well as respond to the
   internal auditor’s report of December 7, 2011. (2012-A04-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Engagement of PricewaterhouseCoopers
   for Operational Review
 
 Recommendation:  That, on the
@@ -55,7 +50,6 @@ Recommendation:  That, on the
   noted that the review is at the request of the Board of the LMHC.
   (2012-C03-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Amendment to Three-Year
   Audit Plan
 
 Recommendation:  That, on the
@@ -68,10 +62,8 @@ a)         the
 b)         the
   Grants and Loans audit be moved to 2013, from 2012.  (2012-A04-00)
 
-# 7.&nbsp;&nbsp;&nbsp;(See Confidential
   Appendix Item C-1)
 
-# 8.&nbsp;&nbsp;&nbsp;2011 Financial
   Audit
  
 (Secretary's Note:
@@ -97,7 +89,6 @@ it being noted that the Audit Committee
   received the attached presentation from the Deputy City Treasurer and
   a verbal presentation from KPMG with respect to these matters.  (2012-A04-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results
 
 Recommendation:  That the following actions

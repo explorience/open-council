@@ -15,13 +15,11 @@ February 5, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; M. Hayward; J. Branninga (MLHU), Dr. C. Mackie (MLHU), C. Saunders, J. Smout, S. Spring, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Middlesex-London
   Health Unit Site Selection
 
 That the following actions be taken with

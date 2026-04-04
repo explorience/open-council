@@ -28,11 +28,9 @@ September 20, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor P. Squire disclosed a pecuniary interest in clause 3.3 of this Report, having to do with the property located at 755-785 Wonderland Road South (Westmount Mall), by indicating that his law office is a tenant in the Mall.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -79,7 +77,6 @@ That, on the recommendation of the Director, Planning and Development, based on 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Demolition Request on Heritage Listed Property - 900 King Street
 
@@ -576,7 +573,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;9th Report of the London Advisory Committee on Heritage
 
@@ -599,11 +595,9 @@ That the 9th Report of the London Advisory Committee on Heritage, from its meeti
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by A. Hopkins
 
@@ -629,7 +623,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:36 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:40 PM.
 ---

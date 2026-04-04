@@ -22,11 +22,9 @@ March 17, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -632,7 +630,6 @@ That parts a) and b) of the motion BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;4th Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -667,11 +664,9 @@ it being noted that a verbal delegation from B. Samuels, Chair, Environmental St
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Short-Term Rental Enforcement Fund
 
@@ -755,7 +750,6 @@ f)        ratify the Agreement with the Government of Canada (Interim Housin
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

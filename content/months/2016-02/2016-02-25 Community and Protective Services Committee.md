@@ -12,13 +12,11 @@ February 25, 2016, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park; R. Armistead, A. L. Barbon, K. Murray, D. O’Brien, C. Saunders, S. Spring; County of Middlesex: K. Bunting, C. Burghardt-Jesson, V. Blackmore, C. Bloomfield, A. Edmondson, J. Maudsley, B. Rayburn, B. Richards, Chief N. Roberts, D. Shipway, K. Smith, C. Traini, J. Vanderheyden, M. Wilkins
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;County of Middlesex
   - Ambulance 101
 
 That the attached presentation dated

@@ -20,11 +20,9 @@ August 13, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Morgan discloses a pecuniary interest in clause 5.1 having to do with an appointment to the London Hydro Board of Directors, by indicating that one of the candidates has a direct role in his employment with Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -142,15 +140,12 @@ it being noted that existing capital accounts and operating accounts will be dra
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Appointment to the London Hydro Board of Directors
 
@@ -178,7 +173,6 @@ it being noted that Andrew Hrymak was selected for appointment to the London H
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Hillier
 
@@ -231,7 +225,6 @@ The Corporate Services Committee convened, In Closed Session, from 12:48 PM to 2
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:36 PM.
 

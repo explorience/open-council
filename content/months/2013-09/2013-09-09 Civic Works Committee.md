@@ -12,10 +12,8 @@ September 9, 2013, at  4:03 PM
 > [!abstract]- Also Present:
 > B. Armstrong, D. Brown, J. P. Bryant; J. Braam, T. Copeland, A. Drost, A. Dunbar, C. Dziedzic, J. Freeman, G. Kotsifas, B. Krichker, J. Lucas, D. MacRae, S. Maguire, M. Ribera, L. Rowe, C. Saunders, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Request for Naming
   of the Quebec Street Bridge to Field Marshal of Wolseley Bridge
 
 Recommendation:  That, on the
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;By-law for the
   Execution of the Revised Occupancy Agreement with London Hydro for Ground-
   Mounted Solar Photovoltaic Energy Systems
 
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Hyde Park Road
   Widening Phase 2 North of CP Railway to North of Fanshawe Park Road Detailed Design
   and Tendering Appointment of Consulting Engineer
 
@@ -143,7 +139,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Sunningdale Road
   and Wonderland Road North Roundabout Detailed Design and Tendering
   Appointment of Consulting Engineer
 
@@ -196,7 +191,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Thames River Reach
   Study - Appointment of Consulting Engineer
 
 Recommendation:  That, on the
@@ -246,7 +240,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Grants for Sump
   Pump, Sewage Ejector and Storm Private Drain Connection By-law - Proposed
   Amendment
 
@@ -307,7 +300,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Blackfriars Bridge
   - Structural Repairs and Temporary Closure
 
 Recommendation:  That, on the recommendation
@@ -447,7 +439,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Fanshawe Park Road
   West and Dalmagarry Road Traffic Signal
 
 Recommendation:  That, on the
@@ -549,7 +540,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Amendment to Fees
   and Charges By-law A-46 - Residential Parking Pass Program First Pass Fee
   Exemption - Trowbridge Avenue, Mary Avenue and Pinewood Drive and Traffic and
   Parking By-law PS-111
@@ -581,7 +571,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Biosolids Disposal
   Assessment
 
 Recommendation:  That, on the

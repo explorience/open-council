@@ -17,21 +17,17 @@ March 14, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer disclosed a pecuniary interest in clause 4.1 of this Report, having to do with the History of London's Rapid Transit Initiative, by indicating he is employed by Western University, who may benefit from the replacement/expansion of the University Drive Bridge which is related to the London Rapid Transit Initiative.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;History of London's Rapid Transit Initiative
 
@@ -87,11 +83,9 @@ Motion to approve part b).
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:37 PM.
 

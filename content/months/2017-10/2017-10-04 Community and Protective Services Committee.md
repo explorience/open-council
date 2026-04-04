@@ -15,13 +15,11 @@ October 4, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; C. DeForest, T. Gaffney, O. Katolyk, G. Kotsifas, D. O’Brien, J. Smout, S. Spring, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Business Licensing By-law Review - Amendments to Allow for Transitioning to
   New By-Law
 
@@ -58,7 +56,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review - New and Revised Regulations
 
 That the following actions be taken with

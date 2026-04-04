@@ -22,11 +22,9 @@ October 20, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Mayor E. Holder discloses a pecuniary interest in clause 5.1, having to do with Item 4 of the Deferred Matters List, related to the properties at 745 and 747 Waterloo Street, by indicating that his daughter owns a business located at 745 Waterloo Street.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -205,11 +203,9 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Mud Creek Stormwater Management Project - C. Blake
 
@@ -234,7 +230,6 @@ That the communication, dated September 24, 2020, from C. Blake, with respect to
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -258,7 +253,6 @@ That the Civic Works Committee Deferred Matters List, as at October 9, 2020, BE 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:12 PM.
 

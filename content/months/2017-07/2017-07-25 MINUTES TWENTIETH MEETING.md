@@ -18,16 +18,12 @@ July 25, 2017, at  4:01 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:01 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON JUNE 26, 2017
 
 > Moved by Councillor M. Salih
@@ -62,7 +58,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor S. Turner
@@ -74,14 +69,10 @@ Approve receipt and referral of the
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Service London:  The Costs and
   Considerations Associated with a 311 Number
 
-# 3.&nbsp;&nbsp;&nbsp;Strategic Plan Progress Variance
 
-# 4.&nbsp;&nbsp;&nbsp;Shift Rapid Transit – Master Plan and
   Business Case
 
 Motion Passed
@@ -147,17 +138,12 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at 1355 Commissioners Road
   West (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
-# 6.&nbsp;&nbsp;&nbsp;Request for appointment and to Amend the
   Terms of Reference of the Governance Working Group
 
-# 7.&nbsp;&nbsp;&nbsp;Japanese Beetle
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of Acting Mayors
 
-# 9.&nbsp;&nbsp;&nbsp;Riverbend Golf
   Community Phase 9 (P-8762)
 
 That, on the recommendation of the Senior
@@ -213,12 +199,9 @@ c)         the
   applicant BE ADVISED that the cost of registration of the above-noted By-law
   is to be borne by the applicant, in accordance with City policy.   (2017-D25)
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS (Continued)
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# 12.&nbsp;&nbsp;&nbsp;D. Dudek, Chair,
   London advisory Committee on Heritage - 7th Report of the London Advisory
   Committee on Heritage
 
@@ -510,7 +493,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from D. Dudek, Chair, LACH,
   with respect to these matters.
 
-# 13.&nbsp;&nbsp;&nbsp;Amend the Zoning
   By-law for Industrial Land Uses with Regard to Height, Parking Rate, Access
   to Loading Areas and Maneuvering on City Streets (Z-8744) (Relates to Bill
   No. 344)
@@ -617,7 +599,6 @@ it being further noted that the Municipal
   Zoning By-law, which provides regulations for Industrial zones and land
   uses.   (2017-D09)
 
-# 15.&nbsp;&nbsp;&nbsp;City Wide Official
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
   (Relates to Bill No.'s 332 and 345)
 
@@ -768,7 +749,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Eagle Ridge
   Subdivision - Phase 2 - Properties located at 810, 1055 and 1079 Westdel
   Bourne and 1959 and 1997 Oxford Street West (39T-17501/Z-8725) (Relates to
   Bill No.'s 346 and 347)
@@ -946,7 +926,6 @@ it being noted that the Municipal Council
   and access to Thames Valley Parkway pathway system, and appropriate
   protection and enhancement of natural heritage resources.   (2017-D09/D12)
 
-# 19.&nbsp;&nbsp;&nbsp;Archaeological
   Management Plan (2017)
 
 That, on the recommendation of the Managing
@@ -980,9 +959,7 @@ e)         the
   engagement with Indigenous communities for archaeological resources.  
   (2017-R03)
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 10.&nbsp;&nbsp;&nbsp;Proposed Amendment
   to the Tree Protection By-law C.P. - 1515-228 (Relates to Bill No. 333)
 
 That, on the recommendation of the Managing
@@ -993,7 +970,6 @@ That, on the recommendation of the Managing
   D-16; it being noted that the proposed amendment will correct a mapping
   error.   (2017-E04)
 
-# 11.&nbsp;&nbsp;&nbsp;Draft Urban
   Agriculture Strategy
 
 That, on the recommendation of the Managing
@@ -1003,7 +979,6 @@ That, on the recommendation of the Managing
   have previously participated in the process to date, for public review and
   comment.  (2017-E11)
 
-# 14.&nbsp;&nbsp;&nbsp;Request for Demolition
   of Heritage Listed Property located at 660 Sunningdale Road East
 
 That, the following actions be taken with
@@ -1094,7 +1069,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
   Road West) (SPA17-024)
 
@@ -1260,7 +1234,6 @@ Motion Passed
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;7th Report of Tress
   and Forests Advisory Committee
 
 That the following actions be taken with
@@ -1317,13 +1290,11 @@ e)           
 f)          clauses 1, 3 to 6, 10, 12 to
   14, BE RECEIVED.
 
-# 20.&nbsp;&nbsp;&nbsp;6th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 6th Report of the EEPAC BE
   RECEIVED; it being noted that it is addressed in clause 2 of this Report.
 
-# 23.&nbsp;&nbsp;&nbsp;Thank you to Civic
   Administration - East London Road Work
 
 That it BE NOTED that Councillor B.
@@ -1331,7 +1302,6 @@ That it BE NOTED that Councillor B.
   construction in East London; it being noted that he advised that he has
   received positive feedback from the residents with respect to this matter.
 
-# 21.&nbsp;&nbsp;&nbsp;Deferral of Tree
   Cutting on Trowbridge Avenue
 
 That NO ACTION BE TAKEN at this time to
@@ -1362,7 +1332,6 @@ Motion Passed
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;F. Fernandez -
   Ontario Power Generation's Proposed Nuclear Waste Repository
 
 That the submission dated June 21, 2017,
@@ -1398,7 +1367,6 @@ Approve clauses 1, 2, 4 to 6, 8 to 13 and 17 to 20.
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor P. Hubert
@@ -1407,12 +1375,9 @@ Approve clauses 1, 3 and 5 to 8.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 Motion
@@ -1445,7 +1410,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1626,7 +1590,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

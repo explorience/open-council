@@ -12,7 +12,6 @@ September 2, 2014, at  3:01 PM
 > [!abstract]- Also Present:
 > W.R. Monteith; A. Zuidema, M. Hayward, D. Mounteer, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation: That it BE NOTED that no

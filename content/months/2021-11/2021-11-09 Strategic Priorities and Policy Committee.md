@@ -22,11 +22,9 @@ November 9, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -173,7 +171,6 @@ ii)    authorize the Mayor and City Clerk to execute the Resolution of the Sha
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - Tabling of the 2022 Budget Update
 
@@ -307,7 +304,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Small Business Centre - Business Case Submission
 
@@ -479,7 +475,6 @@ Appointment of a member to the Covent Garden Market Board.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) RBC Place London Board Appointment Recommendations for 2022
 
@@ -545,7 +540,6 @@ That the resignation of John Fyfe-Millar from the Committee of Adjustment BE ACC
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice
 
@@ -577,7 +571,6 @@ The Strategic Priorities and Policy Committee convenes, in closed session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Turner
 

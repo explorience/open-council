@@ -20,7 +20,6 @@ August 2, 2022, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following were in remote attendance Councillors M. van Holst, M. Salih, J. Helmer, M. Cassidy, S. Turner, S. Hillier
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Hillier discloses a pecuniary interest in Item 15 (5.1) of the 9th Report of the Community and Protective Services Committee, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family also hosts a five-day event.
 
@@ -30,15 +29,12 @@ Councillor S. Turner further discloses a pecuniary interest in Items 3 and 4 of 
 
 Councillor J. Helmer discloses a pecuniary interest in Item 6 (3.1) of the 11th Report of the Strategic Priorities and Policy Committee and the related Bill No.'s 315 and 316, having to do with Municipal Accommodation Tax on Short-term Accommodations, by indicating that he has rented out his home through Airbnb in the past and may do so again in the future.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Lehman
 
@@ -98,7 +94,6 @@ Councillor M. Salih enters the meeting at 4:35 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;10th Meeting held on July 5, 2022
 
@@ -131,7 +126,6 @@ That the Minutes of the 10th Meeting, held on July 5, 2022, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by A. Hopkins
 
@@ -190,11 +184,9 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Community and Protective Services Committee
 
@@ -2112,7 +2104,6 @@ That the motion of Councillors E. Peloza and S. Lewis, and the associated by-law
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;11th Report of Council in Closed Session
 
@@ -2255,19 +2246,15 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, with t
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lehman
 
@@ -2834,7 +2821,6 @@ By-law No. A.-8294-239 - A by-law to authorize and approve an Agreement of Purch
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by J. Fyfe-Millar
 

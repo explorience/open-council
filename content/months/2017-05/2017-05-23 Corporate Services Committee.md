@@ -12,7 +12,6 @@ May 23, 2017, at 12:32 PM
 > [!abstract]- Also Present:
 > M. van Holst; M. Hayward, A.L. Barbon, G. Belch, B. Card, S. Corman, B. Coxhead, C. Crossman, K. Graham, A. Hagan, S. LaForge, D. Mounteer, J. Raycroft, M. Ribera, S. Spring, J. Taylor, T. Van Klink (Outside Counsel), B. Warner, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -74,7 +73,6 @@ b)           
   Corporation concerning the proposed disposition, by indicating that his
   employer is involved in the proposed transaction.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus - City-Owned Property - Abutting 3195 White Oak Road
 
 That, on the recommendation of the City
@@ -108,7 +106,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Hyde Park Road
 
 That, on the recommendation of the City
@@ -134,7 +131,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT-
   Review of City of London Ward Boundaries
 
 That, on the recommendation of the City
@@ -159,7 +155,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Asset Review: Class A - Vacant Land and Buildings
 
 That, on the recommendation of the City
@@ -241,7 +236,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Canada 150 London - SesquiFest 2017 Update
 
 That, on the recommendation of the
@@ -268,7 +262,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointments to the
   Accessibility Advisory Committee (Requires 2 Persons with a Disability)
 
 That Laurie Chappell and Faye Simmons BE
@@ -294,7 +287,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;SesquiFest Ontario
   Craft Beer Garden - Request for Designation as a Municipally Significant
   Event
 

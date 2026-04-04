@@ -15,7 +15,6 @@ July 28, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, D. Arnold (London Hydro Inc.) J.P. Barber, G. Barrett, J. Braam, M. Butlin, C. Colvin, S. Datars Bere, S. Giustizia, K. Graham, G.T. Hopcroft, T. Landry, J. Lucas, V. McAlea Major, D. Mounteer, L. Palarchio, C. Saunders, J. Senese, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation: 
@@ -33,7 +32,6 @@ b)         Councillor
   S. Courtice, one of the requested appointees, is doing some volunteer work
   for him at this time.
 
-# 2.&nbsp;&nbsp;&nbsp;2011-2014 Report to
   the Community
 
 Recommendation:  That, on the
@@ -65,7 +63,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment to the
   Greater London International Airport Authority Board of Directors
 
 Recommendation:  That the communication
@@ -97,7 +94,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Hydro
   Promissory Note to the City of London
 
 Recommendation:  That, on the
@@ -184,7 +180,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Proposal to
   Establish a Housing Development Corporation
 
 Recommendation:  That, on the
@@ -239,7 +234,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Review of Council
   Policy 5(1) - Process for the Appointment of an Acting Mayor
 
 Recommendation:  That the Governance
@@ -316,7 +310,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Improvements to
   Governance Model and Tracking Approved Projects
 
 Recommendation:  That the following actions
@@ -357,7 +350,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointments to the
   London Public Library, 2014 - Term December 1, 2014 to November 30, 2018
 
 Recommendation:  That the request dated

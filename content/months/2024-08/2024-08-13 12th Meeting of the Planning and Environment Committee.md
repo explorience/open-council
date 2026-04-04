@@ -17,11 +17,9 @@ August 13, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -57,7 +55,6 @@ That the staff report dated August 13, 2024 entitled "Planning & Development and
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;379 Southdale Road West (Z-9746)
 
@@ -904,7 +901,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Communication from the Upper Thames River Conservation Authority Board of Directors – Extension of Minister’s Direction for Conservation Authorities Regarding Fee Changes Associated with Planning, Development and Permitting Fees
 
@@ -952,11 +948,9 @@ Motion to approve delegation status to B. Petrie, Mayor, Town of Ingersoll, with
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by C. Rahman
 
@@ -983,7 +977,6 @@ The Planning and Environment Committee convenes In Closed Session from 3:31 PM t
 
 ## 6.1&nbsp;&nbsp;&nbsp;247 Halls Mill Road – CRB Appeal and Instructions
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

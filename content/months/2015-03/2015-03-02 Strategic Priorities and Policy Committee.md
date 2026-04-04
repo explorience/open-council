@@ -12,7 +12,6 @@ March 2, 2015, at  6:19 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Barrett, G. Belch, J.M. Fleming, K. Gonyou, T. Grawey, M. Hayward, G. Kotsifas, H. Lysynski, T. Macbeth, A. Macpherson, D. Menard, D. Mounteer, D. Popadic, J. Ramsay, M. Ribera, C. Saunders, M. Tomazincic, B. Warner, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor

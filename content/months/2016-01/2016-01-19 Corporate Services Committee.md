@@ -15,13 +15,11 @@ January 19, 2016, at 12:07 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, T. Park, M. Salih, P. Squire; A. Zuidema, A.L. Barbon, J.P. Barber, G. Belch, J. Braam, P. Foto, K. Graham, M. Hayward, S. Koshowski, J. Logan, J. Lucas, V. McAlea Major, D. Mounteer, M. Ribera, R. Sutton, T. Van Klink, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Participate in the Ontario Certified Site Program with
   the Ministry of Economic Development, Trade and Employment for 2506 Bonder
   Road, Innovation Park, Phase IV
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Future Tax Policy -
   Possible Directions
 
 That, on the recommendation of the Managing
@@ -246,7 +243,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Assessment Growth
   for 2016, Changes in Taxable Phase-in Values and Shifts in Taxation as a
   Result of Reassessment
 
@@ -272,7 +268,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Hydro One
 
 Motion
   Passed
@@ -358,7 +353,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Public Question
   Session/Period
 
 That the Governance Working Group BE
@@ -384,7 +378,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Advisory Committee on Heritage
 
 That Greg Thompson BE APPOINTED as a Voting
@@ -407,7 +400,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Request for
   Approval of an Expense on an Exception Basis
 
 That the request by Councillor M. van Holst
@@ -430,7 +422,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Diversity,
   Integration and Inclusion in London
 
 That the Civic Administration BE DIRECTED
@@ -460,7 +451,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Request for
   Designation of the International Food Festival as a Municipally Significant
   Event
 
@@ -484,7 +474,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Request for
   Designation of the London Rib Fest as a Municipally Significant Event
 
 That the London Rib Fest, to be held July
@@ -507,7 +496,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee
@@ -531,7 +519,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED - Provincial
   Dedicated Gas Tax Funds for Public Transportation Program
 
 That, on the recommendation of the Managing
@@ -558,7 +545,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;ADDED - Absence
   from Meeting
 
 That the communication dated January 12,
@@ -581,7 +567,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Hydro
   One
 
 ---

@@ -17,19 +17,15 @@ May 13, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 2, clause 2.1 of the 8th Report of the Community and Protective Services Committee and Bill No. 156, having to do with the Child Care and Early Years Master Funding Agreement, by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -70,7 +66,6 @@ That Council convenes In Closed Session, from 1:07 PM to 1:13 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;7th Meeting held on April 22, 2025
 
@@ -104,7 +99,6 @@ That the Minutes of the 7th Meeting of the Municipal Council, held on April 22, 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by D. Ferreira
 
@@ -175,11 +169,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;8th Report of the Community and Protective Services Committee
 
@@ -1837,23 +1829,18 @@ b)    the proposed by-law, as appended to the staff report dated May 12, 2025 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED that Councillor C. Rahman presented the 8th Report of the Council in Closed Session, by noting progress was made with respect to the items noted on the Agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -2274,7 +2261,6 @@ That Third Reading and Enactment of Bill No.’s 155 to Bill No. 178, excluding 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 
@@ -2288,7 +2274,6 @@ The meeting adjourned at 5:19 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 155**

@@ -12,13 +12,11 @@ February 20, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > I. Abushehada, J. Adema, G. Barrett, A. Dunbar, M. Elmadhoon, M. Feldberg, J.M. Fleming, K. Gonyou, N. Hall, M. Knieriem, P. Kokkoros, T. Macbeth, A. Macpherson, H. McNeely, L. Mottram, N. Pasato, M. Pease, L. Pompilii, C. Saunders, C. Smith, J. Smolarek, S. Spring, M. Tomazincic, S. Wise, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -66,7 +64,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -121,7 +118,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   905 Sarnia Road (H-8849)
 
 That, on the recommendation of the Senior
@@ -156,7 +152,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   810 Southdale Road East (H-8204)
 
 That, on the recommendation of the Planner
@@ -187,7 +182,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   660 Sunningdale Road East - Applewood Subdivision (39T-09501/Z-8818)
 
 That, on the recommendation of the Senior
@@ -298,7 +292,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Strategic Plan
   Variance Report
 
 That, on the recommendation of the City
@@ -323,7 +316,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for December 2017
 
 That the Building Division Monthly Report
@@ -346,7 +338,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -439,7 +430,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   2150 Oxford Street East (OZ-8851)
 
 That, on the recommendation of the Managing
@@ -558,7 +548,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   2081 Trafalgar Street (Z-8846)
 
 That, on the recommendation of the Managing
@@ -661,7 +650,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   255 South Carriage Road (Z-8850)
 
 That, on the recommendation of the Managing
@@ -765,7 +753,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   220 Adelaide Street South (Z-8853)
 
 That, on the recommendation of the Managing
@@ -883,7 +870,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 644 and 646 Huron Street (Z-8843)
 
 That, on the recommendation of the Managing
@@ -1015,7 +1001,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   1900 Kilgorman Way (H-8854)
 
 That, the application by Harasym Homes
@@ -1067,7 +1052,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) 3rd Report
   of the London Advisory Committee on Heritage
 
 That the following actions be taken with

@@ -12,10 +12,8 @@ July 22, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, H.L. Usher, G. Barrett, M. Davis, B. Debbert, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, B. Krichker, E. Lalande, A. MacLean, L. Maitland, N. Musicco, C. Parker, N. Pasato, J. Ramsay, M. Ribera, C. Saunders, C. Smith, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 3rd Report of the
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 7th Report of the
@@ -63,7 +60,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Tax Grant Incentive
   Program for the property located at 637 Dundas Street
 
 Recommendation:      That, on the
@@ -90,7 +86,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
 Recommendation:  That, based on the direction
@@ -118,7 +113,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Amendment to the
   City of London's Tree Conservation By-law, C.P.1466-249
 
 Recommendation:  That, on the
@@ -146,7 +140,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Southwest Area
   Secondary Plan - Official Plan Amendment No. 541 - Information Report
   (O-7609)
 
@@ -174,7 +167,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   2405 Concept Drive (formerly 2430 Bradley Avenue) (H-8181)
 
 Recommendation:  That, on the
@@ -205,7 +197,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   705 Freeport Street (H-8215)
 
 Recommendation:  That, on the
@@ -237,7 +228,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1968-1984 Wateroak Drive (H-8153)
 
 Recommendation:  That, on the
@@ -267,7 +257,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   675 Riverside Drive (H-8341)
 
 Recommendation:  That, on the
@@ -297,7 +286,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Subdivision and
   Development Agreement Security Policy
 
 Recommendation:  That, on the
@@ -325,7 +313,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Ballymote Woods
   Subdivision (Lots 88-94 in Plan 33M-631 and Lots 1-12 Plan 33M-632) (P-8205)
 
 Recommendation:  That, on the
@@ -369,7 +356,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Development
   Inspection Fee
 
 Recommendation:  That, on the
@@ -397,7 +383,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for May 2014
 
 Recommendation:  That the Building Division
@@ -420,7 +405,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;7th and 8th Reports
   of the London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -595,7 +579,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Amendments to the
   Parking Section of 4.19 of the Z-1 By-law and Amendments to the Site Plan
   Control Area By-law (Z-8331)
 
@@ -675,7 +658,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Proposed Boulevard
   Agreement at 1365 Dundas Street - Highbury Ford
 
 Recommendation:  That, on the
@@ -759,7 +741,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Hyde Park
   Industrial Area (O-8340)
 
 Recommendation:  That, on the
@@ -841,7 +822,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   3425 Roe Street (OZ-8360)
 
 Recommendation:  That, on the
@@ -932,7 +912,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   4585 Blakie Road (OZ-8361)
 
 Recommendation:  That, on the recommendation
@@ -1030,7 +1009,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   5279 Colonel Talbot Road (Z-8342)
 
 Recommendation:  That, on the
@@ -1108,7 +1086,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Properties located
   at 1922-1930 Mallard Road and surrounding properties zoned Open Space (OS4)
   (OZ-8306)
 
@@ -1207,7 +1184,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Property located at
   930 Gainsborough Road (39T-13505/Z-8308)
 
 Recommendation:  That, on the
@@ -1330,7 +1306,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Request for
   Demolition – Property located at 646 Dingman Drive
 
 Recommendation:  That, on the
@@ -1406,7 +1381,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Request for
   Demolition – Property located at 1057 Richmond Street
 
 Recommendation:  That, the request by the
@@ -1483,7 +1457,6 @@ Motion
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Property located at
   660 Sunningdale Road East (39T-09501/OZ-7638)
 
 Recommendation:  That, the Draft Plan of
@@ -1587,7 +1560,6 @@ Motion
 
 ****
 
-# 28.&nbsp;&nbsp;&nbsp;Properties located
   at 225 and 229 Greenwood Avenue (Z-8289)
 
 Recommendation:  That, on the
@@ -1702,7 +1674,6 @@ Motion
 
 ****
 
-# 29.&nbsp;&nbsp;&nbsp;Property located at
   2118 Richmond Street (OZ-7890)
 
 Recommendation:  That, the Planning and
@@ -1802,7 +1773,6 @@ Motion
 
 ****
 
-# 30.&nbsp;&nbsp;&nbsp;Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
 Recommendation:  That, the application of
@@ -1944,7 +1914,6 @@ Motion
 
 ****
 
-# 31.&nbsp;&nbsp;&nbsp;6th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following action
@@ -2000,7 +1969,6 @@ Motion
 
 ****
 
-# 32.&nbsp;&nbsp;&nbsp;Request for
   Heritage Conservation District Status for the Neighbourhood of St.
   George-Grosvenor
 
@@ -2043,7 +2011,6 @@ Motion
 
 ****
 
-# 33.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2014
 
 Recommendation:  That Councillor S.E. White

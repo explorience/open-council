@@ -17,7 +17,6 @@ December 4, 2023, at 12:00 PM
 
 The meeting is called to order at 12:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -27,7 +26,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 That it BE NOTED that Councillor P. Cuddy was appointed as Vice Chair to the Corporate Services Committee by Mayoral Decision 2023-008.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Demolition of City-Owned Property Buildings - 3243 Manning Drive
 
@@ -85,19 +83,15 @@ That the communication from Councillor S. Franke regarding the Federation of Can
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Stevenson
 
@@ -144,7 +138,6 @@ The Corporate Services Committee convenes In Closed Session from 12:08 PM to 12:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

@@ -17,11 +17,9 @@ August 13, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor S. Franke was in in remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -178,15 +176,12 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by P. Van Meerbergen
 
@@ -207,7 +202,6 @@ The Civic Administration BE DIRECTED to advance the timing of pedestrian crossov
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by A. Hopkins
 
@@ -234,7 +228,6 @@ The Infrastructure and Corporate Services Committee convenes In Closed session f
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

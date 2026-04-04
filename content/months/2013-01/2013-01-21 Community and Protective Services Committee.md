@@ -15,23 +15,19 @@ January 21, 2013, at  7:01 PM
 > [!abstract]- Also Present:
 > A.L. Barbon, B. Coxhead, S. Giustizia, G. Kotsifas, B. Kritchker, L. Livingstone, R. Sharpe, L. Stevens, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Dearness Home
   Community Newsletter - January 2013
 
 Recommendation:  That the January 2013
   Dearness Newsletter BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 1st Report of the
   London Housing Advisory Committee from its meeting held on December 12, 2012,
   BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Ontario Medal for
   Young Volunteers
 
 Recommendation:   That the correspondence
@@ -40,7 +36,6 @@ Recommendation:   That the correspondence
   it being noted that Members of Council are encouraged to submit nominations
   for these recognitions.
 
-# 5.&nbsp;&nbsp;&nbsp;Single Source Supply
   and Delivery of Electric Golf Carts
 
 Recommendation:  That, on the
@@ -65,14 +60,12 @@ c)         the
   into a formal contract or having a purchase order, or contract record
   relating to the subject matter of this approval.
 
-# 6.&nbsp;&nbsp;&nbsp;Pool Fence Specifications
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Development and Compliance Services
   & Chief Building Official, the report dated January 21, 2013, regarding
   Pool Fence Specifications, BE RECEIVED for information.
 
-# 7.&nbsp;&nbsp;&nbsp;Support for Making
   the Community More Cardiac Safe
 
 Recommendation:  That the following actions
@@ -112,7 +105,6 @@ it being noted that the Community and
   Protective Services Committee received the attached presentation from
   C. Hurtado, Heart and Stroke Foundation.
 
-# 8.&nbsp;&nbsp;&nbsp;Animal Welfare
   Advisory Committee 1st and 2nd Reports
 
 Recommendation:  That the following actions
@@ -277,7 +269,6 @@ it being noted that the Community and
   Protective Services Committee received a verbal presentation from S. Rans,
   Chair and V. VanLinden, Member, AWAC, with respect to these reports.
 
-# 9.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -321,7 +312,6 @@ b)           
   clauses
   2 to 10 BE RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Council Housing
   Leadership Committee
 
 Recommendation:  That the following actions
@@ -405,7 +395,6 @@ c)           
   clauses
   3 to 6 BE RECEIVED.
 
-# 11.&nbsp;&nbsp;&nbsp;Single Source for
   the Supply of Food Products
 
 Recommendation:  That, on the
@@ -439,7 +428,6 @@ e)         the
   a formal contract or having a purchase order relating to the subject matter
   of this approval.
 
-# 12.&nbsp;&nbsp;&nbsp;Ontario Works
   Employment Innovations
 
 Recommendation:  That, on the
@@ -457,7 +445,6 @@ b)         the
   Verification Reserve Fund to fund the municipal share of the two pilot
   employment initiative expenditures.
 
-# 13.&nbsp;&nbsp;&nbsp;Neighbourhood
   Family Centre-Thames Valley District School Board-White Oaks Public School
 
 Recommendation:  That, on the

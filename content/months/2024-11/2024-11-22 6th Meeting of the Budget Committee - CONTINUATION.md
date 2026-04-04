@@ -17,15 +17,12 @@ November 22, 2024, at  9:30 AM
 
 The meeting is called to order at 9:31 AM; it being noted that Councillors S. Hillier, P. Van Meerbergen, S. Franke, and D. Ferreira (at 12:40 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor S. Lehman discloses a pecuniary interest in item 3.2 having to do with the Amendment - Grant - Economic Development Reserve Fund - Councillor D. Ferreira - LDBA for Improving Safety/Security, Property Damage Grants, by indicating that it relates to grants for Downtown London Business Association and the Councillor indicates they are member of the association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
 
@@ -211,7 +208,6 @@ That it BE NOTED that the Budget Committee did not consider an amendment to the 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Middlesex-London Health Unit 2025 Funding Request
 
@@ -315,7 +311,6 @@ The Budget Committee recesses at 12:08 PM and reconvenes at 12:43 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;VHA Home HealthCare and Extreme Clean Program
 
@@ -584,11 +579,9 @@ That the Mayor’s 2025 Annual Budget Update BE AMENDED to include a drawdown fr
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

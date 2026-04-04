@@ -12,13 +12,11 @@ August 1, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer; R. Armistead, B. Coxhead, C. Da Silva, S. Datars Bere, T. Gaffney, M. Geudens, K. Graham, S. Khan, K. Koltun, G. Kotsifas, M. Marcellin, M. Ribera, L. Rowe, C. Smith, S. Stafford, T. Thomas
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Middlesex-London
   Health Unit
 
 That it BE NOTED that communications dated
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Community Diversity
   and Inclusion Strategy
 
 That, on the recommendation of the
@@ -94,7 +91,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Establishment of
   Opioid Crisis Working Group
 
 That the following actions be taken with
@@ -198,7 +194,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Ontario Works Rates
 
 That A. Oudshoorn BE GRANTED delegation
   status, for the purpose of making a presentation with respect to Ontario
@@ -223,7 +218,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London Public
   Library Art Collection
 
 That the Civic Administration BE DIRECTED
@@ -251,7 +245,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;8th Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -294,7 +287,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the August 2017 Deferred Matters List
@@ -318,7 +310,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;(ADDED) 7th Report
   of the Accessibility Advisory Committee
 
 That it BE NOTED that the 7th Report of the

@@ -12,13 +12,11 @@ May 20, 2015, at  1:02 PM
 > [!abstract]- Also Present:
 > M. Cassidy, J. Zaifman; J. Braam, A. Drost, A. Dunbar, J. Lucas, D. MacRae, S. Maguire, K. Murray, L. Rowe, E. Soldo, S. Spring, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Contract Award
   Tender No. 15-51 Commissioners Road West Widening Wonderland Road South to
   Huxley Street
 
@@ -73,7 +71,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro
   Alternate Locate Agreement
 
 That, on the recommendation of the Managing
@@ -108,7 +105,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-24 2015 Arterial Road Rehabilitation Contract #3
 
 That, on the recommendation of the Managing
@@ -157,7 +153,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment of Consulting
   Engineer for Inspection, Contract Administration and Engineering Services
   Associated with the Construction of 2015 Infrastructure Renewal Projects:
   Riverside, Vancouver and Egerton Reconstruction Projects
@@ -221,7 +216,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Transportation
   Energy Optimization Plan (TEOP) Phase 1 Financing
 
 That, on the recommendation of the
@@ -256,7 +250,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Municipal Parking
   Lot Upgrade Strategy
 
 That, on the recommendation of the
@@ -283,7 +276,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;School Zone Speed
   Limit Policy
 
 That, on the recommendation of the
@@ -368,7 +360,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Proposed Water
   By-law (W-8) Amendment Regarding Outdoor Water Use Restrictions
 
 That, on the recommendation of the Managing
@@ -471,7 +462,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;3rd Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -538,7 +528,6 @@ Motion
 Motion to Receive the staff report and the communication
   dated May 20, 2015, from Councillor J. Zaifman.
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters List
 
 That the following actions be taken with
   respect to the Civic Works Committee (CWC) Deferred Matters List, as at May
@@ -609,7 +598,6 @@ Motion
 
 Motion to Approve clauses f).
 
-# 12.&nbsp;&nbsp;&nbsp;(Added) Recycling Bins in City Parks
 
 That the Civic Administration BE REQUESTED
   to look at the potential of installing recycling bins in City parks and

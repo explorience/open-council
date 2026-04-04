@@ -17,11 +17,9 @@ May 6, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -109,7 +107,6 @@ c)    Councillor A. Hopkins BE REIMBURSED up to $500 for campaign-related expe
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Presentation - Property Assessment and Tax System - Municipal Property Assessment Corporation
 
@@ -135,7 +132,6 @@ That it BE NOTED that the Corporate Services Committee heard an update from B. S
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointments to the London Community Advisory Committees
 
@@ -211,11 +207,9 @@ That based on the application dated April 23, 2024 from the Cross-Cultural Learn
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Cuddy
 
@@ -270,7 +264,6 @@ The Corporate Services Committee convenes In Closed Session from 1:55 PM to 2:14
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by C. Rahman
 

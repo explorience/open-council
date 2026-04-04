@@ -20,11 +20,9 @@ May 28, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by T. Park
 
@@ -148,7 +146,6 @@ That the Building Division Monthly Report for the month of April, 2018 BE RECEIV
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;D. Dudek, Chair, London Advisory Committee on Heritage - 6th Report of the London Advisory Committee on Heritage
 
@@ -583,7 +580,6 @@ Motion to grant an extension of time beyond five minutes to R. Zelinka, Zelink
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;6th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -619,7 +615,6 @@ d)            clauses 1.1, 2.1, 2.2, 3.1 to 3.5, 5.1 and 6.1, BE RECE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -643,7 +638,6 @@ That the Managing Director, Development and Compliance Services & Chief Building
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:18 PM
 

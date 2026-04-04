@@ -12,7 +12,6 @@ March 18, 2014, at  2:34 PM
 > [!abstract]- Also Present:
 > P. Hubert; A. Zuidema, K. Dawtrey, J.M. Fleming, A. Hagan, K. Killen, L. Livingstone, V. McAlea Major, D. Mounteer, L. Palarchio, R. Paynter, C. Saunders, B. Warner, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

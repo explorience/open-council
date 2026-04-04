@@ -20,11 +20,9 @@ July 23, 2019, at 10:00 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan discloses a pecuniary interest in items 5.3 and 6.1, both related to the London Hydro Inc. Board of Directors, by indicating that a candidate is directly involved with his employment at Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -147,7 +145,6 @@ That the communication dated July 15, 2019 from Councillor J. Morgan regarding 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Tax Adjustment Agenda
 
@@ -171,7 +168,6 @@ That the recommendations contained in the amended Tax Adjustment Agenda dated J
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Additional Honourees for Mayor's New Year's Honour List
 
@@ -195,7 +191,6 @@ That the communication dated July 11, 2019 from Mayor E. Holder with respect to�
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -272,7 +267,6 @@ it being noted that Sarah Shortreed was selected for appointment to the London
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 That the Corporate Services Committee convene In Closed Session for the purpose of considering:
 
@@ -328,7 +322,6 @@ The Corporate Services Committee convened In Closed Session from 1:03 PM to 2:36
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:37 PM.
 

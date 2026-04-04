@@ -12,13 +12,11 @@ October 20, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst, J. Zaifman; J. Braam, H. Chapman, R. Cosby, B. Coxhead, S. Datars Bere, M. Dellamora, J. Fleming, S. Giustizia, J. Kobarda, D. Lazenby, L. Livingstone, A. Macpherson, L. McDougall, J. Parsons, J. Richardson, C. Saunders, E. Soldo, S. Spring, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -72,7 +70,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -219,7 +216,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing (IAH) Program (2014 Extension) Update to Proposal for It's
   Our Home, 193 Clarke Road, London
 
@@ -261,7 +257,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London's Homeless
   Prevention System Street Level Women at Risk Prevention Program (RFP 15-47)
 
 That, on the recommendation of the Managing
@@ -302,7 +297,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Protective Coat and Trousers (Bunker Gear) for Structural Firefighting (RFP 15-39)
 
 That, on the recommendation of the Fire
@@ -345,7 +339,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Age-Friendly London
   Year Two Progress Report
 
 That, on the recommendation of the Managing
@@ -369,7 +362,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;E-bikes on
   Sidewalks
 
 That the delegation from B. Fuhrman, with
@@ -395,7 +387,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;6th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -439,7 +430,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;9th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -489,7 +479,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Chained Dog By-law
 
 That the matter of a proposed
   chaining/tethering/penning of dogs by-law BE REFERRED to the Civic
@@ -526,7 +515,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for
   Proposal 15-03 Driver Simulator - Follow-Up Report
 
 That, on the recommendation of the Fire
@@ -573,7 +561,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Community Connections
   – Westminster Working Group
 
 That the following actions be taken with
@@ -617,7 +604,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Community and Protective Services

@@ -15,13 +15,10 @@ March 20, 2012, at  3:10 PM
 > [!abstract]- Also Present:
 > P. Hubert, J.P. Barber, J. M. Fleming, G. Kotsifas, E. Lalande, J. Leunissen
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary
   interests are disclosed
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to the
   Official Plan and Zoning By-law to Provide Appropriate Opportunities for the
   Siting of Methadone Clinics and Methadone Pharmacies within the City of London
 
-# 3.&nbsp;&nbsp;&nbsp;1551 Blackwell
   Boulevard
 

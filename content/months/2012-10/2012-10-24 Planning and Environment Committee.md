@@ -15,10 +15,8 @@ October 24, 2012, at  1:07 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, P. Hubert, G. Barrett, J. Braam, T. Copeland, P. Christiaans, M. Elmadhoon, J.M. Fleming, A. Macpherson, S. Mathers, H. McNeely, S. Milanovic, J. Ramsay, M. Ribera, C. Saunders, P. Yeoman, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Southwest Area
   Secondary Plan - Information Report (O-7609)
 
 Recommendation:  That, further

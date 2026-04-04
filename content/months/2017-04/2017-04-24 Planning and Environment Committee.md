@@ -15,13 +15,11 @@ April 24, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > H.L. Usher, M. van Holst, G. Bailey, G. Barrett, L. Bruni, M. Campbell, A. Dunbar, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, T. Macbeth, A. MacLean, A. Macpherson, B. O’Hagan, L. Pompilii, J. Ramsay, M. Ribera, J. Stanford, M. Tomazincic, B. Turcotte, A-B. Watson, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -72,7 +70,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 807 Colborne Street (Fire Hall No. 4)
 
 Motion
@@ -92,7 +89,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Review of Impacts from Industrial Sources (Focus on Odour) and Potential
   Municipal Actions (South of Highway 401)
 
@@ -140,7 +136,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 530 Sunningdale Road East (Powell Subdivision Phase 4) (H-8758)
 
 That, on the recommendation of the Senior
@@ -170,7 +165,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 801 Sarnia Road (H-8736)
 
 That, on the recommendation of the Senior
@@ -236,7 +230,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 4166 Scotland Drive
 
 That, on the recommendation of the Senior
@@ -266,7 +259,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 10 Hawthorne Road (Z-8723)
 
 That, on the recommendation of the Managing
@@ -376,7 +368,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;4th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -433,7 +424,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at  555-557 Ridout Street North
   (TZ-8673)
 
@@ -564,7 +554,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Low-rise Residential Development in Existing
   Neighbourhoods (Infill Study) (Z-8701)
 
@@ -692,7 +681,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Public Engagement Process for the Evaluation of
   Community Improvement Plan Incentives
 
@@ -928,7 +916,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 1156 Dundas Street - Community Improvement Plan for
   Brownfield Incentives
 
@@ -1042,7 +1029,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave
   -  Brownfield Incentives
 

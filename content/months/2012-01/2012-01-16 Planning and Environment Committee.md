@@ -12,7 +12,6 @@ January 16, 2012, at  3:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J. L. Baechler, P. Hubert, D. Ailles, G. Barrett, G. Belch, J. Braam, J. Buchanan, T. Copeland, B. Debbert, A. Drost, A. Dunbar, M. Elmadhoon, J. M. Fleming, E. Gamble, T. Grawey, B. Henry, G. Kotsifas, B. Krichker, J. Leunissen, A. Macpherson, L. McDougall, N. McKee, S. Meksula, D. Menard, J. Michaud, L. Mottram, N. Musicco, B. Page, J. Page, A. Riley, D. Stanlake, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor Polhill disclosed a
   pecuniary interest in clause 8 of this Report, relating to the property
   located at 10 Cummings Avenue, by indicating that his son is a member of the
   Committee of Adjustment.
@@ -22,7 +21,6 @@ That Councillor Henderson disclosed a
   located at 550 Kingsway Avenue and 572 Wonderland Road North, by indicating
   that he has an office at Kingsway Avenue.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That, the following
@@ -48,14 +46,12 @@ b)           
   that
   clauses 2 through 9, inclusive, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Environmental and Ecological Planning Advisory Committee, from its meeting
   held on December 15, 2011, BE NOTED.
 
-# 4.&nbsp;&nbsp;&nbsp;Development
   Activity Update
 
 Recommendation:  That, on the
@@ -67,7 +63,6 @@ Recommendation:  That, on the
   13, 2012 from J. Kennedy, London Development Institute, with respect to this
   matter.
 
-# 5.&nbsp;&nbsp;&nbsp;Special Provisions -
   Sunningdale Meadows Subdivision (39T-10502)
 
 Recommendation:  That, on the recommendation
@@ -103,7 +98,6 @@ d)           
   Claims and Revenues Report” provided as Appendix ‘B’ to the associated staff
   report, dated January 16, 2012.
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1390 Highbury Avenue North (H-7997)
 
 Recommendation:  That, on the recommendation
@@ -117,7 +111,6 @@ Recommendation:  That, on the recommendation
   a Residential R7 Special Provision (R7(14)*D75*H13) Zone to remove the
   holding provision.
 
-# 7.&nbsp;&nbsp;&nbsp;The Southern
   Portion of 1270 Sunningdale Road East (Phase I - 33M-631) (H-7987)
 
 Recommendation:  That, on the
@@ -132,7 +125,6 @@ Recommendation:  That, on the
   (h-96*R1-5) Zone TO a Residential R1 (R1-3) Zone and a Residential R1
   (R1-5) Zone to remove the holding provision.
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   10 Cummings Avenue
 
 Recommendation:  That, on the
@@ -152,7 +144,6 @@ b)           
   DIRECTED to provide legal and planning representation at the Ontario
   Municipal Board Hearing to support the Committee of Adjustment’s decision.
 
-# 9.&nbsp;&nbsp;&nbsp;London Psychiatric
   Hospital Secondary Plan - Notice of Appeal to the Ontario Municipal Board
   (O-7668)
 
@@ -169,14 +160,12 @@ Recommendation:  That, on the
   Ontario Municipal Board BE ADVISED that the Municipal Council has
   reviewed its decision relating to this matter and sees no reason to alter it.
 
-# 10.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for November 2011
 
 Recommendation:  That the Building Division
   Monthly Report for December, 2011 from the Director of Building Controls BE
   RECEIVED.
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of the London Advis  ory Committee on Heritage
 
 Recommendation:  That
   the following actions be taken with
@@ -224,7 +213,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal delegation from J. O'Neil, Acting Chair,
   LACH, with respect to these matters.
 
-# 12.&nbsp;&nbsp;&nbsp;Residential
   Intensification Policies (O-7970)
 
 Recommendation:  That, notwithstanding the
@@ -336,7 +324,6 @@ it being
   policy, and some things are exempted from the process; and if it is to be
   reviewed, examine how to make infill more involved.
 
-# 13.&nbsp;&nbsp;&nbsp;Street Renaming of
   Innovation Gate between Bradley Avenue and Discovery Drive
 
 Recommendation:  That, on the
@@ -359,7 +346,6 @@ it
   being pointed out that there were no oral submissions made at the public
   participation meeting held in connection with this matter.
 
-# 14.&nbsp;&nbsp;&nbsp;1959 Wharncliffe
   Road South (Z-7983)
 
 Recommendation:  That, on the
@@ -384,7 +370,6 @@ it
   being pointed out that there were no oral submissions made at the public
   participation meeting held in connection with this matter.
 
-# 15.&nbsp;&nbsp;&nbsp;Reclassification of
   Environmentally Significant Areas (O-7958)
 
 Recommendation:  That, on the
@@ -444,7 +429,6 @@ it being
   and advising that part of the LACH mandate is to look after natural heritage,
   which includes environmentally significant areas.
 
-# 16.&nbsp;&nbsp;&nbsp;Market Lane Design
   Competition - Winning Design Announcement
 
 Recommendation:  That, on the
@@ -482,7 +466,6 @@ it being noted that the Planning and
   Manager, Parks Planning and Design and received the attached
   presentation from S. Reis, Chair, Design Jury, with respect to this matter.
 
-# 17.&nbsp;&nbsp;&nbsp;Decommissioning the
   South Street Hospital
 
 Recommendation:  That, the following actions
@@ -823,7 +806,6 @@ it being
   East being 2 or 3-storeys; and advising that the windows don’t have to be
   wood, but can be a material that looks like wood.
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   1961 Cedarhollow Boulevard (Z-7979)
 
 Recommendation:  That, on the
@@ -845,7 +827,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.
 
-# 19.&nbsp;&nbsp;&nbsp;Properties located
   at 550 Kingsway Avenue and 572 Wonderland Road North (OZ-7946)
 
 Recommendation:  That, the application of
@@ -932,7 +913,6 @@ it being
   advising that there will only be five or six patients seen at one time; and
   indicating that it is not a noise-based business.
 
-# 20.&nbsp;&nbsp;&nbsp;Holding Provisions
   - Section 3.8 of Zoning By-law Z-1 (Z-7973)
 
 Recommendation:  That, on the
@@ -962,7 +942,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.
 
-# 21.&nbsp;&nbsp;&nbsp;The Piccadilly Area
   Neighbourhood and Application by Montessori School House of Children re
   property located at 719 Waterloo Street (O-7980/Z-7686)
 
@@ -1186,7 +1165,6 @@ it being
   time and there were a lot of problems; and advising that Montessori keeps the
   property beautiful with plants and flowers.
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   567 Rosecliffe Terrace (former address: 633 Commissioners Road West)
   (39CD-09509)
 
@@ -1342,7 +1320,6 @@ it being
   “Forest City” and the developer is ripping out trees to put in 21
   condominiums.
 
-# 23.&nbsp;&nbsp;&nbsp;Parcel of Land
   Bounded by Longwoods Road, Murray Road, Colonel Talbot Road and Highway 402
 
 Recommendation:  That, the Planning and
@@ -1353,7 +1330,6 @@ Recommendation:  That, the Planning and
   Administration for consideration with the Official Plan review currently
   being undertaken.
 
-# 24.&nbsp;&nbsp;&nbsp;Zoning By-law
   Amendment Application – 783 Richmond Street
 
 Recommendation:  That, the Planning and
@@ -1364,7 +1340,6 @@ Recommendation:  That, the Planning and
   Administration that it does not understand the need for the requirement of a
   parking study for this application.
 
-# 25.&nbsp;&nbsp;&nbsp;Membership of the
   Planning and Environment Committee
 
 Recommendation:  That, the Planning and
@@ -1373,7 +1348,6 @@ Recommendation:  That, the Planning and
   membership of the Planning and Environment Committee, for the term ending
   November 30, 2012.
 
-# 26.&nbsp;&nbsp;&nbsp;Application to the
   Ontario Superior Court of Justice - Court File No. 2263/2010
 
 Recommendation:  That, on the

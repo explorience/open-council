@@ -18,11 +18,9 @@ November 30, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Morgan
 
@@ -108,11 +106,9 @@ That the communication from Councillor J. Morgan regarding the Federation of Can
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Accessibility Advisory Committee 
 
@@ -137,7 +133,6 @@ That Madison Bush BE APPOINTED as a Voting Member to the Accessibility Advisory 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;AMO 2021 Conference
 
@@ -151,7 +146,6 @@ That the  update from Councillor A. Hopkins, with respect to the 2021 AMO Confer
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -185,7 +179,6 @@ The Corporate Services Committee convened, In Closed Session, from 1:25 PM until
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:14 PM
 

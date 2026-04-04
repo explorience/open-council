@@ -18,7 +18,6 @@ November 11, 2014, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor M. Brown discloses a pecuniary
@@ -26,13 +25,10 @@ Councillor M. Brown discloses a pecuniary
   having to do with Lorne Avenue Public School, by indicating that the Thames
   Valley District School Board is his employer.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor R.
   Monteith and Councillor N. Branscombe - Emergent Motion - Relocation of
   Inaugural Council Meeting - December 1, 2014
 
@@ -103,14 +99,11 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-FOURTH MEETING HELD ON OCTOBER 14,
   2014
 
@@ -146,7 +139,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor J.B. Swan
@@ -158,10 +150,8 @@ Approve receipt and referral of
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor B. Polhill
 
@@ -169,13 +159,11 @@ Approve clauses 1 to 19.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Transportation Advisory Committee
 
 That the 8th Report of the Transportation
   Committee, from its meeting held on October 7, 2014, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -185,7 +173,6 @@ That, on the recommendation of the Managing
   for the purpose of amending the Traffic and Parking By-law (P.S. 111).
   (2014-C01)
 
-# 4.&nbsp;&nbsp;&nbsp;Closing Part of
   Concept Drive
 
 That, on the recommendation of the Director
@@ -201,7 +188,6 @@ b)         the
   portion of Concept Drive between Old Victoria Road and Innovation Drive by
   by-law.  (2014-T09)
 
-# 5.&nbsp;&nbsp;&nbsp;Closing part of the
   Unnamed Road Allowance on Sarnia Road
 
 That, on the recommendation of the Director
@@ -221,7 +207,6 @@ b)         the
   City, hereafter the lands will be conveyed in accordance with the agreement
   subject to any required utility easements.  (2014-T09)
 
-# 6.&nbsp;&nbsp;&nbsp;Gore Road Area
   Project-Braesyde and Dengate Infrastructure Replacement Detailed Design and
   Tendering Appointment of Consulting Engineer
 
@@ -259,7 +244,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 7.&nbsp;&nbsp;&nbsp;5th Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -276,14 +260,12 @@ a)         that,
 b)         clauses 1 to 15, and clauses  17
   to 18, inclusive, BE RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;Parking Regulation
   Changes
 
 That the communication dated July 15, 2014,
   from Reverend Lyndon Hutchison-Hounsell, 280 James Street, with respect to
   Parking Regulation Changes for 280 James Street, BE RECEIVED.  (2014-T02)
 
-# 9.&nbsp;&nbsp;&nbsp;Sharp Curve North
   End of Proudfoot Lane
 
 That the communication dated October 20,
@@ -292,7 +274,6 @@ That the communication dated October 20,
   Administration for report back at a future Civic Works Committee meeting. 
   (2014-T08)
 
-# 10.&nbsp;&nbsp;&nbsp;Installation of
   Traffic Control Measures at Hyde Park Road and South Carriage Road
 
 That the request for the installation of
@@ -305,7 +286,6 @@ That the request for the installation of
   approximately 616 signatures in support of the traffic control measures,
   available for viewing in the City Clerk’s Office.  (2014-T07)
 
-# 11.&nbsp;&nbsp;&nbsp;Parking Regulation
   Amendment
 
 That the communication dated October 16.
@@ -314,7 +294,6 @@ That the communication dated October 16.
   REFERRED to the Civic Administration for report back at a future Civic Works
   Committee meeting.
 
-# 12.&nbsp;&nbsp;&nbsp;Civic Works
   Committee Meeting - November 17, 2014
 
 That the Civic Works Committee meeting
@@ -385,7 +364,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   420 Fanshawe Park Road East - Demolition Request
 
 That, the application relating to the
@@ -425,7 +403,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record made oral
   submissions in connection therewith.   (2014-P10D)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   1470 Dundas Street (Z-8396)
 
 That, on the recommendation of the Managing
@@ -442,7 +419,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.     (2014-D14)
 
-# 15.&nbsp;&nbsp;&nbsp;Coves ESA
   Conservation Master Plan
 
 That, on the recommendation of the Managing
@@ -478,7 +454,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record made oral
   submissions in connection therewith.  (2014-E20)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   130 Thompson Road (OZ-8404)
 
 That, on the recommendation of the Managing
@@ -505,7 +480,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral submission
   in connection therewith.   (2014-D14)
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   6667 Wonderland Road South (Z-8402)
 
 That, on the recommendation of the Managing
@@ -523,7 +497,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral submission
   in connection therewith.   (2014-D14)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   1452 Byron Baseline Road (39CD-14512)
 
 That, on the recommendation of the Senior
@@ -546,7 +519,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral submission
   in connection therewith.   (2014-D12)
 
-# 19.&nbsp;&nbsp;&nbsp;10th Report of the
   Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -599,10 +571,8 @@ d)         clauses
   1 and 2, inclusive, clauses 4 to 7, inclusive and clauses 10 to 12,
   inclusive, BE RECEIVED.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor
   D.G. Henderson enquired about road construction standards, and the City’s
@@ -627,10 +597,8 @@ Councillor J.P.
   Clerk advised that a report could be brought forward to the next scheduled
   meeting of the Corporate Services Committee.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -731,7 +699,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

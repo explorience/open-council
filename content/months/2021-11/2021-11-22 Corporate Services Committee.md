@@ -17,11 +17,9 @@ November 22, 2021, at 12:00 PM
 
 The meeting was called to order at 12:02 PM, with all Members participating; it being noted that Mayor E. Holder and Councillors M. van Holst, J. Morgan and E. Peloza were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -188,19 +186,15 @@ That the communication from Councillor J. Morgan regarding the Federation of Can
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -234,7 +228,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:20 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. van Holst
 

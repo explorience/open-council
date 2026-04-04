@@ -12,13 +12,11 @@ April 11, 2017, at 12:32 PM
 > [!abstract]- Also Present:
 > M. van Holst; M. Hayward, A.L. Barbon, B. Card, I. Collins, B. Coxhead, A. Drost, A. Dunbar, K. Graham, R. Lamon, L. Livingstone, A. Macpherson, V. McAlea Major, D. Mounteer, L. Palarchio, M. Ribera, A. Ripepi, K. Scherr, J. Senese, T. Wellhauser, B. Warner, S. Whitmore, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   2016 Operating Budget Year-End Monitoring Report – Property Tax, Water,
   Wastewater & Treatment Budgets
 
@@ -133,7 +131,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Life-To-Date Capital Budget – 2016 Year-End Capital Monitoring Report
 
 That on the recommendation of the Managing
@@ -205,7 +202,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Expropriation of Land - Implementation of the Medway Valley Trail Master Plan
   - North of Fanshawe Park Road
 
@@ -257,7 +253,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Report of the Federation of Canadian Municipalities Board of
   Directors Meeting - Whistler, BC March 13 - 17, 2017
 
@@ -284,7 +279,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   London Cycle Link and Squeaky Wheel Bike Co-Op - Request for Designation as a
   Municipally Significant Event
 
@@ -310,7 +304,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee
@@ -335,7 +328,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL MEMBER
   SUBMISSION - Board of Directors - Federation of Canadian Municipalities
 
 That the following actions be taken with
@@ -382,7 +374,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - PUBLIC
   SUBMISSION - London Police Services Board Composition
 
 That the communication dated March 30,
@@ -408,7 +399,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Canada 150 Community Infrastructure Program Intake Two Contribution
   Agreement
 
@@ -474,7 +464,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Vacancy - London Hydro Inc. Board of Directors
 
 That the Civic Administration BE REQUESTED

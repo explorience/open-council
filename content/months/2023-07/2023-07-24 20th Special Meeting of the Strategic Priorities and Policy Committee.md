@@ -17,19 +17,15 @@ July 24, 2023, at  4:00 PM
 
 The meeting is called to order at 4:02 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance; it being further noted that Councillor E. Peloza was in remote attendance at 8:13 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
 
@@ -390,15 +386,12 @@ d)    the approvals hereby given BE CONDITIONAL upon the Corporation entering 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by C. Rahman
 

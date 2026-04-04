@@ -22,11 +22,9 @@ March 18, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -128,7 +126,6 @@ That the delegation request from J.M. Metrailler, L. Davies and J. Gard, as appe
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.2&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -153,7 +150,6 @@ That the March 2025, Deferred Matters List BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;50 Rollingwood Circle (Z-25006)
 
@@ -749,7 +745,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request from Municipality of Middlesex Centre: Arva Sanitary Servicing 
 
@@ -797,7 +792,6 @@ That the delegation request from S. Bergman and M. Di Lullo , as appended to the
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

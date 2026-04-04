@@ -20,7 +20,6 @@ December 11, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -46,7 +45,6 @@ That Councillor A. Kayabaga BE ELECTED Vice Chair of the Corporate Services Com
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Morgan
 
@@ -186,7 +184,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:00 PM - Tax Adjustment Agenda
 
@@ -248,7 +245,6 @@ Motion to close the meeting to public comment.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Items to be Referred to the Governance Working Group
 
@@ -274,7 +270,6 @@ b)      Council policy for debate at standing committee meetings.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Kayabaga
 
@@ -304,7 +299,6 @@ The Corporate Services Committee convened In Closed Session from 12:51 PM to 1:1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:26 PM.
 

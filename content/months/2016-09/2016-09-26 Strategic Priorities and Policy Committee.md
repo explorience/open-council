@@ -15,7 +15,6 @@ September 26, 2016, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Belch, J. Braam, J.M. Fleming, M. Hayward, M. Johnson, G. Kotsifas, L. Livingstone, T. MacBeth, V. McAlea Major, M. Ribera, C. Saunders, J. Senese, B. Warner, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -37,7 +36,6 @@ c)           
   S. Turner discloses a pecuniary interest in clause 8 of this Report by
   indicating that he is an employee of the Middlesex-London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Community Grants Program Innovation and Capital Funding Allocations
   (2017)
 
@@ -68,7 +66,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Budget Update Process and Format
 
 That, on the recommendation of the Managing
@@ -99,7 +96,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Service Review Initiatives, Process and 2016 Update
 
 That, on the recommendation of the City
@@ -131,7 +127,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Health Sciences Centre South Street Campus Decommissioning
 
 That consideration of the staff report
@@ -162,7 +157,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Information Report on Old Victoria Hospital Lands - Request for Proposal
 
 That, on the recommendation of the Managing
@@ -193,7 +187,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;DELEGATION - Jen
   Pastorius, Manager, Old East Village Business Improvement Area
 
 That the attached presentation by J.
@@ -224,7 +217,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Middlesex-London Board of Health Vacancy
 
 That Councillor M. Cassidy BE APPOINTED to
@@ -253,7 +245,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Temporary
   Appointment to Standing Committees
 
 That the following actions be taken with

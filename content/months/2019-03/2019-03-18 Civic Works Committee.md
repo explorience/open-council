@@ -20,13 +20,11 @@ March 18, 2019, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -389,7 +387,6 @@ e)         the Mayor and the City Clerk BE AUTHORIZED to execute any co
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Items not to be heard before 12:10 PM and 12:15 PM - PUBLIC PARTICIPATION MEETING - Proposed Water By-law (W-8) and Wastewater & Stormwater By-law (W-28) Amendments
 
@@ -463,7 +460,6 @@ Motion to close the public participation meetings, for the Proposed Water By-l
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Stopping and Parking in Dedicated Bicycle Lanes
 
@@ -491,7 +487,6 @@ b)         the Civic Administration BE REQUESTED to report back to the C
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -515,7 +510,6 @@ That it BE NOTED that the Deferred Matters List as amended, be received.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:07 pm
 

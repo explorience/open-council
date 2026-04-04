@@ -12,10 +12,8 @@ September 4, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, G. Kotsifas, J. Leunissen, J. Ramsay, M. Ribera, C. Smith, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   1196 Sunningdale Road West (39T-05511)
 
 Recommendation:  That the request for a
@@ -26,7 +24,6 @@ Recommendation:  That the request for a
   applicant and the Civic Administration to further review the proposed
   Agreement.  (2012-D26-01)
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1139 Fanshawe Park Road West (39T-04503)
 
 Recommendation:  That the request for a
@@ -36,7 +33,6 @@ Recommendation:  That the request for a
   provide an opportunity for the applicant and the Civic Administration to
   further review the proposed Agreement.  (2012-D26-01)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   995 Fanshawe Park Road West (39T-05512)
 
 Recommendation:  That the request for a
@@ -46,7 +42,6 @@ Recommendation:  That the request for a
   provide an opportunity for the applicant and the Civic Administration to
   further review the proposed Agreement.   (2012-D26-04)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1284 and 1388 Sunningdale Road West and the northerly portion of 1139
   Fanshawe Park Road West (39T-04510)
 
@@ -58,7 +53,6 @@ Recommendation:  That the request for a
   provide an opportunity for the applicant and the Civic Administration to
   further review the proposed Agreement.  (2012-D26-01)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   915 Southdale Road West (H-8080)
 
 Recommendation:  That, on the
@@ -71,13 +65,11 @@ Recommendation:  That, on the
   Community Shopping Area (h-5-h-55-h-84-CSA3) Zone TO a Community
   Shopping Area (CSA3) Zone.  (2012-D11-08)
 
-# 7.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for the Month of July 2012
 
 Recommendation:      That the Building
   Division Monthly Report for July 2012 BE RECEIVED.  (2012-D00-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   8 Fairview Court and 770 Whetter Avenue (OZ-8055)
 
 Recommendation:  That, notwithstanding the
@@ -261,7 +253,6 @@ it being pointed
   single-family residences.    (Secretary’s Note:  A petition signed by
   approximately 35 individuals is on file in the City Clerk’s Office).   (2012-D11-06)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   40 Pacific Court (Z-8071)
 
 Recommendation:  That, on the
@@ -280,7 +271,6 @@ Recommendation:  That, on the
   establishments and ancillary retail stores of 26%; and, a minimum of 26
   parking spaces.   (2012-D11-06)
 
-# 10.&nbsp;&nbsp;&nbsp;City of London
   Methadone Clinic By-law
 
 Recommendation:  That the communication,

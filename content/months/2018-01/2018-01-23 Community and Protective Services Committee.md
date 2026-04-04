@@ -12,13 +12,11 @@ January 23, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, T. Park, M. van Holst; S. Datars Bere, O. Katolyk, G. Kotsifas, L. Livingstone, S. Maguire, D. Mounteer, K. Murray, S. Oldham, C. Smith, S. Spring, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Vital Services By-law - Air Conditioning
 
 That, on the recommendation of the Managing
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Business Licensing By-law - Technical Map Clarifications
 
 That, on the recommendation of the Managing
@@ -76,7 +73,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Veterinary Services
 
 That, on the recommendation of the Managing
@@ -118,7 +114,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Vehicle for Hire By-law - Six Month Statistics
 
 That, on the recommendation of the Managing
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Cost
   Apportionment Agreements for Land Ambulance, Ontario Works, Housing Services
   and Child Care
 
@@ -222,7 +216,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Single Source, Spectrum Recreation Activity Guide  Design, Production,
   Advertising Sales and Distribution Services
 
@@ -257,7 +250,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Crossing Guard  - Lord Roberts Public School Intersection of
   Maitland Street and Princess Avenue
 
@@ -285,7 +277,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Paul Haggis Park
 
 That the communications from Councillor M.
   Salih, Anova and L. Paul, related to the name of Paul Haggis Park, BE
@@ -307,7 +298,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -365,7 +355,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of the
   Diversity, Inclusion & Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -424,7 +413,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -490,7 +478,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Administrative Monetary Penalties
 
 That, on the recommendation of the Managing
@@ -517,7 +504,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the January 2018 Deferred Matters List
@@ -541,7 +527,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) PUBLIC
   SUBMISSION - Paratransit Zones and By-law Enforcement - J. Daunt
 
 That the communication from J. Daunt with
@@ -567,7 +552,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) 1st Report
   of the Childcare Advisory Committee
 
 That the 1st Report of the Childcare

@@ -17,15 +17,12 @@ October 28, 2025, at 10:00 AM
 
 The meeting is called to order at 10:02 AM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Mayor's 2026 Annual Budget Update
 
@@ -101,7 +98,6 @@ d)    the 2026 Annual Budget Update Presentation (attached as Appendix "B" to 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;D. Trentowsky, Chair, Upper Thames River Conservation Authority
 
@@ -136,15 +132,12 @@ That it BE NOTED that the Budget Committee received a communication dated Septem
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

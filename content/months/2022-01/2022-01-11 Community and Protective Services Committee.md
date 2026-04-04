@@ -17,11 +17,9 @@ January 11, 2022, at  4:00 PM
 
 The meeting was called to order at 4:01 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors M. Hamou, J. Helmer, S. Hillier and M. Salih
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Strategic Plan Variance Report
 
@@ -46,11 +44,9 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the London Housing Advisory Committee
 
@@ -122,7 +118,6 @@ d)    clauses 1.1, 3.1, 4.1 and 5.4 BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -147,11 +142,9 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:14 PM.
 ---

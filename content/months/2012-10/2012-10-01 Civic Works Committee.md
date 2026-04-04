@@ -12,17 +12,14 @@ October 1, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, T. Grawey, J. Leunissen, S. Maguire, S. Milanovic, L. Mottram, J. Shaughnessy, J. Simon, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Transportation Advisory Committee from its meeting held on September 4, 2012,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Curbside Blue Box
   Program - Awareness and Compliance Program
 
 Recommendation:  That, on the
@@ -42,7 +39,6 @@ b)         the
   containers with improperly sorted or non-recyclable material, not to be
   collected.  (2012-W08-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Status of the Green
   Bin and Modified Garbage Collection Pilot Project
 
 Recommendation:  That, on the
@@ -51,7 +47,6 @@ Recommendation:  That, on the
   Modified Garbage Collection Pilot Project BE RECEIVED for information.
    (2012-W11-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Intelligent
   Drinking Water Monitoring System
 
 Recommendation:  That, on the recommendation
@@ -77,7 +72,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all administrative
   acts that are necessary in connection with the MOU.  (2012-W13-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Huron Street
   Watermain Replacement Municipal Class Environmental Assessment (EW3580)
 
 Recommendation:  That, on the
@@ -97,7 +91,6 @@ c)         the
   Huron Street Watermain Crossing Municipal Class Environmental Assessment Report
   BE PLACED on public record for a 30-day review period.  (2012-W13-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Single Source for
   the Supply, Delivery and Pressurized Unloading of Chemical Lime
 
 Recommendation:  That, on the
@@ -127,7 +120,6 @@ d)         the
   formal contract or having a purchase order relating to the subject matter of
   this approval.  (2012-F13-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Proposed Amendments
   to the Sewer System Charge By-law (WM-15): Measuring Procedures and
   Application for Exemptions and Rebates
 
@@ -144,7 +136,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.  (2012-W10-00)
 
-# 9.&nbsp;&nbsp;&nbsp;KAP Holdings Inc. -
   Street Re-addressing of Lots on the East Side of Audrey Avenue
 
 Recommendation:  That, on the
@@ -170,7 +161,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.  (2012-D17-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Pemic Land Corp. - Street
   Re-naming of the South Portion of Logans Way
 
 Recommendation:  That, on the
@@ -206,7 +196,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.    (2012-D17-00)
 
-# 11.&nbsp;&nbsp;&nbsp;2nd Report of the LTC
   Long Term Growth Report Working Group
 
 Recommendation:  That, on the
@@ -277,7 +266,6 @@ it being
   Divisional Manager, Transportation Planning and Design, G. Barrett, Manager, Land Use Planning
   Policy, and L. Ducharme, General Manager, London Transit Commission.
 
-# 12.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That the following actions

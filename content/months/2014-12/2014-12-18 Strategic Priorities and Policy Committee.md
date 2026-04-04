@@ -12,13 +12,11 @@ December 18, 2014, at  2:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, J. Braam, S. Corman, B. Coxhead, S. Datars Bere, K. Graham, A. Hagan, M. Hayward, G.T. Hopcroft, G. Kotsifas, L. Livingstone, V. McAlea Major, J.P. McGonagall, D. O’Brien, M. Ribera, K. Pawelec, R. Paynter, C. Smith, J. Smout, S. Stafford, J. Stanford, K. Stewart, S. Swance, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:
   That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Not to be heard
   before 2:00 PM - Strategic Plan
 
 Recommendation:  That the following actions
@@ -99,7 +97,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;ADDED - Orchestra
   London
 
 Recommendation:  That, on the

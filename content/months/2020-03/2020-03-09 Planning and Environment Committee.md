@@ -20,13 +20,11 @@ March 9, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -123,7 +121,6 @@ That the Building Division Monthly Report for the month of January, 2020 BE RECE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application - 2701 Hyde Park Road (Z-9152)
 
@@ -533,7 +530,6 @@ Motion to grant Ms. A-M. Valastro an additional minute to speak to the applicati
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2nd Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -599,7 +595,6 @@ e)   clauses 1.1, 2.1, 3.1, 3.2, 5.3 and 5.4 BE RECEIVED for information.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 4th Report of the Advisory Committee on the Environment 
 
@@ -638,7 +633,6 @@ c)  clauses 1.1, 3.1 to 3.3, inclusive, 5.1 to 5.3, inclusive and 5.5 BE RECEIV
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:40 PM.
 

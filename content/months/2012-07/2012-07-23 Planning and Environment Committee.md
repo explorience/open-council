@@ -12,10 +12,8 @@ July 23, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > G. Barrett, J. Braam, M. Corby, A. Dunbar, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, J. Ramsay, M. Ribera, A. Riley, C. Smith, M. Tomazincic, B. Warner, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED no pecuniary interests were
   disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Holiday
   Avenue/Greenfield Drive Area
 
 Recommendation:  That, on the
@@ -25,7 +23,6 @@ Recommendation:  That, on the
   Holiday Avenue; it being noted that the owner is required to contain and
   manage the stormwater on site, in accordance with City requirements.   (2012-W10-02)
 
-# 3.&nbsp;&nbsp;&nbsp;Potential Adverse
   Impacts to Municipal Infrastructure, Private and/or Public Lands and
   Ecological Conditions of the Water Resources System From Beaver Activity
 
@@ -67,7 +64,6 @@ it
   communication, dated July 22, 2012, from Sara Rans, Animal Welfare Advisory
   Committee, with respect to this matter.   (2012-W10-00/P04-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 2365 and 2865 Innovation Drive (H-8062)
 
 Recommendation:  That, on the
@@ -80,7 +76,6 @@ Recommendation:  That, on the
   Industrial Special Provision (h-h-2-LI2(9)) Zone TO a Light Industrial
   Special Provision (LI2(9)) Zone to remove the holding provisions.  (2012-D11-02)
 
-# 5.&nbsp;&nbsp;&nbsp;Municipal Support
   Resolutions for Local Renewable Electricity Generation Projects Seeking
   Ontario Feed-In Tariff Contracts
 
@@ -161,7 +156,6 @@ it being noted that the Planning and
   Richard Weston, Director of Business Development, QPA Solar Inc., with
   respect to this matter.   (2012-W12-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Ontario Municipal
   Board Decision - 1240 Richmond Street (Z-7949)
 
 Recommendation:  That, the Ontario
@@ -169,7 +163,6 @@ Recommendation:  That, the Ontario
   respect to the Municipal Council decision to refuse a Zoning By-law amendment
   relating to the property at 1240 Richmond Street, BE RECEIVED.   (2012-D11-01)
 
-# 7.&nbsp;&nbsp;&nbsp;Notice of
   Completion of Provincial Environmental Assessment for Disposition of the London
   Psychiatric Hospital Lands (O-7668)
 
@@ -179,7 +172,6 @@ Recommendation:  That, on the
   Documentation Report, Category B, for the London Psychiatric Hospital lands located
   at 850 and 900 Highbury Avenue, BE RECEIVED.  (2012-D11-05)
 
-# 8.&nbsp;&nbsp;&nbsp;Meadowlily
   Secondary Plan - Status Report (O-7614)
 
 Recommendation:  That, on the
@@ -191,7 +183,6 @@ Recommendation:  That, on the
   comment at the Planning and Environment Committee meeting to be held on
   September 4, 2012.   (2012-D11-09)
 
-# 9.&nbsp;&nbsp;&nbsp;Airport Area Tax
   Increment Grant Program - 2480 Huron Street
 
 Recommendation:  That, on the
@@ -200,7 +191,6 @@ Recommendation:  That, on the
   the Airport Area Community Improvement Plan known municipally as 2480 Huron
   Street, BE RECEIVED. (2012-F12-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Telecommunication
   Facilities Consultation Policy (O-7881)
 
 Recommendation:  That, on the
@@ -211,7 +201,6 @@ Recommendation:  That, on the
   including the siting, is a Federal matter administered through Industry Canada.
    (2012-I11-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 603, 609 and 611 Oxford Street West (Z-7578)
 
 Recommendation:  That, on the
@@ -228,7 +217,6 @@ Recommendation:  That, on the
   pointed out that there were no oral submissions made at the public
   participation meeting associated with this matter. (2012-D11-07)
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 981 and 983 Wonderland Road South (OZ-8043)
 
 Recommendation:  That, on the
@@ -282,7 +270,6 @@ it being
   located from the retail to the street; and, enquiring as to the location of
   the bicycle parking.   (2012-D11-07)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   7 Greenfield Court
 
 Recommendation:  That, on the
@@ -305,7 +292,6 @@ c)         the
   and Revenues Report” provided as Schedule “A” to the associated staff report,
   dated July 23, 2012.    (2012-D25-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Forest City
   Industrial Stormwater Management Facility and Westminster Wetland Complex
 
 Recommendation:  That the Committee
@@ -314,7 +300,6 @@ Recommendation:  That the Committee
   Management Facility and Westminster Wetland Complex, at the Planning and
   Environment Committee meeting to be held on August 20, 2012.  (2012-W10-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   1365 Dundas Street
 
 Recommendation:  That, the following
@@ -347,7 +332,6 @@ it being noted that the Planning and
   2012, from A.R. Patton, Patton Cormier & Associates, with respect to this
   matter.  (2012-D25-00)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 1197 York Street and 1201-1203 York Street (Z-8046)
 
 Recommendation:  That, notwithstanding the

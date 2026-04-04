@@ -17,11 +17,9 @@ March 28, 2022, at 12:00 PM
 
 The meeting is called to order at 12:00 PM, it being noted that Mayor E. Holder and Councillor M. Cassidy were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Fyfe-Millar
 
@@ -236,11 +234,9 @@ That the communication dated February 28, 2022 from Councillor A. Hopkins regard
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Guillain-Barre Syndrome (GBS) and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Awareness Month
 
@@ -308,7 +304,6 @@ That the correspondence from P. Zhang with respect to a request to raise a flag 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Application - Issuance of Proclamation - World Press Freedom Day
 
@@ -399,7 +394,6 @@ That, on the recommendation of the City Clerk, the proposed by-law as appended t
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. Hamou
 
@@ -438,7 +432,6 @@ The Corporate Services Committee convenes In Closed Session from 12:38 PM to 1:1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Cassidy
 

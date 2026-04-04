@@ -12,13 +12,11 @@ December 13, 2016, at  4:24 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, P. Hubert, J. Morgan, T. Park, V. Ridley, M. van Holst; G. Barrett, D. Baxter, J. Carter, B. Coxhead, R. Craven, C. Da Silva, S. Datars Bere, P. D’Hollander, M. Jeng, O. Katolyk, J. Kobarda, T. Kyle, L. Livingstone, A. Macpherson, D. Purdy, M. Ribera, C. Saunders, S. Spring, S. Stafford, J. Walter, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term Ending November 30, 2017
 
 That
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -104,7 +101,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;4th Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -155,7 +151,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2nd Report of the
   Diversity, Inclusivity and Anti-Oppression Advisory Committee
 
 That the 2nd Report of the Diversity
@@ -179,7 +174,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;11th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -242,7 +236,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT - Cost
   Recovery for London Fire Department Attendance at Structure Fires
 
 That, on the recommendation of the Managing
@@ -268,7 +261,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Open
   Air Burning By-law - Education Plan
 
 That, on the recommendation of the Fire
@@ -292,7 +284,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Renewing an Agreement with South London Neighbourhood Resource Centre for Use
   of Space for Social and Community Programs at South London Community Centre
 
@@ -328,7 +319,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Agreement with South London Neighbourhood Resource Centre for Space to
   Provide Settlement Services at South London Community Centre
 
@@ -369,7 +359,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Community Gardens Program Strategic Plan - Year 1 Update
 
 That, on the recommendation of the Managing
@@ -397,7 +386,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT - Amendment
   to PH-7 Dogs Off Leash Area By-law
 
 That, on the recommendation of the Managing
@@ -424,7 +412,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Social Housing Improvement Program (SHIP)
 
 That, on the recommendation of the Managing
@@ -459,7 +446,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Children 5 to 12 Years of Age Ride for Free on Public Transit Council By-law
   and Agreement
 
@@ -496,7 +482,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Basic Income Pilot Project for Ontario
 
 That, on the recommendation of the Managing
@@ -522,7 +507,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Annual Emergency Management Program Update
 
 That, on the recommendation of the Managing
@@ -554,7 +538,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Residential Rental Units Licensing By-law: Secondary
   Dwelling Units and Inspection Protocol
 
@@ -639,7 +622,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Subsidized Transit
 
 That the following actions be taken with
@@ -840,7 +822,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;COUNCILLOR
   SUBMISSION - Hate Related Graffiti
 
 The Civic Administration BE REQUESTED to
@@ -878,7 +859,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Affordable Access to City-Owned Community Centres and Recreation Facilities
 
 That, on the recommendation of the Managing
@@ -909,7 +889,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Business Licensing By-law Review - Status Update
 
 That, on the recommendation of the Managing
@@ -936,7 +915,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the December 2016 Deferred Matters
@@ -959,7 +937,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Confidential
 
 That the Confidential Appendix to the 11th
   Report of the Accessibility Advisory Committee BE RECEIVED.

@@ -14,11 +14,9 @@ March 19, 2018, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley disclosed a pecuniary interest in clause 5.2 of this Report, having to do with the Ontario Municipal Greenhouse Gas (GNG) Challenge Fund Transfer Payment Agreement for Phase 1 of the Fuel Switching Project - Diesel to Compressed Natural Gas (CNG) Transition, by indicating that her husband works for Union Gas.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. Usher
 
@@ -220,7 +218,6 @@ That the 3rd Report of the Rapid Transit Implementation Working Group, from its 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Highway 401 / Highway 4 Interchange Improvements and Highway 4 and Glanworth Drive Underpass Replacements Environmental Assessment
 
@@ -297,7 +294,6 @@ it being noted that the attached presentation from A. Rammeloo, Manager III, Env
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Amendments to the Traffic and Parking By-law
 
@@ -387,7 +383,6 @@ d)            clauses 1, 3, 4, 5, 7 and 8, BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -484,7 +479,6 @@ That the Civic Administration BE REQUESTED to provide an update on the 2030 Smar
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:25 PM.
 

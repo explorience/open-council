@@ -17,11 +17,9 @@ September 9, 2025, at  1:00 PM
 
 The meeting was called to order at 1:01 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -191,7 +189,6 @@ Motion to approve part b) ii)
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;5th Report of the Community Advisory Committee on Planning
 
@@ -1018,7 +1015,6 @@ Implement the recommendations from the Path Loss Study to ensure acceptable serv
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Hyde Park BIA Expansion Project - Additional Consultation Reporting
 
@@ -1079,7 +1075,6 @@ That the delegation request from D. Szpakowski, HPBIA, as appended to the Agenda
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -1104,7 +1099,6 @@ That the September Deferred Matters List, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

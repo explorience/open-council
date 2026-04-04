@@ -12,13 +12,11 @@ December 15, 2015, at  4:14 PM
 > [!abstract]- Also Present:
 > J. Helmer, J. Morgan, T. Park, M. Van holst; M. Camara, B. Coxhead, S. Datars Bere, I. Gibb, S. Giustizia, O. Katolyk, J. Kobarda, G. Kotsifas, T. Kyle, A. Heinz, L. Livingstone, S. MacDonald, V. McAlea Major, D. O’Brien, J. Smout, S. Spring, T. Wellhauser, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interest
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Vice-Chair
   for the term ending November 30, 2016
 
 That Councillor J. Zaifman BE APPOINTED Vice
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the 7th Report of the Community Safety
@@ -65,7 +62,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;1st Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -101,7 +97,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;7th Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Annual Emergency
   Management Program Update
 
 That, on the recommendation of the of
@@ -187,7 +181,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Agreement with Huff
   N' Puff Seniors Fitness Association of London, Ontario, for Access to
   Recreation Facilities
 
@@ -223,7 +216,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;RFP 15-22 Supply,
   Delivery and Various Services for Incontinence Products at the Dearness Home
 
 That, on the recommendation of the
@@ -277,7 +269,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Amendments to
   Existing Municipal Contribution Agreements (MCA) for Affordable Housing
   Including MCA with 8999872 Canada Ltd.
 
@@ -332,7 +323,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Trade-Mark Licence
   Agreement for "Canada's Clean50 Top 15 Project" Award Honorees’
 
 That, on the recommendation of the Managing
@@ -365,7 +355,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Update on the East
   Community Centre Project
 
 That, on the recommendation of the Managing
@@ -390,7 +379,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Architect to Act as
   Prime Consultant for the East London Community Centre
 
 That, on the recommendation of the Managing
@@ -442,7 +430,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;London's Child and
   Youth Network - Family Centred Service System Impact Assessment
 
 That, on the recommendation of the Managing
@@ -473,7 +460,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law L-6 - Refreshment Vehicles (Food Trucks)
 
 That the following actions be taken with
@@ -559,7 +545,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;7th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -615,7 +600,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;11th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -664,7 +648,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Community Facility
   Repurposing Strategy
 
 That,
@@ -721,7 +704,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Taxicab and
   Limousine Licensing By-law
 
 That the City Solicitor BE REQUESTED to
@@ -749,7 +731,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Noise By-law
   Complaints
 
 That the Civic Administration, in
@@ -778,7 +759,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Change of Date –
   February 23, 2016 CPSC Meeting
 
 That the Community and Protective Services
@@ -802,7 +782,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Deferred Matter
   List
 
 That the December 2015 Deferred Matters

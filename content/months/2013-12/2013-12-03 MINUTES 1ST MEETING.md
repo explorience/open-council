@@ -18,7 +18,6 @@ December 3, 2013, at  4:30 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:30 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -55,32 +54,26 @@ Councillor P. Van Meerbergen discloses a
   Ambulance between Middlesex County and the City of London, as his spouse operates
   childcare business.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Volunteer
   Service Awards Program
 
 That the communication dated November,
   2013, from M. Coteau, Minister, Ministry of Citizenship and Immigration, with
   respect to the 2014 Volunteer Service Awards program, BE RECEIVED. (2013-M11)
 
-# 3.&nbsp;&nbsp;&nbsp;11th Report of the
   London Housing Advisory Committee
 
 That the 11th Report of the London Housing
   Advisory Committee, from its meeting held on November 13, 2013, BE RECEIVED.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -135,9 +128,7 @@ Motion Passed
 Councillor Hubert reports progress on the
   remaining in camera matters.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON NOVEMBER 19,
   2013
 
@@ -175,7 +166,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor N. Branscombe
@@ -187,16 +177,13 @@ Approve referral of the following
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;12th Report of the
   Animal Welfare Advisory Committee
 
 That the 12th Report of the Animal Welfare
   Advisory Committee, from its meeting held on November 7, 2013, BE RECEIVED.
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.P. Bryant
 
@@ -204,7 +191,6 @@ Approve clauses 1, 2, 4, 5 and clauses 7 to 9.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Animal Welfare
   Services Funding
 
 That, on the recommendation of the Managing
@@ -212,7 +198,6 @@ That, on the recommendation of the Managing
   Official, the staff report dated November 25, 2013, with respect to animal
   welfare services funding, BE RECEIVED for information. (2013-F05)
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services
 
 That, on the recommendation of the Managing
@@ -303,7 +288,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;RFP 13-29 - Supply
   and Delivery of Automatic External Defibrillators
 
 That, on the recommendation of the Fire
@@ -330,7 +314,6 @@ d)         the
   funding for this purchase BE APPROVED as set out in the Sources of Financing
   Report, as appended to the staff report dated November 25, 2013.  (2013-F18)
 
-# 9.&nbsp;&nbsp;&nbsp;2012 Emergency
   Management Program Update
 
 That, on the recommendation of the Division
@@ -355,7 +338,6 @@ b)         the
   including the details of 2012 Emergency Management Program BE    RECEIVED for
   information.  (2013-P03)
 
-# 6.&nbsp;&nbsp;&nbsp;Provincial Social
   Assistance Service and Rate Structure Reviews
 
 That, on the recommendation of the Managing
@@ -363,7 +345,6 @@ That, on the recommendation of the Managing
   dated November 25, 2013, with respect to service and rate structure reviews
   for social assistance, BE RECEIVED for information. (2013-S04)
 
-# 10.&nbsp;&nbsp;&nbsp;A. Oudshoorn,
   Chair, London Homeless Coalition - London Homeless Coalition Advocacy
   Campaign
 
@@ -376,7 +357,6 @@ That an immediate $100/month increase to
   verbal presentation from A. Oudshoorn, Chair London Homeless Coalition, with
   respect to this matter.
 
-# 12.&nbsp;&nbsp;&nbsp;Review of Holding
   Provision Requirements in Zoning By-law Z-1
 
 That, on the recommendation of the Manager
@@ -415,7 +395,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2013-D14A)
 
-# 13.&nbsp;&nbsp;&nbsp;Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
 That, on the recommendation of the Managing
@@ -442,7 +421,6 @@ it being pointed out that at the public
   that there is an existing population and existing infrastructure in East
   London that needs to be dealt with.   (2013-D08)
 
-# 15.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4128 Colonel Talbot Road (OMB File: PL130130, PL130131, PL130132)
 
 That, it BE NOTED that the Planning and
@@ -450,7 +428,6 @@ That, it BE NOTED that the Planning and
   25, 2013, from S. Stapleton, Vice-President, Auburn Developments, withdrawing
   his request for delegation status relating to this matter.  (2013-L01/D12)
 
-# 16.&nbsp;&nbsp;&nbsp;11th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -485,7 +462,6 @@ b)         on
 c)         clauses 3 to 8, inclusive, of
   the 11th Report of the LACH BE RECEIVED.
 
-# 17.&nbsp;&nbsp;&nbsp;Review of Planning
   Application Fees
 
 That, on the recommendation of the Managing
@@ -525,7 +501,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;5th Report of the
   Council Housing Leadership Committee
 
 That the following actions be taken with
@@ -604,7 +579,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Secondary Dwelling
   Units (OZ-8053)
 
 That, the application of the City of
@@ -679,14 +653,10 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1166,7 +1136,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

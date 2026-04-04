@@ -17,11 +17,9 @@ September 23, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, S. Franke, and E. Peloza (at 5:41 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 4, clause 2.5 of the 13th Report of the Community and Protective Services Committee and related to Bill No. 341, having to do with a Project and Funding Agreement for Construction or Renovation for Licensed Child Care and Early Years Programs by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor Recognizes City of London Employees who have achieved 25 years of service during 2025.
 
@@ -45,11 +43,9 @@ From Social and Health Development: Bozena Lisiuk, Cindy Foster, Evelina Morton,
 
 From London Police Services: Aaron Crook, Adam Steele, Alanna McCarthy, Amy Phillipo, Amy Birtch, Andrew Dugdale, Andrew Gough, Antoni Stanziano, Bernard Martin, Brian Armstrong, Craig Brown, David Payette, Donna Phillips, Gary Bezaire, Gregory Lang, Jamie Porter, Jeffrey Ordronneau, Jennifer Noel, Joelle Middleton, John Renaud, Luanne Devine, Michael Muscat, Michael Hay, Paul Devlin, Paul Yovicic, Paul Besley, Robert Fraser, Sandasha Bough, Scott McCready, Steven Vanberkel, Travis Wintjes, Walter Labacher, William Hewerdine
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by D. Ferreira
 
@@ -94,7 +90,6 @@ That Council convenes In Closed Session, from 1:28 PM to 1:36 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;14th Meeting held on August 26, 2025
 
@@ -129,7 +124,6 @@ That the Minutes of the 14th Meeting of the Municipal Council, held on August 26
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Hillier
 
@@ -200,7 +194,6 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 ## 7.1&nbsp;&nbsp;&nbsp;Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program 
 
@@ -510,7 +503,6 @@ it being noted that due to barriers encountered with CMHC financing, the overall
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;14th Report of the Planning and Environment Committee 
 
@@ -2004,7 +1996,6 @@ That the communication dated August 28, 2025 from MNP with respect to the Housin
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by C. Rahman
 
@@ -2046,19 +2037,15 @@ That progress was made with respect to items 4.2 and 4.3 as noted on the public 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Stevenson inquires with respect to the property located at 602 Queens Avenue. The Deputy City Manager, Enterprise Supports provides information to the Council with respect to this matter.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -2465,7 +2452,6 @@ That Third Reading and Enactment of Bill No.’s 340 to Added Bill No. 357, BE A
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
 
@@ -2479,7 +2465,6 @@ The meeting adjourned at 5:47 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 340**

@@ -12,12 +12,10 @@ March 7, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > T. Copeland, A. Dunbar, A. Giesen, K. Grabowski, D. MacRae, S. Maguire, S. Mathers, K. Scherr, E. Soldo, S. Spring, J. Stanford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Rapid Transit Implementation Working Group
 
 That the 4th Report of the Rapid Transit
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Draft Coloured Crosswalk Policy Update
 
 That, on the recommendation of the Managing
@@ -69,7 +66,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-09 - 2017 Infrastructure Renewal Program -
   Baseline Road East, Sylvan Street, Balderstone Avenue and Percy Street
   Reconstruction Project
@@ -131,7 +127,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Highway 401 Emergency Detour Routes
 
 That, on the recommendation of the Managing
@@ -165,7 +160,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Results of Pilot Project-Curbside Collection of Christmas Trees for Composting
   and Recommended Next Steps
 
@@ -229,7 +223,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: 2017 Watermain Cleaning and Structural Lining Tender 16-105
 
 That, on the recommendation of the Managing
@@ -281,7 +274,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Infrastructure Renewal Program - Trees
 
 That, on the recommendation of the Managing
@@ -307,7 +299,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Queens Avenue and
   Colborne Street Cycle Tracks
 
 That, on the recommendation of the Managing
@@ -392,7 +383,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
@@ -415,7 +405,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR
   SUBMISSION - Zipper Merging Policy Proposal
 
 That the following actions be taken with
@@ -449,7 +438,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR ENQUIRY – Veteran’s
   Memorial Parkway
 
 That it BE NOTED that Councillor van Holst

@@ -17,7 +17,6 @@ September 21, 2020, at  4:00 PM
 
 The meeting is called to order at 4:02 PM, with Councillor M. Cassidy in the Chair, Councillors Hopkins and Turner present; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors J. Helmer and A. Kayabaga
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -32,7 +31,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -102,7 +100,6 @@ That the Building Division Monthly Report for the month of July, 2020 BE RECEIVE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application - 733 Wellington Street (Z-9222)
 
@@ -1077,7 +1074,6 @@ c)  he communication from Councillor M. van Holst Notice of Motion to request r
 
 [2020-09-21 S - Silverleaf Subdivision - Transportation Mobility and Safety](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=74991>)
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;6th Report of the London Advisory Committee on Heritage
 
@@ -1164,13 +1160,11 @@ a)  on the recommendation of the Director, Development Services, with the advic
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:23 PM.
 

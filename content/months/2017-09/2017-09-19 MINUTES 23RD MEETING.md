@@ -18,7 +18,6 @@ September 19, 2017, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor S. Turner discloses a pecuniary
@@ -50,10 +49,8 @@ Councillor J. Morgan discloses a pecuniary
   appointment to the UWO’s Board of Governors, by indicating that he is
   employed by UWO.
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor J. Morgan
@@ -144,7 +141,6 @@ The Council, in Closed Session, rises at 4:35
   PM and Council reconvenes at 4:46 PM, with Mayor M. Brown in the Chair and
   all Members present except Councillor B. Armstrong.
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 4,
   2017
 
@@ -181,7 +177,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. Salih
@@ -193,7 +188,6 @@ Approve receipt and referral of the
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;The Municipal
   Council recognizes the following City of London employees who have achieved
   25 years of service in 2017:
  
@@ -216,7 +210,6 @@ From Parks and Recreation Services: Richard
   Bender, Jeff Bogal, Dave Cambridge, William C. Coxhead, Jim Howard, Evan F.
   P. Jones, Allan Moore, Grant Murphy, and Scott Preece.
 
-# 2.&nbsp;&nbsp;&nbsp;London Community
   Grants Program Innovation and Capital Funding Allocations (2018)
 
 That the following actions be taken with
@@ -280,7 +273,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Service Review
   Initiatives 2017 Update
 
 That, on the recommendation of the City
@@ -288,7 +280,6 @@ That, on the recommendation of the City
   Chief Financial Officer, the staff report dated September 18, 2017 regarding
   an update on 2017 service review initiatives BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;2019 JUNO Week Bid
 
 That, on the recommendation of the General
   Manager of Tourism London and the Director of Culture and Entertainment
@@ -302,10 +293,8 @@ That, on the recommendation of the General
   Councillor M. Salih and Councillor P. Hubert indicating their support for the
   funding request.
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor S. Turner
 
@@ -313,7 +302,6 @@ Approve clauses 1 to 14, excluding clauses 11 and 13.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Dr. Christopher
   Mackie, Medical Officer of Health & CEO, Middlesex-London Health Unit re
   Opioid Crisis in London
 
@@ -380,7 +368,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to
   Consolidated Fees and Charges By-law
 
 That, on the recommendation of the City
@@ -394,7 +381,6 @@ That, on the recommendation of the City
   City of London; it being pointed out that at the public participation meeting
   associated with this matter, that no individuals made an oral submission.
 
-# 7.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
   Environmental Assessment Project Management Plan, Communications Plan and
   Consulting Fees Amendment
 
@@ -503,7 +489,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;4th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -691,7 +676,6 @@ ii)         the
  
 e)         clauses 1, 2 and 3, BE RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;5th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -749,7 +733,6 @@ c)         the
   diem rates BE REFERRED to the Governance Working Group as part of Phase 3
   (Modernization) of the Council Policy Manual.
 
-# 10.&nbsp;&nbsp;&nbsp;Request for a
   Second Term Appointment to the Greater London International Airport
   Authority Board of Directors - Bill Graham
 
@@ -757,7 +740,6 @@ That Bill Graham BE NOMINATIONED for
   reappointment for a second term to the Greater London International Airport
   Authority Board of Directors for the term August 1, 2017 to July 31, 2020.
 
-# 12.&nbsp;&nbsp;&nbsp;Request for 1 Year
   Reappointment to the Lower Thames Valley Conservation Authority - Stan
   Caveney
 
@@ -765,7 +747,6 @@ That Stan Caveney BE REAPPOINTED for 1 year
   to the Lower Thames Valley Conservation Authority for the term December 1,
   2017 to November 30, 2018.
 
-# 14.&nbsp;&nbsp;&nbsp;Request for 1 Year
   Reappointment to the Upper Thames River Conservation Authority - Councillor
   A. Hopkins, Marie Blosh, Sandy Levin and Murray Blackie
 
@@ -778,7 +759,6 @@ Marie Blosh
 Sandy Levin
 Murray Blackie
 
-# 11.&nbsp;&nbsp;&nbsp;Request for a
   Second Term Appointment to the University of Western Ontario's Board of
   Governors - Michael Lerner
 
@@ -808,7 +788,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Partnership to
   Establish London as a UN Women’s Safe City
 
 That the following actions be taken with
@@ -836,7 +815,6 @@ it being further noted that the CPSC
   Community Programs, ANOVA and Dr. A. Trudell, Manager of Education, Training
   and Research, ANOVA, related to this matter. (2017-A01)
 
-# 15.&nbsp;&nbsp;&nbsp;Establishment of Working
   Group - Strengthening Relationships with Indigenous Peoples
 
 That a Working Group comprised of Members
@@ -870,7 +848,6 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor P. Hubert
@@ -879,7 +856,6 @@ Approve clauses 1 to 15, excluding clauses 2, 5, 7 and 11.
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Amazon HQ2 Request
   for Proposal
 
 That the Civic Administration BE REQUESTED
@@ -1049,15 +1025,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1244,7 +1216,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

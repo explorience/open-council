@@ -20,11 +20,9 @@ April 17, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. Usher
 
@@ -314,7 +312,6 @@ That the 3rd Report of the Transportation Advisory Committee, from its meeting h
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Street Renaming - Centre Street (East of Pond Mills Road)
 
@@ -471,7 +468,6 @@ it being noted that the attached presentation from the Director, Environment, Fl
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Garbage Cycles and Holidays
 
@@ -487,7 +483,6 @@ That the Civic Administration BE REQUESTED to review the 2019 waste pick up cale
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -511,7 +506,6 @@ That the Civic Works Committee Deferred List, as at April 9, 2018, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:45 PM.
 

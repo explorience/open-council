@@ -12,10 +12,8 @@ September 23, 2014, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Baechler, J.P. Bryant, G. Barrett, J. Braam, C. Colvin, B. Coxhead, M. Davis, B. Debbert, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, E. Lalande, L. Livingstone, J. Lucas, T. MacBeth, J. MacKay, A. MacLean, L. Maitland, D. Menard, N. Musicco, C. Parker, J. Ramsay, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 9th Report of the
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1040 Coronation Drive (H-8376)
 
 Recommendation:  That, the application of
@@ -64,7 +61,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for August 2014
 
 Recommendation:  That the Building Division
@@ -87,7 +83,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Potential Special
   Policy Area (SPA): West London
 
 Recommendation:  That, on the
@@ -114,7 +109,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;10th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -222,7 +216,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 322-324 York Street (Z-8382)
 
 Recommendation:  That, on the
@@ -310,7 +303,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1959 Mallard Road (Z-8377)
 
 Recommendation:  That, on the
@@ -387,7 +379,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
 
 Recommendation:  That, on the
@@ -489,7 +480,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
 
 Recommendation:  That, on the
@@ -587,7 +577,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
 Recommendation:  That, the application of
@@ -686,7 +675,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
 
 Recommendation:  That, on the
@@ -886,7 +874,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 471-473 Elizabeth Street
 
 Recommendation:  That, on the
@@ -963,7 +950,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
 
 Recommendation:  That, on the
@@ -1047,7 +1033,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Industrial Land
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
   Growth and Official Plan Amendment (O-8014)
 
@@ -1173,7 +1158,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   2118 Richmond Street (OZ-7890)
 
 Recommendation:  That, the following
@@ -1288,7 +1272,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Application of Bonusing Regulations
 
 Recommendation:  That, the Civic
   Administration BE REQUESTED to provide an information report on how bonusing
@@ -1314,7 +1297,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Regulations limiting greenhouses
 
 Recommendation:  That, the Civic
   Administration BE REQUESTED to look at all regulations, including zoning

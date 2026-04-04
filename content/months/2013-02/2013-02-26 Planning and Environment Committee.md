@@ -12,21 +12,18 @@ February 26, 2013, at  4:06 PM
 > [!abstract]- Also Present:
 > J.P. Bryant, M. Brown, G. Belch, P. Christiaans, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, T. Karidas, P. Kokkoros, G. Kotsifas, B. Krichker, A. MacLean, A. Macpherson, D. Menard, N. Musicco, J. Page, M. Ribera, C. Smith, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor M. Brown disclosed a pecuniary
   interest in clause 12 of this Report, having to do with the application by
   Banman Developments (West) Inc., relating to the property located at 2095
   Coronation Drive, by indicating that he owns property in close proximity to
   the subject property; it being noted that Councillor M. Brown is not a member
   of the Planning and Environment Committee.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 2nd Report of the
   Advisory Committee on the Environment from its meeting held on February 6,
   2013 BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 1010 and 1068 Fanshawe Park Road East (H-8119)
 
 Recommendation:  That, on the
@@ -41,7 +38,6 @@ Recommendation:  That, on the
   R5/Residential R6 (R5-3/R6-5) Zone to remove the holding provision.
   (2013-D14A)
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 1235-1253 Richmond Street (H-8070)
 
 Recommendation:  That, on the
@@ -57,7 +53,6 @@ Recommendation:  That, on the
   R9 Bonus (R9-7*H45*B-14) Zone and a Residential R9 Bonus (R9-7*H50*B-14) Zone
   to remove the holding provisions. (2013-D14A)
 
-# 5.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That the following actions
@@ -138,7 +133,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from G.
   Goodlet, Chair, LACH, with respect to these matters.
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 2115, 2119 and 2121 Aldersbrook Road (Z-8125)
 
 Recommendation:  That, on the recommendation
@@ -166,7 +160,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2013-D14A)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   229 Greenwood Avenue
 
 Recommendation:  That, on the
@@ -195,7 +188,6 @@ it
   being pointed out that there were no oral submissions made at the public 
   participation meeting associated with this matter.    (2013-P10D/R01)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   3047 Tillmann Road
 
 Recommendation:  That, on the
@@ -258,7 +250,6 @@ it being pointed
   enquiring if the garbage will be moved to the west side of the building
   rather than the southwest side.    (2013-D11)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1460 Commissioners Road West
 
 Recommendation:  That, on the
@@ -302,7 +293,6 @@ it being pointed
   that, due to the volume of traffic, they have difficulty exiting their
   driveway.   (2013-P10D/R01)
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 200 & 275 Calloway Road and 180 & 200 Village Walk Boulevard
   (Z-8130)
 
@@ -334,7 +324,6 @@ it being pointed
   overpopulate the area; noting that there will be more people entering and
   exiting the subdivision in the Sunningdale area. (2013-D14A)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   2825 Tokala Trail (OZ-8115)
 
 Recommendation:  That, on the
@@ -592,7 +581,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.    (2013-D14A)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   2095 Coronation Drive
 
 Recommendation:  That, on the
@@ -647,7 +635,6 @@ it being pointed
   expressing appreciation to Mr. Knutson for minimizing the impact of the
   development on their property.    (2013-D11)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
 
@@ -745,7 +732,6 @@ it being pointed
   enquiring as to how this will be incorporated with the Victoria Hospital
   renovations.     (2013-D14A)
 
-# 14.&nbsp;&nbsp;&nbsp;Student Rental
   Housing
 
 Recommendation:  That the communication,

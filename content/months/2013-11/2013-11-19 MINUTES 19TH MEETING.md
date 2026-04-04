@@ -18,7 +18,6 @@ November 19, 2013, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J.P. Bryant discloses a
@@ -47,13 +46,10 @@ Councillor N. Branscombe discloses a
   the Feed-In Tariff Program, by indicating that the location of the proposed
   project is in close proximity to her spouse’s business.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -92,9 +88,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J.P.
@@ -103,7 +97,6 @@ That it BE NOTED that Councillor J.P.
   by indicating that her spouse is on the faculty of the University of Western
   Ontario.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTEENTH MEETING HELD ON NOVEMBER 5, 2013
 
 > Moved by Councillor B. Polhill
@@ -140,7 +133,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor D. Brown
@@ -152,7 +144,6 @@ Approve referral of the following
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Water and
   Wastewater and Treatment Budgets and Forecasts
 
 a)           
@@ -253,10 +244,8 @@ it being pointed out that the following
   catching up on infrastructure improvements; and noting that the effort to
   make the budget balanced and fair was incredible.
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor D. Brown
 
@@ -265,7 +254,6 @@ Approve
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Managing Director,
   Planning and City Planner - Industrial Land Development Strategy 2013 - 2023
 
 That, on the recommendation of the Managing
@@ -299,14 +287,12 @@ it being also noted that the Strategic
   Priorities and Policy Committee heard the attached presentation from the
   Managing Director, Planning and City Planner, with respect to this matter.
 
-# 4.&nbsp;&nbsp;&nbsp;Appointment to the Covent Garden Market
   Board of Directors
 
 Recommendation:  That Brenda Telfer BE
   APPOINTED to the Covent Garden Market Board of Directors for the term ending
   November 30, 2014.
 
-# 6.&nbsp;&nbsp;&nbsp;Standing Committee Appointments
 
 Recommendation:  That the membership of the
   Civic Works Committee for the term December 1, 2013 to November 30, 2014 BE
@@ -387,7 +373,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1270 Sunningdale Road East (Phase 2 - 33M-632) (H-8227)
 
 That, on the recommendation of the Planner
@@ -401,7 +386,6 @@ That, on the recommendation of the Planner
   (R1-5) Zone and a Residential R1 Special Provision (R1-5 (9)) Zone to remove
   the holding provision. (2013-D14B)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1990 Commissioners Road East and 1697 Hamilton Road (Z-8239)
 
 That, on the recommendation of the Senior
@@ -498,7 +482,6 @@ it being pointed out that there were no oral
   submissions made at the public participation meeting associated with this
   matter.  (2013-D14A)
 
-# 11.&nbsp;&nbsp;&nbsp;Review of Planning
   Application Fees
 
 That, the Managing Director, Planning and
@@ -622,7 +605,6 @@ Approve clauses 1 to 6, excluding clause 5.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment to the University of Western
   Ontario Board of Governors
 
 That
@@ -708,7 +690,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Request for
   Municipal Council Support Resolution - Ground Mounted Solar Project Under the
   Feed-In Tariff (FIT) Program
 
@@ -803,13 +784,11 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for September 2013
 
 That the Building Division Monthly Report
   for September 2013 BE RECEIVED.   (2013-P06)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4138 Colonel Talbot Road (39T-12503/OZ-8052)
 
 That Mr. S. Stapleton, Vice President,
@@ -818,7 +797,6 @@ That Mr. S. Stapleton, Vice President,
   Developments Inc. application relating to the properties located at 3924 and
   4138 Colonel Talbot Road.   (2013-D14A/D12)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   275 Thames Street - Fugitive Slave Chapel
 
 That, the Civic Administration BE DIRECTED
@@ -888,10 +866,8 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor
   J.P. Bryant enquires about the potential for rearranging the Ward
@@ -936,10 +912,8 @@ Councillor
   question for the ballot.  The Chair refers the matter to the City Clerk for
   response.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1047,7 +1021,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

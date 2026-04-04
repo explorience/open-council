@@ -15,13 +15,11 @@ November 4, 2014, at  1:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, A. Dunbar, J. Edmunds, M. Hayward, L. Livingstone, J. Logan, V. McAlea Major, D. Mounteer, R. Paynter, M. Ribera, S. Spring, B. Warner, B. Westlake-Power, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Annual Report -
   Risk Management Services
 
 Recommendation:  That, on the recommendation
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Pre-Authorized Tax
   Payment Plan By-law and Collection of Property Taxes By-law
 
 Recommendation:  That, on the
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;PUC Environmental
   Reserve Fund
 
 Recommendation:  That, on the
@@ -97,7 +93,6 @@ Recommendation:  That, on the
   Council Meeting to be held on November 11, 2014 to establish the Public
   Utilities Commission (PUC) Environmental Reserve Fund.
 
-# 5.&nbsp;&nbsp;&nbsp;Lorne Avenue Public
   School - Verbal
 
 Recommendation: That it BE NOTED that the
@@ -123,7 +118,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 Recommendation:  That, on the
@@ -192,7 +186,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Tax Adjustment Applications
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Corporate Services and City
@@ -254,7 +247,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointments to the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following individuals
@@ -282,7 +274,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That Emily Van Kesteren BE
@@ -306,7 +297,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deputy Mayor Positions
 
 Recommendation: That it BE NOTED that Councillor
   H.L Usher enquired as to the status of the staff report regarding the policy
@@ -317,7 +307,6 @@ Recommendation: That it BE NOTED that Councillor
   fall within the mandate of the SPPC and that the report will be presented at
   the November 24, 2014 SPPC meeting.
 
-# 11.&nbsp;&nbsp;&nbsp;Greenhouse Project
 
 Recommendation: That it BE NOTED that Councillor
   J.B Swan enquired as to the status of the proposed greenhouse project.  The

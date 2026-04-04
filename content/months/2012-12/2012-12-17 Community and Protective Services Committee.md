@@ -15,23 +15,19 @@ December 17, 2012, at  7:00 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Giustizia, L. Livingstone, J. Richardson, R. Sharpe, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Dearness
   Home Newsletter - December 2012
 
 Recommendation:  That the December 2012 Dearness
   Newsletter BE RECEIVED. (2012-C11-00)
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 4th Report of the
   Accessibility Advisory Committee, from its meeting held on November 22, 2012,
   BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Ministry of Health
   and Long-Term Care Agreement with Dearness Home for the Late Career Nurse
   Initiative
 
@@ -48,7 +44,6 @@ a)         approve
 b)         authorize
   the Mayor and the City Clerk to execute the agreement approved in (a), above.
 
-# 5.&nbsp;&nbsp;&nbsp;Provincial Increase
   to Maximum Per Diem Rate For Emergency Shelters
 
 Recommendation:  That, on the
@@ -61,7 +56,6 @@ Recommendation:  That, on the
   sharable rate, effective December 1, 2012 and concluding December 31, 2012.  
   (2012-C06-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Community
   Homelessness Prevention Initiative
 
 Recommendation:  That, on the
@@ -124,7 +118,6 @@ it being noted that the Community and
   the Managing Director, Neighbourhood, Children & Fire Services with
   respect to this matter.
 
-# 7.&nbsp;&nbsp;&nbsp;Food Truck Proposal
 
 That the request for delegation status from
   M. Navakas, with respect to a food truck proposal, BE REFERRED to the

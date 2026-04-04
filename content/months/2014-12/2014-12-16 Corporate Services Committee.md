@@ -12,7 +12,6 @@ December 16, 2014, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, V. Ridley, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, J. Braam, K. Dawtrey, A. Dunbar, A. Hagan, G.T. Hopcroft, V. McAlea Major, L. Palarchio, J. Senese, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that the
@@ -33,7 +32,6 @@ b)         Councillor
   which is the subject of solicitor-client privilege and communications
   necessary for that purpose.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2015
 
 Recommendation:  That Councillor J. Zaifman
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2014 Operating
   Budget Status - Third Quarter Report
 
 Recommendation:  That, on the recommendation
@@ -109,7 +106,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2014 Capital Budget
   Status - Third Quarter Report
 
 Recommendation:  That, on the recommendation
@@ -132,7 +128,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;City of London's Aaa
   Credit Rating
 
 Recommendation:  That, on the
@@ -155,7 +150,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Request for Write
   Off of Accounts Receivable
 
 Recommendation:  That, on the recommendation
@@ -180,7 +174,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Court Security
   Prisoner Transportation Program Funding Agreement
 
 Recommendation:  That, on the recommendation
@@ -207,7 +200,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London's Hosting of
   2014 AMO Annual General Meeting, Conference and Trade Show Sponsorship and
   Budget
 
@@ -232,7 +224,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;London and
   Middlesex Immigration Portal Enhancements and Second Annual International
   Student Welcome Event
 
@@ -257,7 +248,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Canadian Trade
   Agreements and Canada-China Foreign Investment Protection Agreement Update
 
 Recommendation:  That, on the
@@ -281,7 +271,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;City of London Days
   at the Budweiser Gardens
 
 Recommendation:  That, on the
@@ -307,7 +296,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Status of
   Information and Discussions with Greenhouse Proponent to be Located on
   City-Owned Land in the Vicinity of the W12A Landfill and Resource Recovery
   Area
@@ -354,7 +342,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Request for
   Reimbursement of Expenses - Community Event Sponsorship
 
 Recommendation:  That the following actions
@@ -391,7 +378,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Establishment of
   "Outstanding London Ambassador" Award
 
 Recommendation:  That the request by
@@ -429,7 +415,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Councillor Expense
   Funds
 
 Recommendation:  That the two
@@ -459,7 +444,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 Members at Large)
 

@@ -17,15 +17,12 @@ January 14, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Council’s Strategic Plan 2019-2023: Setting the Vision, Mission, and Values
 
@@ -58,7 +55,6 @@ That the attached draft Vision, Mission and Values statements, for Council’
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2019 Budget Process
 
@@ -92,11 +88,9 @@ That Councillor J. Morgan BE APPOINTED as the Council lead for the 2019 Budget p
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;ADDED - Land Disposition/Solicitor-Client Privileged Advice/Commercial or Financial Information Belonging to the City
 
@@ -134,7 +128,6 @@ The Strategic Priorities and Policy Committee convened In Closed Session from 6:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:44 PM.
 

@@ -12,13 +12,11 @@ January 20, 2015, at 12:04 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. van Holst; A. Zuidema, J.P. Barber, J. Braam, A. Hagan, M. Hayward, J. Logan, D. Mounteer, S. Spring, J. Stanford, B. Warner, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Assessment Growth
   for 2015, Changes in Taxable Phase-In Values and Shifts in Taxation as a
   Result of Reassessment
 
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Single Source 15-04
   - Supply and Delivery of General Office Products (Publically Funded
   Organization, Ontario Ministry of Government and Consumer Services Smart
   Consumption Agreement #OSS - 00419472)
@@ -93,7 +90,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for New Affordable Housing Program - Project at 753 Dundas Street
 
 Recommendation:  That, on the
@@ -123,7 +119,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2015 General
   Insurance Renewal
 
 Recommendation:  That, on the
@@ -152,7 +147,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Request for
   Designation of the "I Heart Reggae" Celebration as a Municipally Significant
   Event
 
@@ -177,7 +171,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;City-Owned
   Billboards
 
 Recommendation:  That the communication

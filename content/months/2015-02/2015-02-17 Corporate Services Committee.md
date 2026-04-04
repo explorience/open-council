@@ -12,13 +12,11 @@ February 17, 2015, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Squire, M. van Holst; A. Zuidema, A.L. Barbon, J. Braam, A. Dunbar, J. Edmunds, J.M. Fleming, M. Hayward, G.T. Hopcroft, V. McAlea Major, M. Ribera, A. Ripepi, J. Senese, J. Smout, E.Soldo, S. Swance, M. Tomazincic, B. Turcotte, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Additional Municipal
   Act Reporting Requirements Due to Implementation of Tangible Capital Assets
 
 Motion
@@ -127,7 +125,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 Recommendation:  That the recommendations

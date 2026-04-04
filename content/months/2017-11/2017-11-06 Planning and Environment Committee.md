@@ -12,7 +12,6 @@ November 6, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown;  H.L. Usher, M. van Holst; J. Adema, M. Elmadhoon, M. Feldberg, J.M. Fleming, P. Kokkoros, G. Kotsifas, A. Lockwood, A. Macpherson, L. Maitland, L. McDougall, H. McNeely, C. Parker, J. Parsons, M. Pease, L. Pompilii, S. Rowland, V. Santos, C. Saunders, J-A. Spence, S. Spring, M. Tomazincic, S. Wise, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That Councillor S. Turner disclosed a pecuniary
@@ -20,7 +19,6 @@ That Councillor S. Turner disclosed a pecuniary
   Strategy, by indicating that there are references in the Strategy to the
   Middlesex-London Health Unit, which is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;11th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -55,7 +53,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following actions be taken with
@@ -162,7 +159,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 1140 and 1154 Sunningdale Road East (Z-8805)
 
 That, on the recommendation of the Managing
@@ -329,7 +325,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Expansion of the
   Downtown Community Improvement Plan Project Area (O-8788)
 
 That, on the recommendation of the Managing
@@ -478,7 +473,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1880 Phillbrook Drive - Public Site Plan Meeting (SPA17-069)
 
 That, on the recommendation of the Manager,
@@ -566,7 +560,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Urban Agriculture
   Strategy
 
 That, on the recommendation of the Managing
@@ -617,7 +610,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Tree Planting
   Strategy 2017-2022
 
 That, on the recommendation of the Managing
@@ -657,7 +649,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PEC Deferred List
 
 That the Civic Administration BE DIRECTED
   to update the Deferred Matters List to remove any items that have been
@@ -679,7 +670,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;(ADDED) Property
   located at 6188 Colonel Talbot Road
 
 That, on the recommendation of the Managing

@@ -20,11 +20,9 @@ February 25, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -135,11 +133,9 @@ b)    on the recommendation of the City Clerk, the report dated February 25, 2
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
@@ -329,7 +325,6 @@ That the consideration of Appointments to the Accessibility Community Advisory C
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Appointment Request to the Community and Protective Services Committee - Councillor P. Cuddy
 
@@ -345,7 +340,6 @@ That Councillor P. Cuddy BE APPOINTED to the Community and Protective Services C
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by C. Rahman
 
@@ -385,7 +379,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 3:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

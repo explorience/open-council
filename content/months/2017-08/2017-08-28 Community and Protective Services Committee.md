@@ -12,7 +12,6 @@ August 28, 2017, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; M. Hayward, R. Armistead, C. DeForest, K. Graham, O. Katolyk, G. Kotsifas, L. Loubert, M. Ribera, J. Smout, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor M. Salih
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor M. Salih
   having to do with the LAV III Monument Agreements, by indicating that he is a
   member of the Canadian Forces.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Adult Entertainment Body Rub Parlour - 2190 Dundas Street
 
 That, on the recommendation of the Licence
@@ -70,7 +68,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - LAV
   III Monument Agreements
 
 That, on the recommendation of the
@@ -121,7 +118,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the August 2017 Deferred Matters List
@@ -145,7 +141,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR ENQUIRY – B. Armstrong –
   Adult Live Entertainment Establishment located at 2190 Dundas Street
 
 That it BE NOTED that Councillor B.

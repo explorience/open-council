@@ -18,7 +18,6 @@ October 22, 2013, at  4:08 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:08 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 At 4:09 PM, Councillor B. Armstrong enters
@@ -81,18 +80,14 @@ Councillor M. Brown discloses a pecuniary
   Corporation concerning the proposed acquisition and/or disposition, by
   indicating that he is employed by the Thames Valley District School Board.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Final Report –
   Investigation into Whether Members of Council for the City of London Held an
   Improper Closed Meeting on February 23, 2013.
 
@@ -276,7 +271,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -291,9 +285,7 @@ Approve that Council rise and go into
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTEENTH MEETING HELD ON OCTOBER 1, 2013
 
 > Moved by Councillor B. Polhill
@@ -330,15 +322,11 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 9.&nbsp;&nbsp;&nbsp;Shine the Light Purple for the Month of
   November 2014
 
 > Moved by Councillor J.L. Baechler
@@ -419,10 +407,8 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Tabling of the 2014 Water and Wastewater
   Budgets
 
-# 5.&nbsp;&nbsp;&nbsp;Proposed Public Education, Dialogue and
   Consultation Plan for Future of London Hydro Inc.
 
 At 8:55 PM His Worship the Mayor places
@@ -507,14 +493,11 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2014 Development Charges Study: Proposed
   Changes to Development Charges Non-Residential Building Conversion and
   Demolition Policies
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment Recommendations for the London
   Convention Centre Board of Directors
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment of
   Rifat Hussain as a Non-Voting Representative of the Cross Cultural Learner
   Centre to the London Diversity and Race Relations Advisory Committee
 
@@ -523,7 +506,6 @@ That Rifat Hussain BE APPOINTED to the
   representing the Cross Cultural Learner Centre, for the term ending February
   28, 2015.
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of Jon
   Ferreira as a Voting Representative of Neighbourhood Watch to the Community
   Safety and Crime Prevention Advisory Committee
 
@@ -531,7 +513,6 @@ That Jon Ferreira BE APPOINTED to the
   Community Safety and Crime Prevention Advisory Committee as a Voting Member representing
   Neighbourhood Watch, for the term ending February 28, 2015.
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   3493 Colonel Talbot Road
 
 That, the Civic Administration BE DIRECTED
@@ -543,13 +524,11 @@ That, the Civic Administration BE DIRECTED
   Courtney, 3493 Colonel Talbot Road, with respect to the property located at
   3493 Colonel Talbot Road.
 
-# 13.&nbsp;&nbsp;&nbsp;Planning and
   Environment Committee Meeting - October 29, 2013
 
 That, the start time of the October 29,
   2013 Planning and Environment Committee meeting BE CHANGED to 4:30 PM.
 
-# 14.&nbsp;&nbsp;&nbsp;Meadowlily Bridge
 
 That the following actions be taken with
   respect to a verbal request from Councillor White related to undesirable
@@ -564,7 +543,6 @@ b)         trees causing security issues BE
 c)         standard parking lot signage BE
   INSTALLED.
 
-# 3.&nbsp;&nbsp;&nbsp;Potential
   Amendments to the 2013 Risk-Based Audit Plan and Scoping for 2014 Risk-Based
   Audit Plan
 
@@ -581,7 +559,6 @@ b)    
       the proposed 2013 Risk-Based Audit Plan and scoping for the 2014
   Risk-Based Audit Plan BE APPROVED.
 
-# 8.&nbsp;&nbsp;&nbsp;Resignation from the Covent Garden Market
   Corporation Board of Directors
 
 Motion Passed
@@ -790,12 +767,9 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor D. Brown
@@ -1027,7 +1001,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1202,7 +1175,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

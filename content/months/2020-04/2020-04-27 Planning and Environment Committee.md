@@ -21,13 +21,11 @@ April 27, 2020, at  3:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -285,19 +283,16 @@ That the application to enter into a subdivision agreement between The Corporati
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED)  Hamilton Road Community Improvement Plan Forgivable Loan Programs
 
@@ -321,7 +316,6 @@ That Civic Administration BE DIRECTED to take the actions necessary to implement
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 That the Planning and Environment Committee convene, In Closed Session, for the purpose of considering the following:
 
@@ -341,7 +335,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 3:35 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:07 PM.
 

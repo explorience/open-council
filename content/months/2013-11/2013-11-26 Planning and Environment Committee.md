@@ -12,13 +12,11 @@ November 26, 2013, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, Ismail Abushehada, J.P. Barber, G. Barrett, M. Corby, M. Davis, M. Elmadhoon, J.M. Fleming, T. Grawey, N. Hall, B. Henry, M. Johnson, P. Kokkoros, B. Krichker, E. Lalande, A. MacLean, A. Macpherson, N. Musicco, J. Page, A. Riley, C. Saunders, R. Sharpe, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor N.
   Branscombe disclosed a pecuniary interest in clause 9 of this report, having
   to do with the application by the City of London relating to the properties
   located at 595 and 607 Industrial Road, by indicating that her spouse owns
   and operates a business in close proximity to the Airport.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
 
@@ -63,7 +61,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   982 Gainsborough Road (Z-8178)
 
 Recommendation:  That, on the
@@ -93,7 +90,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Contract Renewal
   for the Management of Environmentally Significant Areas
 
 Recommendation:      That, on the
@@ -215,7 +211,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   3493 Colonel Talbot Road
 
 Recommendation:  That, the following
@@ -269,7 +264,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for October 2013
 
 Recommendation:  That the Building Division
@@ -292,7 +286,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1420 Global Drive (Z-8232)
 
 Recommendation:  That, on the
@@ -367,7 +360,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 595 and 607 Industrial Road (Z-8272)
 
 Recommendation:  That, on the
@@ -446,7 +438,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1193 Sunningdale Road East (Z-8231)
 
 Recommendation:  That, on the
@@ -527,7 +518,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   3804 South Winds Drive (39T-09503/OZ-7698)
 
 Recommendation:      That, on the
@@ -851,7 +841,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Review of Holding
   Provision Requirements in Zoning By-law Z-1
 
 Recommendation:  That, on the
@@ -947,7 +936,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
 Recommendation:  That, on the
@@ -1040,7 +1028,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Secondary Dwelling
   Units (OZ-8053)
 
 Recommendation:  That, the application of
@@ -1148,7 +1135,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4128 Colonel Talbot Road (OMB File: PL130130, PL130131, PL130132)
 
 Recommendation:      That, it BE NOTED that
@@ -1157,7 +1143,6 @@ Recommendation:      That, it BE NOTED that
   Developments, withdrawing his request for delegation status relating to this
   matter.  (2013-L01/D12)
 
-# 16.&nbsp;&nbsp;&nbsp;11th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -1213,7 +1198,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Review of Planning
   Application Fees
 
 Recommendation:  That, on the

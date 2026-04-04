@@ -20,11 +20,9 @@ September 24, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors S. Trosow, P. Van Meerbergen, E. Peloza (at 4:53 PM) and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor H. McAlister discloses a pecuniary interest in clause 6, item 2.3 of the 14th Report of the Corporate Services Committee, having to do with Downtown London Entertainment and Sports Centre Naming Rights by indicating that he is on leave from his employer, Canada Life.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor Recognizes City of London Employees who have achieved 25 years of service during 2024.
 
@@ -44,11 +42,9 @@ From Social and Health Development: Cyndy Ballantyne, Gwen Braxton, Madeleine Co
 
 From London Police Services: Robert George Brown, Glenn Bullick, Chris Carne, Jacqueline Dodd, David Ellyatt, Heather Gillespie, Sean T. Harding, Christopher Jackson, Josh Kenny, Alex Krygsman, Barb Martin, Patricia McIntyre, Jon Orchard, Tania Paavola, Cami Pool, Mike Pottruff, Dave Roszell, Ryan Scrivens, Tia Sutherland, Rick Terrio, Sean Travis, Timothy Wright
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -96,7 +92,6 @@ That Council convenes In Closed Session, from 1:23 PM to 1:36 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by D. Ferreira
 
@@ -126,7 +121,6 @@ That the Minutes of the 14th Meeting of the Municipal Council, held on August 27
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Cuddy
 
@@ -308,11 +302,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;14th Report of the Corporate Services Committee 
 
@@ -2281,25 +2273,20 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED that Councillor C. Rahman presented the 15th Report of the Council in Closed Session, by noting progress was made with respect to the four items noted on the Agenda.
 
 ## 9.1&nbsp;&nbsp;&nbsp;15th Report of Council in Closed Session
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Franke enquiries with respect to the feasibility of preventing agencies, boards and commissions from procuring a public relations firm. The City Manager responds regarding the applicability of corporate policies concerning the use of funds.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -2713,7 +2700,6 @@ That Third Reading and Enactment of Bill No. 301 to Added Bill No. 334 including
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by D. Ferreira
 
@@ -2727,7 +2713,6 @@ The meeting adjourned at 5:15 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 301**

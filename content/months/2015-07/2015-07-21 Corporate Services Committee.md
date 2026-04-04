@@ -15,13 +15,11 @@ July 21, 2015, at 12:03 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; J.P. Barber, A.L. Barbon, J. Braam, T. Copeland, D. Dobson, K. Graham, L. Green, M. Hayward, V. McAlea Major, C. Saunders, B. Warner, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Interest Free Loan
   - London Community Players (Palace Theatre)
 
 That, on the recommendation of the Managing
@@ -62,7 +60,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Agreement Between
   The City of London and Donald Jones Management Services Inc. - Management of
   Centennial Hall
 
@@ -100,7 +97,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Response to
   Province of Ontario Public Consultation Municipal Elections Act
 
 That the staff report dated July 21, 2015,
@@ -149,7 +145,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;City Recognition of
   Queen Elizabeth ll - Longest Reigning Monarch
 
 That the Civic Administration BE REQUESTED
@@ -175,7 +170,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Request for
   Designation of the East Coast Celebration Festival as a Municipally
   Significant Event
 

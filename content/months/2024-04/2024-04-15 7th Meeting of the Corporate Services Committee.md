@@ -17,11 +17,9 @@ April 15, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor C. Rahman disclosed a pecuniary interest in item 2.1, having to do with expropriation of lands and the East London Link Project Phase 4, by indicating that Fanshawe College is her employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -261,11 +259,9 @@ E) other net non-rate supported funding sources of $281 thousand BE ADJUSTED in 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by P. Cuddy
 
@@ -314,15 +310,12 @@ That based on the application dated April 4, 2024 from Falun Dafa Association Ca
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

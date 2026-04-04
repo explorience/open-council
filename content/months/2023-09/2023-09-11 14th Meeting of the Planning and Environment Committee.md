@@ -20,11 +20,9 @@ September 11, 2023, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -87,7 +85,6 @@ That the 9th Report of the Ecological Community Advisory Committee BE RECEIVED f
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2908 Dundas Street (Z-9627)
 
@@ -439,7 +436,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Council Resolution - Housing Accelerator Fund
 
@@ -464,11 +460,9 @@ That clause b) of the Municipal Council resolution adopted at its meeting held o
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:44 PM.
 ---

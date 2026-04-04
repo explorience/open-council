@@ -18,24 +18,18 @@ April 19, 2016, at  4:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS (Continued)
 
-# 2.&nbsp;&nbsp;&nbsp;2016 Council
   Compensation Review Task Force Terms of Reference - Revision
 
 That, on the recommendation of the City
@@ -43,7 +37,6 @@ That, on the recommendation of the City
   Compensation Review Task Force, included as Appendix “A” to the staff report
   dated April 18, 2016, BE APPROVED.
 
-# 3.&nbsp;&nbsp;&nbsp;2nd Report of the
   Outstanding London Ambassador Award Committee
 
 That the following actions be taken with
@@ -65,7 +58,6 @@ b)           
   clauses
   1 to 3 BE RECEIVED.
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -93,7 +85,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON APRIL 5, 2016
 
 > Moved by Councillor B. Armstrong
@@ -127,7 +118,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Armstrong
@@ -139,12 +129,9 @@ Approve receipt and referral of
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 5.&nbsp;&nbsp;&nbsp;Improving
   Collaboration with Local Boards and Commissions and Strategic Plan Alignment
 
 That, on the recommendation of the City
@@ -166,7 +153,6 @@ c)         the
   that page 3 of the staff report was replaced with a revised page 3, included
   as Added Agenda Item No. 5a.
 
-# 6.&nbsp;&nbsp;&nbsp;Mayor's Advisory
   Panel on Poverty Final Report: London For All: A Roadmap to End Poverty
 
 That the Municipal Council take the
@@ -255,10 +241,8 @@ it being further noted that the Strategic
   Priorities and Policy Committee heard the attached presentation
   from the Mayor’s Advisory Panel on Poverty.
 
-# 7.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities - Councillor H.L. Usher
 
-# 8.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities - Deputy Mayor Cassidy
 
 That the following actions be taken with
@@ -308,7 +292,6 @@ it being noted that Councillor M. Cassidy
   Municipalities Board of Directors in accordance with the attached
   ranked ballot.
 
-# 9.&nbsp;&nbsp;&nbsp;Greater London
   International Airport Authority Board of Directors –  Nominations
 
 That the following actions be taken with
@@ -354,7 +337,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;In recognition of
   the community contributions made by students attending London's
   post-secondary educational institutions, His Worship the Mayor and Members of
   Council welcomes and recognizes representatives of the Students' Councils
@@ -372,12 +354,9 @@ Brescia University College Students'
 Fanshawe Student Union: Alan Bushell,
   President and Carlie Forsythe, President-Elect
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT MOTIONS
 
 > Moved by Councillor S. Turner
 
@@ -441,7 +420,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -622,7 +600,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

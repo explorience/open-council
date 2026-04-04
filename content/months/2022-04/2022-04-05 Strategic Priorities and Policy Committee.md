@@ -18,7 +18,6 @@ April 5, 2022, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -26,11 +25,9 @@ a)  Councillor J. Morgan discloses a pecuniary interest having to do with Item 
 
 b)  Councillor J. Helmer discloses a pecuniary interest having to do with Item 4.3, related to City appointments to Western University's Board of Governors, by indicating that he is employed by Western University.  Councillor J. Helmer further discloses a pecuniary interest having to do with Item 3.1 part d), having to do with the City's Climate Emergency Action Plan's Memorandum of Understanding with the University of Western Ontario, by indicating that he is employed by the University.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:05 PM - Climate Emergency Action Plan
 
@@ -272,7 +269,6 @@ i)    authorize and approve a Memorandum of Understanding with the University 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2021 Council Compensation Review Task Force Final Report
 
@@ -418,7 +414,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 4th Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
 
@@ -468,7 +463,6 @@ b)  clauses 1.1, 2.1. 2.2, 3.1, 4.1, 4.2, 4.3, 4.4 and 5.1 BE RECEIVED for info
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

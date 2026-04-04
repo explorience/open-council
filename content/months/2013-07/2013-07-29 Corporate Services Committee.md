@@ -15,7 +15,6 @@ July 29, 2013, at  3:03 PM
 > [!abstract]- Also Present:
 > A. Zuidema, M. Hayward, D. Mounteer, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: 
   That it BE NOTED that no pecuniary interests were disclosed.
 
 (See Confidential Appendix to the 21st

@@ -16,11 +16,9 @@ February 6, 2020, at  9:30 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no additional interests were disclosed.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.7&nbsp;&nbsp;&nbsp;Social and Health Services
 
@@ -1177,7 +1175,6 @@ viii. Business Case 6 – Coordinated Informed Response – 2020-2023 Total: Inv
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by J. Helmer
 
@@ -1209,7 +1206,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Strategic Priorities and Policy Committee recessed at 4:13 PM; it being noted that the meeting will resume at 9:30 AM, Friday, February 7, 2020.
 

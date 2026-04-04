@@ -15,13 +15,11 @@ December 9, 2013, at  7:04 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, B. Polhill, S. Orser, A.L. Bourbon, J. Braam, H. Chapman, B. Coxhead, S. Datars Bere, O. Katolyk, G. Kotsifas, L. Livingstone, A. Macpherson, L. Marshall, D. Mounteer, D. O’Brien, R. Oke, L.M. Rowe, R. Sharpe, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;10th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the 10th Report of
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Single Source for a
   Supply Chain Group Purchasing Organization
 
 Recommendation:  That, on the
@@ -101,7 +98,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Request for
   Proposal 13-39 - Consultant to Conduct a Municipal Class Environmental
   Assessment to Determine a Preferred Pedestrian Recreational Pathway Crossing
   of Richmond Street
@@ -130,7 +126,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;RFP 13-34 - Provide
   Physiotherapy and Occupational Therapy Services at the Dearness Home
 
 Recommendation:  That, on the
@@ -167,7 +162,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Rockin' New Year’s
   Eve
 
 Recommendation:  That, on the
@@ -233,7 +227,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;7th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That, the following
@@ -304,7 +297,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Request for
   Proposal (RFP) 12-28 Animal Welfare Services
 
 Recommendation:  That on the recommendation
@@ -435,7 +427,6 @@ it being noted that the Community and
   Protective Services Committee heard the  attached presentation from O.
   Katolyk, Chief By-law Enforcement Officer, with respect to this matter. (2013-F18)
 
-# 9.&nbsp;&nbsp;&nbsp;Animal Welfare
   Services - Pet Sales
 
 Recommendation:  That on the Recommendation
@@ -548,7 +539,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;(ADDED) S. Ford,
   Dancor - Amendment to the Sign By-law
 
 Recommendation:  That the following action
@@ -600,7 +590,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) 10th Report
   of the Accessibility Advisory Committee
 
 Recommendation:  That the 10th Report of

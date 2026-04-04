@@ -20,11 +20,9 @@ April 19, 2021, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that the following Members were in remote attendance: Councillors M. van Holst, J. Morgan, E. Peloza and A. Kayabaga
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -144,11 +142,9 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application – Issuance of Proclamation – World Migratory Bird Day
 
@@ -321,7 +317,6 @@ Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -411,7 +406,6 @@ BE IT FURTHER RESOLVED that Council assumes all costs associated with Councillor
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -445,7 +439,6 @@ The Corporate Services Committee convenes, In Closed Session, from 1:01 PM to 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Kayabaga
 

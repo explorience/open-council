@@ -25,11 +25,9 @@ May 24, 2023, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Stevenson
 
@@ -146,11 +144,9 @@ b)        the Deputy City Manager, Neighbourhood and Community-Wide Services
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;J. Thompson, LIFE*SPIN - Ethical AI Homelessness Tools 
 
@@ -176,11 +172,9 @@ That the communication, dated May 15, 2023, from J. Thompson, Life*Spin, with re
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:50 PM.
 ---

@@ -17,11 +17,9 @@ January 22, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -188,11 +186,9 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointments to the Accessibility Advisory Committee (Requires 1 Voting Person with a Disability and 3 Voting Members at Large)
 
@@ -233,7 +229,6 @@ Jeanette Wilson (Member at Large)
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -281,7 +276,6 @@ That D. Vanden Booman BE APPOINTED to the London Council for Adult Education, fo
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Kayabaga
 
@@ -348,7 +342,6 @@ The Corporate Services Committee convenes, In Closed Session from 1:32 PM to 2:2
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:27 PM.
 

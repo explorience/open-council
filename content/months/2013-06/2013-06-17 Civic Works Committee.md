@@ -12,17 +12,14 @@ June 17, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > G. Belch, J. Braam, L. Ducharme, A. Dunbar, G. Irwin, S. Koshowski, J. Lucas, S. Maguire, R. Pedlow, M. Ribera, L. Rowe, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 5th Report of the
   Transportation Advisory Committee, from its meeting held on June 4, 2013, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Single Source
   Supply and Implementation of a Computerized Maintenance Management System
 
 Recommendation:  That, on the
@@ -57,7 +54,6 @@ c)         the
   project costs,  Source of Financing and concurrence from the Chief Technology
   Officer  with regard to implementation.   (2013-F14)
 
-# 4.&nbsp;&nbsp;&nbsp;Mill and Overlay of
   Various Streets (Tender 12-66)
 
 Recommendation:  That the recommendation
@@ -70,7 +66,6 @@ Recommendation:  That the recommendation
   (2) additional, one (1) year periods and the original report did not include
   the renewal, which was an administrative omission.  (2013-F18)
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   2013 Infrastructure Lifecycle Renewal Program Contract 2: Waterloo Street
   Reconstruction (Tender No. 13-19)
 
@@ -122,7 +117,6 @@ g)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.   (2013-A05)
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Sarnia Road Improvements Phase 2 - Road Widening from Wonderland Road North
   to Aldersbrook Road (Tender No. T13-33)
 
@@ -170,7 +164,6 @@ g)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04)
 
-# 7.&nbsp;&nbsp;&nbsp;Contract Award:
   2013 Infrastructure Lifecycle Renewal Program Contract 12: Maitland Street
   from Piccadilly Street to Pall Mall Street (Tender No. 13-39)
 
@@ -217,7 +210,6 @@ f)        the
   documents, if required, to give effect to these recommendations. 
 (2013-L04)
 
-# 8.&nbsp;&nbsp;&nbsp;Highway
   401/Wonderland Road Interchange Land Transfer between the City of London and
   the Ministry of Transportation
 
@@ -237,7 +229,6 @@ b)         the
   BE DECLARED SURPLUS to the needs of the City and BE TRANSFERRED to the
   Ministry of Transportation.  (2013-L07)
 
-# 9.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -247,7 +238,6 @@ Recommendation:  That, on the
   be held on June 25, 2013 for the purpose of amending the Traffic and Parking
   By-law (P.S. 111).  (2013-C01)
 
-# 10.&nbsp;&nbsp;&nbsp;New 2013 Traffic
   Signals
 
 Recommendation:  That, on the
@@ -264,7 +254,6 @@ b)         future
   APPROVED as a first priority commitment from available assessment growth in
   2013, subject to final budget approval.  (2013-T07)
 
-# 11.&nbsp;&nbsp;&nbsp;Wonderland Road
   South Environmental Assessment Study - Appointment of Consulting Engineer
 
 Recommendation:  That, on the
@@ -303,7 +292,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.   (2013-A05)
 
-# 12.&nbsp;&nbsp;&nbsp;Rogers
   Communications Partnership - Municipal Access Agreement
 
 Recommendation:  That, on the
@@ -328,7 +316,6 @@ b)         the
   telecommunications carriers licensed under the Federal Telecommunications Act
   that operate within the City.  (2013-L04)
 
-# 13.&nbsp;&nbsp;&nbsp;LTC Industrial
   Service Plan Report
 
 Recommendation:  That the Industrial

@@ -18,7 +18,6 @@ June 11, 2013, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:06 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J.P. Bryant discloses a
@@ -89,19 +88,15 @@ Councillor P. Hubert discloses a pecuniary
   Downtown London, by indicating that he is involved with a social service
   agency that provides cleaning services in the Downtown.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Risk-Based
   Audit Plan - Boards and Commissions
 
 That the following actions be taken
@@ -116,7 +111,6 @@ b)         the
   and London Transit Commission BE CONSIDERED for incorporation into the 2013
   Risk-Based Audit Plan.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor J.L. Baechler
@@ -152,9 +146,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 3.&nbsp;&nbsp;&nbsp;Engagement of
   PricewaterhouseCoopers (PwC) for Operational Reviews at Boards and
   Commissions
 
@@ -454,7 +446,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TENTH MEETING HELD ON MAY 14, 2013
 
 > Moved by Councillor J.P. Bryant
@@ -490,13 +481,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor D. Brown
 
@@ -504,7 +492,6 @@ Approve clauses 1 to 5, 7 and 8.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Engagement of KPMG
   for Procedure and Findings Report on the Downtown Camera Program
 
 That, on the recommendation of the Managing
@@ -513,14 +500,12 @@ That, on the recommendation of the Managing
   Procedure and Findings Report of the Downtown Camera Program at a cost of
   $3,250, exclusive of HST.
 
-# 5.&nbsp;&nbsp;&nbsp;Proposal Feedback
   Letter Regarding Improving Downtown London
 
 That the communication dated May 9, 2013,
   from R. T. Usher, Board Chair and J. MacDonald, Executive Director, London
   Downtown Business Association, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Service London
   Initiative
 
 That the following actions be taken with
@@ -543,7 +528,6 @@ it being noted that the Investment and
   Economic Prosperity Committee heard a verbal delegation from Councillor P.
   Hubert, with respect to this matter.
 
-# 8.&nbsp;&nbsp;&nbsp;Grand Theatre -
   Semi-Annual Program and Financial Updates
 
 That D. Harvey, Executive Director of the
@@ -551,7 +535,6 @@ That D. Harvey, Executive Director of the
   and Economic Prosperity Committee meeting to provide an update on the
   semi-annual program and financials of the Grand Theatre.
 
-# 6.&nbsp;&nbsp;&nbsp;Comments on the
   London Focus Ontario Fall 2012 Survey
 
 That the following actions be taken with
@@ -567,7 +550,6 @@ b)         the
   pulse of business” in the community and provide its comments and suggestions
   to the Municipal Council.
 
-# 9.&nbsp;&nbsp;&nbsp;Western Fair
   District
 
 > Moved by Councillor J.B. Swan
@@ -600,7 +582,6 @@ Approve clauses 1, 2 and 4.
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   3557 Colonel Talbot Road - North Lambeth Subdivision - Extension to Draft
   Plan of Subdivision Approval (39T-00510)
 
@@ -611,7 +592,6 @@ That, on the recommendation of the Senior
   Inc., relating to the property located at 3557 Colonel Talbot Road, SUBJECT
   TO the previously imposed conditions. (2013-D12)
 
-# 13.&nbsp;&nbsp;&nbsp;Riverbend South
   Secondary Plan
 
 That, on the recommendation of the Manager,
@@ -643,7 +623,6 @@ e)         subdivision
   considered incomplete until such time as the Part II Order issues, relating
   to the Tributary ‘C’ Municipal Class EA, have been resolved.   (2013-D08)
 
-# 14.&nbsp;&nbsp;&nbsp;Wood Hull
   Subdivision (39T-03511)
 
 That, on the recommendation of the Manager,
@@ -654,7 +633,6 @@ That, on the recommendation of the Manager,
   RECEIVED; it being noted that FHC plans to assume the development as
   approved. (2013-D12)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   1030 Elias Street (Z-8154)
 
 That, on the recommendation of the Managing
@@ -707,7 +685,6 @@ it being pointed out that at the public
   wording be changed to “not less than the current 43 parking spaces on the
   property”.    (2013-D14A)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 1930 and 1950 Hyde Park Road (Z-8155)
 
 That, on the recommendation of the Managing
@@ -742,7 +719,6 @@ it being pointed out that there were no oral
   submissions made at the public  participation meeting associated with this
   matter.   (2013-D14A)
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located
   at 3 Front Street and 5 Front Street
 
 That, on the recommendation of the Manager,
@@ -779,7 +755,6 @@ it being pointed out that at the public
   be above the 100 year flood line; noting that all of the openings will be
   above the 250 year flood line so everything should be safe.   (2013-D11)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   1206 Oxford Street East
 
 That, on the recommendation of the Manager,
@@ -801,7 +776,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2013-D11)
 
-# 11.&nbsp;&nbsp;&nbsp;Special Provisions
   - Highland Green London Inc. - Highland Green Subdivision - 181-199
   Commissioners Road East (39T-08501)
 
@@ -827,7 +801,6 @@ b)         the
   in part a), above, any amending agreements and all documents required to
   fulfill its conditions.   (2013-L04)
 
-# 10.&nbsp;&nbsp;&nbsp;Subdivision
   Agreement - Old Victoria No. 2 SWM facility - Sifton Properties Limited
   (39T-09502)
 
@@ -866,7 +839,6 @@ e)         for
   ($100,000/acre) and 0.252 ha at $13,590/ hectare ($5,500/acre), plus
   applicable taxes.  (2013-L04)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   1464 Adelaide Street North (Z-8144)
 
 That, on the recommendation of the Managing
@@ -910,7 +882,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.  (2013-D14A)
 
-# 20.&nbsp;&nbsp;&nbsp;Western Counties
   Health and Occupational Centre Grounds: Cultural Heritage Landscape -
   Official Plan Amendment (O-8170)
 
@@ -968,7 +939,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2013-R01)
 
-# 21.&nbsp;&nbsp;&nbsp;Properties located
   at 404-408 Pall Mall Street and 660 Colborne Street (Z-8152)
 
 That, on the recommendation of the Managing
@@ -1116,7 +1086,6 @@ it being pointed out that at the public
   not believe that their application will exacerbate any safety issues that
   exist today.   (2013-D14A)
 
-# 22.&nbsp;&nbsp;&nbsp;Downtown Heritage
   Conservation District Plan - Ontario Heritage Act Appeal (O-8024)
 
 That, on the recommendation of the Managing
@@ -1248,19 +1217,15 @@ Approve clauses 1 and 2.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor Orser enquires as to penalties
   under the Ombudsman Act, related to recent 'tweets' by the Ombudsman.  The
   City Solicitor addresses the enquiry.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1364,7 +1329,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

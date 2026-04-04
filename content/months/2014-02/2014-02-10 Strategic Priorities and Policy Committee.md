@@ -12,7 +12,6 @@ February 10, 2014, at  4:07 PM
 > [!abstract]- Also Present:
 > A.L. Barbon, J. Braam, I. Collins, B. Coxhead, S. Datars Bere, A. Dunbar, J. Fleming, M. Hayward, L. Livingstone, V. McAlea Major, D. O’Brien, L. Palarchio, M. Ribera, C. Saunders, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that the
@@ -26,7 +25,6 @@ b)      
     Councillor S.E. White disclosed a pecuniary interest in any matter, having
   to do with mental health, by indicating that she is employed by CMHA/WOTCH.
 
-# 2.&nbsp;&nbsp;&nbsp;Director, Financial
   Planning and Policy - 2014 Budget - Public Input
 
 Recommendation:  That, on the
@@ -57,7 +55,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2014 Budget -
   Public Participation Meeting
 
 Motion

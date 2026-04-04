@@ -15,7 +15,6 @@ November 17, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > G. Belch, B. Coxhead, S. Datars Bere, J. M. Fleming, I. Gibb, L. Livingstone, A. Macpherson, D. O’Brien, D. Popadic, M. Ribera, E. Soldo, S. Spring, S. Stafford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
@@ -25,7 +24,6 @@ Recommendation:  That it BE NOTED that Councillor
   respectively, by indicating that the Thames Valley District School Board is
   his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Child Care Advisory Committee
 
 Recommendation:  That the 5th Report of the
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Thames Valley
   District School Board and City of London Joint Use of Facilities Amending
   Agreement
 
@@ -67,7 +64,6 @@ b)         authorize
   the Mayor and the City Clerk to execute the above-noted Amending Agreement. 
   (2014-LO4A)
 
-# 4.&nbsp;&nbsp;&nbsp;Neighbourhood
   Family Centre Thames Valley District School Board Lord Nelson Public School
   Update
 
@@ -77,7 +73,6 @@ Recommendation:  That, on the
   related to the Neighbourhood Family Centre at Lord Nelson Public School, BE
   RECEIVED for information.  (2014-L04A)
 
-# 5.&nbsp;&nbsp;&nbsp;12th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -149,7 +144,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Humane Wildlife
   Conflict Policy
 
 Recommendation:  That, on the

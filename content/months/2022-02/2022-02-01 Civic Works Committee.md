@@ -22,7 +22,6 @@ February 1, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -45,7 +44,6 @@ That pursuant to section 27.6 of the Council Procedure By-law, a change in order
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -244,15 +242,12 @@ b)        the balance of this report BE RECEIVED for information. (2022-E03)
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by J. Fyfe-Millar
 
@@ -321,7 +316,6 @@ b)        Mike DeVos, P.Eng. of Spriet Associates London Limited BE APPOINTE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only.)
 
 > Moved by E. Holder
 
@@ -350,7 +344,6 @@ The Civic Works Committee convenes, in Closed Session, from 12:07 PM to 12:30 PM
 
 ## 6.1&nbsp;&nbsp;&nbsp;Litigation / Solicitor-Client Privileged Advice 
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

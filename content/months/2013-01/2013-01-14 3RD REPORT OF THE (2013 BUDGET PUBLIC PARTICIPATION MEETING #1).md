@@ -12,12 +12,10 @@ January 14, 2013, at  4:07 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, I. Collins, B. Coxhead, A. Dunbar, J.M. Fleming, M. Hayward, L. Livingstone, L. Palarchio, M. Ribera, C. Saunders, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor
   J.B. Swan disclosed a pecuniary interest in those matters related to
   Orchestra London and the use of Centennial Hall as Orchestra London is his
   employer and receives funding from the City of London.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Budget – Public Participation
   Meeting
 
 Recommendation:  That the following presentations

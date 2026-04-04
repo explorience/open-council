@@ -20,11 +20,9 @@ September 27, 2021, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder, and Councillors M. Cassidy, J. Morgan and E. Peloza.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Declaration of Vacancy - Office of Councillor, Ward 13
 
@@ -82,19 +80,15 @@ it being noted that the Corporate Services Committee received a communication da
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by E. Peloza
 

@@ -17,13 +17,11 @@ August 27, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen, D. Ferreira and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 At 1:04 PM, Councillor S. Trosow enters the meeting.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor Recognizes the 2023 Queen Elizabeth Scholarship Recipients:
 
@@ -33,11 +31,9 @@ Adrian Starzynski, Saint André Bessette Catholic Secondary School with a 99.00%
 
 His Worship the Mayor Recognizes the Ontario Lottery and Gaming Commission Community Recognition Program and Municipality Contribution Agreement
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -98,7 +94,6 @@ That Council convenes In Closed Session, from 1:23 PM to 1:49 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by C. Rahman
 
@@ -129,7 +124,6 @@ That the Minutes of the 13th Meeting of the Municipal Council, held on July 23, 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 ## 6.1&nbsp;&nbsp;&nbsp;Expropriation of Lands - East London Link Project - Phase 4 (As the "Approving Authority")
 
@@ -517,11 +511,9 @@ Introduction of Office to Residential By-law for Council Consideration – Mayor
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Planning and Environment Committee
 
@@ -1874,7 +1866,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;14th Report of Council in Closed Session
 
@@ -1921,19 +1912,15 @@ That progress was made with respect to items 4.1, 4.5, 4.6, and 4.7 as noted on 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lehman
 
@@ -2137,7 +2124,6 @@ That Third Reading and Enactment of Bill No.'s 286, 295, and 296, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
 
@@ -2151,7 +2137,6 @@ The meeting adjourned at 4:26 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 270**

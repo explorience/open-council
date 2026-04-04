@@ -17,11 +17,9 @@ May 10, 2021, at  4:00 PM
 
 The meeting is called to order at 4:00 PM, with Councillor P. Squire in the Chair, Councillor S. Lewis present and all other Members participating by remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -206,7 +204,6 @@ That, on the recommendation of the Director, City Planning and City Planner, the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street (TZ-9316) 
 
@@ -532,7 +529,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor M. van Holst - Meadowlilly ESA 
 
@@ -557,7 +553,6 @@ That, the communication from Councillor M. van Holst with respect to the preserv
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 3rd Report of the Trees and Forests Advisory Committee
 
@@ -612,7 +607,6 @@ e)  clauses 1.1, 2.3, 3.1 and 3.2, inclusive, 5.1 and 5.2, inclusive and 5.5 BE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:43 PM.
 ---

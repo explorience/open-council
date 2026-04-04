@@ -15,13 +15,11 @@ June 20, 2016, at 12:04 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, T. Park, P. Squire, M. van Holst; A. Zuidema, A.L. Barbon, K. Dawtrey, A. Hagan, M. Hayward, P. Kokkoros, J. Lucas, A. Macpherson, V. McAlea Major, D. Mounteer, D. O’Brien, C. Saunders, C. Smith, E. Soldo, S. Spring, B. Warner, T. Wellhauser, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus - Portion of City-Owned Property - 7109 Westminster Drive
 
 That, on the recommendation of the Managing
@@ -55,7 +53,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Approval to Demolish City-Owned Properties - 189 Grey Street, 5221 Cook Road,
   76 Evergreen Avenue, 80 Evergreen Avenue, 280 York Street, 340 Wellington
   Street, 1577 Wilton Grove Road and 3713 Scotland Drive
@@ -126,7 +123,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London/Western Fair Association Lease Agreement Request for Consent to
   Rehabilitate Grandstand
 
@@ -154,7 +150,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for Delegation - William Komer, Executive Director, Campus Creative
   re Lorne Avenue Public School
 
@@ -181,7 +176,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED -  COUNCIL
   MEMBER SUBMISSION - Request for Inquiry by the Integrity Commissioner
 
 That the communication dated June 16, 2016,
@@ -209,7 +203,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Canada 150 Community Infrastructure Program - Intake Two
 
 That, on the recommendation of the Acting
@@ -235,7 +228,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Annual Meeting Calendar
 
 That the staff report dated June 20, 2016,

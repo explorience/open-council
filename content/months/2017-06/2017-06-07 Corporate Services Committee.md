@@ -15,13 +15,11 @@ June 7, 2017, at 12:32 PM
 > [!abstract]- Also Present:
 > M. van Holst; M. Hayward, A.L. Barbon, B. Card, S. Crawford, K. Dawtrey, J. Edmunds, A. Hagan, L. Livingstone, V. McAlea Major, M. Ribera, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City-Initiated
   Assessment Appeals
 
 That, on the recommendation of the Managing
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -110,7 +107,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 extra Members at Large)
 
@@ -147,7 +143,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory
   Committee (Requires 1 Voting Representative from Neighbourhood Watch
   London)
@@ -173,7 +168,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Standing Committees
   and Forums - Federation of Canadian Municipalities - Councillor T. Park
 
 That Councillor T. Park BE ENDORSED to
@@ -207,7 +201,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Standing Committees
   and Forums - Federation of Canadian Municipalities - Councillor J. Helmer
 
 That Councillor J. Helmer BE ENDORSED to

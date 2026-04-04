@@ -20,7 +20,6 @@ February 11, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Mayor J. Morgan and Councillor S. Stevenson were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor E. Peloza discloses a pecuniary interest in item 8, clause 4.1 of the 3rd Report of the Community and Protective Services Committee, having to do with the Bob Hayward YMCA at 1050 Hamilton Road, by indicating that a family member works for Goodlife Fitness.
 
@@ -51,11 +50,9 @@ That, pursuant to section 6.4 of the Council Procedure By-law, a change in order
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 ## 7.1&nbsp;&nbsp;&nbsp;Mayor J. Morgan - Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties
 
@@ -182,11 +179,9 @@ At 1:41 PM, His Worship the Mayor J. Morgan leaves the meeting.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -228,7 +223,6 @@ That Council convenes In Closed Session, from 1:42 PM to 1:51 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by D. Ferreira
 
@@ -255,7 +249,6 @@ That the Minutes of the 2nd Meeting of the Municipal Council, held on January 21
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Hillier
 
@@ -306,7 +299,6 @@ At 1:55 PM, Councillor S. Trosow enters the meeting.
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;3rd Report of the Community and Protective Services Committee
 
@@ -1117,23 +1109,18 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED that Councillor C. Rahman presented the 3rd Report of the Council in Closed Session, by noting progress was made with respect to items 4.1, 4.2 and 4.3 as noted on the public agenda, (6.1/3/ICSC), (6.2/3/ICSC), (6.3/3/ICSC).
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -1207,7 +1194,6 @@ That Third Reading and Enactment of Bill No.'s 73 to 77 and Bill No.'s 297 and 3
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Hillier
 
@@ -1221,7 +1207,6 @@ The meeting adjourned at 5:01 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 73**

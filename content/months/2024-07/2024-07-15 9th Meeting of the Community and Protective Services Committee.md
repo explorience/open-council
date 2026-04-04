@@ -25,11 +25,9 @@ July 15, 2024, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -427,7 +425,6 @@ Motion to approve the main motion as amended.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION MEETING - Renovictions - Renovation License and Relocation By-law Changes - Public Comments Received (To Date)
 
@@ -565,7 +562,6 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillors H. McAlister and D. Ferreira - City-Operated Long Term Care Facility (Dearness Home)
 
@@ -593,11 +589,9 @@ b)    the Civic Administration BE DIRECTED to present a report on potential ex
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by H. McAlister
 
@@ -633,7 +627,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:53 PM.
 

@@ -14,11 +14,9 @@ September 17, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan disclosed a pecuniary interest in parts of clause 3.2 of this report, having to do with a presentation related to Bus Rapid Transit, by indicating that his employer, Western University, has previously stated preferences related to this matter in terms of desired vehicle requirements.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;London Community Grants Program Innovation and Capital Funding Allocations (2019)
 
@@ -118,7 +116,6 @@ That, on the recommendation of the City Manager and the Managing Director, Corpo
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Amendments to Consolidated Fees and Charges By-law
 
@@ -341,7 +338,6 @@ d)     the Civic Administration BE DIRECTED to work with the London Transit 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Convention Centre Board Appointments
 
@@ -375,7 +371,6 @@ That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Core Area Informed Response 
 
@@ -460,7 +455,6 @@ b)             clause 1.1 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (enclosed for Members only.)
 
 That the Strategic Priorities and Policy Committee convene in closed session for the purpose of considering the following matter:
 
@@ -472,7 +466,6 @@ The Strategic Priorities and Policy Committee convened in closed session from 9:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:42 PM.
 

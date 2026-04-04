@@ -15,13 +15,11 @@ February 13, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, B. Card, S. Datars Bere, K. Graham, M. Hayward, V. McAlea Major, J.P. McGonigle, D. Mounteer, M. Ribera, C. Saunders, K. Scherr, J. Smout, J. Tansley, A. Thompson, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -51,7 +49,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Asset Review: London Hydro Inc. - Discussion Paper
 
 That, on the recommendation of the Managing
@@ -90,7 +87,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Economic Partnership Advisory Panel
 
 That the Council Member position on the

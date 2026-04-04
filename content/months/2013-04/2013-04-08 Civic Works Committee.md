@@ -9,17 +9,14 @@ April 8, 2013, at  4:00 PM
 > [!abstract]- Present:
 > P. Van Meerbergen, M. Brown, S. Orser, H.L. Usher, S. White, J. Martin (Secretary)
 
-# 1.&nbsp;&nbsp;&nbsp;Members to disclose
   pecuniary interest(s) related to agenda items, if applicable.
 
-# 2.&nbsp;&nbsp;&nbsp;Director,
   Environment, Fleet and Sold Waste - Environmental Programs Update.
 
 Recommendation:  That, on the
   recommendation of the Director - Environment, Fleet and Solid Waste, the
   following report BE RECEIVED. (2013-E01)
 
-# 3.&nbsp;&nbsp;&nbsp;Director,
   Environment, Fleet and Solid Waste - Comments on Environmental Bill of Rights
   Registry Halton Recycling-Environmental Compliance Approval.
 
@@ -31,7 +28,6 @@ That, on the recommendation of the
   Bill of Rights Registry posting (EBR 011-8496) titled Halton Recycling Ltd.
 (2013-E02)
 
-# 4.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Contract Award :
   Tender No. T13-32 2013 Growth Management Implementation Strategy (GMIS)
   Southdale Road West Widening.
@@ -79,7 +75,6 @@ Recommendation:  That, on the
   effect to these recommendations.
 (2013-L04)
 
-# 5.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Contract Award:
   Tender No. 13-16 Meadowlily Footbridge Rehabilitation.
 
@@ -127,7 +122,6 @@ Recommendation:  That, on the
   effect to these recommendations. 
 (2013-L04)
 
-# 6.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Contract Award:
   Tender No. 13-18 2013 Arterial Road Rehabilitation Contract.
 
@@ -165,7 +159,6 @@ Recommendation:  That, on the
   effect to these recommendations.
 (2013-L04)
 
-# 7.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Single Source
   Supply and Delivery of Tractor Backhoe.
 
@@ -195,7 +188,6 @@ Recommendation:  That, on the
   approval.
 (2013-F18)
 
-# 8.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Contract Award:
   Tender No. 13-05 2013 Infrastructure Lifecycle Renewal Program Contract 4:
   Edward Street Reconstruction.
@@ -247,7 +239,6 @@ Recommendation:  That, on the
   effect to these recommendations. 
 (2013-L04)
 
-# 9.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Amendments to the
   Traffic and Parking By-law.
 
@@ -257,7 +248,6 @@ Recommendation:  That, on the
   INTRODUCED at the Municipal Council meeting to be held on April 16, 2013 for
   the purpose of amending the Traffic and Parking By-law (P.S. 111). (2013-C01)
 
-# 10.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Tender 13-36
   Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt.
 
@@ -291,7 +281,6 @@ e)         the Mayor and the City Clerk BE
   effect to these recommendations.
  (2013-L04)
 
-# 11.&nbsp;&nbsp;&nbsp;Director, Roads and
   Transportation - Pedestrians Crossing Richmond Street and Piccadilly Street.
 
 Recommendation:  That, on the
@@ -299,7 +288,6 @@ Recommendation:  That, on the
   TAKEN with respect to installing an intersection pedestrian signal on
   Richmond Street at Piccadilly Street.  (2013-T07)
 
-# 12.&nbsp;&nbsp;&nbsp;4:15 PM Public
   Pariticpation Meeting - Managing Director, Environmental and Engineer
   Services and City Engineer - Update on New Funding Model and By-law For
   Water, Wastewater and Stormwater Services.
@@ -329,7 +317,6 @@ c)         the report dated April 8, 2013
   with respect to these matters BE RECEIVED.
 (2013-C01)
 
-# 13.&nbsp;&nbsp;&nbsp;4:30 PM Managing
   Director, Environmental and Engineering Services and City Engineer -
   Environmental and Engineering Initiatives.
 

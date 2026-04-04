@@ -12,10 +12,8 @@ September 10, 2012, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Brown, J. P. Bryant, P. Hubert, J. Braam, A. Cook, A. Dunbar, M. Feldberg, B. Krichker, J. Logan, J. Lucas, D. MacRae, S. Maguire, A. Rozentals, J. Simon, J. Stanford, R. Welker, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Rate Structure
   Review - A New Funding Model for Water, Sanitary and Storm Drainage Charges
 
 Recommendation:  That, on the
@@ -24,7 +22,6 @@ Recommendation:  That, on the
   for a new funding model for water, sanitary and storm drainage charges BE
   RECEIVED for information. (2012-F17-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Annual Ministry of
   Environment Inspection of the City Water Distribution System
 
 Recommendation:  That, on the
@@ -33,7 +30,6 @@ Recommendation:  That, on the
   Environment inspection of the City Water Distribution System BE RECEIVED
   for information. (2012-W13-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Highway 401
   Highbury Avenue Interchange Reconstruction - Ministry of Transportation Class
   Environmental Assessment Addendum
 
@@ -46,7 +42,6 @@ Recommendation:  That, on the
   including the widening of Highbury Avenue to six lanes from Highway 401
   southerly to Wilton Grove Road. (2012-S07-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Design, Supply,
   Delivery and Installation of Urban Streetscape Planters Along Downtown Street
   Corridors (Request For Proposal 12-27)
 
@@ -77,7 +72,6 @@ d)         the
   formal contract or issuing a purchase order relating to the subject matter of
   this approval.  (2012-S03-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Traffic Signal
   Modifications (Tender 12-85 and Tender 12-91)
 
 Recommendation:  That, on the
@@ -129,7 +123,6 @@ f)         the
   other documents, if required, to give effect to these recommendations.
   (2012-S09-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Supply, Delivery
   and Installation of 2012 Fall Infill Street Trees (Tender 12-87)
 
 Recommendation:  That, on the
@@ -159,7 +152,6 @@ d)         the
   formal contract or issuing a purchase order relating to the subject matter of
   this approval. (2012-E05-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Landscaping at the
   Manning Drive Regional Material Recovery Facility (Tender 12-93)
 
 Recommendation:  That, on the
@@ -188,7 +180,6 @@ d)         the
   formal contract or issuing a purchase order relating to the subject matter of
   this approval. (2012-W08-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Contract Award -
   Street Lighting Replacement on King Street Between Richmond Street and
   Clarence Street (Tender 12-94)
 
@@ -228,7 +219,6 @@ d)         the
   other documents, if required, to give effect to these recommendations.
   (2012-S08-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award -
   Decommissioning of Historical Production Wells (Project No. EW3754)
 
 Recommendation:  That, on the
@@ -266,7 +256,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.  (2012-W13-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Single Source
   Supply and Installation of Screen Room Inlet Gates and Associated Works at
   Greenway Pollution Control Centre
 
@@ -295,7 +284,6 @@ d)         the
   formal contract or issuing a purchase order relating to the subject matter of
   this approval. (2012-W06-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Contract Award -
   Landfill Gas Collection and Flaring System Operation
 
 Recommendation:  That, on the
@@ -325,14 +313,12 @@ d)       the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations. (2012-W04-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Proposed Renaming of Kipps Lane
 
 Recommendation:  That NO ACTION BE TAKEN
   with respect to the communication dated August 17, 2012, from Professor D.
   Kerr, Department of Sociology, King's University College, 266 Epworth Avenue,
   relating to his suggestion to rename Kipps Lane to Damien Warner Avenue.  (2012-M00-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Bicycles on
   Sidewalks
 
 Recommendation:  That, on the
@@ -384,7 +370,6 @@ G. Brown, 59 Ridout Street – asking
        City; indicating that he has had four broken bones because of impacts
        with cars; and noting that he lived in Holland for 5 years.  (2012-S08-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Concerns with
   London Hydro
 
 Recommendation:  That the communication

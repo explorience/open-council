@@ -15,7 +15,6 @@ May 29, 2017, at  4:03 PM
 > [!abstract]- Also Present:
 > M. Hayward, R. Armistead, A.L. Barbon, G. Barrett, B. Card, B. Coxhead, C. Crossman, S. Datars Bere, J.M. Fleming, K. Graham, G. Kotsifas, L. Livingstone, V. McAlea Major, J.P. McGonigle, D. Mounteer, D. O’Brien, K. Pawelec, C. Saunders, K. Scherr, C. Smith, S. Spring, S. Stafford, B. Warner, P. Yeoman
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan:
   Semi-Annual Progress Report
 
 That, on the recommendation of the City
@@ -70,7 +69,6 @@ Motion Failed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Update on Service
   Review Initiatives
 
 That, on the recommendation of the City
@@ -226,7 +224,6 @@ That, the staff report dated May 29, 2017
   with respect to improving collaboration with local boards and commissions, BE
   REFERRED back to the Civic Administration for further consideration.
 
-# 8.&nbsp;&nbsp;&nbsp;London Hydro Inc. -
   2016 Annual Meeting of the Shareholder - Annual Resolutions
 
 That, on the recommendation of the City
@@ -272,7 +269,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Special Events
   Policy and Procedure Manual - Potential for the Re-Instatement of Penalties
   and Procedural Changes
 
@@ -355,7 +351,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation (Requires 3 Board of Directors)
 
 That the following actions be taken with

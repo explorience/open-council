@@ -17,11 +17,9 @@ March 26, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen, E. Peloza (at 4:30 PM) and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.3&nbsp;&nbsp;&nbsp;2024 Assessment Growth Funding Allocation
 
@@ -52,11 +50,9 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the 20
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Member)
 
@@ -892,7 +888,6 @@ c)    pursuant to s.11.10 of the Council Procedure By-law, Council BE PERMITTE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request for Support for the Thames Valley District School Board - Councillors C. Rahman and A. Hopkins
 
@@ -925,11 +920,9 @@ That the Mayor BE REQUESTED to send a further communication on behalf of London 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

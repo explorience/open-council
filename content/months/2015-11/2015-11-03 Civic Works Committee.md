@@ -15,7 +15,6 @@ November 3, 2015, at  4:04 PM
 > [!abstract]- Also Present:
 > M. Cassidy, A. Hopkins, J. Morgan, J. Zaifman; J. Braam, B. Coxhead, A. Drost, A. Dunbar, D. Huggins, J. Lucas, A. Macpherson, D. MacRae, S. Maguire, S. Mathers, D. Mounteer, J. Parsons, L. Rowe, S. Spring, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley
@@ -24,7 +23,6 @@ That it BE NOTED that Councillor V. Ridley
   Resources Gas Franchise Agreement, by indicating that her spouse’s employment
   directly relates to gas distribution.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Transportation Advisory Committee
 
 That the 5th Report of the Transportation
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law with respect to Designating Bicycle Lanes
 
 That, on the recommendation of the Managing
@@ -72,7 +69,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -98,7 +94,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Inspection, Contract Administration and
   Engineering Services for the Greenway Wastewater Treatment Plant - Preheater,
   Reheater, Incinerator Dome Replacement and Incinerator Annex Building HVAC
@@ -152,7 +147,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Single Source for
   Pump Replacement at the Wonderland Pumping Station
 
 That, on the recommendation of the Managing
@@ -246,7 +240,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Design and Construction of Stormwater Management
   Facilities
 
@@ -344,7 +337,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Replacement of
   Street Sweepers - Single Source Procurement #15-45
 
 That, on the recommendation of the Managing
@@ -393,7 +385,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Kiwanis Park
   Pathway Connection Across Canadian National Railway Detailed Design
   Appointment of Consulting Engineer
 
@@ -440,7 +431,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Commissioners Road
   West Realignment Environmental Assessment Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -486,7 +476,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Establishment of
   W12A Landfill Public Liaison Committee - Point of Source Water Treatment
   Program
 
@@ -533,7 +522,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Parking Strategy
   for Downtown London: Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -579,7 +567,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;RFP-15-42 Yard
   Material Waste Composting - Irregular Bid
 
 That, on the recommendation of the Managing
@@ -644,7 +631,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Program Enhancements
 
 That, on the recommendation of the Managing
@@ -684,7 +670,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;2015 External Audit
   of London's Drinking Water Quality Management System and 2015 Management
   Review
 
@@ -710,7 +695,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Endorsement of
   Revised Operational Plan for London's Drinking Water System
 
 That, on the recommendation of the
@@ -740,7 +724,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Renewal of the Lead
   Service Extension Replacement Loan Program
 
 That, on the recommendation of the Managing
@@ -767,7 +750,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Free Parking in
   December
 
 That, on the recommendation of the Managing
@@ -827,7 +809,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with

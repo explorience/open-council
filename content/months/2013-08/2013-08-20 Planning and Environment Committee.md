@@ -12,7 +12,6 @@ August 20, 2013, at  4:04 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, M. Brown, J.P. Bryant, H.L. Usher, G. Barrett, A. Brea-Watson, M. Corby, M. Davis, J.M. Fleming, I. Gibb, T. Grawey, B. Henry, M. Johnson, T. Karidas, P. Kokkoros, G. Kotsifas, E. Lalande, I. Listar, A. MacLean, A. Macpherson, D. MacRae, J. Page, C. Saunders, R. Sharpe, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor W.J.
   Polhill disclosed a pecuniary interest in clause 16 of this report, having to
   do with the application by the City of London, relating to the Veterans
   Memorial Parkway, by indicating that he lives in the area.
@@ -23,7 +22,6 @@ That it BE NOTED that Councillor N.
   Memorial Parkway, by indicating that her spouse owns property in the Oxford
   Street/Veterans Memorial Parkway area.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 3700 Colonel Talbot Road and 3645 Bostwick Road (O-7609)
 
 Recommendation:  That, on the
@@ -69,7 +67,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   260 Sarnia Road (Z-8075)
 
 Recommendation:  That, on the
@@ -96,7 +93,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
 
@@ -415,7 +411,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Heritage Conservation Study Area
 
 Recommendation:  That, on the
@@ -468,7 +463,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   699 Wonderland Road North (H-8212)
 
 Recommendation:  That, on the recommendation
@@ -498,7 +492,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for June 2013
 
 Recommendation:  That the Building Division
@@ -520,7 +513,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That, the following
@@ -576,7 +568,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;7th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That, the following
@@ -623,7 +614,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 407 McMahen Street and portions of 652, 654 and 656 Elizabeth Street
   (Z-8182)
 
@@ -668,7 +658,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   432 Grey Street (Z-8200)
 
 Recommendation:  That, on the
@@ -727,7 +716,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   275 Callaway Road
 
 Recommendation:  That, on the
@@ -763,7 +751,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;City-Wide Day Care
   Centres in Schools (Z-8211)
 
 Recommendation:  That, on the
@@ -804,7 +791,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   1166 Hamilton Road
 
 Recommendation:  That, on the
@@ -838,7 +824,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway South Extension (OZ-8195)
 
 Recommendation:  That, on the recommendation
@@ -885,7 +870,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway (Z-8194)
 
 Recommendation:  That, on the
@@ -987,7 +971,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   982 Gainsborough Road (Z-8178)
 
 Recommendation:  That, on the
@@ -1312,7 +1295,6 @@ Motion Passed
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Secondary Dwelling
   Units (OZ-8053)
 
 Recommendation:  That, on the
@@ -1357,7 +1339,6 @@ Motion Passed
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Proposed
   Stoneycreek Pathway
 
 Recommendation:  The S. Evoy, 29
@@ -1381,7 +1362,6 @@ Motion Passed
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Tricar
   Subdivision (Phase 2) - 39T-11504
 
 Recommendation:  That C. Linton,
@@ -1405,7 +1385,6 @@ Motion Passed
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Near-Campus
   Neighbourhood Amendments (Z-8218)
 
 Recommendation:  That, on the
@@ -1461,7 +1440,6 @@ Motion Passed
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at 13 Blackfriars Street
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Planning and City Planner, the

@@ -17,7 +17,6 @@ March 25, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -27,11 +26,9 @@ b)     Councillor J. Morgan discloses a pecuniary interest in Item 4.1, I
 
 c)     Councillor J. Helmer discloses a pecuniary interest in Item 4.1, Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects, specific to the North Connection, by indicating that the project has a direct financial impact on Western University where he is employed as a graduate teaching assistant.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:05 PM - 2019 Development Charges Covering Report and Proposed By-law
 
@@ -181,7 +178,6 @@ it being noted that the Strategic Priorities and Policy Committee received the f
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
@@ -762,11 +758,9 @@ That the staff report and communications with respect to this matter BE RECEIVED
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 11:16 PM.
 

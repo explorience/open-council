@@ -15,7 +15,6 @@ November 14, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Morgan, H.L. Usher; J. Adema, G. Barrett, B. Debbert, L. Dent, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, M. Henderson, J. Lucas, G. Kotsifas, J. MacKay, A. MacLean, A. Macpherson, L. Mottram, J. Ramsay, A. Riley, C. Saunders, C. Smith, S. Spring, R. Sutton, M. Tomazincic, B. Warner, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor P. Squire
@@ -24,7 +23,6 @@ That it BE NOTED that Councillor P. Squire
   the property located at 806 Victoria Street, by indicating that his wife works
   for the Diocese of London.
 
-# 2.&nbsp;&nbsp;&nbsp;11th Report of the
   Advisory Committee on the Environment
 
 That the 11th Report of the Advisory
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   Trees and Forests Advisory Committee
 
 That the 10th Report of the Trees and
@@ -70,7 +67,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   3260 Singleton Avenue (H-8668)
 
 That, on the recommendation of the Planner
@@ -125,7 +121,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   805 Killarney Road (Part Block 141 in Plan 33M-580) (P-8612)
 
 That, on the recommendation of the Senior
@@ -152,7 +147,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Downtown Business
   Improvement Area and Old East Village Community Improvement Area - Result of
   Appeal to the Ontario Municipal Board (Z-8625)
 
@@ -178,7 +172,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 1300 Fanshawe Park Road East (H-8692)
 
 That, on the recommendation of the Senior
@@ -208,7 +201,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 185 and 199 Commissioners Road East (39T-108501/Z-8682)
 
 That the following actions be taken with
@@ -340,7 +332,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   607 Wellington Road (Z-8681)
 
 That, on the recommendation of the Managing
@@ -453,7 +444,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
 
 That, on the recommendation of the Senior
@@ -678,7 +668,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635)
 
 That, on the recommendation of the Managing
@@ -810,7 +799,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 1577 and 1687 Wilton Grove Road (OZ-8667)
 
 That, on the recommendation of the Managing
@@ -949,7 +937,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   806 Victoria Avenue
 
 That, on the recommendation of the Managing
@@ -1024,7 +1011,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   58 Sunningdale Road West (39T-16503/OZ-8637)
 
 That the
@@ -1130,7 +1116,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) 11th Report
   of the London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -1320,7 +1305,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED)  Intensification/Primary Transit
   Area
 
 That Civic Administration BE DIRECTED to

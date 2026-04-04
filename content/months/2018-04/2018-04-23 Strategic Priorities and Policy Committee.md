@@ -20,7 +20,6 @@ April 23, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -30,11 +29,9 @@ b)               Councillor S. Turner disclosed a pecuniary intere
 
 c)               Councillor J. Morgan disclosed a pecuniary interest in clause 4.1 of this Report having to do with the Bus Rapid Transit Environmental Assessment Initiative, particularly as it relates to subsection a)i) regarding the North leg of the project, as well as those portions of parts b), c), d), g) and h) pertaining to that portion of the project, by indicating that this leg of the project passes through the vicinity of his employer, Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
 
@@ -242,7 +239,6 @@ Motion to Approve that the Public Participation Meeting BE CLOSED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Bus Rapid Transit – Environmental Assessment Initiative 
 
@@ -365,11 +361,9 @@ That the communication dated April 15, 2018, from Councillor M. van Holst, reque
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:16 PM.
 

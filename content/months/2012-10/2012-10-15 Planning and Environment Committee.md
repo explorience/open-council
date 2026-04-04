@@ -12,20 +12,17 @@ October 15, 2012, at  4:06 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, D. Brown, M. Brown, P. Hubert, H.L. Usher, G. Barrett, J. Braam, P. Christiaans, T. Copeland, A. Dunbar, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, T. Karidas, G. Kotsifas, B. Krichker, I. Listar, S. Mathers, H. McNeely, D. Menard, N. Musicco, J. Page, C. Parker, J. Ramsay, M. Ribera, A. Riley, E. Saldo, C. Saunders, J. Shaughnessy, C. Smith, B. Warner, S. Wise, J. Yanchula, P. Yeoman, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor J.B. Swan disclosed a
   pecuniary interest in clause 8 of this Report having to do with the
   application of S. Farhi, Farhi Holdings Corporation, relating to the property
   located at 199 Queens Avenue, by indicating that his employer leases property
   owned by Farhi Holdings Corporation.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Agricultural Advisory Committee from its meeting held on September 19, 2012, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1030 Oakcrossing Gate (H-8081)
 
 Recommendation:  That, on the
@@ -39,7 +36,6 @@ Recommendation:  That, on the
   a Residential R4/R5/R6 (R4-6(3)/R5-6(3)/R6-5(20)) Zone, to remove the h-65
   holding provision. (2012-D11-04)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   280 Callaway Road (P-8093)
 
 Recommendation:  That, on the
@@ -109,7 +105,6 @@ d)         the applicant BE ADVISED
   that the cost of registration of this by-law is to be borne by the applicant
   in accordance with City policy.   (2012-D25-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   2280 Wickerson Road (39T-00519)
 
 Recommendation:  That, on the
@@ -134,7 +129,6 @@ b)         the
   “Estimated Claims and  Revenues Report” provided as Appendix “A” to the
   associated staff report, dated October 15, 2012.  (2012-D26-03)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   2332 Wickerson Road (39T-08507)
 
 Recommendation:  That, on the
@@ -161,7 +155,6 @@ b)         the
   “Estimated Claims and  Revenues Report” provided as Appendix “A” to the
   associated staff report, dated October 15, 2012.   (2012-D26-04)
 
-# 7.&nbsp;&nbsp;&nbsp;Development Charges
   Background Study Amendments: SWMF SA-2 and SWMF SB
 
 Recommendation:  That, on the
@@ -190,7 +183,6 @@ it being noted that SWMF SA-2 is not
   required to service any development within the current Urban Growth Boundary.  
   (2012-F06-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   199 Queens Avenue
 
 Recommendation:   That, the following
@@ -233,7 +225,6 @@ it being pointed out that the
   Cormier, on behalf of A.R. Patton, Patton Cormier & Associates and M.
   Manuel and B. Mortimer, London Music Hall, with respect to this matter.  (2012-D10-00)
 
-# 9.&nbsp;&nbsp;&nbsp;1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That, the following
@@ -283,7 +274,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from D.
   Sheppard, Chair, EEPAC, with respect to these matters.
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following actions
@@ -317,7 +307,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from B. Shiell,
   Chair, TFAC, with respect to these matters.
 
-# 11.&nbsp;&nbsp;&nbsp;Beaufort/Irwin/Gunn/Saunby/Essex
   ("BIGS") Street Neighbourhood Plan
 
 Recommendation:  That, on the
@@ -332,7 +321,6 @@ it being noted that the Planning and
   Carabott and A. Harrington, Peter J. Smith & Company, Inc., with respect
   to this matter. (2012-D11-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   699 Village Green Avenue (Z-8072)
 
 Recommendation:  That, on the
@@ -355,7 +343,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.  (2012-D11-03)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   3278 Colonel Talbot Road (39CD-12511)
 
 Recommendation:  That, on the
@@ -391,7 +378,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2012-D11-05)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   205 Commissioners Road West
 
 Recommendation:  That, on the
@@ -415,7 +401,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter. (2012-D25-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   2332 Main Street
 
 Recommendation:  That, on the
@@ -442,7 +427,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.    (2012-D10-00)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   1476 Aldersbrook Road (OZ-8069)
 
 Recommendation:  That, on the
@@ -494,7 +478,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2012-D11-05)
 
-# 17.&nbsp;&nbsp;&nbsp;City of London
   Growth Projections 2011-2041
 
 Recommendation:  That, on the
@@ -515,7 +498,6 @@ it being pointed out that the Planning and
   Environment Committee received the attached presentation from P.
   Norman, Altus Group Economic Consulting, with respect to this matter.   (2012-D18-00)
 
-# 18.&nbsp;&nbsp;&nbsp;Highland Ridge
   Subdivision - Phase 2 (39T-07503)
 
 Recommendation:  That, on the
@@ -548,7 +530,6 @@ it being further noted that the Planning
   and Environment Committee heard a verbal presentation from C. Linton, Norquay
   Developments, with respect to this matter.   (2012-D26-03)
 
-# 19.&nbsp;&nbsp;&nbsp;Properties located
   at 8 Fairview Court and 770 Whetter Avenue (OZ-8055)
 
 Recommendation:  That, on the
@@ -791,7 +772,6 @@ it being pointed out that at the public
   Zimmer, 118 Fairview Avenue - enquiring where the children are going to play.   
    (2012-D11-06)
 
-# 20.&nbsp;&nbsp;&nbsp;Southwest Area
   Secondary Plan (O-7609)
 
 Recommendation:  That, the Civic
@@ -1065,7 +1045,6 @@ it being pointed out that at the public
   have not been incorporated into this version of the SWAP; indicating that
   there will be a further submission on behalf of his clients.    (2012-D11-09/2)
 
-# 21.&nbsp;&nbsp;&nbsp;Stanton Drain
 
 Recommendation:  That, on the
   recommendation of the Managing Director Environmental and Engineering

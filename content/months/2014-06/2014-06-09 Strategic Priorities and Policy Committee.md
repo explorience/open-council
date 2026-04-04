@@ -15,7 +15,6 @@ June 9, 2014, at  6:26 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, P. Christiaans, J.M. Fleming, M. Hayward, G.T. Hopcroft, P. Kokkoros, J. Lucas, S. Mathers, M. Ribera, C. Saunders, E. Soldo, P. Yeoman
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Development
   Charges By-law
 
 Voting Record:

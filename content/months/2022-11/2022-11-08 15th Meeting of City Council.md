@@ -17,21 +17,17 @@ November 8, 2022, at  4:00 PM
 
 The meeting is called to order at 4:05 PM; it being noted that the following member was in remote attendance: Councillor S. Turner.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Hillier discloses a pecuniary interest in Item 5 (clause 5.1) of the 12th Report of the Community and Protective Services Committee, having to do with the Deferred Matters List, specifically related to item number 1 on the list, by indicating that his family hosts a five-day event.
 
 Councillor J. Helmer discloses a pecuniary interest in Item 4 (clause 2.3) of the 12th Report of the Community and Protective Services Committee, having to do with Former River Road Golf Course - Plans for Ownership and Municipal Use, by indicating that his family member is employed by a golf course.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Hillier
 
@@ -71,7 +67,6 @@ The Council convenes In Closed Session, from 4:13 PM to 4:16 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;14th Meeting held on October 17, 2022
 
@@ -105,15 +100,12 @@ That the Minutes of the 14th Meeting held on October 17, 2022, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Community and Protective Services Committee
 
@@ -442,7 +434,6 @@ That, prior to the end of Q1 of 2023, the Civic Administration BE DIRECTED to re
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.2&nbsp;&nbsp;&nbsp;15th Report of the Strategic Priorities and Policy Committee
 
@@ -562,19 +553,15 @@ b)  clauses 1.1, 2.1 and 2.2 BE RECEIVED.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lehman
 
@@ -660,7 +647,6 @@ That Third Reading and Enactment of Bill No.'s 383 to 390, inclusive, BE APPROVE
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
 
@@ -674,7 +660,6 @@ The meeting adjourned at 6:10 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 383**

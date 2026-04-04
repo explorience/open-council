@@ -17,13 +17,11 @@ September 8, 2020, at  4:00 PM
 
 The meeting is called to order at 4:01 PM, with Councillor M. Cassidy in the Chair and Councillor Hopkins present; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors J. Helmer, S. Turner and A. Kayabaga
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -272,7 +270,6 @@ That, on the recommendation of the Director, Development Services, based on the 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application - 1176, 1200, 1230 Hyde Park Road and Portion of 1150 Gainsborough Road 39T-19502 (Z-9040)
 
@@ -567,7 +564,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;5th Report of the London Advisory Committee on Heritage 
 
@@ -640,7 +636,6 @@ h) clauses 1.1, 3.1 to 3.4, inclusive, BE RECEIVED for information.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -665,7 +660,6 @@ That the Managing Director, Planning and City Planner and the Managing Director,
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege/Litigation or Potential Litigation
 
@@ -694,7 +688,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 5:46 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:13 PM.
 

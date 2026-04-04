@@ -15,13 +15,11 @@ May 26, 2014, at  7:02 PM
 > [!abstract]- Also Present:
 > B. Polhill, S. Orser, S. Datars Bere, H. Chapman, S. Giustizia, O. Katolyk, L. Livingstone, L. Marshall, R. Oke, M. Ribera, J. Smout, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;School Crossing
   Guard Program
 
 Recommendation:  That the following actions
@@ -111,7 +109,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Execution of
   Documents between The Corporation of the City of London and the South West
   Local Health Integration Network (LHIN) and the Ministry of Health and Long
   Term Care
@@ -127,7 +124,6 @@ Recommendation:  That, on the
   with Her Majesty the Queen in Right of Ontario (Minister of Health and
   Long-Term Care). (2014-L04)
 
-# 4.&nbsp;&nbsp;&nbsp;By-law to Repeal
   the Delegation of Certain Duties Under the Long-Term Care Homes Act, 2007
 
 Recommendation:  That, on the
@@ -143,7 +139,6 @@ Recommendation:  That, on the
   the Managing Director, Housing, Social Services and Dearness Home carries the
   responsibility under the Long Term Care Homes Act, 2007.  (2014-C01/S03)
 
-# 5.&nbsp;&nbsp;&nbsp;2013-2016
   Multi-Sector Service Accountability Agreement Dearness Home Adult Day Program
   and the South West Local Health Integration Network Declaration of Compliance
   - October 1, 2013 - March 21, 2014
@@ -157,7 +152,6 @@ Recommendation:  That, on the
   October 1, 2013 to March 31, 2014. 
 (2014-L04)
 
-# 6.&nbsp;&nbsp;&nbsp;Expanded Animal
   Welfare Initiatives
 
 Recommendation:  That on the recommendation
@@ -190,7 +184,6 @@ b)         the
   report dated May 26, 2014 with respect to RFP 14-17 Veterinary Services, BE
   RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;By-law Amendments
   for Expanding Animal Welfare Initiatives
 
 Recommendation:  That on the recommendation
@@ -296,7 +289,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   Council Housing Leadership Committee
 
 Recommendation:  That the following actions
@@ -383,7 +375,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -435,7 +426,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Town and Gown
   Committee
 
 > Moved by the Neighbourhood Association creates prices
@@ -510,7 +500,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;H. Hussein, Project
   Coordinator, London and Middlesex Local Immigration Partnership Project
 
 Recommendation:  That the request of H.

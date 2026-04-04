@@ -12,10 +12,8 @@ January 19, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Hopkins, V. Ridley, H. Usher, M. Van Holst, G. Barrett, P. Christiaans, M. Corby, M. Davis, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, B. Henry, A. Macpherson, A. MacLean, D. Menard, D. Mounteer, B. O’Hagan, J. Ramsay, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   1452 Byron Baseline Road (H-8444)
 
 Recommendation:  That, on the
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1820 Woodhull Road - Amendment to Special Provisions - Bournewood Subdivision
   (39T-03511)
 
@@ -93,7 +90,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters – Planning
 
 That, the attached orientation from
@@ -116,7 +112,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Municipality of
   Thames Centre Official Plan Review
 
 Recommendation:  That, the Civic
@@ -143,7 +138,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Funding Agreement
   with the National Trails Coalition for Implementation of the Coves
   Environmentally Significant Area Master Plan
 
@@ -184,7 +178,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 51 and 99 Exeter Road - Notice of Appeal to the Ontario Municipal Board
   (OZ-8324)
 
@@ -214,7 +207,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Urban Design Manual
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Planning and City Planner, the Draft
@@ -311,7 +303,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 305, 309 and 315 Southdale Road West (OZ-8320)
 
 Recommendation:  That, on the
@@ -486,7 +477,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   3680 Wonderland Road South (Z-8431)
 
 Recommendation:  That, on the
@@ -573,7 +563,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Development Services
 
 Recommendation: That, the orientation presentation
@@ -596,7 +585,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1576 Richmond Street
 
 Recommendation:      That, the Heritage

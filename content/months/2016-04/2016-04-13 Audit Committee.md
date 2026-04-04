@@ -12,13 +12,11 @@ April 13, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer; A. Zuidema, A.L. Barbon, K. den Bok (KPMG), I. Jefferies (KPMG), S. Spring, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;RFP Process for
   Internal and External Audit Services
 
 That the following actions be taken with

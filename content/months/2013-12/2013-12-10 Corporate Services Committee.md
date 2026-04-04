@@ -15,7 +15,6 @@ December 10, 2013, at  1:04 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, N. Branscombe, S. Orser; J.P. Barber, J. Braam, B. Coxhead, S. Datars Bere, K. Dawtrey, A. Dunbar, M. Hayward, G. Kotsifas, J. Lajoie, A. Macpherson, V. McAlea Major, D. Mounteer, D. O’Brien, C. Saunders, R. Sharpe, M. Turner, B. Warner, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -24,7 +23,6 @@ Recommendation:  That it BE NOTED that
   Municipal Election with respect to funding a Performing Arts Centre by
   indicating that his employer, Orchestra London, is a proponent.
 
-# 2.&nbsp;&nbsp;&nbsp;Submission of
   Questions on Ballot - 2014 Municipal Election
 
 Recommendation:  That, on the
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Use of Corporate
   Resources for Election Purposes
 
 Recommendation:  That, on the
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Annual Report -
   2012 Risk Management Services
 
 Recommendation:  That, on the
@@ -96,7 +92,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Expropriation of
   Lands - Veterans Memorial Parkway South Extension - TS1325
 
 Recommendation:  That, on the
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Declare Surplus
   City-Owned Land Adjacent to 47 and 49 Agincourt Gardens
 
 Recommendation:  That, notwithstanding the
@@ -188,7 +182,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Declare Surplus
   City-Owned Land Adjacent to 33, 37,41,45, 49, 53 and 57 Stoneycreek Crescent
 
 Recommendation:  That, notwithstanding the
@@ -233,7 +226,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 28(1) Travel and Business Expenses
 
 Recommendation:  That, on the
@@ -260,7 +252,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Procurement of
   Goods and Services Policy Revisions
 
 Recommendation:  That, on the
@@ -296,7 +287,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2013 Capital Budget
   Status - Third Quarter Report
 
 Recommendation:  That on the recommendation
@@ -320,7 +310,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - 2013
   Operating Budget Status - Third Quarter Report
 
@@ -420,7 +409,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Extension of Realty
   Services - Agency of Record Agreement
 
 Recommendation:  That, on the
@@ -450,7 +438,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Sherwood Forest
   Public School - Stakeholder Consultation Process
 
 Recommendation:  That the following actions
@@ -483,7 +470,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Accessibility for
   Ontarians with Disabilities Act Compliance
 
 Recommendation:  That, on the
@@ -508,7 +494,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and Chief Human Resources Officer - Security Services
 
 Recommendation:  That, on the
@@ -556,7 +541,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Agreements between
   the City of London and Fanshawe College for Mutual Benefit at Market Lane
 
 Recommendation:  That, on the
@@ -585,7 +569,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Request for Write Off
   of Miscellaneous and Dearness Home Accounts Receivable
 
 Recommendation:  That, on the
@@ -595,7 +578,6 @@ Recommendation:  That, on the
   2013, to the Allowance for Doubtful Accounts, in accordance with the
   Uncollectible Accounts Receivable Policy.
 
-# 18.&nbsp;&nbsp;&nbsp;(ADDED) Participation of Young Women in
   Civics and Government
 
 Recommendation:  That the Civic

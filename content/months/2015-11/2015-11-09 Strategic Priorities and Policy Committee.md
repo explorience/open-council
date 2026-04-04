@@ -12,7 +12,6 @@ November 9, 2015, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, J. Braam, P. Christiaans, S. Corman, B. Coxhead, C. Crossman, S. Datars Bere, A. Dunbar, C. Dziedzec, M. Feldberg, J.M. Fleming, S. Galloway, K. Graham, A. Hagan, M. Hayward, K. Huner, L. Livingstone, L. Loubert, D. MacRae, V. McAlea Major, R. Paynter, B Perlman, M. Ribera, C. Saunders, J. Stanford, B. Westlake-Power, P. Yeomans
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -32,7 +31,6 @@ b)           
   as noted in the Confidential Appendix to the 24th Report of the Strategic
   Priorities and Policy Committee.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Annual Report
   - Development Charges Reserve Funds
 
 That, on the recommendation of the Managing
@@ -75,7 +73,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Development Charges
   Rate Monitoring - 2015 Review
 
 That, on the recommendation of the Managing
@@ -108,7 +105,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Ontario Cultural
   Strategy Discussion Paper Submission
 
 That, on the recommendation of the
@@ -154,7 +150,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Public Participation
   Meeting - Amendments to Consolidated Fees and Charges By-law
 
 That, on the recommendation of the City
@@ -246,7 +241,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London's Community
   Economic Road Map
 
 That, on the recommendation of the City
@@ -352,7 +346,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
   Update
 
 That, on the recommendation of the City
@@ -471,7 +464,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation Board of Directors
 
 That the following actions be taken with
@@ -578,7 +570,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment of
   Deputy Mayor Appointed by Municipal Council
 
 That Councillor M. Cassidy be appointed as
@@ -611,7 +602,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Committee
   Appointment Preferences submitted by Council Members
 
 That the following appointments be made to
@@ -725,7 +715,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;7th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -857,7 +846,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Additional “As Needed” SPPC Meeting Dates
 
 That the following additional SPPC meeting
   dates BE APPROVED on an “as needed” basis:

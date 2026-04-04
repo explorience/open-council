@@ -12,10 +12,8 @@ June 15, 2015, at  4:30 PM
 > [!abstract]- Also Present:
 > M. van Holst, M. Salih, A. Hopkins, V. Ridley, T. Park, G. Barrett, D. Dobson, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, A. MacLean, A. Macpherson, J. Ramsay, M. Tomazincic, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary interest
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   447 Old Wonderland Road
 
 That, the following actions be taken with
@@ -52,7 +50,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Talbot Village
   Subdivision - Phase 4 - Special Provisions for the Subdivision Agreement
   (39T-13504)
 
@@ -96,7 +93,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Community
   Foundation, re Back to the River
 
 That, on the recommendation of the Managing
@@ -156,7 +152,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 4366 & 4402 Colonel Talbot Road (Z8461)
 
 That, on the recommendation of the Managing
@@ -227,7 +222,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   120 Weston Street (Z-8475)
 
 That, on the recommendation of the Managing
@@ -266,7 +260,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   348 Sunningdale Road East - Request for Demolition
 
 That, on the recommendation of the Managing
@@ -308,7 +301,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1192 Highbury Avenue North (OZ-8463)
 
 That, on the recommendation of the Managing
@@ -395,7 +387,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;8th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -523,7 +514,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   183 King Street - Request for Demolition
 
 That the following actions be taken with
@@ -591,7 +581,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Delayed Planning and Development
   Applications
 
 That the Civic Administration BE DIRECTED

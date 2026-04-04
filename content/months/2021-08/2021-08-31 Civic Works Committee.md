@@ -25,11 +25,9 @@ August 31, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Morgan discloses a pecuniary interest with respect to Item 2.15, having to do with the Participation in the South London Air Monitoring Network Pilot Project by indicating that part of the funding for this project will go to Western University, which is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -446,11 +444,9 @@ g)        Civic Administration BE AUTHORIZED to work with Western University
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;7th Report of the Transportation Advisory Committee
 
@@ -549,7 +545,6 @@ That the request for delegation status from the following individuals BE APPROVE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -603,7 +598,6 @@ c)         clauses 1.1, 2.1, 3.1, and 3.3 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:12 PM.
 ---

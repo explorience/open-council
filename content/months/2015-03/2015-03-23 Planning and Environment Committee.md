@@ -12,13 +12,11 @@ March 23, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Morgan, V. Ridley, M. Salih, H.L. Usher, M. van Holst, J. Zaifman, G. Barrett, E. Conway, A. DeCicco, C. Dziedzic, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, M. Johnson, G. Kotsifas, I. Listar, T. MacBeth, J. MacKay, A. MacLean, A. Macpherson, D. Menard, L. Mottram, J. Ramsay, C. Saunders, C. Smith, E. Soldo, S. Spring, M. Tomazincic, B. Turcotte, A-B Watson, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor J. Helmer disclosed
   a pecuniary interest in clause 12 of this Report, having to do with the
   improvements to the public engagement in planning process as it relates to
   increased mailing of planning notices, by indicating that his spouse is
   employed by Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 That the 2nd Report of the Trees and
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Million Tree
   Challenge Status Update
 
 That, the report dated March 23, 2015, from
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Extension of Draft
   Plan of Subdivision Approval (39T-02502)
 
 That, on the recommendation of the Senior
@@ -106,7 +102,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Annual Report on
   Building Permit Fees
 
 That, the report dated March 23, 2015, from
@@ -132,7 +127,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for January 2015
 
 That, the Building Division Monthly Report
@@ -155,7 +149,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Fibre-Optic
   Connection Grant Pilot Program for Downtown London
 
 That, on the recommendation of the Managing
@@ -238,7 +231,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   1925 Culver Drive and 585, 587 and 589 Clarke Road (Z-8437)
 
 That, on the recommendation of the Managing
@@ -318,7 +310,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   2081 Wallingford Avenue (SP14-038425)
 
 That, the following actions be taken with
@@ -426,7 +417,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 895 and 905 Sarnia Road North Portion (39T-14501/Z-8395)
 
 That, on the recommendation of the Senior
@@ -597,7 +587,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Lands south of
   Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth  (O-8014/O-8362)
@@ -1051,7 +1040,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Improvements to
   Public Engagement in the Planning Process
 
 That, on the recommendation of the Managing
@@ -1150,7 +1138,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   1576 Richmond Street (SP14-025702)
 
 That, on the recommendation of the Manager,
@@ -1253,7 +1240,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Delegated Authority
   for Heritage Alteration Permits
 
 That, the request for the delegation of
@@ -1329,7 +1315,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Riverbend South
   Secondary Plan - Application for Approval of Draft Plan of Subdivision -
   Official Plan and Zoning By-law Amendments (39T-14505/OZ-8426)
 
@@ -1570,7 +1555,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;5th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with

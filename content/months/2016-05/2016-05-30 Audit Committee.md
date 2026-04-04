@@ -12,10 +12,8 @@ May 30, 2016, at  8:04 AM
 > [!abstract]- Also Present:
 > J. Helmer; J.P. Barber, A.L. Barbon, J. Braam, K. den Bok (KPMG), M. Hayward, I. Jefferies (KPMG), V. McAlea Major, D. McLean (PwC), C. Shah (PwC), C. Smith, J. Smout, S. Swance, M. Tomazincic
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Internal Audit
   Services
 
 That, on the recommendation of the Managing
@@ -37,7 +35,6 @@ it being noted that the Audit Committee
   received the attached presentation from A.L. Barbon, Director, Financial
   Services.
 
-# 3.&nbsp;&nbsp;&nbsp;RFP 16-31 External
   Audit Services
 
 That, on the recommendation of the Managing

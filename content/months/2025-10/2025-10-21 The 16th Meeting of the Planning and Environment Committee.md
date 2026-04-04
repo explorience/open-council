@@ -22,11 +22,9 @@ October 21, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -144,7 +142,6 @@ That the delegation request from M. Wallace, London Development Institute, as ap
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;34 Adelaide Street South - Z-25100 
 
@@ -294,7 +291,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units 
 
@@ -354,7 +350,6 @@ That the delegation requests from M. Wallace, London Development Institute, J. G
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -379,7 +374,6 @@ That the October Deferred Matters List, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

@@ -17,11 +17,9 @@ April 28, 2020, at  4:00 PM
 
 The meeting is called to order at 4:03 PM, with Mayor E. Holder in the Chair; it being noted that all members were in remote attendance, except the Chair.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That if BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;COVID-19 Financial Impacts and Additional Measures for Community Relief
 
@@ -156,11 +154,9 @@ c) the proposed by-law as appended to the staff report dated April 28, 2020 as A
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - Housing Development Corporation, London 
 
@@ -398,11 +394,9 @@ b)     Chantal Watier BE APPOINTED for the term ending November 15, 2022.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. Cassidy
 
@@ -414,7 +408,6 @@ The Strategic Priorities and Policy Committee convened, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Cassidy
 

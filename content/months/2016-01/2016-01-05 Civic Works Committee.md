@@ -12,7 +12,6 @@ January 5, 2016, at  4:02 PM
 > [!abstract]- Also Present:
 > T. Park, V. Ridley, P. Squire, H. L. Usher, J. Zaifman; J. Braam, A. Drost, A. Dunbar, N. Hall, G. Irwin, S. Koshowski, G. Kotsifas, J. Lucas, D. MacRae, S. Maguire, M. Ribera, L. Rowe, J. Simon, J. Smout, E. Soldo, J. Stanford, A. Vandervoort
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor A. Hopkins
   efficiency improvements, by indicating that her husband is employed as a Home
   Comfort Advisor for a London HVAC company.
 
-# 2.&nbsp;&nbsp;&nbsp;Red Light Camera
   Program Implementation
 
 That, on the recommendation of the Managing
@@ -97,7 +95,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Update: Local
   Improvement Charges for Energy and Water Efficiency Improvements
 
 That, on the recommendation of the Director
@@ -128,7 +125,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Response Plan for
   Frozen Water Services
 
 That, on the recommendation of the
@@ -153,7 +149,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Adelaide
   Street/Canadian Pacific Railway Grade Separation Environmental Assessment - Appointment
   of Consulting Engineer
 
@@ -203,7 +198,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Western
   Road/Wharncliffe Road North Widening Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -252,7 +246,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appeal of Certain
   Amendments to the Greenway WWTP Environmental Compliance Approval
 
 That, on the recommendation of the Managing
@@ -279,7 +272,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Overnight Parking
   Update
 
 That, on the recommendation of the Managing
@@ -306,7 +298,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Proposed Street
   Encroachment Policy
 
 That, on the recommendation of the Managing
@@ -393,7 +384,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -444,7 +434,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -468,7 +457,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(Added) Request for Delegation
 
 That consideration of the attached
   request for delegation status BE DEFERRED to the next meeting of the Civic

@@ -17,11 +17,9 @@ October 28, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Mayor J. Morgan, Councillors E. Peloza (6:08 PM) and Councillor S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;London Hydro Inc. Amended and Restated Shareholder Declaration
 
@@ -96,7 +94,6 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 1:05 PM - 2026 Amendments to Consolidated Fees and Charges By-law
 
@@ -291,7 +288,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2025 Council Resourcing Review Task Force Final Report
 
@@ -1245,11 +1241,9 @@ b)    the Civic Administration BE DIRECTED to schedule Council Meetings that w
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by D. Ferreira
 
@@ -1288,7 +1282,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

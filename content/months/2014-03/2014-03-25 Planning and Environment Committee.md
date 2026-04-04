@@ -12,10 +12,8 @@ March 25, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, D. Brown, M. Brown
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 4th Report of the
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   215 Fanshawe Park Road West (H-8291)
 
 Recommendation:  That, on the
@@ -72,7 +69,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   2245 Callingham Drive (H-8216)
 
 Recommendation:  That, on the
@@ -104,7 +100,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   751 Fanshawe Park Road West - Draft Approved Plan - Vista Woods Estates
   Limited (39T-03505)
 
@@ -149,7 +144,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Entertainment on
   Outdoor Patios
 
 Recommendation:  That, on the
@@ -178,7 +172,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   930 Gainsborough Road
 
 Recommendation:  That, on the
@@ -206,7 +199,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for February 2014
 
 Recommendation:  That the Building Division
@@ -230,7 +222,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Heritage Conservation District Draft Plan and Conservation Guidelines
 
 Recommendation:  That, on the
@@ -271,7 +262,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;4th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -314,7 +304,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1796 Adelaide Street North (Z-8301)
 
 Recommendation:  That, on the
@@ -462,7 +451,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 2348, 2356, 2362, 2370 and 2378 Meadowlands Way; 2337, 2345, 2353, 2361,
   2369, 2373, 2387 and 2395 Humerside Common; 137, 143, 149, 161, 177, 195,
   209, 215, 223, 231, 239, 247, 255, 261, 267, 275, 283 and 297 Bradwell Chase
@@ -601,7 +589,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;City-Wide Offical
   Plan/Zoning By-law Review - City of London (OZ-8219)
 
 Recommendation:  That, on the
@@ -741,7 +728,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   457 Southdale Road West (Z-8314)
 
 Recommendation:  That, on the
@@ -825,7 +811,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Properties located
   at 73, 77, 81 and 91 Southdale Road East and 3021 and 3033 White Oak Road
   (Z-8305)
 
@@ -914,7 +899,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
 Recommendation:  That, on the
@@ -1161,7 +1145,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
 Recommendation:  That, on the
@@ -1441,7 +1424,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Draft Community
   Improvement Plan for Industrial Land Uses and Official Plan Amendment
   (O-8318)
 
@@ -1491,7 +1473,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Development Charges
   Grant Program for Downtown, Old East Village and SoHo CIP Areas
 
 Recommendation:  That, on the
@@ -1543,7 +1524,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
 Recommendation:  That, on the
@@ -1679,7 +1659,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   447 Old Wonderland Road (Z-8228)
 
 Recommendation:  That, the application of
@@ -1791,7 +1770,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   545 Fanshawe Park Road West (OZ-8286)
 
 Recommendation:  That, on the

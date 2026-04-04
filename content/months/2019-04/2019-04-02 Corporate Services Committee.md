@@ -20,11 +20,9 @@ April 2, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -109,7 +107,6 @@ it being understood that adjustments to the calendar may be required from time t
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 12:45 PM - Tax Adjustment Agenda
 
@@ -153,7 +150,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Convention Centre 2018 Operational Results
 
@@ -176,7 +172,6 @@ That the transfer of 100% of the 2018 London Convention Centre Operational surpl
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Board of Directors - Federation of Canadian Municipalities
 
@@ -235,7 +230,6 @@ Annual Conference & AGM - June 4-7, 2020 – Toronto, ON
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Hillier
 
@@ -256,7 +250,6 @@ The Corporate Services Committee convened In Closed Session from 12:55 PM to 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:00 PM.
 

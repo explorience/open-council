@@ -15,13 +15,11 @@ November 3, 2014, at  4:06 PM
 > [!abstract]- Also Present:
 > B. Polhill; J. Braam, A. Dunbar, G. Irwin, J. Lucas, D. MacRae, S. Maguire, M. Ribera, L. Rowe, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 8th Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -68,7 +65,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Closing Part of
   Concept Drive
 
 Recommendation:  That, on the
@@ -99,7 +95,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Closing Part of the
   Unnamed Road Allowance on Sarnia Road
 
 Recommendation:  That, on the
@@ -135,7 +130,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Gore Road Area
   Project-Braesyde and Dengate Infrastructure Replacement Detailed Design and
   Tendering Appointment of Consulting Engineer
 
@@ -188,7 +182,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;5th Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the following actions
@@ -220,7 +213,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Parking Regulation
   Changes
 
 Recommendation:  That the communication
@@ -243,7 +235,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Sharp Curve North
   End of Proudfoot Lane
 
 Recommendation:  That the communication dated
@@ -267,7 +258,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Installation of
   Traffic Control Measures at Hyde Park Road and South Carriage Road
 
 Recommendation: That the request for the installation
@@ -295,7 +285,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Parking Regulation Amendment
 
 Recommendation:  That the communication
   dated October 16. 2014, received from Z. Saarloos, 284 Exmouth Circle, with
@@ -318,7 +307,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) Civic Works Committee Meeting –
   November 17, 2014
 
 That the Civic Works Committee meeting

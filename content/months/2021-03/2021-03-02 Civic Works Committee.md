@@ -22,13 +22,11 @@ March 2, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Mayor E. Holder discloses a pecuniary interest in Item 5.1 of the 3rd Report of the Civic Works Committee, having to do with Item 4 of the Deferred Matters List, related to the properties at 745 and 747 Waterloo Street, by indicating that his daughter owns a business located at 745 Waterloo Street.
 
 Councillor S. Turner discloses a pecuniary interest in Item 2.11 of the 3rd Report of the Civic Works Committee, having to do with the 2020 External Audit of London's Drinking Water Quality Management System and 2020 Management Review, by indicating that he is an employee of the Middlesex London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Turner
 
@@ -427,7 +425,6 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Blue Community Program 
 
@@ -615,11 +612,9 @@ b)     the communications from the following individuals, as appended to the 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -643,7 +638,6 @@ That the Civic Works Committee Deferred Matters List, as at February 22, 2021, B
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:04 PM.
 

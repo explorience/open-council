@@ -20,19 +20,15 @@ December 12, 2022, at  4:00 PM
 
 The meeting is called to order at 4:00 PM, it being noted that the following members were in remote attendance: P. Van Meerbergen and E. Peloza
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by C. Rahman
 
@@ -120,11 +116,9 @@ b)     the proposed approach and timelines for developing the 2023-2027 Strat
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

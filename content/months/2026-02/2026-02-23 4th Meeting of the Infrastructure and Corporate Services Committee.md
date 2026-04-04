@@ -17,11 +17,9 @@ February 23, 2026, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -434,11 +432,9 @@ That the motion, as amended, BE APPROVED
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Traffic Calming - Councillor C. Rahman
 
@@ -543,11 +539,9 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by S. Stevenson
 
@@ -580,7 +574,6 @@ The Infrastructure and Corporate Services Committee convenes In Closed Session f
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

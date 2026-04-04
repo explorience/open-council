@@ -22,11 +22,9 @@ November 23, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor M. Salih disclosed a pecuniary interest in clause 2.3 of this Report, having to do with an Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada, by indicating that he is employed by the federal government.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -372,15 +370,12 @@ Motion to receive the verbal delegation from S. Harris, Indwell/Vision SoHo Alli
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -444,7 +439,6 @@ c)    clauses 1.1 to 4.1 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:03 PM.
 ---

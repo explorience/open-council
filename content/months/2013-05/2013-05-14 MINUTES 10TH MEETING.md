@@ -18,16 +18,13 @@ May 14, 2013, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 At 4:10 PM Councillor D. Brown enters the
   meeting.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 1.           
@@ -37,7 +34,6 @@ At 4:10 PM Councillor D. Brown enters the
   9th
   Report of Strategic Priorities and Policy Committee
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -75,14 +71,11 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London At
   Your Service
   Video
 
@@ -90,7 +83,6 @@ That it BE NOTED that the City Manager
   presented the new City of London “At Your Service” video and acknowledged the
   City’s partnership with Fanshawe College on the project.
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
 
 That the following actions be taken arising
@@ -122,7 +114,6 @@ c)         the
   services review, and report back with any suggested changes that may be in
   order by September 2013.
 
-# 4.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation - 2012 Annual Meeting of the Shareholder Annual
   Resolutions
 
@@ -149,7 +140,6 @@ ii)         authorize
   Shareholder of the London & Middlesex Housing Corporation attached as
   Schedule “1” to the by-law.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON APRIL 30, 2013
 
 > Moved by Councillor B. Polhill
@@ -186,7 +176,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor P. Van Meerbergen
@@ -198,10 +187,8 @@ Approve referral of the following
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor B. Polhill
 
@@ -209,7 +196,6 @@ Approve clauses 1 to 10.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Development Charges
   Policy Review - Local Services Policy
 
 That the following recommendation BE
@@ -250,7 +236,6 @@ it being noted that the Strategic
   Kennedy, President, London Development Institute, with respect to this
   matter.”
 
-# 6.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charge Policy - DC Area Specific Charges
 
@@ -287,7 +272,6 @@ it being noted that the Strategic
   Kennedy, President, London Development Institute, with respect to this
   matter.”
 
-# 7.&nbsp;&nbsp;&nbsp;Development Charges
   Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
 
 That the following recommendation BE
@@ -457,7 +441,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London Transit -
   2012 Annual Report
 
 That the communication dated May 1 2012,
@@ -467,7 +450,6 @@ That the communication dated May 1 2012,
   received the attached presentation from Mr. L. Ducharme, with
   respect to this matter. (2013-C03D)
 
-# 9.&nbsp;&nbsp;&nbsp;Bruce Street and
   Elmwood Avenue
 
 That the communication dated April 5, 2013,
@@ -570,7 +552,6 @@ Approve clauses 1 to 5, excluding clause 2
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   433 Hyde Park Road
 
 That, on the recommendation of the Manager,
@@ -701,7 +682,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   425 Wharncliffe Road South
 
 At 5:57 PM, His Worship the Mayor resumes
@@ -802,7 +782,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4128 Colonel Talbot Road (39T-12503/OZ-8052)
 
 That, on the recommendation of the Manager
@@ -921,10 +900,8 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street
 
 That the Approval Authority BE ADVISED that
@@ -1014,7 +991,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Neighbourhood Planning Options
 
 That, the following actions be taken with
@@ -1076,7 +1052,6 @@ it being pointed out that the Planning and
   presentation from K. Bice, 2 Leslie Street, on behalf of the Blackfriars
   community, with respect to this matter.   (2013-R01)
 
-# 15.&nbsp;&nbsp;&nbsp;Hazelden Park
 
 That the Civic Administration BE REQUESTED
   to review  the amount of parking in Hazelden Park and look for potential
@@ -1125,15 +1100,11 @@ Approve clauses 1 to 7.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1330,7 +1301,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 Motion Passed
 

@@ -15,10 +15,8 @@ May 28, 2013, at  1:07 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, S.Orser, H.L. Usher; S. Axford, J.P. Barber, S. Datars Bere, A. Dunbar, J. Freeman, K. Graham, M. Hayward, L. Karlovcec, L. Livingstone, J. Lucas, V. McAlea Major, D. O’Brien, R. Paynter, R. Ripepi, C. Saunders, J. Senese, M. Turner, B. Warner, J. Winston, B. Winther (Consultant)
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: 
   That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Civic
   Administration By-law A-44 Amendment
 
 Recommendation:  That, on the
@@ -29,7 +27,6 @@ Recommendation:  That, on the
   Director, Housing and Social Services” to “Managing Director, Housing, Social
   Services and Dearness Home”.
 
-# 3.&nbsp;&nbsp;&nbsp;Reserve Funds
   Housekeeping
 
 Recommendation:  That, on the
@@ -92,7 +89,6 @@ iv)        the
 v)         the
   Municipal Affordable Homeownership Revolving Loan Reserve Fund.
 
-# 4.&nbsp;&nbsp;&nbsp;2013 Debenture
   Issuance
 
 Recommendation:  That, on the
@@ -104,7 +100,6 @@ Recommendation:  That, on the
   May 28, 2013, through debentures in the capital markets, with the flexibility
   to postpone the issuance for unfavourable market conditions.
 
-# 5.&nbsp;&nbsp;&nbsp;Electronic Bid
   Document Distribution for Procurement Implementation Plan
 
 Recommendation:  That, on the
@@ -113,7 +108,6 @@ Recommendation:  That, on the
   transition from the current method of Electronic Bid Document Distribution via
   the City’s Website to Biddingo, BE RECEIVED for information.
 
-# 6.&nbsp;&nbsp;&nbsp;2013 World Figure
   Skating Championships - City of London Capital Projects and Operational
   Support Review
 
@@ -135,7 +129,6 @@ it being noted that the Corporate Services
   Committee heard a verbal delegation from J. Winston, Tourism London and the Director
   of Water and Wastewater with respect to this matter.
 
-# 7.&nbsp;&nbsp;&nbsp;Request from O.C.
   Holdings '87 Inc. to Extend its Option over Parts 2, 3 and 4, Plan 33R-17213
   - Innovation Park, Phase 1
 
@@ -155,7 +148,6 @@ b)         the
   2013, to approve this request and to authorize the Mayor and the City Clerk
   to execute the Amended Option Agreement.
 
-# 8.&nbsp;&nbsp;&nbsp;OLG Charitable
   Bingo and Gaming Revitalization Initiative (E-Bingo) - Municipality Agreement
 
 Recommendation:  That
@@ -179,7 +171,6 @@ b)           
   Prosperity Committee to provide information regarding its broader plan for
   gaming in municipalities.
 
-# 9.&nbsp;&nbsp;&nbsp;Involving
   Post-Secondary Students in Municipal Government
 
 Recommendation:      That the Civic
@@ -192,7 +183,6 @@ Recommendation:      That the Civic
   that A. Fearnall and A. Gourlay, President, Fanshawe Student Union, gave a
   verbal overview with respect to this matter.
 
-# 10.&nbsp;&nbsp;&nbsp;Council Service
   London Team
 
 Recommendation:  That the City Clerk BE
@@ -212,7 +202,6 @@ b)           
   cost
   and staffing implications of moving towards a semi-independent support model.
 
-# 11.&nbsp;&nbsp;&nbsp;Sponsorship Request
   - Girl Power - Veterans Memorial Parkway Community Program
 
 Recommendation:  That the communication
@@ -220,14 +209,12 @@ Recommendation:  That the communication
   Girl Power to undertake a tree planting project along the Veterans Memorial
   Parkway, in partnership with Landscape Ontario, BE NOTED AND FILED.
 
-# 12.&nbsp;&nbsp;&nbsp;Expenditure Above
   Market Threshold
 
 Recommendation: That the Covent Garden
   Market BE AUTHORIZED to spend an amount of approximately $37,000, plus HST,
   to replace the existing sweeper utilized by the Covent Garden Market.
 
-# 13.&nbsp;&nbsp;&nbsp;London Advisory
   Committee on Heritage
 
 Recommendation: That the following
@@ -241,7 +228,6 @@ Sarah A. Stephens (Member at Large)
 Derek
        Dudek (London Home Builders' Association)
 
-# 14.&nbsp;&nbsp;&nbsp;Appointment to the
   Animal Welfare Advisory Committee
 
 Recommendation: That the following
@@ -254,7 +240,6 @@ Recommendation: That the following
 Joan
        Lalonde (Member at Large)
 
-# 15.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation: That the following
@@ -271,7 +256,6 @@ Ian
 Darrin
        Wettlaufer (Member at Large)
 
-# 16.&nbsp;&nbsp;&nbsp;Resignation from
   the London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the communication
@@ -279,7 +263,6 @@ Recommendation:  That the communication
   Diversity and Race Relations Advisory Committee, BE ACCEPTED and Ms. Wilson
   BE THANKED for participating on the Committee.
 
-# 17.&nbsp;&nbsp;&nbsp;Resignation from
   the Animal Welfare Advisory Committee
 
 Recommendation: That the communication
@@ -287,7 +270,6 @@ Recommendation: That the communication
   Welfare Advisory Committee, BE ACCEPTED and Ms. Jackson BE THANKED for
   participating on the Committee.
 
-# 18.&nbsp;&nbsp;&nbsp;Resignation from
   the London Advisory Committee on Heritage
 
 Recommendation: That the communication

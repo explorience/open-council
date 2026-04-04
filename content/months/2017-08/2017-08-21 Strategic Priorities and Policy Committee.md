@@ -15,13 +15,11 @@ August 21, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, B. Card, A. Codispodi, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, K. Graham, G. Kotsifas, L. Livingstone, M. Marcellin, D. O’Brien, K. Pawelec, M. Ribera, C. Saunders, K. Scherr
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Citizen Satisfaction Survey
 
 That, on the recommendation of the City
@@ -50,7 +48,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Final Report of the
   2016 Council Compensation Review Task Force
 
 That the following actions be taken with
@@ -289,7 +286,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;3rd Report of the
   Governance Working Group
 
 That the following actions be taken with

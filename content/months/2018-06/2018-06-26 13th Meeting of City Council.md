@@ -18,7 +18,6 @@ June 26, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 At 4:03 PM, Councillor M. Cassidy enters the meeting.
 
@@ -32,11 +31,9 @@ Councillor J. Morgan discloses a pecuniary interest in item 3.2 of the 11th Repo
 
 Councillor T. Park discloses a pecuniary interest in item 5.1 of the 11th Report of the Planning and Environment Committee, having to do with the 7th Report of the London Advisory Committee specifically related to the application for the property located at 147-149 Wellington and 253-257 Grey Street, by indicating that her family owns a neighbouring property.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by M. van Holst
 
@@ -112,7 +109,6 @@ The Council, In Closed Session, rises at 5:36 PM and Council reconvenes at  5:
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by J. Helmer
 
@@ -142,7 +138,6 @@ That the Minutes of the 12th Meeting, held on June 12, 2018, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 ## 6.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor M. van Holst and Councilor P. Squire
 
@@ -176,11 +171,9 @@ That the communication dated June 22, 2018, from Councillors M. van Holst and P.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.2&nbsp;&nbsp;&nbsp;11th Report of the Planning and Environment Committee
 
@@ -1390,7 +1383,6 @@ That the request by Crispin Colvin, Director, Ontario Federation of Agriculture
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;2018 Tim Hickman Health and Safety Scholarship   
 
@@ -1400,7 +1392,6 @@ Motion made by Councillor M. van Holst and seconded by Councillor P. Hubert to
 
 The Municipal Council recesses at 6:30 PM and reconvenes at 7:25 PM with Mayor M. Brown in the Chair and all Members present except Councillors M. Salih, H. Usher and J. Zaifman.
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.2&nbsp;&nbsp;&nbsp;2nd Report of the Audit Committee
 
@@ -2384,19 +2375,15 @@ c)            the financing for this acquisition BE APPROVED as set o
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by V. Ridley
 
@@ -3451,7 +3438,6 @@ A by-law to authorize and approve an Agreement of Purchase and Sale between The 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by M. Cassidy
 

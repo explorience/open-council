@@ -15,10 +15,8 @@ September 20, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park; M. Camara, S. Datars Bere, A. Heinz, G. Kotsifas, J. Smout, S. Spring, J. Tansley, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Museum London
   Endowment Fund
 
 That the Civic Administration BE DIRECTED
@@ -46,10 +44,8 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;9th Report of the
   Animal Welfare Advisory Committee
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Health Partner Gateway Portal - The Corporation of the City of London -
   Dearness Home
 
@@ -84,7 +80,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;DELEGATION - Jill
   Tansley, Manager, Strategic Programs & Partnership
 
 That, on the recommendation of the Managing
@@ -124,7 +119,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;8th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -166,7 +160,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;8th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -201,7 +194,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -222,7 +214,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - COUNCILLOR
   SUBMISSION - Heritage Properties – Property Standards By-law
 
 That the Civic Administration BE REQUESTED
@@ -251,7 +242,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED – Upcoming Meetings of the Community
   and Protective Services Committee
 
 That the following actions be taken with

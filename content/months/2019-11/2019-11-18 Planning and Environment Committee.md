@@ -17,13 +17,11 @@ November 18, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Turner
 
@@ -94,7 +92,6 @@ d) the Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any ame
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Allowing "Farm Gate Sales" on Lands within the Urban Growth Boundary (Z-9060) 
 
@@ -416,7 +413,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;11th Report of the Advisory Committee on the Environment 
 
@@ -515,7 +511,6 @@ it being pointed out that the Planning and Environment Committee reviewed and re
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 11th Report of the London Advisory Committee on Heritage 
 
@@ -608,7 +603,6 @@ j) clauses 1.1, 2.5, 3.1 to 3.3, inclusive, 3.5, 4.1, 5.4, 5.5 and 5.7, BE RECEI
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 The Planning and Environment Committee convene, In Closed Session, for the
 
@@ -624,7 +618,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:18 PM
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege/Litigation or Potential Litigation
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:11 PM.
 

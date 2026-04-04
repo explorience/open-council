@@ -22,11 +22,9 @@ February 9, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in Item 2.11 of the 2nd Report of the Civic Works Committee, having to do with the 2020 Drinking Water Annual Report and Summary Report for the City of London Drinking Water System, by indicating that he is an employee of the Middlesex London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -411,11 +409,9 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Fleet Electrification Analysis Report - K. Paleczny, London Transit Commission
 
@@ -439,7 +435,6 @@ That the communication, dated January 28, 2021, from K. Paleczny, London Transit
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -463,7 +458,6 @@ That the Civic Works Committee Deferred Matters List, as at February 1, 2021, BE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:37 PM.
 

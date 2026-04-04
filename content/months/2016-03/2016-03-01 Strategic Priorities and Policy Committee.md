@@ -15,7 +15,6 @@ March 1, 2016, at  7:37 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, J. Braam, H. Chapman, I. Collins, B. Coxhead, M. Daley, S. Datars Bere, A. Dunbar, J.M. Fleming, K. Graham, T. Grawey, A. Hagan, M. Hayward, O. Katolyk, J. Kobarda, P. Kokkoros, G. Kotsifas, L. Livingstone, J. Lucas, V. McAlea Major, S. Mathers, J.P. McGonigle, K. Murray, D. O’Brien, L. Palarchio, J. Ramsey, M. Ribera, C. Saunders, J. Senese, E. Soldo, J. Stanford, B. Westlake-Power, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -69,7 +68,6 @@ e)           
   Capital Project No. PD103316 Meadowgate, by indicating that his family has an
   interest in the development.
 
-# 2.&nbsp;&nbsp;&nbsp;CORPORATE OPERATING
   BUDGET
 (all amounts
   rounded to the nearest $1,000s)
@@ -822,7 +820,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;CORPORATE CAPITAL
   BUDGET
 (all amounts
   rounded to the nearest $1,000s)
@@ -1522,7 +1519,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;WATER AND
   WASTEWATER & TREATMENT BUDGETS
 
 it being noted that all rates and charges
@@ -1536,10 +1532,8 @@ it being noted that all rates and charges
   Drain Connections, were increased by 3% effective January 1, 2016 as approved
   by Council on December 8, 2015.
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - 2016-2019
   Budget - Public Input
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED –
   Recommendation:  That pursuant to section 2.4 of the Council Procedure
   By-law, section 13.7 of the said by-law BE SUSPENDED to in order to
   facilitate the mandatory review of the annual budget and readoption of the
@@ -1550,26 +1544,19 @@ it being noted that all rates and charges
   2016-2019 Multi-Year Operating, Capital, Water and Wastewater & Treatment
   Budgets.
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - Absence
   from Meeting
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED - 2016-2019
   Budget - Public Input
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Not to be
   heard before 9:00 a.m. on Friday, February 19, 2016 - Amanda Stratton, Chair,
   Transportation Advisory Committee
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED - 2016-2019
   Budget - Public Input
 
-# 11.&nbsp;&nbsp;&nbsp;Delegation - To be
   heard on March 1, 2016 - London Police Services Board
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED - London
   Police Service Budget
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED - Unlicensed
   Group Home Problem
 
 Motion Passed

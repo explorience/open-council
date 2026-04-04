@@ -17,11 +17,9 @@ April 30, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner disclosed a pecuniary interest in clause 3.6 of this Report having to do with the location of potential Supervised Consumption Facilities in London, by indicating that his supervisor, Dr. C. Mackie, CEO and Medical Officer of Health, Middlesex-London Health Unit, has delegation status at this meeting.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by Mayor M. Brown
 
@@ -188,7 +186,6 @@ b)            the Managing Director, Planning and City Planner, BE DI
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - Archaeological Management Plan (OZ-8771)
 
@@ -655,15 +652,12 @@ Motion to grant Dr. C. Mackie an extension of his delegation beyond five minut
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:06 PM.
 

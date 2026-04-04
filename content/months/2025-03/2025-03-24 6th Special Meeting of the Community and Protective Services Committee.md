@@ -17,11 +17,9 @@ March 24, 2025, at 11:30 AM
 
 The meeting was called to order at 11:31 AM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre
 
@@ -60,19 +58,15 @@ iv)    authorize the Deputy City Manager, Housing and Community Growth, or the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

@@ -12,7 +12,6 @@ February 3, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > J. Morgan, M. Salih, J. Zaifman; J. Braam, J. Fleming, M. Hayward, G.T. Hopcroft, G. Kotsifas, J. Lucas, D. MacRae, J. Parsons, M. Pease, M. Ribera, L. Rowe, J. Simon, E. Soldo, J. Stanford, R. Welker, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -20,7 +19,6 @@ Recommendation:  That it BE NOTED that
   Report, having to do with the Canada Post Community Mailbox Program, by
   indicating that his wife is employed with Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the 2nd Report of the
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Southwest Area
   Trunk Sanitary Sewer Detailed Design - Appointment of Consulting Engineer:
   Phase 2 - Campbell Street (Hamlyn Street to Lambeth Optimist Park)
 
@@ -94,7 +91,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Preliminary Concept
   for a London Waste to Resources Innovation Centre
 
 Recommendation:  That, on the
@@ -147,7 +143,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Memorandum of
   Understanding with Green Shields Energy (Examining the Role of Waste
   Conservation Technology)
 
@@ -188,7 +183,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2014 Drinking Water
   Annual Report and Summary Report for the City of London Distribution Centre
 
 Recommendation:  That, on the
@@ -215,7 +209,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Ministry of the
   Environment and Climate Change Inspection Report for the City of London Water
   Distribution System 2014
 
@@ -241,7 +234,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Roadway Winter
   Maintenance Program
 
 Recommendation:  That the following actions
@@ -277,7 +269,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Beaverbrook Avenue
   and Proudfoot Lane Safety Concerns
 
 Recommendation:  That, on the
@@ -303,7 +294,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Commercial
   Boulevard Parking Application - 552 Colborne Street
 
 Recommendation:  That, on the
@@ -429,7 +419,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Dundas Place -
   Dundas Flexible Street Scoping Study
 
 Recommendation:  That, on the
@@ -475,7 +464,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Environmental
   Assessments - An Overview for Civic Works Committee
 
 Recommendation:  That the attached
@@ -499,7 +487,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Proposed Amendments
   to By-law W-8 -  A By-law for the Regulation of Water Supply as it Relates to
   Use of Water Restrictions for the Months of June, July and August
 
@@ -527,7 +514,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Update to City of
   London Entrance Signs
 
 Recommendation:  That the Civic
@@ -551,7 +537,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Canada Post
   Community Mailbox Program
 
 Recommendation:  That, subject to the advice

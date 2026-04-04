@@ -17,7 +17,6 @@ September 19, 2023, at  4:00 PM
 
 The meeting is called to order at 4:02 PM; it being noted that Councillors P. Van Meerbergen, E. Peloza (after 7:10 PM) and S. Hillier were in remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -48,7 +47,6 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Development Charge Exemptions and Discounts
 
@@ -161,11 +159,9 @@ That on the recommendation of the Deputy City Manager, Planning and Economic Dev
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;City Manager, Recruitment and Selection Process
 
@@ -281,7 +277,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Cuddy
 
@@ -338,7 +333,6 @@ The Council recesses at 6:52 PM and reconvenes at 7:17 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
 
@@ -582,7 +576,6 @@ That the 7th Report of the Diversity, Inclusion and Anti-Oppression Community Ad
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

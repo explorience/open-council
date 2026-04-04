@@ -17,11 +17,9 @@ April 30, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Kayabaga
 
@@ -111,11 +109,9 @@ e)         the by-law, as appended to the staff report dated April 30, 2
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Full-Time Councillors for Next Term of Council
 
@@ -138,11 +134,9 @@ That the communication dated April 8, 2019 from Councillor M. van Holst with res
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Helmer
 
@@ -177,7 +171,6 @@ The Corporate Services Committee convened In Closed Session from 1:36 PM to 2:38
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:39 PM.
 

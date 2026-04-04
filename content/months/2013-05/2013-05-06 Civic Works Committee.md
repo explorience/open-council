@@ -12,10 +12,8 @@ May 6, 2013, at  4:01 PM
 > [!abstract]- Also Present:
 > D. Brown, G. Barrett, M. Chiu, T. Copeland, L. Ducharme, A. Dunbar, B. Goudeseune, G. T. Hopcroft, E. LaLande, J. Lucas, P. Lupton, D. MacRae, K. Paleczny, M. Ribera, L. Rowe, E. Soldo, E. Southern
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Infrastructure
   Lifecycle Renewal Program Contract 3: Dreaney Avenue and King Edward Avenue Reconstruction
   Project (Tender No. 13-13 )
 
@@ -69,7 +67,6 @@ g)         the
   documents, if required, to give effect to these recommendations.  
   (2013-L04A)
 
-# 3.&nbsp;&nbsp;&nbsp;2013 Infrastructure
   Lifecycle Renewal Program Contract 8: Manitoulin Drive Reconstruction (Tender
   No. 13-25)
 
@@ -105,7 +102,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04A)
 
-# 4.&nbsp;&nbsp;&nbsp;2013 Arterial Road
   Rehabilitation - Contract - '2' (Tender No. 13-35 )
 
 Recommendation:  That, on the
@@ -142,7 +138,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04A)
 
-# 5.&nbsp;&nbsp;&nbsp;Sherwood Forest
   Weeping Tile Disconnect Internal and External Works (ES2680) (Tender No.
   13-49 and 13-22 )
 
@@ -193,7 +188,6 @@ g)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-LO4B)
 
-# 6.&nbsp;&nbsp;&nbsp;On-Street Boulevard
   Cafe Permit Program
 
 Recommendation:  That, on the
@@ -216,7 +210,6 @@ c)         the
   current Boulevard Cafe Permit Program BE AMENDED to provide for the use of
   on-street municipal parking spaces for seasonal boulevard cafes.  (2013-P09)
 
-# 7.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway South Extension and Highway 401 Interchange Improvements
   Transportation Environmental Study Report
 
@@ -245,7 +238,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.  (2013-E05)
 
-# 8.&nbsp;&nbsp;&nbsp;London Transit -
   2012 Annual Report
 
 Recommendation: That the communication
@@ -255,7 +247,6 @@ Recommendation: That the communication
   Committee received the attached presentation from Mr. L. Ducharme,
   with respect to this matter. (2013-C03D)
 
-# 9.&nbsp;&nbsp;&nbsp;Bruce Street and
   Elmwood Avenue
 
 Recommendation:  That the communication dated

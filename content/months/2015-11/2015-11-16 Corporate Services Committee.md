@@ -15,13 +15,11 @@ November 16, 2015, at 12:03 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, M. Daley, J. Freeman, M. Hayward, V. McAlea Major, J. Purser, C. Saunders, G. Smith, J. Smout, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Records Management
   Program Implementation
 
 That, on the
@@ -61,7 +59,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointments to the
   Accessibility Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -99,7 +96,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 That Madison Hamilton BE APPOINTED to the
@@ -122,7 +118,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Association of
   Municipalities of Ontario - Long-Term Care and Age-Friendly Communities Task
   Force
 
@@ -150,7 +145,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;City of London
   Contract and Tendering Processes
 
 That the Audit Committee BE DIRECTED to
@@ -179,7 +173,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;City of London’s Website
 
 That the Civic Administration BE REQUESTED
   to review and report back to the Corporate Services Committee with
@@ -206,7 +199,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;RFP 15-35 – Appointment of an Integrity
   Commissioner
 
 Motion

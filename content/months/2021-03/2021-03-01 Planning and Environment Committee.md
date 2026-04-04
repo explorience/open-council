@@ -20,11 +20,9 @@ March 1, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -129,7 +127,6 @@ That, on the recommendation of the City Clerk, the proposed by-law appended as A
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1st Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -927,7 +924,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2nd Report of the London Advisory Committee on Heritage
 
@@ -982,11 +978,9 @@ d)      Clauses 3.1 to 4.1, inclusive and 5.3 to 6.1, inclusive, BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege / Litigation or Potential Litigation
 
@@ -1015,7 +1009,6 @@ The Planning and Environment Committee convenes, in Closed Session, from 7:26 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:53 PM.
 

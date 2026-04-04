@@ -9,13 +9,11 @@ April 25, 2017, at 12:30 PM
 > [!abstract]- Present:
 > P. Hubert, J. Helmer, J. Morgan, T. Park, H.L. Usher, L. Rowe (Secretary)
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - Year
   2017 Tax Policy
 
 That, on the recommendation of the Managing
@@ -129,7 +127,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Year
   2017 Education Tax Rates
 
 That, on the recommendation of the Managing
@@ -162,7 +159,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Not to be heard
   before 12:30 PM - PUBLIC PARTICIPATION MEETING - Proposed Amendment to
   Council Procedure By-law - Change in Start Time - Corporate Services
   Committee

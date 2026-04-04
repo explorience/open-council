@@ -20,7 +20,6 @@ December 10, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -50,7 +49,6 @@ That Councillor M. Cassidy BE ELECTED Vice-Chair of the Planning and Environment
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Turner
 
@@ -253,7 +251,6 @@ b)            the applicant BE ADVISED that the Development Finance h
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 12th Report of the Environmental and Ecological Planning Advisory Committee 
 
@@ -698,7 +695,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Delegation Status - J. P. Plutino, Mainline Planning Services Inc. - 6188 Colonal Talbot Road
 
@@ -722,7 +718,6 @@ That J. Plutino, Mainline Planning Services, Inc., BE GRANTED delegation status 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by J. Helmer
 
@@ -806,7 +801,6 @@ That the 11th Report of the Trees and Forests Advisory Committee, from its meeti
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:07 PM
 

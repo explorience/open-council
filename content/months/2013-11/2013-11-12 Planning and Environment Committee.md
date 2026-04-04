@@ -12,7 +12,6 @@ November 12, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > H.L. Usher, J.M. Fleming, M. Davis, M. Elmadhoon, G. Kotsifas, T. Grawey, B. Henry, I. Listar, A. Macpherson, L. Mottram, J. Page, C. Saunders, R. Sharpe, M. Tomazincic, B. Turcotte, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor N.
   Branscombe disclosed a pecuniary interest in clause 8 of this report, having
   to do with the request for a Municipal Council support resolution for a
   ground mounted solar project under the Feed-In Tariff (FIT) Program on the
@@ -20,7 +19,6 @@ November 12, 2013, at  4:02 PM
   indicating that her spouse owns and operates a business in close proximity to
   the Airport.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following
@@ -170,7 +168,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 56 to 82 Wellington Street, 283 to 323 South Street and 69 to 77 Waterloo
   Street (OZ-8114)
 
@@ -230,7 +227,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 1100 and 1140 North Wenige Drive - Forest Hill Phase 5 - Extension to
   Draft Plan of Subdivision Approval (39T-10501)
 
@@ -273,7 +269,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1270 Sunningdale Road East (Phase 2) (33M-632/H-8227)
 
 Recommendation:  That, on the
@@ -305,7 +300,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Request for
   Municipal Council Support Resolution - Ground Mounted Solar Project Under the
   Feed-In Tariff (FIT) Program
 
@@ -348,7 +342,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for September 2013
 
 Recommendation:  That the Building Division
@@ -370,7 +363,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1990 Commissioners Road East and 1697 Hamilton Road (Z-8239)
 
 Recommendation:  That, on the
@@ -474,7 +466,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Review of Planning
   Application Fees
 
 Recommendation:      That, the Managing
@@ -752,7 +743,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4138 Colonel Talbot Road (39T-12503/OZ-8052)
 
 Recommendation: That Mr. S. Stapleton, Vice
@@ -778,7 +768,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   275 Thames Street - Fugitive Slave Chapel
 
 Recommendation:  That, the Civic

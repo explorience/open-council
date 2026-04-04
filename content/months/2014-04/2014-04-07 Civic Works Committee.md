@@ -15,13 +15,11 @@ April 7, 2014, at  4:03 PM
 > [!abstract]- Also Present:
 > J. Braam, T. Copeland, A. Dunbar, T. Grawey, G. Irwin, B. Krichker, J. Lawrence, J. Lucas, D. MacRae, M. Ribera, L. Rowe, J. Simon, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Single Source
   Procurement of Positive Displacement Cold Water Meters with
   Encoder-Receiver-Transmitter Attached
 
@@ -67,7 +65,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Timeline for Major
   Environmental and Engineering Reports
 
 Recommendation:  That, on the
@@ -95,7 +92,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Community Carshare
   in London
 
 Recommendation:  That, on the
@@ -156,7 +152,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Diesel, Biodiesel and Gasoline (Elgin, Middlesex, Oxford Purchasing
   Co-operative) (Tender No. 14-53)
 
@@ -195,7 +190,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt (Tender 14-22)
 
 Recommendation:  That, on the
@@ -243,7 +237,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Contract Award:
   2014 Hyde Park Industrial Subdivision (Tender No. 14-34)
 
 Recommendation:  That, on the
@@ -298,7 +291,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Southdale Road West
   Widening contract - 2013 Growth Management Implementation Strategy (GMIS)
   (Tender No. T13-32)
 
@@ -332,7 +324,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineers for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of 2014 Infrastructure Lifecycle
   Renewal Projects: Contracts #4, #6, #9 and Victoria Street Area Storm Sewer
@@ -405,7 +396,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award:
   2014 Arterial Road Rehabilitation (Tender No. 14-28)
 
 Recommendation:  That, on the
@@ -457,7 +447,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Engineering Services for the Functional Design of the
   Tributary "C" Stormwater Management Servicing Works (ES3020-RVBTC)
 
@@ -505,7 +494,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Engineering Services for the Functional and Detailed
   Design of the Hyde Park No. 6 SWMF (ES3020-HP6)
 
@@ -553,7 +541,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Closing of Asima
   Drive
 
 Recommendation:  That, on the
@@ -586,7 +573,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Street Renaming of
   Tennent Avenue (East Leg)
 
 Recommendation:  That, on the

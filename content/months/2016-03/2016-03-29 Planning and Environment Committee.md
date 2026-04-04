@@ -12,13 +12,11 @@ March 29, 2016, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Zaifman; G. Barrett, M. Corby, S. Galloway, K. Gonyou, T. Grawey, P. Kokkoros, G. Kotsifas, A. MacLean, A. Macpherson, L. Mottram, M Pease, J. Ramsay, M. Ribera, J. Smolarek, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor P.
   Squire disclosed a pecuniary interest in clause 3 of this Report, having to
   do with clause 3 of the 4th Report of the London Advisory Committee on
   Heritage relating to the Heritage Alteration Permit Application of St.
   Peter’s Seminary, by indicating that his wife works for the Diocese of London.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Advisory Committee on the Environment
 
 That the 4th Report of the Advisory
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -213,7 +210,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;3rd Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -245,7 +241,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   501 Southdale Road West (formerly a portion of 3080 Bostwick Road, 491 and
   499 Southdale Road West (H-8530)
 
@@ -277,7 +272,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Designation of
   864-872 Dundas Street under the Ontario Heritage Act
 
 That, on the recommendation of the Managing
@@ -316,7 +310,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Annual Report on
   Building Permit Fees
 
 That, the report dated March 29, 2016, from
@@ -341,7 +334,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Bierens (Westfield)
   Subdivision - Subdivision Special Provisions (39T-08502)
 
 That, on the recommendation of the Manager,
@@ -394,7 +386,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following actions be taken with
@@ -442,7 +433,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   746 Waterloo Street (Z-8574)
 
 That, on the recommendation of the Managing
@@ -520,7 +510,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Old East Village
   Commercial Corridor Urban Design Manual (O-8583)
 
 That, on the recommendation of the Managing
@@ -611,7 +600,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 2001 and 2215 Sunningdale Road West (Z-8558)
 
 That, on the recommendation of the Managing
@@ -691,7 +679,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision (39T-09502/Z-8528)
 
 That, on the recommendation of the Senior

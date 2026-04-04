@@ -15,7 +15,6 @@ September 27, 2016, at  3:15 PM
 > [!abstract]- Also Present:
 > M. van Holst, M. Cassidy; A. Zuidema, A. Hagan, M. Hayward, J. Kobarda, L. Livingstone, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED no pecuniary interests

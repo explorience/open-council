@@ -15,13 +15,11 @@ August 27, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, C. Colvin, S. Datars Bere, S. Giustizia, K. Graham, M. Hayward, R. Paynter, C. Saunders, J. Senese, J. Smout, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;London Hydro
   Promissory Note - Agreements
 
 Recommendation:  That, on the
@@ -68,7 +66,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Composition -
   London Public Library Board
 
 Recommendation:  That, on the
@@ -102,7 +99,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2011 - 2014 Report
   to the Community - Verbal (City Manager)
 
 Recommendation:  That the verbal overview
@@ -131,7 +127,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Not to be heard
   before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
   Housing Development Corporation
 

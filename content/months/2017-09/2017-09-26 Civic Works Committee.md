@@ -12,13 +12,11 @@ September 26, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, T. Park, M. Salih; T. Copeland, A. Dunbar, G. Gauld, D. MacRae, S. Maguire, S. Mathers, M. Morris, K. Paleczny, R. Pedlow, A. Rammeloo, M. Ribera, S. Rooth, L. Rowe, K. Scherr, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Transport Canada
   Grade Crossings Regulations and Railway Funding Applications
 
 That, on the recommendation of the Managing
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Transit Rerouting
   Off Dundas Street in Downtown
 
 That, on the recommendation of the Managing
@@ -97,7 +93,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;One River
   Environmental Assessment Update: Agency Advisory Committee Report
 
 That, on the recommendation of the Managing
@@ -132,7 +127,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. T17-28 - Old Victoria Stormwater Management Facility No. 1
   (ESSWM-OV1)
 
@@ -181,7 +175,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Thames Sydenham
   Source Water Protection Plan -  Renewal of Risk Management Services Agreement
 
 That, on the recommendation of the Managing
@@ -230,7 +223,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Wastewater Pumping
   Station Variable - Frequency Drive Replacements
 
 That, on the recommendation of the Managing
@@ -284,7 +276,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Agreement Renewal -
   Thames River Experimental Stream Science Facility at Adelaide Pollution
   Control Plant
 
@@ -322,7 +313,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Municipal Waste
   & Resource Materials Collection By-Law Amendments
 
 That, on the recommendation of the Managing
@@ -361,7 +351,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Single Source
   Contract Renewal - Navistar Original Equipment Manufacturer (OEM) Replacement
   Parts
 
@@ -411,7 +400,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;6th Report of the
   Rapid Transit Implementation Working Group
 
 That the 6th Report of the Rapid Transit
@@ -435,7 +423,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;London Transit
   Commission 2016 Annual Report
 
 That the London Transit Commission 2016
@@ -460,7 +447,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Domestic Action
   Plan (DAP) London - Proposal Update
 
 That, on the recommendation of the Managing
@@ -489,7 +475,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -512,7 +497,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) Warranted
   Sidewalk Program
 
 That the Managing Director, Environmental

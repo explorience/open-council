@@ -12,16 +12,13 @@ April 2, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > N. Branscombe, P. Hubert, J. Braam, T. Copeland, A. Dunbar, M. Elmadhoon, M. Feldberg, J. Fleming, K. Grabowski, G. Irwin, B. Krichker, J. Lucas, S. Maguire, R. Pedlow, J. Simon, J. Stanford, R. Welker, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 4th Report of the
   Transportation Advisory Committee, from its meeting held on
   March 6, 2012, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Stewardship Ontario
   Funding of the City's Household Special Waste Program
 
 Recommendation:  That, on the
@@ -31,7 +28,6 @@ Recommendation:  That, on the
   with Stewardship Ontario to fund a portion of the City’s Household Special
   Waste Program.  (2012-L03-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Road Widening
   Policy
 
 Recommendation:  That, on the
@@ -42,7 +38,6 @@ Recommendation:  That, on the
   Dedication” in order to reflect the amendments to the Official Plan in OPA
   438.
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Engineering Services for Functional, Detailed Design and
   Tender Document Preparation for Green Valley Storm/Drainage and Stormwater
   Management Remediation Works (ES2462)
@@ -83,7 +78,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-A03-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Emergency
   Repair-Greenway 4 Final
 
 Recommendation:  That, on the
@@ -103,7 +97,6 @@ b)         the
   Financing Report provided as Appendix “A” to the associated staff report,
   dated April 2, 2012.  (2012-W06-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Single Source
   Purchase and Installation of River Level Monitoring Gauges
 
 Recommendation:  That, on the
@@ -124,7 +117,6 @@ c)         the
   approval BE CONDITIONAL upon the Corporation entering into a formal
   contract or issuing a purchase order relating to this matter. (2012-F13-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Sanitary Servicing
   Agreement with London District Catholic School Board
 
 Recommendation:  That, on the
@@ -143,7 +135,6 @@ b)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to this recommendation.  (2012-W10-01)
 
-# 9.&nbsp;&nbsp;&nbsp;Talbot Street Brick
   Sewer Rehabilitation
 
 Recommendation:  That, on the
@@ -175,7 +166,6 @@ d)         the
   into a formal contract or issuing a purchase order for the material to be
   supplied and for the work to be done relating to this project.  (2012-W10-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Extension
   Sewer Liners - Cured in Place Pipe (CIPP) (Tender 11-36)
 
 Recommendation:  That, on the
@@ -204,7 +194,6 @@ d)         the
   into a formal contract or having a purchase order, or contract record
   relating to the subject matter of this approval.  (2012-W10-00)
 
-# 11.&nbsp;&nbsp;&nbsp;2012 Infrastructure
   Lifecycle Renewal Program, Contract # 4, Glebe, Lyle and Hewitt Street
   Reconstruction (Tender 12-04)
 
@@ -259,7 +248,6 @@ g)         the
   other documents, if required, to give effect to these recommendations.
   (2012-S08-00)
 
-# 12.&nbsp;&nbsp;&nbsp;2012 Infrastructure
   Lifecycle Renewal Program, Contract # 6, St. George and Sydenham Street
   Reconstruction (Tender 12-08)
 
@@ -312,7 +300,6 @@ g)         the Mayor and the City Clerk BE
   AUTHORIZED to execute any contract or other documents, if required, to
   give effect to these recommendations. (2012-S08-00)
 
-# 13.&nbsp;&nbsp;&nbsp;2012 Arterial Road
   Rehabilitation Contract (Tender 12-13)
 
 Recommendation:  That, on the
@@ -354,7 +341,6 @@ it being noted that the Civic Works
   Committee heard a verbal delegation from J. MacDonald, Executive Director,
   Downtown London, with respect to this matter.  (2012-S08-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Contract 2A: Stanley
   Street Pumping Station Construction Project ES2414/ES5084-11 (Tender 12-16)
 
 Recommendation:  That, on the
@@ -414,7 +400,6 @@ h)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. (2012-W07-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Mornington Pond
   Sediment Removal ES2532 (Tender 12-19)
 
 Recommendation:  That, on the
@@ -444,7 +429,6 @@ d)         the
   into a formal contract or issuing a purchase order for the material to be
   supplied and the work to be done relating to these projects. (2012-W10-02)
 
-# 16.&nbsp;&nbsp;&nbsp;Supply, Delivery and
   Installation of 2012 Spring Infill Street Trees (Tender 12-31)
 
 Recommendation:  That, on the
@@ -488,7 +472,6 @@ d)         the
   into a formal contract or having a purchase order relating to the subject
   matter of this approval. (2012-E05-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Sunninghill
   Sanitary Pumping Station Upgrades Project ES5151 (Tender 12-32)
 
 Recommendation:  That, on the
@@ -528,7 +511,6 @@ e)         the
   into a formal contract or issuing a purchase order relating to the subject
   matter of this approval. (2012-W07-00)
 
-# 18.&nbsp;&nbsp;&nbsp;Dingman Creek
   Pumping Station Upgrades Project ES5143 (Tender 12-35)
 
 Recommendation:  That, on the recommendation
@@ -565,7 +547,6 @@ e)         the
   into a formal contract or issuing a purchase order for the work to be done
   relating to this project. (2012-W07-00)
 
-# 19.&nbsp;&nbsp;&nbsp;Contract
   Award for the Springbank Reservoir # 2 Rehabilitation Project 
   EW3617 (Tender 12-52)
 
@@ -610,7 +591,6 @@ f)          the Mayor and the City Clerk BE
   AUTHORIZED to execute any contract or other documents, if required, to
   give effect to these recommendations.
 
-# 20.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-Law Related to New Parking Fees
 
 Recommendation:  That, notwithstanding the
@@ -645,7 +625,6 @@ it being noted that the Civic Works Committee
   heard a verbal delegation from J. MacDonald, Executive Director, Downtown
   London, with respect to this matter. (2012-S09-00)
 
-# 21.&nbsp;&nbsp;&nbsp;Single Source Pay and
   Display Parking Meters
 
 Recommendation:  That, on the
@@ -679,7 +658,6 @@ e)         the
   Financing Report provided as Appendix “A” to the associated staff report,
   dated April 2, 2012.  (2012-F13-00)
 
-# 22.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-Law - Perry Street and Horn Street and Queens
   Avenue
 
@@ -692,7 +670,6 @@ Recommendation:  That, on the
   motor vehicles in the City of London” for Horn Street, Perry Street and
   Queens Avenue. (2012-S09-00)
 
-# 23.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-Law - No Stopping, No Parking, Limited Parking and Bus
   Stops and School Bus Loading Zones
 
@@ -705,7 +682,6 @@ Recommendation:  That on the recommendation
   the City of London” as it relates to No Stopping, No Parking, Limited Parking and Bus Stops
   and School Bus Loading Zones.  (2012-S09-00)
 
-# 24.&nbsp;&nbsp;&nbsp;2012 Annual
   Warranted Sidewalk Program (TS1165-12)
 
 Recommendation:  That, the following
@@ -729,7 +705,6 @@ c)           
   Civic Administration BE REQUESTED to ensure that no trees are removed
   as part of the proposed construction for Fremont Avenue.  (2012-S08-00)
 
-# 25.&nbsp;&nbsp;&nbsp;Condition Survey
   Results on Manholes in Major Intersections
 
 Recommendation:  That the report dated
@@ -738,7 +713,6 @@ Recommendation:  That the report dated
   survey results on manholes in major intersections, BE RECEIVED for
   information.  (2012-S08-00)
 
-# 26.&nbsp;&nbsp;&nbsp;Public Information
   Videos
 
 Recommendation:  That the report from the
@@ -746,10 +720,8 @@ Recommendation:  That the report from the
   and City Engineer, with respect to public information videos, BE RECEIVED
   for information. (2012-W00-00)
 
-# 27.&nbsp;&nbsp;&nbsp;Dundas Street
   Watermain Maintenance
 
-# 28.&nbsp;&nbsp;&nbsp;Street Renaming of Headley
   Between Oxford Street West and Headley Drive
 
 Recommendation:  That, on the
@@ -773,7 +745,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.  (2012-D17-00)
 
-# 29.&nbsp;&nbsp;&nbsp;Street Renaming of Cedarpark
   Drive
 
 Recommendation:  That, on the
@@ -797,7 +768,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.  (2012-D17-00)
 
-# 30.&nbsp;&nbsp;&nbsp;London Road Safety
   Strategy
 
 Recommendation:  That, on the recommendation
@@ -818,7 +788,6 @@ it being noted that
   the Civic Works Committee heard the attached presentation from the
   Manager, Transportation, Planning and Design, with respect to this matter.  (2012-S09-00)
 
-# 31.&nbsp;&nbsp;&nbsp;Water Conservation
   and the Future of Water and Wastewater Rates
 
 Recommendation:  That the report dated
@@ -830,7 +799,6 @@ Recommendation:  That the report dated
   Engineering Services and City Engineer, and  received a communication dated
   April 2, 2012, from C. Gupta, with respect to this matter.  (2012-W13-00)
 
-# 32.&nbsp;&nbsp;&nbsp;Fixed Rate for
   Water and Sanitary Charges
 
 Recommendation:  That in accordance with Section
@@ -840,7 +808,6 @@ Recommendation:  That in accordance with Section
   Works Committee (CWC) was unable to reach a majority decision with respect to
   this matter.  (2012-W10-00/F17-00)
 
-# 33.&nbsp;&nbsp;&nbsp;Parking Violations
   - Roehampton Avenue
 
 Recommendation:  That the communication
@@ -848,7 +815,6 @@ Recommendation:  That the communication
   violations on Roehampton Avenue, BE REFERRED to the Civic Administration
   for review, and report back to the Ward Councillor. (2012-S04-00)
 
-# 34.&nbsp;&nbsp;&nbsp;Guardrail on
   Glanworth Drive
 
 Recommendation:  That the communication

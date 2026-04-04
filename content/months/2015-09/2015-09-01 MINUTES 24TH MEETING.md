@@ -18,7 +18,6 @@ September 1, 2015, at  4:00 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor T. Park discloses a pecuniary
@@ -41,13 +40,10 @@ Councillor J. Zaifman discloses a pecuniary
   Meadowlily Subdivision (33M-603), by indicating his family has an interest in
   the project.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS, continued
 
 At this time, His
   Worship the Mayor and the Municipal Council recognize City of London
@@ -101,17 +97,14 @@ Approve clauses 1 to 8, excluding clause 2.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor M. van Holst enquires about the
   timing of the Hamilton Road Community Improvement Plan.  The Managing
   Director, Planning and City Planner provides an update in response to the
   enquiry.
 
-# 2.&nbsp;&nbsp;&nbsp;Councillor B. Armstrong enquires about the
   condition of undesirable vegetation growth in Reg Cooper Square.  The Chair
   directs that the Civic Administration report back with respect to what
   actions are being taken to properly maintain the Square.
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -149,7 +142,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-THIRD MEETING HELD ON JULY 28, 2015
 
 > Moved by Councillor P. Hubert
@@ -186,7 +178,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor H.L. Usher
@@ -198,7 +189,6 @@ Approve referral of the following
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Canada Post
   Community Mailbox Program
 
 That the following actions be taken with
@@ -436,7 +426,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Transportation
   Energy Optimization Plan (TEOP) Phase 1 Contract Award
 
 That, on the recommendation of the Managing
@@ -466,7 +455,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.   (2015-A05)
 
-# 5.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
   Initiative Appointment of Survey Consultants
 
 That, on the recommendation of the Managing
@@ -503,7 +491,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.   (2015-A05)
 
-# 6.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Noise Attenuation Wall Current Noise Levels
 
 That, on the recommendation of the
@@ -511,10 +498,8 @@ That, on the recommendation of the
   with respect to the Veterans Memorial Parkway noise attenuation wall current
   noise levels, BE RECEIVED for information.  (2015-T04)
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor P. Hubert
 
@@ -522,7 +507,6 @@ Approve clauses 1 to 15, excluding clauses 4, 9 and 14.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Local Improvement
   Initiation Franklinway Crescent and Franklinway Gate
 
 That the following actions be taken with
@@ -629,7 +613,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London Transit
   Commission - LTC's 2014 Annual Report
 
 That the London Transit Commission 2014
@@ -638,7 +621,6 @@ That the London Transit Commission 2014
   General Manager, London Transit Commission with respect to this matter. 
   (2015-C05)
 
-# 10.&nbsp;&nbsp;&nbsp;Permitting
   Overnight Parking Additional Months of the Year
 
 That the following actions be taken with
@@ -816,7 +798,6 @@ it being noted that the Strategic
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Federation of
   Canadian Municipalities Appointments
 
 That it BE NOTED that Councillor H.L. Usher
@@ -824,7 +805,6 @@ That it BE NOTED that Councillor H.L. Usher
   been appointed to Standing Committees of the Federation of Canadian
   Municipalities.
 
-# 12.&nbsp;&nbsp;&nbsp;Ranked Ballot
   Process – Appointments by Municipal Council
 
 That Councillor J. Morgan BE REQUESTED to
@@ -857,7 +837,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 505, 507 and 511 Talbot Street - Request for Demolition
 
 That, the Managing Director, Planning and
@@ -879,7 +858,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions regarding this matter.    (2015-P10D)
 
-# 15.&nbsp;&nbsp;&nbsp;10th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -920,7 +898,6 @@ b)         on
 c)         clauses 1 to 7, 9 to 12, 14, 15
   and 16, BE RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -962,7 +939,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 505, 507 and 511 Talbot Street and 94 Dufferin Avenue (Z-8490)
 
 That, on the recommendation of the Managing
@@ -1090,15 +1066,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1622,7 +1594,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

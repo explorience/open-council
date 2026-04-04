@@ -15,13 +15,11 @@ May 5, 2014, at  4:10 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, P. Christiaans, C. Colvin, A. Dunbar, S. Datars Bere, S. Giustizia, K. Graham, M. Hayward, G.T. Hopcroft, G. Kotsifas, J. Lucas, S. Mathers, C. Saunders, J. Smout, E. Soldo, L. Stevens, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy Implementation Options
 
 Recommendation:  That, on the
@@ -101,7 +99,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc. – 2013 Annual
   Meeting of the Shareholder – Annual Resolutions
 
 Recommendation:  That, on the
@@ -146,7 +143,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London & Middlesex Housing Corporation
   - 2013 Annual Meeting of the Shareholder - Annual Resolutions and Declaration
   of the Sole Shareholder and Accountability Rules
 
@@ -237,9 +233,7 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2014 Development Charges
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 

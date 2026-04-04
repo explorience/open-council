@@ -12,10 +12,8 @@ March 18, 2013, at  4:05 PM
 > [!abstract]- Also Present:
 > J. Braam, J. Clarke, O. Katolyk, J. Lucas, MacRae, E. Maged, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London 2012
   Drinking Water Annual Report and Summary Report
 
 Recommendation:  That, on the
@@ -23,7 +21,6 @@ Recommendation:  That, on the
   Water Annual Report and Summary Report for the City of London Distribution
   System BE RECEIVED.  (2013-E13)
 
-# 3.&nbsp;&nbsp;&nbsp;Closing of Part of
   the Original Road Allowance Lying West of Staffordshire Place
 
 Recommendation:  That, on the
@@ -33,7 +30,6 @@ Recommendation:  That, on the
   the original road allowance lying west of Staffordshire Place as public
   highway. (2013-T09)
 
-# 4.&nbsp;&nbsp;&nbsp;Closing of Logans
   Way
 
 Recommendation:  That, on the
@@ -42,7 +38,6 @@ Recommendation:  That, on the
   meeting to be held on March 26, 2013, for the purpose of closing the
   untraveled north-south portion of Logans Way as public highway. (2013-T09)
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer Gordon Sanitary Trunk Sewer Rehabilitation Project No.
   ES2473
 
@@ -79,7 +74,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
             (2013-A05)
 
-# 6.&nbsp;&nbsp;&nbsp;Blackfriars Bridge
   Detailed Structural Inspection
 
 Recommendation:  That, on the
@@ -115,7 +109,6 @@ e)         the
   into a formal contract with the consultant for the work. 
             (2013-T04)
 
-# 7.&nbsp;&nbsp;&nbsp;2013 Growth
   Management Implementation Strategy (GMIS) Oxford Street West Widening and
   Hyde Park Trunk Sanitary Sewer (Phase 1A) (Tender No. T12-106)
 
@@ -169,7 +162,6 @@ it being noted that the Staff Report was
   amended on page 2, paragraph 3, line 5, by deleting the words “Wonderland
   Road” and by replacing them with the words “Hyde Park”.  (2013-L04B)
 
-# 8.&nbsp;&nbsp;&nbsp;2013 Growth
   Management Implementation Strategy (GMIS) Royal York Road: Hyde Park Trunk
   Sanitary Sewer (Phase 1B) and Road Reconstruction Project (Tender No. T13-12)
 
@@ -222,7 +214,6 @@ g)         the
   other documents, if required, to give effect to these recommendations.
             (2013-L04)
 
-# 9.&nbsp;&nbsp;&nbsp;2013 Infrastructure
   Lifecycle Renewal Program Contract 11: Bond Street, Raywood Avenue, Alexandra
   Street, and Beverly Street Reconstruction (Tender No. 13-07)
 
@@ -275,7 +266,6 @@ g)         the
   Mayor and City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. (2013-L04)
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment of a
   Consulting Engineer 2013 Structure Inventory Inspection Program and Bridge
   Management System Database Update
 
@@ -307,7 +297,6 @@ d)         the
   into a formal contract with the consultant for the work.
             (2013-A04)
 
-# 11.&nbsp;&nbsp;&nbsp;Greenway Wastewater
   Treatment Plant Clarifier Components (Tender 13-11) (Project ES 5084-12)
 
 Recommendation:  That, on the
@@ -342,7 +331,6 @@ e)       the
   other documents, if required, to give effect to these recommendations.
            (2013-F18)
 
-# 12.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization - Next Steps - Preparing for a Feed-In-Tariff Submission
 
 Recommendation:  That, on the recommendation
@@ -393,14 +381,12 @@ e)         the
   Civic Administration BE DIRECTED to report back to the Civic Works
   Committee with the results of the RFP process.  (2013-E19)
 
-# 13.&nbsp;&nbsp;&nbsp;2013 Annual Warranted
   Sidewalk Program.
 
 Recommendation:  That, on the
   recommendation of the Director, Roads and Transportation, the 2013 Annual
   Warranted Sidewalk Program BE RECEIVED.  (2013-T04)
 
-# 14.&nbsp;&nbsp;&nbsp;Traffic Calming
   Policy
 
 Recommendation:  That the following actions
@@ -423,7 +409,6 @@ it being noted that the Civic Works Committee
   Dormer Drive, and a communication dated March 12, 2013, from E. McKinlay, 449
   Chelton Road, with respect to this matter.  (2013-T08)
 
-# 15.&nbsp;&nbsp;&nbsp;Elimination of
   Issuing Parking Tickets to Commercial Operating/Car Dealerships Displaying
   Vehicles on Boulevards
 
@@ -435,7 +420,6 @@ Recommendation:  That the communications
   Administration to investigate and report back at a future meeting of the
   Civic Works Committee. (2013-C01)
 
-# 16.&nbsp;&nbsp;&nbsp;Environmental Bill of Rights Registry
   Request for Comment - Michigan Recyclables Processing
 
 Recommendation:  That the Civic

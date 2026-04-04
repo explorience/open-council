@@ -15,10 +15,8 @@ May 14, 2013, at  2:30 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, J.P. Bryant, J.P. Barber, G. Barrett, B. Henry, D. Menard, J. Ramsay, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Neighbourhood Planning Options/6th Report of the London Advisory
   Committee on Heritage
 
@@ -79,7 +77,6 @@ d)           
 e)         that clauses 3 through
   15, inclusive, of the 6th Report of the LACH, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Heritage Conservation Districts
 
 Recommendation:      That, the Civic
   Administration BE DIRECTED to report back at a future meeting of the

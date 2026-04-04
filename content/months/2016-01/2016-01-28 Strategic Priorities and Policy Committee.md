@@ -12,13 +12,11 @@ January 28, 2016, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Belch, J. Braam, I. Collins, T. Copeland, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, T. Gaffney, M. Hayward, O. Katolyk, L. Livingstone, J. Lucas, D. MacRae, S. Mathers, V. McAlea Major, K. Murray, D. Popadic, M. Ribera, C. Saunders, E. Soldo, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Downtown
   Infrastructure Planning and Coordination
 
 That the following actions be taken with

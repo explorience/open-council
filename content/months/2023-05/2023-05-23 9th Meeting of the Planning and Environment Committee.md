@@ -20,11 +20,9 @@ May 23, 2023, at  4:00 PM
 
 The meeting is called to order at 4:02 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -169,7 +167,6 @@ b) the applicant BE ADVISED that the cost of registration of the above-noted by-
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;340-390 Saskatoon Street (Z-9599 / O-9600)
 
@@ -862,15 +859,12 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice / Litigation/Potential Litigation
 
@@ -895,7 +889,6 @@ The Planning and Environment Committee convened, in Closed Session, from 7:15 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:38 PM.
 ---

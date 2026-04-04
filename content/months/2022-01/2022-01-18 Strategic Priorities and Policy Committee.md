@@ -20,11 +20,9 @@ January 18, 2022, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following members were in remote attendance: Councillors M. Salih, J. Helmer, M. Cassidy, J. Morgan, A. Hopkins, P. Van Meerbergen, S. Turner and E. Peloza.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councilor S. Turner disclosed a pecuniary interest in items 4.1 and 4.2, having to do with both having to do with appointments to the London Public Library Board, by indicating that his wife is employee of the London Public Library.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -80,11 +78,9 @@ That, on the recommendation of the Deputy City Manager, Environment & Infrastruc
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Public Library Board
 
@@ -217,7 +213,6 @@ That the communication from Councillor M. van Holst, dated January 9, 2022, with
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 6th Report of the Governance Working Group
 
@@ -249,7 +244,6 @@ That the 6th Report of the Governance Working Meeting from its meeting held on J
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -279,7 +273,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Hamou
 

@@ -15,13 +15,11 @@ June 16, 2014, at  4:04 PM
 > [!abstract]- Also Present:
 > B. Armstrong, P. Hubert, B. Polhill, J.B. Swan; J. Braam, Colvin, A. Dunbar, J. Freeman, Grawey, G. Kotsifas, B. Krichker, J. Lucas, D. MacRae, L. Mottram, D. Mounteer, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Contract Award: VMP
   Noise Attenuation Wall (Tender No. T14-62)
 
 Recommendation:  That, notwithstanding the
@@ -83,7 +81,6 @@ h)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, required to give effect to these recommendations. (2014-L04)
 
-# 3.&nbsp;&nbsp;&nbsp;Union Gas Alternate
   Locate Agreement
 
 Recommendation:  That, on the
@@ -104,7 +101,6 @@ b)         the
   Agreement, approved in a), above, on behalf of the City of London. 
   (2014-L04)
 
-# 4.&nbsp;&nbsp;&nbsp;Gordon Sanitary
   Trunk Sewer Rehabilitation Project No. ES2473 RFP No. 14-26
 
 Recommendation:  That, on the
@@ -142,7 +138,6 @@ e)         the
   formal contract or issuing a purchase order for the material to be supplied
   and the work to be done relating to this project.  (2014-L04)
 
-# 5.&nbsp;&nbsp;&nbsp;White Oak
   Development Area Stormwater Management Municipal Class EA Addendum Study
 
 Recommendation:  That, on the
@@ -192,7 +187,6 @@ e)         the
   Stormwater Management Works for the White Oak Development Area BE PLACED on
   public record for a 30-day review period.  (2014-E20)
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
   Services (Green Valley Drain Storm/Drainage and Stormwater Management
   Remediation Works)
@@ -221,7 +215,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with this work.  (2014-A05)
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of 2014 Infrastructure Lifecycle
   Renewal Project: Contract D Dundas Street
@@ -259,7 +252,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   document, if required, to give effect to these recommendations.  (2014-A05)
 
-# 8.&nbsp;&nbsp;&nbsp;Murray Marr
   Stormwater Management Facility Sediment Removal Project No. ES 2532
 
 Recommendation:  That, on the
@@ -292,7 +284,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-L04)
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Functional and Detailed Design of the Murray Marr
   No. 4 Stormwater Management Facility
 
@@ -326,7 +317,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 10.&nbsp;&nbsp;&nbsp;Downtown London
   Parking Study
 
 Recommendation:  That, on the
@@ -347,7 +337,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with this project.  (2014-T02)
 
-# 11.&nbsp;&nbsp;&nbsp;By-law for the
   Execution of a Garbage Collection Agreement with The University of Western
   Ontario
 
@@ -367,7 +356,6 @@ b)           
   Mayor and the City Clerk BE AUTHORIZED to execute the Agreement on the City’s
   behalf.  (2014-C01)
 
-# 12.&nbsp;&nbsp;&nbsp;Street Renaming -
   Terrace Street (West of Adelaide Street South)
 
 Recommendation:  That, on the

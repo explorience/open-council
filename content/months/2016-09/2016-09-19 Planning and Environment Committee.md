@@ -15,13 +15,11 @@ September 19, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Morgan, H. Usher, M. van Holst; G. Barrett, M. Corby, M. Elmadhoon, S. Galloway, K. Gonyou, T. Grawey, N. Hall, P. Kokkoros, G. Kotsifas, T. Macbeth, A. MacLean, D. Mounteer, L. Pompilii, C. Saunders, C. Smith, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -116,7 +114,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain - Official Plan Amendment No. 606 and 607 (O-8362)
 
@@ -156,7 +153,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;9th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -319,7 +315,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   2825 Tokala Trail (Z-8638)
 
 That, on the recommendation of the Managing
@@ -471,7 +466,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 2870 and 2900 Tokala Trail (39CD-16509/Z-8644)
 
 That, on the recommendation of the Senior
@@ -600,7 +594,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   200 Villagewalk Boulevard (SP14-039271)
 
 That on the recommendation of the Manager,
@@ -678,7 +671,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Amendment to Zoning
   By-law Z.-1, Section 1.3 - Deemed Conformity of Uses and Compliance with
   Regulations (Z-8595)
 
@@ -766,7 +758,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   191 Commissioners Road East
 
 That, on the recommendation of the Managing
@@ -849,7 +840,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1234-1246 Richmond Street (OZ-8552)
 
 That the application by Textbook (Ross
@@ -956,7 +946,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Conservation
   Authorities
 
 That the attached presentation from I.
@@ -980,7 +969,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Funding Request for
   the Hyde Park Business Association/Business Improvement Area (BIA)
   Designation
 

@@ -22,11 +22,9 @@ October 24, 2023, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -278,7 +276,6 @@ Motion to approve parts b) and c) of the clause.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;London Transit’s 2022 Annual Report
 
@@ -326,11 +323,9 @@ Motion to approve the delegation requests from J. Preston, W. Lau and M. Sheehan
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;CWC Deferred Matters List
 
@@ -378,7 +373,6 @@ That the 11th Report of the Integrated Transportation Community Advisory Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by P. Cuddy
 
@@ -404,7 +398,6 @@ The Civic Works Committee convened In Closed Session from 1:41 PM to 1:45 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:47 PM.
 ---

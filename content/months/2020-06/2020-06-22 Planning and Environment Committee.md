@@ -17,7 +17,6 @@ June 22, 2020, at  4:00 PM
 
 The meeting is called to order at 4:00 PM, with Councillor M. Cassidy in the Chair; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors J. Helmer, A. Hopkins, S. Turner and A. Kayabaga.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -28,7 +27,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -124,7 +122,6 @@ That the staff report dated June 22, 2020 entitled "ReThink Zoning Phase One Upd
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application - 1919 and 1929 Oxford Street West (Z-9115) 
 
@@ -574,19 +571,16 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:08 PM.
 

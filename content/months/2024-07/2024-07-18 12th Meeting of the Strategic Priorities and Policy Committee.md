@@ -20,11 +20,9 @@ July 18, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and E. Peloza were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor J. Pribil discloses a pecuniary interest in item 2.1 having to do with Film London Review and Next Steps, by indicating that his son is contemplating seeking project support from Film London.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.2&nbsp;&nbsp;&nbsp;Whole of Community System Response -  Q2 Quarterly Report
 
@@ -289,11 +287,9 @@ That the balance of the motion be approved.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Delegation - Kelly Paleczny, General Manager and Scott Collyer, Vice Chair - London Transit Commission (LTC) 2023 Annual Report
 
@@ -1428,15 +1424,12 @@ That the motion be approved, as amended.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

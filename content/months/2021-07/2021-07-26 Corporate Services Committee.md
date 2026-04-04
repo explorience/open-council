@@ -17,11 +17,9 @@ July 26, 2021, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors M. van Holst, J. Morgan, E. Peloza and A. Kayabaga.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -336,11 +334,9 @@ it being noted that the Corporate Services Committee received a communication da
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member) 
 
@@ -463,11 +459,9 @@ That based on the application dated June 18, 2021 from Caribbean Women's Society
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -506,7 +500,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:50 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:10 PM.
 

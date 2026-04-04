@@ -22,11 +22,9 @@ July 26, 2022, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Hillier disclosed a pecuniary interest in clause 5.1 of this Report, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family hosts a five day event.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -193,11 +191,9 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Fireworks in the City of London
 
@@ -425,7 +421,6 @@ c)    the financing for the conditional grant, set out in the Source of Financ
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -476,7 +471,6 @@ Motion to receive Item Number 1 on the Deferred Matters List for the Community a
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Hillier
 
@@ -503,7 +497,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:45 PM.
 ---

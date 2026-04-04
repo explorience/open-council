@@ -12,13 +12,11 @@ October 28, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > D. Brown;, N. Awde (AECOM), J. Braam, P. Christiaans, T. Constantine (CH2M HILL), T. Copeland, A. Dunbar, J. Fleming, G. Gauld, J. Haasen (AECOM), G. T. Hopcroft, M. Kosher (CH2M HILL), J. Lucas, D. MacRae, P. Rose, L. Rowe, R. Sharpe, E. Soldo, J. Stanford, R. Todd
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   LTC Long-Term Growth Report Working Group
 
 Recommendation:  That the following actions
@@ -63,7 +61,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 7th Report of the
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Greenway Wastewater
   Treatment Plant Expansion and Upgrade Update
 
 Recommendation:  That, on the
@@ -158,7 +154,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Selling Greenhouse
   Gas Emission Offsets from W12A Landfill Gas Flaring System
 
 Recommendation:  That, on the
@@ -206,7 +201,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Wellington Street
   Parking Meters
 
 Recommendation:  That, on the
@@ -231,7 +225,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adelaide
   Street/Canadian Pacific Railway Grade Separation
 
 Recommendation:  That, on the
@@ -271,7 +264,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2012 Community
   Energy and Greenhouse Gas Inventory: Challenges and Opportunities
 
 Recommendation:  That the staff report
@@ -297,7 +289,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Waste Diversion and
   Garbage Collection Updates
 
 Recommendation:  That, on the
@@ -351,7 +342,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Sanitary Service
   Agreement between the City of London and Middlesex Centre
 
 Recommendation:  That the attached
@@ -380,7 +370,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Water Bill
   Investigation
 
 Recommendation:  That the communication
@@ -403,7 +392,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Water Power Imports
   from Quebec
 
 Recommendation:  That the communication

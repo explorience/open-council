@@ -12,7 +12,6 @@ December 15, 2014, at  3:31 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Morgan, T. Park, H.L. Usher, M. Van Holst, J. Zaifman, I. Abushehada, G. Barrett, M. Davis, J. Edmunds, C. DeForest, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Graham, T. Grawey, M. Henderson, B. Henry, P. Kokkoros, G. Kotsifas, J. Logan A. MacLean, A. Macpherson, D. MacRae, D. Mounteer, B. Page, N. Pasato, J. Ramsay, S. Spring, M. Tomazincic, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED
@@ -21,7 +20,6 @@ Recommendation:  That it BE NOTED
   and he is the President of a social enterprise that conducts business with
   the Downtown Business Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Vice
   Chair for the term ending November 30, 2015
 
 Recommendation:  That Councillor P.
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 11th Report of
@@ -69,7 +66,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;9th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 9th Report of the
@@ -93,7 +89,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;1st Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 1st Report of the
@@ -117,7 +112,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Byron Pits
   Secondary Plan - Terms of Reference (O-8434)
 
 Recommendation:  That, the proposed Terms
@@ -152,7 +146,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Candidate Approval
   for the Urban Design Peer Review Panel
 
 Recommendation:  That, on the
@@ -187,7 +180,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1235 Eagletrace Drive (H-8415)
 
 Recommendation:  That, on the
@@ -217,7 +209,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Amendment to By-law
   CP-2 - Expansion of London Downtown Business Association Improvement Area
 
 Motion
@@ -236,7 +227,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1400 & 1440 North Wenige Drive (Portion of Blocks 112 and 113 in Plan
   33M-631) (P-8205)
 
@@ -331,7 +321,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for October 2014
 
 Recommendation:  That the Building Division
@@ -354,7 +343,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters
 
 Recommendation:  That, the attached
@@ -379,7 +367,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 530 Sunningdale Road East (Lot 99, 39T-05510) (Z-8429)
 
 Recommendation:  That, on the
@@ -461,7 +448,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 300 Colborne Street and 405-411 Bathurst Street (Z-8411)
 
 Recommendation:  That, on the
@@ -539,7 +525,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   711 Oxford Street West (Z-8414)
 
 Recommendation:  That, on the
@@ -617,7 +602,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 120 Gideon Drive (OZ-8365)
 
 Recommendation:  That, the application of

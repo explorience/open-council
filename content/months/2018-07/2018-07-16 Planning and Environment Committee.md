@@ -20,11 +20,9 @@ July 16, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor T. Park disclosed a pecuniary interest in clause 4.1 of this Report, having to do with the property located at 391 South Street, by indicating that her family owns property in the area.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -272,7 +270,6 @@ That the Building Division Monthly Report for the month of May, 2018 BE RECEIVED
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 7th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -652,7 +649,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Medallion Realty Holdings - Application for Brownfield Incentives - 391 South Street 
 
@@ -786,7 +782,6 @@ b)            the Civic Administration BE DIRECTED to consult with th
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Delegation - D. Dudek, Chair, London Advisory Committee on Heritage - 8th Report of the London Advisory Committee on Heritage
 
@@ -862,7 +857,6 @@ Motion to move Item 5.1 to after Item 3.1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:07 PM.
 

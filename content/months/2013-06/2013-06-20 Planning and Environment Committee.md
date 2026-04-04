@@ -15,31 +15,26 @@ June 20, 2013, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, M. Brown, J.L. Bryant, H.L. Usher, J.P. Barber, G. Barrett, J. Braam, M. Corby, B. Coxhead, P. Christiaans, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, G. Kotsifas, B. Krichker, J. Lucas, A. MacLean, A. Macpherson, S. Mathers, L. Mottram, D. Mounteer, M. Ribera, A. Riley, C. Saunders, C. Smith, E. Soldo, B. Turcotte, B. Warner, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 5th Report of the
   Trees and Forests Advisory Committee from its meeting held on May 22, 2013 BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;6th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 6th Report of the
   Environmental and Ecological Planning Advisory Committee from its meeting
   held on May 16, 2013 BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;6th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 6th Report of the
   Advisory Committee on the Environment from its meeting held on June 5, 2013
   BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Hyde Park Meadows
   Subdivision - Phase 2 (39T-02509)
 
 Recommendation:  That, on the
@@ -65,7 +60,6 @@ c)         the
   Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any
   amending agreements and all documents required to fulfill its conditions.   (2013-D12)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1956 Shore Road (Z-8180)
 
 Recommendation:  That, on the
@@ -88,7 +82,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.    (2013-D14A)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   590 Gainsborough Road (Z-8162)
 
 Recommendation:  That, on the
@@ -178,7 +171,6 @@ it
   will be demolishing the church, which allows both areas to have more common
   space.   (2013-D14A)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1069 Clarke Road (Z-8165)
 
 Recommendation:  That, on the
@@ -209,7 +201,6 @@ it
   R. Patton, Patton Cormier & Associates, on behalf of the applicant –
   expressing support for the recommendation.    (2013-D14A)
 
-# 9.&nbsp;&nbsp;&nbsp;Draft Old Victoria
   Hospital Lands Secondary Plan
 
 Recommendation:  That, on the recommendation
@@ -233,7 +224,6 @@ it being pointed out that the Planning and
   Environment Committee heard a verbal presentation from Rick Merrill, The
   Planning Partnership, with respect to this matter.   (2013-D19)
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South
   (OZ-7072/OZ-7073)
 
@@ -366,7 +356,6 @@ it
   take issue with respect to the amount of space proposed provided that it is
   not to the detriment of his clients proposal.   (2013-D14A)
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1311, 1363 and 1451 Wharncliffe Road South (OZ-8087)
 
 Recommendation: 
@@ -496,7 +485,6 @@ it
   matter in the SWAP area; and advising that they do not anticipate that the
   City’s planning process should be used in any way to regulate competition.   (2013-D14A)
 
-# 12.&nbsp;&nbsp;&nbsp;North Routledge
   Park Industrial Area
 
 Recommendation:  That, the communication,
@@ -504,7 +492,6 @@ Recommendation:  That, the communication,
   Routledge Park Industrial Area BE REFERRED to the Civic Administration for
   consideration and to respond directly to Councillor M. Brown.   (2013-D14)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   450 Oxford Street West (OZ-8003)
 
 Recommendation:  That, the Civic
@@ -524,7 +511,6 @@ it being pointed out that the Planning and
   Snowsell, Land Use Regulations Officer, Upper Thames River Conservation
   Authority, with respect to this matter. (2013-D14A)
 
-# 14.&nbsp;&nbsp;&nbsp;Special Planning
   and Environment Committee Meeting - July 25, 2013
 
 Recommendation:  That the communication,
@@ -532,7 +518,6 @@ Recommendation:  That the communication,
   special Planning and Environment Committee on Thursday, July 25, 2013 at 4:00
   p.m., BE APPROVED.
 
-# 15.&nbsp;&nbsp;&nbsp;Near-Campus Neighbourhoods Policy
 
 Recommendation:      That, on the
   recommendation of the Managing Director, Planning and City Planner, relating
@@ -548,14 +533,12 @@ Recommendation:      That, on the
   Committee reviewed and received a communication, dated June 18, 2013, from C.
   Kulchycki, Planner, Zelinka Priamo Ltd., with respect to this matter.   (2013-D14A)
 
-# 16.&nbsp;&nbsp;&nbsp;Heritage Inventory Addition
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Planning and City Planner, the Inventory
   of Heritage Resources BE AMENDED to delete the property located at
   131 Pond Mills Road and to add the property located at 130 Pond Mills Road.  (2013-R01)
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located at 56-82 Wellington
   Street, 283-323 South Street and 69-77 Waterloo Street (OZ-8114)
 
 Recommendation:  That, a special meeting
@@ -566,7 +549,6 @@ Recommendation:  That, a special meeting
   Wellington Street, 283-323 South Street and 69-77 Waterloo Street. 
   (2013-D14A)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located at 3130 and 3260 Dingman
   Drive and the rear portion of 4397 and 4407 Wellington Road South (OZ-8120)
 
 Recommendation:      That, on

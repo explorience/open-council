@@ -15,7 +15,6 @@ January 11, 2017, at  5:00 PM
 > [!abstract]- Also Present:
 > D. Mounteer, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That

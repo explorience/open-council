@@ -12,13 +12,11 @@ May 7, 2012, at  4:06 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J. M. Fleming, C. Saunders, G. Barrett, S. Bellaire, B. Bergsma, B. Debbert, M. Elmadhoon, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, A. MacLean, A. Macpherson, L. McDougall, D. Menard, S. Milanovic, D. O’Brien, J. Page, J. Ramsay, M. Ribera, A. Riley, S. Mathers, M. Tomazincic, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor Polhill disclosed a
   pecuniary interest in clause 19 of this Report as it relates to the Notice of
   Application by the City of London for the properties located at 585-613-687
   and 604-650 Sovereign Road, by indicating that his business is in the
   circulation area for this Notice.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   580 Fanshawe Park Road East (H-8016)
 
 Recommendation:  That, on the
@@ -32,7 +30,6 @@ Recommendation:  That, on the
   Special Provision (CSA3(5)) Zone to remove the holding provisions.
   (2012-D11-06)
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   890 Southdale Road West (39T-07503)
 
 Recommendation:  That, on the
@@ -61,13 +58,11 @@ it
   dated May 4, 2012, from Craig Linton, Highland Ridge Land Corp., with respect
   to this matter.  (2012-D26-03)
 
-# 4.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for March 2012
 
 Recommendation:  That the Building Division
   Monthly Report for March 2012 BE RECEIVED.  (2012-D05-00)
 
-# 5.&nbsp;&nbsp;&nbsp;McCormick Area
   Study - Economic Analysis (OZ-7601)
 
 Recommendation:  That, on the
@@ -76,7 +71,6 @@ Recommendation:  That, on the
   FORWARDED to be considered as part of the McCormick Area Study, which is
   to be brought forward for consideration in June, 2012. (2012-D07-00)
 
-# 6.&nbsp;&nbsp;&nbsp;County of Middlesex
   Approval of Municipality of Middlesex Centre OPA 28
 
 Recommendation:  That, on the
@@ -84,7 +78,6 @@ Recommendation:  That, on the
   report dated May 7, 2012, relating to the County of Middlesex approval of the
   Comprehensive Official Plan Review (OPA 28), BE RECEIVED.   (2012-D11-09)
 
-# 7.&nbsp;&nbsp;&nbsp;UFORE Project
   Summary and Development of Urban Forest Strategy
 
 Recommendation:  That, on the
@@ -92,7 +85,6 @@ Recommendation:  That, on the
   dated May 7, 2012, relating to the UFORE analysis and development of the
   Urban Forest Strategy, BE RECEIVED.  (2012-E05-00)
 
-# 8.&nbsp;&nbsp;&nbsp;5th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -136,7 +128,6 @@ it being noted that the Planning and
   Environment Committee heard a delegation from George Goodlet, Chair, London
   Advisory Committee on Heritage, with respect to this matter.
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   on the north side of Horton Street East generally between Wellington Street
   and Colborne Street comprising 290, 296, 316, 318, 320, 326, 328, 330 and 358
   Horton Street East, 300 Wellington Street (southeastern portion) and 240
@@ -177,7 +168,6 @@ it being
   work on this application; and advising that Canadian Tire has long-term plans
   for this parcel.    (2012-D11-09)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   600 First Street
 
 Recommendation:  That, on the
@@ -200,7 +190,6 @@ c)         the
   and Revenues Report”, provided as Schedule “A” to the associated staff
   report, dated May 7, 2012.    (2012-D25-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   602 First Street
 
 Recommendation:  That, on the
@@ -223,7 +212,6 @@ c)         the
   and Revenues Report”  provided as Schedule “A” to the associated staff
   report, dated May 7, 2012.    (2012-D25-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   751 Fanshawe Park Road West (39T-11505/Z-7994)
 
 Recommendation:  That, the following
@@ -288,7 +276,6 @@ it being pointed
   building and the residential subdivision; and, advising that people would
   park in the cul-de-sac and walk to the commercial development.  (2012-D11-07/D26-06)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1431-1439 Oxford Street West (Z-8015)
 
 Recommendation:  That, on the
@@ -318,7 +305,6 @@ it
   being pointed out that there were no oral submissions made at the public
   participation meeting held in connection with this matter.   (2012-D11-05)
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 3200 and 3260 Singleton Avenue (Z-8035)
 
 Recommendation:  That, on the
@@ -354,7 +340,6 @@ it being pointed
   quickly; and advising that a similar subdivision plan sold out quickly in
   Kitchener.   (2012-D11-02)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   890 Southdale Road West
 
 Recommendation:  That, on the
@@ -391,7 +376,6 @@ it being pointed
   Vyse, 967 Gabor Court – requesting a copy of the Senior Planner, Development
   Services, presentation.  (2012-W10-01)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 909 Southdale Road West and 3045 Pomeroy Lane
 
 Recommendation:  That, on the recommendation
@@ -437,7 +421,6 @@ it being pointed out that at the public
   parcels; and advising that the larger lot is zoned high density
   residential.   (2012-D25-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Old Victoria
   Proposed Development - Storm Water Management Issues
 
 Recommendation:  That, the following
@@ -467,7 +450,6 @@ it being noted that the Planning and
   Jong and reviewed and received a communication, dated April 23, 2012, with
   respect to this matter.    (2012-W10-00)
 
-# 18.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, on the
@@ -498,7 +480,6 @@ it being noted that the Planning and
   Environment Committee heard a delegation from D. Sheppard, Vice-Chair, Trees
   and Forests Advisory Committee, with respect to this matter.
 
-# 19.&nbsp;&nbsp;&nbsp;5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation: 

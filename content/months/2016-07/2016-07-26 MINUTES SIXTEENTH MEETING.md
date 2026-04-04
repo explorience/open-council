@@ -18,7 +18,6 @@ July 26, 2016, at  4:03 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor S. Turner discloses a pecuniary
@@ -79,7 +78,6 @@ Motion Passed
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Great Near-Campus
   Neighbourhoods Strategy Review (OZ-8610) (Relates to Bill No. 270 and Bill
   No. 294)
 
@@ -166,12 +164,9 @@ Motion Passed
 
 ****
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor P. Hubert
@@ -337,10 +332,8 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN CLOSED SESSION
   (CONTINUED)
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTHTEENTH MEETING HELD ON JUNE 23, 2016
 
 > Moved by Councillor B. Armstrong
@@ -375,7 +368,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor P. Hubert
@@ -415,32 +407,22 @@ Motion Passed
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;RPF 16-27 Smart City Strategy
 
-# 3.&nbsp;&nbsp;&nbsp;London Community Grants Program Multi-Year
   Funding Allocations (2017-2019)
 
-# 4.&nbsp;&nbsp;&nbsp;2016 Annual Community Survey
 
-# 5.&nbsp;&nbsp;&nbsp;Housing Development Corporation, London –
   Number and Composition of Director for the Corporation
 
-# 6.&nbsp;&nbsp;&nbsp;Housing Development Corporation London –
   2015 Annual Meeting of the Shareholder Annual Resolutions
 
-# 7.&nbsp;&nbsp;&nbsp;Request for Delegation at the August 29,
   2016 Strategic Priorities and Policy Committee Meeting – London Police
   Services Board
 
-# 8.&nbsp;&nbsp;&nbsp;Consideration of Appointment to the London
   & Middlesex Housing Corporation
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Helmer
 
@@ -448,17 +430,13 @@ Approve clauses 1 to 19, excluding clauses 10 and 18.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Municipal Council Resolution Adopted at its
   Meeting Held on June 23, 2016 with Respect to the Appointment of a Deputy
   Mayor
 
-# 11.&nbsp;&nbsp;&nbsp;Consideration of Appointment to the
   Middlesex London Food Policy Council
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the Corporate Services
   Committee
 
-# 13.&nbsp;&nbsp;&nbsp;Potential Policy for Addressing Temporary
   Standing Committee Vacancies
 
 Motion Passed
@@ -484,7 +462,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Vehicle for Hire
   By-law - Proposed Regulations
 
 That the following actions be
@@ -728,7 +705,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Informal Residential Care Facility
   Licensing By-law
 
 That on the recommendation of the Managing
@@ -776,7 +752,6 @@ Approve clauses 1 to 11, inclusive.
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Thames Valley
   Parkway North Branch Connection Class Environmental Assessment
 
 That, on the recommendation of the Managing
@@ -871,13 +846,11 @@ Approve clause 16.
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the July 2016 Deferred Matters List
   for the Community and Protective Services Committee (CPSC) BE RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Annual Meeting Calendar
 
 > Moved by Councillor A. Hopkins
 
@@ -911,7 +884,6 @@ Motion Passed
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;The Charter for
   Inclusive Communities
 
 That the attached Charter for
@@ -919,7 +891,6 @@ That the attached Charter for
   everyone, in order to promote inclusive, just and respectful communities in
   Canada, BE ADOPTED by London Municipal Council.  (2016-S15)
 
-# 14.&nbsp;&nbsp;&nbsp;6th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -965,13 +936,11 @@ B)        the
 b)         clauses 1, 2 and 4 – 13 BE
   RECEIVED.
 
-# 20.&nbsp;&nbsp;&nbsp;7th Report of the
   London Housing Advisory Committee
 
 That the 7th Report of the London Housing
   Advisory Committee, from its meeting held on July 13, 2016 BE RECEIVED.
 
-# 23.&nbsp;&nbsp;&nbsp;6th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -1046,7 +1015,6 @@ Motion Passed
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Byron Gravel Pits
   Secondary Plan
 
 That, the following actions be taken with
@@ -1095,7 +1063,6 @@ Motion Passed
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Sign and Canopy
   By-law
 
 That the Civic Administration BE DIRECTED
@@ -1134,15 +1101,11 @@ Approve Clauses 1 to 20, excluding clauses 3, 5, 11, 15 and 17.
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1335,7 +1298,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

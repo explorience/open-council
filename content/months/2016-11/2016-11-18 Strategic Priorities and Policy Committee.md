@@ -15,13 +15,11 @@ November 18, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, K. Dawtrey, N. Hall, M. Hayward, V. McAlea Major, D. Mounteer, D. O’Brien, A. Patis, R. Paynter, C. Saunders, S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Ontario Civilian Police Commission (OCPC) Process and Interactions between
   the London Police Services Board (LPSB) and the Chief Administrator's Office
   (CAO)

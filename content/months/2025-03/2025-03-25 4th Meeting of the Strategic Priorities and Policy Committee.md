@@ -17,11 +17,9 @@ March 25, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor E. Peloza was in remote attendance at 9:16 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -199,7 +197,6 @@ it being noted that Civic Administration has completed a significant portion of 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Integrity Commissioner's Annual Report - Resubmitted
 
@@ -314,7 +311,6 @@ d) the City Clerk BE AUTHORIZED to arrange for interim provision of Integrity Co
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Mobility Master Plan Mobility Networks Maps
 
@@ -1486,7 +1482,6 @@ it being noted the Strategic Priorities and Policy Committee received the follow
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Council Resourcing Review Task Force - Terms of Reference - City Clerk
 
@@ -1529,7 +1524,6 @@ d)   the memo from the City Clerk, dated March 25, 2025, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 > Moved by S. Trosow
 
@@ -1561,7 +1555,6 @@ That Strategic Priorities and Policy Committee convenes In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Hillier
 

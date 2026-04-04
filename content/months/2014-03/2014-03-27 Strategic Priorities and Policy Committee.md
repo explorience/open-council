@@ -15,7 +15,6 @@ March 27, 2014, at  3:43 PM
 > [!abstract]- Also Present:
 > A. Zuidema, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that

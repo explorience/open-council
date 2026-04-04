@@ -15,13 +15,11 @@ September 12, 2017, at 12:32 PM
 > [!abstract]- Also Present:
 > M. Cassidy, M. van Holst; B. Coxhead, A.L. Barbon, B. Card, H. Chapman, I. Collins, S. Corman, S. LaForge, J. Logan, S. Maguire, J. Raycroft, M. Ribera, C. Saunders, E. Soldo, S. Swance, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Proposed Election
   Sign By-law
 
 That
@@ -79,7 +77,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;By-law to Establish
   Tax Ratio for New Multi-Residential Property Class
 
 That, on the recommendation of the Managing
@@ -105,7 +102,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2016 Annual
   Reporting of Lease Financing Agreements
 
 That, on the recommendation of the Managing
@@ -128,7 +124,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Declare Surplus -
   39 Redwood Lane
 
 That, on the recommendation of the Managing

@@ -3,7 +3,6 @@ title: "2026-03-24 - Strategic Priorities and Policy Committee"
 date: 2026-03-24
 ---
 
-# 2026-03-24 - Strategic Priorities and Policy Committee
 
 > **Note:** Official minutes for this meeting have not yet been published. This page currently shows the meeting transcript only. Once official minutes are available, this page will be updated with full meeting details including agenda items, motions, and votes.
 

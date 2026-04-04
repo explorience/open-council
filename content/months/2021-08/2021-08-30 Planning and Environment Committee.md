@@ -20,13 +20,11 @@ August 30, 2021, at  4:00 PM
 
 The meeting was called to order at 4:10 PM, with Councillor P. Squire in the Chair, Councillors S. Lehman and S. Lewis present and all other Members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -164,7 +162,6 @@ b)  the revised as noted in part a) above, draft Masonville Secondary Plan BE C
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;6th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -294,7 +291,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;6th Report of the Trees and Forests Advisory Committee
 
@@ -378,7 +374,6 @@ d)  clauses 1.1, 2.1 and 2.2, inclusive, 3.1, 4.4 and 4.5, inclusive, BE RECEIV
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -404,7 +399,6 @@ That the Deputy City Manager, Planning and Economic Development, BE DIRECTED to 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:30 PM.
 

@@ -12,7 +12,6 @@ April 29, 2014, at  1:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Belch, J. Braam, C. Colvin, J. Freeman, M. Hayward, G.T. Hopcroft, J. Logan, V. McAlea Major, M. Ribera, A. Ripepi, J. Senese, J. Smout, J. Stanford, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
@@ -21,7 +20,6 @@ Recommendation:  That it BE NOTED that Councillor
   Questionnaire, by indicating that she has declared herself a candidate in
   that Election.
 
-# 2.&nbsp;&nbsp;&nbsp;City-Initiated
   Assessment Appeals
 
 Recommendation:  That, on the
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Vehicle Lease
   Agreement - Fleet Services and London Animal Care Centre
 
 Recommendation:  That, on the
@@ -95,7 +92,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2013 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
 Recommendation:  That, on the
@@ -121,7 +117,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Transfer of Donated
   Funds to Mayor's Sustainable Energy Council
 
 Recommendation:  That, on the
@@ -147,7 +142,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2014 Ontario
   Provincial General Election Candidate Questionnaire
 
 Recommendation:  That, on the
@@ -187,7 +181,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;London Hosting of
   Federation of Canadian Municipalities (FCM) 2015 Sustainable Communities
   Conference and Trade Show
 
@@ -216,7 +209,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appeal - Request
   for Tender 14-08: 2014 Infrastructure Lifecycle Renewal Program Contract #1,
   Simcoe Street and Henry Street
 
@@ -245,7 +237,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Required
   Expenditure for HVAC Unit – Covent Garden Market Corporation
 
 Recommendation:  That Covent Garden Market
@@ -270,7 +261,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment to the
   Animal Welfare Advisory Committee
 
 Recommendation:  That Kaylie MacIntosh BE
@@ -293,7 +283,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That Robert Barber, representative
@@ -317,7 +306,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Appointments to the
   Transportation Advisory Committee
 
 Recommendation:  That the following
@@ -347,7 +335,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That Joseph Nsabimana,
@@ -371,7 +358,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Cycling Advisory Committee
 
 Recommendation:  That the following
@@ -449,7 +435,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;ADDED - 2014
   Debenture Issue Update
 
 Recommendation:  That, on the
@@ -489,7 +474,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;ADDED - Ombudsman
   Ontario - Closed Meeting - Industrial Land Strategy
 
 Recommendation:  That the communication
@@ -514,7 +498,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;ADDED - Ombudsman
   Ontario - Closed Meeting - Fire Services
 
 Recommendation:  That the communication

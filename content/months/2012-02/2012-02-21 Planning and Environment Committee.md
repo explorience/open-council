@@ -15,9 +15,7 @@ February 21, 2012, at  1:22 PM
 > [!abstract]- Also Present:
 > J. Braam, D. Ailles, B. Krichker, J. Page, J. Ramsey
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2012-2016 Growth
   Management Implementation Strategy
 
 Recommendation:  That, on the

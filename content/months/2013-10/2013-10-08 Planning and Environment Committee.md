@@ -12,13 +12,11 @@ October 8, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, G. Barrett, J. Braam, P. Christiaans, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, G. Kotsifas, B. Krichker, A. MacLean, N. Musicco, N. Pasato, M. Ribera, C. Smith, M. Tomazincic, A.B. Watson, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor Polhill
   disclosed a pecuniary interest in clause 3 of this Report having to do with
   the Notice of Application by the City of London for the property located at
   613 Sovereign Road, by indicating that his business is in the circulation
   area for this Notice.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West (H-8230)
 
 Recommendation:  That, on the recommendation
@@ -54,7 +52,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   613 Sovereign Road (H-8234)
 
 Recommendation:  That, on the
@@ -84,7 +81,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1331 Hyde Park Road (H-8226)
 
 Recommendation:  That, on the
@@ -115,7 +111,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for August 2013
 
 Recommendation:  That the Building Division
@@ -139,7 +134,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Urban Growth
   Boundary Inclusion Requests (O-7938)
 
 Recommendation:  That, on the
@@ -167,7 +161,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
 Recommendation:  That, on the recommendation
@@ -193,7 +186,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:      That, the following
@@ -234,7 +226,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;3rd Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That, the following
@@ -292,7 +283,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   660 Sunningdale Road East   (39T-09501/OZ-7638)
 
 Recommendation:      That, on the
@@ -569,7 +559,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
 Recommendation:      That, on the recommendation
@@ -981,7 +970,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   3493 Colonel Talbot Road
 
 Recommendation:  That, the Civic
@@ -1032,7 +1020,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Planning and Environment Committee Meeting
   – October 29, 2013
 
 Recommendation:      That, the start time

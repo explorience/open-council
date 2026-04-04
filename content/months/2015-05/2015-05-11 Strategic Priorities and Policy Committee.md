@@ -15,7 +15,6 @@ May 11, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, G. Barrett, J. Braam, D. Bourin, P. Christiaans, B. Coxhead, S. Datars Bere, A. Dunbar, M. Feldberg, J.M. Fleming, K. Graham, S. Giustizia, A. Hagan, M. Hayward, L. Livingstone, V. McAlea Major, J.P. McGonigle, L. Palarchio, J. Senese, B. Westlake-Power, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -44,7 +43,6 @@ c)           
   employees of the Corporation, by indicating that he is the Executive Director
   of a social service agency that works with the union group.
 
-# 2.&nbsp;&nbsp;&nbsp;London Arts Council
   Agreement Renewal
 
 That, on the recommendation of the Director
@@ -116,7 +114,6 @@ Motion Failed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;City of London's
   Participation in Government Relations Networks
 
 That, on the recommendation of the
@@ -148,7 +145,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -281,7 +277,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation - 2014 Annual Meeting of the Shareholder-Annual
   Resolutions Update
 
@@ -328,7 +323,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2016-2019
   Multi-Year Budget
 
 That, on the recommendation of the Managing
@@ -405,7 +399,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2016 Growth
   Management Implementation Strategy (GMIS) Update
 
 That, on the recommendation of the Managing
@@ -507,7 +500,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Public Library Board
 
 That Councillor P. Squire BE APPOINTED to

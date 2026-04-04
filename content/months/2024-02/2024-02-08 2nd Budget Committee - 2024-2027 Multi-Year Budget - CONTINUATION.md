@@ -17,7 +17,6 @@ February 8, 2024, at  9:30 AM
 
 The meeting is called to order at 9:33 AM; it being noted that P. Van Meerbergen, and S. Hillier were in remote attendance.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Mayor's Budget
 
@@ -360,7 +359,6 @@ That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Proj
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by S. Stevenson
 
@@ -445,11 +443,9 @@ That the submission from London Police Services BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.2&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice
 
@@ -506,7 +502,6 @@ That Council convenes In Closed Session, from 1:58 PM to 2:12 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

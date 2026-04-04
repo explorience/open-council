@@ -12,10 +12,8 @@ May 30, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Hopkins, M. Salih, M. van Holst, G. Barrett, J. Bruin, C. Crossman, M. Davis, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, P. Kokkoros, J. MacKay, A. MacLean, A. MacPherson, L. Mottram, J. Ramsey, C. Saunders, C. Smith, S. Spring, M. Tomazincic, B. Turcotte, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Advisory Committee on the Environment
 
 That the 6th Report of the Advisory
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 120 Gideon Drive (H-8524)
 
 That, on the recommendation of the Managing
@@ -68,7 +65,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   905 Sarnia Road (39T-14501)
 
 That, on the recommendation of the Manager,
@@ -123,7 +119,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (39T-11503)
 
 That, on the recommendation of the Senior
@@ -166,7 +161,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1551 Blackwell Boulevard (H-8507)
 
 That, on the recommendation of the Manager,
@@ -196,7 +190,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for March 2016
 
 That the Building Division Monthly Report
@@ -219,7 +212,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -315,7 +307,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;6th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -372,7 +363,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1931 Jubilee Crescent (39T-16501/Z-8589)
 
 That, on the recommendation of the Planner
@@ -493,7 +483,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   4402 Colonel Talbot Road
 
 That, on the recommendation of the Managing
@@ -583,7 +572,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   5067 Cook Road
 
 That, on the recommendation of the Managing
@@ -665,7 +653,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;London Psychiatric
   Hospital Lands & South West Area Secondary Plans (O-8364/O-8370)
 
 That, on the recommendation of the Managing
@@ -789,7 +776,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   2397 Oxford Street West (Z-8608)
 
 That, on the recommendation of the Managing
@@ -867,7 +853,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Properties located
   at 551 and 555 Waterloo Street (Z-8599)
 
 That the following actions be taken with
@@ -957,7 +942,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 1733 Hamilton Road and 2046 Commissioners Road East (39T-15505/OZ-8555)
 
 That, on the recommendation of the Senior
@@ -1099,7 +1083,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Zoning By-law
   Amendment - Amplified Music on Patios
 
 That the Civic Administration BE DIRECTED
@@ -1126,7 +1109,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Bill 140
 
 That the communication received from Ben
   Lansink, 505 Colborne Street with respect to Bill 140 BE RECEIVED.  (2016-D09)

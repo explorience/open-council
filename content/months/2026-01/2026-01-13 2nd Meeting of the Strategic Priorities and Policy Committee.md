@@ -17,11 +17,9 @@ January 13, 2026, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors J. Pribil and E. Peloza were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East
 
@@ -129,11 +127,9 @@ a)    on the recommendation of the Deputy City Manager, Housing and Community 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Draft Economic Development Strategy Framework – Presentation
 
@@ -360,11 +356,9 @@ That the communication dated November 16, 2025 from S. Franke, Chair, London Tra
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by C. Rahman
 
@@ -403,7 +397,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

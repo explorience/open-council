@@ -15,7 +15,6 @@ July 31, 2017, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer; T. Copeland, D. Gibson, S. MacDonald, S. Madur, S. Mathers, A. Rammeloo, M. Ribera, L. Rowe, K. Scherr, E. Soldo, A. Sones, J. Stanford, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley
@@ -23,7 +22,6 @@ That it BE NOTED that Councillor V. Ridley
   Ontario Power Generation's proposed nuclear waste repository by indicating that
   she owns property in the area.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Department of Fisheries and Oceans Canada Habitat Banking Arrangement
 
 That, on the recommendation of the Managing
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Elgin Middlesex Pumping Station Pump Upgrades -  Project Increase in
   Engineering Fees
 
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   38-16 Forbes Street Development Agreement Claimable Works
 
 That, on the recommendation of the Managing
@@ -130,7 +126,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Corporate Energy Management Program Update
 
 That, on the recommendation of the Managing
@@ -155,7 +150,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -179,7 +173,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Changes to the
   Wastewater and Stormwater By-Law WM-28
 
 That, on the recommendation of the Managing
@@ -240,7 +233,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   F. Fernandez - Ontario Power Generation's Proposed Nuclear Waste Repository
 
 That the Mayor BE AUTHORIZED to issue a
@@ -266,7 +258,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;8th Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -316,7 +307,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Notification Process - Tree Planting on City-Owned Property
 
 That the Civic Administration BE DIRECTED
@@ -342,7 +332,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
@@ -363,7 +352,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR ENQUIRY – B. Armstrong -
   Garbage Bins in Condominiums and Town House Units
 
 That it BE NOTED that Councillor B. Armstrong
@@ -371,7 +359,6 @@ That it BE NOTED that Councillor B. Armstrong
   house units; it being noted that the Civic Administration advised that the
   City of London is continuing to work with these properties on this issue.
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR ENQUIRY – B. Armstrong -
   CN/CP Rail
 
 That it BE NOTED that Councillor B.
@@ -380,7 +367,6 @@ That it BE NOTED that Councillor B.
   Administration advised that initial meetings have been set for the purpose of
   discussing this matter.
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR ENQUIRY – V. Ridley –
   Pedestrian Safety
 
 That it BE NOTED that Councillor V. Ridley

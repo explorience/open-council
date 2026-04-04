@@ -15,13 +15,11 @@ November 21, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, J. Zaifman; T. Copeland, D. Dobson, A. Drost, A. Dunbar, J. Gauld, D. MacRae, S. Maguire, S. Mathers, M. Ribera, A. Rozentals, K. Scherr, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Parking Ticket
   Online Payment Module (TOPS)
 
 That, on the recommendation of the Managing
@@ -63,7 +61,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -89,7 +86,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Downtown Infrastructure
   Construction Project Coordination
 
 That, on the recommendation of the Managing
@@ -115,7 +111,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Hydro One Grant For
   Tree Planting
 
 That the following actions be taken with
@@ -153,7 +148,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Commissioners Road
   West Realignment Environmental Assessment Update
 
 That, on the recommendation of the Managing
@@ -179,7 +173,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Pollution
   Prevention and Control Plan Update
 
 That, on the recommendation of the Managing
@@ -204,7 +197,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Leak Logger Network
   for the Water Distribution System
 
 That, on the recommendation of the Managing
@@ -255,7 +247,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Phase 1
   Implementation of Cityworks CMMS Solution for Water Sanitary and Stormwater
   Infrastructure - Service Agreement
 
@@ -308,7 +299,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Wastewater System
   Improvements Summary
 
 That, on the recommendation of the Managing
@@ -334,7 +324,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Supply and
   Installation of an Inductively Coupled Plasma Optical Emission
   Spectrophotometer
 
@@ -382,7 +371,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Amendment to the
   Waste Discharge By-law WM-16
 
 That, on the recommendation of the Managing
@@ -409,7 +397,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;9th Report of the
   Transportation Advisory Committee
 
 That the 9th Report of the Transportation
@@ -432,7 +419,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;8th Report of the
   Rapid Transit Implementation Working Group
 
 That the 8th Report of the Rapid Transit
@@ -456,7 +442,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Safer School Zones
   Act
 
 That, on the recommendation of the Managing
@@ -486,7 +471,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Notification of
   Maintenance Activities
 
 That the Civic Administration BE DIRECTED
@@ -514,7 +498,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Water Restrictions
 
 That
   the communication from Councillor M. van Holst, with respect to water
@@ -536,7 +519,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;10th Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -568,7 +550,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Deferred Matters List for the

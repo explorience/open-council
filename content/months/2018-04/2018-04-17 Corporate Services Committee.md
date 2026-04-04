@@ -20,11 +20,9 @@ April 17, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Morgan
 
@@ -206,11 +204,9 @@ it being noted that the reported year-end surplus is subject to the financial st
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by J. Zaifman
 
@@ -322,11 +318,9 @@ That the Sunfest Shade Garden, to be held on July 5, 2018 to July 8, 2018, as pa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Land Acquisition/Disposition/Solicitor-Client Privileged Advice
 
@@ -342,7 +336,6 @@ The Corporate Services Committee convened in camera from 1:18 PM to 1:25 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:26 PM.
 

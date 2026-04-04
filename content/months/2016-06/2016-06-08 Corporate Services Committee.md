@@ -15,13 +15,11 @@ June 8, 2016, at 12:05 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, L. Burgess, C. Campbell (Tourism London), M. Daley, K. Dawtrey, A. Hagan, M. Hayward, J. Logan, V. McAlea Major, C. Parker, M. Ribera, C. Saunders, C. Smith
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Corporate Asset
   Management System Acquisition - Assetic Canada Holdings
 
 That, on the recommendation of the Managing
@@ -71,7 +69,6 @@ That, on the recommendation of the Managing
   for the properties as set out in Schedule “A” attached to the staff report
   dated June 8, 2016.
 
-# 4.&nbsp;&nbsp;&nbsp;Appointments to the
   Animal Welfare Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -126,7 +123,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the London Housing Advisory Committee
 
 That the following BE APPOINTED as Voting
@@ -217,7 +213,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;ADDED - Picaro
   Enterprises Inc. - Request for Designation as a Municipally Significant Event
 
 That the Grape Leaf Wine Garden, to be held

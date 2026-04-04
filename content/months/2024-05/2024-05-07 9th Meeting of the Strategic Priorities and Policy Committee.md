@@ -17,11 +17,9 @@ May 7, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -136,7 +134,6 @@ That G. Gardner, Director, Gardner Galleries and A. Tsiga, Director, The Fix Inc
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Presentation - Ward Boundary Review - Watson & Associates Economist Ltd.
 
@@ -171,7 +168,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received a p
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
 
@@ -296,7 +292,6 @@ The Committee recesses at 4:00 PM and reconvenes at 4:11 PM
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Implementation of a Fare Free Day - Councillor S. Franke
 
@@ -537,11 +532,9 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

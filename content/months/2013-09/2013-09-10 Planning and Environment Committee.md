@@ -12,10 +12,8 @@ September 10, 2013, at  4:03 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, G. Barrett, J. Braam, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, A. MacLean, L. Maitland, L. Mottram, M. Ribera, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 2290 Torrey Pines Way and 159-285 Castlehill Close (H-8177)
 
 Recommendation:  That, on the
@@ -51,7 +49,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West (H-8084)
 
 Recommendation:  That, on the
@@ -84,7 +81,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   275 Callaway Road (H-8217)
 
 Recommendation:  That, on the
@@ -117,7 +113,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1300 Fanshawe Park Road East - Extension to Draft Plan of Subdivision
   Approval (39T-04512)
 
@@ -163,7 +158,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Lands located West
   of Meadowgate Boulevard and East of Highbury Avenue South - Extension of
   Draft Approval (39T-92020-D)
 
@@ -206,7 +200,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   940 Springbank Drive
 
 Recommendation:  That, on the
@@ -234,7 +227,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for July 2013
 
 Recommendation:  That the Building Division
@@ -258,7 +250,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1140 Southdale Road West
 
 Recommendation:  That, on the
@@ -299,7 +290,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;City-Wide Official
   Plan/Zoning By-law Review - City of London (OZ-7783)
 
 Recommendation:  That, on the
@@ -366,7 +356,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1603 Hamilton Road (39T-09502)
 
 Recommendation:  That, on the
@@ -513,7 +502,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   450 Oxford Street West (OZ-8003)
 
 Recommendation:  That, the following

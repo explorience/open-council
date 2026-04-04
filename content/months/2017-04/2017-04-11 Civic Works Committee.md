@@ -12,13 +12,11 @@ April 11, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, J. Morgan; U. DeCandido, A. Dunbar, O. Katolyk, J. Lucas, D. MacRae, S. Maguire, M. Ribera, L. Rowe, K. Scherr, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-20 - 2017 Infrastructure Renewal Program -
   Balmoral Avenue, Brant Street and Durham Street Reconstruction Project
 
@@ -83,7 +81,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -151,7 +148,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Price Increase: Tender No. T16-21 - Infrastructure Renewal Program
   Contract 4 - McCormick Area Reconstruction
 
@@ -195,7 +191,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Extension: Tender 14-116 -  Supply and Installation of Sewer Lines -
   Cured in Place Pipe (CIPP)
 
@@ -240,7 +235,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2019
   Transportation Development Charge Background Study -  Appointment of
   Consulting Engineer
 
@@ -288,7 +282,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Annual and Summary Report for the Lake Huron and Elgin Area Primary Water
   Supply Systems, and Elgin-Middlesex Pumping Station
 
@@ -314,7 +307,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Execution of Contribution Amending Agreements with the Government of Ontario
   for the Help Clean Water Initiative
 
@@ -346,7 +338,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF DELEGATION -
   B. Nourse, Environmental Service Engineer - 2016 Renew London Infrastructure
   Post Construction Overview Report
 
@@ -373,7 +364,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;(ADDED) REQUEST FOR
   DELEGATION STATUS - M. Luce - Idling Control By-law
 
 That it BE NOTED that the Civic Works
@@ -436,7 +426,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
@@ -459,7 +448,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) DELEGATION
   - A. Stratton - 4th Report of the Transportation Advisory Committee
 
 That the 4th Report of the Transportation
@@ -484,13 +472,11 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) ENQUIRY – Councillor B. Armstrong
 
 That it BE NOTED that Councillor B.
   Armstrong enquired about what authority the City has to require drive-through
   establishments to provide garbage receptacles.
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) - Potential Program to Downsize
   Water Meters
 
 That the Civic Administration BE REQUESTED

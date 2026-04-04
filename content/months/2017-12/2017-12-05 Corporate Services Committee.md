@@ -12,7 +12,6 @@ December 5, 2017, at 12:30 PM
 > [!abstract]- Also Present:
 > A. Hopkins, V. Ridley; M. Hayward, R. Armistead, A.L. Barbon, B. Card, I. Collins, B. Coxhead, D. Diegel, J. Edmunds, J. Freeman, M. Johnson, D. O’Brien, D. Popadic, C. Saunders, J. Smout, A. Thompson, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor P. Hubert
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor P. Hubert
   appointments to the Accessibility Advisory Committee, by indicating that he
   has a working relationship with one of the applicants.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2018
 
 That Councillor J. Morgan BE ELECTED Vice
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Asset Review: Class
   C - Major Venues, Non-Core Services and Assets
 
 That, on the recommendation of the Managing
@@ -107,7 +104,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Crowd Control
   Procedures at Meetings
 
 That, on the recommendation of the Managing
@@ -133,7 +129,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Canada 150
   Community Infrastructure Program - Amending Agreements
 
 That, on the recommendation of the Director
@@ -191,7 +186,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Understanding the
   City's Procurement Process and Practices
 
 That, on the recommendation of the Managing
@@ -217,7 +211,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to the
   Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
   Ontario's Municipal Legislation Act, 2017
 
@@ -325,7 +318,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -394,7 +386,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Ontario Good Roads
   Association Campaign Expenses
 
 That Councillor V. Ridley BE REIMBURSED for
@@ -432,7 +423,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Council and
   Standing Committee Meetings - Daytime
 
 That the Governance Working Group BE
@@ -457,7 +447,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Cycling Advisory Committee
 
 That Rebecca Henderson BE APPOINTED as a
@@ -482,7 +471,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Accessibility Advisory Committee
 
 That the following individuals BE APPOINTED

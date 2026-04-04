@@ -17,11 +17,9 @@ April 14, 2020, at 12:00 PM
 
 The meeting is called to order at 12:02 PM; it being noted that the following Members were in remote attendance: Councillors: J. Helmer, A. Hopkins, J. Morgan, M. van Holst and Mayor E. Holder.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -215,11 +213,9 @@ b)      for those property owners on preauthorized payment: August 31st, 2020
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by E. Holder
 
@@ -288,11 +284,9 @@ c)      Councillor A. Hopkins BE REIMBURSED up to $500 for campaign-related e
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:30 PM.
 

@@ -20,11 +20,9 @@ May 27, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Deputy Mayor S. Lewis and Councillors E. Peloza and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -101,7 +99,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -230,7 +227,6 @@ h)    that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors,
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Hydro Proposed Amendments to the Shareholder Declaration
 
@@ -370,15 +366,12 @@ d)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit appl
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

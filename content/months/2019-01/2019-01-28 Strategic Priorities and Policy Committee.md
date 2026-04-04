@@ -20,15 +20,12 @@ January 28, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies and Metrics 
 
@@ -69,11 +66,9 @@ That, on the recommendation of the City Manager, the staff report dated January
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Public Wi-Fi in Recreation Facilities
 
@@ -133,7 +128,6 @@ That a new strategy entitled “Improve Residents’ Satisfaction with winter ro
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Squire
 

@@ -15,10 +15,8 @@ April 9, 2013, at  1:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Barrett, G. Belch, J. Braam, A. Dunbar, J.M. Fleming, L. Green, L. Karlovcec, L. Livingstone, V. McAlea Major, D. Mounteer, L. Palarchio, J. Purser, C. Saunders, J. Senese, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Municipal Freedom
   of Information and Protection of Privacy Act - 2012 Annual
   Report
 
@@ -35,7 +33,6 @@ b)         Councillor
   communication earlier this year, BE REFERRED to the City Manager for
   discussion with Councillor Armstrong.
 
-# 3.&nbsp;&nbsp;&nbsp;Elected Officials
   and Appointed Citizen Members - 2013 Remuneration
 
 Recommendation:  That, on the
@@ -56,7 +53,6 @@ Recommendation:  That, on the
   officials and appointed citizen members will be no greater than the increase
   in the Computer Price Index, Ontario…”.
 
-# 4.&nbsp;&nbsp;&nbsp;2012 Operating
   Budget Status - Fourth Quarter Report
 
 Recommendation:  That, on the
@@ -149,7 +145,6 @@ Note: Subject to year end financial
   statement audit and adjustments related to the accounting for tangible
   capital assets (PSAB 3150).
 
-# 5.&nbsp;&nbsp;&nbsp;2012 Capital Budget
   Status - Fourth Quarter Report
 
 Recommendation:  That, on the
@@ -158,7 +153,6 @@ Recommendation:  That, on the
   regarding the 2012 Capital Budget Status, Fourth Quarter Report BE RECEIVED
   for information.
 
-# 6.&nbsp;&nbsp;&nbsp;295 Rectory Street
   - London
   Optimist Soccer Centre (BMO Centre) Building and Brownfield Site Remediation
   Update
@@ -170,7 +164,6 @@ Recommendation:  That, on the
   project RC2401-RINC, BE INCREASED by $200,000.00 as identified in the Sources
   of Financing Report as appended to the staff report dated April 9, 2013.
 
-# 7.&nbsp;&nbsp;&nbsp;Old East Village
   Business Improvement Area - 2013 Proposed Budget - Municipal Special Levy
 
 Recommendation:  That, on the
@@ -202,7 +195,6 @@ d)         the
   Council on April 16, 2013 with respect to municipal special levy for the Old
   East Village Business Improvement Area.
 
-# 8.&nbsp;&nbsp;&nbsp;Argyle Business
   Improvement Area - 2013 Proposed Budget - Municipal Special Levy
 
 Recommendation:  That on the recommendation
@@ -253,7 +245,6 @@ g)         the
   outstanding conditions associated with the grant provided by the City of
   London in 2012 prior to any further grant request considerations.
 
-# 9.&nbsp;&nbsp;&nbsp;London Downtown
   Business Association - 2013 Proposed Budget - Municipal Special Levy
 
 Recommendation:  That on the recommendation
@@ -283,7 +274,6 @@ d)         the
   Council on April 16, 2013 with respect to municipal special levy for the
   London Downtown Business Improvement Area.
 
-# 10.&nbsp;&nbsp;&nbsp;Tender No. 13-21 -
   Lease of Farm Land
 
 Recommendation:  That, on the
@@ -297,7 +287,6 @@ Recommendation:  That, on the
   the highest offers and meets the City’s terms, conditions and specifications
   in all areas.
 
-# 11.&nbsp;&nbsp;&nbsp;Federation of
   Canadian Municipalities Board of Directors Meeting - Prince George, B.C. -
   March 6-9, 2013
 
@@ -306,7 +295,6 @@ Recommendation: That the
   J.L. Baechler regarding the Federation of Canadian Municipalities Board of
   Directors meeting held on March 6-9, 2013 in Prince George, B.C. BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the
   Animal Welfare Advisory Committee
 
 Recommendation: That the following
@@ -318,7 +306,6 @@ Voting:
 
 Jennifer Fawcett-Cornish (Member- at-Large)
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation: That the following
@@ -331,7 +318,6 @@ Voting:
 Roderick Singh (Member-at-Large)
 Patricia Watson (Member-at-Large)
 
-# 14.&nbsp;&nbsp;&nbsp;Resignation of C.
   Costa from the London Diversity and Race Relations Advisory Committee
 
 Recommendation: That
@@ -341,7 +327,6 @@ Recommendation: That
   Ms. Costa BE THANKED for participating on the London Diversity and
   Race Relations Advisory Committee.
 
-# 15.&nbsp;&nbsp;&nbsp;Enquiry – Councillor J.P. Bryant – Status
   of Remediation Near Piccadilly Park
 
 Recommendation: That

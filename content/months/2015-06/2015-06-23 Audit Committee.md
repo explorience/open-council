@@ -15,13 +15,10 @@ June 23, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, J. Zaifman;, J.P. Barber, A.L. Barbon, J. Braam, K. den Bok (KMPG), D. Dobson, S. Gilfillan (PwC), M. Hayward, I. Jefferies (KPMG), K. Medinilla, C. Shah (PwC), S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Financial
   Audit
 
-# 3.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results
 
 (See Confidential Appendix to the 4th

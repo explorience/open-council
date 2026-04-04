@@ -12,13 +12,11 @@ February 21, 2017, at 12:01 PM
 > [!abstract]- Also Present:
 > P. Squire, M. van Holst; M. Hayward, B. Baar, G. Bailey, A.L. Barbon, G. Bridge, S. Chambers, B. Coxhead, A. DiCicco, A. Dunbar, J. Edmunds, J.M. Fleming, K. Graham, P. Kokkoros, V. McAlea Major, D. O’Brien, J. Senese, S. Spring, B. Turcotte, T. Wellhauser, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Annual Update on Budweiser Gardens
 
 That, on the recommendation of the Managing
@@ -67,7 +64,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Reserve Fund Housekeeping - Land Acquisition Reserve Fund
 
 That, on the recommendation of the Managing
@@ -96,7 +92,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Reserve Fund Housekeeping - Social Housing Major Repairs, Upgrades and
   Stabilization Reserve Fund
 
@@ -124,7 +119,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Sherwood Forest Public School Request for Proposals - Update and Next Steps
 
 That consideration of the staff report
@@ -150,7 +144,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -220,7 +213,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Lorne Avenue Public School Request for Proposals - Update and Next Steps
 
 That the following actions be taken with
@@ -409,7 +401,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for Designation of the London Taco Fest
 
 That the London Taco Fest, to be held
@@ -433,7 +424,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Length of Council and Standing Committee Meetings
 
 That the communication dated February 6,
@@ -458,7 +448,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Administrative Policies
 
 That
@@ -482,7 +471,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED - PUBLIC
   SUBMISSION - Ombudsman Report
 
 That the Ombudsman Report entitled
@@ -506,7 +494,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED – COUNCILLOR ENQUIRY – Extended
   Leaves of Absence
 
 That it BE NOTED that Councillor H.L. Usher

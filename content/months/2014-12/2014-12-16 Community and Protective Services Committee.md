@@ -12,13 +12,11 @@ December 16, 2014, at  7:19 PM
 > [!abstract]- Also Present:
 > J. Helmer, H.L. Usher, M. Van Holst, D. Baxter, B. Coxhead, S. Datars Bere, C. DeForest, P. D’Hollander, C. Dziedzic, J.M. Fleming, I. Gibb, S. Giustizia, M. Jeng, O. Katolyk, G. Kotsifas, T. Kyle, L. Livingstone, L. Loubert, A. Macpherson, L. Marshall, V. McAlea Major, D. O’Brien, S. Oldham, T. Pickles, J. Richardson, C. Smith, J. Smout, S. Spring, S. Stafford, L. Stevens, B. Westlake-Power, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair
 
 Recommendation:  That Councillor V. Ridley BE
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 10th Report of
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;7th Report of
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the 7th Report of the
@@ -90,7 +86,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;7th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the 7th Report of the
@@ -114,7 +109,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;1st Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -138,7 +132,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to
   Municipal Contribution Agreement Canada-Ontario New Affordable Housing
   Program (2003)
 
@@ -177,7 +170,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Veterinary Services
   (RFP 14-17)
 
 Recommendation:  That on the recommendation
@@ -218,7 +210,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2013 Emergency
   Management Program Update
 
 Recommendation:  That, on the
@@ -267,7 +258,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Single Source
   Procurement of Lifesaving and Literature
 
 Recommendation:  That, on the
@@ -308,7 +298,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Ontario's Volunteer
   Recognition Programs for 2015
 
 Recommendation:  That the communication
@@ -333,7 +322,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;General Orientation
   – Key Committee Matters
 
 Recommendation:  That the following orientation

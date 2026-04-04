@@ -18,7 +18,6 @@ March 2, 2017, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -28,12 +27,9 @@ Councillor P. Hubert discloses a pecuniary
   the Executive Director of a social service agency that is named in the
   report.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN CLOSED SESSION
   (CONTINUED)
 
 > Moved by Councillor M. van Holst
@@ -46,7 +42,6 @@ Approve that Council rise and go into
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON FEBRUARY 14, 2017.
 
 > Moved by Councillor A. Hopkins
@@ -80,7 +75,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. Cassidy
@@ -92,7 +86,6 @@ Approve receipt and referral of the
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor P. Hubert
   disclosed a pecuniary interest in clause 5 of this Report, having to do with
@@ -100,7 +93,6 @@ That it BE NOTED that Councillor P. Hubert
   Funded Organizations, by indicating that he is the Executive Director of a
   social service agency that is named in the report.
 
-# 2.&nbsp;&nbsp;&nbsp;Information Report on Civic Administration’s
   Approach for Addressing Council’s Recent Directions Regarding London’s
   Downtown
 
@@ -115,14 +107,12 @@ That, on the recommendation of the Managing
   Approach for Addressing Council’s Recent Directions Regarding London’s
   Downtown,” BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;2017 Assessment Growth Funding Allocation
 
 That, on the recommendation of the Managing
   Director, Corporate Services and City Treasurer, Chief Financial Officer
   & Acting City Manager, the 2017 Assessment Growth Funding Allocation
   Report BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;Council Policy Manual Review
 
 That, on the recommendation of the Managing
   Director, Corporate Services and City Treasurer, Chief Financial Officer
@@ -148,10 +138,8 @@ c)         any
   forward through the Standing Committee that has jurisdiction over the subject
   area of the policy.
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Salih
 
@@ -159,7 +147,6 @@ Approve clauses 1 to 21, excluding clauses 6, 8, 17 and 18.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No.17-06 - 2017 Infrastructure Renewal Program - Dundas Street
   Reconstruction Project
 
@@ -200,7 +187,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-T04)
 
-# 7.&nbsp;&nbsp;&nbsp;Wonderland Road
   Environmental Assessment - Southdale Road to Sarnia Road - Appointment of
   Consulting Engineer
 
@@ -231,7 +217,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-T04)
 
-# 9.&nbsp;&nbsp;&nbsp;One River Master
   Plan Environmental Assessment - Appointment of Engineering Consultants
 
 That, on the recommendation of the Managing
@@ -271,7 +256,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contracts or other
   documents, if required, to give effect to these recommendations.  (2017-E21)
 
-# 10.&nbsp;&nbsp;&nbsp;Forest City Road
   Race - Finish Line Request
 
 That, on the recommendation of the Managing
@@ -281,7 +265,6 @@ That, on the recommendation of the Managing
   line for the Forest City Road Races on the north side of Dufferin Street
   between Clarence Street and Wellington Street. (2017-P11)
 
-# 11.&nbsp;&nbsp;&nbsp;Contract Price
   Increase: Tender No. T09-50 - Southeast Pumping Station and Reservoir Project
   No. EW3614
 
@@ -312,7 +295,6 @@ d)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-E08)
 
-# 12.&nbsp;&nbsp;&nbsp;Update: Local
   Improvements Charges (LIC's) for Energy Efficiency (Conservation)
   Improvements
 
@@ -336,14 +318,12 @@ b)         the
   Corporation (i.e., “Green Bank”) and report back to the Civic Works Committee
   on the outcomes.  (2017-E17)
 
-# 13.&nbsp;&nbsp;&nbsp;Strategic Plan
   Process Variance
 
 That, on the recommendation of the City
   Manager, the staff report dated February 21, 2017, with respect to the
   Strategic Plan Progress Variance, BE RECEIVED for information.  (2017-C08)
 
-# 14.&nbsp;&nbsp;&nbsp;Transportation Energy
   Optimization Plan (TEOP) - Phase 2 Contract Award
 
 That on the recommendation of the Managing
@@ -373,7 +353,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-T01)
 
-# 15.&nbsp;&nbsp;&nbsp;Cedar Hollow
   Developments Limited - Application for Street Renaming - Cedarpark Crescent -
   East of Cedarhollow Boulevard (Relates to Bill No. 104)
 
@@ -386,7 +365,6 @@ That, on the recommendation of the Senior
   Crescent, lying east of Cedarhollow Boulevard, to Cedarpark Way, in the City
   of London”.  (2017-D29)
 
-# 16.&nbsp;&nbsp;&nbsp;Highway 401
   Improvements at Pond Mills Road and Veterans Memorial Parkway
 
 That, on the recommendation of the Managing
@@ -396,7 +374,6 @@ That, on the recommendation of the Managing
   Committee received a presentation from V. Nantais, Ministry of Transportation
   and T. Cross, Dillon Consulting with respect to this matter.  (2017-T04)
 
-# 19.&nbsp;&nbsp;&nbsp;Basement Flood
   Grant Program By-law
 
 That the Civic Administration BE DIRECTED
@@ -428,20 +405,17 @@ it being noted that the Civic Works
   Committee received the attached communication dated February 17, 2017,
   from Councillors V. Ridley and J. Helmer with respect to this matter.
 
-# 20.&nbsp;&nbsp;&nbsp;100In1Day London
 
 That the delegation request by N. St. John,
   Lead Organizer, 100In1Day London with respect to 100In1Day London BE APPROVED
   and scheduled for a future meeting of the Community and Protective Services
   Committee. (2017-M02)
 
-# 21.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the February 2017 Deferred Matters
   List for the Community and Protective Services Committee BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Request for Continuance of the Housing
   Development Corporation, London (HDC) Board Member V. Lui for a Second Term
 
 That on the recommendation of the Housing
@@ -512,7 +486,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. T16-117 Fox Hollow Stormwater Management Facility #3 (ES3020-FH3)
   and Trunk Sanitary Sewer (ES5236-16) Construction Phase 2
 
@@ -546,7 +519,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-E03)
 
-# 17.&nbsp;&nbsp;&nbsp;Oakridge Area New
   Sidewalks 2017 and 2018 - East Mile Road, Oban Crescent, West Mile Road,
   North Mile Road and Green Lane
 
@@ -643,7 +615,6 @@ Approve clauses 1 to 3, inclusive.
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -657,7 +628,6 @@ a)         items
 b)         the Deferred Matters List, as
   amended in a) above, BE RECEIVED.
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED REPORTS (Continued)
 
 > Moved by Councillor P. Hubert
 
@@ -708,7 +678,6 @@ Motion Passed
 
 ****
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor P. Hubert enquires as to a claim
   against the Corporation that has been reported to in the media.  Mr. G. Belch,
@@ -721,13 +690,10 @@ Councillor H.L. Usher enquires with respect
   Chief Human Resources Officer advises the Council that the positions are
   currently posted and the City will be reviewing the applications submitted.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -825,7 +791,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

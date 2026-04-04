@@ -12,10 +12,8 @@ September 24, 2013, at  4:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, G. Barrett, G. Belch, B. Bergsma, J. Bruin, M. Davis, J.M. Fleming, T. Grawey, G. Kotsifas, B. Krichker, A. MacLean, D. Menard, J. Page, L. Pompilii, M. Ribera, C. Saunders, C. Smith, E. Soldo, M. Tomazincic, B. Warner, A.B. Watson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Advisory Committee in the Environment
 
 Recommendation:  That the 8th Report of the
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1140 Southdale Road West (H-8220)
 
 Recommendation:  That, on the
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 3189, 3197 Jinnes Street and 3397 Jinnies Way (H-8214)
 
 Recommendation:  That, on the
@@ -103,7 +99,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located on
   the North Side of North Routledge Park West of Hyde Park Road (39T-78066)
 
 Recommendation:  That, on the
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 1311, 1363 and 1451 Wharncliffe Road South
 
 Recommendation:  That, on the
@@ -183,7 +177,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South
   (OZ-7072/OZ-7073)
 
@@ -229,7 +222,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Environmental
   Review Lands Study
 
 Recommendation:  That, on the
@@ -255,7 +247,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 611-619 Oxford Street East (O-8213)
 
 Recommendation:  That, on the
@@ -289,7 +280,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   699 Wonderland Road North (Z-8210)
 
 Recommendation:  That, on the
@@ -336,7 +326,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   2290 Torrey Pines Way (39CD-13510)
 
 Recommendation:  That, on the
@@ -372,7 +361,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1103 Adelaide Street North
 
 Recommendation:  That on the recommendation
@@ -676,7 +664,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;9th Report of the
   London Advisory Committee on Heritage and property located at 275 Thames Street
 
 Recommendation:  That, the following
@@ -790,7 +777,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
 Recommendation:  That, notwithstanding the
@@ -1088,7 +1074,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Stoney Creek Open
   Space System
 
 Recommendation:  That, the following

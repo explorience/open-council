@@ -12,13 +12,11 @@ October 10, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > M. van Holst, J. Zaifman; I. Abushehada, J. Adema, G. Barrett, M. Elmadhoon, J.M. Fleming, S. Galloway, N. Hall, G. Kotsifas, A. Macpherson, L. McDougall, H. McNeely, N. Pasato, M. Pease, L. Pompilii, D. Popadic, M. Ribera, C. Saunders, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Agriculture Advisory Committee
 
 That, the following actions be taken with
@@ -86,7 +84,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   Trees and Forests Advisory Committee
 
 That the 10th Report of the Trees and
@@ -110,7 +107,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 633, 635, 637, 645, 649, 651 and 655 Base Line Road East - Notice of
   Appeal to Ontario Municipal Board (OZ-8711)
 
@@ -139,7 +135,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   581 Ross Street - Notice of Appeal to the Ontario Municipal Board (Z-8695)
 
 That, on the recommendation of the Managing
@@ -167,7 +162,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Planning Services
   Work Program Update
 
 That, on the recommendation of the Managing
@@ -192,7 +186,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to
   Various Planning Related By-laws Pertaining to Delegation and Signing
   Authority
 
@@ -303,7 +296,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1835 Dundas Street (Z-8790)
 
 That, on the recommendation of the Managing
@@ -438,7 +430,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   4380 Castleton Road (Z-8769)
 
 That, on the recommendation of the Managing
@@ -568,7 +559,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Sandy Levin, Chair
   Environmental and Ecological Planning Advisory Committee re 9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
@@ -702,7 +692,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   6188 Colonel Talbot Road (Z-8795)
 
 That, on the recommendation of the Managing
@@ -815,7 +804,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 100, 335 and 353 Kellogg Lane, 1063, 1080, 1097, 1127 Dundas Street and
   1151 York Street (OZ-8794)
 
@@ -975,7 +963,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
 That, on the recommendation of the Senior
@@ -1114,7 +1101,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Small Agricultural Lot Creation for
   Microfarming Operations
 
 That the Agricultural Advisory Committee BE

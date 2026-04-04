@@ -18,7 +18,6 @@ May 17, 2016, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor M. van Holst discloses a
@@ -34,13 +33,10 @@ Councillor P. Squire discloses a pecuniary
   property located at 259 Sunningdale Road West, by indicating that he is a
   member of the Sunningdale Golf and Country Club.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
@@ -122,16 +118,13 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan -
   Semi-Annual Progress Report
 
 That, on the recommendation of the City
   Manager, the staff report dated May 16, 2016 regarding Semi-Annual Progress
   Report on Council’s Strategic Plan BE RECEIVED for information.
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN
   CAMERA (CONTINUED)
 
 MOTION FOR IN CAMERA SESSION
@@ -144,7 +137,6 @@ The Committee of the Whole rises at 9:10 PM
   and Council reconvenes in public session at 9:12 PM, with Mayor M. Brown in
   the Chair and all Members present except Councillor J. Zaifman.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON MAY 3, 2016
 
 > Moved by Councillor H.L. Usher
@@ -180,7 +172,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Armstrong
@@ -192,10 +183,8 @@ Approve receipt and referral of the following
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor P. Hubert
 
@@ -233,7 +222,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc. -
   2015 Annual Meeting of the Shareholder
 
 That the following actions be taken with
@@ -324,7 +312,6 @@ iii)           
   the Mayor and the City Clerk to execute the Shareholder Declaration attached
   to the Resolution of the Shareholder as Schedule “A”.
 
-# 4.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation (LMHC) - 2015 Annual Meeting of the Shareholder
 
 That the following actions be taken with
@@ -370,7 +357,6 @@ d)           
   the current delivery model and what changes, if any, might be in order, in
   advance of the Service Contract Renewal in 2017.
 
-# 8.&nbsp;&nbsp;&nbsp;Greater London
   International Airport Authority Nominees
 
 That the following individuals BE INVITED
@@ -401,7 +387,6 @@ it being noted that the applicants were
   shortlisted for interview in accordance with the attached
   ranked ballot.
 
-# 9.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Argyle Business Improvement Association Board of
   Management
 
@@ -410,7 +395,6 @@ That the resignation of Jeff Baggaley from
   and Adrienne Bennett, Branch Manager, RBC, BE APPOINTED to fill the vacancy
   created by the resignation of Mr. Baggaley.
 
-# 10.&nbsp;&nbsp;&nbsp;Tourism London Bid
   – 2018 Ontario Summer Games
 
 That the bid by Tourism London to host the
@@ -423,7 +407,6 @@ Approve clause 1.
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1880 Phillbrook Drive (OZ-8584) (Relates to Bill No. 187 and Bill No. 198)
 
 That, on the recommendation of the Managing
@@ -509,7 +492,6 @@ it being pointed out that at
   indicated on the attached public participation meeting record
   made oral submissions regarding this matter.    (2016-D09)
 
-# 12.&nbsp;&nbsp;&nbsp;5th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -534,7 +516,6 @@ b)        the
 c)         clauses 1 to 5, 7 and 9, BE
   RECEIVED.
 
-# 13.&nbsp;&nbsp;&nbsp;Green Roofs
 
 That the Civic Administration BE REQUESTED
   to report back at a future meeting of the Planning and Environment Committee
@@ -542,28 +523,24 @@ That the Civic Administration BE REQUESTED
   mechanism by which green roofs could be included in the calculation of
   required landscape open space.   (2016-E04)
 
-# 5.&nbsp;&nbsp;&nbsp;Interim Report to
   Council - 2016 Council Compensation Review Task Force
 
 That the communication dated April 20,
   2016, from Dan Ross, Chair, 2016 Council Compensation Review Task Force,
   providing an update with respect to the work of the Task Force, BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Notice of
   Application - London Police Service Board
 
 That the Notice of Application by the
   London Police Service Board, to the Ontario Civilian Police Commission, for a
   hearing arising out of the 2016 Multi-Year Budget process, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;A London for All -
   I. Mathyssen, MP
 
 That the communication dated April 25, 2016
   from I. Mathyssen, MP, London-Fanshawe, regarding “A London For All”, BE
   RECEIVED.
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
   (Continued)
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
@@ -947,12 +924,9 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor V. Ridley
@@ -1044,7 +1018,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -20,11 +20,9 @@ August 15, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors S. Stevenson and P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;City of London Community Grants Program Grassroots, Innovation and Capital Funding Allocations (2024)
 
@@ -129,11 +127,9 @@ b)   the secondary school pilot project BE DEFERRED to school years beginning S
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2023 Climate Emergency Action Plan Progress Report
 
@@ -175,7 +171,6 @@ it being noted that the Strategic Priorities and Policy Committee received a pre
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request for London Police Services Delegation - Councillor E. Peloza
 
@@ -213,7 +208,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Cuddy
 
@@ -255,7 +249,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 2:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

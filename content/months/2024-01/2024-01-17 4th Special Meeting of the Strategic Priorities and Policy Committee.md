@@ -17,11 +17,9 @@ January 17, 2024, at  9:00 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;1st Report of the City Manager Recruitment and Selection Committee
 
@@ -55,19 +53,15 @@ That the 1st Report of the City Manager Recruitment and Selection Committee from
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by C. Rahman
 
@@ -107,7 +101,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 9:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Trosow
 

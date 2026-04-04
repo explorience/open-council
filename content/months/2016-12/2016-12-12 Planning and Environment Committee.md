@@ -15,7 +15,6 @@ December 12, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > P. Hubert, M. van Holst; G. Bailey, G. Barrett, J.M. Fleming, S. Galloway, T. Grawey, A. Macpherson, D. MacRae, L. Maitland, L. Mottram, N. Pasato, J. Ramsay, C. Saunders, C. Smith, S. Spring, M. Tomazincic, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for term ending November 30, 2017
 
 That Councillor S. Turner BE ELECTED Vice
@@ -38,13 +37,11 @@ Motion
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 751 Fanshawe Park Road West
 
 That, on the recommendation of the Senior
@@ -86,7 +83,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Urban Agriculture Strategy - Terms of Reference
 
 That, on the recommendation of the Managing
@@ -110,7 +106,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Improvements to Public Engagement in the Planning Process
 
 That, on the recommendation of the Managing
@@ -136,7 +131,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Candidate Approval for the Urban Design Peer Review Panel
 
 That, on the recommendation of the Managing
@@ -166,7 +160,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 1448 Adelaide Street North
   (OZ-8684)
 
@@ -280,7 +273,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 138 Thompson Road (Z-8687)
 
 That, on the recommendation of the Managing
@@ -377,7 +369,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 801 Sarnia Road  
   (39CD-15516/Z-8549 )
 
@@ -544,7 +535,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING -  Property located at North Side of Bradley Avenue,
   East of Highbury Avenue (39T-92020/39T-92020-E)
 
@@ -656,7 +646,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;DELEGATION - 11th
   Report of the Trees and Forest Advisory Committee
 
 That, the following actions be taken with
@@ -695,7 +684,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 132, 146 and 184 Exeter Road 
   (39T-15501/Z-8470 )
 
@@ -983,7 +971,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -1016,7 +1003,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) STAFF
   REPORT - 165 Elmwood Avenue Former Normal School Transportation Review
 
 That, on the recommendation of the Managing
@@ -1051,7 +1037,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) CPR Right-of-Way Between the
   Heritage Sarnia Road Bridge and the Sarnia Road Railway Underpass
 
 The Civic Administration BE DIRECTED to

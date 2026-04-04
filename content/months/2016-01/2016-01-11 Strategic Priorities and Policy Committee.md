@@ -12,13 +12,11 @@ January 11, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Belch, J. Braam, K. Chambers, I. Collins, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, M. Hayward, G. Kotsifas, L. Livingstone, J. Lucas, V. McAlea Major, J.P. McGonigle, D. O’Brien, L. Palarchio, R. Paynter, M. Ribera, C. Saunders, J. Senese
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Outstanding London Ambassador Award Committee
 
 That the 1st Report of the Outstanding
@@ -46,7 +44,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Tabling of the 2016
   - 2019 Multi-Year Budget
 
 That the following actions be taken with
@@ -168,7 +165,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London's Community
   Economic Road Map - Economic Partnership Advisory Panel
 
 That Councillor T. Park BE APPOINTED to
@@ -200,7 +196,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Resignation from
   the Governance Working Group
 
 That the resignation of Councillor P.
@@ -230,7 +225,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Boards and
   Commissions Orientation - Discussion
 
 That the following actions be taken with
@@ -284,7 +278,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - Council
   Compensation Review Task Force
 
 That the City Clerk BE AUTHORIZED to bring
@@ -317,7 +310,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Confirmation of
   Revisions to the Budget Schedule
 
 That the following additional adjustments
@@ -358,7 +350,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Request to
   Refer to the January 28, 2016 Strategic Priorities and Policy Committee
   Meeting - Overview Report Pertaining to the Planning and Coordination of
   Various Projects within the Downtown Area

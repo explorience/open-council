@@ -12,13 +12,11 @@ May 9, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, M. van Holst; G. Barrett, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, P. Kokkoros, J. MacKay, A. MacLean, A. Macpherson, J. Ramsay, M. Ribera, C. Saunders, C. Smith, C.R. Smith, M. Tomazincic, B. Turcotte, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor P. Squire disclosed an
   interest in clause 10 of this Report having to do with the application by
   Sunningdale Golf and Country Club Limited, relating to the property located
   at 259 Sunningdale Road West, by indicating that he is a member of the
   Sunningdale Golf and Country Club Limited.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -64,7 +62,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Fibre Optic
   Connection Grant Pilot Program for Downtown London
 
 That, on the recommendation of the Managing
@@ -92,7 +89,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Shipping Containers
   and Trailers
 
 That, on the recommendation of the Managing
@@ -130,7 +126,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 776-802 Killarney Road
 
 That, on the recommendation of the Senior
@@ -173,7 +168,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   255 South Carriage Way (H-8577)
 
 That, on the recommendation of the Manager,
@@ -227,7 +221,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   3300 Castle Rock Place (H-8559)
 
 That, on the recommendation of the Senior
@@ -257,7 +250,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (Z-8587)
 
 That, on the recommendation of the Senior
@@ -342,7 +334,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   195 Dundas Street (TZ-8592)
 
 That, on the recommendation of the Managing
@@ -417,7 +408,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   259 Sunningdale Road West (OZ-8094)
 
 That, on the recommendation of the Senior
@@ -504,7 +494,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1880 Phillbrook Drive (OZ-8584)
 
 That, on the recommendation of the Managing
@@ -651,7 +640,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;5th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -696,7 +684,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Green Roofs
 
 That the Civic Administration BE REQUESTED
   to report back at a future meeting of the Planning and Environment Committee

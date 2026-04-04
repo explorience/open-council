@@ -12,7 +12,6 @@ November 18, 2013, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, I. Collins, M. Feldberg, J.M. Fleming, G. Gauld, M. Hayward, M. Henderson, G.T. Hopcroft, K. Lakhotia, P. Lupton, T. MacBeth, D. Mounteer, L. Palarchio, M. Ribera, C. Saunders, R. Sutton, B. Warner, R. Welker, B. Westlake-Power, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J.P.
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor J.P.
   by indicating that her spouse is on the faculty of the University of Western
   Ontario.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Water and
   Wastewater and Treatment Budgets and Forecasts
 
 a)           
@@ -192,7 +190,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Managing Director,
   Planning and City Planner - Industrial Land Development Strategy 2013 - 2023
 
 That, on the recommendation of the Managing
@@ -253,7 +250,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Appointment to the
   Covent Garden Market Board of Directors
 
 Recommendation:  That Brenda Telfer BE
@@ -328,7 +324,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment to the
   University of Western Ontario Board of Governors
 
 That
@@ -355,7 +350,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Standing Committee Appointments
 
 Recommendation:  That the membership of the
   Civic Works Committee for the term December 1, 2013 to November 30, 2014 BE

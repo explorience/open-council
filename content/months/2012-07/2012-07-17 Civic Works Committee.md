@@ -15,10 +15,8 @@ July 17, 2012, at  4:02 PM
 > [!abstract]- Also Present:
 > G. Belch, J. Braam, T. Copeland, D. Diegel, A. Dunbar, K. Grabowski, B. Krichker, J. Leunissen, J. Lucas, D. MacRae, S. Maguire, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Commemorative
   Street Naming Covent Market Place to Include London Knights Way
 
 Recommendation:  That, on the
@@ -41,7 +39,6 @@ c)         the
   naming conventions for commemorative streets and report back to the Civic
   Works Committee. (2012-D17-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -51,7 +48,6 @@ Recommendation:  That, on the
   held on July 24, 2012, for the purpose of amending the Traffic and Parking
   By-law (P.S. 111). (2012-S09-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Meadowlily Bridge
   (4-FB-02) Rehabilitation Schedule 'B' Environmental Assessment and Detailed
   Design and Gore Road Bridge (4-BR-15) Replacement Schedule 'B' Environmental
   Assessment
@@ -110,7 +106,6 @@ it being noted that additional annual
   Department Budget in 2013 and subsequent years is not anticipated as a result
   of these engineering assignments. (2012-A03-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Clare Bridge
   (4-BR-04) Replacement (Tender 12-43)
 
 Recommendation:  That, on the
@@ -147,7 +142,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-S08-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Oxford Street West
   and Westdel Bourne Intersection Improvements (Tender-12-72)
 
 Recommendation:  That, on the
@@ -188,7 +182,6 @@ f)         the
   other documents, if required, to give effect to these recommendations.
   (2012-S07-00)
 
-# 7.&nbsp;&nbsp;&nbsp;West Brough's Bridge
   (2-BR-02) Rehabilitation Detailed Design and Tendering
 
 Recommendation:  That, on the
@@ -227,7 +220,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-A03-00)
 
-# 8.&nbsp;&nbsp;&nbsp;2012 Pavement
   Preservation Project - Rout and Seal (Tender 12-79)
 
 Recommendation:  That, on the recommendation
@@ -266,7 +258,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-S08-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Innovation Park
   Industrial Subdivision - Phase 2 and 4 Site Grading (Tender 12-80) (ID1168)
 
 Recommendation:  That, on the
@@ -314,7 +305,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-D26-01)
 
-# 10.&nbsp;&nbsp;&nbsp;Rate Structure
   Review - Water, Sanitary and Storm Drainage Charges
 
 Recommendation:  That, on the
@@ -354,7 +344,6 @@ it being noted that the Civic Works
   Director, Planning, Environmental and Engineering Services and City Engineer,
   with respect to this matter. (2012-W10-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Pall Mall Sewershed
   Modeling Study
 
 Recommendation:  That, on the
@@ -390,7 +379,6 @@ d)         the
   other documents, if required, to give effect to these recommendations.
   (2012-A03-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Municipal Class
   Environmental Assessment Study for Tributary 'C' Storm/Drainage and
   Stormwater Management, Transportation and Sanitary Trunk Servicing
 
@@ -443,7 +431,6 @@ it being noted that the Civic Works
   delegation from P. Masschelein, Vice President, Neighbourhood Developments,
   Sifton Properties Limited, with respect to this matter.  (2012-W10-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Detailed Design of
   the Old Victoria SWM Facility No. 2 (ES3020-OV2)
 
 Recommendation:  That, on the
@@ -486,7 +473,6 @@ f)         the
   with respect to this matter, BE REFERRED to the City Clerk’s Office
   for file.  (2012-A03-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Textiles and Small
   Used Household Goods Drop Off at the Oxford and Clarke Road EnviroDepots
 
 Recommendation:  That, on the
@@ -515,7 +501,6 @@ d)         the
   a formal contract with Goodwill Industries, Ontario Great Lakes.
   (2012-W08-00)
 
-# 15.&nbsp;&nbsp;&nbsp;London Transit
   Commission Town Hall Meetings
 
 Recommendation:  That the communication
@@ -523,7 +508,6 @@ Recommendation:  That the communication
   Commission (LTC), with respect to the LTC town hall meetings, BE RECEIVED,
   for information. (2012-S10-00)
 
-# 16.&nbsp;&nbsp;&nbsp;Roehampton Avenue
   Parking Survey
 
 Recommendation:  That the following actions
@@ -544,7 +528,6 @@ it being noted that the Civic Works
   Committee heard a verbal delegation from Mr. D. Dietze, with respect to
   this matter. (2012-S04-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Bradley Avenue
   Underpass
 Tunnel
   Lighting
@@ -557,7 +540,6 @@ Recommendation:  That the Civic
   Exeter Road; it being noted that the CWC heard a verbal delegation from Mr.
   Fenton, with respect to this matter.  (2012-C06-00)
 
-# 18.&nbsp;&nbsp;&nbsp;Sewer Back-up – 25 Prince of
   Wales Gate
 
 Recommendation:  That NO ACTION BE TAKEN
@@ -566,7 +548,6 @@ Recommendation:  That NO ACTION BE TAKEN
   Committee heard a verbal delegation from Mr. Harkins, with respect to this
   matter.  (2012-W10-00)
 
-# 19.&nbsp;&nbsp;&nbsp;Review of Policies
   and Practices for Major City Projects
 
 Recommendation:  That the communication

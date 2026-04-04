@@ -14,11 +14,9 @@ November 13, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Hubert
 
@@ -136,7 +134,6 @@ c)             the City Clerk BE DIRECTED to report back to the Corp
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Community Recognition Program – Ontario Lottery Gaming Corporation
 
@@ -159,11 +156,9 @@ That the Community Recognition Program presentation from the  Ontario Lottery a
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -187,7 +182,6 @@ That the Corporate Services Committee Deferred Matters List, as of November 2018
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Morgan
 
@@ -217,7 +211,6 @@ The Corporate Services Committee convened in Closed Session from 1:30 PM to 1:39
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:39 PM.
 

@@ -15,10 +15,8 @@ November 26, 2015, at  5:02 PM
 > [!abstract]- Also Present:
 > G. Barrett, K. Dawtrey, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, M. Losee, J. MacKay, A. MacLean, A. Macpherson, L. Pompilii, J. Ramsay, M. Ribera, C. Saunders, M. Tomazincic, B. Warner, A-B. Watson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Draft McCormick
   Area Secondary Plan (OZ-7601)
 
 That, on the recommendation of the Managing
@@ -134,7 +132,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1156 Dundas Street (OZ-8489)
 
 That, on the recommendation of the Managing
@@ -271,7 +268,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Secondary Dwelling
   Units (OZ-8053)
 
 That, on the recommendation of the Managing

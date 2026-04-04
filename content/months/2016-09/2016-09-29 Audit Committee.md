@@ -15,7 +15,6 @@ September 29, 2016, at 11:09 AM
 > [!abstract]- Also Present:
 > A.L. Barbon, M. Hayward
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 (See

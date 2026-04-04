@@ -12,24 +12,20 @@ February 4, 2013, at  7:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, S. Orser, A. Circelli, I. Collins, P. Foto, K. Godin, L. Livingstone, N. Santos, P. Sauro, R. Sharpe, L. Stevens, J. Taylor, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Childcare Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Childcare Advisory Committee, from its meeting held on January 23, 2013, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the 1st Report of the
   London Diversity and Race Relations Advisory Committee, from its meeting held
   on January 17, 2013, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;1st Report of the
   Community and Crime Prevention Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -51,7 +47,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Housing Advisory Committee
 
 Recommendation:  That, the following
@@ -143,7 +138,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Ontario Works
   Decentralization
 
 Recommendation:  That, on the
